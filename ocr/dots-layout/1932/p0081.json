@@ -1,0 +1,41 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 81,
+ "seconds": 12.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [797, 528, 1564, 1311], \"category\": \"Title\", \"text\": \"SWEA\\nRijkes\\nRUYVA HÅED.\\nNåmliga\\nAfskrifter aff alle\\nRONA STENAR\\nsom in till thenna\\nTijden åro\\nsamkade vård-\\nne.\"}, {\"bbox\": [958, 1393, 1483, 1573], \"category\": \"Text\", \"text\": \"Huru the kunna låsas effter sin lydelse\\noch\\npå Latin v Ahydas.\"}, {\"bbox\": [1093, 1585, 1309, 1801], \"category\": \"Picture\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    797,
+    528,
+    1564,
+    1311
+   ],
+   "category": "Title",
+   "text": "SWEA\nRijkes\nRUYVA HÅED.\nNåmliga\nAfskrifter aff alle\nRONA STENAR\nsom in till thenna\nTijden åro\nsamkade vård-\nne."
+  },
+  {
+   "bbox": [
+    958,
+    1393,
+    1483,
+    1573
+   ],
+   "category": "Text",
+   "text": "Huru the kunna låsas effter sin lydelse\noch\npå Latin v Ahydas."
+  },
+  {
+   "bbox": [
+    1093,
+    1585,
+    1309,
+    1801
+   ],
+   "category": "Picture"
+  }
+ ]
+}

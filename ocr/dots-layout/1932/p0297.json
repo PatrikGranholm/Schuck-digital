@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 297,
+ "seconds": 33.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [986, 360, 1461, 405], \"category\": \"Section-header\", \"text\": \"Antikvitetsstudiets början\"}, {\"bbox\": [702, 429, 1746, 601], \"category\": \"Text\", \"text\": \"till hela det senare 1600-talets försök att ordna fornvården, och det är tydligt, att vi här hava uppslaget till det plakat, som regeringen den 28 november 1666 utfärdade — det första rörande fornvården, som över huvud utfärdats i något land:\"}, {\"bbox\": [604, 623, 1746, 706], \"category\": \"Text\", \"text\": \"Plakatet 1666 »Kongl: Mayst:⁸ Placat och Påbudh Om Gamble Monumenter och Antiquiteter.\"}, {\"bbox\": [698, 720, 1746, 1890], \"category\": \"Text\", \"text\": \"Wij Carl, medh Gudz Nådhe, Sweriges, Göthes och Wendes Konung och Arf-Förste, Stoor-Förste til Finland, Hertigh vthi Skåen, Estland, Liffland, Carelen, Bremen, Vehrden, Stetin-Pommern, Cassuben och Wenden, Förste til Rügen, Herre öfwer Ingermanland och Wiszmar; Så och Pfaltz-Grefwe widh Rhein i Beyern, til Gülich, Clewe och Bergen Hertigh, etc. Göre witterligit, allthenstund Wij medh stoort Miszhag förnimme, huruledes icke allenast the vhrgambla *Antiquiteter* qwarlefwor och efterdömen, som alt ifrån Hedendomen, vthaff framfarne Sweriges och Götha Konungars, sampt andre theras Förnämlige Mäns och Vndersåthares Mänlige Bedriffter, som för thetta öfwer heele Wårt Rijke, deels vthi stoore Borger, Skantzar och Steenkumbel, deels vthi Stoder och andre Stenar medh Runaskrifter ingraffne, deels vthi theras Griffter och Ättebacker vthi temmelig myckenheet bestådt hafwa, medh sådan wårdlööszheet och olofligit Sielffzwåld handteras, at the dageligen mehr och mehr förderfwade och vthödde blifwa; vthan och the *Monumenter* som både aff Konungar, Drottningar och Förstar, sampt andre Förnähme aff Ridderskapet och Clerkeriedt vthi Wåre Christne Kyrckior til theras Heder och åminnelse, hafwe warit lämbnade, alldeles förödas, och aff androm försåtheligen intagas och åwerkas, hwilket såmyckit mehra står til at ogilla och affwäria, som sådane *Monumenter* böre skattas ibland the ting, hwilke så aff sig sielff som för insticktelsen skull, från all wahnrycht och ohelgelse frij och försäkrade, jemwäl til Wåra Förfäders och heele Wårt Rijkes odödelige Beröm merckeligen ländande äre. Ty hafwe Wij aff then serdeeles nit Wij til föllie aff Wåre Förfäder Sweriges Konungar öfwer alt sådant billigt böre draga, så wäl til at offentligen betyga thet misznöye Wij til een slijk oreda, som ofwanbemelt är, fattat\"}, {\"bbox\": [702, 1915, 775, 1961], \"category\": \"Page-footer\", \"text\": \"264\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    986,
+    360,
+    1461,
+    405
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsstudiets början"
+  },
+  {
+   "bbox": [
+    702,
+    429,
+    1746,
+    601
+   ],
+   "category": "Text",
+   "text": "till hela det senare 1600-talets försök att ordna fornvården, och det är tydligt, att vi här hava uppslaget till det plakat, som regeringen den 28 november 1666 utfärdade — det första rörande fornvården, som över huvud utfärdats i något land:"
+  },
+  {
+   "bbox": [
+    604,
+    623,
+    1746,
+    706
+   ],
+   "category": "Text",
+   "text": "Plakatet 1666 »Kongl: Mayst:⁸ Placat och Påbudh Om Gamble Monumenter och Antiquiteter."
+  },
+  {
+   "bbox": [
+    698,
+    720,
+    1746,
+    1890
+   ],
+   "category": "Text",
+   "text": "Wij Carl, medh Gudz Nådhe, Sweriges, Göthes och Wendes Konung och Arf-Förste, Stoor-Förste til Finland, Hertigh vthi Skåen, Estland, Liffland, Carelen, Bremen, Vehrden, Stetin-Pommern, Cassuben och Wenden, Förste til Rügen, Herre öfwer Ingermanland och Wiszmar; Så och Pfaltz-Grefwe widh Rhein i Beyern, til Gülich, Clewe och Bergen Hertigh, etc. Göre witterligit, allthenstund Wij medh stoort Miszhag förnimme, huruledes icke allenast the vhrgambla *Antiquiteter* qwarlefwor och efterdömen, som alt ifrån Hedendomen, vthaff framfarne Sweriges och Götha Konungars, sampt andre theras Förnämlige Mäns och Vndersåthares Mänlige Bedriffter, som för thetta öfwer heele Wårt Rijke, deels vthi stoore Borger, Skantzar och Steenkumbel, deels vthi Stoder och andre Stenar medh Runaskrifter ingraffne, deels vthi theras Griffter och Ättebacker vthi temmelig myckenheet bestådt hafwa, medh sådan wårdlööszheet och olofligit Sielffzwåld handteras, at the dageligen mehr och mehr förderfwade och vthödde blifwa; vthan och the *Monumenter* som både aff Konungar, Drottningar och Förstar, sampt andre Förnähme aff Ridderskapet och Clerkeriedt vthi Wåre Christne Kyrckior til theras Heder och åminnelse, hafwe warit lämbnade, alldeles förödas, och aff androm försåtheligen intagas och åwerkas, hwilket såmyckit mehra står til at ogilla och affwäria, som sådane *Monumenter* böre skattas ibland the ting, hwilke så aff sig sielff som för insticktelsen skull, från all wahnrycht och ohelgelse frij och försäkrade, jemwäl til Wåra Förfäders och heele Wårt Rijkes odödelige Beröm merckeligen ländande äre. Ty hafwe Wij aff then serdeeles nit Wij til föllie aff Wåre Förfäder Sweriges Konungar öfwer alt sådant billigt böre draga, så wäl til at offentligen betyga thet misznöye Wij til een slijk oreda, som ofwanbemelt är, fattat"
+  },
+  {
+   "bbox": [
+    702,
+    1915,
+    775,
+    1961
+   ],
+   "category": "Page-footer",
+   "text": "264"
+  }
+ ]
+}

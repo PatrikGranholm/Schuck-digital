@@ -1,0 +1,31 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 66,
+ "seconds": 11.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [242, 423, 1121, 1856], \"category\": \"Picture\"}, {\"bbox\": [492, 1876, 876, 1907], \"category\": \"Caption\", \"text\": \"Runtavlan 1599 (starkt förminskad).\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    242,
+    423,
+    1121,
+    1856
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    492,
+    1876,
+    876,
+    1907
+   ],
+   "category": "Caption",
+   "text": "Runtavlan 1599 (starkt förminskad)."
+  }
+ ]
+}

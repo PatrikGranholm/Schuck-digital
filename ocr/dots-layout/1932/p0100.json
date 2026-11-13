@@ -1,0 +1,51 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 100,
+ "seconds": 15.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [415, 354, 933, 401], \"category\": \"Section-header\", \"text\": \"LALANDICA\"}, {\"bbox\": [403, 435, 1064, 1124], \"category\": \"Text\", \"text\": \"Os Rådr åuk Hildiur rifu Stin\\nHRIÞR INP HÍPINDR RÍPÐN HTH\\nOs Redus & Hildiurus erexerunt saxum\\nthånsi åfe Fröde frëndi sin Sun Jan\\nÞHRI. HPT. PRIÞI. PRHTI. HTH. HTH. HTH\\nhoc Frothoni cognato suo, Filio Jani\\nHan vas Höfding. Jan han vart daudr\\nH. DH. HPRHP. H. H. HIRPTINDR\\nHic erat Capitaneus JANus hic fuit mortuus\\nå Svidiaudu/ auk var Fyrsti. Frigga\\nHNDIÞINDP ÍP. DH. PDRHT. PRIPI\\nin Svethia & erat princeps. Frige\\nSiod ido allir vikingar\\nHPR. H. H. H. DIPRIH.\\nLoculo utuntur omnes piratæ.\"}, {\"bbox\": [503, 1193, 980, 1283], \"category\": \"Text\", \"text\": \"Hanc Lecluram confirmat Rictura,\\nfaciei muliebris & Crumenæ.\"}, {\"bbox\": [326, 1436, 951, 1941], \"category\": \"Picture\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    415,
+    354,
+    933,
+    401
+   ],
+   "category": "Section-header",
+   "text": "LALANDICA"
+  },
+  {
+   "bbox": [
+    403,
+    435,
+    1064,
+    1124
+   ],
+   "category": "Text",
+   "text": "Os Rådr åuk Hildiur rifu Stin\nHRIÞR INP HÍPINDR RÍPÐN HTH\nOs Redus & Hildiurus erexerunt saxum\nthånsi åfe Fröde frëndi sin Sun Jan\nÞHRI. HPT. PRIÞI. PRHTI. HTH. HTH. HTH\nhoc Frothoni cognato suo, Filio Jani\nHan vas Höfding. Jan han vart daudr\nH. DH. HPRHP. H. H. HIRPTINDR\nHic erat Capitaneus JANus hic fuit mortuus\nå Svidiaudu/ auk var Fyrsti. Frigga\nHNDIÞINDP ÍP. DH. PDRHT. PRIPI\nin Svethia & erat princeps. Frige\nSiod ido allir vikingar\nHPR. H. H. H. DIPRIH.\nLoculo utuntur omnes piratæ."
+  },
+  {
+   "bbox": [
+    503,
+    1193,
+    980,
+    1283
+   ],
+   "category": "Text",
+   "text": "Hanc Lecluram confirmat Rictura,\nfaciei muliebris & Crumenæ."
+  },
+  {
+   "bbox": [
+    326,
+    1436,
+    951,
+    1941
+   ],
+   "category": "Picture"
+  }
+ ]
+}

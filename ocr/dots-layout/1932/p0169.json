@@ -1,0 +1,122 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 169,
+ "seconds": 34.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [997, 362, 1471, 405], \"category\": \"Section-header\", \"text\": \"Antikvitetsstudiets början\"}, {\"bbox\": [714, 433, 1748, 558], \"category\": \"Text\", \"text\": \"stamma i första eller andra hand nr 3 och 4, från den andra nr 5 och de första trycken. Handskrifterna ge oss således intet säkert svar på frågan om året.\"}, {\"bbox\": [712, 557, 1750, 1302], \"category\": \"Text\", \"text\": \"Vi övergå till de samtida vittnesbörden. Även dessa stå emot varandra. Den 27 juli 1631 utfärdade ärkebiskop Kenicius ett tryckt patent (K. B. Sv. Saml. Före 1700, Arkeol.), i vilket refereras de fullmakter och den instruktion, som utfärdats den 20 maj 1630: »Hederlighe, Wyrdighe och Wällärde godhe Herrer och Män, Dn. Præpositi & Pastores vthi Vpland och Norlanden, Edher skal alla witterligit wara, at H. K. M. wår aller nådigeste Herre och Konung aff Konungzligh gunst och nådhe, medh synnerligh omwårdnat och godh affection, vthi alt thet, som på åtskilligt högt betänkt och lofwärdt sätt kan tiena och lända vårt käre Fädernesland til warande ähra och berömmelse, haffuer nådigast åhr Christi 1630 then 20 Maij, wällärde Dn. Martinum Aschaneum vthi Hammarby och Frestadh, såsom och W. Johan Hindrichson på Wårdsätra, medh Konungzligit Breff och Instruction förordnat och fulmechtigat, at wara Regni Antiquarij, och i befalning giffuit öffuer heela Rijket, granneligen medh all flijt vpsökia, anteckna och sambla alla lofliga gambla Monumenter, handlingar och skrifter, såsom Fädherneslandet kan bliffua illustrerat medh, Besynnerligen:\"}, {\"bbox\": [717, 1317, 1604, 1361], \"category\": \"List-item\", \"text\": \"1. Allehanda Runaskrifter, bådhe i böker och på stenar.\"}, {\"bbox\": [716, 1360, 1748, 1435], \"category\": \"List-item\", \"text\": \"2. Computorum Runicorum eller Rimstafwars varia artificia eller åtskilnat.\"}, {\"bbox\": [716, 1442, 1748, 1525], \"category\": \"List-item\", \"text\": \"3. Gambla Lagböker, Skråer, Recesser, Statuter, Privilegier och ordningar.\"}, {\"bbox\": [714, 1524, 1717, 1569], \"category\": \"List-item\", \"text\": \"4. Gambla krönikor, historier, dichter, Rune och kiämpewijsor.\"}, {\"bbox\": [716, 1567, 1748, 1651], \"category\": \"List-item\", \"text\": \"5. Gambla Breff och handlingar, ther vthaff man någon rättelse om Myntewärderingar, Adelslechter eller wapner etc. kan haffua.\"}, {\"bbox\": [716, 1649, 1313, 1692], \"category\": \"List-item\", \"text\": \"6. Gammalt mynt och Penningar etc.\"}, {\"bbox\": [712, 1712, 1748, 1883], \"category\": \"Text\", \"text\": \"Thet j wijdare af theres Instruction förnimma kunne, hwilket alt länder Fäderneslandet och wår nation til lofligh berömmelse, hwilket sedhan skal til sitt rätta bruuk vthi cronones och H. K. M. Reservet och Häffdebur leffuereras, förwaras och Rijkena til Nytto häffd pu-\"}, {\"bbox\": [716, 1908, 790, 1955], \"category\": \"Page-footer\", \"text\": \"136\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    997,
+    362,
+    1471,
+    405
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsstudiets början"
+  },
+  {
+   "bbox": [
+    714,
+    433,
+    1748,
+    558
+   ],
+   "category": "Text",
+   "text": "stamma i första eller andra hand nr 3 och 4, från den andra nr 5 och de första trycken. Handskrifterna ge oss således intet säkert svar på frågan om året."
+  },
+  {
+   "bbox": [
+    712,
+    557,
+    1750,
+    1302
+   ],
+   "category": "Text",
+   "text": "Vi övergå till de samtida vittnesbörden. Även dessa stå emot varandra. Den 27 juli 1631 utfärdade ärkebiskop Kenicius ett tryckt patent (K. B. Sv. Saml. Före 1700, Arkeol.), i vilket refereras de fullmakter och den instruktion, som utfärdats den 20 maj 1630: »Hederlighe, Wyrdighe och Wällärde godhe Herrer och Män, Dn. Præpositi & Pastores vthi Vpland och Norlanden, Edher skal alla witterligit wara, at H. K. M. wår aller nådigeste Herre och Konung aff Konungzligh gunst och nådhe, medh synnerligh omwårdnat och godh affection, vthi alt thet, som på åtskilligt högt betänkt och lofwärdt sätt kan tiena och lända vårt käre Fädernesland til warande ähra och berömmelse, haffuer nådigast åhr Christi 1630 then 20 Maij, wällärde Dn. Martinum Aschaneum vthi Hammarby och Frestadh, såsom och W. Johan Hindrichson på Wårdsätra, medh Konungzligit Breff och Instruction förordnat och fulmechtigat, at wara Regni Antiquarij, och i befalning giffuit öffuer heela Rijket, granneligen medh all flijt vpsökia, anteckna och sambla alla lofliga gambla Monumenter, handlingar och skrifter, såsom Fädherneslandet kan bliffua illustrerat medh, Besynnerligen:"
+  },
+  {
+   "bbox": [
+    717,
+    1317,
+    1604,
+    1361
+   ],
+   "category": "List-item",
+   "text": "1. Allehanda Runaskrifter, bådhe i böker och på stenar."
+  },
+  {
+   "bbox": [
+    716,
+    1360,
+    1748,
+    1435
+   ],
+   "category": "List-item",
+   "text": "2. Computorum Runicorum eller Rimstafwars varia artificia eller åtskilnat."
+  },
+  {
+   "bbox": [
+    716,
+    1442,
+    1748,
+    1525
+   ],
+   "category": "List-item",
+   "text": "3. Gambla Lagböker, Skråer, Recesser, Statuter, Privilegier och ordningar."
+  },
+  {
+   "bbox": [
+    714,
+    1524,
+    1717,
+    1569
+   ],
+   "category": "List-item",
+   "text": "4. Gambla krönikor, historier, dichter, Rune och kiämpewijsor."
+  },
+  {
+   "bbox": [
+    716,
+    1567,
+    1748,
+    1651
+   ],
+   "category": "List-item",
+   "text": "5. Gambla Breff och handlingar, ther vthaff man någon rättelse om Myntewärderingar, Adelslechter eller wapner etc. kan haffua."
+  },
+  {
+   "bbox": [
+    716,
+    1649,
+    1313,
+    1692
+   ],
+   "category": "List-item",
+   "text": "6. Gammalt mynt och Penningar etc."
+  },
+  {
+   "bbox": [
+    712,
+    1712,
+    1748,
+    1883
+   ],
+   "category": "Text",
+   "text": "Thet j wijdare af theres Instruction förnimma kunne, hwilket alt länder Fäderneslandet och wår nation til lofligh berömmelse, hwilket sedhan skal til sitt rätta bruuk vthi cronones och H. K. M. Reservet och Häffdebur leffuereras, förwaras och Rijkena til Nytto häffd pu-"
+  },
+  {
+   "bbox": [
+    716,
+    1908,
+    790,
+    1955
+   ],
+   "category": "Page-footer",
+   "text": "136"
+  }
+ ]
+}

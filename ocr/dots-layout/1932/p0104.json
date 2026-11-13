@@ -1,0 +1,142 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 104,
+ "seconds": 34.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [502, 361, 894, 397], \"category\": \"Section-header\", \"text\": \"Bureus och Messenius\"}, {\"bbox\": [177, 430, 1212, 765], \"category\": \"Text\", \"text\": \"Wormius en för denna tid ytterst samvetsgrann undersökning av själva stenen, och såsom resultat av denna undersökning gav han 1636 ut en särskild skrift, vilken sedermera inflöt i hans Monumenta (Lib. II, sid. 105 ff.). Stenen hör, såsom Wimmer framhållit, till de mera svårtolkade, vars vanskligheter kanske icke ens våra dagars språkforskning fullt övervunnit. Det var således ganska naturligt, att både Wormius och Bureus grundligt skulle misstaga sig. Jag meddelar först Wimmers läsning och översättning:\"}, {\"bbox\": [320, 777, 628, 820], \"category\": \"List-item\", \"text\": \"1) Auk skaiþ þaasi\"}, {\"bbox\": [320, 817, 887, 862], \"category\": \"List-item\", \"text\": \"2) þansi auk karþi hauk þansi auft\"}, {\"bbox\": [320, 860, 852, 903], \"category\": \"List-item\", \"text\": \"3) Raknhiltr sustir ulfs sati stain\"}, {\"bbox\": [320, 902, 852, 943], \"category\": \"List-item\", \"text\": \"4) Kunulf uar sin klamulan man\"}, {\"bbox\": [320, 941, 1047, 986], \"category\": \"List-item\", \"text\": \"5) [S]un nairbis fair uarþa nu futir þai batri\"}, {\"bbox\": [320, 984, 918, 1027], \"category\": \"List-item\", \"text\": \"6) Sa uarþi at rita is ailti stain þansi\"}, {\"bbox\": [320, 1027, 620, 1070], \"category\": \"List-item\", \"text\": \"7) iþa hiþan traki.\"}, {\"bbox\": [175, 1095, 1209, 1474], \"category\": \"Text\", \"text\": \"I denna ordning stå runraderna på stenen, men såsom Wimmer visat böra de läsas i en annan följd¹, nämligen 3, 2, 1, 4, 5, 6, 7, och han översätter: »Ragnhild, Ulfs syster, satte denna sten och gjorde denna hög och denna stensättning efter Gunulf, sin make, den väl-talige mannen, Närves son. Få varda nu födda bättre än han. — Han skall visserligen komma att umgälla sitt brott, som övar våld mot denna sten eller flyttar den härifrån.» Wormius insåg icke den ordning, i vilken de olika punkterna borde läsas, och av raderna är endast *en* i huvudsak riktigt läst och tolkad. Hans text lyder:\"}, {\"bbox\": [318, 1484, 968, 1769], \"category\": \"Text\", \"text\": \"Ine hidei Tregi\\nEug skeid doisi\\nDensi eug gerdi heug donsi einet\\nRafnhiltl sustur ulfs seti stein\\nKun Ulfvil sin klo mulenm\\nVidn eir Bisfeir verden ufuter don betri\\nSa verdie trite iseilti stein donsi.\"}, {\"bbox\": [175, 1796, 1210, 1892], \"category\": \"Footnote\", \"text\": \"¹ En svårighet vid tydningen är, att den översta raden med all sannolikhet är senare inhuggen, då den omgivande stensättningen kommit till. Ordet *Auft*, som hänför sig till *Kunulf*, har däri-genom kommit på orätt plats.\"}, {\"bbox\": [1159, 1927, 1203, 1965], \"category\": \"Page-footer\", \"text\": \"73\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    502,
+    361,
+    894,
+    397
+   ],
+   "category": "Section-header",
+   "text": "Bureus och Messenius"
+  },
+  {
+   "bbox": [
+    177,
+    430,
+    1212,
+    765
+   ],
+   "category": "Text",
+   "text": "Wormius en för denna tid ytterst samvetsgrann undersökning av själva stenen, och såsom resultat av denna undersökning gav han 1636 ut en särskild skrift, vilken sedermera inflöt i hans Monumenta (Lib. II, sid. 105 ff.). Stenen hör, såsom Wimmer framhållit, till de mera svårtolkade, vars vanskligheter kanske icke ens våra dagars språkforskning fullt övervunnit. Det var således ganska naturligt, att både Wormius och Bureus grundligt skulle misstaga sig. Jag meddelar först Wimmers läsning och översättning:"
+  },
+  {
+   "bbox": [
+    320,
+    777,
+    628,
+    820
+   ],
+   "category": "List-item",
+   "text": "1) Auk skaiþ þaasi"
+  },
+  {
+   "bbox": [
+    320,
+    817,
+    887,
+    862
+   ],
+   "category": "List-item",
+   "text": "2) þansi auk karþi hauk þansi auft"
+  },
+  {
+   "bbox": [
+    320,
+    860,
+    852,
+    903
+   ],
+   "category": "List-item",
+   "text": "3) Raknhiltr sustir ulfs sati stain"
+  },
+  {
+   "bbox": [
+    320,
+    902,
+    852,
+    943
+   ],
+   "category": "List-item",
+   "text": "4) Kunulf uar sin klamulan man"
+  },
+  {
+   "bbox": [
+    320,
+    941,
+    1047,
+    986
+   ],
+   "category": "List-item",
+   "text": "5) [S]un nairbis fair uarþa nu futir þai batri"
+  },
+  {
+   "bbox": [
+    320,
+    984,
+    918,
+    1027
+   ],
+   "category": "List-item",
+   "text": "6) Sa uarþi at rita is ailti stain þansi"
+  },
+  {
+   "bbox": [
+    320,
+    1027,
+    620,
+    1070
+   ],
+   "category": "List-item",
+   "text": "7) iþa hiþan traki."
+  },
+  {
+   "bbox": [
+    175,
+    1095,
+    1209,
+    1474
+   ],
+   "category": "Text",
+   "text": "I denna ordning stå runraderna på stenen, men såsom Wimmer visat böra de läsas i en annan följd¹, nämligen 3, 2, 1, 4, 5, 6, 7, och han översätter: »Ragnhild, Ulfs syster, satte denna sten och gjorde denna hög och denna stensättning efter Gunulf, sin make, den väl-talige mannen, Närves son. Få varda nu födda bättre än han. — Han skall visserligen komma att umgälla sitt brott, som övar våld mot denna sten eller flyttar den härifrån.» Wormius insåg icke den ordning, i vilken de olika punkterna borde läsas, och av raderna är endast *en* i huvudsak riktigt läst och tolkad. Hans text lyder:"
+  },
+  {
+   "bbox": [
+    318,
+    1484,
+    968,
+    1769
+   ],
+   "category": "Text",
+   "text": "Ine hidei Tregi\nEug skeid doisi\nDensi eug gerdi heug donsi einet\nRafnhiltl sustur ulfs seti stein\nKun Ulfvil sin klo mulenm\nVidn eir Bisfeir verden ufuter don betri\nSa verdie trite iseilti stein donsi."
+  },
+  {
+   "bbox": [
+    175,
+    1796,
+    1210,
+    1892
+   ],
+   "category": "Footnote",
+   "text": "¹ En svårighet vid tydningen är, att den översta raden med all sannolikhet är senare inhuggen, då den omgivande stensättningen kommit till. Ordet *Auft*, som hänför sig till *Kunulf*, har däri-genom kommit på orätt plats."
+  },
+  {
+   "bbox": [
+    1159,
+    1927,
+    1203,
+    1965
+   ],
+   "category": "Page-footer",
+   "text": "73"
+  }
+ ]
+}

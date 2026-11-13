@@ -1,0 +1,60 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 4,
+ "seconds": 11.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [0, 45, 1655, 2402], \"category\": \"Picture\"}, {\"bbox\": [707, 183, 1078, 208], \"category\": \"Text\", \"text\": \"SOTEBORGS LANTVÄSTERBORGSTÄNTIGE\"}, {\"bbox\": [698, 213, 1087, 302], \"category\": \"Picture\"}, {\"bbox\": [702, 312, 793, 343], \"category\": \"Text\", \"text\": \"14000\"}, {\"bbox\": [926, 312, 1087, 343], \"category\": \"Text\", \"text\": \"000491188\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    0,
+    45,
+    1655,
+    2402
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    707,
+    183,
+    1078,
+    208
+   ],
+   "category": "Text",
+   "text": "SOTEBORGS LANTVÄSTERBORGSTÄNTIGE"
+  },
+  {
+   "bbox": [
+    698,
+    213,
+    1087,
+    302
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    702,
+    312,
+    793,
+    343
+   ],
+   "category": "Text",
+   "text": "14000"
+  },
+  {
+   "bbox": [
+    926,
+    312,
+    1087,
+    343
+   ],
+   "category": "Text",
+   "text": "000491188"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 174,
+ "seconds": 34.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [457, 359, 900, 405], \"category\": \"Section-header\", \"text\": \"De första antikvarierna\"}, {\"bbox\": [158, 428, 1197, 675], \"category\": \"Text\", \"text\": \"2. Dernäst jcke alenasth alle calendaria, computos och runstafwar i hwadh form eller skippelser dhe wara kunne, afskrifwa eller sambla och dheras åthskildna vthleeta, vtan och förfahra, huru äganderne sielfwe dem förståå, deras nampn som der i kloka finnas, them till berömelse antächna, så och huru månge i hwar sochn äro fundne.\"}, {\"bbox\": [159, 675, 1197, 930], \"category\": \"Text\", \"text\": \"3. Vps[p]öria allehanda gamble laghböcker, såssom Wästgiötha laghen, Wästmanna och Sudermanna och Tijhäreds eller Smålandz laghen, och flere som än icke äro trychte, jemwäl och sådana som redha tryckte äro etc. Item allehanda skråeer och recesser, statuter, privilegier och ordningar, som kunna komma wår Kon. Hoofrätth till någon nytto häfd och rättelse.\"}, {\"bbox\": [161, 922, 1198, 1179], \"category\": \"Text\", \"text\": \"4. Sammaledhes allehanda krönikor och historier, vhrminnes sagur och dickter om drakar, lindormar, dwergar och resar. Item sagur om nampnkunnighe personer, gamble klöster, borger, konungasäter och städher, der af man kan hafwa någon rättelse, hwadh fordom warit hafwer, gamble kämpe och runewijsor, deres toner icke förgäta att vthspana.\"}, {\"bbox\": [163, 1168, 1198, 1302], \"category\": \"Text\", \"text\": \"5. Allehanda gamble bref ransaka, afskrifwa eller där vthttaga, som till rättelse tiänar, anten till mynte werderningar, adel, slechter eller wapner, och annat som till crönicko häfd tiäna kunde.\"}, {\"bbox\": [200, 1295, 1197, 1342], \"category\": \"Text\", \"text\": \"6. Allehanda gammalt mynt och penningar vpsporia och samka.\"}, {\"bbox\": [163, 1334, 1200, 1511], \"category\": \"Text\", \"text\": \"7. Allt sådant kan så wäl hoos åldrighe bönder och borgare och andre såsom och hoos adelen, präster, fougter och laghläsare vthfrågas, jemwäl i kyrkior och andra bibliotecher, så wäl i städerne som på landzbygden vthleetas.\"}, {\"bbox\": [163, 1502, 1203, 1877], \"category\": \"Text\", \"text\": \"8. Der som the framreesa kunna the grannelighen försporia och antächna landzens lägenheter, medh siögar salte och färske, elfwer, strömar och forsfall, berg, skogar och slät mark, besatt eller obesatt, huru widt huar ordt ligger ifrå den andra. Hwadh wägar där äro, om the kunna giöras, så att man kunde fara medh wagn eller kärro. Hwadan strömarna hafwa sitt vhrsprång, hwart vth the löpa, i siögar eller haf, om the kunna giöras bååtnyttighe eller navigabiles eller medh slysor förbättras, och hwadh nytto där mz kunde wara: Allt således observerat och stelt, att man kan där af hafwa godh\"}, {\"bbox\": [1131, 1913, 1197, 1948], \"category\": \"Page-footer\", \"text\": \"141\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    457,
+    359,
+    900,
+    405
+   ],
+   "category": "Section-header",
+   "text": "De första antikvarierna"
+  },
+  {
+   "bbox": [
+    158,
+    428,
+    1197,
+    675
+   ],
+   "category": "Text",
+   "text": "2. Dernäst jcke alenasth alle calendaria, computos och runstafwar i hwadh form eller skippelser dhe wara kunne, afskrifwa eller sambla och dheras åthskildna vthleeta, vtan och förfahra, huru äganderne sielfwe dem förståå, deras nampn som der i kloka finnas, them till berömelse antächna, så och huru månge i hwar sochn äro fundne."
+  },
+  {
+   "bbox": [
+    159,
+    675,
+    1197,
+    930
+   ],
+   "category": "Text",
+   "text": "3. Vps[p]öria allehanda gamble laghböcker, såssom Wästgiötha laghen, Wästmanna och Sudermanna och Tijhäreds eller Smålandz laghen, och flere som än icke äro trychte, jemwäl och sådana som redha tryckte äro etc. Item allehanda skråeer och recesser, statuter, privilegier och ordningar, som kunna komma wår Kon. Hoofrätth till någon nytto häfd och rättelse."
+  },
+  {
+   "bbox": [
+    161,
+    922,
+    1198,
+    1179
+   ],
+   "category": "Text",
+   "text": "4. Sammaledhes allehanda krönikor och historier, vhrminnes sagur och dickter om drakar, lindormar, dwergar och resar. Item sagur om nampnkunnighe personer, gamble klöster, borger, konungasäter och städher, der af man kan hafwa någon rättelse, hwadh fordom warit hafwer, gamble kämpe och runewijsor, deres toner icke förgäta att vthspana."
+  },
+  {
+   "bbox": [
+    163,
+    1168,
+    1198,
+    1302
+   ],
+   "category": "Text",
+   "text": "5. Allehanda gamble bref ransaka, afskrifwa eller där vthttaga, som till rättelse tiänar, anten till mynte werderningar, adel, slechter eller wapner, och annat som till crönicko häfd tiäna kunde."
+  },
+  {
+   "bbox": [
+    200,
+    1295,
+    1197,
+    1342
+   ],
+   "category": "Text",
+   "text": "6. Allehanda gammalt mynt och penningar vpsporia och samka."
+  },
+  {
+   "bbox": [
+    163,
+    1334,
+    1200,
+    1511
+   ],
+   "category": "Text",
+   "text": "7. Allt sådant kan så wäl hoos åldrighe bönder och borgare och andre såsom och hoos adelen, präster, fougter och laghläsare vthfrågas, jemwäl i kyrkior och andra bibliotecher, så wäl i städerne som på landzbygden vthleetas."
+  },
+  {
+   "bbox": [
+    163,
+    1502,
+    1203,
+    1877
+   ],
+   "category": "Text",
+   "text": "8. Der som the framreesa kunna the grannelighen försporia och antächna landzens lägenheter, medh siögar salte och färske, elfwer, strömar och forsfall, berg, skogar och slät mark, besatt eller obesatt, huru widt huar ordt ligger ifrå den andra. Hwadh wägar där äro, om the kunna giöras, så att man kunde fara medh wagn eller kärro. Hwadan strömarna hafwa sitt vhrsprång, hwart vth the löpa, i siögar eller haf, om the kunna giöras bååtnyttighe eller navigabiles eller medh slysor förbättras, och hwadh nytto där mz kunde wara: Allt således observerat och stelt, att man kan där af hafwa godh"
+  },
+  {
+   "bbox": [
+    1131,
+    1913,
+    1197,
+    1948
+   ],
+   "category": "Page-footer",
+   "text": "141"
+  }
+ ]
+}

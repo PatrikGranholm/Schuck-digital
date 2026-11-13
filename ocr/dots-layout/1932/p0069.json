@@ -1,0 +1,40 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 69,
+ "seconds": 11.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [778, 426, 1203, 1884], \"category\": \"Picture\"}, {\"bbox\": [1254, 426, 1675, 1884], \"category\": \"Picture\"}, {\"bbox\": [1056, 1910, 1395, 1943], \"category\": \"Page-footer\", \"text\": \"Sidopartierna i Runtavlan 1599.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    778,
+    426,
+    1203,
+    1884
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    1254,
+    426,
+    1675,
+    1884
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    1056,
+    1910,
+    1395,
+    1943
+   ],
+   "category": "Page-footer",
+   "text": "Sidopartierna i Runtavlan 1599."
+  }
+ ]
+}

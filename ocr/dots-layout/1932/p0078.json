@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 78,
+ "seconds": 45.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [497, 366, 891, 403], \"category\": \"Section-header\", \"text\": \"Bureus och Messenius\"}, {\"bbox\": [169, 435, 1212, 642], \"category\": \"Text\", \"text\": \"inverkan på den danska runforskningen. 1602 följde Bureus med de svenska underhandlarna, som vid Ulfsbäck sammanträffade med de danska, och därvid har han den 7 april antecknat: »Då förärade jag Danske sändebuden mijn Runa tafla». Denna kom då till Danmark och blev sedermera känd av Wormius.\"}, {\"bbox\": [173, 642, 1220, 1647], \"category\": \"Text\", \"text\": \"Emellertid fortsatte Bureus sina runforskningar, och 1602 hade han planerat ett stort arbete, som troligen var ämnat att omfatta alla av honom då tolkade svenska runinskrifter. Den 21 januari — skriver han — »lycktade iagh lib. I. Runicæ», och den 5 juni »drogh iagh til Stockholm til Försten at præsentera Indicem Biblicum et Monumenta Gotica».¹ Därmed dröjde dock till den 3 juli: »talade iagh medh principe om Morestenar och dedicerade honom Runahefden»: eller — som den latinska titeln var — Monumenta veterum Gothorum in patria».² Arbetet (i K. B. F. a. 10, 2) skulle bestå av fyra böcker: den första runstenar från Svealand, den andra runstenar från Götaland, den tredje »runæ mysticæ» (d. v. s. adalrunor) och den fjärde inskrifter på metallföremål. Planen blev emellertid då icke utförd, och boken blev aldrig tryckt, men att detta varit meningen, är tydligt både av dedikationen och av själva utstyrseln, och från 1600—1602 finnas två av Lampadius graverade runstenar (Liljegren 51, 436), som antagligen voro ämnade att ingå i arbetet; den ena av dem finnes också först inklistrad i boken. Det blott handskrivna och handritade exemplaret innehöll 1602 antagligen blott jämförelsevis få runstenar — förmodligen blott åtta à tio³ —, men kort därefter tyckes Bureus hava fått dedikationsexemplaret tillbaka av Karl IX och införde då i handskriften nya avteckningar icke blott från Uppland och Västmanland utan även från Närke, Värmland, Gästrikland, Hälsingland och Medelpad samt Västergötland, Östergötland och Småland — inalles 150 runinskrifter, de sista införda på 1640-talet; redan å\"}, {\"bbox\": [1220, 645, 1322, 676], \"category\": \"Text\", \"text\": \"Runahefd\"}, {\"bbox\": [179, 1650, 1218, 1715], \"category\": \"Footnote\", \"text\": \"¹ I själva boken står en — dock tydligen senare — anteckning: »præsenterat 1602 9 junij för F. N. hert. Carl Göst. s.»\"}, {\"bbox\": [179, 1711, 1219, 1838], \"category\": \"Footnote\", \"text\": \"² Den svenska titeln lyder: Runahäfd eller afritning och afmålning af en hop runastenar hvilka våra förfädher hava fordom latit utrita och vidh sijna Läghrestädher upresa så och kyrkeringer och annath slijkt, ther Runorne nu kunna finnas upå samt medh theras möjeligha och enfalligha uttolkning på Latijn och vår dagheliga Svensko.\"}, {\"bbox\": [179, 1830, 1218, 1897], \"category\": \"Footnote\", \"text\": \"³ Endast vid dessa har programmet genomförts: 1) runstenen, 2) inskriften återgiven med latinska bokstäver, 3) latinsk översättning, 4) nysvensk översättning.\"}, {\"bbox\": [1168, 1925, 1215, 1964], \"category\": \"Page-footer\", \"text\": \"59\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    497,
+    366,
+    891,
+    403
+   ],
+   "category": "Section-header",
+   "text": "Bureus och Messenius"
+  },
+  {
+   "bbox": [
+    169,
+    435,
+    1212,
+    642
+   ],
+   "category": "Text",
+   "text": "inverkan på den danska runforskningen. 1602 följde Bureus med de svenska underhandlarna, som vid Ulfsbäck sammanträffade med de danska, och därvid har han den 7 april antecknat: »Då förärade jag Danske sändebuden mijn Runa tafla». Denna kom då till Danmark och blev sedermera känd av Wormius."
+  },
+  {
+   "bbox": [
+    173,
+    642,
+    1220,
+    1647
+   ],
+   "category": "Text",
+   "text": "Emellertid fortsatte Bureus sina runforskningar, och 1602 hade han planerat ett stort arbete, som troligen var ämnat att omfatta alla av honom då tolkade svenska runinskrifter. Den 21 januari — skriver han — »lycktade iagh lib. I. Runicæ», och den 5 juni »drogh iagh til Stockholm til Försten at præsentera Indicem Biblicum et Monumenta Gotica».¹ Därmed dröjde dock till den 3 juli: »talade iagh medh principe om Morestenar och dedicerade honom Runahefden»: eller — som den latinska titeln var — Monumenta veterum Gothorum in patria».² Arbetet (i K. B. F. a. 10, 2) skulle bestå av fyra böcker: den första runstenar från Svealand, den andra runstenar från Götaland, den tredje »runæ mysticæ» (d. v. s. adalrunor) och den fjärde inskrifter på metallföremål. Planen blev emellertid då icke utförd, och boken blev aldrig tryckt, men att detta varit meningen, är tydligt både av dedikationen och av själva utstyrseln, och från 1600—1602 finnas två av Lampadius graverade runstenar (Liljegren 51, 436), som antagligen voro ämnade att ingå i arbetet; den ena av dem finnes också först inklistrad i boken. Det blott handskrivna och handritade exemplaret innehöll 1602 antagligen blott jämförelsevis få runstenar — förmodligen blott åtta à tio³ —, men kort därefter tyckes Bureus hava fått dedikationsexemplaret tillbaka av Karl IX och införde då i handskriften nya avteckningar icke blott från Uppland och Västmanland utan även från Närke, Värmland, Gästrikland, Hälsingland och Medelpad samt Västergötland, Östergötland och Småland — inalles 150 runinskrifter, de sista införda på 1640-talet; redan å"
+  },
+  {
+   "bbox": [
+    1220,
+    645,
+    1322,
+    676
+   ],
+   "category": "Text",
+   "text": "Runahefd"
+  },
+  {
+   "bbox": [
+    179,
+    1650,
+    1218,
+    1715
+   ],
+   "category": "Footnote",
+   "text": "¹ I själva boken står en — dock tydligen senare — anteckning: »præsenterat 1602 9 junij för F. N. hert. Carl Göst. s.»"
+  },
+  {
+   "bbox": [
+    179,
+    1711,
+    1219,
+    1838
+   ],
+   "category": "Footnote",
+   "text": "² Den svenska titeln lyder: Runahäfd eller afritning och afmålning af en hop runastenar hvilka våra förfädher hava fordom latit utrita och vidh sijna Läghrestädher upresa så och kyrkeringer och annath slijkt, ther Runorne nu kunna finnas upå samt medh theras möjeligha och enfalligha uttolkning på Latijn och vår dagheliga Svensko."
+  },
+  {
+   "bbox": [
+    179,
+    1830,
+    1218,
+    1897
+   ],
+   "category": "Footnote",
+   "text": "³ Endast vid dessa har programmet genomförts: 1) runstenen, 2) inskriften återgiven med latinska bokstäver, 3) latinsk översättning, 4) nysvensk översättning."
+  },
+  {
+   "bbox": [
+    1168,
+    1925,
+    1215,
+    1964
+   ],
+   "category": "Page-footer",
+   "text": "59"
+  }
+ ]
+}

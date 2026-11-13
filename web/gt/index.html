@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Schück GT editor</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <strong class="brand">Schück GT</strong>
+  <button id="prev" title="Previous page (Alt+PageUp)">‹</button>
+  <select id="pagesel" aria-label="Page"></select>
+  <button id="next" title="Next page (Alt+PageDown)">›</button>
+  <span id="badge" class="badge"></span>
+  <span id="progress" class="muted"></span>
+  <span class="spacer"></span>
+  <span id="msg" class="muted" role="status"></span>
+  <button id="save" title="Save to gt/wip (Ctrl+S)">Save</button>
+  <button id="verify" class="primary" title="Mark the whole page checked: writes gt/pages">Verified ✓</button>
+  <button id="unverify" title="Move back to work in progress">Unverify</button>
+  <button id="revert" title="Discard edits and go back to the engine draft">Revert to draft</button>
+  <button id="helpbtn" title="Conventions and keys">?</button>
+</header>
+
+<main>
+  <section class="viewer-pane">
+    <div class="viewer-tools">
+      <button id="fit" title="Fit page (F when not typing)">Fit</button>
+      <button id="zoomin" title="Zoom in">+</button>
+      <button id="zoomout" title="Zoom out">−</button>
+      <label><input type="checkbox" id="follow" checked> follow cursor</label>
+      <label><input type="checkbox" id="showall"> all disagreements</label>
+    </div>
+    <div id="viewer" class="viewer">
+      <div id="stage" class="stage">
+        <img id="pageimg" alt="page scan">
+        <svg id="overlay" xmlns="http://www.w3.org/2000/svg"></svg>
+      </div>
+    </div>
+  </section>
+
+  <section class="text-pane">
+    <div class="palette" id="palette"></div>
+    <div class="editor">
+      <div id="backdrop" class="backdrop" aria-hidden="true"></div>
+      <textarea id="text" spellcheck="false" autocomplete="off" aria-label="Ground-truth text"></textarea>
+    </div>
+    <div class="diffs-head">
+      <strong>Disagreements</strong> <span id="diffcount" class="muted"></span>
+      <span class="spacer"></span>
+      <label><input type="checkbox" id="strict"> strict quotes/dashes</label>
+      <label><input type="checkbox" id="showdismissed"> show dismissed</label>
+      <button id="prevdiff" title="Alt+↑">↑</button><button id="nextdiff" title="Alt+↓">↓</button>
+    </div>
+    <ol id="diffs" class="diffs"></ol>
+  </section>
+</main>
+
+<dialog id="help">
+  <h2>Ground-truth editor</h2>
+  <p>Check the <em>whole</em> page against the scan, not only the listed disagreements. Then press <b>Verified ✓</b>. Full rules are in <code>gt/CONVENTIONS.md</code>.</p>
+  <ul>
+    <li><b>Region markers</b> go on their own lines: <code>#head #body #margin #foot #pageno #other</code>.</li>
+    <li><b>One paragraph per line</b>, with end-of-line hyphenation removed. Spelling, æ/œ and <code>[ ]</code> are typed as printed.</li>
+    <li><code>{italic}</code> · <code>&lt;letterspaced&gt;</code> · <code>^1</code> for a footnote reference · <code>»…»</code> for quotations · <code>?</code> or <code>[...]</code> when the scan itself is illegible.</li>
+  </ul>
+  <h3>Keys</h3>
+  <ul>
+    <li><kbd>Ctrl+S</kbd> save · <kbd>Ctrl+I</kbd> wrap the selection in <code>{ }</code> · <kbd>Ctrl+U</kbd> wrap it in <code>&lt; &gt;</code></li>
+    <li><kbd>Alt+↓</kbd>/<kbd>Alt+↑</kbd> next/previous disagreement · <kbd>Alt+PageDown</kbd>/<kbd>Alt+PageUp</kbd> next/previous page</li>
+    <li>Scan: scroll the wheel to zoom and drag to pan. With <i>follow cursor</i> on, the word at the caret is boxed using the PDF text layer's word positions.</li>
+  </ul>
+  <h3>Disagreements</h3>
+  <p>Your text is aligned word by word to the PDF text layer. Every place where they differ is listed with the readings of all engines. <b>Use</b> replaces your text with that reading. <b>Dismiss</b> means you have checked the place and your text is right.</p>
+  <form method="dialog"><button>Close</button></form>
+</dialog>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 259,
+ "seconds": 27.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [903, 240, 1300, 275], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [567, 308, 1626, 1722], \"category\": \"Text\", \"text\": \"det corpus diplomaticum, som han förberedde och till vilket vi sedermera skola återkomma. Den 22 mars 1765 skrev han till Langebek¹: »Cantzlierådet Berch är sig lik och fick i tisdags Peder Oxes lefwernes beskrifning. Utom honom och Cantzlir. Rabbe samt Biskop Serenius har jag ännu icke råkat några af mine gynnare. Den sidste war nog syslosatt, dock icke ohöflig. Jag helsade honom ifrån herr Justizrådet, men kanske det icke skulle wara onyttigt, om Herr Justizrådet funne sig wid at skrifwa honom til, såsom jag berättat, det han icke ogint utlåtit sig om det opus dipl. jag tänkt utgifva. Skulle herr Justitzrådet därwid behaga något nämna om de subsidier, jag äger och än widare kan bekomma, så torde det mera göra honom hugad för et slikt arbete.» Den 23 april skrev han ånyo till Langebek: »Stiernmans sysla skal jag om et par dagar formelt söka och står(?) det sit kast, om jag får förslaget. I morgon menar jag Prästerskapet bifaller min proposition om det diplomatiska arbete jag företagit och corollarii loco med sin recommendation til förslag efter v. Stiernman för mig gå til Cantzli Collegium. Detta Collegii Ledamöter äro mig ock bevågne, men det kommer därpå an, om de kunna visa sin goda Tanka för mig — Biskop Serenius är nu min stora gynnare, så mycket hans tid tillåter.» Emellertid visade det sig, att han här bedömt situationen allt för optimistiskt. Brocmans gynnare, kanslirådet Rabbe, sökte väl eliminera den farligaste konkurrenten, lagman Ribbing, genom att förfäkta, att Ribbing ej var kompetent sökande, enär han såsom titulär lagman hade högre rang än arkivsekreteraren, men detta argument underkändes av kanslikollegiets övriga ledamöter, Rabbe blev solus in voto, och på kanslikollegiets förslag uppfördes lagman Ribbing, Kungl. sekreteraren Frick och bibliotekarien Wilde. Brocman överklagade väl förslaget, men den 27 november blev Ribbing utnämnd. Om tvisten i kanslikollegiet skrev Brocman den 21 juni 1765 till Langebek: »När jag sidst skref, woro apparencerna för mig något bättre än sedermera. Dock såsom jag aldrig tror något, förr än jag hafwer tron i händerna, kan jag just icke säga, at jag blifwit uti mitt hopp bedragen. Wisst folk hade låfwat mig icke allenast befordra mit förslag om Opus\"}, {\"bbox\": [605, 1727, 1457, 1764], \"category\": \"Footnote\", \"text\": \"¹ Brocmans brev, som äldst alltid varit på latin, skrevos från 1765 på svenska.\"}, {\"bbox\": [574, 1794, 647, 1832], \"category\": \"Page-footer\", \"text\": \"242\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    903,
+    240,
+    1300,
+    275
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    567,
+    308,
+    1626,
+    1722
+   ],
+   "category": "Text",
+   "text": "det corpus diplomaticum, som han förberedde och till vilket vi sedermera skola återkomma. Den 22 mars 1765 skrev han till Langebek¹: »Cantzlierådet Berch är sig lik och fick i tisdags Peder Oxes lefwernes beskrifning. Utom honom och Cantzlir. Rabbe samt Biskop Serenius har jag ännu icke råkat några af mine gynnare. Den sidste war nog syslosatt, dock icke ohöflig. Jag helsade honom ifrån herr Justizrådet, men kanske det icke skulle wara onyttigt, om Herr Justizrådet funne sig wid at skrifwa honom til, såsom jag berättat, det han icke ogint utlåtit sig om det opus dipl. jag tänkt utgifva. Skulle herr Justitzrådet därwid behaga något nämna om de subsidier, jag äger och än widare kan bekomma, så torde det mera göra honom hugad för et slikt arbete.» Den 23 april skrev han ånyo till Langebek: »Stiernmans sysla skal jag om et par dagar formelt söka och står(?) det sit kast, om jag får förslaget. I morgon menar jag Prästerskapet bifaller min proposition om det diplomatiska arbete jag företagit och corollarii loco med sin recommendation til förslag efter v. Stiernman för mig gå til Cantzli Collegium. Detta Collegii Ledamöter äro mig ock bevågne, men det kommer därpå an, om de kunna visa sin goda Tanka för mig — Biskop Serenius är nu min stora gynnare, så mycket hans tid tillåter.» Emellertid visade det sig, att han här bedömt situationen allt för optimistiskt. Brocmans gynnare, kanslirådet Rabbe, sökte väl eliminera den farligaste konkurrenten, lagman Ribbing, genom att förfäkta, att Ribbing ej var kompetent sökande, enär han såsom titulär lagman hade högre rang än arkivsekreteraren, men detta argument underkändes av kanslikollegiets övriga ledamöter, Rabbe blev solus in voto, och på kanslikollegiets förslag uppfördes lagman Ribbing, Kungl. sekreteraren Frick och bibliotekarien Wilde. Brocman överklagade väl förslaget, men den 27 november blev Ribbing utnämnd. Om tvisten i kanslikollegiet skrev Brocman den 21 juni 1765 till Langebek: »När jag sidst skref, woro apparencerna för mig något bättre än sedermera. Dock såsom jag aldrig tror något, förr än jag hafwer tron i händerna, kan jag just icke säga, at jag blifwit uti mitt hopp bedragen. Wisst folk hade låfwat mig icke allenast befordra mit förslag om Opus"
+  },
+  {
+   "bbox": [
+    605,
+    1727,
+    1457,
+    1764
+   ],
+   "category": "Footnote",
+   "text": "¹ Brocmans brev, som äldst alltid varit på latin, skrevos från 1765 på svenska."
+  },
+  {
+   "bbox": [
+    574,
+    1794,
+    647,
+    1832
+   ],
+   "category": "Page-footer",
+   "text": "242"
+  }
+ ]
+}

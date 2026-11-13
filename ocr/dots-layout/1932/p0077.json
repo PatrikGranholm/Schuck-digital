@@ -1,0 +1,181 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 77,
+ "seconds": 33.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [702, 387, 1391, 2028], \"category\": \"Picture\"}, {\"bbox\": [1333, 1077, 1381, 1244], \"category\": \"Text\", \"text\": \"occidens\"}, {\"bbox\": [1413, 1741, 1473, 2004], \"category\": \"Text\", \"text\": \"Gorm Rex Danæ uix;\\narea annum Dñi\"}, {\"bbox\": [1476, 1574, 1509, 1755], \"category\": \"Text\", \"text\": \"INSCRIPTIO\"}, {\"bbox\": [1482, 1903, 1509, 1957], \"category\": \"Text\", \"text\": \"929\"}, {\"bbox\": [1482, 969, 1513, 1563], \"category\": \"Text\", \"text\": \"MONVMENTI GORMONIS IN PARVO LAPIDE\"}, {\"bbox\": [1487, 662, 1515, 953], \"category\": \"Text\", \"text\": \"TYRÆ VXORI POSITI\"}, {\"bbox\": [1482, 458, 1515, 651], \"category\": \"Text\", \"text\": \"annum Dñi 964.\"}, {\"bbox\": [1395, 1070, 1418, 1323], \"category\": \"Text\", \"text\": \"TYPVSALPHABETI\"}, {\"bbox\": [1418, 927, 1491, 1489], \"category\": \"Text\", \"text\": \"† B v b x v v * I V L F v l B q R h t N\\nA b i d e f g - h i K l . m n o p q r s t v\"}, {\"bbox\": [1418, 409, 1491, 725], \"category\": \"Text\", \"text\": \"Haraldus Rex Danæ. Angliæ\\net Noruegia uix; una\"}, {\"bbox\": [1509, 881, 1565, 1572], \"category\": \"Text\", \"text\": \"Y L R P L : Y L L N L : Y L R B I : Y L B I : P N I : Y L T : P R R N : Y L L L ,\\nGorma Kominga Giorda Kube disse offuer Thyre Konæ\"}, {\"bbox\": [1569, 1574, 1594, 1819], \"category\": \"Text\", \"text\": \"ALIA INSCRIPTIO\"}, {\"bbox\": [1569, 505, 1594, 1563], \"category\": \"Text\", \"text\": \"MONVMENTI HARALDI REGIS PARENTIBVS SVIS GORMONI ET TYRÆ POSITI\"}, {\"bbox\": [1594, 409, 1656, 1909], \"category\": \"Text\", \"text\": \"* R X L R : Y L L N L : B v b : Y L N R N : Y L N B N : B v L L I : Y L T : Y L R F : Y L B L R : Y L I X : Y L L Y : Y L T : P R R N : P R R R : Y L L L X ;\\nHaraldus Kong byt Kierckæ Kybl disse offuer Gorm Fader . sin och offuer Tyre Matter sense\"}, {\"bbox\": [1656, 973, 1720, 1471], \"category\": \"Text\", \"text\": \"* R X M R : Y L L L : Y L L L : Y L F L R ,\\nHaraldus Keß offuer Danmark.\"}, {\"bbox\": [1760, 1009, 1791, 1391], \"category\": \"Page-footer\", \"text\": \"Fellingestenarna i Lindebergs arbete.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    702,
+    387,
+    1391,
+    2028
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    1333,
+    1077,
+    1381,
+    1244
+   ],
+   "category": "Text",
+   "text": "occidens"
+  },
+  {
+   "bbox": [
+    1413,
+    1741,
+    1473,
+    2004
+   ],
+   "category": "Text",
+   "text": "Gorm Rex Danæ uix;\narea annum Dñi"
+  },
+  {
+   "bbox": [
+    1476,
+    1574,
+    1509,
+    1755
+   ],
+   "category": "Text",
+   "text": "INSCRIPTIO"
+  },
+  {
+   "bbox": [
+    1482,
+    1903,
+    1509,
+    1957
+   ],
+   "category": "Text",
+   "text": "929"
+  },
+  {
+   "bbox": [
+    1482,
+    969,
+    1513,
+    1563
+   ],
+   "category": "Text",
+   "text": "MONVMENTI GORMONIS IN PARVO LAPIDE"
+  },
+  {
+   "bbox": [
+    1487,
+    662,
+    1515,
+    953
+   ],
+   "category": "Text",
+   "text": "TYRÆ VXORI POSITI"
+  },
+  {
+   "bbox": [
+    1482,
+    458,
+    1515,
+    651
+   ],
+   "category": "Text",
+   "text": "annum Dñi 964."
+  },
+  {
+   "bbox": [
+    1395,
+    1070,
+    1418,
+    1323
+   ],
+   "category": "Text",
+   "text": "TYPVSALPHABETI"
+  },
+  {
+   "bbox": [
+    1418,
+    927,
+    1491,
+    1489
+   ],
+   "category": "Text",
+   "text": "† B v b x v v * I V L F v l B q R h t N\nA b i d e f g - h i K l . m n o p q r s t v"
+  },
+  {
+   "bbox": [
+    1418,
+    409,
+    1491,
+    725
+   ],
+   "category": "Text",
+   "text": "Haraldus Rex Danæ. Angliæ\net Noruegia uix; una"
+  },
+  {
+   "bbox": [
+    1509,
+    881,
+    1565,
+    1572
+   ],
+   "category": "Text",
+   "text": "Y L R P L : Y L L N L : Y L R B I : Y L B I : P N I : Y L T : P R R N : Y L L L ,\nGorma Kominga Giorda Kube disse offuer Thyre Konæ"
+  },
+  {
+   "bbox": [
+    1569,
+    1574,
+    1594,
+    1819
+   ],
+   "category": "Text",
+   "text": "ALIA INSCRIPTIO"
+  },
+  {
+   "bbox": [
+    1569,
+    505,
+    1594,
+    1563
+   ],
+   "category": "Text",
+   "text": "MONVMENTI HARALDI REGIS PARENTIBVS SVIS GORMONI ET TYRÆ POSITI"
+  },
+  {
+   "bbox": [
+    1594,
+    409,
+    1656,
+    1909
+   ],
+   "category": "Text",
+   "text": "* R X L R : Y L L N L : B v b : Y L N R N : Y L N B N : B v L L I : Y L T : Y L R F : Y L B L R : Y L I X : Y L L Y : Y L T : P R R N : P R R R : Y L L L X ;\nHaraldus Kong byt Kierckæ Kybl disse offuer Gorm Fader . sin och offuer Tyre Matter sense"
+  },
+  {
+   "bbox": [
+    1656,
+    973,
+    1720,
+    1471
+   ],
+   "category": "Text",
+   "text": "* R X M R : Y L L L : Y L L L : Y L F L R ,\nHaraldus Keß offuer Danmark."
+  },
+  {
+   "bbox": [
+    1760,
+    1009,
+    1791,
+    1391
+   ],
+   "category": "Page-footer",
+   "text": "Fellingestenarna i Lindebergs arbete."
+  }
+ ]
+}

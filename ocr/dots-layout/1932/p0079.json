@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 79,
+ "seconds": 55.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [975, 374, 1449, 417], \"category\": \"Section-header\", \"text\": \"Antikvitetsstudiets början\"}, {\"bbox\": [693, 445, 1732, 565], \"category\": \"Text\", \"text\": \"sid. 17 möter man en först 1638 avtecknad runsten. I sin nu föreliggande form härrör Runahävden snarare från 1630- och 1640-talen än från 1602.\"}, {\"bbox\": [550, 578, 689, 637], \"category\": \"Text\", \"text\": \"Monumenta\\nSveo-Gothica\"}, {\"bbox\": [693, 569, 1734, 1113], \"category\": \"Text\", \"text\": \"I början av 1620-talet tyckes Bureus hava kommit i beröring med några träsnidare, Valentin Trautman, Jonas Vadsundensis och kanske några andra (Se härom Klemming: Ur en antecknares samlingar sid. 227 f.), vilka började att i trä skära hans teckningar av de insamlade runinskrifterna. Då man 1624 medhunnit 48 stenar, blev emellertid arbetet, Monumenta Sveo-Gothica hactenus exsculpta, av okänd anledning avbrutet, och endast några få exemplar tyckas hava blivit utdelade. Enligt Klemming blevo stockarna kvarliggande i tryckeriet, hos Eskil Matsson i Uppsala, och begagnades ännu av Rudbeck i hans Atlanticaatlas. En ny upplaga, också ytterst sällsynt, trycktes troligen på 1650-talet, och en tredje kom 1664 såsom appendix till Verelius' upplaga av Gothrici et Rolfi historia under titel Monumenta lapidum aliquot runicorum.\"}, {\"bbox\": [555, 1115, 691, 1174], \"category\": \"Text\", \"text\": \"Bureus' sista\\nrunarbete\"}, {\"bbox\": [697, 1111, 1732, 1196], \"category\": \"Text\", \"text\": \"Mot slutet av Bureus' liv, då han var nära åttio år, togs emellertid planen på ett fullständigt runverk ånyo upp.\"}, {\"bbox\": [695, 1192, 1736, 1897], \"category\": \"Text\", \"text\": \"I den förteckning, som han 1651, året före sin död, gjorde på de böcker, som han då överlämnade till kronan, förekommer en nu förlorad handskrift: »Ett onomasticum Sueogothicum colligerat aff alla Runestenerna som afritade ähre och reeda i koppar vtstukne, med dheras vttydning medh nu öflig Suänska och på Latin, huilken E. K. M. genom sitt skriftelighe vtgångne Konungsligha breff aff Dato Stockholm den 28 Novem. 1646 befalte genom tryck förfärdigas, Men för min sjuklighe läghenheet, och effter iagh ingen till assisstans hafuer hafft, allt här till tilbaka blifuit». Som man torde observera talas här om två olika arbeten, dels om ett onomasticum (namnlängd), dels om ett runverk, varur onomasticum »colligerats». Bägge dessa arbeten omtalas i det av Bureus citerade kungabrevet, som finnes i riksregistraturet för 1646 (sid. 2191), ehuru det ej observerats av Klemming och Hildebrand: »Wår synnerlige ynnest etc. Eftersom, trogne män, respective Rix- och Cammar Rådh, Antiquarius Johannes Bureus ähr vtj wärket att låta af trycket vthgå tuenne böcker, neml. Monumenta Runica och Onomasticum Sveo-\"}, {\"bbox\": [700, 1930, 752, 1969], \"category\": \"Page-footer\", \"text\": \"60\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    975,
+    374,
+    1449,
+    417
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsstudiets början"
+  },
+  {
+   "bbox": [
+    693,
+    445,
+    1732,
+    565
+   ],
+   "category": "Text",
+   "text": "sid. 17 möter man en först 1638 avtecknad runsten. I sin nu föreliggande form härrör Runahävden snarare från 1630- och 1640-talen än från 1602."
+  },
+  {
+   "bbox": [
+    550,
+    578,
+    689,
+    637
+   ],
+   "category": "Text",
+   "text": "Monumenta\nSveo-Gothica"
+  },
+  {
+   "bbox": [
+    693,
+    569,
+    1734,
+    1113
+   ],
+   "category": "Text",
+   "text": "I början av 1620-talet tyckes Bureus hava kommit i beröring med några träsnidare, Valentin Trautman, Jonas Vadsundensis och kanske några andra (Se härom Klemming: Ur en antecknares samlingar sid. 227 f.), vilka började att i trä skära hans teckningar av de insamlade runinskrifterna. Då man 1624 medhunnit 48 stenar, blev emellertid arbetet, Monumenta Sveo-Gothica hactenus exsculpta, av okänd anledning avbrutet, och endast några få exemplar tyckas hava blivit utdelade. Enligt Klemming blevo stockarna kvarliggande i tryckeriet, hos Eskil Matsson i Uppsala, och begagnades ännu av Rudbeck i hans Atlanticaatlas. En ny upplaga, också ytterst sällsynt, trycktes troligen på 1650-talet, och en tredje kom 1664 såsom appendix till Verelius' upplaga av Gothrici et Rolfi historia under titel Monumenta lapidum aliquot runicorum."
+  },
+  {
+   "bbox": [
+    555,
+    1115,
+    691,
+    1174
+   ],
+   "category": "Text",
+   "text": "Bureus' sista\nrunarbete"
+  },
+  {
+   "bbox": [
+    697,
+    1111,
+    1732,
+    1196
+   ],
+   "category": "Text",
+   "text": "Mot slutet av Bureus' liv, då han var nära åttio år, togs emellertid planen på ett fullständigt runverk ånyo upp."
+  },
+  {
+   "bbox": [
+    695,
+    1192,
+    1736,
+    1897
+   ],
+   "category": "Text",
+   "text": "I den förteckning, som han 1651, året före sin död, gjorde på de böcker, som han då överlämnade till kronan, förekommer en nu förlorad handskrift: »Ett onomasticum Sueogothicum colligerat aff alla Runestenerna som afritade ähre och reeda i koppar vtstukne, med dheras vttydning medh nu öflig Suänska och på Latin, huilken E. K. M. genom sitt skriftelighe vtgångne Konungsligha breff aff Dato Stockholm den 28 Novem. 1646 befalte genom tryck förfärdigas, Men för min sjuklighe läghenheet, och effter iagh ingen till assisstans hafuer hafft, allt här till tilbaka blifuit». Som man torde observera talas här om två olika arbeten, dels om ett onomasticum (namnlängd), dels om ett runverk, varur onomasticum »colligerats». Bägge dessa arbeten omtalas i det av Bureus citerade kungabrevet, som finnes i riksregistraturet för 1646 (sid. 2191), ehuru det ej observerats av Klemming och Hildebrand: »Wår synnerlige ynnest etc. Eftersom, trogne män, respective Rix- och Cammar Rådh, Antiquarius Johannes Bureus ähr vtj wärket att låta af trycket vthgå tuenne böcker, neml. Monumenta Runica och Onomasticum Sveo-"
+  },
+  {
+   "bbox": [
+    700,
+    1930,
+    752,
+    1969
+   ],
+   "category": "Page-footer",
+   "text": "60"
+  }
+ ]
+}

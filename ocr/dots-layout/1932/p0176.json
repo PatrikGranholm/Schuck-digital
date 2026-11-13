@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 176,
+ "seconds": 33.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [458, 359, 901, 405], \"category\": \"Section-header\", \"text\": \"De första antikvarierna\"}, {\"bbox\": [159, 429, 1197, 516], \"category\": \"Text\", \"text\": \"fiskegrund, strömar och siögar vptächna, och hwadh slagz fisk i hwar är mästh till fångz.\"}, {\"bbox\": [159, 512, 1200, 764], \"category\": \"Text\", \"text\": \"13. Allehanda medicinska saker optächna och läkiare böker vpleeta, alle örters nampn vpspöria och träslagh. Allehanda tijdemmerker om tillkommande wäderlekz arst, där om dhe, nästh siöösijdan boende äro, pläga tämlighen wara förfarna vthi etc. Allehanda klädeddrächt och wapner i huart landskap af ålder i bruk, och om deras dryckekärel, kosor, horn och annat sådant vptächna etc.\"}, {\"bbox\": [159, 759, 1200, 1055], \"category\": \"Text\", \"text\": \"14. Och mädan till itt fullkomligit lexicon tarfwes allehanda redskapz nampn, skole thee granneligha vpskrifwa allehanda åker redskapp, fiske redskap, smijdh och snickare tygh, skepz redskap och alle sådane saker etc. Sammaledhes alle häraders, sochnars, byars, skogars, strömars, siögars, bergz, öijars och holmars, vddars, grundz nampn, der medh frågandes, hwadan hwart hafwer fått sitt nampn.\"}, {\"bbox\": [159, 1047, 1200, 1178], \"category\": \"Text\", \"text\": \"15. Till the sidsta grannelighen vthleta hwadh sinnelagh hwardt landskapz folk hafwer, som man seer af historiæ skribenter mästedels intet förgätet warda etc.\"}, {\"bbox\": [816, 1171, 1131, 1213], \"category\": \"Text\", \"text\": \"Gustavus Adolphus.»\"}, {\"bbox\": [159, 1253, 1202, 1881], \"category\": \"Text\", \"text\": \"Som man märker, är det endast de sex eller sju första paragraferna, som beröra den egentliga fornforskningen, och för dem har nog det förut (sid. 133) anförda danska reskriptet av 1622 ej varit utan betydelse. Enligt detta skulle man i arkiven och i kyrkorna forska efter historiska dokument, vidare efter runinskrifter, runkalendrar och gamla mynt, varjämte folktraditioner om märkliga händelser och om minnesmärken skulle upptecknas. Allt detta omnämnes ock i det svenska memorialet, som dock lägger en särskild vikt på runstenarna och runkalendrarna; om dem handla de båda första paragraferna, och denna uppgift sättes här tydligen såsom den förnämsta — helt visst ett utslag av Bureus’ förkärlek för just denna forskningsgren. Om mynten handlar § 6, om gamla brev § 5. Om folklore är memorialet åtskilligt utförligare än reskriptet, enligt vilket man skulle taga reda på vad som »i hver Sogn berettes de locorum antiquitate vel origine, de præliis, incolis, om Steenhobe\"}, {\"bbox\": [1128, 1915, 1197, 1952], \"category\": \"Page-footer\", \"text\": \"143\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    458,
+    359,
+    901,
+    405
+   ],
+   "category": "Section-header",
+   "text": "De första antikvarierna"
+  },
+  {
+   "bbox": [
+    159,
+    429,
+    1197,
+    516
+   ],
+   "category": "Text",
+   "text": "fiskegrund, strömar och siögar vptächna, och hwadh slagz fisk i hwar är mästh till fångz."
+  },
+  {
+   "bbox": [
+    159,
+    512,
+    1200,
+    764
+   ],
+   "category": "Text",
+   "text": "13. Allehanda medicinska saker optächna och läkiare böker vpleeta, alle örters nampn vpspöria och träslagh. Allehanda tijdemmerker om tillkommande wäderlekz arst, där om dhe, nästh siöösijdan boende äro, pläga tämlighen wara förfarna vthi etc. Allehanda klädeddrächt och wapner i huart landskap af ålder i bruk, och om deras dryckekärel, kosor, horn och annat sådant vptächna etc."
+  },
+  {
+   "bbox": [
+    159,
+    759,
+    1200,
+    1055
+   ],
+   "category": "Text",
+   "text": "14. Och mädan till itt fullkomligit lexicon tarfwes allehanda redskapz nampn, skole thee granneligha vpskrifwa allehanda åker redskapp, fiske redskap, smijdh och snickare tygh, skepz redskap och alle sådane saker etc. Sammaledhes alle häraders, sochnars, byars, skogars, strömars, siögars, bergz, öijars och holmars, vddars, grundz nampn, der medh frågandes, hwadan hwart hafwer fått sitt nampn."
+  },
+  {
+   "bbox": [
+    159,
+    1047,
+    1200,
+    1178
+   ],
+   "category": "Text",
+   "text": "15. Till the sidsta grannelighen vthleta hwadh sinnelagh hwardt landskapz folk hafwer, som man seer af historiæ skribenter mästedels intet förgätet warda etc."
+  },
+  {
+   "bbox": [
+    816,
+    1171,
+    1131,
+    1213
+   ],
+   "category": "Text",
+   "text": "Gustavus Adolphus.»"
+  },
+  {
+   "bbox": [
+    159,
+    1253,
+    1202,
+    1881
+   ],
+   "category": "Text",
+   "text": "Som man märker, är det endast de sex eller sju första paragraferna, som beröra den egentliga fornforskningen, och för dem har nog det förut (sid. 133) anförda danska reskriptet av 1622 ej varit utan betydelse. Enligt detta skulle man i arkiven och i kyrkorna forska efter historiska dokument, vidare efter runinskrifter, runkalendrar och gamla mynt, varjämte folktraditioner om märkliga händelser och om minnesmärken skulle upptecknas. Allt detta omnämnes ock i det svenska memorialet, som dock lägger en särskild vikt på runstenarna och runkalendrarna; om dem handla de båda första paragraferna, och denna uppgift sättes här tydligen såsom den förnämsta — helt visst ett utslag av Bureus’ förkärlek för just denna forskningsgren. Om mynten handlar § 6, om gamla brev § 5. Om folklore är memorialet åtskilligt utförligare än reskriptet, enligt vilket man skulle taga reda på vad som »i hver Sogn berettes de locorum antiquitate vel origine, de præliis, incolis, om Steenhobe"
+  },
+  {
+   "bbox": [
+    1128,
+    1915,
+    1197,
+    1952
+   ],
+   "category": "Page-footer",
+   "text": "143"
+  }
+ ]
+}

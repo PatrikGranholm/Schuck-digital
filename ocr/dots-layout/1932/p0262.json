@@ -1,0 +1,212 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 262,
+ "seconds": 34.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [418, 360, 939, 406], \"category\": \"Section-header\", \"text\": \"Professuren i antikviteterna\"}, {\"bbox\": [636, 432, 717, 471], \"category\": \"Text\", \"text\": \"1665\"}, {\"bbox\": [156, 478, 1197, 560], \"category\": \"Text\", \"text\": \"Olaus Verelius Herrauds et Olaf Tryggiasons Saga interpretabitur\\nhora 8 in Audit. Novo Minori.\"}, {\"bbox\": [639, 592, 719, 627], \"category\": \"Text\", \"text\": \"1666\"}, {\"bbox\": [158, 637, 1198, 728], \"category\": \"Text\", \"text\": \"Olaus Verelius Gothorum Sveonumque Historiam a Johanne Magno descriptam explicabit.\"}, {\"bbox\": [642, 735, 721, 775], \"category\": \"Text\", \"text\": \"1667\"}, {\"bbox\": [159, 779, 1199, 911], \"category\": \"Text\", \"text\": \"Olaus Verelius, quæ ad patriæ antiquitates explicandas faciunt, auditoribus suis hora ordinaria, sed domi suæ proponet, ut libris, qui inediti et sic cuivis non parabiles, commode uti possint.\"}, {\"bbox\": [644, 938, 723, 972], \"category\": \"Text\", \"text\": \"1668\"}, {\"bbox\": [162, 980, 1200, 1071], \"category\": \"Text\", \"text\": \"Olaus Verelius Gulatingslagen et Frostatingslagen et, si tempus feret, Hirdskra auditoribus suis interpretabitur.\"}, {\"bbox\": [644, 1098, 721, 1137], \"category\": \"Text\", \"text\": \"1669\"}, {\"bbox\": [164, 1141, 879, 1189], \"category\": \"Text\", \"text\": \"Olaus Verelius S:t Olofs Saga interpretabitur.\"}, {\"bbox\": [642, 1218, 719, 1256], \"category\": \"Text\", \"text\": \"1670\"}, {\"bbox\": [163, 1259, 1204, 1352], \"category\": \"Text\", \"text\": \"Olaus Verelius Antiquitatum Patriæ curiosos in Runographia et legendis Scriptis Vet. Exercebit.\"}, {\"bbox\": [645, 1371, 722, 1409], \"category\": \"Text\", \"text\": \"1671\"}, {\"bbox\": [164, 1415, 1205, 1507], \"category\": \"Text\", \"text\": \"Olaus Verelius, Acad. h. t. Rector. auditorum suorum rogatu, Runographicen denuo explicebit.\"}, {\"bbox\": [647, 1514, 724, 1552], \"category\": \"Text\", \"text\": \"1672\"}, {\"bbox\": [166, 1557, 1207, 1648], \"category\": \"Text\", \"text\": \"Olaus Verelius lapidibus Runicis Sveogothicis Danica Vormii monumenta adjunget, quo Runarum varietas perspici possit.\"}, {\"bbox\": [648, 1674, 725, 1712], \"category\": \"Text\", \"text\": \"1673\"}, {\"bbox\": [167, 1719, 1210, 1885], \"category\": \"Text\", \"text\": \"Olaus Verelius ex legibus provinciarum veteribus Uplandicis puta Ostrogothicis, Westrogothicis ceterisque majorum instituta priscæque linguæ elegantiam ac dignitatum antiquitatum studiosis exponet h. 8 in Aud. Gust. min.\"}, {\"bbox\": [1134, 1924, 1207, 1962], \"category\": \"Page-footer\", \"text\": \"229\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    418,
+    360,
+    939,
+    406
+   ],
+   "category": "Section-header",
+   "text": "Professuren i antikviteterna"
+  },
+  {
+   "bbox": [
+    636,
+    432,
+    717,
+    471
+   ],
+   "category": "Text",
+   "text": "1665"
+  },
+  {
+   "bbox": [
+    156,
+    478,
+    1197,
+    560
+   ],
+   "category": "Text",
+   "text": "Olaus Verelius Herrauds et Olaf Tryggiasons Saga interpretabitur\nhora 8 in Audit. Novo Minori."
+  },
+  {
+   "bbox": [
+    639,
+    592,
+    719,
+    627
+   ],
+   "category": "Text",
+   "text": "1666"
+  },
+  {
+   "bbox": [
+    158,
+    637,
+    1198,
+    728
+   ],
+   "category": "Text",
+   "text": "Olaus Verelius Gothorum Sveonumque Historiam a Johanne Magno descriptam explicabit."
+  },
+  {
+   "bbox": [
+    642,
+    735,
+    721,
+    775
+   ],
+   "category": "Text",
+   "text": "1667"
+  },
+  {
+   "bbox": [
+    159,
+    779,
+    1199,
+    911
+   ],
+   "category": "Text",
+   "text": "Olaus Verelius, quæ ad patriæ antiquitates explicandas faciunt, auditoribus suis hora ordinaria, sed domi suæ proponet, ut libris, qui inediti et sic cuivis non parabiles, commode uti possint."
+  },
+  {
+   "bbox": [
+    644,
+    938,
+    723,
+    972
+   ],
+   "category": "Text",
+   "text": "1668"
+  },
+  {
+   "bbox": [
+    162,
+    980,
+    1200,
+    1071
+   ],
+   "category": "Text",
+   "text": "Olaus Verelius Gulatingslagen et Frostatingslagen et, si tempus feret, Hirdskra auditoribus suis interpretabitur."
+  },
+  {
+   "bbox": [
+    644,
+    1098,
+    721,
+    1137
+   ],
+   "category": "Text",
+   "text": "1669"
+  },
+  {
+   "bbox": [
+    164,
+    1141,
+    879,
+    1189
+   ],
+   "category": "Text",
+   "text": "Olaus Verelius S:t Olofs Saga interpretabitur."
+  },
+  {
+   "bbox": [
+    642,
+    1218,
+    719,
+    1256
+   ],
+   "category": "Text",
+   "text": "1670"
+  },
+  {
+   "bbox": [
+    163,
+    1259,
+    1204,
+    1352
+   ],
+   "category": "Text",
+   "text": "Olaus Verelius Antiquitatum Patriæ curiosos in Runographia et legendis Scriptis Vet. Exercebit."
+  },
+  {
+   "bbox": [
+    645,
+    1371,
+    722,
+    1409
+   ],
+   "category": "Text",
+   "text": "1671"
+  },
+  {
+   "bbox": [
+    164,
+    1415,
+    1205,
+    1507
+   ],
+   "category": "Text",
+   "text": "Olaus Verelius, Acad. h. t. Rector. auditorum suorum rogatu, Runographicen denuo explicebit."
+  },
+  {
+   "bbox": [
+    647,
+    1514,
+    724,
+    1552
+   ],
+   "category": "Text",
+   "text": "1672"
+  },
+  {
+   "bbox": [
+    166,
+    1557,
+    1207,
+    1648
+   ],
+   "category": "Text",
+   "text": "Olaus Verelius lapidibus Runicis Sveogothicis Danica Vormii monumenta adjunget, quo Runarum varietas perspici possit."
+  },
+  {
+   "bbox": [
+    648,
+    1674,
+    725,
+    1712
+   ],
+   "category": "Text",
+   "text": "1673"
+  },
+  {
+   "bbox": [
+    167,
+    1719,
+    1210,
+    1885
+   ],
+   "category": "Text",
+   "text": "Olaus Verelius ex legibus provinciarum veteribus Uplandicis puta Ostrogothicis, Westrogothicis ceterisque majorum instituta priscæque linguæ elegantiam ac dignitatum antiquitatum studiosis exponet h. 8 in Aud. Gust. min."
+  },
+  {
+   "bbox": [
+    1134,
+    1924,
+    1207,
+    1962
+   ],
+   "category": "Page-footer",
+   "text": "229"
+  }
+ ]
+}

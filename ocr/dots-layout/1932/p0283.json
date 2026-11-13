@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 283,
+ "seconds": 34.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [1000, 360, 1479, 404], \"category\": \"Section-header\", \"text\": \"Antikvitetsstudiets början\"}, {\"bbox\": [715, 431, 1758, 509], \"category\": \"Text\", \"text\": \"lilla uppsatsen, kallas: En vthförligare underwijsning om Runeskriften.¹\"}, {\"bbox\": [715, 514, 1762, 1307], \"category\": \"Text\", \"text\": \"Emellertid dog Laurentius Bureus från alltsammans. De la Gardie, som tyckes hava satt värde på honom, skickade då, 1668, hans efterlämnade manuskript till Verelius, som blivit hans efterträdare såsom antikvarie, med begäran att han ville utgiva dem. (R. A. Kanslersämbetets koncept): »Höglärde H. Professor. Jagh sender H. Professoren tillhanda dhe böker, som iagh på Wännegarden taalte om, neml. twenne originaler af S. Oloffs Chrönika, dett eene uthur Kongl. Archivo och dett andra uthur mitt Bibliotheque, sedhan afskrifften af b:te Chrönika och Sal. Burei version på swenska, jämwäl och därhooss Sal. Burei Beskrifning af dhe Runesteenar, som j Swerige finnas, hwilke alle iagh H. Prof. på dett flijtigste recommenderar, att dhe ju för ju heller måge öfwersees och wäl emenderade sedhan till Trycket befordras, doch så at för dhen mödha och arbete, som Sal. Bureus hafuer hafft medh bemelte Chrönikas verterande, honom dhen ähra och Tacksamhet bevijsas, att mehrb:te chrönikas version vnder hans nampn må publiceras. Sedhan som detta värket ähr färdigt wordet, så när som till Trycket, will iagh migh wårda låta om at skaffa dhe medlen widh handen, som där till fodras. Hwarmed iagh näst befallande vnder Guds Beskydd förblifver H. Professorns» etc.\"}, {\"bbox\": [754, 1328, 1558, 1373], \"category\": \"Text\", \"text\": \"I samma koncept ingick ock ett brev till Hadorph:\"}, {\"bbox\": [717, 1376, 1764, 1752], \"category\": \"Text\", \"text\": \"»Monsieur Hadorphi. Emädan iagh H. Professoren Verelio tillsendt hafwer dhe böker, som wij på Wännegarden taalte om och ibland dhem Sal. Burei Tractat om Runestenarne, så will iagh denne samma edher j synnerheet recommenderat hafwa, intet tuiflande medh mindre j edher waanlige flijt och åhogha varden see låtandes, at dhen tillijka med dhe hooss edher befindtliga kopparstyckena aftryckt medh dett forderligaste må komma uthi dagsliuset, hwaruthinnan H. Assessor Bureus², hwilken strax effter som denne Hoffrättz sessionen sluthat ähr, till Ubsala sigh ährnat hafwer, edher gerna\"}, {\"bbox\": [720, 1779, 1764, 1843], \"category\": \"Footnote\", \"text\": \"¹ Denna finnes i författarens koncept i Skoklosterhandskriften fol. 49 i Riksarkivet. Se vidare härom uppsatsen Lars Bure eller Verelius i Fornvännen 1931.\"}, {\"bbox\": [754, 1841, 1067, 1874], \"category\": \"Footnote\", \"text\": \"² Laurentius bror Johannes.\"}, {\"bbox\": [723, 1926, 800, 1965], \"category\": \"Page-footer\", \"text\": \"250\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    1000,
+    360,
+    1479,
+    404
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsstudiets början"
+  },
+  {
+   "bbox": [
+    715,
+    431,
+    1758,
+    509
+   ],
+   "category": "Text",
+   "text": "lilla uppsatsen, kallas: En vthförligare underwijsning om Runeskriften.¹"
+  },
+  {
+   "bbox": [
+    715,
+    514,
+    1762,
+    1307
+   ],
+   "category": "Text",
+   "text": "Emellertid dog Laurentius Bureus från alltsammans. De la Gardie, som tyckes hava satt värde på honom, skickade då, 1668, hans efterlämnade manuskript till Verelius, som blivit hans efterträdare såsom antikvarie, med begäran att han ville utgiva dem. (R. A. Kanslersämbetets koncept): »Höglärde H. Professor. Jagh sender H. Professoren tillhanda dhe böker, som iagh på Wännegarden taalte om, neml. twenne originaler af S. Oloffs Chrönika, dett eene uthur Kongl. Archivo och dett andra uthur mitt Bibliotheque, sedhan afskrifften af b:te Chrönika och Sal. Burei version på swenska, jämwäl och därhooss Sal. Burei Beskrifning af dhe Runesteenar, som j Swerige finnas, hwilke alle iagh H. Prof. på dett flijtigste recommenderar, att dhe ju för ju heller måge öfwersees och wäl emenderade sedhan till Trycket befordras, doch så at för dhen mödha och arbete, som Sal. Bureus hafuer hafft medh bemelte Chrönikas verterande, honom dhen ähra och Tacksamhet bevijsas, att mehrb:te chrönikas version vnder hans nampn må publiceras. Sedhan som detta värket ähr färdigt wordet, så när som till Trycket, will iagh migh wårda låta om at skaffa dhe medlen widh handen, som där till fodras. Hwarmed iagh näst befallande vnder Guds Beskydd förblifver H. Professorns» etc."
+  },
+  {
+   "bbox": [
+    754,
+    1328,
+    1558,
+    1373
+   ],
+   "category": "Text",
+   "text": "I samma koncept ingick ock ett brev till Hadorph:"
+  },
+  {
+   "bbox": [
+    717,
+    1376,
+    1764,
+    1752
+   ],
+   "category": "Text",
+   "text": "»Monsieur Hadorphi. Emädan iagh H. Professoren Verelio tillsendt hafwer dhe böker, som wij på Wännegarden taalte om och ibland dhem Sal. Burei Tractat om Runestenarne, så will iagh denne samma edher j synnerheet recommenderat hafwa, intet tuiflande medh mindre j edher waanlige flijt och åhogha varden see låtandes, at dhen tillijka med dhe hooss edher befindtliga kopparstyckena aftryckt medh dett forderligaste må komma uthi dagsliuset, hwaruthinnan H. Assessor Bureus², hwilken strax effter som denne Hoffrättz sessionen sluthat ähr, till Ubsala sigh ährnat hafwer, edher gerna"
+  },
+  {
+   "bbox": [
+    720,
+    1779,
+    1764,
+    1843
+   ],
+   "category": "Footnote",
+   "text": "¹ Denna finnes i författarens koncept i Skoklosterhandskriften fol. 49 i Riksarkivet. Se vidare härom uppsatsen Lars Bure eller Verelius i Fornvännen 1931."
+  },
+  {
+   "bbox": [
+    754,
+    1841,
+    1067,
+    1874
+   ],
+   "category": "Footnote",
+   "text": "² Laurentius bror Johannes."
+  },
+  {
+   "bbox": [
+    723,
+    1926,
+    800,
+    1965
+   ],
+   "category": "Page-footer",
+   "text": "250"
+  }
+ ]
+}

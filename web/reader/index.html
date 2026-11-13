@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Schück digital</title>
+<meta name="description" content="Henrik Schück, Kgl. Vitterhets historie och antikvitets akademien I–VIII (1932–1944): digital utgåva med faksimil.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <a class="brand" href="#" title="Om utgåvan">Schück digital</a>
+  <select id="volsel" aria-label="Del"></select>
+  <select id="toc" aria-label="Innehåll"><option value="">Innehåll…</option></select>
+  <nav class="tabs" role="tablist">
+    <button data-view="read" class="on" role="tab">Läs</button>
+    <button data-view="quotes" role="tab">Citat</button>
+    <button data-view="sources" role="tab">Källor</button>
+    <button data-view="search" role="tab">Sök</button>
+    <button data-view="about" role="tab">Om</button>
+  </nav>
+  <span class="spacer"></span>
+  <button id="facsbtn" class="ghost" title="Visa/dölj faksimil">Faksimil</button>
+  <button id="themebtn" class="ghost" title="Ljust/mörkt tema" aria-label="Byt tema">◐</button>
+</header>
+
+<main id="main">
+  <section id="view-read" class="view on">
+    <div class="reader">
+      <article id="text" class="text" aria-live="polite"><p class="loading">Laddar…</p></article>
+    </div>
+    <div class="divider" id="divider" title="Dra för att ändra bredd"></div>
+    <aside class="facs" id="facs">
+      <div class="facs-bar">
+        <button id="pgprev" class="ghost" title="Föregående sida">‹</button>
+        <span id="pglabel">–</span>
+        <button id="pgnext" class="ghost" title="Nästa sida">›</button>
+        <span class="spacer"></span>
+        <label class="small"><input type="checkbox" id="follow" checked> följ texten</label>
+      </div>
+      <div id="osd" class="osd"></div>
+      <div id="pgsource" class="pgsource small"></div>
+    </aside>
+  </section>
+
+  <section id="view-quotes" class="view list-view">
+    <div class="list-head"><input id="qfilter" type="search" placeholder="Filtrera citat…" aria-label="Filtrera citat"><span id="qcount" class="muted"></span></div>
+    <ol id="qlist" class="items"></ol>
+  </section>
+
+  <section id="view-sources" class="view list-view">
+    <div class="list-head"><input id="sfilter" type="search" placeholder="Filtrera källhänvisningar…" aria-label="Filtrera källor"><span id="scount" class="muted"></span></div>
+    <div id="slist" class="groups"></div>
+  </section>
+
+  <section id="view-search" class="view list-view">
+    <form id="searchform" class="list-head">
+      <input id="q" type="search" placeholder="Sök i texten (t.ex. Hadorph, runsten*, »Antiqu)" aria-label="Sök">
+      <label class="small"><input type="checkbox" id="qold"> historisk stavning (w=v, i=j, æ=ä …)</label>
+      <label class="small"><input type="checkbox" id="qall"> alla delar</label>
+      <button>Sök</button>
+      <span id="rcount" class="muted"></span>
+    </form>
+    <ol id="results" class="items"></ol>
+  </section>
+
+  <section id="view-about" class="view list-view about">
+    <h1>Schück digital</h1>
+    <p>Digital utgåva av Henrik Schück, <i>Kgl. Vitterhets historie och antikvitets akademien. Dess förhistoria och historia</i>, I–VIII (Stockholm 1932–1944). Verket är fritt från upphovsrätt (Schück dog 1947).</p>
+    <h2>Texten</h2>
+    <p>Texten är framställd med OCR (dots.mocr) och har ännu inte korrekturlästs, utom på de sidor som markerats som <span class="badge gt">granskad</span>. Sidor markerade <span class="badge textlayer">PDF-text</span> bygger på den äldre textversionen i PDF-filen, där OCR-modellen misslyckades. Stavningen i citerade källor återges som i trycket.</p>
+    <ul>
+      <li>Marginalrubriker visas i marginalen, fotnoter som upphöjda siffror (klicka).</li>
+      <li>Citat (»…») och källhänvisningar (K. B., R. A., U. U. B. …) är uppmärkta och listas under <b>Citat</b> och <b>Källor</b>.</li>
+      <li>Rättelser ur trycket (Rättelser) är införda; den tryckta läsarten visas när man pekar på ordet.</li>
+      <li>Sidbrytningar visas som <span class="pbdemo">s. 52</span>; klicka för att se sidan i faksimil.</li>
+    </ul>
+    <h2>Data</h2>
+    <p>TEI-filerna finns under <code>data/</code> (t.ex. <a href="data/schuck-1932.xml">schuck-1932.xml</a>). Källa: <a href="https://libris.kb.se/cvn7fkgp3mft1s5">Libris</a>.</p>
+    <div id="volstats" class="muted"></div>
+  </section>
+</main>
+
+<div id="popover" class="popover" role="dialog" hidden></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

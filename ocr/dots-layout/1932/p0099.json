@@ -1,0 +1,111 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 99,
+ "seconds": 17.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [943, 347, 1473, 394], \"category\": \"Section-header\", \"text\": \"LALANDICA\"}, {\"bbox\": [994, 413, 1375, 493], \"category\": \"Section-header\", \"text\": \"Hårde Gud Òdin.\"}, {\"bbox\": [1000, 497, 1364, 615], \"category\": \"Text\", \"text\": \"ÞÍRÞI·PÐÞ·HÞI·\\nO durum Deum Othinum!\\nseu Fatum..\"}, {\"bbox\": [910, 624, 1457, 710], \"category\": \"Text\", \"text\": \"Legitur in primo Monumento Smalandico,\\nForſitbenſi.\"}, {\"bbox\": [938, 735, 1416, 823], \"category\": \"Text\", \"text\": \"Sic verò in Monumento Hellelandico\\nStavangerenſium 16.\"}, {\"bbox\": [998, 844, 1351, 879], \"category\": \"Text\", \"text\": \"ÞÍRÞI·PÐÞI·PÍ·\"}, {\"bbox\": [988, 967, 1397, 1026], \"category\": \"Section-header\", \"text\": \"IV. Tirſtedenſe.\"}, {\"bbox\": [1015, 1138, 1129, 1675], \"category\": \"Text\", \"text\": \"PRÍTI·HÍB·ÍB·INL·NÍPIÍL\\nBÍNÍB·INL·NÍ·PÍRÍTI\\nÍH·*H·NÍR·TÍNÍR·F·SÍI\\n7. 6. 5.\"}, {\"bbox\": [1151, 1216, 1305, 1678], \"category\": \"Text\", \"text\": \"NÍF·ÍH·*H·NÍ·*HÍBÍR·\\nÍHÍT·PRÍT·PÍRÍTI·ÍH\\nRÍHÍT·ÍH·*HÍT·\\nFÍRÍR·ÍH·*HÍRÍR\"}, {\"bbox\": [1010, 1808, 1314, 2046], \"category\": \"Picture\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    943,
+    347,
+    1473,
+    394
+   ],
+   "category": "Section-header",
+   "text": "LALANDICA"
+  },
+  {
+   "bbox": [
+    994,
+    413,
+    1375,
+    493
+   ],
+   "category": "Section-header",
+   "text": "Hårde Gud Òdin."
+  },
+  {
+   "bbox": [
+    1000,
+    497,
+    1364,
+    615
+   ],
+   "category": "Text",
+   "text": "ÞÍRÞI·PÐÞ·HÞI·\nO durum Deum Othinum!\nseu Fatum.."
+  },
+  {
+   "bbox": [
+    910,
+    624,
+    1457,
+    710
+   ],
+   "category": "Text",
+   "text": "Legitur in primo Monumento Smalandico,\nForſitbenſi."
+  },
+  {
+   "bbox": [
+    938,
+    735,
+    1416,
+    823
+   ],
+   "category": "Text",
+   "text": "Sic verò in Monumento Hellelandico\nStavangerenſium 16."
+  },
+  {
+   "bbox": [
+    998,
+    844,
+    1351,
+    879
+   ],
+   "category": "Text",
+   "text": "ÞÍRÞI·PÐÞI·PÍ·"
+  },
+  {
+   "bbox": [
+    988,
+    967,
+    1397,
+    1026
+   ],
+   "category": "Section-header",
+   "text": "IV. Tirſtedenſe."
+  },
+  {
+   "bbox": [
+    1015,
+    1138,
+    1129,
+    1675
+   ],
+   "category": "Text",
+   "text": "PRÍTI·HÍB·ÍB·INL·NÍPIÍL\nBÍNÍB·INL·NÍ·PÍRÍTI\nÍH·*H·NÍR·TÍNÍR·F·SÍI\n7. 6. 5."
+  },
+  {
+   "bbox": [
+    1151,
+    1216,
+    1305,
+    1678
+   ],
+   "category": "Text",
+   "text": "NÍF·ÍH·*H·NÍ·*HÍBÍR·\nÍHÍT·PRÍT·PÍRÍTI·ÍH\nRÍHÍT·ÍH·*HÍT·\nFÍRÍR·ÍH·*HÍRÍR"
+  },
+  {
+   "bbox": [
+    1010,
+    1808,
+    1314,
+    2046
+   ],
+   "category": "Picture"
+  }
+ ]
+}

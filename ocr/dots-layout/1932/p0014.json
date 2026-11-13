@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 14,
+ "seconds": 22.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [358, 662, 1075, 892], \"category\": \"Title\", \"text\": \"H. K. H.\\nKRONPRINS\\nGUSTAF ADOLF\"}, {\"bbox\": [453, 924, 979, 1035], \"category\": \"Text\", \"text\": \"PÅ FEMTIOÅRSDAGEN\\nDEN 11 NOVEMBER\"}, {\"bbox\": [664, 1062, 772, 1105], \"category\": \"Text\", \"text\": \"1932\"}, {\"bbox\": [612, 1140, 825, 1249], \"category\": \"Text\", \"text\": \"TILLÄGNAD\\nAV\"}, {\"bbox\": [456, 1285, 979, 1435], \"category\": \"Text\", \"text\": \"KGL. VITTERHETS\\nHISTORIE OCH ANTIKVITETS\\nAKADEMIEN\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    358,
+    662,
+    1075,
+    892
+   ],
+   "category": "Title",
+   "text": "H. K. H.\nKRONPRINS\nGUSTAF ADOLF"
+  },
+  {
+   "bbox": [
+    453,
+    924,
+    979,
+    1035
+   ],
+   "category": "Text",
+   "text": "PÅ FEMTIOÅRSDAGEN\nDEN 11 NOVEMBER"
+  },
+  {
+   "bbox": [
+    664,
+    1062,
+    772,
+    1105
+   ],
+   "category": "Text",
+   "text": "1932"
+  },
+  {
+   "bbox": [
+    612,
+    1140,
+    825,
+    1249
+   ],
+   "category": "Text",
+   "text": "TILLÄGNAD\nAV"
+  },
+  {
+   "bbox": [
+    456,
+    1285,
+    979,
+    1435
+   ],
+   "category": "Text",
+   "text": "KGL. VITTERHETS\nHISTORIE OCH ANTIKVITETS\nAKADEMIEN"
+  }
+ ]
+}

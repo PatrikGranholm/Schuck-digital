@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 72,
+ "seconds": 26.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [482, 369, 875, 406], \"category\": \"Section-header\", \"text\": \"Bureus och Messenius\"}, {\"bbox\": [157, 439, 1196, 569], \"category\": \"Text\", \"text\": \"domlig slump kom också riksbibliotekarien Collijn att samma dag återfinna mannen och hans arbete i Bibliotheca Casanatensis; kort därefter påträffade han i Vaticanen ytterligare två exemplar. Intet-\"}, {\"bbox\": [223, 603, 1136, 1217], \"category\": \"Text\", \"text\": \"A B ↓ P X V P\\nX I P L Y K A B\\nD K Y ↑ Ν Ø X\\nI X\"}, {\"bbox\": [218, 1245, 1113, 1621], \"category\": \"Text\", \"text\": \"Vlpias Episcopus Gotborum litteras\\ninuonit\\nLucas fanensis scribbat Comę\"}, {\"bbox\": [486, 1638, 881, 1675], \"category\": \"Text\", \"text\": \"Runalfabetet i Lucas Fanensis' arbete.\"}, {\"bbox\": [162, 1728, 1199, 1901], \"category\": \"Text\", \"text\": \"dera exemplaret var dock fullständigt, och i intetdera fanns något runalfabet. En ytterligare slump förde emellertid frågan närmare sin lösning. Vid sin återkomst till Stockholm påträffade nämligen Collijn i Kungl. Biblioteket, där man förut fåfängt letat, ett full-\"}, {\"bbox\": [1148, 1934, 1194, 1972], \"category\": \"Page-footer\", \"text\": \"53\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    482,
+    369,
+    875,
+    406
+   ],
+   "category": "Section-header",
+   "text": "Bureus och Messenius"
+  },
+  {
+   "bbox": [
+    157,
+    439,
+    1196,
+    569
+   ],
+   "category": "Text",
+   "text": "domlig slump kom också riksbibliotekarien Collijn att samma dag återfinna mannen och hans arbete i Bibliotheca Casanatensis; kort därefter påträffade han i Vaticanen ytterligare två exemplar. Intet-"
+  },
+  {
+   "bbox": [
+    223,
+    603,
+    1136,
+    1217
+   ],
+   "category": "Text",
+   "text": "A B ↓ P X V P\nX I P L Y K A B\nD K Y ↑ Ν Ø X\nI X"
+  },
+  {
+   "bbox": [
+    218,
+    1245,
+    1113,
+    1621
+   ],
+   "category": "Text",
+   "text": "Vlpias Episcopus Gotborum litteras\ninuonit\nLucas fanensis scribbat Comę"
+  },
+  {
+   "bbox": [
+    486,
+    1638,
+    881,
+    1675
+   ],
+   "category": "Text",
+   "text": "Runalfabetet i Lucas Fanensis' arbete."
+  },
+  {
+   "bbox": [
+    162,
+    1728,
+    1199,
+    1901
+   ],
+   "category": "Text",
+   "text": "dera exemplaret var dock fullständigt, och i intetdera fanns något runalfabet. En ytterligare slump förde emellertid frågan närmare sin lösning. Vid sin återkomst till Stockholm påträffade nämligen Collijn i Kungl. Biblioteket, där man förut fåfängt letat, ett full-"
+  },
+  {
+   "bbox": [
+    1148,
+    1934,
+    1194,
+    1972
+   ],
+   "category": "Page-footer",
+   "text": "53"
+  }
+ ]
+}

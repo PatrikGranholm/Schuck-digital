@@ -1,0 +1,40 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 323,
+ "seconds": 11.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [100, 55, 1932, 2434], \"category\": \"Picture\"}, {\"bbox\": [1097, 981, 1156, 1071], \"category\": \"Picture\"}, {\"bbox\": [912, 1090, 1348, 1252], \"category\": \"Text\", \"text\": \"KEMPT & WINSLOW\\nCORP. OF NEW YORK\\n1848\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    100,
+    55,
+    1932,
+    2434
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    1097,
+    981,
+    1156,
+    1071
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    912,
+    1090,
+    1348,
+    1252
+   ],
+   "category": "Text",
+   "text": "KEMPT & WINSLOW\nCORP. OF NEW YORK\n1848"
+  }
+ ]
+}

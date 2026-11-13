@@ -1,0 +1,41 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 58,
+ "seconds": 11.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [257, 473, 1243, 1714], \"category\": \"Picture\"}, {\"bbox\": [557, 1762, 943, 1814], \"category\": \"Caption\", \"text\": \"JOHANNES BUREUS\"}, {\"bbox\": [606, 1816, 900, 1854], \"category\": \"Text\", \"text\": \"Efter porträtt på Gripsholm.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    257,
+    473,
+    1243,
+    1714
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    557,
+    1762,
+    943,
+    1814
+   ],
+   "category": "Caption",
+   "text": "JOHANNES BUREUS"
+  },
+  {
+   "bbox": [
+    606,
+    1816,
+    900,
+    1854
+   ],
+   "category": "Text",
+   "text": "Efter porträtt på Gripsholm."
+  }
+ ]
+}

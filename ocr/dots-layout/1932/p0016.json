@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 16,
+ "seconds": 35.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [177, 423, 1220, 659], \"category\": \"Text\", \"text\": \"såväl i nordisk som i utländsk arkeologi kraftigt bidragit till den förnämliga ställning, som svensk arkeologisk forskning tillerkännes.\"}, {\"bbox\": [177, 688, 1220, 1190], \"category\": \"Text\", \"text\": \"¶ I denna tacksamhetsgärd vill Akademien även inlägga en önskan, att det måtte förunnas Eders Kungliga Höghet att länge och lyckosamt få fullfölja den hittills så betydelsefulla verksamhet, av vilken svensk humanistisk forskning i allmänhet och särskilt Kgl. Vitterhets Historie och Antikvitets Akademien dragit så stora fördelar.\"}, {\"bbox\": [177, 1219, 1215, 1367], \"category\": \"Text\", \"text\": \"¶ Akademien frambär till sist på Eders Kungliga Höghets femtioårsdag sin vördsamma hyllning och lyckönskan.\"}, {\"bbox\": [177, 1398, 822, 1451], \"category\": \"Text\", \"text\": \"¶ Stockholm den 11 november 1932.\"}, {\"bbox\": [492, 1574, 912, 1628], \"category\": \"Text\", \"text\": \"HENRIK SCHÜCK\"}, {\"bbox\": [914, 1820, 1212, 1875], \"category\": \"Text\", \"text\": \"Sigurd Curman\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    177,
+    423,
+    1220,
+    659
+   ],
+   "category": "Text",
+   "text": "såväl i nordisk som i utländsk arkeologi kraftigt bidragit till den förnämliga ställning, som svensk arkeologisk forskning tillerkännes."
+  },
+  {
+   "bbox": [
+    177,
+    688,
+    1220,
+    1190
+   ],
+   "category": "Text",
+   "text": "¶ I denna tacksamhetsgärd vill Akademien även inlägga en önskan, att det måtte förunnas Eders Kungliga Höghet att länge och lyckosamt få fullfölja den hittills så betydelsefulla verksamhet, av vilken svensk humanistisk forskning i allmänhet och särskilt Kgl. Vitterhets Historie och Antikvitets Akademien dragit så stora fördelar."
+  },
+  {
+   "bbox": [
+    177,
+    1219,
+    1215,
+    1367
+   ],
+   "category": "Text",
+   "text": "¶ Akademien frambär till sist på Eders Kungliga Höghets femtioårsdag sin vördsamma hyllning och lyckönskan."
+  },
+  {
+   "bbox": [
+    177,
+    1398,
+    822,
+    1451
+   ],
+   "category": "Text",
+   "text": "¶ Stockholm den 11 november 1932."
+  },
+  {
+   "bbox": [
+    492,
+    1574,
+    912,
+    1628
+   ],
+   "category": "Text",
+   "text": "HENRIK SCHÜCK"
+  },
+  {
+   "bbox": [
+    914,
+    1820,
+    1212,
+    1875
+   ],
+   "category": "Text",
+   "text": "Sigurd Curman"
+  }
+ ]
+}

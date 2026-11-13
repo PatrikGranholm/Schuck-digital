@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 219,
+ "seconds": 31.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [915, 657, 1555, 695], \"category\": \"Section-header\", \"text\": \"DEN ISLÄNDSKA RENÄSSANSEN.\"}, {\"bbox\": [713, 771, 1756, 1063], \"category\": \"Text\", \"text\": \"I december 1654 utnämndes den då blott trettiotvåårige Magnus Gabriel De la Gardie till Uppsala universitets kansler, och därmed inleddes en ny period i den svenska fornforskningens historia. Ty det var han, som kort därefter gav denna ett nytt liv, och i stort sett sammanfaller denna period med hans egen livstid. Men även nu måste man taga hänsyn till de nya impulser, som återigen kommo från Danmark, och vi skola först sysselsätta oss med dem.\"}, {\"bbox\": [713, 1063, 1760, 1771], \"category\": \"Text\", \"text\": \"Vid 1500-talets början var den norsk-isländska litteraturen okänd i Danmark, mera okänd än i Sverige, dit dock några norska handskrifter förirrat sig. De flesta »oldnordiska» manuskripten dolde sig då på det avlägset liggande Island, och ehuru flera funnos också i Norge, voro ej heller dessa kända i Danmark. En stor del av dessa norska handskrifter var väl utan betydelse för Nordens fornhistoria, bestod av översättningar av utländska medeltida arbeten, men flera ägde ett högt historiskt värde såsom Codex Frisianus, Jofraskinna och Kringla, som innehöllo Snorres konungasagor, Fagrskinna, Bergsbók m. fl. Det var emellertid med de norska handskrifterna, som man först gjorde bekantskap i Danmark.¹ Den förste danske historieskrivare, som röjer någon kännedom om de norska konungasagorna, var Christiern Pedersen, vilken från någon norsk vän fått vissa excerpt ur de då ännu i Norge befintliga handskrifterna. Pedersen begagnade dem för den danska historia, han skrev och vilken, ehuru den ej trycktes, anlitades av senare danska historiker. Viktigare var den förut nämnda översättning eller rättare den bear-\"}, {\"bbox\": [717, 1786, 1763, 1881], \"category\": \"Footnote\", \"text\": \"¹ Se härom och det följande Gödel: Fornnorsk-Isländsk litteratur i Sverige (1897), Vigfússons Prolegomena till Sturlunga Saga (1878), Werlauff i Nordisk Tidskrift for Oldkyndighet I (1832) och Gustav Storm: Snorre Sturlasöns Historieskrivning (1873).\"}, {\"bbox\": [568, 1074, 708, 1192], \"category\": \"Text\", \"text\": \"Den fornnorska litteraturen i Danmark\"}, {\"bbox\": [723, 1908, 797, 1947], \"category\": \"Page-footer\", \"text\": \"186\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    915,
+    657,
+    1555,
+    695
+   ],
+   "category": "Section-header",
+   "text": "DEN ISLÄNDSKA RENÄSSANSEN."
+  },
+  {
+   "bbox": [
+    713,
+    771,
+    1756,
+    1063
+   ],
+   "category": "Text",
+   "text": "I december 1654 utnämndes den då blott trettiotvåårige Magnus Gabriel De la Gardie till Uppsala universitets kansler, och därmed inleddes en ny period i den svenska fornforskningens historia. Ty det var han, som kort därefter gav denna ett nytt liv, och i stort sett sammanfaller denna period med hans egen livstid. Men även nu måste man taga hänsyn till de nya impulser, som återigen kommo från Danmark, och vi skola först sysselsätta oss med dem."
+  },
+  {
+   "bbox": [
+    713,
+    1063,
+    1760,
+    1771
+   ],
+   "category": "Text",
+   "text": "Vid 1500-talets början var den norsk-isländska litteraturen okänd i Danmark, mera okänd än i Sverige, dit dock några norska handskrifter förirrat sig. De flesta »oldnordiska» manuskripten dolde sig då på det avlägset liggande Island, och ehuru flera funnos också i Norge, voro ej heller dessa kända i Danmark. En stor del av dessa norska handskrifter var väl utan betydelse för Nordens fornhistoria, bestod av översättningar av utländska medeltida arbeten, men flera ägde ett högt historiskt värde såsom Codex Frisianus, Jofraskinna och Kringla, som innehöllo Snorres konungasagor, Fagrskinna, Bergsbók m. fl. Det var emellertid med de norska handskrifterna, som man först gjorde bekantskap i Danmark.¹ Den förste danske historieskrivare, som röjer någon kännedom om de norska konungasagorna, var Christiern Pedersen, vilken från någon norsk vän fått vissa excerpt ur de då ännu i Norge befintliga handskrifterna. Pedersen begagnade dem för den danska historia, han skrev och vilken, ehuru den ej trycktes, anlitades av senare danska historiker. Viktigare var den förut nämnda översättning eller rättare den bear-"
+  },
+  {
+   "bbox": [
+    717,
+    1786,
+    1763,
+    1881
+   ],
+   "category": "Footnote",
+   "text": "¹ Se härom och det följande Gödel: Fornnorsk-Isländsk litteratur i Sverige (1897), Vigfússons Prolegomena till Sturlunga Saga (1878), Werlauff i Nordisk Tidskrift for Oldkyndighet I (1832) och Gustav Storm: Snorre Sturlasöns Historieskrivning (1873)."
+  },
+  {
+   "bbox": [
+    568,
+    1074,
+    708,
+    1192
+   ],
+   "category": "Text",
+   "text": "Den fornnorska litteraturen i Danmark"
+  },
+  {
+   "bbox": [
+    723,
+    1908,
+    797,
+    1947
+   ],
+   "category": "Page-footer",
+   "text": "186"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 44,
+ "seconds": 31.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [594, 362, 771, 404], \"category\": \"Section-header\", \"text\": \"Inledning\"}, {\"bbox\": [161, 431, 1201, 976], \"category\": \"Text\", \"text\": \"växlande grader vårt folks uppfattning av sig självt, av sin ras' duglighet och företräden framför andra, av sin historiska uppgift och sin kallelse. Den återvunna nationella friheten förlänar denna historieromantik en säregen lyftning, och i det följande råder ett påtagligt växelspel mellan de politiska och krigiska händelsernas yttre förlopp och de götiska stämningarna, som växelvis stimulera varandra. Särskilt under Gustav Adolfs tid blir man slagen av, vilken styrka de gotiska renässansstämningarna få under intrycket av de stora segrarna i Tyskland ... Man förstår icke den svenska stormaktsandan och dess födelse, om man icke känner den utomordentliga roll, som den gotiska historien och känslan av att vara the gamble göthers ättlingar spelat i föreställningslivet hos de generationer, som förbereda och skapa Sveriges stormaktsställning.»\"}, {\"bbox\": [164, 966, 1207, 1885], \"category\": \"Text\", \"text\": \"Johannes Magni avled i Rom 1544, innan han ännu fått se sitt arbete i tryck, men tio år efter hans död utgav hans broder Olaus Magni det märkliga arbetet från det tryckeri, som han inrättat i Birgittahuset vid Campo dei fiori. Han dedicerade en del av upplagan — den han avsett för Sverige — till Gustav Vasas söner, hertigarne Erik, Johan, Magnus och Karl, och därom underrättade han konungen i ett i maj skrivet brev. Detta fick konungen först i augusti — själva boken fick han ännu senare. Men både boken och brevet uppväckte hans livligaste förbittring. Av Johannes Magnis brinnande danskhat kände han sig väl livligt tilltalad, och han lät även till svenska översätta det berömda tal av Hemming Gadh, som ärkebiskopen meddelat i sin krönika. Likaså bör Johannes Magnis götiska romantik hava väckt genklang hos honom. Men dessa förmånliga intryck fördunklades fullständigt av arbetets katolskt-hierarkiska tendens och av ärkebiskopens rasande anfall på kyrkoreformationen samt hans mer eller mindre förstuckna utfall mot konungens egen person. Redan innan han läst boken, gav han därför Olaus Magni ett svar, som i hånfullhet ej lämnar något övrigt att önska, och då han på våren 1555 äntligen fick krönikan i sin hand, skrev han till sönerna, att ehuru Olaus Magni i sitt brev försäkrat, att arbetet ej skulle innehålla något om »wår Regementz tijd för the orsaker skuldh, som han ther förmälder, Szå haffuer han thett doch icke\"}, {\"bbox\": [1208, 973, 1353, 1061], \"category\": \"Text\", \"text\": \"Johannes\\nMagni och\\nGustav Vasa.\"}, {\"bbox\": [1155, 1917, 1201, 1955], \"category\": \"Page-footer\", \"text\": \"27\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    594,
+    362,
+    771,
+    404
+   ],
+   "category": "Section-header",
+   "text": "Inledning"
+  },
+  {
+   "bbox": [
+    161,
+    431,
+    1201,
+    976
+   ],
+   "category": "Text",
+   "text": "växlande grader vårt folks uppfattning av sig självt, av sin ras' duglighet och företräden framför andra, av sin historiska uppgift och sin kallelse. Den återvunna nationella friheten förlänar denna historieromantik en säregen lyftning, och i det följande råder ett påtagligt växelspel mellan de politiska och krigiska händelsernas yttre förlopp och de götiska stämningarna, som växelvis stimulera varandra. Särskilt under Gustav Adolfs tid blir man slagen av, vilken styrka de gotiska renässansstämningarna få under intrycket av de stora segrarna i Tyskland ... Man förstår icke den svenska stormaktsandan och dess födelse, om man icke känner den utomordentliga roll, som den gotiska historien och känslan av att vara the gamble göthers ättlingar spelat i föreställningslivet hos de generationer, som förbereda och skapa Sveriges stormaktsställning.»"
+  },
+  {
+   "bbox": [
+    164,
+    966,
+    1207,
+    1885
+   ],
+   "category": "Text",
+   "text": "Johannes Magni avled i Rom 1544, innan han ännu fått se sitt arbete i tryck, men tio år efter hans död utgav hans broder Olaus Magni det märkliga arbetet från det tryckeri, som han inrättat i Birgittahuset vid Campo dei fiori. Han dedicerade en del av upplagan — den han avsett för Sverige — till Gustav Vasas söner, hertigarne Erik, Johan, Magnus och Karl, och därom underrättade han konungen i ett i maj skrivet brev. Detta fick konungen först i augusti — själva boken fick han ännu senare. Men både boken och brevet uppväckte hans livligaste förbittring. Av Johannes Magnis brinnande danskhat kände han sig väl livligt tilltalad, och han lät även till svenska översätta det berömda tal av Hemming Gadh, som ärkebiskopen meddelat i sin krönika. Likaså bör Johannes Magnis götiska romantik hava väckt genklang hos honom. Men dessa förmånliga intryck fördunklades fullständigt av arbetets katolskt-hierarkiska tendens och av ärkebiskopens rasande anfall på kyrkoreformationen samt hans mer eller mindre förstuckna utfall mot konungens egen person. Redan innan han läst boken, gav han därför Olaus Magni ett svar, som i hånfullhet ej lämnar något övrigt att önska, och då han på våren 1555 äntligen fick krönikan i sin hand, skrev han till sönerna, att ehuru Olaus Magni i sitt brev försäkrat, att arbetet ej skulle innehålla något om »wår Regementz tijd för the orsaker skuldh, som han ther förmälder, Szå haffuer han thett doch icke"
+  },
+  {
+   "bbox": [
+    1208,
+    973,
+    1353,
+    1061
+   ],
+   "category": "Text",
+   "text": "Johannes\nMagni och\nGustav Vasa."
+  },
+  {
+   "bbox": [
+    1155,
+    1917,
+    1201,
+    1955
+   ],
+   "category": "Page-footer",
+   "text": "27"
+  }
+ ]
+}

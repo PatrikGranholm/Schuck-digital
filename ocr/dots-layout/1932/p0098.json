@@ -1,0 +1,318 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 98,
+ "seconds": 56.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [245, 340, 1174, 432], \"category\": \"Picture\"}, {\"bbox\": [437, 434, 967, 480], \"category\": \"Section-header\", \"text\": \"LALANDICA\"}, {\"bbox\": [580, 502, 840, 549], \"category\": \"Section-header\", \"text\": \"III. Scolengense\"}, {\"bbox\": [357, 552, 425, 627], \"category\": \"Picture\"}, {\"bbox\": [419, 581, 792, 627], \"category\": \"Text\", \"text\": \"Os Tårdi risti Stin dånst\"}, {\"bbox\": [343, 632, 391, 672], \"category\": \"Picture\"}, {\"bbox\": [396, 632, 799, 666], \"category\": \"Text\", \"text\": \"HURBI • RITI • ITI • PHI •\"}, {\"bbox\": [393, 664, 772, 709], \"category\": \"Text\", \"text\": \"Os Tordo sculpsit saxum hoc\"}, {\"bbox\": [396, 719, 709, 764], \"category\": \"Text\", \"text\": \"öftir Gutá fadur\"}, {\"bbox\": [396, 766, 736, 799], \"category\": \"Text\", \"text\": \"IYTIH • YDTI • YHNR\"}, {\"bbox\": [393, 801, 729, 844], \"category\": \"Text\", \"text\": \"in mem: Gutonis patris\"}, {\"bbox\": [393, 855, 600, 900], \"category\": \"Text\", \"text\": \"sin. Hårde\"}, {\"bbox\": [393, 900, 856, 934], \"category\": \"Text\", \"text\": \"TI • HIRH (I bìc abundat)\"}, {\"bbox\": [384, 934, 605, 979], \"category\": \"Text\", \"text\": \"sui • O durum\"}, {\"bbox\": [384, 989, 578, 1031], \"category\": \"Text\", \"text\": \"Guden Tiekn\"}, {\"bbox\": [390, 1036, 587, 1069], \"category\": \"Text\", \"text\": \"YDTI • HIRH\"}, {\"bbox\": [393, 1072, 644, 1115], \"category\": \"Text\", \"text\": \"Deum Tiegnum\"}, {\"bbox\": [343, 1126, 686, 1162], \"category\": \"Text\", \"text\": \"Erat enim Deus veterum\"}, {\"bbox\": [456, 1164, 657, 1199], \"category\": \"Text\", \"text\": \"Lalandensium\"}, {\"bbox\": [393, 1205, 849, 1300], \"category\": \"Text\", \"text\": \"Tiekn synes wara Öden/ såom\\nden der teknar de fega.\"}, {\"bbox\": [343, 1313, 821, 1443], \"category\": \"Text\", \"text\": \"Sicut Trug Scanorum: in Bergsið/\\nKöping/ Wedmans høj & Fossa.\\napud quos legitur:\"}, {\"bbox\": [421, 1448, 742, 1497], \"category\": \"Text\", \"text\": \"Hårdá Guden Trug\"}, {\"bbox\": [417, 1510, 734, 1546], \"category\": \"Text\", \"text\": \"HIRH • YDTI • YHNR\"}, {\"bbox\": [417, 1542, 777, 1587], \"category\": \"Text\", \"text\": \"O trucem Deum Trugum!\"}, {\"bbox\": [353, 1603, 837, 1685], \"category\": \"Text\", \"text\": \"V Vormio paginis. 179. 182. 198. 204.\\n& in fœminino. pag: 282.\"}, {\"bbox\": [441, 1697, 757, 1749], \"category\": \"Text\", \"text\": \"Harda Gydian Trög\"}, {\"bbox\": [441, 1762, 771, 1797], \"category\": \"Text\", \"text\": \"HIRH • YDTI • YHNR\"}, {\"bbox\": [438, 1799, 785, 1834], \"category\": \"Text\", \"text\": \"O trucem Deam Parcam.\"}, {\"bbox\": [504, 1866, 737, 2017], \"category\": \"Picture\"}, {\"bbox\": [617, 2034, 686, 2066], \"category\": \"Page-footer\", \"text\": \"A 2.\"}, {\"bbox\": [994, 2028, 1148, 2066], \"category\": \"Page-footer\", \"text\": \"Lalandica\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    245,
+    340,
+    1174,
+    432
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    437,
+    434,
+    967,
+    480
+   ],
+   "category": "Section-header",
+   "text": "LALANDICA"
+  },
+  {
+   "bbox": [
+    580,
+    502,
+    840,
+    549
+   ],
+   "category": "Section-header",
+   "text": "III. Scolengense"
+  },
+  {
+   "bbox": [
+    357,
+    552,
+    425,
+    627
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    419,
+    581,
+    792,
+    627
+   ],
+   "category": "Text",
+   "text": "Os Tårdi risti Stin dånst"
+  },
+  {
+   "bbox": [
+    343,
+    632,
+    391,
+    672
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    396,
+    632,
+    799,
+    666
+   ],
+   "category": "Text",
+   "text": "HURBI • RITI • ITI • PHI •"
+  },
+  {
+   "bbox": [
+    393,
+    664,
+    772,
+    709
+   ],
+   "category": "Text",
+   "text": "Os Tordo sculpsit saxum hoc"
+  },
+  {
+   "bbox": [
+    396,
+    719,
+    709,
+    764
+   ],
+   "category": "Text",
+   "text": "öftir Gutá fadur"
+  },
+  {
+   "bbox": [
+    396,
+    766,
+    736,
+    799
+   ],
+   "category": "Text",
+   "text": "IYTIH • YDTI • YHNR"
+  },
+  {
+   "bbox": [
+    393,
+    801,
+    729,
+    844
+   ],
+   "category": "Text",
+   "text": "in mem: Gutonis patris"
+  },
+  {
+   "bbox": [
+    393,
+    855,
+    600,
+    900
+   ],
+   "category": "Text",
+   "text": "sin. Hårde"
+  },
+  {
+   "bbox": [
+    393,
+    900,
+    856,
+    934
+   ],
+   "category": "Text",
+   "text": "TI • HIRH (I bìc abundat)"
+  },
+  {
+   "bbox": [
+    384,
+    934,
+    605,
+    979
+   ],
+   "category": "Text",
+   "text": "sui • O durum"
+  },
+  {
+   "bbox": [
+    384,
+    989,
+    578,
+    1031
+   ],
+   "category": "Text",
+   "text": "Guden Tiekn"
+  },
+  {
+   "bbox": [
+    390,
+    1036,
+    587,
+    1069
+   ],
+   "category": "Text",
+   "text": "YDTI • HIRH"
+  },
+  {
+   "bbox": [
+    393,
+    1072,
+    644,
+    1115
+   ],
+   "category": "Text",
+   "text": "Deum Tiegnum"
+  },
+  {
+   "bbox": [
+    343,
+    1126,
+    686,
+    1162
+   ],
+   "category": "Text",
+   "text": "Erat enim Deus veterum"
+  },
+  {
+   "bbox": [
+    456,
+    1164,
+    657,
+    1199
+   ],
+   "category": "Text",
+   "text": "Lalandensium"
+  },
+  {
+   "bbox": [
+    393,
+    1205,
+    849,
+    1300
+   ],
+   "category": "Text",
+   "text": "Tiekn synes wara Öden/ såom\nden der teknar de fega."
+  },
+  {
+   "bbox": [
+    343,
+    1313,
+    821,
+    1443
+   ],
+   "category": "Text",
+   "text": "Sicut Trug Scanorum: in Bergsið/\nKöping/ Wedmans høj & Fossa.\napud quos legitur:"
+  },
+  {
+   "bbox": [
+    421,
+    1448,
+    742,
+    1497
+   ],
+   "category": "Text",
+   "text": "Hårdá Guden Trug"
+  },
+  {
+   "bbox": [
+    417,
+    1510,
+    734,
+    1546
+   ],
+   "category": "Text",
+   "text": "HIRH • YDTI • YHNR"
+  },
+  {
+   "bbox": [
+    417,
+    1542,
+    777,
+    1587
+   ],
+   "category": "Text",
+   "text": "O trucem Deum Trugum!"
+  },
+  {
+   "bbox": [
+    353,
+    1603,
+    837,
+    1685
+   ],
+   "category": "Text",
+   "text": "V Vormio paginis. 179. 182. 198. 204.\n& in fœminino. pag: 282."
+  },
+  {
+   "bbox": [
+    441,
+    1697,
+    757,
+    1749
+   ],
+   "category": "Text",
+   "text": "Harda Gydian Trög"
+  },
+  {
+   "bbox": [
+    441,
+    1762,
+    771,
+    1797
+   ],
+   "category": "Text",
+   "text": "HIRH • YDTI • YHNR"
+  },
+  {
+   "bbox": [
+    438,
+    1799,
+    785,
+    1834
+   ],
+   "category": "Text",
+   "text": "O trucem Deam Parcam."
+  },
+  {
+   "bbox": [
+    504,
+    1866,
+    737,
+    2017
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    617,
+    2034,
+    686,
+    2066
+   ],
+   "category": "Page-footer",
+   "text": "A 2."
+  },
+  {
+   "bbox": [
+    994,
+    2028,
+    1148,
+    2066
+   ],
+   "category": "Page-footer",
+   "text": "Lalandica"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 317,
+ "seconds": 17.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [1142, 372, 1288, 408], \"category\": \"Section-header\", \"text\": \"Innehåll\"}, {\"bbox\": [696, 443, 1728, 485], \"category\": \"List-item\", \"text\": \"De första förvärven av isländska handskrifter . . . . . . . 193\"}, {\"bbox\": [786, 489, 1638, 555], \"category\": \"Text\", \"text\": \"Stephanius' bibliotek 193, Codex argenteus 196, Seefelds bibliotek 198, Rugmans biografi 199, Rugmans resa 205, Rugmans manuskript 209.\"}, {\"bbox\": [699, 587, 1728, 626], \"category\": \"List-item\", \"text\": \"Professuren i antikviteterna . . . . . . . . . . . . . . 217\"}, {\"bbox\": [786, 632, 1642, 728], \"category\": \"Text\", \"text\": \"Verelius' biografi 217, Verelius blir professor 221, Verelius' föreläsningar 227, Gothrici et Rolfi Historia 232, Den första arkeologiska grävningen 237, Olaf Tryggiasons saga 239, Herraud och Bose 240.\"}, {\"bbox\": [699, 760, 1728, 798], \"category\": \"List-item\", \"text\": \"De senare antikvarierna . . . . . . . . . . . . . . . 242\"}, {\"bbox\": [786, 804, 1642, 900], \"category\": \"Text\", \"text\": \"Laurentius Bureus 242, Bureus' tillämnade antikvariska resa 252, Hadorphs memorial 255, Plakatet 1666 264, Hadorphs första tid 269, Verelius blir antikvarie 273, Isthmenius 274, Hadorph som antikvarie 276.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    1142,
+    372,
+    1288,
+    408
+   ],
+   "category": "Section-header",
+   "text": "Innehåll"
+  },
+  {
+   "bbox": [
+    696,
+    443,
+    1728,
+    485
+   ],
+   "category": "List-item",
+   "text": "De första förvärven av isländska handskrifter . . . . . . . 193"
+  },
+  {
+   "bbox": [
+    786,
+    489,
+    1638,
+    555
+   ],
+   "category": "Text",
+   "text": "Stephanius' bibliotek 193, Codex argenteus 196, Seefelds bibliotek 198, Rugmans biografi 199, Rugmans resa 205, Rugmans manuskript 209."
+  },
+  {
+   "bbox": [
+    699,
+    587,
+    1728,
+    626
+   ],
+   "category": "List-item",
+   "text": "Professuren i antikviteterna . . . . . . . . . . . . . . 217"
+  },
+  {
+   "bbox": [
+    786,
+    632,
+    1642,
+    728
+   ],
+   "category": "Text",
+   "text": "Verelius' biografi 217, Verelius blir professor 221, Verelius' föreläsningar 227, Gothrici et Rolfi Historia 232, Den första arkeologiska grävningen 237, Olaf Tryggiasons saga 239, Herraud och Bose 240."
+  },
+  {
+   "bbox": [
+    699,
+    760,
+    1728,
+    798
+   ],
+   "category": "List-item",
+   "text": "De senare antikvarierna . . . . . . . . . . . . . . . 242"
+  },
+  {
+   "bbox": [
+    786,
+    804,
+    1642,
+    900
+   ],
+   "category": "Text",
+   "text": "Laurentius Bureus 242, Bureus' tillämnade antikvariska resa 252, Hadorphs memorial 255, Plakatet 1666 264, Hadorphs första tid 269, Verelius blir antikvarie 273, Isthmenius 274, Hadorph som antikvarie 276."
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 321,
+ "seconds": 13.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [1103, 978, 1161, 1067], \"category\": \"Picture\"}, {\"bbox\": [918, 1093, 1351, 1133], \"category\": \"Text\", \"text\": \"ALMQVIST & WIKSELLS\"}, {\"bbox\": [983, 1140, 1283, 1168], \"category\": \"Text\", \"text\": \"BOKTRYCKERI-A.-B.\"}, {\"bbox\": [1049, 1183, 1221, 1209], \"category\": \"Text\", \"text\": \"UPPSALA\"}, {\"bbox\": [1106, 1223, 1162, 1249], \"category\": \"Text\", \"text\": \"1932\"}, {\"bbox\": [1727, 2147, 1847, 2237], \"category\": \"Formula\", \"text\": \"$\\\\frac{34}{31} 38$\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    1103,
+    978,
+    1161,
+    1067
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    918,
+    1093,
+    1351,
+    1133
+   ],
+   "category": "Text",
+   "text": "ALMQVIST & WIKSELLS"
+  },
+  {
+   "bbox": [
+    983,
+    1140,
+    1283,
+    1168
+   ],
+   "category": "Text",
+   "text": "BOKTRYCKERI-A.-B."
+  },
+  {
+   "bbox": [
+    1049,
+    1183,
+    1221,
+    1209
+   ],
+   "category": "Text",
+   "text": "UPPSALA"
+  },
+  {
+   "bbox": [
+    1106,
+    1223,
+    1162,
+    1249
+   ],
+   "category": "Text",
+   "text": "1932"
+  },
+  {
+   "bbox": [
+    1727,
+    2147,
+    1847,
+    2237
+   ],
+   "category": "Formula",
+   "text": "$\\frac{34}{31} 38$"
+  }
+ ]
+}

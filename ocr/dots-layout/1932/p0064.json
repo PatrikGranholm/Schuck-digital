@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 64,
+ "seconds": 35.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [497, 361, 889, 398], \"category\": \"Section-header\", \"text\": \"Bureus och Messenius\"}, {\"bbox\": [172, 429, 1207, 521], \"category\": \"Text\", \"text\": \"aldrig till några förfalskningar. Hos honom bryta sig således de bägge riktningarna.\"}, {\"bbox\": [172, 518, 1209, 733], \"category\": \"Text\", \"text\": \"Sitt huvudsakliga intresse ägnade han åt runorna. Hans första tryckta skrift inom denna forskningsgren var, som sagt, Runakenslanes Läraspån (1599). Då emellertid Hildebrands uppgifter om denna runtavla äro rent oförklarligt felaktiga, torde en mera utförlig beskrivning vara nödvändig.\"}, {\"bbox\": [172, 731, 1213, 1565], \"category\": \"Text\", \"text\": \"Tavlan omgives av en ram, bestående av de svenska landskapsvapnen, bland vilka Bureus i sin storsvenskhet även medtagit de då danska provinserna Gotlands, Skånes, Hallands och Blekings sköldar. Innanför denna ram förekommer en ny: en runstav på vardera långsidan. Innanför runstavarna befinner sig den egentliga tavlan, som uppifrån räknat består av ett mittparti och tvenne sidopartier. Det vänstra sidopartiet har överst en tabell: Observationes in varietatem lecturæ monumentorum, vilken kan betraktas såsom »ett litet utkast till descriptiv svensk ljudlära» (Lindroth), och nederst en annan, som visar binderunor, stungna runor m. m. Det högra sidopartiet har överst en tabell till förklaring av runstaven och nederst en annan, som behandlar motsvarigheten mellan hebreisk, grekisk och latinsk skrift å ena sidan samt runtecknen å den andra. Viktigast äro de båda partier, som på var sida finnas mellan de övre och de nedre tabellerna. Till vänster har Bureus dels avbildat fyra runstenar: överst Svarsta och Måstad, nederst Vassunda prästgård och Varpsunds udde (Liljegren 29, 90, 19 och 38), dels anfört fem runinskrifter från stenar i Vassunda, Borgmästarvreten i Sigtuna, Ekala bro, västra kyrkodörren i Sigtuna och Hargs kvarn (Liljegren 16, 9, 45, 10, 435).¹ På den motsvarande vänstra sidan avbildas likaledes fyra runstenar:\"}, {\"bbox\": [1216, 734, 1328, 763], \"category\": \"Text\", \"text\": \"Runtavlan\"}, {\"bbox\": [174, 1583, 1215, 1893], \"category\": \"Footnote\", \"text\": \"¹ Hildebrands uppgifter äro här alldeles felaktiga. För det första uppgiver han runinskrifternas antal på denna sida till fyra i stället för fem, vidare att dessa runinskrifter (i bägge fälten) »återgifvas på svenska och latin», under det att endast runorna utan någon översättning eller transkribering meddelas. Slutligen äro runstenar och runinskrifter alldeles förblandade. Runstenarna sägas vara från Vassunda kyrka, Borgmästarvreten i Sigtuna, Ekala bro och Varpsunds udde (Liljegren 16, 9, 45, 38). Endast den sista är en runsten; de tre övriga av Hildebrand nämnda stenarna avbildas icke i Bureus' stick, utan förekomma endast såsom runinskrifter. Alla uppgifterna om runinskrifterna äro oriktiga. Dessa — enligt Hildebrand från Svarsta, Måstad, Vassunda prästgård och Varpsunds udde — tillhöra de avbildade stenarna, och den femte inskriften har Hildebrand ej observerat.\"}, {\"bbox\": [1159, 1920, 1207, 1957], \"category\": \"Page-footer\", \"text\": \"45\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    497,
+    361,
+    889,
+    398
+   ],
+   "category": "Section-header",
+   "text": "Bureus och Messenius"
+  },
+  {
+   "bbox": [
+    172,
+    429,
+    1207,
+    521
+   ],
+   "category": "Text",
+   "text": "aldrig till några förfalskningar. Hos honom bryta sig således de bägge riktningarna."
+  },
+  {
+   "bbox": [
+    172,
+    518,
+    1209,
+    733
+   ],
+   "category": "Text",
+   "text": "Sitt huvudsakliga intresse ägnade han åt runorna. Hans första tryckta skrift inom denna forskningsgren var, som sagt, Runakenslanes Läraspån (1599). Då emellertid Hildebrands uppgifter om denna runtavla äro rent oförklarligt felaktiga, torde en mera utförlig beskrivning vara nödvändig."
+  },
+  {
+   "bbox": [
+    172,
+    731,
+    1213,
+    1565
+   ],
+   "category": "Text",
+   "text": "Tavlan omgives av en ram, bestående av de svenska landskapsvapnen, bland vilka Bureus i sin storsvenskhet även medtagit de då danska provinserna Gotlands, Skånes, Hallands och Blekings sköldar. Innanför denna ram förekommer en ny: en runstav på vardera långsidan. Innanför runstavarna befinner sig den egentliga tavlan, som uppifrån räknat består av ett mittparti och tvenne sidopartier. Det vänstra sidopartiet har överst en tabell: Observationes in varietatem lecturæ monumentorum, vilken kan betraktas såsom »ett litet utkast till descriptiv svensk ljudlära» (Lindroth), och nederst en annan, som visar binderunor, stungna runor m. m. Det högra sidopartiet har överst en tabell till förklaring av runstaven och nederst en annan, som behandlar motsvarigheten mellan hebreisk, grekisk och latinsk skrift å ena sidan samt runtecknen å den andra. Viktigast äro de båda partier, som på var sida finnas mellan de övre och de nedre tabellerna. Till vänster har Bureus dels avbildat fyra runstenar: överst Svarsta och Måstad, nederst Vassunda prästgård och Varpsunds udde (Liljegren 29, 90, 19 och 38), dels anfört fem runinskrifter från stenar i Vassunda, Borgmästarvreten i Sigtuna, Ekala bro, västra kyrkodörren i Sigtuna och Hargs kvarn (Liljegren 16, 9, 45, 10, 435).¹ På den motsvarande vänstra sidan avbildas likaledes fyra runstenar:"
+  },
+  {
+   "bbox": [
+    1216,
+    734,
+    1328,
+    763
+   ],
+   "category": "Text",
+   "text": "Runtavlan"
+  },
+  {
+   "bbox": [
+    174,
+    1583,
+    1215,
+    1893
+   ],
+   "category": "Footnote",
+   "text": "¹ Hildebrands uppgifter äro här alldeles felaktiga. För det första uppgiver han runinskrifternas antal på denna sida till fyra i stället för fem, vidare att dessa runinskrifter (i bägge fälten) »återgifvas på svenska och latin», under det att endast runorna utan någon översättning eller transkribering meddelas. Slutligen äro runstenar och runinskrifter alldeles förblandade. Runstenarna sägas vara från Vassunda kyrka, Borgmästarvreten i Sigtuna, Ekala bro och Varpsunds udde (Liljegren 16, 9, 45, 38). Endast den sista är en runsten; de tre övriga av Hildebrand nämnda stenarna avbildas icke i Bureus' stick, utan förekomma endast såsom runinskrifter. Alla uppgifterna om runinskrifterna äro oriktiga. Dessa — enligt Hildebrand från Svarsta, Måstad, Vassunda prästgård och Varpsunds udde — tillhöra de avbildade stenarna, och den femte inskriften har Hildebrand ej observerat."
+  },
+  {
+   "bbox": [
+    1159,
+    1920,
+    1207,
+    1957
+   ],
+   "category": "Page-footer",
+   "text": "45"
+  }
+ ]
+}

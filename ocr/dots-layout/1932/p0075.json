@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 75,
+ "seconds": 32.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [977, 373, 1451, 417], \"category\": \"Section-header\", \"text\": \"Antikvitetsstudiets början\"}, {\"bbox\": [696, 445, 1734, 731], \"category\": \"Text\", \"text\": \"rim Archiepiscopi scriba Gotthicum alphabetum, cum latinis sibi respondentibus literis, suppresso tamen elementorum nomine scripsit. Quo impetrato, voti mei iam conscius Iulius, cum suis mihi directis Epistolis, e Bononia Papiam vna cum superius descriptis Hetruscorum literis misit. Quo ordine illud scriptum recepi, eo nunc vobis charissimi lecturis exhibeo ... Alphabetum vero illud tale erat.»\"}, {\"bbox\": [696, 735, 1736, 1071], \"category\": \"Text\", \"text\": \"Han har således fått detta alfabet från Johannes Magni, vilken att döma härav till Italien medfört flera runalfabet än det, som han meddelat i sin historia. Johannes Magni var övertygad om, att den ifrågavarande runskriften var »gotisk», och det var därför ganska naturligt, att både Theseus Ambrosius och Lucas Fanensis skulle tro detsamma, naturligt även att Bureus trodde det — han hade ju funnit den i ett italienskt arbete, och han misstänkte därför icke, att dessa runor »extra patriam» i själva verket voro nordiska.\"}, {\"bbox\": [696, 1068, 1736, 1396], \"category\": \"Text\", \"text\": \"Jag har uppehållit mig kanske väl länge vid denna detalj, men den har synts mig vara av ett visst intresse, även därför att den visar Bureus' omfattande beläsenhet i den utländska litteratur, som kunde vara av intresse för svensk fornforskning. Han kände icke blott Lucas Fanensis, utan även Schraderus, Theseus Ambrosius, Trithemius, Wolfgang Lazius och andra författare, som varit inne på dylika frågor. Och naturligtyis kände han allt, som i Danmark hade skrivits om runor.\"}, {\"bbox\": [576, 1405, 694, 1467], \"category\": \"Text\", \"text\": \"De danska runorna\"}, {\"bbox\": [696, 1399, 1739, 1902], \"category\": \"Text\", \"text\": \"Källan till det danska alfabetet i runtavlan är också känd, och här komma vi till den på Bureus' tid livligt debatterade frågan om den svenska eller den danska runforskningens prioritet. Beröringen mellan svensk och dansk kultur var under reformationstiden mycket svag, beroende särskilt på svenskarnes danskhat, men på fornforskningens område var denna beröring dock större än man förmodat, och båda landen hava här ömsesidigt påverkat varandra. 1500-talets danska kultur stod onekligen betydligt över den samtida svenska, och i Danmark finner man flera högtstående personer, som haft ett visst intresse för runorna. Om detta danska runintresse får man just i Vulcanius' nyss citerade bok några upplysningar, ty här meddelas — före Bureus' runtavla — flera runalfabet. En engelsk diplomat,\"}, {\"bbox\": [703, 1929, 752, 1978], \"category\": \"Page-footer\", \"text\": \"56\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    977,
+    373,
+    1451,
+    417
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsstudiets början"
+  },
+  {
+   "bbox": [
+    696,
+    445,
+    1734,
+    731
+   ],
+   "category": "Text",
+   "text": "rim Archiepiscopi scriba Gotthicum alphabetum, cum latinis sibi respondentibus literis, suppresso tamen elementorum nomine scripsit. Quo impetrato, voti mei iam conscius Iulius, cum suis mihi directis Epistolis, e Bononia Papiam vna cum superius descriptis Hetruscorum literis misit. Quo ordine illud scriptum recepi, eo nunc vobis charissimi lecturis exhibeo ... Alphabetum vero illud tale erat.»"
+  },
+  {
+   "bbox": [
+    696,
+    735,
+    1736,
+    1071
+   ],
+   "category": "Text",
+   "text": "Han har således fått detta alfabet från Johannes Magni, vilken att döma härav till Italien medfört flera runalfabet än det, som han meddelat i sin historia. Johannes Magni var övertygad om, att den ifrågavarande runskriften var »gotisk», och det var därför ganska naturligt, att både Theseus Ambrosius och Lucas Fanensis skulle tro detsamma, naturligt även att Bureus trodde det — han hade ju funnit den i ett italienskt arbete, och han misstänkte därför icke, att dessa runor »extra patriam» i själva verket voro nordiska."
+  },
+  {
+   "bbox": [
+    696,
+    1068,
+    1736,
+    1396
+   ],
+   "category": "Text",
+   "text": "Jag har uppehållit mig kanske väl länge vid denna detalj, men den har synts mig vara av ett visst intresse, även därför att den visar Bureus' omfattande beläsenhet i den utländska litteratur, som kunde vara av intresse för svensk fornforskning. Han kände icke blott Lucas Fanensis, utan även Schraderus, Theseus Ambrosius, Trithemius, Wolfgang Lazius och andra författare, som varit inne på dylika frågor. Och naturligtyis kände han allt, som i Danmark hade skrivits om runor."
+  },
+  {
+   "bbox": [
+    576,
+    1405,
+    694,
+    1467
+   ],
+   "category": "Text",
+   "text": "De danska runorna"
+  },
+  {
+   "bbox": [
+    696,
+    1399,
+    1739,
+    1902
+   ],
+   "category": "Text",
+   "text": "Källan till det danska alfabetet i runtavlan är också känd, och här komma vi till den på Bureus' tid livligt debatterade frågan om den svenska eller den danska runforskningens prioritet. Beröringen mellan svensk och dansk kultur var under reformationstiden mycket svag, beroende särskilt på svenskarnes danskhat, men på fornforskningens område var denna beröring dock större än man förmodat, och båda landen hava här ömsesidigt påverkat varandra. 1500-talets danska kultur stod onekligen betydligt över den samtida svenska, och i Danmark finner man flera högtstående personer, som haft ett visst intresse för runorna. Om detta danska runintresse får man just i Vulcanius' nyss citerade bok några upplysningar, ty här meddelas — före Bureus' runtavla — flera runalfabet. En engelsk diplomat,"
+  },
+  {
+   "bbox": [
+    703,
+    1929,
+    752,
+    1978
+   ],
+   "category": "Page-footer",
+   "text": "56"
+  }
+ ]
+}

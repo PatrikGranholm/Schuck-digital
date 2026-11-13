@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 222,
+ "seconds": 32.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [452, 354, 932, 391], \"category\": \"Section-header\", \"text\": \"Den isländska renässansen\"}, {\"bbox\": [168, 423, 1216, 1802], \"category\": \"Text\", \"text\": \"Arngrímur började genast arbetet och hade 1597 avslutat det, ehuru han visserligen icke utfört det på det sätt, som Krag önskat. I stället att sända honom isländska sagor i latinsk översättning, skrev han på grundvalen av de handskrifter, han insamlat, en Norges, en Sveriges, en Orknöarnas och en Danmarks historia — liksom hans andra arbeten på latin. »Udbyttet — skriver Axel Olrik — er ikke stort i forhold til möjen; forfatteren har gennemlæst de gamle skindböger, 26 og vel endnu flere har han haft i hænde och efter gennemlæsningen givet dem tilbage til ejermanden.» Men utan värde blev hans arbete dock icke, ty bland de arbeten, som han kompilerat för Danmarks historia, befann sig även den nu förlorade Skioldungasagan, som således endast är känd genom Arngrímurs referat. Samarbetet mellan honom och Krag fortsattes genom en lärd brevväxling och avbröts först genom Krags död 1602. Genom denna hade Arngrímur blivit en auktoritet i isländska antikviteter, och detta anseende befästades ytterligare genom hans lärda isländska kulturhistoria — ty så torde den böra kallas — Crymogæa, som 1610 trycktes i Hamburg. Det var därför ganska naturligt, att han och Wormius skulle komma i beröring med varandra, och 1626 började de en lärd brevväxling, som fortgick ända till den förres död. Av denna brevväxling framgår, att Arngrímur åtminstone redan 1627 börjat sända handskrifter till Danmark. Detta år skrev nämligen Wormius till honom: »Libri a te transmissi ad Magnum Cancellarium pervenere, sed undis ac naufragio adeo laceri, madidi et squalidi, ut vix literam discernere datum». Denna sändning hade således misslyckats. Bättre tur hade han med den nästa. 1628 skrev nämligen Arngrímur: »Eddam et conjunctam Skalldam, quia meus Codex est, D. Wormio libenter concedo, quamcumque volet diu»¹, d. v. s. Wormius mottog detta år den berömda handskrift av Snorraeddan, som är bekant under namnet Codex Wormianus. Därmed inleddes den export av isländska handskrifter, som under århundradet skulle antaga så gigantiska proportioner och få en så genomgripande litterär betydelse.\"}, {\"bbox\": [173, 1818, 1218, 1887], \"category\": \"Footnote\", \"text\": \"¹ Olai Wormii et ad eum doctorum virorum epistolæ (1751) I, sid. 296, 301. Att döma av Arngrímurs ord tyckes Wormius hava fått handskriften endast till låns, om än på lång tid. Men\"}, {\"bbox\": [1142, 1911, 1213, 1956], \"category\": \"Page-footer\", \"text\": \"189\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    452,
+    354,
+    932,
+    391
+   ],
+   "category": "Section-header",
+   "text": "Den isländska renässansen"
+  },
+  {
+   "bbox": [
+    168,
+    423,
+    1216,
+    1802
+   ],
+   "category": "Text",
+   "text": "Arngrímur började genast arbetet och hade 1597 avslutat det, ehuru han visserligen icke utfört det på det sätt, som Krag önskat. I stället att sända honom isländska sagor i latinsk översättning, skrev han på grundvalen av de handskrifter, han insamlat, en Norges, en Sveriges, en Orknöarnas och en Danmarks historia — liksom hans andra arbeten på latin. »Udbyttet — skriver Axel Olrik — er ikke stort i forhold til möjen; forfatteren har gennemlæst de gamle skindböger, 26 og vel endnu flere har han haft i hænde och efter gennemlæsningen givet dem tilbage til ejermanden.» Men utan värde blev hans arbete dock icke, ty bland de arbeten, som han kompilerat för Danmarks historia, befann sig även den nu förlorade Skioldungasagan, som således endast är känd genom Arngrímurs referat. Samarbetet mellan honom och Krag fortsattes genom en lärd brevväxling och avbröts först genom Krags död 1602. Genom denna hade Arngrímur blivit en auktoritet i isländska antikviteter, och detta anseende befästades ytterligare genom hans lärda isländska kulturhistoria — ty så torde den böra kallas — Crymogæa, som 1610 trycktes i Hamburg. Det var därför ganska naturligt, att han och Wormius skulle komma i beröring med varandra, och 1626 började de en lärd brevväxling, som fortgick ända till den förres död. Av denna brevväxling framgår, att Arngrímur åtminstone redan 1627 börjat sända handskrifter till Danmark. Detta år skrev nämligen Wormius till honom: »Libri a te transmissi ad Magnum Cancellarium pervenere, sed undis ac naufragio adeo laceri, madidi et squalidi, ut vix literam discernere datum». Denna sändning hade således misslyckats. Bättre tur hade han med den nästa. 1628 skrev nämligen Arngrímur: »Eddam et conjunctam Skalldam, quia meus Codex est, D. Wormio libenter concedo, quamcumque volet diu»¹, d. v. s. Wormius mottog detta år den berömda handskrift av Snorraeddan, som är bekant under namnet Codex Wormianus. Därmed inleddes den export av isländska handskrifter, som under århundradet skulle antaga så gigantiska proportioner och få en så genomgripande litterär betydelse."
+  },
+  {
+   "bbox": [
+    173,
+    1818,
+    1218,
+    1887
+   ],
+   "category": "Footnote",
+   "text": "¹ Olai Wormii et ad eum doctorum virorum epistolæ (1751) I, sid. 296, 301. Att döma av Arngrímurs ord tyckes Wormius hava fått handskriften endast till låns, om än på lång tid. Men"
+  },
+  {
+   "bbox": [
+    1142,
+    1911,
+    1213,
+    1956
+   ],
+   "category": "Page-footer",
+   "text": "189"
+  }
+ ]
+}

@@ -1,0 +1,292 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 101,
+ "seconds": 105.2,
+ "finish": "stop",
+ "retried": true,
+ "raw": "[{\"bbox\": [926, 337, 1542, 388], \"category\": \"Section-header\", \"text\": \"SELANDICVM\"}, {\"bbox\": [1138, 381, 1408, 426], \"category\": \"Text\", \"text\": \"Tryggewaldense\"}, {\"bbox\": [1107, 455, 1482, 1161], \"category\": \"Text\", \"text\": \"MP 411 P111\\nP111NPR1PR1NPR1N111\\nR111X1N1R1N11N1N111\\nPN111P 111N1P 111N 111N\\nN111R1B1 · P111A N111R1N1P1N111A111\\nN111R1N111A111 111N111 111N 111N\\nN111R1N111P1\"}, {\"bbox\": [1442, 1121, 1476, 1155], \"category\": \"Text\", \"text\": \"6.\"}, {\"bbox\": [869, 1140, 939, 1221], \"category\": \"Text\", \"text\": \"R\"}, {\"bbox\": [935, 1168, 1447, 1224], \"category\": \"Text\", \"text\": \"agnHildr Syftur Vlfs sátti Stáin\"}, {\"bbox\": [907, 1217, 1431, 1257], \"category\": \"Text\", \"text\": \"R111X1N1R 111X1N1R 111P1 111N 111N\"}, {\"bbox\": [911, 1252, 1474, 1302], \"category\": \"Text\", \"text\": \"RagnHildis foror Vlfi posuit Lapidem\"}, {\"bbox\": [909, 1303, 1551, 1354], \"category\": \"Text\", \"text\": \"dánsi áuk gårdi Háug dónsi ein at GunVlf.\"}, {\"bbox\": [907, 1351, 1551, 1389], \"category\": \"Text\", \"text\": \"P111N 111P 111R 111P 111N 111N 111N 111P 111N 111P\"}, {\"bbox\": [907, 1384, 1536, 1434], \"category\": \"Text\", \"text\": \"hunc & fecit Tumulum hunc sola GunVlfo\"}, {\"bbox\": [1421, 1422, 1536, 1458], \"category\": \"Text\", \"text\": \"GunUlfus\"}, {\"bbox\": [907, 1453, 1524, 1505], \"category\": \"Text\", \"text\": \"Vilsing lotu Land wid Nárpis. Fáir var-\"}, {\"bbox\": [907, 1501, 1532, 1538], \"category\": \"Text\", \"text\": \"111N111P 111N 111N 111P 111R 111B 111P 111A 111R\"}, {\"bbox\": [907, 1534, 1512, 1583], \"category\": \"Text\", \"text\": \"VilSingo reliquerút pro-circa Nerpis Pauci fi-\"}, {\"bbox\": [907, 1577, 1019, 1617], \"category\": \"Text\", \"text\": \"Vilsingus\"}, {\"bbox\": [1158, 1575, 1241, 1605], \"category\": \"Text\", \"text\": \"vincias\"}, {\"bbox\": [1279, 1572, 1404, 1603], \"category\": \"Text\", \"text\": \"FinLandia\"}, {\"bbox\": [907, 1619, 1401, 1671], \"category\": \"Text\", \"text\": \"dá nu Futir dán báttri. Sávárd\"}, {\"bbox\": [907, 1667, 1394, 1704], \"category\": \"Text\", \"text\": \"P111 111P 111N 111R 111P 111B 111R 111N 111R\"}, {\"bbox\": [907, 1699, 1428, 1749], \"category\": \"Text\", \"text\": \"unt núc Præfecti illis meliores. Sigvardus\"}, {\"bbox\": [907, 1754, 1322, 1799], \"category\": \"Text\", \"text\": \"lát rita Stáin dónsi.\"}, {\"bbox\": [907, 1801, 1309, 1837], \"category\": \"Text\", \"text\": \"111N 111R 111X 111N 111N 111N 111P 111N\"}, {\"bbox\": [907, 1835, 1316, 1884], \"category\": \"Text\", \"text\": \"fecit signari lapidem hunc.\"}, {\"bbox\": [907, 1886, 1428, 1938], \"category\": \"Text\", \"text\": \"In Heidin Trági hiug Stáin dónsi.\"}, {\"bbox\": [907, 1935, 1416, 1972], \"category\": \"Text\", \"text\": \"111 111P 111R 111N 111P 111B 111N 111N\"}, {\"bbox\": [907, 1968, 1447, 2011], \"category\": \"Text\", \"text\": \"Sed Ethnicus Draco excidit faxum hoc.\"}, {\"bbox\": [889, 2043, 1454, 2084], \"category\": \"Text\", \"text\": \"Vero Simile est, hunc Vlf fuiße, Ulfonem Sprakaleg,\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    926,
+    337,
+    1542,
+    388
+   ],
+   "category": "Section-header",
+   "text": "SELANDICVM"
+  },
+  {
+   "bbox": [
+    1138,
+    381,
+    1408,
+    426
+   ],
+   "category": "Text",
+   "text": "Tryggewaldense"
+  },
+  {
+   "bbox": [
+    1107,
+    455,
+    1482,
+    1161
+   ],
+   "category": "Text",
+   "text": "MP 411 P111\nP111NPR1PR1NPR1N111\nR111X1N1R1N11N1N111\nPN111P 111N1P 111N 111N\nN111R1B1 · P111A N111R1N1P1N111A111\nN111R1N111A111 111N111 111N 111N\nN111R1N111P1"
+  },
+  {
+   "bbox": [
+    1442,
+    1121,
+    1476,
+    1155
+   ],
+   "category": "Text",
+   "text": "6."
+  },
+  {
+   "bbox": [
+    869,
+    1140,
+    939,
+    1221
+   ],
+   "category": "Text",
+   "text": "R"
+  },
+  {
+   "bbox": [
+    935,
+    1168,
+    1447,
+    1224
+   ],
+   "category": "Text",
+   "text": "agnHildr Syftur Vlfs sátti Stáin"
+  },
+  {
+   "bbox": [
+    907,
+    1217,
+    1431,
+    1257
+   ],
+   "category": "Text",
+   "text": "R111X1N1R 111X1N1R 111P1 111N 111N"
+  },
+  {
+   "bbox": [
+    911,
+    1252,
+    1474,
+    1302
+   ],
+   "category": "Text",
+   "text": "RagnHildis foror Vlfi posuit Lapidem"
+  },
+  {
+   "bbox": [
+    909,
+    1303,
+    1551,
+    1354
+   ],
+   "category": "Text",
+   "text": "dánsi áuk gårdi Háug dónsi ein at GunVlf."
+  },
+  {
+   "bbox": [
+    907,
+    1351,
+    1551,
+    1389
+   ],
+   "category": "Text",
+   "text": "P111N 111P 111R 111P 111N 111N 111N 111P 111N 111P"
+  },
+  {
+   "bbox": [
+    907,
+    1384,
+    1536,
+    1434
+   ],
+   "category": "Text",
+   "text": "hunc & fecit Tumulum hunc sola GunVlfo"
+  },
+  {
+   "bbox": [
+    1421,
+    1422,
+    1536,
+    1458
+   ],
+   "category": "Text",
+   "text": "GunUlfus"
+  },
+  {
+   "bbox": [
+    907,
+    1453,
+    1524,
+    1505
+   ],
+   "category": "Text",
+   "text": "Vilsing lotu Land wid Nárpis. Fáir var-"
+  },
+  {
+   "bbox": [
+    907,
+    1501,
+    1532,
+    1538
+   ],
+   "category": "Text",
+   "text": "111N111P 111N 111N 111P 111R 111B 111P 111A 111R"
+  },
+  {
+   "bbox": [
+    907,
+    1534,
+    1512,
+    1583
+   ],
+   "category": "Text",
+   "text": "VilSingo reliquerút pro-circa Nerpis Pauci fi-"
+  },
+  {
+   "bbox": [
+    907,
+    1577,
+    1019,
+    1617
+   ],
+   "category": "Text",
+   "text": "Vilsingus"
+  },
+  {
+   "bbox": [
+    1158,
+    1575,
+    1241,
+    1605
+   ],
+   "category": "Text",
+   "text": "vincias"
+  },
+  {
+   "bbox": [
+    1279,
+    1572,
+    1404,
+    1603
+   ],
+   "category": "Text",
+   "text": "FinLandia"
+  },
+  {
+   "bbox": [
+    907,
+    1619,
+    1401,
+    1671
+   ],
+   "category": "Text",
+   "text": "dá nu Futir dán báttri. Sávárd"
+  },
+  {
+   "bbox": [
+    907,
+    1667,
+    1394,
+    1704
+   ],
+   "category": "Text",
+   "text": "P111 111P 111N 111R 111P 111B 111R 111N 111R"
+  },
+  {
+   "bbox": [
+    907,
+    1699,
+    1428,
+    1749
+   ],
+   "category": "Text",
+   "text": "unt núc Præfecti illis meliores. Sigvardus"
+  },
+  {
+   "bbox": [
+    907,
+    1754,
+    1322,
+    1799
+   ],
+   "category": "Text",
+   "text": "lát rita Stáin dónsi."
+  },
+  {
+   "bbox": [
+    907,
+    1801,
+    1309,
+    1837
+   ],
+   "category": "Text",
+   "text": "111N 111R 111X 111N 111N 111N 111P 111N"
+  },
+  {
+   "bbox": [
+    907,
+    1835,
+    1316,
+    1884
+   ],
+   "category": "Text",
+   "text": "fecit signari lapidem hunc."
+  },
+  {
+   "bbox": [
+    907,
+    1886,
+    1428,
+    1938
+   ],
+   "category": "Text",
+   "text": "In Heidin Trági hiug Stáin dónsi."
+  },
+  {
+   "bbox": [
+    907,
+    1935,
+    1416,
+    1972
+   ],
+   "category": "Text",
+   "text": "111 111P 111R 111N 111P 111B 111N 111N"
+  },
+  {
+   "bbox": [
+    907,
+    1968,
+    1447,
+    2011
+   ],
+   "category": "Text",
+   "text": "Sed Ethnicus Draco excidit faxum hoc."
+  },
+  {
+   "bbox": [
+    889,
+    2043,
+    1454,
+    2084
+   ],
+   "category": "Text",
+   "text": "Vero Simile est, hunc Vlf fuiße, Ulfonem Sprakaleg,"
+  }
+ ]
+}

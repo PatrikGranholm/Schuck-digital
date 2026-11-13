@@ -1,0 +1,41 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 6,
+ "seconds": 29.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [0, 0, 1792, 2492], \"category\": \"Picture\"}, {\"bbox\": [762, 1867, 1183, 1903], \"category\": \"Text\", \"text\": \"1952\"}, {\"bbox\": [933, 1927, 1071, 1977], \"category\": \"Text\", \"text\": \"1952\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    0,
+    0,
+    1792,
+    2492
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    762,
+    1867,
+    1183,
+    1903
+   ],
+   "category": "Text",
+   "text": "1952"
+  },
+  {
+   "bbox": [
+    933,
+    1927,
+    1071,
+    1977
+   ],
+   "category": "Text",
+   "text": "1952"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 246,
+ "seconds": 34.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [255, 357, 1112, 405], \"category\": \"Section-header\", \"text\": \"De första förvärven av isländska handskrifter\"}, {\"bbox\": [160, 428, 1206, 557], \"category\": \"Text\", \"text\": \"ingen anteckning, ännu mindre någon om tiden, när den i så fall skulle hava förvärvats av honom. Till Uppsalabiblioteket kom den först 1717 med den Salanska samlingen.\"}, {\"bbox\": [163, 558, 1211, 890], \"category\": \"Text\", \"text\": \"2) Papp. 4:0 nr 8 i K. B. innehåller en avskrift från 1600-talets mitt av Sturlungasagan. Då den 1667 för ett pris av 5骑 inköptes av Verelius, är det så gott som säkert, att den försålts av Rugman, men när han förvärvat den, är fullkomligt obekant, och i sin katalog skriver också Gödel: »Handskriften torde hava blivit förd över till Sverige av Jonas Rugman, vare sig han förvärvat den vid sina insamlingar på Island år 1661 eller under någon av sina resor till København».\"}, {\"bbox\": [166, 924, 1209, 1017], \"category\": \"Text\", \"text\": \"Vi komma nu till de handskrifter, som Rugman möjligen förvärvat på Island 1661.\"}, {\"bbox\": [166, 1031, 1211, 1285], \"category\": \"Text\", \"text\": \"1) »S:te Karins Saga. Mss. vetus» förekommer bland Reenhielms manuskript, och det är högst sannolikt, att han köpt handskriften av Rugman. Men när och var denne fått den, vet man icke, då den nu är förlorad. Reenhielm ägde ock »Norriges Hirdskrå», som i hans katalog betecknas såsom »M. Jonæ Rugmans», men denna avskrift, som nu finnes i Lund, gjordes av Rugman i Sverige.\"}, {\"bbox\": [169, 1287, 1214, 1501], \"category\": \"Text\", \"text\": \"2) Perg. 4:0 nr 22 i K. B. Innehåller rimur, skrivna på 1500-talet: »Om handskriftens historia är ingenting närmare känt. Till Sverige synes den hava kommit med de manuskript, som Jonas Rugman hemförde från sin resa till Island år 1661.» (Gödels katalog sid. 66.) Något skäl härför angives emellertid icke.\"}, {\"bbox\": [169, 1501, 1216, 1673], \"category\": \"Text\", \"text\": \"3) Papp. 4:0 nr 26 i K. B. innehåller Bárðar saga snæfellsáss. »Handskriften är skriven på Island. När och på vad väg den kommit till Sverige, är icke känt, om också åtskilligt talar för, att den varit med i Jonas Rugmans samling av år 1661.»\"}, {\"bbox\": [171, 1673, 1217, 1889], \"category\": \"Text\", \"text\": \"4) Papp. 4:0 nr 31 i K. B. Här föreligger förmodligen ett tryckfel hos Gödel, ty nr 31 är skriven av Jón Eggertsson, en islänning, som senare kom till Sverige. Måhända avses Papp 4:0 nr 33, som skrevs av Rugman, men dels i Stockholm, dels i Köpenhamn och Helsingör 1665.\"}, {\"bbox\": [1142, 1921, 1214, 1959], \"category\": \"Page-footer\", \"text\": \"213\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    255,
+    357,
+    1112,
+    405
+   ],
+   "category": "Section-header",
+   "text": "De första förvärven av isländska handskrifter"
+  },
+  {
+   "bbox": [
+    160,
+    428,
+    1206,
+    557
+   ],
+   "category": "Text",
+   "text": "ingen anteckning, ännu mindre någon om tiden, när den i så fall skulle hava förvärvats av honom. Till Uppsalabiblioteket kom den först 1717 med den Salanska samlingen."
+  },
+  {
+   "bbox": [
+    163,
+    558,
+    1211,
+    890
+   ],
+   "category": "Text",
+   "text": "2) Papp. 4:0 nr 8 i K. B. innehåller en avskrift från 1600-talets mitt av Sturlungasagan. Då den 1667 för ett pris av 5骑 inköptes av Verelius, är det så gott som säkert, att den försålts av Rugman, men när han förvärvat den, är fullkomligt obekant, och i sin katalog skriver också Gödel: »Handskriften torde hava blivit förd över till Sverige av Jonas Rugman, vare sig han förvärvat den vid sina insamlingar på Island år 1661 eller under någon av sina resor till København»."
+  },
+  {
+   "bbox": [
+    166,
+    924,
+    1209,
+    1017
+   ],
+   "category": "Text",
+   "text": "Vi komma nu till de handskrifter, som Rugman möjligen förvärvat på Island 1661."
+  },
+  {
+   "bbox": [
+    166,
+    1031,
+    1211,
+    1285
+   ],
+   "category": "Text",
+   "text": "1) »S:te Karins Saga. Mss. vetus» förekommer bland Reenhielms manuskript, och det är högst sannolikt, att han köpt handskriften av Rugman. Men när och var denne fått den, vet man icke, då den nu är förlorad. Reenhielm ägde ock »Norriges Hirdskrå», som i hans katalog betecknas såsom »M. Jonæ Rugmans», men denna avskrift, som nu finnes i Lund, gjordes av Rugman i Sverige."
+  },
+  {
+   "bbox": [
+    169,
+    1287,
+    1214,
+    1501
+   ],
+   "category": "Text",
+   "text": "2) Perg. 4:0 nr 22 i K. B. Innehåller rimur, skrivna på 1500-talet: »Om handskriftens historia är ingenting närmare känt. Till Sverige synes den hava kommit med de manuskript, som Jonas Rugman hemförde från sin resa till Island år 1661.» (Gödels katalog sid. 66.) Något skäl härför angives emellertid icke."
+  },
+  {
+   "bbox": [
+    169,
+    1501,
+    1216,
+    1673
+   ],
+   "category": "Text",
+   "text": "3) Papp. 4:0 nr 26 i K. B. innehåller Bárðar saga snæfellsáss. »Handskriften är skriven på Island. När och på vad väg den kommit till Sverige, är icke känt, om också åtskilligt talar för, att den varit med i Jonas Rugmans samling av år 1661.»"
+  },
+  {
+   "bbox": [
+    171,
+    1673,
+    1217,
+    1889
+   ],
+   "category": "Text",
+   "text": "4) Papp. 4:0 nr 31 i K. B. Här föreligger förmodligen ett tryckfel hos Gödel, ty nr 31 är skriven av Jón Eggertsson, en islänning, som senare kom till Sverige. Måhända avses Papp 4:0 nr 33, som skrevs av Rugman, men dels i Stockholm, dels i Köpenhamn och Helsingör 1665."
+  },
+  {
+   "bbox": [
+    1142,
+    1921,
+    1214,
+    1959
+   ],
+   "category": "Page-footer",
+   "text": "213"
+  }
+ ]
+}

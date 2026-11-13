@@ -1,0 +1,151 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 96,
+ "seconds": 28.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [186, 308, 1289, 552], \"category\": \"Picture\"}, {\"bbox\": [414, 547, 1064, 732], \"category\": \"Title\", \"text\": \"MONVMENTA\\nDANICA\"}, {\"bbox\": [551, 776, 942, 835], \"category\": \"Text\", \"text\": \"certiori Lectioni\"}, {\"bbox\": [650, 876, 834, 923], \"category\": \"Text\", \"text\": \"reſtituta\"}, {\"bbox\": [727, 936, 761, 972], \"category\": \"Text\", \"text\": \"ab\"}, {\"bbox\": [676, 999, 811, 1037], \"category\": \"Text\", \"text\": \"absente.\"}, {\"bbox\": [553, 1078, 977, 1123], \"category\": \"Text\", \"text\": \"CIMBRICVM.\"}, {\"bbox\": [652, 1139, 896, 1187], \"category\": \"Text\", \"text\": \"Stenhaltenſe,\"}, {\"bbox\": [593, 1202, 920, 1250], \"category\": \"Text\", \"text\": \"Arbusienſe Septimum.\"}, {\"bbox\": [682, 1282, 799, 1702], \"category\": \"Text\", \"text\": \"3. 2. 1.\\nINPT: BRNDR: INI: INH:\\nRHSP: INH: PHSP:\\nHSNR: HNPT: INH: INH:\"}, {\"bbox\": [455, 1731, 1034, 1863], \"category\": \"Text\", \"text\": \"Osur Stufs Sun reiſti Stin thón=\\nHSNR: HNPT: INH: INI: RHSP: INH: PH=\\nOsurus Stuſi f. lius erexit ſaxum hoc\"}, {\"bbox\": [485, 1868, 921, 1994], \"category\": \"Text\", \"text\": \"ſi euſtr Brudur ſun ſin=\\nHI: INPT: BRNDR: INI: INH:\\nin memoriä Bruderi filij ſui.\"}, {\"bbox\": [686, 1994, 719, 2024], \"category\": \"Text\", \"text\": \"A\"}, {\"bbox\": [1105, 1992, 1256, 2030], \"category\": \"Text\", \"text\": \"Lalandica.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    186,
+    308,
+    1289,
+    552
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    414,
+    547,
+    1064,
+    732
+   ],
+   "category": "Title",
+   "text": "MONVMENTA\nDANICA"
+  },
+  {
+   "bbox": [
+    551,
+    776,
+    942,
+    835
+   ],
+   "category": "Text",
+   "text": "certiori Lectioni"
+  },
+  {
+   "bbox": [
+    650,
+    876,
+    834,
+    923
+   ],
+   "category": "Text",
+   "text": "reſtituta"
+  },
+  {
+   "bbox": [
+    727,
+    936,
+    761,
+    972
+   ],
+   "category": "Text",
+   "text": "ab"
+  },
+  {
+   "bbox": [
+    676,
+    999,
+    811,
+    1037
+   ],
+   "category": "Text",
+   "text": "absente."
+  },
+  {
+   "bbox": [
+    553,
+    1078,
+    977,
+    1123
+   ],
+   "category": "Text",
+   "text": "CIMBRICVM."
+  },
+  {
+   "bbox": [
+    652,
+    1139,
+    896,
+    1187
+   ],
+   "category": "Text",
+   "text": "Stenhaltenſe,"
+  },
+  {
+   "bbox": [
+    593,
+    1202,
+    920,
+    1250
+   ],
+   "category": "Text",
+   "text": "Arbusienſe Septimum."
+  },
+  {
+   "bbox": [
+    682,
+    1282,
+    799,
+    1702
+   ],
+   "category": "Text",
+   "text": "3. 2. 1.\nINPT: BRNDR: INI: INH:\nRHSP: INH: PHSP:\nHSNR: HNPT: INH: INH:"
+  },
+  {
+   "bbox": [
+    455,
+    1731,
+    1034,
+    1863
+   ],
+   "category": "Text",
+   "text": "Osur Stufs Sun reiſti Stin thón=\nHSNR: HNPT: INH: INI: RHSP: INH: PH=\nOsurus Stuſi f. lius erexit ſaxum hoc"
+  },
+  {
+   "bbox": [
+    485,
+    1868,
+    921,
+    1994
+   ],
+   "category": "Text",
+   "text": "ſi euſtr Brudur ſun ſin=\nHI: INPT: BRNDR: INI: INH:\nin memoriä Bruderi filij ſui."
+  },
+  {
+   "bbox": [
+    686,
+    1994,
+    719,
+    2024
+   ],
+   "category": "Text",
+   "text": "A"
+  },
+  {
+   "bbox": [
+    1105,
+    1992,
+    1256,
+    2030
+   ],
+   "category": "Text",
+   "text": "Lalandica."
+  }
+ ]
+}

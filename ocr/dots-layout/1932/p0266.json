@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 266,
+ "seconds": 32.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [427, 351, 947, 398], \"category\": \"Section-header\", \"text\": \"## Professuren i antikviteterna\"}, {\"bbox\": [163, 420, 1211, 843], \"category\": \"Text\", \"text\": \"icke samma vikt som vi vid en filologiskt noggrann text. Icke ens i Norlandz chrönika, som Rugman ensam och utan någon annans medverkan redigerat, nämnes hans namn. Företalet är undertecknat av Daniel Gyllenstolpe, och i detta säges, att Per Brahe »låtit med een ansenlig Bekostnad genom een infödd Issländsk Man förswenska een mächta gammal chrönika Pergament, sammanfattat och skrefwen på det Issländska Tungomåhlet». Därpå slutar Gyldenstolpe sitt företal med att bedja om överseende med »det, Translatoren, som een Issländare vthi Swenska Språcket har felat». Namnet nämnes ingenstädes.\"}, {\"bbox\": [168, 834, 1215, 1594], \"category\": \"Text\", \"text\": \"Vad angår den svenska översättningen, som är tryckt parallellt med den isländska texten, är frågan mera svårlöst. Även här kan det vara tvivelaktigt, om de språkkunskaper, som Verelius vid denna tid kan förutsättas hava ägt, räckt till för en dylik tolkning, och så mycket är säkert, att Rugman, då han kom till Uppsala på våren 1662, hade med sig en svensk översättning. I den isländska handskrift, han medförde, har han nämligen antecknat: »þan 27 Februarij tok eg til at vt leggia þa bok och endadi hana þan 6 Martij 1662». Men »vtleggia» betyder enligt Vigfússons lexikon »översätta», och det är då ytterst rimligt, att denna översättning lagts till grund för den tryckta. Å den andra sidan kunna Rugmans kännedom om och förmåga att i skrift behandla svenskan vid denna tid knappt hava varit så stora, att hans översättning utan vidare kunde godkännas. Det sannolika är väl därför, att den svenska texten tillkommit genom ett samarbete, att Verelius överarbetat Rugmans svenska, och härpå tyda även flera vändningar, som svårligen kunna härröra från islänningen, t. ex. »han var klädd i en stackot päls och sijda Dalkarsbyxor».\"}, {\"bbox\": [173, 1583, 1217, 1883], \"category\": \"Text\", \"text\": \"Det vetenskapliga värdet av denna edition beror emellertid varken på text eller översättning utan på »Notæ» eller den vidfogade kommentaren, som helt är Verelius' verk och i vilken jag velat se ett extrakt av de föreläsningar, som han 1663 höll över Gautreks saga. Det, som först slår en läsare, är den omfattande litteraturkännedom, som Verelius här röjer. Den utländska litteratur, med vilken den tidens antikvarier rörde sig, kände han antagligen till, innan han blev\"}, {\"bbox\": [1140, 1914, 1211, 1953], \"category\": \"Page-footer\", \"text\": \"233\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    427,
+    351,
+    947,
+    398
+   ],
+   "category": "Section-header",
+   "text": "## Professuren i antikviteterna"
+  },
+  {
+   "bbox": [
+    163,
+    420,
+    1211,
+    843
+   ],
+   "category": "Text",
+   "text": "icke samma vikt som vi vid en filologiskt noggrann text. Icke ens i Norlandz chrönika, som Rugman ensam och utan någon annans medverkan redigerat, nämnes hans namn. Företalet är undertecknat av Daniel Gyllenstolpe, och i detta säges, att Per Brahe »låtit med een ansenlig Bekostnad genom een infödd Issländsk Man förswenska een mächta gammal chrönika Pergament, sammanfattat och skrefwen på det Issländska Tungomåhlet». Därpå slutar Gyldenstolpe sitt företal med att bedja om överseende med »det, Translatoren, som een Issländare vthi Swenska Språcket har felat». Namnet nämnes ingenstädes."
+  },
+  {
+   "bbox": [
+    168,
+    834,
+    1215,
+    1594
+   ],
+   "category": "Text",
+   "text": "Vad angår den svenska översättningen, som är tryckt parallellt med den isländska texten, är frågan mera svårlöst. Även här kan det vara tvivelaktigt, om de språkkunskaper, som Verelius vid denna tid kan förutsättas hava ägt, räckt till för en dylik tolkning, och så mycket är säkert, att Rugman, då han kom till Uppsala på våren 1662, hade med sig en svensk översättning. I den isländska handskrift, han medförde, har han nämligen antecknat: »þan 27 Februarij tok eg til at vt leggia þa bok och endadi hana þan 6 Martij 1662». Men »vtleggia» betyder enligt Vigfússons lexikon »översätta», och det är då ytterst rimligt, att denna översättning lagts till grund för den tryckta. Å den andra sidan kunna Rugmans kännedom om och förmåga att i skrift behandla svenskan vid denna tid knappt hava varit så stora, att hans översättning utan vidare kunde godkännas. Det sannolika är väl därför, att den svenska texten tillkommit genom ett samarbete, att Verelius överarbetat Rugmans svenska, och härpå tyda även flera vändningar, som svårligen kunna härröra från islänningen, t. ex. »han var klädd i en stackot päls och sijda Dalkarsbyxor»."
+  },
+  {
+   "bbox": [
+    173,
+    1583,
+    1217,
+    1883
+   ],
+   "category": "Text",
+   "text": "Det vetenskapliga värdet av denna edition beror emellertid varken på text eller översättning utan på »Notæ» eller den vidfogade kommentaren, som helt är Verelius' verk och i vilken jag velat se ett extrakt av de föreläsningar, som han 1663 höll över Gautreks saga. Det, som först slår en läsare, är den omfattande litteraturkännedom, som Verelius här röjer. Den utländska litteratur, med vilken den tidens antikvarier rörde sig, kände han antagligen till, innan han blev"
+  },
+  {
+   "bbox": [
+    1140,
+    1914,
+    1211,
+    1953
+   ],
+   "category": "Page-footer",
+   "text": "233"
+  }
+ ]
+}

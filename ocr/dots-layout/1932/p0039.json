@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 39,
+ "seconds": 32.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [956, 363, 1428, 406], \"category\": \"Section-header\", \"text\": \"## Antikvitetsstudiets början\"}, {\"bbox\": [670, 433, 1719, 972], \"category\": \"Text\", \"text\": \"våra då intima förbindelser med Norge. På grundvalen av Tiodolfs Ynglingatal hade Are Frode författat en svensk historia, som nu icke finnes kvar, men som omkring 1170 bearbetades på latin i Historia Norvegiæ. En ytterst usel avskrift av detta arbete kom under Magnus Erikssons första tid till Sverige, och det var på denna väg, man gjorde bekantskap med Ynglingasagan. Då denna konungalängd tog slut, skarvade man till den med de ytterst förvirrade rester, som ännu funnos kvar av en hednisk svensk tradition, och begagnade sedan en från Västgötalagens något avvikande kristen regentlängd, som gick till 1333. I följd av det sällsport usla skick, i vilket man fått utdraget ur Historia Norvegiæ, blevo både namn och meningar alldeles förvanskade, och det kan vara nog att jämföra blott början av de båda redaktionerna.\"}, {\"bbox\": [798, 1013, 1083, 1056], \"category\": \"Section-header\", \"text\": \"## Historia Norvegiæ\"}, {\"bbox\": [670, 1066, 1175, 1558], \"category\": \"Text\", \"text\": \"Rex itaque jngui, quem primum Swethie monarchiam rexisse plurimj astruunt, genuit Neorth, qui uero genuit Froy. hos ambos tota illorum posteritas per longa secula vt deos uenerati sunt. Froy vero genuit ffiolnj, quj in dolio medonis dimersus est, cujus filius Swegthir nanum jn petram persequitur nec redisse dicitur, quod pro certo fabulosum creditur.\"}, {\"bbox\": [1291, 1011, 1645, 1057], \"category\": \"Section-header\", \"text\": \"## Den svenska avskriften\"}, {\"bbox\": [1211, 1064, 1721, 1519], \"category\": \"Text\", \"text\": \"Rex itaque Ingo, quem primum Swecie Monarchiam rexisse plurimi astruunt, genuit neork, Qui genuit Stroy, hos ambos tota illorum posteritas vt deos venerati sunt, Stroyer vero genuit fiolm, qui in dolio medonis est dimersus, Cuius filius suerchir manum in petram proiciens non retraxisse dicitur, quod pro certo fabulosum creditur.\"}, {\"bbox\": [672, 1599, 1721, 1896], \"category\": \"Text\", \"text\": \"Yngve har således blivit Ingo, Niord Neork, Frey Stroyer, Fjolner Fiolm och Svegder Sverkir. Och då avskrivaren läst »manum» i stället för »nanum», har han, för att få någon mening, skrivit om det hela, så att Svegder, som av en dvärg lockas in i en sten, förvandlas till Sverker, som slår sin hand i en klippa och icke kan lösgöra den. När så Ynglingasagans längd med Olof Trätelgia tog slut, infogades den torftiga svenska tradition, som vid 1300-talets början ännu\"}, {\"bbox\": [675, 1932, 721, 1962], \"category\": \"Page-footer\", \"text\": \"22\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    956,
+    363,
+    1428,
+    406
+   ],
+   "category": "Section-header",
+   "text": "## Antikvitetsstudiets början"
+  },
+  {
+   "bbox": [
+    670,
+    433,
+    1719,
+    972
+   ],
+   "category": "Text",
+   "text": "våra då intima förbindelser med Norge. På grundvalen av Tiodolfs Ynglingatal hade Are Frode författat en svensk historia, som nu icke finnes kvar, men som omkring 1170 bearbetades på latin i Historia Norvegiæ. En ytterst usel avskrift av detta arbete kom under Magnus Erikssons första tid till Sverige, och det var på denna väg, man gjorde bekantskap med Ynglingasagan. Då denna konungalängd tog slut, skarvade man till den med de ytterst förvirrade rester, som ännu funnos kvar av en hednisk svensk tradition, och begagnade sedan en från Västgötalagens något avvikande kristen regentlängd, som gick till 1333. I följd av det sällsport usla skick, i vilket man fått utdraget ur Historia Norvegiæ, blevo både namn och meningar alldeles förvanskade, och det kan vara nog att jämföra blott början av de båda redaktionerna."
+  },
+  {
+   "bbox": [
+    798,
+    1013,
+    1083,
+    1056
+   ],
+   "category": "Section-header",
+   "text": "## Historia Norvegiæ"
+  },
+  {
+   "bbox": [
+    670,
+    1066,
+    1175,
+    1558
+   ],
+   "category": "Text",
+   "text": "Rex itaque jngui, quem primum Swethie monarchiam rexisse plurimj astruunt, genuit Neorth, qui uero genuit Froy. hos ambos tota illorum posteritas per longa secula vt deos uenerati sunt. Froy vero genuit ffiolnj, quj in dolio medonis dimersus est, cujus filius Swegthir nanum jn petram persequitur nec redisse dicitur, quod pro certo fabulosum creditur."
+  },
+  {
+   "bbox": [
+    1291,
+    1011,
+    1645,
+    1057
+   ],
+   "category": "Section-header",
+   "text": "## Den svenska avskriften"
+  },
+  {
+   "bbox": [
+    1211,
+    1064,
+    1721,
+    1519
+   ],
+   "category": "Text",
+   "text": "Rex itaque Ingo, quem primum Swecie Monarchiam rexisse plurimi astruunt, genuit neork, Qui genuit Stroy, hos ambos tota illorum posteritas vt deos venerati sunt, Stroyer vero genuit fiolm, qui in dolio medonis est dimersus, Cuius filius suerchir manum in petram proiciens non retraxisse dicitur, quod pro certo fabulosum creditur."
+  },
+  {
+   "bbox": [
+    672,
+    1599,
+    1721,
+    1896
+   ],
+   "category": "Text",
+   "text": "Yngve har således blivit Ingo, Niord Neork, Frey Stroyer, Fjolner Fiolm och Svegder Sverkir. Och då avskrivaren läst »manum» i stället för »nanum», har han, för att få någon mening, skrivit om det hela, så att Svegder, som av en dvärg lockas in i en sten, förvandlas till Sverker, som slår sin hand i en klippa och icke kan lösgöra den. När så Ynglingasagans längd med Olof Trätelgia tog slut, infogades den torftiga svenska tradition, som vid 1300-talets början ännu"
+  },
+  {
+   "bbox": [
+    675,
+    1932,
+    721,
+    1962
+   ],
+   "category": "Page-footer",
+   "text": "22"
+  }
+ ]
+}

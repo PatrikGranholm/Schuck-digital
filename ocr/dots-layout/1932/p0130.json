@@ -1,0 +1,41 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 130,
+ "seconds": 11.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [285, 438, 1232, 1747], \"category\": \"Picture\"}, {\"bbox\": [535, 1798, 982, 1851], \"category\": \"Caption\", \"text\": \"JOHANNES MESSENIUS\"}, {\"bbox\": [615, 1854, 911, 1890], \"category\": \"Text\", \"text\": \"Efter porträtt på Gripsholm.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    285,
+    438,
+    1232,
+    1747
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    535,
+    1798,
+    982,
+    1851
+   ],
+   "category": "Caption",
+   "text": "JOHANNES MESSENIUS"
+  },
+  {
+   "bbox": [
+    615,
+    1854,
+    911,
+    1890
+   ],
+   "category": "Text",
+   "text": "Efter porträtt på Gripsholm."
+  }
+ ]
+}

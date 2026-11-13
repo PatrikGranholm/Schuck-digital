@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 30,
+ "seconds": 31.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [597, 357, 773, 401], \"category\": \"Section-header\", \"text\": \"Inledning\"}, {\"bbox\": [162, 426, 1202, 1587], \"category\": \"Text\", \"text\": \"arbete kommer till den slutsatsen, att Konungastyrelsen »sannolikare» härrör från 1600-talet än från medeltiden — yttrar om Nicolaus Ragvaldis tal: »Både i språk och åsikter liknar det helt och hållet Johannis Magni Historia Gothorum; det synes oss sannolikt, att Johannes, i likhet med flera äldre historieskrivare, själv är talets författare». Genom Verner Söderbergs lärda och skarpsinniga undersökning (Samlaren 1895), på vilken den nu gjorda framställningen stöder sig, har emellertid frågan blivit löst: åtminstone i sina huvuddrag är talet äkta. Att det på någon eller några punkter blivit ändrat av Johannes Magni, är möjligt. Söderberg fäster sig bl. a. vid, att Nicolaus Ragvaldi säger, att de nordiska sändebuden skickats till Basel »a serenissimo Gothiæ et Sueciæ rege», men ej nämner Danmark, som ju var konung Eriks huvudland, och han ser häri ett uttryck för Johannes Magnis danskhat. Det är mycket möjligt, att så är, men säkert är det icke. Dels nämnes konungatiteln blott denna enda gång i talet, dels tyder det referat av detta, till vilket vi strax skola komma, på att Nicolaus Ragvaldi verkligen uppträtt såsom *svensk* patriot. Ett nyss gjort citat lyder i *referatet*: »Sicque conclusit, *Suedorum* regnum ceteris antiquius, fortius et nobilius, quia nec umquam a Romano Monarcha vinci potuit». Johannes Magnis text har det neutralare »*nostro* regno antiquius» — således snarare motsatsen. På ett annat ställe talas både i *referatet* och hos Johannes Magni »de gothorum regno, quod nunc vulgariter Suetia nuncupatur». Att enstaka oratoriska vändningar kunna vara av Johannes Magni tillsatta, skall ej förnekas, men så vitt jag kunnat se, finnes ingen punkt i talet, som man med säkerhet kan tillskriva Johannes Magni. Den protestatio, om vars äkthet Söderberg ej är fullt övertygad, lästes tydligen av Ericus Olai.\"}, {\"bbox\": [162, 1585, 1202, 1878], \"category\": \"Text\", \"text\": \"Att Söderberg vill tillmäta interpolationerna ett större utrymme, än jag tror vara befogat, beror — utom på den allmänna misstron till Johannes Magnis uppgifter — därpå, att han anser talet vara en omskrivning av ett referat av detta, vilket Johannes Magni skulle hava upptäckt, sedan han lämnat Sverige. Detta referat är gjort av en bland 1400-talets mest framstående historiker, Thomas Ebdorfer, som var Wieneruniversitetets ombud vid kyrkomötet i Basel.\"}, {\"bbox\": [1151, 1913, 1195, 1951], \"category\": \"Page-footer\", \"text\": \"13\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    597,
+    357,
+    773,
+    401
+   ],
+   "category": "Section-header",
+   "text": "Inledning"
+  },
+  {
+   "bbox": [
+    162,
+    426,
+    1202,
+    1587
+   ],
+   "category": "Text",
+   "text": "arbete kommer till den slutsatsen, att Konungastyrelsen »sannolikare» härrör från 1600-talet än från medeltiden — yttrar om Nicolaus Ragvaldis tal: »Både i språk och åsikter liknar det helt och hållet Johannis Magni Historia Gothorum; det synes oss sannolikt, att Johannes, i likhet med flera äldre historieskrivare, själv är talets författare». Genom Verner Söderbergs lärda och skarpsinniga undersökning (Samlaren 1895), på vilken den nu gjorda framställningen stöder sig, har emellertid frågan blivit löst: åtminstone i sina huvuddrag är talet äkta. Att det på någon eller några punkter blivit ändrat av Johannes Magni, är möjligt. Söderberg fäster sig bl. a. vid, att Nicolaus Ragvaldi säger, att de nordiska sändebuden skickats till Basel »a serenissimo Gothiæ et Sueciæ rege», men ej nämner Danmark, som ju var konung Eriks huvudland, och han ser häri ett uttryck för Johannes Magnis danskhat. Det är mycket möjligt, att så är, men säkert är det icke. Dels nämnes konungatiteln blott denna enda gång i talet, dels tyder det referat av detta, till vilket vi strax skola komma, på att Nicolaus Ragvaldi verkligen uppträtt såsom *svensk* patriot. Ett nyss gjort citat lyder i *referatet*: »Sicque conclusit, *Suedorum* regnum ceteris antiquius, fortius et nobilius, quia nec umquam a Romano Monarcha vinci potuit». Johannes Magnis text har det neutralare »*nostro* regno antiquius» — således snarare motsatsen. På ett annat ställe talas både i *referatet* och hos Johannes Magni »de gothorum regno, quod nunc vulgariter Suetia nuncupatur». Att enstaka oratoriska vändningar kunna vara av Johannes Magni tillsatta, skall ej förnekas, men så vitt jag kunnat se, finnes ingen punkt i talet, som man med säkerhet kan tillskriva Johannes Magni. Den protestatio, om vars äkthet Söderberg ej är fullt övertygad, lästes tydligen av Ericus Olai."
+  },
+  {
+   "bbox": [
+    162,
+    1585,
+    1202,
+    1878
+   ],
+   "category": "Text",
+   "text": "Att Söderberg vill tillmäta interpolationerna ett större utrymme, än jag tror vara befogat, beror — utom på den allmänna misstron till Johannes Magnis uppgifter — därpå, att han anser talet vara en omskrivning av ett referat av detta, vilket Johannes Magni skulle hava upptäckt, sedan han lämnat Sverige. Detta referat är gjort av en bland 1400-talets mest framstående historiker, Thomas Ebdorfer, som var Wieneruniversitetets ombud vid kyrkomötet i Basel."
+  },
+  {
+   "bbox": [
+    1151,
+    1913,
+    1195,
+    1951
+   ],
+   "category": "Page-footer",
+   "text": "13"
+  }
+ ]
+}

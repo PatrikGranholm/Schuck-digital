@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 160,
+ "seconds": 32.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [445, 362, 888, 406], \"category\": \"Section-header\", \"text\": \"De första antikvarierna\"}, {\"bbox\": [143, 432, 1188, 847], \"category\": \"Text\", \"text\": \"vmstande och [oläsligt ord] och ålderdoms gömande, så och därföre at i hafvua effterkommit vyrdige H. arch. Trychta patent där om. Nu Lefwerer iagh eder alla samma Runa Calendaria igen, ährandes eder därföre, att i de första ären för alla andra församlingar vti lydige benägenhett, Inthedt achtandes attskillige fåfängie domar och sagur här vtinnan. Och will iagh till tacksamh. eder igen förähra I Stop Bastart till huardera Kyrkia tilstundande påskahögtijden för en åminnelse till messewijn. Och Befalt eder samptligen Gudi alzmächtigste till all wälfärdh. Datum Bårgby Prestegård den 19 februarij 1629.\"}, {\"bbox\": [937, 847, 1146, 929], \"category\": \"Text\", \"text\": \"E. W.\\nJohan Bure.»\"}, {\"bbox\": [138, 968, 1183, 1881], \"category\": \"Text\", \"text\": \"Bekantskapen mellan Aschaneus och Bureus hade tydligen en mycket viktig följd. Bureus insåg efter besöket i Fresta den nytta han kunde hava av kunnige och nitiske medarbetare, och det var dylika, mera fast anställda han nu ville skaffa sig. Utan tvivel var det också på Bureus' förslag, som Aschaneus och Bureus' måg Axehiälm utnämndes till antikvarier. Axehiälms fullmakt finnes emellertid alls icke kvar, Aschaneus' egentligen heller icke, men är i avskrift känd genom en senare daterad fullmakt, som tillhör prästeståndets arkiv (Svenska ecklesiastika handlingar 1600–1649 vol. II, nu i riksarkivet) och lyder: »Wij Gustaf Adolph med gudz nåde Sveriges, giöthes och wändes konung, Storfurste till Finland, härtig uti Estland och Carelen, herre uth öfwer Ingermanland etc. Giöre witterligit, att wij nådigast hafwe låtit kalla och antaga denne brefwijsare Dn Martinum Aschanium uti wår och Cronans tienst för en Antiquario och honom i befallning gifwit up sökia öfwer heela rijket alla the gamble handlingar och skriffter, som lända kunna wårt käre fädernesland till berömmelse. Och skall han wara förplichtad underwijsa någon annan beqwäm person, som det Embetet effter honom fullföllia kan, och [på] det han deste flijtigare dertill wara skall, hafwe wij nådigast undt och effterlåtit, såsom wij och nu med detta wårt Brefz krafft unne och effterlåta, sitt pastorat frij wara skall för alla uthlagor, så owissa som wissa och åhrlige, ehwad nampn de nu eller fram-\"}, {\"bbox\": [1104, 1921, 1172, 1957], \"category\": \"Page-footer\", \"text\": \"127\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    445,
+    362,
+    888,
+    406
+   ],
+   "category": "Section-header",
+   "text": "De första antikvarierna"
+  },
+  {
+   "bbox": [
+    143,
+    432,
+    1188,
+    847
+   ],
+   "category": "Text",
+   "text": "vmstande och [oläsligt ord] och ålderdoms gömande, så och därföre at i hafvua effterkommit vyrdige H. arch. Trychta patent där om. Nu Lefwerer iagh eder alla samma Runa Calendaria igen, ährandes eder därföre, att i de första ären för alla andra församlingar vti lydige benägenhett, Inthedt achtandes attskillige fåfängie domar och sagur här vtinnan. Och will iagh till tacksamh. eder igen förähra I Stop Bastart till huardera Kyrkia tilstundande påskahögtijden för en åminnelse till messewijn. Och Befalt eder samptligen Gudi alzmächtigste till all wälfärdh. Datum Bårgby Prestegård den 19 februarij 1629."
+  },
+  {
+   "bbox": [
+    937,
+    847,
+    1146,
+    929
+   ],
+   "category": "Text",
+   "text": "E. W.\nJohan Bure.»"
+  },
+  {
+   "bbox": [
+    138,
+    968,
+    1183,
+    1881
+   ],
+   "category": "Text",
+   "text": "Bekantskapen mellan Aschaneus och Bureus hade tydligen en mycket viktig följd. Bureus insåg efter besöket i Fresta den nytta han kunde hava av kunnige och nitiske medarbetare, och det var dylika, mera fast anställda han nu ville skaffa sig. Utan tvivel var det också på Bureus' förslag, som Aschaneus och Bureus' måg Axehiälm utnämndes till antikvarier. Axehiälms fullmakt finnes emellertid alls icke kvar, Aschaneus' egentligen heller icke, men är i avskrift känd genom en senare daterad fullmakt, som tillhör prästeståndets arkiv (Svenska ecklesiastika handlingar 1600–1649 vol. II, nu i riksarkivet) och lyder: »Wij Gustaf Adolph med gudz nåde Sveriges, giöthes och wändes konung, Storfurste till Finland, härtig uti Estland och Carelen, herre uth öfwer Ingermanland etc. Giöre witterligit, att wij nådigast hafwe låtit kalla och antaga denne brefwijsare Dn Martinum Aschanium uti wår och Cronans tienst för en Antiquario och honom i befallning gifwit up sökia öfwer heela rijket alla the gamble handlingar och skriffter, som lända kunna wårt käre fädernesland till berömmelse. Och skall han wara förplichtad underwijsa någon annan beqwäm person, som det Embetet effter honom fullföllia kan, och [på] det han deste flijtigare dertill wara skall, hafwe wij nådigast undt och effterlåtit, såsom wij och nu med detta wårt Brefz krafft unne och effterlåta, sitt pastorat frij wara skall för alla uthlagor, så owissa som wissa och åhrlige, ehwad nampn de nu eller fram-"
+  },
+  {
+   "bbox": [
+    1104,
+    1921,
+    1172,
+    1957
+   ],
+   "category": "Page-footer",
+   "text": "127"
+  }
+ ]
+}

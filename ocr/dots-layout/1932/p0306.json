@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 306,
+ "seconds": 33.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [457, 355, 905, 393], \"category\": \"Section-header\", \"text\": \"De senare antikvarierna\"}, {\"bbox\": [161, 423, 1200, 517], \"category\": \"Text\", \"text\": \"och så förwalta skall, lefwererade blifwa. Datum Stockholm den 27 novemb. Anno 1666.»\"}, {\"bbox\": [163, 530, 1206, 870], \"category\": \"Text\", \"text\": \"Några dagar förut, den 22 november, hade Verelius utnämnts till antikvarie. Brevet härom är i det stora hela detsamma som för Laurentius Bureus, och antikvariens åligganden angivas såsom i kansliordningen, utan att vederbörande tagit någon hänsyn till omöjligheten för en professor i Uppsala — som dessutom var räntmästare — att sköta en arkivplats i Stockholm. Som man torde märka, förordnades nämligen Verelius till »att jämpte sin Profession wara uti Wårt archivo Antiquarius Regni»:\"}, {\"bbox\": [1210, 535, 1349, 593], \"category\": \"Text\", \"text\": \"Verelius blir antikvarie\"}, {\"bbox\": [167, 878, 1220, 1890], \"category\": \"Text\", \"text\": \"»Wij Carl etc. giöre härmed wetterligit, att såsom antiquarii tiänst wid Wårt archivo för denne tijden vacerar, dhen wij med en capabel man igen wille ärsättja, altså hafwe Wij i consideration af den Lärdom, wettenskap och förfarenhet, som Wår Tro Tiänare och Professor uthi Upsala acdemiæ Oss älskelig, förståndig och wällärd Olaus Verelius sig uhti acquirerat hafwer, såsom ock i betracktande af hans wid be:te academie goda och noga bewijste tiänster tillbetrodde och förordnade, såsom Wij och etc. tilbetroo och förordne be:te Olaum Verelium att jämpte sin Profession wara uti Wårt archivo Antiquarius Regni. Och skall han wara förplicktad att wara Oss och Sweriges Crono huld, trogen etc. I synnerhet skall detta hans ämbete där ute beståå, att han ex antiquitate eller gambla Swenska Schrifter och Documenter eruerar berömlige bedrifter, dhem så till språket som gerningarne beskrifwer och illustrerar och åhrligen sådant arbete framteer, som Rijket till heder och nytta lända kan. Där någon rättelse om Rijksens antiquiteter hoos Privatos finnas, dhem skall han söka in originali eller åtminstone copialiter förskaffa och in archivo bewara. Dhe äldsta acter, som för ålderen skull blifwa oläselige, skall han afcopiera eller afcopiera låtha. Desslijkest skall han de förnämpste handlingar af Registraturen, så wida han hinner och förmår, flijteligen uthdraga och in modum Historiæ författa effterkommandom till effterrättelse. Förrättandes uthi det öfrige hwad detta hans ämbete af honom fordrar och elliest kan påbudit och befalt warda. Och in summa sig så förhålla, som han\"}, {\"bbox\": [172, 1934, 309, 1960], \"category\": \"Page-footer\", \"text\": \"18-31736.\"}, {\"bbox\": [1145, 1915, 1216, 1954], \"category\": \"Page-footer\", \"text\": \"273\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    457,
+    355,
+    905,
+    393
+   ],
+   "category": "Section-header",
+   "text": "De senare antikvarierna"
+  },
+  {
+   "bbox": [
+    161,
+    423,
+    1200,
+    517
+   ],
+   "category": "Text",
+   "text": "och så förwalta skall, lefwererade blifwa. Datum Stockholm den 27 novemb. Anno 1666.»"
+  },
+  {
+   "bbox": [
+    163,
+    530,
+    1206,
+    870
+   ],
+   "category": "Text",
+   "text": "Några dagar förut, den 22 november, hade Verelius utnämnts till antikvarie. Brevet härom är i det stora hela detsamma som för Laurentius Bureus, och antikvariens åligganden angivas såsom i kansliordningen, utan att vederbörande tagit någon hänsyn till omöjligheten för en professor i Uppsala — som dessutom var räntmästare — att sköta en arkivplats i Stockholm. Som man torde märka, förordnades nämligen Verelius till »att jämpte sin Profession wara uti Wårt archivo Antiquarius Regni»:"
+  },
+  {
+   "bbox": [
+    1210,
+    535,
+    1349,
+    593
+   ],
+   "category": "Text",
+   "text": "Verelius blir antikvarie"
+  },
+  {
+   "bbox": [
+    167,
+    878,
+    1220,
+    1890
+   ],
+   "category": "Text",
+   "text": "»Wij Carl etc. giöre härmed wetterligit, att såsom antiquarii tiänst wid Wårt archivo för denne tijden vacerar, dhen wij med en capabel man igen wille ärsättja, altså hafwe Wij i consideration af den Lärdom, wettenskap och förfarenhet, som Wår Tro Tiänare och Professor uthi Upsala acdemiæ Oss älskelig, förståndig och wällärd Olaus Verelius sig uhti acquirerat hafwer, såsom ock i betracktande af hans wid be:te academie goda och noga bewijste tiänster tillbetrodde och förordnade, såsom Wij och etc. tilbetroo och förordne be:te Olaum Verelium att jämpte sin Profession wara uti Wårt archivo Antiquarius Regni. Och skall han wara förplicktad att wara Oss och Sweriges Crono huld, trogen etc. I synnerhet skall detta hans ämbete där ute beståå, att han ex antiquitate eller gambla Swenska Schrifter och Documenter eruerar berömlige bedrifter, dhem så till språket som gerningarne beskrifwer och illustrerar och åhrligen sådant arbete framteer, som Rijket till heder och nytta lända kan. Där någon rättelse om Rijksens antiquiteter hoos Privatos finnas, dhem skall han söka in originali eller åtminstone copialiter förskaffa och in archivo bewara. Dhe äldsta acter, som för ålderen skull blifwa oläselige, skall han afcopiera eller afcopiera låtha. Desslijkest skall han de förnämpste handlingar af Registraturen, så wida han hinner och förmår, flijteligen uthdraga och in modum Historiæ författa effterkommandom till effterrättelse. Förrättandes uthi det öfrige hwad detta hans ämbete af honom fordrar och elliest kan påbudit och befalt warda. Och in summa sig så förhålla, som han"
+  },
+  {
+   "bbox": [
+    172,
+    1934,
+    309,
+    1960
+   ],
+   "category": "Page-footer",
+   "text": "18-31736."
+  },
+  {
+   "bbox": [
+    1145,
+    1915,
+    1216,
+    1954
+   ],
+   "category": "Page-footer",
+   "text": "273"
+  }
+ ]
+}

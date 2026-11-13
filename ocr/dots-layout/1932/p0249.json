@@ -1,0 +1,42 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 249,
+ "seconds": 15.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [1001, 358, 1478, 403], \"category\": \"Section-header\", \"text\": \"Antikvitetsstudiets början\"}, {\"bbox\": [713, 427, 1761, 1014], \"category\": \"Text\", \"text\": \"Något annat resultat av detta ingripande förspordes emellertid icke än en lång skriftväxling mellan konsistorium, antikvitetskollegiet och Verelius samt sedermera dennes arvingar. För denna, som varade i icke mindre än tjugofem år, har Gödel utförligt redogjort, och sannolikt hade denna tvist till följd, att man fick för sig, att Rugman på statens eller universitetets bekostnad företagit en insamlingsresa till Island, vilken givit rika resultat. Det är denna härav framkallade föreställning, som ligger bakom Dals legend. Men om än själva handskrifterna ej hade det värde, som man förmenat, var det likväl dessa, som först utgåvos i tryck och inledde 1600-talets betydande editionsverksamhet. Den förste utgivaren var Verelius, och han var det redan före antikvitetskollegiets instiftande i sin egenskap av professor antiquitatum. Vi skola därför övergå till denna professurs historia.\"}, {\"bbox\": [715, 1914, 791, 1954], \"category\": \"Page-footer\", \"text\": \"216\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    1001,
+    358,
+    1478,
+    403
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsstudiets början"
+  },
+  {
+   "bbox": [
+    713,
+    427,
+    1761,
+    1014
+   ],
+   "category": "Text",
+   "text": "Något annat resultat av detta ingripande förspordes emellertid icke än en lång skriftväxling mellan konsistorium, antikvitetskollegiet och Verelius samt sedermera dennes arvingar. För denna, som varade i icke mindre än tjugofem år, har Gödel utförligt redogjort, och sannolikt hade denna tvist till följd, att man fick för sig, att Rugman på statens eller universitetets bekostnad företagit en insamlingsresa till Island, vilken givit rika resultat. Det är denna härav framkallade föreställning, som ligger bakom Dals legend. Men om än själva handskrifterna ej hade det värde, som man förmenat, var det likväl dessa, som först utgåvos i tryck och inledde 1600-talets betydande editionsverksamhet. Den förste utgivaren var Verelius, och han var det redan före antikvitetskollegiets instiftande i sin egenskap av professor antiquitatum. Vi skola därför övergå till denna professurs historia."
+  },
+  {
+   "bbox": [
+    715,
+    1914,
+    791,
+    1954
+   ],
+   "category": "Page-footer",
+   "text": "216"
+  }
+ ]
+}

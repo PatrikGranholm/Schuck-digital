@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 12,
+ "seconds": 32.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [144, 434, 1250, 727], \"category\": \"Title\", \"text\": \"KGL. VITTERHETS\\nHISTORIE OCH ANTIKVITETS\\nAKADEMIEN\"}, {\"bbox\": [319, 797, 1078, 952], \"category\": \"Title\", \"text\": \"Dess\\nFörhistoria och Historia\"}, {\"bbox\": [465, 1001, 931, 1142], \"category\": \"Text\", \"text\": \"På akademiens uppdrag\\nförfattade\\nav\"}, {\"bbox\": [465, 1176, 929, 1236], \"category\": \"Text\", \"text\": \"HENRIK SCHÜCK\"}, {\"bbox\": [465, 1321, 929, 1484], \"category\": \"Text\", \"text\": \"I\\nANTIKVITETSSTUDIETS\\nBÖRJAN\"}, {\"bbox\": [450, 1829, 946, 1879], \"category\": \"Text\", \"text\": \"Stockholm 1932\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    144,
+    434,
+    1250,
+    727
+   ],
+   "category": "Title",
+   "text": "KGL. VITTERHETS\nHISTORIE OCH ANTIKVITETS\nAKADEMIEN"
+  },
+  {
+   "bbox": [
+    319,
+    797,
+    1078,
+    952
+   ],
+   "category": "Title",
+   "text": "Dess\nFörhistoria och Historia"
+  },
+  {
+   "bbox": [
+    465,
+    1001,
+    931,
+    1142
+   ],
+   "category": "Text",
+   "text": "På akademiens uppdrag\nförfattade\nav"
+  },
+  {
+   "bbox": [
+    465,
+    1176,
+    929,
+    1236
+   ],
+   "category": "Text",
+   "text": "HENRIK SCHÜCK"
+  },
+  {
+   "bbox": [
+    465,
+    1321,
+    929,
+    1484
+   ],
+   "category": "Text",
+   "text": "I\nANTIKVITETSSTUDIETS\nBÖRJAN"
+  },
+  {
+   "bbox": [
+    450,
+    1829,
+    946,
+    1879
+   ],
+   "category": "Text",
+   "text": "Stockholm 1932"
+  }
+ ]
+}

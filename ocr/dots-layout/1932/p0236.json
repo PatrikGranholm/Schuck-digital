@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 236,
+ "seconds": 31.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [258, 354, 1115, 405], \"category\": \"Section-header\", \"text\": \"De första förvärven av isländska handskrifter\"}, {\"bbox\": [165, 425, 1209, 677], \"category\": \"Text\", \"text\": \"sinnig som han var, skrev han i alla fall två brev, ett till Rudbeck (R. A. Kanslersämbetets koncept. Mutatis mutandis avgick samma brev till Verelius), som var universitetets rektor, och ett till Verelius, som var dess räntmästare, i vilka han bad dem taga hand om den främmande studenten, vilken han kallar Roman och som han trodde vara från — Frisland:\"}, {\"bbox\": [165, 685, 1215, 1653], \"category\": \"Text\", \"text\": \"»Aldenstund denne unge personen Jonas Jonæ Roman benembd, som av nation een frijsländare är och på någon tijdh för detta sig hafwer oppehållit wid scholan i Wisingsborg och allareda någon grund lagt uthj bokeliga frije konster, ärnar begifva sig till den Kongl. Academien i Vpsala i den acht och mening att yttermehra samma sina påbegynta studier fortsättia och med tijden till ett hälso-samt måhl kunna fullgöra, allenast önskandes för sin egen torftig-heet skull med nödtorfftige medel och hielp vthj sitt vpsåt at blifwa secunderat. Altså och emedan sådant hans förehafwande i sig lof-ligit är och derigenom i så motto skönies att sträfwa effter dygden, så att och icke obilligt synes, att dee, som henne dyrcka och hwad berömmeligit är efftertrachta, måge eenkannerligen så myckit möij-ligit med hielp och understöd blifwa ophåldne. Ty hafwer Jag samma person Hr. Professoren till den ända i bästa motto welat re-commendera med wenlig begäran, att han på des bästa hwad giör-ligit wara kan wille see och den anstallt göra, det han aff det Kongl. Stipendio der, effter som H. Professoren befinner honom någorlunda wara belåten med, må deelachtig blifwa, helst effter man denne, hwilken nestan den första och endaste är, som ifrån den landsorten kommen är här i vårt fädernesland sina gåfuor att excolera, för den orsaken gerna seer befrämiat warda. Och befaller her med H. Pro-fessoren i Gudz krafftige beskydd till god welmåga. Stockholm d. 30 April 1662.»\"}, {\"bbox\": [178, 1671, 1219, 1885], \"category\": \"Text\", \"text\": \"Med dessa brev begav sig Rugman till Uppsala, dit han anlände ungefär samtidigt, med det att Verelius utnämndes till professor antiqvitatum. För denne kom naturligtvis den isländske studenten nästan såsom skickad av himlen, ty det var just en dylik hjälp, som Verelius behövde, och därtill berättade Rugman, att han i Hälsing-\"}, {\"bbox\": [1143, 1918, 1215, 1955], \"category\": \"Page-footer\", \"text\": \"203\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    258,
+    354,
+    1115,
+    405
+   ],
+   "category": "Section-header",
+   "text": "De första förvärven av isländska handskrifter"
+  },
+  {
+   "bbox": [
+    165,
+    425,
+    1209,
+    677
+   ],
+   "category": "Text",
+   "text": "sinnig som han var, skrev han i alla fall två brev, ett till Rudbeck (R. A. Kanslersämbetets koncept. Mutatis mutandis avgick samma brev till Verelius), som var universitetets rektor, och ett till Verelius, som var dess räntmästare, i vilka han bad dem taga hand om den främmande studenten, vilken han kallar Roman och som han trodde vara från — Frisland:"
+  },
+  {
+   "bbox": [
+    165,
+    685,
+    1215,
+    1653
+   ],
+   "category": "Text",
+   "text": "»Aldenstund denne unge personen Jonas Jonæ Roman benembd, som av nation een frijsländare är och på någon tijdh för detta sig hafwer oppehållit wid scholan i Wisingsborg och allareda någon grund lagt uthj bokeliga frije konster, ärnar begifva sig till den Kongl. Academien i Vpsala i den acht och mening att yttermehra samma sina påbegynta studier fortsättia och med tijden till ett hälso-samt måhl kunna fullgöra, allenast önskandes för sin egen torftig-heet skull med nödtorfftige medel och hielp vthj sitt vpsåt at blifwa secunderat. Altså och emedan sådant hans förehafwande i sig lof-ligit är och derigenom i så motto skönies att sträfwa effter dygden, så att och icke obilligt synes, att dee, som henne dyrcka och hwad berömmeligit är efftertrachta, måge eenkannerligen så myckit möij-ligit med hielp och understöd blifwa ophåldne. Ty hafwer Jag samma person Hr. Professoren till den ända i bästa motto welat re-commendera med wenlig begäran, att han på des bästa hwad giör-ligit wara kan wille see och den anstallt göra, det han aff det Kongl. Stipendio der, effter som H. Professoren befinner honom någorlunda wara belåten med, må deelachtig blifwa, helst effter man denne, hwilken nestan den första och endaste är, som ifrån den landsorten kommen är här i vårt fädernesland sina gåfuor att excolera, för den orsaken gerna seer befrämiat warda. Och befaller her med H. Pro-fessoren i Gudz krafftige beskydd till god welmåga. Stockholm d. 30 April 1662.»"
+  },
+  {
+   "bbox": [
+    178,
+    1671,
+    1219,
+    1885
+   ],
+   "category": "Text",
+   "text": "Med dessa brev begav sig Rugman till Uppsala, dit han anlände ungefär samtidigt, med det att Verelius utnämndes till professor antiqvitatum. För denne kom naturligtvis den isländske studenten nästan såsom skickad av himlen, ty det var just en dylik hjälp, som Verelius behövde, och därtill berättade Rugman, att han i Hälsing-"
+  },
+  {
+   "bbox": [
+    1143,
+    1918,
+    1215,
+    1955
+   ],
+   "category": "Page-footer",
+   "text": "203"
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 417,
+ "seconds": 40.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [900, 251, 1296, 287], \"category\": \"Section-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [658, 318, 1623, 1249], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>Et gull-mynt til Romerska suiten. Tiberius. 2 1/4 ducats tyngd</td><td>54</td></tr><tr><td>band på Heumans diplomatica 2 volymer in 4:to</td><td>14</td></tr><tr><td>Pergamentsrimsor och spijk wid några monumenters upsättande</td><td>1.22</td></tr><tr><td>Ifrån Franckfurt låtit komma medaille i silf:r Dat rectas fessis</td><td rowspan=\\\"5\\\">54</td></tr><tr><td>» » » » » i dito Non animo victus</td></tr><tr><td>» » » » » i koppar. Orientes</td></tr><tr><td>» » » » » dissipat i dito K. Fridrich och Carl</td></tr><tr><td>Romerske medailler 7 stycken öfwer drotning Christina, försendne ifrån Rom med Hr. Adelcrantz 75<sup>tt</sup> 10<sup>s</sup></td></tr><tr><td>2:ne i koppar öfwer S. Birgitta 2<sup>tt</sup></td><td>151. 4</td></tr><tr><td>Stor fransk medaillon öfwer Nimwegska freden. 61</td><td>122</td></tr><tr><td>L'art de verifier les dattes in 4:to</td><td>48</td></tr><tr><td>Diplomatique par les Benedictins 4:to T. 1.<sup>t</sup> 18</td><td>36</td></tr><tr><td>Wachleri Lexicon Diplomaticum fol. Lubech 76 m.</td><td>242</td></tr><tr><td>Medaille öfr. K. Friedrichs föräldrar 7 1/8 lod</td><td>76.19</td></tr><tr><td>» » Fehrbellinska action stor 7 1/4 lod</td><td>77.30</td></tr><tr><td>» » » » liten 1 13/16 lod</td><td>19.25</td></tr><tr><td>Riksdahler öfwer samma action</td><td>35</td></tr><tr><td>gulden eller Zweydrittelstück öfwer Stettins afträdande</td><td>9</td></tr><tr><td>Låtit ren-koka och polera en hop kopparplåtar, som af ärg woro skadde och hwaruppå stickningen stod i fahra.»</td><td>40.16</td></tr></tbody></table>\"}, {\"bbox\": [606, 1279, 1064, 1323], \"category\": \"Text\", \"text\": \"För 1752 börjar kassaboken:\"}, {\"bbox\": [850, 1332, 1336, 1407], \"category\": \"Text\", \"text\": \"»För Kongl. antiquitets archivum.\\npå ny räkning.\"}, {\"bbox\": [1031, 1415, 1154, 1454], \"category\": \"Text\", \"text\": \"Upburit.\"}, {\"bbox\": [570, 1461, 1621, 1573], \"category\": \"Text\", \"text\": \"N. B. den förra räkningen wisade, at iag hade till fordra 987. dr. 12, hvilka effter långt wäntande blefwo mig betalte d. 9 juni 1752, igenom Sondell (1752)\"}, {\"bbox\": [570, 1574, 1584, 1662], \"category\": \"Text\", \"text\": \"Aug. 5 Hr. Åberg i Norköping försåldt af archivi böcker för 183. 1753\"}, {\"bbox\": [570, 1663, 1584, 1702], \"category\": \"Text\", \"text\": \"Febr. 1 Hr. Frigelius i Calmarne äfwen försåldt 165.\"}, {\"bbox\": [570, 1700, 1572, 1775], \"category\": \"Text\", \"text\": \"Martii 28 Ifrån Wexiö, Giötheborg och Åbo insände penningar, emottagit af Hr. Sondel 526\"}, {\"bbox\": [572, 1802, 645, 1849], \"category\": \"Page-footer\", \"text\": \"398\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    900,
+    251,
+    1296,
+    287
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    658,
+    318,
+    1623,
+    1249
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>Et gull-mynt til Romerska suiten. Tiberius. 2 1/4 ducats tyngd</td><td>54</td></tr><tr><td>band på Heumans diplomatica 2 volymer in 4:to</td><td>14</td></tr><tr><td>Pergamentsrimsor och spijk wid några monumenters upsättande</td><td>1.22</td></tr><tr><td>Ifrån Franckfurt låtit komma medaille i silf:r Dat rectas fessis</td><td rowspan=\"5\">54</td></tr><tr><td>» » » » » i dito Non animo victus</td></tr><tr><td>» » » » » i koppar. Orientes</td></tr><tr><td>» » » » » dissipat i dito K. Fridrich och Carl</td></tr><tr><td>Romerske medailler 7 stycken öfwer drotning Christina, försendne ifrån Rom med Hr. Adelcrantz 75<sup>tt</sup> 10<sup>s</sup></td></tr><tr><td>2:ne i koppar öfwer S. Birgitta 2<sup>tt</sup></td><td>151. 4</td></tr><tr><td>Stor fransk medaillon öfwer Nimwegska freden. 61</td><td>122</td></tr><tr><td>L'art de verifier les dattes in 4:to</td><td>48</td></tr><tr><td>Diplomatique par les Benedictins 4:to T. 1.<sup>t</sup> 18</td><td>36</td></tr><tr><td>Wachleri Lexicon Diplomaticum fol. Lubech 76 m.</td><td>242</td></tr><tr><td>Medaille öfr. K. Friedrichs föräldrar 7 1/8 lod</td><td>76.19</td></tr><tr><td>» » Fehrbellinska action stor 7 1/4 lod</td><td>77.30</td></tr><tr><td>» » » » liten 1 13/16 lod</td><td>19.25</td></tr><tr><td>Riksdahler öfwer samma action</td><td>35</td></tr><tr><td>gulden eller Zweydrittelstück öfwer Stettins afträdande</td><td>9</td></tr><tr><td>Låtit ren-koka och polera en hop kopparplåtar, som af ärg woro skadde och hwaruppå stickningen stod i fahra.»</td><td>40.16</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    606,
+    1279,
+    1064,
+    1323
+   ],
+   "category": "Text",
+   "text": "För 1752 börjar kassaboken:"
+  },
+  {
+   "bbox": [
+    850,
+    1332,
+    1336,
+    1407
+   ],
+   "category": "Text",
+   "text": "»För Kongl. antiquitets archivum.\npå ny räkning."
+  },
+  {
+   "bbox": [
+    1031,
+    1415,
+    1154,
+    1454
+   ],
+   "category": "Text",
+   "text": "Upburit."
+  },
+  {
+   "bbox": [
+    570,
+    1461,
+    1621,
+    1573
+   ],
+   "category": "Text",
+   "text": "N. B. den förra räkningen wisade, at iag hade till fordra 987. dr. 12, hvilka effter långt wäntande blefwo mig betalte d. 9 juni 1752, igenom Sondell (1752)"
+  },
+  {
+   "bbox": [
+    570,
+    1574,
+    1584,
+    1662
+   ],
+   "category": "Text",
+   "text": "Aug. 5 Hr. Åberg i Norköping försåldt af archivi böcker för 183. 1753"
+  },
+  {
+   "bbox": [
+    570,
+    1663,
+    1584,
+    1702
+   ],
+   "category": "Text",
+   "text": "Febr. 1 Hr. Frigelius i Calmarne äfwen försåldt 165."
+  },
+  {
+   "bbox": [
+    570,
+    1700,
+    1572,
+    1775
+   ],
+   "category": "Text",
+   "text": "Martii 28 Ifrån Wexiö, Giötheborg och Åbo insände penningar, emottagit af Hr. Sondel 526"
+  },
+  {
+   "bbox": [
+    572,
+    1802,
+    645,
+    1849
+   ],
+   "category": "Page-footer",
+   "text": "398"
+  }
+ ]
+}

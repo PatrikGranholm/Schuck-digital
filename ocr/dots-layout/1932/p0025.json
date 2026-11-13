@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 25,
+ "seconds": 32.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [967, 337, 1442, 384], \"category\": \"Section-header\", \"text\": \"Antikvitetsstudiets början\"}, {\"bbox\": [676, 405, 1727, 1153], \"category\": \"Text\", \"text\": \"Ett obestridligt vittnesbörd om en rent inhemsk nordisk tradition är emellertid Gutasagans första kapitel. Sagans nedskrivningstid sattes visserligen av Schlyter till början av 1300-talet, men det är tydligt, att den är vida äldre, återger en rent folklig gutnisk tradition, och denna stämmer i huvuddragen med Jordanes' utvandringssaga: »Av dessa tre (Guti, Graiper och Gunfjaun) föröktes sedan folket på Gotland så mycket i lång tid, att landet ej förmådde föda dem alla. Då lottade de bort från landet var tredje människa, så att de skulle behålla och föra bort med sig allt, som de ägde ovan jord. Sedan ville de ogärna fara bort, utan foro till Thorsborg och bodde där. Sedan ville ej landet tåla dem, utan drevo dem bort därifrån. Sedan foro de bort till Fårön och bodde där. Där förmådde de ej uppehålla sig, utan foro till en ö vid Estland, som heter Dagajthi och bodde där, och gjorde en borg, som ännu synes. Där förmådde de icke heller uppehålla sig, utan foro upp åt det vattnet, som heter Duna och upp genom Ryssland; så långt foro de, att de kommo till Grekland ... Så bodde de där och bo där ännu, och ännu hava de något av vårt språk.»\"}, {\"bbox\": [670, 1152, 1722, 1869], \"category\": \"Text\", \"text\": \"Tack vare de på 1200-talet börjande studieresorna till Paris synas de svenska klerkerna redan under detta århundrade hava gjort bekantskap med den sydländska traditionen. Det äldsta vittnesbördet härom torde vara legendariet i Codex Bureanus, som troligen härrör från 1270-talet. Om aposteln Philippus berättas där, att han predikade tjugo år »i Sithia, som nu kallas Suerike». Hela stycket är översatt från Legenda aurea, men med ett karakteristiskt tilllägg. Originalet har: »Philippus apostolus cum XX annis per Sithiam prædicasset» etc. »Sithia, som nu kallas Suerike» är översättarnes eget tillägg, och denna sammanställning av goter och skyter återgår, såsom vi sett, till Cassiodorus. Svårare att förklara äro de icke i Legenda aurea förekommande avslutningsorden: »Sueia worþo opta cristne ok opta castaþo þe cristno sua som pröua gæsta gotorum». Något härom förekommer varken hos Jordanes eller hos Rodericus, och att legendförfattaren med Gesta gotorum skulle hava avsett Adam av Bremens för honom möjligen bekanta kyrkohistoria, får väl ej antagas. Måhända syftar likväl Gesta gotorum på Isi-\"}, {\"bbox\": [571, 1156, 669, 1216], \"category\": \"Text\", \"text\": \"Codex Bureanus\"}, {\"bbox\": [672, 1886, 696, 1923], \"category\": \"Page-footer\", \"text\": \"8\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    967,
+    337,
+    1442,
+    384
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsstudiets början"
+  },
+  {
+   "bbox": [
+    676,
+    405,
+    1727,
+    1153
+   ],
+   "category": "Text",
+   "text": "Ett obestridligt vittnesbörd om en rent inhemsk nordisk tradition är emellertid Gutasagans första kapitel. Sagans nedskrivningstid sattes visserligen av Schlyter till början av 1300-talet, men det är tydligt, att den är vida äldre, återger en rent folklig gutnisk tradition, och denna stämmer i huvuddragen med Jordanes' utvandringssaga: »Av dessa tre (Guti, Graiper och Gunfjaun) föröktes sedan folket på Gotland så mycket i lång tid, att landet ej förmådde föda dem alla. Då lottade de bort från landet var tredje människa, så att de skulle behålla och föra bort med sig allt, som de ägde ovan jord. Sedan ville de ogärna fara bort, utan foro till Thorsborg och bodde där. Sedan ville ej landet tåla dem, utan drevo dem bort därifrån. Sedan foro de bort till Fårön och bodde där. Där förmådde de ej uppehålla sig, utan foro till en ö vid Estland, som heter Dagajthi och bodde där, och gjorde en borg, som ännu synes. Där förmådde de icke heller uppehålla sig, utan foro upp åt det vattnet, som heter Duna och upp genom Ryssland; så långt foro de, att de kommo till Grekland ... Så bodde de där och bo där ännu, och ännu hava de något av vårt språk.»"
+  },
+  {
+   "bbox": [
+    670,
+    1152,
+    1722,
+    1869
+   ],
+   "category": "Text",
+   "text": "Tack vare de på 1200-talet börjande studieresorna till Paris synas de svenska klerkerna redan under detta århundrade hava gjort bekantskap med den sydländska traditionen. Det äldsta vittnesbördet härom torde vara legendariet i Codex Bureanus, som troligen härrör från 1270-talet. Om aposteln Philippus berättas där, att han predikade tjugo år »i Sithia, som nu kallas Suerike». Hela stycket är översatt från Legenda aurea, men med ett karakteristiskt tilllägg. Originalet har: »Philippus apostolus cum XX annis per Sithiam prædicasset» etc. »Sithia, som nu kallas Suerike» är översättarnes eget tillägg, och denna sammanställning av goter och skyter återgår, såsom vi sett, till Cassiodorus. Svårare att förklara äro de icke i Legenda aurea förekommande avslutningsorden: »Sueia worþo opta cristne ok opta castaþo þe cristno sua som pröua gæsta gotorum». Något härom förekommer varken hos Jordanes eller hos Rodericus, och att legendförfattaren med Gesta gotorum skulle hava avsett Adam av Bremens för honom möjligen bekanta kyrkohistoria, får väl ej antagas. Måhända syftar likväl Gesta gotorum på Isi-"
+  },
+  {
+   "bbox": [
+    571,
+    1156,
+    669,
+    1216
+   ],
+   "category": "Text",
+   "text": "Codex Bureanus"
+  },
+  {
+   "bbox": [
+    672,
+    1886,
+    696,
+    1923
+   ],
+   "category": "Page-footer",
+   "text": "8"
+  }
+ ]
+}

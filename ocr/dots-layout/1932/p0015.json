@@ -1,0 +1,42 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 15,
+ "seconds": 23.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [647, 573, 1296, 632], \"category\": \"Section-header\", \"text\": \"EDERS KUNGL. HÖGHET!\"}, {\"bbox\": [638, 1017, 1679, 1417], \"category\": \"Text\", \"text\": \"Kgl. Vitterhets Historie och Antikvitets Akademien har såsom en gärd av vördnadsfull hyllning vågat tillägna Eders Kungliga Höghet detta arbete, som avser att skildra svensk fornforsknings och svensk fornminnesvårds öden genom tiderna.\"}, {\"bbox\": [633, 1460, 1677, 1874], \"category\": \"Text\", \"text\": \"Akademien ser nämligen i Eders Kungliga Höghet icke blott sin Förste Hedersledamot utan ock sin främste gynnare, som, varmt intresserad för dess uppgifter, städse varit redo att främja dessa, tillika själv en arbetare inom akademiens forskningsområde, vilken genom sina insatser\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    647,
+    573,
+    1296,
+    632
+   ],
+   "category": "Section-header",
+   "text": "EDERS KUNGL. HÖGHET!"
+  },
+  {
+   "bbox": [
+    638,
+    1017,
+    1679,
+    1417
+   ],
+   "category": "Text",
+   "text": "Kgl. Vitterhets Historie och Antikvitets Akademien har såsom en gärd av vördnadsfull hyllning vågat tillägna Eders Kungliga Höghet detta arbete, som avser att skildra svensk fornforsknings och svensk fornminnesvårds öden genom tiderna."
+  },
+  {
+   "bbox": [
+    633,
+    1460,
+    1677,
+    1874
+   ],
+   "category": "Text",
+   "text": "Akademien ser nämligen i Eders Kungliga Höghet icke blott sin Förste Hedersledamot utan ock sin främste gynnare, som, varmt intresserad för dess uppgifter, städse varit redo att främja dessa, tillika själv en arbetare inom akademiens forskningsområde, vilken genom sina insatser"
+  }
+ ]
+}

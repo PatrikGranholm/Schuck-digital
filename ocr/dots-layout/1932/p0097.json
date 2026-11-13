@@ -1,0 +1,147 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 97,
+ "seconds": 28.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [726, 314, 1656, 413], \"category\": \"Picture\"}, {\"bbox\": [906, 444, 1429, 506], \"category\": \"Section-header\", \"text\": \"# LALANDICA\"}, {\"bbox\": [1036, 568, 1294, 625], \"category\": \"Section-header\", \"text\": \"## I. Tileſenſe\"}, {\"bbox\": [822, 664, 1399, 823], \"category\": \"Text\", \"text\": \"Toki risti Runár eſtir Danu goda\\nTÉPI: RÍTI: RDHR: IPTI: PHN: PÉPI\\nToco incidit Runas in mem. Danæ bonæ\"}, {\"bbox\": [822, 840, 1133, 964], \"category\": \"Text\", \"text\": \"Stiupmodur ſina:\\nITINB: ΨIHR: 4II:\\nnovercæ ſuæ\"}, {\"bbox\": [672, 995, 1686, 1037], \"category\": \"Picture\"}, {\"bbox\": [668, 1046, 1686, 1088], \"category\": \"Picture\"}, {\"bbox\": [992, 1117, 1404, 1189], \"category\": \"Section-header\", \"text\": \"## II. Bringningenſe\"}, {\"bbox\": [1089, 1230, 1446, 1269], \"category\": \"Text\", \"text\": \"Nota initi alis Lineæ\"}, {\"bbox\": [1138, 1235, 1332, 1609], \"category\": \"Picture\"}, {\"bbox\": [868, 1681, 1505, 1808], \"category\": \"Text\", \"text\": \"A ſa gârdi Kumbl duffi eſt. Tyke Sun\\nII: PIRI: PDB: PHI: IPT: INI: INI:\\nAſa fecit Tumulû hunc in mem. Tychonis filij\"}, {\"bbox\": [864, 1818, 1338, 1944], \"category\": \"Text\", \"text\": \"ſin âak Tykâ Hagleks Sunar\\nII: IP: INI: IPI: INH.\\nſui & Tychonis HagLechi filij.\"}, {\"bbox\": [1076, 2006, 1316, 2066], \"category\": \"Picture\"}, {\"bbox\": [1620, 2022, 1772, 2060], \"category\": \"Page-footer\", \"text\": \"Lalandica\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    726,
+    314,
+    1656,
+    413
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    906,
+    444,
+    1429,
+    506
+   ],
+   "category": "Section-header",
+   "text": "# LALANDICA"
+  },
+  {
+   "bbox": [
+    1036,
+    568,
+    1294,
+    625
+   ],
+   "category": "Section-header",
+   "text": "## I. Tileſenſe"
+  },
+  {
+   "bbox": [
+    822,
+    664,
+    1399,
+    823
+   ],
+   "category": "Text",
+   "text": "Toki risti Runár eſtir Danu goda\nTÉPI: RÍTI: RDHR: IPTI: PHN: PÉPI\nToco incidit Runas in mem. Danæ bonæ"
+  },
+  {
+   "bbox": [
+    822,
+    840,
+    1133,
+    964
+   ],
+   "category": "Text",
+   "text": "Stiupmodur ſina:\nITINB: ΨIHR: 4II:\nnovercæ ſuæ"
+  },
+  {
+   "bbox": [
+    672,
+    995,
+    1686,
+    1037
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    668,
+    1046,
+    1686,
+    1088
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    992,
+    1117,
+    1404,
+    1189
+   ],
+   "category": "Section-header",
+   "text": "## II. Bringningenſe"
+  },
+  {
+   "bbox": [
+    1089,
+    1230,
+    1446,
+    1269
+   ],
+   "category": "Text",
+   "text": "Nota initi alis Lineæ"
+  },
+  {
+   "bbox": [
+    1138,
+    1235,
+    1332,
+    1609
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    868,
+    1681,
+    1505,
+    1808
+   ],
+   "category": "Text",
+   "text": "A ſa gârdi Kumbl duffi eſt. Tyke Sun\nII: PIRI: PDB: PHI: IPT: INI: INI:\nAſa fecit Tumulû hunc in mem. Tychonis filij"
+  },
+  {
+   "bbox": [
+    864,
+    1818,
+    1338,
+    1944
+   ],
+   "category": "Text",
+   "text": "ſin âak Tykâ Hagleks Sunar\nII: IP: INI: IPI: INH.\nſui & Tychonis HagLechi filij."
+  },
+  {
+   "bbox": [
+    1076,
+    2006,
+    1316,
+    2066
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    1620,
+    2022,
+    1772,
+    2060
+   ],
+   "category": "Page-footer",
+   "text": "Lalandica"
+  }
+ ]
+}

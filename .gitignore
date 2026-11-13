@@ -1,0 +1,13 @@
+# large inputs and derived binaries (re-derivable)
+data/pdf/
+data/img/
+cache/
+models/*/
+!models/README.md
+*.safetensors
+*.mlmodel
+__pycache__/
+.venv*/
+ocr/textlayer/
+site/
+*.log

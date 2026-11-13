@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 261,
+ "seconds": 32.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [975, 358, 1449, 403], \"category\": \"Section-header\", \"text\": \"Antikvitetsstudiets början\"}, {\"bbox\": [692, 428, 1738, 1222], \"category\": \"Text\", \"text\": \"tider Nordens utsträckning, hurudant dess utseende? Vid vilken tid blev landet befolkat och av vilka? Vad är vårt folks första ursprung och dess vagga? Vid vilken tid skedde under Oden invandringen från Asien? Vad veta vi om goternas, longobardernas och normannernas utvandringar? Vilken var våra förfäders religion, vilka deras kultbruk? Hurudan var styrelseformen? Hurudana voro deras förbindelser med germanfolken? Vilket språk talade de, och huru har vårt nuvarande tungomål förändrats från det urgamla? Ämnen för den nya professuren funnos således i mängd. Verelius hade tänkt att börja med det äldre språket, först det till tiden närmast liggande, som man finner i Upplands, Hälsinge, Öster- och Västergötlands lagar samt i Konungastyrelsen. När lärjungarna blivit någorlunda förfarna i denna tids språk, skulle man övergå till det, som våra landsmän lämnat oss i norska och isländska skrifter, och slutligen skulle man taga kännedom om det språk, som talades av Ulfilas och hans goter i Trakien och Moesien. Vad de närmaste föreläsningarna beträffade, hade Verelius gjort upp med boktryckaren Curio, att åhörarna för det billiga priset av tre daler kpt. kunde förskaffa sig ett exemplar av Konungastyrelsen.\"}, {\"bbox\": [692, 1220, 1738, 1387], \"category\": \"Text\", \"text\": \"Onekligen var detta ett ovanligt klokt program, och prælectionskatalogerna under Verelius' professorstid visa också, att han sökt genomföra det, ty han har undervisat i alla de delar, som då för tiden kunde anses tillhöra en lärostol i nordisk filologi.\"}, {\"bbox\": [1176, 1422, 1254, 1457], \"category\": \"Text\", \"text\": \"1662\"}, {\"bbox\": [695, 1468, 1167, 1513], \"category\": \"Text\", \"text\": \"[Prælektionskatalogen saknas.]\"}, {\"bbox\": [1176, 1542, 1254, 1579], \"category\": \"Text\", \"text\": \"1663\"}, {\"bbox\": [695, 1592, 1738, 1713], \"category\": \"Text\", \"text\": \"Olaus Verelius, absoluta expositione Linguæ nostræ veteris ex L. L. Ostrogothicis, Gautreks saga et Hervarar saga interpretari constituit h. 8 in auditorio novo minori.\"}, {\"bbox\": [1176, 1749, 1254, 1786], \"category\": \"Text\", \"text\": \"1664\"}, {\"bbox\": [695, 1799, 1738, 1879], \"category\": \"Text\", \"text\": \"Olaus Verelius, quæ restant in Gaut. et Hervarar sagu absolvet, loco et horis consuet.\"}, {\"bbox\": [699, 1916, 772, 1955], \"category\": \"Page-footer\", \"text\": \"228\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    975,
+    358,
+    1449,
+    403
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsstudiets början"
+  },
+  {
+   "bbox": [
+    692,
+    428,
+    1738,
+    1222
+   ],
+   "category": "Text",
+   "text": "tider Nordens utsträckning, hurudant dess utseende? Vid vilken tid blev landet befolkat och av vilka? Vad är vårt folks första ursprung och dess vagga? Vid vilken tid skedde under Oden invandringen från Asien? Vad veta vi om goternas, longobardernas och normannernas utvandringar? Vilken var våra förfäders religion, vilka deras kultbruk? Hurudan var styrelseformen? Hurudana voro deras förbindelser med germanfolken? Vilket språk talade de, och huru har vårt nuvarande tungomål förändrats från det urgamla? Ämnen för den nya professuren funnos således i mängd. Verelius hade tänkt att börja med det äldre språket, först det till tiden närmast liggande, som man finner i Upplands, Hälsinge, Öster- och Västergötlands lagar samt i Konungastyrelsen. När lärjungarna blivit någorlunda förfarna i denna tids språk, skulle man övergå till det, som våra landsmän lämnat oss i norska och isländska skrifter, och slutligen skulle man taga kännedom om det språk, som talades av Ulfilas och hans goter i Trakien och Moesien. Vad de närmaste föreläsningarna beträffade, hade Verelius gjort upp med boktryckaren Curio, att åhörarna för det billiga priset av tre daler kpt. kunde förskaffa sig ett exemplar av Konungastyrelsen."
+  },
+  {
+   "bbox": [
+    692,
+    1220,
+    1738,
+    1387
+   ],
+   "category": "Text",
+   "text": "Onekligen var detta ett ovanligt klokt program, och prælectionskatalogerna under Verelius' professorstid visa också, att han sökt genomföra det, ty han har undervisat i alla de delar, som då för tiden kunde anses tillhöra en lärostol i nordisk filologi."
+  },
+  {
+   "bbox": [
+    1176,
+    1422,
+    1254,
+    1457
+   ],
+   "category": "Text",
+   "text": "1662"
+  },
+  {
+   "bbox": [
+    695,
+    1468,
+    1167,
+    1513
+   ],
+   "category": "Text",
+   "text": "[Prælektionskatalogen saknas.]"
+  },
+  {
+   "bbox": [
+    1176,
+    1542,
+    1254,
+    1579
+   ],
+   "category": "Text",
+   "text": "1663"
+  },
+  {
+   "bbox": [
+    695,
+    1592,
+    1738,
+    1713
+   ],
+   "category": "Text",
+   "text": "Olaus Verelius, absoluta expositione Linguæ nostræ veteris ex L. L. Ostrogothicis, Gautreks saga et Hervarar saga interpretari constituit h. 8 in auditorio novo minori."
+  },
+  {
+   "bbox": [
+    1176,
+    1749,
+    1254,
+    1786
+   ],
+   "category": "Text",
+   "text": "1664"
+  },
+  {
+   "bbox": [
+    695,
+    1799,
+    1738,
+    1879
+   ],
+   "category": "Text",
+   "text": "Olaus Verelius, quæ restant in Gaut. et Hervarar sagu absolvet, loco et horis consuet."
+  },
+  {
+   "bbox": [
+    699,
+    1916,
+    772,
+    1955
+   ],
+   "category": "Page-footer",
+   "text": "228"
+  }
+ ]
+}

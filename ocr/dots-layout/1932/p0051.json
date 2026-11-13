@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 51,
+ "seconds": 34.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [970, 353, 1443, 397], \"category\": \"Section-header\", \"text\": \"Antikvitetsstudiets början\"}, {\"bbox\": [682, 423, 1725, 551], \"category\": \"Text\", \"text\": \"med then bäste och zierligaste Jnwentionen vptagandes. Then fierde skall thet konungzlige, furstelige och adelige Fruntimbret hafwa fritt att gifwa hwem them helst synes.»\"}, {\"bbox\": [682, 558, 1725, 854], \"category\": \"Text\", \"text\": \"I detta ringrännande hava vi endast den ridderliga romantiken. Den speciellt götiska kommer däremot fram i de kartel, som utfärdades för tornejen. Även dessa trycktes, men äro nu blott kända genom avskrifter (hos Palmskiöld vol. 36, i Skoklostersamlingen i R.A. 4:0 nr 74 och i Aschaneus' Samlingsband F. b. 4 i K.B.) Det ena är utfärdat av götakonungen Alarik, det andra av den först hos Jordanes och sedermera av Johannes Magni prisade götakonungen Berik och lyder:\"}, {\"bbox\": [682, 861, 1725, 949], \"category\": \"Text\", \"text\": \"»Thetta Effterfölliande Breeff Bleef Vpläsit i Konung Gustaffs Adolphi Cröning Anno 1617 dänn 14 Octob.¹ opå Wädiebahn.\"}, {\"bbox\": [682, 947, 1725, 1778], \"category\": \"Text\", \"text\": \"Wij Berik, thee gamble och oöfwerwinnelige Giöters segherfulle konungh, önske thänne Höglåfflige församblingh all lycko och wälfärdh och hållat för intet twifwell, at iw mångom ibland eder vtaff thee gambla Giöters Historiers läsande skall wetterligit wara, huru såsom wij, vptände aff Een synnerlig låfflig nijt och begiärelsse till at giöra oss och wåra vndersåter igenom dygdh och manlige bedriffter öfwer hela wärdenne nampnkunnoge och berömbde, Befinnandes at wårt och theras manlige och ähretorstige hierter sigh innan fädernesslandzens (ehuru wäl älliest och ganska widtbegripne gräntzer) icke kunde inkiätta och stängia låta. Jämwäl och till at wedergiöra thän orätt och öfwerwåldh, som wære granner thee Ester, Churer, Prysser och Wänder oss och wære undersåter vtij många måtta idkieligen tillfogade ähre, och för några hundrade åhr sedan medh een mächtig inlandhsk hähr dragne uthur wårt fosterlandh Giöta Rikie in åt Estlandh, Churlandh, Pryssen och the wändiske Landen, hwilke alle wij med wäldig hand öfwerwunnit och under oss kommit hafwe och hadhe wäl ärnat at före wære segherfulla wapn widare fram i wärden, hwar ickie Gudarne hade täkts att wij skulle gifwe wære effterkommande ruhm och tillfälle at förwärffwa sigh med samma medell som wij et odödeligit och berömligit nampn och förtänskuldh\"}, {\"bbox\": [678, 1785, 1722, 1881], \"category\": \"Footnote\", \"text\": \"¹ Enligt Abraham Brahe ägde tornejen rum den 16 oktober. Han berättar: »Holt konnungen en tornere neden for Slottet och hade konnungen nar hand en olycke, nar Phalsgreffuen och andra rende emott honom i fölie. Men Gud wari loffuatt som den nadeligen affwende.»\"}, {\"bbox\": [682, 1914, 730, 1952], \"category\": \"Page-footer\", \"text\": \"34\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    970,
+    353,
+    1443,
+    397
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsstudiets början"
+  },
+  {
+   "bbox": [
+    682,
+    423,
+    1725,
+    551
+   ],
+   "category": "Text",
+   "text": "med then bäste och zierligaste Jnwentionen vptagandes. Then fierde skall thet konungzlige, furstelige och adelige Fruntimbret hafwa fritt att gifwa hwem them helst synes.»"
+  },
+  {
+   "bbox": [
+    682,
+    558,
+    1725,
+    854
+   ],
+   "category": "Text",
+   "text": "I detta ringrännande hava vi endast den ridderliga romantiken. Den speciellt götiska kommer däremot fram i de kartel, som utfärdades för tornejen. Även dessa trycktes, men äro nu blott kända genom avskrifter (hos Palmskiöld vol. 36, i Skoklostersamlingen i R.A. 4:0 nr 74 och i Aschaneus' Samlingsband F. b. 4 i K.B.) Det ena är utfärdat av götakonungen Alarik, det andra av den först hos Jordanes och sedermera av Johannes Magni prisade götakonungen Berik och lyder:"
+  },
+  {
+   "bbox": [
+    682,
+    861,
+    1725,
+    949
+   ],
+   "category": "Text",
+   "text": "»Thetta Effterfölliande Breeff Bleef Vpläsit i Konung Gustaffs Adolphi Cröning Anno 1617 dänn 14 Octob.¹ opå Wädiebahn."
+  },
+  {
+   "bbox": [
+    682,
+    947,
+    1725,
+    1778
+   ],
+   "category": "Text",
+   "text": "Wij Berik, thee gamble och oöfwerwinnelige Giöters segherfulle konungh, önske thänne Höglåfflige församblingh all lycko och wälfärdh och hållat för intet twifwell, at iw mångom ibland eder vtaff thee gambla Giöters Historiers läsande skall wetterligit wara, huru såsom wij, vptände aff Een synnerlig låfflig nijt och begiärelsse till at giöra oss och wåra vndersåter igenom dygdh och manlige bedriffter öfwer hela wärdenne nampnkunnoge och berömbde, Befinnandes at wårt och theras manlige och ähretorstige hierter sigh innan fädernesslandzens (ehuru wäl älliest och ganska widtbegripne gräntzer) icke kunde inkiätta och stängia låta. Jämwäl och till at wedergiöra thän orätt och öfwerwåldh, som wære granner thee Ester, Churer, Prysser och Wänder oss och wære undersåter vtij många måtta idkieligen tillfogade ähre, och för några hundrade åhr sedan medh een mächtig inlandhsk hähr dragne uthur wårt fosterlandh Giöta Rikie in åt Estlandh, Churlandh, Pryssen och the wändiske Landen, hwilke alle wij med wäldig hand öfwerwunnit och under oss kommit hafwe och hadhe wäl ärnat at före wære segherfulla wapn widare fram i wärden, hwar ickie Gudarne hade täkts att wij skulle gifwe wære effterkommande ruhm och tillfälle at förwärffwa sigh med samma medell som wij et odödeligit och berömligit nampn och förtänskuldh"
+  },
+  {
+   "bbox": [
+    678,
+    1785,
+    1722,
+    1881
+   ],
+   "category": "Footnote",
+   "text": "¹ Enligt Abraham Brahe ägde tornejen rum den 16 oktober. Han berättar: »Holt konnungen en tornere neden for Slottet och hade konnungen nar hand en olycke, nar Phalsgreffuen och andra rende emott honom i fölie. Men Gud wari loffuatt som den nadeligen affwende.»"
+  },
+  {
+   "bbox": [
+    682,
+    1914,
+    730,
+    1952
+   ],
+   "category": "Page-footer",
+   "text": "34"
+  }
+ ]
+}

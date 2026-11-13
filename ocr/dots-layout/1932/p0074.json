@@ -1,0 +1,91 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 74,
+ "seconds": 29.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [490, 363, 882, 400], \"category\": \"Section-header\", \"text\": \"Bureus och Messenius\"}, {\"bbox\": [166, 432, 1204, 728], \"category\": \"Text\", \"text\": \"stället antogs ett annat, som återgivits av Schraderus.¹ Någon anledning att ingå på frågan, varifrån detta stammar, föreligger här icke, då det i varje fall varken är gotiskt eller nordiskt. Däremot kan källan till Lucas Fanensis alfabet angivas. Det är nämligen taget från en bok — Introdvctio in chaldaicam linguam, Syricam atque Armenicam et decem alias linguas (1539) — av Theseus Ambrosius, vilken lyckligtvis uppgiver sin källa. Sid. 206 berättar han:\"}, {\"bbox\": [169, 722, 1206, 812], \"category\": \"Text\", \"text\": \"»Promiserat, cum adhuc Ferrariæ essem, Nicolaus Franciscus Germanus, de quo in præcedenti introductione mentionem feci, alpha-\"}, {\"bbox\": [283, 828, 1082, 1342], \"category\": \"Picture\"}, {\"bbox\": [481, 1359, 909, 1397], \"category\": \"Caption\", \"text\": \"Runalfabetet i Theseus Ambrosius' arbete.\"}, {\"bbox\": [173, 1435, 1213, 1816], \"category\": \"Text\", \"text\": \"betum Gotthorum et libros aliquot illius gentis historiam continentes se mihi daturum. Quo eorum quoque literas seu literarum formas in hoc nostro libello cum cæteris immiscere possem. Quæ omnia dum multo tempore expecto, aliunde mihi non inde expectanti obueniunt. Bona fors ad Vicentinum Generale Concilium proximis his mensibus profecturus, Reuerendissimus Joannes Vpsalensis Archiepiscopus, genere Gotthus, Bononiam venit. Casu a Iulio Canobino visitatur, interloquendum post multa hinc inde invicem dicta (vt fieri solet) etiam de literis Gotthicis sermo habetur. Rogatus inte-\"}, {\"bbox\": [175, 1824, 1213, 1891], \"category\": \"Footnote\", \"text\": \"¹ Underskriften är här densamma som hos Lucas Fanensis, och detta synes mig tyda på, att även dennes gotiska alfabet var avsett för biblioteket.\"}, {\"bbox\": [1161, 1920, 1205, 1958], \"category\": \"Page-footer\", \"text\": \"55\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    490,
+    363,
+    882,
+    400
+   ],
+   "category": "Section-header",
+   "text": "Bureus och Messenius"
+  },
+  {
+   "bbox": [
+    166,
+    432,
+    1204,
+    728
+   ],
+   "category": "Text",
+   "text": "stället antogs ett annat, som återgivits av Schraderus.¹ Någon anledning att ingå på frågan, varifrån detta stammar, föreligger här icke, då det i varje fall varken är gotiskt eller nordiskt. Däremot kan källan till Lucas Fanensis alfabet angivas. Det är nämligen taget från en bok — Introdvctio in chaldaicam linguam, Syricam atque Armenicam et decem alias linguas (1539) — av Theseus Ambrosius, vilken lyckligtvis uppgiver sin källa. Sid. 206 berättar han:"
+  },
+  {
+   "bbox": [
+    169,
+    722,
+    1206,
+    812
+   ],
+   "category": "Text",
+   "text": "»Promiserat, cum adhuc Ferrariæ essem, Nicolaus Franciscus Germanus, de quo in præcedenti introductione mentionem feci, alpha-"
+  },
+  {
+   "bbox": [
+    283,
+    828,
+    1082,
+    1342
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    481,
+    1359,
+    909,
+    1397
+   ],
+   "category": "Caption",
+   "text": "Runalfabetet i Theseus Ambrosius' arbete."
+  },
+  {
+   "bbox": [
+    173,
+    1435,
+    1213,
+    1816
+   ],
+   "category": "Text",
+   "text": "betum Gotthorum et libros aliquot illius gentis historiam continentes se mihi daturum. Quo eorum quoque literas seu literarum formas in hoc nostro libello cum cæteris immiscere possem. Quæ omnia dum multo tempore expecto, aliunde mihi non inde expectanti obueniunt. Bona fors ad Vicentinum Generale Concilium proximis his mensibus profecturus, Reuerendissimus Joannes Vpsalensis Archiepiscopus, genere Gotthus, Bononiam venit. Casu a Iulio Canobino visitatur, interloquendum post multa hinc inde invicem dicta (vt fieri solet) etiam de literis Gotthicis sermo habetur. Rogatus inte-"
+  },
+  {
+   "bbox": [
+    175,
+    1824,
+    1213,
+    1891
+   ],
+   "category": "Footnote",
+   "text": "¹ Underskriften är här densamma som hos Lucas Fanensis, och detta synes mig tyda på, att även dennes gotiska alfabet var avsett för biblioteket."
+  },
+  {
+   "bbox": [
+    1161,
+    1920,
+    1205,
+    1958
+   ],
+   "category": "Page-footer",
+   "text": "55"
+  }
+ ]
+}

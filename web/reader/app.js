@@ -1,0 +1,450 @@
+"use strict";
+// Schück digital: static reader for the TEI volumes in data/ (built by scripts/build_site.py).
+const TEI = "http://www.tei-c.org/ns/1.0";
+const $ = (id) => document.getElementById(id);
+const S = { vols: [], cache: {}, cur: null, osd: null, page: -1, view: "read" };
+
+// ---------------------------------------------------------------- helpers
+function h(tag, cls, text) {
+  const e = document.createElement(tag);
+  if (cls) e.className = cls;
+  if (text != null) e.textContent = text;
+  return e;
+}
+const kids = (n) => Array.from(n.childNodes).filter((c) => c.nodeType === 1);
+const tei = (doc, name) => Array.from(doc.getElementsByTagNameNS(TEI, name));
+const norm = (s) => s.replace(/\s+/g, " ").trim();
+const titleCase = (s) => (s === s.toUpperCase() ? s[0] + s.slice(1).toLowerCase() : s).replace(/\.$/, "");
+const store = {
+  get(k) { try { return localStorage.getItem(k); } catch { return null; } },
+  set(k, v) { try { localStorage.setItem(k, v); } catch { /* private mode */ } },
+};
+function partLabel(m) { return `Del ${m.part} (${m.year})`; }
+
+// TEI text without notes, running heads and printed readings (for search and lists)
+function plain(node) {
+  let s = "";
+  for (const c of node.childNodes) {
+    if (c.nodeType === 3) s += c.nodeValue;
+    else if (c.nodeType === 1 && !["note", "fw", "sic", "pb"].includes(c.localName)) s += plain(c);
+  }
+  return s;
+}
+
+// ---------------------------------------------------------------- loading + rendering
+async function loadVol(vol) {
+  if (S.cache[vol]) return S.cache[vol];
+  const meta = S.vols.find((v) => v.vol === vol);
+  const xml = await (await fetch(meta.file)).text();
+  const doc = new DOMParser().parseFromString(xml, "application/xml");
+  const V = { meta, doc, surfaces: {}, pages: [], quotes: [], sources: [], paras: [], notes: [] };
+  for (const s of tei(doc, "surface")) {
+    const g = s.getElementsByTagNameNS(TEI, "graphic")[0];
+    V.surfaces[s.getAttribute("xml:id")] = { url: g.getAttribute("url"), n: s.getAttribute("n") };
+  }
+  V.root = h("div", "volume");
+  const ctx = { V, page: null, chapter: "", p: 0 };
+  const text = tei(doc, "text")[0];
+  for (const part of kids(text)) {
+    const sec = h("section", part.localName === "back" ? "backmatter" : part.localName);
+    renderKids(part, sec, ctx);
+    V.root.appendChild(sec);
+  }
+  // quotations: one entry per chain (first part), with the whole chain's text
+  const byId = {};
+  for (const q of tei(doc, "quote")) byId[q.getAttribute("xml:id")] = q;
+  for (const q of V.quotes) {
+    let n = byId[q.id], t = "";
+    while (n) { t += " " + plain(n); const nx = n.getAttribute("next"); n = nx ? byId[nx.slice(1)] : null; }
+    q.text = norm(t);
+  }
+  S.cache[vol] = V;
+  return V;
+}
+
+function renderKids(node, parent, ctx) { for (const c of node.childNodes) render(c, parent, ctx); }
+
+function render(node, parent, ctx) {
+  if (node.nodeType === 3) { parent.appendChild(document.createTextNode(node.nodeValue)); return; }
+  if (node.nodeType !== 1) return;
+  const a = (k) => node.getAttribute(k);
+  const V = ctx.V;
+  let e;
+  switch (node.localName) {
+    case "div": {
+      const t = a("type");
+      e = h("section", t === "chapter" ? "chapter" : t || "div");
+      if (t === "chapter") e.id = `ch${a("n")}`;
+      if (t === "corrigenda") e.id = "corrigenda";
+      if (t === "contents") e.id = "contents";
+      renderKids(node, e, ctx);
+      break;
+    }
+    case "head": {
+      if (parent.tagName === "FIGURE") { e = h("figcaption"); renderKids(node, e, ctx); break; }
+      e = h("h2");
+      renderKids(node, e, ctx);
+      // headings printed in capitals: use the table-of-contents title (proper case)
+      const div = node.parentNode, ch = div.getAttribute("type") === "chapter" ? V.meta.chapters.find((c) => c.n === div.getAttribute("n")) : null;
+      ctx.chapter = ch ? ch.title : titleCase(norm(e.textContent));
+      if (e.textContent === e.textContent.toUpperCase()) e.textContent = ctx.chapter;
+      break;
+    }
+    case "titlePage": e = h("div", "titlepage"); renderKids(node, e, ctx); break;
+    case "titlePart": e = h("div", "titlepart"); renderKids(node, e, ctx); break;
+    case "p": case "ab": {
+      const t = a("type");
+      if (t === "heading") e = h("h3");
+      else if (t === "figText" || t === "plateText") e = h("div", "figtext");
+      else e = h("p", node.localName === "ab" ? "ab" : "");
+      if (node.localName === "p") {
+        e.id = `p${ctx.p++}`;
+        V.paras.push({ id: e.id, page: ctx.page, chapter: ctx.chapter, text: norm(plain(node)) });
+      }
+      renderKids(node, e, ctx);
+      break;
+    }
+    case "pb": {
+      const facs = (a("facs") || "").slice(1);
+      const n = a("n");
+      const resp = (a("resp") || "").slice(1);
+      ctx.page = n;
+      e = h("span", `pb ${resp}${a("break") === "no" ? " nobreak" : ""}`, n ? `s. ${n}` : "bild");
+      e.dataset.i = V.pages.length;
+      e.title = { gt: "Granskad text", dots: "OCR (dots.mocr), ej korrekturläst", textlayer: "PDF-textlager, ej korrekturläst" }[resp] || "";
+      V.pages.push({ facs, n, resp, el: e });
+      break;
+    }
+    case "fw": case "sic": return;
+    case "note": {
+      if (a("place") === "margin") { e = h("span", "sidenote"); renderKids(node, e, ctx); break; }
+      const body = h("div");
+      renderKids(node, body, ctx);
+      V.notes.push({ n: a("n"), body, page: ctx.page, low: a("cert") === "low" });
+      e = h("button", `fnref${a("cert") === "low" ? " low" : ""}`, a("n") || "*");
+      e.dataset.note = V.notes.length - 1;
+      e.title = "Fotnot";
+      break;
+    }
+    case "quote": {
+      e = h("span", "quote");
+      const id = a("xml:id");
+      if (id) e.id = id;
+      if (id && !a("prev")) V.quotes.push({ id, page: ctx.page, chapter: ctx.chapter });
+      renderKids(node, e, ctx);
+      break;
+    }
+    case "hi": e = h(a("rend") === "italic" ? "em" : "span", a("rend") === "spaced" ? "spaced" : ""); renderKids(node, e, ctx); break;
+    case "bibl": {
+      e = h("span", "source");
+      e.id = `src${V.sources.length}`;
+      renderKids(node, e, ctx);
+      const org = node.getElementsByTagNameNS(TEI, "orgName")[0];
+      V.sources.push({ id: e.id, org: org ? norm(org.textContent) : "", text: norm(plain(node)), page: ctx.page, chapter: ctx.chapter });
+      e.title = "Källhänvisning";
+      break;
+    }
+    case "idno": e = h("span", "shelfmark"); renderKids(node, e, ctx); break;
+    case "choice": {
+      const sic = node.getElementsByTagNameNS(TEI, "sic")[0];
+      e = h("span", "choice");
+      e.title = `Rättat enligt Rättelser. Trycket har: ${sic ? norm(sic.textContent) : ""}`;
+      renderKids(node, e, ctx);
+      break;
+    }
+    case "figure": {
+      e = h("figure", a("type") === "plate" ? "plate" : "fig");
+      renderKids(node, e, ctx);
+      if (!e.textContent.trim()) e.appendChild(h("div", "muted", a("type") === "plate" ? "Plansch" : "Bild"));
+      const facs = (a("facs") || "").slice(1);
+      if (facs) {
+        const b = h("button", "ghost", "Visa i faksimil");
+        b.dataset.facs = facs;
+        e.appendChild(b);
+      }
+      break;
+    }
+    case "table": e = h("table"); renderKids(node, e, ctx); break;
+    case "row": e = h("tr"); renderKids(node, e, ctx); break;
+    case "cell": e = h("td"); renderKids(node, e, ctx); break;
+    case "lb": e = h("br"); break;
+    default: renderKids(node, parent, ctx); return;
+  }
+  parent.appendChild(e);
+}
+
+// ---------------------------------------------------------------- reading view
+async function openVol(vol) {
+  if (S.cur && S.cur.meta.vol === vol) return S.cur;
+  $("text").innerHTML = '<p class="loading">Laddar…</p>';
+  const V = await loadVol(vol);
+  S.cur = V;
+  S.page = -1;
+  $("volsel").value = vol;
+  const text = $("text");
+  text.innerHTML = "";
+  text.appendChild(V.root);
+  const toc = $("toc");
+  toc.innerHTML = '<option value="">Innehåll…</option>';
+  const add = (label, val) => { const o = h("option", "", label); o.value = val; toc.appendChild(o); };
+  if (V.root.querySelector(".titlepage")) add("Titelblad", `${vol}/top`);
+  for (const c of V.meta.chapters) add(`${c.n}. ${c.title}${c.page ? ` (s. ${c.page})` : ""}`, `${vol}/ch${c.n}`);
+  if (V.root.querySelector("#contents")) add("Innehållsförteckning", `${vol}/contents`);
+  if (V.root.querySelector("#corrigenda")) add("Rättelser", `${vol}/corrigenda`);
+  S.qRendered = S.sRendered = false;
+  onScroll();
+  return V;
+}
+
+function goTo(target, flash = true) {
+  const V = S.cur;
+  let el = null;
+  if (target === "top") el = $("text").firstElementChild;
+  else if (/^s\d+$/.test(target)) el = (V.pages.find((p) => p.n === target.slice(1)) || {}).el;
+  else el = document.getElementById(target);
+  if (!el) return;
+  setView("read");
+  // pages, chapters and front/back sections open at their start; a paragraph or quotation is centred
+  const big = el.classList.contains("pb") || ["SECTION", "DIV", "H2"].includes(el.tagName);
+  el.scrollIntoView({ block: big ? "start" : "center" });
+  if (el.classList.contains("pb")) showPage(+el.dataset.i);
+  const fl = el.tagName === "SECTION" ? el.querySelector("h2") || null : el.classList.contains("pb") ? null : el;
+  if (flash && fl) { fl.classList.remove("flash"); void fl.offsetWidth; fl.classList.add("flash"); }
+}
+
+// current page = last page marker above the top of the reading pane
+let scrollTimer;
+function onScroll() {
+  clearTimeout(scrollTimer);
+  scrollTimer = setTimeout(() => {
+    const V = S.cur;
+    if (!V || !V.pages.length || !$("follow").checked) return;
+    const top = document.querySelector(".reader").getBoundingClientRect().top + 90;
+    let lo = 0, hi = V.pages.length - 1, best = 0;
+    while (lo <= hi) {
+      const mid = (lo + hi) >> 1;
+      if (V.pages[mid].el.getBoundingClientRect().top <= top) { best = mid; lo = mid + 1; } else hi = mid - 1;
+    }
+    showPage(best);
+  }, 80);
+}
+
+function showPage(i) {
+  const V = S.cur;
+  if (!V || i < 0 || i >= V.pages.length) return;
+  if (S.page >= 0 && V.pages[S.page]) V.pages[S.page].el.classList.remove("current");
+  S.page = i;
+  const p = V.pages[i];
+  p.el.classList.add("current");
+  const surf = V.surfaces[p.facs];
+  const img = p.facs.split("-").pop().replace(/^0+/, "");
+  $("pglabel").textContent = `${p.n ? "s. " + p.n : "opaginerad"} · bild ${img}`;
+  $("pgsource").textContent = { gt: "Texten på denna sida är granskad mot faksimilet.",
+    dots: "Texten på denna sida är okorrigerad OCR.",
+    textlayer: "Texten på denna sida kommer från PDF-filens textlager (okorrigerad)." }[p.resp] || "";
+  if (!surf || document.body.classList.contains("nofacs")) return;
+  if (!S.osd && window.OpenSeadragon) {
+    S.osd = OpenSeadragon({
+      element: $("osd"), prefixUrl: "https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/images/",
+      showNavigator: false, gestureSettingsMouse: { clickToZoom: false }, visibilityRatio: 0.9, minZoomImageRatio: 0.8,
+      showFullPageControl: false,
+    });
+  }
+  if (S.osd && S.osdUrl !== surf.url) {
+    S.osdUrl = surf.url;
+    S.osd.open({ type: "image", url: surf.url });
+  }
+}
+
+// ---------------------------------------------------------------- popovers (footnotes)
+function showPopover(anchor, content, foot) {
+  const pop = $("popover");
+  pop.innerHTML = "";
+  pop.appendChild(content);
+  if (foot) pop.appendChild(h("div", "muted", foot));
+  pop.hidden = false;
+  const r = anchor.getBoundingClientRect(), w = Math.min(420, innerWidth * 0.9);
+  pop.style.left = `${Math.max(8, Math.min(innerWidth - w - 8, r.left - 40))}px`;
+  pop.style.top = `${r.bottom + 8 + 200 > innerHeight ? Math.max(8, r.top - 8 - pop.offsetHeight) : r.bottom + 8}px`;
+}
+document.addEventListener("click", (e) => {
+  const fn = e.target.closest(".fnref");
+  if (fn) {
+    const n = S.cur.notes[+fn.dataset.note];
+    showPopover(fn, n.body.cloneNode(true), `Fotnot ${n.n || ""}${n.page ? " · s. " + n.page : ""}${n.low ? " · placeringen osäker" : ""}`);
+    e.stopPropagation();
+    return;
+  }
+  const pb = e.target.closest(".pb");
+  if (pb && S.cur) { document.body.classList.remove("nofacs"); showPage(+pb.dataset.i); return; }
+  const fb = e.target.closest("figure button[data-facs]");
+  if (fb) { const i = S.cur.pages.findIndex((p) => p.facs === fb.dataset.facs); if (i >= 0) { document.body.classList.remove("nofacs"); showPage(i); } return; }
+  if (!e.target.closest("#popover")) $("popover").hidden = true;
+});
+document.addEventListener("keydown", (e) => { if (e.key === "Escape") $("popover").hidden = true; });
+
+// ---------------------------------------------------------------- views
+function setView(v) {
+  S.view = v;
+  for (const b of document.querySelectorAll(".tabs button")) b.classList.toggle("on", b.dataset.view === v);
+  for (const s of document.querySelectorAll(".view")) s.classList.toggle("on", s.id === `view-${v}`);
+  if (v === "quotes" && !S.qRendered) renderQuotes();
+  if (v === "sources" && !S.sRendered) renderSources();
+  if (v === "about") renderAbout();
+}
+
+function li(where, html, target) {
+  const e = h("li");
+  e.appendChild(h("span", "where", where));
+  const t = h("span");
+  t.innerHTML = html;
+  e.appendChild(t);
+  e.onclick = () => { location.hash = target; };
+  return e;
+}
+const esc = (s) => s.replace(/[&<>]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" })[c]);
+const where = (x) => `${x.page ? "s. " + x.page : ""}${x.chapter ? " · " + x.chapter : ""}`;
+
+function renderQuotes() {
+  S.qRendered = true;
+  const f = $("qfilter").value.toLowerCase(), V = S.cur, list = $("qlist");
+  list.innerHTML = "";
+  const hits = V.quotes.filter((q) => !f || q.text.toLowerCase().includes(f));
+  $("qcount").textContent = `${hits.length} av ${V.quotes.length} citat i ${partLabel(V.meta)}`;
+  for (const q of hits.slice(0, 1000)) {
+    const t = q.text.length > 320 ? q.text.slice(0, 320) + " …" : q.text;
+    list.appendChild(li(where(q), esc(t), `${V.meta.vol}/${q.id}`));
+  }
+}
+
+const REPOS = [[/^(R\. ?A\.|Riksarkiv)/, "Riksarkivet (R. A.)"], [/^(K\. ?B\.|Kungl\. ?bibl)/, "Kungl. biblioteket (K. B.)"],
+  [/^(U\. ?U\. ?B\.|Ups)/, "Uppsala universitetsbibliotek (U. U. B.)"]];
+function renderSources() {
+  S.sRendered = true;
+  const f = $("sfilter").value.toLowerCase(), V = S.cur, box = $("slist");
+  box.innerHTML = "";
+  const hits = V.sources.filter((s) => !f || s.text.toLowerCase().includes(f));
+  $("scount").textContent = `${hits.length} av ${V.sources.length} källhänvisningar i ${partLabel(V.meta)}`;
+  const groups = {};
+  for (const s of hits) {
+    const g = (REPOS.find(([re]) => re.test(s.org)) || [null, s.org || "Övriga"])[1];
+    (groups[g] = groups[g] || []).push(s);
+  }
+  for (const [g, items] of Object.entries(groups).sort((a, b) => b[1].length - a[1].length)) {
+    const d = h("details");
+    d.open = !!f || Object.keys(groups).length < 4;
+    const sum = h("summary", "", g + " ");
+    sum.appendChild(h("span", "muted", `(${items.length})`));
+    d.appendChild(sum);
+    const ol = h("ol", "items");
+    for (const s of items) ol.appendChild(li(where(s), esc(s.text), `${V.meta.vol}/${s.id}`));
+    d.appendChild(ol);
+    box.appendChild(d);
+  }
+}
+
+// historical-spelling fold: one character for one, so match positions stay valid
+const OLD = { w: "v", j: "i", æ: "ä", œ: "ö", ø: "ö", é: "e", è: "e", ſ: "s", ÿ: "y", q: "k", z: "s" };
+function fold(s, old) {
+  s = s.toLowerCase();
+  return old ? s.replace(/[wjæœøéèſÿqz]/g, (c) => OLD[c]) : s;
+}
+async function runSearch(ev) {
+  if (ev) ev.preventDefault();
+  const q = $("q").value.trim(), old = $("qold").checked, list = $("results");
+  list.innerHTML = "";
+  if (!q) { $("rcount").textContent = ""; return; }
+  const pat = fold(q, old).replace(/[.+?^${}()|[\]\\]/g, "\\$&").replace(/\*/g, "[^\\s]*");
+  const re = new RegExp(pat, "g");
+  const vols = $("qall").checked ? S.vols.map((v) => v.vol) : [S.cur.meta.vol];
+  let n = 0, shown = 0;
+  for (const vol of vols) {
+    const V = await loadVol(vol);
+    for (const p of V.paras) {
+      const hay = fold(p.text, old);
+      const ms = [...hay.matchAll(re)];
+      if (!ms.length) continue;
+      n += ms.length;
+      if (shown >= 500) continue;
+      shown++;
+      const m = ms[0], a = Math.max(0, m.index - 90), b = Math.min(p.text.length, m.index + m[0].length + 140);
+      const snip = (a ? "… " : "") + esc(p.text.slice(a, m.index)) + "<mark>" + esc(p.text.slice(m.index, m.index + m[0].length)) +
+        "</mark>" + esc(p.text.slice(m.index + m[0].length, b)) + (b < p.text.length ? " …" : "");
+      list.appendChild(li(`${vols.length > 1 ? partLabel(V.meta) + " · " : ""}${where(p)}${ms.length > 1 ? ` · ${ms.length} träffar` : ""}`,
+        snip, `${vol}/${p.id}`));
+    }
+  }
+  $("rcount").textContent = `${n} träffar i ${shown}${shown >= 500 ? "+" : ""} stycken`;
+}
+
+function renderAbout() {
+  $("volstats").textContent = S.vols.map((v) => `${partLabel(v)}: ${v.pages} sidor, ${v.verified_pages} granskade`).join(" · ");
+}
+
+// ---------------------------------------------------------------- routing + UI
+async function route() {
+  const m = location.hash.slice(1).match(/^(\w+)(?:\/(.+))?$/);
+  if (!m || !S.vols.some((v) => v.vol === m[1])) {
+    if (!S.cur) await openVol(S.vols[0].vol);
+    if (location.hash === "" || location.hash === "#") setView(S.cur && S.view !== "about" ? S.view : "read");
+    return;
+  }
+  await openVol(m[1]);
+  if (m[2]) goTo(decodeURIComponent(m[2]));
+  else setView("read");
+}
+
+function initUI() {
+  const vs = $("volsel");
+  for (const v of S.vols) { const o = h("option", "", partLabel(v)); o.value = v.vol; vs.appendChild(o); }
+  vs.onchange = () => { location.hash = vs.value; };
+  $("toc").onchange = (e) => { if (e.target.value) location.hash = e.target.value; e.target.value = ""; };
+  for (const b of document.querySelectorAll(".tabs button")) b.onclick = () => setView(b.dataset.view);
+  $("qfilter").oninput = () => renderQuotes();
+  $("sfilter").oninput = () => renderSources();
+  $("searchform").onsubmit = runSearch;
+  document.querySelector(".brand").onclick = (e) => { e.preventDefault(); setView("about"); };
+  document.querySelector(".reader").addEventListener("scroll", onScroll, { passive: true });
+  $("pgprev").onclick = () => { $("follow").checked = false; showPage(S.page - 1); };
+  $("pgnext").onclick = () => { $("follow").checked = false; showPage(S.page + 1); };
+  $("follow").onchange = () => { if ($("follow").checked) onScroll(); };
+  $("facsbtn").onclick = () => {
+    document.body.classList.toggle("nofacs");
+    store.set("nofacs", document.body.classList.contains("nofacs") ? "1" : "");
+    if (!document.body.classList.contains("nofacs")) { S.osdUrl = null; showPage(Math.max(0, S.page)); }
+  };
+  if (store.get("nofacs") === "1" || innerWidth < 760) document.body.classList.add("nofacs");
+  const theme = store.get("theme");
+  if (theme) document.documentElement.dataset.theme = theme;
+  $("themebtn").onclick = () => {
+    const dark = document.documentElement.dataset.theme
+      ? document.documentElement.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+    document.documentElement.dataset.theme = dark ? "light" : "dark";
+    store.set("theme", document.documentElement.dataset.theme);
+  };
+  // resizable facsimile pane
+  const div = $("divider"), view = $("view-read");
+  const w = store.get("facsw");
+  if (w) view.style.setProperty("--facs-w", w);
+  div.onpointerdown = (e) => {
+    div.setPointerCapture(e.pointerId);
+    div.onpointermove = (ev) => {
+      const r = view.getBoundingClientRect();
+      const pct = Math.min(70, Math.max(20, ((r.right - ev.clientX) / r.width) * 100));
+      view.style.setProperty("--facs-w", pct + "%");
+    };
+    div.onpointerup = () => { div.onpointermove = null; store.set("facsw", view.style.getPropertyValue("--facs-w")); };
+  };
+}
+
+(async () => {
+  try {
+    S.vols = await (await fetch("data/volumes.json")).json();
+  } catch {
+    $("text").innerHTML = '<p class="loading">Kunde inte läsa data/volumes.json.</p>';
+    return;
+  }
+  initUI();
+  addEventListener("hashchange", route);
+  await route();
+})();

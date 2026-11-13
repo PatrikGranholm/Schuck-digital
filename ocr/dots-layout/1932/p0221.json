@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 221,
+ "seconds": 32.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [996, 356, 1471, 400], \"category\": \"Section-header\", \"text\": \"Antikvitetsstudiets början\"}, {\"bbox\": [711, 426, 1759, 1845], \"category\": \"Text\", \"text\": \"intryck av det antikvariska intresse, som vid denna tid på vissa håll gjorde sig gällande i Danmark, och i varje fall slog han sig efter återkomsten på ett studium av Islands fornhistoria. Den troligen första frukten av hans nyvaknade intresse var en först i våra dagar (1877) utgiven latinsk översättning av Jómsvikingasagan, och samtidigt författade han — likaledes på latin — en stridsskrift, Brevis commentarius de Islandia, riktad mot en plattysk dikt av Gories Peerse, som yttrat sig nedsättande om Island. För att få denna skrift tryckt — samt även av andra skäl — reste han 1592 ned till Köpenhamn, där arbetet nu utgavs (1593), och under detta uppehåll råkade han i beröring med en mängd danske lärde, med Hvitfeldt, Vedel och Nils Krag, vilka alla fäste sig vid den unge islänningens fond av historiska kunskaper, hämtade ur källor, vilka voro så gott som obekanta i Danmark. Av särskild betydelse blev bekantskapen med Krag. 1594 hade nämligen denne i stället för Vedel blivit rikshistoriograf med uppdrag att skriva Christian III:s och Fredrik II:s historier samt därefter övergå till den av Saxo behandlade tiden. Krags eget arbete blev väl aldrig färdigt, men samtidigt med hans utnämning utgick en befallning till alla adelsmän, domkapitel och stadsmyndigheter »at unde og meddele D. Niels Krag Udskrifter, Kopier og vis Besked af alle de Documenter og Antiquiteter, der kunde findes hos dem». Själv skrev Krag i maj 1595 till Arngrímur, som två år förut återvänt till Island, och bad honom att där köpa, samla och översätta de isländska skrifter, som kunde vara av betydelse för den danska rikshistorien. I ett annat brev från april 1596¹ utvecklade han planen vidare. Vad han särskilt önskade, var fylligare upplysningar om Norges äldsta historia än de, som stodo att hämta ur Jens Mortensens krönika. Samtidigt avgick ett kungabrev härom till Island, att efter D. Niels Krag till sitt arbete »mange oc adsckillige Documenter oc Antiquiteter behöffuer», så ålades alla trogne undersåtar på Island, »att nar oss Elskelige, hederlig oc wellerdtt mand Her Arngrim Jonssenn» så påfordrar, till honom godvilligt överlämna alla dylika dokument och antikviteter, så att denne kunde utskriva dem på danska och skicka Krag översättningarna.\"}, {\"bbox\": [745, 1851, 1757, 1888], \"category\": \"Footnote\", \"text\": \"¹ Delvis tryckt i Ad historiam regis Christiani III additamenta. Grams tillägg (1737), sid. 13.\"}, {\"bbox\": [717, 1913, 790, 1952], \"category\": \"Page-footer\", \"text\": \"188\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    996,
+    356,
+    1471,
+    400
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsstudiets början"
+  },
+  {
+   "bbox": [
+    711,
+    426,
+    1759,
+    1845
+   ],
+   "category": "Text",
+   "text": "intryck av det antikvariska intresse, som vid denna tid på vissa håll gjorde sig gällande i Danmark, och i varje fall slog han sig efter återkomsten på ett studium av Islands fornhistoria. Den troligen första frukten av hans nyvaknade intresse var en först i våra dagar (1877) utgiven latinsk översättning av Jómsvikingasagan, och samtidigt författade han — likaledes på latin — en stridsskrift, Brevis commentarius de Islandia, riktad mot en plattysk dikt av Gories Peerse, som yttrat sig nedsättande om Island. För att få denna skrift tryckt — samt även av andra skäl — reste han 1592 ned till Köpenhamn, där arbetet nu utgavs (1593), och under detta uppehåll råkade han i beröring med en mängd danske lärde, med Hvitfeldt, Vedel och Nils Krag, vilka alla fäste sig vid den unge islänningens fond av historiska kunskaper, hämtade ur källor, vilka voro så gott som obekanta i Danmark. Av särskild betydelse blev bekantskapen med Krag. 1594 hade nämligen denne i stället för Vedel blivit rikshistoriograf med uppdrag att skriva Christian III:s och Fredrik II:s historier samt därefter övergå till den av Saxo behandlade tiden. Krags eget arbete blev väl aldrig färdigt, men samtidigt med hans utnämning utgick en befallning till alla adelsmän, domkapitel och stadsmyndigheter »at unde og meddele D. Niels Krag Udskrifter, Kopier og vis Besked af alle de Documenter og Antiquiteter, der kunde findes hos dem». Själv skrev Krag i maj 1595 till Arngrímur, som två år förut återvänt till Island, och bad honom att där köpa, samla och översätta de isländska skrifter, som kunde vara av betydelse för den danska rikshistorien. I ett annat brev från april 1596¹ utvecklade han planen vidare. Vad han särskilt önskade, var fylligare upplysningar om Norges äldsta historia än de, som stodo att hämta ur Jens Mortensens krönika. Samtidigt avgick ett kungabrev härom till Island, att efter D. Niels Krag till sitt arbete »mange oc adsckillige Documenter oc Antiquiteter behöffuer», så ålades alla trogne undersåtar på Island, »att nar oss Elskelige, hederlig oc wellerdtt mand Her Arngrim Jonssenn» så påfordrar, till honom godvilligt överlämna alla dylika dokument och antikviteter, så att denne kunde utskriva dem på danska och skicka Krag översättningarna."
+  },
+  {
+   "bbox": [
+    745,
+    1851,
+    1757,
+    1888
+   ],
+   "category": "Footnote",
+   "text": "¹ Delvis tryckt i Ad historiam regis Christiani III additamenta. Grams tillägg (1737), sid. 13."
+  },
+  {
+   "bbox": [
+    717,
+    1913,
+    790,
+    1952
+   ],
+   "category": "Page-footer",
+   "text": "188"
+  }
+ ]
+}

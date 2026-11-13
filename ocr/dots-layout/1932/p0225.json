@@ -1,0 +1,42 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 225,
+ "seconds": 13.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [1002, 355, 1480, 397], \"category\": \"Section-header\", \"text\": \"Antikvitetsstudiets början\"}, {\"bbox\": [716, 425, 1764, 629], \"category\": \"Text\", \"text\": \"Olafsson, den av Hávamál av en annan islänning, Guðmundur Andrjesson. Några andra editioner sågo under denna tid ej dagen i Danmark. I Sverige däremot blev, såsom vi skola se, rörelsen vida kraftigare, ehuru man där arbetade under ogynnsammare förhållanden.\"}, {\"bbox\": [724, 1919, 798, 1958], \"category\": \"Page-footer\", \"text\": \"192\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    1002,
+    355,
+    1480,
+    397
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsstudiets början"
+  },
+  {
+   "bbox": [
+    716,
+    425,
+    1764,
+    629
+   ],
+   "category": "Text",
+   "text": "Olafsson, den av Hávamál av en annan islänning, Guðmundur Andrjesson. Några andra editioner sågo under denna tid ej dagen i Danmark. I Sverige däremot blev, såsom vi skola se, rörelsen vida kraftigare, ehuru man där arbetade under ogynnsammare förhållanden."
+  },
+  {
+   "bbox": [
+    724,
+    1919,
+    798,
+    1958
+   ],
+   "category": "Page-footer",
+   "text": "192"
+  }
+ ]
+}

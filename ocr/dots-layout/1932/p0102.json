@@ -1,0 +1,70 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 102,
+ "seconds": 81.4,
+ "finish": "stop",
+ "retried": true,
+ "raw": "[{\"bbox\": [139, 308, 1238, 554], \"category\": \"Picture\"}, {\"bbox\": [494, 575, 990, 641], \"category\": \"Section-header\", \"text\": \"SCANICVM\"}, {\"bbox\": [234, 702, 1199, 824], \"category\": \"Section-header\", \"text\": \"SIO RVPENSE additum ob VPSALIÆ mentionem\"}, {\"bbox\": [353, 865, 1117, 1292], \"category\": \"Text\", \"text\": \"Sæſi ſåtti ſtin dåſſi åuſtir OsBiurn ſin Fi-\\nſPſI: 411: 411: 411: 411: 411: 411: 411: 411: 411:\\nSaxo poſuit ſaxum hoc in mem. Os Berni ſui Con-\\nlaga Tufas Sun / ſam fórdu ågu at Vpsalum\\nſP1: 111: 111: 111: 111: 111: 111: 111: 111: 111:\\nſortis, Tufonis filij. qui ſubppeditabant Opes Vpſaliensi\\nhanla mådan Vapn ofdis.\\n111: 111: 111: 111: 111: 111: 111: 111: 111: 111:\\nmercaturæ, Dum bellum exercebatur.\"}, {\"bbox\": [401, 1364, 925, 1415], \"category\": \"Text\", \"text\": \"Si præſens eſſem fortè aliter ſcriberem.\"}, {\"bbox\": [494, 1753, 802, 1992], \"category\": \"Picture\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    139,
+    308,
+    1238,
+    554
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    494,
+    575,
+    990,
+    641
+   ],
+   "category": "Section-header",
+   "text": "SCANICVM"
+  },
+  {
+   "bbox": [
+    234,
+    702,
+    1199,
+    824
+   ],
+   "category": "Section-header",
+   "text": "SIO RVPENSE additum ob VPSALIÆ mentionem"
+  },
+  {
+   "bbox": [
+    353,
+    865,
+    1117,
+    1292
+   ],
+   "category": "Text",
+   "text": "Sæſi ſåtti ſtin dåſſi åuſtir OsBiurn ſin Fi-\nſPſI: 411: 411: 411: 411: 411: 411: 411: 411: 411:\nSaxo poſuit ſaxum hoc in mem. Os Berni ſui Con-\nlaga Tufas Sun / ſam fórdu ågu at Vpsalum\nſP1: 111: 111: 111: 111: 111: 111: 111: 111: 111:\nſortis, Tufonis filij. qui ſubppeditabant Opes Vpſaliensi\nhanla mådan Vapn ofdis.\n111: 111: 111: 111: 111: 111: 111: 111: 111: 111:\nmercaturæ, Dum bellum exercebatur."
+  },
+  {
+   "bbox": [
+    401,
+    1364,
+    925,
+    1415
+   ],
+   "category": "Text",
+   "text": "Si præſens eſſem fortè aliter ſcriberem."
+  },
+  {
+   "bbox": [
+    494,
+    1753,
+    802,
+    1992
+   ],
+   "category": "Picture"
+  }
+ ]
+}

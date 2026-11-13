@@ -1,0 +1,101 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 316,
+ "seconds": 16.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [588, 952, 785, 988], \"category\": \"Text\", \"text\": \"UPPSALA\"}, {\"bbox\": [408, 998, 968, 1037], \"category\": \"Text\", \"text\": \"ALMQVIST & WIKSELLS BOKTRYCKERI-A.-B.\"}, {\"bbox\": [645, 1048, 733, 1082], \"category\": \"Text\", \"text\": \"1932\"}, {\"bbox\": [662, 1106, 716, 1193], \"category\": \"Picture\"}, {\"bbox\": [507, 1754, 696, 1789], \"category\": \"Section-header\", \"text\": \"RÄTTELSER\"}, {\"bbox\": [210, 1824, 739, 1867], \"category\": \"Text\", \"text\": \"Sid. 210 r. 12 nedifr. *står* och Calcem\"}, {\"bbox\": [511, 1867, 720, 1902], \"category\": \"Text\", \"text\": \"*läs* ad Calcem\"}, {\"bbox\": [222, 1904, 991, 1985], \"category\": \"Text\", \"text\": \"» 211 » 7 » *står* Det isländska originalet är där- emot förlorat.\"}, {\"bbox\": [513, 1988, 994, 2115], \"category\": \"Text\", \"text\": \"*läs* Det isländska originalet är där- emot förlorat och blott känt ge- nom Rugmans avskrift.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    588,
+    952,
+    785,
+    988
+   ],
+   "category": "Text",
+   "text": "UPPSALA"
+  },
+  {
+   "bbox": [
+    408,
+    998,
+    968,
+    1037
+   ],
+   "category": "Text",
+   "text": "ALMQVIST & WIKSELLS BOKTRYCKERI-A.-B."
+  },
+  {
+   "bbox": [
+    645,
+    1048,
+    733,
+    1082
+   ],
+   "category": "Text",
+   "text": "1932"
+  },
+  {
+   "bbox": [
+    662,
+    1106,
+    716,
+    1193
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    507,
+    1754,
+    696,
+    1789
+   ],
+   "category": "Section-header",
+   "text": "RÄTTELSER"
+  },
+  {
+   "bbox": [
+    210,
+    1824,
+    739,
+    1867
+   ],
+   "category": "Text",
+   "text": "Sid. 210 r. 12 nedifr. *står* och Calcem"
+  },
+  {
+   "bbox": [
+    511,
+    1867,
+    720,
+    1902
+   ],
+   "category": "Text",
+   "text": "*läs* ad Calcem"
+  },
+  {
+   "bbox": [
+    222,
+    1904,
+    991,
+    1985
+   ],
+   "category": "Text",
+   "text": "» 211 » 7 » *står* Det isländska originalet är där- emot förlorat."
+  },
+  {
+   "bbox": [
+    513,
+    1988,
+    994,
+    2115
+   ],
+   "category": "Text",
+   "text": "*läs* Det isländska originalet är där- emot förlorat och blott känt ge- nom Rugmans avskrift."
+  }
+ ]
+}

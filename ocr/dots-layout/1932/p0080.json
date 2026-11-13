@@ -1,0 +1,131 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 80,
+ "seconds": 17.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [356, 416, 1101, 581], \"category\": \"Text\", \"text\": \"MONVMENTA\\nVETERVM\"}, {\"bbox\": [356, 597, 1121, 791], \"category\": \"Text\", \"text\": \"SVEONVM\\nET GOTHORVM\"}, {\"bbox\": [603, 806, 831, 853], \"category\": \"Text\", \"text\": \"IN PATRIA\"}, {\"bbox\": [356, 886, 1146, 1015], \"category\": \"Text\", \"text\": \"PROPRIÆ EORVMDEM LITE- RAS EXPRIMENTIÆ.\"}, {\"bbox\": [495, 1034, 1001, 1144], \"category\": \"Text\", \"text\": \"SERENISSIMÆ\\nPRINCIPI\"}, {\"bbox\": [236, 1164, 1223, 1301], \"category\": \"Text\", \"text\": \"D. CHRISTINÆ\"}, {\"bbox\": [303, 1316, 1158, 1470], \"category\": \"Text\", \"text\": \"REGNORVM SVETHIÆ\\nREGINÆ\"}, {\"bbox\": [652, 1473, 863, 1571], \"category\": \"Text\", \"text\": \"POTENTIS- SIMÆ.\"}, {\"bbox\": [513, 1588, 997, 1921], \"category\": \"Picture\"}, {\"bbox\": [589, 1938, 946, 1993], \"category\": \"Text\", \"text\": \"DEDICATA a\"}, {\"bbox\": [465, 2002, 977, 2063], \"category\": \"Text\", \"text\": \"JOH. TH. A. BYREO.\"}, {\"bbox\": [526, 2088, 942, 2134], \"category\": \"Text\", \"text\": \"TYPIS PETRIaSELOW\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    356,
+    416,
+    1101,
+    581
+   ],
+   "category": "Text",
+   "text": "MONVMENTA\nVETERVM"
+  },
+  {
+   "bbox": [
+    356,
+    597,
+    1121,
+    791
+   ],
+   "category": "Text",
+   "text": "SVEONVM\nET GOTHORVM"
+  },
+  {
+   "bbox": [
+    603,
+    806,
+    831,
+    853
+   ],
+   "category": "Text",
+   "text": "IN PATRIA"
+  },
+  {
+   "bbox": [
+    356,
+    886,
+    1146,
+    1015
+   ],
+   "category": "Text",
+   "text": "PROPRIÆ EORVMDEM LITE- RAS EXPRIMENTIÆ."
+  },
+  {
+   "bbox": [
+    495,
+    1034,
+    1001,
+    1144
+   ],
+   "category": "Text",
+   "text": "SERENISSIMÆ\nPRINCIPI"
+  },
+  {
+   "bbox": [
+    236,
+    1164,
+    1223,
+    1301
+   ],
+   "category": "Text",
+   "text": "D. CHRISTINÆ"
+  },
+  {
+   "bbox": [
+    303,
+    1316,
+    1158,
+    1470
+   ],
+   "category": "Text",
+   "text": "REGNORVM SVETHIÆ\nREGINÆ"
+  },
+  {
+   "bbox": [
+    652,
+    1473,
+    863,
+    1571
+   ],
+   "category": "Text",
+   "text": "POTENTIS- SIMÆ."
+  },
+  {
+   "bbox": [
+    513,
+    1588,
+    997,
+    1921
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    589,
+    1938,
+    946,
+    1993
+   ],
+   "category": "Text",
+   "text": "DEDICATA a"
+  },
+  {
+   "bbox": [
+    465,
+    2002,
+    977,
+    2063
+   ],
+   "category": "Text",
+   "text": "JOH. TH. A. BYREO."
+  },
+  {
+   "bbox": [
+    526,
+    2088,
+    942,
+    2134
+   ],
+   "category": "Text",
+   "text": "TYPIS PETRIaSELOW"
+  }
+ ]
+}

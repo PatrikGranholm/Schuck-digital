@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 226,
+ "seconds": 32.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [191, 681, 1158, 769], \"category\": \"Section-header\", \"text\": \"DE FÖRSTA FÖRVÄRVEN AV ISLÄNDSKA HANDSKRIFTER.\"}, {\"bbox\": [155, 842, 1195, 1009], \"category\": \"Text\", \"text\": \"Då De la Gardie 1654 blev universitetskansler, kommo — huvudsakligen genom hans insats — en mängd nya uppslag inom den svenska fornforskningen. Vi vända oss först till förvärven av isländska handskrifter.\"}, {\"bbox\": [155, 1008, 1197, 1723], \"category\": \"Text\", \"text\": \"Såsom i det föregående anmärkts, funnos vid 1600-talets början åtskilliga fornnorska manuskript i Sverige, vilka också utnyttjats av Bureus och Messenius. Av dessa handskrifter var likväl ej mycket att hämta. Först på 1650-talet öppnade sig nya vidder. Drottning Kristina var som bekant sin samtids kanske mest fanatiska boksamlare, en medtävlare till kardinal Mazarin, och bland de bibliotek, på vilka hon kastat sina blickar, voro ock de danska. Hon hade planer på att inköpa både Stephanius' och Seefelds bibliotek. Det senare befanns för dyrt, men det förra blev däremot inköpt.¹ 1650 hade Kristinas ombud Daniel Heinsius besökt Sorö, där det förvarades, och han föreslog då drottningen att inköpa det. Med hänsyn till de ekonomiska svårigheter, med vilka Stephanius kämpade, föreföll detta ej såsom någon omöjlighet, särskilt som han då och då av detta skäl förut måst göra sig av med delar av sitt bibliotek. Måhända skulle dock den hängivne bokvännen hava dragit sig för att avstå från sina skatter, men han avled 1650, och änkan behövde pengar. Redan den 21 april 1651 gav Kristina sin resident i Danmark,\"}, {\"bbox\": [1202, 1014, 1324, 1075], \"category\": \"Text\", \"text\": \"Stephanius' bibliotek\"}, {\"bbox\": [157, 1728, 1198, 1887], \"category\": \"Footnote\", \"text\": \"¹ Om detta köp har mycket skrivits. Uppslaget gavs av Klemmings 1850 utgivna Om Stephanii boksamling. Sedan har härom skrivits av Gödel: Fornnorsk-Isländsk Litteratur (1897), O. Walde i Nordisk Tidskr. för Bok- och Biblioteksväsen 1917, Ellen Jørgensen i samma tidskrifts samma årgång, Harald Wieselgren: Drottning Kristinas bibliotek (i V. H. A. A. Handl. ny följd 13. 2).\"}, {\"bbox\": [185, 1934, 287, 1959], \"category\": \"Page-footer\", \"text\": \"13-31736.\"}, {\"bbox\": [1125, 1918, 1194, 1956], \"category\": \"Page-footer\", \"text\": \"193\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    191,
+    681,
+    1158,
+    769
+   ],
+   "category": "Section-header",
+   "text": "DE FÖRSTA FÖRVÄRVEN AV ISLÄNDSKA HANDSKRIFTER."
+  },
+  {
+   "bbox": [
+    155,
+    842,
+    1195,
+    1009
+   ],
+   "category": "Text",
+   "text": "Då De la Gardie 1654 blev universitetskansler, kommo — huvudsakligen genom hans insats — en mängd nya uppslag inom den svenska fornforskningen. Vi vända oss först till förvärven av isländska handskrifter."
+  },
+  {
+   "bbox": [
+    155,
+    1008,
+    1197,
+    1723
+   ],
+   "category": "Text",
+   "text": "Såsom i det föregående anmärkts, funnos vid 1600-talets början åtskilliga fornnorska manuskript i Sverige, vilka också utnyttjats av Bureus och Messenius. Av dessa handskrifter var likväl ej mycket att hämta. Först på 1650-talet öppnade sig nya vidder. Drottning Kristina var som bekant sin samtids kanske mest fanatiska boksamlare, en medtävlare till kardinal Mazarin, och bland de bibliotek, på vilka hon kastat sina blickar, voro ock de danska. Hon hade planer på att inköpa både Stephanius' och Seefelds bibliotek. Det senare befanns för dyrt, men det förra blev däremot inköpt.¹ 1650 hade Kristinas ombud Daniel Heinsius besökt Sorö, där det förvarades, och han föreslog då drottningen att inköpa det. Med hänsyn till de ekonomiska svårigheter, med vilka Stephanius kämpade, föreföll detta ej såsom någon omöjlighet, särskilt som han då och då av detta skäl förut måst göra sig av med delar av sitt bibliotek. Måhända skulle dock den hängivne bokvännen hava dragit sig för att avstå från sina skatter, men han avled 1650, och änkan behövde pengar. Redan den 21 april 1651 gav Kristina sin resident i Danmark,"
+  },
+  {
+   "bbox": [
+    1202,
+    1014,
+    1324,
+    1075
+   ],
+   "category": "Text",
+   "text": "Stephanius' bibliotek"
+  },
+  {
+   "bbox": [
+    157,
+    1728,
+    1198,
+    1887
+   ],
+   "category": "Footnote",
+   "text": "¹ Om detta köp har mycket skrivits. Uppslaget gavs av Klemmings 1850 utgivna Om Stephanii boksamling. Sedan har härom skrivits av Gödel: Fornnorsk-Isländsk Litteratur (1897), O. Walde i Nordisk Tidskr. för Bok- och Biblioteksväsen 1917, Ellen Jørgensen i samma tidskrifts samma årgång, Harald Wieselgren: Drottning Kristinas bibliotek (i V. H. A. A. Handl. ny följd 13. 2)."
+  },
+  {
+   "bbox": [
+    185,
+    1934,
+    287,
+    1959
+   ],
+   "category": "Page-footer",
+   "text": "13-31736."
+  },
+  {
+   "bbox": [
+    1125,
+    1918,
+    1194,
+    1956
+   ],
+   "category": "Page-footer",
+   "text": "193"
+  }
+ ]
+}

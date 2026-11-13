@@ -1,0 +1,169 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 103,
+ "seconds": 29.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [741, 311, 1666, 412], \"category\": \"Picture\"}, {\"bbox\": [913, 401, 1373, 505], \"category\": \"Text\", \"text\": \"VORSK\"}, {\"bbox\": [1034, 528, 1286, 595], \"category\": \"Text\", \"text\": \"Runa Håfd\"}, {\"bbox\": [1015, 624, 1315, 705], \"category\": \"Text\", \"text\": \"I Tingnums\\nKyrkia ofwer Hltarec\"}, {\"bbox\": [900, 715, 1515, 798], \"category\": \"Text\", \"text\": \"Ek bid firi Gudrs sakar andra lårda\"}, {\"bbox\": [897, 801, 1537, 881], \"category\": \"Text\", \"text\": \"Ego oro propter Dei causas alios doctos\"}, {\"bbox\": [889, 889, 1560, 939], \"category\": \"Text\", \"text\": \"mån år vård våita stad thånnå åk alla tha\"}, {\"bbox\": [889, 937, 1577, 1015], \"category\": \"Text\", \"text\": \"viros qui custodiunt locum hunc & omnes eos\"}, {\"bbox\": [886, 1023, 1617, 1070], \"category\": \"Text\", \"text\": \"år rada (kunna) bón mina Minnisk Salo minn-\"}, {\"bbox\": [886, 1070, 1674, 1151], \"category\": \"Text\", \"text\": \"qui exsequi poßut petitione meå habeåt in memoria Animå me-\"}, {\"bbox\": [886, 1151, 1676, 1205], \"category\": \"Text\", \"text\": \"år i hålgum bónum. An ek het Gunnar Ok\"}, {\"bbox\": [886, 1205, 1674, 1283], \"category\": \"Text\", \"text\": \"am in sanctis precibus. Asi ego vocor Gunnarus Et\"}, {\"bbox\": [886, 1293, 1417, 1341], \"category\": \"Text\", \"text\": \"gårdi ek Hros dåffa faren vál.\"}, {\"bbox\": [886, 1341, 1385, 1423], \"category\": \"Text\", \"text\": \"feci - ego Crucem hanc Valete.\"}, {\"bbox\": [1056, 1438, 1315, 1613], \"category\": \"Picture\"}, {\"bbox\": [1029, 1738, 1337, 1978], \"category\": \"Picture\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    741,
+    311,
+    1666,
+    412
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    913,
+    401,
+    1373,
+    505
+   ],
+   "category": "Text",
+   "text": "VORSK"
+  },
+  {
+   "bbox": [
+    1034,
+    528,
+    1286,
+    595
+   ],
+   "category": "Text",
+   "text": "Runa Håfd"
+  },
+  {
+   "bbox": [
+    1015,
+    624,
+    1315,
+    705
+   ],
+   "category": "Text",
+   "text": "I Tingnums\nKyrkia ofwer Hltarec"
+  },
+  {
+   "bbox": [
+    900,
+    715,
+    1515,
+    798
+   ],
+   "category": "Text",
+   "text": "Ek bid firi Gudrs sakar andra lårda"
+  },
+  {
+   "bbox": [
+    897,
+    801,
+    1537,
+    881
+   ],
+   "category": "Text",
+   "text": "Ego oro propter Dei causas alios doctos"
+  },
+  {
+   "bbox": [
+    889,
+    889,
+    1560,
+    939
+   ],
+   "category": "Text",
+   "text": "mån år vård våita stad thånnå åk alla tha"
+  },
+  {
+   "bbox": [
+    889,
+    937,
+    1577,
+    1015
+   ],
+   "category": "Text",
+   "text": "viros qui custodiunt locum hunc & omnes eos"
+  },
+  {
+   "bbox": [
+    886,
+    1023,
+    1617,
+    1070
+   ],
+   "category": "Text",
+   "text": "år rada (kunna) bón mina Minnisk Salo minn-"
+  },
+  {
+   "bbox": [
+    886,
+    1070,
+    1674,
+    1151
+   ],
+   "category": "Text",
+   "text": "qui exsequi poßut petitione meå habeåt in memoria Animå me-"
+  },
+  {
+   "bbox": [
+    886,
+    1151,
+    1676,
+    1205
+   ],
+   "category": "Text",
+   "text": "år i hålgum bónum. An ek het Gunnar Ok"
+  },
+  {
+   "bbox": [
+    886,
+    1205,
+    1674,
+    1283
+   ],
+   "category": "Text",
+   "text": "am in sanctis precibus. Asi ego vocor Gunnarus Et"
+  },
+  {
+   "bbox": [
+    886,
+    1293,
+    1417,
+    1341
+   ],
+   "category": "Text",
+   "text": "gårdi ek Hros dåffa faren vál."
+  },
+  {
+   "bbox": [
+    886,
+    1341,
+    1385,
+    1423
+   ],
+   "category": "Text",
+   "text": "feci - ego Crucem hanc Valete."
+  },
+  {
+   "bbox": [
+    1056,
+    1438,
+    1315,
+    1613
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    1029,
+    1738,
+    1337,
+    1978
+   ],
+   "category": "Picture"
+  }
+ ]
+}

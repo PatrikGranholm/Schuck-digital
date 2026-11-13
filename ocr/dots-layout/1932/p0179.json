@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 179,
+ "seconds": 34.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [982, 365, 1454, 407], \"category\": \"Section-header\", \"text\": \"Antikvitetsstudiets början\"}, {\"bbox\": [700, 435, 1736, 523], \"category\": \"Text\", \"text\": \"traktades som chefen och de båda andra såsom hans medhjälpare,\\nförtjänar det här att anföras:\"}, {\"bbox\": [736, 529, 1707, 621], \"category\": \"Text\", \"text\": \"»Copia Till Secretarium Arcis Stockholmensis et ditionis huius.\\nOm Antiquiteterna.\"}, {\"bbox\": [702, 635, 1741, 1590], \"category\": \"Text\", \"text\": \"Hälsa och alla Lyckosaligheter af Gudj alzmächtig:ste eder här mäd\\noch altijd önskandes. Synnerligh:en gode wän och gunstige gönner\\nMårten Jacobs:son, Herr Secreterare. Jag tackar eder opå dätt\\nvänlig:ste för alt benägedt godt beuist, och på dett vänlig:ste begärer\\nat i vele som en god befordrare (effter som i förnummidt hafue aff\\nH. K. M. nådig:ste willia och behagh om veneranda Antiquitate\\nRegni) skaffa och procurere migh och de andre bestälte Antiqua-\\nriis Dn. Martino Aschaneo och Johanni Henrici dän wälborne Her-\\nrens, Landzhöfdingens bref och befallningh, att H. K. M. instruc-\\ntion af allom, som besökias om Rijksens Nyttohäfder och gambla\\nhandlingar, måtte effterkommas, på dätt at interstigation måtte\\nfortgå och icke mäd någon olydno och owillighet förhindras; Så\\noch att alla ägander på sine boolstäder måtte hielpas ått vpreesa alla\\nnederfallna Runestenar, synnerligen wid allmänna wägar och Namp-\\nkunnige rum, att man däss skrift och Innehåld bland annadt märke-\\nligit notera och colligera kan och annadt uttwijsa, som H. K. M. in-\\nstruction förmå och see låta, så att man iche fåfängt reser nogon Platz\\nförbij, där något sådant står till at finnas. Blifue all man af Hans\\nHer:tt förmante, finnas de wäll godwillige därtill. Där i dätte gören,\\nförmoder wist dätt länder eder till beröm; Jag förseer migh till eder,\\ngode wän, at i dätta lofligen görandes warde. Här mädh eder Gudj\\nalzmächtig:te till all wällfärd. w. tjänsteligen mädh flijt befallandes.\\nDatum Hammarby dän 6 dagh Pingesdagh 1631.\"}, {\"bbox\": [707, 1588, 1741, 1757], \"category\": \"Text\", \"text\": \"Nota. Dätt är iche heller så ringa Rijksens ähra och Beröm, att\\nRuneskrifft och Monumenter i Bärg och stenar finnes stå och vtt-\\nwijse sigh för alle man; vardhe nu de nederfallna vpreste och de vti\\nmurar införde äre vpletade, wore wäll. Vale.\"}, {\"bbox\": [1132, 1759, 1284, 1795], \"category\": \"Text\", \"text\": \"G. W. A\"}, {\"bbox\": [913, 1802, 1096, 1845], \"category\": \"Text\", \"text\": \"Johan Bure\"}, {\"bbox\": [1323, 1798, 1636, 1835], \"category\": \"Text\", \"text\": \"Martinus Aschaneus\"}, {\"bbox\": [843, 1844, 1163, 1886], \"category\": \"Text\", \"text\": \"Johan Henrichsson.»\"}, {\"bbox\": [711, 1916, 783, 1963], \"category\": \"Page-footer\", \"text\": \"146\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    982,
+    365,
+    1454,
+    407
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsstudiets början"
+  },
+  {
+   "bbox": [
+    700,
+    435,
+    1736,
+    523
+   ],
+   "category": "Text",
+   "text": "traktades som chefen och de båda andra såsom hans medhjälpare,\nförtjänar det här att anföras:"
+  },
+  {
+   "bbox": [
+    736,
+    529,
+    1707,
+    621
+   ],
+   "category": "Text",
+   "text": "»Copia Till Secretarium Arcis Stockholmensis et ditionis huius.\nOm Antiquiteterna."
+  },
+  {
+   "bbox": [
+    702,
+    635,
+    1741,
+    1590
+   ],
+   "category": "Text",
+   "text": "Hälsa och alla Lyckosaligheter af Gudj alzmächtig:ste eder här mäd\noch altijd önskandes. Synnerligh:en gode wän och gunstige gönner\nMårten Jacobs:son, Herr Secreterare. Jag tackar eder opå dätt\nvänlig:ste för alt benägedt godt beuist, och på dett vänlig:ste begärer\nat i vele som en god befordrare (effter som i förnummidt hafue aff\nH. K. M. nådig:ste willia och behagh om veneranda Antiquitate\nRegni) skaffa och procurere migh och de andre bestälte Antiqua-\nriis Dn. Martino Aschaneo och Johanni Henrici dän wälborne Her-\nrens, Landzhöfdingens bref och befallningh, att H. K. M. instruc-\ntion af allom, som besökias om Rijksens Nyttohäfder och gambla\nhandlingar, måtte effterkommas, på dätt at interstigation måtte\nfortgå och icke mäd någon olydno och owillighet förhindras; Så\noch att alla ägander på sine boolstäder måtte hielpas ått vpreesa alla\nnederfallna Runestenar, synnerligen wid allmänna wägar och Namp-\nkunnige rum, att man däss skrift och Innehåld bland annadt märke-\nligit notera och colligera kan och annadt uttwijsa, som H. K. M. in-\nstruction förmå och see låta, så att man iche fåfängt reser nogon Platz\nförbij, där något sådant står till at finnas. Blifue all man af Hans\nHer:tt förmante, finnas de wäll godwillige därtill. Där i dätte gören,\nförmoder wist dätt länder eder till beröm; Jag förseer migh till eder,\ngode wän, at i dätta lofligen görandes warde. Här mädh eder Gudj\nalzmächtig:te till all wällfärd. w. tjänsteligen mädh flijt befallandes.\nDatum Hammarby dän 6 dagh Pingesdagh 1631."
+  },
+  {
+   "bbox": [
+    707,
+    1588,
+    1741,
+    1757
+   ],
+   "category": "Text",
+   "text": "Nota. Dätt är iche heller så ringa Rijksens ähra och Beröm, att\nRuneskrifft och Monumenter i Bärg och stenar finnes stå och vtt-\nwijse sigh för alle man; vardhe nu de nederfallna vpreste och de vti\nmurar införde äre vpletade, wore wäll. Vale."
+  },
+  {
+   "bbox": [
+    1132,
+    1759,
+    1284,
+    1795
+   ],
+   "category": "Text",
+   "text": "G. W. A"
+  },
+  {
+   "bbox": [
+    913,
+    1802,
+    1096,
+    1845
+   ],
+   "category": "Text",
+   "text": "Johan Bure"
+  },
+  {
+   "bbox": [
+    1323,
+    1798,
+    1636,
+    1835
+   ],
+   "category": "Text",
+   "text": "Martinus Aschaneus"
+  },
+  {
+   "bbox": [
+    843,
+    1844,
+    1163,
+    1886
+   ],
+   "category": "Text",
+   "text": "Johan Henrichsson.»"
+  },
+  {
+   "bbox": [
+    711,
+    1916,
+    783,
+    1963
+   ],
+   "category": "Page-footer",
+   "text": "146"
+  }
+ ]
+}

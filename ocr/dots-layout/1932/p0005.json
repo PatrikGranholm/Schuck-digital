@@ -1,0 +1,41 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 5,
+ "seconds": 19.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [195, 157, 352, 196], \"category\": \"Text\", \"text\": \"Cod. Cat.\"}, {\"bbox\": [156, 2256, 237, 2382], \"category\": \"Picture\"}, {\"bbox\": [157, 2309, 233, 2377], \"category\": \"Text\", \"text\": \"GUST. HEDBERG\\nBODAR\\nSTOCKHOLM\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    195,
+    157,
+    352,
+    196
+   ],
+   "category": "Text",
+   "text": "Cod. Cat."
+  },
+  {
+   "bbox": [
+    156,
+    2256,
+    237,
+    2382
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    157,
+    2309,
+    233,
+    2377
+   ],
+   "category": "Text",
+   "text": "GUST. HEDBERG\nBODAR\nSTOCKHOLM"
+  }
+ ]
+}

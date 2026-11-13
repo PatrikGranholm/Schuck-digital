@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 157,
+ "seconds": 33.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [1005, 361, 1482, 404], \"category\": \"Section-header\", \"text\": \"Antikvitetsstudiets början\"}, {\"bbox\": [718, 432, 1756, 508], \"category\": \"Text\", \"text\": \"de haver, og mod Reversal (dennem som det tilhører at tilskikkes) hid forskikkes.\"}, {\"bbox\": [718, 514, 1760, 806], \"category\": \"Text\", \"text\": \"3. Skal alle Runebogstaver skrevne eller i Steen, heele eller Stykker, eller Træ udhugne, eller paa Metalbelter, og saadanne opsøges, og med Antegnelser hvor de ere at finde, og en rigtig nøiagtig Afskrift af dennem hid forskikkes, og kan Lineamenta med Kride paa Stenene bedst drages og siden aftegnes, og Provsterne og Præsterne forelægges med al Flid strax derom at forfare, og endelig Beskeden til Bisperne fremskikke, som strax skal det uti Cancelliet indskikke.\"}, {\"bbox\": [716, 804, 1760, 972], \"category\": \"Text\", \"text\": \"4. Alle Fortegnelser paa hvis relationibus i hver Sogn berettes de locorum antiquitate vel origine, de præliis, incolis, om Steenhobe og deres formeente Aarsager og Betydninger, og alt hvis til Chorographiam kan tiene.\"}, {\"bbox\": [754, 969, 1469, 1012], \"category\": \"Text\", \"text\": \"5. Alle Calendaria runica paa Træe og ellers.\"}, {\"bbox\": [716, 1012, 1760, 1253], \"category\": \"Text\", \"text\": \"6. Alt hvis Cleresiet særdeles de antiquitatibus, modo numerandi runico, stellarum nominibus, antiquis ritibus, og alt hvis som kan tiene til vores danske historias at enodere og antiquitates gentis nostræ at deducere. Item de moneta, ponderibus & mensuris antiquis tam liquidorum quam aridorum; item pannorum, viarum. Hvilket alt for bemeldte til Paaske hid i Cancelliet skulde leveres.\"}, {\"bbox\": [718, 1257, 1756, 1343], \"category\": \"Text\", \"text\": \"Til Bisperne i Sielland, Skaane, Fyen, Ribe, Aarhuus, Viborg, Vendelboe, Opslo, Stavanger, Bergen, Throndhiem.»\"}, {\"bbox\": [716, 1370, 1758, 1828], \"category\": \"Text\", \"text\": \"Detta reskript tyckes också hava haft den avsedda effekten, ty Werlauff fortsätter: »De ved dette Rescript foranledigede Indberetninger fra vedkommende Geistlige indsendtes efterhaanden i Løbet af Aarene 1623 til 1626, og af dem var det at Worm senere benyttede de vigtigste Resultater i sine Monumenta Danica. At de desuden under tiden indeholdt adskillige ikke uinteressante Meddelelser om Papistiske Kilder, Folkesagn m. m. kan erfares af nogle iblandt dem, som endnu haves i Original eller Extract f. Ex. de fyenske, skaanske¹, lollandske og bergenske». Betecknande nog — med hänsyn till den svenska motsvarigheten — tyckas ortbeskrivningarna någon gång hava sträckt sig till ett kartografiskt återgi-\"}, {\"bbox\": [750, 1848, 1426, 1881], \"category\": \"Footnote\", \"text\": \"¹ Dessa hava nu tryckts i Skånska folkminnen, årsbok för 1929.\"}, {\"bbox\": [718, 1918, 793, 1954], \"category\": \"Page-footer\", \"text\": \"124\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    1005,
+    361,
+    1482,
+    404
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsstudiets början"
+  },
+  {
+   "bbox": [
+    718,
+    432,
+    1756,
+    508
+   ],
+   "category": "Text",
+   "text": "de haver, og mod Reversal (dennem som det tilhører at tilskikkes) hid forskikkes."
+  },
+  {
+   "bbox": [
+    718,
+    514,
+    1760,
+    806
+   ],
+   "category": "Text",
+   "text": "3. Skal alle Runebogstaver skrevne eller i Steen, heele eller Stykker, eller Træ udhugne, eller paa Metalbelter, og saadanne opsøges, og med Antegnelser hvor de ere at finde, og en rigtig nøiagtig Afskrift af dennem hid forskikkes, og kan Lineamenta med Kride paa Stenene bedst drages og siden aftegnes, og Provsterne og Præsterne forelægges med al Flid strax derom at forfare, og endelig Beskeden til Bisperne fremskikke, som strax skal det uti Cancelliet indskikke."
+  },
+  {
+   "bbox": [
+    716,
+    804,
+    1760,
+    972
+   ],
+   "category": "Text",
+   "text": "4. Alle Fortegnelser paa hvis relationibus i hver Sogn berettes de locorum antiquitate vel origine, de præliis, incolis, om Steenhobe og deres formeente Aarsager og Betydninger, og alt hvis til Chorographiam kan tiene."
+  },
+  {
+   "bbox": [
+    754,
+    969,
+    1469,
+    1012
+   ],
+   "category": "Text",
+   "text": "5. Alle Calendaria runica paa Træe og ellers."
+  },
+  {
+   "bbox": [
+    716,
+    1012,
+    1760,
+    1253
+   ],
+   "category": "Text",
+   "text": "6. Alt hvis Cleresiet særdeles de antiquitatibus, modo numerandi runico, stellarum nominibus, antiquis ritibus, og alt hvis som kan tiene til vores danske historias at enodere og antiquitates gentis nostræ at deducere. Item de moneta, ponderibus & mensuris antiquis tam liquidorum quam aridorum; item pannorum, viarum. Hvilket alt for bemeldte til Paaske hid i Cancelliet skulde leveres."
+  },
+  {
+   "bbox": [
+    718,
+    1257,
+    1756,
+    1343
+   ],
+   "category": "Text",
+   "text": "Til Bisperne i Sielland, Skaane, Fyen, Ribe, Aarhuus, Viborg, Vendelboe, Opslo, Stavanger, Bergen, Throndhiem.»"
+  },
+  {
+   "bbox": [
+    716,
+    1370,
+    1758,
+    1828
+   ],
+   "category": "Text",
+   "text": "Detta reskript tyckes också hava haft den avsedda effekten, ty Werlauff fortsätter: »De ved dette Rescript foranledigede Indberetninger fra vedkommende Geistlige indsendtes efterhaanden i Løbet af Aarene 1623 til 1626, og af dem var det at Worm senere benyttede de vigtigste Resultater i sine Monumenta Danica. At de desuden under tiden indeholdt adskillige ikke uinteressante Meddelelser om Papistiske Kilder, Folkesagn m. m. kan erfares af nogle iblandt dem, som endnu haves i Original eller Extract f. Ex. de fyenske, skaanske¹, lollandske og bergenske». Betecknande nog — med hänsyn till den svenska motsvarigheten — tyckas ortbeskrivningarna någon gång hava sträckt sig till ett kartografiskt återgi-"
+  },
+  {
+   "bbox": [
+    750,
+    1848,
+    1426,
+    1881
+   ],
+   "category": "Footnote",
+   "text": "¹ Dessa hava nu tryckts i Skånska folkminnen, årsbok för 1929."
+  },
+  {
+   "bbox": [
+    718,
+    1918,
+    793,
+    1954
+   ],
+   "category": "Page-footer",
+   "text": "124"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 148,
+ "seconds": 28.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [476, 365, 866, 400], \"category\": \"Section-header\", \"text\": \"Bureus och Messenius\"}, {\"bbox\": [151, 436, 1192, 726], \"category\": \"Text\", \"text\": \"materialet rent av kunna betraktas såsom en källskrift. Han uppmärksammar undervisningsväsendet, litteraturen, lagarna, t. o. m. konsten. Han hade dessutom, utom Scondia illustrata, skrivit en Birgittabiografi, en Historia sanctorum, en nu förlorad biskopskrönika för »hela Scondien», samt en (troligen ej avslutad) Pandolatria eller en nordisk religionshistoria från hednatiden fram till de sista dagarna.\"}, {\"bbox\": [151, 725, 1192, 1428], \"category\": \"Text\", \"text\": \"I det hela måste man således betrakta Messenius såsom en banbrytare inom svensk hävdateckning. Visserligen står han i mycket kvar på Johannes Magnis ståndpunkt. Han bygger liksom denne på fantastiska etymologier, sammanställer *Mars* och det fornsvenska *Mader, Beläte* med Bibelns *Bel* o. s. v., han har icke genomgående kunnat bygga framställningen på historiska dokument, och han kan ej klart skilja på de olika källornas sanningsvärde. Men han gör dock en bestämd front mot Johannes Magni, antyder de principer, som blivit de ledande för modern historieskrivning, och i vissa fall har han gått utöver Olavus Petri, även om han i andra står tillbaka för denne. Det var därför, såsom vi sedan skola se, med full rätt Olaus Rudbeck betraktade honom som en motståndare och med all makt sökte förhindra tryckningen av Scondia illustrata, sedan genom »min välmente Atlanticam ett så stort ljus är uppkommet om våra antikviteter och Messenius i så många stycken felar, att där man nu upplade honom, skulle synas lika, som man ville kullkasta mycket af det, som nu är så väl af andra gjordt».\"}, {\"bbox\": [1114, 1921, 1187, 1958], \"category\": \"Page-footer\", \"text\": \"115\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    476,
+    365,
+    866,
+    400
+   ],
+   "category": "Section-header",
+   "text": "Bureus och Messenius"
+  },
+  {
+   "bbox": [
+    151,
+    436,
+    1192,
+    726
+   ],
+   "category": "Text",
+   "text": "materialet rent av kunna betraktas såsom en källskrift. Han uppmärksammar undervisningsväsendet, litteraturen, lagarna, t. o. m. konsten. Han hade dessutom, utom Scondia illustrata, skrivit en Birgittabiografi, en Historia sanctorum, en nu förlorad biskopskrönika för »hela Scondien», samt en (troligen ej avslutad) Pandolatria eller en nordisk religionshistoria från hednatiden fram till de sista dagarna."
+  },
+  {
+   "bbox": [
+    151,
+    725,
+    1192,
+    1428
+   ],
+   "category": "Text",
+   "text": "I det hela måste man således betrakta Messenius såsom en banbrytare inom svensk hävdateckning. Visserligen står han i mycket kvar på Johannes Magnis ståndpunkt. Han bygger liksom denne på fantastiska etymologier, sammanställer *Mars* och det fornsvenska *Mader, Beläte* med Bibelns *Bel* o. s. v., han har icke genomgående kunnat bygga framställningen på historiska dokument, och han kan ej klart skilja på de olika källornas sanningsvärde. Men han gör dock en bestämd front mot Johannes Magni, antyder de principer, som blivit de ledande för modern historieskrivning, och i vissa fall har han gått utöver Olavus Petri, även om han i andra står tillbaka för denne. Det var därför, såsom vi sedan skola se, med full rätt Olaus Rudbeck betraktade honom som en motståndare och med all makt sökte förhindra tryckningen av Scondia illustrata, sedan genom »min välmente Atlanticam ett så stort ljus är uppkommet om våra antikviteter och Messenius i så många stycken felar, att där man nu upplade honom, skulle synas lika, som man ville kullkasta mycket af det, som nu är så väl af andra gjordt»."
+  },
+  {
+   "bbox": [
+    1114,
+    1921,
+    1187,
+    1958
+   ],
+   "category": "Page-footer",
+   "text": "115"
+  }
+ ]
+}

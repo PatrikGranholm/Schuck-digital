@@ -1,0 +1,202 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 263,
+ "seconds": 34.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [983, 367, 1455, 411], \"category\": \"Section-header\", \"text\": \"Antikvitetsstudiets början\"}, {\"bbox\": [1181, 442, 1264, 481], \"category\": \"Text\", \"text\": \"1674\"}, {\"bbox\": [701, 486, 1737, 531], \"category\": \"Text\", \"text\": \"Olaus Verelius Antiquas Patriæ Leges, ut cœpit, porroPLANITABIT.\"}, {\"bbox\": [1181, 560, 1264, 599], \"category\": \"Text\", \"text\": \"1675\"}, {\"bbox\": [701, 605, 1741, 766], \"category\": \"Text\", \"text\": \"Olaus Verelius auditoribus suis integrum relinquit, velintne quæ in legibus vet. restant, sibi explicari, aut aliquam potius ex historiis nostris antiquis, quæ vernacule *Sagur* vocantur, interpretatione elucidari.\"}, {\"bbox\": [1181, 785, 1264, 824], \"category\": \"Text\", \"text\": \"1676\"}, {\"bbox\": [701, 830, 1336, 874], \"category\": \"Text\", \"text\": \"Olaus Verelius St. Olafs Saga explicabit.\"}, {\"bbox\": [1181, 904, 1264, 943], \"category\": \"Text\", \"text\": \"1677\"}, {\"bbox\": [701, 949, 1741, 1120], \"category\": \"Text\", \"text\": \"Olaus Verelius, quid ipsum forsan audituris placiturum sit eorum quæ proponere tenetur nescit, cum ea non sint de pane lucrando, nec gustus publici. Si cui tamen opera ejus uti placuerit, prompta ipsi et parata erit.\"}, {\"bbox\": [1181, 1128, 1264, 1167], \"category\": \"Text\", \"text\": \"1678\"}, {\"bbox\": [701, 1175, 1741, 1295], \"category\": \"Text\", \"text\": \"Olaus Verelius, auditorum suorum rogatu leges patriæ veteres interpretari cœpit, in quibus operam porro collocabit, si ita illis visum fuerit.\"}, {\"bbox\": [1181, 1314, 1264, 1353], \"category\": \"Text\", \"text\": \"1679\"}, {\"bbox\": [701, 1359, 1741, 1445], \"category\": \"Text\", \"text\": \"Olaus Verelius Runas Scandianas cum literatura gothica Ulfilæ conferet, utrarumque rationem ex monumentis publicis monstrabit.\"}, {\"bbox\": [1181, 1468, 1264, 1507], \"category\": \"Text\", \"text\": \"1680\"}, {\"bbox\": [701, 1513, 1741, 1592], \"category\": \"Text\", \"text\": \"Olaus Verelius Auditores suos in Runographia et lingua nostra veteri exercebit.\"}, {\"bbox\": [1181, 1611, 1264, 1650], \"category\": \"Text\", \"text\": \"1681\"}, {\"bbox\": [701, 1656, 1741, 1776], \"category\": \"Text\", \"text\": \"Olaus Verelius Trojomanna Saga aliquo usque continuatam ad finem perducet, si admittet valetudo, et in Runographicis auditores suos exercebit.\"}, {\"bbox\": [701, 1810, 1741, 1897], \"category\": \"Text\", \"text\": \"Såsom härav framgår, tyckes Verelius ha börjat sin undervisning med att tolka Konungastyrelsen och vissa landskapslagar, såsom han\"}, {\"bbox\": [701, 1934, 776, 1973], \"category\": \"Page-footer\", \"text\": \"230\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    983,
+    367,
+    1455,
+    411
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsstudiets början"
+  },
+  {
+   "bbox": [
+    1181,
+    442,
+    1264,
+    481
+   ],
+   "category": "Text",
+   "text": "1674"
+  },
+  {
+   "bbox": [
+    701,
+    486,
+    1737,
+    531
+   ],
+   "category": "Text",
+   "text": "Olaus Verelius Antiquas Patriæ Leges, ut cœpit, porroPLANITABIT."
+  },
+  {
+   "bbox": [
+    1181,
+    560,
+    1264,
+    599
+   ],
+   "category": "Text",
+   "text": "1675"
+  },
+  {
+   "bbox": [
+    701,
+    605,
+    1741,
+    766
+   ],
+   "category": "Text",
+   "text": "Olaus Verelius auditoribus suis integrum relinquit, velintne quæ in legibus vet. restant, sibi explicari, aut aliquam potius ex historiis nostris antiquis, quæ vernacule *Sagur* vocantur, interpretatione elucidari."
+  },
+  {
+   "bbox": [
+    1181,
+    785,
+    1264,
+    824
+   ],
+   "category": "Text",
+   "text": "1676"
+  },
+  {
+   "bbox": [
+    701,
+    830,
+    1336,
+    874
+   ],
+   "category": "Text",
+   "text": "Olaus Verelius St. Olafs Saga explicabit."
+  },
+  {
+   "bbox": [
+    1181,
+    904,
+    1264,
+    943
+   ],
+   "category": "Text",
+   "text": "1677"
+  },
+  {
+   "bbox": [
+    701,
+    949,
+    1741,
+    1120
+   ],
+   "category": "Text",
+   "text": "Olaus Verelius, quid ipsum forsan audituris placiturum sit eorum quæ proponere tenetur nescit, cum ea non sint de pane lucrando, nec gustus publici. Si cui tamen opera ejus uti placuerit, prompta ipsi et parata erit."
+  },
+  {
+   "bbox": [
+    1181,
+    1128,
+    1264,
+    1167
+   ],
+   "category": "Text",
+   "text": "1678"
+  },
+  {
+   "bbox": [
+    701,
+    1175,
+    1741,
+    1295
+   ],
+   "category": "Text",
+   "text": "Olaus Verelius, auditorum suorum rogatu leges patriæ veteres interpretari cœpit, in quibus operam porro collocabit, si ita illis visum fuerit."
+  },
+  {
+   "bbox": [
+    1181,
+    1314,
+    1264,
+    1353
+   ],
+   "category": "Text",
+   "text": "1679"
+  },
+  {
+   "bbox": [
+    701,
+    1359,
+    1741,
+    1445
+   ],
+   "category": "Text",
+   "text": "Olaus Verelius Runas Scandianas cum literatura gothica Ulfilæ conferet, utrarumque rationem ex monumentis publicis monstrabit."
+  },
+  {
+   "bbox": [
+    1181,
+    1468,
+    1264,
+    1507
+   ],
+   "category": "Text",
+   "text": "1680"
+  },
+  {
+   "bbox": [
+    701,
+    1513,
+    1741,
+    1592
+   ],
+   "category": "Text",
+   "text": "Olaus Verelius Auditores suos in Runographia et lingua nostra veteri exercebit."
+  },
+  {
+   "bbox": [
+    1181,
+    1611,
+    1264,
+    1650
+   ],
+   "category": "Text",
+   "text": "1681"
+  },
+  {
+   "bbox": [
+    701,
+    1656,
+    1741,
+    1776
+   ],
+   "category": "Text",
+   "text": "Olaus Verelius Trojomanna Saga aliquo usque continuatam ad finem perducet, si admittet valetudo, et in Runographicis auditores suos exercebit."
+  },
+  {
+   "bbox": [
+    701,
+    1810,
+    1741,
+    1897
+   ],
+   "category": "Text",
+   "text": "Såsom härav framgår, tyckes Verelius ha börjat sin undervisning med att tolka Konungastyrelsen och vissa landskapslagar, såsom han"
+  },
+  {
+   "bbox": [
+    701,
+    1934,
+    776,
+    1973
+   ],
+   "category": "Page-footer",
+   "text": "230"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1932",
+ "index": 300,
+ "seconds": 33.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [446, 356, 894, 396], \"category\": \"Section-header\", \"text\": \"De senare antikvarierna\"}, {\"bbox\": [149, 423, 1193, 514], \"category\": \"Text\", \"text\": \"respective Förmyndares och Regerings Vnderskrifft, bekräfftta låtit.\\nDatum Stockholm then 28. Novembris Anno 1666.\"}, {\"bbox\": [811, 525, 1126, 568], \"category\": \"Text\", \"text\": \"Hedewig Eleonora.»\"}, {\"bbox\": [152, 614, 1195, 704], \"category\": \"Text\", \"text\": \"Den 18 december samma år åtföljdes detta av tvenne andra plakat.\"}, {\"bbox\": [188, 707, 1193, 763], \"category\": \"Text\", \"text\": \"»Kongl. May:tz Breff til alla Gouverneurer och Landzhöfdingar.\"}, {\"bbox\": [154, 760, 1205, 1725], \"category\": \"Text\", \"text\": \"Carl medh Gudz Nåde, etc. Wår ynnest. TrooMan och Landzhöfdinge, Wij sände Eder här hoos lycht en deel *Exemplar* aff Wårt Tryckte *Placat*, angående dhe *Antiquiteters* och *Monumenters conservation*, som ännu vthi Wårt Rijke finnas behåldne, och såsom Wij eder ther vthinnan i gemeen hafwe anbefalt, at I öfwer thet samme noga och alfwarligen handhålla måge, på dhet Wij Wårt nådiga vpsåth och affseende som Wij dher medh til heela Wårt Riikes och alle Vndersåthares heder hafwe hafft, nå och erhålla kunde; Så kunne Wij Eder therhoos icke förhålla huruledes Wij thess vthan hafwe *Committerat* och vpdragit Wåre Biskopar och *Superintendenter*, at i synnerheet låta sigh wårda om alle sådane *Antiquiteters* och *Monumenters* opspanande, hwilket the igenom Kyrkioherderne i hwar Sockn eller Försambling, bäst och beqwembligst kunna förrätta; Och emädan them vthan twifwel lähr wara aff nöden, at til dhen ända hafwa sigh Wåre Befalningzmän tilhanda, på thet the igenom theras *Assistence* och tilhielp måge så myckit bättre wid ett eller annat tilfälle kunna komma til rätta. Ty länder til Eder Wår nådige Wilie och Befalning, at I wille göra then tijdige anstalt, at bemelte *Assistence* må altijd stå them öpen, och icke något igenom dhesz fehl eller mangel försummat blifwa. I förrätte här medh dhet Oss länder til nådigt behagh. Och Wij befalle Eder Gudh Alzmechtigh Nådeligen. Aff Stockholm den 18. Decembris, Anno 1666.\"}, {\"bbox\": [165, 1736, 1207, 1832], \"category\": \"Text\", \"text\": \"Vppå Högstb:te Hans Kongl. May:tz *Resp.* Wår Elskel. K. Herr Sons, så och allernådigste Konungs och Herres wegnar.\"}, {\"bbox\": [833, 1839, 1138, 1883], \"category\": \"Text\", \"text\": \"Hedevig Eleonora.»\"}, {\"bbox\": [1135, 1910, 1205, 1957], \"category\": \"Page-footer\", \"text\": \"267\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    446,
+    356,
+    894,
+    396
+   ],
+   "category": "Section-header",
+   "text": "De senare antikvarierna"
+  },
+  {
+   "bbox": [
+    149,
+    423,
+    1193,
+    514
+   ],
+   "category": "Text",
+   "text": "respective Förmyndares och Regerings Vnderskrifft, bekräfftta låtit.\nDatum Stockholm then 28. Novembris Anno 1666."
+  },
+  {
+   "bbox": [
+    811,
+    525,
+    1126,
+    568
+   ],
+   "category": "Text",
+   "text": "Hedewig Eleonora.»"
+  },
+  {
+   "bbox": [
+    152,
+    614,
+    1195,
+    704
+   ],
+   "category": "Text",
+   "text": "Den 18 december samma år åtföljdes detta av tvenne andra plakat."
+  },
+  {
+   "bbox": [
+    188,
+    707,
+    1193,
+    763
+   ],
+   "category": "Text",
+   "text": "»Kongl. May:tz Breff til alla Gouverneurer och Landzhöfdingar."
+  },
+  {
+   "bbox": [
+    154,
+    760,
+    1205,
+    1725
+   ],
+   "category": "Text",
+   "text": "Carl medh Gudz Nåde, etc. Wår ynnest. TrooMan och Landzhöfdinge, Wij sände Eder här hoos lycht en deel *Exemplar* aff Wårt Tryckte *Placat*, angående dhe *Antiquiteters* och *Monumenters conservation*, som ännu vthi Wårt Rijke finnas behåldne, och såsom Wij eder ther vthinnan i gemeen hafwe anbefalt, at I öfwer thet samme noga och alfwarligen handhålla måge, på dhet Wij Wårt nådiga vpsåth och affseende som Wij dher medh til heela Wårt Riikes och alle Vndersåthares heder hafwe hafft, nå och erhålla kunde; Så kunne Wij Eder therhoos icke förhålla huruledes Wij thess vthan hafwe *Committerat* och vpdragit Wåre Biskopar och *Superintendenter*, at i synnerheet låta sigh wårda om alle sådane *Antiquiteters* och *Monumenters* opspanande, hwilket the igenom Kyrkioherderne i hwar Sockn eller Försambling, bäst och beqwembligst kunna förrätta; Och emädan them vthan twifwel lähr wara aff nöden, at til dhen ända hafwa sigh Wåre Befalningzmän tilhanda, på thet the igenom theras *Assistence* och tilhielp måge så myckit bättre wid ett eller annat tilfälle kunna komma til rätta. Ty länder til Eder Wår nådige Wilie och Befalning, at I wille göra then tijdige anstalt, at bemelte *Assistence* må altijd stå them öpen, och icke något igenom dhesz fehl eller mangel försummat blifwa. I förrätte här medh dhet Oss länder til nådigt behagh. Och Wij befalle Eder Gudh Alzmechtigh Nådeligen. Aff Stockholm den 18. Decembris, Anno 1666."
+  },
+  {
+   "bbox": [
+    165,
+    1736,
+    1207,
+    1832
+   ],
+   "category": "Text",
+   "text": "Vppå Högstb:te Hans Kongl. May:tz *Resp.* Wår Elskel. K. Herr Sons, så och allernådigste Konungs och Herres wegnar."
+  },
+  {
+   "bbox": [
+    833,
+    1839,
+    1138,
+    1883
+   ],
+   "category": "Text",
+   "text": "Hedevig Eleonora.»"
+  },
+  {
+   "bbox": [
+    1135,
+    1910,
+    1205,
+    1957
+   ],
+   "category": "Page-footer",
+   "text": "267"
+  }
+ ]
+}
