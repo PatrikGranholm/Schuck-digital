@@ -8,7 +8,8 @@ For every volume with a tei/schuck-<vol>.xml:
   site/img/<vol>/pNNNN.webp    the page images referenced by a <pb> (binding/scan images are
                                left out), 1200 px wide, WebP q70 (~150 KB; the whole edition
                                must stay under GitHub Pages' 1 GB site limit)
-plus site/data/volumes.json and the app files from web/reader/. Images are only rebuilt
+plus site/data/volumes.json, site/epub/schuck-<vol>.epub (scripts/to_epub.py, rebuilt when
+the TEI is newer) and the app files from web/reader/. Images are only rebuilt
 when missing. The site is published from its own branch (gh-pages), so the images never
 enter the main branch.
 """
@@ -73,6 +74,44 @@ def build_volume(vol, out):
             "verified_pages": resp.count("#gt")}
 
 
+def build_register(vols, out):
+    """site/data/register.json for the reader: the entries of tei/register.xml with their
+    identifiers and mention counts per volume (so lists work without loading every volume)."""
+    src = ROOT / "tei" / "register.xml"
+    if not src.exists():
+        return None
+    shutil.copy2(src, out / "data" / "register.xml")
+    counts = {}
+    for v in vols:
+        t = etree.parse(str(ROOT / "tei" / f"schuck-{v}.xml"))
+        for tag in ("persName", "placeName"):
+            for e in t.iter(f"{TEI}{tag}"):
+                ref = (e.get("ref") or "").split("#")[-1]
+                if ref:
+                    counts.setdefault(ref, {}).setdefault(v, 0)
+                    counts[ref][v] += 1
+    r = etree.parse(str(src))
+    res = {"persons": [], "places": []}
+    for kind, tag, name in (("persons", "person", "persName"), ("places", "place", "placeName")):
+        for e in r.iter(f"{TEI}{tag}"):
+            eid = e.get(XML_ID)
+            item = {"id": eid, "name": "".join(e.find(f"{TEI}{name}").itertext()), "counts": counts.get(eid, {})}
+            for k, child in (("birth", "birth"), ("death", "death")):
+                c = e.find(f"{TEI}{child}")
+                if c is not None:
+                    item[k] = c.get("when")
+            note = e.find(f"{TEI}note")
+            if note is not None:
+                item["desc"] = note.text
+            ids = {i.get("type"): i.text for i in e.iter(f"{TEI}idno")}
+            if ids:
+                item["ids"] = ids
+            if item["counts"]:
+                res[kind].append(item)
+    (out / "data" / "register.json").write_text(json.dumps(res, ensure_ascii=False, separators=(",", ":")))
+    return res
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--vol", default="")
@@ -86,7 +125,20 @@ def main():
             shutil.copy2(f, out / f.name)
     (out / ".nojekyll").write_text("")
     meta = [build_volume(v, out) for v in vols]
+    from to_epub import Book                       # one EPUB per volume, rebuilt when the TEI is newer
+    for m in meta:
+        ep = out / "epub" / f"schuck-{m['vol']}.epub"
+        tei = ROOT / "tei" / f"schuck-{m['vol']}.xml"
+        if not ep.exists() or ep.stat().st_mtime < tei.stat().st_mtime:
+            b = Book(m["vol"])
+            b.build()
+            b.write(ep)
+        m["epub"] = f"epub/{ep.name}"
+        m["epub_mb"] = round(ep.stat().st_size / 1e6, 1)
     (out / "data" / "volumes.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1))
+    reg = build_register(vols, out)
+    if reg:
+        print(f"register: {len(reg['persons'])} persons, {len(reg['places'])} places")
     size = sum(f.stat().st_size for f in out.rglob("*") if f.is_file())
     for m in meta:
         print(f"{m['vol']} ({m['part']}): {m['pages']} pages, {len(m['chapters'])} chapters, {m['verified_pages']} verified")

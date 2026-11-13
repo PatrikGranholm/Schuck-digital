@@ -16,10 +16,14 @@
     <button data-view="read" class="on" role="tab">Läs</button>
     <button data-view="quotes" role="tab">Citat</button>
     <button data-view="sources" role="tab">Källor</button>
+    <button data-view="persons" role="tab">Personer</button>
+    <button data-view="places" role="tab">Orter</button>
     <button data-view="search" role="tab">Sök</button>
     <button data-view="about" role="tab">Om</button>
   </nav>
   <span class="spacer"></span>
+  <button id="namesbtn" class="ghost" aria-pressed="false" title="Markera person- och ortnamn i texten">Namn</button>
+  <a id="epublink" class="ghost btnlink" href="#" download title="Ladda ner denna del som e-bok (EPUB)">EPUB</a>
   <button id="facsbtn" class="ghost" title="Visa/dölj faksimil">Faksimil</button>
   <button id="themebtn" class="ghost" title="Ljust/mörkt tema" aria-label="Byt tema">◐</button>
 </header>
@@ -53,6 +57,24 @@
     <div id="slist" class="groups"></div>
   </section>
 
+  <section id="view-persons" class="view list-view">
+    <div class="list-head">
+      <input id="pfilter" type="search" placeholder="Filtrera personer…" aria-label="Filtrera personer">
+      <select id="psort" aria-label="Sortering"><option value="count">flest omnämnanden</option><option value="name">namn A–Ö</option></select>
+      <span id="pcount" class="muted"></span>
+    </div>
+    <ol id="plist" class="items entries"></ol>
+  </section>
+
+  <section id="view-places" class="view list-view">
+    <div class="list-head">
+      <input id="lfilter" type="search" placeholder="Filtrera orter…" aria-label="Filtrera orter">
+      <select id="lsort" aria-label="Sortering"><option value="count">flest omnämnanden</option><option value="name">namn A–Ö</option></select>
+      <span id="lcount" class="muted"></span>
+    </div>
+    <ol id="llist" class="items entries"></ol>
+  </section>
+
   <section id="view-search" class="view list-view">
     <form id="searchform" class="list-head">
       <input id="q" type="search" placeholder="Sök i texten (t.ex. Hadorph, runsten*, »Antiqu)" aria-label="Sök">
@@ -73,8 +95,12 @@
       <li>Marginalrubriker visas i marginalen, fotnoter som upphöjda siffror (klicka).</li>
       <li>Citat (»…») och källhänvisningar (K. B., R. A., U. U. B. …) är uppmärkta och listas under <b>Citat</b> och <b>Källor</b>.</li>
       <li>Rättelser ur trycket (Rättelser) är införda; den tryckta läsarten visas när man pekar på ordet.</li>
+      <li>Person- och ortnamn är uppmärkta automatiskt (namnigenkänning) och kopplade till ett register med länkar till Wikidata, Svenskt biografiskt lexikon och manuscripta.se. Klicka på ett namn för uppgifter; knappen <b>Namn</b> markerar alla. Identifieringar med streckad understrykning är osäkra och ännu inte granskade.</li>
       <li>Sidbrytningar visas som <span class="pbdemo">s. 52</span>; klicka för att se sidan i faksimil.</li>
     </ul>
+    <h2>E-böcker</h2>
+    <p>Varje del finns som e-bok (EPUB 3) med fotnoter, marginalrubriker som mellanrubriker, planscher och trycksidornas sidnummer:</p>
+    <ul id="epubs"></ul>
     <h2>Data</h2>
     <p>TEI-filerna finns under <code>data/</code> (t.ex. <a href="data/schuck-1932.xml">schuck-1932.xml</a>). Källa: <a href="https://libris.kb.se/cvn7fkgp3mft1s5">Libris</a>.</p>
     <div id="volstats" class="muted"></div>

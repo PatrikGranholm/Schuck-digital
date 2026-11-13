@@ -133,8 +133,33 @@ def bibl_spans(plain):
 OPEN = {"italic": '<hi rend="italic">', "spaced": '<hi rend="spaced">', "bibl": '<bibl type="source">',
         "orgName": "<orgName>", "idno": '<idno type="shelfmark">'}
 CLOSE = {"italic": "</hi>", "spaced": "</hi>", "bibl": "</bibl>", "orgName": "</orgName>", "idno": "</idno>",
-         "quote": "</quote>"}
-RANK = {"quote": 0, "bibl": 1, "orgName": 2, "idno": 2, "italic": 3, "spaced": 3}
+         "quote": "</quote>", "persName": "</persName>", "placeName": "</placeName>"}
+RANK = {"quote": 0, "bibl": 1, "orgName": 2, "idno": 2, "persName": 2.5, "placeName": 2.5, "italic": 3, "spaced": 3}
+
+# named entities from scripts/link.py: plain-text hash of a text unit -> [(start, end, type, attrs)]
+NER = {}
+
+
+def load_ner(vol):
+    NER.clear()
+    f = ROOT / "data" / "ner" / f"{vol}-links.json"
+    if not f.exists():
+        return 0
+    for l in json.loads(f.read_text()):
+        attrs = {}
+        if l.get("ref"):
+            attrs["ref"] = f"register.xml#{l['ref']}"
+        if l.get("cert"):
+            attrs["cert"] = l["cert"]
+        NER.setdefault(l["sha"], []).append((l["start"], l["end"], l["type"], attrs, l["text"]))
+    return sum(map(len, NER.values()))
+
+
+def ner_spans(plain):
+    """Entity spans for a text unit, matched by the hash of its plain text (see scripts/ner.py)."""
+    import hashlib
+    hits = NER.get(hashlib.sha1(plain.encode()).hexdigest()[:12], [])
+    return [(a, b, t, attrs) for a, b, t, attrs, text in hits if plain[a:b] == text]
 
 
 def serialize(plain, spans, points, ph):
@@ -176,6 +201,9 @@ def serialize(plain, spans, points, ph):
 
 
 def open_tag(s, continued=False):
+    if s[2] in ("persName", "placeName"):
+        attrs = s[3] if len(s) > 3 and isinstance(s[3], dict) else {}
+        return f"<{s[2]}" + "".join(f' {k}="{escape(v)}"' for k, v in attrs.items()) + ">"
     if s[2] == "quote":
         attrs = s[3] if len(s) > 3 and isinstance(s[3], dict) else {}
         if continued:
@@ -186,7 +214,7 @@ def open_tag(s, continued=False):
 
 def inline(text, ph, extra_spans=()):
     plain, spans, points = parse_markup(text)
-    return serialize(plain, spans + list(extra_spans) + bibl_spans(plain), points, ph)
+    return serialize(plain, spans + list(extra_spans) + bibl_spans(plain) + ner_spans(plain), points, ph)
 
 
 # ---------------------------------------------------------------- pages
@@ -356,9 +384,10 @@ def build(vol):
     last_idx = max((r["index"] for r in pm if r["how"] in ("read", "filled") and r["index"] not in back_idx),
                    default=len(pm))
     ph = Points()
+    n_links = load_ner(vol)
     qn = [0]
     stats = {"pages": 0, "gt": 0, "dots": 0, "textlayer": 0, "foot": 0, "foot_unanchored": 0, "margin": 0,
-             "quotes": 0, "bibl": 0, "paragraphs": 0, "margin_rescued": 0, "errata": 0}
+             "quotes": 0, "bibl": 0, "paragraphs": 0, "margin_rescued": 0, "errata": 0, "names": 0}
 
     front, body_divs, back_divs = [], [], {"contents": [], "colophon_errata": []}
     cur_div = None          # list of xml strings for the current chapter
@@ -395,7 +424,9 @@ def build(vol):
         stats["quotes"] += len(qspans)
         bs = bibl_spans(plain)
         stats["bibl"] += sum(1 for s in bs if s[2] == "bibl")
-        xml = serialize(plain, spans + qspans + bs, points, ph.xml)
+        names = ner_spans(plain)
+        stats["names"] += len(names)
+        xml = serialize(plain, spans + qspans + bs + names, points, ph.xml)
         cur_div.append(f"<p>{xml}</p>")
         stats["paragraphs"] += 1
 
@@ -653,7 +684,7 @@ def build(vol):
 <sourceDesc><bibl><author>Henrik Schück</author>, <title>{escape(struct["title"])}</title> <biblScope unit="volume">{meta["part"]}</biblScope>. <pubPlace>Stockholm</pubPlace> <date when="{meta["year"]}">{meta["year"]}</date>. <ref target="{LIBRIS}">Libris</ref></bibl></sourceDesc>
 </fileDesc>
 <encodingDesc>
-<editorialDecl><p>Text from verified ground truth where available (pb/@resp="#gt"), otherwise from dots.mocr OCR (#dots) or the PDF text layer (#textlayer). Uncorrected OCR. Spelling, including that of quoted sources, is kept as printed. End-of-line hyphenation is removed; words broken across pages carry pb/@break="no". Footnotes and marginal summaries are placed at their anchors; placements marked cert="low" are guesses.</p></editorialDecl>
+<editorialDecl><p>Text from verified ground truth where available (pb/@resp="#gt"), otherwise from dots.mocr OCR (#dots) or the PDF text layer (#textlayer). Uncorrected OCR. Spelling, including that of quoted sources, is kept as printed. End-of-line hyphenation is removed; words broken across pages carry pb/@break="no". Footnotes and marginal summaries are placed at their anchors; placements marked cert="low" are guesses. Person and place names (persName, placeName) come from named-entity recognition (KB-BERT); @ref points to tei/register.xml, and @cert gives the certainty of the identification (low = an unreviewed guess).</p></editorialDecl>
 </encodingDesc>
 </teiHeader>
 <facsimile>

@@ -2,7 +2,7 @@
 // Schück digital: static reader for the TEI volumes in data/ (built by scripts/build_site.py).
 const TEI = "http://www.tei-c.org/ns/1.0";
 const $ = (id) => document.getElementById(id);
-const S = { vols: [], cache: {}, cur: null, osd: null, page: -1, view: "read" };
+const S = { vols: [], cache: {}, cur: null, osd: null, page: -1, view: "read", reg: { persons: [], places: [] }, entry: {} };
 
 // ---------------------------------------------------------------- helpers
 function h(tag, cls, text) {
@@ -37,7 +37,7 @@ async function loadVol(vol) {
   const meta = S.vols.find((v) => v.vol === vol);
   const xml = await (await fetch(meta.file)).text();
   const doc = new DOMParser().parseFromString(xml, "application/xml");
-  const V = { meta, doc, surfaces: {}, pages: [], quotes: [], sources: [], paras: [], notes: [] };
+  const V = { meta, doc, surfaces: {}, pages: [], quotes: [], sources: [], paras: [], notes: [], names: {}, nameN: 0 };
   for (const s of tei(doc, "surface")) {
     const g = s.getElementsByTagNameNS(TEI, "graphic")[0];
     V.surfaces[s.getAttribute("xml:id")] = { url: g.getAttribute("url"), n: s.getAttribute("n") };
@@ -145,6 +145,17 @@ function render(node, parent, ctx) {
       break;
     }
     case "idno": e = h("span", "shelfmark"); renderKids(node, e, ctx); break;
+    case "persName": case "placeName": {
+      const ref = (a("ref") || "").split("#").pop();
+      e = h("span", `name ${node.localName === "persName" ? "per" : "plc"}${a("cert") === "low" ? " low" : ""}`);
+      e.id = `nm${V.nameN++}`;
+      if (ref) {
+        e.dataset.ref = ref;
+        (V.names[ref] = V.names[ref] || []).push({ id: e.id, page: ctx.page, chapter: ctx.chapter, low: a("cert") === "low" });
+      }
+      renderKids(node, e, ctx);
+      break;
+    }
     case "choice": {
       const sic = node.getElementsByTagNameNS(TEI, "sic")[0];
       e = h("span", "choice");
@@ -192,6 +203,9 @@ async function openVol(vol) {
   if (V.root.querySelector("#contents")) add("Innehållsförteckning", `${vol}/contents`);
   if (V.root.querySelector("#corrigenda")) add("Rättelser", `${vol}/corrigenda`);
   S.qRendered = S.sRendered = false;
+  const ep = $("epublink");
+  ep.hidden = !V.meta.epub;
+  if (V.meta.epub) { ep.href = V.meta.epub; ep.title = `Ladda ner ${partLabel(V.meta)} som e-bok (EPUB, ${V.meta.epub_mb} MB)`; }
   onScroll();
   return V;
 }
@@ -275,6 +289,12 @@ document.addEventListener("click", (e) => {
     e.stopPropagation();
     return;
   }
+  const nm = e.target.closest(".name[data-ref]");
+  if (nm && !e.target.closest(".fnref")) {
+    showPopover(nm, entryCard(nm.dataset.ref, nm.classList.contains("low")));
+    e.stopPropagation();
+    return;
+  }
   const pb = e.target.closest(".pb");
   if (pb && S.cur) { document.body.classList.remove("nofacs"); showPage(+pb.dataset.i); return; }
   const fb = e.target.closest("figure button[data-facs]");
@@ -291,6 +311,8 @@ function setView(v) {
   if (v === "quotes" && !S.qRendered) renderQuotes();
   if (v === "sources" && !S.sRendered) renderSources();
   if (v === "about") renderAbout();
+  if (v === "persons") renderEntries("persons");
+  if (v === "places") renderEntries("places");
 }
 
 function li(where, html, target) {
@@ -358,6 +380,18 @@ async function runSearch(ev) {
   const re = new RegExp(pat, "g");
   const vols = $("qall").checked ? S.vols.map((v) => v.vol) : [S.cur.meta.vol];
   let n = 0, shown = 0;
+  const qn = q.replace(/\*/g, "").toLowerCase();
+  for (const kind of ["persons", "places"]) {
+    const tot = (e) => Object.values(e.counts).reduce((x, y) => x + y, 0);
+    const hits = S.reg[kind].filter((e) => qn.length > 2 && e.name.toLowerCase().includes(qn)).sort((a, b) => tot(b) - tot(a));
+    for (const e of hits.slice(0, 5)) {
+      const total = tot(e);
+      const it = li(`${kind === "persons" ? "Person" : "Ort"} i registret`, `<b>${esc(e.name)}</b> ${esc(lifespan(e))} · ${total} omnämnanden`,
+        `${kind === "persons" ? "person" : "place"}/${e.id}`);
+      it.classList.add("result-entry");
+      list.appendChild(it);
+    }
+  }
   for (const vol of vols) {
     const V = await loadVol(vol);
     for (const p of V.paras) {
@@ -378,11 +412,106 @@ async function runSearch(ev) {
 }
 
 function renderAbout() {
+  const ul = $("epubs");
+  ul.innerHTML = "";
+  for (const v of S.vols.filter((v) => v.epub)) {
+    const li = h("li"), a = h("a", "", `${partLabel(v)}`);
+    a.href = v.epub;
+    a.setAttribute("download", "");
+    li.appendChild(a);
+    li.appendChild(document.createTextNode(` (EPUB, ${v.epub_mb} MB)`));
+    ul.appendChild(li);
+  }
   $("volstats").textContent = S.vols.map((v) => `${partLabel(v)}: ${v.pages} sidor, ${v.verified_pages} granskade`).join(" · ");
+}
+
+
+// ---------------------------------------------------------------- register (persons, places)
+function lifespan(e) {
+  return e.birth || e.death ? `(${e.birth ? +e.birth : "?"}–${e.death ? +e.death : "?"})` : "";
+}
+const ID_LABEL = { wikidata: "Wikidata", SBL: "SBL", VIAF: "VIAF", Libris: "Libris", manuscripta: "manuscripta.se" };
+function idLinks(e) {
+  const box = h("div", "links");
+  for (const [k, url] of Object.entries(e.ids || {})) {
+    const a = h("a", "", ID_LABEL[k] || k);
+    a.href = url; a.target = "_blank"; a.rel = "noopener";
+    box.appendChild(a);
+  }
+  return box;
+}
+function entryCard(id, low) {
+  const e = S.entry[id], box = h("div");
+  if (!e) { box.appendChild(h("div", "muted", "Ej identifierad i registret.")); return box; }
+  box.appendChild(h("h4", "", `${e.name} ${lifespan(e)}`));
+  if (e.desc) box.appendChild(h("div", "", e.desc));
+  const here = (S.cur.names[id] || []).length, total = Object.values(e.counts).reduce((x, y) => x + y, 0);
+  box.appendChild(h("div", "muted", `${here} omnämnanden i ${partLabel(S.cur.meta)}${S.vols.length > 1 ? `, ${total} i alla delar` : ""}`));
+  if (low) box.appendChild(h("div", "muted", "Osäker identifiering: automatisk gissning, ännu inte granskad."));
+  if (!e.ids) box.appendChild(h("div", "muted", "Ännu inte kopplad till Wikidata."));
+  box.appendChild(idLinks(e));
+  const act = h("div", "actions"), b = h("button", "ghost", "Alla omnämnanden");
+  b.onclick = () => { $("popover").hidden = true; location.hash = `${e.kind === "persons" ? "person" : "place"}/${id}`; };
+  act.appendChild(b);
+  box.appendChild(act);
+  return box;
+}
+function renderEntries(kind) {
+  const isP = kind === "persons";
+  const f = $(isP ? "pfilter" : "lfilter").value.toLowerCase(), sort = $(isP ? "psort" : "lsort").value;
+  const list = $(isP ? "plist" : "llist");
+  const total = (e) => Object.values(e.counts).reduce((x, y) => x + y, 0);
+  let items = S.reg[kind].filter((e) => !f || e.name.toLowerCase().includes(f) || (e.desc || "").toLowerCase().includes(f));
+  items.sort(sort === "name" ? (a, b) => a.name.localeCompare(b.name, "sv") : (a, b) => total(b) - total(a));
+  $(isP ? "pcount" : "lcount").textContent = `${items.length} av ${S.reg[kind].length} ${isP ? "personer" : "orter"}`;
+  list.innerHTML = "";
+  for (const e of items.slice(0, 400)) {
+    const it = h("li"), head = h("div", "ent-head");
+    head.appendChild(h("span", "ent-name", e.name));
+    head.appendChild(h("span", "ent-meta", [lifespan(e), e.desc].filter(Boolean).join(" · ")));
+    head.appendChild(h("span", "ent-count", Object.entries(e.counts).map(([v, n]) => `${partLabel(S.vols.find((x) => x.vol === v) || { part: v, year: "" }).replace(/ \(.*\)/, "")}: ${n}`).join(" · ")));
+    it.appendChild(head);
+    it.appendChild(idLinks(e));
+    it.onclick = (ev) => { if (!ev.target.closest("a, .mentions")) toggleMentions(it, e); };
+    list.appendChild(it);
+    if (S.open === e.id) { toggleMentions(it, e); it.scrollIntoView({ block: "start" }); S.open = null; }
+  }
+}
+async function toggleMentions(it, e) {
+  const old = it.querySelector(".mentions");
+  if (old) { old.remove(); return; }
+  const ol = h("ol", "mentions");
+  it.appendChild(ol);
+  for (const vol of Object.keys(e.counts)) {
+    const V = await loadVol(vol);
+    for (const m of V.names[e.id] || []) {
+      // snippet: the name in its paragraph
+      const el = V.root.querySelector(`#${m.id}`), p = el ? el.closest("p, .sidenote, h3, td, .figtext") || el.parentNode : null;
+      let snip = "";
+      if (el && p) {
+        const t = p.textContent, name = el.textContent, k = t.indexOf(name);
+        const a = Math.max(0, k - 70), b = Math.min(t.length, k + name.length + 90);
+        snip = (a ? "… " : "") + esc(t.slice(a, k)) + "<mark>" + esc(name) + "</mark>" + esc(t.slice(k + name.length, b)) + (b < t.length ? " …" : "");
+      }
+      const row = h("li");
+      row.innerHTML = `<span class="where">${esc(partLabel(V.meta))}${m.page ? " · s. " + m.page : ""}${m.low ? " · osäker" : ""}</span>${snip}`;
+      row.onclick = () => { location.hash = `${vol}/${m.id}`; };
+      ol.appendChild(row);
+    }
+  }
 }
 
 // ---------------------------------------------------------------- routing + UI
 async function route() {
+  const em = location.hash.slice(1).match(/^(person|place)\/(.+)$/);
+  if (em) {
+    if (!S.cur) await openVol(S.vols[0].vol);
+    const kind = em[1] === "person" ? "persons" : "places";
+    S.open = decodeURIComponent(em[2]);
+    $(kind === "persons" ? "pfilter" : "lfilter").value = "";
+    setView(kind);
+    return;
+  }
   const m = location.hash.slice(1).match(/^(\w+)(?:\/(.+))?$/);
   if (!m || !S.vols.some((v) => v.vol === m[1])) {
     if (!S.cur) await openVol(S.vols[0].vol);
@@ -403,6 +532,17 @@ function initUI() {
   $("qfilter").oninput = () => renderQuotes();
   $("sfilter").oninput = () => renderSources();
   $("searchform").onsubmit = runSearch;
+  $("pfilter").oninput = () => renderEntries("persons");
+  $("lfilter").oninput = () => renderEntries("places");
+  $("psort").onchange = () => renderEntries("persons");
+  $("lsort").onchange = () => renderEntries("places");
+  $("namesbtn").onclick = () => {
+    const on = !document.body.classList.contains("marknames");
+    document.body.classList.toggle("marknames", on);
+    $("namesbtn").setAttribute("aria-pressed", on);
+    store.set("marknames", on ? "1" : "");
+  };
+  if (store.get("marknames") === "1") { document.body.classList.add("marknames"); $("namesbtn").setAttribute("aria-pressed", "true"); }
   document.querySelector(".brand").onclick = (e) => { e.preventDefault(); setView("about"); };
   document.querySelector(".reader").addEventListener("scroll", onScroll, { passive: true });
   $("pgprev").onclick = () => { $("follow").checked = false; showPage(S.page - 1); };
@@ -444,6 +584,10 @@ function initUI() {
     $("text").innerHTML = '<p class="loading">Kunde inte läsa data/volumes.json.</p>';
     return;
   }
+  try {
+    S.reg = await (await fetch("data/register.json")).json();
+    for (const k of ["persons", "places"]) for (const e of S.reg[k]) S.entry[e.id] = { ...e, kind: k };
+  } catch { /* no register yet: the name views stay empty */ }
   initUI();
   addEventListener("hashchange", route);
   await route();
