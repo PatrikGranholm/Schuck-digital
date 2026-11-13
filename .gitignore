@@ -11,3 +11,5 @@ __pycache__/
 ocr/textlayer/
 site/
 *.log
+ocr/kraken-*/
+data/ner/*-raw.json

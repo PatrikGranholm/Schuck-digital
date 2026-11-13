@@ -54,10 +54,10 @@ def write_gt(page):
 
 # ---- PDF text layer (ALTO from textlayer.py) --------------------------------
 
-def _textlayer_paragraphs(vol, index):
+def _textlayer_paragraphs(vol, index, engine="textlayer"):
     """{region: [paragraph]}, paragraph = [line], line = (VPOS, HPOS, HEIGHT, WIDTH, text, words),
     words = [(content, (x0, y0, x1, y1))] in image pixels."""
-    t = etree.parse(str(OCR / "textlayer" / vol / f"p{index:04d}.xml"))
+    t = etree.parse(str(OCR / engine / vol / f"p{index:04d}.xml"))
     W = int(t.find(".//a:Page", NS).get("WIDTH"))
 
     def lines(kind):
@@ -109,9 +109,11 @@ def paragraphs(lines):
     return [p for p in paras if p]
 
 
-def from_textlayer(vol, index):
+def from_textlayer(vol, index, engine="textlayer"):
+    """Region text from an ALTO with the text layer's line structure (the text layer itself, or a
+    line recogniser such as kraken that wrote its text into the same lines)."""
     return {r: "\n".join(dehyphenate([l[4] for l in p]) for p in paras)
-            for r, paras in _textlayer_paragraphs(vol, index).items()}
+            for r, paras in _textlayer_paragraphs(vol, index, engine).items()}
 
 
 def textlayer_tokens(vol, index):
@@ -229,8 +231,8 @@ def from_plain(vol, index, mode):
 def load(engine, vol, index):
     if engine == "gt":
         return read_gt(GT / "pages" / vol / f"p{index:04d}.txt")
-    if engine == "textlayer":
-        return from_textlayer(vol, index)
+    if engine == "textlayer" or engine.startswith("kraken"):
+        return from_textlayer(vol, index, engine)
     if engine.startswith("dots-layout"):
         return from_dots(vol, index, engine)
     return from_plain(vol, index, engine)
