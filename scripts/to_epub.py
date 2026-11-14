@@ -103,7 +103,7 @@ class Book:
 
     def element(self, c, out, ctx):
         tag = c.tag.replace(T, "") if isinstance(c.tag, str) else ""
-        if tag in ("fw", "sic", ""):
+        if tag in ("fw", "sic", "rdg", ""):   # rdg: dots.mocr's reading beside the old-spelling rule's lem
             return
         if tag == "pb":
             n = c.get("n")

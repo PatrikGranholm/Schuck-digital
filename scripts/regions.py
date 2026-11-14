@@ -13,6 +13,7 @@ from lxml import etree
 from common import GT, OCR
 
 REGIONS = ["head", "body", "margin", "foot", "pageno", "other"]
+INLINE_HYPHEN = re.compile(r"(\w)- (?=[a-zåäöæøéü])(?!(?:och|eller|samt|som|men|el\.|resp\.|&)\b)")
 SUPER = str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹", "0123456789")
 # printer's sheet signature at the foot of the first page of a gathering, e.g. "18—3264. II."
 SIGNATURE = re.compile(r"[\dIl]{1,2}\s*[—–-]\s*\d{3,5}\.?(\s+[IVX]+\.?)?")
@@ -116,11 +117,12 @@ def from_textlayer(vol, index, engine="textlayer"):
             for r, paras in _textlayer_paragraphs(vol, index, engine).items()}
 
 
-def textlayer_tokens(vol, index):
+def textlayer_tokens(vol, index, engine="textlayer"):
     """Whitespace tokens of from_textlayer() in REGIONS order, each with its word box(es):
-    [{"t": token, "region": r, "boxes": [[x0, y0, x1, y1], ...]}]. Dehyphenated tokens have two boxes."""
+    [{"t": token, "region": r, "boxes": [[x0, y0, x1, y1], ...]}]. Dehyphenated tokens have two boxes.
+    engine: an ALTO set on the text layer's lines (e.g. kraken-ft3) instead of the text layer itself."""
     out = []
-    for r, paras in _textlayer_paragraphs(vol, index).items():
+    for r, paras in _textlayer_paragraphs(vol, index, engine).items():
         for p in paras:
             toks = []
             for l in p:
@@ -194,6 +196,9 @@ def dots_blocks(vol, index, mode="dots-layout"):
             kind = "heading"
         elif cat in ("Text", "List-item", "Formula"):
             kind = "body"
+            # a line-end hyphen dots.mocr left inside a line ("haf- wer"); not a suspended compound
+            # before a conjunction ("skrif- och tryckpapper")
+            blk["text"] = INLINE_HYPHEN.sub(r"\1", txt)
         elif cat == "Caption":
             kind = "caption"
         else:
@@ -217,7 +222,8 @@ def from_dots(vol, index, mode="dots-layout"):
         if b["kind"] == "table":
             page["body"].extend(" ".join(r) for r in b["rows"])
         elif b["kind"] in ("body", "heading"):
-            page["body"].extend(p for p in b["text"].split("\n") if p.strip())
+            # one block = one paragraph; dots.mocr may keep the printed line breaks: join them as to_tei.py does
+            page["body"].append(dehyphenate(b["text"].split("\n")))
         else:
             page[region[b["kind"]]].append(b["text"])
     return {r: "\n".join(v) for r, v in page.items()}

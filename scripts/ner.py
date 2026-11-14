@@ -38,7 +38,7 @@ T = "{http://www.tei-c.org/ns/1.0}"
 MODEL = "KB/bert-base-swedish-cased-ner"
 MIN_SCORE = 0.8
 UNIT_TAGS = {"p", "ab", "head", "titlePart", "cell"}
-SKIP_TEXT = {"fw", "sic"}
+SKIP_TEXT = {"fw", "sic", "lem"}   # lem: the old-spelling rule's reading; rdg keeps the OCR text to_tei.py hashes
 COLLECTION_AFTER = re.compile(r"\s*[,.]?\s*(?:vol\.|saml\.|samlingen\b|sign\.|fol\.|N:o|n:o)", re.I)
 COLLECTION_NAME = re.compile(r"samling(?:en)?$", re.I)
 

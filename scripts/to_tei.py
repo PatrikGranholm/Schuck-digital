@@ -67,6 +67,11 @@ def is_ph(c):
     return ord(c) >= PH0
 
 
+def first_char(s):
+    """First character that is not a zero-width placeholder."""
+    return next((c for c in s if not is_ph(c)), "")
+
+
 # ---------------------------------------------------------------- inline markup
 
 def parse_markup(s):
@@ -95,6 +100,14 @@ def quote_spans(plain, open_at_start):
     """»…» spans. Swedish quotes use » for both ends: an opening one is followed by a
     non-space and preceded by start/space/bracket. Returns spans and whether a quote is
     still open at the end (continues in the next paragraph)."""
+    if open_at_start:
+        # a quotation carried over from the previous paragraph ends there if this paragraph opens a new
+        # quotation in mid-text before closing anything (a paragraph that *starts* with » is the Swedish
+        # way of continuing a long quotation, so that one still continues)
+        first = re.search("[»«]", plain)
+        if first and first.start() > 0 and first.group(0) == "»" and plain[first.start() - 1] in " (\n[—–-/" \
+                and first.start() + 1 < len(plain) and not plain[first.start() + 1].isspace():
+            open_at_start = False
     spans, stack = [], [0] if open_at_start else []
     cont_start = bool(open_at_start)
     for m in re.finditer("[»«]", plain):
@@ -162,11 +175,14 @@ def ner_spans(plain):
     return [(a, b, t, attrs) for a, b, t, attrs, text in hits if plain[a:b] == text]
 
 
-def serialize(plain, spans, points, ph):
+def serialize(plain, spans, points, ph, repl=()):
     """Plain text + spans + zero-width points -> well-formed XML string. Spans that cross
-    are split (the inner one is closed and reopened)."""
+    are split (the inner one is closed and reopened). repl: [(start, end, xml)] replaces
+    plain[start:end] with xml (no other bound may fall strictly inside)."""
     spans = [s for s in spans if s[1] > s[0]]
-    bounds = sorted({0, len(plain)} | {s[0] for s in spans} | {s[1] for s in spans} | {p for p, _ in points})
+    reps = {a: (b, x) for a, b, x in repl}
+    bounds = sorted({0, len(plain)} | {s[0] for s in spans} | {s[1] for s in spans} | {p for p, _ in points}
+                    | {a for a, _, _ in repl} | {b for _, b, _ in repl})
     starts = {}
     for s in spans:
         starts.setdefault(s[0], []).append(s)
@@ -194,6 +210,9 @@ def serialize(plain, spans, points, ph):
             out.append(open_tag(s))
             stack.append(s)
         prev = pos
+        if pos in reps:
+            prev, x = reps[pos]
+            out.append(x)
     out.append(escape(plain[prev:]))
     while stack:
         out.append(CLOSE[stack.pop()[2]])
@@ -210,6 +229,75 @@ def open_tag(s, continued=False):
             attrs = {k: v for k, v in attrs.items() if k != "xml:id"}
         return "<quote" + "".join(f' {k}="{v}"' for k, v in attrs.items()) + ">"
     return OPEN[s[2]]
+
+
+# ---------------------------------------------------------------- historical-spelling rule
+# dots.mocr sometimes modernises the 17th c. spelling of quotations (vårt for wårt, Fiolmus for
+# Fjolmus, skrifter for skriffter). Where the PDF text layer has the same word differing only by
+# w/v, j/i or a doubled letter (same case, letters only), its reading is taken -- inside <quote>
+# only, decided in build().flush_para. The change is encoded as <app> keeping dots.mocr's reading.
+
+OLDMAP = str.maketrans("wWjJ", "vViI")
+
+
+def spell_key(tok):
+    """Alignment key: alphanumerics, lowercased, w=v, j=i, doubled letters collapsed."""
+    s = "".join(c for c in tok if c.isalnum()).lower().translate(OLDMAP)
+    return re.sub(r"(.)\1+", r"\1", s)
+
+
+def letter_core(tok):
+    """(start, end) of the run from the first to the last letter, if it is letters only."""
+    idx = [i for i, c in enumerate(tok) if c.isalpha()]
+    if not idx:
+        return None
+    a, b = idx[0], idx[-1] + 1
+    return (a, b) if tok[a:b].isalpha() else None
+
+
+def spelling_variant(d, t):
+    """True if two letter strings differ only by w/v, j/i or doubled letters (case kept)."""
+    if d == t:
+        return False
+    f = lambda s: re.sub(r"(.)\1+", r"\1", s.translate(OLDMAP))
+    return f(d) == f(t)
+
+
+SPELL_ENGINES = ("textlayer", "kraken-ft3")   # both must give the old form (kraken-ft3: Kraken round 3)
+
+
+def spelling_candidates(vol, idx, texts):
+    """texts: the page's body paragraph strings (dots.mocr, with markup and placeholders).
+    Aligns their words with the body tokens of the text layer and of Kraken r3 (both on the
+    text layer's lines) and returns, per text, [(offset, dots_word, old_word)] for words where
+    both engines read the same form and it differs from dots.mocr's only in old spelling.
+    Kraken guards against text-layer garbage: on some pages of vol. II the text layer doubles
+    letters at random (tilll, SSist, miin)."""
+    import difflib
+    from regions import textlayer_tokens
+    words = [(k, m.start(), m.group(0)) for k, s in enumerate(texts) for m in re.finditer(r"\S+", s)]
+    dk = [spell_key(w) for _, _, w in words]
+    found = []
+    for eng in SPELL_ENGINES:
+        try:
+            other = [t["t"] for t in textlayer_tokens(vol, idx, eng) if t["region"] == "body"]
+        except OSError:
+            return [[] for _ in texts]
+        hits = set()
+        sm = difflib.SequenceMatcher(None, dk, [spell_key(t) for t in other], autojunk=False)
+        for i, j, n in sm.get_matching_blocks():
+            for x in range(n):
+                w, t = words[i + x][2], other[j + x]
+                cw, ct = letter_core(w), letter_core(t)
+                if cw and ct and spelling_variant(w[cw[0]:cw[1]], t[ct[0]:ct[1]]):
+                    hits.add((i + x, t[ct[0]:ct[1]]))
+        found.append(hits)
+    out = [[] for _ in texts]
+    for i, ow in sorted(set.intersection(*found)):
+        k, off, w = words[i]
+        c0, c1 = letter_core(w)
+        out[k].append((off + c0, w[c0:c1], ow))
+    return out
 
 
 def inline(text, ph, extra_spans=()):
@@ -387,7 +475,10 @@ def build(vol):
     n_links = load_ner(vol)
     qn = [0]
     stats = {"pages": 0, "gt": 0, "dots": 0, "textlayer": 0, "foot": 0, "foot_unanchored": 0, "margin": 0,
-             "quotes": 0, "bibl": 0, "paragraphs": 0, "margin_rescued": 0, "errata": 0, "names": 0}
+             "quotes": 0, "bibl": 0, "paragraphs": 0, "margin_rescued": 0, "errata": 0, "names": 0,
+             "spelling": 0}
+    spell = {}              # placeholder -> (dots word, text-layer word, page): old-spelling candidates
+    spell_log = []          # applied changes, for report/spelling-<vol>.md
 
     front, body_divs, back_divs = [], [], {"contents": [], "colophon_errata": []}
     cur_div = None          # list of xml strings for the current chapter
@@ -426,7 +517,24 @@ def build(vol):
         stats["bibl"] += sum(1 for s in bs if s[2] == "bibl")
         names = ner_spans(plain)
         stats["names"] += len(names)
-        xml = serialize(plain, spans + qspans + bs + names, points, ph.xml)
+        # old-spelling markers: apply inside quotations only, where no other bound falls inside the word
+        marks = [(p, c) for p, c in points if c in spell]
+        points = [(p, c) for p, c in points if c not in spell]
+        inner = {s[0] for s in spans + qspans + bs + names} | {s[1] for s in spans + qspans + bs + names} \
+            | {p for p, _ in points}
+        repl = []
+        for p, c in marks:
+            dw, tw, page_n = spell.pop(c)
+            e = p + len(dw)
+            if plain[p:e] != dw or any(p < x < e for x in inner):
+                continue
+            if not any(a <= p and e <= b for a, b, *_ in qspans):
+                continue
+            repl.append((p, e, f'<app type="ocr"><lem wit="#textlayer" resp="#spelling">{escape(tw)}</lem>'
+                               f'<rdg wit="#dots">{escape(dw)}</rdg></app>'))
+            spell_log.append((page_n, dw, tw, plain[max(0, p - 50):p] + "[" + dw + "]" + plain[e:e + 50]))
+        stats["spelling"] += len(repl)
+        xml = serialize(plain, spans + qspans + bs + names, points, ph.xml, repl)
         cur_div.append(f"<p>{xml}</p>")
         stats["paragraphs"] += 1
 
@@ -563,20 +671,39 @@ def build(vol):
 
         body_blocks = [i for i, b in enumerate(blocks) if b["kind"] in ("body", "heading", "table", "figure")]
         used = set()
-        for k, bi in enumerate(body_blocks):
-            b = blocks[bi]
-            text = b["text"]
+
+        def anchor(m):
+            n = m.group(1)
+            if n in notes:
+                used.add(n)
+                return ph.add(f'<note place="foot" n="{n}">{inline(notes[n], ph.xml)}</note>')
+            return m.group(0)
+        prepared = {}       # block index -> text with sidenotes and footnotes placed; body: paragraph parts
+        for bi in body_blocks:
+            text = blocks[bi]["text"]
             for off, c in sorted(inserts.get(bi, []), reverse=True):
                 text = text[:off] + c + text[off:]
-
-            def anchor(m):
-                n = m.group(1)
-                if n in notes:
-                    used.add(n)
-                    stats_note = notes[n]
-                    return ph.add(f'<note place="foot" n="{n}">{inline(stats_note, ph.xml)}</note>')
-                return m.group(0)
             text = re.sub(r"\^(\d{1,2})", anchor, text)
+            if blocks[bi]["kind"] == "body":
+                # GT: one paragraph per line; OCR blocks: one paragraph, printed line breaks dehyphenated
+                parts = text.split("\n") if resp == "#gt" else [dehyphenate(text.split("\n"))]
+                prepared[bi] = [t for t in parts if t.strip()]
+            else:
+                prepared[bi] = text
+        if resp == "#dots":   # old-spelling candidates: zero-width markers before the word
+            keys = [(bi, j) for bi in body_blocks if blocks[bi]["kind"] == "body" for j in range(len(prepared[bi]))]
+            cands = spelling_candidates(vol, idx, [prepared[bi][j] for bi, j in keys])
+            for (bi, j), cs in zip(keys, cands):
+                s = prepared[bi][j]
+                for off, dw, tw in sorted(cs, reverse=True):
+                    c = ph.add("")
+                    spell[c] = (dw, tw, page)
+                    s = s[:off] + c + s[off:]
+                prepared[bi][j] = s
+
+        for k, bi in enumerate(body_blocks):
+            b = blocks[bi]
+            text = prepared[bi]
 
             if b["kind"] == "table":
                 flush_para()
@@ -603,20 +730,18 @@ def build(vol):
                 cur_div.append(f'<ab type="heading">{inline(text, ph.xml)}</ab>')
                 continue
             # body paragraph(s): a block may hold several paragraphs (GT / text layer lines)
-            # GT: one paragraph per line; OCR blocks: one paragraph, printed line breaks dehyphenated
-            parts = text.split("\n") if resp == "#gt" else [dehyphenate(text.split("\n"))]
-            for j, ptxt in enumerate(t for t in parts if t.strip()):
+            for j, ptxt in enumerate(text):
                 continues = (k == 0 and j == 0 and pb is not None and para is not None and not ch)
                 if continues:
                     ind = first_line_indented(vol, idx)
                     prev = "".join(para).rstrip()
                     if ind is None:
-                        ind = bool(re.search(r"[.!?»:]$", prev)) and ptxt[:1].isupper()
+                        ind = bool(re.search(r"[.!?»:]$", prev)) and first_char(ptxt).isupper()
                     continues = not ind
                 if continues:
                     prev = "".join(para).rstrip()
                     para = [prev]
-                    if prev.endswith("-") and ptxt[:1].islower():
+                    if prev.endswith("-") and first_char(ptxt).islower():
                         para[0] = prev[:-1]
                         para.append(ph.add(pb.replace("<pb ", '<pb break="no" ', 1)))
                     else:
@@ -678,13 +803,14 @@ def build(vol):
 <respStmt xml:id="dots"><resp>OCR, layout analysis</resp><name>dots.mocr (rednote-hilab), via vLLM</name></respStmt>
 <respStmt xml:id="errata"><resp>Correction from the printed errata list (Rättelser)</resp><name>Henrik Schück</name></respStmt>
 <respStmt xml:id="textlayer"><resp>OCR</resp><name>Text layer of the source PDF</name></respStmt>
+<respStmt xml:id="spelling"><resp>Old-spelling rule: inside quotations, the text layer's reading where dots.mocr differs from it only by w/v, j/i or a doubled letter (dots.mocr's reading kept as rdg)</resp><name>scripts/to_tei.py</name></respStmt>
 </titleStmt>
 <publicationStmt><authority>Schück digital (working draft generated by scripts/to_tei.py; not for citation)</authority>
 <availability status="free"><p>The text is in the public domain (Henrik Schück died 1947).</p></availability></publicationStmt>
 <sourceDesc><bibl><author>Henrik Schück</author>, <title>{escape(struct["title"])}</title> <biblScope unit="volume">{meta["part"]}</biblScope>. <pubPlace>Stockholm</pubPlace> <date when="{meta["year"]}">{meta["year"]}</date>. <ref target="{LIBRIS}">Libris</ref></bibl></sourceDesc>
 </fileDesc>
 <encodingDesc>
-<editorialDecl><p>Text from verified ground truth where available (pb/@resp="#gt"), otherwise from dots.mocr OCR (#dots) or the PDF text layer (#textlayer). Uncorrected OCR. Spelling, including that of quoted sources, is kept as printed. End-of-line hyphenation is removed; words broken across pages carry pb/@break="no". Footnotes and marginal summaries are placed at their anchors; placements marked cert="low" are guesses. Person and place names (persName, placeName) come from named-entity recognition (KB-BERT); @ref points to tei/register.xml, and @cert gives the certainty of the identification (low = an unreviewed guess).</p></editorialDecl>
+<editorialDecl><p>Text from verified ground truth where available (pb/@resp="#gt"), otherwise from dots.mocr OCR (#dots) or the PDF text layer (#textlayer). Uncorrected OCR. Spelling, including that of quoted sources, is kept as printed. Where dots.mocr modernised the spelling of a quotation (w/v, j/i, doubled letters) and the text layer has the old form, the old form is given in app/lem (resp="#spelling") with dots.mocr's reading in rdg. End-of-line hyphenation is removed; words broken across pages carry pb/@break="no". Footnotes and marginal summaries are placed at their anchors; placements marked cert="low" are guesses. Person and place names (persName, placeName) come from named-entity recognition (KB-BERT); @ref points to tei/register.xml, and @cert gives the certainty of the identification (low = an unreviewed guess).</p></editorialDecl>
 </encodingDesc>
 </teiHeader>
 <facsimile>
@@ -704,7 +830,7 @@ def build(vol):
         if not re.search(r"[\U00100000-\U0010FFFD]", xml):
             break
         xml = re.sub(r"[\U00100000-\U0010FFFD]", lambda m: ph.xml.get(m.group(0), ""), xml)
-    return xml, stats
+    return xml, stats, spell_log
 
 
 def main():
@@ -712,7 +838,7 @@ def main():
     ap.add_argument("--vol", required=True)
     ap.add_argument("--validate", action="store_true")
     a = ap.parse_args()
-    xml, stats = build(a.vol)
+    xml, stats, spell_log = build(a.vol)
     out = ROOT / "tei" / f"schuck-{a.vol}.xml"
     out.parent.mkdir(exist_ok=True)
     try:
@@ -723,6 +849,13 @@ def main():
         raise SystemExit(f"not well-formed: {e}; written to {bad}")
     out.write_text(xml, encoding="utf-8")
     print(f"-> {out}  {stats}")
+    rep = ROOT / "report" / f"spelling-{a.vol}.md"
+    rows = [f"| {p or ''} | {escape(d)} | {escape(t)} | {c.replace('|', '/')} |" for p, d, t, c in spell_log]
+    rep.write_text(f"# Old-spelling rule, vol. {a.vol}\n\nInside quotations, dots.mocr's word was replaced by the text "
+                   f"layer's where they differ only by w/v, j/i or doubled letters: {len(rows)} changes. "
+                   "Spot-check against the scan.\n\n| page | dots.mocr | text layer | context |\n|---|---|---|---|\n"
+                   + "\n".join(rows) + "\n", encoding="utf-8")
+    print(f"-> {rep}")
     if a.validate:
         r = subprocess.run(["java", "-jar", str(JING), str(SCHEMA), str(out)], capture_output=True, text=True)
         errs = r.stdout.strip().splitlines()
