@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 107,
+ "seconds": 26.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [766, 228, 1129, 271], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [285, 309, 418, 373], \"category\": \"Text\", \"text\": \"Jonas Wer-ving\"}, {\"bbox\": [423, 298, 1476, 965], \"category\": \"Text\", \"text\": \"Fullmakten för denne lyder (Registraturet): »Wår ynnest etc. Efter-som et Assessorsställe wid Wårt Collegio antiquitatis är ledigt och Oss nogsampt kunnigt är, med hwad flijt, Jfwer och troheet I haf-wen sökt både genom studier och resor i fremmande Land sampt långlig vpwachtning uthi Wår tienst wid åtskillige bestellningar at giöra Eder mehr och mehr skickelig och af wår nåd och befordring wähl förtienter, dy hafwom Wij låtit oss i nåder wähl behaga samma ledige Assessoris Embete Eder härigenom at updraga, till dess nå-got annat bättre accomodement sig yppandes warder, med nådig willia och befallning, at I Eder därsammastädes inställen och dhetta Embetet med dhen flijt och redeligheet förrätten, som wår tienst och Ehr plicht fordrar, hafwandes I at åtniuta Löhn af dhe till an-tiquitetscollegium anslagne medell som en annan assessor och i dhet öfrige om wår Kongl. nåd och wälwillia altijd giöra Eder underdå-nigst försäkrat, som Wij och Eder härmed Gud alzmächtig befal-landes» etc.\"}, {\"bbox\": [303, 979, 421, 1043], \"category\": \"Text\", \"text\": \"Johan Pe-ringer\"}, {\"bbox\": [427, 967, 1481, 1767], \"category\": \"Text\", \"text\": \"En ny ledighet yppades, då Örnhielm den 23 februari 1689 ut-sågs till censor librorum, ty samma dag erhöll han en efterträdare såsom assessor, nämligen Johan Peringer, vilken länge gjort tjänst i kollegiet, var en verklig antikvarie och sedermera också blev Ha-dorphs efterträdare. Hans fullmakt lyder: »Wår ynnest etc. Såssom ett Assessorsställe wid wårt Antiquitets Collegium är förmedelst Secreterarens Claudii Örnhielms befordran ledigt wordet och wij wid detta tillfället låte hoos Oss Eder persohn uti ett nådigt anseende komma, hälst emedan I igenom Studier sambt nu uti 8 åhrs tijd wid bemälte Collegium anwänd möda, arbete och flijt förwärfwat Eder en mycket god kundskap och förfarenheet och däraf förmedelst åtskillige wärck, som I deels förfärdigat, deels under händer hafwen att förfärdiga til de Swänske Antiquiteternes och Historiernes bättre vplysning och underrättelse Eder förtjänte och wärdige giordt haf-wen til en nådig ihugkommelse ock befordring. Altså hafwe wij ock uti anledning däraf welat kalla ock förordna, som wij jämbwäl härmed ock i krafft af detta wårt öpne bref kalla ock förordne, Eder anwenda till kyrkioordingenz och en Catechismi tryckiande. Wore fördensskull wäl, om förslagh på medlen först giordes, innan flere finge sig dher in på trängia».\"}, {\"bbox\": [435, 1793, 483, 1831], \"category\": \"Page-footer\", \"text\": \"88\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    766,
+    228,
+    1129,
+    271
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    285,
+    309,
+    418,
+    373
+   ],
+   "category": "Text",
+   "text": "Jonas Wer-ving"
+  },
+  {
+   "bbox": [
+    423,
+    298,
+    1476,
+    965
+   ],
+   "category": "Text",
+   "text": "Fullmakten för denne lyder (Registraturet): »Wår ynnest etc. Efter-som et Assessorsställe wid Wårt Collegio antiquitatis är ledigt och Oss nogsampt kunnigt är, med hwad flijt, Jfwer och troheet I haf-wen sökt både genom studier och resor i fremmande Land sampt långlig vpwachtning uthi Wår tienst wid åtskillige bestellningar at giöra Eder mehr och mehr skickelig och af wår nåd och befordring wähl förtienter, dy hafwom Wij låtit oss i nåder wähl behaga samma ledige Assessoris Embete Eder härigenom at updraga, till dess nå-got annat bättre accomodement sig yppandes warder, med nådig willia och befallning, at I Eder därsammastädes inställen och dhetta Embetet med dhen flijt och redeligheet förrätten, som wår tienst och Ehr plicht fordrar, hafwandes I at åtniuta Löhn af dhe till an-tiquitetscollegium anslagne medell som en annan assessor och i dhet öfrige om wår Kongl. nåd och wälwillia altijd giöra Eder underdå-nigst försäkrat, som Wij och Eder härmed Gud alzmächtig befal-landes» etc."
+  },
+  {
+   "bbox": [
+    303,
+    979,
+    421,
+    1043
+   ],
+   "category": "Text",
+   "text": "Johan Pe-ringer"
+  },
+  {
+   "bbox": [
+    427,
+    967,
+    1481,
+    1767
+   ],
+   "category": "Text",
+   "text": "En ny ledighet yppades, då Örnhielm den 23 februari 1689 ut-sågs till censor librorum, ty samma dag erhöll han en efterträdare såsom assessor, nämligen Johan Peringer, vilken länge gjort tjänst i kollegiet, var en verklig antikvarie och sedermera också blev Ha-dorphs efterträdare. Hans fullmakt lyder: »Wår ynnest etc. Såssom ett Assessorsställe wid wårt Antiquitets Collegium är förmedelst Secreterarens Claudii Örnhielms befordran ledigt wordet och wij wid detta tillfället låte hoos Oss Eder persohn uti ett nådigt anseende komma, hälst emedan I igenom Studier sambt nu uti 8 åhrs tijd wid bemälte Collegium anwänd möda, arbete och flijt förwärfwat Eder en mycket god kundskap och förfarenheet och däraf förmedelst åtskillige wärck, som I deels förfärdigat, deels under händer hafwen att förfärdiga til de Swänske Antiquiteternes och Historiernes bättre vplysning och underrättelse Eder förtjänte och wärdige giordt haf-wen til en nådig ihugkommelse ock befordring. Altså hafwe wij ock uti anledning däraf welat kalla ock förordna, som wij jämbwäl härmed ock i krafft af detta wårt öpne bref kalla ock förordne, Eder anwenda till kyrkioordingenz och en Catechismi tryckiande. Wore fördensskull wäl, om förslagh på medlen först giordes, innan flere finge sig dher in på trängia»."
+  },
+  {
+   "bbox": [
+    435,
+    1793,
+    483,
+    1831
+   ],
+   "category": "Page-footer",
+   "text": "88"
+  }
+ ]
+}

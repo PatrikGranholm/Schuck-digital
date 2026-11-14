@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 171,
+ "seconds": 28.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [774, 237, 1135, 280], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [433, 307, 1479, 559], \"category\": \"Text\", \"text\": \"lägit wara till att sökia befordra Antiquitets arbetet och handhafwa Secret:n så wäl som dhe andre betienterne vnder honom widh dhe medel, som dem och eliest till Antiquitets arbetetz fortsättiande förmedelst ofwanbe:te Kongl. May:sts bref äre anordnade, så att dhe dem in natura måge kunna åtniuta af mynte Commissarien, utan att dhe gå igenom fleres händer» (R. A. Handl. rör. Antikvitetskollegiet I.).\"}, {\"bbox\": [433, 559, 1477, 643], \"category\": \"Text\", \"text\": \"Med anledning härav utfärdade Bielke den 27 maj 1680 följande förordning om myntremediet (U. B. Gahm sign. U 112 ur Böckmans samling):\"}, {\"bbox\": [430, 658, 1477, 1219], \"category\": \"Table\", \"text\": \"<table><thead><tr><th></th><th>Smt. dal.</th></tr></thead><tbody><tr><td>»1) Johan Hadorphius efter Kongl. M:tt bref dat. Stockholm den 19 Aprilis 1678 uthi löhn och underhåld</td><td>1000</td></tr><tr><td>2) Ericus Wennæsius efter Kongl. M:tz Resolution dat. Kongzöhr 12 Febr. 1680.</td><td>300</td></tr><tr><td>3) Skrifwaren Lars Persson, som förr hade löhn af Post Cassan, men efter Kongl. May:tz bref dat. Halmstad 19 Febr. 1678 bör in på Remedium och besparingen transporteras</td><td>200</td></tr><tr><td>4) En Rijtares Löhn efter förbe:te Kongl. bref och 1674 åhrs aflöningz stat</td><td>200</td></tr><tr><td>5) En formsnidare efter 1674 åhrs Stat</td><td>300</td></tr><tr><td>6) Till kopparstickande</td><td>200</td></tr><tr><td>7) Expensepenningar, som altijd hafwa beståttz på Collegii antiquitatum stat till resor, en Resekarl, färgor, Päntzlar, Papper och annat, som kan betarfwas</td><td>200</td></tr></tbody><tfoot><tr><td></td><td>2.400</td></tr></tfoot></table>\"}, {\"bbox\": [433, 1239, 1475, 1407], \"category\": \"Text\", \"text\": \"Såsom nu mynte Remedium och Besparingen förmodas högre bestiga här effter i fredlige tijder, än denne Summa belöper, så skall alt öfrigit komma till böckers publicerande och der före åhrlig Räkenskap göras. Actum Stockholm d. 27 Maij 1680.\"}, {\"bbox\": [1230, 1408, 1435, 1443], \"category\": \"Text\", \"text\": \"Sten Bielke».\"}, {\"bbox\": [430, 1470, 1475, 1768], \"category\": \"Text\", \"text\": \"Några dagar senare, den 7 juni, fick kommissarien Gripenmark från Bielke och Gyllenstierna mottaga följande skrivelse (R. A. Handl. rör. Antikvitetskollegiet I): »Emedan Kongl. M:t förmedelst dess allernådigste Resolution af den sidst förwekne 12 Februarij har i nåder förordnat, att alle af mynteremedio och besparingen fallande medel skole till Secret:ns Hadorphij och dess underhafwande Rijtares och betientes [löner] sampt hwad som öfwerskiuter till Antiquiteters pu-\"}, {\"bbox\": [435, 1800, 506, 1839], \"category\": \"Page-footer\", \"text\": \"152\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    774,
+    237,
+    1135,
+    280
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    433,
+    307,
+    1479,
+    559
+   ],
+   "category": "Text",
+   "text": "lägit wara till att sökia befordra Antiquitets arbetet och handhafwa Secret:n så wäl som dhe andre betienterne vnder honom widh dhe medel, som dem och eliest till Antiquitets arbetetz fortsättiande förmedelst ofwanbe:te Kongl. May:sts bref äre anordnade, så att dhe dem in natura måge kunna åtniuta af mynte Commissarien, utan att dhe gå igenom fleres händer» (R. A. Handl. rör. Antikvitetskollegiet I.)."
+  },
+  {
+   "bbox": [
+    433,
+    559,
+    1477,
+    643
+   ],
+   "category": "Text",
+   "text": "Med anledning härav utfärdade Bielke den 27 maj 1680 följande förordning om myntremediet (U. B. Gahm sign. U 112 ur Böckmans samling):"
+  },
+  {
+   "bbox": [
+    430,
+    658,
+    1477,
+    1219
+   ],
+   "category": "Table",
+   "text": "<table><thead><tr><th></th><th>Smt. dal.</th></tr></thead><tbody><tr><td>»1) Johan Hadorphius efter Kongl. M:tt bref dat. Stockholm den 19 Aprilis 1678 uthi löhn och underhåld</td><td>1000</td></tr><tr><td>2) Ericus Wennæsius efter Kongl. M:tz Resolution dat. Kongzöhr 12 Febr. 1680.</td><td>300</td></tr><tr><td>3) Skrifwaren Lars Persson, som förr hade löhn af Post Cassan, men efter Kongl. May:tz bref dat. Halmstad 19 Febr. 1678 bör in på Remedium och besparingen transporteras</td><td>200</td></tr><tr><td>4) En Rijtares Löhn efter förbe:te Kongl. bref och 1674 åhrs aflöningz stat</td><td>200</td></tr><tr><td>5) En formsnidare efter 1674 åhrs Stat</td><td>300</td></tr><tr><td>6) Till kopparstickande</td><td>200</td></tr><tr><td>7) Expensepenningar, som altijd hafwa beståttz på Collegii antiquitatum stat till resor, en Resekarl, färgor, Päntzlar, Papper och annat, som kan betarfwas</td><td>200</td></tr></tbody><tfoot><tr><td></td><td>2.400</td></tr></tfoot></table>"
+  },
+  {
+   "bbox": [
+    433,
+    1239,
+    1475,
+    1407
+   ],
+   "category": "Text",
+   "text": "Såsom nu mynte Remedium och Besparingen förmodas högre bestiga här effter i fredlige tijder, än denne Summa belöper, så skall alt öfrigit komma till böckers publicerande och der före åhrlig Räkenskap göras. Actum Stockholm d. 27 Maij 1680."
+  },
+  {
+   "bbox": [
+    1230,
+    1408,
+    1435,
+    1443
+   ],
+   "category": "Text",
+   "text": "Sten Bielke»."
+  },
+  {
+   "bbox": [
+    430,
+    1470,
+    1475,
+    1768
+   ],
+   "category": "Text",
+   "text": "Några dagar senare, den 7 juni, fick kommissarien Gripenmark från Bielke och Gyllenstierna mottaga följande skrivelse (R. A. Handl. rör. Antikvitetskollegiet I): »Emedan Kongl. M:t förmedelst dess allernådigste Resolution af den sidst förwekne 12 Februarij har i nåder förordnat, att alle af mynteremedio och besparingen fallande medel skole till Secret:ns Hadorphij och dess underhafwande Rijtares och betientes [löner] sampt hwad som öfwerskiuter till Antiquiteters pu-"
+  },
+  {
+   "bbox": [
+    435,
+    1800,
+    506,
+    1839
+   ],
+   "category": "Page-footer",
+   "text": "152"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 133,
+ "seconds": 28.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [796, 227, 1154, 269], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [929, 298, 1021, 329], \"category\": \"Section-header\", \"text\": \"Credit.\"}, {\"bbox\": [457, 337, 1500, 615], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>Här uthaf subtraheras Antiquariatus Regni, som på Cantzlie Staten tillförenne är upfördh och dher af betalas</td><td>900</td></tr><tr><td>Dito dhe 300 dr. sölfm:tt, som på Bibliotecharium upföres efter han och niuter sina 300 dr. sölfm:tt åhrlig af Academien</td><td>300</td></tr><tr><td>Dito professoris Antiquitatum augment</td><td>300</td></tr><tr><td>4 Studiosorum duplicia stipendia</td><td>240</td></tr><tr><td>facit 1700 (!) dr. sölfm:tt</td><td></td></tr></tbody></table>\"}, {\"bbox\": [459, 624, 1466, 779], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>Pro resto till prof. Historiarum augment, dito 2:ne Extraordinariorum såsom och Rijtarens, Koppar- och formsnidarens, Amanuensis, famuli och expensepgr., som af Kungl. M:tt uthfinnandes dependera måste</td><td>2750</td></tr></tbody></table>\"}, {\"bbox\": [462, 792, 1503, 1002], \"category\": \"Text\", \"text\": \"Om nu Kongl. M:tt wille allranådigast dhessa medel 2700 (!) dr. sölfwerm:tt af wissa inkompster till Collegium deputera, då kunde be:te medel således Provisionaliter emillan närwarande Assessores uthi Collegio Antiquitatum delas, till dess dhe efter ofwanskrefne staat instellas kunna.\"}, {\"bbox\": [466, 1012, 1508, 1756], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>1) Bibliotecharius Doctor Loccenius niuter af Chronan för Antiquitates och Historiographi Officio dhet, som är bestådt af Cantzlie Staten</td><td>300</td></tr><tr><td>2) hr. Johan Axehielm niuter en extraordinarij löön</td><td>400</td></tr><tr><td>3) Dn. Schefferus niuta (!) dhet andra extraordinarie rummet</td><td>400</td></tr><tr><td>4) hr. Olaus Verelius hafwer af Antiquarielönen i Cantzliet</td><td>600</td></tr><tr><td>dito af Academien 300 dr. sölfm:tt</td><td>300</td></tr><tr><td>M. Magnus Celsius niuta (!) dhe 300 dr. sölfwerm:tt, som Historiarum professor framdeles pro antiquitatibus tillslås kunde</td><td>300</td></tr><tr><td>Johan Hadorphius kunde försees medh profess. Antiquit. patriæ af den inslagne matheseos professoris lönen wid Academien; tillförenne niuter han af Antiquariatu</td><td>300</td></tr><tr><td>4 Studiosi niuta allaredo sina stipendia wid Academien</td><td>240</td></tr><tr><td>Rijtaren bestås föruthan duplex stipendium wid Academien af den nya Kongl. M:tts staat</td><td>150</td></tr><tr><td>formsnidaren och kopparstickaren hwar sina 350 dr. sölfm:tt</td><td>700</td></tr><tr><td>Amanuensis till löön</td><td>133 1/3</td></tr><tr><td>Famulus</td><td>66 2/3</td></tr><tr><td>till Expense och resepgr.</td><td>600</td></tr><tr><td></td><td>4490</td></tr></tbody></table>\"}, {\"bbox\": [478, 1799, 551, 1836], \"category\": \"Page-footer\", \"text\": \"114\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    796,
+    227,
+    1154,
+    269
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    929,
+    298,
+    1021,
+    329
+   ],
+   "category": "Section-header",
+   "text": "Credit."
+  },
+  {
+   "bbox": [
+    457,
+    337,
+    1500,
+    615
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>Här uthaf subtraheras Antiquariatus Regni, som på Cantzlie Staten tillförenne är upfördh och dher af betalas</td><td>900</td></tr><tr><td>Dito dhe 300 dr. sölfm:tt, som på Bibliotecharium upföres efter han och niuter sina 300 dr. sölfm:tt åhrlig af Academien</td><td>300</td></tr><tr><td>Dito professoris Antiquitatum augment</td><td>300</td></tr><tr><td>4 Studiosorum duplicia stipendia</td><td>240</td></tr><tr><td>facit 1700 (!) dr. sölfm:tt</td><td></td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    459,
+    624,
+    1466,
+    779
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>Pro resto till prof. Historiarum augment, dito 2:ne Extraordinariorum såsom och Rijtarens, Koppar- och formsnidarens, Amanuensis, famuli och expensepgr., som af Kungl. M:tt uthfinnandes dependera måste</td><td>2750</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    462,
+    792,
+    1503,
+    1002
+   ],
+   "category": "Text",
+   "text": "Om nu Kongl. M:tt wille allranådigast dhessa medel 2700 (!) dr. sölfwerm:tt af wissa inkompster till Collegium deputera, då kunde be:te medel således Provisionaliter emillan närwarande Assessores uthi Collegio Antiquitatum delas, till dess dhe efter ofwanskrefne staat instellas kunna."
+  },
+  {
+   "bbox": [
+    466,
+    1012,
+    1508,
+    1756
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>1) Bibliotecharius Doctor Loccenius niuter af Chronan för Antiquitates och Historiographi Officio dhet, som är bestådt af Cantzlie Staten</td><td>300</td></tr><tr><td>2) hr. Johan Axehielm niuter en extraordinarij löön</td><td>400</td></tr><tr><td>3) Dn. Schefferus niuta (!) dhet andra extraordinarie rummet</td><td>400</td></tr><tr><td>4) hr. Olaus Verelius hafwer af Antiquarielönen i Cantzliet</td><td>600</td></tr><tr><td>dito af Academien 300 dr. sölfm:tt</td><td>300</td></tr><tr><td>M. Magnus Celsius niuta (!) dhe 300 dr. sölfwerm:tt, som Historiarum professor framdeles pro antiquitatibus tillslås kunde</td><td>300</td></tr><tr><td>Johan Hadorphius kunde försees medh profess. Antiquit. patriæ af den inslagne matheseos professoris lönen wid Academien; tillförenne niuter han af Antiquariatu</td><td>300</td></tr><tr><td>4 Studiosi niuta allaredo sina stipendia wid Academien</td><td>240</td></tr><tr><td>Rijtaren bestås föruthan duplex stipendium wid Academien af den nya Kongl. M:tts staat</td><td>150</td></tr><tr><td>formsnidaren och kopparstickaren hwar sina 350 dr. sölfm:tt</td><td>700</td></tr><tr><td>Amanuensis till löön</td><td>133 1/3</td></tr><tr><td>Famulus</td><td>66 2/3</td></tr><tr><td>till Expense och resepgr.</td><td>600</td></tr><tr><td></td><td>4490</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    478,
+    1799,
+    551,
+    1836
+   ],
+   "category": "Page-footer",
+   "text": "114"
+  }
+ ]
+}

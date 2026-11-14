@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 310,
+ "seconds": 28.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [460, 243, 836, 284], \"category\": \"Section-header\", \"text\": \"Antikvitetssamlingen\"}, {\"bbox\": [190, 311, 943, 384], \"category\": \"List-item\", \"text\": \"1612. den mindra ELFSBURGUM OBSESSUM. detta minsta GOLTBURGUM.\"}, {\"bbox\": [190, 386, 747, 425], \"category\": \"List-item\", \"text\": \"1624. medh Landzwapnerne i Danm.\"}, {\"bbox\": [133, 423, 832, 534], \"category\": \"List-item\", \"text\": \"I) Kopparmynt små klijppingar 5 st. 4 st. Konung Christians 6 st. g. k. Hanses. en okunigh alle medh kors öf. skiölden.\"}, {\"bbox\": [133, 525, 1167, 601], \"category\": \"List-item\", \"text\": \"K) Norskt kopparmynt medh en yxa. MONETA NORWEG. ett krönt O och Sanctus Olavs».\"}, {\"bbox\": [133, 616, 1169, 791], \"category\": \"Text\", \"text\": \"Dessa mynt förvarades icke, såsom de förra, i en ask utan i en påse, vilket framgår av en tredje förteckning över samma mynt: »I denna Possen är gammalt mynt, som Joh. Bure lefwerade hijt in i Cantzelijet utur K. M:ttz Kammar. den 26 Maj 1630\"}, {\"bbox\": [133, 797, 1171, 1163], \"category\": \"Table\", \"text\": \"<table><tr><td>A. Äldsta myntet</td><td>10 st.</td></tr><tr><td>B. K. Johan den 1</td><td>2 st.</td></tr><tr><td>C. K. Karl Knutzsons</td><td>2 st.</td></tr><tr><td>D. K. Göstafs den 1</td><td>15 st.</td></tr><tr><td>E. K. Eriks den 14</td><td>3 st.</td></tr><tr><td>F. K. Johan den 3</td><td>3 st.</td></tr><tr><td>G. Göteborgz första mynt</td><td>1 st.</td></tr><tr><td>H. Danskt mynt</td><td>4 st.</td></tr><tr><td>I. Danskt koppar mynt</td><td>16 st.</td></tr><tr><td>K. Norskt mynt</td><td>1 st.</td></tr></table>\"}, {\"bbox\": [133, 1190, 1176, 1782], \"category\": \"Text\", \"text\": \"Det var denna samling av fornsvenska och fornnorska handskrifter —jämte De la Gardies nyförvärvade isländska—, medeltidsurkunder, lagar, krönikor, runinskrifter, mynt o. d., som nu skulle vetenskapligt bearbetas av det 1666 inrättade antikvitetskollegiet. Men detta var förlagt till Uppsala, under det att samlingarna, även De la Gardies, befunno sig i Stockholm. Egendomligt nog beröres icke denna motsägelse, varken i instiftelsebrevet 1666 eller i instruktionen 1667, och förmodligen var det en tyst förutsättning, att kollegiet utan svårighet kunde från riksarkivet låna det behövliga materialet till Uppsala; dit skänkte ju De la Gardie 1669 sin egen samling. Riksarkivet var visserligen ej tillgängligt för allmänheten, men rikskansleren såsom dess högste chef kunde bevilja utomstående tillträde, och såsom vi sett hade åtskilliga antikvariskt intresserade höga herrar som Bielke och Gyllenstierna fått lån från ar-\"}, {\"bbox\": [1185, 1193, 1291, 1254], \"category\": \"Text\", \"text\": \"Kollegiets samling\"}, {\"bbox\": [1100, 1811, 1171, 1850], \"category\": \"Page-footer\", \"text\": \"279\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    460,
+    243,
+    836,
+    284
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetssamlingen"
+  },
+  {
+   "bbox": [
+    190,
+    311,
+    943,
+    384
+   ],
+   "category": "List-item",
+   "text": "1612. den mindra ELFSBURGUM OBSESSUM. detta minsta GOLTBURGUM."
+  },
+  {
+   "bbox": [
+    190,
+    386,
+    747,
+    425
+   ],
+   "category": "List-item",
+   "text": "1624. medh Landzwapnerne i Danm."
+  },
+  {
+   "bbox": [
+    133,
+    423,
+    832,
+    534
+   ],
+   "category": "List-item",
+   "text": "I) Kopparmynt små klijppingar 5 st. 4 st. Konung Christians 6 st. g. k. Hanses. en okunigh alle medh kors öf. skiölden."
+  },
+  {
+   "bbox": [
+    133,
+    525,
+    1167,
+    601
+   ],
+   "category": "List-item",
+   "text": "K) Norskt kopparmynt medh en yxa. MONETA NORWEG. ett krönt O och Sanctus Olavs»."
+  },
+  {
+   "bbox": [
+    133,
+    616,
+    1169,
+    791
+   ],
+   "category": "Text",
+   "text": "Dessa mynt förvarades icke, såsom de förra, i en ask utan i en påse, vilket framgår av en tredje förteckning över samma mynt: »I denna Possen är gammalt mynt, som Joh. Bure lefwerade hijt in i Cantzelijet utur K. M:ttz Kammar. den 26 Maj 1630"
+  },
+  {
+   "bbox": [
+    133,
+    797,
+    1171,
+    1163
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>A. Äldsta myntet</td><td>10 st.</td></tr><tr><td>B. K. Johan den 1</td><td>2 st.</td></tr><tr><td>C. K. Karl Knutzsons</td><td>2 st.</td></tr><tr><td>D. K. Göstafs den 1</td><td>15 st.</td></tr><tr><td>E. K. Eriks den 14</td><td>3 st.</td></tr><tr><td>F. K. Johan den 3</td><td>3 st.</td></tr><tr><td>G. Göteborgz första mynt</td><td>1 st.</td></tr><tr><td>H. Danskt mynt</td><td>4 st.</td></tr><tr><td>I. Danskt koppar mynt</td><td>16 st.</td></tr><tr><td>K. Norskt mynt</td><td>1 st.</td></tr></table>"
+  },
+  {
+   "bbox": [
+    133,
+    1190,
+    1176,
+    1782
+   ],
+   "category": "Text",
+   "text": "Det var denna samling av fornsvenska och fornnorska handskrifter —jämte De la Gardies nyförvärvade isländska—, medeltidsurkunder, lagar, krönikor, runinskrifter, mynt o. d., som nu skulle vetenskapligt bearbetas av det 1666 inrättade antikvitetskollegiet. Men detta var förlagt till Uppsala, under det att samlingarna, även De la Gardies, befunno sig i Stockholm. Egendomligt nog beröres icke denna motsägelse, varken i instiftelsebrevet 1666 eller i instruktionen 1667, och förmodligen var det en tyst förutsättning, att kollegiet utan svårighet kunde från riksarkivet låna det behövliga materialet till Uppsala; dit skänkte ju De la Gardie 1669 sin egen samling. Riksarkivet var visserligen ej tillgängligt för allmänheten, men rikskansleren såsom dess högste chef kunde bevilja utomstående tillträde, och såsom vi sett hade åtskilliga antikvariskt intresserade höga herrar som Bielke och Gyllenstierna fått lån från ar-"
+  },
+  {
+   "bbox": [
+    1185,
+    1193,
+    1291,
+    1254
+   ],
+   "category": "Text",
+   "text": "Kollegiets samling"
+  },
+  {
+   "bbox": [
+    1100,
+    1811,
+    1171,
+    1850
+   ],
+   "category": "Page-footer",
+   "text": "279"
+  }
+ ]
+}

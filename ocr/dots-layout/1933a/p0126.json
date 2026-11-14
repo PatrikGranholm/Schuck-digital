@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 126,
+ "seconds": 28.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [389, 229, 925, 273], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiets ekonomi\"}, {\"bbox\": [132, 299, 1181, 762], \"category\": \"Text\", \"text\": \"Kongl. May:ts Bref medh, som widh handen gaf, att detta Collegium skulle stå under Cantzliet och Sahl. Kongl. Cantzlerens direction, hwilken och medh ett Bref honorerade och tillsade på Kongl. May:ts wägnar en wiss aflönings Stat och Summa på 6000 dal. smt. af sådane medel, som Kongl. May:ts Stat intet skulle gravera, hwilken Stat sedan ankom åhret efter, 1667, men ingen Löhn finge wij på första 3 åhren, ehuruwäl Mynte Remedium och Besparingen blef oss der till anslagne, uthan Sal. Cantzlern inkiöpte ett stort partie Papper, som anwändes till Ulphilæ och flere Böckers tryckiande». Denna stat finnes verkligen kvar i en vidimerad avskrift (Kammararkivet, Likvidationer, Arkiv och Antikvitetskollegium s. 128):\"}, {\"bbox\": [226, 772, 1076, 818], \"category\": \"Section-header\", \"text\": \"»Provisional Stat för Collegio Antiquitatum åhr 1667.\"}, {\"bbox\": [131, 819, 1172, 1767], \"category\": \"Table\", \"text\": \"<table><thead><tr><th>Medel här till</th><th></th><th>Der uthaf blifwer anordnat</th><th></th></tr></thead><tbody><tr><td>Historiographi Lönen</td><td>600</td><td>Hr Georg Stiernhielm för</td><td></td></tr><tr><td>af Myntet</td><td>4000</td><td>uthan Krigs Råds Lönen</td><td>600</td></tr><tr><td>af Correspondens Medlen</td><td>400</td><td>Hr. Loccenius föruthan andra<br>Lönen</td><td>300</td></tr><tr><td></td><td></td><td>Hr. Johan Axehielm ett gratiale</td><td>300</td></tr><tr><td></td><td></td><td>Hr. Professor Joan Scheffer<br>föruthan Profess. Lönen</td><td>300</td></tr><tr><td></td><td></td><td>Hr. Olaus Verelius desslijkest</td><td>300</td></tr><tr><td></td><td></td><td>Prof. Magnus Celsius samma-<br>ledes</td><td>300</td></tr><tr><td></td><td></td><td>Secret:n Hadorphius föruthan<br>Cantzlielönen</td><td>600</td></tr><tr><td></td><td></td><td>Actuarius och Protonotarius</td><td>200</td></tr><tr><td></td><td></td><td>En Jslänsk Amanuensis</td><td>200</td></tr><tr><td></td><td></td><td>Twenne Rijtare 200 hwardera</td><td>400</td></tr><tr><td></td><td></td><td>till kopparstickare och form-<br>snidare</td><td>300</td></tr><tr><td></td><td></td><td>En Famulus</td><td>100</td></tr><tr><td></td><td></td><td>Till Resor att upsökia och af-<br>copiera Antiquiteter</td><td>300</td></tr><tr><td></td><td></td><td>Böckers upläggiande åhrlig</td><td>400</td></tr><tr><td></td><td></td><td>Pappers inkiöp till tryckerijt,<br>så Assessorum behof, så och<br>Bläck medh Lius</td><td>400</td></tr></tbody><tfoot><tr><td colspan=\\\"2\\\">Smt. 5000</td><td colspan=\\\"2\\\">Smt. 5000</td></tr></tfoot></table>\"}, {\"bbox\": [1096, 1802, 1163, 1841], \"category\": \"Page-footer\", \"text\": \"107\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    389,
+    229,
+    925,
+    273
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiets ekonomi"
+  },
+  {
+   "bbox": [
+    132,
+    299,
+    1181,
+    762
+   ],
+   "category": "Text",
+   "text": "Kongl. May:ts Bref medh, som widh handen gaf, att detta Collegium skulle stå under Cantzliet och Sahl. Kongl. Cantzlerens direction, hwilken och medh ett Bref honorerade och tillsade på Kongl. May:ts wägnar en wiss aflönings Stat och Summa på 6000 dal. smt. af sådane medel, som Kongl. May:ts Stat intet skulle gravera, hwilken Stat sedan ankom åhret efter, 1667, men ingen Löhn finge wij på första 3 åhren, ehuruwäl Mynte Remedium och Besparingen blef oss der till anslagne, uthan Sal. Cantzlern inkiöpte ett stort partie Papper, som anwändes till Ulphilæ och flere Böckers tryckiande». Denna stat finnes verkligen kvar i en vidimerad avskrift (Kammararkivet, Likvidationer, Arkiv och Antikvitetskollegium s. 128):"
+  },
+  {
+   "bbox": [
+    226,
+    772,
+    1076,
+    818
+   ],
+   "category": "Section-header",
+   "text": "»Provisional Stat för Collegio Antiquitatum åhr 1667."
+  },
+  {
+   "bbox": [
+    131,
+    819,
+    1172,
+    1767
+   ],
+   "category": "Table",
+   "text": "<table><thead><tr><th>Medel här till</th><th></th><th>Der uthaf blifwer anordnat</th><th></th></tr></thead><tbody><tr><td>Historiographi Lönen</td><td>600</td><td>Hr Georg Stiernhielm för</td><td></td></tr><tr><td>af Myntet</td><td>4000</td><td>uthan Krigs Råds Lönen</td><td>600</td></tr><tr><td>af Correspondens Medlen</td><td>400</td><td>Hr. Loccenius föruthan andra<br>Lönen</td><td>300</td></tr><tr><td></td><td></td><td>Hr. Johan Axehielm ett gratiale</td><td>300</td></tr><tr><td></td><td></td><td>Hr. Professor Joan Scheffer<br>föruthan Profess. Lönen</td><td>300</td></tr><tr><td></td><td></td><td>Hr. Olaus Verelius desslijkest</td><td>300</td></tr><tr><td></td><td></td><td>Prof. Magnus Celsius samma-<br>ledes</td><td>300</td></tr><tr><td></td><td></td><td>Secret:n Hadorphius föruthan<br>Cantzlielönen</td><td>600</td></tr><tr><td></td><td></td><td>Actuarius och Protonotarius</td><td>200</td></tr><tr><td></td><td></td><td>En Jslänsk Amanuensis</td><td>200</td></tr><tr><td></td><td></td><td>Twenne Rijtare 200 hwardera</td><td>400</td></tr><tr><td></td><td></td><td>till kopparstickare och form-<br>snidare</td><td>300</td></tr><tr><td></td><td></td><td>En Famulus</td><td>100</td></tr><tr><td></td><td></td><td>Till Resor att upsökia och af-<br>copiera Antiquiteter</td><td>300</td></tr><tr><td></td><td></td><td>Böckers upläggiande åhrlig</td><td>400</td></tr><tr><td></td><td></td><td>Pappers inkiöp till tryckerijt,<br>så Assessorum behof, så och<br>Bläck medh Lius</td><td>400</td></tr></tbody><tfoot><tr><td colspan=\"2\">Smt. 5000</td><td colspan=\"2\">Smt. 5000</td></tr></tfoot></table>"
+  },
+  {
+   "bbox": [
+    1096,
+    1802,
+    1163,
+    1841
+   ],
+   "category": "Page-footer",
+   "text": "107"
+  }
+ ]
+}

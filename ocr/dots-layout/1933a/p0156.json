@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 156,
+ "seconds": 26.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [397, 217, 926, 260], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiets ekonomi\"}, {\"bbox\": [138, 287, 1185, 534], \"category\": \"Text\", \"text\": \"oktober 1674 ankom till Uppsala¹, befann sig Hadorph på grund av hustruns sjukdom nere i Östergötland, men fick genom brev från Uppsala kännedom om Verelius' och Rudbecks angrepp på kollegiet. Han skrev då genast, den 21 oktober, ett privatbrev till kansleren, vilket är belysande både för stämningen inom kollegiet och för de olika staterna:\"}, {\"bbox\": [136, 551, 1185, 1298], \"category\": \"Text\", \"text\": \"»Eliest bekom iag och i går medh posten itt bref af någre uthi Collegio Antiquitatum, tillspöriandes mig, om iag kunde weta dem berätta, att hr. Verelio är någon löön genom oss afskurin eller förwandlat, efter som han om sådant skall hafwa sig beswärat och att han uthi Consilijs nostris blifwer förbijgången. Så påminner iag mig åhr 1670, då Ers högGrefl. Excell. förste gång fick Kl. Resolution för oss på medlen, giorde Ers högGrefl. Excell. en Staat på Wennegarn och mig tillskickade att communiceras medh några fåå af Collegio, det iag giorde och tillbaka sände, och i den Stat upfördes in debito alla medlen, nembl. 4500 dr. smt af Banken, sedan Loccenij 600 dr. sölfm:tt. som han för Historiographi lön af Cammar-Collegio niuter, item hr. Verelij Antiquarie löön 600 dr. smt. af Cantzlie Staten och hans professions löön 300 dr. smt. Twert emoot in Credito påfördes honom dhe 900 dr. smt. åhrlig. Men då iag reste efter Ers högGrefl. Excell. befallning medh hofwet nider till Östergiöteland, förnam iag wid upkompsten af Sal. Secret. Franc, att Ers högGrefl. Excell. hade sedan förandrat sine tankar att så fatta staten.\"}, {\"bbox\": [136, 1304, 1182, 1598], \"category\": \"Text\", \"text\": \"Wåren efter sände Ers högGrefl. Excell. oss en underskrifwin Stat, och dher uthur woro hr. Loccenij 600 dr. smt. och Verelij 900 dr. smt. uthslutne, efter dhe på Cantzlie och Academiens Stat woro upförde och allena Banco medlen emillan oss delte. Hölt altså iag med flere detta wara af honom sielf afstelt, på dhet hans 900 dr. sölfmt. icke skulle så högt skyllra i ögonen för dhe andra, som allena 300 dr. smt. hade.\"}, {\"bbox\": [135, 1607, 1184, 1759], \"category\": \"Footnote\", \"text\": \"¹ Troligtvis hade kollegiet med anledning av Verelius' klagomål redan den 15 juli låtit universitetets rektor, Erik Benzelius, vidimera De la Gardies stat: »Att dhenna copie är lijka lydandes medh originali attesterar, Upsala dhen 15 julij 1674 Ericus Benzelius S. Theol. prof et h. a. Rector». Denna vidimerade kopia ligger nu i Collegii Antiquitatum Rächningar ifrån 1670 till 1684 i V. H. A. A.\"}, {\"bbox\": [1106, 1790, 1174, 1829], \"category\": \"Page-footer\", \"text\": \"137\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    397,
+    217,
+    926,
+    260
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiets ekonomi"
+  },
+  {
+   "bbox": [
+    138,
+    287,
+    1185,
+    534
+   ],
+   "category": "Text",
+   "text": "oktober 1674 ankom till Uppsala¹, befann sig Hadorph på grund av hustruns sjukdom nere i Östergötland, men fick genom brev från Uppsala kännedom om Verelius' och Rudbecks angrepp på kollegiet. Han skrev då genast, den 21 oktober, ett privatbrev till kansleren, vilket är belysande både för stämningen inom kollegiet och för de olika staterna:"
+  },
+  {
+   "bbox": [
+    136,
+    551,
+    1185,
+    1298
+   ],
+   "category": "Text",
+   "text": "»Eliest bekom iag och i går medh posten itt bref af någre uthi Collegio Antiquitatum, tillspöriandes mig, om iag kunde weta dem berätta, att hr. Verelio är någon löön genom oss afskurin eller förwandlat, efter som han om sådant skall hafwa sig beswärat och att han uthi Consilijs nostris blifwer förbijgången. Så påminner iag mig åhr 1670, då Ers högGrefl. Excell. förste gång fick Kl. Resolution för oss på medlen, giorde Ers högGrefl. Excell. en Staat på Wennegarn och mig tillskickade att communiceras medh några fåå af Collegio, det iag giorde och tillbaka sände, och i den Stat upfördes in debito alla medlen, nembl. 4500 dr. smt af Banken, sedan Loccenij 600 dr. sölfm:tt. som han för Historiographi lön af Cammar-Collegio niuter, item hr. Verelij Antiquarie löön 600 dr. smt. af Cantzlie Staten och hans professions löön 300 dr. smt. Twert emoot in Credito påfördes honom dhe 900 dr. smt. åhrlig. Men då iag reste efter Ers högGrefl. Excell. befallning medh hofwet nider till Östergiöteland, förnam iag wid upkompsten af Sal. Secret. Franc, att Ers högGrefl. Excell. hade sedan förandrat sine tankar att så fatta staten."
+  },
+  {
+   "bbox": [
+    136,
+    1304,
+    1182,
+    1598
+   ],
+   "category": "Text",
+   "text": "Wåren efter sände Ers högGrefl. Excell. oss en underskrifwin Stat, och dher uthur woro hr. Loccenij 600 dr. smt. och Verelij 900 dr. smt. uthslutne, efter dhe på Cantzlie och Academiens Stat woro upförde och allena Banco medlen emillan oss delte. Hölt altså iag med flere detta wara af honom sielf afstelt, på dhet hans 900 dr. sölfmt. icke skulle så högt skyllra i ögonen för dhe andra, som allena 300 dr. smt. hade."
+  },
+  {
+   "bbox": [
+    135,
+    1607,
+    1184,
+    1759
+   ],
+   "category": "Footnote",
+   "text": "¹ Troligtvis hade kollegiet med anledning av Verelius' klagomål redan den 15 juli låtit universitetets rektor, Erik Benzelius, vidimera De la Gardies stat: »Att dhenna copie är lijka lydandes medh originali attesterar, Upsala dhen 15 julij 1674 Ericus Benzelius S. Theol. prof et h. a. Rector». Denna vidimerade kopia ligger nu i Collegii Antiquitatum Rächningar ifrån 1670 till 1684 i V. H. A. A."
+  },
+  {
+   "bbox": [
+    1106,
+    1790,
+    1174,
+    1829
+   ],
+   "category": "Page-footer",
+   "text": "137"
+  }
+ ]
+}

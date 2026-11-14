@@ -1,0 +1,50 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 7,
+ "seconds": 79.7,
+ "finish": "stop",
+ "retried": true,
+ "raw": "[{\"bbox\": [857, 833, 1001, 992], \"category\": \"Picture\"}, {\"bbox\": [857, 997, 994, 1050], \"category\": \"Text\", \"text\": \"CENTRAL BIBLIOTEKET\"}, {\"bbox\": [857, 833, 1001, 992], \"category\": \"Picture\"}, {\"bbox\": [857, 997, 994, 1050], \"category\": \"Text\", \"text\": \"CENTRAL BIBLIOTEKET\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    857,
+    833,
+    1001,
+    992
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    857,
+    997,
+    994,
+    1050
+   ],
+   "category": "Text",
+   "text": "CENTRAL BIBLIOTEKET"
+  },
+  {
+   "bbox": [
+    857,
+    833,
+    1001,
+    992
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    857,
+    997,
+    994,
+    1050
+   ],
+   "category": "Text",
+   "text": "CENTRAL BIBLIOTEKET"
+  }
+ ]
+}

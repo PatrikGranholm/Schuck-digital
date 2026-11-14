@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 339,
+ "seconds": 25.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [792, 247, 1153, 290], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [447, 315, 1493, 1254], \"category\": \"Table\", \"text\": \"<table><thead><tr><th>Torfæus.</th><th>Gyllengrip.</th><th>Rudbeck.</th></tr></thead><tbody><tr><td>Alafleks s.</td><td>Alaflecks Hist.<br>Alexandri och Lodviks hist.</td><td>Alafleks saga.</td></tr><tr><td>Alexandri Magni s.</td><td>Alexandri Magni hist.<br>Alfs Recka Hist.<br>Ambrosii och Rosamundæ hist.</td><td>Alfs Recka þattur.</td></tr><tr><td>Amloda s.</td><td>Amloda hist.</td><td></td></tr><tr><td>Andra Hist.</td><td>Andra R.</td><td>Andra Saga.</td></tr><tr><td>Ans saga.</td><td>Ans s.<br>Applonii Hist.<br>Armans Hist.<br>Arnors skallda H.</td><td>Ans saga.</td></tr><tr><td>Asmundar ok<br>Triggva R.</td><td>Artus Kongs H.<br>Asmund och Tryggva hist.<br>Aulkofra H.<br>Aulvers H.<br>Aunund Trefotz H.</td><td>Arnors Saga, Jarla skalds.<br>Arturs Kongs saga.<br>Asmundar oc Tryggva saga.<br>Aulkofra þattur.<br>Aulvers saga.<br>Aunundur saga trefots.</td></tr><tr><td>Arna Biskops s.</td><td>— — —<br>Aurvar Odds H.</td><td>Aurvar Odds saga.</td></tr><tr><td>Amicus ok Amelius</td><td>— — —<br>Augmundur Akraspillurs H.<br>Auno H.</td><td></td></tr></tbody></table>\"}, {\"bbox\": [447, 1279, 1495, 1405], \"category\": \"Text\", \"text\": \"Katalogen är således alls icke »en förteckning på de isländska manuskript, som Verelius hade i sin vård och för sina arbeten begagnade». Hans egen samling var ganska obetydlig och föga värdefull.\"}, {\"bbox\": [300, 1406, 441, 1468], \"category\": \"Text\", \"text\": \"Universitetets\\nhandskrifter\"}, {\"bbox\": [447, 1405, 1497, 1783], \"category\": \"Text\", \"text\": \"Men det fanns i Uppsala ännu en tredje, högst värdefull samling av handskrifter, som en tid också kom att stå under Verelius' vård, visserligen inga isländska manuskript, men den stora samling av medeltidscodices, som tillhört Vadstena och några andra kloster samt av Gustav Adolf skänkts till universitetsbiblioteket. Till vårdare av dessa skatter blev Verelius utnämnd den 29 april 1679. Han var då alldeles slut, och hans korta bibliotekarietid blev en bland de sorgligaste i bibliotekets historia. Man har svårt att förstå, huru en professor i antikviteterna och f. d. riksantikvarie kunnat visa en så\"}, {\"bbox\": [451, 1811, 528, 1857], \"category\": \"Page-footer\", \"text\": \"308\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    792,
+    247,
+    1153,
+    290
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    447,
+    315,
+    1493,
+    1254
+   ],
+   "category": "Table",
+   "text": "<table><thead><tr><th>Torfæus.</th><th>Gyllengrip.</th><th>Rudbeck.</th></tr></thead><tbody><tr><td>Alafleks s.</td><td>Alaflecks Hist.<br>Alexandri och Lodviks hist.</td><td>Alafleks saga.</td></tr><tr><td>Alexandri Magni s.</td><td>Alexandri Magni hist.<br>Alfs Recka Hist.<br>Ambrosii och Rosamundæ hist.</td><td>Alfs Recka þattur.</td></tr><tr><td>Amloda s.</td><td>Amloda hist.</td><td></td></tr><tr><td>Andra Hist.</td><td>Andra R.</td><td>Andra Saga.</td></tr><tr><td>Ans saga.</td><td>Ans s.<br>Applonii Hist.<br>Armans Hist.<br>Arnors skallda H.</td><td>Ans saga.</td></tr><tr><td>Asmundar ok<br>Triggva R.</td><td>Artus Kongs H.<br>Asmund och Tryggva hist.<br>Aulkofra H.<br>Aulvers H.<br>Aunund Trefotz H.</td><td>Arnors Saga, Jarla skalds.<br>Arturs Kongs saga.<br>Asmundar oc Tryggva saga.<br>Aulkofra þattur.<br>Aulvers saga.<br>Aunundur saga trefots.</td></tr><tr><td>Arna Biskops s.</td><td>— — —<br>Aurvar Odds H.</td><td>Aurvar Odds saga.</td></tr><tr><td>Amicus ok Amelius</td><td>— — —<br>Augmundur Akraspillurs H.<br>Auno H.</td><td></td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    447,
+    1279,
+    1495,
+    1405
+   ],
+   "category": "Text",
+   "text": "Katalogen är således alls icke »en förteckning på de isländska manuskript, som Verelius hade i sin vård och för sina arbeten begagnade». Hans egen samling var ganska obetydlig och föga värdefull."
+  },
+  {
+   "bbox": [
+    300,
+    1406,
+    441,
+    1468
+   ],
+   "category": "Text",
+   "text": "Universitetets\nhandskrifter"
+  },
+  {
+   "bbox": [
+    447,
+    1405,
+    1497,
+    1783
+   ],
+   "category": "Text",
+   "text": "Men det fanns i Uppsala ännu en tredje, högst värdefull samling av handskrifter, som en tid också kom att stå under Verelius' vård, visserligen inga isländska manuskript, men den stora samling av medeltidscodices, som tillhört Vadstena och några andra kloster samt av Gustav Adolf skänkts till universitetsbiblioteket. Till vårdare av dessa skatter blev Verelius utnämnd den 29 april 1679. Han var då alldeles slut, och hans korta bibliotekarietid blev en bland de sorgligaste i bibliotekets historia. Man har svårt att förstå, huru en professor i antikviteterna och f. d. riksantikvarie kunnat visa en så"
+  },
+  {
+   "bbox": [
+    451,
+    1811,
+    528,
+    1857
+   ],
+   "category": "Page-footer",
+   "text": "308"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 270,
+ "seconds": 25.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [263, 242, 1036, 286], \"category\": \"Section-header\", \"text\": \"Kollegiets ombildning till antikvitetsarkiv\"}, {\"bbox\": [125, 313, 1173, 398], \"category\": \"Text\", \"text\": \"hwar af Kgl. Maij:t må kunna see, hwarutij sådant består, hoos\\nhwem restantierne innestå och hwad alt detta kan kasta af sig.\"}, {\"bbox\": [625, 472, 673, 496], \"category\": \"Section-header\", \"text\": \"II.\"}, {\"bbox\": [127, 522, 1174, 1059], \"category\": \"Text\", \"text\": \"Emedan Collegium Antiquitatum sig beklagar, at då det någre\\nwärk på Kongl. Maij:ts bekostnad uplägger, föröfwas den oordning\\nwijd Tryckerijerne, at Booktryckarne ofta nedläggia hela tijden de\\nförtingade och begynte wärken, giöra sällan rächning för det und-\\nfångne papperet, lefwererandes mycket mindre exemplar än Pap-\\nper är tagit, upläggia ock där hoos af egit papper hembligen en\\nhoop Exemplar för sig, dem de utsällia bem:te Collegio till ingrep\\noch skada, ty är Kongl. Maij:ts Nådiga Willia, at tryckarene, då de\\nniuta sin betalning, skohle med sådane missbruk innehålla, wijd\\nderas Exemplars förlust och et behörigt straff, och at, då Collegium\\nAntiquitatum med Tryckarne på sådane Conditioner contraherat\\nhafwer, wederbörande en alfwarsam Execution där på måtte föllia\\nlåta.\"}, {\"bbox\": [630, 1099, 678, 1123], \"category\": \"Section-header\", \"text\": \"12.\"}, {\"bbox\": [133, 1149, 1177, 1393], \"category\": \"Text\", \"text\": \"Hwad Antiquitets Collegij begiäran wijdkommer, at dem något\\nKongl. Maij:t tillhörigt eller hemfallande huus i Staden måtte in-\\nrymmas för Trycket och Tryckerijfolket sampt till boning för\\nnågre betiente, så må man sig anmähla och Huset nämna, när\\nsådant hemfaller, då Kongl. Maij:t warder wijdare där öfwer resol-\\nuerandes.\"}, {\"bbox\": [634, 1432, 682, 1466], \"category\": \"Section-header\", \"text\": \"13.\"}, {\"bbox\": [136, 1483, 1181, 1778], \"category\": \"Text\", \"text\": \"Kongl. Maij:t finner skiäligt, at Assessores Collegij Antiquitatum, som niuta löhn af Kongl. Maij:t och emot den samma äro plichtige at förfärdiga något wärk och arbete, icke böra slijka wärk hoos sig innehålla till deras privat nytta eller deras arfwingar effter dem; och ty måste bem:te Collegium, när sådant händer, gifwa det tillkänna hoos den, som directionen förer, och han låta sig angelägit wara, at slijke wärk måtte till Collegium extraderas.\"}, {\"bbox\": [1105, 1813, 1178, 1851], \"category\": \"Page-footer\", \"text\": \"239\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    263,
+    242,
+    1036,
+    286
+   ],
+   "category": "Section-header",
+   "text": "Kollegiets ombildning till antikvitetsarkiv"
+  },
+  {
+   "bbox": [
+    125,
+    313,
+    1173,
+    398
+   ],
+   "category": "Text",
+   "text": "hwar af Kgl. Maij:t må kunna see, hwarutij sådant består, hoos\nhwem restantierne innestå och hwad alt detta kan kasta af sig."
+  },
+  {
+   "bbox": [
+    625,
+    472,
+    673,
+    496
+   ],
+   "category": "Section-header",
+   "text": "II."
+  },
+  {
+   "bbox": [
+    127,
+    522,
+    1174,
+    1059
+   ],
+   "category": "Text",
+   "text": "Emedan Collegium Antiquitatum sig beklagar, at då det någre\nwärk på Kongl. Maij:ts bekostnad uplägger, föröfwas den oordning\nwijd Tryckerijerne, at Booktryckarne ofta nedläggia hela tijden de\nförtingade och begynte wärken, giöra sällan rächning för det und-\nfångne papperet, lefwererandes mycket mindre exemplar än Pap-\nper är tagit, upläggia ock där hoos af egit papper hembligen en\nhoop Exemplar för sig, dem de utsällia bem:te Collegio till ingrep\noch skada, ty är Kongl. Maij:ts Nådiga Willia, at tryckarene, då de\nniuta sin betalning, skohle med sådane missbruk innehålla, wijd\nderas Exemplars förlust och et behörigt straff, och at, då Collegium\nAntiquitatum med Tryckarne på sådane Conditioner contraherat\nhafwer, wederbörande en alfwarsam Execution där på måtte föllia\nlåta."
+  },
+  {
+   "bbox": [
+    630,
+    1099,
+    678,
+    1123
+   ],
+   "category": "Section-header",
+   "text": "12."
+  },
+  {
+   "bbox": [
+    133,
+    1149,
+    1177,
+    1393
+   ],
+   "category": "Text",
+   "text": "Hwad Antiquitets Collegij begiäran wijdkommer, at dem något\nKongl. Maij:t tillhörigt eller hemfallande huus i Staden måtte in-\nrymmas för Trycket och Tryckerijfolket sampt till boning för\nnågre betiente, så må man sig anmähla och Huset nämna, när\nsådant hemfaller, då Kongl. Maij:t warder wijdare där öfwer resol-\nuerandes."
+  },
+  {
+   "bbox": [
+    634,
+    1432,
+    682,
+    1466
+   ],
+   "category": "Section-header",
+   "text": "13."
+  },
+  {
+   "bbox": [
+    136,
+    1483,
+    1181,
+    1778
+   ],
+   "category": "Text",
+   "text": "Kongl. Maij:t finner skiäligt, at Assessores Collegij Antiquitatum, som niuta löhn af Kongl. Maij:t och emot den samma äro plichtige at förfärdiga något wärk och arbete, icke böra slijka wärk hoos sig innehålla till deras privat nytta eller deras arfwingar effter dem; och ty måste bem:te Collegium, när sådant händer, gifwa det tillkänna hoos den, som directionen förer, och han låta sig angelägit wara, at slijke wärk måtte till Collegium extraderas."
+  },
+  {
+   "bbox": [
+    1105,
+    1813,
+    1178,
+    1851
+   ],
+   "category": "Page-footer",
+   "text": "239"
+  }
+ ]
+}

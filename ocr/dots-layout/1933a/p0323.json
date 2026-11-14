@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 323,
+ "seconds": 27.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [797, 251, 1155, 293], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [527, 319, 1498, 396], \"category\": \"List-item\", \"text\": \"saliam Antiquam och den i månge stycken de statu Ecclesiastico veteri augerar och lius gifwer.\"}, {\"bbox\": [470, 394, 1498, 543], \"category\": \"List-item\", \"text\": \"II. En gammal Wadstena Closter Book på pergament, der uthj alla Påfwans och Sweriges Konungars privilegier till Clostret. 2) Om wårfru penningen af hela Rijket. 3) Någre Concilia och Statuta Ecclesiastica, mycket wacker till veterem Historiam Ecclesiasticam.\"}, {\"bbox\": [457, 541, 1498, 834], \"category\": \"List-item\", \"text\": \"III. En annan gammal book uthj hwilcken mycket bortrifwet är, doch något behållet, såsom 1) Causæ expulsionis Erici Pomerani och någre andre public handlinger finnas. 2) Magni Smeekz twenne berömlige stadgar. 3) En wacker Tractat om myntet 1520 skrifwen. 4) Kon. Magni Jurges af Nogård etc. förening med K. Magno Erichson om Rågången och Landmärken mellan Finland och Ryssland sampt flere Ryske och Swänske föreningar till wåre tijder, kanske icke alldeles onyttige att wetta.\"}, {\"bbox\": [461, 832, 1497, 901], \"category\": \"List-item\", \"text\": \"IV. En gammal Wadstena Closters Jordebook, deruthur om Skellenora extraherat är.\"}, {\"bbox\": [475, 906, 1497, 983], \"category\": \"List-item\", \"text\": \"V. En brun book in quarto innehållandes åtskillige Sweriges Biskopz Stadgar och kyrkioordninger.\"}, {\"bbox\": [461, 982, 1497, 1195], \"category\": \"List-item\", \"text\": \"VI. Någre Martini Aschanij Rune- och Mynte Böcker, deruthj 120 Runestenar äre af honom rijtade, som intet annorstädz finnas. Sädan en hoop waal och arfkonungarnes mynt, både fastfästade original såsom och derjämpte rijtade, hwilcke alle sin stora nytta läre uthj Antiquiteterne medbringa, om wärcken blifwa en gång rätt företagne och perfectionerade».\"}, {\"bbox\": [453, 1236, 1498, 1781], \"category\": \"Text\", \"text\": \"Den egentliga utgallringen började dock först 1669, sedan Hadorph blivit arkivsekreterare och således hade en viss myndighet över arkivet. Det var då han uttog den mängd av klosterbrev, som nyss omtalats. Dessa anlände till Uppsala i augusti 1669, ty den 17 i denna månad skrev Hadorph till De la Gardie: »Ers hGr. Excell. jackt ankom i Lördagz medh dhe gamble klosterbref uhr Cantzliet, hwilka befinnas föruthan Clostersaker innehafwa ibland sigh någre Concilia et Ecclesiastica in originali, som till Historiam Ecclesiasticam Antiquam läre nogh contribuera; beswärligast är att få redigera dhem i sin ordning igen, ty dhe ähre så kompne hwar om annan, att man lijtet af klosterbrefwen finner i sine rum, som titelen på askarne förmäler. Jbland annat ähr dhet ibland dhe förnämste nyttigheter, att man fåår en godh underrättelse om Familiernes\"}, {\"bbox\": [459, 1818, 533, 1856], \"category\": \"Page-footer\", \"text\": \"292\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    797,
+    251,
+    1155,
+    293
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    527,
+    319,
+    1498,
+    396
+   ],
+   "category": "List-item",
+   "text": "saliam Antiquam och den i månge stycken de statu Ecclesiastico veteri augerar och lius gifwer."
+  },
+  {
+   "bbox": [
+    470,
+    394,
+    1498,
+    543
+   ],
+   "category": "List-item",
+   "text": "II. En gammal Wadstena Closter Book på pergament, der uthj alla Påfwans och Sweriges Konungars privilegier till Clostret. 2) Om wårfru penningen af hela Rijket. 3) Någre Concilia och Statuta Ecclesiastica, mycket wacker till veterem Historiam Ecclesiasticam."
+  },
+  {
+   "bbox": [
+    457,
+    541,
+    1498,
+    834
+   ],
+   "category": "List-item",
+   "text": "III. En annan gammal book uthj hwilcken mycket bortrifwet är, doch något behållet, såsom 1) Causæ expulsionis Erici Pomerani och någre andre public handlinger finnas. 2) Magni Smeekz twenne berömlige stadgar. 3) En wacker Tractat om myntet 1520 skrifwen. 4) Kon. Magni Jurges af Nogård etc. förening med K. Magno Erichson om Rågången och Landmärken mellan Finland och Ryssland sampt flere Ryske och Swänske föreningar till wåre tijder, kanske icke alldeles onyttige att wetta."
+  },
+  {
+   "bbox": [
+    461,
+    832,
+    1497,
+    901
+   ],
+   "category": "List-item",
+   "text": "IV. En gammal Wadstena Closters Jordebook, deruthur om Skellenora extraherat är."
+  },
+  {
+   "bbox": [
+    475,
+    906,
+    1497,
+    983
+   ],
+   "category": "List-item",
+   "text": "V. En brun book in quarto innehållandes åtskillige Sweriges Biskopz Stadgar och kyrkioordninger."
+  },
+  {
+   "bbox": [
+    461,
+    982,
+    1497,
+    1195
+   ],
+   "category": "List-item",
+   "text": "VI. Någre Martini Aschanij Rune- och Mynte Böcker, deruthj 120 Runestenar äre af honom rijtade, som intet annorstädz finnas. Sädan en hoop waal och arfkonungarnes mynt, både fastfästade original såsom och derjämpte rijtade, hwilcke alle sin stora nytta läre uthj Antiquiteterne medbringa, om wärcken blifwa en gång rätt företagne och perfectionerade»."
+  },
+  {
+   "bbox": [
+    453,
+    1236,
+    1498,
+    1781
+   ],
+   "category": "Text",
+   "text": "Den egentliga utgallringen började dock först 1669, sedan Hadorph blivit arkivsekreterare och således hade en viss myndighet över arkivet. Det var då han uttog den mängd av klosterbrev, som nyss omtalats. Dessa anlände till Uppsala i augusti 1669, ty den 17 i denna månad skrev Hadorph till De la Gardie: »Ers hGr. Excell. jackt ankom i Lördagz medh dhe gamble klosterbref uhr Cantzliet, hwilka befinnas föruthan Clostersaker innehafwa ibland sigh någre Concilia et Ecclesiastica in originali, som till Historiam Ecclesiasticam Antiquam läre nogh contribuera; beswärligast är att få redigera dhem i sin ordning igen, ty dhe ähre så kompne hwar om annan, att man lijtet af klosterbrefwen finner i sine rum, som titelen på askarne förmäler. Jbland annat ähr dhet ibland dhe förnämste nyttigheter, att man fåår en godh underrättelse om Familiernes"
+  },
+  {
+   "bbox": [
+    459,
+    1818,
+    533,
+    1856
+   ],
+   "category": "Page-footer",
+   "text": "292"
+  }
+ ]
+}

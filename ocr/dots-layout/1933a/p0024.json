@@ -1,0 +1,31 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 24,
+ "seconds": 8.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [216, 307, 776, 1581], \"category\": \"Picture\"}, {\"bbox\": [496, 1635, 945, 1724], \"category\": \"Caption\", \"text\": \"GEORG STIERNHIELM\\nEfter porträtt på Gripsholm\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    216,
+    307,
+    776,
+    1581
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    496,
+    1635,
+    945,
+    1724
+   ],
+   "category": "Caption",
+   "text": "GEORG STIERNHIELM\nEfter porträtt på Gripsholm"
+  }
+ ]
+}

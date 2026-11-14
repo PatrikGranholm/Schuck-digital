@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 480,
+ "seconds": 26.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [158, 234, 1197, 278], \"category\": \"Section-header\", \"text\": \"Rannsakningarna, de antikvariska resorna och fornvården\"}, {\"bbox\": [155, 305, 1197, 508], \"category\": \"Text\", \"text\": \"års bortovaro återvände till Sverige, var han icke blott en bland Europas lärdaste orientalister, utan medförde ock en betydande samling av orientaliska manuskript, som han sedermera skänkte till Uppsala bibliotek. Hans isländska handskrifter donerades 1705 till antikvitetsarkivet.¹\"}, {\"bbox\": [152, 514, 1197, 1726], \"category\": \"Text\", \"text\": \"Sparfwenfeldt tillhörde visserligen ej antikvitetskollegiet, men resan hade tillkommit på dess förslag, och under denna stod han tydligen i brevväxling med Hadorph. Resan betraktades också både av regeringen och av Hadorph såsom en kollegiets angelägenhet. Så skrev Hadorph den 10 oktober 1691 till Kungl. Maj:t: »Ers Kongl. M:tt hafwer aldernådigst behagat öfwer 2 åhr sedan uthskicka Mons. Johan Gabriel Sparfwenfält till åtskillige främmande orter såsom Spanien, frankrijke, Italien, Engelandh och flera orter, dher the gambla Giötar fordom hafwa bodt och märkelige giärningar bedrifwit, att dher sammastädes eftersökia, hwad gambla Historier, skrifter och andra Monumenter efter dhem hittas kunde, hwar till hans resa proiecterades på 2 åhrs tijdh allena och 1000 Rdr hwart åhr, dher medh han som knappast har kunnat utkomma. Men som tijden har sig längre utdragit, än Ers K. M:ttz tankar warit, af orsaak att han i Spanien har uthi Madrit wid Kongl. hofwet snart ett halft åhr måst liggia och sollicitera om pass och tillåtelse att få resa omkring till klostren och lärde män dher i landet att dher undersökia, hwad efterrättelser om Giöterne funnes, som dher länge bodt hafwa, sedan öfwer halft åhr i frankrijke och paris måst wänta efter wexel, som studsade genom abraham Wolters dödh, innan Kongl. Estatz Contoiret kunde förmå brodren Volters, som här wistas, att dhe medlen igen skaffa. När han nu omsijder fick den sista wexeln och befann, att Ers K. M:tt har låtit uthi hans instruction införa, dhet han skulle och sökia att öfwerkomma till africa, dher the gambla Giöter sutit, och see, hwad reliquier af dhem ther finnas kunde, har han altså begifwit sig medh itt fransö[s]kt skiep, först till Algir, hwarest han fritt för pesten kunde passera, att och dher förrätta Ers K. M:ttz tienst. Men som nu meer än ett halft åhr på dhet tridie är förlupit och han klagar om sin stora medellösa, att då han igenkommer ifrån\"}, {\"bbox\": [188, 1736, 831, 1772], \"category\": \"Footnote\", \"text\": \"¹ Se vidare C. W. Jacobowsky: J. G. Sparfwenfeld (1932).\"}, {\"bbox\": [179, 1817, 313, 1840], \"category\": \"Page-footer\", \"text\": \"29—3264. II.\"}, {\"bbox\": [1114, 1807, 1190, 1844], \"category\": \"Page-footer\", \"text\": \"449\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    158,
+    234,
+    1197,
+    278
+   ],
+   "category": "Section-header",
+   "text": "Rannsakningarna, de antikvariska resorna och fornvården"
+  },
+  {
+   "bbox": [
+    155,
+    305,
+    1197,
+    508
+   ],
+   "category": "Text",
+   "text": "års bortovaro återvände till Sverige, var han icke blott en bland Europas lärdaste orientalister, utan medförde ock en betydande samling av orientaliska manuskript, som han sedermera skänkte till Uppsala bibliotek. Hans isländska handskrifter donerades 1705 till antikvitetsarkivet.¹"
+  },
+  {
+   "bbox": [
+    152,
+    514,
+    1197,
+    1726
+   ],
+   "category": "Text",
+   "text": "Sparfwenfeldt tillhörde visserligen ej antikvitetskollegiet, men resan hade tillkommit på dess förslag, och under denna stod han tydligen i brevväxling med Hadorph. Resan betraktades också både av regeringen och av Hadorph såsom en kollegiets angelägenhet. Så skrev Hadorph den 10 oktober 1691 till Kungl. Maj:t: »Ers Kongl. M:tt hafwer aldernådigst behagat öfwer 2 åhr sedan uthskicka Mons. Johan Gabriel Sparfwenfält till åtskillige främmande orter såsom Spanien, frankrijke, Italien, Engelandh och flera orter, dher the gambla Giötar fordom hafwa bodt och märkelige giärningar bedrifwit, att dher sammastädes eftersökia, hwad gambla Historier, skrifter och andra Monumenter efter dhem hittas kunde, hwar till hans resa proiecterades på 2 åhrs tijdh allena och 1000 Rdr hwart åhr, dher medh han som knappast har kunnat utkomma. Men som tijden har sig längre utdragit, än Ers K. M:ttz tankar warit, af orsaak att han i Spanien har uthi Madrit wid Kongl. hofwet snart ett halft åhr måst liggia och sollicitera om pass och tillåtelse att få resa omkring till klostren och lärde män dher i landet att dher undersökia, hwad efterrättelser om Giöterne funnes, som dher länge bodt hafwa, sedan öfwer halft åhr i frankrijke och paris måst wänta efter wexel, som studsade genom abraham Wolters dödh, innan Kongl. Estatz Contoiret kunde förmå brodren Volters, som här wistas, att dhe medlen igen skaffa. När han nu omsijder fick den sista wexeln och befann, att Ers K. M:tt har låtit uthi hans instruction införa, dhet han skulle och sökia att öfwerkomma till africa, dher the gambla Giöter sutit, och see, hwad reliquier af dhem ther finnas kunde, har han altså begifwit sig medh itt fransö[s]kt skiep, först till Algir, hwarest han fritt för pesten kunde passera, att och dher förrätta Ers K. M:ttz tienst. Men som nu meer än ett halft åhr på dhet tridie är förlupit och han klagar om sin stora medellösa, att då han igenkommer ifrån"
+  },
+  {
+   "bbox": [
+    188,
+    1736,
+    831,
+    1772
+   ],
+   "category": "Footnote",
+   "text": "¹ Se vidare C. W. Jacobowsky: J. G. Sparfwenfeld (1932)."
+  },
+  {
+   "bbox": [
+    179,
+    1817,
+    313,
+    1840
+   ],
+   "category": "Page-footer",
+   "text": "29—3264. II."
+  },
+  {
+   "bbox": [
+    1114,
+    1807,
+    1190,
+    1844
+   ],
+   "category": "Page-footer",
+   "text": "449"
+  }
+ ]
+}

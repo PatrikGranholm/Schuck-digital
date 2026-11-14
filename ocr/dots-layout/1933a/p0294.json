@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 294,
+ "seconds": 11.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [298, 233, 1066, 279], \"category\": \"Section-header\", \"text\": \"Kollegiets ombildning till antikvitetsarkiv\"}, {\"bbox\": [158, 302, 1199, 475], \"category\": \"Text\", \"text\": \"Detta alt lender nu Eder till hörsam efterrättelse, hafwandes wij\\ngifwit vårt Statscontoir Communication så wähl deraf som af sielfwa\\nstaten, så att dhe slijkt behörigen måge kunna effectuera och werk-\\nstella, befallandes wij Eder för det öfrige etc.\"}, {\"bbox\": [613, 485, 752, 520], \"category\": \"Text\", \"text\": \"Carolus».\"}, {\"bbox\": [160, 565, 1199, 697], \"category\": \"Text\", \"text\": \"Därmed hade antikvitetskollegiet upphört att existera, och i dess\\nställe trädde nu antikvitetsarkivet, som snarast kan betraktas såsom\\nen fortsättning av det gamla riksantikvarieämbetet.\"}, {\"bbox\": [1129, 1793, 1199, 1840], \"category\": \"Page-footer\", \"text\": \"263\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    298,
+    233,
+    1066,
+    279
+   ],
+   "category": "Section-header",
+   "text": "Kollegiets ombildning till antikvitetsarkiv"
+  },
+  {
+   "bbox": [
+    158,
+    302,
+    1199,
+    475
+   ],
+   "category": "Text",
+   "text": "Detta alt lender nu Eder till hörsam efterrättelse, hafwandes wij\ngifwit vårt Statscontoir Communication så wähl deraf som af sielfwa\nstaten, så att dhe slijkt behörigen måge kunna effectuera och werk-\nstella, befallandes wij Eder för det öfrige etc."
+  },
+  {
+   "bbox": [
+    613,
+    485,
+    752,
+    520
+   ],
+   "category": "Text",
+   "text": "Carolus»."
+  },
+  {
+   "bbox": [
+    160,
+    565,
+    1199,
+    697
+   ],
+   "category": "Text",
+   "text": "Därmed hade antikvitetskollegiet upphört att existera, och i dess\nställe trädde nu antikvitetsarkivet, som snarast kan betraktas såsom\nen fortsättning av det gamla riksantikvarieämbetet."
+  },
+  {
+   "bbox": [
+    1129,
+    1793,
+    1199,
+    1840
+   ],
+   "category": "Page-footer",
+   "text": "263"
+  }
+ ]
+}

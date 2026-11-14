@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 401,
+ "seconds": 27.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [760, 236, 1126, 279], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [422, 305, 1466, 396], \"category\": \"Text\", \"text\": \"rium ägde 364 dylika, av vilka således åtminstone en del tillhört detta fynd. Om Östgötafyndet är däremot för övrigt intet känt.\"}, {\"bbox\": [422, 390, 1471, 898], \"category\": \"Text\", \"text\": \"Samma år upphittades en guldring i Arbogaån, och om detta fynd skrev den vaksamme Hadorph till borgmästaren i staden: »Dhet är oss nylig berättat af Collegii Actuario Joh. Hadorph, dhet en poyke skall funnit en Guldring i arboga åå medh gamble Caracterer uppå, hwilken ring till Kongl. M:ttz Raritetz Cammar i Collegio Antiquitatum tiänar att införas och förwaras, dher flera sådane ähre förlängst inlefwererade och till Kongl. M:ttz heder förwarade, äfwen som nylig en stor quantitet arabiskt mynt ifrån Gotland ankommit och inlefwererat genom H. K. M:ttz order, ansökie fördenskull till hr. Borgm. tienstl., att han täcks samma Ring till Kongl. M:ttz tienst inskicka, hwilket och honom till heder hoos oss skall in Catalogo ihugkommit warda» (V. H. A. A. Antikvitetskollegiets Handl. IX).\"}, {\"bbox\": [303, 890, 1484, 1519], \"category\": \"Text\", \"text\": \"Fynd 1692 1692 hade Hadorph fått notis om ett fynd i Närke och vände sig nu till Kungl. Maj:t med en skrivelse härom: »Wij hafwa nylig försport, att en anseendlig hoop Guld ähr någon tijdh sedan uthi Stora Mälösa i Närike af Bönder upfunnit, som skall största delen wara undandolt och förskingrat, män Bönderna än weta berätta, hwem dhet fått och kommit, hwilket är emoot Lagen och Ers Kongl. M:ttz påbudh om hittemynt och fynd dat. Stockh. den 5 Julij 1684, hwarföre kunna wij icke underlåta sådant underdånigst berätta och bedia, att som hr. Advocat Fiscalen Sternell har en Commission att resa nider åth Närike tillkommande Junij månadt, dhet honom gifz medh detsamma Order om detta fundhe Guld att ransaka och efter-sökia, på dhet Ers K. M:ttz lagh och placat måtte efterlefwade warda. J det öfrige willia wij gifwa honom tillkenne, huru han skall få bästa kunskapen om detta Guld» (V. H. A. A. Antikvitetsakademiens Handl. XI.).\"}, {\"bbox\": [437, 1515, 1483, 1646], \"category\": \"Text\", \"text\": \"Hadorph var således ytterst energisk i att öka statens »raritetskabinett»¹, och till sist kan för belysande härav anföras ett utdrag ur hans skrivelse till Kungl. Maj:t 1691:\"}, {\"bbox\": [472, 1645, 1483, 1695], \"category\": \"Text\", \"text\": \"»2) Fins här hoos oss något hittesölf, som sönderskurit är i jorden,\"}, {\"bbox\": [440, 1704, 1485, 1775], \"category\": \"Footnote\", \"text\": \"¹ En summarisk förteckning på fynd från äldsta tider till 1830 gjordes av J. G. Liljegren i Strödda anteckningar om fynd i svensk jord (V. H. A. A. Handl. XIII).\"}, {\"bbox\": [444, 1810, 520, 1850], \"category\": \"Page-footer\", \"text\": \"370\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    760,
+    236,
+    1126,
+    279
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    422,
+    305,
+    1466,
+    396
+   ],
+   "category": "Text",
+   "text": "rium ägde 364 dylika, av vilka således åtminstone en del tillhört detta fynd. Om Östgötafyndet är däremot för övrigt intet känt."
+  },
+  {
+   "bbox": [
+    422,
+    390,
+    1471,
+    898
+   ],
+   "category": "Text",
+   "text": "Samma år upphittades en guldring i Arbogaån, och om detta fynd skrev den vaksamme Hadorph till borgmästaren i staden: »Dhet är oss nylig berättat af Collegii Actuario Joh. Hadorph, dhet en poyke skall funnit en Guldring i arboga åå medh gamble Caracterer uppå, hwilken ring till Kongl. M:ttz Raritetz Cammar i Collegio Antiquitatum tiänar att införas och förwaras, dher flera sådane ähre förlängst inlefwererade och till Kongl. M:ttz heder förwarade, äfwen som nylig en stor quantitet arabiskt mynt ifrån Gotland ankommit och inlefwererat genom H. K. M:ttz order, ansökie fördenskull till hr. Borgm. tienstl., att han täcks samma Ring till Kongl. M:ttz tienst inskicka, hwilket och honom till heder hoos oss skall in Catalogo ihugkommit warda» (V. H. A. A. Antikvitetskollegiets Handl. IX)."
+  },
+  {
+   "bbox": [
+    303,
+    890,
+    1484,
+    1519
+   ],
+   "category": "Text",
+   "text": "Fynd 1692 1692 hade Hadorph fått notis om ett fynd i Närke och vände sig nu till Kungl. Maj:t med en skrivelse härom: »Wij hafwa nylig försport, att en anseendlig hoop Guld ähr någon tijdh sedan uthi Stora Mälösa i Närike af Bönder upfunnit, som skall största delen wara undandolt och förskingrat, män Bönderna än weta berätta, hwem dhet fått och kommit, hwilket är emoot Lagen och Ers Kongl. M:ttz påbudh om hittemynt och fynd dat. Stockh. den 5 Julij 1684, hwarföre kunna wij icke underlåta sådant underdånigst berätta och bedia, att som hr. Advocat Fiscalen Sternell har en Commission att resa nider åth Närike tillkommande Junij månadt, dhet honom gifz medh detsamma Order om detta fundhe Guld att ransaka och efter-sökia, på dhet Ers K. M:ttz lagh och placat måtte efterlefwade warda. J det öfrige willia wij gifwa honom tillkenne, huru han skall få bästa kunskapen om detta Guld» (V. H. A. A. Antikvitetsakademiens Handl. XI.)."
+  },
+  {
+   "bbox": [
+    437,
+    1515,
+    1483,
+    1646
+   ],
+   "category": "Text",
+   "text": "Hadorph var således ytterst energisk i att öka statens »raritetskabinett»¹, och till sist kan för belysande härav anföras ett utdrag ur hans skrivelse till Kungl. Maj:t 1691:"
+  },
+  {
+   "bbox": [
+    472,
+    1645,
+    1483,
+    1695
+   ],
+   "category": "Text",
+   "text": "»2) Fins här hoos oss något hittesölf, som sönderskurit är i jorden,"
+  },
+  {
+   "bbox": [
+    440,
+    1704,
+    1485,
+    1775
+   ],
+   "category": "Footnote",
+   "text": "¹ En summarisk förteckning på fynd från äldsta tider till 1830 gjordes av J. G. Liljegren i Strödda anteckningar om fynd i svensk jord (V. H. A. A. Handl. XIII)."
+  },
+  {
+   "bbox": [
+    444,
+    1810,
+    520,
+    1850
+   ],
+   "category": "Page-footer",
+   "text": "370"
+  }
+ ]
+}

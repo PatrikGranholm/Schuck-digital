@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 146,
+ "seconds": 26.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [397, 218, 926, 261], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiets ekonomi\"}, {\"bbox\": [141, 286, 1186, 961], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>Kopparstickaren. N. B. der Brenner der till sig qualificerar, wore det wäl, elliest en annan, som arbetet præsterar</td><td></td><td>betalas styckewijs, men vpföres<br>300 kopparstickaren,<br>200 formsnidaren.</td></tr><tr><td>formsnidaren kunde Otto detta præstera, woro det i lijka måtto wäl till</td><td>500</td><td rowspan=\\\"5\\\">och Communitetet.</td></tr><tr><td>2 Copister à 40</td><td>80</td></tr><tr><td>1 Famulus, som reser</td><td>60</td></tr><tr><td>1 Famulus, som är stadigt widh Collegio</td><td>60</td></tr><tr><td>till Papper</td><td>1500</td></tr><tr><td>till trycket</td><td>1500</td><td rowspan=\\\"3\\\">detta måste framdeles af dhe försålde Böcker præsteras, så att icke åhrlig andra species dertill requireras.</td></tr><tr><td>till Collegij Specer i Lius medh Papper och Bläck etc.</td><td>200</td></tr><tr><td>till Resor</td><td>300</td></tr><tr><td></td><td>8.270 Dr.</td><td></td></tr></tbody></table>\"}, {\"bbox\": [179, 989, 1079, 1033], \"category\": \"Text\", \"text\": \"Altså kunde Staten sålunda pro A:0 1672 blifwa betalt.\"}, {\"bbox\": [143, 1040, 1186, 1463], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>Requireras</td><td>8 270 Dr.</td><td>Är att tillgå pro A:0 72</td></tr><tr><td></td><td></td><td>— 4500 af Myntet.</td></tr><tr><td></td><td></td><td>750 Antiquarij Löhn af Cantzliet.</td></tr><tr><td></td><td></td><td>1500 j Papper af förra åhr behållit.</td></tr><tr><td></td><td></td><td>500 Noch i penningar.</td></tr><tr><td></td><td></td><td>7250</td></tr><tr><td></td><td></td><td>1020 fattas, som anticiperas på</td></tr><tr><td></td><td></td><td>1673 års medel.</td></tr><tr><td></td><td></td><td>8270».</td></tr></tbody></table>\"}, {\"bbox\": [143, 1497, 1188, 1750], \"category\": \"Text\", \"text\": \"Som man märker har Stiernhielm fått en förhöjning av 150 daler, Loccenius, Arrhenius och Celsius av 100. Även Verelius skulle enligt denna stat hava fått en ökning, ty hans lön som antikvarie var 1671 blott 300 daler jämte 150 daler till en skrivare. Nu uppfördes han till 600 daler. Hadorph hade däremot fått en motsvarande minskning. Såsom antikvarie hade han på kanslistaten 300 daler,\"}, {\"bbox\": [1111, 1787, 1183, 1826], \"category\": \"Page-footer\", \"text\": \"127\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    397,
+    218,
+    926,
+    261
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiets ekonomi"
+  },
+  {
+   "bbox": [
+    141,
+    286,
+    1186,
+    961
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>Kopparstickaren. N. B. der Brenner der till sig qualificerar, wore det wäl, elliest en annan, som arbetet præsterar</td><td></td><td>betalas styckewijs, men vpföres<br>300 kopparstickaren,<br>200 formsnidaren.</td></tr><tr><td>formsnidaren kunde Otto detta præstera, woro det i lijka måtto wäl till</td><td>500</td><td rowspan=\"5\">och Communitetet.</td></tr><tr><td>2 Copister à 40</td><td>80</td></tr><tr><td>1 Famulus, som reser</td><td>60</td></tr><tr><td>1 Famulus, som är stadigt widh Collegio</td><td>60</td></tr><tr><td>till Papper</td><td>1500</td></tr><tr><td>till trycket</td><td>1500</td><td rowspan=\"3\">detta måste framdeles af dhe försålde Böcker præsteras, så att icke åhrlig andra species dertill requireras.</td></tr><tr><td>till Collegij Specer i Lius medh Papper och Bläck etc.</td><td>200</td></tr><tr><td>till Resor</td><td>300</td></tr><tr><td></td><td>8.270 Dr.</td><td></td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    179,
+    989,
+    1079,
+    1033
+   ],
+   "category": "Text",
+   "text": "Altså kunde Staten sålunda pro A:0 1672 blifwa betalt."
+  },
+  {
+   "bbox": [
+    143,
+    1040,
+    1186,
+    1463
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>Requireras</td><td>8 270 Dr.</td><td>Är att tillgå pro A:0 72</td></tr><tr><td></td><td></td><td>— 4500 af Myntet.</td></tr><tr><td></td><td></td><td>750 Antiquarij Löhn af Cantzliet.</td></tr><tr><td></td><td></td><td>1500 j Papper af förra åhr behållit.</td></tr><tr><td></td><td></td><td>500 Noch i penningar.</td></tr><tr><td></td><td></td><td>7250</td></tr><tr><td></td><td></td><td>1020 fattas, som anticiperas på</td></tr><tr><td></td><td></td><td>1673 års medel.</td></tr><tr><td></td><td></td><td>8270».</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    143,
+    1497,
+    1188,
+    1750
+   ],
+   "category": "Text",
+   "text": "Som man märker har Stiernhielm fått en förhöjning av 150 daler, Loccenius, Arrhenius och Celsius av 100. Även Verelius skulle enligt denna stat hava fått en ökning, ty hans lön som antikvarie var 1671 blott 300 daler jämte 150 daler till en skrivare. Nu uppfördes han till 600 daler. Hadorph hade däremot fått en motsvarande minskning. Såsom antikvarie hade han på kanslistaten 300 daler,"
+  },
+  {
+   "bbox": [
+    1111,
+    1787,
+    1183,
+    1826
+   ],
+   "category": "Page-footer",
+   "text": "127"
+  }
+ ]
+}

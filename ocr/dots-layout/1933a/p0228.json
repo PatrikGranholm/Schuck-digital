@@ -1,0 +1,131 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 228,
+ "seconds": 21.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [488, 407, 761, 473], \"category\": \"Text\", \"text\": \"Kongl. May:\"}, {\"bbox\": [348, 481, 936, 552], \"category\": \"Text\", \"text\": \"Påbud och Förordning/\"}, {\"bbox\": [473, 552, 773, 604], \"category\": \"Text\", \"text\": \"Om then Gamble\"}, {\"bbox\": [189, 598, 1061, 709], \"category\": \"Section-header\", \"text\": \"Tryckery Tunnan/\"}, {\"bbox\": [189, 706, 1060, 847], \"category\": \"Text\", \"text\": \"Huru den åhrlig skal vthgå af alle Kyrkioherbergen och Sochner i Rijket/ til Collegii Antiquitatum vn- derhåld/ och nyttige Böckers tryckiande.\"}, {\"bbox\": [379, 844, 903, 892], \"category\": \"Text\", \"text\": \"Dat. Kongsöhr 20. Januarii 1682.\"}, {\"bbox\": [574, 896, 663, 934], \"category\": \"Text\", \"text\": \"Så och\"}, {\"bbox\": [192, 930, 1056, 1037], \"category\": \"Text\", \"text\": \"Kongl. May: sedermehra Förklaringk öfwer någre Bestwär emot bem: Tunna inkompue\"}, {\"bbox\": [351, 1032, 893, 1072], \"category\": \"Text\", \"text\": \"wor. Dat. Stockholm 14. Junii 1682.\"}, {\"bbox\": [378, 1085, 861, 1128], \"category\": \"Text\", \"text\": \"Cum Gratiâ & Privilegio S. R. Maj:\"}, {\"bbox\": [400, 1136, 867, 1526], \"category\": \"Picture\"}, {\"bbox\": [286, 1554, 939, 1596], \"category\": \"Text\", \"text\": \"Stockholm/ trycke hoos Niclas Wankiff/ Kongl. Bokz.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    488,
+    407,
+    761,
+    473
+   ],
+   "category": "Text",
+   "text": "Kongl. May:"
+  },
+  {
+   "bbox": [
+    348,
+    481,
+    936,
+    552
+   ],
+   "category": "Text",
+   "text": "Påbud och Förordning/"
+  },
+  {
+   "bbox": [
+    473,
+    552,
+    773,
+    604
+   ],
+   "category": "Text",
+   "text": "Om then Gamble"
+  },
+  {
+   "bbox": [
+    189,
+    598,
+    1061,
+    709
+   ],
+   "category": "Section-header",
+   "text": "Tryckery Tunnan/"
+  },
+  {
+   "bbox": [
+    189,
+    706,
+    1060,
+    847
+   ],
+   "category": "Text",
+   "text": "Huru den åhrlig skal vthgå af alle Kyrkioherbergen och Sochner i Rijket/ til Collegii Antiquitatum vn- derhåld/ och nyttige Böckers tryckiande."
+  },
+  {
+   "bbox": [
+    379,
+    844,
+    903,
+    892
+   ],
+   "category": "Text",
+   "text": "Dat. Kongsöhr 20. Januarii 1682."
+  },
+  {
+   "bbox": [
+    574,
+    896,
+    663,
+    934
+   ],
+   "category": "Text",
+   "text": "Så och"
+  },
+  {
+   "bbox": [
+    192,
+    930,
+    1056,
+    1037
+   ],
+   "category": "Text",
+   "text": "Kongl. May: sedermehra Förklaringk öfwer någre Bestwär emot bem: Tunna inkompue"
+  },
+  {
+   "bbox": [
+    351,
+    1032,
+    893,
+    1072
+   ],
+   "category": "Text",
+   "text": "wor. Dat. Stockholm 14. Junii 1682."
+  },
+  {
+   "bbox": [
+    378,
+    1085,
+    861,
+    1128
+   ],
+   "category": "Text",
+   "text": "Cum Gratiâ & Privilegio S. R. Maj:"
+  },
+  {
+   "bbox": [
+    400,
+    1136,
+    867,
+    1526
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    286,
+    1554,
+    939,
+    1596
+   ],
+   "category": "Text",
+   "text": "Stockholm/ trycke hoos Niclas Wankiff/ Kongl. Bokz."
+  }
+ ]
+}

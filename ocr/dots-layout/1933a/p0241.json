@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 241,
+ "seconds": 25.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [792, 238, 1151, 281], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [451, 308, 1491, 396], \"category\": \"Text\", \"text\": \"leggia[s] en richtig och verificerat Rächning. Dat. Kongzöhr d. 6 Martij 1682».\"}, {\"bbox\": [448, 434, 1493, 1732], \"category\": \"Text\", \"text\": \"Denna stat skiljer sig ganska starkt från de föregående, som De la Gardie uppgjort¹, icke minst därigenom att den går ihop. De fixa utgifterna stego till 4700 daler, men på inkomstsidan fanns dels myntremediet och besparingen, som då anslogos till åtskilligt över 1400 daler, dels tryckeritunnan, som kunde beräknas till vid pass 6300. Överskottet till tryckning bör således hava stigit till vid pass 3000 dr. Vidare finner man, att kollegiet numera alls icke betraktades såsom någon akademi av professorer vid Uppsala universitet, utan i stort sett såsom ett till Stockholm förlagt ämbetsverk, av samma karaktär som det sedermera 1692 inrättade antikvitetsarkivet. I själva verket hade antikvitetskollegiets förvandling till ett antikvitetsarkiv skett redan genom 1682 års av konungen utfärdade stat. Kollegiet efter 1682 var ett antikvitetsarkiv, ehuru det först 1692 bytte namn, och de förut icke organiskt förenade institutionerna antikvitetskollegiet och antikvarieämbetet kunde nu sägas hava, åtminstone faktiskt, gått upp i det nya ämbetsverk, som Karl XI 1682 organiserade. Dettas föregångare hade varit såväl den av De la Gardie stiftade akademien, vars namn bibehölls, som det gamla av Gustav Adolf inrättade antikvarieämbetet. Av dessa tvenne föregångare närmade sig Karl XI:s antikvitetskollegium mera den senare typen, och institutionens faktiske chef var riksantikvarien Hadorph, redan innan han därtill förordnats genom det kungliga brevet av den 11 maj 1688. Av misstag tituleras han för övrigt i några kungliga brev än kollegiets »president», än dess »direktör». Så är ett kungligt brev av den 19 december 1685 riktat till »Tro Tienare och undersåtare, Director så ok samptl. assessores», och ett annat av den 13 september 1684 till »Præsidenten och samtl. assessorer uthi Wårt Collegio Antiquitatum», vilket brev den 23 s. m. överlämnades till Hadorph. Dennes lön såsom antikvarie stod visserligen fortfarande på kansliets stat, men antikvariens resor på kollegiets.\"}, {\"bbox\": [484, 1741, 1251, 1774], \"category\": \"Footnote\", \"text\": \"¹ Bielkes stat 1680 var ej för kollegiet, utan blott för Hadorphs arkiv.\"}, {\"bbox\": [454, 1811, 527, 1838], \"category\": \"Page-footer\", \"text\": \"210\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    792,
+    238,
+    1151,
+    281
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    451,
+    308,
+    1491,
+    396
+   ],
+   "category": "Text",
+   "text": "leggia[s] en richtig och verificerat Rächning. Dat. Kongzöhr d. 6 Martij 1682»."
+  },
+  {
+   "bbox": [
+    448,
+    434,
+    1493,
+    1732
+   ],
+   "category": "Text",
+   "text": "Denna stat skiljer sig ganska starkt från de föregående, som De la Gardie uppgjort¹, icke minst därigenom att den går ihop. De fixa utgifterna stego till 4700 daler, men på inkomstsidan fanns dels myntremediet och besparingen, som då anslogos till åtskilligt över 1400 daler, dels tryckeritunnan, som kunde beräknas till vid pass 6300. Överskottet till tryckning bör således hava stigit till vid pass 3000 dr. Vidare finner man, att kollegiet numera alls icke betraktades såsom någon akademi av professorer vid Uppsala universitet, utan i stort sett såsom ett till Stockholm förlagt ämbetsverk, av samma karaktär som det sedermera 1692 inrättade antikvitetsarkivet. I själva verket hade antikvitetskollegiets förvandling till ett antikvitetsarkiv skett redan genom 1682 års av konungen utfärdade stat. Kollegiet efter 1682 var ett antikvitetsarkiv, ehuru det först 1692 bytte namn, och de förut icke organiskt förenade institutionerna antikvitetskollegiet och antikvarieämbetet kunde nu sägas hava, åtminstone faktiskt, gått upp i det nya ämbetsverk, som Karl XI 1682 organiserade. Dettas föregångare hade varit såväl den av De la Gardie stiftade akademien, vars namn bibehölls, som det gamla av Gustav Adolf inrättade antikvarieämbetet. Av dessa tvenne föregångare närmade sig Karl XI:s antikvitetskollegium mera den senare typen, och institutionens faktiske chef var riksantikvarien Hadorph, redan innan han därtill förordnats genom det kungliga brevet av den 11 maj 1688. Av misstag tituleras han för övrigt i några kungliga brev än kollegiets »president», än dess »direktör». Så är ett kungligt brev av den 19 december 1685 riktat till »Tro Tienare och undersåtare, Director så ok samptl. assessores», och ett annat av den 13 september 1684 till »Præsidenten och samtl. assessorer uthi Wårt Collegio Antiquitatum», vilket brev den 23 s. m. överlämnades till Hadorph. Dennes lön såsom antikvarie stod visserligen fortfarande på kansliets stat, men antikvariens resor på kollegiets."
+  },
+  {
+   "bbox": [
+    484,
+    1741,
+    1251,
+    1774
+   ],
+   "category": "Footnote",
+   "text": "¹ Bielkes stat 1680 var ej för kollegiet, utan blott för Hadorphs arkiv."
+  },
+  {
+   "bbox": [
+    454,
+    1811,
+    527,
+    1838
+   ],
+   "category": "Page-footer",
+   "text": "210"
+  }
+ ]
+}

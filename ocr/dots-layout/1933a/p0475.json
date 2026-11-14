@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 475,
+ "seconds": 25.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [773, 241, 1135, 284], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [426, 310, 1472, 647], \"category\": \"Text\", \"text\": \"Endels och så låta det ankomma på medlen, hwareffter resorne måste giöras kårtare el. längre sampt och dhe ordres, som han tijd ifrån tijd skall bekomma, enär man förspörjer, hwad hopp som där uthe- ifrån kan gif:a att kunna något uthrätta, som löhnar mödan och om- kåstnaden. Men så will doch Kongl. May:tt af dhe underrättelser, som hoos Kongl. M:tt äre allareda inkomne, honom uti fölljande Punckter och så något meddela, hwaraf han till sin reesa och för- rättande någon anledning må kunna hafwa.\"}, {\"bbox\": [932, 691, 962, 725], \"category\": \"Section-header\", \"text\": \"5.\"}, {\"bbox\": [423, 734, 1468, 1071], \"category\": \"Text\", \"text\": \"Han lärer i Dani[mark] och besynnerligen wid Kongl. Biblioteket i Kiöpenhamn hafwa att uthsökia, hwad som dher må finnas af danske, norske och Jisländske skrifter och handlingar, hwarest och torde träffas månge swenske acter, som igenom hwarjehanda tillfällen äro uthur Swerie dijt brachte, till hwilkas uthsökiande någon försichtigheet och wahrsamheet torde nödig wara, och dy skall han för afresan af Kongl. May:tz Secret. J. Hadorph undfå dhe anledningar, som han honom dher till gifwa kan.\"}, {\"bbox\": [929, 1113, 960, 1146], \"category\": \"Section-header\", \"text\": \"6.\"}, {\"bbox\": [422, 1163, 1466, 1573], \"category\": \"Text\", \"text\": \"Uti resan igenom Tyskland och Holland måste han särdeles sökia, hwad såsom i föregående andra Punckt förmält är, effter som på dhe orter många lärde och curieuse männ finnas, som i dheras peregrinationer och resor månge Biblioteker och Orter ransakat hafwa och gode anledningar gifwa kunna. I synnerheet är Kongl. May:tt förekommit, att en stoor myckenheet af Acter skole uti dhen omilde K. Christierns tijd wara uthkomne till Braband och finnas i Antwerpen för en möijelig penning att uthlösas; dy skall han spana dhereffter, besee dheras innehåld, förnimma prijset och gifwa dherom berättelse.\"}, {\"bbox\": [927, 1595, 957, 1628], \"category\": \"Section-header\", \"text\": \"8.\"}, {\"bbox\": [421, 1645, 1463, 1775], \"category\": \"Text\", \"text\": \"Vthi England förmenes månge gode effterrättelser och skrifter finnas och besynnerligen i gambla Slåttet Turn [= Towern] någre manuscripter, som hållas före wara af dhen gambla Anglo-Saxonica\"}, {\"bbox\": [421, 1809, 497, 1845], \"category\": \"Page-footer\", \"text\": \"444\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    773,
+    241,
+    1135,
+    284
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    426,
+    310,
+    1472,
+    647
+   ],
+   "category": "Text",
+   "text": "Endels och så låta det ankomma på medlen, hwareffter resorne måste giöras kårtare el. längre sampt och dhe ordres, som han tijd ifrån tijd skall bekomma, enär man förspörjer, hwad hopp som där uthe- ifrån kan gif:a att kunna något uthrätta, som löhnar mödan och om- kåstnaden. Men så will doch Kongl. May:tt af dhe underrättelser, som hoos Kongl. M:tt äre allareda inkomne, honom uti fölljande Punckter och så något meddela, hwaraf han till sin reesa och för- rättande någon anledning må kunna hafwa."
+  },
+  {
+   "bbox": [
+    932,
+    691,
+    962,
+    725
+   ],
+   "category": "Section-header",
+   "text": "5."
+  },
+  {
+   "bbox": [
+    423,
+    734,
+    1468,
+    1071
+   ],
+   "category": "Text",
+   "text": "Han lärer i Dani[mark] och besynnerligen wid Kongl. Biblioteket i Kiöpenhamn hafwa att uthsökia, hwad som dher må finnas af danske, norske och Jisländske skrifter och handlingar, hwarest och torde träffas månge swenske acter, som igenom hwarjehanda tillfällen äro uthur Swerie dijt brachte, till hwilkas uthsökiande någon försichtigheet och wahrsamheet torde nödig wara, och dy skall han för afresan af Kongl. May:tz Secret. J. Hadorph undfå dhe anledningar, som han honom dher till gifwa kan."
+  },
+  {
+   "bbox": [
+    929,
+    1113,
+    960,
+    1146
+   ],
+   "category": "Section-header",
+   "text": "6."
+  },
+  {
+   "bbox": [
+    422,
+    1163,
+    1466,
+    1573
+   ],
+   "category": "Text",
+   "text": "Uti resan igenom Tyskland och Holland måste han särdeles sökia, hwad såsom i föregående andra Punckt förmält är, effter som på dhe orter många lärde och curieuse männ finnas, som i dheras peregrinationer och resor månge Biblioteker och Orter ransakat hafwa och gode anledningar gifwa kunna. I synnerheet är Kongl. May:tt förekommit, att en stoor myckenheet af Acter skole uti dhen omilde K. Christierns tijd wara uthkomne till Braband och finnas i Antwerpen för en möijelig penning att uthlösas; dy skall han spana dhereffter, besee dheras innehåld, förnimma prijset och gifwa dherom berättelse."
+  },
+  {
+   "bbox": [
+    927,
+    1595,
+    957,
+    1628
+   ],
+   "category": "Section-header",
+   "text": "8."
+  },
+  {
+   "bbox": [
+    421,
+    1645,
+    1463,
+    1775
+   ],
+   "category": "Text",
+   "text": "Vthi England förmenes månge gode effterrättelser och skrifter finnas och besynnerligen i gambla Slåttet Turn [= Towern] någre manuscripter, som hållas före wara af dhen gambla Anglo-Saxonica"
+  },
+  {
+   "bbox": [
+    421,
+    1809,
+    497,
+    1845
+   ],
+   "category": "Page-footer",
+   "text": "444"
+  }
+ ]
+}

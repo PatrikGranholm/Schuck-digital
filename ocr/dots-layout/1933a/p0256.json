@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 256,
+ "seconds": 26.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [392, 243, 920, 286], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiets ekonomi\"}, {\"bbox\": [128, 314, 1171, 483], \"category\": \"Text\", \"text\": \"stora anslag hade antikvitetskollegiets stat fullkomligt rubbats, och i stället för de forna överskotten stod man här inför en betydande brist. I statskontorets skrivelse till Kungl. Maj:t den 14 maj 1691 framlades också följderna av dessa kungliga resolutioner:\"}, {\"bbox\": [120, 480, 1169, 1780], \"category\": \"Text\", \"text\": \"»Såssom Eders Kongl: Maij:t uthj dess nådige bref till oss d. 12 Junij nästledne åhr har behagat sända oss en förtekning på åth-skillige Scholæbetiente här i Rijket, hwilka efter Eders Kongl: Maij:ts Cantzlij Collegij underdånige betänkande böre niuta aug-ment på deras löhn till en Summa af 1848 d. 10 2/3 öre S:m:t och sådant af det, som på Bibeltryckz Tunnan ännu kan wara odispo-nerat. Sammaledes har Eders Kongl: Maij:t uthj dess bref af den 21 Novemb. samma åhr sänt oss tillhanda dhe författade Stater för Carlstadz Gymnasium sampt Stockholms, Carlstadz och Ström-stadz Trivial Scholar, belöpandes till en Summa af 1833 d. 24 öre S:m:t med nådig befallning, att wij för i åhr och framgent jemwäl skole låta dem sådant af Bibeltryckz Tunnan åthniuta; Altså emedan ofwanbe:de Summor sig tillsammans bestiga till 3682 d. 2 2/3 öre S:m:t, ty hafwe wij giort en calculation, hwad Tryckerij Tunnan åhrligen kan importera utom Finland och Öster-botten, hwars Tryckerij Tunna Eders Kongl: May:t genom dess bref till oss d. 28 Novemb: 1687 nådigst har förordnat Biskopen Gezelio, så länge det Bibliske arbetet påstår, som han hafwer under händer, befinnandes at den med säkerheet eij högre kan anslås än till 6300: daler S:m:t, och deremot bestijger Collegij Antiquitatum aflöningz Stat, hwar af här hoos en Copia, till 4760 d. S:m:t, så att om ofwanbe:te Scholebetiente skulle af Tryckerij Tunnan niuta berörde påst, så blefwe för Collegio Antiquitatum en brist af 2142 d. 2 2/3 öre S:m:t, hwarutom benemde Collegium ändå gör ansökning om 400 d. S:m:t åhrligen till böckers upläggande, 100 d. S:m:t till böckers inköp, 140 d. S:m:t till en Students Vnderhåld benemd Anders Westius, sampt något augment för Assessorerne Werwing och Peringer, hwilka icke hafwa någre andre tienster och altså swårligen kunna Subsistera af dhe 300 d. S:m:t, som för hwardera på Staten är opfört. Om nu Eders Kgl: Maij:t i nåder will, att ofwanbemälte Scholebetiente skole bekomma dhe 3682\"}, {\"bbox\": [146, 1824, 283, 1849], \"category\": \"Page-footer\", \"text\": \"15—3264. II.\"}, {\"bbox\": [1085, 1818, 1157, 1856], \"category\": \"Page-footer\", \"text\": \"225\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    392,
+    243,
+    920,
+    286
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiets ekonomi"
+  },
+  {
+   "bbox": [
+    128,
+    314,
+    1171,
+    483
+   ],
+   "category": "Text",
+   "text": "stora anslag hade antikvitetskollegiets stat fullkomligt rubbats, och i stället för de forna överskotten stod man här inför en betydande brist. I statskontorets skrivelse till Kungl. Maj:t den 14 maj 1691 framlades också följderna av dessa kungliga resolutioner:"
+  },
+  {
+   "bbox": [
+    120,
+    480,
+    1169,
+    1780
+   ],
+   "category": "Text",
+   "text": "»Såssom Eders Kongl: Maij:t uthj dess nådige bref till oss d. 12 Junij nästledne åhr har behagat sända oss en förtekning på åth-skillige Scholæbetiente här i Rijket, hwilka efter Eders Kongl: Maij:ts Cantzlij Collegij underdånige betänkande böre niuta aug-ment på deras löhn till en Summa af 1848 d. 10 2/3 öre S:m:t och sådant af det, som på Bibeltryckz Tunnan ännu kan wara odispo-nerat. Sammaledes har Eders Kongl: Maij:t uthj dess bref af den 21 Novemb. samma åhr sänt oss tillhanda dhe författade Stater för Carlstadz Gymnasium sampt Stockholms, Carlstadz och Ström-stadz Trivial Scholar, belöpandes till en Summa af 1833 d. 24 öre S:m:t med nådig befallning, att wij för i åhr och framgent jemwäl skole låta dem sådant af Bibeltryckz Tunnan åthniuta; Altså emedan ofwanbe:de Summor sig tillsammans bestiga till 3682 d. 2 2/3 öre S:m:t, ty hafwe wij giort en calculation, hwad Tryckerij Tunnan åhrligen kan importera utom Finland och Öster-botten, hwars Tryckerij Tunna Eders Kongl: May:t genom dess bref till oss d. 28 Novemb: 1687 nådigst har förordnat Biskopen Gezelio, så länge det Bibliske arbetet påstår, som han hafwer under händer, befinnandes at den med säkerheet eij högre kan anslås än till 6300: daler S:m:t, och deremot bestijger Collegij Antiquitatum aflöningz Stat, hwar af här hoos en Copia, till 4760 d. S:m:t, så att om ofwanbe:te Scholebetiente skulle af Tryckerij Tunnan niuta berörde påst, så blefwe för Collegio Antiquitatum en brist af 2142 d. 2 2/3 öre S:m:t, hwarutom benemde Collegium ändå gör ansökning om 400 d. S:m:t åhrligen till böckers upläggande, 100 d. S:m:t till böckers inköp, 140 d. S:m:t till en Students Vnderhåld benemd Anders Westius, sampt något augment för Assessorerne Werwing och Peringer, hwilka icke hafwa någre andre tienster och altså swårligen kunna Subsistera af dhe 300 d. S:m:t, som för hwardera på Staten är opfört. Om nu Eders Kgl: Maij:t i nåder will, att ofwanbemälte Scholebetiente skole bekomma dhe 3682"
+  },
+  {
+   "bbox": [
+    146,
+    1824,
+    283,
+    1849
+   ],
+   "category": "Page-footer",
+   "text": "15—3264. II."
+  },
+  {
+   "bbox": [
+    1085,
+    1818,
+    1157,
+    1856
+   ],
+   "category": "Page-footer",
+   "text": "225"
+  }
+ ]
+}

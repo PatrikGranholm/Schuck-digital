@@ -1,0 +1,212 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 307,
+ "seconds": 31.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [776, 241, 1134, 285], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [828, 313, 1083, 356], \"category\": \"Section-header\", \"text\": \"Räffuelsk myntt\"}, {\"bbox\": [433, 353, 1477, 429], \"category\": \"Table\", \"text\": \"<table><tr><td>Hermesters myntt</td><td>1 st.</td></tr><tr><td>Skillinger med I R</td><td>2 st.</td></tr></table>\"}, {\"bbox\": [824, 445, 1086, 488], \"category\": \"Section-header\", \"text\": \"Norske peninger\"}, {\"bbox\": [435, 484, 1475, 520], \"category\": \"Table\", \"text\": \"<table><tr><td>Medh S. Oluffz Tittell</td><td>2 st.</td></tr></table>\"}, {\"bbox\": [800, 541, 1100, 584], \"category\": \"Section-header\", \"text\": \"Gottlands peninger\"}, {\"bbox\": [435, 581, 1475, 620], \"category\": \"Table\", \"text\": \"<table><tr><td>med Agnus Dei</td><td>4 st.</td></tr></table>\"}, {\"bbox\": [489, 635, 1304, 679], \"category\": \"Section-header\", \"text\": \"Vthi för:ne Lådicke ähr een ask och der vthi liggier:\"}, {\"bbox\": [435, 682, 1474, 793], \"category\": \"Text\", \"text\": \"Sweriges Rijkes gamble Secret af Sölff, ther vthi een crönt bewepnatt man medh een glafuen i högre och vthi den wenstre handen Swerigis wapn tree Chroner. Och ther hooss finnes aftryckett i wax.\"}, {\"bbox\": [435, 791, 939, 828], \"category\": \"Text\", \"text\": \"Ett lithett gammalt Secret af Sölf.\"}, {\"bbox\": [435, 827, 1243, 865], \"category\": \"Text\", \"text\": \"Trij gamble Koppar secret och der hoos aftrycken i wax.\"}, {\"bbox\": [435, 863, 1402, 902], \"category\": \"Text\", \"text\": \"S. Kong. M:ttz Kongh Carls Secret medan hans M:tt war Hertigh.\"}, {\"bbox\": [435, 899, 1401, 937], \"category\": \"Text\", \"text\": \"Rijchzens Secret af Sölf, lithett och nyligen giordt, medh 3 chroner.\"}, {\"bbox\": [435, 935, 1155, 972], \"category\": \"Text\", \"text\": \"Aftryck i wax af Konunghens i Polens Secreter 6 st.\"}, {\"bbox\": [435, 971, 895, 1009], \"category\": \"Text\", \"text\": \"Ett Konungh Johanss Postwapn.\"}, {\"bbox\": [435, 1007, 952, 1045], \"category\": \"Text\", \"text\": \"Ett Konungh Sigismundi Postwapn».\"}, {\"bbox\": [433, 1067, 1475, 1484], \"category\": \"Text\", \"text\": \"Detta är således en fullständig katalog över statens äldsta myntkabinett, och det är troligen samma samling, som avses i »Designation öfwer Rijkz Cantzlij Rummen» kort efter 1641. I »Den innerste cammeren för Cantzlijtt» fanns då »Een lijthen målat kista der uthj [alle]handa Breef och andre handlingar. Item een ask gammalt mynt och framledne konungars secreter». Synpunkten var tydligen intresset för de tre kronorna, ty i ett inventarium har innehållet i den fjortonde lådan rubriken: »Gamble Konungers Bref, medh hwilkes secreter man bewijser tre Chroner ware Sweriges Rijkes wapn. Item en hoop gammalt mynth, secreter och Postwapner».\"}, {\"bbox\": [433, 1483, 1473, 1567], \"category\": \"Text\", \"text\": \"Denna samling fanns således redan före 1630. Detta år tillkom en ny, relativt stor samling, som tillhört Gustav Adolf personligen.\"}, {\"bbox\": [433, 1567, 1473, 1777], \"category\": \"Text\", \"text\": \"Det äldsta inventariet (i V. H. A. A.) över statens myntkabinett lyder nämligen: »Detta Effterskrefne gambla mynth och peningar ähro tagne vthur K. M:tz Cammar och efter H. K. M:tz nådige befalningh vthi Cronones Cantzelij inlefwerade aff Johan Bure den [26] Maij åhr 1630:\"}, {\"bbox\": [437, 1803, 512, 1851], \"category\": \"Page-footer\", \"text\": \"276\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    776,
+    241,
+    1134,
+    285
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    828,
+    313,
+    1083,
+    356
+   ],
+   "category": "Section-header",
+   "text": "Räffuelsk myntt"
+  },
+  {
+   "bbox": [
+    433,
+    353,
+    1477,
+    429
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>Hermesters myntt</td><td>1 st.</td></tr><tr><td>Skillinger med I R</td><td>2 st.</td></tr></table>"
+  },
+  {
+   "bbox": [
+    824,
+    445,
+    1086,
+    488
+   ],
+   "category": "Section-header",
+   "text": "Norske peninger"
+  },
+  {
+   "bbox": [
+    435,
+    484,
+    1475,
+    520
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>Medh S. Oluffz Tittell</td><td>2 st.</td></tr></table>"
+  },
+  {
+   "bbox": [
+    800,
+    541,
+    1100,
+    584
+   ],
+   "category": "Section-header",
+   "text": "Gottlands peninger"
+  },
+  {
+   "bbox": [
+    435,
+    581,
+    1475,
+    620
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>med Agnus Dei</td><td>4 st.</td></tr></table>"
+  },
+  {
+   "bbox": [
+    489,
+    635,
+    1304,
+    679
+   ],
+   "category": "Section-header",
+   "text": "Vthi för:ne Lådicke ähr een ask och der vthi liggier:"
+  },
+  {
+   "bbox": [
+    435,
+    682,
+    1474,
+    793
+   ],
+   "category": "Text",
+   "text": "Sweriges Rijkes gamble Secret af Sölff, ther vthi een crönt bewepnatt man medh een glafuen i högre och vthi den wenstre handen Swerigis wapn tree Chroner. Och ther hooss finnes aftryckett i wax."
+  },
+  {
+   "bbox": [
+    435,
+    791,
+    939,
+    828
+   ],
+   "category": "Text",
+   "text": "Ett lithett gammalt Secret af Sölf."
+  },
+  {
+   "bbox": [
+    435,
+    827,
+    1243,
+    865
+   ],
+   "category": "Text",
+   "text": "Trij gamble Koppar secret och der hoos aftrycken i wax."
+  },
+  {
+   "bbox": [
+    435,
+    863,
+    1402,
+    902
+   ],
+   "category": "Text",
+   "text": "S. Kong. M:ttz Kongh Carls Secret medan hans M:tt war Hertigh."
+  },
+  {
+   "bbox": [
+    435,
+    899,
+    1401,
+    937
+   ],
+   "category": "Text",
+   "text": "Rijchzens Secret af Sölf, lithett och nyligen giordt, medh 3 chroner."
+  },
+  {
+   "bbox": [
+    435,
+    935,
+    1155,
+    972
+   ],
+   "category": "Text",
+   "text": "Aftryck i wax af Konunghens i Polens Secreter 6 st."
+  },
+  {
+   "bbox": [
+    435,
+    971,
+    895,
+    1009
+   ],
+   "category": "Text",
+   "text": "Ett Konungh Johanss Postwapn."
+  },
+  {
+   "bbox": [
+    435,
+    1007,
+    952,
+    1045
+   ],
+   "category": "Text",
+   "text": "Ett Konungh Sigismundi Postwapn»."
+  },
+  {
+   "bbox": [
+    433,
+    1067,
+    1475,
+    1484
+   ],
+   "category": "Text",
+   "text": "Detta är således en fullständig katalog över statens äldsta myntkabinett, och det är troligen samma samling, som avses i »Designation öfwer Rijkz Cantzlij Rummen» kort efter 1641. I »Den innerste cammeren för Cantzlijtt» fanns då »Een lijthen målat kista der uthj [alle]handa Breef och andre handlingar. Item een ask gammalt mynt och framledne konungars secreter». Synpunkten var tydligen intresset för de tre kronorna, ty i ett inventarium har innehållet i den fjortonde lådan rubriken: »Gamble Konungers Bref, medh hwilkes secreter man bewijser tre Chroner ware Sweriges Rijkes wapn. Item en hoop gammalt mynth, secreter och Postwapner»."
+  },
+  {
+   "bbox": [
+    433,
+    1483,
+    1473,
+    1567
+   ],
+   "category": "Text",
+   "text": "Denna samling fanns således redan före 1630. Detta år tillkom en ny, relativt stor samling, som tillhört Gustav Adolf personligen."
+  },
+  {
+   "bbox": [
+    433,
+    1567,
+    1473,
+    1777
+   ],
+   "category": "Text",
+   "text": "Det äldsta inventariet (i V. H. A. A.) över statens myntkabinett lyder nämligen: »Detta Effterskrefne gambla mynth och peningar ähro tagne vthur K. M:tz Cammar och efter H. K. M:tz nådige befalningh vthi Cronones Cantzelij inlefwerade aff Johan Bure den [26] Maij åhr 1630:"
+  },
+  {
+   "bbox": [
+    437,
+    1803,
+    512,
+    1851
+   ],
+   "category": "Page-footer",
+   "text": "276"
+  }
+ ]
+}

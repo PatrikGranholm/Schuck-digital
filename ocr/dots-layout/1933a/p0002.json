@@ -1,0 +1,110 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 2,
+ "seconds": 21.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [505, 275, 1347, 357], \"category\": \"Text\", \"text\": \"HENRIK SCHÜCK\"}, {\"bbox\": [357, 366, 691, 395], \"category\": \"Text\", \"text\": \"GÖTEBORGS UNIVERSITETSBIBLIOTEK\"}, {\"bbox\": [365, 392, 682, 480], \"category\": \"Picture\"}, {\"bbox\": [703, 415, 743, 491], \"category\": \"Text\", \"text\": \"J\"}, {\"bbox\": [538, 480, 682, 507], \"category\": \"Text\", \"text\": \"1001298288\"}, {\"bbox\": [257, 536, 1594, 871], \"category\": \"Title\", \"text\": \"KGL. VITTERHETS HISTORIE OCH ANTIKVITETS AKADEMIEN\"}, {\"bbox\": [499, 958, 1344, 1105], \"category\": \"Text\", \"text\": \"DESS FORHISTORIA OCH HISTORIA\"}, {\"bbox\": [895, 1157, 953, 1215], \"category\": \"Text\", \"text\": \"II\"}, {\"bbox\": [778, 1500, 1069, 1792], \"category\": \"Picture\"}, {\"bbox\": [634, 1912, 1199, 1979], \"category\": \"Text\", \"text\": \"STOCKHOLM 1933\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    505,
+    275,
+    1347,
+    357
+   ],
+   "category": "Text",
+   "text": "HENRIK SCHÜCK"
+  },
+  {
+   "bbox": [
+    357,
+    366,
+    691,
+    395
+   ],
+   "category": "Text",
+   "text": "GÖTEBORGS UNIVERSITETSBIBLIOTEK"
+  },
+  {
+   "bbox": [
+    365,
+    392,
+    682,
+    480
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    703,
+    415,
+    743,
+    491
+   ],
+   "category": "Text",
+   "text": "J"
+  },
+  {
+   "bbox": [
+    538,
+    480,
+    682,
+    507
+   ],
+   "category": "Text",
+   "text": "1001298288"
+  },
+  {
+   "bbox": [
+    257,
+    536,
+    1594,
+    871
+   ],
+   "category": "Title",
+   "text": "KGL. VITTERHETS HISTORIE OCH ANTIKVITETS AKADEMIEN"
+  },
+  {
+   "bbox": [
+    499,
+    958,
+    1344,
+    1105
+   ],
+   "category": "Text",
+   "text": "DESS FORHISTORIA OCH HISTORIA"
+  },
+  {
+   "bbox": [
+    895,
+    1157,
+    953,
+    1215
+   ],
+   "category": "Text",
+   "text": "II"
+  },
+  {
+   "bbox": [
+    778,
+    1500,
+    1069,
+    1792
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    634,
+    1912,
+    1199,
+    1979
+   ],
+   "category": "Text",
+   "text": "STOCKHOLM 1933"
+  }
+ ]
+}

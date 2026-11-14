@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 80,
+ "seconds": 34.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [385, 221, 943, 266], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiets första tid\"}, {\"bbox\": [141, 291, 1180, 585], \"category\": \"Text\", \"text\": \"förklening sig understå att företaga. Såsom wij det aldrig hafwe\\ngiordt, så skole wij icke heller med Gvdz tilhielp någonsin wiljandes\\ngörat. Men Gvdh ware deras domare, som oss sådant oförskyllt\\npåföre och hos E. Hh. Gr. Exc. sökie att förhatade göra. Gvdh låte\\noss finna så gode uthwägar till E. Hh. Gr. Exc. berömmelse och\\ndess höga nampns förwidgande, som wij det altijd gärna skal effter\\nwår skyldigheet göra, förblifwandes stedse\"}, {\"bbox\": [141, 601, 405, 685], \"category\": \"Text\", \"text\": \"Upsala 30 octob.\\n1674\"}, {\"bbox\": [513, 603, 873, 681], \"category\": \"Text\", \"text\": \"Ers HöghGrefl. Excell.\\nÖdmiukaste Tienare\"}, {\"bbox\": [307, 697, 564, 778], \"category\": \"Text\", \"text\": \"Jahan Axehiälm\\nm. pria\"}, {\"bbox\": [604, 699, 829, 789], \"category\": \"Text\", \"text\": \"Jo. Schefferus\\nMagnus Celsius\"}, {\"bbox\": [877, 702, 1173, 794], \"category\": \"Text\", \"text\": \"Claudius Arrhenius\\nJohan Hadorphius.»\"}, {\"bbox\": [137, 816, 1170, 989], \"category\": \"Text\", \"text\": \"Kort härefter, den 1 november, uppvaktade Verelius kansleren med ett bref i saken (R. A. Kanslersämbetets handlingar. Inkomna skrivelser), vilket knappt annat visar, än att denna var ganska svag. Ty han kommer blott med allmänna beskyllningar utan några bevis:\"}, {\"bbox\": [128, 1001, 1169, 1754], \"category\": \"Text\", \"text\": \"»Jagh hafwer af Professoren hr Olaus Rudbeck förnummit, det han uthan mitt wetskap och anmodande för E. grefl. Excellence berättadt hade, huru som nogre af Adssessoribus Collegij Antiquit. hafwa utan Præsidis consens utslutet mig af deras samquämbd och communication af de saker, som Collegij membra angå och mig efter Kongl. M:tz instruction eij böra förhållas och afskäras, och att E. grefl. Excell. hafuer sådant resenterat och med dess bref fodrat af dem beskedd, huarföre de sigh sådant understådt hafva. Så tac-kar iagh E. grefl. Excell. ödmiukeligen, som hafver behagat låta sig wårda om min ringa person att conservera mig vid det Kongl. M:t nådigest förordnat hafver. När E. grefl. Excell. först formerade Collegij stat, var iagh der på intet förgäten, som her Axehielm mig refererade, men samma stat feck iag aldrig see, och huem mig ut-strukit hafver, vet iag intet. Orsaken till deras vederwilia emot mig är denna, att när dee det ena brefvet efter det andra skrefve E. grefl. Excell. till och yrkiade på sin lön, sade iagh: i moste hafva patience, där äre inga medel att tillgå; likvel skrefve de åther ett bref och skickade migh till, att iag det med dem som tillförne underskrifva\"}, {\"bbox\": [1108, 1789, 1154, 1826], \"category\": \"Page-footer\", \"text\": \"61\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    385,
+    221,
+    943,
+    266
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiets första tid"
+  },
+  {
+   "bbox": [
+    141,
+    291,
+    1180,
+    585
+   ],
+   "category": "Text",
+   "text": "förklening sig understå att företaga. Såsom wij det aldrig hafwe\ngiordt, så skole wij icke heller med Gvdz tilhielp någonsin wiljandes\ngörat. Men Gvdh ware deras domare, som oss sådant oförskyllt\npåföre och hos E. Hh. Gr. Exc. sökie att förhatade göra. Gvdh låte\noss finna så gode uthwägar till E. Hh. Gr. Exc. berömmelse och\ndess höga nampns förwidgande, som wij det altijd gärna skal effter\nwår skyldigheet göra, förblifwandes stedse"
+  },
+  {
+   "bbox": [
+    141,
+    601,
+    405,
+    685
+   ],
+   "category": "Text",
+   "text": "Upsala 30 octob.\n1674"
+  },
+  {
+   "bbox": [
+    513,
+    603,
+    873,
+    681
+   ],
+   "category": "Text",
+   "text": "Ers HöghGrefl. Excell.\nÖdmiukaste Tienare"
+  },
+  {
+   "bbox": [
+    307,
+    697,
+    564,
+    778
+   ],
+   "category": "Text",
+   "text": "Jahan Axehiälm\nm. pria"
+  },
+  {
+   "bbox": [
+    604,
+    699,
+    829,
+    789
+   ],
+   "category": "Text",
+   "text": "Jo. Schefferus\nMagnus Celsius"
+  },
+  {
+   "bbox": [
+    877,
+    702,
+    1173,
+    794
+   ],
+   "category": "Text",
+   "text": "Claudius Arrhenius\nJohan Hadorphius.»"
+  },
+  {
+   "bbox": [
+    137,
+    816,
+    1170,
+    989
+   ],
+   "category": "Text",
+   "text": "Kort härefter, den 1 november, uppvaktade Verelius kansleren med ett bref i saken (R. A. Kanslersämbetets handlingar. Inkomna skrivelser), vilket knappt annat visar, än att denna var ganska svag. Ty han kommer blott med allmänna beskyllningar utan några bevis:"
+  },
+  {
+   "bbox": [
+    128,
+    1001,
+    1169,
+    1754
+   ],
+   "category": "Text",
+   "text": "»Jagh hafwer af Professoren hr Olaus Rudbeck förnummit, det han uthan mitt wetskap och anmodande för E. grefl. Excellence berättadt hade, huru som nogre af Adssessoribus Collegij Antiquit. hafwa utan Præsidis consens utslutet mig af deras samquämbd och communication af de saker, som Collegij membra angå och mig efter Kongl. M:tz instruction eij böra förhållas och afskäras, och att E. grefl. Excell. hafuer sådant resenterat och med dess bref fodrat af dem beskedd, huarföre de sigh sådant understådt hafva. Så tac-kar iagh E. grefl. Excell. ödmiukeligen, som hafver behagat låta sig wårda om min ringa person att conservera mig vid det Kongl. M:t nådigest förordnat hafver. När E. grefl. Excell. först formerade Collegij stat, var iagh der på intet förgäten, som her Axehielm mig refererade, men samma stat feck iag aldrig see, och huem mig ut-strukit hafver, vet iag intet. Orsaken till deras vederwilia emot mig är denna, att när dee det ena brefvet efter det andra skrefve E. grefl. Excell. till och yrkiade på sin lön, sade iagh: i moste hafva patience, där äre inga medel att tillgå; likvel skrefve de åther ett bref och skickade migh till, att iag det med dem som tillförne underskrifva"
+  },
+  {
+   "bbox": [
+    1108,
+    1789,
+    1154,
+    1826
+   ],
+   "category": "Page-footer",
+   "text": "61"
+  }
+ ]
+}

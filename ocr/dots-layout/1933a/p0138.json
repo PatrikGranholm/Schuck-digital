@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 138,
+ "seconds": 25.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [390, 215, 917, 258], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiets ekonomi\"}, {\"bbox\": [134, 286, 1174, 410], \"category\": \"Text\", \"text\": \"Gardie, skulle göra svårigheter vid löftets infriande, avlät kollegiet till honom ett särskilt brev (R. A. Skoklostersamlingen. Brev till Per Brahe fol. vol. 10 s. 484):\"}, {\"bbox\": [134, 423, 1175, 1680], \"category\": \"Text\", \"text\": \"»Effter som hans Kongl. May:tt någon tijd sedan hafwer behagat uprätta ett Collegium Antiquitatum här i Vpsala, som skulle sig allehanda nyttige gambla Manuscripter och Rijksens Antiquiteter under händerne taga, utharbeta och förferdiga till fäderneslandsens tienst; Så hafwe wij för wåra personer, som dertill kallade äre, Kongl. M:ttz aldranådigste befallning effterlefwat och så mycket allerreda der uthinnan tillgiordt, som wij för detta Kongl. May:tt i underdånigheet hafwa præsenterat och än yttermera arbeta wele, effter som krafterne kunna tillsäija och förmå. Men som wij ännu inge medel till wårt Collegii underhåld hafwa wunnet, eij heller af den förmögenheet är, att wij dhe ferdige wärk kunna sielfwa tryckia låta, föruthan det att Monumenternes upsökiande och afrijtande i landet alldeles studza, mädan inge medel der till äre, ty hafwe wij här om till Kongl. May:tt underdånigst supplicerat, att hans Kgl. M:tt i anseende till ofwanbem:te skäl och att wij underdånigst försee oss om något underhåld för wåre personer, efftersom hans Kgl. M:tt finner hwars och ens ämpne meritera. Såsom nu E:s HögGrefl. Nåde är sielf en högtförståndig och behiertat herre om fäderneslandsens Antiquiteter, så ansökie till E:rs HögGrefl. Nåde wij på det ödmiukeligaste om en nådig recommendation och befordran till denne Collegii Statz förferdigande. Der emot wij icke underlåta skole att allestädes effterkomma Kongl. May:ttz nådigste Befallning, så och hedra och berömma E:rs HögGrefl. Nåde och dhe fler af Kongl. Regeringen och Rådet, som sitt wärkelige Assistens här till handräckia täckes. Wij äre och än yttermera wederreda att göra hans Kongl. May:tt och hela Kongl. Regeringen och Rådet en noga underrättelse om alle dhe wärk, wij kunna af inkompne Manuscripter och documenter see oss förferdiga, om så fordras, på det Kongl. May:tt måtte sig försäkrat göra, att ingen kostnadt här på fåfengt upgå måtte. Härmed förblifwandes\"}, {\"bbox\": [175, 1689, 497, 1734], \"category\": \"Text\", \"text\": \"Upsala den 17 Junij\"}, {\"bbox\": [291, 1734, 368, 1774], \"category\": \"Text\", \"text\": \"1670\"}, {\"bbox\": [1103, 1787, 1173, 1826], \"category\": \"Page-footer\", \"text\": \"119\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    390,
+    215,
+    917,
+    258
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiets ekonomi"
+  },
+  {
+   "bbox": [
+    134,
+    286,
+    1174,
+    410
+   ],
+   "category": "Text",
+   "text": "Gardie, skulle göra svårigheter vid löftets infriande, avlät kollegiet till honom ett särskilt brev (R. A. Skoklostersamlingen. Brev till Per Brahe fol. vol. 10 s. 484):"
+  },
+  {
+   "bbox": [
+    134,
+    423,
+    1175,
+    1680
+   ],
+   "category": "Text",
+   "text": "»Effter som hans Kongl. May:tt någon tijd sedan hafwer behagat uprätta ett Collegium Antiquitatum här i Vpsala, som skulle sig allehanda nyttige gambla Manuscripter och Rijksens Antiquiteter under händerne taga, utharbeta och förferdiga till fäderneslandsens tienst; Så hafwe wij för wåra personer, som dertill kallade äre, Kongl. M:ttz aldranådigste befallning effterlefwat och så mycket allerreda der uthinnan tillgiordt, som wij för detta Kongl. May:tt i underdånigheet hafwa præsenterat och än yttermera arbeta wele, effter som krafterne kunna tillsäija och förmå. Men som wij ännu inge medel till wårt Collegii underhåld hafwa wunnet, eij heller af den förmögenheet är, att wij dhe ferdige wärk kunna sielfwa tryckia låta, föruthan det att Monumenternes upsökiande och afrijtande i landet alldeles studza, mädan inge medel der till äre, ty hafwe wij här om till Kongl. May:tt underdånigst supplicerat, att hans Kgl. M:tt i anseende till ofwanbem:te skäl och att wij underdånigst försee oss om något underhåld för wåre personer, efftersom hans Kgl. M:tt finner hwars och ens ämpne meritera. Såsom nu E:s HögGrefl. Nåde är sielf en högtförståndig och behiertat herre om fäderneslandsens Antiquiteter, så ansökie till E:rs HögGrefl. Nåde wij på det ödmiukeligaste om en nådig recommendation och befordran till denne Collegii Statz förferdigande. Der emot wij icke underlåta skole att allestädes effterkomma Kongl. May:ttz nådigste Befallning, så och hedra och berömma E:rs HögGrefl. Nåde och dhe fler af Kongl. Regeringen och Rådet, som sitt wärkelige Assistens här till handräckia täckes. Wij äre och än yttermera wederreda att göra hans Kongl. May:tt och hela Kongl. Regeringen och Rådet en noga underrättelse om alle dhe wärk, wij kunna af inkompne Manuscripter och documenter see oss förferdiga, om så fordras, på det Kongl. May:tt måtte sig försäkrat göra, att ingen kostnadt här på fåfengt upgå måtte. Härmed förblifwandes"
+  },
+  {
+   "bbox": [
+    175,
+    1689,
+    497,
+    1734
+   ],
+   "category": "Text",
+   "text": "Upsala den 17 Junij"
+  },
+  {
+   "bbox": [
+    291,
+    1734,
+    368,
+    1774
+   ],
+   "category": "Text",
+   "text": "1670"
+  },
+  {
+   "bbox": [
+    1103,
+    1787,
+    1173,
+    1826
+   ],
+   "category": "Page-footer",
+   "text": "119"
+  }
+ ]
+}

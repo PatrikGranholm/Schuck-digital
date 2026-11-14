@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 142,
+ "seconds": 26.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [381, 219, 905, 262], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiets ekonomi\"}, {\"bbox\": [125, 288, 1161, 693], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>snidare (den han och blifwa kan) Elias Brenner</td><td>300</td></tr><tr><td>Rijtaren Jacob Hartling</td><td>200</td></tr><tr><td>Famulus</td><td>60</td></tr><tr><td>Till Resor att opsökia och afcopiera Antiquiteterne i Landet</td><td>300</td></tr><tr><td>Till Papper, Bläck, wedh och Lius</td><td>200</td></tr><tr><td>Till Böckers opläggiande</td><td>1070<sup>1</sup></td></tr><tr><td></td><td>6170</td></tr><tr><td>Summa</td><td>6170.»</td></tr></tbody></table>\"}, {\"bbox\": [123, 732, 1162, 1612], \"category\": \"Text\", \"text\": \"Även denna stat var ganska besynnerlig. Man finner för det första, att de, som blivit bäst tillgodosedda, voro de, som i kollegiet gjorde den minsta nyttan, nämligen Stiernhielm och Axehiälm. Den förre fick 600 daler, den senare 500. De arbetande fingo mindre, ty bland inkomsterna hade — väl i syfte att göra slutsumman mera imponerande — De la Gardie upptagit de på kanslistaten stående anslagen till antikvarierna och historiografen samt även universitetsstipendierna, och Loccenius, som tilldelades 800 daler, fick i verkligheten således blott en förhöjning av 200, ty hans lön som historiograf var 600. Verelius fick ingenting alls, ty de 300 daler, som uppfördes för honom, hade han redan som antikvarie; snarare förlorade han de 150, som anslagits till antikvariens skrivare, vilket belopp han själv uppburit, men som nu gick till hans amanuens Rugman. Av samma anledning fick Hadorph blott 300, ty i de 600 daler, med vilka han uppförts, ingick hans anslag som antikvarie. Arhenius och Celsius, som ej hade några extra inkomster, uppfördes till 200 daler eller samma belopp, som Loccenius faktiskt fick. Schafferus, som dock hade bättre lönevillkor vid universitetet, fick 300 daler. Dessutom upptog staten en notarie, en translator, två studiosi, en kopparstickare, en ritare och en dräng. Viktigast var det rikliga anslaget till böckers tryckning — 1070 daler.\"}, {\"bbox\": [123, 1616, 1159, 1701], \"category\": \"Text\", \"text\": \"Vid ett närmare studium av denna stat får man en förnimmelse av det oklara i hela institutionen. Antikvitetskollegiet var dels en\"}, {\"bbox\": [157, 1724, 962, 1756], \"category\": \"Footnote\", \"text\": \"¹ Allt hwad af sådane Böckers försäliande faller görs åhrligen Räkning före.\"}, {\"bbox\": [1085, 1792, 1154, 1830], \"category\": \"Page-footer\", \"text\": \"123\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    381,
+    219,
+    905,
+    262
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiets ekonomi"
+  },
+  {
+   "bbox": [
+    125,
+    288,
+    1161,
+    693
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>snidare (den han och blifwa kan) Elias Brenner</td><td>300</td></tr><tr><td>Rijtaren Jacob Hartling</td><td>200</td></tr><tr><td>Famulus</td><td>60</td></tr><tr><td>Till Resor att opsökia och afcopiera Antiquiteterne i Landet</td><td>300</td></tr><tr><td>Till Papper, Bläck, wedh och Lius</td><td>200</td></tr><tr><td>Till Böckers opläggiande</td><td>1070<sup>1</sup></td></tr><tr><td></td><td>6170</td></tr><tr><td>Summa</td><td>6170.»</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    123,
+    732,
+    1162,
+    1612
+   ],
+   "category": "Text",
+   "text": "Även denna stat var ganska besynnerlig. Man finner för det första, att de, som blivit bäst tillgodosedda, voro de, som i kollegiet gjorde den minsta nyttan, nämligen Stiernhielm och Axehiälm. Den förre fick 600 daler, den senare 500. De arbetande fingo mindre, ty bland inkomsterna hade — väl i syfte att göra slutsumman mera imponerande — De la Gardie upptagit de på kanslistaten stående anslagen till antikvarierna och historiografen samt även universitetsstipendierna, och Loccenius, som tilldelades 800 daler, fick i verkligheten således blott en förhöjning av 200, ty hans lön som historiograf var 600. Verelius fick ingenting alls, ty de 300 daler, som uppfördes för honom, hade han redan som antikvarie; snarare förlorade han de 150, som anslagits till antikvariens skrivare, vilket belopp han själv uppburit, men som nu gick till hans amanuens Rugman. Av samma anledning fick Hadorph blott 300, ty i de 600 daler, med vilka han uppförts, ingick hans anslag som antikvarie. Arhenius och Celsius, som ej hade några extra inkomster, uppfördes till 200 daler eller samma belopp, som Loccenius faktiskt fick. Schafferus, som dock hade bättre lönevillkor vid universitetet, fick 300 daler. Dessutom upptog staten en notarie, en translator, två studiosi, en kopparstickare, en ritare och en dräng. Viktigast var det rikliga anslaget till böckers tryckning — 1070 daler."
+  },
+  {
+   "bbox": [
+    123,
+    1616,
+    1159,
+    1701
+   ],
+   "category": "Text",
+   "text": "Vid ett närmare studium av denna stat får man en förnimmelse av det oklara i hela institutionen. Antikvitetskollegiet var dels en"
+  },
+  {
+   "bbox": [
+    157,
+    1724,
+    962,
+    1756
+   ],
+   "category": "Footnote",
+   "text": "¹ Allt hwad af sådane Böckers försäliande faller görs åhrligen Räkning före."
+  },
+  {
+   "bbox": [
+    1085,
+    1792,
+    1154,
+    1830
+   ],
+   "category": "Page-footer",
+   "text": "123"
+  }
+ ]
+}

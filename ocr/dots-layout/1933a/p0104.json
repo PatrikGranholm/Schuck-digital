@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 104,
+ "seconds": 24.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [391, 232, 964, 276], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiets senare tid\"}, {\"bbox\": [140, 301, 1199, 1434], \"category\": \"Text\", \"text\": \"Samtidigt, den 11 oktober 1685, vände han sig i detta ärende till sin gamle gynnare De la Gardie, som ytterst vänligt besvarade hans brev (V. H. A. A. Antikvitetskollegiet. Högre Tjänstemän.): »Det Hl:e Professoren förmenar migh något till dess wälstånd coopererat hafwa, uptager jagh som en obligent civilitet, och fast jagh i sådan måtto all godh intention hafft och det i wärket låtit påskina, hafwa dock hans egne berömlige Qualiteter och merita mäst contribuerat der till. Hwad det öfrige i dess Bref widkommer, som är det tillbudh, Hr. Professoren giör att willia ordinarie förträda twenne Lectiones publicas, den ene hörande till hans ordinarie profession in lingva Græca och den andra in Historijs, i synnerheet patriæ, och till dess Antiquiteters illustrerande, der han allenast der emot må åtniuta på Collegij Antiquitatum stat det rum medh widhängiande Löhn, som Kongl. May:t allernådigste honom för detta bebrefwat. Så förnimmer jagh sådant vpsåt ganska gierna och skattar detta så mycket nödigare, att in Historijs Vngdomen må åthniuta ordinariam prælectionem publicam här effter, som det i lång tijdh eij skiedt är för andre occupationer skuld, som ordinario Professori Historiarum äre wordne a Majestate anbefalte. Jagh gifwer altså icke allenast Hr. Professoren mitt samtycke, uthan honom a nunc pålägger här medh detta berömlige wärket strax att företaga, skolandes hoos Hans Kongl. May:t giöra der om en sådan rapport, som Hr. Professoren skal lända till avantage. Will och förmoda, att ingen kan disputera eller difficultera Hr. Professoren, hwad Kongl. Fullmacht honom tilllagdt. Men om någon difficultet här i spoordes, är jagh giärna redebogen Hr. Professoren här i att assistera. Hwilket jagh här medh honom försäkrar och att jagh är städse\"}, {\"bbox\": [140, 1512, 645, 1558], \"category\": \"Text\", \"text\": \"Wennegarn 11 octob. A:o 1685.\"}, {\"bbox\": [688, 1475, 1187, 1614], \"category\": \"Text\", \"text\": \"Hr Professorens\\nBeredwillige wän\\nMagnus Gabriel De la Gardie».\"}, {\"bbox\": [137, 1686, 1187, 1777], \"category\": \"Text\", \"text\": \"De la Gardie var nu emellertid en fallen storhet, och det är att förmoda, att hans förord snarare skadat än gagnat. I varje fall kommo\"}, {\"bbox\": [1134, 1802, 1183, 1848], \"category\": \"Page-footer\", \"text\": \"85\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    391,
+    232,
+    964,
+    276
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiets senare tid"
+  },
+  {
+   "bbox": [
+    140,
+    301,
+    1199,
+    1434
+   ],
+   "category": "Text",
+   "text": "Samtidigt, den 11 oktober 1685, vände han sig i detta ärende till sin gamle gynnare De la Gardie, som ytterst vänligt besvarade hans brev (V. H. A. A. Antikvitetskollegiet. Högre Tjänstemän.): »Det Hl:e Professoren förmenar migh något till dess wälstånd coopererat hafwa, uptager jagh som en obligent civilitet, och fast jagh i sådan måtto all godh intention hafft och det i wärket låtit påskina, hafwa dock hans egne berömlige Qualiteter och merita mäst contribuerat der till. Hwad det öfrige i dess Bref widkommer, som är det tillbudh, Hr. Professoren giör att willia ordinarie förträda twenne Lectiones publicas, den ene hörande till hans ordinarie profession in lingva Græca och den andra in Historijs, i synnerheet patriæ, och till dess Antiquiteters illustrerande, der han allenast der emot må åtniuta på Collegij Antiquitatum stat det rum medh widhängiande Löhn, som Kongl. May:t allernådigste honom för detta bebrefwat. Så förnimmer jagh sådant vpsåt ganska gierna och skattar detta så mycket nödigare, att in Historijs Vngdomen må åthniuta ordinariam prælectionem publicam här effter, som det i lång tijdh eij skiedt är för andre occupationer skuld, som ordinario Professori Historiarum äre wordne a Majestate anbefalte. Jagh gifwer altså icke allenast Hr. Professoren mitt samtycke, uthan honom a nunc pålägger här medh detta berömlige wärket strax att företaga, skolandes hoos Hans Kongl. May:t giöra der om en sådan rapport, som Hr. Professoren skal lända till avantage. Will och förmoda, att ingen kan disputera eller difficultera Hr. Professoren, hwad Kongl. Fullmacht honom tilllagdt. Men om någon difficultet här i spoordes, är jagh giärna redebogen Hr. Professoren här i att assistera. Hwilket jagh här medh honom försäkrar och att jagh är städse"
+  },
+  {
+   "bbox": [
+    140,
+    1512,
+    645,
+    1558
+   ],
+   "category": "Text",
+   "text": "Wennegarn 11 octob. A:o 1685."
+  },
+  {
+   "bbox": [
+    688,
+    1475,
+    1187,
+    1614
+   ],
+   "category": "Text",
+   "text": "Hr Professorens\nBeredwillige wän\nMagnus Gabriel De la Gardie»."
+  },
+  {
+   "bbox": [
+    137,
+    1686,
+    1187,
+    1777
+   ],
+   "category": "Text",
+   "text": "De la Gardie var nu emellertid en fallen storhet, och det är att förmoda, att hans förord snarare skadat än gagnat. I varje fall kommo"
+  },
+  {
+   "bbox": [
+    1134,
+    1802,
+    1183,
+    1848
+   ],
+   "category": "Page-footer",
+   "text": "85"
+  }
+ ]
+}

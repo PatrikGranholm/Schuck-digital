@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 15,
+ "seconds": 24.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [755, 216, 1116, 261], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [417, 285, 1452, 497], \"category\": \"Text\", \"text\": \"slag till instruktion finnes nu ej längre såsom bilaga i De la Gardies brevsamling, men originalet påträffades av Gahm hos den i föregående del omtalade sekreteraren Böckman och avskrevs av honom (U. B. sign. Gahm U 111). Det var detta förslag, som De la Gardie sedermera använde. Det lyder:\"}, {\"bbox\": [415, 523, 1449, 693], \"category\": \"Text\", \"text\": \"»Enfaldigt Betänkande uthöfwer dhe Antiquiteter i vårt Rijke, som meritera någon consideration. Projecterat til en General Instruction för Collegio Antiquitatum och til Gref Magnus insinuerat af J. H.\"}, {\"bbox\": [405, 702, 1449, 1705], \"category\": \"Text\", \"text\": \"Månge framfarne Sweriges Konungar hafwa ibland annor försorg om Riksens heder och prydnat mycket skattat till dess illustration och förwidgelse lända, om deras förfäders Bedrifter och lofl. handlingar, som ströningom finnas i åthskillige gamble skrifter och Monumenter i Rijket, kunde upletas och beskrifwas till effterkommandernes kundskap. Såsom wij af K. Carl den 9:des, K. Gustaff Adolphs och Dr. Christinæ exempel kunna oss påminna, hwilka icke allena wisse och ordinarios antiquarios till sådant hafwa antaget och med förnäma underhåld försörgdt, utan och åthskillige andre, både af Prästeståndet och der uthom rijkeligen remunererat, som till Fäderneslandsens antiquiteter hafwa hugsne waret och sig der om winlagdt. Hwilket alt högst bem:te konungar till den ända hafwa så högdt drifwit, att dhe illustrera måtte och giöra för wärlden kunnigt sitt Folkz, dhe Swenskes och Göthers, manlige bedrifter i förtijden, wislige förde Regementen sampt andre lofl. actioner i Rijket. Desse Konungars exempel förnimes nu warande Hans Kongl. May:t i nåde efterfölja wilja och dhet så mycket mera, som H. Kgl. M:tt hafwer taget uti betrachtande, huru detta wärket är widlyftigare, än att det igenom en och twenne Personer kan på kort tijd förrättas. Hwarföre Hans Kgl. M:tt hafwer förmedelst ett Collegii Antiquitatum förordnande i Upsala för godt funnet denne saken till flere committera, på det bem:te antiquiteter icke förr genom långlig tijdh måtte alldeles förödas och uthur menniskio minne falla än upteknade och i liuset framkomma. För hwilke skull och effter-\"}, {\"bbox\": [408, 1775, 430, 1810], \"category\": \"Page-footer\", \"text\": \"8\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    755,
+    216,
+    1116,
+    261
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    417,
+    285,
+    1452,
+    497
+   ],
+   "category": "Text",
+   "text": "slag till instruktion finnes nu ej längre såsom bilaga i De la Gardies brevsamling, men originalet påträffades av Gahm hos den i föregående del omtalade sekreteraren Böckman och avskrevs av honom (U. B. sign. Gahm U 111). Det var detta förslag, som De la Gardie sedermera använde. Det lyder:"
+  },
+  {
+   "bbox": [
+    415,
+    523,
+    1449,
+    693
+   ],
+   "category": "Text",
+   "text": "»Enfaldigt Betänkande uthöfwer dhe Antiquiteter i vårt Rijke, som meritera någon consideration. Projecterat til en General Instruction för Collegio Antiquitatum och til Gref Magnus insinuerat af J. H."
+  },
+  {
+   "bbox": [
+    405,
+    702,
+    1449,
+    1705
+   ],
+   "category": "Text",
+   "text": "Månge framfarne Sweriges Konungar hafwa ibland annor försorg om Riksens heder och prydnat mycket skattat till dess illustration och förwidgelse lända, om deras förfäders Bedrifter och lofl. handlingar, som ströningom finnas i åthskillige gamble skrifter och Monumenter i Rijket, kunde upletas och beskrifwas till effterkommandernes kundskap. Såsom wij af K. Carl den 9:des, K. Gustaff Adolphs och Dr. Christinæ exempel kunna oss påminna, hwilka icke allena wisse och ordinarios antiquarios till sådant hafwa antaget och med förnäma underhåld försörgdt, utan och åthskillige andre, både af Prästeståndet och der uthom rijkeligen remunererat, som till Fäderneslandsens antiquiteter hafwa hugsne waret och sig der om winlagdt. Hwilket alt högst bem:te konungar till den ända hafwa så högdt drifwit, att dhe illustrera måtte och giöra för wärlden kunnigt sitt Folkz, dhe Swenskes och Göthers, manlige bedrifter i förtijden, wislige förde Regementen sampt andre lofl. actioner i Rijket. Desse Konungars exempel förnimes nu warande Hans Kongl. May:t i nåde efterfölja wilja och dhet så mycket mera, som H. Kgl. M:tt hafwer taget uti betrachtande, huru detta wärket är widlyftigare, än att det igenom en och twenne Personer kan på kort tijd förrättas. Hwarföre Hans Kgl. M:tt hafwer förmedelst ett Collegii Antiquitatum förordnande i Upsala för godt funnet denne saken till flere committera, på det bem:te antiquiteter icke förr genom långlig tijdh måtte alldeles förödas och uthur menniskio minne falla än upteknade och i liuset framkomma. För hwilke skull och effter-"
+  },
+  {
+   "bbox": [
+    408,
+    1775,
+    430,
+    1810
+   ],
+   "category": "Page-footer",
+   "text": "8"
+  }
+ ]
+}

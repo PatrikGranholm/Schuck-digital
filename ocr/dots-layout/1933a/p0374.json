@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 374,
+ "seconds": 23.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [182, 531, 1224, 615], \"category\": \"Section-header\", \"text\": \"RANNSAKNINGARNA, DE ANTIKVARISKA RESORNA OCH FORNVÅRDEN.\"}, {\"bbox\": [178, 692, 1234, 1782], \"category\": \"Text\", \"text\": \"I den föregående delen av detta arbete (sid. 264) har avtryckts det fornvårdsplakat, som utfärdades den 28 november 1666 och som i all huvudsak skisserats av Hadorph i ett till De la Gardie ingivet, likaledes där avtryckt förslag. Plakatet avsåg att skydda landets fornminnen. Vikten härav inskärptes med styrka, och det uppdrogs åt världsliga och andliga myndigheter, landshövdingar, biskopar m. fl. att sorgfälligt övervaka förordningens efterlevande. Uppspanandet av fornminnen omnämnes däremot, tämligen kortfattat, först i slutet av plakatet: »til hwilken ände Wij och befalle alle i Gemeen, som om slijke saker någon Kunskap hafwa eller ock til äfwentyrs någre gamble Skriffter, Böcker, Breff, Mynt eller Jnsegel kunne hafwa om händer, att the sådant hoos sine kyrkioherder eller och Wåre Befalningzmän angifwa, på thet wij, igenom them ther om kungiorde, måge wijdare om thesz communication beställa låta». Även detta tillägg återgår till ett av Hadorph ingivet förslag. I sitt utkast till fornvårdsplakatet hade han ingenting yttrat om någon inventering av landets fornminnen. Men då plakatets utfärdande redan var bestämt, skrev han till De la Gardie den 25 september (R. A. Skrivelser till De la Gardie. Hadorph): »I medlertijdh efter Ers hGrefl. Excell. läät i sommars förnimma, att Kongl. M:tt wore nådig resolverat att låta itt Placat uthgå om Antiquiteternes conservation i Rijket (hwilket wore itt ganska högtberömmeligt tingh emot dheras allmenne och dagelige förödande, som mäst af hwar man i landet skier), ty fördristar iagh migh i ödmiukheet till Ers höghGrefl. Excell. ett enfaldigt betänkiande öfwersända om dhe puncter, som mäst nödige synes till sådant Kongl. Ma:ttz publicerande, item itt förslag\"}, {\"bbox\": [1234, 697, 1367, 790], \"category\": \"Text\", \"text\": \"Hadorph och fornvårdsplakatet\"}, {\"bbox\": [1155, 1815, 1227, 1853], \"category\": \"Page-footer\", \"text\": \"343\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    182,
+    531,
+    1224,
+    615
+   ],
+   "category": "Section-header",
+   "text": "RANNSAKNINGARNA, DE ANTIKVARISKA RESORNA OCH FORNVÅRDEN."
+  },
+  {
+   "bbox": [
+    178,
+    692,
+    1234,
+    1782
+   ],
+   "category": "Text",
+   "text": "I den föregående delen av detta arbete (sid. 264) har avtryckts det fornvårdsplakat, som utfärdades den 28 november 1666 och som i all huvudsak skisserats av Hadorph i ett till De la Gardie ingivet, likaledes där avtryckt förslag. Plakatet avsåg att skydda landets fornminnen. Vikten härav inskärptes med styrka, och det uppdrogs åt världsliga och andliga myndigheter, landshövdingar, biskopar m. fl. att sorgfälligt övervaka förordningens efterlevande. Uppspanandet av fornminnen omnämnes däremot, tämligen kortfattat, först i slutet av plakatet: »til hwilken ände Wij och befalle alle i Gemeen, som om slijke saker någon Kunskap hafwa eller ock til äfwentyrs någre gamble Skriffter, Böcker, Breff, Mynt eller Jnsegel kunne hafwa om händer, att the sådant hoos sine kyrkioherder eller och Wåre Befalningzmän angifwa, på thet wij, igenom them ther om kungiorde, måge wijdare om thesz communication beställa låta». Även detta tillägg återgår till ett av Hadorph ingivet förslag. I sitt utkast till fornvårdsplakatet hade han ingenting yttrat om någon inventering av landets fornminnen. Men då plakatets utfärdande redan var bestämt, skrev han till De la Gardie den 25 september (R. A. Skrivelser till De la Gardie. Hadorph): »I medlertijdh efter Ers hGrefl. Excell. läät i sommars förnimma, att Kongl. M:tt wore nådig resolverat att låta itt Placat uthgå om Antiquiteternes conservation i Rijket (hwilket wore itt ganska högtberömmeligt tingh emot dheras allmenne och dagelige förödande, som mäst af hwar man i landet skier), ty fördristar iagh migh i ödmiukheet till Ers höghGrefl. Excell. ett enfaldigt betänkiande öfwersända om dhe puncter, som mäst nödige synes till sådant Kongl. Ma:ttz publicerande, item itt förslag"
+  },
+  {
+   "bbox": [
+    1234,
+    697,
+    1367,
+    790
+   ],
+   "category": "Text",
+   "text": "Hadorph och fornvårdsplakatet"
+  },
+  {
+   "bbox": [
+    1155,
+    1815,
+    1227,
+    1853
+   ],
+   "category": "Page-footer",
+   "text": "343"
+  }
+ ]
+}

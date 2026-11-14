@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 295,
+ "seconds": 23.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [681, 525, 1203, 565], \"category\": \"Section-header\", \"text\": \"ANTIKVITETSSAMLINGEN.\"}, {\"bbox\": [285, 641, 417, 705], \"category\": \"Text\", \"text\": \"Riksarkivets samling\"}, {\"bbox\": [415, 636, 1464, 1475], \"category\": \"Text\", \"text\": \"Det frö, ur vilket statens samling av antikviteter sedermera växte fram, var »Rasmus Ludvigssons handlingar» eller de kopieböcker och brev, som tillhört de medeltida klostren och kyrkorna och vid reformationen dragits in till kronan, enär de kunde förmodas äga en ekonomisk betydelse. De egentliga biblioteken, codices med ett religiöst eller vetenskapligt innehåll, blevo däremot, såsom vi sett, till större delen förskingrade — dock med ett viktigt undantag. Till sitt huvudsakliga bestånd blev Vadstena klosters bibliotek skonat. Större delen skänktes till Uppsala universitet, en annan del införlivades med riksarkivet, och åtskilligt togs, i början av 1600-talet, av enskilda samlare. Även av Stockholms gråmunkeklosters bibliotek finnas några rester i kungl. biblioteket och Uppsala universitetsbibliotek, från övriga kloster blott enstaka codices. Då intresset för fornminnen på Gustav Adolfs tid vaknat, fingo emellertid de medeltida arkivalierna och handskrifterna, runstenarna och rimstavarna ett nationellt värde, som räddade återstoden från undergång. Man betecknade dem med namnet »antikviteter», och blott så småningom kom man att uppmärksamma även andra fornminnen: mynt, medeltida gravinskrifter, sigill samt slutligen även sådana fornminnen som vapen, smycken, borgar och kyrkor.\"}, {\"bbox\": [411, 1472, 1456, 1773], \"category\": \"Text\", \"text\": \"Den naturliga förvaringsplatsen för de ännu blott litterära antikviteterna var kansliet, där »Rasmus Ludvigssons handlingar» förut befunno sig, och med dem sammanfördes nu ock de fornsvenska handskrifter, som inkommo från det övergivna klostret i Vadstena, under det att de latinska manuskripten skänktes till universitetet i Uppsala, dock utan någon systematisk fördelning. Av 1626 års kansliordning framgår, att man då börjat intressera sig för den yt-\"}, {\"bbox\": [415, 1792, 488, 1839], \"category\": \"Page-footer\", \"text\": \"264\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    681,
+    525,
+    1203,
+    565
+   ],
+   "category": "Section-header",
+   "text": "ANTIKVITETSSAMLINGEN."
+  },
+  {
+   "bbox": [
+    285,
+    641,
+    417,
+    705
+   ],
+   "category": "Text",
+   "text": "Riksarkivets samling"
+  },
+  {
+   "bbox": [
+    415,
+    636,
+    1464,
+    1475
+   ],
+   "category": "Text",
+   "text": "Det frö, ur vilket statens samling av antikviteter sedermera växte fram, var »Rasmus Ludvigssons handlingar» eller de kopieböcker och brev, som tillhört de medeltida klostren och kyrkorna och vid reformationen dragits in till kronan, enär de kunde förmodas äga en ekonomisk betydelse. De egentliga biblioteken, codices med ett religiöst eller vetenskapligt innehåll, blevo däremot, såsom vi sett, till större delen förskingrade — dock med ett viktigt undantag. Till sitt huvudsakliga bestånd blev Vadstena klosters bibliotek skonat. Större delen skänktes till Uppsala universitet, en annan del införlivades med riksarkivet, och åtskilligt togs, i början av 1600-talet, av enskilda samlare. Även av Stockholms gråmunkeklosters bibliotek finnas några rester i kungl. biblioteket och Uppsala universitetsbibliotek, från övriga kloster blott enstaka codices. Då intresset för fornminnen på Gustav Adolfs tid vaknat, fingo emellertid de medeltida arkivalierna och handskrifterna, runstenarna och rimstavarna ett nationellt värde, som räddade återstoden från undergång. Man betecknade dem med namnet »antikviteter», och blott så småningom kom man att uppmärksamma även andra fornminnen: mynt, medeltida gravinskrifter, sigill samt slutligen även sådana fornminnen som vapen, smycken, borgar och kyrkor."
+  },
+  {
+   "bbox": [
+    411,
+    1472,
+    1456,
+    1773
+   ],
+   "category": "Text",
+   "text": "Den naturliga förvaringsplatsen för de ännu blott litterära antikviteterna var kansliet, där »Rasmus Ludvigssons handlingar» förut befunno sig, och med dem sammanfördes nu ock de fornsvenska handskrifter, som inkommo från det övergivna klostret i Vadstena, under det att de latinska manuskripten skänktes till universitetet i Uppsala, dock utan någon systematisk fördelning. Av 1626 års kansliordning framgår, att man då börjat intressera sig för den yt-"
+  },
+  {
+   "bbox": [
+    415,
+    1792,
+    488,
+    1839
+   ],
+   "category": "Page-footer",
+   "text": "264"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 240,
+ "seconds": 28.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [394, 237, 925, 280], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiets ekonomi\"}, {\"bbox\": [320, 308, 990, 351], \"category\": \"Text\", \"text\": \"»Stat för Collegio Antiquitatum A:0 1682\"}, {\"bbox\": [132, 345, 1179, 1430], \"category\": \"Table\", \"text\": \"<table><thead><tr><th></th><th>Sölf. mt.<br>Dr.</th></tr></thead><tbody><tr><td>Secret. Johan Hadorphius uthom Antiquarii löhnen</td><td></td></tr><tr><td>Af Remedio och Besparingen</td><td>1000</td></tr><tr><td>af tryckerijtunnan</td><td>200</td></tr><tr><td></td><td>1200</td></tr><tr><td>Claudius Arrhenius föruthan sin Löhn widh<br>Academien och Cantzliet.</td><td></td></tr><tr><td>af tryckerijtunnan</td><td>200</td></tr><tr><td>Historiographus Pufendorf uthom sin löhn widh Cantzlie Sta-<br>ten af tryckerijtunnan</td><td>200</td></tr><tr><td>Assessoren Tobias Wester af tryckerijtunnan</td><td>300</td></tr><tr><td>Actuarius Archivi et Antiquitatum Ericus Wennesius</td><td></td></tr><tr><td>af Remedio och Besparingen</td><td>300</td></tr><tr><td>af tryckerijtunnan till kostpenningar</td><td>100</td></tr><tr><td></td><td>400</td></tr><tr><td>Translator af gamble språket gudmund Olofsson</td><td></td></tr><tr><td>af tryckerijtunnan med kostpenningar</td><td>400</td></tr><tr><td>Johan Peringer uthom den löhn, som han niuter wid<br>Academien i Upsala</td><td></td></tr><tr><td>af tryckerijtunnan</td><td>200</td></tr><tr><td>Amanuensis Lars Persson af Mynte Remedio och Besparingen</td><td>200</td></tr><tr><td>En Amanuensis islandus af tryckerijtunnan</td><td>250</td></tr><tr><td>Twenne Amanuenses Swenske, den ena niuter Copist Löhn<br>i Archivo, den andre af tryckerijtunnan</td><td>200</td></tr><tr><td>Twenne Rijtare, af Mynte Remedio och Besparingen</td><td>200</td></tr><tr><td>af tryckerijtunnan</td><td>200</td></tr><tr><td></td><td>400</td></tr><tr><td>En formsnidare af Remedio och Besparingen</td><td>300</td></tr><tr><td>Till Resepenningar och Resedrängz Löhn af Remedio och<br>Bespar.</td><td>300</td></tr><tr><td>Än till hwariehanda expenser, som skall göras Rächning för<br>af tryckerijt.</td><td>150</td></tr><tr><td></td><td>450</td></tr><tr><td>Summa</td><td>4700</td></tr></tbody></table>\"}, {\"bbox\": [132, 1467, 1179, 1763], \"category\": \"Text\", \"text\": \"Hwad som Remedium och Besparingen sampt Tryckerijtunnan öfwer ofwanbem:de Summor kunna importera, det skall altsammans anwändas till Böckers tryckiande såsom Pappers inkiöp och Correctoris löhn, kopparstickande och andre sådane usus; om och någon af Betiänterne ära oflitige eller rum blifwa ledige, som icke framdeles behöfdes, så skall jämwäl den Besparing, som der igenom kan blifwa, till ofwanbem:de usus anläggias och öfwer altsammans åhrlig in-\"}, {\"bbox\": [158, 1816, 297, 1841], \"category\": \"Page-footer\", \"text\": \"14-3264. II.\"}, {\"bbox\": [1100, 1805, 1171, 1844], \"category\": \"Page-footer\", \"text\": \"209\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    394,
+    237,
+    925,
+    280
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiets ekonomi"
+  },
+  {
+   "bbox": [
+    320,
+    308,
+    990,
+    351
+   ],
+   "category": "Text",
+   "text": "»Stat för Collegio Antiquitatum A:0 1682"
+  },
+  {
+   "bbox": [
+    132,
+    345,
+    1179,
+    1430
+   ],
+   "category": "Table",
+   "text": "<table><thead><tr><th></th><th>Sölf. mt.<br>Dr.</th></tr></thead><tbody><tr><td>Secret. Johan Hadorphius uthom Antiquarii löhnen</td><td></td></tr><tr><td>Af Remedio och Besparingen</td><td>1000</td></tr><tr><td>af tryckerijtunnan</td><td>200</td></tr><tr><td></td><td>1200</td></tr><tr><td>Claudius Arrhenius föruthan sin Löhn widh<br>Academien och Cantzliet.</td><td></td></tr><tr><td>af tryckerijtunnan</td><td>200</td></tr><tr><td>Historiographus Pufendorf uthom sin löhn widh Cantzlie Sta-<br>ten af tryckerijtunnan</td><td>200</td></tr><tr><td>Assessoren Tobias Wester af tryckerijtunnan</td><td>300</td></tr><tr><td>Actuarius Archivi et Antiquitatum Ericus Wennesius</td><td></td></tr><tr><td>af Remedio och Besparingen</td><td>300</td></tr><tr><td>af tryckerijtunnan till kostpenningar</td><td>100</td></tr><tr><td></td><td>400</td></tr><tr><td>Translator af gamble språket gudmund Olofsson</td><td></td></tr><tr><td>af tryckerijtunnan med kostpenningar</td><td>400</td></tr><tr><td>Johan Peringer uthom den löhn, som han niuter wid<br>Academien i Upsala</td><td></td></tr><tr><td>af tryckerijtunnan</td><td>200</td></tr><tr><td>Amanuensis Lars Persson af Mynte Remedio och Besparingen</td><td>200</td></tr><tr><td>En Amanuensis islandus af tryckerijtunnan</td><td>250</td></tr><tr><td>Twenne Amanuenses Swenske, den ena niuter Copist Löhn<br>i Archivo, den andre af tryckerijtunnan</td><td>200</td></tr><tr><td>Twenne Rijtare, af Mynte Remedio och Besparingen</td><td>200</td></tr><tr><td>af tryckerijtunnan</td><td>200</td></tr><tr><td></td><td>400</td></tr><tr><td>En formsnidare af Remedio och Besparingen</td><td>300</td></tr><tr><td>Till Resepenningar och Resedrängz Löhn af Remedio och<br>Bespar.</td><td>300</td></tr><tr><td>Än till hwariehanda expenser, som skall göras Rächning för<br>af tryckerijt.</td><td>150</td></tr><tr><td></td><td>450</td></tr><tr><td>Summa</td><td>4700</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    132,
+    1467,
+    1179,
+    1763
+   ],
+   "category": "Text",
+   "text": "Hwad som Remedium och Besparingen sampt Tryckerijtunnan öfwer ofwanbem:de Summor kunna importera, det skall altsammans anwändas till Böckers tryckiande såsom Pappers inkiöp och Correctoris löhn, kopparstickande och andre sådane usus; om och någon af Betiänterne ära oflitige eller rum blifwa ledige, som icke framdeles behöfdes, så skall jämwäl den Besparing, som der igenom kan blifwa, till ofwanbem:de usus anläggias och öfwer altsammans åhrlig in-"
+  },
+  {
+   "bbox": [
+    158,
+    1816,
+    297,
+    1841
+   ],
+   "category": "Page-footer",
+   "text": "14-3264. II."
+  },
+  {
+   "bbox": [
+    1100,
+    1805,
+    1171,
+    1844
+   ],
+   "category": "Page-footer",
+   "text": "209"
+  }
+ ]
+}

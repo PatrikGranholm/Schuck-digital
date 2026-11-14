@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 35,
+ "seconds": 27.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [763, 219, 1123, 262], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [268, 295, 416, 358], \"category\": \"Text\", \"text\": \"Loccenius blir\\nvice præses\"}, {\"bbox\": [419, 289, 1456, 583], \"category\": \"Text\", \"text\": \"Sammankomsten blev således av, ehuru visserligen tre dagar senare än den i Instruktionen utsatta dagen, men detta konstituerande sammanträde blev också det både första och sista, i vilket Stiernhielm tog någon del, och instruktionen tyckes han först senare hava skickat till Loccenius, ty den 14 juli 1668 skrev han följande brev (U. B. sign. U 143) till denne — det enda dokumentet av hans verksamhet inom kollegiet.\"}, {\"bbox\": [453, 599, 1363, 643], \"category\": \"Text\", \"text\": \"»Höglärde Hr. Doctor, högährade K. Broder och Collega.\"}, {\"bbox\": [416, 647, 1456, 1391], \"category\": \"Text\", \"text\": \"At iag alt härtil hafuer uppehållit at suara på min K. Broders bref af den 10 junij hafuer de månge beställningar med Rijkzdags wäsende, som mig dageligen öfuerliggia, såwel som andra extraordinarie commissioner warit orsaken til. Och såssom iag nu een lijten ledigheet finner, så öfuersänder iag här iämte på m. k. Broders begäran Instruction för Collegio Antiquit. så ok de breef, som ifrån Biskoperna inkomna äro. Men huad Biskopen i Wästeråhs skulle hafua mig tilskickat, såsom min K. Broder skrifuer, weet iag slätt intet af. Eftersom iag förnimmer, at Stipendia wijd Academien wijd denne tijden uttdeles, så beder iag m. k. Broder, att han wille hafua de studenter i minne, som til Collegium antagne äro, som är Samuel Columbus, Abraham Tornæus¹ och Jonas Rugman, at de måtte bekomma den deel, som Kongl. May:t dem nådigst förundt haf:r, i synnerhet at Tornæus måtte få til godo åtniuta Kongl. May:tz breef på Dupl. Stipendio ifrån den 1 jan. 1667. Huad härefter lärer förefalla wårt Collegium angående, wil iag gärna m. k. Broder meddeela och befaller honom härmed utj Gudz beskydd, förblijfuandes\"}, {\"bbox\": [418, 1438, 773, 1515], \"category\": \"Text\", \"text\": \"Stockholm d. 14 Julij\\nåhr 1668.\"}, {\"bbox\": [877, 1397, 1378, 1516], \"category\": \"Text\", \"text\": \"M. k. Broders och hl. Collegæ\\ntienstwillige\\nG. Stiernhielm.»\"}, {\"bbox\": [414, 1545, 1454, 1715], \"category\": \"Text\", \"text\": \"Brevet visar också, huru hindersam Stiernhielm var för kollegiets arbeten. Skrivelser till kollegiet hade adresserats till honom såsom den nya institutionens direktor, men dessa skrivelser behöll han långa tider hos sig. Förmodligen var det åter Hadorph, som nu\"}, {\"bbox\": [450, 1719, 996, 1747], \"category\": \"Footnote\", \"text\": \"¹ Columbus och Tornæus voro hans amanuenser.\"}, {\"bbox\": [418, 1788, 466, 1824], \"category\": \"Page-footer\", \"text\": \"24\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    763,
+    219,
+    1123,
+    262
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    268,
+    295,
+    416,
+    358
+   ],
+   "category": "Text",
+   "text": "Loccenius blir\nvice præses"
+  },
+  {
+   "bbox": [
+    419,
+    289,
+    1456,
+    583
+   ],
+   "category": "Text",
+   "text": "Sammankomsten blev således av, ehuru visserligen tre dagar senare än den i Instruktionen utsatta dagen, men detta konstituerande sammanträde blev också det både första och sista, i vilket Stiernhielm tog någon del, och instruktionen tyckes han först senare hava skickat till Loccenius, ty den 14 juli 1668 skrev han följande brev (U. B. sign. U 143) till denne — det enda dokumentet av hans verksamhet inom kollegiet."
+  },
+  {
+   "bbox": [
+    453,
+    599,
+    1363,
+    643
+   ],
+   "category": "Text",
+   "text": "»Höglärde Hr. Doctor, högährade K. Broder och Collega."
+  },
+  {
+   "bbox": [
+    416,
+    647,
+    1456,
+    1391
+   ],
+   "category": "Text",
+   "text": "At iag alt härtil hafuer uppehållit at suara på min K. Broders bref af den 10 junij hafuer de månge beställningar med Rijkzdags wäsende, som mig dageligen öfuerliggia, såwel som andra extraordinarie commissioner warit orsaken til. Och såssom iag nu een lijten ledigheet finner, så öfuersänder iag här iämte på m. k. Broders begäran Instruction för Collegio Antiquit. så ok de breef, som ifrån Biskoperna inkomna äro. Men huad Biskopen i Wästeråhs skulle hafua mig tilskickat, såsom min K. Broder skrifuer, weet iag slätt intet af. Eftersom iag förnimmer, at Stipendia wijd Academien wijd denne tijden uttdeles, så beder iag m. k. Broder, att han wille hafua de studenter i minne, som til Collegium antagne äro, som är Samuel Columbus, Abraham Tornæus¹ och Jonas Rugman, at de måtte bekomma den deel, som Kongl. May:t dem nådigst förundt haf:r, i synnerhet at Tornæus måtte få til godo åtniuta Kongl. May:tz breef på Dupl. Stipendio ifrån den 1 jan. 1667. Huad härefter lärer förefalla wårt Collegium angående, wil iag gärna m. k. Broder meddeela och befaller honom härmed utj Gudz beskydd, förblijfuandes"
+  },
+  {
+   "bbox": [
+    418,
+    1438,
+    773,
+    1515
+   ],
+   "category": "Text",
+   "text": "Stockholm d. 14 Julij\nåhr 1668."
+  },
+  {
+   "bbox": [
+    877,
+    1397,
+    1378,
+    1516
+   ],
+   "category": "Text",
+   "text": "M. k. Broders och hl. Collegæ\ntienstwillige\nG. Stiernhielm.»"
+  },
+  {
+   "bbox": [
+    414,
+    1545,
+    1454,
+    1715
+   ],
+   "category": "Text",
+   "text": "Brevet visar också, huru hindersam Stiernhielm var för kollegiets arbeten. Skrivelser till kollegiet hade adresserats till honom såsom den nya institutionens direktor, men dessa skrivelser behöll han långa tider hos sig. Förmodligen var det åter Hadorph, som nu"
+  },
+  {
+   "bbox": [
+    450,
+    1719,
+    996,
+    1747
+   ],
+   "category": "Footnote",
+   "text": "¹ Columbus och Tornæus voro hans amanuenser."
+  },
+  {
+   "bbox": [
+    418,
+    1788,
+    466,
+    1824
+   ],
+   "category": "Page-footer",
+   "text": "24"
+  }
+ ]
+}

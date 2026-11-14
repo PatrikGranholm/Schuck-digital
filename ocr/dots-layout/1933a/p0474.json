@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 474,
+ "seconds": 25.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [157, 243, 1201, 288], \"category\": \"Page-header\", \"text\": \"Rannsakningarna, de antikvariska resorna och fornvården\"}, {\"bbox\": [665, 325, 692, 349], \"category\": \"Section-header\", \"text\": \"1.\"}, {\"bbox\": [155, 368, 1203, 740], \"category\": \"Text\", \"text\": \"Han måste wijd alle uthrijkes orter och Städer, där han någre\\nhandlingar eller effterlefwor af giötiske antiquiteter förmodar att\\nfinna, i synnerheet uti Clöster och gamble Biblioteker och raritets-\\ncamrar sampt hoos lärde och Curieuse männ, med flijt och försich-\\ntigheet effterspana allehanda gamble manuscripter och böcker, in-\\nscriptioner, strijdztyg och slijka effterlefwor och Monumenter, dhe\\nSwenske och giöthar angående, dhem han skall beflijta sig att be-\\nkomma och inlösa el. afskrifwa och afrijta och sådant alt hijt hem\\nförskaffa.\"}, {\"bbox\": [663, 760, 692, 785], \"category\": \"Section-header\", \"text\": \"2.\"}, {\"bbox\": [157, 803, 1203, 1101], \"category\": \"Text\", \"text\": \"Han måste i alla orter, dher han kommer, sökia kundskap och omgiänge med lärde och curieuse männ, af hwilcka han någre effter-rättelser må undfå eller recommendationer och addresser till andre orter, där sådant må finnas. I synnerheet måste han i Holland skaffa sig gode Adress bref till General Stat:s ministrer, consuler och factorer på dhe ohrter wistandes, dijt han sine resor ärnar ställa, på det han igenom dhem må winna så mycket lättare tillträde.\"}, {\"bbox\": [663, 1143, 693, 1176], \"category\": \"Section-header\", \"text\": \"3.\"}, {\"bbox\": [157, 1185, 1203, 1398], \"category\": \"Text\", \"text\": \"Fördenskull är också Kongl. May:tz nådige willje, att han sig anmäla skall hoos Kongl. May:tz ministrer uthom Landz, på dhet dhe må wara honom häruthinnan behielpelige och förforderlige, så dhe sielfwe som igenom sine bekante och wänner, hwarföre Kongl. May:t honom också en öppen order till dhem meddelar.\"}, {\"bbox\": [661, 1441, 692, 1472], \"category\": \"Section-header\", \"text\": \"4.\"}, {\"bbox\": [157, 1483, 1203, 1780], \"category\": \"Text\", \"text\": \"Huru han sin rese skall anställa, hwad Land och Städer han be-\\nsökia skall sampt hwad han egentel. på dhen ena el. andre ohrten\\nskall effterspana, det will Kongl. May:tt fuller endels lemna till\\nhans egen dijudication i nådigt anseende till dhen kundskap, som\\nhan allaredo sielf hafwer om dhe gamble Swenskas och giöthers\\nmigrationer och Säthen och dhe documenter, han därom allaredo\\nundfåt haf:r eller här effter på en annan ohrt utrijkes bekomma kan.\"}, {\"bbox\": [1125, 1813, 1199, 1851], \"category\": \"Page-footer\", \"text\": \"443\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    157,
+    243,
+    1201,
+    288
+   ],
+   "category": "Page-header",
+   "text": "Rannsakningarna, de antikvariska resorna och fornvården"
+  },
+  {
+   "bbox": [
+    665,
+    325,
+    692,
+    349
+   ],
+   "category": "Section-header",
+   "text": "1."
+  },
+  {
+   "bbox": [
+    155,
+    368,
+    1203,
+    740
+   ],
+   "category": "Text",
+   "text": "Han måste wijd alle uthrijkes orter och Städer, där han någre\nhandlingar eller effterlefwor af giötiske antiquiteter förmodar att\nfinna, i synnerheet uti Clöster och gamble Biblioteker och raritets-\ncamrar sampt hoos lärde och Curieuse männ, med flijt och försich-\ntigheet effterspana allehanda gamble manuscripter och böcker, in-\nscriptioner, strijdztyg och slijka effterlefwor och Monumenter, dhe\nSwenske och giöthar angående, dhem han skall beflijta sig att be-\nkomma och inlösa el. afskrifwa och afrijta och sådant alt hijt hem\nförskaffa."
+  },
+  {
+   "bbox": [
+    663,
+    760,
+    692,
+    785
+   ],
+   "category": "Section-header",
+   "text": "2."
+  },
+  {
+   "bbox": [
+    157,
+    803,
+    1203,
+    1101
+   ],
+   "category": "Text",
+   "text": "Han måste i alla orter, dher han kommer, sökia kundskap och omgiänge med lärde och curieuse männ, af hwilcka han någre effter-rättelser må undfå eller recommendationer och addresser till andre orter, där sådant må finnas. I synnerheet måste han i Holland skaffa sig gode Adress bref till General Stat:s ministrer, consuler och factorer på dhe ohrter wistandes, dijt han sine resor ärnar ställa, på det han igenom dhem må winna så mycket lättare tillträde."
+  },
+  {
+   "bbox": [
+    663,
+    1143,
+    693,
+    1176
+   ],
+   "category": "Section-header",
+   "text": "3."
+  },
+  {
+   "bbox": [
+    157,
+    1185,
+    1203,
+    1398
+   ],
+   "category": "Text",
+   "text": "Fördenskull är också Kongl. May:tz nådige willje, att han sig anmäla skall hoos Kongl. May:tz ministrer uthom Landz, på dhet dhe må wara honom häruthinnan behielpelige och förforderlige, så dhe sielfwe som igenom sine bekante och wänner, hwarföre Kongl. May:t honom också en öppen order till dhem meddelar."
+  },
+  {
+   "bbox": [
+    661,
+    1441,
+    692,
+    1472
+   ],
+   "category": "Section-header",
+   "text": "4."
+  },
+  {
+   "bbox": [
+    157,
+    1483,
+    1203,
+    1780
+   ],
+   "category": "Text",
+   "text": "Huru han sin rese skall anställa, hwad Land och Städer han be-\nsökia skall sampt hwad han egentel. på dhen ena el. andre ohrten\nskall effterspana, det will Kongl. May:tt fuller endels lemna till\nhans egen dijudication i nådigt anseende till dhen kundskap, som\nhan allaredo sielf hafwer om dhe gamble Swenskas och giöthers\nmigrationer och Säthen och dhe documenter, han därom allaredo\nundfåt haf:r eller här effter på en annan ohrt utrijkes bekomma kan."
+  },
+  {
+   "bbox": [
+    1125,
+    1813,
+    1199,
+    1851
+   ],
+   "category": "Page-footer",
+   "text": "443"
+  }
+ ]
+}

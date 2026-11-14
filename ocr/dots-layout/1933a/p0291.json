@@ -1,0 +1,222 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 291,
+ "seconds": 31.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [774, 246, 1133, 290], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [430, 316, 1476, 403], \"category\": \"Text\", \"text\": \"och komme till att afträda, hwarföre wij alt detta underkasta Eders Kongl. May:tz nådige behag och förblifwe så länge wij lefwe\"}, {\"bbox\": [836, 425, 1068, 468], \"category\": \"Text\", \"text\": \"E:s K. May:tz\"}, {\"bbox\": [430, 484, 597, 521], \"category\": \"Text\", \"text\": \"B. Oxenst.\"}, {\"bbox\": [720, 484, 880, 521], \"category\": \"Text\", \"text\": \"F. Wrede.\"}, {\"bbox\": [983, 484, 1241, 528], \"category\": \"Text\", \"text\": \"N. Gyllenstolpe.\"}, {\"bbox\": [427, 537, 608, 581], \"category\": \"Text\", \"text\": \"J. Bergenh.\"}, {\"bbox\": [676, 537, 939, 581], \"category\": \"Text\", \"text\": \"H. Billingschöld.\"}, {\"bbox\": [1010, 537, 1215, 581], \"category\": \"Text\", \"text\": \"A. von Grot.\"}, {\"bbox\": [1286, 537, 1471, 581], \"category\": \"Text\", \"text\": \"J. Fleming.\"}, {\"bbox\": [430, 604, 698, 647], \"category\": \"Text\", \"text\": \"ut in protokollo».\"}, {\"bbox\": [466, 681, 1222, 724], \"category\": \"Text\", \"text\": \"Härtill fogade kommissionen ett förslag till stat:\"}, {\"bbox\": [497, 735, 1401, 779], \"category\": \"Text\", \"text\": \"»Antiquitetz Archivi Staat under Kongl. Cantzlij Collegio\"}, {\"bbox\": [427, 792, 1351, 1268], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td></td><td>En Secretarius eller Antiquarius niuter de 600 D. smt, som på Archivi Staat äre Antiquario påförde, och får nu dertill på denne Staten dahl. Sölf.</td><td>600</td></tr><tr><td></td><td>Twenne Assessorer hwardera 600</td><td>1200</td></tr><tr><td></td><td>En Translator af gamble språken</td><td>500</td></tr><tr><td></td><td>En amanuensis</td><td>250</td></tr><tr><td></td><td>En dito</td><td>200</td></tr><tr><td></td><td>En Rijtare</td><td>200</td></tr><tr><td></td><td>En dräng</td><td>60</td></tr><tr><td rowspan=\\\"3\\\">Under beräknande</td><td>Resepenningar</td><td>150</td></tr><tr><td>Till hwariehanda expenser</td><td>100</td></tr><tr><td>Till Böcker, Papper, tryckerij, formsnijdande</td><td>400</td></tr><tr><td></td><td></td><td>Dahl. smt. 3660</td></tr></tbody></table>\"}, {\"bbox\": [430, 1295, 1471, 1380], \"category\": \"Text\", \"text\": \"När något wärk är förfärdigat, will Kongl. May:t benåda Auctoren med en trediedehl af alle de exemplaren, som upläggias».\"}, {\"bbox\": [295, 1383, 416, 1415], \"category\": \"Text\", \"text\": \"Avgörandet\"}, {\"bbox\": [430, 1380, 1471, 1506], \"category\": \"Text\", \"text\": \"Den kungliga resolutionen (Riksregistraturet), varigenom antikvitetskollegiet förvandlades till ett antikvitetsarkiv, utfärdades den 23 april 1692 och lyder:\"}, {\"bbox\": [430, 1539, 1471, 1625], \"category\": \"Text\", \"text\": \"»Till Cantzlij och Cammar Collegium angående någre Antiquitets Archivi ärender.\"}, {\"bbox\": [466, 1647, 1194, 1690], \"category\": \"Text\", \"text\": \"Carl etc. Wår synnerl. ynnest. Tro männ etc.\"}, {\"bbox\": [430, 1693, 1471, 1780], \"category\": \"Text\", \"text\": \"Wij hafwe låtit Oss föreläsa Eder underdånige berättelse af d. 7 hujus angående Staten för Antiquitets Collegio, huruledes neml.\"}, {\"bbox\": [430, 1807, 507, 1846], \"category\": \"Page-footer\", \"text\": \"260\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    774,
+    246,
+    1133,
+    290
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    430,
+    316,
+    1476,
+    403
+   ],
+   "category": "Text",
+   "text": "och komme till att afträda, hwarföre wij alt detta underkasta Eders Kongl. May:tz nådige behag och förblifwe så länge wij lefwe"
+  },
+  {
+   "bbox": [
+    836,
+    425,
+    1068,
+    468
+   ],
+   "category": "Text",
+   "text": "E:s K. May:tz"
+  },
+  {
+   "bbox": [
+    430,
+    484,
+    597,
+    521
+   ],
+   "category": "Text",
+   "text": "B. Oxenst."
+  },
+  {
+   "bbox": [
+    720,
+    484,
+    880,
+    521
+   ],
+   "category": "Text",
+   "text": "F. Wrede."
+  },
+  {
+   "bbox": [
+    983,
+    484,
+    1241,
+    528
+   ],
+   "category": "Text",
+   "text": "N. Gyllenstolpe."
+  },
+  {
+   "bbox": [
+    427,
+    537,
+    608,
+    581
+   ],
+   "category": "Text",
+   "text": "J. Bergenh."
+  },
+  {
+   "bbox": [
+    676,
+    537,
+    939,
+    581
+   ],
+   "category": "Text",
+   "text": "H. Billingschöld."
+  },
+  {
+   "bbox": [
+    1010,
+    537,
+    1215,
+    581
+   ],
+   "category": "Text",
+   "text": "A. von Grot."
+  },
+  {
+   "bbox": [
+    1286,
+    537,
+    1471,
+    581
+   ],
+   "category": "Text",
+   "text": "J. Fleming."
+  },
+  {
+   "bbox": [
+    430,
+    604,
+    698,
+    647
+   ],
+   "category": "Text",
+   "text": "ut in protokollo»."
+  },
+  {
+   "bbox": [
+    466,
+    681,
+    1222,
+    724
+   ],
+   "category": "Text",
+   "text": "Härtill fogade kommissionen ett förslag till stat:"
+  },
+  {
+   "bbox": [
+    497,
+    735,
+    1401,
+    779
+   ],
+   "category": "Text",
+   "text": "»Antiquitetz Archivi Staat under Kongl. Cantzlij Collegio"
+  },
+  {
+   "bbox": [
+    427,
+    792,
+    1351,
+    1268
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td></td><td>En Secretarius eller Antiquarius niuter de 600 D. smt, som på Archivi Staat äre Antiquario påförde, och får nu dertill på denne Staten dahl. Sölf.</td><td>600</td></tr><tr><td></td><td>Twenne Assessorer hwardera 600</td><td>1200</td></tr><tr><td></td><td>En Translator af gamble språken</td><td>500</td></tr><tr><td></td><td>En amanuensis</td><td>250</td></tr><tr><td></td><td>En dito</td><td>200</td></tr><tr><td></td><td>En Rijtare</td><td>200</td></tr><tr><td></td><td>En dräng</td><td>60</td></tr><tr><td rowspan=\"3\">Under beräknande</td><td>Resepenningar</td><td>150</td></tr><tr><td>Till hwariehanda expenser</td><td>100</td></tr><tr><td>Till Böcker, Papper, tryckerij, formsnijdande</td><td>400</td></tr><tr><td></td><td></td><td>Dahl. smt. 3660</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    430,
+    1295,
+    1471,
+    1380
+   ],
+   "category": "Text",
+   "text": "När något wärk är förfärdigat, will Kongl. May:t benåda Auctoren med en trediedehl af alle de exemplaren, som upläggias»."
+  },
+  {
+   "bbox": [
+    295,
+    1383,
+    416,
+    1415
+   ],
+   "category": "Text",
+   "text": "Avgörandet"
+  },
+  {
+   "bbox": [
+    430,
+    1380,
+    1471,
+    1506
+   ],
+   "category": "Text",
+   "text": "Den kungliga resolutionen (Riksregistraturet), varigenom antikvitetskollegiet förvandlades till ett antikvitetsarkiv, utfärdades den 23 april 1692 och lyder:"
+  },
+  {
+   "bbox": [
+    430,
+    1539,
+    1471,
+    1625
+   ],
+   "category": "Text",
+   "text": "»Till Cantzlij och Cammar Collegium angående någre Antiquitets Archivi ärender."
+  },
+  {
+   "bbox": [
+    466,
+    1647,
+    1194,
+    1690
+   ],
+   "category": "Text",
+   "text": "Carl etc. Wår synnerl. ynnest. Tro männ etc."
+  },
+  {
+   "bbox": [
+    430,
+    1693,
+    1471,
+    1780
+   ],
+   "category": "Text",
+   "text": "Wij hafwe låtit Oss föreläsa Eder underdånige berättelse af d. 7 hujus angående Staten för Antiquitets Collegio, huruledes neml."
+  },
+  {
+   "bbox": [
+    430,
+    1807,
+    507,
+    1846
+   ],
+   "category": "Page-footer",
+   "text": "260"
+  }
+ ]
+}

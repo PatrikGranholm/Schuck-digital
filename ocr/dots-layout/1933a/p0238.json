@@ -1,0 +1,51 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 238,
+ "seconds": 22.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [347, 386, 772, 446], \"category\": \"Text\", \"text\": \"CARL/ med G Vdz Nåde. 1c.\"}, {\"bbox\": [181, 434, 355, 587], \"category\": \"Picture\"}, {\"bbox\": [184, 464, 1047, 1470], \"category\": \"Text\", \"text\": \"Wär synnerlige ynnest/ och Nädige benågenheet medh Gudh Alzmächtig; Troo Man/ Wär och Wårt Rikes Rådh Her Skatimåstare och Præsident. Wij påminne oß fuller Nådigst/ at Wij förmedelst Wårt Breff af den 19. April nåstförleden/ monde vptåckia Eder den anordning/som Wij med Chrontijonde Spanmålen godt funnit hafwa at göra: Men såsom Wij förnimma/at en och annan vthtydning deröfwer will göras emot Wär råtta intention, hvilken åthskillige lamentacioner åstad kommer/och enka yuerligen allareda förosakat hafwer Prästerskapet hoos Oß sig underdänigst at bewåra: Altså hafwe Wij nödiat erachtat Wär egentelige mening något närmare at explicera, nembl. at vthaff bem: Chrontijonde Spanmål/förs Wijn-säden/ Bibeltryctunnan och Hospitals andelen skal afdragas / sedan och Biskoparnes / Superintendenternes, Academiernes, Gymnasiernes, och Scholarnes/ jempte Prostetunnornes rattigheet/sampt all annor wanlig askortning/ehwad Nampn den och hafwa kan/hådan efter som här tils ährligen bliswa på wanligit sätt asfördt/ och sedan hwad ötwerskiuter/såledessom ofwanbe „ Wårt förrige Breff innehåller/ disponerat och anwändt wardo. Och länder här medh til Eder Wär Nädige befallning/ at Istallen Eder sädan til behörig efterrättelse/ sampt och sådant Wederbörande notificeren, på det denne Wär Nädige intention i alla måtto må observeras och efterlewas. Befallandes Eder här med Gudh Alzmächtig Synnerligen Nådeligen, Datum Kongzöhr den 30. May Anno 1681.\"}, {\"bbox\": [384, 1495, 827, 1560], \"category\": \"Text\", \"text\": \"CAROLUS.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    347,
+    386,
+    772,
+    446
+   ],
+   "category": "Text",
+   "text": "CARL/ med G Vdz Nåde. 1c."
+  },
+  {
+   "bbox": [
+    181,
+    434,
+    355,
+    587
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    184,
+    464,
+    1047,
+    1470
+   ],
+   "category": "Text",
+   "text": "Wär synnerlige ynnest/ och Nädige benågenheet medh Gudh Alzmächtig; Troo Man/ Wär och Wårt Rikes Rådh Her Skatimåstare och Præsident. Wij påminne oß fuller Nådigst/ at Wij förmedelst Wårt Breff af den 19. April nåstförleden/ monde vptåckia Eder den anordning/som Wij med Chrontijonde Spanmålen godt funnit hafwa at göra: Men såsom Wij förnimma/at en och annan vthtydning deröfwer will göras emot Wär råtta intention, hvilken åthskillige lamentacioner åstad kommer/och enka yuerligen allareda förosakat hafwer Prästerskapet hoos Oß sig underdänigst at bewåra: Altså hafwe Wij nödiat erachtat Wär egentelige mening något närmare at explicera, nembl. at vthaff bem: Chrontijonde Spanmål/förs Wijn-säden/ Bibeltryctunnan och Hospitals andelen skal afdragas / sedan och Biskoparnes / Superintendenternes, Academiernes, Gymnasiernes, och Scholarnes/ jempte Prostetunnornes rattigheet/sampt all annor wanlig askortning/ehwad Nampn den och hafwa kan/hådan efter som här tils ährligen bliswa på wanligit sätt asfördt/ och sedan hwad ötwerskiuter/såledessom ofwanbe „ Wårt förrige Breff innehåller/ disponerat och anwändt wardo. Och länder här medh til Eder Wär Nädige befallning/ at Istallen Eder sädan til behörig efterrättelse/ sampt och sådant Wederbörande notificeren, på det denne Wär Nädige intention i alla måtto må observeras och efterlewas. Befallandes Eder här med Gudh Alzmächtig Synnerligen Nådeligen, Datum Kongzöhr den 30. May Anno 1681."
+  },
+  {
+   "bbox": [
+    384,
+    1495,
+    827,
+    1560
+   ],
+   "category": "Text",
+   "text": "CAROLUS."
+  }
+ ]
+}

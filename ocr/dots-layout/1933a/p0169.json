@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 169,
+ "seconds": 26.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [768, 243, 1131, 286], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [427, 313, 1473, 567], \"category\": \"Text\", \"text\": \"petita korteligh förklara, så beder iagh och i lijka vnderdånigheet, att Ers Kongl. M:t täcktes denne min supplication till Kongl. Cammar Collegium allernådigst recommendera att anhöras tillijka medh dhe puncter, iagh för 2 åhr sedan widh det Kongl. Collegium insinuerat hafwer och än icke resolverade äro, hwarpå mycket Collegii antiquitatum handlingar studza».\"}, {\"bbox\": [424, 565, 1471, 1735], \"category\": \"Text\", \"text\": \"Denna supplikation upptogs mycket nådigt av Karl XI, som den 19 februari 1678 remitterade den till kammarkollegium (V. H. A. A. Antikvitetskollegium. Högre tjänstemän. Hadorph): »Wår synnerlige ynnest och nådige benägenheet medh Gudh alzmechtig. I hafwen, troo män, Hr. Skattmästare och samptl. CammarRådh, af hoosgående Supplique till att see, hwad Secret. Hadorph åstundar och huru såsom han på wäl ärhåldne Kongl. Bref, på gode skiäl och på wår och fäderneslandzens tienst och nytta grundar sin vnderdånige åstundan och alt derföre emedan han medh sitt flitige vndersökiande i alt det, som till Antiquiteternes kunskap och befordran länder, skaffar fäderneslandet både godt gagn och stort lustre, dy är wår nådige willie och befallning, att hwad som han efter wåre förre Bref bör af Mynte Remedio till Antiquiteternes fortsättiande och till sin sampt dhe fleres Löhn åtniuta, må blifwa orubbat och altijdh honom och dem som en säker och wiss inkomst förbehållas uthan något mehn, ändring eller förfång. Skulle och Mynte Remedium så mycket förslå, att bemelte Hadorph kan och tillijka den honom på Cantzlie Staten bestådde Löhn der af vndfå, iämwäl dhe 2 skrifware, som till handlingarnes afskrifwande antagne äro och tillförenne på PostCassan, som nu bårtarrenderat är, hafwa warit anwijste, så är i lijka måtto wår nådige willie och befallning, att I honom och dem den samma af bem:te Remedio säkert och richtigt bekomma låten, på det arbetet, som är på godh gång bracht, icke måtte studza och dhe, serdeles han Hadorph, som så gode och berömlige prof om sin capacitet, flijt och åhuga gifwit hafwer, icke tröttas widh der uthi att fortfara. Wij tilltrom Eder alt detta nådeligen. Och befallom Eder Gudh alzmechtig synnerligen Nådel. Datum Halmstad den 19 Febr. 1678.\"}, {\"bbox\": [886, 1735, 1004, 1768], \"category\": \"Text\", \"text\": \"Carolus\"}, {\"bbox\": [1162, 1775, 1431, 1809], \"category\": \"Text\", \"text\": \"E. Lindschöldh».\"}, {\"bbox\": [431, 1814, 503, 1852], \"category\": \"Page-footer\", \"text\": \"150\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    768,
+    243,
+    1131,
+    286
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    427,
+    313,
+    1473,
+    567
+   ],
+   "category": "Text",
+   "text": "petita korteligh förklara, så beder iagh och i lijka vnderdånigheet, att Ers Kongl. M:t täcktes denne min supplication till Kongl. Cammar Collegium allernådigst recommendera att anhöras tillijka medh dhe puncter, iagh för 2 åhr sedan widh det Kongl. Collegium insinuerat hafwer och än icke resolverade äro, hwarpå mycket Collegii antiquitatum handlingar studza»."
+  },
+  {
+   "bbox": [
+    424,
+    565,
+    1471,
+    1735
+   ],
+   "category": "Text",
+   "text": "Denna supplikation upptogs mycket nådigt av Karl XI, som den 19 februari 1678 remitterade den till kammarkollegium (V. H. A. A. Antikvitetskollegium. Högre tjänstemän. Hadorph): »Wår synnerlige ynnest och nådige benägenheet medh Gudh alzmechtig. I hafwen, troo män, Hr. Skattmästare och samptl. CammarRådh, af hoosgående Supplique till att see, hwad Secret. Hadorph åstundar och huru såsom han på wäl ärhåldne Kongl. Bref, på gode skiäl och på wår och fäderneslandzens tienst och nytta grundar sin vnderdånige åstundan och alt derföre emedan han medh sitt flitige vndersökiande i alt det, som till Antiquiteternes kunskap och befordran länder, skaffar fäderneslandet både godt gagn och stort lustre, dy är wår nådige willie och befallning, att hwad som han efter wåre förre Bref bör af Mynte Remedio till Antiquiteternes fortsättiande och till sin sampt dhe fleres Löhn åtniuta, må blifwa orubbat och altijdh honom och dem som en säker och wiss inkomst förbehållas uthan något mehn, ändring eller förfång. Skulle och Mynte Remedium så mycket förslå, att bemelte Hadorph kan och tillijka den honom på Cantzlie Staten bestådde Löhn der af vndfå, iämwäl dhe 2 skrifware, som till handlingarnes afskrifwande antagne äro och tillförenne på PostCassan, som nu bårtarrenderat är, hafwa warit anwijste, så är i lijka måtto wår nådige willie och befallning, att I honom och dem den samma af bem:te Remedio säkert och richtigt bekomma låten, på det arbetet, som är på godh gång bracht, icke måtte studza och dhe, serdeles han Hadorph, som så gode och berömlige prof om sin capacitet, flijt och åhuga gifwit hafwer, icke tröttas widh der uthi att fortfara. Wij tilltrom Eder alt detta nådeligen. Och befallom Eder Gudh alzmechtig synnerligen Nådel. Datum Halmstad den 19 Febr. 1678."
+  },
+  {
+   "bbox": [
+    886,
+    1735,
+    1004,
+    1768
+   ],
+   "category": "Text",
+   "text": "Carolus"
+  },
+  {
+   "bbox": [
+    1162,
+    1775,
+    1431,
+    1809
+   ],
+   "category": "Text",
+   "text": "E. Lindschöldh»."
+  },
+  {
+   "bbox": [
+    431,
+    1814,
+    503,
+    1852
+   ],
+   "category": "Page-footer",
+   "text": "150"
+  }
+ ]
+}

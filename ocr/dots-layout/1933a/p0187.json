@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 187,
+ "seconds": 26.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [776, 233, 1136, 277], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [437, 304, 1481, 432], \"category\": \"Text\", \"text\": \"den andra serien förekommer intet härom. I varje fall avgjordes ären-\\ndet sällsport snabbt, ty redan den 1 mars 1674 kom svaret på Ha-\\ndorphs inlaga i form av ett Kungl. brev¹:\"}, {\"bbox\": [428, 435, 1479, 1607], \"category\": \"Text\", \"text\": \"»Carl med Guds nåde etc. Wår synnerliga ynnest och nådige Benägenhet med Gud alsmäcktig, Såsom Tromän, Herr Skattmästare och samtelige Cammar Rådh, Wij för någre åhr sedan til Conservation af Whrgamle Antiquiteter, qwarlefwor och efterdömen, som utaf framfarne Sweriges konungar sampt andra förnäme mäns bedrifter hafwa warit till at hämpta, jämwäl ock till desse och slikes publication såsom ländande till Wårt Rijkes och K. fäderneslands heder och namnkunnighet, godt och nödigt erachtat hafwa till at inrätta uti Upsala ett Collegium antiquitatum, bestående af någre personer, som sådane antiquiteter skulle bringa i dagzliuset. Altså och emedan Wij förspordt, det sådan wår intention intet hafwer warit fruktlöös, utan bragt med sig en god effect, i det at månge wakre och nyttige Antiquiteter äre Publicerade wordne och ännu härefter Publiceras kunna, Ty hafwe Wij til det nyttige wärks befordring til bemelte Collegii Antiquitatum och de Betientes aflöningar, ett Bibliothecs inkiöp samt andra omkostningar i tryck och papper welat årligen på staten förordna Sex tusende daler silfwermynt och dess förutan tilläggia så många medell, som Collegium antiquitatum kan kiöpa sig ett färdigt och complet tryck före, jämwäl ock til tryckerijs fortsätjande förunna en årlig frihet på 800 rijs fint och 400 Tryckpapper. Wij befalla Eder derföre i nåder, det I denne wår förordning widh Statens formerande ställen Eder til efterrettelse, så at til Collegium antiquitatum icke allenast medlen til Tryckets inkiöp, som allenast en gång behöfwes, utan ock jempte årlige Tullfriheten på papperet, berörde 6000 dr. smt. årligen på staten opföras och förordnas måtte, kunnandes I till berörde 6000 dr. smt. anslå tryckaretunnan, som för detta til slike usus hafwer öfwer Riket warit anwänd och sedermera til andre tarfwer anslagen,\"}, {\"bbox\": [426, 1615, 1470, 1769], \"category\": \"Footnote\", \"text\": \"¹ Riksregistraturet för januari—maj 1674 saknas, och egendomligt nog finnes brevet ej heller i kammararkivets samling av Kungl. brev 1674. Det meddelas här efter Berchs avskrift (U. B. Gahm sign. U 112). En av Hadorph till kammarkollegiet inlämnad avskrift har datum den 13 mars, men av de mångfaldiga hänvisningarna till detta brev — även här ovan i texten — är det tydligt, att den 1 mars är den riktiga dagen.\"}, {\"bbox\": [432, 1793, 504, 1832], \"category\": \"Page-footer\", \"text\": \"168\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    776,
+    233,
+    1136,
+    277
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    437,
+    304,
+    1481,
+    432
+   ],
+   "category": "Text",
+   "text": "den andra serien förekommer intet härom. I varje fall avgjordes ären-\ndet sällsport snabbt, ty redan den 1 mars 1674 kom svaret på Ha-\ndorphs inlaga i form av ett Kungl. brev¹:"
+  },
+  {
+   "bbox": [
+    428,
+    435,
+    1479,
+    1607
+   ],
+   "category": "Text",
+   "text": "»Carl med Guds nåde etc. Wår synnerliga ynnest och nådige Benägenhet med Gud alsmäcktig, Såsom Tromän, Herr Skattmästare och samtelige Cammar Rådh, Wij för någre åhr sedan til Conservation af Whrgamle Antiquiteter, qwarlefwor och efterdömen, som utaf framfarne Sweriges konungar sampt andra förnäme mäns bedrifter hafwa warit till at hämpta, jämwäl ock till desse och slikes publication såsom ländande till Wårt Rijkes och K. fäderneslands heder och namnkunnighet, godt och nödigt erachtat hafwa till at inrätta uti Upsala ett Collegium antiquitatum, bestående af någre personer, som sådane antiquiteter skulle bringa i dagzliuset. Altså och emedan Wij förspordt, det sådan wår intention intet hafwer warit fruktlöös, utan bragt med sig en god effect, i det at månge wakre och nyttige Antiquiteter äre Publicerade wordne och ännu härefter Publiceras kunna, Ty hafwe Wij til det nyttige wärks befordring til bemelte Collegii Antiquitatum och de Betientes aflöningar, ett Bibliothecs inkiöp samt andra omkostningar i tryck och papper welat årligen på staten förordna Sex tusende daler silfwermynt och dess förutan tilläggia så många medell, som Collegium antiquitatum kan kiöpa sig ett färdigt och complet tryck före, jämwäl ock til tryckerijs fortsätjande förunna en årlig frihet på 800 rijs fint och 400 Tryckpapper. Wij befalla Eder derföre i nåder, det I denne wår förordning widh Statens formerande ställen Eder til efterrettelse, så at til Collegium antiquitatum icke allenast medlen til Tryckets inkiöp, som allenast en gång behöfwes, utan ock jempte årlige Tullfriheten på papperet, berörde 6000 dr. smt. årligen på staten opföras och förordnas måtte, kunnandes I till berörde 6000 dr. smt. anslå tryckaretunnan, som för detta til slike usus hafwer öfwer Riket warit anwänd och sedermera til andre tarfwer anslagen,"
+  },
+  {
+   "bbox": [
+    426,
+    1615,
+    1470,
+    1769
+   ],
+   "category": "Footnote",
+   "text": "¹ Riksregistraturet för januari—maj 1674 saknas, och egendomligt nog finnes brevet ej heller i kammararkivets samling av Kungl. brev 1674. Det meddelas här efter Berchs avskrift (U. B. Gahm sign. U 112). En av Hadorph till kammarkollegiet inlämnad avskrift har datum den 13 mars, men av de mångfaldiga hänvisningarna till detta brev — även här ovan i texten — är det tydligt, att den 1 mars är den riktiga dagen."
+  },
+  {
+   "bbox": [
+    432,
+    1793,
+    504,
+    1832
+   ],
+   "category": "Page-footer",
+   "text": "168"
+  }
+ ]
+}

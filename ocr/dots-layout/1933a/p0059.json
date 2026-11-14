@@ -1,0 +1,182 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 59,
+ "seconds": 29.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [765, 223, 1125, 265], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [425, 292, 1465, 671], \"category\": \"Text\", \"text\": \"7) Täcktes hs. höggr. Exc. wara betänkt, huru dhe färdige wärken icke måtte så länge neder liggia otryckte för mangel af tryck och paper, uthan ju förr ju häller företagne warda. Och efter det omöijeligit är med Collegii kostnad kunna så mycket paper i detta åhr åstadkomma, som behöfwes, nembl. till 15 eller 1600 Rijs, ty wille hs. höggrefl. Excel. i nåde förhielpa oss kongl. Bref på 10 eller 1200 Rijs af Kongl. CammarCollegio, så torde wij det niuta, till det Paper af Collegii medel i Wåhr införwäntas. Dhe wärk, som nu färdige äre och under tryck komma kunne, äro:\"}, {\"bbox\": [517, 676, 990, 718], \"category\": \"Text\", \"text\": \"Hr. Rålambz Quæstiones Juris\"}, {\"bbox\": [517, 718, 1129, 759], \"category\": \"Text\", \"text\": \"D. Loccenii Versio antiquarum Legum\"}, {\"bbox\": [517, 760, 900, 801], \"category\": \"Text\", \"text\": \"Axehielms Wilkina Saga¹\"}, {\"bbox\": [517, 801, 1195, 843], \"category\": \"Text\", \"text\": \"Schefferi historia Metropolitana Joh. Magni\"}, {\"bbox\": [517, 844, 836, 885], \"category\": \"Text\", \"text\": \"Verelii Runographia\"}, {\"bbox\": [517, 885, 920, 920], \"category\": \"Text\", \"text\": \"Arrhenii Thesaurus Italus\"}, {\"bbox\": [517, 927, 1043, 968], \"category\": \"Text\", \"text\": \"Practica Legum Sueo Gothicarum\"}, {\"bbox\": [517, 967, 1407, 1010], \"category\": \"Text\", \"text\": \"Dale- och Skånelaghen, hwarpå 30 Rijs Lefwererade äre.\"}, {\"bbox\": [430, 1013, 1467, 1268], \"category\": \"Text\", \"text\": \"8) Åhrliget Paper tyckes bäst wara halft skrif och halft tryckpaper uphandla låta, på det så mycket flere Exemplar kunde upläggias, att dhe något spijsa kunne och mödan dess bättre löna. Och detta är alla Bokhandlares maneer, ty mången har intet rådh att köpa det, som är tryckt på skrifpaper, derföre blifwa Exemplaren mycket liggiandes osålde.\"}, {\"bbox\": [430, 1268, 1468, 1391], \"category\": \"Text\", \"text\": \"9) hwart åhr borde något Paper inköpas, på det att det ena åhrs arbete icke drages in på det andra, då intet Papper det åhr är införskrifwet.\"}, {\"bbox\": [430, 1399, 1468, 1529], \"category\": \"Text\", \"text\": \"10) är för all ting nödigt, att Boktryckiare få sin richtige åhrlige betalning, så blifwa arbeten fortsatte, doch skulle med dem om skiäliget Prijs först accorderat warda.\"}, {\"bbox\": [430, 1529, 1468, 1618], \"category\": \"Text\", \"text\": \"11) En liten och wiss Correctoris lön är alldeles af nöden för dhe arbeten i Stockholm upläggias.\"}, {\"bbox\": [430, 1620, 1470, 1708], \"category\": \"Text\", \"text\": \"12) Olaus Bromelius, som hafwer samblat dhe många swenske mynt, sades wara död; täcktes hs. höggrefl. Exc. förmå K. M:t att\"}, {\"bbox\": [462, 1722, 1472, 1755], \"category\": \"Footnote\", \"text\": \"¹ I en annan avskrift (R. A. Handl. ang. Antikvitetskollegiet I) saknas Axehiälms Wilkina Saga.\"}, {\"bbox\": [433, 1795, 483, 1831], \"category\": \"Page-footer\", \"text\": \"44\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    765,
+    223,
+    1125,
+    265
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    425,
+    292,
+    1465,
+    671
+   ],
+   "category": "Text",
+   "text": "7) Täcktes hs. höggr. Exc. wara betänkt, huru dhe färdige wärken icke måtte så länge neder liggia otryckte för mangel af tryck och paper, uthan ju förr ju häller företagne warda. Och efter det omöijeligit är med Collegii kostnad kunna så mycket paper i detta åhr åstadkomma, som behöfwes, nembl. till 15 eller 1600 Rijs, ty wille hs. höggrefl. Excel. i nåde förhielpa oss kongl. Bref på 10 eller 1200 Rijs af Kongl. CammarCollegio, så torde wij det niuta, till det Paper af Collegii medel i Wåhr införwäntas. Dhe wärk, som nu färdige äre och under tryck komma kunne, äro:"
+  },
+  {
+   "bbox": [
+    517,
+    676,
+    990,
+    718
+   ],
+   "category": "Text",
+   "text": "Hr. Rålambz Quæstiones Juris"
+  },
+  {
+   "bbox": [
+    517,
+    718,
+    1129,
+    759
+   ],
+   "category": "Text",
+   "text": "D. Loccenii Versio antiquarum Legum"
+  },
+  {
+   "bbox": [
+    517,
+    760,
+    900,
+    801
+   ],
+   "category": "Text",
+   "text": "Axehielms Wilkina Saga¹"
+  },
+  {
+   "bbox": [
+    517,
+    801,
+    1195,
+    843
+   ],
+   "category": "Text",
+   "text": "Schefferi historia Metropolitana Joh. Magni"
+  },
+  {
+   "bbox": [
+    517,
+    844,
+    836,
+    885
+   ],
+   "category": "Text",
+   "text": "Verelii Runographia"
+  },
+  {
+   "bbox": [
+    517,
+    885,
+    920,
+    920
+   ],
+   "category": "Text",
+   "text": "Arrhenii Thesaurus Italus"
+  },
+  {
+   "bbox": [
+    517,
+    927,
+    1043,
+    968
+   ],
+   "category": "Text",
+   "text": "Practica Legum Sueo Gothicarum"
+  },
+  {
+   "bbox": [
+    517,
+    967,
+    1407,
+    1010
+   ],
+   "category": "Text",
+   "text": "Dale- och Skånelaghen, hwarpå 30 Rijs Lefwererade äre."
+  },
+  {
+   "bbox": [
+    430,
+    1013,
+    1467,
+    1268
+   ],
+   "category": "Text",
+   "text": "8) Åhrliget Paper tyckes bäst wara halft skrif och halft tryckpaper uphandla låta, på det så mycket flere Exemplar kunde upläggias, att dhe något spijsa kunne och mödan dess bättre löna. Och detta är alla Bokhandlares maneer, ty mången har intet rådh att köpa det, som är tryckt på skrifpaper, derföre blifwa Exemplaren mycket liggiandes osålde."
+  },
+  {
+   "bbox": [
+    430,
+    1268,
+    1468,
+    1391
+   ],
+   "category": "Text",
+   "text": "9) hwart åhr borde något Paper inköpas, på det att det ena åhrs arbete icke drages in på det andra, då intet Papper det åhr är införskrifwet."
+  },
+  {
+   "bbox": [
+    430,
+    1399,
+    1468,
+    1529
+   ],
+   "category": "Text",
+   "text": "10) är för all ting nödigt, att Boktryckiare få sin richtige åhrlige betalning, så blifwa arbeten fortsatte, doch skulle med dem om skiäliget Prijs först accorderat warda."
+  },
+  {
+   "bbox": [
+    430,
+    1529,
+    1468,
+    1618
+   ],
+   "category": "Text",
+   "text": "11) En liten och wiss Correctoris lön är alldeles af nöden för dhe arbeten i Stockholm upläggias."
+  },
+  {
+   "bbox": [
+    430,
+    1620,
+    1470,
+    1708
+   ],
+   "category": "Text",
+   "text": "12) Olaus Bromelius, som hafwer samblat dhe många swenske mynt, sades wara död; täcktes hs. höggrefl. Exc. förmå K. M:t att"
+  },
+  {
+   "bbox": [
+    462,
+    1722,
+    1472,
+    1755
+   ],
+   "category": "Footnote",
+   "text": "¹ I en annan avskrift (R. A. Handl. ang. Antikvitetskollegiet I) saknas Axehiälms Wilkina Saga."
+  },
+  {
+   "bbox": [
+    433,
+    1795,
+    483,
+    1831
+   ],
+   "category": "Page-footer",
+   "text": "44"
+  }
+ ]
+}

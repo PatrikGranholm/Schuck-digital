@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 83,
+ "seconds": 26.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [774, 225, 1134, 267], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [501, 294, 1323, 342], \"category\": \"Text\", \"text\": \"»Amplissime et Clarissime Dn. Vereli, amice eximie.\"}, {\"bbox\": [432, 340, 1481, 724], \"category\": \"Text\", \"text\": \"Quia propter senectutis meæ imbecillitatem magis et magis in-gravescentem Antiquitatum Collegio præsentiam meam semper acco-modare non possum, quod etiam Illustrissimo Regni et Acad. Can-cellario humiliter significavi, Illustrissima ejus Excellentia clementer permisit, ut vice Præses loco meo constitueretur tuamque personam ad hoc, audiente et referente dn. Olao Rudbeckio, designavit. Has vices ut ex auctoritate Dn. Cancellarij, collegij meique causa sus-tinere [non] negaveris, est quod te studiose rogo. Upsaliæ a. d. XI febr. A. 1675».\"}, {\"bbox\": [436, 733, 1482, 992], \"category\": \"Text\", \"text\": \"Emellertid stötte förslaget på motstånd icke blott hos kollegiet utan ock hos Verelius själv, som icke hade Rudbecks stridslystna natur och avböjde uppdraget. Rudbeck fick då en annan idé: att föreslå den obetydlige och halvblinde Axehiälm, som var den oskadligaste av de övriga. Till kansleren skrev han härom den 24 februari 1675 (R.A. Uppsala kanslersämbetes handlingar. Inkomna skrivelser):\"}, {\"bbox\": [438, 989, 1487, 1666], \"category\": \"Text\", \"text\": \"»... Jagh swarade D. Loccenio, när iagh kom senast ifrån E. G. Excellens, angående vice præsidensen i Antiquitatis Collegio efter E. G. Excellens befalningh på D. Loccenij begäran, att ingen borde närmare vara än P. Verelius, efter han är både Secretarius i dett gamla Archivo så och Prof. Antiqt. och den dett wärket best för-står, men emedan han sielff dett ingalunda wil haffua för invidien skul, altså tykte H. G. Excellens, att Axelhielm skulle best tiena der til, nu sosom Axelhielm är på den commission om trålkiengiarne nor åt rester, haffuer D. Loccenius skrifuit Rentmestaren til och han der på swarat, sosom E. G. Excellens ser aff innelagda Copior, warföre hafwer gubben begärt, att iagh widare wille ursäkta honom för sin siukdom, att han sielff inthet orkar skriwa, och E. G. Excel-lens nådigast wille her utinnan, om inthet Rentmestaren aldeles wil, att han då nu, så lenge Axelhielm är borta, befalla, att Verelius wore vice præses, emedan han är besynnerligast där til och älst i Collegio, eller nogon annan, som E. G. Excellens tycker likast.»\"}, {\"bbox\": [441, 1673, 1487, 1765], \"category\": \"Text\", \"text\": \"Kansleren måtte emellertid hava blivit betänksam, ty både Vere-lius och Axehiälm voro ju föga lämpliga, och på Rudbecks brev\"}, {\"bbox\": [444, 1796, 495, 1843], \"category\": \"Page-footer\", \"text\": \"64\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    774,
+    225,
+    1134,
+    267
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    501,
+    294,
+    1323,
+    342
+   ],
+   "category": "Text",
+   "text": "»Amplissime et Clarissime Dn. Vereli, amice eximie."
+  },
+  {
+   "bbox": [
+    432,
+    340,
+    1481,
+    724
+   ],
+   "category": "Text",
+   "text": "Quia propter senectutis meæ imbecillitatem magis et magis in-gravescentem Antiquitatum Collegio præsentiam meam semper acco-modare non possum, quod etiam Illustrissimo Regni et Acad. Can-cellario humiliter significavi, Illustrissima ejus Excellentia clementer permisit, ut vice Præses loco meo constitueretur tuamque personam ad hoc, audiente et referente dn. Olao Rudbeckio, designavit. Has vices ut ex auctoritate Dn. Cancellarij, collegij meique causa sus-tinere [non] negaveris, est quod te studiose rogo. Upsaliæ a. d. XI febr. A. 1675»."
+  },
+  {
+   "bbox": [
+    436,
+    733,
+    1482,
+    992
+   ],
+   "category": "Text",
+   "text": "Emellertid stötte förslaget på motstånd icke blott hos kollegiet utan ock hos Verelius själv, som icke hade Rudbecks stridslystna natur och avböjde uppdraget. Rudbeck fick då en annan idé: att föreslå den obetydlige och halvblinde Axehiälm, som var den oskadligaste av de övriga. Till kansleren skrev han härom den 24 februari 1675 (R.A. Uppsala kanslersämbetes handlingar. Inkomna skrivelser):"
+  },
+  {
+   "bbox": [
+    438,
+    989,
+    1487,
+    1666
+   ],
+   "category": "Text",
+   "text": "»... Jagh swarade D. Loccenio, när iagh kom senast ifrån E. G. Excellens, angående vice præsidensen i Antiquitatis Collegio efter E. G. Excellens befalningh på D. Loccenij begäran, att ingen borde närmare vara än P. Verelius, efter han är både Secretarius i dett gamla Archivo så och Prof. Antiqt. och den dett wärket best för-står, men emedan han sielff dett ingalunda wil haffua för invidien skul, altså tykte H. G. Excellens, att Axelhielm skulle best tiena der til, nu sosom Axelhielm är på den commission om trålkiengiarne nor åt rester, haffuer D. Loccenius skrifuit Rentmestaren til och han der på swarat, sosom E. G. Excellens ser aff innelagda Copior, warföre hafwer gubben begärt, att iagh widare wille ursäkta honom för sin siukdom, att han sielff inthet orkar skriwa, och E. G. Excel-lens nådigast wille her utinnan, om inthet Rentmestaren aldeles wil, att han då nu, så lenge Axelhielm är borta, befalla, att Verelius wore vice præses, emedan han är besynnerligast där til och älst i Collegio, eller nogon annan, som E. G. Excellens tycker likast.»"
+  },
+  {
+   "bbox": [
+    441,
+    1673,
+    1487,
+    1765
+   ],
+   "category": "Text",
+   "text": "Kansleren måtte emellertid hava blivit betänksam, ty både Vere-lius och Axehiälm voro ju föga lämpliga, och på Rudbecks brev"
+  },
+  {
+   "bbox": [
+    444,
+    1796,
+    495,
+    1843
+   ],
+   "category": "Page-footer",
+   "text": "64"
+  }
+ ]
+}

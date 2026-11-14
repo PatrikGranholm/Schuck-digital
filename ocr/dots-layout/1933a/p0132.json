@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 132,
+ "seconds": 27.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [390, 222, 926, 267], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiets ekonomi\"}, {\"bbox\": [128, 293, 1179, 452], \"category\": \"Text\", \"text\": \"numentis sepulchralibus Regni Sueciæ. 3) alla gambla och nya mynt med deras Cognition och valor till en Tractat de Re monetaria. 4) Sigilla insignia Antiquorum, som tiena till Historiam Nobilitatis suecanæ etc.\"}, {\"bbox\": [128, 459, 1176, 543], \"category\": \"Text\", \"text\": \"11) En famulus, som kongl. Instructionens 8 punct beståår, synes kunna belönas medh 66 2/3 dr. sölfwerm:tt.\"}, {\"bbox\": [124, 543, 1176, 795], \"category\": \"Text\", \"text\": \"12) Till Expensepenningar för Collegio behöfwes och något anseenligit 1) att kiöpa stundom nyttige manuscripta eller rare böcker för. 2:do Till resepgr. för dem af Collegio, [som] till monumenternes afrijtande och inhemptande sig bruka låta 3) till åthskillige andra requisita, hwarföre synes till detta som nogast förslagit till 600 dr. sölfwermynt behöfwas.\"}, {\"bbox\": [396, 837, 900, 880], \"category\": \"Section-header\", \"text\": \"Staten på alla desses underhåld\"}, {\"bbox\": [116, 886, 1162, 1762], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>1) Antiquarius Regni hafwer efter Cantzliestaten sitt underhåld af Chronan</td><td>900</td></tr><tr><td>2) Bibliotecharius niuter altijd af Academien ordinarie lön, dito dhe 300 daler sölfm:tt, som Bibliotecharius nu extraordinarie hafwer för professione iuris</td><td>300</td></tr><tr><td>3) Professor Antiquitatum Regius af Academien den ordinarie matheseos professoris inslagne lön, dito dhe 300 dr. sölfm:tt, som hr Verelius nu hafwer pro antiquitatibus</td><td>300</td></tr><tr><td>4) Professor Historiarum af Academien 700, af en ny Staat</td><td>300</td></tr><tr><td>5) Om en professio Antiquitatum patriæ blefwe af någon fromhiertat och nijtälskande herre till antiquiteterne funderat, så deputerar han sielf lönen för densamma</td><td></td></tr><tr><td>7) [obs! 6 saknas] Twenne Extraordinarij af Chronans tillslagne medel</td><td>800</td></tr><tr><td>8) 4 studiosi af Academiens medel duplex stipendium hwardera 80 dr. smt. åhrlig facit</td><td>240</td></tr><tr><td>9) Rijtaren till Augment af nya Staten</td><td>150</td></tr><tr><td>10) Kopparstickaren och formsnidaren af nya staten</td><td>700</td></tr><tr><td>11) En Amanuensis dito</td><td>133 1/3</td></tr><tr><td>12) En Famulus dito</td><td>66 2/3</td></tr><tr><td>13) Till Expenspgr. etc. dito</td><td>600</td></tr><tr><td></td><td>4490</td></tr></tbody></table>\"}, {\"bbox\": [136, 1795, 261, 1824], \"category\": \"Page-footer\", \"text\": \"8-3264. II.\"}, {\"bbox\": [1085, 1795, 1155, 1835], \"category\": \"Page-footer\", \"text\": \"113\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    390,
+    222,
+    926,
+    267
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiets ekonomi"
+  },
+  {
+   "bbox": [
+    128,
+    293,
+    1179,
+    452
+   ],
+   "category": "Text",
+   "text": "numentis sepulchralibus Regni Sueciæ. 3) alla gambla och nya mynt med deras Cognition och valor till en Tractat de Re monetaria. 4) Sigilla insignia Antiquorum, som tiena till Historiam Nobilitatis suecanæ etc."
+  },
+  {
+   "bbox": [
+    128,
+    459,
+    1176,
+    543
+   ],
+   "category": "Text",
+   "text": "11) En famulus, som kongl. Instructionens 8 punct beståår, synes kunna belönas medh 66 2/3 dr. sölfwerm:tt."
+  },
+  {
+   "bbox": [
+    124,
+    543,
+    1176,
+    795
+   ],
+   "category": "Text",
+   "text": "12) Till Expensepenningar för Collegio behöfwes och något anseenligit 1) att kiöpa stundom nyttige manuscripta eller rare böcker för. 2:do Till resepgr. för dem af Collegio, [som] till monumenternes afrijtande och inhemptande sig bruka låta 3) till åthskillige andra requisita, hwarföre synes till detta som nogast förslagit till 600 dr. sölfwermynt behöfwas."
+  },
+  {
+   "bbox": [
+    396,
+    837,
+    900,
+    880
+   ],
+   "category": "Section-header",
+   "text": "Staten på alla desses underhåld"
+  },
+  {
+   "bbox": [
+    116,
+    886,
+    1162,
+    1762
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>1) Antiquarius Regni hafwer efter Cantzliestaten sitt underhåld af Chronan</td><td>900</td></tr><tr><td>2) Bibliotecharius niuter altijd af Academien ordinarie lön, dito dhe 300 daler sölfm:tt, som Bibliotecharius nu extraordinarie hafwer för professione iuris</td><td>300</td></tr><tr><td>3) Professor Antiquitatum Regius af Academien den ordinarie matheseos professoris inslagne lön, dito dhe 300 dr. sölfm:tt, som hr Verelius nu hafwer pro antiquitatibus</td><td>300</td></tr><tr><td>4) Professor Historiarum af Academien 700, af en ny Staat</td><td>300</td></tr><tr><td>5) Om en professio Antiquitatum patriæ blefwe af någon fromhiertat och nijtälskande herre till antiquiteterne funderat, så deputerar han sielf lönen för densamma</td><td></td></tr><tr><td>7) [obs! 6 saknas] Twenne Extraordinarij af Chronans tillslagne medel</td><td>800</td></tr><tr><td>8) 4 studiosi af Academiens medel duplex stipendium hwardera 80 dr. smt. åhrlig facit</td><td>240</td></tr><tr><td>9) Rijtaren till Augment af nya Staten</td><td>150</td></tr><tr><td>10) Kopparstickaren och formsnidaren af nya staten</td><td>700</td></tr><tr><td>11) En Amanuensis dito</td><td>133 1/3</td></tr><tr><td>12) En Famulus dito</td><td>66 2/3</td></tr><tr><td>13) Till Expenspgr. etc. dito</td><td>600</td></tr><tr><td></td><td>4490</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    136,
+    1795,
+    261,
+    1824
+   ],
+   "category": "Page-footer",
+   "text": "8-3264. II."
+  },
+  {
+   "bbox": [
+    1085,
+    1795,
+    1155,
+    1835
+   ],
+   "category": "Page-footer",
+   "text": "113"
+  }
+ ]
+}

@@ -1,0 +1,232 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 320,
+ "seconds": 31.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [468, 236, 847, 279], \"category\": \"Section-header\", \"text\": \"Antikvitetssamlingen\"}, {\"bbox\": [139, 306, 1183, 384], \"category\": \"Text\", \"text\": \"Efterskrefne acter äre af adsessoren Hr. Johan [Axehiälm] inlef-\\nwererade.\"}, {\"bbox\": [158, 395, 665, 434], \"category\": \"List-item\", \"text\": \"1) Lexicon iuxta Alphabet in folio.\"}, {\"bbox\": [156, 433, 757, 470], \"category\": \"List-item\", \"text\": \"2) Antiquitates Scansionæ å Latin in 4:o.\"}, {\"bbox\": [156, 468, 881, 506], \"category\": \"List-item\", \"text\": \"3) En tunn Secundum Alphabet Runicum in 4:0.\"}, {\"bbox\": [156, 505, 641, 543], \"category\": \"List-item\", \"text\": \"4) Tio bladh Canonica in quarto.\"}, {\"bbox\": [156, 540, 1179, 608], \"category\": \"List-item\", \"text\": \"5) Nomina propria secundum alphab. med Johannis Buraei egen hand skrifuit in 8:0.\"}, {\"bbox\": [156, 611, 870, 650], \"category\": \"List-item\", \"text\": \"6) En ingång till runan om måhl och skrift in 8:vo.\"}, {\"bbox\": [156, 648, 604, 686], \"category\": \"List-item\", \"text\": \"7) Alphabeta diversa in octavo.\"}, {\"bbox\": [156, 684, 641, 722], \"category\": \"List-item\", \"text\": \"8) en book om Runet (!) in 8:0.\"}, {\"bbox\": [156, 720, 476, 758], \"category\": \"List-item\", \"text\": \"9) Sumblen in octavo.\"}, {\"bbox\": [138, 785, 1180, 946], \"category\": \"Text\", \"text\": \"Efter Hans HöghGrefl. Excell. Rijks-Cantzlerns ordres och befall-\\nning hafwe wij undertechnade under d:a dato desse böcker uti ar-\\nchivo emottagit at föra til Upsala och in Collegium antiquitatum\\nat lefwerera.\"}, {\"bbox\": [139, 965, 920, 1007], \"category\": \"Text\", \"text\": \"Datum Stockholms slått d. 4 Septemb. A:o 1668.\"}, {\"bbox\": [529, 1018, 778, 1061], \"category\": \"Text\", \"text\": \"Jahan Axhiälm.\"}, {\"bbox\": [875, 1061, 1130, 1096], \"category\": \"Text\", \"text\": \"Abr. Tornaeus».\"}, {\"bbox\": [136, 1137, 1175, 1261], \"category\": \"Text\", \"text\": \"Kort därefter följde en ny expedition till Stockholm. Den 16 februari 1669 fick nämligen Axehiälm från kollegiets præses denna order (R. A. Antikvitetskollegiets skrivelser till De la Gardie):\"}, {\"bbox\": [1188, 1147, 1324, 1240], \"category\": \"Text\", \"text\": \"Pärmebreven\\nflyttas till\\nUppsala\"}, {\"bbox\": [136, 1269, 1177, 1394], \"category\": \"Text\", \"text\": \"»Memorial på the saker, som uthur Archivo Assessoren Hr. Axe-\\nhielm behagar i Stockholm för Collegio Antiquitatum med sig heem-\\nbringa.\"}, {\"bbox\": [135, 1394, 1175, 1686], \"category\": \"Text\", \"text\": \"1) Hr. Assessoren wille draga wårdnat, huru dhe gambla Kloster-\\nbrefz askar blifwa hijt hämptade, så länge Collegium får dem låta\\nigenomlöpa och dher uthhämpta, hwad till Antiquiteterne nyttigt\\nfinnes och i synnerheet till Historiam Nobilitatis, Cognitionem Sigil-\\nlorum et Antiquæ Monetæ, hwarigenom Collegium kunde uthj så-\\ndane Materiers utharbetande hafwa sig till hielp och rättelse, hwad\\ni sådane gamble bref finnes.\"}, {\"bbox\": [135, 1686, 1174, 1772], \"category\": \"Text\", \"text\": \"2) Behagade Assessoren efftersökia, hwad flere documenter till ofwanbem:te Materier kunna in Archivo finnas och med sig hijt\"}, {\"bbox\": [161, 1819, 294, 1843], \"category\": \"Page-footer\", \"text\": \"19-3264. II.\"}, {\"bbox\": [1099, 1800, 1170, 1846], \"category\": \"Page-footer\", \"text\": \"289\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    468,
+    236,
+    847,
+    279
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetssamlingen"
+  },
+  {
+   "bbox": [
+    139,
+    306,
+    1183,
+    384
+   ],
+   "category": "Text",
+   "text": "Efterskrefne acter äre af adsessoren Hr. Johan [Axehiälm] inlef-\nwererade."
+  },
+  {
+   "bbox": [
+    158,
+    395,
+    665,
+    434
+   ],
+   "category": "List-item",
+   "text": "1) Lexicon iuxta Alphabet in folio."
+  },
+  {
+   "bbox": [
+    156,
+    433,
+    757,
+    470
+   ],
+   "category": "List-item",
+   "text": "2) Antiquitates Scansionæ å Latin in 4:o."
+  },
+  {
+   "bbox": [
+    156,
+    468,
+    881,
+    506
+   ],
+   "category": "List-item",
+   "text": "3) En tunn Secundum Alphabet Runicum in 4:0."
+  },
+  {
+   "bbox": [
+    156,
+    505,
+    641,
+    543
+   ],
+   "category": "List-item",
+   "text": "4) Tio bladh Canonica in quarto."
+  },
+  {
+   "bbox": [
+    156,
+    540,
+    1179,
+    608
+   ],
+   "category": "List-item",
+   "text": "5) Nomina propria secundum alphab. med Johannis Buraei egen hand skrifuit in 8:0."
+  },
+  {
+   "bbox": [
+    156,
+    611,
+    870,
+    650
+   ],
+   "category": "List-item",
+   "text": "6) En ingång till runan om måhl och skrift in 8:vo."
+  },
+  {
+   "bbox": [
+    156,
+    648,
+    604,
+    686
+   ],
+   "category": "List-item",
+   "text": "7) Alphabeta diversa in octavo."
+  },
+  {
+   "bbox": [
+    156,
+    684,
+    641,
+    722
+   ],
+   "category": "List-item",
+   "text": "8) en book om Runet (!) in 8:0."
+  },
+  {
+   "bbox": [
+    156,
+    720,
+    476,
+    758
+   ],
+   "category": "List-item",
+   "text": "9) Sumblen in octavo."
+  },
+  {
+   "bbox": [
+    138,
+    785,
+    1180,
+    946
+   ],
+   "category": "Text",
+   "text": "Efter Hans HöghGrefl. Excell. Rijks-Cantzlerns ordres och befall-\nning hafwe wij undertechnade under d:a dato desse böcker uti ar-\nchivo emottagit at föra til Upsala och in Collegium antiquitatum\nat lefwerera."
+  },
+  {
+   "bbox": [
+    139,
+    965,
+    920,
+    1007
+   ],
+   "category": "Text",
+   "text": "Datum Stockholms slått d. 4 Septemb. A:o 1668."
+  },
+  {
+   "bbox": [
+    529,
+    1018,
+    778,
+    1061
+   ],
+   "category": "Text",
+   "text": "Jahan Axhiälm."
+  },
+  {
+   "bbox": [
+    875,
+    1061,
+    1130,
+    1096
+   ],
+   "category": "Text",
+   "text": "Abr. Tornaeus»."
+  },
+  {
+   "bbox": [
+    136,
+    1137,
+    1175,
+    1261
+   ],
+   "category": "Text",
+   "text": "Kort därefter följde en ny expedition till Stockholm. Den 16 februari 1669 fick nämligen Axehiälm från kollegiets præses denna order (R. A. Antikvitetskollegiets skrivelser till De la Gardie):"
+  },
+  {
+   "bbox": [
+    1188,
+    1147,
+    1324,
+    1240
+   ],
+   "category": "Text",
+   "text": "Pärmebreven\nflyttas till\nUppsala"
+  },
+  {
+   "bbox": [
+    136,
+    1269,
+    1177,
+    1394
+   ],
+   "category": "Text",
+   "text": "»Memorial på the saker, som uthur Archivo Assessoren Hr. Axe-\nhielm behagar i Stockholm för Collegio Antiquitatum med sig heem-\nbringa."
+  },
+  {
+   "bbox": [
+    135,
+    1394,
+    1175,
+    1686
+   ],
+   "category": "Text",
+   "text": "1) Hr. Assessoren wille draga wårdnat, huru dhe gambla Kloster-\nbrefz askar blifwa hijt hämptade, så länge Collegium får dem låta\nigenomlöpa och dher uthhämpta, hwad till Antiquiteterne nyttigt\nfinnes och i synnerheet till Historiam Nobilitatis, Cognitionem Sigil-\nlorum et Antiquæ Monetæ, hwarigenom Collegium kunde uthj så-\ndane Materiers utharbetande hafwa sig till hielp och rättelse, hwad\ni sådane gamble bref finnes."
+  },
+  {
+   "bbox": [
+    135,
+    1686,
+    1174,
+    1772
+   ],
+   "category": "Text",
+   "text": "2) Behagade Assessoren efftersökia, hwad flere documenter till ofwanbem:te Materier kunna in Archivo finnas och med sig hijt"
+  },
+  {
+   "bbox": [
+    161,
+    1819,
+    294,
+    1843
+   ],
+   "category": "Page-footer",
+   "text": "19-3264. II."
+  },
+  {
+   "bbox": [
+    1099,
+    1800,
+    1170,
+    1846
+   ],
+   "category": "Page-footer",
+   "text": "289"
+  }
+ ]
+}

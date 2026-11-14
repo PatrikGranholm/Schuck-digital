@@ -1,0 +1,132 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 53,
+ "seconds": 29.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [771, 223, 1132, 266], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [432, 294, 1483, 1258], \"category\": \"Text\", \"text\": \"dädan till andre uthlånte, ty recommendera till E:rs höggrefl. Excell. wij detta i all ödmiukheet, efftersom och Assessoren Hr. Axehielm hafwer oss nylig en indicen Manuscriptorum uppwijsat, som hans swärfader Sal. Johannes Bureus fordom hafwer med sielfwa Manuscriptis inlefwerera låtit och nu af desse någre nödige wore, men icke igen finnas. Ty remittera wij detta ärendet i lijka ödmiukheet till E:rs höggrefl. Excell. nådige försorg, huru dee kunna uppsöchte warda. 6:to Betacka E:r höggrefl. Excell. wij alle samptligen på det ödmiukeligaste för det Sigillo Collegii Antiquitatum¹, som E:rs höggrefl. Excell. sielf bekostat hafwer och hijt donerat, önskandes alla tijder att finnas E:rs höggrefl. Excell. så tacksamme, som E:rs höggrefl. Excell. Nåde det af oss alla städze meriterer. 7:mo S. Olofz Sagas Revision, som E:rs höggrefl. Excell. till Collegium uthj sin nådige skrifwelse till Hr vice Præsidem recommenderat hafwer, är vnder Assessorens Hr. Verelii revision, som den lärer behörligen till publication adornera. Och effter månge af dee främmande nationer gärna wåra Antiquiteter älska och efftersökia, om dee allenast funnes på sådant språk, att dee kunde af dem förståås, ty är Collegii ödmiuke betänckiande, att der en versio latina blefwe jämpte gamble språket och swänske versionen förfärdigat och trycht, skulle wärcket så mycket meer hoos främmande nationer älskat blifwa, hemställandes detta med allt öfriget uthj E:rs höggrefl. Excell. högwijse betänckiande. Och här med förblifwa\"}, {\"bbox\": [437, 1266, 733, 1344], \"category\": \"Text\", \"text\": \"Upsala den 9 Junij\\nA:o 1668.\"}, {\"bbox\": [953, 1283, 1370, 1360], \"category\": \"Text\", \"text\": \"E:rs höggrefl. Excell:tz\\nÖdmiuka Tienare\"}, {\"bbox\": [434, 1379, 686, 1454], \"category\": \"Text\", \"text\": \"Jahan Axehiälm\\nm. pria.\"}, {\"bbox\": [454, 1458, 681, 1493], \"category\": \"Text\", \"text\": \"Olaus Verelius\"}, {\"bbox\": [773, 1378, 1081, 1453], \"category\": \"Text\", \"text\": \"Johannes Loccenius\\nm. pr.\"}, {\"bbox\": [809, 1457, 1053, 1530], \"category\": \"Text\", \"text\": \"Magnus Celsius\\nm. pr.\"}, {\"bbox\": [1143, 1378, 1453, 1452], \"category\": \"Text\", \"text\": \"Johannes Schefferus\\nm. pr.\"}, {\"bbox\": [1121, 1456, 1483, 1499], \"category\": \"Text\", \"text\": \"Johannes Hadorphius.»\"}, {\"bbox\": [435, 1545, 1486, 1758], \"category\": \"Footnote\", \"text\": \"¹ Detta sigill hade ritats av Schefferus. Den 11 april 1668 skrev nämligen Hadorph till De la Gardie (R. A. Skrivelser till De la Gardie. Ser. C 1): »Professor Schefferus drager en stoor nijt om Antiquiteternes fortsättiande, han hafwer afrijtat detta sigill, som tienar Collegio Antiquitatum bruka, efter privata sigilla ingen respect hafua. Doch som inga sumptus till detta eller andre nödigheter fins, recommenderas det till Ers höghGrefl. Excell. ihugkommelse.» I ett brev den 2 juni s. å. fortsätter han: »Sigillum Collegij Antiquitatum, som Ers höghGrefl. Excell. sielf bekostat och i nåde mig tillskickade, är mycket afhållit af Collegis och professoribus, som dhet sedt hafua, för\"}, {\"bbox\": [438, 1787, 486, 1833], \"category\": \"Page-footer\", \"text\": \"38\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    771,
+    223,
+    1132,
+    266
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    432,
+    294,
+    1483,
+    1258
+   ],
+   "category": "Text",
+   "text": "dädan till andre uthlånte, ty recommendera till E:rs höggrefl. Excell. wij detta i all ödmiukheet, efftersom och Assessoren Hr. Axehielm hafwer oss nylig en indicen Manuscriptorum uppwijsat, som hans swärfader Sal. Johannes Bureus fordom hafwer med sielfwa Manuscriptis inlefwerera låtit och nu af desse någre nödige wore, men icke igen finnas. Ty remittera wij detta ärendet i lijka ödmiukheet till E:rs höggrefl. Excell. nådige försorg, huru dee kunna uppsöchte warda. 6:to Betacka E:r höggrefl. Excell. wij alle samptligen på det ödmiukeligaste för det Sigillo Collegii Antiquitatum¹, som E:rs höggrefl. Excell. sielf bekostat hafwer och hijt donerat, önskandes alla tijder att finnas E:rs höggrefl. Excell. så tacksamme, som E:rs höggrefl. Excell. Nåde det af oss alla städze meriterer. 7:mo S. Olofz Sagas Revision, som E:rs höggrefl. Excell. till Collegium uthj sin nådige skrifwelse till Hr vice Præsidem recommenderat hafwer, är vnder Assessorens Hr. Verelii revision, som den lärer behörligen till publication adornera. Och effter månge af dee främmande nationer gärna wåra Antiquiteter älska och efftersökia, om dee allenast funnes på sådant språk, att dee kunde af dem förståås, ty är Collegii ödmiuke betänckiande, att der en versio latina blefwe jämpte gamble språket och swänske versionen förfärdigat och trycht, skulle wärcket så mycket meer hoos främmande nationer älskat blifwa, hemställandes detta med allt öfriget uthj E:rs höggrefl. Excell. högwijse betänckiande. Och här med förblifwa"
+  },
+  {
+   "bbox": [
+    437,
+    1266,
+    733,
+    1344
+   ],
+   "category": "Text",
+   "text": "Upsala den 9 Junij\nA:o 1668."
+  },
+  {
+   "bbox": [
+    953,
+    1283,
+    1370,
+    1360
+   ],
+   "category": "Text",
+   "text": "E:rs höggrefl. Excell:tz\nÖdmiuka Tienare"
+  },
+  {
+   "bbox": [
+    434,
+    1379,
+    686,
+    1454
+   ],
+   "category": "Text",
+   "text": "Jahan Axehiälm\nm. pria."
+  },
+  {
+   "bbox": [
+    454,
+    1458,
+    681,
+    1493
+   ],
+   "category": "Text",
+   "text": "Olaus Verelius"
+  },
+  {
+   "bbox": [
+    773,
+    1378,
+    1081,
+    1453
+   ],
+   "category": "Text",
+   "text": "Johannes Loccenius\nm. pr."
+  },
+  {
+   "bbox": [
+    809,
+    1457,
+    1053,
+    1530
+   ],
+   "category": "Text",
+   "text": "Magnus Celsius\nm. pr."
+  },
+  {
+   "bbox": [
+    1143,
+    1378,
+    1453,
+    1452
+   ],
+   "category": "Text",
+   "text": "Johannes Schefferus\nm. pr."
+  },
+  {
+   "bbox": [
+    1121,
+    1456,
+    1483,
+    1499
+   ],
+   "category": "Text",
+   "text": "Johannes Hadorphius.»"
+  },
+  {
+   "bbox": [
+    435,
+    1545,
+    1486,
+    1758
+   ],
+   "category": "Footnote",
+   "text": "¹ Detta sigill hade ritats av Schefferus. Den 11 april 1668 skrev nämligen Hadorph till De la Gardie (R. A. Skrivelser till De la Gardie. Ser. C 1): »Professor Schefferus drager en stoor nijt om Antiquiteternes fortsättiande, han hafwer afrijtat detta sigill, som tienar Collegio Antiquitatum bruka, efter privata sigilla ingen respect hafua. Doch som inga sumptus till detta eller andre nödigheter fins, recommenderas det till Ers höghGrefl. Excell. ihugkommelse.» I ett brev den 2 juni s. å. fortsätter han: »Sigillum Collegij Antiquitatum, som Ers höghGrefl. Excell. sielf bekostat och i nåde mig tillskickade, är mycket afhållit af Collegis och professoribus, som dhet sedt hafua, för"
+  },
+  {
+   "bbox": [
+    438,
+    1787,
+    486,
+    1833
+   ],
+   "category": "Page-footer",
+   "text": "38"
+  }
+ ]
+}

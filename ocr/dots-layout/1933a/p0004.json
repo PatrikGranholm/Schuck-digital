@@ -1,0 +1,71 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 4,
+ "seconds": 25.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [622, 128, 942, 164], \"category\": \"Text\", \"text\": \"BÖTEBOLKE UNIVERSITETSBIBLIOTÉKEN\"}, {\"bbox\": [622, 154, 942, 250], \"category\": \"Picture\"}, {\"bbox\": [790, 248, 940, 281], \"category\": \"Text\", \"text\": \"1000874714\"}, {\"bbox\": [313, 750, 1123, 969], \"category\": \"Title\", \"text\": \"KGL. VITTERHETS\\nHISTORIE OCH ANTIKVITETS\\nAKADEMIEN\"}, {\"bbox\": [445, 1042, 992, 1158], \"category\": \"Text\", \"text\": \"Dess\\nFörhistoria och Historia\"}, {\"bbox\": [699, 1225, 738, 1259], \"category\": \"Text\", \"text\": \"II\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    622,
+    128,
+    942,
+    164
+   ],
+   "category": "Text",
+   "text": "BÖTEBOLKE UNIVERSITETSBIBLIOTÉKEN"
+  },
+  {
+   "bbox": [
+    622,
+    154,
+    942,
+    250
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    790,
+    248,
+    940,
+    281
+   ],
+   "category": "Text",
+   "text": "1000874714"
+  },
+  {
+   "bbox": [
+    313,
+    750,
+    1123,
+    969
+   ],
+   "category": "Title",
+   "text": "KGL. VITTERHETS\nHISTORIE OCH ANTIKVITETS\nAKADEMIEN"
+  },
+  {
+   "bbox": [
+    445,
+    1042,
+    992,
+    1158
+   ],
+   "category": "Text",
+   "text": "Dess\nFörhistoria och Historia"
+  },
+  {
+   "bbox": [
+    699,
+    1225,
+    738,
+    1259
+   ],
+   "category": "Text",
+   "text": "II"
+  }
+ ]
+}

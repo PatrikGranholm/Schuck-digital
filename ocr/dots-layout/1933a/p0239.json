@@ -1,0 +1,51 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 239,
+ "seconds": 23.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [618, 393, 1430, 503], \"category\": \"Text\", \"text\": \"R. Gustaf Adolphs Resolution för M. Erich Schroder, om Tryckertrunnans utgående: aff alla Annexer i Westergötland nåft efter Wijnsåden. Dat. in Febr. 1630.\"}, {\"bbox\": [618, 525, 794, 718], \"category\": \"Picture\"}, {\"bbox\": [612, 529, 1442, 1498], \"category\": \"Text\", \"text\": \"Ji SVSTAF ADOLPH. 2c. Giöre witterligit/ at Oß Wär troo Tienare / Oß elskelige wälld M. Ericus Schroderus, hafver vnderoänigst giswit tilkåna/ det honom fast beswårligit saller/ at kunna medh Translationen præstera dhe 400. Ark som honom efter sin förra meodelte Instruction ährligen pålagde åro 2c. 2c. Der til ned beswärar han sig öfwer någre aff Clerkerijt/kerdeles i Westergötland/ at dhe hafwa giordt honom intrång vppå den benädning och anordning/Wij honom tilförenne nådigst medh betänkt och vndt hafwa/ i så måtto/ at dhe Oß owitterligen hafwa forskaffat sig konsmåhl och friheet at behålla sine tildelte Annexer för Trycketunnan otaxerade, honom vthi Tryckerijt bekostnaden så wål som vppehållet til stoor brist och åsaknad. Befinner sigh och ingen ringa skada der aff/ at då affkortningarne vtur Kyrckioherbergen vthtagas/ lemnas Trycketunnan aldrasidst 2c. 2c. Sedan wele Wij och den deel som honom vthast hans anordning kan hår til Dagg affhånd/ och Clerkerijet i Westergötland tildelt wara/ återkallat/ och honom på nytt igen reg. „Sticuerat hafwa. Såsom och/ at han må sin anordning nåst „Efter Kyrckiones Wijnsådh vthur Kyrckioherbergen vthtago/ och den sigh til bästa föryttra. Befalle fördenskull hår med Wårt Cammar Rådh/ Ståthållare och 2c. som på Wåre wågnar skola giöra och låta/ at the hår einot icke tilfoga eller tilfoga låta bem: Schrodero något hinder eller försång. Datum Swartsjöden Februarij 1630.\"}, {\"bbox\": [714, 1506, 1354, 1569], \"category\": \"Text\", \"text\": \"GUSTAVUS ADOLPHUS.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    618,
+    393,
+    1430,
+    503
+   ],
+   "category": "Text",
+   "text": "R. Gustaf Adolphs Resolution för M. Erich Schroder, om Tryckertrunnans utgående: aff alla Annexer i Westergötland nåft efter Wijnsåden. Dat. in Febr. 1630."
+  },
+  {
+   "bbox": [
+    618,
+    525,
+    794,
+    718
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    612,
+    529,
+    1442,
+    1498
+   ],
+   "category": "Text",
+   "text": "Ji SVSTAF ADOLPH. 2c. Giöre witterligit/ at Oß Wär troo Tienare / Oß elskelige wälld M. Ericus Schroderus, hafver vnderoänigst giswit tilkåna/ det honom fast beswårligit saller/ at kunna medh Translationen præstera dhe 400. Ark som honom efter sin förra meodelte Instruction ährligen pålagde åro 2c. 2c. Der til ned beswärar han sig öfwer någre aff Clerkerijt/kerdeles i Westergötland/ at dhe hafwa giordt honom intrång vppå den benädning och anordning/Wij honom tilförenne nådigst medh betänkt och vndt hafwa/ i så måtto/ at dhe Oß owitterligen hafwa forskaffat sig konsmåhl och friheet at behålla sine tildelte Annexer för Trycketunnan otaxerade, honom vthi Tryckerijt bekostnaden så wål som vppehållet til stoor brist och åsaknad. Befinner sigh och ingen ringa skada der aff/ at då affkortningarne vtur Kyrckioherbergen vthtagas/ lemnas Trycketunnan aldrasidst 2c. 2c. Sedan wele Wij och den deel som honom vthast hans anordning kan hår til Dagg affhånd/ och Clerkerijet i Westergötland tildelt wara/ återkallat/ och honom på nytt igen reg. „Sticuerat hafwa. Såsom och/ at han må sin anordning nåst „Efter Kyrckiones Wijnsådh vthur Kyrckioherbergen vthtago/ och den sigh til bästa föryttra. Befalle fördenskull hår med Wårt Cammar Rådh/ Ståthållare och 2c. som på Wåre wågnar skola giöra och låta/ at the hår einot icke tilfoga eller tilfoga låta bem: Schrodero något hinder eller försång. Datum Swartsjöden Februarij 1630."
+  },
+  {
+   "bbox": [
+    714,
+    1506,
+    1354,
+    1569
+   ],
+   "category": "Text",
+   "text": "GUSTAVUS ADOLPHUS."
+  }
+ ]
+}

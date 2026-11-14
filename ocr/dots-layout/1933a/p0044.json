@@ -1,0 +1,31 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 44,
+ "seconds": 8.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [201, 311, 1211, 1584], \"category\": \"Picture\"}, {\"bbox\": [451, 1641, 935, 1731], \"category\": \"Caption\", \"text\": \"JOHANNES LOCCENIUS\\nEfter porträtt i Uppsala Universitetsbibliotek\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    201,
+    311,
+    1211,
+    1584
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    451,
+    1641,
+    935,
+    1731
+   ],
+   "category": "Caption",
+   "text": "JOHANNES LOCCENIUS\nEfter porträtt i Uppsala Universitetsbibliotek"
+  }
+ ]
+}

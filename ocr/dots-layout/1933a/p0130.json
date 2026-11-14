@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 130,
+ "seconds": 24.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [392, 221, 925, 266], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiets ekonomi\"}, {\"bbox\": [131, 290, 1183, 417], \"category\": \"Text\", \"text\": \"Antiquitatum Patriæ et Historiarum Peritus och dher uthi prof giorde och den sedan altijdh blefwe en ordinarius assessor Collegij Antiquitatum iempte Bibliotechariatu.\"}, {\"bbox\": [125, 415, 1182, 1034], \"category\": \"Text\", \"text\": \"3) Emädan höghloflig i åminnelse K. Gustaff Adolph hafwer uthi sin stadga 1621 om professoribus upsaliensibus förordnat ibland annat 3:ne professores matheseos och för dem underhåld deputerat i sin donation, som än beståår, men sedermera hafwer den ena professio Matheseos såsom onödig skattat warit och fördensskull af högstbe:te konung ärnat till en professionem Antiquitatum Patriæ, då Hs. M:tt wille hafwa Sal. Johannem Bureum till förste professorem dher uthi att informera ungdomen. Men för hans K. M:ttz hastiga frånfälle studsade iempte flere anstellningar till Antiquiteternes upsökiande och cultur i Rijket. Hwarföre dher nu warande Kongl. M:tt wille b:de vacerande matheseos professoris löön deputera till en professionem Antiquitatum Patriæ och den samma, som der till förordnas, blifwa också en Assessor eiusdem Collegij, wore strax 2:ne personer i Collegio Antiquitatum wäl hulpne och kunde dher medh subsistera.\"}, {\"bbox\": [122, 1042, 1174, 1503], \"category\": \"Text\", \"text\": \"4) Professio Historiarum ähr och helt coniungerat medh antiquitatibus Regni och har dhet till sin obligation uthi constitutionibus Academiæ cap. XIX med desse ord: Suecicam Historiam ex bono aliquo rerum domesticarum scriptore vel propria enarratione breviter tradet etc. Hwarföre dher Kongl. M:tt wille befalla, att constitutiones i den måtton altijdh efterlefwes och sådanne professores Historiarum allena uthwaldes, som till Historiam patriæ wore hugsne, kunde dhe och altijdh wara Assessores medh uthi be:te Collegio och åhrlig något skrifwa in Antiquitatibus Regni, efter dhe ähre frije för disputandi onere, som alla dhe andre philosoph. professores ähra obligerade till.\"}, {\"bbox\": [120, 1501, 1169, 1713], \"category\": \"Text\", \"text\": \"5) finnes och någon behiertat herre i Rijket, som wille anten sielf fundera någon professionem Antiquitatis eller förmå flere att giöra dher till ett sammanskott, då wore dhet ett odödeligt och högprijseligit wärk, som torde hoc exemplo många andra upwäckia till att slijkt efterföllia och kunde blifwa en af dhe förnemsta och warak-\"}, {\"bbox\": [1088, 1803, 1157, 1829], \"category\": \"Page-footer\", \"text\": \"III\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    392,
+    221,
+    925,
+    266
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiets ekonomi"
+  },
+  {
+   "bbox": [
+    131,
+    290,
+    1183,
+    417
+   ],
+   "category": "Text",
+   "text": "Antiquitatum Patriæ et Historiarum Peritus och dher uthi prof giorde och den sedan altijdh blefwe en ordinarius assessor Collegij Antiquitatum iempte Bibliotechariatu."
+  },
+  {
+   "bbox": [
+    125,
+    415,
+    1182,
+    1034
+   ],
+   "category": "Text",
+   "text": "3) Emädan höghloflig i åminnelse K. Gustaff Adolph hafwer uthi sin stadga 1621 om professoribus upsaliensibus förordnat ibland annat 3:ne professores matheseos och för dem underhåld deputerat i sin donation, som än beståår, men sedermera hafwer den ena professio Matheseos såsom onödig skattat warit och fördensskull af högstbe:te konung ärnat till en professionem Antiquitatum Patriæ, då Hs. M:tt wille hafwa Sal. Johannem Bureum till förste professorem dher uthi att informera ungdomen. Men för hans K. M:ttz hastiga frånfälle studsade iempte flere anstellningar till Antiquiteternes upsökiande och cultur i Rijket. Hwarföre dher nu warande Kongl. M:tt wille b:de vacerande matheseos professoris löön deputera till en professionem Antiquitatum Patriæ och den samma, som der till förordnas, blifwa också en Assessor eiusdem Collegij, wore strax 2:ne personer i Collegio Antiquitatum wäl hulpne och kunde dher medh subsistera."
+  },
+  {
+   "bbox": [
+    122,
+    1042,
+    1174,
+    1503
+   ],
+   "category": "Text",
+   "text": "4) Professio Historiarum ähr och helt coniungerat medh antiquitatibus Regni och har dhet till sin obligation uthi constitutionibus Academiæ cap. XIX med desse ord: Suecicam Historiam ex bono aliquo rerum domesticarum scriptore vel propria enarratione breviter tradet etc. Hwarföre dher Kongl. M:tt wille befalla, att constitutiones i den måtton altijdh efterlefwes och sådanne professores Historiarum allena uthwaldes, som till Historiam patriæ wore hugsne, kunde dhe och altijdh wara Assessores medh uthi be:te Collegio och åhrlig något skrifwa in Antiquitatibus Regni, efter dhe ähre frije för disputandi onere, som alla dhe andre philosoph. professores ähra obligerade till."
+  },
+  {
+   "bbox": [
+    120,
+    1501,
+    1169,
+    1713
+   ],
+   "category": "Text",
+   "text": "5) finnes och någon behiertat herre i Rijket, som wille anten sielf fundera någon professionem Antiquitatis eller förmå flere att giöra dher till ett sammanskott, då wore dhet ett odödeligt och högprijseligit wärk, som torde hoc exemplo många andra upwäckia till att slijkt efterföllia och kunde blifwa en af dhe förnemsta och warak-"
+  },
+  {
+   "bbox": [
+    1088,
+    1803,
+    1157,
+    1829
+   ],
+   "category": "Page-footer",
+   "text": "III"
+  }
+ ]
+}

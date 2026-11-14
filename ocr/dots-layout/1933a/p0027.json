@@ -1,0 +1,31 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 27,
+ "seconds": 19.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [105, 283, 127, 411], \"category\": \"Page-header\", \"text\": \"E. F. C.\"}, {\"bbox\": [83, 162, 1792, 2407], \"category\": \"Picture\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    105,
+    283,
+    127,
+    411
+   ],
+   "category": "Page-header",
+   "text": "E. F. C."
+  },
+  {
+   "bbox": [
+    83,
+    162,
+    1792,
+    2407
+   ],
+   "category": "Picture"
+  }
+ ]
+}

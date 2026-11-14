@@ -1,0 +1,61 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 236,
+ "seconds": 20.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [183, 357, 1007, 1256], \"category\": \"Text\", \"text\": \"i krafft af detta Wårt opne Bref/förklarom ån yttermehra/ at det skal effter denne dag aldeles blifftawid den disposition och förordning / Wij tilförenne om Tryckerijtunnan först Anno 1674. och sedan den 20. Januarii sidst fråledne/ giordt och författat haftwe: T. I föllie af hwilken/ Collegium Antiquitatis, vthan något hinder och mehn/ och vthan någons wijdare åtaal/skal haftwa den sama öfwer hela Rijket at vpbåra/infordra/och sig sampt publico til gagn och nytta bruka/ på det sått som för: de wårt Bref och Relutioni i Bookstafven innehåller och förmår. Hwilket Wårt Cammar Collegium och Statz Contoir, sampt alle General Gouverneurer, Gouverneurer och Landzhöfdingar/ så och flere som wederböre/ haftwa sigh hörsambligen at effterråtta/ icke gällandes hår emot i någon måtto/ nu eller i tilkommande tijder. Til yttermera wiso haftwe Wij detta medh egen Hand vnderskrifwit/ och Wårt Kongl. Secret bekråffta låtit. Datum Stockholm den 14. Junij Anno 1682.\"}, {\"bbox\": [364, 1256, 809, 1321], \"category\": \"Text\", \"text\": \"CAROLUS.\"}, {\"bbox\": [515, 1384, 659, 1523], \"category\": \"Picture\"}, {\"bbox\": [622, 1530, 661, 1569], \"category\": \"Text\", \"text\": \"B\"}, {\"bbox\": [898, 1542, 994, 1586], \"category\": \"Text\", \"text\": \"Kongl.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    183,
+    357,
+    1007,
+    1256
+   ],
+   "category": "Text",
+   "text": "i krafft af detta Wårt opne Bref/förklarom ån yttermehra/ at det skal effter denne dag aldeles blifftawid den disposition och förordning / Wij tilförenne om Tryckerijtunnan först Anno 1674. och sedan den 20. Januarii sidst fråledne/ giordt och författat haftwe: T. I föllie af hwilken/ Collegium Antiquitatis, vthan något hinder och mehn/ och vthan någons wijdare åtaal/skal haftwa den sama öfwer hela Rijket at vpbåra/infordra/och sig sampt publico til gagn och nytta bruka/ på det sått som för: de wårt Bref och Relutioni i Bookstafven innehåller och förmår. Hwilket Wårt Cammar Collegium och Statz Contoir, sampt alle General Gouverneurer, Gouverneurer och Landzhöfdingar/ så och flere som wederböre/ haftwa sigh hörsambligen at effterråtta/ icke gällandes hår emot i någon måtto/ nu eller i tilkommande tijder. Til yttermera wiso haftwe Wij detta medh egen Hand vnderskrifwit/ och Wårt Kongl. Secret bekråffta låtit. Datum Stockholm den 14. Junij Anno 1682."
+  },
+  {
+   "bbox": [
+    364,
+    1256,
+    809,
+    1321
+   ],
+   "category": "Text",
+   "text": "CAROLUS."
+  },
+  {
+   "bbox": [
+    515,
+    1384,
+    659,
+    1523
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    622,
+    1530,
+    661,
+    1569
+   ],
+   "category": "Text",
+   "text": "B"
+  },
+  {
+   "bbox": [
+    898,
+    1542,
+    994,
+    1586
+   ],
+   "category": "Text",
+   "text": "Kongl."
+  }
+ ]
+}

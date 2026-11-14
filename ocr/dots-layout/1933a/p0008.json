@@ -1,0 +1,81 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 8,
+ "seconds": 16.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [471, 221, 880, 634], \"category\": \"Picture\"}, {\"bbox\": [551, 648, 800, 680], \"category\": \"Caption\", \"text\": \"Antikvitetskollegiets sigill.\"}, {\"bbox\": [273, 825, 1069, 862], \"category\": \"Section-header\", \"text\": \"## ANTIKVITETSKOLLEGIETS FÖRSTA TID.\"}, {\"bbox\": [146, 914, 1190, 1754], \"category\": \"Text\", \"text\": \"Mot slutet av sitt liv skrev Hadorph en ganska utförlig berättelse »Om Collegii Antiquitatum första Vphof» (U. B. Palmskiöld vol. 71), som avfattades till ledning för kansli- och kammarkollegierna, då de 1691 behandlade frågan om antikvitetskollegiets omorganisation. Omkring 1660 — berättar han här — befann sig fornforskningen »som in agone». Ingen fanns, som kunde läsa gamla isländska handskrifter, mer än Laurentius Bureus och Hadorph, av vilka den förre därför blev antiquarius. »Sedan begynte sal. Cantzleren som oftast sökia efter flera, som på det språket skulle sigh leggia, hwilket sal. Olaus Verelius sigh påtogh, som fick en Jsländare Jonas Rugman sigh till hielp.» Själv beslöt Hadorph att »uthi detta studio continuera», och efter Laurentius Bureus' död delades också antikvarielönen mellan honom och Verelius. Åhr 1666 — fortsätter han — »om Sommaren ankom Sal. Cantzleren till Academien och begynte å nyo efftersökia flere Personer, som wille sigh läggia på Antiquiteterne, men fick ingen, stodh altså nu allena emillan Sal. Verelium och migh. Moot hösten kom Sal. Cantzlern igen och effter förrättade Academiske ährenden yrkiade det samma om Antiquiteterne, låtandes der widh upläsa ett K. Carl Gustafs Bref af åhr 1658 uthi Ringsta, att efter hans Kongl. May:t hade fått en hoop Manuscrip-\"}, {\"bbox\": [1192, 925, 1328, 986], \"category\": \"Text\", \"text\": \"Kollegiets förberedelser\"}, {\"bbox\": [176, 1796, 297, 1821], \"category\": \"Page-footer\", \"text\": \"I—3264. II.\"}, {\"bbox\": [1163, 1793, 1180, 1818], \"category\": \"Page-footer\", \"text\": \"I\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    471,
+    221,
+    880,
+    634
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    551,
+    648,
+    800,
+    680
+   ],
+   "category": "Caption",
+   "text": "Antikvitetskollegiets sigill."
+  },
+  {
+   "bbox": [
+    273,
+    825,
+    1069,
+    862
+   ],
+   "category": "Section-header",
+   "text": "## ANTIKVITETSKOLLEGIETS FÖRSTA TID."
+  },
+  {
+   "bbox": [
+    146,
+    914,
+    1190,
+    1754
+   ],
+   "category": "Text",
+   "text": "Mot slutet av sitt liv skrev Hadorph en ganska utförlig berättelse »Om Collegii Antiquitatum första Vphof» (U. B. Palmskiöld vol. 71), som avfattades till ledning för kansli- och kammarkollegierna, då de 1691 behandlade frågan om antikvitetskollegiets omorganisation. Omkring 1660 — berättar han här — befann sig fornforskningen »som in agone». Ingen fanns, som kunde läsa gamla isländska handskrifter, mer än Laurentius Bureus och Hadorph, av vilka den förre därför blev antiquarius. »Sedan begynte sal. Cantzleren som oftast sökia efter flera, som på det språket skulle sigh leggia, hwilket sal. Olaus Verelius sigh påtogh, som fick en Jsländare Jonas Rugman sigh till hielp.» Själv beslöt Hadorph att »uthi detta studio continuera», och efter Laurentius Bureus' död delades också antikvarielönen mellan honom och Verelius. Åhr 1666 — fortsätter han — »om Sommaren ankom Sal. Cantzleren till Academien och begynte å nyo efftersökia flere Personer, som wille sigh läggia på Antiquiteterne, men fick ingen, stodh altså nu allena emillan Sal. Verelium och migh. Moot hösten kom Sal. Cantzlern igen och effter förrättade Academiske ährenden yrkiade det samma om Antiquiteterne, låtandes der widh upläsa ett K. Carl Gustafs Bref af åhr 1658 uthi Ringsta, att efter hans Kongl. May:t hade fått en hoop Manuscrip-"
+  },
+  {
+   "bbox": [
+    1192,
+    925,
+    1328,
+    986
+   ],
+   "category": "Text",
+   "text": "Kollegiets förberedelser"
+  },
+  {
+   "bbox": [
+    176,
+    1796,
+    297,
+    1821
+   ],
+   "category": "Page-footer",
+   "text": "I—3264. II."
+  },
+  {
+   "bbox": [
+    1163,
+    1793,
+    1180,
+    1818
+   ],
+   "category": "Page-footer",
+   "text": "I"
+  }
+ ]
+}

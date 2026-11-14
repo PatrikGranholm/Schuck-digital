@@ -1,0 +1,162 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 379,
+ "seconds": 28.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [733, 245, 1097, 289], \"category\": \"Section-header\", \"text\": \"Antikwitetskollegiet\"}, {\"bbox\": [391, 317, 1435, 395], \"category\": \"Text\", \"text\": \"på kyrckiogården lijgger een vacker steen, runska på skriffuit och ther hoos en steen i huart hörm.\"}, {\"bbox\": [391, 400, 1437, 527], \"category\": \"Text\", \"text\": \"2) J Prästegärdet står een Sten, män inthet skriffuit vppå, then andra nädhan för Prästegärdet,, in emott een Broo står och een Rundsten och vackert skriffuit vppå.\"}, {\"bbox\": [391, 525, 1435, 613], \"category\": \"Text\", \"text\": \"3) I fiuckeby vthij Nårra gärdet står tuänne, som ähr skriffuit vppå.\"}, {\"bbox\": [391, 610, 1435, 737], \"category\": \"Text\", \"text\": \"4) J Kyrstaa ähr och tuänne Rundsteenar, som är skriffuit vppå, then ena i thett västra gärdet, then andra i thett östra gärdet, såsom och vijdh Byn fins Steenhoopar.\"}, {\"bbox\": [391, 735, 1433, 819], \"category\": \"Text\", \"text\": \"5) J Waxmyra står tuänne Steenar, män indhet skriffuit vppå som syness.\"}, {\"bbox\": [391, 818, 1433, 903], \"category\": \"Text\", \"text\": \"6) J Stoor Vrätta fins och een Rundsteen, som ähr skriffuit vppå, såsom och några steenhoopar.\"}, {\"bbox\": [391, 902, 1433, 987], \"category\": \"Text\", \"text\": \"7) J hållie (?) gärdet fins och een Rundsteen, som ähr skriffuit vppå, i gärdet ähro och Jordhögar, som ähro steenlagda.\"}, {\"bbox\": [391, 985, 1435, 1071], \"category\": \"Text\", \"text\": \"9) [8 saknas] J Walby vthij een hummelgårdh står och een Rundsteen, skriffuit vppå.\"}, {\"bbox\": [391, 1070, 1437, 1196], \"category\": \"Text\", \"text\": \"Att thetta sanfärdigt ähr, wijttnar iag med eghen handh skriffuit sampt Länsdh- och Sexmännernass tillijka medh mijtt nampn vnderskriffuijt af Ehrntuna Socknesstuuffuo dhen 19 Maij A:o 1667.\"}, {\"bbox\": [702, 1206, 1127, 1248], \"category\": \"Text\", \"text\": \"Nicolaus S. Holmdorphius\"}, {\"bbox\": [775, 1250, 1056, 1278], \"category\": \"Text\", \"text\": \"Past. Eirntunensium m. pr.\"}, {\"bbox\": [585, 1299, 1247, 1594], \"category\": \"Text\", \"text\": \"Ländzman Lars Bengtsson i Hållie (?)\\nSexmän. { Erich Bengtsson ibidem\\n{ Mårtlhen Oloffson i Vrätta\\n{ Oloff Maattsson i granby\\n{ Oloff Jliansson i fiuckeby\\n{ Anders Marckusson i vggelen\\n{ Jöran Erickson i Waxmyra».\"}, {\"bbox\": [391, 1611, 1441, 1779], \"category\": \"Text\", \"text\": \"Andra däremot innehålla verkligen upplysningar, som äro av intresse, icke minst då några folktraditioner meddelas. Såsom exempel kunna vi taga rannsakningarna från Håtuna i Uppland, Norrbärke i Bärgslagen, Tollstad i Östergötland och Dala i Västergöt-\"}, {\"bbox\": [395, 1808, 470, 1857], \"category\": \"Page-footer\", \"text\": \"348\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    733,
+    245,
+    1097,
+    289
+   ],
+   "category": "Section-header",
+   "text": "Antikwitetskollegiet"
+  },
+  {
+   "bbox": [
+    391,
+    317,
+    1435,
+    395
+   ],
+   "category": "Text",
+   "text": "på kyrckiogården lijgger een vacker steen, runska på skriffuit och ther hoos en steen i huart hörm."
+  },
+  {
+   "bbox": [
+    391,
+    400,
+    1437,
+    527
+   ],
+   "category": "Text",
+   "text": "2) J Prästegärdet står een Sten, män inthet skriffuit vppå, then andra nädhan för Prästegärdet,, in emott een Broo står och een Rundsten och vackert skriffuit vppå."
+  },
+  {
+   "bbox": [
+    391,
+    525,
+    1435,
+    613
+   ],
+   "category": "Text",
+   "text": "3) I fiuckeby vthij Nårra gärdet står tuänne, som ähr skriffuit vppå."
+  },
+  {
+   "bbox": [
+    391,
+    610,
+    1435,
+    737
+   ],
+   "category": "Text",
+   "text": "4) J Kyrstaa ähr och tuänne Rundsteenar, som är skriffuit vppå, then ena i thett västra gärdet, then andra i thett östra gärdet, såsom och vijdh Byn fins Steenhoopar."
+  },
+  {
+   "bbox": [
+    391,
+    735,
+    1433,
+    819
+   ],
+   "category": "Text",
+   "text": "5) J Waxmyra står tuänne Steenar, män indhet skriffuit vppå som syness."
+  },
+  {
+   "bbox": [
+    391,
+    818,
+    1433,
+    903
+   ],
+   "category": "Text",
+   "text": "6) J Stoor Vrätta fins och een Rundsteen, som ähr skriffuit vppå, såsom och några steenhoopar."
+  },
+  {
+   "bbox": [
+    391,
+    902,
+    1433,
+    987
+   ],
+   "category": "Text",
+   "text": "7) J hållie (?) gärdet fins och een Rundsteen, som ähr skriffuit vppå, i gärdet ähro och Jordhögar, som ähro steenlagda."
+  },
+  {
+   "bbox": [
+    391,
+    985,
+    1435,
+    1071
+   ],
+   "category": "Text",
+   "text": "9) [8 saknas] J Walby vthij een hummelgårdh står och een Rundsteen, skriffuit vppå."
+  },
+  {
+   "bbox": [
+    391,
+    1070,
+    1437,
+    1196
+   ],
+   "category": "Text",
+   "text": "Att thetta sanfärdigt ähr, wijttnar iag med eghen handh skriffuit sampt Länsdh- och Sexmännernass tillijka medh mijtt nampn vnderskriffuijt af Ehrntuna Socknesstuuffuo dhen 19 Maij A:o 1667."
+  },
+  {
+   "bbox": [
+    702,
+    1206,
+    1127,
+    1248
+   ],
+   "category": "Text",
+   "text": "Nicolaus S. Holmdorphius"
+  },
+  {
+   "bbox": [
+    775,
+    1250,
+    1056,
+    1278
+   ],
+   "category": "Text",
+   "text": "Past. Eirntunensium m. pr."
+  },
+  {
+   "bbox": [
+    585,
+    1299,
+    1247,
+    1594
+   ],
+   "category": "Text",
+   "text": "Ländzman Lars Bengtsson i Hållie (?)\nSexmän. { Erich Bengtsson ibidem\n{ Mårtlhen Oloffson i Vrätta\n{ Oloff Maattsson i granby\n{ Oloff Jliansson i fiuckeby\n{ Anders Marckusson i vggelen\n{ Jöran Erickson i Waxmyra»."
+  },
+  {
+   "bbox": [
+    391,
+    1611,
+    1441,
+    1779
+   ],
+   "category": "Text",
+   "text": "Andra däremot innehålla verkligen upplysningar, som äro av intresse, icke minst då några folktraditioner meddelas. Såsom exempel kunna vi taga rannsakningarna från Håtuna i Uppland, Norrbärke i Bärgslagen, Tollstad i Östergötland och Dala i Västergöt-"
+  },
+  {
+   "bbox": [
+    395,
+    1808,
+    470,
+    1857
+   ],
+   "category": "Page-footer",
+   "text": "348"
+  }
+ ]
+}

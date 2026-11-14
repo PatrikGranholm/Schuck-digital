@@ -1,0 +1,81 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 118,
+ "seconds": 20.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [378, 225, 952, 270], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiets senare tid\"}, {\"bbox\": [138, 294, 1191, 464], \"category\": \"Text\", \"text\": \"Den tjänstepersonal, som Hadorph hade under sig, var ganska talrik. Enligt staten av 1682, som utfärdats av Karl XI, bestod den av aktuarien Ericus Wennæsius, den isländske translatorn Guðmundur Ólafsson, en isländsk amanuens, de svenska amanuenserna\"}, {\"bbox\": [257, 482, 1069, 1397], \"category\": \"Picture\"}, {\"bbox\": [536, 1408, 772, 1442], \"category\": \"Caption\", \"text\": \"Plan av gamla slottet.\"}, {\"bbox\": [128, 1470, 1173, 1676], \"category\": \"Text\", \"text\": \"Peringer och Lars Persson, ytterligare två svenska amanuenser, två ritare, en formsnidare och en dräng. Sedermera tillkommo en registrator och en bokhållare. Genom kungliga brev av den 5 juli 1684 fick kollegiet ock sin privilegierade boktryckare, sin bokförare¹ och sin bokbindare.\"}, {\"bbox\": [128, 1696, 1170, 1767], \"category\": \"Footnote\", \"text\": \"¹ Syftet var här att sälja svenska böcker i utlandet. I privilegiet säges, »at oss hafwer Wårt Collegium antiquitatum underdånigst föredragit, huruledes de materier och böcker, som tid efter\"}, {\"bbox\": [1120, 1807, 1167, 1845], \"category\": \"Page-footer\", \"text\": \"99\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    378,
+    225,
+    952,
+    270
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiets senare tid"
+  },
+  {
+   "bbox": [
+    138,
+    294,
+    1191,
+    464
+   ],
+   "category": "Text",
+   "text": "Den tjänstepersonal, som Hadorph hade under sig, var ganska talrik. Enligt staten av 1682, som utfärdats av Karl XI, bestod den av aktuarien Ericus Wennæsius, den isländske translatorn Guðmundur Ólafsson, en isländsk amanuens, de svenska amanuenserna"
+  },
+  {
+   "bbox": [
+    257,
+    482,
+    1069,
+    1397
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    536,
+    1408,
+    772,
+    1442
+   ],
+   "category": "Caption",
+   "text": "Plan av gamla slottet."
+  },
+  {
+   "bbox": [
+    128,
+    1470,
+    1173,
+    1676
+   ],
+   "category": "Text",
+   "text": "Peringer och Lars Persson, ytterligare två svenska amanuenser, två ritare, en formsnidare och en dräng. Sedermera tillkommo en registrator och en bokhållare. Genom kungliga brev av den 5 juli 1684 fick kollegiet ock sin privilegierade boktryckare, sin bokförare¹ och sin bokbindare."
+  },
+  {
+   "bbox": [
+    128,
+    1696,
+    1170,
+    1767
+   ],
+   "category": "Footnote",
+   "text": "¹ Syftet var här att sälja svenska böcker i utlandet. I privilegiet säges, »at oss hafwer Wårt Collegium antiquitatum underdånigst föredragit, huruledes de materier och böcker, som tid efter"
+  },
+  {
+   "bbox": [
+    1120,
+    1807,
+    1167,
+    1845
+   ],
+   "category": "Page-footer",
+   "text": "99"
+  }
+ ]
+}

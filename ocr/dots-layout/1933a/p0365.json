@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 365,
+ "seconds": 26.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [761, 245, 1123, 287], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [422, 315, 1468, 687], \"category\": \"Text\", \"text\": \"Län Karusen Sokn och Jervis By, hwilken Skatt strax der på til största delen blef hijt til Stockholm fördt af en Befalningsman dersammastädes, Philip Behm benämd, hos hwilken iag den samma aldraförst igenom sågh och mig en Dehl der af tillhandlade. . . . . . Den Tridie Skatten fans Åhr 1686 i Junij Månad i Finnland wed Åbo i Uskila Sokn uti Salo By och Savis Hemman, dock wore dhe, som der funnes, icke så monga til antalet som dhe förre, af hwilka migh dhe förnämste såsom en Arabisk och någre Æthelrede af en där å Orten boende Adelsman blefwe tilstelte».\"}, {\"bbox\": [422, 691, 1471, 1571], \"category\": \"Text\", \"text\": \"Emellertid ökades myntsamlingen icke så litet under Hadorphs tid. Tyvärr är inventariet 1693 även beträffande mynten ytterst summariskt, så att någon möjlighet att identifiera dem icke finnes. De flesta förvarades i »väggskåpet»: »En Ask medh en hoop smått mynt bestående af 960 stycken, mäst mz Lit. M.»¹ »Ett asklåk medh en hoop Engelske Mynt af lijka stoorleek», »Rommerska Penningar af Metall 30 st», »Sju stycken Kopparklippingar», »En Ask med smått Silfwermynt angående 3 chronor, i Schefferi Tractat de Tribus Coronis afrijtade», »Hertig Carls Silfwerklippingh», »Fem stycken Kongh Gustaf Adolfs Koppar klippingar», »I Papper några små Mynt af Silfwer åtskillige Sorter», »Een Brun Sammetzpung med gambla Kopparhalfören och Klippingar samt några ängelska af Silfwer». I järnkistan förvarades »3 st. Gullpenningar, fundne i Skåne, afrijtade och beskrefne af Scheffero», »K. Carl den 9:des Gullpenning på Götheborgs Stads fundation», »En Penning på westphaliske Freden A:o 1648», »K. Gustaf d. förstes Gullpenning som ½ RD. A:o 1528», »K. Sigismundi Gullpenning 1611. Halfsprucken, till stoorleek som en Carolin» och »364 stycken Silfwerpenningar medh Arabiska Caracterer medh 9 stycken fragmenter. Desse woro medh Silfwertråden uthi en Posse» — sannolikt det nyss omtalade Gotlandsfyndet.\"}, {\"bbox\": [426, 1597, 1473, 1782], \"category\": \"Footnote\", \"text\": \"¹ Denna samling är troligen den, som Brenner (sid. 265 i andra uppl. av Thesaurus) omtalar: Anno MDXCIX tempore Ducis Caroli, qui Rex ejus nominis Nonus postea factus est, in Sudermannia, districtu Rönensi et Parœcia Tisberg nominata terram fodiens rusticus ingentem invenit copiam monetæ bracteatæ ex purissimo argento et literis E vel M., initialibus elementis nominum Regiorum Erici scilicet cognomento Balbi et Magni, qui Ladulås cognominatus est, adhuc Regium servat Antiquitatum Archivum.\"}, {\"bbox\": [430, 1818, 505, 1855], \"category\": \"Page-footer\", \"text\": \"334\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    761,
+    245,
+    1123,
+    287
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    422,
+    315,
+    1468,
+    687
+   ],
+   "category": "Text",
+   "text": "Län Karusen Sokn och Jervis By, hwilken Skatt strax der på til största delen blef hijt til Stockholm fördt af en Befalningsman dersammastädes, Philip Behm benämd, hos hwilken iag den samma aldraförst igenom sågh och mig en Dehl der af tillhandlade. . . . . . Den Tridie Skatten fans Åhr 1686 i Junij Månad i Finnland wed Åbo i Uskila Sokn uti Salo By och Savis Hemman, dock wore dhe, som der funnes, icke så monga til antalet som dhe förre, af hwilka migh dhe förnämste såsom en Arabisk och någre Æthelrede af en där å Orten boende Adelsman blefwe tilstelte»."
+  },
+  {
+   "bbox": [
+    422,
+    691,
+    1471,
+    1571
+   ],
+   "category": "Text",
+   "text": "Emellertid ökades myntsamlingen icke så litet under Hadorphs tid. Tyvärr är inventariet 1693 även beträffande mynten ytterst summariskt, så att någon möjlighet att identifiera dem icke finnes. De flesta förvarades i »väggskåpet»: »En Ask medh en hoop smått mynt bestående af 960 stycken, mäst mz Lit. M.»¹ »Ett asklåk medh en hoop Engelske Mynt af lijka stoorleek», »Rommerska Penningar af Metall 30 st», »Sju stycken Kopparklippingar», »En Ask med smått Silfwermynt angående 3 chronor, i Schefferi Tractat de Tribus Coronis afrijtade», »Hertig Carls Silfwerklippingh», »Fem stycken Kongh Gustaf Adolfs Koppar klippingar», »I Papper några små Mynt af Silfwer åtskillige Sorter», »Een Brun Sammetzpung med gambla Kopparhalfören och Klippingar samt några ängelska af Silfwer». I järnkistan förvarades »3 st. Gullpenningar, fundne i Skåne, afrijtade och beskrefne af Scheffero», »K. Carl den 9:des Gullpenning på Götheborgs Stads fundation», »En Penning på westphaliske Freden A:o 1648», »K. Gustaf d. förstes Gullpenning som ½ RD. A:o 1528», »K. Sigismundi Gullpenning 1611. Halfsprucken, till stoorleek som en Carolin» och »364 stycken Silfwerpenningar medh Arabiska Caracterer medh 9 stycken fragmenter. Desse woro medh Silfwertråden uthi en Posse» — sannolikt det nyss omtalade Gotlandsfyndet."
+  },
+  {
+   "bbox": [
+    426,
+    1597,
+    1473,
+    1782
+   ],
+   "category": "Footnote",
+   "text": "¹ Denna samling är troligen den, som Brenner (sid. 265 i andra uppl. av Thesaurus) omtalar: Anno MDXCIX tempore Ducis Caroli, qui Rex ejus nominis Nonus postea factus est, in Sudermannia, districtu Rönensi et Parœcia Tisberg nominata terram fodiens rusticus ingentem invenit copiam monetæ bracteatæ ex purissimo argento et literis E vel M., initialibus elementis nominum Regiorum Erici scilicet cognomento Balbi et Magni, qui Ladulås cognominatus est, adhuc Regium servat Antiquitatum Archivum."
+  },
+  {
+   "bbox": [
+    430,
+    1818,
+    505,
+    1855
+   ],
+   "category": "Page-footer",
+   "text": "334"
+  }
+ ]
+}

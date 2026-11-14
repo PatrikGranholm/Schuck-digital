@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 103,
+ "seconds": 26.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [765, 229, 1129, 272], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [417, 296, 1471, 433], \"category\": \"Text\", \"text\": \"och ännu i den prælectionskatalog, som utgavs på hösten 1686, uppgiver Norrman: »Præterea domesticis in Exercitiis Historiæque Patriæ et Antiquitatum evolutione operam expetituris sedulam profitetur».\"}, {\"bbox\": [417, 423, 1488, 1644], \"category\": \"Text\", \"text\": \"På hösten 1685 inlämnade han en ny böneskrift till konungen (avskrift av Gahm, sign. U 113): »E:s Kongl. Majestet faller uthi aldradiupeste underdån. ödmiukhet jag fattige supplicant til foota, beklagandes min stoore olycka, att ehuruwäl Eders Kongl. Maj:t allernådigst behagadt öfwer halfft fierde år sedan förmedelst E. K. Maj:ts allernådigste Fullmacht A. 1682 Januarii 25 samt derå Kongl. ordres til Kongl Statscomtoiret A. 1683 Martii 22, item A. 1684 Febr. 13 mig ordinarii Assessoris in collegio Antiquitatum rum och löön confirmera och bekräfta. Och jag mig bem:te Collegio tiidt och ofta præsenteradt, min underdånige ringe tienst præsenteradt samt med dess consens mig något arbete under händerne tagidt, jag dåg til min stoore nachdeel och affsaknad sörja och kwiida måste, dhet jag, såsom then aldrig uppå bem:te Collegii stat blifwidt opförd, in til thenne dagen platt ingen skärff af Salario nutidt, ther dåg E:s Kongl. Maj:t uthi dess aldrahögstbemäldte siidste Kongl. breeff. A. 1684 Febr. 13 allernådigst beordrat mig full löön jämwäl för förflutne år. Således haar jag uthi the ämbets sysslor, een Assessori Collegii åligger, för min stoore fattigdom fast ringa medel och ämne hafft mig att evertuera. Thy böönfaller til E. Kongl. Maj:t jag aldraunderdånigst, thet thäckdtes E. Kongl. Maj:t mig här å orten med publica professione Antiquitatum Patriæ, som Sal. prof. Verelius i sin tiid haft, benåda jämnte then ordinarie Assessors-löön effter E. Kongl. Maj:ts allernådigste Fullmacht, jag eljest aff Collegio Antiquitatum hade att förwänta och åtniuta. Wiljandes jag, så länge gud och E. K. Maj:t täckes, dagligen twenne lectiones publicas, then eena in Græcis, hwilken profession E. K. Maj:t allernådigst nu nyligen mig thäckdts conferera, then andre in Historicis hålla. Afwachtar uthi aldra diupeste underdån. ödmiukheet E:s K. Maj:ts allernådigste resolution och förblifwer til min död\"}, {\"bbox\": [785, 1683, 1488, 1805], \"category\": \"Text\", \"text\": \"Eders Kongl. Majestets allerunderdån ödmiukaste undersåte Lars Norrmann».\"}, {\"bbox\": [439, 1798, 488, 1844], \"category\": \"Page-footer\", \"text\": \"84\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    765,
+    229,
+    1129,
+    272
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    417,
+    296,
+    1471,
+    433
+   ],
+   "category": "Text",
+   "text": "och ännu i den prælectionskatalog, som utgavs på hösten 1686, uppgiver Norrman: »Præterea domesticis in Exercitiis Historiæque Patriæ et Antiquitatum evolutione operam expetituris sedulam profitetur»."
+  },
+  {
+   "bbox": [
+    417,
+    423,
+    1488,
+    1644
+   ],
+   "category": "Text",
+   "text": "På hösten 1685 inlämnade han en ny böneskrift till konungen (avskrift av Gahm, sign. U 113): »E:s Kongl. Majestet faller uthi aldradiupeste underdån. ödmiukhet jag fattige supplicant til foota, beklagandes min stoore olycka, att ehuruwäl Eders Kongl. Maj:t allernådigst behagadt öfwer halfft fierde år sedan förmedelst E. K. Maj:ts allernådigste Fullmacht A. 1682 Januarii 25 samt derå Kongl. ordres til Kongl Statscomtoiret A. 1683 Martii 22, item A. 1684 Febr. 13 mig ordinarii Assessoris in collegio Antiquitatum rum och löön confirmera och bekräfta. Och jag mig bem:te Collegio tiidt och ofta præsenteradt, min underdånige ringe tienst præsenteradt samt med dess consens mig något arbete under händerne tagidt, jag dåg til min stoore nachdeel och affsaknad sörja och kwiida måste, dhet jag, såsom then aldrig uppå bem:te Collegii stat blifwidt opförd, in til thenne dagen platt ingen skärff af Salario nutidt, ther dåg E:s Kongl. Maj:t uthi dess aldrahögstbemäldte siidste Kongl. breeff. A. 1684 Febr. 13 allernådigst beordrat mig full löön jämwäl för förflutne år. Således haar jag uthi the ämbets sysslor, een Assessori Collegii åligger, för min stoore fattigdom fast ringa medel och ämne hafft mig att evertuera. Thy böönfaller til E. Kongl. Maj:t jag aldraunderdånigst, thet thäckdtes E. Kongl. Maj:t mig här å orten med publica professione Antiquitatum Patriæ, som Sal. prof. Verelius i sin tiid haft, benåda jämnte then ordinarie Assessors-löön effter E. Kongl. Maj:ts allernådigste Fullmacht, jag eljest aff Collegio Antiquitatum hade att förwänta och åtniuta. Wiljandes jag, så länge gud och E. K. Maj:t täckes, dagligen twenne lectiones publicas, then eena in Græcis, hwilken profession E. K. Maj:t allernådigst nu nyligen mig thäckdts conferera, then andre in Historicis hålla. Afwachtar uthi aldra diupeste underdån. ödmiukheet E:s K. Maj:ts allernådigste resolution och förblifwer til min död"
+  },
+  {
+   "bbox": [
+    785,
+    1683,
+    1488,
+    1805
+   ],
+   "category": "Text",
+   "text": "Eders Kongl. Majestets allerunderdån ödmiukaste undersåte Lars Norrmann»."
+  },
+  {
+   "bbox": [
+    439,
+    1798,
+    488,
+    1844
+   ],
+   "category": "Page-footer",
+   "text": "84"
+  }
+ ]
+}

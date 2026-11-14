@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 6,
+ "seconds": 17.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [141, 318, 1251, 621], \"category\": \"Title\", \"text\": \"KGL. VITTERHETS\\nHISTORIE OCH ANTIKVITETS\\nAKADEMIEN\"}, {\"bbox\": [312, 687, 1083, 847], \"category\": \"Title\", \"text\": \"Dess\\nFörhistoria och Historia\"}, {\"bbox\": [462, 894, 934, 1040], \"category\": \"Text\", \"text\": \"På akademiens uppdrag\\nförfattade\\nav\"}, {\"bbox\": [462, 1082, 929, 1136], \"category\": \"Text\", \"text\": \"HENRIK SCHÜCK\"}, {\"bbox\": [674, 1219, 718, 1256], \"category\": \"Text\", \"text\": \"II\"}, {\"bbox\": [553, 1288, 841, 1378], \"category\": \"Text\", \"text\": \"ANTIKVITETS-\\nKOLLEGIET I\"}, {\"bbox\": [446, 1730, 943, 1785], \"category\": \"Text\", \"text\": \"Stockholm 1933\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    141,
+    318,
+    1251,
+    621
+   ],
+   "category": "Title",
+   "text": "KGL. VITTERHETS\nHISTORIE OCH ANTIKVITETS\nAKADEMIEN"
+  },
+  {
+   "bbox": [
+    312,
+    687,
+    1083,
+    847
+   ],
+   "category": "Title",
+   "text": "Dess\nFörhistoria och Historia"
+  },
+  {
+   "bbox": [
+    462,
+    894,
+    934,
+    1040
+   ],
+   "category": "Text",
+   "text": "På akademiens uppdrag\nförfattade\nav"
+  },
+  {
+   "bbox": [
+    462,
+    1082,
+    929,
+    1136
+   ],
+   "category": "Text",
+   "text": "HENRIK SCHÜCK"
+  },
+  {
+   "bbox": [
+    674,
+    1219,
+    718,
+    1256
+   ],
+   "category": "Text",
+   "text": "II"
+  },
+  {
+   "bbox": [
+    553,
+    1288,
+    841,
+    1378
+   ],
+   "category": "Text",
+   "text": "ANTIKVITETS-\nKOLLEGIET I"
+  },
+  {
+   "bbox": [
+    446,
+    1730,
+    943,
+    1785
+   ],
+   "category": "Text",
+   "text": "Stockholm 1933"
+  }
+ ]
+}

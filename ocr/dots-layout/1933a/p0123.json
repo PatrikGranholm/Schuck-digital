@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 123,
+ "seconds": 32.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [782, 231, 1142, 273], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [441, 301, 1483, 724], \"category\": \"Text\", \"text\": \"med H. E:tz Hr. Öfwerståthållaren och Gouverneuren, huru de Rum byggias kunde uthan at omaka samma trappa, på hwilket sätt H:s May:t ock bewilliade Rummens uplagande, men blef strax igen hindrat af een man, som Wårt wärk plat intet älskade, hwilken ock lät ifrån oss taga alla dhe afrijtningarne, som på dhe rummen giorde wore, ock förebars Kongl. May:tz willie så wara. Där med studsade alt byggewäsendet, och de 150 Biälkar, som Byggemästaren med wår Tiänare opkiöpte, toges bort till myntet och annor Cronones behof, så at wij aldrig een penning för dem igen bekommo, som lijkwähl war 126 D. 8 s. smt».\"}, {\"bbox\": [441, 720, 1489, 1764], \"category\": \"Text\", \"text\": \"Den enda förbättring, som Hadorph kunde genomdriva, var att kollegiet — likväl först efter dess ombildning till antikvitetsarkiv — erhöll en bod på Skeppsholmen att där förvara sitt papperslager och sitt bokförlag. Även underhandlingarna om denna bagatellsak drogo länge om. Den 4 maj 1691 bad Hadorph kanslipresidenten, att denne skulle sända ett bifogat brev till generalamiralen »om en platz till bodh på gamble Skeppsholmen, dher nu wij 2 resor honom tillskrifwit och munteligen ansökt, men ännu intet swar bekommit» (V. H. A. A.). Först den 29 november kom svar på ett nytt brev (V. H. A. A.): »Edle och Wälb. Ehreborne, Högachtade och Höglärde Herrar samtl. Collegij Antiquitatum Assessores; Vppå Eder gode Herrars begiäran igenom Eder hijt ankombne skrijfwelse af d. 16 hujus har Collegium Ammiral Lieutenanten och Tygmestaren Gyl-lenspaak än ytterligare beordrat om den platzens utseende på gamble Skieppzhollmen, som Hans Kongl. May:ts Eder gode herrar i nåder bevilliat hafver till att der på få upsättia nödige huusrum att förvara papper, exemplar af tryckte Böcker och annat slijkt uthi, villiandes man intet tvijfla, att han sådane ordres sig till behörig effterrättelse ställa lärer. Men hvad Eder gode Herrars begiäran angår, att i medler tijd och till dess förenämbde rum blifva färdige, få uthi något rum på Ammiralitetz huset slijke papper inläggia, der om kan Collegium intet resolvera, effter som Hans Kongl. May:tt sielf i nåder har låtit intaga samma huus till de siukas inlo-gerande af dess garde, att Wij således icke veta kunna, huru wijda der uthi någre Rum äre ledige eller eij, hwar med Wij befalle Eder\"}, {\"bbox\": [448, 1801, 522, 1838], \"category\": \"Page-footer\", \"text\": \"104\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    782,
+    231,
+    1142,
+    273
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    441,
+    301,
+    1483,
+    724
+   ],
+   "category": "Text",
+   "text": "med H. E:tz Hr. Öfwerståthållaren och Gouverneuren, huru de Rum byggias kunde uthan at omaka samma trappa, på hwilket sätt H:s May:t ock bewilliade Rummens uplagande, men blef strax igen hindrat af een man, som Wårt wärk plat intet älskade, hwilken ock lät ifrån oss taga alla dhe afrijtningarne, som på dhe rummen giorde wore, ock förebars Kongl. May:tz willie så wara. Där med studsade alt byggewäsendet, och de 150 Biälkar, som Byggemästaren med wår Tiänare opkiöpte, toges bort till myntet och annor Cronones behof, så at wij aldrig een penning för dem igen bekommo, som lijkwähl war 126 D. 8 s. smt»."
+  },
+  {
+   "bbox": [
+    441,
+    720,
+    1489,
+    1764
+   ],
+   "category": "Text",
+   "text": "Den enda förbättring, som Hadorph kunde genomdriva, var att kollegiet — likväl först efter dess ombildning till antikvitetsarkiv — erhöll en bod på Skeppsholmen att där förvara sitt papperslager och sitt bokförlag. Även underhandlingarna om denna bagatellsak drogo länge om. Den 4 maj 1691 bad Hadorph kanslipresidenten, att denne skulle sända ett bifogat brev till generalamiralen »om en platz till bodh på gamble Skeppsholmen, dher nu wij 2 resor honom tillskrifwit och munteligen ansökt, men ännu intet swar bekommit» (V. H. A. A.). Först den 29 november kom svar på ett nytt brev (V. H. A. A.): »Edle och Wälb. Ehreborne, Högachtade och Höglärde Herrar samtl. Collegij Antiquitatum Assessores; Vppå Eder gode Herrars begiäran igenom Eder hijt ankombne skrijfwelse af d. 16 hujus har Collegium Ammiral Lieutenanten och Tygmestaren Gyl-lenspaak än ytterligare beordrat om den platzens utseende på gamble Skieppzhollmen, som Hans Kongl. May:ts Eder gode herrar i nåder bevilliat hafver till att der på få upsättia nödige huusrum att förvara papper, exemplar af tryckte Böcker och annat slijkt uthi, villiandes man intet tvijfla, att han sådane ordres sig till behörig effterrättelse ställa lärer. Men hvad Eder gode Herrars begiäran angår, att i medler tijd och till dess förenämbde rum blifva färdige, få uthi något rum på Ammiralitetz huset slijke papper inläggia, der om kan Collegium intet resolvera, effter som Hans Kongl. May:tt sielf i nåder har låtit intaga samma huus till de siukas inlo-gerande af dess garde, att Wij således icke veta kunna, huru wijda der uthi någre Rum äre ledige eller eij, hwar med Wij befalle Eder"
+  },
+  {
+   "bbox": [
+    448,
+    1801,
+    522,
+    1838
+   ],
+   "category": "Page-footer",
+   "text": "104"
+  }
+ ]
+}

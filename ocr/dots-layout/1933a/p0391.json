@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 391,
+ "seconds": 26.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [748, 243, 1107, 285], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [406, 313, 1446, 523], \"category\": \"Text\", \"text\": \"skrivare ganska snart kommo att betraktas icke såsom kollegiets\\nutan såsom hans underlydande. Med andra ord: i följd av hans\\nverksamhet i detta avseende uppväxte inom kollegiet ett faktiskt\\nriksantikvarieämbete, och det var därför fullt befogat, att Hadorph,\\nnär Verelius avgick, till sist även officiellt blev ämbetets innehavare.\"}, {\"bbox\": [406, 523, 1446, 1776], \"category\": \"Text\", \"text\": \"I det nästa plakat rörande antikvitetsvården, som utfärdats efter 1669, står också Hadorph såsom kollegiets representant. Plakatet i fråga, som återger ett redan 1671 för Hadorph utfärdat »pass», utfärdades den 28 april 1676 och lyder: »Wij Carl ... Göre witterligit, at såsom wij för någon tijd sedan hafwe inrättat ett Collegium Antiqvitatum aff några der til tienlige Män, som sigh antagit hafwa allehanda Rijkzens berömlige Antiquiteter at vpleta och beskrifwa, och sådant icke kan skee vthan någon aff them vnder tijden vthreser i Landzorterne at vpsökia och antekna, hwar något merkeligit finnas kan vthi Runestenar, gamble förnäme Mäns Ättehögar, Graffstenar, Wapner och Inscriptioner i Kyrkiorne, Sigiller, gamble Mynt, Stridztyg, Manuscripter, Genealogiske Arbeten och mehra sådant, Och wij hafwe befunnit Wår Archivi Secretarium och Assessorem Collegii Antiqvitatum, Osz älskeligh, Ehrligh och Förståndigh Johannem Hadorphium til sådane sakers effterletande och vpteknande helt ferdigh och oförtruten wara, effter som han och vthi ofwanbemelte Monumenter hafwer sigh företagit någre wärk at författa til Fäderneslandzens tienst; Hwarföre hafwe Wij honom dhen Bestälning i synnerheet anförtrodt. Och på dhet han så mycket bättre befordran och Assistence hafwa måtte til ofwanbem:te Sakers vpspanande och anteknande, hafwe Wij nödigt funnit honom medh Wår Fullmacht och Pasz dher til föresee, effter som wij och med dhetta Wårt öpne Breffz krafft i Nåder befalle alle Wåre Gouverneurer, Landzhöfdingar, Biskopar, Pastores och Befallningzmän, dhet the dhetta wärket effter dhet för dhetta publicerade Mandat och wårt til dhem affgångne Breff befordra och bem:te Hadorphium och medhafwande Rijtare i alla måtto beforderlige äre vthi alt dhet, som til förbe:te Monumenters vpspanande, affrijtande och församblande kan tarfwas, Ländzmännen i hwart Härad giöra dhem owägerligen föllie och hoos Almogen på alle\"}, {\"bbox\": [288, 532, 381, 592], \"category\": \"Text\", \"text\": \"Plakatet\\n1676\"}, {\"bbox\": [409, 1804, 484, 1852], \"category\": \"Page-footer\", \"text\": \"360\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    748,
+    243,
+    1107,
+    285
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    406,
+    313,
+    1446,
+    523
+   ],
+   "category": "Text",
+   "text": "skrivare ganska snart kommo att betraktas icke såsom kollegiets\nutan såsom hans underlydande. Med andra ord: i följd av hans\nverksamhet i detta avseende uppväxte inom kollegiet ett faktiskt\nriksantikvarieämbete, och det var därför fullt befogat, att Hadorph,\nnär Verelius avgick, till sist även officiellt blev ämbetets innehavare."
+  },
+  {
+   "bbox": [
+    406,
+    523,
+    1446,
+    1776
+   ],
+   "category": "Text",
+   "text": "I det nästa plakat rörande antikvitetsvården, som utfärdats efter 1669, står också Hadorph såsom kollegiets representant. Plakatet i fråga, som återger ett redan 1671 för Hadorph utfärdat »pass», utfärdades den 28 april 1676 och lyder: »Wij Carl ... Göre witterligit, at såsom wij för någon tijd sedan hafwe inrättat ett Collegium Antiqvitatum aff några der til tienlige Män, som sigh antagit hafwa allehanda Rijkzens berömlige Antiquiteter at vpleta och beskrifwa, och sådant icke kan skee vthan någon aff them vnder tijden vthreser i Landzorterne at vpsökia och antekna, hwar något merkeligit finnas kan vthi Runestenar, gamble förnäme Mäns Ättehögar, Graffstenar, Wapner och Inscriptioner i Kyrkiorne, Sigiller, gamble Mynt, Stridztyg, Manuscripter, Genealogiske Arbeten och mehra sådant, Och wij hafwe befunnit Wår Archivi Secretarium och Assessorem Collegii Antiqvitatum, Osz älskeligh, Ehrligh och Förståndigh Johannem Hadorphium til sådane sakers effterletande och vpteknande helt ferdigh och oförtruten wara, effter som han och vthi ofwanbemelte Monumenter hafwer sigh företagit någre wärk at författa til Fäderneslandzens tienst; Hwarföre hafwe Wij honom dhen Bestälning i synnerheet anförtrodt. Och på dhet han så mycket bättre befordran och Assistence hafwa måtte til ofwanbem:te Sakers vpspanande och anteknande, hafwe Wij nödigt funnit honom medh Wår Fullmacht och Pasz dher til föresee, effter som wij och med dhetta Wårt öpne Breffz krafft i Nåder befalle alle Wåre Gouverneurer, Landzhöfdingar, Biskopar, Pastores och Befallningzmän, dhet the dhetta wärket effter dhet för dhetta publicerade Mandat och wårt til dhem affgångne Breff befordra och bem:te Hadorphium och medhafwande Rijtare i alla måtto beforderlige äre vthi alt dhet, som til förbe:te Monumenters vpspanande, affrijtande och församblande kan tarfwas, Ländzmännen i hwart Härad giöra dhem owägerligen föllie och hoos Almogen på alle"
+  },
+  {
+   "bbox": [
+    288,
+    532,
+    381,
+    592
+   ],
+   "category": "Text",
+   "text": "Plakatet\n1676"
+  },
+  {
+   "bbox": [
+    409,
+    1804,
+    484,
+    1852
+   ],
+   "category": "Page-footer",
+   "text": "360"
+  }
+ ]
+}

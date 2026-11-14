@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 242,
+ "seconds": 25.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [399, 243, 931, 286], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiets ekonomi\"}, {\"bbox\": [137, 313, 1192, 729], \"category\": \"Text\", \"text\": \"Det nya ämbetsverket hade ännu en tredje föregångare — riksarkivet. Detta bestod, såsom vi minnas, av två sidoordnade verk, det egentliga riksarkivet och det arkiv för antikviteter och medeltida handlingar, som utbrutits därur och vid vilket Hadorph redan 1669 förordnats till sekreterare och chef. Då nu staten 1682 börjar med »Secret. Johan Hadorphius», har därmed angivits, att Kungl. Maj:t betraktade hela institutionen såsom ett antikvitetsarkiv och Hadorph såsom dess chef. De övriga löntagarne utgjordes ju huvudsakligen av hans underordnade, av aktuarien, translatorn, de fem amanuenserna, ritare och formsnidare.\"}, {\"bbox\": [133, 731, 1191, 1652], \"category\": \"Text\", \"text\": \"Endast i två fall fanns ännu en rest av den äldre akademiorganisationen. Staten upptog nämligen fortfarande två litterära pensioner, till Tobias Wester och Pufendorf. Detta var visserligen en avvikelse från den princip, som förefaller ligga till grund för staten, och avvikelsen betingades utan tvivel, vad Wester beträffar, av en önskan att giva honom en blott tillfällig hjälp. Vid utnämningen utlovades han en bättre avlönad tjänst, och kort därefter befordrades han till häradshövding. Meningen 1682 var nog, att han då skulle taga avsked från assessorsplatsen. Däremot finner man — vilket är anmärkningsvärt — icke Norrman bland löntagarne, ehuru han utnämnts i januari 1682. Axehiälm, som fortfarande betraktade sig såsom præses, blev utan att ha fått något avsked helt enkelt struken ur staten. Arrhenius, som tillika var professor och rikshistoriograf och i båda egenskaperna uppbar lön, kunde däremot verkligen betraktas såsom en arbetande ledamot av ett historisk-antikvariskt forskningsinstitut. Han bodde visserligen fortfarande kvar i Uppsala — i detta fall den ende — men han kom tydligen ofta till arkivet i Stockholm, där han hade materialet till den stora medeltida kyrkohistoria, på vilken han arbetade. Antikvitetskollegiet hade således redan nu blivit ett till Stockholm förlagt antikvarieämbete och fortfor att vara det, även om det betungades med ytterligare en litterär pension, åt Werving, som utnämndes 1685.\"}, {\"bbox\": [133, 1650, 1186, 1779], \"category\": \"Text\", \"text\": \"De första åren efter 1682 kunna därför betraktas såsom antikvitetskollegiets lyckligaste tid. Det prästerliga motståndet var, åtminstone för tillfället, brutet. Visserligen gjordes i slutet av 1682\"}, {\"bbox\": [1104, 1817, 1175, 1846], \"category\": \"Page-footer\", \"text\": \"211\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    399,
+    243,
+    931,
+    286
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiets ekonomi"
+  },
+  {
+   "bbox": [
+    137,
+    313,
+    1192,
+    729
+   ],
+   "category": "Text",
+   "text": "Det nya ämbetsverket hade ännu en tredje föregångare — riksarkivet. Detta bestod, såsom vi minnas, av två sidoordnade verk, det egentliga riksarkivet och det arkiv för antikviteter och medeltida handlingar, som utbrutits därur och vid vilket Hadorph redan 1669 förordnats till sekreterare och chef. Då nu staten 1682 börjar med »Secret. Johan Hadorphius», har därmed angivits, att Kungl. Maj:t betraktade hela institutionen såsom ett antikvitetsarkiv och Hadorph såsom dess chef. De övriga löntagarne utgjordes ju huvudsakligen av hans underordnade, av aktuarien, translatorn, de fem amanuenserna, ritare och formsnidare."
+  },
+  {
+   "bbox": [
+    133,
+    731,
+    1191,
+    1652
+   ],
+   "category": "Text",
+   "text": "Endast i två fall fanns ännu en rest av den äldre akademiorganisationen. Staten upptog nämligen fortfarande två litterära pensioner, till Tobias Wester och Pufendorf. Detta var visserligen en avvikelse från den princip, som förefaller ligga till grund för staten, och avvikelsen betingades utan tvivel, vad Wester beträffar, av en önskan att giva honom en blott tillfällig hjälp. Vid utnämningen utlovades han en bättre avlönad tjänst, och kort därefter befordrades han till häradshövding. Meningen 1682 var nog, att han då skulle taga avsked från assessorsplatsen. Däremot finner man — vilket är anmärkningsvärt — icke Norrman bland löntagarne, ehuru han utnämnts i januari 1682. Axehiälm, som fortfarande betraktade sig såsom præses, blev utan att ha fått något avsked helt enkelt struken ur staten. Arrhenius, som tillika var professor och rikshistoriograf och i båda egenskaperna uppbar lön, kunde däremot verkligen betraktas såsom en arbetande ledamot av ett historisk-antikvariskt forskningsinstitut. Han bodde visserligen fortfarande kvar i Uppsala — i detta fall den ende — men han kom tydligen ofta till arkivet i Stockholm, där han hade materialet till den stora medeltida kyrkohistoria, på vilken han arbetade. Antikvitetskollegiet hade således redan nu blivit ett till Stockholm förlagt antikvarieämbete och fortfor att vara det, även om det betungades med ytterligare en litterär pension, åt Werving, som utnämndes 1685."
+  },
+  {
+   "bbox": [
+    133,
+    1650,
+    1186,
+    1779
+   ],
+   "category": "Text",
+   "text": "De första åren efter 1682 kunna därför betraktas såsom antikvitetskollegiets lyckligaste tid. Det prästerliga motståndet var, åtminstone för tillfället, brutet. Visserligen gjordes i slutet av 1682"
+  },
+  {
+   "bbox": [
+    1104,
+    1817,
+    1175,
+    1846
+   ],
+   "category": "Page-footer",
+   "text": "211"
+  }
+ ]
+}

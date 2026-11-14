@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 139,
+ "seconds": 26.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [785, 217, 1143, 261], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [805, 287, 1152, 366], \"category\": \"Text\", \"text\": \"E:rs Hög Grefl. Nådz\\nÖdmiukaste Tienare\"}, {\"bbox\": [438, 382, 692, 458], \"category\": \"Text\", \"text\": \"Jahan Axehiälm\\nm. propria\"}, {\"bbox\": [816, 383, 1124, 468], \"category\": \"Text\", \"text\": \"Johannes Loccenius\\nMagnus Celsius\"}, {\"bbox\": [1197, 385, 1483, 472], \"category\": \"Text\", \"text\": \"Jo. Schefferus\\nJoh. Hadorphius».\"}, {\"bbox\": [438, 490, 1484, 613], \"category\": \"Text\", \"text\": \"Farhågorna voro ogrundade, ty den 5 augusti 1670 avlät regeringen ett så lydande brev till kammarkollegium (Kammararkivet. Kungl. brev):\"}, {\"bbox\": [290, 623, 1484, 1291], \"category\": \"List-item\", \"text\": \"Myntarrendet »Carl etc. Wår synnerl. ynnest och nådige benegenhet med Gudh alzmechtig. Såsom, Troo män, H. Skattmestare och samptel. Cammar Rådh, wij förnimme, det I wed Silfwermyntets arrende jntet hafwen till att påminna nogot, som omgöre dhe punctar, dem wij jgenom Wår resolution afgiordt hafwa, utan allenast öfwer dhet, som J förmedelst ett sluthet Contract Bancen hafwen accorderat och des explication angår. Altså förmode wij, det sådant jntet lerer kunna hindra sielfwe arrendet, utan att J Eder emellan der öfwer leren blifwa snart richtige. Och emedan provinuen af sielfwe arrendet allereda längesedan är destinerat till underhåld och fortsettiandet af Collegio Antiquitatum, det lijkwähl her till jntet är kommet till någon fulbordan. Altså hafwe wij godt funnit och resolverat, oachtandes att bem:te medell kunna wara upförde på den 3:die Columnen, dhet dhe samma, såsom ännu orörde och oassignerade, skola blifwa behåldne och att dhe till Collegium Antiquitatum på anfordran tildelas och assigneras. Wij befalle» etc.\"}, {\"bbox\": [428, 1291, 1479, 1753], \"category\": \"Text\", \"text\": \"Brevet har avseende på de underhandlingar, som just då pågingo mellan den nya Riksens Ständers bank och kronan. Myntningen var ju ett regale, men genom »Kongl. May:tz Nådige Försäkring gifwen Rijksens Ständer på några wilkor och Fördelar til Banckens Bästa» d. 17 september 1668 § 4 överläts mynträtten på banken. De närmare villkoren bestämdes genom ett kontrakt av den 8 augusti 1670 (Kammararkivet. Kontrakter) mellan kammarkollegium och Riksens Ständers bank: »Arrende Contract medh Rijkzsens Ständers Banco om Silfwermyntet i Stockholm. Kongl. May:t etc. Giöre wetterligit, att såsom högstbe:te Hans Kongl. May:tt igenom dess åthskillige hijt till Collegium ankompne breeff och nådige förklaringar,\"}, {\"bbox\": [435, 1787, 507, 1814], \"category\": \"Page-footer\", \"text\": \"120\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    785,
+    217,
+    1143,
+    261
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    805,
+    287,
+    1152,
+    366
+   ],
+   "category": "Text",
+   "text": "E:rs Hög Grefl. Nådz\nÖdmiukaste Tienare"
+  },
+  {
+   "bbox": [
+    438,
+    382,
+    692,
+    458
+   ],
+   "category": "Text",
+   "text": "Jahan Axehiälm\nm. propria"
+  },
+  {
+   "bbox": [
+    816,
+    383,
+    1124,
+    468
+   ],
+   "category": "Text",
+   "text": "Johannes Loccenius\nMagnus Celsius"
+  },
+  {
+   "bbox": [
+    1197,
+    385,
+    1483,
+    472
+   ],
+   "category": "Text",
+   "text": "Jo. Schefferus\nJoh. Hadorphius»."
+  },
+  {
+   "bbox": [
+    438,
+    490,
+    1484,
+    613
+   ],
+   "category": "Text",
+   "text": "Farhågorna voro ogrundade, ty den 5 augusti 1670 avlät regeringen ett så lydande brev till kammarkollegium (Kammararkivet. Kungl. brev):"
+  },
+  {
+   "bbox": [
+    290,
+    623,
+    1484,
+    1291
+   ],
+   "category": "List-item",
+   "text": "Myntarrendet »Carl etc. Wår synnerl. ynnest och nådige benegenhet med Gudh alzmechtig. Såsom, Troo män, H. Skattmestare och samptel. Cammar Rådh, wij förnimme, det I wed Silfwermyntets arrende jntet hafwen till att påminna nogot, som omgöre dhe punctar, dem wij jgenom Wår resolution afgiordt hafwa, utan allenast öfwer dhet, som J förmedelst ett sluthet Contract Bancen hafwen accorderat och des explication angår. Altså förmode wij, det sådant jntet lerer kunna hindra sielfwe arrendet, utan att J Eder emellan der öfwer leren blifwa snart richtige. Och emedan provinuen af sielfwe arrendet allereda längesedan är destinerat till underhåld och fortsettiandet af Collegio Antiquitatum, det lijkwähl her till jntet är kommet till någon fulbordan. Altså hafwe wij godt funnit och resolverat, oachtandes att bem:te medell kunna wara upförde på den 3:die Columnen, dhet dhe samma, såsom ännu orörde och oassignerade, skola blifwa behåldne och att dhe till Collegium Antiquitatum på anfordran tildelas och assigneras. Wij befalle» etc."
+  },
+  {
+   "bbox": [
+    428,
+    1291,
+    1479,
+    1753
+   ],
+   "category": "Text",
+   "text": "Brevet har avseende på de underhandlingar, som just då pågingo mellan den nya Riksens Ständers bank och kronan. Myntningen var ju ett regale, men genom »Kongl. May:tz Nådige Försäkring gifwen Rijksens Ständer på några wilkor och Fördelar til Banckens Bästa» d. 17 september 1668 § 4 överläts mynträtten på banken. De närmare villkoren bestämdes genom ett kontrakt av den 8 augusti 1670 (Kammararkivet. Kontrakter) mellan kammarkollegium och Riksens Ständers bank: »Arrende Contract medh Rijkzsens Ständers Banco om Silfwermyntet i Stockholm. Kongl. May:t etc. Giöre wetterligit, att såsom högstbe:te Hans Kongl. May:tt igenom dess åthskillige hijt till Collegium ankompne breeff och nådige förklaringar,"
+  },
+  {
+   "bbox": [
+    435,
+    1787,
+    507,
+    1814
+   ],
+   "category": "Page-footer",
+   "text": "120"
+  }
+ ]
+}

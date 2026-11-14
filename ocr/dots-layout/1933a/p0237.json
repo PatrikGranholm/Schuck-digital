@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 237,
+ "seconds": 21.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [603, 367, 1422, 473], \"category\": \"Text\", \"text\": \"Rongl. May:z twenne Förordningar om Tryckeråtunnan/ at then näst efter Wijnsäden vigåå skall; den första dat. 19. April. den andra 30. May. 1681\"}, {\"bbox\": [830, 507, 1249, 569], \"category\": \"Text\", \"text\": \"CARE/med G Voz Nåde. 1c.\"}, {\"bbox\": [573, 606, 1436, 1415], \"category\": \"Text\", \"text\": \"Wär synnerlige Vanest och Nådige benågenheet ned Gudh Alz nächtig; Troo Man/ Wär och Wårt Riskes Råd Her Skattnåstare. Såsom Wij i Nåder godt sumit och resolverat haf- » wa/ at håd in efter all Chrontijonde Spani nål/ sed an Wijn- » såden/ Bibeltrycktunnan och Hospitals andeel åre afdagne/ ewårdeligen skul Militien och Infanteriet til deras fulla vnderhåld e fter Staren, blifwa anordnat/ således nembl. at der aff tages först Præterskapz ternal Wijnsäden och Hospitals andeel. 2. til Officerarnes aff Infanteriet hela bestålningz affbetalning efter Staren, och 3. Resten, och hwad som sedan öfverskiuter til andra behof/ och aff Eder sampt Statz Contoieret disponeras: welandes Wij at jamma Wär Nådige Förordning skul taga sin begynnelse vthi innewarande åhr/ och sedan alt framgent der wijd bestå och förblifwa/ oachtat hwad framdeles törefalla kan: Altså hafwe Wij meerbem: Wär Förordning Eder hår meoh Nådeligen welat notificera, medh Nådig befallaing/ at I stäuen den samme Eder til efterrättelse/ hwar medh skeer det som Of til nådigt behag länder. Och wij besalle Eder Gudh Alz nächtig synnerslig Nådeligen. Datum Stockholm den 19. April Anno 1681.\"}, {\"bbox\": [817, 1441, 1231, 1510], \"category\": \"Text\", \"text\": \"CAROLUS\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    603,
+    367,
+    1422,
+    473
+   ],
+   "category": "Text",
+   "text": "Rongl. May:z twenne Förordningar om Tryckeråtunnan/ at then näst efter Wijnsäden vigåå skall; den första dat. 19. April. den andra 30. May. 1681"
+  },
+  {
+   "bbox": [
+    830,
+    507,
+    1249,
+    569
+   ],
+   "category": "Text",
+   "text": "CARE/med G Voz Nåde. 1c."
+  },
+  {
+   "bbox": [
+    573,
+    606,
+    1436,
+    1415
+   ],
+   "category": "Text",
+   "text": "Wär synnerlige Vanest och Nådige benågenheet ned Gudh Alz nächtig; Troo Man/ Wär och Wårt Riskes Råd Her Skattnåstare. Såsom Wij i Nåder godt sumit och resolverat haf- » wa/ at håd in efter all Chrontijonde Spani nål/ sed an Wijn- » såden/ Bibeltrycktunnan och Hospitals andeel åre afdagne/ ewårdeligen skul Militien och Infanteriet til deras fulla vnderhåld e fter Staren, blifwa anordnat/ således nembl. at der aff tages först Præterskapz ternal Wijnsäden och Hospitals andeel. 2. til Officerarnes aff Infanteriet hela bestålningz affbetalning efter Staren, och 3. Resten, och hwad som sedan öfverskiuter til andra behof/ och aff Eder sampt Statz Contoieret disponeras: welandes Wij at jamma Wär Nådige Förordning skul taga sin begynnelse vthi innewarande åhr/ och sedan alt framgent der wijd bestå och förblifwa/ oachtat hwad framdeles törefalla kan: Altså hafwe Wij meerbem: Wär Förordning Eder hår meoh Nådeligen welat notificera, medh Nådig befallaing/ at I stäuen den samme Eder til efterrättelse/ hwar medh skeer det som Of til nådigt behag länder. Och wij besalle Eder Gudh Alz nächtig synnerslig Nådeligen. Datum Stockholm den 19. April Anno 1681."
+  },
+  {
+   "bbox": [
+    817,
+    1441,
+    1231,
+    1510
+   ],
+   "category": "Text",
+   "text": "CAROLUS"
+  }
+ ]
+}

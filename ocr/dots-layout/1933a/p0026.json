@@ -1,0 +1,31 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 26,
+ "seconds": 17.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [213, 303, 1213, 1581], \"category\": \"Picture\"}, {\"bbox\": [531, 1633, 893, 1718], \"category\": \"Caption\", \"text\": \"JOHAN HADORPH\\nEfter porträtt på Gripsholm\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    213,
+    303,
+    1213,
+    1581
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    531,
+    1633,
+    893,
+    1718
+   ],
+   "category": "Caption",
+   "text": "JOHAN HADORPH\nEfter porträtt på Gripsholm"
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 251,
+ "seconds": 28.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [780, 245, 1140, 289], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [436, 317, 1488, 436], \"category\": \"Text\", \"text\": \"terne få af det, som Collegium Antiquitatis intet så nödigt behöfwer, een proportionerat dehl efter hwars och eens wärdig- och torftig-heet».\"}, {\"bbox\": [296, 445, 1488, 568], \"category\": \"Text\", \"text\": \"Staten 1687 Antagligen var det i anledning av denna ändrade ståndpunkt, som Karl XI utfärdade en ny stat för antikvitetskollegiet¹, gällande från och med 1687:\"}, {\"bbox\": [611, 586, 1306, 628], \"category\": \"Section-header\", \"text\": \"»Stat för Collegio Antiquitatum Anno 1687.\"}, {\"bbox\": [434, 632, 1486, 1323], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>Johan Hadorphius, utom Antiquarij löhnen, för Archivi Secreterare Embetet öfwer Antiquiteterne</td><td>1000</td></tr><tr><td>Historiographus Samuel Puffendorff som Assessor</td><td>300</td></tr><tr><td>Item Claudius Örnhielm som Assessor</td><td>300</td></tr><tr><td>Tobias Wester Assessor</td><td>300</td></tr><tr><td>Jonas Werfwing Assessor</td><td>300</td></tr><tr><td>Actuarius</td><td>400</td></tr><tr><td>Gunnemund Olson Translator af gambla språket</td><td>400</td></tr><tr><td>Johan Peringer förutan sin löhn wid Academien</td><td>200</td></tr><tr><td>Ammanuensis Lars Person</td><td>200</td></tr><tr><td>En Ammanuensis Islandus</td><td>250</td></tr><tr><td>En Bookhållare</td><td>200</td></tr><tr><td>Elias Salin, som arbetar på Lexico Juridico</td><td>200</td></tr><tr><td>En Rijtare</td><td>200</td></tr><tr><td>En Formsnijdare</td><td>200</td></tr><tr><td>Resepenningar</td><td>150</td></tr><tr><td>Till hwariehanda expenser</td><td>100</td></tr><tr><td>En Famulus</td><td>60</td></tr><tr><td>Summa</td><td>4760</td></tr></tbody></table>\"}, {\"bbox\": [434, 1345, 1486, 1513], \"category\": \"Text\", \"text\": \"Desse Fyra Tusend Siuhundrade Sextijo D. Sölfwermynt skole anordnas af Tryckerij Tunnan och remedio, och hwad samma medel mera kunna importera, det förbehålles wår wijdare nådige disposition.\"}, {\"bbox\": [470, 1513, 1020, 1555], \"category\": \"Text\", \"text\": \"Stockholm den 27 Maij A:0 1687.\"}, {\"bbox\": [950, 1561, 1083, 1595], \"category\": \"Text\", \"text\": \"Carolus».\"}, {\"bbox\": [470, 1631, 1480, 1675], \"category\": \"Text\", \"text\": \"Denna stat förefaller först föga skilja sig från 1682 års. Werving\"}, {\"bbox\": [432, 1685, 1480, 1779], \"category\": \"Footnote\", \"text\": \"¹ Efter avskrift, bifogad statskontorets skrivelse till Kungl. Maj:t den 14 maj 1691. I en annan avskrift, R. A. Handlingar rörande antikvitetskollegiet, är den daterad den 15 december 1686. I riksregistraturet finnes staten icke, varken den 15 december 1686 eller den 27 maj 1687.\"}, {\"bbox\": [436, 1814, 513, 1842], \"category\": \"Page-footer\", \"text\": \"220\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    780,
+    245,
+    1140,
+    289
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    436,
+    317,
+    1488,
+    436
+   ],
+   "category": "Text",
+   "text": "terne få af det, som Collegium Antiquitatis intet så nödigt behöfwer, een proportionerat dehl efter hwars och eens wärdig- och torftig-heet»."
+  },
+  {
+   "bbox": [
+    296,
+    445,
+    1488,
+    568
+   ],
+   "category": "Text",
+   "text": "Staten 1687 Antagligen var det i anledning av denna ändrade ståndpunkt, som Karl XI utfärdade en ny stat för antikvitetskollegiet¹, gällande från och med 1687:"
+  },
+  {
+   "bbox": [
+    611,
+    586,
+    1306,
+    628
+   ],
+   "category": "Section-header",
+   "text": "»Stat för Collegio Antiquitatum Anno 1687."
+  },
+  {
+   "bbox": [
+    434,
+    632,
+    1486,
+    1323
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>Johan Hadorphius, utom Antiquarij löhnen, för Archivi Secreterare Embetet öfwer Antiquiteterne</td><td>1000</td></tr><tr><td>Historiographus Samuel Puffendorff som Assessor</td><td>300</td></tr><tr><td>Item Claudius Örnhielm som Assessor</td><td>300</td></tr><tr><td>Tobias Wester Assessor</td><td>300</td></tr><tr><td>Jonas Werfwing Assessor</td><td>300</td></tr><tr><td>Actuarius</td><td>400</td></tr><tr><td>Gunnemund Olson Translator af gambla språket</td><td>400</td></tr><tr><td>Johan Peringer förutan sin löhn wid Academien</td><td>200</td></tr><tr><td>Ammanuensis Lars Person</td><td>200</td></tr><tr><td>En Ammanuensis Islandus</td><td>250</td></tr><tr><td>En Bookhållare</td><td>200</td></tr><tr><td>Elias Salin, som arbetar på Lexico Juridico</td><td>200</td></tr><tr><td>En Rijtare</td><td>200</td></tr><tr><td>En Formsnijdare</td><td>200</td></tr><tr><td>Resepenningar</td><td>150</td></tr><tr><td>Till hwariehanda expenser</td><td>100</td></tr><tr><td>En Famulus</td><td>60</td></tr><tr><td>Summa</td><td>4760</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    434,
+    1345,
+    1486,
+    1513
+   ],
+   "category": "Text",
+   "text": "Desse Fyra Tusend Siuhundrade Sextijo D. Sölfwermynt skole anordnas af Tryckerij Tunnan och remedio, och hwad samma medel mera kunna importera, det förbehålles wår wijdare nådige disposition."
+  },
+  {
+   "bbox": [
+    470,
+    1513,
+    1020,
+    1555
+   ],
+   "category": "Text",
+   "text": "Stockholm den 27 Maij A:0 1687."
+  },
+  {
+   "bbox": [
+    950,
+    1561,
+    1083,
+    1595
+   ],
+   "category": "Text",
+   "text": "Carolus»."
+  },
+  {
+   "bbox": [
+    470,
+    1631,
+    1480,
+    1675
+   ],
+   "category": "Text",
+   "text": "Denna stat förefaller först föga skilja sig från 1682 års. Werving"
+  },
+  {
+   "bbox": [
+    432,
+    1685,
+    1480,
+    1779
+   ],
+   "category": "Footnote",
+   "text": "¹ Efter avskrift, bifogad statskontorets skrivelse till Kungl. Maj:t den 14 maj 1691. I en annan avskrift, R. A. Handlingar rörande antikvitetskollegiet, är den daterad den 15 december 1686. I riksregistraturet finnes staten icke, varken den 15 december 1686 eller den 27 maj 1687."
+  },
+  {
+   "bbox": [
+    436,
+    1814,
+    513,
+    1842
+   ],
+   "category": "Page-footer",
+   "text": "220"
+  }
+ ]
+}

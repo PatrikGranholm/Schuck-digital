@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 469,
+ "seconds": 26.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [737, 244, 1104, 287], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [393, 314, 1445, 437], \"category\": \"Text\", \"text\": \"Hadorph Sparfwenfeldt, som just kommit tillbaka från den ryska resan. Liksom för Peringer skrev han även nu en promemoria rörande de orter, som borde besökas:\"}, {\"bbox\": [426, 470, 1232, 513], \"category\": \"Text\", \"text\": \"»Förslagh på dhe utrijkes Antiquiteter att upsökias.\"}, {\"bbox\": [393, 523, 1443, 733], \"category\": \"Text\", \"text\": \"1) Hafwa dhe gambla Giöther mycket satt sig uppe i Tyskland wid Weisellströmmen och den ort, som kalllas antiqua Franconia, dher som än många vestigia finnas af Gothis och ms:ta i dhe gambla closter och älsta Bibliotecher. Uthi Gotha berättar Johan Bureus än warit i hans tijdh ett gammalt Gothicum mstum.\"}, {\"bbox\": [391, 733, 1443, 1442], \"category\": \"Text\", \"text\": \"2) Uthi Transylvania et Valachia, Hungariæ antiquæ partibus hafwa och Gothi länge sutit och bodt, sedan utspridt sig till flera orientaliske orter, till Danubium fluvium, hwarest dhe ännu ad ostia eius förmälas att boo och hafwa sitt egit språch, dher ifrån dhe spridde ähra på begge sijdor om Ostijs danubij, een deel iuxta ripam ponti Euxini septentrionaliorem, som nu kallas Tartaria Bielogradensis af det gambla Giötiske ordet Bielogord, det är namnkunnige säte, en deel åt Tartariam oczaloviensem, dæt är Rijkeste orten på Oxar och Koor, och så wijdare iuxta ponti ripas septentrionaliores. Men på södra delen om ostijs danubij ad mæotidis paludes, sedan in Tracia, Dacia och flera dhe orter hafwa Gothi satt sig nidher, länge bodt, och som än seijes att dher finnes ännu många pagi Gothicæ nationis et linguæ. De hafwa och uthi Jllyrico och Græcia haft länge sin sedem, hwarföre wore dhet wäll, om till Gref Königsmark skrefwes, att han om Gothicis scriptis wille ransaka låta, både in ipsa Græcia, peloponeso och flera orter, hwarest än gambla kloster finnas eller Bibliotecher på dhe uhråldrige Slott och fästen.\"}, {\"bbox\": [391, 1442, 1443, 1777], \"category\": \"Text\", \"text\": \"3) Uthi Jtalien hafwa dhe nu mycket lämge och ofta warit och lempnat fast många vestigia efter sig, hwarföre finnes 1) i Rom in bibliotecha Vaticana många ms:ta, som ähra signerade Titulo Gothico 2) Uthi dhe andra älste kloster och på flere orter uthi Jtalia, dher Gothi sutit, finnas och många Gothica ms:ta, som dhe sielfwe kalla och uthan twifwel dher [mycket ?] finnes om Gothis, som nogsampt Jtalici scriptores de Gothis utwisa, hwilka månge scriptores ineditos allegera, som iag aldrig sedt eller hördt nämnas\"}, {\"bbox\": [393, 1805, 468, 1851], \"category\": \"Page-footer\", \"text\": \"438\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    737,
+    244,
+    1104,
+    287
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    393,
+    314,
+    1445,
+    437
+   ],
+   "category": "Text",
+   "text": "Hadorph Sparfwenfeldt, som just kommit tillbaka från den ryska resan. Liksom för Peringer skrev han även nu en promemoria rörande de orter, som borde besökas:"
+  },
+  {
+   "bbox": [
+    426,
+    470,
+    1232,
+    513
+   ],
+   "category": "Text",
+   "text": "»Förslagh på dhe utrijkes Antiquiteter att upsökias."
+  },
+  {
+   "bbox": [
+    393,
+    523,
+    1443,
+    733
+   ],
+   "category": "Text",
+   "text": "1) Hafwa dhe gambla Giöther mycket satt sig uppe i Tyskland wid Weisellströmmen och den ort, som kalllas antiqua Franconia, dher som än många vestigia finnas af Gothis och ms:ta i dhe gambla closter och älsta Bibliotecher. Uthi Gotha berättar Johan Bureus än warit i hans tijdh ett gammalt Gothicum mstum."
+  },
+  {
+   "bbox": [
+    391,
+    733,
+    1443,
+    1442
+   ],
+   "category": "Text",
+   "text": "2) Uthi Transylvania et Valachia, Hungariæ antiquæ partibus hafwa och Gothi länge sutit och bodt, sedan utspridt sig till flera orientaliske orter, till Danubium fluvium, hwarest dhe ännu ad ostia eius förmälas att boo och hafwa sitt egit språch, dher ifrån dhe spridde ähra på begge sijdor om Ostijs danubij, een deel iuxta ripam ponti Euxini septentrionaliorem, som nu kallas Tartaria Bielogradensis af det gambla Giötiske ordet Bielogord, det är namnkunnige säte, en deel åt Tartariam oczaloviensem, dæt är Rijkeste orten på Oxar och Koor, och så wijdare iuxta ponti ripas septentrionaliores. Men på södra delen om ostijs danubij ad mæotidis paludes, sedan in Tracia, Dacia och flera dhe orter hafwa Gothi satt sig nidher, länge bodt, och som än seijes att dher finnes ännu många pagi Gothicæ nationis et linguæ. De hafwa och uthi Jllyrico och Græcia haft länge sin sedem, hwarföre wore dhet wäll, om till Gref Königsmark skrefwes, att han om Gothicis scriptis wille ransaka låta, både in ipsa Græcia, peloponeso och flera orter, hwarest än gambla kloster finnas eller Bibliotecher på dhe uhråldrige Slott och fästen."
+  },
+  {
+   "bbox": [
+    391,
+    1442,
+    1443,
+    1777
+   ],
+   "category": "Text",
+   "text": "3) Uthi Jtalien hafwa dhe nu mycket lämge och ofta warit och lempnat fast många vestigia efter sig, hwarföre finnes 1) i Rom in bibliotecha Vaticana många ms:ta, som ähra signerade Titulo Gothico 2) Uthi dhe andra älste kloster och på flere orter uthi Jtalia, dher Gothi sutit, finnas och många Gothica ms:ta, som dhe sielfwe kalla och uthan twifwel dher [mycket ?] finnes om Gothis, som nogsampt Jtalici scriptores de Gothis utwisa, hwilka månge scriptores ineditos allegera, som iag aldrig sedt eller hördt nämnas"
+  },
+  {
+   "bbox": [
+    393,
+    1805,
+    468,
+    1851
+   ],
+   "category": "Page-footer",
+   "text": "438"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 33,
+ "seconds": 26.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [747, 227, 1106, 270], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [408, 297, 1449, 635], \"category\": \"Text\", \"text\": \"tå will K. M. hafwa hermed gifwit Collegium macht och tillståndh at theröfwer correspondera medh alle K. M:s Collegier, Gen. Gouverneurer, Gouverneurer, Landzhöfdingar, Stådthållare, Biskopar, Superintendenter, Academier, kyrkieheerdar och allehando flere StåndzPersoner, som the behöfwa torde, och aff them then kunskap inhempta, som nödigh ähr, huilcken the samma och skola wara plichtige them at gifwa och owägerligen föllia låta, så wida them kan wara möijligit thet at fullgiöra.\"}, {\"bbox\": [907, 663, 945, 696], \"category\": \"Section-header\", \"text\": \"X.\"}, {\"bbox\": [410, 716, 1449, 1094], \"category\": \"Text\", \"text\": \"Huadh nu Collegium således warder utharbetandes eller huru wida the med ett eller annat arbete kunna blifwa färdige, då skole dhe wara skyldige altijdh med K. M:ts och thess Rijkes Cantzler (under huilkens Öfwer Direction thet Collegium altijdh sortera skall) sådant at communicera och serdeles widh åhrets förlopp huart Ny-åhr gifwa honom fullkommeligh relation om alt thet hoos them kan wara förelupit, på thet Kgl. M:tt således må om thetsamma blifwa underrättat och i synnerheet förnimma, huru wida med arbetet lida och en eller annan sin flijt giöra kan.\"}, {\"bbox\": [900, 1122, 953, 1155], \"category\": \"Section-header\", \"text\": \"XI.\"}, {\"bbox\": [413, 1175, 1452, 1427], \"category\": \"Text\", \"text\": \"När nu något kan blifwa färdigt och så utharbetat, at thet aff trycket uthgåå må, effter som een eller annans förmögenheet till äfwentyrs icke kan wara at sielf draga kostnaden theraff, så will och K. M. ingen med sådant graverat hafwa, uthan effter undfången underrättelse theraff nådigst ställa den förordning, at thet som lättast och bäst må blifwa tryckt och uplagt.\"}, {\"bbox\": [895, 1455, 964, 1488], \"category\": \"Section-header\", \"text\": \"XII.\"}, {\"bbox\": [413, 1507, 1452, 1761], \"category\": \"Text\", \"text\": \"The acter, som antingen uthi Collegio inlefwererade warda eller och en eller annan aff thess Ledamöter kan utharbeta, skall Collegium wara förtänkt uthi noga förwahring att hålla, så at the icke aff någon in privato förhålles, uthan altijd uthi Collegij rum förwarade blifwa, thädan the till Kgl. M:ts och Rijksens archivum transferas skole. Och kundhe jämwäll en aff dhe 4 Studenterne, huarom\"}, {\"bbox\": [415, 1797, 463, 1827], \"category\": \"Page-footer\", \"text\": \"22\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    747,
+    227,
+    1106,
+    270
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    408,
+    297,
+    1449,
+    635
+   ],
+   "category": "Text",
+   "text": "tå will K. M. hafwa hermed gifwit Collegium macht och tillståndh at theröfwer correspondera medh alle K. M:s Collegier, Gen. Gouverneurer, Gouverneurer, Landzhöfdingar, Stådthållare, Biskopar, Superintendenter, Academier, kyrkieheerdar och allehando flere StåndzPersoner, som the behöfwa torde, och aff them then kunskap inhempta, som nödigh ähr, huilcken the samma och skola wara plichtige them at gifwa och owägerligen föllia låta, så wida them kan wara möijligit thet at fullgiöra."
+  },
+  {
+   "bbox": [
+    907,
+    663,
+    945,
+    696
+   ],
+   "category": "Section-header",
+   "text": "X."
+  },
+  {
+   "bbox": [
+    410,
+    716,
+    1449,
+    1094
+   ],
+   "category": "Text",
+   "text": "Huadh nu Collegium således warder utharbetandes eller huru wida the med ett eller annat arbete kunna blifwa färdige, då skole dhe wara skyldige altijdh med K. M:ts och thess Rijkes Cantzler (under huilkens Öfwer Direction thet Collegium altijdh sortera skall) sådant at communicera och serdeles widh åhrets förlopp huart Ny-åhr gifwa honom fullkommeligh relation om alt thet hoos them kan wara förelupit, på thet Kgl. M:tt således må om thetsamma blifwa underrättat och i synnerheet förnimma, huru wida med arbetet lida och en eller annan sin flijt giöra kan."
+  },
+  {
+   "bbox": [
+    900,
+    1122,
+    953,
+    1155
+   ],
+   "category": "Section-header",
+   "text": "XI."
+  },
+  {
+   "bbox": [
+    413,
+    1175,
+    1452,
+    1427
+   ],
+   "category": "Text",
+   "text": "När nu något kan blifwa färdigt och så utharbetat, at thet aff trycket uthgåå må, effter som een eller annans förmögenheet till äfwentyrs icke kan wara at sielf draga kostnaden theraff, så will och K. M. ingen med sådant graverat hafwa, uthan effter undfången underrättelse theraff nådigst ställa den förordning, at thet som lättast och bäst må blifwa tryckt och uplagt."
+  },
+  {
+   "bbox": [
+    895,
+    1455,
+    964,
+    1488
+   ],
+   "category": "Section-header",
+   "text": "XII."
+  },
+  {
+   "bbox": [
+    413,
+    1507,
+    1452,
+    1761
+   ],
+   "category": "Text",
+   "text": "The acter, som antingen uthi Collegio inlefwererade warda eller och en eller annan aff thess Ledamöter kan utharbeta, skall Collegium wara förtänkt uthi noga förwahring att hålla, så at the icke aff någon in privato förhålles, uthan altijd uthi Collegij rum förwarade blifwa, thädan the till Kgl. M:ts och Rijksens archivum transferas skole. Och kundhe jämwäll en aff dhe 4 Studenterne, huarom"
+  },
+  {
+   "bbox": [
+    415,
+    1797,
+    463,
+    1827
+   ],
+   "category": "Page-footer",
+   "text": "22"
+  }
+ ]
+}

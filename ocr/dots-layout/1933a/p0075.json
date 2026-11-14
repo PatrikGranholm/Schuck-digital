@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 75,
+ "seconds": 25.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [767, 221, 1129, 264], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [431, 292, 1477, 1046], \"category\": \"Text\", \"text\": \"patescit. Item quod nonnulla de Verelio attulerim in posteriore Responso, quæ nec ipsi approbassent nec approbare possent, ne vide-rentur eum vel defendere vel commendare velle, qui apud Ill:mam T:am Exc:am calumniose traduxisset eos. Sed quum hoc magis suspicarentur quam scirent, istud quoque ut incertum removi. Equidem quum ante aliquot dies, priusquam Ill:mæ T:æ Exc:æ Literæ ad Collegium datæ advenissent, Verelius ad me viseret, abs-que ullo offensionis vel animi motus signo retulit se salarium ordina-rium ex Archivo ipsi designatum per triennium non accepisse, neque extraordinarium pro Professione ob difficilia tempora. Cum itaque rationabiliter quædam in Responso immutaverim principali negotio salvo, indignum censui me a manu mea recedere. Quod autem, se-posito privato affectu, de labore et s[crip]tis Verelii non male sentire voluerim nec potuerim, sed ob eius merita participatione salario-rum Collegii dignum reputaverim reservata [lucka i brevet], ut decet, Ill:mæ T:æ Exc:æ huius rei dispositione, fuerit[ne] [brevet sönder] satis iusta causa denegandi dictam subscriptionem nec ex invidia vel mera suspicione profecta sit, Ill:mam T:am Exc:am iudicem lubens capiam.\"}, {\"bbox\": [431, 1044, 1479, 1621], \"category\": \"Text\", \"text\": \"Quia vero dum Præsidis officio functus sum et rectam viam Dei ope insistere laboravi, tamen tricas quasdam in senectute mea mihi motas esse diffiteri non possum. Sed cum illas patientia supera-verim, non tam ob eas quam ob virium mearum et corporis inbecillitatem, quum augescentibus ætatis meæ annis vires et memoria, ut solent, magis deficiant eoque me imparem Præsidis muneri in posterum faciant, humil[l]ime rogo, ut Ill:mæ T:æ Exc:æ clemente bene-ficio ab hoc onere in aptiorem transferendo levari possim, adsuetus quieta cum industria studiis meis adsidere. Hoc ut omni officiorum promptitudine demereri possim, allaborabo atque, si non aliud pos-sum, pro gratiosa Ill:mæ T:æ Exc:æ erga me meosque toties præstita benignitate supplice ad Deum voto studiose precabor pro Ill:mæ T:æ Exc:æ et totius inclutæ Suæ Familiæ solida prosperitate, diu-turna vita et constanti valetudine.\"}, {\"bbox\": [433, 1633, 554, 1676], \"category\": \"Text\", \"text\": \"Upsaliæ\"}, {\"bbox\": [433, 1676, 725, 1710], \"category\": \"Text\", \"text\": \"a. d. XIII Octobr.\"}, {\"bbox\": [467, 1717, 702, 1751], \"category\": \"Text\", \"text\": \"MDCLXXIV».\"}, {\"bbox\": [436, 1788, 483, 1836], \"category\": \"Page-footer\", \"text\": \"56\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    767,
+    221,
+    1129,
+    264
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    431,
+    292,
+    1477,
+    1046
+   ],
+   "category": "Text",
+   "text": "patescit. Item quod nonnulla de Verelio attulerim in posteriore Responso, quæ nec ipsi approbassent nec approbare possent, ne vide-rentur eum vel defendere vel commendare velle, qui apud Ill:mam T:am Exc:am calumniose traduxisset eos. Sed quum hoc magis suspicarentur quam scirent, istud quoque ut incertum removi. Equidem quum ante aliquot dies, priusquam Ill:mæ T:æ Exc:æ Literæ ad Collegium datæ advenissent, Verelius ad me viseret, abs-que ullo offensionis vel animi motus signo retulit se salarium ordina-rium ex Archivo ipsi designatum per triennium non accepisse, neque extraordinarium pro Professione ob difficilia tempora. Cum itaque rationabiliter quædam in Responso immutaverim principali negotio salvo, indignum censui me a manu mea recedere. Quod autem, se-posito privato affectu, de labore et s[crip]tis Verelii non male sentire voluerim nec potuerim, sed ob eius merita participatione salario-rum Collegii dignum reputaverim reservata [lucka i brevet], ut decet, Ill:mæ T:æ Exc:æ huius rei dispositione, fuerit[ne] [brevet sönder] satis iusta causa denegandi dictam subscriptionem nec ex invidia vel mera suspicione profecta sit, Ill:mam T:am Exc:am iudicem lubens capiam."
+  },
+  {
+   "bbox": [
+    431,
+    1044,
+    1479,
+    1621
+   ],
+   "category": "Text",
+   "text": "Quia vero dum Præsidis officio functus sum et rectam viam Dei ope insistere laboravi, tamen tricas quasdam in senectute mea mihi motas esse diffiteri non possum. Sed cum illas patientia supera-verim, non tam ob eas quam ob virium mearum et corporis inbecillitatem, quum augescentibus ætatis meæ annis vires et memoria, ut solent, magis deficiant eoque me imparem Præsidis muneri in posterum faciant, humil[l]ime rogo, ut Ill:mæ T:æ Exc:æ clemente bene-ficio ab hoc onere in aptiorem transferendo levari possim, adsuetus quieta cum industria studiis meis adsidere. Hoc ut omni officiorum promptitudine demereri possim, allaborabo atque, si non aliud pos-sum, pro gratiosa Ill:mæ T:æ Exc:æ erga me meosque toties præstita benignitate supplice ad Deum voto studiose precabor pro Ill:mæ T:æ Exc:æ et totius inclutæ Suæ Familiæ solida prosperitate, diu-turna vita et constanti valetudine."
+  },
+  {
+   "bbox": [
+    433,
+    1633,
+    554,
+    1676
+   ],
+   "category": "Text",
+   "text": "Upsaliæ"
+  },
+  {
+   "bbox": [
+    433,
+    1676,
+    725,
+    1710
+   ],
+   "category": "Text",
+   "text": "a. d. XIII Octobr."
+  },
+  {
+   "bbox": [
+    467,
+    1717,
+    702,
+    1751
+   ],
+   "category": "Text",
+   "text": "MDCLXXIV»."
+  },
+  {
+   "bbox": [
+    436,
+    1788,
+    483,
+    1836
+   ],
+   "category": "Page-footer",
+   "text": "56"
+  }
+ ]
+}

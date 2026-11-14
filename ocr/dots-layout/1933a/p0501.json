@@ -1,0 +1,31 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 501,
+ "seconds": 9.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [814, 903, 868, 991], \"category\": \"Picture\"}, {\"bbox\": [626, 1016, 1063, 1175], \"category\": \"Text\", \"text\": \"ALMOVIST & WIKSELLS\\nBOKTRYCKERI-A.-B.\\nUPPSALA\\n1933\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    814,
+    903,
+    868,
+    991
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    626,
+    1016,
+    1063,
+    1175
+   ],
+   "category": "Text",
+   "text": "ALMOVIST & WIKSELLS\nBOKTRYCKERI-A.-B.\nUPPSALA\n1933"
+  }
+ ]
+}

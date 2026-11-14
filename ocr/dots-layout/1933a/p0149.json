@@ -1,0 +1,122 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 149,
+ "seconds": 34.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [771, 219, 1131, 262], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [660, 290, 1243, 333], \"category\": \"Section-header\", \"text\": \"»Collegii Antiquitatum aflöning 1672\"}, {\"bbox\": [430, 337, 853, 556], \"category\": \"Text\", \"text\": \"Hela vpbördz summan af Banken för Myntearrendet åhr 1672 betalas till Cronan och Collegio Antiq. af Kongl. M:t till aflöning är deputerat, gör dal. smt.\"}, {\"bbox\": [968, 337, 1383, 405], \"category\": \"Text\", \"text\": \"Af emotstående Summa skal nu blifwa betalt.\"}, {\"bbox\": [968, 408, 1482, 1245], \"category\": \"Table\", \"text\": \"<table><tr><td>Hr. Axehielm</td><td>200</td></tr><tr><td>Doct. Loccenius</td><td>200</td></tr><tr><td>Hr. Schefferus</td><td>200</td></tr><tr><td>Hr. Arrhenius</td><td>200</td></tr><tr><td>Hr. Celsius</td><td>200</td></tr><tr><td>Hr. Hadorphius</td><td>300</td></tr><tr><td>Rougman</td><td>100</td></tr><tr><td>2 Studiosi Antiquit.</td><td>60</td></tr><tr><td>2 Rijtare</td><td>200</td></tr><tr><td>Törnewald</td><td>80</td></tr><tr><td>2 Copijster</td><td>100</td></tr><tr><td>Famulus</td><td>60</td></tr><tr><td>Dito en, som reser<br>Resepenningar</td><td>300</td></tr><tr><td>Expensepenningar</td><td>60</td></tr><tr><td>till Tryckerijt</td><td>440</td></tr><tr><td>Sm. 2700.</td><td></td></tr><tr><td>Noch som reda är betalt Jolivet<br>för en på fransöske giord<br>Historia Sueciæ</td><td>700</td></tr><tr><td>Stiernhielm</td><td>600</td></tr><tr><td>Rudbeck till Byggningen</td><td>300</td></tr><tr><td>Kopparstickaren</td><td>200</td></tr></table>\"}, {\"bbox\": [860, 1252, 941, 1284], \"category\": \"Text\", \"text\": \"4.500\"}, {\"bbox\": [1278, 1249, 1484, 1286], \"category\": \"Text\", \"text\": \"Summa 4.500\"}, {\"bbox\": [438, 1300, 1486, 1431], \"category\": \"Text\", \"text\": \"At sålunda Collegii Antiquitatum medel för åhr 1672 anwändas och utbetalas skole, det betygas medh denne min subscription. Stockholm d. 18 novemb. 1672.\"}, {\"bbox\": [1082, 1433, 1354, 1509], \"category\": \"Text\", \"text\": \"Magnus Gabriel\\nDe la Gardie».\"}, {\"bbox\": [439, 1538, 1488, 1751], \"category\": \"Text\", \"text\": \"På papperet ser denna stat onekligen bättre ut än de föregående. På inkomstsidan tages blott upp det verkliga anslaget till kollegiet, myntarrendet, alla assessorerna, utom Hadorph, få lika lön, denne 300 daler från myntarrendet, eller — då antikvarielönen, 300 daler, från kanslistaten tillägges — 600 daler. Samma belopp tillkom Ve-\"}, {\"bbox\": [444, 1785, 519, 1822], \"category\": \"Page-footer\", \"text\": \"130\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    771,
+    219,
+    1131,
+    262
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    660,
+    290,
+    1243,
+    333
+   ],
+   "category": "Section-header",
+   "text": "»Collegii Antiquitatum aflöning 1672"
+  },
+  {
+   "bbox": [
+    430,
+    337,
+    853,
+    556
+   ],
+   "category": "Text",
+   "text": "Hela vpbördz summan af Banken för Myntearrendet åhr 1672 betalas till Cronan och Collegio Antiq. af Kongl. M:t till aflöning är deputerat, gör dal. smt."
+  },
+  {
+   "bbox": [
+    968,
+    337,
+    1383,
+    405
+   ],
+   "category": "Text",
+   "text": "Af emotstående Summa skal nu blifwa betalt."
+  },
+  {
+   "bbox": [
+    968,
+    408,
+    1482,
+    1245
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>Hr. Axehielm</td><td>200</td></tr><tr><td>Doct. Loccenius</td><td>200</td></tr><tr><td>Hr. Schefferus</td><td>200</td></tr><tr><td>Hr. Arrhenius</td><td>200</td></tr><tr><td>Hr. Celsius</td><td>200</td></tr><tr><td>Hr. Hadorphius</td><td>300</td></tr><tr><td>Rougman</td><td>100</td></tr><tr><td>2 Studiosi Antiquit.</td><td>60</td></tr><tr><td>2 Rijtare</td><td>200</td></tr><tr><td>Törnewald</td><td>80</td></tr><tr><td>2 Copijster</td><td>100</td></tr><tr><td>Famulus</td><td>60</td></tr><tr><td>Dito en, som reser<br>Resepenningar</td><td>300</td></tr><tr><td>Expensepenningar</td><td>60</td></tr><tr><td>till Tryckerijt</td><td>440</td></tr><tr><td>Sm. 2700.</td><td></td></tr><tr><td>Noch som reda är betalt Jolivet<br>för en på fransöske giord<br>Historia Sueciæ</td><td>700</td></tr><tr><td>Stiernhielm</td><td>600</td></tr><tr><td>Rudbeck till Byggningen</td><td>300</td></tr><tr><td>Kopparstickaren</td><td>200</td></tr></table>"
+  },
+  {
+   "bbox": [
+    860,
+    1252,
+    941,
+    1284
+   ],
+   "category": "Text",
+   "text": "4.500"
+  },
+  {
+   "bbox": [
+    1278,
+    1249,
+    1484,
+    1286
+   ],
+   "category": "Text",
+   "text": "Summa 4.500"
+  },
+  {
+   "bbox": [
+    438,
+    1300,
+    1486,
+    1431
+   ],
+   "category": "Text",
+   "text": "At sålunda Collegii Antiquitatum medel för åhr 1672 anwändas och utbetalas skole, det betygas medh denne min subscription. Stockholm d. 18 novemb. 1672."
+  },
+  {
+   "bbox": [
+    1082,
+    1433,
+    1354,
+    1509
+   ],
+   "category": "Text",
+   "text": "Magnus Gabriel\nDe la Gardie»."
+  },
+  {
+   "bbox": [
+    439,
+    1538,
+    1488,
+    1751
+   ],
+   "category": "Text",
+   "text": "På papperet ser denna stat onekligen bättre ut än de föregående. På inkomstsidan tages blott upp det verkliga anslaget till kollegiet, myntarrendet, alla assessorerna, utom Hadorph, få lika lön, denne 300 daler från myntarrendet, eller — då antikvarielönen, 300 daler, från kanslistaten tillägges — 600 daler. Samma belopp tillkom Ve-"
+  },
+  {
+   "bbox": [
+    444,
+    1785,
+    519,
+    1822
+   ],
+   "category": "Page-footer",
+   "text": "130"
+  }
+ ]
+}

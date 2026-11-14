@@ -1,0 +1,41 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 229,
+ "seconds": 20.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [528, 323, 986, 735], \"category\": \"Picture\"}, {\"bbox\": [986, 339, 1427, 451], \"category\": \"Text\", \"text\": \"Jii CARL/\"}, {\"bbox\": [597, 449, 1429, 1683], \"category\": \"Text\", \"text\": \"medh GVDz Nåde/\\nSweriges / Giöthes och\\nWendes Konung/Storfur-\\nste til Finland / Hertig vthi\\nSkåne/ Estland/ Lüfland/\\nCarelen/ Brehmen/ Vehr-\\nden/ Stettin- Pommern/ Cassuben och Wänden/\\nFurste til Rügen / Herre öfwer Ingermanland och\\nWißmar; Så och Pfalk- Grefwe widh Rhein i\\nBeyern; til Gülich / Clewe och Bergen Hertig.\\nGiörom witterligit/at emedan Sweriges Konungar\\nhafiva alt ifrån den Evangeliske Religionens inplan-\\nterande i Wårt Fådernesland / stådze dragit försorg/\\nhuru/så twål Gudz ordh och åhra igenom Bibliens\\noch andre Gudelige Böckers tryekiande / skulle vt-\\nspridas och förmeras / som och andre Wårk och\\nSkrifter / til Fåderneslandzens styrelse / Lagz ski-\\npande/gode ordningars wid macht hållande/ Sven-\\nske Historiens och Antiquiteters kundskap/nyttige och\\ntiånlige vplåggias måtte; Hwarföre the och föror-\\ndnat hafiva wisse medel dår til/som år en Tunna reen\\noch strüdh Sådh af hwart Kyrkioherberge i Rüket /\\nden dhe hafiva Tryckerütunna kallat / igenom hvil-\\nken Tunna många herlige Böcker åro tryckte / så\\ntwål Biblien i Konung Gustafs den förstes tüdh\\n1540/ som sedan åhr 1617/ och många andra stora\\nWårk/\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    528,
+    323,
+    986,
+    735
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    986,
+    339,
+    1427,
+    451
+   ],
+   "category": "Text",
+   "text": "Jii CARL/"
+  },
+  {
+   "bbox": [
+    597,
+    449,
+    1429,
+    1683
+   ],
+   "category": "Text",
+   "text": "medh GVDz Nåde/\nSweriges / Giöthes och\nWendes Konung/Storfur-\nste til Finland / Hertig vthi\nSkåne/ Estland/ Lüfland/\nCarelen/ Brehmen/ Vehr-\nden/ Stettin- Pommern/ Cassuben och Wänden/\nFurste til Rügen / Herre öfwer Ingermanland och\nWißmar; Så och Pfalk- Grefwe widh Rhein i\nBeyern; til Gülich / Clewe och Bergen Hertig.\nGiörom witterligit/at emedan Sweriges Konungar\nhafiva alt ifrån den Evangeliske Religionens inplan-\nterande i Wårt Fådernesland / stådze dragit försorg/\nhuru/så twål Gudz ordh och åhra igenom Bibliens\noch andre Gudelige Böckers tryekiande / skulle vt-\nspridas och förmeras / som och andre Wårk och\nSkrifter / til Fåderneslandzens styrelse / Lagz ski-\npande/gode ordningars wid macht hållande/ Sven-\nske Historiens och Antiquiteters kundskap/nyttige och\ntiånlige vplåggias måtte; Hwarföre the och föror-\ndnat hafiva wisse medel dår til/som år en Tunna reen\noch strüdh Sådh af hwart Kyrkioherberge i Rüket /\nden dhe hafiva Tryckerütunna kallat / igenom hvil-\nken Tunna många herlige Böcker åro tryckte / så\ntwål Biblien i Konung Gustafs den förstes tüdh\n1540/ som sedan åhr 1617/ och många andra stora\nWårk/"
+  }
+ ]
+}

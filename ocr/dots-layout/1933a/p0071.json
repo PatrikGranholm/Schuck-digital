@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 71,
+ "seconds": 25.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [774, 221, 1136, 263], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [432, 288, 1477, 626], \"category\": \"Text\", \"text\": \"De la Gardie utfärdats den 19 december 1673 (U. B. Palmskiöld 71), och i denna anslogos 300 daler till var och en av de övriga, Loccenius, Axehiälm, Schefferus, Arrhenius, Celsius och Hadorph, men ej åt Verelius. Emellertid måtte kansleren hava glömt detta, litade på Rudbeck och skickade den 10 oktober kollegiet ett skarpt bannebrev, som heller ej finnes kvar, men som tydligen återgav Rudbecks beskyllningar. Två dagar senare, den 12 oktober, hade kollegium ett sammanträde, varvid De la Gardies brev föredrogs:\"}, {\"bbox\": [506, 650, 1046, 692], \"category\": \"Section-header\", \"text\": \"»Extractum ex Protocollo Collegii.\"}, {\"bbox\": [439, 694, 1477, 781], \"category\": \"Text\", \"text\": \"Anno 1674 d. 12 octob. woro tillsamman Collegij Antiquitatum Præses Hr Doct. Loccenius, Assessorer Hr. Arrhenius och Celsius.\"}, {\"bbox\": [436, 788, 1489, 1757], \"category\": \"Text\", \"text\": \"1) Uplästes Rijkz Cantzlerens bref af dato Wennegarn d. 10 octob., uthi hwilket Hs. höggrefl. Excellence lät förstå sig mycket misshaga, det Hr. Verelius woro förbijgången uthi Communicationer om Collegii syslor och aflöningen, ändoch han Antiquarius Regni är och elliest hans Profession egenteligen dhee handlingar angåår. Bleef derföre till betenkiande fördt, hwad man om detta Hs. höggrefl. Excell. swara skulle, och kommo dheruthinnan öfwer eens, att bref med första Post till Hs. höggrefl. Excell. för itt ödmiukt swar affärdas skulle. Att Hr. Verelius merendels wistas på landet och derföre eij kan kallas eller komma tillstädes, när något i Collegio förefaller at deliberera om. Och när han i staden är och kallat warder, sig absenterar för dee orsaker och hinder, som han sielf bäst lärer weeta. Hwad belöningen widkommer, haf:r Collegium sig altijd skickat effter den Stat och förordning, som Hs. höggrefl. Excell. igenom Secreteraren Hadorphium dem meddelt hafwer, uppå hwilken, effter Hr. Verelij nampn icke hafwer funnitz, har eij Collegium sig fördristat det der insättia eller af meddlen, som dem tillslagne warit, communicera, hälst effter dee hade altijd förmodat, det Hr. Verelius skulle sin belöning inhempta af gambla Archivo, såsom Regni Antiquarius plägar. Har altså longt warit borto ifrån Collegio något resolvera eller i des stat förändra uthom Hs. höggrefl. Excellences weetskap och willia, hwilken dhee altijd hade sig ombeflijtat att efterlefwa och så mycket dem tillstode giöra tillfyllest.\"}, {\"bbox\": [449, 1794, 496, 1833], \"category\": \"Page-footer\", \"text\": \"52\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    774,
+    221,
+    1136,
+    263
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    432,
+    288,
+    1477,
+    626
+   ],
+   "category": "Text",
+   "text": "De la Gardie utfärdats den 19 december 1673 (U. B. Palmskiöld 71), och i denna anslogos 300 daler till var och en av de övriga, Loccenius, Axehiälm, Schefferus, Arrhenius, Celsius och Hadorph, men ej åt Verelius. Emellertid måtte kansleren hava glömt detta, litade på Rudbeck och skickade den 10 oktober kollegiet ett skarpt bannebrev, som heller ej finnes kvar, men som tydligen återgav Rudbecks beskyllningar. Två dagar senare, den 12 oktober, hade kollegium ett sammanträde, varvid De la Gardies brev föredrogs:"
+  },
+  {
+   "bbox": [
+    506,
+    650,
+    1046,
+    692
+   ],
+   "category": "Section-header",
+   "text": "»Extractum ex Protocollo Collegii."
+  },
+  {
+   "bbox": [
+    439,
+    694,
+    1477,
+    781
+   ],
+   "category": "Text",
+   "text": "Anno 1674 d. 12 octob. woro tillsamman Collegij Antiquitatum Præses Hr Doct. Loccenius, Assessorer Hr. Arrhenius och Celsius."
+  },
+  {
+   "bbox": [
+    436,
+    788,
+    1489,
+    1757
+   ],
+   "category": "Text",
+   "text": "1) Uplästes Rijkz Cantzlerens bref af dato Wennegarn d. 10 octob., uthi hwilket Hs. höggrefl. Excellence lät förstå sig mycket misshaga, det Hr. Verelius woro förbijgången uthi Communicationer om Collegii syslor och aflöningen, ändoch han Antiquarius Regni är och elliest hans Profession egenteligen dhee handlingar angåår. Bleef derföre till betenkiande fördt, hwad man om detta Hs. höggrefl. Excell. swara skulle, och kommo dheruthinnan öfwer eens, att bref med första Post till Hs. höggrefl. Excell. för itt ödmiukt swar affärdas skulle. Att Hr. Verelius merendels wistas på landet och derföre eij kan kallas eller komma tillstädes, när något i Collegio förefaller at deliberera om. Och när han i staden är och kallat warder, sig absenterar för dee orsaker och hinder, som han sielf bäst lärer weeta. Hwad belöningen widkommer, haf:r Collegium sig altijd skickat effter den Stat och förordning, som Hs. höggrefl. Excell. igenom Secreteraren Hadorphium dem meddelt hafwer, uppå hwilken, effter Hr. Verelij nampn icke hafwer funnitz, har eij Collegium sig fördristat det der insättia eller af meddlen, som dem tillslagne warit, communicera, hälst effter dee hade altijd förmodat, det Hr. Verelius skulle sin belöning inhempta af gambla Archivo, såsom Regni Antiquarius plägar. Har altså longt warit borto ifrån Collegio något resolvera eller i des stat förändra uthom Hs. höggrefl. Excellences weetskap och willia, hwilken dhee altijd hade sig ombeflijtat att efterlefwa och så mycket dem tillstode giöra tillfyllest."
+  },
+  {
+   "bbox": [
+    449,
+    1794,
+    496,
+    1833
+   ],
+   "category": "Page-footer",
+   "text": "52"
+  }
+ ]
+}

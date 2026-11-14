@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 326,
+ "seconds": 26.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [466, 246, 845, 288], \"category\": \"Section-header\", \"text\": \"Antikvitetssamlingen\"}, {\"bbox\": [135, 316, 1169, 404], \"category\": \"Text\", \"text\": \"hafwa wij sielfwe medhel af Ers HGrefl. Excell. nådige donation att förfärdiga låta» (R. A. Skrivelser till De la Gardie. Ser. C 1.).\"}, {\"bbox\": [135, 401, 1185, 1741], \"category\": \"Text\", \"text\": \"Dessa spaningar efter gamla handskrifter sträckte sig för övrigt ej blott till riksarkivet, utan ock till andra arkiv. Så hade Hadorph fått kännedom om två ytterst värdefulla handskrifter i Åbo, den Söderköpingsrätt, ur vilken Johannes och Laurentius Bureus gjort sina förut omtalade excerpt, och den s. k. Svarteboken eller Registrum ecclesiæ Aboensis, som är en bland våra allra viktigaste medeltida kopieböcker. Den hade äldst tillhört Åbo domkapitel, men hade på 1620-talet överlämnats till Åbo hovrätt. Möjligen hade Hadorph genom Axehiälm fått kännedom om dess existens, och troligen var det på hans initiativ, som regeringen den 23 februari 1669 skrev till hovrätten i Åbo: »Oss är förekommit, som skall uti Edert Collegio hafwa warit itt Registratur heller Copiæ book, för någre och hundrade åhr sedan dher widh doomkyrckian på någre gambla breef och documenter, huilka fuller mehrendehls angåå de godz, fiskerij och rättigheter, som doomkyrckian, Canonicis heller Klösteren dher i landhen gifne ähre, men skole icke dess mindre gifwa oss någon Vplyssningh och kunskap uthi staten, som fordom der i landet warit hafwer. Såsom nu samme book, dhen wij förnimme j hafwa kallat Swarte Booken, effter hoon är swart och gammal, tienar oss uthi Rijkz Archivo, altså är wår nådiga wilia och Befallningh, dher hon ännu hooss Edher wijdh handen woro, i Capitelet heller annorstädhes, I willen låtha dher effter inqvirera och oss medh forderligaste, som skee kan, tillhandaskicka. Skulle der något finnas, som Edher till effterrettelsse tiäna kundhe uthi Justitiens administration, skall Edher copier dher af wäll meddhelas. Elliest så hafwe wij och förstådt, att fordom vice Præses uthi Eder hofrätt Sahl. Oloff Bure skall hafwa haft een gammall Suderkiöpingz Stadzlagh, som är heelt och hållen different ifrån dhen Stadzlagh, som wij nu i gemeen hafwe, hwilken uthan twifwel åhr kommen till hans successorem och för dhetta vice Præsidenten Johan Orlunck [skall vara Munck] och nu uthan twifwel effter honom och hans hustrus dödh¹ till beggies dheras Barn och Arfwingar, I willen uthi lijka måtto dher\"}, {\"bbox\": [177, 1749, 930, 1784], \"category\": \"Footnote\", \"text\": \"¹ Johan Munck (död 1663) hade varit gift med Olaus Bureus' dotter.\"}, {\"bbox\": [1182, 406, 1317, 469], \"category\": \"Text\", \"text\": \"Handskrifter från Åbo\"}, {\"bbox\": [1106, 1817, 1178, 1855], \"category\": \"Page-footer\", \"text\": \"295\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    466,
+    246,
+    845,
+    288
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetssamlingen"
+  },
+  {
+   "bbox": [
+    135,
+    316,
+    1169,
+    404
+   ],
+   "category": "Text",
+   "text": "hafwa wij sielfwe medhel af Ers HGrefl. Excell. nådige donation att förfärdiga låta» (R. A. Skrivelser till De la Gardie. Ser. C 1.)."
+  },
+  {
+   "bbox": [
+    135,
+    401,
+    1185,
+    1741
+   ],
+   "category": "Text",
+   "text": "Dessa spaningar efter gamla handskrifter sträckte sig för övrigt ej blott till riksarkivet, utan ock till andra arkiv. Så hade Hadorph fått kännedom om två ytterst värdefulla handskrifter i Åbo, den Söderköpingsrätt, ur vilken Johannes och Laurentius Bureus gjort sina förut omtalade excerpt, och den s. k. Svarteboken eller Registrum ecclesiæ Aboensis, som är en bland våra allra viktigaste medeltida kopieböcker. Den hade äldst tillhört Åbo domkapitel, men hade på 1620-talet överlämnats till Åbo hovrätt. Möjligen hade Hadorph genom Axehiälm fått kännedom om dess existens, och troligen var det på hans initiativ, som regeringen den 23 februari 1669 skrev till hovrätten i Åbo: »Oss är förekommit, som skall uti Edert Collegio hafwa warit itt Registratur heller Copiæ book, för någre och hundrade åhr sedan dher widh doomkyrckian på någre gambla breef och documenter, huilka fuller mehrendehls angåå de godz, fiskerij och rättigheter, som doomkyrckian, Canonicis heller Klösteren dher i landhen gifne ähre, men skole icke dess mindre gifwa oss någon Vplyssningh och kunskap uthi staten, som fordom der i landet warit hafwer. Såsom nu samme book, dhen wij förnimme j hafwa kallat Swarte Booken, effter hoon är swart och gammal, tienar oss uthi Rijkz Archivo, altså är wår nådiga wilia och Befallningh, dher hon ännu hooss Edher wijdh handen woro, i Capitelet heller annorstädhes, I willen låtha dher effter inqvirera och oss medh forderligaste, som skee kan, tillhandaskicka. Skulle der något finnas, som Edher till effterrettelsse tiäna kundhe uthi Justitiens administration, skall Edher copier dher af wäll meddhelas. Elliest så hafwe wij och förstådt, att fordom vice Præses uthi Eder hofrätt Sahl. Oloff Bure skall hafwa haft een gammall Suderkiöpingz Stadzlagh, som är heelt och hållen different ifrån dhen Stadzlagh, som wij nu i gemeen hafwe, hwilken uthan twifwel åhr kommen till hans successorem och för dhetta vice Præsidenten Johan Orlunck [skall vara Munck] och nu uthan twifwel effter honom och hans hustrus dödh¹ till beggies dheras Barn och Arfwingar, I willen uthi lijka måtto dher"
+  },
+  {
+   "bbox": [
+    177,
+    1749,
+    930,
+    1784
+   ],
+   "category": "Footnote",
+   "text": "¹ Johan Munck (död 1663) hade varit gift med Olaus Bureus' dotter."
+  },
+  {
+   "bbox": [
+    1182,
+    406,
+    1317,
+    469
+   ],
+   "category": "Text",
+   "text": "Handskrifter från Åbo"
+  },
+  {
+   "bbox": [
+    1106,
+    1817,
+    1178,
+    1855
+   ],
+   "category": "Page-footer",
+   "text": "295"
+  }
+ ]
+}

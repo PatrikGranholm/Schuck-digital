@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 306,
+ "seconds": 29.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [473, 245, 854, 288], \"category\": \"Section-header\", \"text\": \"Antikvitetssamlingen\"}, {\"bbox\": [142, 314, 1186, 824], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>Ett medh Alberti Tittell</td><td>3 st.</td></tr><tr><td>Ett slagz myntt medh åhretaall 1478</td><td>3 st.</td></tr><tr><td>Ett kröntt hufuudh medh R. Erici tittell och een Ortigh medh Erici nampn och alst tillhopa</td><td>5 st.</td></tr><tr><td>Åthskillige Ortiger</td><td>3 st.</td></tr><tr><td>Kongh Carll Knuthsons myntt</td><td>18 st.</td></tr><tr><td>Kongh Christophers myntt</td><td>8 st.</td></tr><tr><td>Konungh Hanses myntt</td><td>8 st.</td></tr><tr><td>Her Steen Stures myntt</td><td>3 st.</td></tr><tr><td>Kongh Christierns myntt</td><td>3 st.</td></tr><tr><td>Smått myntt stämplett på een Sida</td><td>3 st.</td></tr><tr><td>Främmande koppermyntt gammalt</td><td>7 st.</td></tr><tr><td>Främmande Sölfuer myntt</td><td>6 st.</td></tr><tr><td>Främmande Koppermyntt</td><td>3 st.</td></tr></tbody></table>\"}, {\"bbox\": [179, 844, 807, 886], \"category\": \"Text\", \"text\": \"Vthi een liten Påsse ähr effter:ne mynt.\"}, {\"bbox\": [469, 892, 859, 935], \"category\": \"Section-header\", \"text\": \"Konungh Gustafs myntt\"}, {\"bbox\": [144, 938, 1186, 1265], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>1543 åhrs Klippingh</td><td>1 om 15 öre</td><td></td></tr><tr><td>1556 åhrs Klippinger</td><td>1 om 16 öre<br>1 om 4 öre<br>1 om 2 öre.</td><td></td></tr><tr><td>1560 åhrs 2 öre Stycker</td><td></td><td>2.</td></tr><tr><td>Store Runstycker, dhett eene medh dale och thett andre medh Rijk-zens wapn</td><td></td><td>2 st.</td></tr><tr><td>halförer</td><td></td><td>4 st.</td></tr><tr><td>Fyrker med S och een Chrone</td><td></td><td>2 st.</td></tr></tbody></table>\"}, {\"bbox\": [473, 1275, 858, 1317], \"category\": \"Section-header\", \"text\": \"Konungh Erichs myntt:\"}, {\"bbox\": [144, 1319, 1186, 1536], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>62 åhrs klippinger</td><td>1 om 16 öre<br>1 om 8 öre<br>1 om 4 öre</td><td></td></tr><tr><td>Rundh marck eller 1/2 [mark] Räfwelsk</td><td></td><td>1 st.</td></tr><tr><td>Räfuelske skillinger</td><td></td><td>2 st.</td></tr><tr><td>61 åhrs 1/2 öre</td><td></td><td>1 st.</td></tr></tbody></table>\"}, {\"bbox\": [473, 1550, 858, 1592], \"category\": \"Section-header\", \"text\": \"Konungh Johans myntt:\"}, {\"bbox\": [144, 1594, 1186, 1780], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>Wadstena 68 åhrs klippinger</td><td>1 om 2 [mark]<br>1 om 1 [mark]</td><td></td></tr><tr><td>Een 69 åhrs klippingh om</td><td>1 [mark]</td><td></td></tr><tr><td>Een 71 åhrs klippingh om</td><td>4 öre.</td><td></td></tr><tr><td>2 the stycker som rächness 12 opå een öre</td><td></td><td>20 st.</td></tr></tbody></table>\"}, {\"bbox\": [1107, 1816, 1178, 1854], \"category\": \"Page-footer\", \"text\": \"275\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    473,
+    245,
+    854,
+    288
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetssamlingen"
+  },
+  {
+   "bbox": [
+    142,
+    314,
+    1186,
+    824
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>Ett medh Alberti Tittell</td><td>3 st.</td></tr><tr><td>Ett slagz myntt medh åhretaall 1478</td><td>3 st.</td></tr><tr><td>Ett kröntt hufuudh medh R. Erici tittell och een Ortigh medh Erici nampn och alst tillhopa</td><td>5 st.</td></tr><tr><td>Åthskillige Ortiger</td><td>3 st.</td></tr><tr><td>Kongh Carll Knuthsons myntt</td><td>18 st.</td></tr><tr><td>Kongh Christophers myntt</td><td>8 st.</td></tr><tr><td>Konungh Hanses myntt</td><td>8 st.</td></tr><tr><td>Her Steen Stures myntt</td><td>3 st.</td></tr><tr><td>Kongh Christierns myntt</td><td>3 st.</td></tr><tr><td>Smått myntt stämplett på een Sida</td><td>3 st.</td></tr><tr><td>Främmande koppermyntt gammalt</td><td>7 st.</td></tr><tr><td>Främmande Sölfuer myntt</td><td>6 st.</td></tr><tr><td>Främmande Koppermyntt</td><td>3 st.</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    179,
+    844,
+    807,
+    886
+   ],
+   "category": "Text",
+   "text": "Vthi een liten Påsse ähr effter:ne mynt."
+  },
+  {
+   "bbox": [
+    469,
+    892,
+    859,
+    935
+   ],
+   "category": "Section-header",
+   "text": "Konungh Gustafs myntt"
+  },
+  {
+   "bbox": [
+    144,
+    938,
+    1186,
+    1265
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>1543 åhrs Klippingh</td><td>1 om 15 öre</td><td></td></tr><tr><td>1556 åhrs Klippinger</td><td>1 om 16 öre<br>1 om 4 öre<br>1 om 2 öre.</td><td></td></tr><tr><td>1560 åhrs 2 öre Stycker</td><td></td><td>2.</td></tr><tr><td>Store Runstycker, dhett eene medh dale och thett andre medh Rijk-zens wapn</td><td></td><td>2 st.</td></tr><tr><td>halförer</td><td></td><td>4 st.</td></tr><tr><td>Fyrker med S och een Chrone</td><td></td><td>2 st.</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    473,
+    1275,
+    858,
+    1317
+   ],
+   "category": "Section-header",
+   "text": "Konungh Erichs myntt:"
+  },
+  {
+   "bbox": [
+    144,
+    1319,
+    1186,
+    1536
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>62 åhrs klippinger</td><td>1 om 16 öre<br>1 om 8 öre<br>1 om 4 öre</td><td></td></tr><tr><td>Rundh marck eller 1/2 [mark] Räfwelsk</td><td></td><td>1 st.</td></tr><tr><td>Räfuelske skillinger</td><td></td><td>2 st.</td></tr><tr><td>61 åhrs 1/2 öre</td><td></td><td>1 st.</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    473,
+    1550,
+    858,
+    1592
+   ],
+   "category": "Section-header",
+   "text": "Konungh Johans myntt:"
+  },
+  {
+   "bbox": [
+    144,
+    1594,
+    1186,
+    1780
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>Wadstena 68 åhrs klippinger</td><td>1 om 2 [mark]<br>1 om 1 [mark]</td><td></td></tr><tr><td>Een 69 åhrs klippingh om</td><td>1 [mark]</td><td></td></tr><tr><td>Een 71 åhrs klippingh om</td><td>4 öre.</td><td></td></tr><tr><td>2 the stycker som rächness 12 opå een öre</td><td></td><td>20 st.</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    1107,
+    1816,
+    1178,
+    1854
+   ],
+   "category": "Page-footer",
+   "text": "275"
+  }
+ ]
+}

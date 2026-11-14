@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 471,
+ "seconds": 18.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [728, 244, 1104, 287], \"category\": \"Page-header\", \"text\": \"Antikwitetskollegiet\"}, {\"bbox\": [386, 314, 1446, 476], \"category\": \"Text\", \"text\": \"ket 2) uthi Oxfurt, Cantabriæ och hos privatos finnas många Giötiske handlingar, hwar af Sheringham och flere Engelske Scriptores kunna så härlige scripta låta uthgå till wår nations ähra och beröm.\"}, {\"bbox\": [386, 481, 1446, 730], \"category\": \"Text\", \"text\": \"10) Uthi Norige och Jsllamdh finnas och många härlige manuscripta rerum SueoGothicaruim, af hwilka wij reda en stoor deel hafwa bekommit och än belkømma kunna, om wij få dher till frija händer dhem att låta inskaiffea. Sammaledes danske scriptores och ms:ta, dem wij nu på denna ttijdh kunna bekomma» (V. H. A. A. Antikvitetskoll. Handl. XI.).\"}, {\"bbox\": [384, 732, 1446, 1777], \"category\": \"Text\", \"text\": \"Om Kristinas bibliotek, som han endast flyktigt nämnt i instruktionen, inlämnade han till komwungen en särskild inlaga: »Alldenstundh hennes Kongl. M:tt Drott. Christina hafwer församblat en stor myckenheet af allehanda Manuscripter och rare Historie Böcker, både mädan hennes M:tt satt wid Regementet i Swerige och sedan, dher ibland många saker finnas, som angå dhe gambla Giöthars manliga bedrifter uthi Europa och Asia, hwilka mycket kunde tiena till Sweriges lustre, om wij finge af dem part; Hwarföre giöra hoos Ers Kongl. M:tt wij en underdåmig påminnelse här om och bedia, att Ers Kongl. M:tt i nåder täcktes Hennes M:tt genom sitt nådigste bref här om tillskrifwa och fförmå hennes M:tt att anten förähra be:te manuscripter och Böcker till Ers M:tt och dess Antiquitetz Collegium eller communicera dem till att afskrifwas, så kunde lijkwäl mycket gagn dher af giöras till E. K. M:ttz och dess rijkes höga beröm. Hennes M:tt hair och församblat många kosteliga medalier af Giöthiske och andra förnäme mäns i wärlden, som hennes M:tt torde och låta medhföllia, om hennes M:tt dher om anmodat worde. Om nu Ers K. M:tt skulle nådigst behaga att låta en Expresse dher om utresa, så tordle mödan så wäl lönas, att Ers Kongl. May. en större skatt af henmees M:tt förwärfwa kunde, än med penningar lösas kan. Och som Ers K. M:tt i förledne åhr aldernådigst förordnat, att en af Collegio, som wäl förstår Antiquiteterne, skulle uthresa åth Engeland, Spaniem, Italien och dhe östra länderne såsom Tracien öfwer Ungren och flere orter, dher dhe gambla Giöther fordom bodt, att eftersökia gambla Giöthiske handlingar. Men be:te\"}, {\"bbox\": [386, 1814, 464, 1851], \"category\": \"Page-footer\", \"text\": \"440\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    728,
+    244,
+    1104,
+    287
+   ],
+   "category": "Page-header",
+   "text": "Antikwitetskollegiet"
+  },
+  {
+   "bbox": [
+    386,
+    314,
+    1446,
+    476
+   ],
+   "category": "Text",
+   "text": "ket 2) uthi Oxfurt, Cantabriæ och hos privatos finnas många Giötiske handlingar, hwar af Sheringham och flere Engelske Scriptores kunna så härlige scripta låta uthgå till wår nations ähra och beröm."
+  },
+  {
+   "bbox": [
+    386,
+    481,
+    1446,
+    730
+   ],
+   "category": "Text",
+   "text": "10) Uthi Norige och Jsllamdh finnas och många härlige manuscripta rerum SueoGothicaruim, af hwilka wij reda en stoor deel hafwa bekommit och än belkømma kunna, om wij få dher till frija händer dhem att låta inskaiffea. Sammaledes danske scriptores och ms:ta, dem wij nu på denna ttijdh kunna bekomma» (V. H. A. A. Antikvitetskoll. Handl. XI.)."
+  },
+  {
+   "bbox": [
+    384,
+    732,
+    1446,
+    1777
+   ],
+   "category": "Text",
+   "text": "Om Kristinas bibliotek, som han endast flyktigt nämnt i instruktionen, inlämnade han till komwungen en särskild inlaga: »Alldenstundh hennes Kongl. M:tt Drott. Christina hafwer församblat en stor myckenheet af allehanda Manuscripter och rare Historie Böcker, både mädan hennes M:tt satt wid Regementet i Swerige och sedan, dher ibland många saker finnas, som angå dhe gambla Giöthars manliga bedrifter uthi Europa och Asia, hwilka mycket kunde tiena till Sweriges lustre, om wij finge af dem part; Hwarföre giöra hoos Ers Kongl. M:tt wij en underdåmig påminnelse här om och bedia, att Ers Kongl. M:tt i nåder täcktes Hennes M:tt genom sitt nådigste bref här om tillskrifwa och fförmå hennes M:tt att anten förähra be:te manuscripter och Böcker till Ers M:tt och dess Antiquitetz Collegium eller communicera dem till att afskrifwas, så kunde lijkwäl mycket gagn dher af giöras till E. K. M:ttz och dess rijkes höga beröm. Hennes M:tt hair och församblat många kosteliga medalier af Giöthiske och andra förnäme mäns i wärlden, som hennes M:tt torde och låta medhföllia, om hennes M:tt dher om anmodat worde. Om nu Ers K. M:tt skulle nådigst behaga att låta en Expresse dher om utresa, så tordle mödan så wäl lönas, att Ers Kongl. May. en större skatt af henmees M:tt förwärfwa kunde, än med penningar lösas kan. Och som Ers K. M:tt i förledne åhr aldernådigst förordnat, att en af Collegio, som wäl förstår Antiquiteterne, skulle uthresa åth Engeland, Spaniem, Italien och dhe östra länderne såsom Tracien öfwer Ungren och flere orter, dher dhe gambla Giöther fordom bodt, att eftersökia gambla Giöthiske handlingar. Men be:te"
+  },
+  {
+   "bbox": [
+    386,
+    1814,
+    464,
+    1851
+   ],
+   "category": "Page-footer",
+   "text": "440"
+  }
+ ]
+}

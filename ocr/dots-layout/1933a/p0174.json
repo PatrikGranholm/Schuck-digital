@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 174,
+ "seconds": 25.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [392, 243, 925, 286], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiets ekonomi\"}, {\"bbox\": [131, 313, 1174, 774], \"category\": \"Text\", \"text\": \"Gustav Adolfs bibel blev som bekant färdigtryckt 1618, och skatten, »trycketunnan», borde därför hava upphört. Konungen lät den emellertid fortfarande utgå, ty sedan länge tillbaka umgicks han med en annan plan. Han hade iakttagit det ytterliga litterära armod, som härskade i den tidens Sverige. Att frammana en självständig nationell litteratur var ännu ej möjligt, möjligt däremot att genom översättningar av mera betydande utländska arbeten förbereda en dylik. Och det var till detta ändamål han nu anslog bibeltryckstunnan. Till »translator» hade han redan förut utsett Ericus Schroderus, och den 15 maj 1622 utfärdade han för honom följande kungabrev¹:\"}, {\"bbox\": [125, 796, 1171, 1719], \"category\": \"Text\", \"text\": \"»Wij Gustaf Adolph etc. Giöre witterligit at effter thet utj fremmande språk finnes månge skiöne och nyttige böcker af trycket uthgångne, theraf månge ock särdeles ungdomen här utj vårt konungarijke och k. fädernesland kunna hafwa god rättelse, lärdom och underwijsning, hwar sådana nyttige saker woro uppå vårt Swenske Tungemåhl transfererede och utj trycket uthgångne. Therföre upå thet at sådanne med tijden måtte utj wärcket stält warda ock alle sådane nyttige böcker på Swenske Tungomålet af Trycket utgå, hafwe wij nådeligen i så måtto wære trogne Undersåtares, särdeles ungdomens, gagn och nytto velat ansee och nu betrodt och förordnat, som wij och med thetta vårt öpna bref tillbetro och förordne, thenne wår troo tienare M. Erich Schrodero, att han sådane nyttige böcker både booklige konster, historier och andre fakulteter angående skall af fremmande språk transferera in upå vårt Swenska tungomåhl ock them sedan af trycket gå låta, doch så att han skall wara förplichtat sig i underdånigheet försporia hoos oss, hwilcke som oss behagar att vertera och uthgå låta. Och på thet han thes bättre skall kunna sådant i wärcket ställa och uthföra, hafwe wij nådeligen undt ock effterlåtit, som wij och nu med thetta vårt öpne bref unne och effterlåte honom till åhrlig löhn för sitt omak och bekostnat Biblietrycks tunnan (som hon kallas), thet är en Tunna Spannemåhl af hwart kyrckioherberge öfwer hela Rijket, så wäl\"}, {\"bbox\": [158, 1744, 1068, 1781], \"category\": \"Footnote\", \"text\": \"¹ Även detta saknas i registraturet, men finnes hos Palmskiöld vol. 345, sid. 223.\"}, {\"bbox\": [1090, 1818, 1159, 1856], \"category\": \"Page-footer\", \"text\": \"155\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    392,
+    243,
+    925,
+    286
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiets ekonomi"
+  },
+  {
+   "bbox": [
+    131,
+    313,
+    1174,
+    774
+   ],
+   "category": "Text",
+   "text": "Gustav Adolfs bibel blev som bekant färdigtryckt 1618, och skatten, »trycketunnan», borde därför hava upphört. Konungen lät den emellertid fortfarande utgå, ty sedan länge tillbaka umgicks han med en annan plan. Han hade iakttagit det ytterliga litterära armod, som härskade i den tidens Sverige. Att frammana en självständig nationell litteratur var ännu ej möjligt, möjligt däremot att genom översättningar av mera betydande utländska arbeten förbereda en dylik. Och det var till detta ändamål han nu anslog bibeltryckstunnan. Till »translator» hade han redan förut utsett Ericus Schroderus, och den 15 maj 1622 utfärdade han för honom följande kungabrev¹:"
+  },
+  {
+   "bbox": [
+    125,
+    796,
+    1171,
+    1719
+   ],
+   "category": "Text",
+   "text": "»Wij Gustaf Adolph etc. Giöre witterligit at effter thet utj fremmande språk finnes månge skiöne och nyttige böcker af trycket uthgångne, theraf månge ock särdeles ungdomen här utj vårt konungarijke och k. fädernesland kunna hafwa god rättelse, lärdom och underwijsning, hwar sådana nyttige saker woro uppå vårt Swenske Tungemåhl transfererede och utj trycket uthgångne. Therföre upå thet at sådanne med tijden måtte utj wärcket stält warda ock alle sådane nyttige böcker på Swenske Tungomålet af Trycket utgå, hafwe wij nådeligen i så måtto wære trogne Undersåtares, särdeles ungdomens, gagn och nytto velat ansee och nu betrodt och förordnat, som wij och med thetta vårt öpna bref tillbetro och förordne, thenne wår troo tienare M. Erich Schrodero, att han sådane nyttige böcker både booklige konster, historier och andre fakulteter angående skall af fremmande språk transferera in upå vårt Swenska tungomåhl ock them sedan af trycket gå låta, doch så att han skall wara förplichtat sig i underdånigheet försporia hoos oss, hwilcke som oss behagar att vertera och uthgå låta. Och på thet han thes bättre skall kunna sådant i wärcket ställa och uthföra, hafwe wij nådeligen undt ock effterlåtit, som wij och nu med thetta vårt öpne bref unne och effterlåte honom till åhrlig löhn för sitt omak och bekostnat Biblietrycks tunnan (som hon kallas), thet är en Tunna Spannemåhl af hwart kyrckioherberge öfwer hela Rijket, så wäl"
+  },
+  {
+   "bbox": [
+    158,
+    1744,
+    1068,
+    1781
+   ],
+   "category": "Footnote",
+   "text": "¹ Även detta saknas i registraturet, men finnes hos Palmskiöld vol. 345, sid. 223."
+  },
+  {
+   "bbox": [
+    1090,
+    1818,
+    1159,
+    1856
+   ],
+   "category": "Page-footer",
+   "text": "155"
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 387,
+ "seconds": 33.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [734, 246, 1101, 289], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [391, 315, 1445, 865], \"category\": \"Text\", \"text\": \"och adeln: »Den berömlige reflection, som Kongl. Maij:t har haft på dhe gamble Svears och Götars effterlembnade antiquiteter och monumenter, i synnerheet dhe uhråldrige Konungars och hieltars griffter, tumuler och högarr, dem Kongl. Maj:t genom des allernådigste placat haar befalt att oppleeta, antekna och under des Kongl. protection och försvar för all vidare vanvyrdnat, åverkan och ödeläggningh att taga, meriterar och icke mindre låf och tacksam ihugkommellsse; och recommendera Ridderskapet och Adelen sampt Krigzbefellet allerunderdårigst Kongl. Maij:t thet till all forderligh ytterligare befrämian och handhållande, tillbiudandes sigh medh vederbörligh flijt och åhuga att vela Kongl. Maj:t härvedh hörsambligst tillhanda gå medh alt hvadh som the thertill tienligit på hvar sin orth kunna finna och oppleita» (Protokoll sid. 516.).\"}, {\"bbox\": [394, 859, 1445, 948], \"category\": \"Text\", \"text\": \"De andra stånden kommo till samma resultat. Den 6 juli sammanträdde ett utskott av alla fyra, och därvid kom även denna fråga före:\"}, {\"bbox\": [394, 953, 1447, 1127], \"category\": \"Text\", \"text\": \"»Om antiquiteterne. Hr. Landtmarskalken refererade förmedelst ett vackert tahl Ridderskapet och Adelns fattade mening att berömma och tacka Hans Kongl. Maj:t och begiära continuation af sådan omsorg.\"}, {\"bbox\": [397, 1120, 1447, 1665], \"category\": \"Text\", \"text\": \"Doctor Eric [= biskop Emporagius]: Hans Kongl. Maj:t hafver behagat att låta dess bref afgå till Biskoperne och Consistorierne, att dhe skulle låta prästerne och sexmennen upsökia allehanda antiquiteter, såssom först om steenar af runnaskrifft eller elliest 2) gammalt mynt 3) om gamble hieltars och kongers griffter icke måtte ruineras eller violeras. Jagl h på min ort hafver giordt härvedh, så mycket jag hafver kunnat. Jag hafver utskrifvit, att dhe slijk Kongl. Maij:tz nådiga bref och befalning skulle ställa sig till effterrättelse, men kan eij veta, om någon effterrättelse deraf kan hafva. Jag har uti visitationen effterfrågat, om dhe något funnit hafva, så hafva dhe stundom inthet förståt, förrän jag har frågat particularius dereffter, om dhe inthet hafva sådant eller sådant etc. Approberade såsom i alt annat också häruti Hr. Landtmarskalkens förnufftige tahl och svar.\"}, {\"bbox\": [434, 1674, 1445, 1723], \"category\": \"Text\", \"text\": \"Tegner [borgarståndets talman] idem, Rusticus idem» (Protokollet sid. 188.).\"}, {\"bbox\": [434, 1734, 1447, 1782], \"category\": \"Text\", \"text\": \"Samfällt avgav riksdagen den 22 september följande yttrande om\"}, {\"bbox\": [404, 1811, 479, 1861], \"category\": \"Page-footer\", \"text\": \"356\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    734,
+    246,
+    1101,
+    289
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    391,
+    315,
+    1445,
+    865
+   ],
+   "category": "Text",
+   "text": "och adeln: »Den berömlige reflection, som Kongl. Maij:t har haft på dhe gamble Svears och Götars effterlembnade antiquiteter och monumenter, i synnerheet dhe uhråldrige Konungars och hieltars griffter, tumuler och högarr, dem Kongl. Maj:t genom des allernådigste placat haar befalt att oppleeta, antekna och under des Kongl. protection och försvar för all vidare vanvyrdnat, åverkan och ödeläggningh att taga, meriterar och icke mindre låf och tacksam ihugkommellsse; och recommendera Ridderskapet och Adelen sampt Krigzbefellet allerunderdårigst Kongl. Maij:t thet till all forderligh ytterligare befrämian och handhållande, tillbiudandes sigh medh vederbörligh flijt och åhuga att vela Kongl. Maj:t härvedh hörsambligst tillhanda gå medh alt hvadh som the thertill tienligit på hvar sin orth kunna finna och oppleita» (Protokoll sid. 516.)."
+  },
+  {
+   "bbox": [
+    394,
+    859,
+    1445,
+    948
+   ],
+   "category": "Text",
+   "text": "De andra stånden kommo till samma resultat. Den 6 juli sammanträdde ett utskott av alla fyra, och därvid kom även denna fråga före:"
+  },
+  {
+   "bbox": [
+    394,
+    953,
+    1447,
+    1127
+   ],
+   "category": "Text",
+   "text": "»Om antiquiteterne. Hr. Landtmarskalken refererade förmedelst ett vackert tahl Ridderskapet och Adelns fattade mening att berömma och tacka Hans Kongl. Maj:t och begiära continuation af sådan omsorg."
+  },
+  {
+   "bbox": [
+    397,
+    1120,
+    1447,
+    1665
+   ],
+   "category": "Text",
+   "text": "Doctor Eric [= biskop Emporagius]: Hans Kongl. Maj:t hafver behagat att låta dess bref afgå till Biskoperne och Consistorierne, att dhe skulle låta prästerne och sexmennen upsökia allehanda antiquiteter, såssom först om steenar af runnaskrifft eller elliest 2) gammalt mynt 3) om gamble hieltars och kongers griffter icke måtte ruineras eller violeras. Jagl h på min ort hafver giordt härvedh, så mycket jag hafver kunnat. Jag hafver utskrifvit, att dhe slijk Kongl. Maij:tz nådiga bref och befalning skulle ställa sig till effterrättelse, men kan eij veta, om någon effterrättelse deraf kan hafva. Jag har uti visitationen effterfrågat, om dhe något funnit hafva, så hafva dhe stundom inthet förståt, förrän jag har frågat particularius dereffter, om dhe inthet hafva sådant eller sådant etc. Approberade såsom i alt annat också häruti Hr. Landtmarskalkens förnufftige tahl och svar."
+  },
+  {
+   "bbox": [
+    434,
+    1674,
+    1445,
+    1723
+   ],
+   "category": "Text",
+   "text": "Tegner [borgarståndets talman] idem, Rusticus idem» (Protokollet sid. 188.)."
+  },
+  {
+   "bbox": [
+    434,
+    1734,
+    1447,
+    1782
+   ],
+   "category": "Text",
+   "text": "Samfällt avgav riksdagen den 22 september följande yttrande om"
+  },
+  {
+   "bbox": [
+    404,
+    1811,
+    479,
+    1861
+   ],
+   "category": "Page-footer",
+   "text": "356"
+  }
+ ]
+}

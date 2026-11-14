@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 341,
+ "seconds": 18.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [792, 245, 1152, 287], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [449, 316, 1493, 443], \"category\": \"Text\", \"text\": \"uthur bruk, försäkrar Herr Rudbeckius kunna försällias pundetals till bookbindare och kryddkrämare för skräns och pappersstrutar till Bibliothekets profit».\"}, {\"bbox\": [447, 441, 1494, 1152], \"category\": \"Text\", \"text\": \"Det av Verelius och Rudbeck framställda förslaget, som förordades av konsistoriet, avsåg således att till bokbindare och kryddkrämare avyttra en stor del av landets hela samling av inkunabler och latinska medeltidsmanuskript. Tyvärr godkände De la Gardie förslaget, ehuru med en reservation, som länder honom till heder: »Men för allting påminnes än ytterligare, att med särdeles flit och aktsamhet först väl alla böcker examineras af facultatum decanis, så ock flera professorer, på det icke något under sådan separation bortkommer, som antingen för dess antiquitet eller själfva materien vore rart och tjänligt att bibehållas. Ty ofta händer, att ibland det man skattar för skräp, såsom gamla munkeböcker, lell fins ett och annat, hvilket af den, som det vet att estimera, anses som helt rart och af värde, bestående stundom i ett blad eller några rader, där af exempel finns, att curiösa historier således äro vordne observerade och igenfundne». Ledsamt nog tillägger han dock: »Men hvad man finner kunna föryttras, det är fast rådligare ju förr ju hellre att föryttra, att det som härtill skulle stå ingen till nytta och dödt».\"}, {\"bbox\": [446, 1152, 1494, 1779], \"category\": \"Text\", \"text\": \"Verelius avled den 3 januari 1682 och hade således blott några månader kvar av sitt liv för att utföra detta våldsamma förstörelsearbete. Huru mycket av bibliotekets skatter under dessa månader försåldes, kan ej utrönas, men att det varit ett betydande antal volymer, antydes av det jämförelsevis lilla antalet av bevarade latinska pergamentscodices i universitetets samling, och framför allt av det yttrande, som i konsistoriet den 27 januari 1684 avgavs av Verelius' efterträdare som bibliotekarie Schütz. Enligt hans uppgift hade en stor myckenhet pergamentsböcker försålts, varandes allom nogsamt bekant, att utsäljandet varit vid dörrens öppnande offentligt, och han sade sig med bokbindaren Bengts intyg kunna styrka, att biblioteket för en dylik försäljning hade att fordra 300 daler kopparmynt. Tyvärr tyckes Verelius också hava tagit den av De la Gardie givna antydningen på så sätt ad notam, att han icke så sällan skurit ut ett blad, som han ansåg värdefullt, ur en bok, som han för övrigt menade\"}, {\"bbox\": [451, 1815, 526, 1853], \"category\": \"Page-footer\", \"text\": \"310\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    792,
+    245,
+    1152,
+    287
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    449,
+    316,
+    1493,
+    443
+   ],
+   "category": "Text",
+   "text": "uthur bruk, försäkrar Herr Rudbeckius kunna försällias pundetals till bookbindare och kryddkrämare för skräns och pappersstrutar till Bibliothekets profit»."
+  },
+  {
+   "bbox": [
+    447,
+    441,
+    1494,
+    1152
+   ],
+   "category": "Text",
+   "text": "Det av Verelius och Rudbeck framställda förslaget, som förordades av konsistoriet, avsåg således att till bokbindare och kryddkrämare avyttra en stor del av landets hela samling av inkunabler och latinska medeltidsmanuskript. Tyvärr godkände De la Gardie förslaget, ehuru med en reservation, som länder honom till heder: »Men för allting påminnes än ytterligare, att med särdeles flit och aktsamhet först väl alla böcker examineras af facultatum decanis, så ock flera professorer, på det icke något under sådan separation bortkommer, som antingen för dess antiquitet eller själfva materien vore rart och tjänligt att bibehållas. Ty ofta händer, att ibland det man skattar för skräp, såsom gamla munkeböcker, lell fins ett och annat, hvilket af den, som det vet att estimera, anses som helt rart och af värde, bestående stundom i ett blad eller några rader, där af exempel finns, att curiösa historier således äro vordne observerade och igenfundne». Ledsamt nog tillägger han dock: »Men hvad man finner kunna föryttras, det är fast rådligare ju förr ju hellre att föryttra, att det som härtill skulle stå ingen till nytta och dödt»."
+  },
+  {
+   "bbox": [
+    446,
+    1152,
+    1494,
+    1779
+   ],
+   "category": "Text",
+   "text": "Verelius avled den 3 januari 1682 och hade således blott några månader kvar av sitt liv för att utföra detta våldsamma förstörelsearbete. Huru mycket av bibliotekets skatter under dessa månader försåldes, kan ej utrönas, men att det varit ett betydande antal volymer, antydes av det jämförelsevis lilla antalet av bevarade latinska pergamentscodices i universitetets samling, och framför allt av det yttrande, som i konsistoriet den 27 januari 1684 avgavs av Verelius' efterträdare som bibliotekarie Schütz. Enligt hans uppgift hade en stor myckenhet pergamentsböcker försålts, varandes allom nogsamt bekant, att utsäljandet varit vid dörrens öppnande offentligt, och han sade sig med bokbindaren Bengts intyg kunna styrka, att biblioteket för en dylik försäljning hade att fordra 300 daler kopparmynt. Tyvärr tyckes Verelius också hava tagit den av De la Gardie givna antydningen på så sätt ad notam, att han icke så sällan skurit ut ett blad, som han ansåg värdefullt, ur en bok, som han för övrigt menade"
+  },
+  {
+   "bbox": [
+    451,
+    1815,
+    526,
+    1853
+   ],
+   "category": "Page-footer",
+   "text": "310"
+  }
+ ]
+}

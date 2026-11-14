@@ -1,0 +1,41 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 46,
+ "seconds": 8.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [165, 317, 1161, 1545], \"category\": \"Picture\"}, {\"bbox\": [483, 1603, 827, 1637], \"category\": \"Caption\", \"text\": \"OLAUS VERELIUS\"}, {\"bbox\": [415, 1652, 894, 1685], \"category\": \"Text\", \"text\": \"Efter porträtt i Uppsala Universitetsbibliotek\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    165,
+    317,
+    1161,
+    1545
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    483,
+    1603,
+    827,
+    1637
+   ],
+   "category": "Caption",
+   "text": "OLAUS VERELIUS"
+  },
+  {
+   "bbox": [
+    415,
+    1652,
+    894,
+    1685
+   ],
+   "category": "Text",
+   "text": "Efter porträtt i Uppsala Universitetsbibliotek"
+  }
+ ]
+}

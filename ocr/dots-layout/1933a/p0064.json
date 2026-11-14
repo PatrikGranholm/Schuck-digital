@@ -1,0 +1,41 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 64,
+ "seconds": 8.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [211, 311, 1211, 1581], \"category\": \"Picture\"}, {\"bbox\": [534, 1642, 902, 1681], \"category\": \"Caption\", \"text\": \"JOH. SCHEFFERUS\"}, {\"bbox\": [475, 1690, 957, 1725], \"category\": \"Text\", \"text\": \"Efter porträtt i Uppsala Universitetsbibliotek\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    211,
+    311,
+    1211,
+    1581
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    534,
+    1642,
+    902,
+    1681
+   ],
+   "category": "Caption",
+   "text": "JOH. SCHEFFERUS"
+  },
+  {
+   "bbox": [
+    475,
+    1690,
+    957,
+    1725
+   ],
+   "category": "Text",
+   "text": "Efter porträtt i Uppsala Universitetsbibliotek"
+  }
+ ]
+}

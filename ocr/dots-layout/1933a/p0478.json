@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 478,
+ "seconds": 25.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [157, 235, 1197, 278], \"category\": \"Page-header\", \"text\": \"Rannsakningarna, de antikvariska resorna och fornvården\"}, {\"bbox\": [653, 315, 698, 347], \"category\": \"Section-header\", \"text\": \"14.\"}, {\"bbox\": [155, 359, 1197, 737], \"category\": \"Text\", \"text\": \"Detta är således kortel. uppsatt till en anledning, hwar wijd och så fogas hoosgående trenne memorialer lit. A. B. C., som någre particulare underrättelser innehålla. Så will Kongl. May:t lijkwijst lemna Sparfwenfeldt den frijheeten att sålunda anställa resan som han finner bäst, hwaröfwer han och måste Correspondera med Kongl. May:tt Råd H. Gr. Bengt Oxenstierna, gifwandes tillkiänna, hwad han på en och annan ohrt finner eller hoppas att kunna finna, på det sådant må Kongl. May:tt föredragas och medlen till resekåstnaden däreffter proportioneras.\"}, {\"bbox\": [653, 761, 698, 795], \"category\": \"Section-header\", \"text\": \"15.\"}, {\"bbox\": [157, 806, 1197, 1017], \"category\": \"Text\", \"text\": \"Lijka så måste tijdigt tillkiännagifwas, hwad till allehanda antiquetz böckers, manuscripters, medalliers och andra rariteters, curiösa book- och skrifftregisters inkiöp och afskriffter och afftryck till denne materien tiänlige betarfwas, så att, om någre extraord:a medell dertill fordras, K. M:t där om må undfå tijdig underrättelse.\"}, {\"bbox\": [653, 1071, 698, 1104], \"category\": \"Section-header\", \"text\": \"16.\"}, {\"bbox\": [155, 1123, 1197, 1456], \"category\": \"Text\", \"text\": \"Kongl. M:tt twiflar intet med mindre Sparfwenfelt lärer bruka här wid all behörig sparsamheet och i synnerheet eij för länge uthdrager tijden på en eller annan ohrt, men fast heller skaffa sig bekantskap med lärde männ, som kunde jemwähl, sedan han wore ifrån ohrten afrester, låta copiera dhe skrifter och Acter, som betarfwas, och som framgeent kunde correspondera med honom om det, som ytterligare kunde anskaffas, effter som Kongl. May:tt will och så bestå, hwad som därtill skiähligen kan fordras.\"}, {\"bbox\": [653, 1511, 702, 1545], \"category\": \"Section-header\", \"text\": \"17.\"}, {\"bbox\": [157, 1557, 1197, 1768], \"category\": \"Text\", \"text\": \"Kongl. May:t will fuller eij annat förmoda, än att förmedelst denne reesan så angelägne saker måge kunna anskaffas, som denne omkåstnaden löna kunde, men skulle och håppet på en eller annan ort slå felt, så will Kongl. May:t lijkwist att noga annoteras måste, hwad undersökningar som skiedde äre, på det mann må en annan\"}, {\"bbox\": [1119, 1806, 1194, 1843], \"category\": \"Page-footer\", \"text\": \"447\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    157,
+    235,
+    1197,
+    278
+   ],
+   "category": "Page-header",
+   "text": "Rannsakningarna, de antikvariska resorna och fornvården"
+  },
+  {
+   "bbox": [
+    653,
+    315,
+    698,
+    347
+   ],
+   "category": "Section-header",
+   "text": "14."
+  },
+  {
+   "bbox": [
+    155,
+    359,
+    1197,
+    737
+   ],
+   "category": "Text",
+   "text": "Detta är således kortel. uppsatt till en anledning, hwar wijd och så fogas hoosgående trenne memorialer lit. A. B. C., som någre particulare underrättelser innehålla. Så will Kongl. May:t lijkwijst lemna Sparfwenfeldt den frijheeten att sålunda anställa resan som han finner bäst, hwaröfwer han och måste Correspondera med Kongl. May:tt Råd H. Gr. Bengt Oxenstierna, gifwandes tillkiänna, hwad han på en och annan ohrt finner eller hoppas att kunna finna, på det sådant må Kongl. May:tt föredragas och medlen till resekåstnaden däreffter proportioneras."
+  },
+  {
+   "bbox": [
+    653,
+    761,
+    698,
+    795
+   ],
+   "category": "Section-header",
+   "text": "15."
+  },
+  {
+   "bbox": [
+    157,
+    806,
+    1197,
+    1017
+   ],
+   "category": "Text",
+   "text": "Lijka så måste tijdigt tillkiännagifwas, hwad till allehanda antiquetz böckers, manuscripters, medalliers och andra rariteters, curiösa book- och skrifftregisters inkiöp och afskriffter och afftryck till denne materien tiänlige betarfwas, så att, om någre extraord:a medell dertill fordras, K. M:t där om må undfå tijdig underrättelse."
+  },
+  {
+   "bbox": [
+    653,
+    1071,
+    698,
+    1104
+   ],
+   "category": "Section-header",
+   "text": "16."
+  },
+  {
+   "bbox": [
+    155,
+    1123,
+    1197,
+    1456
+   ],
+   "category": "Text",
+   "text": "Kongl. M:tt twiflar intet med mindre Sparfwenfelt lärer bruka här wid all behörig sparsamheet och i synnerheet eij för länge uthdrager tijden på en eller annan ohrt, men fast heller skaffa sig bekantskap med lärde männ, som kunde jemwähl, sedan han wore ifrån ohrten afrester, låta copiera dhe skrifter och Acter, som betarfwas, och som framgeent kunde correspondera med honom om det, som ytterligare kunde anskaffas, effter som Kongl. May:tt will och så bestå, hwad som därtill skiähligen kan fordras."
+  },
+  {
+   "bbox": [
+    653,
+    1511,
+    702,
+    1545
+   ],
+   "category": "Section-header",
+   "text": "17."
+  },
+  {
+   "bbox": [
+    157,
+    1557,
+    1197,
+    1768
+   ],
+   "category": "Text",
+   "text": "Kongl. May:t will fuller eij annat förmoda, än att förmedelst denne reesan så angelägne saker måge kunna anskaffas, som denne omkåstnaden löna kunde, men skulle och håppet på en eller annan ort slå felt, så will Kongl. May:t lijkwist att noga annoteras måste, hwad undersökningar som skiedde äre, på det mann må en annan"
+  },
+  {
+   "bbox": [
+    1119,
+    1806,
+    1194,
+    1843
+   ],
+   "category": "Page-footer",
+   "text": "447"
+  }
+ ]
+}

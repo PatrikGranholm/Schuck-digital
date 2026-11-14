@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 201,
+ "seconds": 25.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [765, 251, 1124, 292], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [282, 335, 419, 426], \"category\": \"Text\", \"text\": \"Verelius' an-\\ngrepp på\\nHadorph\"}, {\"bbox\": [425, 318, 1477, 1787], \"category\": \"Text\", \"text\": \"Som man märker röjer staten en påfallande osäkerhet, huruvida medlen för framtiden skulle utfalla — regeringen hade ju endast några månader förut gjort detta beroende av en utredning. I stället för 6000 daler tog De la Gardie upp blott 5000, anslog t. o. m. endast 4000 till de ordinarie utgifterna och vågade tydligen icke ens hoppas, att detta belopp skulle inflyta, ty han kallade staten »provisional» och skrev: »Desse ordinarij betalas först *proportionaliter*, så länge medlen hinna». Enligt staten skulle varje assessor erhålla 300 daler av tryckeritunnan, men Hadorph fick blott några ören över 160 daler, vilket belopp tyckes hava blivit den proportionella utdelningen för året (Kammararkivet. Likvidationer. Arkiv- och Antikvitetskollegium). Egendomligt nog vände sig förbittringen i Uppsala över de uteblivna assessorslönerna mot Hadorph, som så energiskt kämpat för kollegiets intressen, och i spetsen tyckes hans gamle fiende Verelius hava gått. 1680 erhöllo de tre i Uppsala kvarvarande assessorerna en uppmaning från kammarkollegiet att uppgiva, vad de som assessorer uppburit i lön. Härpå svarade Axehiälm, Verelius och Arrhenius i ett gemensamt brev, i vilket man mellan raderna och utan att namnet nämnes kan läsa ut en tydlig animositet mot Hadorph (Kammararkivet. Sandbergs samling sign. L 3551): »Det Kongl. Collegii bref är oss tillhanda kommet af innehåldh, att wij måtte tillhålla wederböranderne att inleffwerera i Kongl. Kammaren een verificerad rächningh för dhe Cronones medel, som till Antiquiteterne åhrl. warit anslagne ifrån och medh åhr 1674 och till 1679 inclusive, att man der öffwer må haffwa een richtighet och weta, hwar till dhe äro employerade blefne. Detta skulle wij gierna hörsambligast effterkomma, om hoos oss uthj wårt Collegio på berörde åhr några medel warit inkompne eller uthdelade. Men såsom effter åhr 1674 inge medel ähro hoos oss uptagne eller uthskifftade, mer ähn thet wij tå aff tryckerijtunnan för samma åhr undfinge, och alt sedan är någodt Kongl. Cammar Collegii anslag på medel för oss aldrig upwijst eller sedt wordet, och wij på the följande åhren till 1679 inclusive aldrig någon halföre åtnutet, så wete wij och ingen räkenskap der öffwer att giöra, icke heller egentel., hwem sådane anslagne medel emottagit och upburit och huru eller till hwadh usus dhe äro anwände,\"}, {\"bbox\": [440, 1817, 511, 1853], \"category\": \"Page-footer\", \"text\": \"182\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    765,
+    251,
+    1124,
+    292
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    282,
+    335,
+    419,
+    426
+   ],
+   "category": "Text",
+   "text": "Verelius' an-\ngrepp på\nHadorph"
+  },
+  {
+   "bbox": [
+    425,
+    318,
+    1477,
+    1787
+   ],
+   "category": "Text",
+   "text": "Som man märker röjer staten en påfallande osäkerhet, huruvida medlen för framtiden skulle utfalla — regeringen hade ju endast några månader förut gjort detta beroende av en utredning. I stället för 6000 daler tog De la Gardie upp blott 5000, anslog t. o. m. endast 4000 till de ordinarie utgifterna och vågade tydligen icke ens hoppas, att detta belopp skulle inflyta, ty han kallade staten »provisional» och skrev: »Desse ordinarij betalas först *proportionaliter*, så länge medlen hinna». Enligt staten skulle varje assessor erhålla 300 daler av tryckeritunnan, men Hadorph fick blott några ören över 160 daler, vilket belopp tyckes hava blivit den proportionella utdelningen för året (Kammararkivet. Likvidationer. Arkiv- och Antikvitetskollegium). Egendomligt nog vände sig förbittringen i Uppsala över de uteblivna assessorslönerna mot Hadorph, som så energiskt kämpat för kollegiets intressen, och i spetsen tyckes hans gamle fiende Verelius hava gått. 1680 erhöllo de tre i Uppsala kvarvarande assessorerna en uppmaning från kammarkollegiet att uppgiva, vad de som assessorer uppburit i lön. Härpå svarade Axehiälm, Verelius och Arrhenius i ett gemensamt brev, i vilket man mellan raderna och utan att namnet nämnes kan läsa ut en tydlig animositet mot Hadorph (Kammararkivet. Sandbergs samling sign. L 3551): »Det Kongl. Collegii bref är oss tillhanda kommet af innehåldh, att wij måtte tillhålla wederböranderne att inleffwerera i Kongl. Kammaren een verificerad rächningh för dhe Cronones medel, som till Antiquiteterne åhrl. warit anslagne ifrån och medh åhr 1674 och till 1679 inclusive, att man der öffwer må haffwa een richtighet och weta, hwar till dhe äro employerade blefne. Detta skulle wij gierna hörsambligast effterkomma, om hoos oss uthj wårt Collegio på berörde åhr några medel warit inkompne eller uthdelade. Men såsom effter åhr 1674 inge medel ähro hoos oss uptagne eller uthskifftade, mer ähn thet wij tå aff tryckerijtunnan för samma åhr undfinge, och alt sedan är någodt Kongl. Cammar Collegii anslag på medel för oss aldrig upwijst eller sedt wordet, och wij på the följande åhren till 1679 inclusive aldrig någon halföre åtnutet, så wete wij och ingen räkenskap der öffwer att giöra, icke heller egentel., hwem sådane anslagne medel emottagit och upburit och huru eller till hwadh usus dhe äro anwände,"
+  },
+  {
+   "bbox": [
+    440,
+    1817,
+    511,
+    1853
+   ],
+   "category": "Page-footer",
+   "text": "182"
+  }
+ ]
+}

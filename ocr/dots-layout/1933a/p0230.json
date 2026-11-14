@@ -1,0 +1,42 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 230,
+ "seconds": 22.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [192, 359, 1027, 1631], \"category\": \"Text\", \"text\": \"Wårk vthi Konung Gustaff Adolphs och Drotning\\nChristinæ tijder/ Rijket til stoor Heder och nytto: Alt-\\nså/emedanWij icke willie sådant mindre i Wår tijd be-\\nfordra;ty hafweWij antagit och förordnat wisse lårde\\noch capables Mån /som sig företagit hafwa allehan-\\nda nyttige Saker och Handlingar at utharbeta och\\npublicera, igenom hwilka och så reda åthskillige be-\\nrömlige wårk åro vplagde/och ån många vnder hån-\\nderne/ som intet kunna komma i Liuset vthan medel/\\nFördenskul hafweWij godt fuñit/ at låta bem:“ Tun-\\nna dår til alt framgent vpbåras och anivåndas/ehu-\\nruwål hon stundom har warit af en deel Pråsterska-\\npet och Scholebetiånterne anfåchtat/för den afgång\\noch affaknad dhe igenom samma Tunna klaga sigh\\nhafwa/ på dhe Kyrkioherbergen som dhe vthi aflö-\\nningar niuta/ förmenandes bem:“ Tunna wara för-\\ntwandlat vthi den Fyratijonde delen som öfwer alt\\nRijket / dels til Krigzmanshuset neder i Wadstena/\\ndels til Barnhuset hår vppe i Stockholm vthgår;\\nPå hwilken deras beråttelse/ Wij hafwa och så åhr\\n1675. så wål som i Fiol hemmat samma Tunnas aff-\\ngisft/til des en wijdare vndersökning hår om stee skul-\\nle. Och emedan Wij widh den dår om anstålte noga\\nransakning befunnit hafwe / at och Pråsterskapet\\nden samma bestridt hafwa vthi Konung Gustaff A-\\ndolphs tijd och Drotning Christinæ minorennitet,\\nmen då i förstonne fått afflag såsom vthi en obillig\\nsaak/ den dhe fast heller borde fråmja och föröka/ ån\"}, {\"bbox\": [688, 1624, 765, 1670], \"category\": \"Page-footer\", \"text\": \"A 2\"}, {\"bbox\": [968, 1624, 1022, 1675], \"category\": \"Page-footer\", \"text\": \"för\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    192,
+    359,
+    1027,
+    1631
+   ],
+   "category": "Text",
+   "text": "Wårk vthi Konung Gustaff Adolphs och Drotning\nChristinæ tijder/ Rijket til stoor Heder och nytto: Alt-\nså/emedanWij icke willie sådant mindre i Wår tijd be-\nfordra;ty hafweWij antagit och förordnat wisse lårde\noch capables Mån /som sig företagit hafwa allehan-\nda nyttige Saker och Handlingar at utharbeta och\npublicera, igenom hwilka och så reda åthskillige be-\nrömlige wårk åro vplagde/och ån många vnder hån-\nderne/ som intet kunna komma i Liuset vthan medel/\nFördenskul hafweWij godt fuñit/ at låta bem:“ Tun-\nna dår til alt framgent vpbåras och anivåndas/ehu-\nruwål hon stundom har warit af en deel Pråsterska-\npet och Scholebetiånterne anfåchtat/för den afgång\noch affaknad dhe igenom samma Tunna klaga sigh\nhafwa/ på dhe Kyrkioherbergen som dhe vthi aflö-\nningar niuta/ förmenandes bem:“ Tunna wara för-\ntwandlat vthi den Fyratijonde delen som öfwer alt\nRijket / dels til Krigzmanshuset neder i Wadstena/\ndels til Barnhuset hår vppe i Stockholm vthgår;\nPå hwilken deras beråttelse/ Wij hafwa och så åhr\n1675. så wål som i Fiol hemmat samma Tunnas aff-\ngisft/til des en wijdare vndersökning hår om stee skul-\nle. Och emedan Wij widh den dår om anstålte noga\nransakning befunnit hafwe / at och Pråsterskapet\nden samma bestridt hafwa vthi Konung Gustaff A-\ndolphs tijd och Drotning Christinæ minorennitet,\nmen då i förstonne fått afflag såsom vthi en obillig\nsaak/ den dhe fast heller borde fråmja och föröka/ ån"
+  },
+  {
+   "bbox": [
+    688,
+    1624,
+    765,
+    1670
+   ],
+   "category": "Page-footer",
+   "text": "A 2"
+  },
+  {
+   "bbox": [
+    968,
+    1624,
+    1022,
+    1675
+   ],
+   "category": "Page-footer",
+   "text": "för"
+  }
+ ]
+}

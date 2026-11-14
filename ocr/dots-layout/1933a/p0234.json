@@ -1,0 +1,51 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 234,
+ "seconds": 20.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [95, 356, 589, 749], \"category\": \"Picture\"}, {\"bbox\": [602, 372, 1031, 483], \"category\": \"Text\", \"text\": \"Ji CARL /\"}, {\"bbox\": [597, 483, 1031, 768], \"category\": \"Text\", \"text\": \"medh G Vdz Nåde/\\nSveriges / Giöthes och\\nWändes Konung / Stor-\\nfurste til Finland / Hertig\\nvthi Skåne / Estland / Lif-\\nland / Carelen / Brehmen /\"}, {\"bbox\": [189, 760, 1024, 1665], \"category\": \"Text\", \"text\": \"Vehrden / Stettin-Pommern / Cassuben och Wån-\\nden / Furste til Rügen / Herre öfwer Ingermanland\\noch Wismar; Så och PfaltzGrefwe wid Rhein i\\nBeyern / til Gülich / Clewe och Bergen Hertig.\\nGiörom witterligit / at emedan Wij för någon tijdh\\nsedan / vppå Erchiebiskopens och Consistorii vthi\\nLinkiöping vnderdånige giorde ansökning / haftwe\\ngodt funnit / at låta hwijla den Förordning / Wij den\\n20. Januarii sidstledne månde författa / om den gamble\\nTryckeristunnans vthgående af alle Kyrkioherber-\\ngen i Rytket / til Collegii Antiquitatum vnderhåld och\\nnyttige Böckers publicerande, som hår vthi Wårt\\nKiåre Fådernesland skrifwas och vthgå / til dessnå-\\ngot nårmare vti Wårt Cama/ Collegio kunde blifwa\\nvndesökt / hwad skjål dē ene och andre / moot eller med\\nkunde haftva an wijdare at framtwiisa och andraga :\\noch sådant numera noga och wål skiedt år / och effter\\nSaksens wål uthletade Sanning och sammanhang/\\nBefunnit / at denne Tryckeristunna år vtaf Sahl. Ko-\\nnung\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    95,
+    356,
+    589,
+    749
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    602,
+    372,
+    1031,
+    483
+   ],
+   "category": "Text",
+   "text": "Ji CARL /"
+  },
+  {
+   "bbox": [
+    597,
+    483,
+    1031,
+    768
+   ],
+   "category": "Text",
+   "text": "medh G Vdz Nåde/\nSveriges / Giöthes och\nWändes Konung / Stor-\nfurste til Finland / Hertig\nvthi Skåne / Estland / Lif-\nland / Carelen / Brehmen /"
+  },
+  {
+   "bbox": [
+    189,
+    760,
+    1024,
+    1665
+   ],
+   "category": "Text",
+   "text": "Vehrden / Stettin-Pommern / Cassuben och Wån-\nden / Furste til Rügen / Herre öfwer Ingermanland\noch Wismar; Så och PfaltzGrefwe wid Rhein i\nBeyern / til Gülich / Clewe och Bergen Hertig.\nGiörom witterligit / at emedan Wij för någon tijdh\nsedan / vppå Erchiebiskopens och Consistorii vthi\nLinkiöping vnderdånige giorde ansökning / haftwe\ngodt funnit / at låta hwijla den Förordning / Wij den\n20. Januarii sidstledne månde författa / om den gamble\nTryckeristunnans vthgående af alle Kyrkioherber-\ngen i Rytket / til Collegii Antiquitatum vnderhåld och\nnyttige Böckers publicerande, som hår vthi Wårt\nKiåre Fådernesland skrifwas och vthgå / til dessnå-\ngot nårmare vti Wårt Cama/ Collegio kunde blifwa\nvndesökt / hwad skjål dē ene och andre / moot eller med\nkunde haftva an wijdare at framtwiisa och andraga :\noch sådant numera noga och wål skiedt år / och effter\nSaksens wål uthletade Sanning och sammanhang/\nBefunnit / at denne Tryckeristunna år vtaf Sahl. Ko-\nnung"
+  }
+ ]
+}

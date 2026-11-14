@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 385,
+ "seconds": 26.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [765, 238, 1128, 281], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [422, 309, 1464, 394], \"category\": \"Text\", \"text\": \"taga handlingarna och vidare bearbeta dem. Men tydligt var, att De la Gardie här tänkt på det nyinrättade antikvitetskollegiet.\"}, {\"bbox\": [422, 392, 1468, 1186], \"category\": \"Text\", \"text\": \"I januari 1668, då Stiernhielm kom upp till Uppsala, hade detta sin första preliminära sammankomst. Om denna skrev Hadorph den 11 april, att det då beslutats, »att Biskoparne i Rijket skulle tillskrifwas och af dhem begieras, dhe wille inhempta presterskapetz collectanea Monumentorum och upskicka till be:te Collegium» (se förut sid. 25). Hadorph skrev ock ut alla breven till de olika stiften, men visste icke, om de avskickats av Stiernhielm. Det tyckes han likväl hava gjort, ty i brev till Loccenius den 14 juli (se förut sid. 24) säger han sig till denne hava avsänt »de breef, som ifrån Biskoparne inkomne äro». Då kollegiet den 28 maj 1668 höll sitt egentligen första sammanträde, hade de emellertid ännu icke inkommit från Stiernhielm, och frågan togs därför upp i kollegiet. Bland de önskemål, som kollegiet framlade för kansleren, sattes detta främst: »(1:0) finna wij ganska nödigt wara till att fåå een ymnig materiam och komma uthj god kundskap om dee Antiquiteter, som allestädes i Rijket finnas, att wij erhålla kunde Prästerskapetz Collectanea och Memorialer, som dee effter Kongl. May:tz breef till Biskoparne i Rijket författat hafwa» (se förut sid. 36). Det är också tydligt, att dessa collectanea nu ställdes till kollegiets förfogande.\"}, {\"bbox\": [299, 1200, 406, 1257], \"category\": \"Text\", \"text\": \"Riksdagen\\n1668\"}, {\"bbox\": [425, 1185, 1471, 1771], \"category\": \"Text\", \"text\": \"I brevet till kansleren tillades därjämte en förhoppning, att denne ville »nu widh Rikzdagen påminna Prästerskapet om samma saak, att dee med det förste fullkomblige Memorialer inkomma låta till Kongl. Archivum eller Collegium Antiquitatum om alle de Monumenter i deras kyrckior och sochnar finnes». Även denna — tydligen från Hadorph stammande — tanke tog De la Gardie upp, och i den kungliga proposition, som den 17 juni 1668 framlades för ständerna, inrycktes en så lydande punkt: »Then hedher, som fäderneslandet förmedelst thess många och merckeliga antiquiteters opsökiande medh skähl kan förvänta, hafver H. K. M:t genom sitt uthgångne placat och flere andre medel sökt effter möijeligheeten att befrämia, jemwäl ock ther hoos förbudit thet oskickelige missbruket af gambla konungz- och andre förnehme griffters förvexlande eller ödheläggiande, som alt skickeligit folck, ja sielfve hedning-\"}, {\"bbox\": [432, 1810, 506, 1847], \"category\": \"Page-footer\", \"text\": \"354\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    765,
+    238,
+    1128,
+    281
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    422,
+    309,
+    1464,
+    394
+   ],
+   "category": "Text",
+   "text": "taga handlingarna och vidare bearbeta dem. Men tydligt var, att De la Gardie här tänkt på det nyinrättade antikvitetskollegiet."
+  },
+  {
+   "bbox": [
+    422,
+    392,
+    1468,
+    1186
+   ],
+   "category": "Text",
+   "text": "I januari 1668, då Stiernhielm kom upp till Uppsala, hade detta sin första preliminära sammankomst. Om denna skrev Hadorph den 11 april, att det då beslutats, »att Biskoparne i Rijket skulle tillskrifwas och af dhem begieras, dhe wille inhempta presterskapetz collectanea Monumentorum och upskicka till be:te Collegium» (se förut sid. 25). Hadorph skrev ock ut alla breven till de olika stiften, men visste icke, om de avskickats av Stiernhielm. Det tyckes han likväl hava gjort, ty i brev till Loccenius den 14 juli (se förut sid. 24) säger han sig till denne hava avsänt »de breef, som ifrån Biskoparne inkomne äro». Då kollegiet den 28 maj 1668 höll sitt egentligen första sammanträde, hade de emellertid ännu icke inkommit från Stiernhielm, och frågan togs därför upp i kollegiet. Bland de önskemål, som kollegiet framlade för kansleren, sattes detta främst: »(1:0) finna wij ganska nödigt wara till att fåå een ymnig materiam och komma uthj god kundskap om dee Antiquiteter, som allestädes i Rijket finnas, att wij erhålla kunde Prästerskapetz Collectanea och Memorialer, som dee effter Kongl. May:tz breef till Biskoparne i Rijket författat hafwa» (se förut sid. 36). Det är också tydligt, att dessa collectanea nu ställdes till kollegiets förfogande."
+  },
+  {
+   "bbox": [
+    299,
+    1200,
+    406,
+    1257
+   ],
+   "category": "Text",
+   "text": "Riksdagen\n1668"
+  },
+  {
+   "bbox": [
+    425,
+    1185,
+    1471,
+    1771
+   ],
+   "category": "Text",
+   "text": "I brevet till kansleren tillades därjämte en förhoppning, att denne ville »nu widh Rikzdagen påminna Prästerskapet om samma saak, att dee med det förste fullkomblige Memorialer inkomma låta till Kongl. Archivum eller Collegium Antiquitatum om alle de Monumenter i deras kyrckior och sochnar finnes». Även denna — tydligen från Hadorph stammande — tanke tog De la Gardie upp, och i den kungliga proposition, som den 17 juni 1668 framlades för ständerna, inrycktes en så lydande punkt: »Then hedher, som fäderneslandet förmedelst thess många och merckeliga antiquiteters opsökiande medh skähl kan förvänta, hafver H. K. M:t genom sitt uthgångne placat och flere andre medel sökt effter möijeligheeten att befrämia, jemwäl ock ther hoos förbudit thet oskickelige missbruket af gambla konungz- och andre förnehme griffters förvexlande eller ödheläggiande, som alt skickeligit folck, ja sielfve hedning-"
+  },
+  {
+   "bbox": [
+    432,
+    1810,
+    506,
+    1847
+   ],
+   "category": "Page-footer",
+   "text": "354"
+  }
+ ]
+}

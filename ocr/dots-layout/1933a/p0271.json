@@ -1,0 +1,132 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 271,
+ "seconds": 26.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [784, 244, 1145, 287], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [941, 324, 985, 356], \"category\": \"Text\", \"text\": \"14.\"}, {\"bbox\": [440, 362, 1487, 688], \"category\": \"Text\", \"text\": \"Collegij Antiquitatum betiänte måste icke mindre än de andre Kongl. Collegiernes med behörig flijt upwachta och förrätta deras Sysslor och fördensskull infinna sig till deras arbeten å behörige orter ifrån klockan 8 till 12 för Middagen och ifrån 3 till 7 effter middagen sampt wijd hwar månadz förlopp upwijsa, hwad de arbetat hafwa, och plichta för owulighet och försummelighet med afkortning i löhnen effter de reglor, som i de andra Collegierne observeras.\"}, {\"bbox\": [938, 712, 983, 745], \"category\": \"Text\", \"text\": \"15.\"}, {\"bbox\": [437, 750, 1482, 1002], \"category\": \"Text\", \"text\": \"De böra ock intet innehålla hoos sig sitt giorde arbete i concepter, rijtningar och annat, som de affattat hafwa, under hwad hälst föregifwande det ock må wara, men troligen inlefwerera det till Collegium, och måste wederbörande gifwa acht där på sampt alla de, som å Kongl. Maij:ts wägnar något hafwa at befalla, giöra dem där utinnan en behörig handrächning.\"}, {\"bbox\": [936, 1033, 981, 1065], \"category\": \"Text\", \"text\": \"16.\"}, {\"bbox\": [437, 1077, 1479, 1371], \"category\": \"Text\", \"text\": \"Emedan offtabem.te Antiquitets Collegium behöfwer huusrum för deras papper, exemplar af trychte böcker och annat slijkt, hwar till föreslås någon platz på gamble Skeppsholmen, ty är Kongl. Maij:ts nådige willia, at med Kongl. Rådet och General Amiralen må öfwerläggas, om någon platz där till finnes ledig och tiänlig, effter Kongl. Maij:t will, i fall en sådan funnes, Collegio den samma effterlåta till at der på låta upsättia en eller twänne bodar.\"}, {\"bbox\": [932, 1407, 977, 1441], \"category\": \"Text\", \"text\": \"17.\"}, {\"bbox\": [435, 1446, 1476, 1617], \"category\": \"Text\", \"text\": \"Emedan detta Collegij ledamöter och betiänte ringa löhn niuta, ty will Kongl. Maij:t nådigst här med förordnat och förklarat hafwa, at de måge den upbära oafkårtad utan 1 pro Centos afgifft, aldeles såsom wijd Academiske Staten practiceras.\"}, {\"bbox\": [932, 1645, 977, 1678], \"category\": \"Text\", \"text\": \"18.\"}, {\"bbox\": [435, 1690, 1475, 1777], \"category\": \"Text\", \"text\": \"Hwad bem:te Collegium wijdare begärer, nemligen at få fullföllia med nyttige Manuscripters afcopierande å en och annan ort,\"}, {\"bbox\": [437, 1812, 511, 1848], \"category\": \"Page-footer\", \"text\": \"240\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    784,
+    244,
+    1145,
+    287
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    941,
+    324,
+    985,
+    356
+   ],
+   "category": "Text",
+   "text": "14."
+  },
+  {
+   "bbox": [
+    440,
+    362,
+    1487,
+    688
+   ],
+   "category": "Text",
+   "text": "Collegij Antiquitatum betiänte måste icke mindre än de andre Kongl. Collegiernes med behörig flijt upwachta och förrätta deras Sysslor och fördensskull infinna sig till deras arbeten å behörige orter ifrån klockan 8 till 12 för Middagen och ifrån 3 till 7 effter middagen sampt wijd hwar månadz förlopp upwijsa, hwad de arbetat hafwa, och plichta för owulighet och försummelighet med afkortning i löhnen effter de reglor, som i de andra Collegierne observeras."
+  },
+  {
+   "bbox": [
+    938,
+    712,
+    983,
+    745
+   ],
+   "category": "Text",
+   "text": "15."
+  },
+  {
+   "bbox": [
+    437,
+    750,
+    1482,
+    1002
+   ],
+   "category": "Text",
+   "text": "De böra ock intet innehålla hoos sig sitt giorde arbete i concepter, rijtningar och annat, som de affattat hafwa, under hwad hälst föregifwande det ock må wara, men troligen inlefwerera det till Collegium, och måste wederbörande gifwa acht där på sampt alla de, som å Kongl. Maij:ts wägnar något hafwa at befalla, giöra dem där utinnan en behörig handrächning."
+  },
+  {
+   "bbox": [
+    936,
+    1033,
+    981,
+    1065
+   ],
+   "category": "Text",
+   "text": "16."
+  },
+  {
+   "bbox": [
+    437,
+    1077,
+    1479,
+    1371
+   ],
+   "category": "Text",
+   "text": "Emedan offtabem.te Antiquitets Collegium behöfwer huusrum för deras papper, exemplar af trychte böcker och annat slijkt, hwar till föreslås någon platz på gamble Skeppsholmen, ty är Kongl. Maij:ts nådige willia, at med Kongl. Rådet och General Amiralen må öfwerläggas, om någon platz där till finnes ledig och tiänlig, effter Kongl. Maij:t will, i fall en sådan funnes, Collegio den samma effterlåta till at der på låta upsättia en eller twänne bodar."
+  },
+  {
+   "bbox": [
+    932,
+    1407,
+    977,
+    1441
+   ],
+   "category": "Text",
+   "text": "17."
+  },
+  {
+   "bbox": [
+    435,
+    1446,
+    1476,
+    1617
+   ],
+   "category": "Text",
+   "text": "Emedan detta Collegij ledamöter och betiänte ringa löhn niuta, ty will Kongl. Maij:t nådigst här med förordnat och förklarat hafwa, at de måge den upbära oafkårtad utan 1 pro Centos afgifft, aldeles såsom wijd Academiske Staten practiceras."
+  },
+  {
+   "bbox": [
+    932,
+    1645,
+    977,
+    1678
+   ],
+   "category": "Text",
+   "text": "18."
+  },
+  {
+   "bbox": [
+    435,
+    1690,
+    1475,
+    1777
+   ],
+   "category": "Text",
+   "text": "Hwad bem:te Collegium wijdare begärer, nemligen at få fullföllia med nyttige Manuscripters afcopierande å en och annan ort,"
+  },
+  {
+   "bbox": [
+    437,
+    1812,
+    511,
+    1848
+   ],
+   "category": "Page-footer",
+   "text": "240"
+  }
+ ]
+}

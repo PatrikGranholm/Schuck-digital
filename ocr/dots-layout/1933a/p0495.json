@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 495,
+ "seconds": 17.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [768, 237, 1127, 280], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [425, 307, 1468, 561], \"category\": \"Text\", \"text\": \"Täckes nu Ers Kongl. May:t, som i sin tijdh har så många andra härliga ting af antiquiteterne bracht i Liuset, tillåta, att en sådan statue af Steen oprättas uth på Slottsplatsen af Stadsens medel medh en härlig inscription, som förr giord är och här medfölljer [saknas], så woro det och en högst berömmelig och wärdig, der af mången In- och uthländsk kunde sig förnöija.\"}, {\"bbox\": [461, 561, 648, 594], \"category\": \"Text\", \"text\": \"8 — —\"}, {\"bbox\": [421, 599, 1466, 1471], \"category\": \"Text\", \"text\": \"9) Warnhems kyrkia, som Sal. Kongl. Drotzen lät helt och hållet i sin tijdh reparera och förfärdiga till sine hwalf, konungacoror, taak, torn, skiöna klockor och inne uthi kostelig altartafla, stolar, orger och alt innandöme, så att den stodh så färdig som den bästa domkyrkia i Rijket, befinnes nu af wanskiötzel mycket förfalla, i så måtto att swamp hafwa sigh opslaget uhr golfwet, som helt förderfwar stolarne, och af den fuchtigheet skiämma både orgor och annat innandöme, hwilket synes der af tillkomma, att alla clostermurarne å sudra sijdan äre aldeles nidbrutne, hwaraf wäskan uthaf Billingen får inlöpa på wäggarne och sigh inträngia. Såsom nu Ers Kongl. M:t är allena högstrådande och wårdande Patron öfwer bem:te kyrkia, sedan Konungsgården Höyentorp och dhe gods i Warnhems församling äre Ers Kongl. May:t hemfallne, Så hemställes uthi Ers Kongl. May:tz högsta nåde, om icke i tijd all skada måtte företagas, som bäst synes kunna skee, om på sudra sijdan drages ett dijke, som emottoge alt Billings wattnet och afförde ifrån kyrkian, sammaledes någon liten Ränta lades under kyrkian till dess åhrliga reparation, som Sal. drotzen giorde, ett hemmans Ränta i samma By, elliest lärer den kyrkia åther förfalla, som nu så stor är och härlig står för alla Resande att beskåda för de gambla konungagrifter och andra monumenter der uthi finnes».\"}, {\"bbox\": [421, 1798, 498, 1846], \"category\": \"Page-footer\", \"text\": \"464\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    768,
+    237,
+    1127,
+    280
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    425,
+    307,
+    1468,
+    561
+   ],
+   "category": "Text",
+   "text": "Täckes nu Ers Kongl. May:t, som i sin tijdh har så många andra härliga ting af antiquiteterne bracht i Liuset, tillåta, att en sådan statue af Steen oprättas uth på Slottsplatsen af Stadsens medel medh en härlig inscription, som förr giord är och här medfölljer [saknas], så woro det och en högst berömmelig och wärdig, der af mången In- och uthländsk kunde sig förnöija."
+  },
+  {
+   "bbox": [
+    461,
+    561,
+    648,
+    594
+   ],
+   "category": "Text",
+   "text": "8 — —"
+  },
+  {
+   "bbox": [
+    421,
+    599,
+    1466,
+    1471
+   ],
+   "category": "Text",
+   "text": "9) Warnhems kyrkia, som Sal. Kongl. Drotzen lät helt och hållet i sin tijdh reparera och förfärdiga till sine hwalf, konungacoror, taak, torn, skiöna klockor och inne uthi kostelig altartafla, stolar, orger och alt innandöme, så att den stodh så färdig som den bästa domkyrkia i Rijket, befinnes nu af wanskiötzel mycket förfalla, i så måtto att swamp hafwa sigh opslaget uhr golfwet, som helt förderfwar stolarne, och af den fuchtigheet skiämma både orgor och annat innandöme, hwilket synes der af tillkomma, att alla clostermurarne å sudra sijdan äre aldeles nidbrutne, hwaraf wäskan uthaf Billingen får inlöpa på wäggarne och sigh inträngia. Såsom nu Ers Kongl. M:t är allena högstrådande och wårdande Patron öfwer bem:te kyrkia, sedan Konungsgården Höyentorp och dhe gods i Warnhems församling äre Ers Kongl. May:t hemfallne, Så hemställes uthi Ers Kongl. May:tz högsta nåde, om icke i tijd all skada måtte företagas, som bäst synes kunna skee, om på sudra sijdan drages ett dijke, som emottoge alt Billings wattnet och afförde ifrån kyrkian, sammaledes någon liten Ränta lades under kyrkian till dess åhrliga reparation, som Sal. drotzen giorde, ett hemmans Ränta i samma By, elliest lärer den kyrkia åther förfalla, som nu så stor är och härlig står för alla Resande att beskåda för de gambla konungagrifter och andra monumenter der uthi finnes»."
+  },
+  {
+   "bbox": [
+    421,
+    1798,
+    498,
+    1846
+   ],
+   "category": "Page-footer",
+   "text": "464"
+  }
+ ]
+}

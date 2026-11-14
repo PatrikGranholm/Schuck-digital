@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 200,
+ "seconds": 26.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [414, 248, 944, 292], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiets ekonomi\"}, {\"bbox\": [687, 318, 1199, 978], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>Closter brefwens renskrifwande</td><td>200</td></tr><tr><td>En Antiquit. Studiosus, som rijtar, Communitetet och</td><td>100</td></tr><tr><td>En Rijtare Communitetet och</td><td>200</td></tr><tr><td>En Antiquit. Studiosus wid Protokollet och annat Communitetet och</td><td>40</td></tr><tr><td>En Amanuensis, Commun. och</td><td>40</td></tr><tr><td>Corrector widh trycket</td><td>60</td></tr><tr><td>Expense Penningar för Collegio</td><td>100</td></tr><tr><td>Collegij Famulus och Resedreng</td><td>60</td></tr><tr><td>Booktryckaren i Stockholm på afrächning eller then här efter af Collegio antages</td><td>400</td></tr><tr><td></td><td>4000</td></tr></tbody></table>\"}, {\"bbox\": [687, 984, 1108, 1163], \"category\": \"Text\", \"text\": \"Dessa ordinarij betalas först proportionaliter, så länge medlen hinna, sedan föllande nödige expenser af öfwerskiutande medel\"}, {\"bbox\": [687, 1165, 1193, 1314], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>Kopparstickaren</td><td>200</td></tr><tr><td>Formsnidare stycketals</td><td>100</td></tr><tr><td>Till Pappers inköp</td><td>700</td></tr><tr><td></td><td>1000</td></tr></tbody></table>\"}, {\"bbox\": [687, 1326, 1104, 1546], \"category\": \"Text\", \"text\": \"Skulle mera Papper på ett åhr requireras göres i den Kongl. Cammaren der om ansökning att niuta af dhe resterande 1/12 Dr. Smt. som mera Collegio tillordnas\"}, {\"bbox\": [434, 1546, 1193, 1586], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>5000</td><td>Summa 5000</td></tr></tbody></table>\"}, {\"bbox\": [181, 1592, 837, 1639], \"category\": \"Text\", \"text\": \"Stockholm d. [ej utskrivet] Decembris 1675.\"}, {\"bbox\": [632, 1644, 1134, 1685], \"category\": \"Text\", \"text\": \"Magnus Gabriel De la Gardie.¹\"}, {\"bbox\": [142, 1693, 1191, 1791], \"category\": \"Footnote\", \"text\": \"¹ Dessa stater finnas hos Palmsköld, vol. 71, V. H. A. A. Rächningar 1670—1684, och V. H. A. A. Antikvitetskollegium. Högre tjänstemän. Hadorph. Att Verelius nu upptogs i staten, berodde med all sannolikhet på det 1674 utbrutna gräl inom kollegiet, för vilket förut redogjorts.\"}, {\"bbox\": [1115, 1815, 1185, 1852], \"category\": \"Page-footer\", \"text\": \"181\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    414,
+    248,
+    944,
+    292
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiets ekonomi"
+  },
+  {
+   "bbox": [
+    687,
+    318,
+    1199,
+    978
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>Closter brefwens renskrifwande</td><td>200</td></tr><tr><td>En Antiquit. Studiosus, som rijtar, Communitetet och</td><td>100</td></tr><tr><td>En Rijtare Communitetet och</td><td>200</td></tr><tr><td>En Antiquit. Studiosus wid Protokollet och annat Communitetet och</td><td>40</td></tr><tr><td>En Amanuensis, Commun. och</td><td>40</td></tr><tr><td>Corrector widh trycket</td><td>60</td></tr><tr><td>Expense Penningar för Collegio</td><td>100</td></tr><tr><td>Collegij Famulus och Resedreng</td><td>60</td></tr><tr><td>Booktryckaren i Stockholm på afrächning eller then här efter af Collegio antages</td><td>400</td></tr><tr><td></td><td>4000</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    687,
+    984,
+    1108,
+    1163
+   ],
+   "category": "Text",
+   "text": "Dessa ordinarij betalas först proportionaliter, så länge medlen hinna, sedan föllande nödige expenser af öfwerskiutande medel"
+  },
+  {
+   "bbox": [
+    687,
+    1165,
+    1193,
+    1314
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>Kopparstickaren</td><td>200</td></tr><tr><td>Formsnidare stycketals</td><td>100</td></tr><tr><td>Till Pappers inköp</td><td>700</td></tr><tr><td></td><td>1000</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    687,
+    1326,
+    1104,
+    1546
+   ],
+   "category": "Text",
+   "text": "Skulle mera Papper på ett åhr requireras göres i den Kongl. Cammaren der om ansökning att niuta af dhe resterande 1/12 Dr. Smt. som mera Collegio tillordnas"
+  },
+  {
+   "bbox": [
+    434,
+    1546,
+    1193,
+    1586
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>5000</td><td>Summa 5000</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    181,
+    1592,
+    837,
+    1639
+   ],
+   "category": "Text",
+   "text": "Stockholm d. [ej utskrivet] Decembris 1675."
+  },
+  {
+   "bbox": [
+    632,
+    1644,
+    1134,
+    1685
+   ],
+   "category": "Text",
+   "text": "Magnus Gabriel De la Gardie.¹"
+  },
+  {
+   "bbox": [
+    142,
+    1693,
+    1191,
+    1791
+   ],
+   "category": "Footnote",
+   "text": "¹ Dessa stater finnas hos Palmsköld, vol. 71, V. H. A. A. Rächningar 1670—1684, och V. H. A. A. Antikvitetskollegium. Högre tjänstemän. Hadorph. Att Verelius nu upptogs i staten, berodde med all sannolikhet på det 1674 utbrutna gräl inom kollegiet, för vilket förut redogjorts."
+  },
+  {
+   "bbox": [
+    1115,
+    1815,
+    1185,
+    1852
+   ],
+   "category": "Page-footer",
+   "text": "181"
+  }
+ ]
+}

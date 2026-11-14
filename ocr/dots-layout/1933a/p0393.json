@@ -1,0 +1,152 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 393,
+ "seconds": 35.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [744, 243, 1104, 285], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [398, 314, 1438, 404], \"category\": \"Text\", \"text\": \"Superintendenter i Rijket om Monumenters och Antiquiteters vp-\\nspanande och conservation:\"}, {\"bbox\": [399, 396, 1438, 485], \"category\": \"Text\", \"text\": \"1. Allehanda Runesteenar vthe på Marcken, widh Kyrckiorne eller Byarne til finnandes.\"}, {\"bbox\": [399, 480, 1438, 609], \"category\": \"Text\", \"text\": \"2. Gambla ödelagde Borgar, Huus, Fästen, Skantzar och stoora Steenkummel, aff Menniskio händer fordom sammanburne, och hwad sägn om dem aff ålder warit hafwer.\"}, {\"bbox\": [399, 604, 1438, 729], \"category\": \"Text\", \"text\": \"3. Stoora hoopburne Jordhögar och Ättebackar, ther Hedna Konungar och andra förnähme Män sina Grafwar fordom bekommit hafwa.\"}, {\"bbox\": [399, 729, 1438, 861], \"category\": \"Text\", \"text\": \"4. Gambla Offrelundar, Offrekällor, Offresteenar eller Runda Kätlar i Berg ingraffne, etc. ther fordom någon dyrckan hafwer warit, sampt hwad sägn om sådane ännu finnes.\"}, {\"bbox\": [399, 855, 1438, 1027], \"category\": \"Text\", \"text\": \"5. Andra märckelige orter, hwarest någon Kamp eller Strijdh hafwer stådt, eller lijknelse effter Jättar, Jättegriffter, Jättekulor, Jättebeen eller theras Swärd och Strijdztygh: Sampt andra Rum, ther om någon Historisk berättelse är.\"}, {\"bbox\": [399, 1022, 1438, 1154], \"category\": \"Text\", \"text\": \"6. I Kyrkiorne gambla förnähme Mäns Griffter, Wapner och andra märckelige ting vthi Inscriptioner, Målningar eller Kyrckio-tygh.\"}, {\"bbox\": [399, 1147, 1438, 1277], \"category\": \"Text\", \"text\": \"7. Gambla Rune- eller Munckeböcker, Munckebreeff, vhr-gambla Laghböcker, Skriffne Sagor, Sigiller och annat slijkt, anten i Kyrckiorne eller hoos förnähme Män.\"}, {\"bbox\": [399, 1272, 1438, 1443], \"category\": \"Text\", \"text\": \"8. Gambla Kämpe- och Historie Wijsor, som aff forna tijder nogh i Landen hafwa sungne warit, och ännu aff många siungas, at the noga effterfrågas och antecknas, effter som ther vthi aff För-fädernes gambla bedriffter myckin sanning finnes.\"}, {\"bbox\": [399, 1438, 1438, 1520], \"category\": \"Text\", \"text\": \"9. Gammalt Mynt vthi Jorden funnit, eller elliest aff förnähmt Folck samblat och förwarat.\"}, {\"bbox\": [399, 1522, 1438, 1733], \"category\": \"Text\", \"text\": \"N. B. Hwad som vthi Num. 7 och 9 förmäles om gamble Manu-\\nscripter, Sigiller och Mynt, etc. Thet är så förståendes, at Hans\\nKongl. May:t icke begärar något Äganderne emoot theras willia aff-\\nhända; vthan alt hwad således til Fäderneslandzens tienst Commu-\\nnicerat warder, skal hwariom och enom troligen igen lefwereras.\"}, {\"bbox\": [1268, 1731, 1370, 1765], \"category\": \"Text\", \"text\": \"I. H».\"}, {\"bbox\": [403, 1805, 476, 1854], \"category\": \"Page-footer\", \"text\": \"362\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    744,
+    243,
+    1104,
+    285
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    398,
+    314,
+    1438,
+    404
+   ],
+   "category": "Text",
+   "text": "Superintendenter i Rijket om Monumenters och Antiquiteters vp-\nspanande och conservation:"
+  },
+  {
+   "bbox": [
+    399,
+    396,
+    1438,
+    485
+   ],
+   "category": "Text",
+   "text": "1. Allehanda Runesteenar vthe på Marcken, widh Kyrckiorne eller Byarne til finnandes."
+  },
+  {
+   "bbox": [
+    399,
+    480,
+    1438,
+    609
+   ],
+   "category": "Text",
+   "text": "2. Gambla ödelagde Borgar, Huus, Fästen, Skantzar och stoora Steenkummel, aff Menniskio händer fordom sammanburne, och hwad sägn om dem aff ålder warit hafwer."
+  },
+  {
+   "bbox": [
+    399,
+    604,
+    1438,
+    729
+   ],
+   "category": "Text",
+   "text": "3. Stoora hoopburne Jordhögar och Ättebackar, ther Hedna Konungar och andra förnähme Män sina Grafwar fordom bekommit hafwa."
+  },
+  {
+   "bbox": [
+    399,
+    729,
+    1438,
+    861
+   ],
+   "category": "Text",
+   "text": "4. Gambla Offrelundar, Offrekällor, Offresteenar eller Runda Kätlar i Berg ingraffne, etc. ther fordom någon dyrckan hafwer warit, sampt hwad sägn om sådane ännu finnes."
+  },
+  {
+   "bbox": [
+    399,
+    855,
+    1438,
+    1027
+   ],
+   "category": "Text",
+   "text": "5. Andra märckelige orter, hwarest någon Kamp eller Strijdh hafwer stådt, eller lijknelse effter Jättar, Jättegriffter, Jättekulor, Jättebeen eller theras Swärd och Strijdztygh: Sampt andra Rum, ther om någon Historisk berättelse är."
+  },
+  {
+   "bbox": [
+    399,
+    1022,
+    1438,
+    1154
+   ],
+   "category": "Text",
+   "text": "6. I Kyrkiorne gambla förnähme Mäns Griffter, Wapner och andra märckelige ting vthi Inscriptioner, Målningar eller Kyrckio-tygh."
+  },
+  {
+   "bbox": [
+    399,
+    1147,
+    1438,
+    1277
+   ],
+   "category": "Text",
+   "text": "7. Gambla Rune- eller Munckeböcker, Munckebreeff, vhr-gambla Laghböcker, Skriffne Sagor, Sigiller och annat slijkt, anten i Kyrckiorne eller hoos förnähme Män."
+  },
+  {
+   "bbox": [
+    399,
+    1272,
+    1438,
+    1443
+   ],
+   "category": "Text",
+   "text": "8. Gambla Kämpe- och Historie Wijsor, som aff forna tijder nogh i Landen hafwa sungne warit, och ännu aff många siungas, at the noga effterfrågas och antecknas, effter som ther vthi aff För-fädernes gambla bedriffter myckin sanning finnes."
+  },
+  {
+   "bbox": [
+    399,
+    1438,
+    1438,
+    1520
+   ],
+   "category": "Text",
+   "text": "9. Gammalt Mynt vthi Jorden funnit, eller elliest aff förnähmt Folck samblat och förwarat."
+  },
+  {
+   "bbox": [
+    399,
+    1522,
+    1438,
+    1733
+   ],
+   "category": "Text",
+   "text": "N. B. Hwad som vthi Num. 7 och 9 förmäles om gamble Manu-\nscripter, Sigiller och Mynt, etc. Thet är så förståendes, at Hans\nKongl. May:t icke begärar något Äganderne emoot theras willia aff-\nhända; vthan alt hwad således til Fäderneslandzens tienst Commu-\nnicerat warder, skal hwariom och enom troligen igen lefwereras."
+  },
+  {
+   "bbox": [
+    1268,
+    1731,
+    1370,
+    1765
+   ],
+   "category": "Text",
+   "text": "I. H»."
+  },
+  {
+   "bbox": [
+    403,
+    1805,
+    476,
+    1854
+   ],
+   "category": "Page-footer",
+   "text": "362"
+  }
+ ]
+}

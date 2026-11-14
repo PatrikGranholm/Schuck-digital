@@ -1,0 +1,28 @@
+{
+  "vol": "1933a",
+  "part": "II",
+  "title": "Kgl. Vitterhets historie och antikvitets akademien. Dess förhistoria och historia",
+  "volume_title": "Antikvitetskollegiet",
+  "note": "Chapters from the table of contents (images 496-497) and the chapter headings recognised by dots.mocr (the sixth chapter, p. 343, is missing from the text layer's TOC lines). Images 1-3: scale target, digitisation notice (Göteborgs universitetsbibliotek), cover and labels; 499-501: back endpapers and cover. The errata list (Rättelser) is on image 497, below the end of the table of contents.",
+  "chapters": [
+    {"title": "Antikvitetskollegiets första tid", "page": 1},
+    {"title": "Antikvitetskollegiets senare tid", "page": 76},
+    {"title": "Antikvitetskollegiets ekonomi", "page": 106},
+    {"title": "Kollegiets ombildning till antikvitetsarkiv", "page": 232},
+    {"title": "Antikvitetssamlingen", "page": 264},
+    {"title": "Rannsakningarna, de antikvariska resorna och fornvården", "page": 343}
+  ],
+  "front": {
+    "binding": [1, 2, 3],
+    "halftitle": [4],
+    "titlepage": [6]
+  },
+  "back": {
+    "contents": [496, 497],
+    "colophon_errata": [498],
+    "binding": [499, 500, 501]
+  },
+  "errata": [
+    {"page": 97, "line": "4 nedifr.", "sic": "Hadorph 1675", "corr": "Hadorph 1676"}
+  ]
+}

@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 267,
+ "seconds": 25.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [778, 241, 1141, 284], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [437, 312, 1485, 558], \"category\": \"Text\", \"text\": \"Præsidenten utij dess Cammar Collegio och Stats Contoir må om-\\nwårdnad draga och behörige ordres gifwa, at dee inkomster och me-\\ndell, som till Collegij Antiquitatum staat och behof anslagne äre\\neller blifwa, måge med behörig flijt och richtighet indrifwas, så at\\nwederbörande må där af niuta sin löhn och det de behöfwa till\\nderas under händer hafwande wärkz förfordrande.\"}, {\"bbox\": [943, 615, 972, 648], \"category\": \"Section-header\", \"text\": \"3.\"}, {\"bbox\": [437, 664, 1483, 1126], \"category\": \"Text\", \"text\": \"Och emädan den, som directionen förer i Cantzelijet, ey kan, för\\nmånge andre beställningar skull, altijd hinna till at Sielf sköta och\\nupsicht hafwa på bem:te Collegij Antiquitatum Sysslor och betiän-\\nternes flijt, så tillåter Kongl. Maij:t, at han må anbefalla och förordna\\nden älste Aszessoren i bem:te Collegio eller den han bäst pröfwar\\ndär till fallen att convocera Assessores, med dem öfwerläggia, hwad\\nCollegij Antiquitatum Sysslor och wäsende angår, tillhålla betiän-\\nterne till dageligit och flijtigt upwachtande och arbetande, och\\nhwad som elliest kan behöfwas, doch alt sådant under sin öfwer-\\ndirection och effter som han finner gått och anständigt den samma\\nnågot mehr eller mindre, i gemehn eller i synnerhet at committera.\"}, {\"bbox\": [943, 1181, 972, 1214], \"category\": \"Section-header\", \"text\": \"4.\"}, {\"bbox\": [437, 1230, 1483, 1775], \"category\": \"Text\", \"text\": \"Assessores och betiänte i Collegio Antiquitatum böre hafwa deras\\nwisse rum här på Slåttet, där de måge sammandraga och extrahera\\nde acter och documenter, som de till sine wärck betarfwa, på det så-\\ndane acter icke måge dragas där ifrån till private huus och således\\nlätteligen förkomma, Men i synnerhet på det betiänterne må hållas\\nunder dagelig upsicht till flitigt arbete. Kungl. Maij:t gillar förden-\\nsskull i nåder det förslag, som giöres till någre rums förfärdigande i\\nÖstre bårgården, Sunnan för Archivum, och will at en dessein där\\npå må upsättias sampt förslag, hwad det kan komma till kåsta, hwar\\npå Kongl. Maij:t will sedan gifwa wijdare ordres och befallning.\\nMen i medler tijd kan den hwelfde Cammarn i Archivi förstufwa\\nwijd Kongl. Rådetz herr Grefwe Bengt Oxenstiernas påfordran\\nbem:te Collegio inrymmas, hwilken de, som den innehafwa, förden-\"}, {\"bbox\": [441, 1802, 516, 1850], \"category\": \"Page-footer\", \"text\": \"236\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    778,
+    241,
+    1141,
+    284
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    437,
+    312,
+    1485,
+    558
+   ],
+   "category": "Text",
+   "text": "Præsidenten utij dess Cammar Collegio och Stats Contoir må om-\nwårdnad draga och behörige ordres gifwa, at dee inkomster och me-\ndell, som till Collegij Antiquitatum staat och behof anslagne äre\neller blifwa, måge med behörig flijt och richtighet indrifwas, så at\nwederbörande må där af niuta sin löhn och det de behöfwa till\nderas under händer hafwande wärkz förfordrande."
+  },
+  {
+   "bbox": [
+    943,
+    615,
+    972,
+    648
+   ],
+   "category": "Section-header",
+   "text": "3."
+  },
+  {
+   "bbox": [
+    437,
+    664,
+    1483,
+    1126
+   ],
+   "category": "Text",
+   "text": "Och emädan den, som directionen förer i Cantzelijet, ey kan, för\nmånge andre beställningar skull, altijd hinna till at Sielf sköta och\nupsicht hafwa på bem:te Collegij Antiquitatum Sysslor och betiän-\nternes flijt, så tillåter Kongl. Maij:t, at han må anbefalla och förordna\nden älste Aszessoren i bem:te Collegio eller den han bäst pröfwar\ndär till fallen att convocera Assessores, med dem öfwerläggia, hwad\nCollegij Antiquitatum Sysslor och wäsende angår, tillhålla betiän-\nterne till dageligit och flijtigt upwachtande och arbetande, och\nhwad som elliest kan behöfwas, doch alt sådant under sin öfwer-\ndirection och effter som han finner gått och anständigt den samma\nnågot mehr eller mindre, i gemehn eller i synnerhet at committera."
+  },
+  {
+   "bbox": [
+    943,
+    1181,
+    972,
+    1214
+   ],
+   "category": "Section-header",
+   "text": "4."
+  },
+  {
+   "bbox": [
+    437,
+    1230,
+    1483,
+    1775
+   ],
+   "category": "Text",
+   "text": "Assessores och betiänte i Collegio Antiquitatum böre hafwa deras\nwisse rum här på Slåttet, där de måge sammandraga och extrahera\nde acter och documenter, som de till sine wärck betarfwa, på det så-\ndane acter icke måge dragas där ifrån till private huus och således\nlätteligen förkomma, Men i synnerhet på det betiänterne må hållas\nunder dagelig upsicht till flitigt arbete. Kungl. Maij:t gillar förden-\nsskull i nåder det förslag, som giöres till någre rums förfärdigande i\nÖstre bårgården, Sunnan för Archivum, och will at en dessein där\npå må upsättias sampt förslag, hwad det kan komma till kåsta, hwar\npå Kongl. Maij:t will sedan gifwa wijdare ordres och befallning.\nMen i medler tijd kan den hwelfde Cammarn i Archivi förstufwa\nwijd Kongl. Rådetz herr Grefwe Bengt Oxenstiernas påfordran\nbem:te Collegio inrymmas, hwilken de, som den innehafwa, förden-"
+  },
+  {
+   "bbox": [
+    441,
+    1802,
+    516,
+    1850
+   ],
+   "category": "Page-footer",
+   "text": "236"
+  }
+ ]
+}

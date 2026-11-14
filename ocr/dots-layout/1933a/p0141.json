@@ -1,0 +1,122 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 141,
+ "seconds": 29.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [776, 219, 1136, 263], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet\"}, {\"bbox\": [434, 290, 1478, 374], \"category\": \"Text\", \"text\": \"stod, kallades remedium. Det var dessa överskottsmedel, som nu av kronan bortarrenderades för 4.500 daler om året.\"}, {\"bbox\": [281, 376, 1476, 542], \"category\": \"Text\", \"text\": \"Staten 1670 Genom denna anvisning på en fast inkomst, myntarrendet, kunde De la Gardie utfärda en stat, som icke blott var en fantasiskapelse. Den finnes i avskrift på flera ställen (så V. H. A. A. i Collegii Antiquitatum Rächningar ifrån 1670 till 1684) och lyder:\"}, {\"bbox\": [690, 571, 1211, 615], \"category\": \"Section-header\", \"text\": \"»Collegii Antiquitatum Stat 1670\"}, {\"bbox\": [434, 629, 1476, 1644], \"category\": \"Table\", \"text\": \"<table><thead><tr><th>Requireras</th><th></th><th>Medlen der till</th><th></th></tr></thead><tbody><tr><td>Præsidenten Hr Stiernhielm föruthan krigz Rådz Löhn</td><td>600<sup>1</sup></td><td>Antiquarij löhnen på Cantzlie Staten</td><td>750</td></tr><tr><td>Vice Præsid:n Hr. Loccenius medh Historiarum Löhn</td><td>800<sup>2</sup></td><td>Historiographi desslijkest</td><td>600</td></tr><tr><td>Hr Axehielm</td><td>500<sup>3</sup></td><td>Af Myntet</td><td>4500</td></tr><tr><td>Hr Profess. Scheffer föruthan sin Profess.</td><td>300</td><td>Fyra dupplicia Stipendia widh Academien</td><td>320</td></tr><tr><td>Hr. Verelius desslijkest</td><td>300</td><td></td><td></td></tr><tr><td>Hr. Arrhenius desslijkest</td><td>200</td><td></td><td></td></tr><tr><td>Hr. Celsius desslijkest</td><td>200</td><td></td><td></td></tr><tr><td>Hr. Hadorphius föruthan d. af Cantzlij Staten</td><td>600<sup>4</sup></td><td></td><td></td></tr><tr><td>Proto Notarius och Actuarius medh duppl. Stipendio Mons. Arrhenius Antiquit. Studiosus</td><td>150</td><td></td><td></td></tr><tr><td>Jonas Rugman för Jsländske Skrifters translation med dupp. Stipendio ut Studiosus Antiquit.</td><td>150</td><td></td><td></td></tr><tr><td>Studiosus Antiquit den och kan rijta medh dupl. Stipendio</td><td>120<sup>5</sup></td><td></td><td></td></tr><tr><td>Item N. N. tilljka handskrifware, den halta studenten</td><td>120</td><td></td><td></td></tr><tr><td>Kopparstickare och NB. form-</td><td></td><td></td><td></td></tr></tbody></table>\"}, {\"bbox\": [468, 1665, 633, 1693], \"category\": \"Footnote\", \"text\": \"1 Elliest 1100.\"}, {\"bbox\": [719, 1665, 1036, 1695], \"category\": \"Footnote\", \"text\": \"2 Utan sina andra Löningar\"}, {\"bbox\": [1124, 1665, 1276, 1695], \"category\": \"Footnote\", \"text\": \"3 som gratial.\"}, {\"bbox\": [468, 1695, 1105, 1723], \"category\": \"Footnote\", \"text\": \"4 föruthan sin ordin:e Secreterare tienst widh Academien.\"}, {\"bbox\": [468, 1725, 925, 1753], \"category\": \"Footnote\", \"text\": \"5 Om icke Elias Erichson detta bekommo.\"}, {\"bbox\": [438, 1792, 509, 1822], \"category\": \"Page-footer\", \"text\": \"122\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    776,
+    219,
+    1136,
+    263
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet"
+  },
+  {
+   "bbox": [
+    434,
+    290,
+    1478,
+    374
+   ],
+   "category": "Text",
+   "text": "stod, kallades remedium. Det var dessa överskottsmedel, som nu av kronan bortarrenderades för 4.500 daler om året."
+  },
+  {
+   "bbox": [
+    281,
+    376,
+    1476,
+    542
+   ],
+   "category": "Text",
+   "text": "Staten 1670 Genom denna anvisning på en fast inkomst, myntarrendet, kunde De la Gardie utfärda en stat, som icke blott var en fantasiskapelse. Den finnes i avskrift på flera ställen (så V. H. A. A. i Collegii Antiquitatum Rächningar ifrån 1670 till 1684) och lyder:"
+  },
+  {
+   "bbox": [
+    690,
+    571,
+    1211,
+    615
+   ],
+   "category": "Section-header",
+   "text": "»Collegii Antiquitatum Stat 1670"
+  },
+  {
+   "bbox": [
+    434,
+    629,
+    1476,
+    1644
+   ],
+   "category": "Table",
+   "text": "<table><thead><tr><th>Requireras</th><th></th><th>Medlen der till</th><th></th></tr></thead><tbody><tr><td>Præsidenten Hr Stiernhielm föruthan krigz Rådz Löhn</td><td>600<sup>1</sup></td><td>Antiquarij löhnen på Cantzlie Staten</td><td>750</td></tr><tr><td>Vice Præsid:n Hr. Loccenius medh Historiarum Löhn</td><td>800<sup>2</sup></td><td>Historiographi desslijkest</td><td>600</td></tr><tr><td>Hr Axehielm</td><td>500<sup>3</sup></td><td>Af Myntet</td><td>4500</td></tr><tr><td>Hr Profess. Scheffer föruthan sin Profess.</td><td>300</td><td>Fyra dupplicia Stipendia widh Academien</td><td>320</td></tr><tr><td>Hr. Verelius desslijkest</td><td>300</td><td></td><td></td></tr><tr><td>Hr. Arrhenius desslijkest</td><td>200</td><td></td><td></td></tr><tr><td>Hr. Celsius desslijkest</td><td>200</td><td></td><td></td></tr><tr><td>Hr. Hadorphius föruthan d. af Cantzlij Staten</td><td>600<sup>4</sup></td><td></td><td></td></tr><tr><td>Proto Notarius och Actuarius medh duppl. Stipendio Mons. Arrhenius Antiquit. Studiosus</td><td>150</td><td></td><td></td></tr><tr><td>Jonas Rugman för Jsländske Skrifters translation med dupp. Stipendio ut Studiosus Antiquit.</td><td>150</td><td></td><td></td></tr><tr><td>Studiosus Antiquit den och kan rijta medh dupl. Stipendio</td><td>120<sup>5</sup></td><td></td><td></td></tr><tr><td>Item N. N. tilljka handskrifware, den halta studenten</td><td>120</td><td></td><td></td></tr><tr><td>Kopparstickare och NB. form-</td><td></td><td></td><td></td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    468,
+    1665,
+    633,
+    1693
+   ],
+   "category": "Footnote",
+   "text": "1 Elliest 1100."
+  },
+  {
+   "bbox": [
+    719,
+    1665,
+    1036,
+    1695
+   ],
+   "category": "Footnote",
+   "text": "2 Utan sina andra Löningar"
+  },
+  {
+   "bbox": [
+    1124,
+    1665,
+    1276,
+    1695
+   ],
+   "category": "Footnote",
+   "text": "3 som gratial."
+  },
+  {
+   "bbox": [
+    468,
+    1695,
+    1105,
+    1723
+   ],
+   "category": "Footnote",
+   "text": "4 föruthan sin ordin:e Secreterare tienst widh Academien."
+  },
+  {
+   "bbox": [
+    468,
+    1725,
+    925,
+    1753
+   ],
+   "category": "Footnote",
+   "text": "5 Om icke Elias Erichson detta bekommo."
+  },
+  {
+   "bbox": [
+    438,
+    1792,
+    509,
+    1822
+   ],
+   "category": "Page-footer",
+   "text": "122"
+  }
+ ]
+}

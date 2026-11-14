@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 20,
+ "seconds": 26.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [416, 218, 974, 262], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiets första tid\"}, {\"bbox\": [172, 288, 1211, 458], \"category\": \"Text\", \"text\": \"dom Olaus Magnus, Johannes Messenius uthi sine åthskillige opus-\\nculis eller Doct. Loccenius uthi sine Antiquitatibus dem tracterat\\nhafwa, recommenderas hwar och en effter macht och ämbete (till\\ndhe öfrige) att giöra sig färdig uthi och i liuset framkomma låta.»\"}, {\"bbox\": [174, 474, 1209, 557], \"category\": \"Text\", \"text\": \"En fortsättning på denna skrivelse finns i Hadorphs koncept\\n(V. H. A. A. Antikvitetskollegiets handlingar. V):\"}, {\"bbox\": [175, 575, 1208, 661], \"category\": \"Text\", \"text\": \"»Förslagh på Antiquiteternes skiftning emillan dhem som kongl.\\nM:tt dher uthinnan bruka behagar.\"}, {\"bbox\": [172, 665, 1211, 1084], \"category\": \"Text\", \"text\": \"1) hr. Stiernhielm är en mycket lärd och förståndig man på dhet gambla språket och dess uhrsprung, hwarföre han ett Lexicon Etymologicum länge sedan begynt hafwer och meriterar en gång i liuset framkomma. Synes för denskull e Re publica, om hr. Stiernhielm dhet samma arbetet medh högh flijt continuerar och hwad han den ena månaden arbetar låter den andra månaden på trycket komma, ne prius moriatur doctissimus senex, quam eruditio eius patriæ innotescat. 2:do att hr. Stiernhielm continuerar uthi Ulphilæ tryckiande, besynnerlig att han dher öfwer ett complett lexicon förfärdigar.\"}, {\"bbox\": [170, 1084, 1211, 1421], \"category\": \"Text\", \"text\": \"2) Doctor Loccenius, som hafwer mycket beflijtat sig genom egit werk att illustrera Historiam Patriæ universalem eller communem, att han dher uthi än widare continuerar i så måtto, att han dhe äldste Regum Historias söker [med] allehanda sanna particular Historier att supplera, dhe senare af documentis Archivi eller andre sanna skrifter justerar och upfyller 2:do verterar dhe gambla swenska Lagar på Latin, som Nicolaus Ragualdi länge sedan begynt hafwer, hwilket tienar till många mörke rums illustration och alla studerandes gagn.\"}, {\"bbox\": [172, 1418, 1208, 1756], \"category\": \"Text\", \"text\": \"3) Dn. Joan Schefferus acktar på latin vertera Snorre Sturlesons Historia, hwilken är den endeste aff dhe äldsta Historicis, som finnas och hafwa realiter om antiquissimis temporibus et Regibus Sueciæ skrifwit, hwarföre wore detta ett berömligit wärk, om hr. Schefferi versio latina blefwe medh Swenske och danske texten samtijdigt tryckt uthi den Edition, som hr Rijkzdrotzen ärnar uthgå låta på Wisingsöö och dherigenom wärket blefwe så mycket fullkombligare och hederligare. 2:do att hr. Schefferus wille vertera Konunga Sty-\"}, {\"bbox\": [1157, 1793, 1201, 1831], \"category\": \"Page-footer\", \"text\": \"13\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    416,
+    218,
+    974,
+    262
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiets första tid"
+  },
+  {
+   "bbox": [
+    172,
+    288,
+    1211,
+    458
+   ],
+   "category": "Text",
+   "text": "dom Olaus Magnus, Johannes Messenius uthi sine åthskillige opus-\nculis eller Doct. Loccenius uthi sine Antiquitatibus dem tracterat\nhafwa, recommenderas hwar och en effter macht och ämbete (till\ndhe öfrige) att giöra sig färdig uthi och i liuset framkomma låta.»"
+  },
+  {
+   "bbox": [
+    174,
+    474,
+    1209,
+    557
+   ],
+   "category": "Text",
+   "text": "En fortsättning på denna skrivelse finns i Hadorphs koncept\n(V. H. A. A. Antikvitetskollegiets handlingar. V):"
+  },
+  {
+   "bbox": [
+    175,
+    575,
+    1208,
+    661
+   ],
+   "category": "Text",
+   "text": "»Förslagh på Antiquiteternes skiftning emillan dhem som kongl.\nM:tt dher uthinnan bruka behagar."
+  },
+  {
+   "bbox": [
+    172,
+    665,
+    1211,
+    1084
+   ],
+   "category": "Text",
+   "text": "1) hr. Stiernhielm är en mycket lärd och förståndig man på dhet gambla språket och dess uhrsprung, hwarföre han ett Lexicon Etymologicum länge sedan begynt hafwer och meriterar en gång i liuset framkomma. Synes för denskull e Re publica, om hr. Stiernhielm dhet samma arbetet medh högh flijt continuerar och hwad han den ena månaden arbetar låter den andra månaden på trycket komma, ne prius moriatur doctissimus senex, quam eruditio eius patriæ innotescat. 2:do att hr. Stiernhielm continuerar uthi Ulphilæ tryckiande, besynnerlig att han dher öfwer ett complett lexicon förfärdigar."
+  },
+  {
+   "bbox": [
+    170,
+    1084,
+    1211,
+    1421
+   ],
+   "category": "Text",
+   "text": "2) Doctor Loccenius, som hafwer mycket beflijtat sig genom egit werk att illustrera Historiam Patriæ universalem eller communem, att han dher uthi än widare continuerar i så måtto, att han dhe äldste Regum Historias söker [med] allehanda sanna particular Historier att supplera, dhe senare af documentis Archivi eller andre sanna skrifter justerar och upfyller 2:do verterar dhe gambla swenska Lagar på Latin, som Nicolaus Ragualdi länge sedan begynt hafwer, hwilket tienar till många mörke rums illustration och alla studerandes gagn."
+  },
+  {
+   "bbox": [
+    172,
+    1418,
+    1208,
+    1756
+   ],
+   "category": "Text",
+   "text": "3) Dn. Joan Schefferus acktar på latin vertera Snorre Sturlesons Historia, hwilken är den endeste aff dhe äldsta Historicis, som finnas och hafwa realiter om antiquissimis temporibus et Regibus Sueciæ skrifwit, hwarföre wore detta ett berömligit wärk, om hr. Schefferi versio latina blefwe medh Swenske och danske texten samtijdigt tryckt uthi den Edition, som hr Rijkzdrotzen ärnar uthgå låta på Wisingsöö och dherigenom wärket blefwe så mycket fullkombligare och hederligare. 2:do att hr. Schefferus wille vertera Konunga Sty-"
+  },
+  {
+   "bbox": [
+    1157,
+    1793,
+    1201,
+    1831
+   ],
+   "category": "Page-footer",
+   "text": "13"
+  }
+ ]
+}

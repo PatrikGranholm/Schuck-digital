@@ -1,0 +1,41 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 66,
+ "seconds": 8.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [206, 307, 1805, 1591], \"category\": \"Picture\"}, {\"bbox\": [525, 1641, 884, 1681], \"category\": \"Caption\", \"text\": \"MAGNUS CELSIUS\"}, {\"bbox\": [423, 1691, 972, 1727], \"category\": \"Text\", \"text\": \"Efter porträtt i Uppsala Universitet (Observatoriet)\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    206,
+    307,
+    1805,
+    1591
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    525,
+    1641,
+    884,
+    1681
+   ],
+   "category": "Caption",
+   "text": "MAGNUS CELSIUS"
+  },
+  {
+   "bbox": [
+    423,
+    1691,
+    972,
+    1727
+   ],
+   "category": "Text",
+   "text": "Efter porträtt i Uppsala Universitet (Observatoriet)"
+  }
+ ]
+}

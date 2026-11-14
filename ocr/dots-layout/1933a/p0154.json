@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 154,
+ "seconds": 19.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [406, 216, 931, 259], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiets ekonomi\"}, {\"bbox\": [682, 284, 1194, 1010], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>Dito Resepenningar, Resedreng och annor kostnat i Papper och färgor</td><td>300</td></tr><tr><td>Jonas Rougman</td><td>100</td></tr><tr><td>Twenne Rijtare à 200 hwar</td><td>400</td></tr><tr><td>Twenne Amanuenses à 100 dr.</td><td>200</td></tr><tr><td>En Antiquit. Studiosus, som rijtar</td><td>80</td></tr><tr><td>Dito en annan, som håller Protocoll</td><td>40</td></tr><tr><td>Corrector widh trycket i Stockholm</td><td>100</td></tr><tr><td>Expense penningar för Collegio</td><td>120</td></tr><tr><td>formsnidare gesällen</td><td>150</td></tr><tr><td>Dito en annan formsnidare utländes ifrån</td><td>150</td></tr><tr><td>Collegii dreng</td><td>60</td></tr><tr><td>Booktryckaren</td><td>400</td></tr><tr><td>Papper</td><td>600</td></tr></tbody></table>\"}, {\"bbox\": [463, 1012, 653, 1049], \"category\": \"Text\", \"text\": \"Summa 4500\"}, {\"bbox\": [991, 1012, 1192, 1049], \"category\": \"Text\", \"text\": \"Summa 4.500\"}, {\"bbox\": [152, 1058, 1192, 1186], \"category\": \"Text\", \"text\": \"Effter denna fördelning skola medlen till hwar och en på detta åhr betalas och anwändas sampt derföre Räkenskap göras. Datum Carlberg d. 19 Decemb. 1673.\"}, {\"bbox\": [846, 1185, 1104, 1261], \"category\": \"Text\", \"text\": \"Magnus Gabriel\\nDe la Gardie.\"}, {\"bbox\": [150, 1292, 1194, 1753], \"category\": \"Text\", \"text\": \"Såsom iagh till föllie af den wårdnat, migh åligger bland annat att hafwa om Collegij Antiquitatum styrkia och arbetes befrämiande, icke obilligt migh påminner, huru som vppå Rijtare och flere Personer, hwilka medh reenskrifwande der widh sig bruka låta, anseenlige penninge Summor anwändas, hwar emot någon torde sigh vnderstå sin oflijt widh arbetet vnder hwariehanda prætext att vrsächta; altså hafwer iag skiäligt funnit, att härmedh statueras, det widh detta Collegium, som [wid] alle andre öfligit är, så wäl Rijtarne som skrifwarne skola weta sigh obligerade wara till sådana tijder att arbeta vppå, som Kongl. Cantzlij ordningen här uthinnan determinerar, hwilka dhe taga sigh till rättelse, så att hwilken som befinnes den\"}, {\"bbox\": [1119, 1783, 1190, 1821], \"category\": \"Page-footer\", \"text\": \"135\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    406,
+    216,
+    931,
+    259
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiets ekonomi"
+  },
+  {
+   "bbox": [
+    682,
+    284,
+    1194,
+    1010
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>Dito Resepenningar, Resedreng och annor kostnat i Papper och färgor</td><td>300</td></tr><tr><td>Jonas Rougman</td><td>100</td></tr><tr><td>Twenne Rijtare à 200 hwar</td><td>400</td></tr><tr><td>Twenne Amanuenses à 100 dr.</td><td>200</td></tr><tr><td>En Antiquit. Studiosus, som rijtar</td><td>80</td></tr><tr><td>Dito en annan, som håller Protocoll</td><td>40</td></tr><tr><td>Corrector widh trycket i Stockholm</td><td>100</td></tr><tr><td>Expense penningar för Collegio</td><td>120</td></tr><tr><td>formsnidare gesällen</td><td>150</td></tr><tr><td>Dito en annan formsnidare utländes ifrån</td><td>150</td></tr><tr><td>Collegii dreng</td><td>60</td></tr><tr><td>Booktryckaren</td><td>400</td></tr><tr><td>Papper</td><td>600</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    463,
+    1012,
+    653,
+    1049
+   ],
+   "category": "Text",
+   "text": "Summa 4500"
+  },
+  {
+   "bbox": [
+    991,
+    1012,
+    1192,
+    1049
+   ],
+   "category": "Text",
+   "text": "Summa 4.500"
+  },
+  {
+   "bbox": [
+    152,
+    1058,
+    1192,
+    1186
+   ],
+   "category": "Text",
+   "text": "Effter denna fördelning skola medlen till hwar och en på detta åhr betalas och anwändas sampt derföre Räkenskap göras. Datum Carlberg d. 19 Decemb. 1673."
+  },
+  {
+   "bbox": [
+    846,
+    1185,
+    1104,
+    1261
+   ],
+   "category": "Text",
+   "text": "Magnus Gabriel\nDe la Gardie."
+  },
+  {
+   "bbox": [
+    150,
+    1292,
+    1194,
+    1753
+   ],
+   "category": "Text",
+   "text": "Såsom iagh till föllie af den wårdnat, migh åligger bland annat att hafwa om Collegij Antiquitatum styrkia och arbetes befrämiande, icke obilligt migh påminner, huru som vppå Rijtare och flere Personer, hwilka medh reenskrifwande der widh sig bruka låta, anseenlige penninge Summor anwändas, hwar emot någon torde sigh vnderstå sin oflijt widh arbetet vnder hwariehanda prætext att vrsächta; altså hafwer iag skiäligt funnit, att härmedh statueras, det widh detta Collegium, som [wid] alle andre öfligit är, så wäl Rijtarne som skrifwarne skola weta sigh obligerade wara till sådana tijder att arbeta vppå, som Kongl. Cantzlij ordningen här uthinnan determinerar, hwilka dhe taga sigh till rättelse, så att hwilken som befinnes den"
+  },
+  {
+   "bbox": [
+    1119,
+    1783,
+    1190,
+    1821
+   ],
+   "category": "Page-footer",
+   "text": "135"
+  }
+ ]
+}

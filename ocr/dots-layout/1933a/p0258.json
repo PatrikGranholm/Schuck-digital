@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 258,
+ "seconds": 27.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [384, 252, 913, 294], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiets ekonomi\"}, {\"bbox\": [113, 322, 1167, 1406], \"category\": \"Text\", \"text\": \"medel anordnas refusion, som åter kan hållas i beredskap till näst-kommande åhrs aflöhning, och altså Successive dhe fölliande åhren, på hwilket sätt Collegium Antiquitatum lijka fult och alt framgent kunde niuta löhnen af det föregående åhrets räntor. Wij lembne fördenskuld vnderdånigst till Eders Kongl: Maij:ts wijdare nådige behag och gottfinnande, huru här med skall förhållas, jemwäl om Biskopen Gezelius må orubbat behålla Tryckerij Tunnan i Åbo och Wijborgz Stifft till Bibelwärketz befordran, heller om dhe 370 daler S:m:t som nu äre augmenterade på Scholebetiente dersamma-städes, och jemwäl bestå under ofwanberörde 1848 daler 10 2/3 öre S:m:ts tillökning, skole efter Eders Kongl. Maij:ts bref den 12 Junij förledne åhr af Tryckerij Tunnan i Finland blij anordnade¹: Det torde också wara nödigt, om Eders Kongl: Maij:t nådigst behagade låta igenomsee 1687 åhrs Collegij Antiquitatum Stat, om något der uthj kunde wara at bespara, hwilken besparing åter kunde tilläggas dhe Assessorer, som² så högt klaga öfwer deras ringa underhåld, på det Staten må blifwa reglerat, men icke till någon Eders Kongl: Maij:ts gravation förhögd, hwarjempte också kunde tagas i öfwerwägande, om också den opförde Bookhållaren skulle pröfwas wara nödig, tyckandes oss oförgrijpeligen, att löhnen wäl kunde besparas, när Collegium Antiquitatum äfwen som andre Collegier åhrligen taga sine assignationer i Eders Kongl: Maij:ts Stats Contoir; dock under-kasta wij altsammans Eders Kongl: Maij:ts wijdare nådigste behag och gottfinnande, det wij till wår efterrättelse underdånigst af-wachte, och förblifwe in till wår dödzstund» (R. A. Statskontorets skri-velser till Kungl. Maj:t.).\"}, {\"bbox\": [117, 1419, 1163, 1713], \"category\": \"Text\", \"text\": \"Kungl. Maij:ts svar kom redan den 16 maj 1691: »Wår synnerl. yn-nest etc. Wij see utur Eder underd. skrifwelse dat. d. 14 hujus, huru som J uppå twenne Wåre till Eder afgångne bref, det förre af d. 12 Junij förledet åhr, att Scholæbetienterne här i Rijket skulle af tryc-kerijetunnan niuta augment på deras löhn till en summa af 1848 Dr. 10 2/3 smt, och det senare af d. 21 Novemb. samma åhr, att Carl-stads Gymnasium ock Stockholm, Carlstad samt Strömstad trivial\"}, {\"bbox\": [1174, 1435, 1281, 1499], \"category\": \"Text\", \"text\": \"Utredning påbjudes\"}, {\"bbox\": [154, 1725, 373, 1755], \"category\": \"Footnote\", \"text\": \"¹ »dette approberes».\"}, {\"bbox\": [154, 1755, 1051, 1788], \"category\": \"Footnote\", \"text\": \"² »Detta låter K. M:t sig i nåder wälbehaga och afgår dherom bref till Cam.-Coll».\"}, {\"bbox\": [1083, 1829, 1155, 1866], \"category\": \"Page-footer\", \"text\": \"227\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    384,
+    252,
+    913,
+    294
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiets ekonomi"
+  },
+  {
+   "bbox": [
+    113,
+    322,
+    1167,
+    1406
+   ],
+   "category": "Text",
+   "text": "medel anordnas refusion, som åter kan hållas i beredskap till näst-kommande åhrs aflöhning, och altså Successive dhe fölliande åhren, på hwilket sätt Collegium Antiquitatum lijka fult och alt framgent kunde niuta löhnen af det föregående åhrets räntor. Wij lembne fördenskuld vnderdånigst till Eders Kongl: Maij:ts wijdare nådige behag och gottfinnande, huru här med skall förhållas, jemwäl om Biskopen Gezelius må orubbat behålla Tryckerij Tunnan i Åbo och Wijborgz Stifft till Bibelwärketz befordran, heller om dhe 370 daler S:m:t som nu äre augmenterade på Scholebetiente dersamma-städes, och jemwäl bestå under ofwanberörde 1848 daler 10 2/3 öre S:m:ts tillökning, skole efter Eders Kongl. Maij:ts bref den 12 Junij förledne åhr af Tryckerij Tunnan i Finland blij anordnade¹: Det torde också wara nödigt, om Eders Kongl: Maij:t nådigst behagade låta igenomsee 1687 åhrs Collegij Antiquitatum Stat, om något der uthj kunde wara at bespara, hwilken besparing åter kunde tilläggas dhe Assessorer, som² så högt klaga öfwer deras ringa underhåld, på det Staten må blifwa reglerat, men icke till någon Eders Kongl: Maij:ts gravation förhögd, hwarjempte också kunde tagas i öfwerwägande, om också den opförde Bookhållaren skulle pröfwas wara nödig, tyckandes oss oförgrijpeligen, att löhnen wäl kunde besparas, när Collegium Antiquitatum äfwen som andre Collegier åhrligen taga sine assignationer i Eders Kongl: Maij:ts Stats Contoir; dock under-kasta wij altsammans Eders Kongl: Maij:ts wijdare nådigste behag och gottfinnande, det wij till wår efterrättelse underdånigst af-wachte, och förblifwe in till wår dödzstund» (R. A. Statskontorets skri-velser till Kungl. Maj:t.)."
+  },
+  {
+   "bbox": [
+    117,
+    1419,
+    1163,
+    1713
+   ],
+   "category": "Text",
+   "text": "Kungl. Maij:ts svar kom redan den 16 maj 1691: »Wår synnerl. yn-nest etc. Wij see utur Eder underd. skrifwelse dat. d. 14 hujus, huru som J uppå twenne Wåre till Eder afgångne bref, det förre af d. 12 Junij förledet åhr, att Scholæbetienterne här i Rijket skulle af tryc-kerijetunnan niuta augment på deras löhn till en summa af 1848 Dr. 10 2/3 smt, och det senare af d. 21 Novemb. samma åhr, att Carl-stads Gymnasium ock Stockholm, Carlstad samt Strömstad trivial"
+  },
+  {
+   "bbox": [
+    1174,
+    1435,
+    1281,
+    1499
+   ],
+   "category": "Text",
+   "text": "Utredning påbjudes"
+  },
+  {
+   "bbox": [
+    154,
+    1725,
+    373,
+    1755
+   ],
+   "category": "Footnote",
+   "text": "¹ »dette approberes»."
+  },
+  {
+   "bbox": [
+    154,
+    1755,
+    1051,
+    1788
+   ],
+   "category": "Footnote",
+   "text": "² »Detta låter K. M:t sig i nåder wälbehaga och afgår dherom bref till Cam.-Coll»."
+  },
+  {
+   "bbox": [
+    1083,
+    1829,
+    1155,
+    1866
+   ],
+   "category": "Page-footer",
+   "text": "227"
+  }
+ ]
+}

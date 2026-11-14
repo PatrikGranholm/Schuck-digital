@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933a",
+ "index": 350,
+ "seconds": 27.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [458, 242, 838, 286], \"category\": \"Page-header\", \"text\": \"Antikvitetssamlingen\"}, {\"bbox\": [130, 313, 1176, 392], \"category\": \"Text\", \"text\": \"Hr. Hadorphio gifne Methoden sedan i paar åhrs tijdh hölt uppå at sortera och anteckna».\"}, {\"bbox\": [130, 397, 1177, 524], \"category\": \"Text\", \"text\": \"Andra förvärv förekommo ock, så av Sten Bielkes akter och handskrifter, och på sina antikvariska resor lade Hadorph sig till med åtskilliga handlingar, som han införlivade med sitt kära arkiv.\"}, {\"bbox\": [130, 523, 1179, 816], \"category\": \"Text\", \"text\": \"I den redogörelse för sin verksamhet såsom arkivarie, vilken förut citerats (U. B. Gahm sign. U 113), har Hadorph i olika paragrafer redogjort för alla sina insatser i detta avseende: »... 3) Vthur Kongl. May:tt Bibliotech har jagh i lijka måtto åthskillige Swenska, danska och norska Manuscripta indsamblat medh några trychte Scriptoribus, dessa nordiska Rijkens Historier angående, och der af ett tämmeligit förrådh anskaffat.\"}, {\"bbox\": [133, 816, 1177, 984], \"category\": \"Text\", \"text\": \"4) Sedan har jagh i alla Provintier, der jagh reste, kiöpt många Manuscripter af wåra Swenska Historier, Lagböcker och andra Swenske handlingar af dhe Resepenningar, Kongl. May:t migh bestått, som alt medh ett fullkomligit Register bewijsas skal.\"}, {\"bbox\": [133, 983, 1177, 1151], \"category\": \"Text\", \"text\": \"5) Der jagh och hoos förnäme män hafwer funnit nyttige Manuscripter och Böcker, har jagh sådana utbedt till Hans Kongl. May:tz tienst, och på det sätt åthskillige skiöne handlingar bekommit, som och af Registret befinnas kan.\"}, {\"bbox\": [135, 1150, 1179, 1277], \"category\": \"Text\", \"text\": \"6) Hafwer jagh dels inkiöpt, dels af Bibliothecher församblat månge danske Historier och Tractater till detta archivum, som nyttige äre till Historiens förbättrande.\"}, {\"bbox\": [137, 1276, 1182, 1735], \"category\": \"Text\", \"text\": \"7) Hafwa uthi archivo legat förwarade en stoor hoop gambla Pergaments, Closter, kyrkio, Præbende och Påfwebref etc., som widh Reformations tijden woro till archivum tagne och nu hwar om annan i kistor, askar och Lådor wräkne, dessa har jagh uthi Vpsala ifrån åhr 1670 till 1675 medh mycket och otroligt beswär låtit till sina wissa Classes, kloster, Præbender och kyrkior läggia, der af nu Professoren Örnhielm har sin stora hielp haft till sin Historiam Ecclesiasticam, föruthan många andra nyttigheter, som dhe medh sigh hafwa till Historierne, och till sådant arbete legde jagh i 2 åhr den stora Paulini saal, hwarest dhe per titulos lades i Ordning hela golfwet öfwer, och betalte 4 studiosos derföre af mina Resepenningar.\"}, {\"bbox\": [176, 1735, 1181, 1778], \"category\": \"Text\", \"text\": \"8) Har jagh alla andre Werldslige Bref såsom Morgongåfwo,\"}, {\"bbox\": [1105, 1814, 1179, 1853], \"category\": \"Page-footer\", \"text\": \"319\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    458,
+    242,
+    838,
+    286
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetssamlingen"
+  },
+  {
+   "bbox": [
+    130,
+    313,
+    1176,
+    392
+   ],
+   "category": "Text",
+   "text": "Hr. Hadorphio gifne Methoden sedan i paar åhrs tijdh hölt uppå at sortera och anteckna»."
+  },
+  {
+   "bbox": [
+    130,
+    397,
+    1177,
+    524
+   ],
+   "category": "Text",
+   "text": "Andra förvärv förekommo ock, så av Sten Bielkes akter och handskrifter, och på sina antikvariska resor lade Hadorph sig till med åtskilliga handlingar, som han införlivade med sitt kära arkiv."
+  },
+  {
+   "bbox": [
+    130,
+    523,
+    1179,
+    816
+   ],
+   "category": "Text",
+   "text": "I den redogörelse för sin verksamhet såsom arkivarie, vilken förut citerats (U. B. Gahm sign. U 113), har Hadorph i olika paragrafer redogjort för alla sina insatser i detta avseende: »... 3) Vthur Kongl. May:tt Bibliotech har jagh i lijka måtto åthskillige Swenska, danska och norska Manuscripta indsamblat medh några trychte Scriptoribus, dessa nordiska Rijkens Historier angående, och der af ett tämmeligit förrådh anskaffat."
+  },
+  {
+   "bbox": [
+    133,
+    816,
+    1177,
+    984
+   ],
+   "category": "Text",
+   "text": "4) Sedan har jagh i alla Provintier, der jagh reste, kiöpt många Manuscripter af wåra Swenska Historier, Lagböcker och andra Swenske handlingar af dhe Resepenningar, Kongl. May:t migh bestått, som alt medh ett fullkomligit Register bewijsas skal."
+  },
+  {
+   "bbox": [
+    133,
+    983,
+    1177,
+    1151
+   ],
+   "category": "Text",
+   "text": "5) Der jagh och hoos förnäme män hafwer funnit nyttige Manuscripter och Böcker, har jagh sådana utbedt till Hans Kongl. May:tz tienst, och på det sätt åthskillige skiöne handlingar bekommit, som och af Registret befinnas kan."
+  },
+  {
+   "bbox": [
+    135,
+    1150,
+    1179,
+    1277
+   ],
+   "category": "Text",
+   "text": "6) Hafwer jagh dels inkiöpt, dels af Bibliothecher församblat månge danske Historier och Tractater till detta archivum, som nyttige äre till Historiens förbättrande."
+  },
+  {
+   "bbox": [
+    137,
+    1276,
+    1182,
+    1735
+   ],
+   "category": "Text",
+   "text": "7) Hafwa uthi archivo legat förwarade en stoor hoop gambla Pergaments, Closter, kyrkio, Præbende och Påfwebref etc., som widh Reformations tijden woro till archivum tagne och nu hwar om annan i kistor, askar och Lådor wräkne, dessa har jagh uthi Vpsala ifrån åhr 1670 till 1675 medh mycket och otroligt beswär låtit till sina wissa Classes, kloster, Præbender och kyrkior läggia, der af nu Professoren Örnhielm har sin stora hielp haft till sin Historiam Ecclesiasticam, föruthan många andra nyttigheter, som dhe medh sigh hafwa till Historierne, och till sådant arbete legde jagh i 2 åhr den stora Paulini saal, hwarest dhe per titulos lades i Ordning hela golfwet öfwer, och betalte 4 studiosos derföre af mina Resepenningar."
+  },
+  {
+   "bbox": [
+    176,
+    1735,
+    1181,
+    1778
+   ],
+   "category": "Text",
+   "text": "8) Har jagh alla andre Werldslige Bref såsom Morgongåfwo,"
+  },
+  {
+   "bbox": [
+    1105,
+    1814,
+    1179,
+    1853
+   ],
+   "category": "Page-footer",
+   "text": "319"
+  }
+ ]
+}
