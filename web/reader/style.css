@@ -80,6 +80,7 @@ body.nofacs .facs, body.nofacs .divider { display: none; }
 .source { border-bottom: 1.5px dotted var(--source); cursor: help; }
 .source .shelfmark { color: var(--source); }
 .choice { border-bottom: 1.5px solid var(--gt); cursor: help; }
+.app { text-decoration: underline dotted var(--muted); text-underline-offset: 3px; cursor: help; }
 .spaced { letter-spacing: .12em; }
 figure.plate, figure.fig { margin: 1.2em 0; padding: 10px 14px; border: 1px solid var(--line); border-radius: 8px; text-align: center; font: 14px var(--sans); text-indent: 0; }
 figure .figtext { font: 13px/1.4 var(--serif); color: var(--muted); }
@@ -148,3 +149,5 @@ body.marknames .name.low { outline: 1px dashed var(--muted); }
 .entries .mentions li:hover { color: var(--accent); }
 .entries .mentions .where { display: inline; margin-right: 6px; }
 .result-entry { background: var(--accent-soft); }
+.links { display: flex; gap: 10px; flex-wrap: wrap; font: 13px var(--sans); }
+.entries .links { margin-top: 2px; }

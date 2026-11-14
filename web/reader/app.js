@@ -22,11 +22,12 @@ const store = {
 function partLabel(m) { return `Del ${m.part} (${m.year})`; }
 
 // TEI text without notes, running heads and printed readings (for search and lists)
-function plain(node) {
+function plain(node, noQuotes = false) {
   let s = "";
   for (const c of node.childNodes) {
     if (c.nodeType === 3) s += c.nodeValue;
-    else if (c.nodeType === 1 && !["note", "fw", "sic", "pb"].includes(c.localName)) s += plain(c);
+    else if (c.nodeType === 1 && noQuotes && c.localName === "quote") s += " ";
+    else if (c.nodeType === 1 && !["note", "fw", "sic", "pb", "rdg"].includes(c.localName)) s += plain(c, noQuotes);
   }
   return s;
 }
@@ -99,7 +100,8 @@ function render(node, parent, ctx) {
       else e = h("p", node.localName === "ab" ? "ab" : "");
       if (node.localName === "p") {
         e.id = `p${ctx.p++}`;
-        V.paras.push({ id: e.id, page: ctx.page, chapter: ctx.chapter, text: norm(plain(node)) });
+        V.paras.push({ id: e.id, page: ctx.page, chapter: ctx.chapter, text: norm(plain(node)),
+          textNQ: norm(plain(node, true)) });   // without quotations, for "utanför citat"
       }
       renderKids(node, e, ctx);
       break;
@@ -115,14 +117,24 @@ function render(node, parent, ctx) {
       V.pages.push({ facs, n, resp, el: e });
       break;
     }
-    case "fw": case "sic": return;
+    case "fw": case "sic": case "rdg": return;
+    case "app": {   // old-spelling rule: lem = text layer + Kraken, rdg = dots.mocr
+      const rdg = node.getElementsByTagNameNS(TEI, "rdg")[0];
+      e = h("span", "app");
+      e.title = `Gammal stavning enligt PDF-textlagret och Kraken; OCR (dots.mocr) läste: ${rdg ? norm(rdg.textContent) : ""}`;
+      renderKids(node, e, ctx);
+      break;
+    }
     case "note": {
       if (a("place") === "margin") { e = h("span", "sidenote"); renderKids(node, e, ctx); break; }
-      const body = h("div");
-      renderKids(node, body, ctx);
+      const body = h("div"), k = V.notes.length;
       V.notes.push({ n: a("n"), body, page: ctx.page, low: a("cert") === "low" });
+      ctx.note = k;
+      renderKids(node, body, ctx);
+      ctx.note = undefined;
       e = h("button", `fnref${a("cert") === "low" ? " low" : ""}`, a("n") || "*");
-      e.dataset.note = V.notes.length - 1;
+      e.dataset.note = k;
+      e.id = `fnref${k}`;
       e.title = "Fotnot";
       break;
     }
@@ -151,7 +163,8 @@ function render(node, parent, ctx) {
       e.id = `nm${V.nameN++}`;
       if (ref) {
         e.dataset.ref = ref;
-        (V.names[ref] = V.names[ref] || []).push({ id: e.id, page: ctx.page, chapter: ctx.chapter, low: a("cert") === "low" });
+        (V.names[ref] = V.names[ref] || []).push({ id: e.id, page: ctx.page, chapter: ctx.chapter, low: a("cert") === "low",
+          note: ctx.note });
       }
       renderKids(node, e, ctx);
       break;
@@ -224,6 +237,7 @@ function goTo(target, flash = true) {
   if (el.classList.contains("pb")) showPage(+el.dataset.i);
   const fl = el.tagName === "SECTION" ? el.querySelector("h2") || null : el.classList.contains("pb") ? null : el;
   if (flash && fl) { fl.classList.remove("flash"); void fl.offsetWidth; fl.classList.add("flash"); }
+  if (el.classList.contains("fnref")) setTimeout(() => el.click(), 300);   // a mention in a footnote: open the note
 }
 
 // current page = last page marker above the top of the reading pane
@@ -379,9 +393,10 @@ async function runSearch(ev) {
   const pat = fold(q, old).replace(/[.+?^${}()|[\]\\]/g, "\\$&").replace(/\*/g, "[^\\s]*");
   const re = new RegExp(pat, "g");
   const vols = $("qall").checked ? S.vols.map((v) => v.vol) : [S.cur.meta.vol];
+  const scope = $("qscope").value;       // all | quotes | noquotes
   let n = 0, shown = 0;
   const qn = q.replace(/\*/g, "").toLowerCase();
-  for (const kind of ["persons", "places"]) {
+  for (const kind of scope === "all" ? ["persons", "places"] : []) {
     const tot = (e) => Object.values(e.counts).reduce((x, y) => x + y, 0);
     const hits = S.reg[kind].filter((e) => qn.length > 2 && e.name.toLowerCase().includes(qn)).sort((a, b) => tot(b) - tot(a));
     for (const e of hits.slice(0, 5)) {
@@ -394,7 +409,10 @@ async function runSearch(ev) {
   }
   for (const vol of vols) {
     const V = await loadVol(vol);
-    for (const p of V.paras) {
+    // quotations: one item per quotation chain; otherwise paragraphs (with or without their quotations)
+    const items = scope === "quotes" ? V.quotes
+      : V.paras.map((p) => (scope === "noquotes" ? { ...p, text: p.textNQ } : p));
+    for (const p of items) {
       const hay = fold(p.text, old);
       const ms = [...hay.matchAll(re)];
       if (!ms.length) continue;
@@ -408,7 +426,7 @@ async function runSearch(ev) {
         snip, `${vol}/${p.id}`));
     }
   }
-  $("rcount").textContent = `${n} träffar i ${shown}${shown >= 500 ? "+" : ""} stycken`;
+  $("rcount").textContent = `${n} träffar i ${shown}${shown >= 500 ? "+" : ""} ${scope === "quotes" ? "citat" : "stycken"}`;
 }
 
 function renderAbout() {
@@ -465,6 +483,7 @@ function renderEntries(kind) {
   items.sort(sort === "name" ? (a, b) => a.name.localeCompare(b.name, "sv") : (a, b) => total(b) - total(a));
   $(isP ? "pcount" : "lcount").textContent = `${items.length} av ${S.reg[kind].length} ${isP ? "personer" : "orter"}`;
   list.innerHTML = "";
+  let target = null;
   for (const e of items.slice(0, 400)) {
     const it = h("li"), head = h("div", "ent-head");
     head.appendChild(h("span", "ent-name", e.name));
@@ -474,8 +493,38 @@ function renderEntries(kind) {
     it.appendChild(idLinks(e));
     it.onclick = (ev) => { if (!ev.target.closest("a, .mentions")) toggleMentions(it, e); };
     list.appendChild(it);
-    if (S.open === e.id) { toggleMentions(it, e); it.scrollIntoView({ block: "start" }); S.open = null; }
+    if (S.open === e.id) { toggleMentions(it, e); target = it; S.open = null; }
   }
+  // scroll once the whole list is in place: while it is still being built the entry is the last item
+  // and can only reach the bottom of the viewport
+  if (target) {
+    const view = list.closest(".view"), bar = view.querySelector(".list-head");   // sticky; taller when it wraps on phones
+    target.scrollIntoView({ block: "start" });
+    if (bar) view.scrollTop += target.getBoundingClientRect().top - bar.getBoundingClientRect().bottom - 8;
+  }
+}
+// excerpt around one name mention: the name's own position in its paragraph (or sidenote / footnote),
+// without the paragraph's sidenotes and footnote numbers
+function snippetFor(V, m) {
+  const root = m.note !== undefined ? V.notes[m.note].body : V.root;
+  const el = root.querySelector(`#${m.id}`);
+  if (!el) return { html: "", where: "" };
+  let box = el.closest(".sidenote"), where = box ? "marginalrubrik" : m.note !== undefined ? "fotnot" : "";
+  if (!box) box = el.closest("p, h3, td, .figtext, figcaption") || (m.note !== undefined ? root : el.parentNode);
+  const clone = box.cloneNode(true);
+  const target = clone.querySelector(`#${m.id}`);
+  for (const x of clone.querySelectorAll(".sidenote, .fnref")) if (!x.contains(target)) x.remove();
+  let pos = 0;
+  const walk = document.createTreeWalker(clone, NodeFilter.SHOW_TEXT);
+  for (let n = walk.nextNode(); n; n = walk.nextNode()) {
+    if (target.contains(n)) break;
+    pos += n.nodeValue.length;
+  }
+  const t = clone.textContent, name = target.textContent;
+  const a = Math.max(0, pos - 80), b = Math.min(t.length, pos + name.length + 100);
+  const html = (a ? "… " : "") + esc(t.slice(a, pos)) + "<mark>" + esc(name) + "</mark>" +
+    esc(t.slice(pos + name.length, b)) + (b < t.length ? " …" : "");
+  return { html, where };
 }
 async function toggleMentions(it, e) {
   const old = it.querySelector(".mentions");
@@ -485,17 +534,11 @@ async function toggleMentions(it, e) {
   for (const vol of Object.keys(e.counts)) {
     const V = await loadVol(vol);
     for (const m of V.names[e.id] || []) {
-      // snippet: the name in its paragraph
-      const el = V.root.querySelector(`#${m.id}`), p = el ? el.closest("p, .sidenote, h3, td, .figtext") || el.parentNode : null;
-      let snip = "";
-      if (el && p) {
-        const t = p.textContent, name = el.textContent, k = t.indexOf(name);
-        const a = Math.max(0, k - 70), b = Math.min(t.length, k + name.length + 90);
-        snip = (a ? "… " : "") + esc(t.slice(a, k)) + "<mark>" + esc(name) + "</mark>" + esc(t.slice(k + name.length, b)) + (b < t.length ? " …" : "");
-      }
+      const sn = snippetFor(V, m);
       const row = h("li");
-      row.innerHTML = `<span class="where">${esc(partLabel(V.meta))}${m.page ? " · s. " + m.page : ""}${m.low ? " · osäker" : ""}</span>${snip}`;
-      row.onclick = () => { location.hash = `${vol}/${m.id}`; };
+      row.innerHTML = `<span class="where">${esc(partLabel(V.meta))}${m.page ? " · s. " + m.page : ""}${sn.where ? " · " + sn.where : ""}` +
+        `${m.low ? " · osäker" : ""}</span>${sn.html}`;
+      row.onclick = () => { location.hash = m.note !== undefined ? `${vol}/fnref${m.note}` : `${vol}/${m.id}`; };
       ol.appendChild(row);
     }
   }
@@ -532,6 +575,7 @@ function initUI() {
   $("qfilter").oninput = () => renderQuotes();
   $("sfilter").oninput = () => renderSources();
   $("searchform").onsubmit = runSearch;
+  $("qscope").onchange = () => { if ($("q").value.trim()) runSearch(); };
   $("pfilter").oninput = () => renderEntries("persons");
   $("lfilter").oninput = () => renderEntries("places");
   $("psort").onchange = () => renderEntries("persons");
