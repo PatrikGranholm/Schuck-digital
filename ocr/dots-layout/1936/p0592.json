@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 592,
+ "seconds": 30.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [354, 253, 863, 300], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivets skrifter\"}, {\"bbox\": [74, 321, 1134, 1525], \"category\": \"Text\", \"text\": \"funnit sig i arkivet, skrev Berch till honom, att han senast i november måste vara tillbaka, »då jag för min del förklarar, at K. Ingvar med alla sina underliga diur och drakar icke är flera styfwer wärd». Och i sitt minnestal över Bonde (1773) kom han ock att ge ett uttryck åt sin ringa uppfattning av sagans historiska värde: »Nu fick Translatorn Brocman et stöd at fullfölja ämnet och gaf fram sagan om Ingvar Vidfadne(!), full med äfventyr om Drakar, Cycloper och karlar med fogel-näbbar, en läsning, som ifrige fornälskare sätta högt värde uppå — kan åtminstone vara så nyttig som de mera brukeliga Contes de Fées». Men om eftervärlden här nödgas giva Berch rätt, var valet av ämne dock förklarligt ur den åskådning, som då ännu levde kvar från 1600-talet. De sagor, som då utgåvos, voro de, som spelade i Sverige och som därför ansågos återgiva svensk historia. Vad Ingvarsagan beträffar, fanns verkligen ett skäl att tillmäta den ett visst historiskt värde, då det krigståg, som där skildras, även omnämnes på en hel följd av runstenar. Huvudtilldragelsen i sagan var således ett historiskt faktum, bestyrkt av samtida uppgifters vittnesbörd. Även själva sagan är — såsom den senaste utgivaren, Emil Olson, visat — icke alldeles ohistorisk. Sagan sönderfaller nämligen i två bestämt skilda delar, en inledning (något mer än de fyra första kapitlen) och själva huvudpartiet. Sagans redaktör — skriver Olson — »är att betrakta som egentlig författare endast till sagans huvudparti, under det den inledande delen i huvudsak förelegat färdig för honom, så att här ingenting väsentligt är af honom uppfunnet». Det resultat, till vilket Olson i sin undersökning kommer, är, »att sagan visserligen till största delen är en värdelös produkt från sen tid, men att dess uppgifter, särskilt naturligtvis i dess förra del, dock måhända förtjäna något mera beaktande, än som man i senare tid i allmänhet velat tillerkänna dem».\"}, {\"bbox\": [75, 1523, 1127, 1780], \"category\": \"Text\", \"text\": \"Till grund för sin text lade Brocman en avskrift, som han fått av Langebek, gjord efter en Arnamagneansk handskrift 343 b, som å sin sida är en avskrift av A. M. 343 a, det viktigaste manuskriptet av sagan och det, som Olson lagt till grund för sin text. Vidare begagnade Brocman en annan avskrift, som Bonde fått av den danske antikvarien Gram och som likaledes återgår till A. M.\"}, {\"bbox\": [1047, 1809, 1120, 1856], \"category\": \"Page-footer\", \"text\": \"563\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    354,
+    253,
+    863,
+    300
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivets skrifter"
+  },
+  {
+   "bbox": [
+    74,
+    321,
+    1134,
+    1525
+   ],
+   "category": "Text",
+   "text": "funnit sig i arkivet, skrev Berch till honom, att han senast i november måste vara tillbaka, »då jag för min del förklarar, at K. Ingvar med alla sina underliga diur och drakar icke är flera styfwer wärd». Och i sitt minnestal över Bonde (1773) kom han ock att ge ett uttryck åt sin ringa uppfattning av sagans historiska värde: »Nu fick Translatorn Brocman et stöd at fullfölja ämnet och gaf fram sagan om Ingvar Vidfadne(!), full med äfventyr om Drakar, Cycloper och karlar med fogel-näbbar, en läsning, som ifrige fornälskare sätta högt värde uppå — kan åtminstone vara så nyttig som de mera brukeliga Contes de Fées». Men om eftervärlden här nödgas giva Berch rätt, var valet av ämne dock förklarligt ur den åskådning, som då ännu levde kvar från 1600-talet. De sagor, som då utgåvos, voro de, som spelade i Sverige och som därför ansågos återgiva svensk historia. Vad Ingvarsagan beträffar, fanns verkligen ett skäl att tillmäta den ett visst historiskt värde, då det krigståg, som där skildras, även omnämnes på en hel följd av runstenar. Huvudtilldragelsen i sagan var således ett historiskt faktum, bestyrkt av samtida uppgifters vittnesbörd. Även själva sagan är — såsom den senaste utgivaren, Emil Olson, visat — icke alldeles ohistorisk. Sagan sönderfaller nämligen i två bestämt skilda delar, en inledning (något mer än de fyra första kapitlen) och själva huvudpartiet. Sagans redaktör — skriver Olson — »är att betrakta som egentlig författare endast till sagans huvudparti, under det den inledande delen i huvudsak förelegat färdig för honom, så att här ingenting väsentligt är af honom uppfunnet». Det resultat, till vilket Olson i sin undersökning kommer, är, »att sagan visserligen till största delen är en värdelös produkt från sen tid, men att dess uppgifter, särskilt naturligtvis i dess förra del, dock måhända förtjäna något mera beaktande, än som man i senare tid i allmänhet velat tillerkänna dem»."
+  },
+  {
+   "bbox": [
+    75,
+    1523,
+    1127,
+    1780
+   ],
+   "category": "Text",
+   "text": "Till grund för sin text lade Brocman en avskrift, som han fått av Langebek, gjord efter en Arnamagneansk handskrift 343 b, som å sin sida är en avskrift av A. M. 343 a, det viktigaste manuskriptet av sagan och det, som Olson lagt till grund för sin text. Vidare begagnade Brocman en annan avskrift, som Bonde fått av den danske antikvarien Gram och som likaledes återgår till A. M."
+  },
+  {
+   "bbox": [
+    1047,
+    1809,
+    1120,
+    1856
+   ],
+   "category": "Page-footer",
+   "text": "563"
+  }
+ ]
+}

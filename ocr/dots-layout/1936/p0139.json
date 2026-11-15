@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 139,
+ "seconds": 31.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [871, 241, 1268, 276], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [539, 311, 1596, 603], \"category\": \"Text\", \"text\": \"Ty som det bästa af manuscripterne redan ifrån början är utredt och öfwersatt, att det strax kan af de anslagne medel tryckas, det öfrige kan hwarken sägas öka någons lärdom eller landets förmåner på ringaste sätt, så är det ett arbete, hwarmed icke någon, som till annat är dugel., med rätta bör sysselsättas uti ett folklöst land, utan må det lämnas till dem wid academien, som friwilligt och af egen drift deruti wilja arbeta.\"}, {\"bbox\": [539, 603, 1596, 812], \"category\": \"Text\", \"text\": \"Om nu detta gillas och därmed en början göres, torde god anledning kunna gifwas till något af mera wärde; men om desse och flera onödige stater icke indragas eller inrättas effter riketz behof, så ser jag icke, att riket med wår frihet kan hafwa bestånd, utan nödgas göra ren banqueroute.\"}, {\"bbox\": [539, 810, 1596, 1102], \"category\": \"Text\", \"text\": \"Sanningen af alt detta lärer blifwa mera bewisl., enär Rikets Stat hinner utarbetas, då jag fruktar, att Högl. S. U. af wanl. ömhet för dess bästa och sin frihets bestånd lärer finna sig nödsakad att hos Riksens Högl. Ständer angifwa denne wåndan med förslag till att indraga alla de utgifter och syslor, som kunna begripas under namn af mindre nödiga, på det att Riketz högstnödwändiga tarfwor må så mycket bättre kunna bestridas.\"}, {\"bbox\": [577, 1118, 1077, 1159], \"category\": \"Text\", \"text\": \"Staten i Antiquitets Archivo är\"}, {\"bbox\": [684, 1165, 1451, 1649], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>1</td><td>Secreterare</td><td>1350</td></tr><tr><td>2</td><td>Assessorer a 600</td><td>1200</td></tr><tr><td>1</td><td>Translator af gl. språken</td><td>500</td></tr><tr><td>1</td><td>Amanuensis</td><td>250</td></tr><tr><td>1</td><td>d:o</td><td>200</td></tr><tr><td>1</td><td>Ritare</td><td>200</td></tr><tr><td>1</td><td>dräng</td><td>120</td></tr><tr><td></td><td>Expenser</td><td>100</td></tr><tr><td></td><td>Till Böckers inköp</td><td>400</td></tr><tr><td></td><td>Till resepengar</td><td>150</td></tr><tr><td></td><td></td><td>Silf M. 4470</td></tr><tr><td></td><td>Translator Regius en onödig tienst</td><td>600</td></tr><tr><td></td><td></td><td>D. 5070</td></tr></tbody></table>\"}, {\"bbox\": [542, 1676, 1596, 1762], \"category\": \"Text\", \"text\": \"hwilken summa således till en början kan komma staten till godo, så snart de afgå el. befordras, som desse syslor innehafwa.\"}, {\"bbox\": [549, 1800, 622, 1829], \"category\": \"Page-footer\", \"text\": \"122\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    871,
+    241,
+    1268,
+    276
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    539,
+    311,
+    1596,
+    603
+   ],
+   "category": "Text",
+   "text": "Ty som det bästa af manuscripterne redan ifrån början är utredt och öfwersatt, att det strax kan af de anslagne medel tryckas, det öfrige kan hwarken sägas öka någons lärdom eller landets förmåner på ringaste sätt, så är det ett arbete, hwarmed icke någon, som till annat är dugel., med rätta bör sysselsättas uti ett folklöst land, utan må det lämnas till dem wid academien, som friwilligt och af egen drift deruti wilja arbeta."
+  },
+  {
+   "bbox": [
+    539,
+    603,
+    1596,
+    812
+   ],
+   "category": "Text",
+   "text": "Om nu detta gillas och därmed en början göres, torde god anledning kunna gifwas till något af mera wärde; men om desse och flera onödige stater icke indragas eller inrättas effter riketz behof, så ser jag icke, att riket med wår frihet kan hafwa bestånd, utan nödgas göra ren banqueroute."
+  },
+  {
+   "bbox": [
+    539,
+    810,
+    1596,
+    1102
+   ],
+   "category": "Text",
+   "text": "Sanningen af alt detta lärer blifwa mera bewisl., enär Rikets Stat hinner utarbetas, då jag fruktar, att Högl. S. U. af wanl. ömhet för dess bästa och sin frihets bestånd lärer finna sig nödsakad att hos Riksens Högl. Ständer angifwa denne wåndan med förslag till att indraga alla de utgifter och syslor, som kunna begripas under namn af mindre nödiga, på det att Riketz högstnödwändiga tarfwor må så mycket bättre kunna bestridas."
+  },
+  {
+   "bbox": [
+    577,
+    1118,
+    1077,
+    1159
+   ],
+   "category": "Text",
+   "text": "Staten i Antiquitets Archivo är"
+  },
+  {
+   "bbox": [
+    684,
+    1165,
+    1451,
+    1649
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>1</td><td>Secreterare</td><td>1350</td></tr><tr><td>2</td><td>Assessorer a 600</td><td>1200</td></tr><tr><td>1</td><td>Translator af gl. språken</td><td>500</td></tr><tr><td>1</td><td>Amanuensis</td><td>250</td></tr><tr><td>1</td><td>d:o</td><td>200</td></tr><tr><td>1</td><td>Ritare</td><td>200</td></tr><tr><td>1</td><td>dräng</td><td>120</td></tr><tr><td></td><td>Expenser</td><td>100</td></tr><tr><td></td><td>Till Böckers inköp</td><td>400</td></tr><tr><td></td><td>Till resepengar</td><td>150</td></tr><tr><td></td><td></td><td>Silf M. 4470</td></tr><tr><td></td><td>Translator Regius en onödig tienst</td><td>600</td></tr><tr><td></td><td></td><td>D. 5070</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    542,
+    1676,
+    1596,
+    1762
+   ],
+   "category": "Text",
+   "text": "hwilken summa således till en början kan komma staten till godo, så snart de afgå el. befordras, som desse syslor innehafwa."
+  },
+  {
+   "bbox": [
+    549,
+    1800,
+    622,
+    1829
+   ],
+   "category": "Page-footer",
+   "text": "122"
+  }
+ ]
+}

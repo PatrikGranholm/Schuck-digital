@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 418,
+ "seconds": 23.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [385, 251, 769, 286], \"category\": \"Section-header\", \"text\": \"Arbetet inom arkivet\"}, {\"bbox\": [48, 318, 1099, 432], \"category\": \"Table\", \"text\": \"<table><tr><td>juni</td><td>30 dupletter af Romerska Medailler, sålde til Secr. Benzelstierna</td><td>9.4</td></tr><tr><td>Julii</td><td>17 dito af Romerska tripletter i koppar</td><td>18.11»</td></tr></table>\"}, {\"bbox\": [85, 463, 762, 505], \"category\": \"Text\", \"text\": \"De största utgifterna under denna tid voro:\"}, {\"bbox\": [48, 514, 1099, 947], \"category\": \"Table\", \"text\": \"<table><tr><td>»12 st. små bracteater, som fehlades i Kgl. Cabinettet</td><td>36</td></tr><tr><td>Ten Kate om hålländskans öfwerenst. med de gamla göthiska spr.</td><td>30</td></tr><tr><td>Ulphilas ex editione Benzelii, förskrefwen infrån England</td><td>60.14</td></tr><tr><td>St. Britas portrait</td><td>30</td></tr><tr><td>Bokbindaren Frölich</td><td>43.4</td></tr><tr><td>3 stycken ducater, som fehltes af Dr. Christina och K. Carl XI</td><td>58.16</td></tr><tr><td>Medaille öfwer Tractaten i Warschau Fata viam invenient tandem och en liten K. Carl den XI Et regit et tegit Pomeraniam, wäga tilsammans 3 6/16 lod a 9 dr.</td><td>30.12</td></tr><tr><td>En silfwersked fordom Anders Larsson Kruse til Wernstad tilhörig</td><td>33</td></tr><tr><td>Schefferi Vpsalia¹</td><td>30.»</td></tr></table>\"}, {\"bbox\": [50, 978, 1101, 1726], \"category\": \"Text\", \"text\": \"Av ungefär samma karaktär äro inkomster och utgifter under de följande åren. Berchs befogenhet att köpa och sälja är emellertid icke klar. I regeln tyckes han själv hava beslutat, men ibland vände han sig till kanslikollegiet med begäran om dess tillstånd, och någon gång gavs detta med vissa förbehåll. Så skrives i protokollet den 14 juni 1757: »Sluteligen berättade herr Cantzlie Rådet, huruledes uti antiquitets archivo skall ligga en hop gammalmodiga gullsmeds patroner af bly samt gamla Europeiska Medailler, några af koppar, men mästadelen aftryck i bly, som ingen ting kunna tjena uti archivo. Och emedan herr Cantzlie Rådet tykte bättre wara att igenom auction få wända denna onyttiga samling uti penningar, hälst ingen lärd kännare deraf kunde anse dem af något wärde och såsom förtjenande att ibland antiquiteter förwaras; fördenskuld hemställte herr Cantzlie Rådet, om icke denna samling af någon af Kongl. Collegii herrar ledamöter öfwerses och verificeras [kunde] samt efter befundne omständigheter uppå någon auction försäljas, hwartill herr Cantzlie Rådet trodde skulle gifwas god lägenhet, när afledne Lieutnant Wallraves Ritningar uti Målar\"}, {\"bbox\": [87, 1742, 523, 1776], \"category\": \"Footnote\", \"text\": \"¹ Med Schefferus' egenhändiga tillägg.\"}, {\"bbox\": [1023, 1810, 1097, 1849], \"category\": \"Page-footer\", \"text\": \"399\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    385,
+    251,
+    769,
+    286
+   ],
+   "category": "Section-header",
+   "text": "Arbetet inom arkivet"
+  },
+  {
+   "bbox": [
+    48,
+    318,
+    1099,
+    432
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>juni</td><td>30 dupletter af Romerska Medailler, sålde til Secr. Benzelstierna</td><td>9.4</td></tr><tr><td>Julii</td><td>17 dito af Romerska tripletter i koppar</td><td>18.11»</td></tr></table>"
+  },
+  {
+   "bbox": [
+    85,
+    463,
+    762,
+    505
+   ],
+   "category": "Text",
+   "text": "De största utgifterna under denna tid voro:"
+  },
+  {
+   "bbox": [
+    48,
+    514,
+    1099,
+    947
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>»12 st. små bracteater, som fehlades i Kgl. Cabinettet</td><td>36</td></tr><tr><td>Ten Kate om hålländskans öfwerenst. med de gamla göthiska spr.</td><td>30</td></tr><tr><td>Ulphilas ex editione Benzelii, förskrefwen infrån England</td><td>60.14</td></tr><tr><td>St. Britas portrait</td><td>30</td></tr><tr><td>Bokbindaren Frölich</td><td>43.4</td></tr><tr><td>3 stycken ducater, som fehltes af Dr. Christina och K. Carl XI</td><td>58.16</td></tr><tr><td>Medaille öfwer Tractaten i Warschau Fata viam invenient tandem och en liten K. Carl den XI Et regit et tegit Pomeraniam, wäga tilsammans 3 6/16 lod a 9 dr.</td><td>30.12</td></tr><tr><td>En silfwersked fordom Anders Larsson Kruse til Wernstad tilhörig</td><td>33</td></tr><tr><td>Schefferi Vpsalia¹</td><td>30.»</td></tr></table>"
+  },
+  {
+   "bbox": [
+    50,
+    978,
+    1101,
+    1726
+   ],
+   "category": "Text",
+   "text": "Av ungefär samma karaktär äro inkomster och utgifter under de följande åren. Berchs befogenhet att köpa och sälja är emellertid icke klar. I regeln tyckes han själv hava beslutat, men ibland vände han sig till kanslikollegiet med begäran om dess tillstånd, och någon gång gavs detta med vissa förbehåll. Så skrives i protokollet den 14 juni 1757: »Sluteligen berättade herr Cantzlie Rådet, huruledes uti antiquitets archivo skall ligga en hop gammalmodiga gullsmeds patroner af bly samt gamla Europeiska Medailler, några af koppar, men mästadelen aftryck i bly, som ingen ting kunna tjena uti archivo. Och emedan herr Cantzlie Rådet tykte bättre wara att igenom auction få wända denna onyttiga samling uti penningar, hälst ingen lärd kännare deraf kunde anse dem af något wärde och såsom förtjenande att ibland antiquiteter förwaras; fördenskuld hemställte herr Cantzlie Rådet, om icke denna samling af någon af Kongl. Collegii herrar ledamöter öfwerses och verificeras [kunde] samt efter befundne omständigheter uppå någon auction försäljas, hwartill herr Cantzlie Rådet trodde skulle gifwas god lägenhet, när afledne Lieutnant Wallraves Ritningar uti Målar"
+  },
+  {
+   "bbox": [
+    87,
+    1742,
+    523,
+    1776
+   ],
+   "category": "Footnote",
+   "text": "¹ Med Schefferus' egenhändiga tillägg."
+  },
+  {
+   "bbox": [
+    1023,
+    1810,
+    1097,
+    1849
+   ],
+   "category": "Page-footer",
+   "text": "399"
+  }
+ ]
+}

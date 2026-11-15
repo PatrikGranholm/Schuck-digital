@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 447,
+ "seconds": 28.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [903, 261, 1297, 297], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [573, 331, 1625, 1698], \"category\": \"Text\", \"text\": \"som Kungl. Maj:t i så fall skulle ha avgivit — men i stället inkom från Serenius en ny skrivelse (Kanslikoll. Inkomna skrivelser sign. E IV. 15), i vilken han kraftigt vederlade magistraten: »Edre Excellencer och höglofl. Kongl. Cancellie Collegium tackar jag ödmiukast för tillåtit genomläsande af wällofl. Landshöfdinge Embetets i Ny-kiöping swar angående St. Annæ Bild. Wälbem:te Embete hade med wärkställigheten af sin undfångne befallning om Bildens flyttande icke behöft anlita någon annan än nästa kronofogde, så wida Rummet, der den står, icke är innom stadsens Jurisdiction utan i allhelgona sokn och Rönö härad; men H. LandsSecreteraren Corvin, hwars Expedition detta är, har behagat wisa den Complai-sance för lofl. Magistraten at i stället för swar om wärkställigheten insända deras lösa sagor och tro dem förtiena den reflexion, at högl. Kongl. Cancellie Collegium skulle finna sig oberättigadt til dess giorde anstalter. Okunnoghet om de Kongl. förordningar, som ställa Riksens antiquiteter under högl. Kongl. Cancellie-Collegii höga wård allena, kan uti trångbodda begrep wärcka en sådan con-flictus Jurisdictionum emellan 2:ne Kongl. Collegier, men den, som wil bruka sin efftertancka, kan wäl finna, hwad skillnad det är emellan En antiquitet och Ett kugghjul i et qwarnInventarium samt under hwars disposition hwardera höra bör. Det är ingen sanning fördold dermed, at jag kallat St. Annæ qwarn för Nykiöpings qwarnen, ty hon heter begge delar. Namnet af St. Annæ Täppor, där fattig-huset står uppå, deciderar äfwen så mycket på denne sidan. Ingen har större förfarenhet än jag, hwar St. Annæ Kloster stådt, som med mycken kostnad och arbete upgräfwit sielfwa sträckmuren af klostret och giordt åker deraf samt bygt stenhuset på den behållna klosterkjällaren. Wore wällofl. Landshöfdinge Embetet äfwen så hielpsamt at skaffa St. Annæ qwarn til gångs som at förswara en Bild däruti, så förundrade sig icke hela landet der öfwer at se henne af Magistraten igensluten til Borgerskapets skada och Cronan til årlig mistning af 600 dr. smts qwarneRänta. Stockholm d. 18 December 1760.\"}, {\"bbox\": [1385, 1696, 1586, 1741], \"category\": \"Text\", \"text\": \"J. Serenius.»\"}, {\"bbox\": [573, 1807, 652, 1853], \"category\": \"Page-footer\", \"text\": \"428\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    903,
+    261,
+    1297,
+    297
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    573,
+    331,
+    1625,
+    1698
+   ],
+   "category": "Text",
+   "text": "som Kungl. Maj:t i så fall skulle ha avgivit — men i stället inkom från Serenius en ny skrivelse (Kanslikoll. Inkomna skrivelser sign. E IV. 15), i vilken han kraftigt vederlade magistraten: »Edre Excellencer och höglofl. Kongl. Cancellie Collegium tackar jag ödmiukast för tillåtit genomläsande af wällofl. Landshöfdinge Embetets i Ny-kiöping swar angående St. Annæ Bild. Wälbem:te Embete hade med wärkställigheten af sin undfångne befallning om Bildens flyttande icke behöft anlita någon annan än nästa kronofogde, så wida Rummet, der den står, icke är innom stadsens Jurisdiction utan i allhelgona sokn och Rönö härad; men H. LandsSecreteraren Corvin, hwars Expedition detta är, har behagat wisa den Complai-sance för lofl. Magistraten at i stället för swar om wärkställigheten insända deras lösa sagor och tro dem förtiena den reflexion, at högl. Kongl. Cancellie Collegium skulle finna sig oberättigadt til dess giorde anstalter. Okunnoghet om de Kongl. förordningar, som ställa Riksens antiquiteter under högl. Kongl. Cancellie-Collegii höga wård allena, kan uti trångbodda begrep wärcka en sådan con-flictus Jurisdictionum emellan 2:ne Kongl. Collegier, men den, som wil bruka sin efftertancka, kan wäl finna, hwad skillnad det är emellan En antiquitet och Ett kugghjul i et qwarnInventarium samt under hwars disposition hwardera höra bör. Det är ingen sanning fördold dermed, at jag kallat St. Annæ qwarn för Nykiöpings qwarnen, ty hon heter begge delar. Namnet af St. Annæ Täppor, där fattig-huset står uppå, deciderar äfwen så mycket på denne sidan. Ingen har större förfarenhet än jag, hwar St. Annæ Kloster stådt, som med mycken kostnad och arbete upgräfwit sielfwa sträckmuren af klostret och giordt åker deraf samt bygt stenhuset på den behållna klosterkjällaren. Wore wällofl. Landshöfdinge Embetet äfwen så hielpsamt at skaffa St. Annæ qwarn til gångs som at förswara en Bild däruti, så förundrade sig icke hela landet der öfwer at se henne af Magistraten igensluten til Borgerskapets skada och Cronan til årlig mistning af 600 dr. smts qwarneRänta. Stockholm d. 18 December 1760."
+  },
+  {
+   "bbox": [
+    1385,
+    1696,
+    1586,
+    1741
+   ],
+   "category": "Text",
+   "text": "J. Serenius.»"
+  },
+  {
+   "bbox": [
+    573,
+    1807,
+    652,
+    1853
+   ],
+   "category": "Page-footer",
+   "text": "428"
+  }
+ ]
+}

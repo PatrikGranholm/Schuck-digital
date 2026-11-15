@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 247,
+ "seconds": 30.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [883, 250, 1277, 286], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [555, 319, 1604, 437], \"category\": \"Text\", \"text\": \"förklarades e. o. assessorn Brocman behörig att tillträda lönen (Kansli-koll. prot. 23 sept. 1765), och Mozelius sökte då den efter Brocman lediga amanuenslönen.\"}, {\"bbox\": [551, 443, 1604, 1024], \"category\": \"Text\", \"text\": \"Då detta ärende den 13 februari 1766 förehades, föredrogs ett skriftligt yttrande av Berch: »Hos Edre Excellencer och Kongl. Cantzlij-Collegium hafwer Assessoren Hr. Fredr. Mozelius anhållit om den löhn, som Bibliothecarien och Translator af gamla Språken H. N. R. Brocman härtils innehafft, hwilket Edre Excellencer och Kongl. Collegium höggunstigast behagat lemna til mit utlåtande. Hwarwid iag hafwer den nåden at ödmiukast föra til minnes, huru för detta wid et dylikt tilfälle, när Extraordinarie Assessoren, nu Banco-Commissarien Bergius sig anmälte til en då ledig Amanuensis sysla, Edre Excellencer och Kgl. Collegium ansågo denna begäran såsom mindre skälig, emedan Bergius wäl igenom Kongl. Fulmakt hade fått förhoppning på en wid tilfälle ledig blifwande Assessors löhn, men icke på en Amanuensis, hwilken aktades förbehållen den tienstgiörande.\"}, {\"bbox\": [551, 1024, 1602, 1396], \"category\": \"Text\", \"text\": \"Nu är egentel:n en löhn ledig för en sådan Amanuensis, som effter faststäld Stat bör wara natione Islandus. Dess tilsättande står uti Edre Excellencers och Kgl. Cantzlij Collegii wälbehag, antingen det straxt skal gå för sig eller dermed ännu någon tid dröijas, til dess man kan få anledning på någon wäl-studerad Isländare, som kan giöra behörigt gagn wid Archivum, och man ej behöfwer åtnöija sig med någon, som utan behörig underbygnad i Studier endast för fattigdom skul och att komma til litet bättre föda än på Island skulle emottaga en sådan kallelse.\"}, {\"bbox\": [548, 1396, 1602, 1685], \"category\": \"Text\", \"text\": \"Imedlertid kan stället icke anses som oumgängeligit och af högsta nödwändighet at upfyllas, så wida Hr. Brocman jemte mångfaldig annan wacker kunskap också är tilräckeligen bewandrad uti Isländska språket, kunnandes den besparing, som under vaca[n]cen giöres på en Islandi löhn, anwändas til Resepenningar och första inrätning för en ny ankommande, som i annor händelse måste falla den til Extra-utgifter bestämde fonden til last.\"}, {\"bbox\": [548, 1685, 1602, 1772], \"category\": \"Text\", \"text\": \"Dock i fall Edre Excellencer och Kgl. Cantzlij Collegium höggunstigast skulle finna, at Herr Mozelius bör hugnas med denna\"}, {\"bbox\": [553, 1803, 629, 1842], \"category\": \"Page-footer\", \"text\": \"230\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    883,
+    250,
+    1277,
+    286
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    555,
+    319,
+    1604,
+    437
+   ],
+   "category": "Text",
+   "text": "förklarades e. o. assessorn Brocman behörig att tillträda lönen (Kansli-koll. prot. 23 sept. 1765), och Mozelius sökte då den efter Brocman lediga amanuenslönen."
+  },
+  {
+   "bbox": [
+    551,
+    443,
+    1604,
+    1024
+   ],
+   "category": "Text",
+   "text": "Då detta ärende den 13 februari 1766 förehades, föredrogs ett skriftligt yttrande av Berch: »Hos Edre Excellencer och Kongl. Cantzlij-Collegium hafwer Assessoren Hr. Fredr. Mozelius anhållit om den löhn, som Bibliothecarien och Translator af gamla Språken H. N. R. Brocman härtils innehafft, hwilket Edre Excellencer och Kongl. Collegium höggunstigast behagat lemna til mit utlåtande. Hwarwid iag hafwer den nåden at ödmiukast föra til minnes, huru för detta wid et dylikt tilfälle, när Extraordinarie Assessoren, nu Banco-Commissarien Bergius sig anmälte til en då ledig Amanuensis sysla, Edre Excellencer och Kgl. Collegium ansågo denna begäran såsom mindre skälig, emedan Bergius wäl igenom Kongl. Fulmakt hade fått förhoppning på en wid tilfälle ledig blifwande Assessors löhn, men icke på en Amanuensis, hwilken aktades förbehållen den tienstgiörande."
+  },
+  {
+   "bbox": [
+    551,
+    1024,
+    1602,
+    1396
+   ],
+   "category": "Text",
+   "text": "Nu är egentel:n en löhn ledig för en sådan Amanuensis, som effter faststäld Stat bör wara natione Islandus. Dess tilsättande står uti Edre Excellencers och Kgl. Cantzlij Collegii wälbehag, antingen det straxt skal gå för sig eller dermed ännu någon tid dröijas, til dess man kan få anledning på någon wäl-studerad Isländare, som kan giöra behörigt gagn wid Archivum, och man ej behöfwer åtnöija sig med någon, som utan behörig underbygnad i Studier endast för fattigdom skul och att komma til litet bättre föda än på Island skulle emottaga en sådan kallelse."
+  },
+  {
+   "bbox": [
+    548,
+    1396,
+    1602,
+    1685
+   ],
+   "category": "Text",
+   "text": "Imedlertid kan stället icke anses som oumgängeligit och af högsta nödwändighet at upfyllas, så wida Hr. Brocman jemte mångfaldig annan wacker kunskap också är tilräckeligen bewandrad uti Isländska språket, kunnandes den besparing, som under vaca[n]cen giöres på en Islandi löhn, anwändas til Resepenningar och första inrätning för en ny ankommande, som i annor händelse måste falla den til Extra-utgifter bestämde fonden til last."
+  },
+  {
+   "bbox": [
+    548,
+    1685,
+    1602,
+    1772
+   ],
+   "category": "Text",
+   "text": "Dock i fall Edre Excellencer och Kgl. Cantzlij Collegium höggunstigast skulle finna, at Herr Mozelius bör hugnas med denna"
+  },
+  {
+   "bbox": [
+    553,
+    1803,
+    629,
+    1842
+   ],
+   "category": "Page-footer",
+   "text": "230"
+  }
+ ]
+}

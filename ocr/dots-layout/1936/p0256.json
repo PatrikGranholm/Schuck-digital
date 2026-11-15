@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 256,
+ "seconds": 29.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [103, 245, 1089, 288], \"category\": \"Page-header\", \"text\": \"Arkivet och Biblioteket under riksdagen 1765–1766\"}, {\"bbox\": [65, 315, 1130, 1314], \"category\": \"Text\", \"text\": \"trädet den 11 april: »I anledning af hwad Deputationen kunde åligga tilse rörande Literaturen och Wetenskaperne i Riket, fant Deputationen nödigt at af Kongl. CantzlijCollegio warda underrättad, huru med Antiquitets Archivi wärket nu war beskaffadt, hälst allmänheten på någon tid icke sedt någre synnerlige arbeten derifrån genom trycket utgifwas, ehuru antalet uppå assessorerne och arbetare likwäl lärer wara förökt emot förra tider och desse jemwäl nu hos Riksens Ständer begära tillökning på deras löner. Secreteraren von Stenhagen gaf wäl tillkjenna, huru antiquitets archivum och Bibliotheket blifwit för någon tid sedan el. 1752 (!) hopslagit til et och samma wärk; at så wäl då som sedermera för Bibliothequets förestående flyttning någon tillökning af Bibliothecarier eller assessorer samt betjening kan skjedd wara, men at de icke undfått någon lön, hwilken flyttning ännu ej kommit at gå för sig och för den skull desse personer hittills äro bibehållne. At orsaken till afstannandet med arbetens utgifwande genom trycket woro egenteligen otillräckelige medel at besörja uplagorne, hälst flere arbeten lära uti manuscript wara färdige, men hwarken auctorerne sjelfwa el. Antiquitets wärket kunna förlägga kostnaden. Deputationen fant dock nödigt at utaf Kongl. Collegium häröfwer inhemta närmare underrättelse samt dess utlåtande, huru ock på hwad sätt de hinder lättast måge kunna häfwas, som torde ligga i wägen, så at detta Antiquitets wärck må kunna wara och blifwa för Literaturen och det almänna så nyttigt, som det i sig sjelf bör wara» (Mindre sekreta deputationens prot. den 11 april 1765).\"}, {\"bbox\": [72, 1311, 1132, 1771], \"category\": \"Text\", \"text\": \"I kanslikollegiet remitterades deputationens skrivelse den 25 april till Berch med åläggande för honom att däröver avgiva sitt yttrande. Med detta nya memorial blev han färdig redan den 30 april: »At gifwa Riksens höglofl. Ständers mindre Secreta Deputation den åstundade uplysningen om Bibliothekets och antiquitets Archivi ledamöters giöromål lärer wara tilräckeligit, om Edre Excellencer och konglige Collegium täckas låta förelägga högbemälte Deputation de Berättelser, som nyligen i Kongl. Collegio blifwit inlemnade om hela Betieningens arbete nu för tiden, hwaruti sedermera ingen ändring skedt. Deputation torde då sielf finna, at wid swaga löner näppeligen något mera kunnat uträttas, när mången Betient för\"}, {\"bbox\": [1052, 1802, 1129, 1841], \"category\": \"Page-footer\", \"text\": \"239\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    103,
+    245,
+    1089,
+    288
+   ],
+   "category": "Page-header",
+   "text": "Arkivet och Biblioteket under riksdagen 1765–1766"
+  },
+  {
+   "bbox": [
+    65,
+    315,
+    1130,
+    1314
+   ],
+   "category": "Text",
+   "text": "trädet den 11 april: »I anledning af hwad Deputationen kunde åligga tilse rörande Literaturen och Wetenskaperne i Riket, fant Deputationen nödigt at af Kongl. CantzlijCollegio warda underrättad, huru med Antiquitets Archivi wärket nu war beskaffadt, hälst allmänheten på någon tid icke sedt någre synnerlige arbeten derifrån genom trycket utgifwas, ehuru antalet uppå assessorerne och arbetare likwäl lärer wara förökt emot förra tider och desse jemwäl nu hos Riksens Ständer begära tillökning på deras löner. Secreteraren von Stenhagen gaf wäl tillkjenna, huru antiquitets archivum och Bibliotheket blifwit för någon tid sedan el. 1752 (!) hopslagit til et och samma wärk; at så wäl då som sedermera för Bibliothequets förestående flyttning någon tillökning af Bibliothecarier eller assessorer samt betjening kan skjedd wara, men at de icke undfått någon lön, hwilken flyttning ännu ej kommit at gå för sig och för den skull desse personer hittills äro bibehållne. At orsaken till afstannandet med arbetens utgifwande genom trycket woro egenteligen otillräckelige medel at besörja uplagorne, hälst flere arbeten lära uti manuscript wara färdige, men hwarken auctorerne sjelfwa el. Antiquitets wärket kunna förlägga kostnaden. Deputationen fant dock nödigt at utaf Kongl. Collegium häröfwer inhemta närmare underrättelse samt dess utlåtande, huru ock på hwad sätt de hinder lättast måge kunna häfwas, som torde ligga i wägen, så at detta Antiquitets wärck må kunna wara och blifwa för Literaturen och det almänna så nyttigt, som det i sig sjelf bör wara» (Mindre sekreta deputationens prot. den 11 april 1765)."
+  },
+  {
+   "bbox": [
+    72,
+    1311,
+    1132,
+    1771
+   ],
+   "category": "Text",
+   "text": "I kanslikollegiet remitterades deputationens skrivelse den 25 april till Berch med åläggande för honom att däröver avgiva sitt yttrande. Med detta nya memorial blev han färdig redan den 30 april: »At gifwa Riksens höglofl. Ständers mindre Secreta Deputation den åstundade uplysningen om Bibliothekets och antiquitets Archivi ledamöters giöromål lärer wara tilräckeligit, om Edre Excellencer och konglige Collegium täckas låta förelägga högbemälte Deputation de Berättelser, som nyligen i Kongl. Collegio blifwit inlemnade om hela Betieningens arbete nu för tiden, hwaruti sedermera ingen ändring skedt. Deputation torde då sielf finna, at wid swaga löner näppeligen något mera kunnat uträttas, när mången Betient för"
+  },
+  {
+   "bbox": [
+    1052,
+    1802,
+    1129,
+    1841
+   ],
+   "category": "Page-footer",
+   "text": "239"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 104,
+ "seconds": 30.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [350, 251, 933, 292], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet 1747—1751\"}, {\"bbox\": [116, 319, 1171, 820], \"category\": \"Text\", \"text\": \"gjorts, hade det tillämnade stora runverket likväl ej kommit till stånd, men »år 1747 den 14 Decembr. på Riksdagen behagade Riksens Höglofl. Ständer hos Hans Majestät i underdånighet anmäla, at mig skulle detta arbete påläggas, hvilket af vår Allernådigaste Konung den 3 Maji derpåföljande blef i nåder stadfästat. Hvad hinder och svårigheter mig sedan legat i vägen, måste jag förtiga. Dock till min enskyllan endast nämna, at jag hade tänkt bifoga uttolkning ok anmärkningar öfver hvar endaste sten, hade okså renskrifna ok uti Höglofl. Kongl. Cancellie Collegio upvista aderton sextern deraf, men som jag sjelf måste sörja för kostnaden, så var jag nödsakad utelämna hela denna uttydning ok alla anmärkningar, kunnande nu endast visa et litet prof af dem bägge.»\"}, {\"bbox\": [118, 817, 1171, 1152], \"category\": \"Text\", \"text\": \"Företalet, »Underrättelse om dessa Runstenar», upptager tio sidor och behandlar utom runforskningens historia även frågan åt vilka dessa stenar upprests, deras ålder, språket, där svenska förklaras vara moder även till latinet, ormslingorna och korset på många stenar. I fråga om runstenarnas ålder ansluter Göransson sig troget till Rudbeck: »Angående dessa Stenskrifters ålder, så finnes den dels af Stenerna sjelfva, dels af andra vitnen, ok märkom vi derom följande:\"}, {\"bbox\": [122, 1147, 1171, 1309], \"category\": \"Text\", \"text\": \"I. Bällesta stenar, som tala om Ugg, Thor, Tyfon ok Arkil, gifva nog klarligen sin ålder vid handen, emedan desse namn tillika icke förekomma flere gånger uti Svenska historien än vid 2000 år för Christi födelse.\"}, {\"bbox\": [124, 1313, 1171, 1520], \"category\": \"Text\", \"text\": \"II. Käleby hällar N:o 835 äro upsatte, då Ulfer eller Alfer ok Thor varit Konungar, det är vid verldenes år 2000. Ty Alf var Bores son ok broder med Odhin I ok sålunda Thors farbroder; denna Thor var ÖfverKonung på Scandö, men på samma tid var uti den del af Svea Rike, som het Alfheim, Alf eller Ulf konung.\"}, {\"bbox\": [124, 1520, 1174, 1772], \"category\": \"Text\", \"text\": \"III. Ärja stenen N:o 698 efter alla Amvits söner, som varit vårdhållare uti Sodoma etc., tyckes blifva för gammal, om här förstås Sodom, som vid verldenes år 2100 förstördes. Men han kan ändå icke öfvergå i ålder Bellesta oc Kälby stenar. Jag vil aldeles icke påbörda någon min mening, utan lämna allenast följande at öfvervägas. På andra våra Runstenar läser man ordet Jorsala eller Je-\"}, {\"bbox\": [1122, 1797, 1171, 1843], \"category\": \"Page-footer\", \"text\": \"87\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    350,
+    251,
+    933,
+    292
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet 1747—1751"
+  },
+  {
+   "bbox": [
+    116,
+    319,
+    1171,
+    820
+   ],
+   "category": "Text",
+   "text": "gjorts, hade det tillämnade stora runverket likväl ej kommit till stånd, men »år 1747 den 14 Decembr. på Riksdagen behagade Riksens Höglofl. Ständer hos Hans Majestät i underdånighet anmäla, at mig skulle detta arbete påläggas, hvilket af vår Allernådigaste Konung den 3 Maji derpåföljande blef i nåder stadfästat. Hvad hinder och svårigheter mig sedan legat i vägen, måste jag förtiga. Dock till min enskyllan endast nämna, at jag hade tänkt bifoga uttolkning ok anmärkningar öfver hvar endaste sten, hade okså renskrifna ok uti Höglofl. Kongl. Cancellie Collegio upvista aderton sextern deraf, men som jag sjelf måste sörja för kostnaden, så var jag nödsakad utelämna hela denna uttydning ok alla anmärkningar, kunnande nu endast visa et litet prof af dem bägge.»"
+  },
+  {
+   "bbox": [
+    118,
+    817,
+    1171,
+    1152
+   ],
+   "category": "Text",
+   "text": "Företalet, »Underrättelse om dessa Runstenar», upptager tio sidor och behandlar utom runforskningens historia även frågan åt vilka dessa stenar upprests, deras ålder, språket, där svenska förklaras vara moder även till latinet, ormslingorna och korset på många stenar. I fråga om runstenarnas ålder ansluter Göransson sig troget till Rudbeck: »Angående dessa Stenskrifters ålder, så finnes den dels af Stenerna sjelfva, dels af andra vitnen, ok märkom vi derom följande:"
+  },
+  {
+   "bbox": [
+    122,
+    1147,
+    1171,
+    1309
+   ],
+   "category": "Text",
+   "text": "I. Bällesta stenar, som tala om Ugg, Thor, Tyfon ok Arkil, gifva nog klarligen sin ålder vid handen, emedan desse namn tillika icke förekomma flere gånger uti Svenska historien än vid 2000 år för Christi födelse."
+  },
+  {
+   "bbox": [
+    124,
+    1313,
+    1171,
+    1520
+   ],
+   "category": "Text",
+   "text": "II. Käleby hällar N:o 835 äro upsatte, då Ulfer eller Alfer ok Thor varit Konungar, det är vid verldenes år 2000. Ty Alf var Bores son ok broder med Odhin I ok sålunda Thors farbroder; denna Thor var ÖfverKonung på Scandö, men på samma tid var uti den del af Svea Rike, som het Alfheim, Alf eller Ulf konung."
+  },
+  {
+   "bbox": [
+    124,
+    1520,
+    1174,
+    1772
+   ],
+   "category": "Text",
+   "text": "III. Ärja stenen N:o 698 efter alla Amvits söner, som varit vårdhållare uti Sodoma etc., tyckes blifva för gammal, om här förstås Sodom, som vid verldenes år 2100 förstördes. Men han kan ändå icke öfvergå i ålder Bellesta oc Kälby stenar. Jag vil aldeles icke påbörda någon min mening, utan lämna allenast följande at öfvervägas. På andra våra Runstenar läser man ordet Jorsala eller Je-"
+  },
+  {
+   "bbox": [
+    1122,
+    1797,
+    1171,
+    1843
+   ],
+   "category": "Page-footer",
+   "text": "87"
+  }
+ ]
+}

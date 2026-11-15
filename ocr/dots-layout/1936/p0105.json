@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 105,
+ "seconds": 30.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [867, 253, 1264, 289], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [540, 323, 1590, 855], \"category\": \"Text\", \"text\": \"rusalem samt Ascalon, Asiefarare etc. Vi hafve bevis utur de säkraste historier om Nordiska folkets resor til den orten. Phöniciska språket har en myckenhet Sveo Göthiska ord, som kunna ses upräknade i Atlantica uti III Tom. Phönicien uti allsta tiden ok Egypten voro et, ok deras allsta historier vitna, at de Landens första Konung var Thor eller Asa Thurn, som kom dit ifrån Nordlanden i Europa; med honom var Arkil eller Härkul, som också kallas Tyr, i följe; denne blef af Abraham emottagen och satt öfwer hans barn af Ketura. Ok både Thor ok Arkil hade Nordast i Europa uprest stenar med bokstäfver ristade. Än mer: uti Palästina före Mosis tid bodde et slägte, som kallas Åsar, et annat, som het Thussar ok tillika med dessa de Scythar uti sitt Scythopoli komne ifrån Atlantiska ön.\"}, {\"bbox\": [538, 861, 1585, 1111], \"category\": \"Text\", \"text\": \"At Galmarna nödvändigt betyder Galiläa, åtager jag mig icke at bevisa, men det kan jag säja med säkerhet, at Galiläa uti Es. 8, 23 kallas Heb. dæræch hajam, det är Galmarna på Göthiska eller Galiläa vid hafvet; äfven heter hon Galil gojim, det är: efter Sym. öfversättning af Gen. 14. 1—9, Jos 1, 2 Galilæa Scytharum. Jämväl æræs hachosæk, på Göthiska: Galmorna, den mörka Galiläa.»\"}, {\"bbox\": [533, 1110, 1585, 1773], \"category\": \"Text\", \"text\": \"Efter företalet följa ytterligare sex sidor, av vilka den första upptages av titeln: »De märkvärdigaste runstenars uttolkning, hvaraf de öfriga kunna utan möda läsas, författad af Johan Göransson.» På de fyra följande sidorna har Göransson upptagit närmare hundra runinskrifter, på vänstersidan runskriften och på den högra den nysvenska översättningen, men ingen av dem är särdeles märkvärdig. Den sjätte sidan upptages av titeln på de följande runstensbilderna: »Uplands Runstenar Ok Först Attundalands», men under denna titel har han fogat två Nota bene: »NB. En del af dessa Stenar föreställa Tre cirklar, som uti deras Theologia utmärka Attin, Vile och Ve (här kan ses anmärk. til Voluspa), se N:o 96, 102, 103, 109, 115, 128 etc. På andra grundritningen af deras Gudahof med sin ringgård, jämför 44, 105, 413 etc. med grundritningen 379. Någre äro just like en port eller dörr med ett korss uti, som ville de säga: Här är Himmelens Port. Ok som hvar en Runa består först ok främst af en Rätt staf ok nästan alla lineer af ormarna gå\"}, {\"bbox\": [538, 1799, 584, 1837], \"category\": \"Page-footer\", \"text\": \"88\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    867,
+    253,
+    1264,
+    289
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    540,
+    323,
+    1590,
+    855
+   ],
+   "category": "Text",
+   "text": "rusalem samt Ascalon, Asiefarare etc. Vi hafve bevis utur de säkraste historier om Nordiska folkets resor til den orten. Phöniciska språket har en myckenhet Sveo Göthiska ord, som kunna ses upräknade i Atlantica uti III Tom. Phönicien uti allsta tiden ok Egypten voro et, ok deras allsta historier vitna, at de Landens första Konung var Thor eller Asa Thurn, som kom dit ifrån Nordlanden i Europa; med honom var Arkil eller Härkul, som också kallas Tyr, i följe; denne blef af Abraham emottagen och satt öfwer hans barn af Ketura. Ok både Thor ok Arkil hade Nordast i Europa uprest stenar med bokstäfver ristade. Än mer: uti Palästina före Mosis tid bodde et slägte, som kallas Åsar, et annat, som het Thussar ok tillika med dessa de Scythar uti sitt Scythopoli komne ifrån Atlantiska ön."
+  },
+  {
+   "bbox": [
+    538,
+    861,
+    1585,
+    1111
+   ],
+   "category": "Text",
+   "text": "At Galmarna nödvändigt betyder Galiläa, åtager jag mig icke at bevisa, men det kan jag säja med säkerhet, at Galiläa uti Es. 8, 23 kallas Heb. dæræch hajam, det är Galmarna på Göthiska eller Galiläa vid hafvet; äfven heter hon Galil gojim, det är: efter Sym. öfversättning af Gen. 14. 1—9, Jos 1, 2 Galilæa Scytharum. Jämväl æræs hachosæk, på Göthiska: Galmorna, den mörka Galiläa.»"
+  },
+  {
+   "bbox": [
+    533,
+    1110,
+    1585,
+    1773
+   ],
+   "category": "Text",
+   "text": "Efter företalet följa ytterligare sex sidor, av vilka den första upptages av titeln: »De märkvärdigaste runstenars uttolkning, hvaraf de öfriga kunna utan möda läsas, författad af Johan Göransson.» På de fyra följande sidorna har Göransson upptagit närmare hundra runinskrifter, på vänstersidan runskriften och på den högra den nysvenska översättningen, men ingen av dem är särdeles märkvärdig. Den sjätte sidan upptages av titeln på de följande runstensbilderna: »Uplands Runstenar Ok Först Attundalands», men under denna titel har han fogat två Nota bene: »NB. En del af dessa Stenar föreställa Tre cirklar, som uti deras Theologia utmärka Attin, Vile och Ve (här kan ses anmärk. til Voluspa), se N:o 96, 102, 103, 109, 115, 128 etc. På andra grundritningen af deras Gudahof med sin ringgård, jämför 44, 105, 413 etc. med grundritningen 379. Någre äro just like en port eller dörr med ett korss uti, som ville de säga: Här är Himmelens Port. Ok som hvar en Runa består först ok främst af en Rätt staf ok nästan alla lineer af ormarna gå"
+  },
+  {
+   "bbox": [
+    538,
+    1799,
+    584,
+    1837
+   ],
+   "category": "Page-footer",
+   "text": "88"
+  }
+ ]
+}

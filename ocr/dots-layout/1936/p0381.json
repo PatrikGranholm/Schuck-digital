@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 381,
+ "seconds": 30.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [901, 267, 1304, 303], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [571, 337, 1623, 415], \"category\": \"Text\", \"text\": \"obligé de faire grace à des morceaux, qu'en amateur je mettrois volontiers au rebut.\"}, {\"bbox\": [571, 420, 1623, 545], \"category\": \"Text\", \"text\": \"Votre equité, Monsieur, m'a rassuré; au lieu que je n'ouvre mes porte-feuilles qu'avec mefiance à des gens fiers et persuadés de leur gout delicat.\"}, {\"bbox\": [571, 545, 1623, 787], \"category\": \"Text\", \"text\": \"Votre politesse est encore allée jusqu'à m'offrir votre assistance dans l'augmentation de mes portraits; le voyage literaire, que Vous êtes sur le point de faire vous donnant occasion d'entrer dans les boutiques des libraires et des marchands d'estampes, où probablement mainte gravure, qui seroit mon fait, vous tombera sous la main.» — — —\"}, {\"bbox\": [567, 834, 1623, 1538], \"category\": \"Text\", \"text\": \"Om denna samling skrev han i sin självbiografi: »Denna samling, som uti sin sort är oförnekel. den största i Riket, wille han hafwa förwarad wid archivum, til dess en gång Kgl. Bibliotheket i alla dess grenar blifwer så stort, at man derwid behöfwer en egen Garde des Estampes, då ock Berchs collection må dit flyttas». Samlingen, som Berch fortsatte även efter 1767, kom efter hans död först till antikvitetsarkivet och sedan till Kongl. biblioteket, där den — enligt Klemmings anteckning — »låg vanvårdad och plundrad till 1846, då artisten Mandelgren fick ordna den». En annan samling, över vilken katalogen finnes i K. B. sign. U. 280 och 281, var Swenska Land-Chartor, Städers Prospecter och Hus til deras elevationer och grundritningar jemwäl Herregårdar och märkeliga Monumenter. Denna samling tyckes han redan i livstiden hava skänkt till antikvitetsarkivet, ty vänstersidorna ha överskriften »C. R. Berchs samling» och högersidorna »Kgl. Antiq. archivi Tilökningar». — dessa senare dock betydligt färre än de förra. Även denna samling kom sedermera till Kungl. biblioteket.\"}, {\"bbox\": [567, 1538, 1623, 1663], \"category\": \"Text\", \"text\": \"En tredje samling kallar han i självbiografien »Lararium, bestående af små antique figurer och kärl af koppar, marmor och ler» — antalet har han ej utskrivit. Den övertogs sedan av Gustav III.\"}, {\"bbox\": [567, 1663, 1623, 1788], \"category\": \"Text\", \"text\": \"Den fjärde samlingen låg emellertid hans hjärta närmast, och över denna finnes i Vitterhets-, Historie- och Antikvitetsakademien en ytterst prydlig katalog i folio, skriven med Berchs egen stil:\"}, {\"bbox\": [447, 1666, 557, 1758], \"category\": \"Text\", \"text\": \"Utländska skådepeningar\"}, {\"bbox\": [571, 1815, 646, 1861], \"category\": \"Page-footer\", \"text\": \"362\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    901,
+    267,
+    1304,
+    303
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    571,
+    337,
+    1623,
+    415
+   ],
+   "category": "Text",
+   "text": "obligé de faire grace à des morceaux, qu'en amateur je mettrois volontiers au rebut."
+  },
+  {
+   "bbox": [
+    571,
+    420,
+    1623,
+    545
+   ],
+   "category": "Text",
+   "text": "Votre equité, Monsieur, m'a rassuré; au lieu que je n'ouvre mes porte-feuilles qu'avec mefiance à des gens fiers et persuadés de leur gout delicat."
+  },
+  {
+   "bbox": [
+    571,
+    545,
+    1623,
+    787
+   ],
+   "category": "Text",
+   "text": "Votre politesse est encore allée jusqu'à m'offrir votre assistance dans l'augmentation de mes portraits; le voyage literaire, que Vous êtes sur le point de faire vous donnant occasion d'entrer dans les boutiques des libraires et des marchands d'estampes, où probablement mainte gravure, qui seroit mon fait, vous tombera sous la main.» — — —"
+  },
+  {
+   "bbox": [
+    567,
+    834,
+    1623,
+    1538
+   ],
+   "category": "Text",
+   "text": "Om denna samling skrev han i sin självbiografi: »Denna samling, som uti sin sort är oförnekel. den största i Riket, wille han hafwa förwarad wid archivum, til dess en gång Kgl. Bibliotheket i alla dess grenar blifwer så stort, at man derwid behöfwer en egen Garde des Estampes, då ock Berchs collection må dit flyttas». Samlingen, som Berch fortsatte även efter 1767, kom efter hans död först till antikvitetsarkivet och sedan till Kongl. biblioteket, där den — enligt Klemmings anteckning — »låg vanvårdad och plundrad till 1846, då artisten Mandelgren fick ordna den». En annan samling, över vilken katalogen finnes i K. B. sign. U. 280 och 281, var Swenska Land-Chartor, Städers Prospecter och Hus til deras elevationer och grundritningar jemwäl Herregårdar och märkeliga Monumenter. Denna samling tyckes han redan i livstiden hava skänkt till antikvitetsarkivet, ty vänstersidorna ha överskriften »C. R. Berchs samling» och högersidorna »Kgl. Antiq. archivi Tilökningar». — dessa senare dock betydligt färre än de förra. Även denna samling kom sedermera till Kungl. biblioteket."
+  },
+  {
+   "bbox": [
+    567,
+    1538,
+    1623,
+    1663
+   ],
+   "category": "Text",
+   "text": "En tredje samling kallar han i självbiografien »Lararium, bestående af små antique figurer och kärl af koppar, marmor och ler» — antalet har han ej utskrivit. Den övertogs sedan av Gustav III."
+  },
+  {
+   "bbox": [
+    567,
+    1663,
+    1623,
+    1788
+   ],
+   "category": "Text",
+   "text": "Den fjärde samlingen låg emellertid hans hjärta närmast, och över denna finnes i Vitterhets-, Historie- och Antikvitetsakademien en ytterst prydlig katalog i folio, skriven med Berchs egen stil:"
+  },
+  {
+   "bbox": [
+    447,
+    1666,
+    557,
+    1758
+   ],
+   "category": "Text",
+   "text": "Utländska skådepeningar"
+  },
+  {
+   "bbox": [
+    571,
+    1815,
+    646,
+    1861
+   ],
+   "category": "Page-footer",
+   "text": "362"
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 727,
+ "seconds": 40.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [853, 249, 1247, 285], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [523, 320, 1569, 487], \"category\": \"Text\", \"text\": \"smakdomstol vida förnämligare än Vitterhetsakademiens: Kellgren, Leopold, Oxenstierna och Adlerbeth emot Liliestråle, Manderström, Leijonhufvud och Elers; endast Gyllenborg var gemensam för bägge.\"}, {\"bbox\": [382, 491, 519, 553], \"category\": \"Text\", \"text\": \"Tävlingarna i vältalighet\"}, {\"bbox\": [523, 487, 1569, 861], \"category\": \"Text\", \"text\": \"Och i vältalighet var Svenska akademien lyckligare med sina pris än Vitterhetsakademien: 1786 Gustaf III, 1787 Lehnberg¹, 1791 A. G. Silverstolpe. Vitterhetsakademien kunde blott belöna en enda betydande författare, Kellgren, som 1779 erhöll stora guldmedaljen. 1774 utdelades intet pris. 1775 hade ingen tävlingsskrift inkommit, i februari 1777 utdelades ett accessit och i december ett stort pris — till vem uppgiver ej protokollet² — 1778 erhöll lagman Mozelius stora guldmedaljen, 1779 Kellgren, 1780 Jacob Tengström, men 1781 utdelades intet pris i vältalighet.\"}, {\"bbox\": [523, 860, 1571, 1647], \"category\": \"Text\", \"text\": \"Under den första tiden var den franska äreminnesstilen ej så genomförd i Vitterhetsakademien som sedermera i Svenska akademien, och ännu den 26 april 1774, då man kom att tala om äreminnen över akademiens framlidne ledamöter, erinrade Höpken, »att de icke böra författas som en Discours, hvaruti vältaligheten utströr alla sina blomster, utan snarare som korta biographier, helt jemna och okonstlade». Själv ställde sig Höpken denna regel till efterrättelse, och det tal, som han i enlighet med statuterna höll till drottningen på akademiens första högtidsdag, den 24 juli 1753, är relativt enkelt, utan den gustavianska tidens förkonstlade omskrivningar. Talet hade även ett innehåll, och bakom de hävdvunna, undersåtliga fraserna märker man den tanke, som troligtvis låg bakom Höpkens beredvillighet att ej lägga några hinder i vägen för denna akademi: genom att syssla med vittra angelägenheter kunde den oroliga Lovisa Ulrikas intresse dragas från politiken, och vad denna beträffade, inskärpte han hos drottningen frihetens välsignelser och enväldets skadlighet. Det tyckes — yttrade han — »böra blifva Eders Kongl. Maj:ts egenteliga värk at hos oss stadga vitterhet, at hägna dess idkare, at uplifva skickeliga ämnen at igenom värdigare\"}, {\"bbox\": [560, 1656, 1117, 1689], \"category\": \"Footnote\", \"text\": \"¹ 1789 och 1790 utdelades intet pris i vältalighet.\"}, {\"bbox\": [523, 1686, 1573, 1779], \"category\": \"Footnote\", \"text\": \"² Författaren var akademiens ledamot Anders Schönberg, hvilken »såsom Academiens ledamot förklarat sig enligt samma lag VII C. 1 §§ icke hafva täflat». Med detta tillkännagivande trycktes avhandlingen i tredje delen av Handlingarna.\"}, {\"bbox\": [527, 1796, 602, 1844], \"category\": \"Page-footer\", \"text\": \"696\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    853,
+    249,
+    1247,
+    285
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    523,
+    320,
+    1569,
+    487
+   ],
+   "category": "Text",
+   "text": "smakdomstol vida förnämligare än Vitterhetsakademiens: Kellgren, Leopold, Oxenstierna och Adlerbeth emot Liliestråle, Manderström, Leijonhufvud och Elers; endast Gyllenborg var gemensam för bägge."
+  },
+  {
+   "bbox": [
+    382,
+    491,
+    519,
+    553
+   ],
+   "category": "Text",
+   "text": "Tävlingarna i vältalighet"
+  },
+  {
+   "bbox": [
+    523,
+    487,
+    1569,
+    861
+   ],
+   "category": "Text",
+   "text": "Och i vältalighet var Svenska akademien lyckligare med sina pris än Vitterhetsakademien: 1786 Gustaf III, 1787 Lehnberg¹, 1791 A. G. Silverstolpe. Vitterhetsakademien kunde blott belöna en enda betydande författare, Kellgren, som 1779 erhöll stora guldmedaljen. 1774 utdelades intet pris. 1775 hade ingen tävlingsskrift inkommit, i februari 1777 utdelades ett accessit och i december ett stort pris — till vem uppgiver ej protokollet² — 1778 erhöll lagman Mozelius stora guldmedaljen, 1779 Kellgren, 1780 Jacob Tengström, men 1781 utdelades intet pris i vältalighet."
+  },
+  {
+   "bbox": [
+    523,
+    860,
+    1571,
+    1647
+   ],
+   "category": "Text",
+   "text": "Under den första tiden var den franska äreminnesstilen ej så genomförd i Vitterhetsakademien som sedermera i Svenska akademien, och ännu den 26 april 1774, då man kom att tala om äreminnen över akademiens framlidne ledamöter, erinrade Höpken, »att de icke böra författas som en Discours, hvaruti vältaligheten utströr alla sina blomster, utan snarare som korta biographier, helt jemna och okonstlade». Själv ställde sig Höpken denna regel till efterrättelse, och det tal, som han i enlighet med statuterna höll till drottningen på akademiens första högtidsdag, den 24 juli 1753, är relativt enkelt, utan den gustavianska tidens förkonstlade omskrivningar. Talet hade även ett innehåll, och bakom de hävdvunna, undersåtliga fraserna märker man den tanke, som troligtvis låg bakom Höpkens beredvillighet att ej lägga några hinder i vägen för denna akademi: genom att syssla med vittra angelägenheter kunde den oroliga Lovisa Ulrikas intresse dragas från politiken, och vad denna beträffade, inskärpte han hos drottningen frihetens välsignelser och enväldets skadlighet. Det tyckes — yttrade han — »böra blifva Eders Kongl. Maj:ts egenteliga värk at hos oss stadga vitterhet, at hägna dess idkare, at uplifva skickeliga ämnen at igenom värdigare"
+  },
+  {
+   "bbox": [
+    560,
+    1656,
+    1117,
+    1689
+   ],
+   "category": "Footnote",
+   "text": "¹ 1789 och 1790 utdelades intet pris i vältalighet."
+  },
+  {
+   "bbox": [
+    523,
+    1686,
+    1573,
+    1779
+   ],
+   "category": "Footnote",
+   "text": "² Författaren var akademiens ledamot Anders Schönberg, hvilken »såsom Academiens ledamot förklarat sig enligt samma lag VII C. 1 §§ icke hafva täflat». Med detta tillkännagivande trycktes avhandlingen i tredje delen av Handlingarna."
+  },
+  {
+   "bbox": [
+    527,
+    1796,
+    602,
+    1844
+   ],
+   "category": "Page-footer",
+   "text": "696"
+  }
+ ]
+}

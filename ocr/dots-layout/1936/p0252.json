@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 252,
+ "seconds": 27.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [92, 535, 1111, 627], \"category\": \"Section-header\", \"text\": \"ARKIVET OCH BIBLIOTEKET UNDER RIKSDAGEN\\n1765—1766.\"}, {\"bbox\": [71, 696, 1134, 1776], \"category\": \"Text\", \"text\": \"Vid riksdagen, som varade från den 16 januari 1765 till den 15 oktober 1766, störtades som bekant hattpartiet och mössorna kommo till makten. Lösen för det segrande partiet var besparingar, och dessa skulle till en väsentlig del åstadkommas genom överflödiga tjänsters och hela ämbetsverks indragning. Det var därför ganska naivt, då bibliotekets och arkivets tjänstemän till kanslikollegiet den 4 december 1764 ingåvo en begäran om löneförhöjning: »Uti en tid, då nästan alla Rikets ämbetsmän och Tjenst-görande äro i den föresats at till undwijkande af yttersta nöd och trångmål Riksens höglofliga Ständers sorgfällighet wid instundande Riksdag updraga, huru de måtte kunna förhjelpas till en sådan utkomst, som ey mindre är förknippad med Rikets gagn och heder än swarande emot tjenst-görande undersåtares uti 1696 års Stat grundade rättighet samt en i senare åren owanligen hög wäxel-cours och alla warors dyrhet, finna sig äfwen undertecknade Ledamöter af Kongl. antiquitets archivum och Bibliothequet så mycket mera föranlåtne at i samma afsigt wända sig till Edre Excellencer och Kongl. CancellieCollegium som de emot Rikets öfriga Stater äro i den olika fördelaktiga belägenhet, at de utom sina små löningar icke kunna deltaga uti några betydande sportlar eller extra inkomster. Kongl. antiquitets archivum och Bibliothequet hafwa ägt den lyckan at ifrån första början åtnjuta Edre Excellencers och Kongl. Cancellie Collegii ömma wård och biträde i de til Literaturens i Swerige befordran tjenande medel, hwaraf Ledamöterne i Kongl. antiquitets archivum och Bibliothequet såsom et det angenämaste wedermäle äfwen anse den upmärksamhet, Edre Excellencer och Kongl. Cancellie-\"}, {\"bbox\": [1128, 701, 1277, 793], \"category\": \"Text\", \"text\": \"Tjänstemän-\\nnen begära\\nlöneförhöjning\"}, {\"bbox\": [1057, 1808, 1130, 1846], \"category\": \"Page-footer\", \"text\": \"235\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    92,
+    535,
+    1111,
+    627
+   ],
+   "category": "Section-header",
+   "text": "ARKIVET OCH BIBLIOTEKET UNDER RIKSDAGEN\n1765—1766."
+  },
+  {
+   "bbox": [
+    71,
+    696,
+    1134,
+    1776
+   ],
+   "category": "Text",
+   "text": "Vid riksdagen, som varade från den 16 januari 1765 till den 15 oktober 1766, störtades som bekant hattpartiet och mössorna kommo till makten. Lösen för det segrande partiet var besparingar, och dessa skulle till en väsentlig del åstadkommas genom överflödiga tjänsters och hela ämbetsverks indragning. Det var därför ganska naivt, då bibliotekets och arkivets tjänstemän till kanslikollegiet den 4 december 1764 ingåvo en begäran om löneförhöjning: »Uti en tid, då nästan alla Rikets ämbetsmän och Tjenst-görande äro i den föresats at till undwijkande af yttersta nöd och trångmål Riksens höglofliga Ständers sorgfällighet wid instundande Riksdag updraga, huru de måtte kunna förhjelpas till en sådan utkomst, som ey mindre är förknippad med Rikets gagn och heder än swarande emot tjenst-görande undersåtares uti 1696 års Stat grundade rättighet samt en i senare åren owanligen hög wäxel-cours och alla warors dyrhet, finna sig äfwen undertecknade Ledamöter af Kongl. antiquitets archivum och Bibliothequet så mycket mera föranlåtne at i samma afsigt wända sig till Edre Excellencer och Kongl. CancellieCollegium som de emot Rikets öfriga Stater äro i den olika fördelaktiga belägenhet, at de utom sina små löningar icke kunna deltaga uti några betydande sportlar eller extra inkomster. Kongl. antiquitets archivum och Bibliothequet hafwa ägt den lyckan at ifrån första början åtnjuta Edre Excellencers och Kongl. Cancellie Collegii ömma wård och biträde i de til Literaturens i Swerige befordran tjenande medel, hwaraf Ledamöterne i Kongl. antiquitets archivum och Bibliothequet såsom et det angenämaste wedermäle äfwen anse den upmärksamhet, Edre Excellencer och Kongl. Cancellie-"
+  },
+  {
+   "bbox": [
+    1128,
+    701,
+    1277,
+    793
+   ],
+   "category": "Text",
+   "text": "Tjänstemän-\nnen begära\nlöneförhöjning"
+  },
+  {
+   "bbox": [
+    1057,
+    1808,
+    1130,
+    1846
+   ],
+   "category": "Page-footer",
+   "text": "235"
+  }
+ ]
+}

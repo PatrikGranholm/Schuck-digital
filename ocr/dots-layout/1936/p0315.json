@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 315,
+ "seconds": 29.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [886, 240, 1282, 275], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [553, 310, 1609, 1506], \"category\": \"Text\", \"text\": \"att åtlyda Kongl. Collegii befallning, men hade nu ej fullmagten med sig, efter han så mycket mindre kunde föreställa sig wara i detta afseende upkallad, som han ansedt sig lagligen hafwa berörde fullmagt undfått och icke sig witterligen igenom något sitt förwållande densamma förwärckat, äfwen som han icke heller will förmoda, att af högst berörde Kongl. Bref någon sådan mening kunde dragas. Härpå förestälte Hellman på det bewekeligaste det olyckeliga tillstånd, hwaruti han skulle försättas, därigenom att mera nämde fullmagt med dess åtföljande lön blefwe honom fråntagen, hwilcken senare, ehuru ganska ringa och otillräckelig, likwäl wore det enda han i sin fattigdom till sina behof hade att anwända, och i anseende därtill utbad sig Kongl. Collegii tillstånd att såsom den enda utwäg för honom öfrig få wända sig till Kongl. May:t och uti underdånig böneskrift denna sin till befarande swåra belägenhet föreställa. Som wägen till Kongl. May:ts tron står alla dess trogne undersåtare öpen, kunde Kongl. Collegium ej wägra att Hellman härutinnan willfara; dock wille Collegium hafwa honom ålagt att med det skyndsammaste och sist till nästa måndag detta sitt underdåniga andragande hos Kongl. May:t insinuera, hwilcket Hellman lofwade efterkomma jämte det han tillika hemstälde, om icke Kongl. Collegium i behjertande af hans tryckande omständigheter skulle täckas denna hans till afgifwande böneskrift med dess gällande förord beledsaga såsom det säkraste medel att hos Kongl. May:t wärcka nådig lindring uti det beslut, som annars skulle för honom medföra yttersta förlägenhet. Ehuru Kongl. Collegium i anseende till Hellmans bekanta fattigdom på det högsta ömade hans omständigheter, höll Collegium likwäl i flere afseenden betänckeligit att härom med någon hemställan hos Kongl. May:t inkomma.\"}, {\"bbox\": [555, 1511, 1608, 1678], \"category\": \"Text\", \"text\": \"Hellman afträdde, Hwarefter Kongl. Collegium för det närvarande fant ingen ting widare wid denna sak wara tillgörande, till dess Kongl. May:ts nådige utslag på Hellmans till afgifwande underdåniga böneskrift utfallit.»\"}, {\"bbox\": [555, 1677, 1608, 1762], \"category\": \"Text\", \"text\": \"Hellman hade således icke lämnat fullmakten från sig och hade lyckats draga ut på tiden, till dess att riksdagen samlats. Vid denna\"}, {\"bbox\": [559, 1791, 633, 1837], \"category\": \"Page-footer\", \"text\": \"298\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    886,
+    240,
+    1282,
+    275
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    553,
+    310,
+    1609,
+    1506
+   ],
+   "category": "Text",
+   "text": "att åtlyda Kongl. Collegii befallning, men hade nu ej fullmagten med sig, efter han så mycket mindre kunde föreställa sig wara i detta afseende upkallad, som han ansedt sig lagligen hafwa berörde fullmagt undfått och icke sig witterligen igenom något sitt förwållande densamma förwärckat, äfwen som han icke heller will förmoda, att af högst berörde Kongl. Bref någon sådan mening kunde dragas. Härpå förestälte Hellman på det bewekeligaste det olyckeliga tillstånd, hwaruti han skulle försättas, därigenom att mera nämde fullmagt med dess åtföljande lön blefwe honom fråntagen, hwilcken senare, ehuru ganska ringa och otillräckelig, likwäl wore det enda han i sin fattigdom till sina behof hade att anwända, och i anseende därtill utbad sig Kongl. Collegii tillstånd att såsom den enda utwäg för honom öfrig få wända sig till Kongl. May:t och uti underdånig böneskrift denna sin till befarande swåra belägenhet föreställa. Som wägen till Kongl. May:ts tron står alla dess trogne undersåtare öpen, kunde Kongl. Collegium ej wägra att Hellman härutinnan willfara; dock wille Collegium hafwa honom ålagt att med det skyndsammaste och sist till nästa måndag detta sitt underdåniga andragande hos Kongl. May:t insinuera, hwilcket Hellman lofwade efterkomma jämte det han tillika hemstälde, om icke Kongl. Collegium i behjertande af hans tryckande omständigheter skulle täckas denna hans till afgifwande böneskrift med dess gällande förord beledsaga såsom det säkraste medel att hos Kongl. May:t wärcka nådig lindring uti det beslut, som annars skulle för honom medföra yttersta förlägenhet. Ehuru Kongl. Collegium i anseende till Hellmans bekanta fattigdom på det högsta ömade hans omständigheter, höll Collegium likwäl i flere afseenden betänckeligit att härom med någon hemställan hos Kongl. May:t inkomma."
+  },
+  {
+   "bbox": [
+    555,
+    1511,
+    1608,
+    1678
+   ],
+   "category": "Text",
+   "text": "Hellman afträdde, Hwarefter Kongl. Collegium för det närvarande fant ingen ting widare wid denna sak wara tillgörande, till dess Kongl. May:ts nådige utslag på Hellmans till afgifwande underdåniga böneskrift utfallit.»"
+  },
+  {
+   "bbox": [
+    555,
+    1677,
+    1608,
+    1762
+   ],
+   "category": "Text",
+   "text": "Hellman hade således icke lämnat fullmakten från sig och hade lyckats draga ut på tiden, till dess att riksdagen samlats. Vid denna"
+  },
+  {
+   "bbox": [
+    559,
+    1791,
+    633,
+    1837
+   ],
+   "category": "Page-footer",
+   "text": "298"
+  }
+ ]
+}

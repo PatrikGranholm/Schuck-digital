@@ -1,0 +1,132 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 101,
+ "seconds": 32.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [882, 259, 1281, 296], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [553, 329, 1601, 417], \"category\": \"Text\", \"text\": \"orden mognare och Höggunstiga ompröfwande. Stockholm d. 15 November 1749.\"}, {\"bbox\": [1302, 412, 1565, 454], \"category\": \"Text\", \"text\": \"Carl Hagelberg.»\"}, {\"bbox\": [553, 495, 1602, 831], \"category\": \"Text\", \"text\": \"Vid kollegiets sammanträde den 5 december föredrog von Nolken detta yttrande, som tydligen gjorde intryck, då man fann »at detta wärck synes blifwa ganska widlöftigt, när redan 54 arck äro skrefne öfwer 52 stenar, hwars antal befinnes stiga till 1200. — — Angående kostnaden till detta arbetes tryckande hade Boktryckaren Salvius gjordt dett förslag, at som det supponeras blifwa 60 arck stort å 24 dr. kpt arcket i tryckare Lön, skulle till 500 Exemplar åtgå 1440 Dr. kpt.\"}, {\"bbox\": [555, 827, 1602, 995], \"category\": \"Text\", \"text\": \"Kongl. Collegium fant nödigt at häröfwer höra Mag. Göranson, som effterskickades, och då han inkom gjordes honom fölljande påminnelser och frågor. 1:mo) hwarföre han utan uttydning lemnat den 27 runstenen, hwilken förut af Peringschöld blifwit aftagen.\"}, {\"bbox\": [555, 991, 1602, 1203], \"category\": \"Text\", \"text\": \"Swarades, at denna wore af en helt olika beskaffenhet med de andra och hade utom en enda icke någon lika i hela Riket, emedan påskriften bestodo af willrunor, och hade han som Peringschöld lemnat denna utan uttydning i hoppet at de fölljande kan skje finna dertill någon clave.\"}, {\"bbox\": [557, 1198, 1602, 1284], \"category\": \"Text\", \"text\": \"2:do) frågades, om många af dessa runstenar, som han nu öfwersatt, förut af Peringschöld eller någon annan blifwit verterade.\"}, {\"bbox\": [594, 1283, 1245, 1325], \"category\": \"Text\", \"text\": \"Swarades: ney, icke mer än högst twenne.\"}, {\"bbox\": [557, 1321, 1604, 1491], \"category\": \"Text\", \"text\": \"3:tio) anbefaltes Mag. Göranson at i synnerhet förse runstenarne med goda och påliteliga versioner, i synnerhet dem, hwilka ey tillförne sådana hade, samt at uti de historiske Commentarierne öfwer uttolckningarne wackta sig för onödige och widlöftige digressioner.\"}, {\"bbox\": [559, 1487, 1604, 1699], \"category\": \"Text\", \"text\": \"Mag. Göranson berättade, at desse, som nu redan äro färdige, wore de förnämste och följackteligen hade fordrat mästa tiden och rummet, hwaremot de andre blifwa kortare, så at hela samlingen ey skulle förmodeligen 60 arck tryckte öfwerstiga, hwarpå 2:ne redan färdige profarck upwistes. Afträdde.\"}, {\"bbox\": [562, 1694, 1606, 1783], \"category\": \"Text\", \"text\": \"Kongl. Collegium hölt före at, som omkostnaden på detta arbete ey blifwer ansenligare, så kunde dermed fortfaras i anseende\"}, {\"bbox\": [565, 1813, 615, 1857], \"category\": \"Page-footer\", \"text\": \"84\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    882,
+    259,
+    1281,
+    296
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    553,
+    329,
+    1601,
+    417
+   ],
+   "category": "Text",
+   "text": "orden mognare och Höggunstiga ompröfwande. Stockholm d. 15 November 1749."
+  },
+  {
+   "bbox": [
+    1302,
+    412,
+    1565,
+    454
+   ],
+   "category": "Text",
+   "text": "Carl Hagelberg.»"
+  },
+  {
+   "bbox": [
+    553,
+    495,
+    1602,
+    831
+   ],
+   "category": "Text",
+   "text": "Vid kollegiets sammanträde den 5 december föredrog von Nolken detta yttrande, som tydligen gjorde intryck, då man fann »at detta wärck synes blifwa ganska widlöftigt, när redan 54 arck äro skrefne öfwer 52 stenar, hwars antal befinnes stiga till 1200. — — Angående kostnaden till detta arbetes tryckande hade Boktryckaren Salvius gjordt dett förslag, at som det supponeras blifwa 60 arck stort å 24 dr. kpt arcket i tryckare Lön, skulle till 500 Exemplar åtgå 1440 Dr. kpt."
+  },
+  {
+   "bbox": [
+    555,
+    827,
+    1602,
+    995
+   ],
+   "category": "Text",
+   "text": "Kongl. Collegium fant nödigt at häröfwer höra Mag. Göranson, som effterskickades, och då han inkom gjordes honom fölljande påminnelser och frågor. 1:mo) hwarföre han utan uttydning lemnat den 27 runstenen, hwilken förut af Peringschöld blifwit aftagen."
+  },
+  {
+   "bbox": [
+    555,
+    991,
+    1602,
+    1203
+   ],
+   "category": "Text",
+   "text": "Swarades, at denna wore af en helt olika beskaffenhet med de andra och hade utom en enda icke någon lika i hela Riket, emedan påskriften bestodo af willrunor, och hade han som Peringschöld lemnat denna utan uttydning i hoppet at de fölljande kan skje finna dertill någon clave."
+  },
+  {
+   "bbox": [
+    557,
+    1198,
+    1602,
+    1284
+   ],
+   "category": "Text",
+   "text": "2:do) frågades, om många af dessa runstenar, som han nu öfwersatt, förut af Peringschöld eller någon annan blifwit verterade."
+  },
+  {
+   "bbox": [
+    594,
+    1283,
+    1245,
+    1325
+   ],
+   "category": "Text",
+   "text": "Swarades: ney, icke mer än högst twenne."
+  },
+  {
+   "bbox": [
+    557,
+    1321,
+    1604,
+    1491
+   ],
+   "category": "Text",
+   "text": "3:tio) anbefaltes Mag. Göranson at i synnerhet förse runstenarne med goda och påliteliga versioner, i synnerhet dem, hwilka ey tillförne sådana hade, samt at uti de historiske Commentarierne öfwer uttolckningarne wackta sig för onödige och widlöftige digressioner."
+  },
+  {
+   "bbox": [
+    559,
+    1487,
+    1604,
+    1699
+   ],
+   "category": "Text",
+   "text": "Mag. Göranson berättade, at desse, som nu redan äro färdige, wore de förnämste och följackteligen hade fordrat mästa tiden och rummet, hwaremot de andre blifwa kortare, så at hela samlingen ey skulle förmodeligen 60 arck tryckte öfwerstiga, hwarpå 2:ne redan färdige profarck upwistes. Afträdde."
+  },
+  {
+   "bbox": [
+    562,
+    1694,
+    1606,
+    1783
+   ],
+   "category": "Text",
+   "text": "Kongl. Collegium hölt före at, som omkostnaden på detta arbete ey blifwer ansenligare, så kunde dermed fortfaras i anseende"
+  },
+  {
+   "bbox": [
+    565,
+    1813,
+    615,
+    1857
+   ],
+   "category": "Page-footer",
+   "text": "84"
+  }
+ ]
+}

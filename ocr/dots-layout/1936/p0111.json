@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 111,
+ "seconds": 29.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [874, 248, 1273, 284], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [546, 318, 1598, 694], \"category\": \"Text\", \"text\": \"uti det borgerliga samhället. Sådanne äro stora historiska wärk, negociationer, samlingar af Tractater, ministrars memoirer, Tyska och andra rikens Jus Publicum, samlingar uti Commercien, æconomien och Policen, Prætensioner, Ceremoniel, Genealogier, och uti Krigswäsendet Generalers lefwerne och actioner, Fortification, Pyrotechniquen, militair och civil architectureen, jemwäl resebeskrifningar, Historia naturalis, Physiquen och numismatiquen, och har Bibliothecarien at wid hwart och et tilfälle gifwa Collegio förtekning uppå de böcker, som kunna förtjena at inköpas.\"}, {\"bbox\": [544, 691, 1596, 857], \"category\": \"Text\", \"text\": \"Till at få kunskap om hwad i förenämde ämnen tid efter annan skrifwes, åligger Bibliothecarien at skaffa sig de lärde Journaler tidigt til hands, af hwilka de större med skepslägenheter och de öfrige med posten kunna til honom inkomma.\"}, {\"bbox\": [540, 856, 1596, 1559], \"category\": \"Text\", \"text\": \"Han har ock en eller twänne gånger om weckan att hålla föreläsningar på Bibliothequet öfwer de lärda tidningar till att underwisa ungdomen uti Historia litteraria, på det den ifrån yngre åren anledning gifwas må att genom ett moget wal af Böcker öfwa sig i de wettenskaper, som med deras hug och snille öfwerensstämma. Likaledes kunna de, som wid academien willja utgifwa Disputationer, få nödiga subsidier. Skulle Bibliothecarien wara hindrad, kunna föreläsningar hållas af någon annan, hälst en sådan, som wid werket tienstgörande är. Och som det billigt synes wara, att med en tillökning af möda och arbete någon förmån följer, så kunna de, hwilka hans underwisning åstunda, sig igenom subscriptioner antekna och antingen genom sammanskott eller ock en hwar särskilt hans möda wedergälla. Hans omsorg och upsikt är jemwäl anförtrodt, at tilförlåteliga register göras uppå böckren, alphabetiska efter autorernes namn och åter andra, som äro classificerade efter materierne, dem til lisa, som begära underrättelse och icke egenteligen weta at namngifwa någon wiss bok.\"}, {\"bbox\": [540, 1559, 1593, 1717], \"category\": \"Text\", \"text\": \"Denna Bibliothecarien måste ock derpå aktning hafwa, at inhemska scribenter betala de exemplar, de äro skyldige til Bibliothequet, uppå godt papper och med kopparstycken, när sådana dertil höra.\"}, {\"bbox\": [576, 1724, 1590, 1763], \"category\": \"Text\", \"text\": \"Den andra Bibliothecarien kommer at hafwa under sin wård alla\"}, {\"bbox\": [541, 1802, 591, 1841], \"category\": \"Page-footer\", \"text\": \"94\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    874,
+    248,
+    1273,
+    284
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    546,
+    318,
+    1598,
+    694
+   ],
+   "category": "Text",
+   "text": "uti det borgerliga samhället. Sådanne äro stora historiska wärk, negociationer, samlingar af Tractater, ministrars memoirer, Tyska och andra rikens Jus Publicum, samlingar uti Commercien, æconomien och Policen, Prætensioner, Ceremoniel, Genealogier, och uti Krigswäsendet Generalers lefwerne och actioner, Fortification, Pyrotechniquen, militair och civil architectureen, jemwäl resebeskrifningar, Historia naturalis, Physiquen och numismatiquen, och har Bibliothecarien at wid hwart och et tilfälle gifwa Collegio förtekning uppå de böcker, som kunna förtjena at inköpas."
+  },
+  {
+   "bbox": [
+    544,
+    691,
+    1596,
+    857
+   ],
+   "category": "Text",
+   "text": "Till at få kunskap om hwad i förenämde ämnen tid efter annan skrifwes, åligger Bibliothecarien at skaffa sig de lärde Journaler tidigt til hands, af hwilka de större med skepslägenheter och de öfrige med posten kunna til honom inkomma."
+  },
+  {
+   "bbox": [
+    540,
+    856,
+    1596,
+    1559
+   ],
+   "category": "Text",
+   "text": "Han har ock en eller twänne gånger om weckan att hålla föreläsningar på Bibliothequet öfwer de lärda tidningar till att underwisa ungdomen uti Historia litteraria, på det den ifrån yngre åren anledning gifwas må att genom ett moget wal af Böcker öfwa sig i de wettenskaper, som med deras hug och snille öfwerensstämma. Likaledes kunna de, som wid academien willja utgifwa Disputationer, få nödiga subsidier. Skulle Bibliothecarien wara hindrad, kunna föreläsningar hållas af någon annan, hälst en sådan, som wid werket tienstgörande är. Och som det billigt synes wara, att med en tillökning af möda och arbete någon förmån följer, så kunna de, hwilka hans underwisning åstunda, sig igenom subscriptioner antekna och antingen genom sammanskott eller ock en hwar särskilt hans möda wedergälla. Hans omsorg och upsikt är jemwäl anförtrodt, at tilförlåteliga register göras uppå böckren, alphabetiska efter autorernes namn och åter andra, som äro classificerade efter materierne, dem til lisa, som begära underrättelse och icke egenteligen weta at namngifwa någon wiss bok."
+  },
+  {
+   "bbox": [
+    540,
+    1559,
+    1593,
+    1717
+   ],
+   "category": "Text",
+   "text": "Denna Bibliothecarien måste ock derpå aktning hafwa, at inhemska scribenter betala de exemplar, de äro skyldige til Bibliothequet, uppå godt papper och med kopparstycken, när sådana dertil höra."
+  },
+  {
+   "bbox": [
+    576,
+    1724,
+    1590,
+    1763
+   ],
+   "category": "Text",
+   "text": "Den andra Bibliothecarien kommer at hafwa under sin wård alla"
+  },
+  {
+   "bbox": [
+    541,
+    1802,
+    591,
+    1841
+   ],
+   "category": "Page-footer",
+   "text": "94"
+  }
+ ]
+}

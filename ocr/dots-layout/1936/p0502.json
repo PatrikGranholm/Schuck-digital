@@ -1,0 +1,70 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 502,
+ "seconds": 29.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [357, 337, 787, 886], \"category\": \"Picture\"}, {\"bbox\": [345, 921, 792, 952], \"category\": \"Caption\", \"text\": \"NILS REINHOLD BROCMAN\"}, {\"bbox\": [310, 962, 829, 995], \"category\": \"Text\", \"text\": \"Lavering av okänd 1763 (Kungl. Biblioteket).\"}, {\"bbox\": [111, 1027, 1052, 1648], \"category\": \"Picture\"}, {\"bbox\": [104, 1684, 1044, 1760], \"category\": \"Caption\", \"text\": \"»Kungs-Högarna vid Högs kyrka i Helsingland jämte Tegel-Högen vid Kungs-Gården»\"}, {\"bbox\": [298, 1768, 855, 1832], \"category\": \"Text\", \"text\": \"Teckning av Olof Rehn (?) i N. R. Brocmans »Resa till Helsingland 1763» (Kungl. Biblioteket).\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    357,
+    337,
+    787,
+    886
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    345,
+    921,
+    792,
+    952
+   ],
+   "category": "Caption",
+   "text": "NILS REINHOLD BROCMAN"
+  },
+  {
+   "bbox": [
+    310,
+    962,
+    829,
+    995
+   ],
+   "category": "Text",
+   "text": "Lavering av okänd 1763 (Kungl. Biblioteket)."
+  },
+  {
+   "bbox": [
+    111,
+    1027,
+    1052,
+    1648
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    104,
+    1684,
+    1044,
+    1760
+   ],
+   "category": "Caption",
+   "text": "»Kungs-Högarna vid Högs kyrka i Helsingland jämte Tegel-Högen vid Kungs-Gården»"
+  },
+  {
+   "bbox": [
+    298,
+    1768,
+    855,
+    1832
+   ],
+   "category": "Text",
+   "text": "Teckning av Olof Rehn (?) i N. R. Brocmans »Resa till Helsingland 1763» (Kungl. Biblioteket)."
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 640,
+ "seconds": 30.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [324, 270, 833, 316], \"category\": \"Section-header\", \"text\": \"Antikvitetsarkivets skrifter\"}, {\"bbox\": [52, 338, 1102, 423], \"category\": \"Text\", \"text\": \"lämpat understöd, hwarom Secrete Utskåttet får närmare utlåta sig i nästföljande Moment, då det\"}, {\"bbox\": [52, 423, 1102, 630], \"category\": \"Text\", \"text\": \"3:0 blifwer fråga om förskått till förlag till wärckets tryckning och utgifwande. Därtill skall Professor Bring af egne medel icke hafwa någon tillgång, så att om icke Kongl. Bibliothecarien Görvel genom sitt bemedlande skaffat förläggare, hade första delen ännu warit otryckt.\"}, {\"bbox\": [49, 630, 1102, 1002], \"category\": \"Text\", \"text\": \"Secrete Utskåttet skulle anse såsom en wärkelig förlust för det allmänna, om genom brist af förlag detta wärck, hwars första del så mycket utlåfwar, skulle afstadna, och tillstyrker fördensskull att låta årligen i Staten anslå och under Cantzli Collegii disposition ställa en wiss summa penningar att anwändas så wäl till de Omkåstningar, hwilcka Professor Bring nödgas giöra till samlande af nödige underrättelser i dess ämne, antingen genom resor eller Brefwäxling, som ock till någorlunda understöd och hielp till förlag.\"}, {\"bbox\": [47, 1002, 1097, 1376], \"category\": \"Text\", \"text\": \"Secrete Utskåttet finner nogsamt, att en sådan Summa till bägge behofwen icke torde kunna blifwa tillräckelig. Men då Secrete Utskåttet i öfrigit är försäkradt om Professor Brings hug och kärlek för den Historiska wettenskapen samt dess åtrå att gagna och uplysa dess medborgare, förmodar Secrete Utskåttet, att den nåd och wälbehag, hwarmed Eder Kongl. Maij:t i besagde måtto anser dess arbete och möda, lärer upmuntra honom att öfwerwinna alla swårigheter och att upfylla den nu warande bristen af en allmän och fullständig Swea Rikes Historia.\"}, {\"bbox\": [82, 1381, 536, 1426], \"category\": \"Text\", \"text\": \"Stockholm d. 29 Jan. 1770.»\"}, {\"bbox\": [43, 1457, 1091, 1796], \"category\": \"Text\", \"text\": \"Lagerbring erhöll nu den begärda tjänstefriheten samt även anslag för sin historia. Men det andra bandet utkom först 1773, det tredje 1776, det fjärde 1783, och med detta band, som blev det sista han före sin död (1787) utgav, hade han blott hunnit fram till år 1457; till någon fortsättning på Dalins historia kom han således aldrig. Berch däremot hade fått nöja sig med en rekommendation. Denna hade dock, som sagt, varit mycket kraftig, och sekreta utskottet hade förklarat, att det visserligen vid riksdagens annalkande\"}, {\"bbox\": [1010, 1827, 1082, 1864], \"category\": \"Page-footer\", \"text\": \"611\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    324,
+    270,
+    833,
+    316
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsarkivets skrifter"
+  },
+  {
+   "bbox": [
+    52,
+    338,
+    1102,
+    423
+   ],
+   "category": "Text",
+   "text": "lämpat understöd, hwarom Secrete Utskåttet får närmare utlåta sig i nästföljande Moment, då det"
+  },
+  {
+   "bbox": [
+    52,
+    423,
+    1102,
+    630
+   ],
+   "category": "Text",
+   "text": "3:0 blifwer fråga om förskått till förlag till wärckets tryckning och utgifwande. Därtill skall Professor Bring af egne medel icke hafwa någon tillgång, så att om icke Kongl. Bibliothecarien Görvel genom sitt bemedlande skaffat förläggare, hade första delen ännu warit otryckt."
+  },
+  {
+   "bbox": [
+    49,
+    630,
+    1102,
+    1002
+   ],
+   "category": "Text",
+   "text": "Secrete Utskåttet skulle anse såsom en wärkelig förlust för det allmänna, om genom brist af förlag detta wärck, hwars första del så mycket utlåfwar, skulle afstadna, och tillstyrker fördensskull att låta årligen i Staten anslå och under Cantzli Collegii disposition ställa en wiss summa penningar att anwändas så wäl till de Omkåstningar, hwilcka Professor Bring nödgas giöra till samlande af nödige underrättelser i dess ämne, antingen genom resor eller Brefwäxling, som ock till någorlunda understöd och hielp till förlag."
+  },
+  {
+   "bbox": [
+    47,
+    1002,
+    1097,
+    1376
+   ],
+   "category": "Text",
+   "text": "Secrete Utskåttet finner nogsamt, att en sådan Summa till bägge behofwen icke torde kunna blifwa tillräckelig. Men då Secrete Utskåttet i öfrigit är försäkradt om Professor Brings hug och kärlek för den Historiska wettenskapen samt dess åtrå att gagna och uplysa dess medborgare, förmodar Secrete Utskåttet, att den nåd och wälbehag, hwarmed Eder Kongl. Maij:t i besagde måtto anser dess arbete och möda, lärer upmuntra honom att öfwerwinna alla swårigheter och att upfylla den nu warande bristen af en allmän och fullständig Swea Rikes Historia."
+  },
+  {
+   "bbox": [
+    82,
+    1381,
+    536,
+    1426
+   ],
+   "category": "Text",
+   "text": "Stockholm d. 29 Jan. 1770.»"
+  },
+  {
+   "bbox": [
+    43,
+    1457,
+    1091,
+    1796
+   ],
+   "category": "Text",
+   "text": "Lagerbring erhöll nu den begärda tjänstefriheten samt även anslag för sin historia. Men det andra bandet utkom först 1773, det tredje 1776, det fjärde 1783, och med detta band, som blev det sista han före sin död (1787) utgav, hade han blott hunnit fram till år 1457; till någon fortsättning på Dalins historia kom han således aldrig. Berch däremot hade fått nöja sig med en rekommendation. Denna hade dock, som sagt, varit mycket kraftig, och sekreta utskottet hade förklarat, att det visserligen vid riksdagens annalkande"
+  },
+  {
+   "bbox": [
+    1010,
+    1827,
+    1082,
+    1864
+   ],
+   "category": "Page-footer",
+   "text": "611"
+  }
+ ]
+}

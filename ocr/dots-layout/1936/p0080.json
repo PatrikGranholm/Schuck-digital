@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 80,
+ "seconds": 29.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [373, 246, 949, 286], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet 1747—1751\"}, {\"bbox\": [140, 313, 1191, 1185], \"category\": \"Text\", \"text\": \"han dittills författat: »Mitt första lilla arbete är en Svensk ok Latinsk öfversättning af Edda, som efter de lärdas öfverensstämmelse är älst ok förnämst ibland alla våra SvioGötiska Handlingar, Sagor eller Historier, men aldrig förr varit på Svenska utgifven. Det andra är en Mathematisk Grundritning af hela det Hebreiska Språket, ok så vida mig bekant är, blifver jemväl detta mitt lilla Hebreiska Lexicon det första, som uti sådan korthet ok på Svenska föreställer oss det Heliga Språket. Det tredie är Svenska Konunga Historien uti korthet författad ifrån 2200 före Christum intil våra tider, grundad på de älsta ok trovärdigste Handlingar, både främmande ok inhemske, hvaruti jag hoppas så mycket mera giort Riksens Höglofl. Ständer til nögie, som man härtils förgäfves begärt ok åstundat en sådan. Svenska Stats Historien har jag också korteligen författad ok uti Manuscripto mästa delen färdig, fast hon ännu icke kommit at tryckas. Det fierde är denna Lilla Bok, som handlar om SvioGöternas Bokstäfver ok Salighets Lära redan fyrahundrade år före Mosen.» Enligt präste- och bondeståndens protokoll överlämnade Göransson den 8 december till stånden de tre av honom författade böcker, som behandlade Sveriges historia, och förmodligen mottogo de båda andra stånden samtidigt hans arbeten. Men redan förut hade han i ett memorial vänt sig till riksdagen.\"}, {\"bbox\": [148, 1183, 1194, 1767], \"category\": \"Text\", \"text\": \"Anledningen till detta var Dalins svenska historia, vars första del i slutet av 1746 utkommit av trycket och genom sina nyheter väckt ett stort uppseende. Dalin hade här vågat att i tryck uttala sig mot rudbeckianismen, på vilken visserligen hela den bildade samtiden upphört att tro, men som ingen annan än Dalin ännu torts offentligen angripa. Man kan — skriver Dalin — »ej läsa en Sinrik Rudbecks Atlantica utan förundran öfver Auctorens Snille. At följa den med en Historisk säkerhet låter sig wäl icke giöra, ty hvar Platonis Atland legat, antingen i gamla Scythiod eller i Förlofvade Landet eller i denne Philosophens hiärna eller ock om det redan drunknat i Syndafloden, är ock blifwer i alla tider en oafgjord Sak.» Ännu betänkligare var den sats, med vilken Dalin började sin historia: »Norden stod ännu til större delen under watn och war liksom en Skiärgård i mångfaldiga små Öyar delt, när dess\"}, {\"bbox\": [1141, 1791, 1190, 1838], \"category\": \"Page-footer\", \"text\": \"63\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    373,
+    246,
+    949,
+    286
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet 1747—1751"
+  },
+  {
+   "bbox": [
+    140,
+    313,
+    1191,
+    1185
+   ],
+   "category": "Text",
+   "text": "han dittills författat: »Mitt första lilla arbete är en Svensk ok Latinsk öfversättning af Edda, som efter de lärdas öfverensstämmelse är älst ok förnämst ibland alla våra SvioGötiska Handlingar, Sagor eller Historier, men aldrig förr varit på Svenska utgifven. Det andra är en Mathematisk Grundritning af hela det Hebreiska Språket, ok så vida mig bekant är, blifver jemväl detta mitt lilla Hebreiska Lexicon det första, som uti sådan korthet ok på Svenska föreställer oss det Heliga Språket. Det tredie är Svenska Konunga Historien uti korthet författad ifrån 2200 före Christum intil våra tider, grundad på de älsta ok trovärdigste Handlingar, både främmande ok inhemske, hvaruti jag hoppas så mycket mera giort Riksens Höglofl. Ständer til nögie, som man härtils förgäfves begärt ok åstundat en sådan. Svenska Stats Historien har jag också korteligen författad ok uti Manuscripto mästa delen färdig, fast hon ännu icke kommit at tryckas. Det fierde är denna Lilla Bok, som handlar om SvioGöternas Bokstäfver ok Salighets Lära redan fyrahundrade år före Mosen.» Enligt präste- och bondeståndens protokoll överlämnade Göransson den 8 december till stånden de tre av honom författade böcker, som behandlade Sveriges historia, och förmodligen mottogo de båda andra stånden samtidigt hans arbeten. Men redan förut hade han i ett memorial vänt sig till riksdagen."
+  },
+  {
+   "bbox": [
+    148,
+    1183,
+    1194,
+    1767
+   ],
+   "category": "Text",
+   "text": "Anledningen till detta var Dalins svenska historia, vars första del i slutet av 1746 utkommit av trycket och genom sina nyheter väckt ett stort uppseende. Dalin hade här vågat att i tryck uttala sig mot rudbeckianismen, på vilken visserligen hela den bildade samtiden upphört att tro, men som ingen annan än Dalin ännu torts offentligen angripa. Man kan — skriver Dalin — »ej läsa en Sinrik Rudbecks Atlantica utan förundran öfver Auctorens Snille. At följa den med en Historisk säkerhet låter sig wäl icke giöra, ty hvar Platonis Atland legat, antingen i gamla Scythiod eller i Förlofvade Landet eller i denne Philosophens hiärna eller ock om det redan drunknat i Syndafloden, är ock blifwer i alla tider en oafgjord Sak.» Ännu betänkligare var den sats, med vilken Dalin började sin historia: »Norden stod ännu til större delen under watn och war liksom en Skiärgård i mångfaldiga små Öyar delt, när dess"
+  },
+  {
+   "bbox": [
+    1141,
+    1791,
+    1190,
+    1838
+   ],
+   "category": "Page-footer",
+   "text": "63"
+  }
+ ]
+}

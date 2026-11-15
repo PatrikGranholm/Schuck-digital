@@ -1,0 +1,272 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 715,
+ "seconds": 36.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [876, 257, 1274, 293], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [547, 327, 1597, 414], \"category\": \"Text\", \"text\": \"härkomst tyckes hava haft mottot Sunnaskog. I vältalighet blev ingen skrift belönad. Dalins tredje memorialprotokoll lyder:\"}, {\"bbox\": [582, 425, 851, 468], \"category\": \"Text\", \"text\": \"»d. 24 Jul. 1755.\"}, {\"bbox\": [1204, 464, 1426, 505], \"category\": \"Text\", \"text\": \"Hennes Mayt.\"}, {\"bbox\": [1240, 506, 1481, 547], \"category\": \"Text\", \"text\": \"R. R. Höpken\"}, {\"bbox\": [1239, 548, 1406, 581], \"category\": \"Text\", \"text\": \"Gr. Bonde\"}, {\"bbox\": [1239, 589, 1431, 622], \"category\": \"Text\", \"text\": \"Gr. Ekeblad\"}, {\"bbox\": [1240, 630, 1411, 663], \"category\": \"Text\", \"text\": \"B. Scheffer\"}, {\"bbox\": [1239, 672, 1488, 705], \"category\": \"Text\", \"text\": \"B. Rudenschöld\"}, {\"bbox\": [1303, 713, 1391, 746], \"category\": \"Text\", \"text\": \"Berch\"}, {\"bbox\": [1235, 755, 1332, 788], \"category\": \"Text\", \"text\": \"Dalin.\"}, {\"bbox\": [547, 819, 1597, 985], \"category\": \"Text\", \"text\": \"H. E. H[öpken] propon. upläsningen af en skrift öf. krigskonsten i K. Gust. I tid. Seu casus varios clarosque labores. Sann. item på löst papper Hæc ætas bellum suadet, at illa gessit. Ovid. hwilken blef krönt. N. B. skulle bättras med auctorens minne(?).\"}, {\"bbox\": [549, 986, 1597, 1111], \"category\": \"Text\", \"text\": \"Bar. Rudenschöld upläste en ode öf. Descenten öfver Düna, som han propon. at krönas, åtminstone den bästa som kommit, men det upskiöts. Mihi tollunt nubila solem d. 23 maj 1755.\"}, {\"bbox\": [587, 1110, 1548, 1154], \"category\": \"Text\", \"text\": \"B. Rud[enschöld] upl. en Elq. öf. en hiälte. Som blef krönt.\"}, {\"bbox\": [1206, 1163, 1443, 1203], \"category\": \"Text\", \"text\": \"Nya ledamöter\"}, {\"bbox\": [1234, 1205, 1302, 1238], \"category\": \"Text\", \"text\": \"Ihre\"}, {\"bbox\": [1236, 1246, 1324, 1286], \"category\": \"Text\", \"text\": \"Bring\"}, {\"bbox\": [1207, 1286, 1453, 1320], \"category\": \"Text\", \"text\": \"Presid. Henault\"}, {\"bbox\": [1206, 1328, 1466, 1362], \"category\": \"Text\", \"text\": \"Mr. d'Alembert.\"}, {\"bbox\": [587, 1383, 971, 1423], \"category\": \"Text\", \"text\": \"Nya ämnen til nästa år.\"}, {\"bbox\": [587, 1423, 1496, 1464], \"category\": \"Text\", \"text\": \"Hist. Hwarföre inga runstenar finnas i Spanjen och Italien.\"}, {\"bbox\": [552, 1464, 1597, 1547], \"category\": \"Text\", \"text\": \"Eloq. jämförelse mellan et godt hiärta och et stort förstånd el. hwilketdera bör högre skattas.\"}, {\"bbox\": [587, 1547, 1243, 1588], \"category\": \"Text\", \"text\": \"Poes. Öfwersättning af några Horatii oden.\"}, {\"bbox\": [587, 1588, 1488, 1631], \"category\": \"Text\", \"text\": \"Riks. R. Höpkens afskiedztal, men han blef qwar än et år.»\"}, {\"bbox\": [552, 1653, 1598, 1779], \"category\": \"Text\", \"text\": \"Av den till Lärda Tidningar lämnade redogörelsen för sammankomsten framgår, att priset i historia tillfallit en avhandling över krigskonsten i Sverige i K. Gustaf I:s tid med minnesspråk: seu\"}, {\"bbox\": [554, 1807, 632, 1853], \"category\": \"Page-footer\", \"text\": \"684\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    876,
+    257,
+    1274,
+    293
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    547,
+    327,
+    1597,
+    414
+   ],
+   "category": "Text",
+   "text": "härkomst tyckes hava haft mottot Sunnaskog. I vältalighet blev ingen skrift belönad. Dalins tredje memorialprotokoll lyder:"
+  },
+  {
+   "bbox": [
+    582,
+    425,
+    851,
+    468
+   ],
+   "category": "Text",
+   "text": "»d. 24 Jul. 1755."
+  },
+  {
+   "bbox": [
+    1204,
+    464,
+    1426,
+    505
+   ],
+   "category": "Text",
+   "text": "Hennes Mayt."
+  },
+  {
+   "bbox": [
+    1240,
+    506,
+    1481,
+    547
+   ],
+   "category": "Text",
+   "text": "R. R. Höpken"
+  },
+  {
+   "bbox": [
+    1239,
+    548,
+    1406,
+    581
+   ],
+   "category": "Text",
+   "text": "Gr. Bonde"
+  },
+  {
+   "bbox": [
+    1239,
+    589,
+    1431,
+    622
+   ],
+   "category": "Text",
+   "text": "Gr. Ekeblad"
+  },
+  {
+   "bbox": [
+    1240,
+    630,
+    1411,
+    663
+   ],
+   "category": "Text",
+   "text": "B. Scheffer"
+  },
+  {
+   "bbox": [
+    1239,
+    672,
+    1488,
+    705
+   ],
+   "category": "Text",
+   "text": "B. Rudenschöld"
+  },
+  {
+   "bbox": [
+    1303,
+    713,
+    1391,
+    746
+   ],
+   "category": "Text",
+   "text": "Berch"
+  },
+  {
+   "bbox": [
+    1235,
+    755,
+    1332,
+    788
+   ],
+   "category": "Text",
+   "text": "Dalin."
+  },
+  {
+   "bbox": [
+    547,
+    819,
+    1597,
+    985
+   ],
+   "category": "Text",
+   "text": "H. E. H[öpken] propon. upläsningen af en skrift öf. krigskonsten i K. Gust. I tid. Seu casus varios clarosque labores. Sann. item på löst papper Hæc ætas bellum suadet, at illa gessit. Ovid. hwilken blef krönt. N. B. skulle bättras med auctorens minne(?)."
+  },
+  {
+   "bbox": [
+    549,
+    986,
+    1597,
+    1111
+   ],
+   "category": "Text",
+   "text": "Bar. Rudenschöld upläste en ode öf. Descenten öfver Düna, som han propon. at krönas, åtminstone den bästa som kommit, men det upskiöts. Mihi tollunt nubila solem d. 23 maj 1755."
+  },
+  {
+   "bbox": [
+    587,
+    1110,
+    1548,
+    1154
+   ],
+   "category": "Text",
+   "text": "B. Rud[enschöld] upl. en Elq. öf. en hiälte. Som blef krönt."
+  },
+  {
+   "bbox": [
+    1206,
+    1163,
+    1443,
+    1203
+   ],
+   "category": "Text",
+   "text": "Nya ledamöter"
+  },
+  {
+   "bbox": [
+    1234,
+    1205,
+    1302,
+    1238
+   ],
+   "category": "Text",
+   "text": "Ihre"
+  },
+  {
+   "bbox": [
+    1236,
+    1246,
+    1324,
+    1286
+   ],
+   "category": "Text",
+   "text": "Bring"
+  },
+  {
+   "bbox": [
+    1207,
+    1286,
+    1453,
+    1320
+   ],
+   "category": "Text",
+   "text": "Presid. Henault"
+  },
+  {
+   "bbox": [
+    1206,
+    1328,
+    1466,
+    1362
+   ],
+   "category": "Text",
+   "text": "Mr. d'Alembert."
+  },
+  {
+   "bbox": [
+    587,
+    1383,
+    971,
+    1423
+   ],
+   "category": "Text",
+   "text": "Nya ämnen til nästa år."
+  },
+  {
+   "bbox": [
+    587,
+    1423,
+    1496,
+    1464
+   ],
+   "category": "Text",
+   "text": "Hist. Hwarföre inga runstenar finnas i Spanjen och Italien."
+  },
+  {
+   "bbox": [
+    552,
+    1464,
+    1597,
+    1547
+   ],
+   "category": "Text",
+   "text": "Eloq. jämförelse mellan et godt hiärta och et stort förstånd el. hwilketdera bör högre skattas."
+  },
+  {
+   "bbox": [
+    587,
+    1547,
+    1243,
+    1588
+   ],
+   "category": "Text",
+   "text": "Poes. Öfwersättning af några Horatii oden."
+  },
+  {
+   "bbox": [
+    587,
+    1588,
+    1488,
+    1631
+   ],
+   "category": "Text",
+   "text": "Riks. R. Höpkens afskiedztal, men han blef qwar än et år.»"
+  },
+  {
+   "bbox": [
+    552,
+    1653,
+    1598,
+    1779
+   ],
+   "category": "Text",
+   "text": "Av den till Lärda Tidningar lämnade redogörelsen för sammankomsten framgår, att priset i historia tillfallit en avhandling över krigskonsten i Sverige i K. Gustaf I:s tid med minnesspråk: seu"
+  },
+  {
+   "bbox": [
+    554,
+    1807,
+    632,
+    1853
+   ],
+   "category": "Page-footer",
+   "text": "684"
+  }
+ ]
+}

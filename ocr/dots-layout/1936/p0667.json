@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 667,
+ "seconds": 31.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [896, 265, 1291, 301], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [566, 335, 1615, 788], \"category\": \"Text\", \"text\": \"»Til Kongl. Antiquitets Archivum hafwa för detta warit anslagne 1800 dahl. koppmt. (= 600 dr smt)¹ eller efter nu faststälte beräkningssätt 100 Rdr. spec., som blifwit anwände dels til skrif-materialier, dels til inlösande af ålderdoms fynd, då sådane piecer förut aldeles icke eller ock ej til lika godhet funnits bland Antiquitets archivi samlingar, dels och förnämligast til utgifwande genom trycket af arbeten uti Nordiska Antiquiteterne, som blifwit författade af betieningen wid Antiquitets Archivum, hwilcken utom sin åhrliga lön i wedergälning åtniutit en tredie del af Exemplaren utaf deras således med Kongl. May:ts och Kronans bekostnad uplagde arbeten.\"}, {\"bbox\": [568, 791, 1615, 1167], \"category\": \"Text\", \"text\": \"Då nu wid Kronans Stats reglerande den förändring förelupit med Kongl. Antiquitets Archivum, at des betiening blifwit indragen til en Antiquarius med en Amanuensis och de handlingar, handskrifter och tryckta böcker, som förut förwarats wid detta werck, komma at fördelas emellan Kongl. Bibliothequet och Kongl. Riks Archivum, omständigheterne jemwäl eljest äro nu för tiden af helt annan beskaffenhet än den tiden, då förberörde 1800 Dr. kopp:mt anslogos i Staten til Expense medel för Antiquitets Archivum; så tyckes också dermed någon förändring kunna giöras.\"}, {\"bbox\": [570, 1169, 1622, 1668], \"category\": \"Text\", \"text\": \"Ehuruwäl betieningen wid Antiquitets Archivum hädanefter blifwer långt mindre til antalet än för detta, kan den dock icke, så wida den skal giöra något gagn, umbära skrif-materialier, hwarmed den, lika med den öfriga kronans betiening i Kongl. Cantzeliet, tyckes af publique medel böra förses. Dock kan dertil icke åtgå för twå personer så mycket som för fyra, och om nu til det behofwet anslås 20 Rdr., så tyckes en sådan summa wara öfwerflödig (= tillräcklig), hwilcken således til expense medel för Antiquarien och hans Amanuensis kunde i Staten bibehållas, så framt icke möyligt wore, at de med oumgänglige skrifmaterialier kunde förses af de Kongl. Cantzelie-Collegio åhrligen i Staten bestådde expense medlen, såsom detta ständigt skedt och ännu sker med alla öfriga under\"}, {\"bbox\": [573, 1694, 1622, 1758], \"category\": \"Text\", \"text\": \"Sparre. Brevet känner jag blott i den avskrift, som finnes i K. B. (Riksbibliotekets handlingar 1740—1789). I kanslikollegiet behandlades den projekterade staten den 8 och 13 januari 1778.\"}, {\"bbox\": [607, 1757, 1014, 1788], \"category\": \"Footnote\", \"text\": \"¹ Orätt. Anslaget var 650 dlr smt.\"}, {\"bbox\": [575, 1814, 651, 1861], \"category\": \"Page-footer\", \"text\": \"636\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    896,
+    265,
+    1291,
+    301
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    566,
+    335,
+    1615,
+    788
+   ],
+   "category": "Text",
+   "text": "»Til Kongl. Antiquitets Archivum hafwa för detta warit anslagne 1800 dahl. koppmt. (= 600 dr smt)¹ eller efter nu faststälte beräkningssätt 100 Rdr. spec., som blifwit anwände dels til skrif-materialier, dels til inlösande af ålderdoms fynd, då sådane piecer förut aldeles icke eller ock ej til lika godhet funnits bland Antiquitets archivi samlingar, dels och förnämligast til utgifwande genom trycket af arbeten uti Nordiska Antiquiteterne, som blifwit författade af betieningen wid Antiquitets Archivum, hwilcken utom sin åhrliga lön i wedergälning åtniutit en tredie del af Exemplaren utaf deras således med Kongl. May:ts och Kronans bekostnad uplagde arbeten."
+  },
+  {
+   "bbox": [
+    568,
+    791,
+    1615,
+    1167
+   ],
+   "category": "Text",
+   "text": "Då nu wid Kronans Stats reglerande den förändring förelupit med Kongl. Antiquitets Archivum, at des betiening blifwit indragen til en Antiquarius med en Amanuensis och de handlingar, handskrifter och tryckta böcker, som förut förwarats wid detta werck, komma at fördelas emellan Kongl. Bibliothequet och Kongl. Riks Archivum, omständigheterne jemwäl eljest äro nu för tiden af helt annan beskaffenhet än den tiden, då förberörde 1800 Dr. kopp:mt anslogos i Staten til Expense medel för Antiquitets Archivum; så tyckes också dermed någon förändring kunna giöras."
+  },
+  {
+   "bbox": [
+    570,
+    1169,
+    1622,
+    1668
+   ],
+   "category": "Text",
+   "text": "Ehuruwäl betieningen wid Antiquitets Archivum hädanefter blifwer långt mindre til antalet än för detta, kan den dock icke, så wida den skal giöra något gagn, umbära skrif-materialier, hwarmed den, lika med den öfriga kronans betiening i Kongl. Cantzeliet, tyckes af publique medel böra förses. Dock kan dertil icke åtgå för twå personer så mycket som för fyra, och om nu til det behofwet anslås 20 Rdr., så tyckes en sådan summa wara öfwerflödig (= tillräcklig), hwilcken således til expense medel för Antiquarien och hans Amanuensis kunde i Staten bibehållas, så framt icke möyligt wore, at de med oumgänglige skrifmaterialier kunde förses af de Kongl. Cantzelie-Collegio åhrligen i Staten bestådde expense medlen, såsom detta ständigt skedt och ännu sker med alla öfriga under"
+  },
+  {
+   "bbox": [
+    573,
+    1694,
+    1622,
+    1758
+   ],
+   "category": "Text",
+   "text": "Sparre. Brevet känner jag blott i den avskrift, som finnes i K. B. (Riksbibliotekets handlingar 1740—1789). I kanslikollegiet behandlades den projekterade staten den 8 och 13 januari 1778."
+  },
+  {
+   "bbox": [
+    607,
+    1757,
+    1014,
+    1788
+   ],
+   "category": "Footnote",
+   "text": "¹ Orätt. Anslaget var 650 dlr smt."
+  },
+  {
+   "bbox": [
+    575,
+    1814,
+    651,
+    1861
+   ],
+   "category": "Page-footer",
+   "text": "636"
+  }
+ ]
+}

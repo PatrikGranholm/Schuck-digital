@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 535,
+ "seconds": 31.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [914, 248, 1308, 285], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [582, 318, 1629, 444], \"category\": \"Text\", \"text\": \"kvitetsarkivets kännedom. Ej ens en så viktig upptäckt som Kiviksgraven anmäldes för kanslikollegiet, tydligen därför att inga guldeller silversaker påträffats.\"}, {\"bbox\": [454, 446, 576, 481], \"category\": \"Text\", \"text\": \"Fynd 1750\"}, {\"bbox\": [580, 443, 1629, 899], \"category\": \"Text\", \"text\": \"Kort efter Berchs utnämning till sekreterare hade kanslipresidenten Tessin genom brev från biskop Alstrin¹ fått höra, att några gravurnor blivit funna i småländska ättehögar. Tessin anmälde då saken i kanslikollegiet, som den 24 september 1750 skrev till landshövding Rothlieb i Växiö: »Kongl. May:ts och Riksens Cantzlie Collegium har låtit sig berätta, att uti Vexiö wid gräfwande åtskillige sådane Urnor skola wara påfundne, som uti gamla ättebackar gifwas. Och som de till Kongl. antiquitets archivi förwar höra, så har Collegium af herr N. N. wänligen welat begära underrättelse härom och att de på all händelse med någon tienlig lägenhet hitsändas» (Kanslikoll. registratur).\"}, {\"bbox\": [580, 899, 1629, 1264], \"category\": \"Text\", \"text\": \"Men den 22 januari 1751 svarade landshövdingen: »I följe af Eders Excellencers samt Höglofl. Kongl. Cancellie Collegii gunstbenägna skrifwelse dn. 24 September nästledit åhr har iag genom Crono Betienterne uti detta mig nådigst anförtrodde Höfdingedöme låtit noga efterfråga, huruwida wid gräfwande några sådane Urner här i orten kunna blifwit påfundne, som uti gamla ättebackar pläga gifwas. Men wid efterfrågningarne har, efter Crono betienternes insände swar, icke ännu någon minsta underrättelse om slike Urner kunnat erhållas.\"}, {\"bbox\": [580, 1270, 1629, 1436], \"category\": \"Text\", \"text\": \"Skulle någre Urner här i orten framdeles påfinnas, hwarom iag anbefalt Crono Betienterne esomoftast at efterfråga, skall iag derom til Eders Excellencier samt Höglofl. Kongl. Cancellie Collegium afgifwa min wördsamste berättelse.\"}, {\"bbox\": [580, 1436, 1629, 1728], \"category\": \"Text\", \"text\": \"Likmätigt Eders Excellenciers samt Höglofl. Kongl. Cancellie Collegii gunstige skrifwelse d. 10 October 1749 har jag jemwäl låtit efterse uti Härads Kistarne samt eljest noga efterfråga, om några sådane skrifter och handlingar woro tillfinnande, som till uplysning och förökande af Swenska Historien tiena kunna eller ock för theras ålder, märkwärdighet och witsord förtiena at ibland Riksens handlingar förwahras; men äro likwist af sådane handlingar\"}, {\"bbox\": [614, 1736, 1436, 1772], \"category\": \"Footnote\", \"text\": \"¹ Alstrin var biskop i Strängnäs, men hade kort förut varit biskop i Växiö.\"}, {\"bbox\": [582, 1796, 655, 1842], \"category\": \"Page-footer\", \"text\": \"508\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    914,
+    248,
+    1308,
+    285
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    582,
+    318,
+    1629,
+    444
+   ],
+   "category": "Text",
+   "text": "kvitetsarkivets kännedom. Ej ens en så viktig upptäckt som Kiviksgraven anmäldes för kanslikollegiet, tydligen därför att inga guldeller silversaker påträffats."
+  },
+  {
+   "bbox": [
+    454,
+    446,
+    576,
+    481
+   ],
+   "category": "Text",
+   "text": "Fynd 1750"
+  },
+  {
+   "bbox": [
+    580,
+    443,
+    1629,
+    899
+   ],
+   "category": "Text",
+   "text": "Kort efter Berchs utnämning till sekreterare hade kanslipresidenten Tessin genom brev från biskop Alstrin¹ fått höra, att några gravurnor blivit funna i småländska ättehögar. Tessin anmälde då saken i kanslikollegiet, som den 24 september 1750 skrev till landshövding Rothlieb i Växiö: »Kongl. May:ts och Riksens Cantzlie Collegium har låtit sig berätta, att uti Vexiö wid gräfwande åtskillige sådane Urnor skola wara påfundne, som uti gamla ättebackar gifwas. Och som de till Kongl. antiquitets archivi förwar höra, så har Collegium af herr N. N. wänligen welat begära underrättelse härom och att de på all händelse med någon tienlig lägenhet hitsändas» (Kanslikoll. registratur)."
+  },
+  {
+   "bbox": [
+    580,
+    899,
+    1629,
+    1264
+   ],
+   "category": "Text",
+   "text": "Men den 22 januari 1751 svarade landshövdingen: »I följe af Eders Excellencers samt Höglofl. Kongl. Cancellie Collegii gunstbenägna skrifwelse dn. 24 September nästledit åhr har iag genom Crono Betienterne uti detta mig nådigst anförtrodde Höfdingedöme låtit noga efterfråga, huruwida wid gräfwande några sådane Urner här i orten kunna blifwit påfundne, som uti gamla ättebackar pläga gifwas. Men wid efterfrågningarne har, efter Crono betienternes insände swar, icke ännu någon minsta underrättelse om slike Urner kunnat erhållas."
+  },
+  {
+   "bbox": [
+    580,
+    1270,
+    1629,
+    1436
+   ],
+   "category": "Text",
+   "text": "Skulle någre Urner här i orten framdeles påfinnas, hwarom iag anbefalt Crono Betienterne esomoftast at efterfråga, skall iag derom til Eders Excellencier samt Höglofl. Kongl. Cancellie Collegium afgifwa min wördsamste berättelse."
+  },
+  {
+   "bbox": [
+    580,
+    1436,
+    1629,
+    1728
+   ],
+   "category": "Text",
+   "text": "Likmätigt Eders Excellenciers samt Höglofl. Kongl. Cancellie Collegii gunstige skrifwelse d. 10 October 1749 har jag jemwäl låtit efterse uti Härads Kistarne samt eljest noga efterfråga, om några sådane skrifter och handlingar woro tillfinnande, som till uplysning och förökande af Swenska Historien tiena kunna eller ock för theras ålder, märkwärdighet och witsord förtiena at ibland Riksens handlingar förwahras; men äro likwist af sådane handlingar"
+  },
+  {
+   "bbox": [
+    614,
+    1736,
+    1436,
+    1772
+   ],
+   "category": "Footnote",
+   "text": "¹ Alstrin var biskop i Strängnäs, men hade kort förut varit biskop i Växiö."
+  },
+  {
+   "bbox": [
+    582,
+    1796,
+    655,
+    1842
+   ],
+   "category": "Page-footer",
+   "text": "508"
+  }
+ ]
+}

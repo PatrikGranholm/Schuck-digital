@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 617,
+ "seconds": 34.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [883, 257, 1279, 295], \"category\": \"Section-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [1378, 319, 1599, 358], \"category\": \"Text\", \"text\": \"Transport 69.\"}, {\"bbox\": [556, 358, 1606, 1750], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>36.</td><td>Hr Sewedh Bååt</td><td>1.</td></tr><tr><td>37.</td><td>Baron Knut Leyonhufwud</td><td>1.</td></tr><tr><td>38.</td><td>Baron Bernhard von Lieven</td><td>1.</td></tr><tr><td>39.</td><td>Matthias Palbizki; och dess Fru Kevenhüller</td><td>3.</td></tr><tr><td>40.</td><td>Herr Clas Rålamb</td><td>1.</td></tr><tr><td>41.</td><td>Baron Olof Thegner</td><td>1.</td></tr><tr><td>42.</td><td>— Johan Thegner</td><td>1.</td></tr><tr><td>43.</td><td>Baron Henning Strahlenheim</td><td>1.</td></tr><tr><td>44.</td><td>D:o mindre</td><td>1.</td></tr><tr><td>45.</td><td>Baron Gabriel Stierncrona</td><td>1.</td></tr><tr><td>46.</td><td>Baron Georg Henric v. Görtz</td><td>2.</td></tr><tr><td>47.</td><td>Baron Carl von Hårleman</td><td>1.</td></tr><tr><td>48.</td><td>Joannes Schefferus</td><td>1.</td></tr><tr><td>49.</td><td>Michaël von Strokirch</td><td>1.</td></tr><tr><td>50.</td><td>Urban Hiärne</td><td>2.</td></tr><tr><td>51.</td><td>Gripenhielms och Paykuls ducater</td><td>2.</td></tr><tr><td>52.</td><td>Burchard Precht</td><td>1.</td></tr><tr><td>53.</td><td>Baron Bengt Horn</td><td>1.</td></tr><tr><td>54.</td><td>Skattmästaren Sten Bielke</td><td>1.</td></tr><tr><td>55.</td><td>Öfwersten Ture Sparre</td><td>1.</td></tr><tr><td>56.</td><td>Envoyén Christoff Leyoncrona</td><td>3.</td></tr><tr><td>57.</td><td>Fru Margaretha Appelberg</td><td>1.</td></tr><tr><td>58.</td><td>— Beata Påfwenfelt</td><td>1.</td></tr><tr><td>59.</td><td>— Eva Barssen, Hårlemans moder</td><td>1.</td></tr><tr><td>60.</td><td>Hr Carl Henric Wattrangh</td><td>1.</td></tr><tr><td>61.</td><td>— Abraham Cronström</td><td>1.</td></tr><tr><td>62.</td><td>— Carl Appelbom</td><td>2.</td></tr><tr><td>63.</td><td>Niclas Keder</td><td>7.</td></tr><tr><td>64.</td><td>Residenten Jo. Fr. König</td><td>1.</td></tr><tr><td>65.</td><td>Elias och Elisabeth Brenner</td><td>3.</td></tr><tr><td>66.</td><td>Archieb. Er. Benzelius Fadren</td><td>1.</td></tr><tr><td></td><td>D:o Sonen</td><td>1.</td></tr><tr><td>67.</td><td>Biskop Matthias Iser</td><td>1.</td></tr><tr><td>68.</td><td>Legations Presten, Prof. Hambræus</td><td>1.</td></tr><tr><td>69.</td><td>Fru Christina Specht</td><td>1.</td></tr><tr><td>70.</td><td>— Catharina Krell</td><td>1.</td></tr><tr><td>71.</td><td>Hr Jacob Banck</td><td>1.</td></tr><tr><td>72.</td><td>Anthoni en [= et] Elisabeth Grill</td><td>1.</td></tr><tr><td>73.</td><td>Arwedh Karlsteen</td><td>1.</td></tr></tbody></table>\"}, {\"bbox\": [1383, 1747, 1606, 1786], \"category\": \"Text\", \"text\": \"Transport 124.\"}, {\"bbox\": [565, 1811, 639, 1858], \"category\": \"Page-footer\", \"text\": \"588\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    883,
+    257,
+    1279,
+    295
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    1378,
+    319,
+    1599,
+    358
+   ],
+   "category": "Text",
+   "text": "Transport 69."
+  },
+  {
+   "bbox": [
+    556,
+    358,
+    1606,
+    1750
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>36.</td><td>Hr Sewedh Bååt</td><td>1.</td></tr><tr><td>37.</td><td>Baron Knut Leyonhufwud</td><td>1.</td></tr><tr><td>38.</td><td>Baron Bernhard von Lieven</td><td>1.</td></tr><tr><td>39.</td><td>Matthias Palbizki; och dess Fru Kevenhüller</td><td>3.</td></tr><tr><td>40.</td><td>Herr Clas Rålamb</td><td>1.</td></tr><tr><td>41.</td><td>Baron Olof Thegner</td><td>1.</td></tr><tr><td>42.</td><td>— Johan Thegner</td><td>1.</td></tr><tr><td>43.</td><td>Baron Henning Strahlenheim</td><td>1.</td></tr><tr><td>44.</td><td>D:o mindre</td><td>1.</td></tr><tr><td>45.</td><td>Baron Gabriel Stierncrona</td><td>1.</td></tr><tr><td>46.</td><td>Baron Georg Henric v. Görtz</td><td>2.</td></tr><tr><td>47.</td><td>Baron Carl von Hårleman</td><td>1.</td></tr><tr><td>48.</td><td>Joannes Schefferus</td><td>1.</td></tr><tr><td>49.</td><td>Michaël von Strokirch</td><td>1.</td></tr><tr><td>50.</td><td>Urban Hiärne</td><td>2.</td></tr><tr><td>51.</td><td>Gripenhielms och Paykuls ducater</td><td>2.</td></tr><tr><td>52.</td><td>Burchard Precht</td><td>1.</td></tr><tr><td>53.</td><td>Baron Bengt Horn</td><td>1.</td></tr><tr><td>54.</td><td>Skattmästaren Sten Bielke</td><td>1.</td></tr><tr><td>55.</td><td>Öfwersten Ture Sparre</td><td>1.</td></tr><tr><td>56.</td><td>Envoyén Christoff Leyoncrona</td><td>3.</td></tr><tr><td>57.</td><td>Fru Margaretha Appelberg</td><td>1.</td></tr><tr><td>58.</td><td>— Beata Påfwenfelt</td><td>1.</td></tr><tr><td>59.</td><td>— Eva Barssen, Hårlemans moder</td><td>1.</td></tr><tr><td>60.</td><td>Hr Carl Henric Wattrangh</td><td>1.</td></tr><tr><td>61.</td><td>— Abraham Cronström</td><td>1.</td></tr><tr><td>62.</td><td>— Carl Appelbom</td><td>2.</td></tr><tr><td>63.</td><td>Niclas Keder</td><td>7.</td></tr><tr><td>64.</td><td>Residenten Jo. Fr. König</td><td>1.</td></tr><tr><td>65.</td><td>Elias och Elisabeth Brenner</td><td>3.</td></tr><tr><td>66.</td><td>Archieb. Er. Benzelius Fadren</td><td>1.</td></tr><tr><td></td><td>D:o Sonen</td><td>1.</td></tr><tr><td>67.</td><td>Biskop Matthias Iser</td><td>1.</td></tr><tr><td>68.</td><td>Legations Presten, Prof. Hambræus</td><td>1.</td></tr><tr><td>69.</td><td>Fru Christina Specht</td><td>1.</td></tr><tr><td>70.</td><td>— Catharina Krell</td><td>1.</td></tr><tr><td>71.</td><td>Hr Jacob Banck</td><td>1.</td></tr><tr><td>72.</td><td>Anthoni en [= et] Elisabeth Grill</td><td>1.</td></tr><tr><td>73.</td><td>Arwedh Karlsteen</td><td>1.</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    1383,
+    1747,
+    1606,
+    1786
+   ],
+   "category": "Text",
+   "text": "Transport 124."
+  },
+  {
+   "bbox": [
+    565,
+    1811,
+    639,
+    1858
+   ],
+   "category": "Page-footer",
+   "text": "588"
+  }
+ ]
+}

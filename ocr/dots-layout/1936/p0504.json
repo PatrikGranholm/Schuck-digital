@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 504,
+ "seconds": 31.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [443, 272, 796, 308], \"category\": \"Section-header\", \"text\": \"Fornvård och resor\"}, {\"bbox\": [92, 341, 1141, 873], \"category\": \"Text\", \"text\": \"ligt avliva Bondes rudbeckianska fantasier. Men på det att rese-\\nanslaget skulle bliva till någon nytta, ålades Brocman att noga un-\\ndersöka »samt anteckna, hwad märkwärdigt finnas kan af gamla\\nfästen, skantsar, memorabla ättehögar, grafstenar, runstenar, In-\\nscriptioner, gamla mynt, stridstyg, Manuscripter, Genealogiska\\narbeten samt flere dylika urkunder, till hwilkas behöriga upsökande\\nwederbörande Kongl. May:ts och Cronans Befallningshafwande,\\nämbetsmän och Betiänte samt Prästerskapet efter deras wanliga nit\\noch i stöd af de författningar, hwilka så wäl under Kongl. May:ts\\negen höga regering som dess glorwyrdige företrädares blifwit wid-\\ntagne, lärer wisa all den benägenhet och lämna all den handräkning,\\nsom nödig wara kan till slika Monumenters rätta wård för Efter-\\nwerlden.»\"}, {\"bbox\": [89, 880, 1138, 1544], \"category\": \"Text\", \"text\": \"Brocman reste den 28 juli 1763 och hade den 4 augusti kommit\\ntill Gävle, där landshövdingämbetet då för honom utfärdade detta\\npass: »Som assessoren och Bibliothekarien wid Kongl. antiquitets\\n存档, ädel och högacktad herr Nils Reinhold Brocman, samt an-\\ntiquitets archivi Ritare Olof Rehn til följe af Kongl. Maj:ts och\\nRiksens höglofl. Cancellie Collegii Instruction af d. 13 nästledne\\nJulii komma at anträda en resa til Norre Helsingland at utröna be-\\nskaffenheten af de der belägne och så kallade Jättegrafwar, altså\\nanbefalles krono Betjente at meddela herr assessoren Brocman al den\\nhandräckning, som både på resan och eljest i orten nödig wara kan.\\nOch i fall Wälbemälte herr assessor skulle finna nödigt at til Stock-\\nholm försända någre sådane lemningar och antiquiteter, som i orten\\nkunna erhållas, böra krono Betjente och gästgifware dertil meddela\\nnödig skjuts. Gefle lands Cancellie d. 4 augusti 1763» (K. B. sign. M\\n133). Själv avsände Brocman denna promemoria till Hälsinglands\\nalla kyrkoherdar (K. B. sign. M 133).\"}, {\"bbox\": [514, 1569, 706, 1603], \"category\": \"Section-header\", \"text\": \"»Promemoria\"}, {\"bbox\": [299, 1614, 919, 1659], \"category\": \"List-item\", \"text\": \"I Om kyrckjan med thes huushållning\"}, {\"bbox\": [128, 1666, 595, 1708], \"category\": \"List-item\", \"text\": \"1) hwad Kyrckjans namn är.\"}, {\"bbox\": [128, 1708, 732, 1752], \"category\": \"List-item\", \"text\": \"2) När och af hwem hon blifwit bygd.\"}, {\"bbox\": [126, 1750, 945, 1794], \"category\": \"List-item\", \"text\": \"3) Om några gl. hedniska Monumenter der gifwas.\"}, {\"bbox\": [1052, 1834, 1128, 1871], \"category\": \"Page-footer\", \"text\": \"477\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    443,
+    272,
+    796,
+    308
+   ],
+   "category": "Section-header",
+   "text": "Fornvård och resor"
+  },
+  {
+   "bbox": [
+    92,
+    341,
+    1141,
+    873
+   ],
+   "category": "Text",
+   "text": "ligt avliva Bondes rudbeckianska fantasier. Men på det att rese-\nanslaget skulle bliva till någon nytta, ålades Brocman att noga un-\ndersöka »samt anteckna, hwad märkwärdigt finnas kan af gamla\nfästen, skantsar, memorabla ättehögar, grafstenar, runstenar, In-\nscriptioner, gamla mynt, stridstyg, Manuscripter, Genealogiska\narbeten samt flere dylika urkunder, till hwilkas behöriga upsökande\nwederbörande Kongl. May:ts och Cronans Befallningshafwande,\nämbetsmän och Betiänte samt Prästerskapet efter deras wanliga nit\noch i stöd af de författningar, hwilka så wäl under Kongl. May:ts\negen höga regering som dess glorwyrdige företrädares blifwit wid-\ntagne, lärer wisa all den benägenhet och lämna all den handräkning,\nsom nödig wara kan till slika Monumenters rätta wård för Efter-\nwerlden.»"
+  },
+  {
+   "bbox": [
+    89,
+    880,
+    1138,
+    1544
+   ],
+   "category": "Text",
+   "text": "Brocman reste den 28 juli 1763 och hade den 4 augusti kommit\ntill Gävle, där landshövdingämbetet då för honom utfärdade detta\npass: »Som assessoren och Bibliothekarien wid Kongl. antiquitets\n存档, ädel och högacktad herr Nils Reinhold Brocman, samt an-\ntiquitets archivi Ritare Olof Rehn til följe af Kongl. Maj:ts och\nRiksens höglofl. Cancellie Collegii Instruction af d. 13 nästledne\nJulii komma at anträda en resa til Norre Helsingland at utröna be-\nskaffenheten af de der belägne och så kallade Jättegrafwar, altså\nanbefalles krono Betjente at meddela herr assessoren Brocman al den\nhandräckning, som både på resan och eljest i orten nödig wara kan.\nOch i fall Wälbemälte herr assessor skulle finna nödigt at til Stock-\nholm försända någre sådane lemningar och antiquiteter, som i orten\nkunna erhållas, böra krono Betjente och gästgifware dertil meddela\nnödig skjuts. Gefle lands Cancellie d. 4 augusti 1763» (K. B. sign. M\n133). Själv avsände Brocman denna promemoria till Hälsinglands\nalla kyrkoherdar (K. B. sign. M 133)."
+  },
+  {
+   "bbox": [
+    514,
+    1569,
+    706,
+    1603
+   ],
+   "category": "Section-header",
+   "text": "»Promemoria"
+  },
+  {
+   "bbox": [
+    299,
+    1614,
+    919,
+    1659
+   ],
+   "category": "List-item",
+   "text": "I Om kyrckjan med thes huushållning"
+  },
+  {
+   "bbox": [
+    128,
+    1666,
+    595,
+    1708
+   ],
+   "category": "List-item",
+   "text": "1) hwad Kyrckjans namn är."
+  },
+  {
+   "bbox": [
+    128,
+    1708,
+    732,
+    1752
+   ],
+   "category": "List-item",
+   "text": "2) När och af hwem hon blifwit bygd."
+  },
+  {
+   "bbox": [
+    126,
+    1750,
+    945,
+    1794
+   ],
+   "category": "List-item",
+   "text": "3) Om några gl. hedniska Monumenter der gifwas."
+  },
+  {
+   "bbox": [
+    1052,
+    1834,
+    1128,
+    1871
+   ],
+   "category": "Page-footer",
+   "text": "477"
+  }
+ ]
+}

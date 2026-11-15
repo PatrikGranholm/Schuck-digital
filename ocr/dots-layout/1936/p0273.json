@@ -1,0 +1,142 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 273,
+ "seconds": 34.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [898, 247, 1296, 283], \"category\": \"Section-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [571, 317, 1623, 437], \"category\": \"Text\", \"text\": \"Deputationens förslag till utlåtande underkastades därför i sekreta utskottet åtskilliga »jämkningar» och fick denna något avvikande form¹:\"}, {\"bbox\": [642, 449, 936, 490], \"category\": \"Text\", \"text\": \"»Stormägtigste &c.\"}, {\"bbox\": [571, 501, 1623, 791], \"category\": \"Text\", \"text\": \"Då Secrete Utskottet tagit uti öfvervägande den Stälning, hvarutinnan så väl Ed. Kongl. Maj:ts RiksArchivum som AntiquitetsArchivum sig befinner i anseende til des Betjening, så har Secr. Utskottet anset, huru det nödigt vore at genom någon jämkning af de til desse Värk hörande Löner sätta Betjeningen i stånd at kunna upfylla ändamålet med Värkens inrättande och den nytta, som kan vara at förvänta, då de äro i fullkomligt stånd.\"}, {\"bbox\": [571, 791, 1623, 1000], \"category\": \"Text\", \"text\": \"Af Staten är at inhämta, det de för Riks- och Antiquitets Archivernes samt Bibliotekets egenteliga Betjening jämte en för detta varande Translator Regius bestådde ordinarie Löner stiga, tillika med de vanlige Expense-summorne, til 9250 Dal. S:mt årligen, nemligen:\"}, {\"bbox\": [975, 1009, 1219, 1044], \"category\": \"Section-header\", \"text\": \"Riks-Archivum.\"}, {\"bbox\": [571, 1061, 1623, 1350], \"category\": \"Table\", \"text\": \"<table><tr><td>1</td><td>Secreterare</td><td>1000</td><td>Dal. S:mt</td></tr><tr><td>1</td><td>Actuarius</td><td>450</td><td>»</td></tr><tr><td>1</td><td>Registrator</td><td>400</td><td>»</td></tr><tr><td>1</td><td>Cancellist</td><td>300</td><td>»</td></tr><tr><td>1</td><td>Copist</td><td>200</td><td>»</td></tr><tr><td>1</td><td>Translator Regius</td><td>600</td><td>»</td></tr><tr><td></td><td>Til Acters Inbindande</td><td>100</td><td>»</td></tr><tr><td></td><td>Til Pappers inköp til Placater</td><td>200</td><td>»</td></tr></table>\"}, {\"bbox\": [948, 1376, 1246, 1417], \"category\": \"Section-header\", \"text\": \"Kongl. Biblioteket.\"}, {\"bbox\": [571, 1427, 1556, 1539], \"category\": \"Table\", \"text\": \"<table><tr><td>1</td><td>Bibliothecarius</td><td>600</td><td>»</td></tr><tr><td>1</td><td>Amanuensis</td><td>250</td><td>»</td></tr><tr><td></td><td>Til Böckers Inköp</td><td>600</td><td>»</td></tr></table>\"}, {\"bbox\": [923, 1559, 1275, 1600], \"category\": \"Section-header\", \"text\": \"Antiquitets Archivum.\"}, {\"bbox\": [571, 1611, 1556, 1681], \"category\": \"Table\", \"text\": \"<table><tr><td>1</td><td>Antiquarius med 1 Skrifvare</td><td>1350</td><td>»</td></tr><tr><td>2</td><td>Assessorer</td><td>1200</td><td>»</td></tr></table>\"}, {\"bbox\": [571, 1705, 1623, 1770], \"category\": \"Footnote\", \"text\": \"¹ Yttrandet finnes tryckt i Gjörwells Kongl. Bibliothekets tidningar om lärda saker 1767 för den 25 juni.\"}, {\"bbox\": [575, 1795, 651, 1842], \"category\": \"Page-footer\", \"text\": \"256\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    898,
+    247,
+    1296,
+    283
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    571,
+    317,
+    1623,
+    437
+   ],
+   "category": "Text",
+   "text": "Deputationens förslag till utlåtande underkastades därför i sekreta utskottet åtskilliga »jämkningar» och fick denna något avvikande form¹:"
+  },
+  {
+   "bbox": [
+    642,
+    449,
+    936,
+    490
+   ],
+   "category": "Text",
+   "text": "»Stormägtigste &c."
+  },
+  {
+   "bbox": [
+    571,
+    501,
+    1623,
+    791
+   ],
+   "category": "Text",
+   "text": "Då Secrete Utskottet tagit uti öfvervägande den Stälning, hvarutinnan så väl Ed. Kongl. Maj:ts RiksArchivum som AntiquitetsArchivum sig befinner i anseende til des Betjening, så har Secr. Utskottet anset, huru det nödigt vore at genom någon jämkning af de til desse Värk hörande Löner sätta Betjeningen i stånd at kunna upfylla ändamålet med Värkens inrättande och den nytta, som kan vara at förvänta, då de äro i fullkomligt stånd."
+  },
+  {
+   "bbox": [
+    571,
+    791,
+    1623,
+    1000
+   ],
+   "category": "Text",
+   "text": "Af Staten är at inhämta, det de för Riks- och Antiquitets Archivernes samt Bibliotekets egenteliga Betjening jämte en för detta varande Translator Regius bestådde ordinarie Löner stiga, tillika med de vanlige Expense-summorne, til 9250 Dal. S:mt årligen, nemligen:"
+  },
+  {
+   "bbox": [
+    975,
+    1009,
+    1219,
+    1044
+   ],
+   "category": "Section-header",
+   "text": "Riks-Archivum."
+  },
+  {
+   "bbox": [
+    571,
+    1061,
+    1623,
+    1350
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>1</td><td>Secreterare</td><td>1000</td><td>Dal. S:mt</td></tr><tr><td>1</td><td>Actuarius</td><td>450</td><td>»</td></tr><tr><td>1</td><td>Registrator</td><td>400</td><td>»</td></tr><tr><td>1</td><td>Cancellist</td><td>300</td><td>»</td></tr><tr><td>1</td><td>Copist</td><td>200</td><td>»</td></tr><tr><td>1</td><td>Translator Regius</td><td>600</td><td>»</td></tr><tr><td></td><td>Til Acters Inbindande</td><td>100</td><td>»</td></tr><tr><td></td><td>Til Pappers inköp til Placater</td><td>200</td><td>»</td></tr></table>"
+  },
+  {
+   "bbox": [
+    948,
+    1376,
+    1246,
+    1417
+   ],
+   "category": "Section-header",
+   "text": "Kongl. Biblioteket."
+  },
+  {
+   "bbox": [
+    571,
+    1427,
+    1556,
+    1539
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>1</td><td>Bibliothecarius</td><td>600</td><td>»</td></tr><tr><td>1</td><td>Amanuensis</td><td>250</td><td>»</td></tr><tr><td></td><td>Til Böckers Inköp</td><td>600</td><td>»</td></tr></table>"
+  },
+  {
+   "bbox": [
+    923,
+    1559,
+    1275,
+    1600
+   ],
+   "category": "Section-header",
+   "text": "Antiquitets Archivum."
+  },
+  {
+   "bbox": [
+    571,
+    1611,
+    1556,
+    1681
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>1</td><td>Antiquarius med 1 Skrifvare</td><td>1350</td><td>»</td></tr><tr><td>2</td><td>Assessorer</td><td>1200</td><td>»</td></tr></table>"
+  },
+  {
+   "bbox": [
+    571,
+    1705,
+    1623,
+    1770
+   ],
+   "category": "Footnote",
+   "text": "¹ Yttrandet finnes tryckt i Gjörwells Kongl. Bibliothekets tidningar om lärda saker 1767 för den 25 juni."
+  },
+  {
+   "bbox": [
+    575,
+    1795,
+    651,
+    1842
+   ],
+   "category": "Page-footer",
+   "text": "256"
+  }
+ ]
+}

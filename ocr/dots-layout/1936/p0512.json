@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 512,
+ "seconds": 29.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [403, 249, 754, 285], \"category\": \"Section-header\", \"text\": \"Fornvård och resor\"}, {\"bbox\": [54, 319, 1101, 480], \"category\": \"Text\", \"text\": \"hwilka uti Albrect af Meklenburgs och Eric af Pommerns tider från Swerige blifwit utförde och effter trowärdige berättelser där skola finnas såsom kunnande tiena till mycken och nödig uplysning uti detta tidehwarfs Historia.»\"}, {\"bbox\": [54, 485, 1102, 1232], \"category\": \"Text\", \"text\": \"Resan fick emellertid ej den omfattning, som Brocman tänkt, och kom ej att sträcka sig längre än till Köpenhamn. Det för honom viktigaste var också konferensen med Langebek och planen på ett för hela Skandinavien gemensamt diplomatarium, ehuru resultatet av resan snarast blev de antikvariska iakttagelser, han därunder gjorde. Till reskamrat hade han fått en ung Eichhorn, som betalade halva resekostnaden, och som ritare och »famulus» medförde han en C. Johansen, som utom sin talang i ritkonsten även var hårfrisör (Brev till Langebek den 18 augusti 1764 från Norrköping). I Ystad ritade denne av åtskilliga gravmonument, som sedan infogades i Peringskiölds Monumenta (sjuttonde boken), och som visa, att han var en ganska duglig tecknare. Av breven till Langebek framgår vidare, att Brocman den 18 augusti kommit till Norrköping och att han under större delen av september uppehållit sig i Skåne; i Köpenhamn bodde han i Langebeks hus, och först på nyåret anträdde han återresan över Ängelholm, Halmstad, Göteborg och Jönköping. Sin reseberättelse (K. B. sign. Fe 24) ingav han till kanslikollegiet den 24 april 1765. Den börjar:\"}, {\"bbox\": [61, 1232, 1101, 1315], \"category\": \"Text\", \"text\": \"»Allerödmjukast Berättelse om Resan til Blekinge, Skåne och Danmark år 1764.\"}, {\"bbox\": [61, 1315, 1102, 1730], \"category\": \"Text\", \"text\": \"Vid Berettelsen om de mig anbefalde och fullbordade förrättningar på Helsinge Resan 1763 månde jag förledit år 1764 d. 1 aug. inför Höglofl. Kongl. Cancellie Collegium i all som största ödmjukhet upgifva, huru efter min Tanka en både inländsk och utländsk Resa ännu fordrades för at uptäcka Sammanhanget af några för de äldsta Nordens minnesmärken hållna Stenristningar i Blekinge och Skåne och för at hos våre Grannar skaffa de skriftliga underrättelser, som oss ännu fattades til en fullständig Svensk Diplomatisk Samling, med hvars Completerande jag nu i 12 års Tid utan Publici kostnad varit syslosatt.\"}, {\"bbox\": [97, 1730, 1102, 1772], \"category\": \"Text\", \"text\": \"Det var mig då en mycket kännbar fägnad, at Edre Excellencer\"}, {\"bbox\": [1023, 1800, 1098, 1846], \"category\": \"Page-footer\", \"text\": \"485\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    403,
+    249,
+    754,
+    285
+   ],
+   "category": "Section-header",
+   "text": "Fornvård och resor"
+  },
+  {
+   "bbox": [
+    54,
+    319,
+    1101,
+    480
+   ],
+   "category": "Text",
+   "text": "hwilka uti Albrect af Meklenburgs och Eric af Pommerns tider från Swerige blifwit utförde och effter trowärdige berättelser där skola finnas såsom kunnande tiena till mycken och nödig uplysning uti detta tidehwarfs Historia.»"
+  },
+  {
+   "bbox": [
+    54,
+    485,
+    1102,
+    1232
+   ],
+   "category": "Text",
+   "text": "Resan fick emellertid ej den omfattning, som Brocman tänkt, och kom ej att sträcka sig längre än till Köpenhamn. Det för honom viktigaste var också konferensen med Langebek och planen på ett för hela Skandinavien gemensamt diplomatarium, ehuru resultatet av resan snarast blev de antikvariska iakttagelser, han därunder gjorde. Till reskamrat hade han fått en ung Eichhorn, som betalade halva resekostnaden, och som ritare och »famulus» medförde han en C. Johansen, som utom sin talang i ritkonsten även var hårfrisör (Brev till Langebek den 18 augusti 1764 från Norrköping). I Ystad ritade denne av åtskilliga gravmonument, som sedan infogades i Peringskiölds Monumenta (sjuttonde boken), och som visa, att han var en ganska duglig tecknare. Av breven till Langebek framgår vidare, att Brocman den 18 augusti kommit till Norrköping och att han under större delen av september uppehållit sig i Skåne; i Köpenhamn bodde han i Langebeks hus, och först på nyåret anträdde han återresan över Ängelholm, Halmstad, Göteborg och Jönköping. Sin reseberättelse (K. B. sign. Fe 24) ingav han till kanslikollegiet den 24 april 1765. Den börjar:"
+  },
+  {
+   "bbox": [
+    61,
+    1232,
+    1101,
+    1315
+   ],
+   "category": "Text",
+   "text": "»Allerödmjukast Berättelse om Resan til Blekinge, Skåne och Danmark år 1764."
+  },
+  {
+   "bbox": [
+    61,
+    1315,
+    1102,
+    1730
+   ],
+   "category": "Text",
+   "text": "Vid Berettelsen om de mig anbefalde och fullbordade förrättningar på Helsinge Resan 1763 månde jag förledit år 1764 d. 1 aug. inför Höglofl. Kongl. Cancellie Collegium i all som största ödmjukhet upgifva, huru efter min Tanka en både inländsk och utländsk Resa ännu fordrades för at uptäcka Sammanhanget af några för de äldsta Nordens minnesmärken hållna Stenristningar i Blekinge och Skåne och för at hos våre Grannar skaffa de skriftliga underrättelser, som oss ännu fattades til en fullständig Svensk Diplomatisk Samling, med hvars Completerande jag nu i 12 års Tid utan Publici kostnad varit syslosatt."
+  },
+  {
+   "bbox": [
+    97,
+    1730,
+    1102,
+    1772
+   ],
+   "category": "Text",
+   "text": "Det var mig då en mycket kännbar fägnad, at Edre Excellencer"
+  },
+  {
+   "bbox": [
+    1023,
+    1800,
+    1098,
+    1846
+   ],
+   "category": "Page-footer",
+   "text": "485"
+  }
+ ]
+}

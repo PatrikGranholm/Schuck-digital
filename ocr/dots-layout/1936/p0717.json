@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 717,
+ "seconds": 39.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [882, 263, 1275, 299], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [552, 333, 1606, 1247], \"category\": \"Text\", \"text\": \"blott tre kunnat infinna sig: Scheffer, Rudenschiöld och Berch. Detta hindrade emellertid icke, att det gick mycket ceremoniöst och akademiskt till: »Hennes Kongl. Maj:t täcktes utmärka sin och hela rikets ogemena glädje öfver sin Herr Sons, H. K. M:s vår allernådigste Konungs, lyckliga inträde i dess 27 år genom uplifvande af K. Witterhets Academien, som uppå nådig kallelse sammanträdde, och behagade Hennes Kongl. Maj:t till Academiens sekreterare allernådigst utnämna lagmannen Eric Sotberg, som till underdånigt följe deraf intog sitt rum». Man hade således genom Sotbergs inträde kommit upp till ett akademiskt sammanträde på fem personer, så vida beskyddarinnan själv inräknades, och man hade fått en ny sekreterare efter Dalin, den begåvade språkmannen Sotberg. Inför denna församling öppnade Scheffer sammanträdet »med ett väl fattadt tal om sin och Academiens underdåniga fägnad öfver Hennes Kongl. Maj:ts nådiga tillstånd att åter få samlas till förmon och upmuntran för svenska vitterheten; att den äfvensom vår allmänna ställning, i framflutna tiden underkastad hvarjehanda omskiften, hade numera genom en lycklig ändring och stadga i det allmänna lefvernet under en stor och uplyst konung och under Hennes K. M:ts förnyade omvårdnad att vänta ett blidare öde m. m., Hvaröfver Hennes Kongl. Maj:t förklarade sitt välbehag och försäkrade Academien om sin oaflåteliga nåd och benägenhet».\"}, {\"bbox\": [443, 1249, 552, 1308], \"category\": \"Text\", \"text\": \"Nya ledamöter\"}, {\"bbox\": [558, 1246, 1610, 1616], \"category\": \"Text\", \"text\": \"Sedan man därefter, utan att komma till något resultat, diskuterat lämpligheten av några stageändringar, utsåg drottningen en ny direktör i stället för Höpken, vilken »hädanefter sällan lär vistas här å orten». Härtill utsåg hon Scheffer¹, och vidare nämnde hon till akademiens förstärkning Liliestråle, A. G. Leijonhufvud, Gyllenborg, Botin och Elers till ledamöter »såsom ägande en så grundelig som i allmänhet välkänd insigt och skickelighet i de härtill erfordrade lärdoms delar». Vid sammanträdet den 9 februari höllo de — utom Liliestråle — sina inträdestal, vilka besvarades av direktören Scheffer.\"}, {\"bbox\": [560, 1634, 1614, 1787], \"category\": \"Footnote\", \"text\": \"¹ Vid sammanträdet den 19 juli 1774 efterträddes han emellertid av Höpken: »Erinrade Riks-Rådet m. m. Herr Grefve Scheffer, att emedan directionen af K. Academien, som H. Excellence nu redan öfver ett år innehaft, borde enligt Lagarna ombytas, hade Hennes K. Maj:t behagat anmoda RiksRådet m. m. Herr Gr. von Höpken at detsamma sig åtaga och hvartill Hans Excellence äfven täcktes samtycka.»\"}, {\"bbox\": [565, 1814, 641, 1852], \"category\": \"Page-footer\", \"text\": \"686\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    882,
+    263,
+    1275,
+    299
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    552,
+    333,
+    1606,
+    1247
+   ],
+   "category": "Text",
+   "text": "blott tre kunnat infinna sig: Scheffer, Rudenschiöld och Berch. Detta hindrade emellertid icke, att det gick mycket ceremoniöst och akademiskt till: »Hennes Kongl. Maj:t täcktes utmärka sin och hela rikets ogemena glädje öfver sin Herr Sons, H. K. M:s vår allernådigste Konungs, lyckliga inträde i dess 27 år genom uplifvande af K. Witterhets Academien, som uppå nådig kallelse sammanträdde, och behagade Hennes Kongl. Maj:t till Academiens sekreterare allernådigst utnämna lagmannen Eric Sotberg, som till underdånigt följe deraf intog sitt rum». Man hade således genom Sotbergs inträde kommit upp till ett akademiskt sammanträde på fem personer, så vida beskyddarinnan själv inräknades, och man hade fått en ny sekreterare efter Dalin, den begåvade språkmannen Sotberg. Inför denna församling öppnade Scheffer sammanträdet »med ett väl fattadt tal om sin och Academiens underdåniga fägnad öfver Hennes Kongl. Maj:ts nådiga tillstånd att åter få samlas till förmon och upmuntran för svenska vitterheten; att den äfvensom vår allmänna ställning, i framflutna tiden underkastad hvarjehanda omskiften, hade numera genom en lycklig ändring och stadga i det allmänna lefvernet under en stor och uplyst konung och under Hennes K. M:ts förnyade omvårdnad att vänta ett blidare öde m. m., Hvaröfver Hennes Kongl. Maj:t förklarade sitt välbehag och försäkrade Academien om sin oaflåteliga nåd och benägenhet»."
+  },
+  {
+   "bbox": [
+    443,
+    1249,
+    552,
+    1308
+   ],
+   "category": "Text",
+   "text": "Nya ledamöter"
+  },
+  {
+   "bbox": [
+    558,
+    1246,
+    1610,
+    1616
+   ],
+   "category": "Text",
+   "text": "Sedan man därefter, utan att komma till något resultat, diskuterat lämpligheten av några stageändringar, utsåg drottningen en ny direktör i stället för Höpken, vilken »hädanefter sällan lär vistas här å orten». Härtill utsåg hon Scheffer¹, och vidare nämnde hon till akademiens förstärkning Liliestråle, A. G. Leijonhufvud, Gyllenborg, Botin och Elers till ledamöter »såsom ägande en så grundelig som i allmänhet välkänd insigt och skickelighet i de härtill erfordrade lärdoms delar». Vid sammanträdet den 9 februari höllo de — utom Liliestråle — sina inträdestal, vilka besvarades av direktören Scheffer."
+  },
+  {
+   "bbox": [
+    560,
+    1634,
+    1614,
+    1787
+   ],
+   "category": "Footnote",
+   "text": "¹ Vid sammanträdet den 19 juli 1774 efterträddes han emellertid av Höpken: »Erinrade Riks-Rådet m. m. Herr Grefve Scheffer, att emedan directionen af K. Academien, som H. Excellence nu redan öfver ett år innehaft, borde enligt Lagarna ombytas, hade Hennes K. Maj:t behagat anmoda RiksRådet m. m. Herr Gr. von Höpken at detsamma sig åtaga och hvartill Hans Excellence äfven täcktes samtycka.»"
+  },
+  {
+   "bbox": [
+    565,
+    1814,
+    641,
+    1852
+   ],
+   "category": "Page-footer",
+   "text": "686"
+  }
+ ]
+}

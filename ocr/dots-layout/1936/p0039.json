@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 39,
+ "seconds": 29.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [871, 265, 1263, 303], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [543, 330, 1585, 586], \"category\": \"Text\", \"text\": \"Faxell besörgde Commissions Secreterare beställningen i Köpenhamn, så resolverades, at under d. [ej utskrivet] hemställande til Hans Kongl. May:t skulle afgå, om icke Commissionssecreteraren Berch på samma wilkor, som han hittils åtniutit, kunde få nådigt tilstånd at tils widare blifwa qwar och Secreteraren Helin adjungeras at under dess sjukdom eller frånwaro sysslan förestå.»\"}, {\"bbox\": [404, 582, 1579, 1784], \"category\": \"Text\", \"text\": \"Berch adjungeras Helin\\nSamma dag, den 20 juli 1747, avsände kollegiet till Kungl. Maj:t denna kraftiga rekommendation för Berch: »Eders Kongl. May:ts och Riksens Cancellie Collegio har Commissions Secreteraren Berch tillkänna gifwit, huru som han i fruktan at missbruka Eders Kongl. May:ts honom i nåder förunta permission, är i begrep att förfoga sig till Kongl. franska Håfwet dess Commissions Secreterare beställning derstädes att återtaga och han till den ändan ställt sine saker uppå den fot, att han med det första kan anträda resan. I anledning häraf har hos Collegium i öfwerwägande kommit icke allenast, huruledes bem:te Commissions Secreterare under sin hemma warelse gjort god tjenst wid Kongl. antiquitets archivum och äfwen utarbetat swenska mynthistorien, hafwandes dessutan af beröml. nit för det allmänna och till förökande af de wid Kongl. antiquitets archivum warande Cabinets samlingar hembudit en dess egen samling af de swenske herrars och berömde mäns skådepenningar utan ock att för antiquitets archivo ganska nyttigt wore, om han kunde komma derwid ännu någon tid att fortfara, emedan han wist öfwertygande prof af des skicklighet, noga insigt och förfarenhet i de stycken, som härtill hörer, hwilket synes wara så mycket angelägnare, som Secreteraren Helin för dess sjukliga tillstånd och tilltagande ålder skull behöfver biträde och swårt lärer wara att finna någon person, som med den färdighet och nytta kan brukas wid antiquitets archivo som Commissions Secreteraren Berch. I anseende hwartill samt att hwarken Eders Kongl. May:ts tjenst lider, ei el. Staten graveras förmedels Commissions Secreteraren Berchs frånwaro, hälst som Cammarherren och Commissions Secreteraren Höpken företräder dess syssla i Paris och Extr. Cancellisten Faxel besörjer Commissions Secreterare beställningen i Köpenhamn, den förre med hela och den senare med halfwa Commissions Secreterare\"}, {\"bbox\": [531, 1817, 578, 1846], \"category\": \"Page-footer\", \"text\": \"22\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    871,
+    265,
+    1263,
+    303
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    543,
+    330,
+    1585,
+    586
+   ],
+   "category": "Text",
+   "text": "Faxell besörgde Commissions Secreterare beställningen i Köpenhamn, så resolverades, at under d. [ej utskrivet] hemställande til Hans Kongl. May:t skulle afgå, om icke Commissionssecreteraren Berch på samma wilkor, som han hittils åtniutit, kunde få nådigt tilstånd at tils widare blifwa qwar och Secreteraren Helin adjungeras at under dess sjukdom eller frånwaro sysslan förestå.»"
+  },
+  {
+   "bbox": [
+    404,
+    582,
+    1579,
+    1784
+   ],
+   "category": "Text",
+   "text": "Berch adjungeras Helin\nSamma dag, den 20 juli 1747, avsände kollegiet till Kungl. Maj:t denna kraftiga rekommendation för Berch: »Eders Kongl. May:ts och Riksens Cancellie Collegio har Commissions Secreteraren Berch tillkänna gifwit, huru som han i fruktan at missbruka Eders Kongl. May:ts honom i nåder förunta permission, är i begrep att förfoga sig till Kongl. franska Håfwet dess Commissions Secreterare beställning derstädes att återtaga och han till den ändan ställt sine saker uppå den fot, att han med det första kan anträda resan. I anledning häraf har hos Collegium i öfwerwägande kommit icke allenast, huruledes bem:te Commissions Secreterare under sin hemma warelse gjort god tjenst wid Kongl. antiquitets archivum och äfwen utarbetat swenska mynthistorien, hafwandes dessutan af beröml. nit för det allmänna och till förökande af de wid Kongl. antiquitets archivum warande Cabinets samlingar hembudit en dess egen samling af de swenske herrars och berömde mäns skådepenningar utan ock att för antiquitets archivo ganska nyttigt wore, om han kunde komma derwid ännu någon tid att fortfara, emedan han wist öfwertygande prof af des skicklighet, noga insigt och förfarenhet i de stycken, som härtill hörer, hwilket synes wara så mycket angelägnare, som Secreteraren Helin för dess sjukliga tillstånd och tilltagande ålder skull behöfver biträde och swårt lärer wara att finna någon person, som med den färdighet och nytta kan brukas wid antiquitets archivo som Commissions Secreteraren Berch. I anseende hwartill samt att hwarken Eders Kongl. May:ts tjenst lider, ei el. Staten graveras förmedels Commissions Secreteraren Berchs frånwaro, hälst som Cammarherren och Commissions Secreteraren Höpken företräder dess syssla i Paris och Extr. Cancellisten Faxel besörjer Commissions Secreterare beställningen i Köpenhamn, den förre med hela och den senare med halfwa Commissions Secreterare"
+  },
+  {
+   "bbox": [
+    531,
+    1817,
+    578,
+    1846
+   ],
+   "category": "Page-footer",
+   "text": "22"
+  }
+ ]
+}

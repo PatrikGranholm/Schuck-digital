@@ -1,0 +1,152 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 377,
+ "seconds": 32.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [908, 264, 1307, 300], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [577, 333, 1629, 584], \"category\": \"Text\", \"text\": \"förvärvade genom byte, andra voro skänkta, åter andra köpta på en auktion. Betydligt större är den nästa katalogen, vars början — 1747 — här kan tagas såsom ett exempel på Berchs noggrannhet: »Kongl. May:ts Swenska Mynt Cabinet, förökt med följande Medailler och gängse mynt ifrån den tiden, at Inventarium öfwer samma Cabinet uprättades af C. R. B.\"}, {\"bbox\": [581, 587, 1627, 876], \"category\": \"List-item\", \"text\": \"1747. in Sept. Högstsalig drotning Vlrica Eleonora testamenterat til archivum åtskillige små swenske mynt, merendels dupletter, item dr. Christinæ medaille i Silfwer med Makelös (redan inskrefwen i Registret sub N:o 26, hwarigenom den tilförene wid Cabinettet befintelige i förgyld koppar är blefwen duplett), item Et gammalt armband af silfwer. På hwilket alt Hr. Secreteraren Helin gifwit sit quittence til Kgl. Cammar Collegium.\"}, {\"bbox\": [576, 872, 1627, 1055], \"category\": \"List-item\", \"text\": \"— — — Nov. Riksens Ständer lemnat utur högbem:te drotnings qwarlåtenskap följande, som Berch quitterat i Cammar-Collegio: gull-medaille om K. Fridrich den 3:des i Danmarck bedriffter, hwarpå förmäles om Köpenhambns afslagne Storm, Rügens intagande och dylikt, som angår Swerige.\"}, {\"bbox\": [717, 1050, 1625, 1161], \"category\": \"List-item\", \"text\": \"dito K. Carl den Ellofftes Engelske Riddare-orden, slagen i England. Har förmodeligen warit högbe:te Konungs egit exemplar.\"}, {\"bbox\": [820, 1170, 926, 1204], \"category\": \"Section-header\", \"text\": \"Silwer.\"}, {\"bbox\": [820, 1216, 1625, 1322], \"category\": \"List-item\", \"text\": \"1. Medaille öfwer dr. Christina med Solen och ord: Nec falso nec alieno, giord i Paris af Cheron och mycket mindre än Nr. 40 uti Inventario.\"}, {\"bbox\": [820, 1322, 1625, 1396], \"category\": \"List-item\", \"text\": \"2. Densamme som N. 41 b, men et bättre exemplar, hwarföre det gamble aflagt ibland dupletterne.\"}, {\"bbox\": [820, 1394, 1625, 1467], \"category\": \"List-item\", \"text\": \"3. K. Carl den Ellofftes Engelske Riddare orden, bättre Conserverat exemplar än det gambla under N:o 26.\"}, {\"bbox\": [820, 1465, 1625, 1538], \"category\": \"List-item\", \"text\": \"4. Samme Konungs actioner emot de danske N. 34, men långt bättre exemplar.\"}, {\"bbox\": [820, 1536, 1625, 1645], \"category\": \"List-item\", \"text\": \"5. Dr. Vlrica Eleonora den yngre; en medaille giord i Tyskland, se Nr. 11, bättre conserverad än det tilförene uti Cabinettet befinteliga.\"}, {\"bbox\": [820, 1642, 1625, 1709], \"category\": \"List-item\", \"text\": \"6. K. Fridrich och Vlrica. Med Lemma: Mars a Pallade ex voto coronatus.\"}, {\"bbox\": [820, 1712, 1625, 1788], \"category\": \"List-item\", \"text\": \"7. En annan öfwer bägge deras Mayestäter, sittande på deras Thron: Redeunt Saturnia Regna.\"}, {\"bbox\": [573, 1812, 648, 1859], \"category\": \"Page-footer\", \"text\": \"358\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    908,
+    264,
+    1307,
+    300
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    577,
+    333,
+    1629,
+    584
+   ],
+   "category": "Text",
+   "text": "förvärvade genom byte, andra voro skänkta, åter andra köpta på en auktion. Betydligt större är den nästa katalogen, vars början — 1747 — här kan tagas såsom ett exempel på Berchs noggrannhet: »Kongl. May:ts Swenska Mynt Cabinet, förökt med följande Medailler och gängse mynt ifrån den tiden, at Inventarium öfwer samma Cabinet uprättades af C. R. B."
+  },
+  {
+   "bbox": [
+    581,
+    587,
+    1627,
+    876
+   ],
+   "category": "List-item",
+   "text": "1747. in Sept. Högstsalig drotning Vlrica Eleonora testamenterat til archivum åtskillige små swenske mynt, merendels dupletter, item dr. Christinæ medaille i Silfwer med Makelös (redan inskrefwen i Registret sub N:o 26, hwarigenom den tilförene wid Cabinettet befintelige i förgyld koppar är blefwen duplett), item Et gammalt armband af silfwer. På hwilket alt Hr. Secreteraren Helin gifwit sit quittence til Kgl. Cammar Collegium."
+  },
+  {
+   "bbox": [
+    576,
+    872,
+    1627,
+    1055
+   ],
+   "category": "List-item",
+   "text": "— — — Nov. Riksens Ständer lemnat utur högbem:te drotnings qwarlåtenskap följande, som Berch quitterat i Cammar-Collegio: gull-medaille om K. Fridrich den 3:des i Danmarck bedriffter, hwarpå förmäles om Köpenhambns afslagne Storm, Rügens intagande och dylikt, som angår Swerige."
+  },
+  {
+   "bbox": [
+    717,
+    1050,
+    1625,
+    1161
+   ],
+   "category": "List-item",
+   "text": "dito K. Carl den Ellofftes Engelske Riddare-orden, slagen i England. Har förmodeligen warit högbe:te Konungs egit exemplar."
+  },
+  {
+   "bbox": [
+    820,
+    1170,
+    926,
+    1204
+   ],
+   "category": "Section-header",
+   "text": "Silwer."
+  },
+  {
+   "bbox": [
+    820,
+    1216,
+    1625,
+    1322
+   ],
+   "category": "List-item",
+   "text": "1. Medaille öfwer dr. Christina med Solen och ord: Nec falso nec alieno, giord i Paris af Cheron och mycket mindre än Nr. 40 uti Inventario."
+  },
+  {
+   "bbox": [
+    820,
+    1322,
+    1625,
+    1396
+   ],
+   "category": "List-item",
+   "text": "2. Densamme som N. 41 b, men et bättre exemplar, hwarföre det gamble aflagt ibland dupletterne."
+  },
+  {
+   "bbox": [
+    820,
+    1394,
+    1625,
+    1467
+   ],
+   "category": "List-item",
+   "text": "3. K. Carl den Ellofftes Engelske Riddare orden, bättre Conserverat exemplar än det gambla under N:o 26."
+  },
+  {
+   "bbox": [
+    820,
+    1465,
+    1625,
+    1538
+   ],
+   "category": "List-item",
+   "text": "4. Samme Konungs actioner emot de danske N. 34, men långt bättre exemplar."
+  },
+  {
+   "bbox": [
+    820,
+    1536,
+    1625,
+    1645
+   ],
+   "category": "List-item",
+   "text": "5. Dr. Vlrica Eleonora den yngre; en medaille giord i Tyskland, se Nr. 11, bättre conserverad än det tilförene uti Cabinettet befinteliga."
+  },
+  {
+   "bbox": [
+    820,
+    1642,
+    1625,
+    1709
+   ],
+   "category": "List-item",
+   "text": "6. K. Fridrich och Vlrica. Med Lemma: Mars a Pallade ex voto coronatus."
+  },
+  {
+   "bbox": [
+    820,
+    1712,
+    1625,
+    1788
+   ],
+   "category": "List-item",
+   "text": "7. En annan öfwer bägge deras Mayestäter, sittande på deras Thron: Redeunt Saturnia Regna."
+  },
+  {
+   "bbox": [
+    573,
+    1812,
+    648,
+    1859
+   ],
+   "category": "Page-footer",
+   "text": "358"
+  }
+ ]
+}

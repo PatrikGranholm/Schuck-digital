@@ -1,0 +1,142 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 385,
+ "seconds": 33.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [896, 258, 1302, 294], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [573, 326, 1161, 366], \"category\": \"List-item\", \"text\": \"[N. 12.] *Runstafwar*¹ [I kistor och packlårar]\"}, {\"bbox\": [467, 374, 1618, 522], \"category\": \"List-item\", \"text\": \"[1752.] [N. 24.] Crucifix af förgyld Messing, zirat med åtskilliga färgade stenar: uti hwilcket et stycke af Christi Korss säges wara infattat. Kanske det, som omtalas uti C. Ogerii Itinerario. Kommit från Tyskl. 1632. Lemnades ifrån Kgl. Räntecammaren A:o 1752.\"}, {\"bbox\": [467, 528, 1615, 603], \"category\": \"List-item\", \"text\": \"[1681.] [N. 25.] S:æ Birgittæ armpipa, och en finger-knota: uti sin Reliquaire, giord som en Arm.\"}, {\"bbox\": [467, 611, 1618, 722], \"category\": \"List-item\", \"text\": \"[1861.] [N. 26.] S:i Eskilli Reliquaire, giord på samma sätt. NB. sielfwa Armpipan blef redan i Hadorphs tid, af et Catholiskt Sänningebuds betient, bortputzad. [Cfr Lat. Kat. f. 11.]\"}, {\"bbox\": [467, 730, 1615, 806], \"category\": \"List-item\", \"text\": \"[1681.] [N. 27.] Ejusdem Monstrantz af Förgylt Silfwer aldeles sönderbruten; hwartil styckerna ligga uti et litet knyte.\"}, {\"bbox\": [570, 813, 1612, 922], \"category\": \"List-item\", \"text\": \"[N. 28.] S:i Brynolphi Epi. Skarensis Stöfwel; af swart läder, stickat med guhlt silcke. [1693. N. 53.]\"}, {\"bbox\": [464, 931, 1612, 1252], \"category\": \"List-item\", \"text\": \"[1681.] [N. 29.] S:æ Catharinae Alexandrinae bild, af silfwer [(på foten står: Testamentum Nicolai Johannis Presbyt. Præbendæ S..... in Calmar MDI)] [Sancta Catharina Alexandrina, Virgo Martyr, quae ob fidei Christianae confessionem Alexandriae sub Maximino Imperatore in carcerem trusa & postmodum scorpionibus caesa diutissime, tandem capitis detruncatione martyrium complevit, cujus corpus in montem Sinai ab angelis mirabiliter relatum ibidem frequenti Xstianorum concursu pia veneratione colitur festum ejus celebratur ad diem XXV Novembr]\"}, {\"bbox\": [416, 1262, 1609, 1415], \"category\": \"List-item\", \"text\": \"[(1703)] [N. 30.] *Helgedoms Skrijn* öfwerklädt med rödt sammet; och beprydt med många små Wapn och Rosor af förgyldt silfwer; dock en stor del bortfalne.\\n\\nNb. är aflåtit till Wadstena, för S. Birgittas behn\"}, {\"bbox\": [462, 1422, 1609, 1639], \"category\": \"List-item\", \"text\": \"[1703.] [N. 31.] *Grönt Silkes-täcke, hwaruppå Holmger Folkunges bild och Elogium är broderat med Gull och Färger.* Har fordom legat öfwer des Graf i Sko-Kloster Kyrcka.\\nSkänkt til Ant. Arch. af Gr. Abraham Brahe.\\nFinnes afritat och stuckit i Koppar.\\ncfr. Celsius de Monasterio Sko. p. 27. et 37.\"}, {\"bbox\": [565, 1650, 1604, 1719], \"category\": \"List-item\", \"text\": \"[N. 32.] *Ciborium* af förgyld Koppar: ifrån Skåne, inlemnat af Transl. Wessman.\"}, {\"bbox\": [599, 1746, 1083, 1780], \"category\": \"Footnote\", \"text\": \"¹ I detta avtryck hava dessa ej förtecknats.\"}, {\"bbox\": [567, 1804, 641, 1852], \"category\": \"Page-footer\", \"text\": \"366\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    896,
+    258,
+    1302,
+    294
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    573,
+    326,
+    1161,
+    366
+   ],
+   "category": "List-item",
+   "text": "[N. 12.] *Runstafwar*¹ [I kistor och packlårar]"
+  },
+  {
+   "bbox": [
+    467,
+    374,
+    1618,
+    522
+   ],
+   "category": "List-item",
+   "text": "[1752.] [N. 24.] Crucifix af förgyld Messing, zirat med åtskilliga färgade stenar: uti hwilcket et stycke af Christi Korss säges wara infattat. Kanske det, som omtalas uti C. Ogerii Itinerario. Kommit från Tyskl. 1632. Lemnades ifrån Kgl. Räntecammaren A:o 1752."
+  },
+  {
+   "bbox": [
+    467,
+    528,
+    1615,
+    603
+   ],
+   "category": "List-item",
+   "text": "[1681.] [N. 25.] S:æ Birgittæ armpipa, och en finger-knota: uti sin Reliquaire, giord som en Arm."
+  },
+  {
+   "bbox": [
+    467,
+    611,
+    1618,
+    722
+   ],
+   "category": "List-item",
+   "text": "[1861.] [N. 26.] S:i Eskilli Reliquaire, giord på samma sätt. NB. sielfwa Armpipan blef redan i Hadorphs tid, af et Catholiskt Sänningebuds betient, bortputzad. [Cfr Lat. Kat. f. 11.]"
+  },
+  {
+   "bbox": [
+    467,
+    730,
+    1615,
+    806
+   ],
+   "category": "List-item",
+   "text": "[1681.] [N. 27.] Ejusdem Monstrantz af Förgylt Silfwer aldeles sönderbruten; hwartil styckerna ligga uti et litet knyte."
+  },
+  {
+   "bbox": [
+    570,
+    813,
+    1612,
+    922
+   ],
+   "category": "List-item",
+   "text": "[N. 28.] S:i Brynolphi Epi. Skarensis Stöfwel; af swart läder, stickat med guhlt silcke. [1693. N. 53.]"
+  },
+  {
+   "bbox": [
+    464,
+    931,
+    1612,
+    1252
+   ],
+   "category": "List-item",
+   "text": "[1681.] [N. 29.] S:æ Catharinae Alexandrinae bild, af silfwer [(på foten står: Testamentum Nicolai Johannis Presbyt. Præbendæ S..... in Calmar MDI)] [Sancta Catharina Alexandrina, Virgo Martyr, quae ob fidei Christianae confessionem Alexandriae sub Maximino Imperatore in carcerem trusa & postmodum scorpionibus caesa diutissime, tandem capitis detruncatione martyrium complevit, cujus corpus in montem Sinai ab angelis mirabiliter relatum ibidem frequenti Xstianorum concursu pia veneratione colitur festum ejus celebratur ad diem XXV Novembr]"
+  },
+  {
+   "bbox": [
+    416,
+    1262,
+    1609,
+    1415
+   ],
+   "category": "List-item",
+   "text": "[(1703)] [N. 30.] *Helgedoms Skrijn* öfwerklädt med rödt sammet; och beprydt med många små Wapn och Rosor af förgyldt silfwer; dock en stor del bortfalne.\n\nNb. är aflåtit till Wadstena, för S. Birgittas behn"
+  },
+  {
+   "bbox": [
+    462,
+    1422,
+    1609,
+    1639
+   ],
+   "category": "List-item",
+   "text": "[1703.] [N. 31.] *Grönt Silkes-täcke, hwaruppå Holmger Folkunges bild och Elogium är broderat med Gull och Färger.* Har fordom legat öfwer des Graf i Sko-Kloster Kyrcka.\nSkänkt til Ant. Arch. af Gr. Abraham Brahe.\nFinnes afritat och stuckit i Koppar.\ncfr. Celsius de Monasterio Sko. p. 27. et 37."
+  },
+  {
+   "bbox": [
+    565,
+    1650,
+    1604,
+    1719
+   ],
+   "category": "List-item",
+   "text": "[N. 32.] *Ciborium* af förgyld Koppar: ifrån Skåne, inlemnat af Transl. Wessman."
+  },
+  {
+   "bbox": [
+    599,
+    1746,
+    1083,
+    1780
+   ],
+   "category": "Footnote",
+   "text": "¹ I detta avtryck hava dessa ej förtecknats."
+  },
+  {
+   "bbox": [
+    567,
+    1804,
+    641,
+    1852
+   ],
+   "category": "Page-footer",
+   "text": "366"
+  }
+ ]
+}

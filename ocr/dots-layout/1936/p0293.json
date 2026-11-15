@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 293,
+ "seconds": 29.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [895, 246, 1289, 282], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [568, 316, 1616, 401], \"category\": \"Text\", \"text\": \"teten finge decidera i detta ämne, och blef herr StatsSecreteraren genast bådad.\"}, {\"bbox\": [564, 399, 1619, 651], \"category\": \"Text\", \"text\": \"Härwid hemstälte likwäl Herr Cantzlie Rådet Lagerflycht, huruwida nödigt wara kunde att widare inhämta Herr Stats Secreteraren Carlschölds yttrande, sedan bemälte Stats Secreterare detsamma allarredan enligit protocollet af d. 23 Decemb: igenom Protocollisten låtit uti Kongl. Collegio anmäla och det deröfwer hållne Protocollet jemwäl blifwit uti Kongl. Collegio behörigen justeradt.\"}, {\"bbox\": [566, 649, 1617, 857], \"category\": \"Text\", \"text\": \"Hans Exellence utlät sig för sin del icke kunna finna, hwarföre rättigheten skulle wara Stats Secreteraren betagen sjelf få justera sitt utlåtande och till äwentyrs ändra sitt votum, i fall honom så behagade, hwilket Hans Excellence förmente någon hwar stå öppet, så länge målet ej gått till Expedition.\"}, {\"bbox\": [564, 856, 1617, 1469], \"category\": \"Text\", \"text\": \"Härpå inkom Herr Stats Secreteraren Carlschöld, och sedan han intagit sitt ställe samt af Hans Excellence om det förewarande ämne blifwit underrättad, utlät sig, det han uppå Kongl. Collegii anmodan redan i denna saken förut till Cantzlisten Enander, som då warit wid protocollet, sagt sin tanka, men som Herr StatsSecreteraren för öfrigit kände hwarken Stechow eller Hellman, hwilka wid återbesättjandet af ofwannämde vice Amanuensis Syssla hade kommit i consideration, så förmälte Herr StatsSecreteraren ytterligare sig wäl icke wara obenägen att instämma med hwad Hans Excellence och Herr Hof Cantzlern sig yttrat; dock trodde Herr Stats Secreteraren, att om något för denna gången skulle tilläggas det yttrande, han redan enligit protocollet af d. 23 Decemb. aflemnat, wore det allenast, att Cantzlie Rådet Berch såsom förman wid Antiquitets Archivum och som deröfwer äger hafwa närmaste inseendet, i detta målet förut hördes.\"}, {\"bbox\": [564, 1475, 1616, 1764], \"category\": \"Text\", \"text\": \"Hans Excellence anmärkte härwid, att egenskapen af förman wid Antiquitets Archivum förnämligast tillkommer Herr HofCantzlern, som enligt författningarne äger så wäl derwid som wid Riksarchiverne och Bibliothequet öfwersta inseendet, samt att hwad Cantzlie Rådet Berch angeck, Hans Excellence icke annorlunda ansåge honom än som primus inter pares i anseende till Assessorerne, ibland hwilka Broocman lika som Secreteraren har en Ammanuensis, men\"}, {\"bbox\": [568, 1794, 644, 1842], \"category\": \"Page-footer\", \"text\": \"276\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    895,
+    246,
+    1289,
+    282
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    568,
+    316,
+    1616,
+    401
+   ],
+   "category": "Text",
+   "text": "teten finge decidera i detta ämne, och blef herr StatsSecreteraren genast bådad."
+  },
+  {
+   "bbox": [
+    564,
+    399,
+    1619,
+    651
+   ],
+   "category": "Text",
+   "text": "Härwid hemstälte likwäl Herr Cantzlie Rådet Lagerflycht, huruwida nödigt wara kunde att widare inhämta Herr Stats Secreteraren Carlschölds yttrande, sedan bemälte Stats Secreterare detsamma allarredan enligit protocollet af d. 23 Decemb: igenom Protocollisten låtit uti Kongl. Collegio anmäla och det deröfwer hållne Protocollet jemwäl blifwit uti Kongl. Collegio behörigen justeradt."
+  },
+  {
+   "bbox": [
+    566,
+    649,
+    1617,
+    857
+   ],
+   "category": "Text",
+   "text": "Hans Exellence utlät sig för sin del icke kunna finna, hwarföre rättigheten skulle wara Stats Secreteraren betagen sjelf få justera sitt utlåtande och till äwentyrs ändra sitt votum, i fall honom så behagade, hwilket Hans Excellence förmente någon hwar stå öppet, så länge målet ej gått till Expedition."
+  },
+  {
+   "bbox": [
+    564,
+    856,
+    1617,
+    1469
+   ],
+   "category": "Text",
+   "text": "Härpå inkom Herr Stats Secreteraren Carlschöld, och sedan han intagit sitt ställe samt af Hans Excellence om det förewarande ämne blifwit underrättad, utlät sig, det han uppå Kongl. Collegii anmodan redan i denna saken förut till Cantzlisten Enander, som då warit wid protocollet, sagt sin tanka, men som Herr StatsSecreteraren för öfrigit kände hwarken Stechow eller Hellman, hwilka wid återbesättjandet af ofwannämde vice Amanuensis Syssla hade kommit i consideration, så förmälte Herr StatsSecreteraren ytterligare sig wäl icke wara obenägen att instämma med hwad Hans Excellence och Herr Hof Cantzlern sig yttrat; dock trodde Herr Stats Secreteraren, att om något för denna gången skulle tilläggas det yttrande, han redan enligit protocollet af d. 23 Decemb. aflemnat, wore det allenast, att Cantzlie Rådet Berch såsom förman wid Antiquitets Archivum och som deröfwer äger hafwa närmaste inseendet, i detta målet förut hördes."
+  },
+  {
+   "bbox": [
+    564,
+    1475,
+    1616,
+    1764
+   ],
+   "category": "Text",
+   "text": "Hans Excellence anmärkte härwid, att egenskapen af förman wid Antiquitets Archivum förnämligast tillkommer Herr HofCantzlern, som enligt författningarne äger så wäl derwid som wid Riksarchiverne och Bibliothequet öfwersta inseendet, samt att hwad Cantzlie Rådet Berch angeck, Hans Excellence icke annorlunda ansåge honom än som primus inter pares i anseende till Assessorerne, ibland hwilka Broocman lika som Secreteraren har en Ammanuensis, men"
+  },
+  {
+   "bbox": [
+    568,
+    1794,
+    644,
+    1842
+   ],
+   "category": "Page-footer",
+   "text": "276"
+  }
+ ]
+}

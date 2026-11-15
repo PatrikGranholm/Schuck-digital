@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 335,
+ "seconds": 32.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [891, 258, 1287, 294], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [561, 328, 1613, 951], \"category\": \"Text\", \"text\": \"Kgl. May:ts sidsta cantzlij ordning, hwaräst för antiqv. archivum allenast upföres en Secreterare ell. antiquarius med de bägge amanuenserne.¹ Wäl hade warit, om man i rättan tid hafft tilfälle at bibringa Hans Mayt. nödwändigheten af åtminstone en assessors bibehållande wid påkommande siuklighet eller laga hinder. Nu är jag allena wid archivum, sedan Hr. Gagnerus skaffat sig tjenstfrihet. Min hälsa är icke bland de starkaste, will ej eller gjöra min person så angelägen. Men hwar det så händer, at bägge archiverne skola wid nästa öpning effter Hans Maj:ts sednaste Rescript ställas under en Secreterares wård, är fruktans wärdt, at antiquiteterne, som hafwa kostat penningar och med någon heder kunnat wisas för wettgirige Resande, aldeles nedgjömas. Kongl. Secreteraren Strand (Riksarkivets chef), ehuru yngre och rör[ ]igare, är aldeles icke smickrad at få et dubbelt departement, och jag tilstår min oförmögenhet at kunna skiöta bägge.»\"}, {\"bbox\": [441, 953, 558, 983], \"category\": \"Text\", \"text\": \"Berchs död\"}, {\"bbox\": [561, 951, 1615, 1490], \"category\": \"Text\", \"text\": \"Då han skrev detta, hade han själv icke långt kvar. Vid kanslikollegiets sammanträde den 2 december 1777 »förekom hos Hans Excellence och Kongl. Collegium, det herr Cantzli Rådet Berch wore nu uti så sjukligt tillstånd, att det syntes wara föga förhoppning om dess återställande till hälsan och än mindre, att han någonsin skulle wara i stånd att sköta sin innehafwande syssla, och kunde det intet annat än på det högsta oroa Hans Excellence och Kongl. Collegium att twifwelsutan snart nog se sig i mistning af en man, som med så utmärkt förtjenst och mycken skicklighet bestridt den honom öfwer Kongl. antiquitets archivum anförtrodde wård. Men som Hans Excellence och Kongl. Collegium fant wara nödigt, det någon anstalt i anseende till nycklarnas förwarande kunde widtagas, så fick Secreteraren Forslund befallning att å Kongl. Collegii wägnar\"}, {\"bbox\": [561, 1509, 1617, 1781], \"category\": \"Footnote\", \"text\": \"¹ I kansliordningen 1 juli 1773 står: »Vid Antiquitets Archivum är en Antiquarius, Translator, Amanuensis och vice Amanuensis.» Kansliordningen av den 3 juni 1776 har — egendomligt nog — ej kunnat återfinnas i riksarkivet, varken i »Kansliordningar», i Kungl. brev till kanslikollegiet eller i registraturet. Förklaringen ligger möjligen däri, att denna kansliordning blott var en revision av vissa paragrafer i 1773 års (om tystnadsplikten); den blev därför kanske aldrig utfärdad in extenso. Den av Berch omtalade indragningen var emellertid redan en beslutad sak inom den vid denna tid arbetande löneregleringskommissionen, vars förslag stadfästes månaden efter Berchs död. Indragningen kom t. o. m. att gå längre, än Berch förmodat, i det att hela personalen inskränktes till en antiquarius och en amanuens.\"}, {\"bbox\": [566, 1806, 641, 1852], \"category\": \"Page-footer\", \"text\": \"318\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    891,
+    258,
+    1287,
+    294
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    561,
+    328,
+    1613,
+    951
+   ],
+   "category": "Text",
+   "text": "Kgl. May:ts sidsta cantzlij ordning, hwaräst för antiqv. archivum allenast upföres en Secreterare ell. antiquarius med de bägge amanuenserne.¹ Wäl hade warit, om man i rättan tid hafft tilfälle at bibringa Hans Mayt. nödwändigheten af åtminstone en assessors bibehållande wid påkommande siuklighet eller laga hinder. Nu är jag allena wid archivum, sedan Hr. Gagnerus skaffat sig tjenstfrihet. Min hälsa är icke bland de starkaste, will ej eller gjöra min person så angelägen. Men hwar det så händer, at bägge archiverne skola wid nästa öpning effter Hans Maj:ts sednaste Rescript ställas under en Secreterares wård, är fruktans wärdt, at antiquiteterne, som hafwa kostat penningar och med någon heder kunnat wisas för wettgirige Resande, aldeles nedgjömas. Kongl. Secreteraren Strand (Riksarkivets chef), ehuru yngre och rör[ ]igare, är aldeles icke smickrad at få et dubbelt departement, och jag tilstår min oförmögenhet at kunna skiöta bägge.»"
+  },
+  {
+   "bbox": [
+    441,
+    953,
+    558,
+    983
+   ],
+   "category": "Text",
+   "text": "Berchs död"
+  },
+  {
+   "bbox": [
+    561,
+    951,
+    1615,
+    1490
+   ],
+   "category": "Text",
+   "text": "Då han skrev detta, hade han själv icke långt kvar. Vid kanslikollegiets sammanträde den 2 december 1777 »förekom hos Hans Excellence och Kongl. Collegium, det herr Cantzli Rådet Berch wore nu uti så sjukligt tillstånd, att det syntes wara föga förhoppning om dess återställande till hälsan och än mindre, att han någonsin skulle wara i stånd att sköta sin innehafwande syssla, och kunde det intet annat än på det högsta oroa Hans Excellence och Kongl. Collegium att twifwelsutan snart nog se sig i mistning af en man, som med så utmärkt förtjenst och mycken skicklighet bestridt den honom öfwer Kongl. antiquitets archivum anförtrodde wård. Men som Hans Excellence och Kongl. Collegium fant wara nödigt, det någon anstalt i anseende till nycklarnas förwarande kunde widtagas, så fick Secreteraren Forslund befallning att å Kongl. Collegii wägnar"
+  },
+  {
+   "bbox": [
+    561,
+    1509,
+    1617,
+    1781
+   ],
+   "category": "Footnote",
+   "text": "¹ I kansliordningen 1 juli 1773 står: »Vid Antiquitets Archivum är en Antiquarius, Translator, Amanuensis och vice Amanuensis.» Kansliordningen av den 3 juni 1776 har — egendomligt nog — ej kunnat återfinnas i riksarkivet, varken i »Kansliordningar», i Kungl. brev till kanslikollegiet eller i registraturet. Förklaringen ligger möjligen däri, att denna kansliordning blott var en revision av vissa paragrafer i 1773 års (om tystnadsplikten); den blev därför kanske aldrig utfärdad in extenso. Den av Berch omtalade indragningen var emellertid redan en beslutad sak inom den vid denna tid arbetande löneregleringskommissionen, vars förslag stadfästes månaden efter Berchs död. Indragningen kom t. o. m. att gå längre, än Berch förmodat, i det att hela personalen inskränktes till en antiquarius och en amanuens."
+  },
+  {
+   "bbox": [
+    566,
+    1806,
+    641,
+    1852
+   ],
+   "category": "Page-footer",
+   "text": "318"
+  }
+ ]
+}

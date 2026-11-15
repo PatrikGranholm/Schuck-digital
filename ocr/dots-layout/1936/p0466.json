@@ -1,0 +1,41 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 466,
+ "seconds": 10.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [97, 341, 1101, 1598], \"category\": \"Picture\"}, {\"bbox\": [461, 1646, 743, 1683], \"category\": \"Caption\", \"text\": \"NILS WESSMAN\"}, {\"bbox\": [324, 1701, 877, 1738], \"category\": \"Text\", \"text\": \"Oljemålning av J. J. Streng 1762 (Gripsholm).\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    97,
+    341,
+    1101,
+    1598
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    461,
+    1646,
+    743,
+    1683
+   ],
+   "category": "Caption",
+   "text": "NILS WESSMAN"
+  },
+  {
+   "bbox": [
+    324,
+    1701,
+    877,
+    1738
+   ],
+   "category": "Text",
+   "text": "Oljemålning av J. J. Streng 1762 (Gripsholm)."
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 128,
+ "seconds": 38.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [188, 244, 1053, 288], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet och Biblioteket 1751—1766\"}, {\"bbox\": [166, 315, 1144, 392], \"category\": \"Text\", \"text\": \"har Hr. Bergman låtit sig nöya med et exemplar af Brenners Thesauro.\"}, {\"bbox\": [166, 397, 1144, 607], \"category\": \"Text\", \"text\": \"Til boksamlingen anskaffat: En holländsk beskrivning om Swerige, tryckt i Hag 1695 8:0, Hwarföre gifwit en disputation de Horticultura Vpsaliensi, som war den endaste, hwilcken fantz af antiquitets Disputationer och pröfwades onödig, sedan publicum har en complet samling af disputationer i detta ämnet.\"}, {\"bbox\": [201, 606, 1067, 648], \"category\": \"Text\", \"text\": \"Wendelius emottagit några K. Friedrichs mynt at rita.\"}, {\"bbox\": [166, 647, 1144, 1021], \"category\": \"Text\", \"text\": \"Uplästes et utdrag utur Gottscheids(!) Neuer Bücher-Saal der Schönen Wissenschaften und freyen Künste des Bandes 5:des stück in 8:0 pag. 444 til 452. Hwaruti bem:te Gottscheid och en lärd man i Wien bemöda sig at förklara en såkallad Runeskrifft, hwilcken skal wara funnen i Lappland och hwaröfwer uttolkning begäres uti Berlinska academiens Memoirer. Ingen af de närwarande hade sig bekant, at en sådan Runeskrifft war af någon swensk antiqvario afritad i Lappland och tykte, at de främmande lärdes uttolkning var en lusus ingenii.\"}, {\"bbox\": [166, 1021, 1144, 1393], \"category\": \"Text\", \"text\": \"Magister Giöransson hade til archivum lemnat et exemplar af sin Bautil. Wid påseendet befantz, at detta war et hastwärck, emedan upläggaren hwarcken hade hållit den rediga ordning emellan Provintzer och härader, som Peringsköld utstakat; widare at många dupletter funnos af stenar, neml. sådane, som woro riktige, och andra, hwilka för begångne fehl uti läsning eller utskärning blifwit casserade. Hwarföre man gemensamt war glad, at denna upplaga skedt under Giöranssons och icke Kongl. archivi namn.\"}, {\"bbox\": [166, 1392, 1144, 1551], \"category\": \"Text\", \"text\": \"Transl. Wessman påminte, at som Giöransson fått några penningar af publico för den upsatte uttolckningen öfwer Runestenarna, så borde ock manuscriptet höra Cronan til och uti archivo förvaras.\"}, {\"bbox\": [166, 1557, 1144, 1758], \"category\": \"Text\", \"text\": \"Cantzlisten Bergman blef anmodad at igenomlöpa denna steensamling och anteckna, i hwilcka böcker förklaringar redan finnas giorda öfwer dessa Runehällar, såsom Peringskölds, Celsii och andra antiquariorum skriffter samt om någre variantes Lectiones finnas.\"}, {\"bbox\": [1066, 1804, 1134, 1832], \"category\": \"Page-footer\", \"text\": \"III\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    188,
+    244,
+    1053,
+    288
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet och Biblioteket 1751—1766"
+  },
+  {
+   "bbox": [
+    166,
+    315,
+    1144,
+    392
+   ],
+   "category": "Text",
+   "text": "har Hr. Bergman låtit sig nöya med et exemplar af Brenners Thesauro."
+  },
+  {
+   "bbox": [
+    166,
+    397,
+    1144,
+    607
+   ],
+   "category": "Text",
+   "text": "Til boksamlingen anskaffat: En holländsk beskrivning om Swerige, tryckt i Hag 1695 8:0, Hwarföre gifwit en disputation de Horticultura Vpsaliensi, som war den endaste, hwilcken fantz af antiquitets Disputationer och pröfwades onödig, sedan publicum har en complet samling af disputationer i detta ämnet."
+  },
+  {
+   "bbox": [
+    201,
+    606,
+    1067,
+    648
+   ],
+   "category": "Text",
+   "text": "Wendelius emottagit några K. Friedrichs mynt at rita."
+  },
+  {
+   "bbox": [
+    166,
+    647,
+    1144,
+    1021
+   ],
+   "category": "Text",
+   "text": "Uplästes et utdrag utur Gottscheids(!) Neuer Bücher-Saal der Schönen Wissenschaften und freyen Künste des Bandes 5:des stück in 8:0 pag. 444 til 452. Hwaruti bem:te Gottscheid och en lärd man i Wien bemöda sig at förklara en såkallad Runeskrifft, hwilcken skal wara funnen i Lappland och hwaröfwer uttolkning begäres uti Berlinska academiens Memoirer. Ingen af de närwarande hade sig bekant, at en sådan Runeskrifft war af någon swensk antiqvario afritad i Lappland och tykte, at de främmande lärdes uttolkning var en lusus ingenii."
+  },
+  {
+   "bbox": [
+    166,
+    1021,
+    1144,
+    1393
+   ],
+   "category": "Text",
+   "text": "Magister Giöransson hade til archivum lemnat et exemplar af sin Bautil. Wid påseendet befantz, at detta war et hastwärck, emedan upläggaren hwarcken hade hållit den rediga ordning emellan Provintzer och härader, som Peringsköld utstakat; widare at många dupletter funnos af stenar, neml. sådane, som woro riktige, och andra, hwilka för begångne fehl uti läsning eller utskärning blifwit casserade. Hwarföre man gemensamt war glad, at denna upplaga skedt under Giöranssons och icke Kongl. archivi namn."
+  },
+  {
+   "bbox": [
+    166,
+    1392,
+    1144,
+    1551
+   ],
+   "category": "Text",
+   "text": "Transl. Wessman påminte, at som Giöransson fått några penningar af publico för den upsatte uttolckningen öfwer Runestenarna, så borde ock manuscriptet höra Cronan til och uti archivo förvaras."
+  },
+  {
+   "bbox": [
+    166,
+    1557,
+    1144,
+    1758
+   ],
+   "category": "Text",
+   "text": "Cantzlisten Bergman blef anmodad at igenomlöpa denna steensamling och anteckna, i hwilcka böcker förklaringar redan finnas giorda öfwer dessa Runehällar, såsom Peringskölds, Celsii och andra antiquariorum skriffter samt om någre variantes Lectiones finnas."
+  },
+  {
+   "bbox": [
+    1066,
+    1804,
+    1134,
+    1832
+   ],
+   "category": "Page-footer",
+   "text": "III"
+  }
+ ]
+}

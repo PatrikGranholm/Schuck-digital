@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 157,
+ "seconds": 29.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [885, 255, 1281, 291], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [545, 324, 1602, 1486], \"category\": \"Text\", \"text\": \"till Kungl. Maj:t. Denna reproduceras troget i konungens brev till kanslikollegiet den 10 januari 1757, där det heter: »Utur Riksens Ständers wid sistledne Riksdag aflåtne underdånige skrifwelse af d. 21 näst. Octobr. hafwe Wij inhämtat, huruledes de efter det förtroende, som herr RiksRådet, Riddaren och Commendeuren af Wåre orden Grefve Gustaf Bonde hos OSS och Riksens Ständer så wälförtient äger, önskat, att dess mogna erfarenhet och öfrige namnkunnige Egenskaper måtte till Rikets och det allmännas fördel nyttjas, hwarjemte de hafft afseende deruppå, att herr RiksRådet wid flere tillfällen förklarat sin åstundan att wid en annalckande ålder förnöta dess öfriga lifstid uti lugn och ro. Till att derföre winna det förra utan att i detsamma aldeles afvika ifrån herr RiksRådets afsigt hafwa Riksens Ständer trodt honom kunna updragas sådane giöromål, som icke mindre fordrade dess granlaga och sällsynta kunskap än de med någorlunda beqwämlighet kunde förrättas. Uti detta afseende och uppå Riksens Ständers härom giorde hemställan hafwe Wij i nåder anmodat bemälte Herr RiksRåd att öfwer Wårt Antiquitets Archivum hafwa ett särskilt inseende. Han äger dymedelst tillfälle att igenom Embetes åtgärd till Nationens och sin egen heder bidraga till Literaturens fördel och upkomst, hwilket allena lärer kunna förmå honom at effter dess wanliga nit för Wår och Rikets tienst samt besynnerliga ömhet för witterlek och lärdom denna mödan sig åtaga. Hwad sättet till en sådan tillsyn wid Antiquitets Archivum widkommer, så updraga Wij nu Eder att med förenämde Herr RiksRåd derom öfwerenskomma, emedan berörde wärck under Edert öfwerinseende, likmätigt Cantzlieordningen, äger att hädanefter som hit intill oförryckt förblifwa. Wij befalle — —. Stockholm i Rådkammaren d. 19 Januarii 1757.»\"}, {\"bbox\": [545, 1483, 1600, 1776], \"category\": \"Text\", \"text\": \"Förordnandet var ju i sak tämligen obestämt, och Bondes befogenhet i förhållande till antikvitetsarkivet och kanslikollegiet angavs icke. Då kungabrevet den 7 februari upplästes i kanslikollegiet, tog detta i sitt protokoll särskilt fasta på avslutningsorden och antecknade, att Bonde förordnats »at hafwa öfwer Kongl. antiquitets archivum et särskildt inseende, dock så at ber:de wärk under Collegii öfwerinseende, likmätigt Cantzlieordningen, äger at hädan-\"}, {\"bbox\": [550, 1809, 625, 1847], \"category\": \"Page-footer\", \"text\": \"140\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    885,
+    255,
+    1281,
+    291
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    545,
+    324,
+    1602,
+    1486
+   ],
+   "category": "Text",
+   "text": "till Kungl. Maj:t. Denna reproduceras troget i konungens brev till kanslikollegiet den 10 januari 1757, där det heter: »Utur Riksens Ständers wid sistledne Riksdag aflåtne underdånige skrifwelse af d. 21 näst. Octobr. hafwe Wij inhämtat, huruledes de efter det förtroende, som herr RiksRådet, Riddaren och Commendeuren af Wåre orden Grefve Gustaf Bonde hos OSS och Riksens Ständer så wälförtient äger, önskat, att dess mogna erfarenhet och öfrige namnkunnige Egenskaper måtte till Rikets och det allmännas fördel nyttjas, hwarjemte de hafft afseende deruppå, att herr RiksRådet wid flere tillfällen förklarat sin åstundan att wid en annalckande ålder förnöta dess öfriga lifstid uti lugn och ro. Till att derföre winna det förra utan att i detsamma aldeles afvika ifrån herr RiksRådets afsigt hafwa Riksens Ständer trodt honom kunna updragas sådane giöromål, som icke mindre fordrade dess granlaga och sällsynta kunskap än de med någorlunda beqwämlighet kunde förrättas. Uti detta afseende och uppå Riksens Ständers härom giorde hemställan hafwe Wij i nåder anmodat bemälte Herr RiksRåd att öfwer Wårt Antiquitets Archivum hafwa ett särskilt inseende. Han äger dymedelst tillfälle att igenom Embetes åtgärd till Nationens och sin egen heder bidraga till Literaturens fördel och upkomst, hwilket allena lärer kunna förmå honom at effter dess wanliga nit för Wår och Rikets tienst samt besynnerliga ömhet för witterlek och lärdom denna mödan sig åtaga. Hwad sättet till en sådan tillsyn wid Antiquitets Archivum widkommer, så updraga Wij nu Eder att med förenämde Herr RiksRåd derom öfwerenskomma, emedan berörde wärck under Edert öfwerinseende, likmätigt Cantzlieordningen, äger att hädanefter som hit intill oförryckt förblifwa. Wij befalle — —. Stockholm i Rådkammaren d. 19 Januarii 1757.»"
+  },
+  {
+   "bbox": [
+    545,
+    1483,
+    1600,
+    1776
+   ],
+   "category": "Text",
+   "text": "Förordnandet var ju i sak tämligen obestämt, och Bondes befogenhet i förhållande till antikvitetsarkivet och kanslikollegiet angavs icke. Då kungabrevet den 7 februari upplästes i kanslikollegiet, tog detta i sitt protokoll särskilt fasta på avslutningsorden och antecknade, att Bonde förordnats »at hafwa öfwer Kongl. antiquitets archivum et särskildt inseende, dock så at ber:de wärk under Collegii öfwerinseende, likmätigt Cantzlieordningen, äger at hädan-"
+  },
+  {
+   "bbox": [
+    550,
+    1809,
+    625,
+    1847
+   ],
+   "category": "Page-footer",
+   "text": "140"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 741,
+ "seconds": 26.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [631, 520, 1450, 556], \"category\": \"Section-header\", \"text\": \"VITTERHETSAKADEMIENS OMBILDNING.\"}, {\"bbox\": [416, 628, 506, 688], \"category\": \"Text\", \"text\": \"Förbere-\\ndelserna\"}, {\"bbox\": [518, 620, 1574, 1781], \"category\": \"Text\", \"text\": \"Gustaf III hade ärvt sin moders litterära intressen. Han var onekligen en vältalare, kanske den främste i det dåtida Sverige, även något av en poet, mindre såsom dramatisk författare än till hela sin livssyn. Vid sitt besök i Paris 1771 hade han bevistat ett sammanträde i Franska akademien och helt visst tagit ett starkt intryck av det lysande i denna församling, ty för den yttre glansen hade han mer än andra sinne. En bland hans första åtgärder efter den lyckade revolutionen var också återupplivandet av den akademi, som efter den svenska mera blygsamma måttstocken motsvarade Académie française. Men han måtte snart hava funnit, att kopian stod väl långt efter förebilden. En akademi, som aldrig framträdde inför allmänheten utan höll sina sällan återkommande, av några få ledamöter besökta sammanträden i änkedrottningens bibliotek, var dock ej en institution, över vilken det föll en nationell högtidlighets glans. Svårigheten att efter änkedrottningens väntade frånfälle giva Vitterhetsakademien ändrade statuter var dock ej stor, och ändringarna hade ej behövt bli många, för att Vitterhetsakademien skulle hava blivit, vad Svenska akademien blev. Svårigheten låg ej häri, utan i det sätt, på vilket Lovisa Ulrika efter den 25 januari 1773 rekryterat sin litterära hovcirkel. Varken hennes poeter eller hennes kammarherrar passade i en akademi, som skulle motsvara den Franska, ej heller professor Melanderhielm och bibliotekarien Frondin, och så vida Lovisa Ulrikas Vitterhetsakademi hade ombildats till en Svensk akademi, skulle denna tyngande barlast ha kommit med. Detta var ett väsentligt hinder. Men det kanske mest vägande skälet mot en dylik reform var dock den bittra fiendskap, som uppstått mellan Lovisa Ulrika och hennes son och som gjorde honom ovillig att göra hennes litterära hovkrets till sin. Han ville, helt naturligt, skapa sin egen.\"}, {\"bbox\": [530, 1819, 604, 1857], \"category\": \"Page-footer\", \"text\": \"710\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    631,
+    520,
+    1450,
+    556
+   ],
+   "category": "Section-header",
+   "text": "VITTERHETSAKADEMIENS OMBILDNING."
+  },
+  {
+   "bbox": [
+    416,
+    628,
+    506,
+    688
+   ],
+   "category": "Text",
+   "text": "Förbere-\ndelserna"
+  },
+  {
+   "bbox": [
+    518,
+    620,
+    1574,
+    1781
+   ],
+   "category": "Text",
+   "text": "Gustaf III hade ärvt sin moders litterära intressen. Han var onekligen en vältalare, kanske den främste i det dåtida Sverige, även något av en poet, mindre såsom dramatisk författare än till hela sin livssyn. Vid sitt besök i Paris 1771 hade han bevistat ett sammanträde i Franska akademien och helt visst tagit ett starkt intryck av det lysande i denna församling, ty för den yttre glansen hade han mer än andra sinne. En bland hans första åtgärder efter den lyckade revolutionen var också återupplivandet av den akademi, som efter den svenska mera blygsamma måttstocken motsvarade Académie française. Men han måtte snart hava funnit, att kopian stod väl långt efter förebilden. En akademi, som aldrig framträdde inför allmänheten utan höll sina sällan återkommande, av några få ledamöter besökta sammanträden i änkedrottningens bibliotek, var dock ej en institution, över vilken det föll en nationell högtidlighets glans. Svårigheten att efter änkedrottningens väntade frånfälle giva Vitterhetsakademien ändrade statuter var dock ej stor, och ändringarna hade ej behövt bli många, för att Vitterhetsakademien skulle hava blivit, vad Svenska akademien blev. Svårigheten låg ej häri, utan i det sätt, på vilket Lovisa Ulrika efter den 25 januari 1773 rekryterat sin litterära hovcirkel. Varken hennes poeter eller hennes kammarherrar passade i en akademi, som skulle motsvara den Franska, ej heller professor Melanderhielm och bibliotekarien Frondin, och så vida Lovisa Ulrikas Vitterhetsakademi hade ombildats till en Svensk akademi, skulle denna tyngande barlast ha kommit med. Detta var ett väsentligt hinder. Men det kanske mest vägande skälet mot en dylik reform var dock den bittra fiendskap, som uppstått mellan Lovisa Ulrika och hennes son och som gjorde honom ovillig att göra hennes litterära hovkrets till sin. Han ville, helt naturligt, skapa sin egen."
+  },
+  {
+   "bbox": [
+    530,
+    1819,
+    604,
+    1857
+   ],
+   "category": "Page-footer",
+   "text": "710"
+  }
+ ]
+}

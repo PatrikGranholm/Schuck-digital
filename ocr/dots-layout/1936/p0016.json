@@ -1,0 +1,51 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 16,
+ "seconds": 28.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [133, 355, 725, 685], \"category\": \"Picture\"}, {\"bbox\": [526, 694, 985, 722], \"category\": \"Caption\", \"text\": \"CARL REINHOLD BERCH\"}, {\"bbox\": [526, 725, 985, 753], \"category\": \"Text\", \"text\": \"Pastell av Gustaf Lundberg omkr. 1750\"}, {\"bbox\": [555, 751, 954, 778], \"category\": \"Text\", \"text\": \"(Akademien för de fria konsterna).\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    133,
+    355,
+    725,
+    685
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    526,
+    694,
+    985,
+    722
+   ],
+   "category": "Caption",
+   "text": "CARL REINHOLD BERCH"
+  },
+  {
+   "bbox": [
+    526,
+    725,
+    985,
+    753
+   ],
+   "category": "Text",
+   "text": "Pastell av Gustaf Lundberg omkr. 1750"
+  },
+  {
+   "bbox": [
+    555,
+    751,
+    954,
+    778
+   ],
+   "category": "Text",
+   "text": "(Akademien för de fria konsterna)."
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 579,
+ "seconds": 29.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [898, 273, 1296, 311], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [571, 342, 1621, 434], \"category\": \"Text\", \"text\": \"Höglofl. Kongl. Bergs- och antiquitets Collegium Præsenterade Smycke wara omgifwen.\"}, {\"bbox\": [607, 441, 1055, 486], \"category\": \"Text\", \"text\": \"Stockholm d. 26 Junij 1763.\"}, {\"bbox\": [1409, 484, 1571, 519], \"category\": \"Text\", \"text\": \"Eric Hård\"}, {\"bbox\": [1366, 527, 1622, 558], \"category\": \"Text\", \"text\": \"Kongl. FlaggConstapel.»\"}, {\"bbox\": [571, 603, 1626, 775], \"category\": \"Text\", \"text\": \"Fyndet hamnade sedan i antikvitetsarkivet, och härom antecknade Berch (Inventariet 151): »Ringen, hwilken upfinnaren gaf namn af hufvudpansar, fast han aldrig tyckes passat åt någon större än ett barn eller qvinna, satt omkring pannan.»\"}, {\"bbox\": [571, 768, 1629, 1769], \"category\": \"Text\", \"text\": \"1764 tyckes den Friedrich Feldt, vilken såsom ritare följt med Wessman på dennes skånska resa 1756, hava fått något uppdrag att uppsöka antikviteter, och av denna antikvariska resa finnas åtminstone två spår. Den 30 juni skrev kyrkoherden Friedrich Hansonius till antikvitetsarkivet: »Såsom Conducteuren herr Friedrich Feldt på Hans Kongl. Mayestäts nådigste tillstånd reser omkring i landet at upsöka Antiquiteter och Monumenter och han hos oss intet funnit annat än et gammalt Rökelse-kar i Jonstorps kyrkia, thet han åstundar få föra med sig till Stockholm, altså är samma Monument såsom obrukbart wid kyrckian berörde Conducteur friwilligt så af församling som Pastor till samma ända öfwerlämnat, som härmed försäkras. Farhults Prästegård d. 30 Juni 1764. Fried. Hansonius. P. L.» Något senare på året skrev kyrkoherden i Träne: »Till hr. Conducteuren Friedrich Gustav Felt, som på Hans Kongl. Maj:ts nådigste förordnande äfwen warit här at upsöka Antiquiteter och monumenter, warder af Träne kyrckia här med skiänckt ett gammalt rökelsekar såsom för kyrckan obrukeligit och det endaste monument här funnits. Träne d. 27 Decemb. 1764.» Den 5 mars 1765 tackade Berch för gåvorna: »Ifrån det högwördiga Prästerskapet i Skåne äro til Kongl. Antiquitets Archivum med herr Conducteuren Fr. G. Feldt upsände fyra stycken gamla Rökelse-kahr af metall, hwaribland et ifrån Träne och det andra ifrån Farshult. Hwilka gamla Monumenter äro uti Inventario inskrifne, deras gifware til åminnelse. Stockholm uti antiquitets ar-\"}, {\"bbox\": [581, 1835, 656, 1875], \"category\": \"Page-footer\", \"text\": \"550\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    898,
+    273,
+    1296,
+    311
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    571,
+    342,
+    1621,
+    434
+   ],
+   "category": "Text",
+   "text": "Höglofl. Kongl. Bergs- och antiquitets Collegium Præsenterade Smycke wara omgifwen."
+  },
+  {
+   "bbox": [
+    607,
+    441,
+    1055,
+    486
+   ],
+   "category": "Text",
+   "text": "Stockholm d. 26 Junij 1763."
+  },
+  {
+   "bbox": [
+    1409,
+    484,
+    1571,
+    519
+   ],
+   "category": "Text",
+   "text": "Eric Hård"
+  },
+  {
+   "bbox": [
+    1366,
+    527,
+    1622,
+    558
+   ],
+   "category": "Text",
+   "text": "Kongl. FlaggConstapel.»"
+  },
+  {
+   "bbox": [
+    571,
+    603,
+    1626,
+    775
+   ],
+   "category": "Text",
+   "text": "Fyndet hamnade sedan i antikvitetsarkivet, och härom antecknade Berch (Inventariet 151): »Ringen, hwilken upfinnaren gaf namn af hufvudpansar, fast han aldrig tyckes passat åt någon större än ett barn eller qvinna, satt omkring pannan.»"
+  },
+  {
+   "bbox": [
+    571,
+    768,
+    1629,
+    1769
+   ],
+   "category": "Text",
+   "text": "1764 tyckes den Friedrich Feldt, vilken såsom ritare följt med Wessman på dennes skånska resa 1756, hava fått något uppdrag att uppsöka antikviteter, och av denna antikvariska resa finnas åtminstone två spår. Den 30 juni skrev kyrkoherden Friedrich Hansonius till antikvitetsarkivet: »Såsom Conducteuren herr Friedrich Feldt på Hans Kongl. Mayestäts nådigste tillstånd reser omkring i landet at upsöka Antiquiteter och Monumenter och han hos oss intet funnit annat än et gammalt Rökelse-kar i Jonstorps kyrkia, thet han åstundar få föra med sig till Stockholm, altså är samma Monument såsom obrukbart wid kyrckian berörde Conducteur friwilligt så af församling som Pastor till samma ända öfwerlämnat, som härmed försäkras. Farhults Prästegård d. 30 Juni 1764. Fried. Hansonius. P. L.» Något senare på året skrev kyrkoherden i Träne: »Till hr. Conducteuren Friedrich Gustav Felt, som på Hans Kongl. Maj:ts nådigste förordnande äfwen warit här at upsöka Antiquiteter och monumenter, warder af Träne kyrckia här med skiänckt ett gammalt rökelsekar såsom för kyrckan obrukeligit och det endaste monument här funnits. Träne d. 27 Decemb. 1764.» Den 5 mars 1765 tackade Berch för gåvorna: »Ifrån det högwördiga Prästerskapet i Skåne äro til Kongl. Antiquitets Archivum med herr Conducteuren Fr. G. Feldt upsände fyra stycken gamla Rökelse-kahr af metall, hwaribland et ifrån Träne och det andra ifrån Farshult. Hwilka gamla Monumenter äro uti Inventario inskrifne, deras gifware til åminnelse. Stockholm uti antiquitets ar-"
+  },
+  {
+   "bbox": [
+    581,
+    1835,
+    656,
+    1875
+   ],
+   "category": "Page-footer",
+   "text": "550"
+  }
+ ]
+}

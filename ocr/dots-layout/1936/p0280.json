@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 280,
+ "seconds": 30.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [334, 242, 883, 285], \"category\": \"Section-header\", \"text\": \"Berchs sista tid (1766—1778)\"}, {\"bbox\": [89, 312, 1136, 434], \"category\": \"Text\", \"text\": \"lande 150, Böckers inköp och tryckande 400, tilsammans 950 D. Smt. och effter nya förbättringen bestås i et för allt, allenast 750 Dr. d:o Mt.\"}, {\"bbox\": [127, 444, 556, 487], \"category\": \"Text\", \"text\": \"Stockholm d. 8 Maji 1767.\"}, {\"bbox\": [786, 483, 1100, 517], \"category\": \"Text\", \"text\": \"Carl Reinh. Berch.»\"}, {\"bbox\": [92, 559, 1141, 1762], \"category\": \"Text\", \"text\": \"Kanslikollegiet biföll, t. o. m. i förbättrad form, detta förslag: »Föredrogs Herr CantzliRådet Berchs memorial af d. 8 i denna månad [referat]. Angående denna sista omständighet [myntskåpet] intygade Herr HåfCantzleren Grefwe Düben sig hafwa funnit gamla myntskåpet ej allenast otilräckeligit för den i sednare åren tilökte myntsamling utan ock så förfallit, at Lådorne swårligen utan at falla sönder kunna utdragas. Som Kongl. Collegium wid det första eller rörande tilökningen på Lönerne wid antiquitets archivum fant moyen kunna blifwa at förse vice amanuens sysslan med lön nu genast, hwilket Collegium trodde icke böra underlåtas, då den samma efter Riksens Ständers föreskrift kommer at bibehållas och följakteligen icke bör stå längre obesatt, så wille Collegium därföre inkalla Herr CantzliRådet Berch för at gifwa honom tilkänna den ändring, Collegium funnit kunna härwid göras. Då han efter någon stund inkom, anmärckte Kongl. Collegium, at däräst Brocman jämte sin förra Translators Lön à 500 dr. smt och Isländske pension 200 dr. smt bibehålles wid 100 dr. dito af sportlarne, hade han hwad efter nya inrättningen honom bestås, nemligen 800 Dr. smt. Likaledes om Gagnerus jämte sin gamla amanuens Lön 300 Dr. bibehålles wid sina 100 Dr. i sportlar och får ändå tilökning af en andel sportlar eller 100 Dr., har han 500 Dr., som utgör des fulla lön efter nya Staten. Til denna sista andel Sportlar för Gagnerus är tilgång af de Isländska amanuenslönen åtföljande 100 Dr. sportlar, och då återstår ändå sjelfwa lönen 300 Dr. smt, som utgör hwad efter nya Inrättningen bestås en vice amanuens i lön. Herr CantzliRådet förklarade sig ingenting hafwa at anföra härwid, om Kongl. Collegium täcktes fastställa en sådan arrangement med lönerne. Kongl. Collegium fant genom den samma ändamålet af Riksens Ständers föreskrift skyndesammare befrämjas,\"}, {\"bbox\": [1064, 1788, 1135, 1834], \"category\": \"Page-footer\", \"text\": \"263\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    334,
+    242,
+    883,
+    285
+   ],
+   "category": "Section-header",
+   "text": "Berchs sista tid (1766—1778)"
+  },
+  {
+   "bbox": [
+    89,
+    312,
+    1136,
+    434
+   ],
+   "category": "Text",
+   "text": "lande 150, Böckers inköp och tryckande 400, tilsammans 950 D. Smt. och effter nya förbättringen bestås i et för allt, allenast 750 Dr. d:o Mt."
+  },
+  {
+   "bbox": [
+    127,
+    444,
+    556,
+    487
+   ],
+   "category": "Text",
+   "text": "Stockholm d. 8 Maji 1767."
+  },
+  {
+   "bbox": [
+    786,
+    483,
+    1100,
+    517
+   ],
+   "category": "Text",
+   "text": "Carl Reinh. Berch.»"
+  },
+  {
+   "bbox": [
+    92,
+    559,
+    1141,
+    1762
+   ],
+   "category": "Text",
+   "text": "Kanslikollegiet biföll, t. o. m. i förbättrad form, detta förslag: »Föredrogs Herr CantzliRådet Berchs memorial af d. 8 i denna månad [referat]. Angående denna sista omständighet [myntskåpet] intygade Herr HåfCantzleren Grefwe Düben sig hafwa funnit gamla myntskåpet ej allenast otilräckeligit för den i sednare åren tilökte myntsamling utan ock så förfallit, at Lådorne swårligen utan at falla sönder kunna utdragas. Som Kongl. Collegium wid det första eller rörande tilökningen på Lönerne wid antiquitets archivum fant moyen kunna blifwa at förse vice amanuens sysslan med lön nu genast, hwilket Collegium trodde icke böra underlåtas, då den samma efter Riksens Ständers föreskrift kommer at bibehållas och följakteligen icke bör stå längre obesatt, så wille Collegium därföre inkalla Herr CantzliRådet Berch för at gifwa honom tilkänna den ändring, Collegium funnit kunna härwid göras. Då han efter någon stund inkom, anmärckte Kongl. Collegium, at däräst Brocman jämte sin förra Translators Lön à 500 dr. smt och Isländske pension 200 dr. smt bibehålles wid 100 dr. dito af sportlarne, hade han hwad efter nya inrättningen honom bestås, nemligen 800 Dr. smt. Likaledes om Gagnerus jämte sin gamla amanuens Lön 300 Dr. bibehålles wid sina 100 Dr. i sportlar och får ändå tilökning af en andel sportlar eller 100 Dr., har han 500 Dr., som utgör des fulla lön efter nya Staten. Til denna sista andel Sportlar för Gagnerus är tilgång af de Isländska amanuenslönen åtföljande 100 Dr. sportlar, och då återstår ändå sjelfwa lönen 300 Dr. smt, som utgör hwad efter nya Inrättningen bestås en vice amanuens i lön. Herr CantzliRådet förklarade sig ingenting hafwa at anföra härwid, om Kongl. Collegium täcktes fastställa en sådan arrangement med lönerne. Kongl. Collegium fant genom den samma ändamålet af Riksens Ständers föreskrift skyndesammare befrämjas,"
+  },
+  {
+   "bbox": [
+    1064,
+    1788,
+    1135,
+    1834
+   ],
+   "category": "Page-footer",
+   "text": "263"
+  }
+ ]
+}

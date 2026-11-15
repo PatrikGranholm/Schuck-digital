@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 87,
+ "seconds": 30.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [905, 245, 1299, 281], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [573, 314, 1623, 1101], \"category\": \"Text\", \"text\": \"ranssons arbete uti antiquiteterne med mera, hwilcket wälbem:te stånd icke allenast bifallit utan ock hos the öfrige Respective Stånden recommenderat. Borgare Ståndet tog detta Memorial i behörigt öfwerwägande och fant godt at bifalla högwyrdige Präste Ståndets tilläggning¹ för Magister Göransson, at han må i underdånighet anmälas til Extra ordinarie Professor wid Upsala academie.» Efter denna behandling återkom ärendet i prästeståndet: »Förehades å nyo Biskopen Hr. Doct. Rhyzelii memorial ang:de Mag:r Joh. Göransson, hwaröfwer Bonde St. sig således yttradt, at thet bifaller Pr. St:s mening med tilläggning, at bem:te Magister må i underdånighet anmälas til Extra-ordinarie Professor wid Kongl. academien i Upsala. Borg. St. har bifallit Bonde St:s Resol. Pr. St. förblifwer wid memorialet och önskar för sin del, at Mag:r Göransson måtte warda brukad wid antiquitets Collegium til befrämjande af thet omrörde ändamålet och therföre bekomma at skieliget arfwode, men hwad extraordinarie Profession wid academien i Upsala angår, kan Pr. St. ej samtycka thertil såsom stridande emot thes Privilegier och academiska Constitutionerne» (Prästeståndets prot. den 12 dec. 1747).\"}, {\"bbox\": [569, 1101, 1618, 1725], \"category\": \"Text\", \"text\": \"Sedan tre stånd således förenat sig om memorialet, avläto rikets ständer denna skrivelse till Kungl. Maj:t: »Såsom Riksens Ständer är wordet wid handen gifwit, thet uti Eders Kongl. Maj:ts antiquitets Collegio skall finnas en stor myckenhet Runstenar dels i träd skurne och dels på papper ritade, hwilka uti Hans Maj:ts Höglofl. i åminnelse Konung Carl then XI:tes Regeringstid blifwit aftagne, men hittils icke til särdeles bruk och gagn nyttjade, utan torde med tiden förfaras eller förderfwas, ther likwäl Riksens Ständer förmoda, at i fall thesse Runeskriffter blefwo i ordning bragte samt, såsom med en del tillförene skiedt, öfwersatte och utgifne eller annars med nytta anwände, skulle sådant lända til märkelig uplysning uti Swears och Giöthars äldre Historia samt til Nationens heder och wåre lofwärde förfäders äreminne; altså och emedan Riksens Ständer förnummit, thet Magister Johan Giöransson förwärfwat sig så wäl grundelig Jnsigt och färdighet uti all befintelig Runaskrifts\"}, {\"bbox\": [603, 1732, 988, 1762], \"category\": \"Footnote\", \"text\": \"¹ Orätt. Skall vara Bondeståndets.\"}, {\"bbox\": [573, 1798, 624, 1838], \"category\": \"Page-footer\", \"text\": \"70\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    905,
+    245,
+    1299,
+    281
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    573,
+    314,
+    1623,
+    1101
+   ],
+   "category": "Text",
+   "text": "ranssons arbete uti antiquiteterne med mera, hwilcket wälbem:te stånd icke allenast bifallit utan ock hos the öfrige Respective Stånden recommenderat. Borgare Ståndet tog detta Memorial i behörigt öfwerwägande och fant godt at bifalla högwyrdige Präste Ståndets tilläggning¹ för Magister Göransson, at han må i underdånighet anmälas til Extra ordinarie Professor wid Upsala academie.» Efter denna behandling återkom ärendet i prästeståndet: »Förehades å nyo Biskopen Hr. Doct. Rhyzelii memorial ang:de Mag:r Joh. Göransson, hwaröfwer Bonde St. sig således yttradt, at thet bifaller Pr. St:s mening med tilläggning, at bem:te Magister må i underdånighet anmälas til Extra-ordinarie Professor wid Kongl. academien i Upsala. Borg. St. har bifallit Bonde St:s Resol. Pr. St. förblifwer wid memorialet och önskar för sin del, at Mag:r Göransson måtte warda brukad wid antiquitets Collegium til befrämjande af thet omrörde ändamålet och therföre bekomma at skieliget arfwode, men hwad extraordinarie Profession wid academien i Upsala angår, kan Pr. St. ej samtycka thertil såsom stridande emot thes Privilegier och academiska Constitutionerne» (Prästeståndets prot. den 12 dec. 1747)."
+  },
+  {
+   "bbox": [
+    569,
+    1101,
+    1618,
+    1725
+   ],
+   "category": "Text",
+   "text": "Sedan tre stånd således förenat sig om memorialet, avläto rikets ständer denna skrivelse till Kungl. Maj:t: »Såsom Riksens Ständer är wordet wid handen gifwit, thet uti Eders Kongl. Maj:ts antiquitets Collegio skall finnas en stor myckenhet Runstenar dels i träd skurne och dels på papper ritade, hwilka uti Hans Maj:ts Höglofl. i åminnelse Konung Carl then XI:tes Regeringstid blifwit aftagne, men hittils icke til särdeles bruk och gagn nyttjade, utan torde med tiden förfaras eller förderfwas, ther likwäl Riksens Ständer förmoda, at i fall thesse Runeskriffter blefwo i ordning bragte samt, såsom med en del tillförene skiedt, öfwersatte och utgifne eller annars med nytta anwände, skulle sådant lända til märkelig uplysning uti Swears och Giöthars äldre Historia samt til Nationens heder och wåre lofwärde förfäders äreminne; altså och emedan Riksens Ständer förnummit, thet Magister Johan Giöransson förwärfwat sig så wäl grundelig Jnsigt och färdighet uti all befintelig Runaskrifts"
+  },
+  {
+   "bbox": [
+    603,
+    1732,
+    988,
+    1762
+   ],
+   "category": "Footnote",
+   "text": "¹ Orätt. Skall vara Bondeståndets."
+  },
+  {
+   "bbox": [
+    573,
+    1798,
+    624,
+    1838
+   ],
+   "category": "Page-footer",
+   "text": "70"
+  }
+ ]
+}

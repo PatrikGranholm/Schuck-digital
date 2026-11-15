@@ -1,0 +1,42 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 582,
+ "seconds": 11.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [397, 277, 761, 322], \"category\": \"Section-header\", \"text\": \"Fynd och nyförvärv\"}, {\"bbox\": [52, 347, 1104, 597], \"category\": \"Text\", \"text\": \"posten til någon sin wän upsända bem:te penningar, skal betalningen straxt följa, nemligen Fyndets fulla inwärtes wärde (effter det nu warande, ehuru dryga gull-priset) och deröfwer en åttondel af Summan, som nya Lagen bewiljar upfinnaren til belöning, i ställe at han tilförene icke fick behålla mera än 1/3 af alt hwad han funnit och upwiste.»\"}, {\"bbox\": [1013, 1843, 1085, 1880], \"category\": \"Page-footer\", \"text\": \"553\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    397,
+    277,
+    761,
+    322
+   ],
+   "category": "Section-header",
+   "text": "Fynd och nyförvärv"
+  },
+  {
+   "bbox": [
+    52,
+    347,
+    1104,
+    597
+   ],
+   "category": "Text",
+   "text": "posten til någon sin wän upsända bem:te penningar, skal betalningen straxt följa, nemligen Fyndets fulla inwärtes wärde (effter det nu warande, ehuru dryga gull-priset) och deröfwer en åttondel af Summan, som nya Lagen bewiljar upfinnaren til belöning, i ställe at han tilförene icke fick behålla mera än 1/3 af alt hwad han funnit och upwiste.»"
+  },
+  {
+   "bbox": [
+    1013,
+    1843,
+    1085,
+    1880
+   ],
+   "category": "Page-footer",
+   "text": "553"
+  }
+ ]
+}

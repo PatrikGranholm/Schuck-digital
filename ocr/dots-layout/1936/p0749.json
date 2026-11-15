@@ -1,0 +1,42 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 749,
+ "seconds": 15.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [862, 262, 1254, 298], \"category\": \"Section-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [528, 331, 1582, 1039], \"category\": \"Text\", \"text\": \"räknade många ganska lärda ledamöter, väl så gott som den ombildade akademien. Själva tanken att göra en akademi i stället för ett ämbetsverk till denna överinstans var dock nog den riktiga, och därigenom återställdes den ursprungliga organisationen: det gamla antikvitetskollegiet, som väsentligen var en lärd akademi. Den återställdes även därigenom, att antikvitetsarkivets sekreterare nu — liksom Hadorph på Karl XI:s tid — blev *bisittare* i denna överinstans, under det att Berch blott varit tjänsteman *under* kanslikollegiet. Den nya akademien kan därför snarast betraktas såsom ett förstärkt och utvidgat antikvitetsarkiv. Dess kärna utgjordes av riksantikvarien — som 1786 praktiskt taget ensam utgjorde arkivet — och liksom på Hadorphs tid fick han nu vid sin sida en samling av »assessorer», den nya akademiens ledamöter. Med andra ord: det var såsom Vitterhets-, Historie- och Antikvitetsakademi som antikvitetskollegiet åter levde upp. Sambandet mellan den nya akademien och Vitterhetsakademien är däremot blott ett yttre, och det var i Svenska akademien, som Lovisa Ulrikas skapelse återuppstod.\"}, {\"bbox\": [544, 1813, 619, 1859], \"category\": \"Page-footer\", \"text\": \"718\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    862,
+    262,
+    1254,
+    298
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    528,
+    331,
+    1582,
+    1039
+   ],
+   "category": "Text",
+   "text": "räknade många ganska lärda ledamöter, väl så gott som den ombildade akademien. Själva tanken att göra en akademi i stället för ett ämbetsverk till denna överinstans var dock nog den riktiga, och därigenom återställdes den ursprungliga organisationen: det gamla antikvitetskollegiet, som väsentligen var en lärd akademi. Den återställdes även därigenom, att antikvitetsarkivets sekreterare nu — liksom Hadorph på Karl XI:s tid — blev *bisittare* i denna överinstans, under det att Berch blott varit tjänsteman *under* kanslikollegiet. Den nya akademien kan därför snarast betraktas såsom ett förstärkt och utvidgat antikvitetsarkiv. Dess kärna utgjordes av riksantikvarien — som 1786 praktiskt taget ensam utgjorde arkivet — och liksom på Hadorphs tid fick han nu vid sin sida en samling av »assessorer», den nya akademiens ledamöter. Med andra ord: det var såsom Vitterhets-, Historie- och Antikvitetsakademi som antikvitetskollegiet åter levde upp. Sambandet mellan den nya akademien och Vitterhetsakademien är däremot blott ett yttre, och det var i Svenska akademien, som Lovisa Ulrikas skapelse återuppstod."
+  },
+  {
+   "bbox": [
+    544,
+    1813,
+    619,
+    1859
+   ],
+   "category": "Page-footer",
+   "text": "718"
+  }
+ ]
+}

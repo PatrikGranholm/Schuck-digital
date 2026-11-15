@@ -1,0 +1,172 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 505,
+ "seconds": 32.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [902, 273, 1302, 309], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [612, 344, 1375, 388], \"category\": \"Text\", \"text\": \"4) Deviserne eller öfwerskrifterne på klockorne.\"}, {\"bbox\": [577, 384, 1626, 468], \"category\": \"Text\", \"text\": \"5) Pastorerne så många, som af äldre och nyare tider kunna finnas samt när the kommit till församblingen och blifwit döde.\"}, {\"bbox\": [577, 466, 1626, 548], \"category\": \"Text\", \"text\": \"6) Om någon wådelig händelse timat wid kyrckjan med Bran[d] el. annat.\"}, {\"bbox\": [902, 576, 1313, 617], \"category\": \"Section-header\", \"text\": \"## II Om Sochnen i gemen.\"}, {\"bbox\": [617, 631, 1010, 672], \"category\": \"Text\", \"text\": \"1) Huru många mantal.\"}, {\"bbox\": [617, 672, 976, 713], \"category\": \"Text\", \"text\": \"2) Huru många Byar.\"}, {\"bbox\": [579, 710, 1626, 790], \"category\": \"Text\", \"text\": \"3) Huru många Bönder, både the, som hafwa dehlade hemman så wähl som the andre.\"}, {\"bbox\": [579, 792, 1626, 879], \"category\": \"Text\", \"text\": \"4) Hwarutaf Sochnen är mäst fruchtbärande och hwad handa-slögder mäst brukas.\"}, {\"bbox\": [617, 878, 1075, 920], \"category\": \"Text\", \"text\": \"5) Hwilket fiske mäst idkas.\"}, {\"bbox\": [617, 918, 1446, 961], \"category\": \"Text\", \"text\": \"6) Hwad thet är för sochne Sigill och des Inscription.\"}, {\"bbox\": [617, 962, 1097, 1004], \"category\": \"Text\", \"text\": \"7) Andra märckwärdigheter.»\"}, {\"bbox\": [582, 1047, 1629, 1292], \"category\": \"Text\", \"text\": \"Frågorna besvarades av ganska många kyrkoherdar, men deras svar äro föga givande. Tillbaka i Stockholm var Brocman redan den 14 september, men hade under denna korta tid hunnit utföra en ganska omfattande undersökning av Hälsinglands antikviteter, och det tog honom närmare ett år att i en berättelse till kanslikollegiet sammanfatta resultaten.\"}, {\"bbox\": [582, 1294, 1629, 1628], \"category\": \"Text\", \"text\": \"Först den 31 juli 1764 avslutade han nämligen »Berättelse om åtskilliga Ålderdoms Lemningar i Anledning af den på Kongl. Maj:ts allernådigsta Befallning och efter Kongl. Maj:ts samt Riksens Höglofl. Cancelli Collegii Godtfinnande förrättade Resa til Helsingland år 1763» — den utförligaste antikvariska reseberättelse, som antikvitetsarkivet dittills fått mottaga, en stor, ytterst prydligt skriven folio på 54 sidor med 56 elegant utförda ritningar av Rehn (K. B. sign. F e. 23).\"}, {\"bbox\": [582, 1626, 1631, 1795], \"category\": \"Text\", \"text\": \"Sedan han i början — på sätt, som vi redan sett — avlivat jätte-fantasierna, fortsätter han med en redogörelse för Hälsinglands verk-liga antikviteter, först resterna av »skansar och fäster», sedan ätte-högarna, och dem hade han även i några fall undersökt. Så skriver\"}, {\"bbox\": [586, 1826, 664, 1872], \"category\": \"Page-footer\", \"text\": \"478\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    902,
+    273,
+    1302,
+    309
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    612,
+    344,
+    1375,
+    388
+   ],
+   "category": "Text",
+   "text": "4) Deviserne eller öfwerskrifterne på klockorne."
+  },
+  {
+   "bbox": [
+    577,
+    384,
+    1626,
+    468
+   ],
+   "category": "Text",
+   "text": "5) Pastorerne så många, som af äldre och nyare tider kunna finnas samt när the kommit till församblingen och blifwit döde."
+  },
+  {
+   "bbox": [
+    577,
+    466,
+    1626,
+    548
+   ],
+   "category": "Text",
+   "text": "6) Om någon wådelig händelse timat wid kyrckjan med Bran[d] el. annat."
+  },
+  {
+   "bbox": [
+    902,
+    576,
+    1313,
+    617
+   ],
+   "category": "Section-header",
+   "text": "## II Om Sochnen i gemen."
+  },
+  {
+   "bbox": [
+    617,
+    631,
+    1010,
+    672
+   ],
+   "category": "Text",
+   "text": "1) Huru många mantal."
+  },
+  {
+   "bbox": [
+    617,
+    672,
+    976,
+    713
+   ],
+   "category": "Text",
+   "text": "2) Huru många Byar."
+  },
+  {
+   "bbox": [
+    579,
+    710,
+    1626,
+    790
+   ],
+   "category": "Text",
+   "text": "3) Huru många Bönder, både the, som hafwa dehlade hemman så wähl som the andre."
+  },
+  {
+   "bbox": [
+    579,
+    792,
+    1626,
+    879
+   ],
+   "category": "Text",
+   "text": "4) Hwarutaf Sochnen är mäst fruchtbärande och hwad handa-slögder mäst brukas."
+  },
+  {
+   "bbox": [
+    617,
+    878,
+    1075,
+    920
+   ],
+   "category": "Text",
+   "text": "5) Hwilket fiske mäst idkas."
+  },
+  {
+   "bbox": [
+    617,
+    918,
+    1446,
+    961
+   ],
+   "category": "Text",
+   "text": "6) Hwad thet är för sochne Sigill och des Inscription."
+  },
+  {
+   "bbox": [
+    617,
+    962,
+    1097,
+    1004
+   ],
+   "category": "Text",
+   "text": "7) Andra märckwärdigheter.»"
+  },
+  {
+   "bbox": [
+    582,
+    1047,
+    1629,
+    1292
+   ],
+   "category": "Text",
+   "text": "Frågorna besvarades av ganska många kyrkoherdar, men deras svar äro föga givande. Tillbaka i Stockholm var Brocman redan den 14 september, men hade under denna korta tid hunnit utföra en ganska omfattande undersökning av Hälsinglands antikviteter, och det tog honom närmare ett år att i en berättelse till kanslikollegiet sammanfatta resultaten."
+  },
+  {
+   "bbox": [
+    582,
+    1294,
+    1629,
+    1628
+   ],
+   "category": "Text",
+   "text": "Först den 31 juli 1764 avslutade han nämligen »Berättelse om åtskilliga Ålderdoms Lemningar i Anledning af den på Kongl. Maj:ts allernådigsta Befallning och efter Kongl. Maj:ts samt Riksens Höglofl. Cancelli Collegii Godtfinnande förrättade Resa til Helsingland år 1763» — den utförligaste antikvariska reseberättelse, som antikvitetsarkivet dittills fått mottaga, en stor, ytterst prydligt skriven folio på 54 sidor med 56 elegant utförda ritningar av Rehn (K. B. sign. F e. 23)."
+  },
+  {
+   "bbox": [
+    582,
+    1626,
+    1631,
+    1795
+   ],
+   "category": "Text",
+   "text": "Sedan han i början — på sätt, som vi redan sett — avlivat jätte-fantasierna, fortsätter han med en redogörelse för Hälsinglands verk-liga antikviteter, först resterna av »skansar och fäster», sedan ätte-högarna, och dem hade han även i några fall undersökt. Så skriver"
+  },
+  {
+   "bbox": [
+    586,
+    1826,
+    664,
+    1872
+   ],
+   "category": "Page-footer",
+   "text": "478"
+  }
+ ]
+}

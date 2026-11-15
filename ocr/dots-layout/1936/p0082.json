@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 82,
+ "seconds": 30.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [344, 259, 926, 302], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet 1747—1751\"}, {\"bbox\": [103, 328, 1156, 909], \"category\": \"Text\", \"text\": \"och ändrad och hela werket ifrån början til thes slut wederbörligen och grannel. censurerat af wittra, mogna och i wår historia wäl grundade män, som thertil kunde af Kongl. May:tt blifwa förordnade och instruerade, the måga tå tagas af Kongl. Cancellie Collegio el. annorstädes, såsom Historiographus regni, Professores Historiarum wid academierne, ther Profess. Algoth Scarin i Åbo och Prof. Sven Bring i Lund äro bägge bekante för djup insigt och ren kundskap uti vårt K. fäderneslands både gamle och nya historie. Så är ock en Magister wid namn Johan Göransson, hwilken utom Språk och Philosophiska Studier bewisligen eger uti Runicis och Svio-Gothicis antiquitatibus och altså i vårt K. fäderneslands gamla historie then insigt och färdighet, som kunde skaffa mycken redo och uplysning uti wåra antiquitates och komma i mång måtto them wäl til pass, som til Rikshistoriens Censores warda förordnade.»\"}, {\"bbox\": [103, 909, 1152, 1076], \"category\": \"Text\", \"text\": \"Rhyzelius nöjde sig emellertid icke med detta handtag åt Göransson, utan omedelbart efter det att hans memorial om Dalin upplästs och antagits av ståndet, kom han med ett nytt, som uteslutande rörde Göransson och nog även inspirerats av denne:\"}, {\"bbox\": [99, 1076, 1149, 1780], \"category\": \"Text\", \"text\": \"»Ibland the flere oomkullstöteliga skiäl, som kunna försäkra, at Runaskrift hörer såsom en enskild Antiquitet til vårt K. Fädernesland Swea- och Götharike och är Nordens äldsta inbyggares, wåra hedniska förfäders, diupsinniga påfund och makalösa konststycke, är thet wäl thet ögonskenligaste, at ingenstädes i werlden så monga och så mongaslags Runor och Runastenar än i dag äro till finnandes som här hos oss, oachtadt at mongtusende, ja, wäl millioner slike stenar äro ifrå Christendomens införsel här i norden icke allenast i K. Olav Skötkonungstid [förstörde] på then Romerska Påwens tilstyrkande (som misstenckte och beskylde Runastenarne för at innehålla hednisk truldom och förthenskul icke böra ej eller kunna lidas i Christenheten) vtan ock vnder the följande Christna Konungar, tå the, som i landsorterna byggde kyrkior, mente sig giöra Gudi thermed en behagelig tienst, at the läto omkulbryta och i grund vnder kyrkiorna nedergöma så monga, som tilgängelige woro, Runostenar, som med stor kostnad, flit, konst och mödo hade blefwet vpreste och ristade ifrå hedenhös, stora Drottar och wid-\"}, {\"bbox\": [99, 1833, 232, 1858], \"category\": \"Page-footer\", \"text\": \"5—35832. V.\"}, {\"bbox\": [1089, 1810, 1137, 1856], \"category\": \"Page-footer\", \"text\": \"65\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    344,
+    259,
+    926,
+    302
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet 1747—1751"
+  },
+  {
+   "bbox": [
+    103,
+    328,
+    1156,
+    909
+   ],
+   "category": "Text",
+   "text": "och ändrad och hela werket ifrån början til thes slut wederbörligen och grannel. censurerat af wittra, mogna och i wår historia wäl grundade män, som thertil kunde af Kongl. May:tt blifwa förordnade och instruerade, the måga tå tagas af Kongl. Cancellie Collegio el. annorstädes, såsom Historiographus regni, Professores Historiarum wid academierne, ther Profess. Algoth Scarin i Åbo och Prof. Sven Bring i Lund äro bägge bekante för djup insigt och ren kundskap uti vårt K. fäderneslands både gamle och nya historie. Så är ock en Magister wid namn Johan Göransson, hwilken utom Språk och Philosophiska Studier bewisligen eger uti Runicis och Svio-Gothicis antiquitatibus och altså i vårt K. fäderneslands gamla historie then insigt och färdighet, som kunde skaffa mycken redo och uplysning uti wåra antiquitates och komma i mång måtto them wäl til pass, som til Rikshistoriens Censores warda förordnade.»"
+  },
+  {
+   "bbox": [
+    103,
+    909,
+    1152,
+    1076
+   ],
+   "category": "Text",
+   "text": "Rhyzelius nöjde sig emellertid icke med detta handtag åt Göransson, utan omedelbart efter det att hans memorial om Dalin upplästs och antagits av ståndet, kom han med ett nytt, som uteslutande rörde Göransson och nog även inspirerats av denne:"
+  },
+  {
+   "bbox": [
+    99,
+    1076,
+    1149,
+    1780
+   ],
+   "category": "Text",
+   "text": "»Ibland the flere oomkullstöteliga skiäl, som kunna försäkra, at Runaskrift hörer såsom en enskild Antiquitet til vårt K. Fädernesland Swea- och Götharike och är Nordens äldsta inbyggares, wåra hedniska förfäders, diupsinniga påfund och makalösa konststycke, är thet wäl thet ögonskenligaste, at ingenstädes i werlden så monga och så mongaslags Runor och Runastenar än i dag äro till finnandes som här hos oss, oachtadt at mongtusende, ja, wäl millioner slike stenar äro ifrå Christendomens införsel här i norden icke allenast i K. Olav Skötkonungstid [förstörde] på then Romerska Påwens tilstyrkande (som misstenckte och beskylde Runastenarne för at innehålla hednisk truldom och förthenskul icke böra ej eller kunna lidas i Christenheten) vtan ock vnder the följande Christna Konungar, tå the, som i landsorterna byggde kyrkior, mente sig giöra Gudi thermed en behagelig tienst, at the läto omkulbryta och i grund vnder kyrkiorna nedergöma så monga, som tilgängelige woro, Runostenar, som med stor kostnad, flit, konst och mödo hade blefwet vpreste och ristade ifrå hedenhös, stora Drottar och wid-"
+  },
+  {
+   "bbox": [
+    99,
+    1833,
+    232,
+    1858
+   ],
+   "category": "Page-footer",
+   "text": "5—35832. V."
+  },
+  {
+   "bbox": [
+    1089,
+    1810,
+    1137,
+    1856
+   ],
+   "category": "Page-footer",
+   "text": "65"
+  }
+ ]
+}

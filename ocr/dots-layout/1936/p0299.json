@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 299,
+ "seconds": 30.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [881, 254, 1275, 289], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [552, 324, 1602, 815], \"category\": \"Text\", \"text\": \"mycket för honom utbedja mig en dyrbar Deras Excellencers och höglofl. Kongl. Collegii nåd, hwilken respective herrar Examinatorernes yttrande inför Kongl. Collegium säkert icke afstyrkt, och den jag i sådant fall icke annorlunda än såsom mig bewisd med ödmjukaste Tacksäyelse altid skall ärkänna, som icke mer at wörd-samast underställa all den möda och kostnad, som i långliga Tider för denne Kongl. Antiquitets Archivi gren til Isländska och gamla Swenska litteraturens utredande gjort vårt allmänna heder och i följe däraf huru litet hopp til dess Befordran qwarlemnas, om det alt, som nu i 2:ne års Tid och mera på et icke oskickligt ämne därtil blifwit anwändt af Tid, kostnad och möda, emot all förmodan skulle förloras.\"}, {\"bbox\": [552, 821, 1602, 1311], \"category\": \"Text\", \"text\": \"Min underdånige plikt för Kongl. May:ts Tjänst pressar af mig de bedröfligaste suckningar, när jag föreställer mig något, som til förgätenhet af dessa omständigheter kunde leda. Mit nitfulla Bemödande til mine herrar förmäns nöye och det allmännas Bästa, därom alla mina gjöromål skola witna, känner redan en undertryckande Börda och min Lefnad blifwer mig, då jag icke kan så tjäna, som jag wil och bör, mera bitter, än hon å andra sidan warit och framgent skall blifwa, önskjönt under Brist och förföljelse, angenäm, när jag til Kongl. Maj:ts och det allmännas Tjänst icke saknar det Biträde, som jag i en oskyldig Broder redan haft och mig igenom Deras Excellencers och Kongl. Collegii nåd och ynnest ytterligare förwäntar.\"}, {\"bbox\": [552, 1328, 1018, 1370], \"category\": \"Text\", \"text\": \"Stockholm den 26 febr. 1768.\"}, {\"bbox\": [1168, 1328, 1562, 1365], \"category\": \"Text\", \"text\": \"Nils Reinhold Brocman.»\"}, {\"bbox\": [552, 1398, 1602, 1775], \"category\": \"Text\", \"text\": \"Efter den häftiga sammandrabbningen den 18 januari hade man en tid låtit stridsfrågan vila, och detta uppskov begagnade Brocman att söka bearbeta Berch. Den 1 april skrev han till Langebek: »Canc. R. Berch är oagtadt alla försök genom hans vänner oböjelig. Han låter hvarken religion eller sit samvete råda på en fattad caprice. Jag ser ant. archivi undergång, om en Hellman, några och 40 år gammal, som aldrig lagt sig efter de saker där förekomma, skal borttaga platsen för Stechau, som 2 eller 3 år beständigt vid dessa Göromål är och varit syslosatt. Saken är likväl ännu icke afgjord i\"}, {\"bbox\": [555, 1801, 630, 1839], \"category\": \"Page-footer\", \"text\": \"282\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    881,
+    254,
+    1275,
+    289
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    552,
+    324,
+    1602,
+    815
+   ],
+   "category": "Text",
+   "text": "mycket för honom utbedja mig en dyrbar Deras Excellencers och höglofl. Kongl. Collegii nåd, hwilken respective herrar Examinatorernes yttrande inför Kongl. Collegium säkert icke afstyrkt, och den jag i sådant fall icke annorlunda än såsom mig bewisd med ödmjukaste Tacksäyelse altid skall ärkänna, som icke mer at wörd-samast underställa all den möda och kostnad, som i långliga Tider för denne Kongl. Antiquitets Archivi gren til Isländska och gamla Swenska litteraturens utredande gjort vårt allmänna heder och i följe däraf huru litet hopp til dess Befordran qwarlemnas, om det alt, som nu i 2:ne års Tid och mera på et icke oskickligt ämne därtil blifwit anwändt af Tid, kostnad och möda, emot all förmodan skulle förloras."
+  },
+  {
+   "bbox": [
+    552,
+    821,
+    1602,
+    1311
+   ],
+   "category": "Text",
+   "text": "Min underdånige plikt för Kongl. May:ts Tjänst pressar af mig de bedröfligaste suckningar, när jag föreställer mig något, som til förgätenhet af dessa omständigheter kunde leda. Mit nitfulla Bemödande til mine herrar förmäns nöye och det allmännas Bästa, därom alla mina gjöromål skola witna, känner redan en undertryckande Börda och min Lefnad blifwer mig, då jag icke kan så tjäna, som jag wil och bör, mera bitter, än hon å andra sidan warit och framgent skall blifwa, önskjönt under Brist och förföljelse, angenäm, när jag til Kongl. Maj:ts och det allmännas Tjänst icke saknar det Biträde, som jag i en oskyldig Broder redan haft och mig igenom Deras Excellencers och Kongl. Collegii nåd och ynnest ytterligare förwäntar."
+  },
+  {
+   "bbox": [
+    552,
+    1328,
+    1018,
+    1370
+   ],
+   "category": "Text",
+   "text": "Stockholm den 26 febr. 1768."
+  },
+  {
+   "bbox": [
+    1168,
+    1328,
+    1562,
+    1365
+   ],
+   "category": "Text",
+   "text": "Nils Reinhold Brocman.»"
+  },
+  {
+   "bbox": [
+    552,
+    1398,
+    1602,
+    1775
+   ],
+   "category": "Text",
+   "text": "Efter den häftiga sammandrabbningen den 18 januari hade man en tid låtit stridsfrågan vila, och detta uppskov begagnade Brocman att söka bearbeta Berch. Den 1 april skrev han till Langebek: »Canc. R. Berch är oagtadt alla försök genom hans vänner oböjelig. Han låter hvarken religion eller sit samvete råda på en fattad caprice. Jag ser ant. archivi undergång, om en Hellman, några och 40 år gammal, som aldrig lagt sig efter de saker där förekomma, skal borttaga platsen för Stechau, som 2 eller 3 år beständigt vid dessa Göromål är och varit syslosatt. Saken är likväl ännu icke afgjord i"
+  },
+  {
+   "bbox": [
+    555,
+    1801,
+    630,
+    1839
+   ],
+   "category": "Page-footer",
+   "text": "282"
+  }
+ ]
+}

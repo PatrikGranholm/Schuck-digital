@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 96,
+ "seconds": 38.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [354, 256, 935, 301], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet 1747—1751\"}, {\"bbox\": [119, 327, 1169, 412], \"category\": \"Text\", \"text\": \"commentarier och noter, hwartill han kan af runstenarne finna anledning till historiens uplysning.\"}, {\"bbox\": [119, 410, 1169, 701], \"category\": \"Text\", \"text\": \"Bemälte Magister förekallades och tillspordes, hwad han för dess del trodde sig härutinnan kunna uträtta, hwarpå han swarade, det han ey förut kunde sig om dess giöromål utlåta, innan han fådt till dessa samlingars öfwerseende tillträde, men twiflade dock icke, att han ju skulle med något för allmänheten nyttigt arbete swara emot hwad af honom härutinnan kan förmodas, til hwilket ändamål han ock effter yttersta förmågo wille dess flit anwända.\"}, {\"bbox\": [121, 700, 1168, 825], \"category\": \"Text\", \"text\": \"Herr HofCantzleren Baron von Nolcken hölt före, att man uti antiquitets archivo kunde efterse och underrätta sig om den nu befintelige samlingens tillstånd med mehra.\"}, {\"bbox\": [121, 824, 1168, 992], \"category\": \"Text\", \"text\": \"Collegium war af samma tancka och utsattes detta till lördags efftermiddagen, då Herr HåfCantzleren Baron von Nolcken och Herr HofCantzleren Grefwe Gyllenberg wille det wärkställa och sedermehra deras mening Collegio wid handen gifwa.\"}, {\"bbox\": [124, 990, 1168, 1075], \"category\": \"Text\", \"text\": \"Emedlertid kunde ej något angående arfwodet för magister Göransson projecteras.\"}, {\"bbox\": [124, 1073, 1168, 1199], \"category\": \"Text\", \"text\": \"Angående det af Secreteraren Helin föreslagne rummet af Kongl. KlädCammaren fants godt, att requisition skulle till Hans Excellence öfwerste marskalken afgå.»\"}, {\"bbox\": [122, 1197, 1169, 1775], \"category\": \"Text\", \"text\": \"Med anledning av dessa skrivelser begav sig hovkansleren von Nolcken till antikvitetsarkivet för att inspektera den omtalade runstenssamlingen och berättade sedan, den 3 maj, i kanslikollegiet, att han funnit den »aldeles wara i det stånd, som Secret. Helin uti dess memorial berättat, att neml. alla äro aftagne och effter Provincierne lagde i ordning, att Peringschiöld endels i sine monumentis, endels i skriften Vita Theodorici utgifwit alla dem, som warit af någon wigt och kunnat tjena till uplysning i Swenska historien, att wäl sedermehra 20 st. nya runstenar tillkommit, men de woro jemwäl aftagne af antiquitets archivi Ritaren Wendelius och i trä utskurne samt färdige att utgifwas, så att Herr HofCantzleren för dess del ey fant, hwad wid detta arbetet nu mehra kunde återstå, dock på det Collegium ingen ting måtte efftersättja, som till befordran af Riksens Ständers afsickt lända kunde, hölt Herr Baron och HofCantzlern\"}, {\"bbox\": [1117, 1817, 1165, 1855], \"category\": \"Page-footer\", \"text\": \"79\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    354,
+    256,
+    935,
+    301
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet 1747—1751"
+  },
+  {
+   "bbox": [
+    119,
+    327,
+    1169,
+    412
+   ],
+   "category": "Text",
+   "text": "commentarier och noter, hwartill han kan af runstenarne finna anledning till historiens uplysning."
+  },
+  {
+   "bbox": [
+    119,
+    410,
+    1169,
+    701
+   ],
+   "category": "Text",
+   "text": "Bemälte Magister förekallades och tillspordes, hwad han för dess del trodde sig härutinnan kunna uträtta, hwarpå han swarade, det han ey förut kunde sig om dess giöromål utlåta, innan han fådt till dessa samlingars öfwerseende tillträde, men twiflade dock icke, att han ju skulle med något för allmänheten nyttigt arbete swara emot hwad af honom härutinnan kan förmodas, til hwilket ändamål han ock effter yttersta förmågo wille dess flit anwända."
+  },
+  {
+   "bbox": [
+    121,
+    700,
+    1168,
+    825
+   ],
+   "category": "Text",
+   "text": "Herr HofCantzleren Baron von Nolcken hölt före, att man uti antiquitets archivo kunde efterse och underrätta sig om den nu befintelige samlingens tillstånd med mehra."
+  },
+  {
+   "bbox": [
+    121,
+    824,
+    1168,
+    992
+   ],
+   "category": "Text",
+   "text": "Collegium war af samma tancka och utsattes detta till lördags efftermiddagen, då Herr HåfCantzleren Baron von Nolcken och Herr HofCantzleren Grefwe Gyllenberg wille det wärkställa och sedermehra deras mening Collegio wid handen gifwa."
+  },
+  {
+   "bbox": [
+    124,
+    990,
+    1168,
+    1075
+   ],
+   "category": "Text",
+   "text": "Emedlertid kunde ej något angående arfwodet för magister Göransson projecteras."
+  },
+  {
+   "bbox": [
+    124,
+    1073,
+    1168,
+    1199
+   ],
+   "category": "Text",
+   "text": "Angående det af Secreteraren Helin föreslagne rummet af Kongl. KlädCammaren fants godt, att requisition skulle till Hans Excellence öfwerste marskalken afgå.»"
+  },
+  {
+   "bbox": [
+    122,
+    1197,
+    1169,
+    1775
+   ],
+   "category": "Text",
+   "text": "Med anledning av dessa skrivelser begav sig hovkansleren von Nolcken till antikvitetsarkivet för att inspektera den omtalade runstenssamlingen och berättade sedan, den 3 maj, i kanslikollegiet, att han funnit den »aldeles wara i det stånd, som Secret. Helin uti dess memorial berättat, att neml. alla äro aftagne och effter Provincierne lagde i ordning, att Peringschiöld endels i sine monumentis, endels i skriften Vita Theodorici utgifwit alla dem, som warit af någon wigt och kunnat tjena till uplysning i Swenska historien, att wäl sedermehra 20 st. nya runstenar tillkommit, men de woro jemwäl aftagne af antiquitets archivi Ritaren Wendelius och i trä utskurne samt färdige att utgifwas, så att Herr HofCantzleren för dess del ey fant, hwad wid detta arbetet nu mehra kunde återstå, dock på det Collegium ingen ting måtte efftersättja, som till befordran af Riksens Ständers afsickt lända kunde, hölt Herr Baron och HofCantzlern"
+  },
+  {
+   "bbox": [
+    1117,
+    1817,
+    1165,
+    1855
+   ],
+   "category": "Page-footer",
+   "text": "79"
+  }
+ ]
+}

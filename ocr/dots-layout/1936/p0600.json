@@ -1,0 +1,42 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 600,
+ "seconds": 29.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [346, 273, 857, 320], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivets skrifter\"}, {\"bbox\": [66, 343, 1129, 1797], \"category\": \"Text\", \"text\": \"tryckta, men väl i andra också av Gjörwell utgivna. Så infördes i Almänna Tidningar för 1772 (Nr. 24–30) Anmärkningar rörande våra förfäders matlagning och gästabud, upsatte af Hr Carl Reinh. Berch, Cancellie-Råd. Sina flesta kulturhistoriska skizzer offentliggjorde han i den också av Gjörwell utgivna tidskriften Samlaren, som började utkomma 1773. Där inflöto först hans båda tidigare tryckta essayer om kvinnokläder och manskläder, och meningen tyckes nästan hava varit att i tidskriften införa en samlad upplaga av Berchs kulturhistoriska skizzer, ty dessa fingo här en gemensam titel: Afhandlingar hörande til swenska historiens uplysning uti åtskillige dess särskilte och mindre kände delar, författade af Hr Carl Reinhold Berch, Cancellie Råd, Secreterare i Kongl. Antiqvitets-Arquivo, Rid. af Kongl. Nord-St. Orden samt Ledamot af Kongl. Swenska Wetensk. och Wit. Academierne och af Kongl. Antiqv. Societ. i London, och för den händelse dessa titlar ej skulle verka tillräckligt, försåg Gjörwell även denna gången den första uppsatsen med en not: »Det är bekant, at förenämde Hr Cancellie-Råd och Riddare tid efter annan utgifwit flere Afhandlingar rörande Swenska Folkets Tänkesätt, Seder, Bruk, Förswars-medel, Konster m. m. i de Äldre Tider och at desse Afhandlingar til större delen blifwit införde uti mine förre periodiske Arbeten. Om deras utmärkta Wärde wore onödigt at försäkra det Almänna, men det, som ofelbart här blifwer min skyldighet at gifwa tilkänna är icke allenast den Ynnest, hwarmed Hr Canc. Rådet och Rid. tillåtit mig at här uti Samlaren eller på et ställe införa desse Afhandlingar utan ock den Försäkran, at Hr Författaren wid denna förnyade Uplaga så godt som omarbetat, åtminstone med många Tilökningar försedt desamma, då de nu ånyo läggas under det Almännas ögon. Nästa Afhandling blifwer om Swenska Mans-kläderne och som med det första skal meddelas, dels för Sammanhangets skull och dels för den nyligen å banen bragte Fråga hos det Almänna om en Nationel Klädedrägt. Desse Afhandlingar kunna således icke annat än roa mången Läsare, medan andre sysselsätta sig at utgrunda, huru den omtalte nya Klädedrägten skal blifwa tjenligast för hälsan och pungen samt uplifwa den Swenska Ärbarheten.»\"}, {\"bbox\": [1042, 1836, 1115, 1876], \"category\": \"Page-footer\", \"text\": \"571\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    346,
+    273,
+    857,
+    320
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivets skrifter"
+  },
+  {
+   "bbox": [
+    66,
+    343,
+    1129,
+    1797
+   ],
+   "category": "Text",
+   "text": "tryckta, men väl i andra också av Gjörwell utgivna. Så infördes i Almänna Tidningar för 1772 (Nr. 24–30) Anmärkningar rörande våra förfäders matlagning och gästabud, upsatte af Hr Carl Reinh. Berch, Cancellie-Råd. Sina flesta kulturhistoriska skizzer offentliggjorde han i den också av Gjörwell utgivna tidskriften Samlaren, som började utkomma 1773. Där inflöto först hans båda tidigare tryckta essayer om kvinnokläder och manskläder, och meningen tyckes nästan hava varit att i tidskriften införa en samlad upplaga av Berchs kulturhistoriska skizzer, ty dessa fingo här en gemensam titel: Afhandlingar hörande til swenska historiens uplysning uti åtskillige dess särskilte och mindre kände delar, författade af Hr Carl Reinhold Berch, Cancellie Råd, Secreterare i Kongl. Antiqvitets-Arquivo, Rid. af Kongl. Nord-St. Orden samt Ledamot af Kongl. Swenska Wetensk. och Wit. Academierne och af Kongl. Antiqv. Societ. i London, och för den händelse dessa titlar ej skulle verka tillräckligt, försåg Gjörwell även denna gången den första uppsatsen med en not: »Det är bekant, at förenämde Hr Cancellie-Råd och Riddare tid efter annan utgifwit flere Afhandlingar rörande Swenska Folkets Tänkesätt, Seder, Bruk, Förswars-medel, Konster m. m. i de Äldre Tider och at desse Afhandlingar til större delen blifwit införde uti mine förre periodiske Arbeten. Om deras utmärkta Wärde wore onödigt at försäkra det Almänna, men det, som ofelbart här blifwer min skyldighet at gifwa tilkänna är icke allenast den Ynnest, hwarmed Hr Canc. Rådet och Rid. tillåtit mig at här uti Samlaren eller på et ställe införa desse Afhandlingar utan ock den Försäkran, at Hr Författaren wid denna förnyade Uplaga så godt som omarbetat, åtminstone med många Tilökningar försedt desamma, då de nu ånyo läggas under det Almännas ögon. Nästa Afhandling blifwer om Swenska Mans-kläderne och som med det första skal meddelas, dels för Sammanhangets skull och dels för den nyligen å banen bragte Fråga hos det Almänna om en Nationel Klädedrägt. Desse Afhandlingar kunna således icke annat än roa mången Läsare, medan andre sysselsätta sig at utgrunda, huru den omtalte nya Klädedrägten skal blifwa tjenligast för hälsan och pungen samt uplifwa den Swenska Ärbarheten.»"
+  },
+  {
+   "bbox": [
+    1042,
+    1836,
+    1115,
+    1876
+   ],
+   "category": "Page-footer",
+   "text": "571"
+  }
+ ]
+}

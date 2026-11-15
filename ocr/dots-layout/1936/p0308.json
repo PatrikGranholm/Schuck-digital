@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 308,
+ "seconds": 29.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [342, 255, 898, 299], \"category\": \"Section-header\", \"text\": \"Berchs sista tid (1766—1778)\"}, {\"bbox\": [90, 325, 1144, 784], \"category\": \"Text\", \"text\": \"Hwad nu sjelfwa hufwudmålet eller Stechaus anförde underdånige beswär widkommer, Så emedan han icke allenast på 3:die året gjordt tjenst wid antiquitets archivum och således förwärfwat sig någon insigt och erfarenhet uti de der förefallande gjöromål, ehuru han på itererad ansökning ej kunnat erhålla Collegii Extractum Protocolli om dess antagande, utan ock wid den anstälte examen det intygande blifwit lämnat, att liknelsen hos honom wore större än hos dess medsökande, att han skulle kunna gå wida; ty förmälte Deras Excellencer sig uppå desse med de flere skäl, Hans Excellence Baron Reuterholm in voto anfördt, sig instämma uti dess här ofwanföre aflämnade tillstyrkande.\"}, {\"bbox\": [90, 782, 1144, 1072], \"category\": \"Text\", \"text\": \"Hans Excellence Hr. R: R: Baron Friesendorff androg, att han ej kunde dölja, det Hans Excellence ansåg det wara af mycken granlagenhet, huruwida han nu kunde något yttrande afgifwa, då Hans Excellence uti detta befordrings mål warit af annan tancka i Collegio än pluraliteten och då Hans Excellence till följe af dess beslut den expedierade fullmagten för Hellman på dragande kall och ämbetes wägnar underskrifwit.\"}, {\"bbox\": [90, 1072, 1144, 1363], \"category\": \"Text\", \"text\": \"De öfrige Deras Excellencer funno denna rättighet ej kunna Hans Excellence efter författningarne betagas och att Hans Excellencees yttrande rörande den expedierade fullmagten ej kunde i detta fallet wara ömtåligare, än då i anseende till förekommande wigtiga skäl i någon förefallen händelse deras Excellencer i underdånighet tillstyrckt Kongl. M:ts Egen nådige fullmagts återtagande.\"}, {\"bbox\": [90, 1362, 1144, 1779], \"category\": \"Text\", \"text\": \"Hans Excellence Baron Friesendorff förklarade sig däruppå nu ej kunna wara af annan tanka rörande detta befordringsmål än den, Hans Excellence i Collegio redan yttrat, Och som Stechau redan å daga lagt tillförlåtelige prof af skickelighet i de till denna Ammanuensis sysslas bestridande hörande stycken, då deremot Hellman derwid ej lagt någon hand, Stechau efwen wid examen gifwit om sig större hopp än Hellman att sig widare Habilitera, hwartill både dess hug och unga år synas mera bidraga, så förmälte Hans Excellence sig i anledning häraf och de flere redan anförde skäl wäl finna denna i fråga warande syssla tienligast och nyttigast kunna anförtros\"}, {\"bbox\": [1067, 1815, 1137, 1854], \"category\": \"Page-footer\", \"text\": \"291\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    342,
+    255,
+    898,
+    299
+   ],
+   "category": "Section-header",
+   "text": "Berchs sista tid (1766—1778)"
+  },
+  {
+   "bbox": [
+    90,
+    325,
+    1144,
+    784
+   ],
+   "category": "Text",
+   "text": "Hwad nu sjelfwa hufwudmålet eller Stechaus anförde underdånige beswär widkommer, Så emedan han icke allenast på 3:die året gjordt tjenst wid antiquitets archivum och således förwärfwat sig någon insigt och erfarenhet uti de der förefallande gjöromål, ehuru han på itererad ansökning ej kunnat erhålla Collegii Extractum Protocolli om dess antagande, utan ock wid den anstälte examen det intygande blifwit lämnat, att liknelsen hos honom wore större än hos dess medsökande, att han skulle kunna gå wida; ty förmälte Deras Excellencer sig uppå desse med de flere skäl, Hans Excellence Baron Reuterholm in voto anfördt, sig instämma uti dess här ofwanföre aflämnade tillstyrkande."
+  },
+  {
+   "bbox": [
+    90,
+    782,
+    1144,
+    1072
+   ],
+   "category": "Text",
+   "text": "Hans Excellence Hr. R: R: Baron Friesendorff androg, att han ej kunde dölja, det Hans Excellence ansåg det wara af mycken granlagenhet, huruwida han nu kunde något yttrande afgifwa, då Hans Excellence uti detta befordrings mål warit af annan tancka i Collegio än pluraliteten och då Hans Excellence till följe af dess beslut den expedierade fullmagten för Hellman på dragande kall och ämbetes wägnar underskrifwit."
+  },
+  {
+   "bbox": [
+    90,
+    1072,
+    1144,
+    1363
+   ],
+   "category": "Text",
+   "text": "De öfrige Deras Excellencer funno denna rättighet ej kunna Hans Excellence efter författningarne betagas och att Hans Excellencees yttrande rörande den expedierade fullmagten ej kunde i detta fallet wara ömtåligare, än då i anseende till förekommande wigtiga skäl i någon förefallen händelse deras Excellencer i underdånighet tillstyrckt Kongl. M:ts Egen nådige fullmagts återtagande."
+  },
+  {
+   "bbox": [
+    90,
+    1362,
+    1144,
+    1779
+   ],
+   "category": "Text",
+   "text": "Hans Excellence Baron Friesendorff förklarade sig däruppå nu ej kunna wara af annan tanka rörande detta befordringsmål än den, Hans Excellence i Collegio redan yttrat, Och som Stechau redan å daga lagt tillförlåtelige prof af skickelighet i de till denna Ammanuensis sysslas bestridande hörande stycken, då deremot Hellman derwid ej lagt någon hand, Stechau efwen wid examen gifwit om sig större hopp än Hellman att sig widare Habilitera, hwartill både dess hug och unga år synas mera bidraga, så förmälte Hans Excellence sig i anledning häraf och de flere redan anförde skäl wäl finna denna i fråga warande syssla tienligast och nyttigast kunna anförtros"
+  },
+  {
+   "bbox": [
+    1067,
+    1815,
+    1137,
+    1854
+   ],
+   "category": "Page-footer",
+   "text": "291"
+  }
+ ]
+}

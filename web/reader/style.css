@@ -61,6 +61,7 @@ body.nofacs .facs, body.nofacs .divider { display: none; }
 .text h2 { font: 600 1.35em var(--serif); text-align: center; letter-spacing: .06em; margin: 2.4em 0 1.2em; }
 .text h3 { font: italic 1.05em var(--serif); text-align: center; margin: 1.2em 0 .6em; }
 .text section.chapter:first-of-type h2 { margin-top: .6em; }
+.text section.part > h2 { font-size: 1.7em; letter-spacing: .14em; text-transform: uppercase; margin: 2.4em 0 1.6em; }   /* vol. V: Berchs tid, Avvecklingen */
 .text .titlepage { text-align: center; margin: 2em 0 3em; padding-bottom: 2em; border-bottom: 1px solid var(--line); }
 .text .titlepart { margin: .4em 0; }
 .text .dedication p, .text .leaf p { text-indent: 0; text-align: center; }

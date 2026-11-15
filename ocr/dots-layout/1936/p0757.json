@@ -1,0 +1,40 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 757,
+ "seconds": 26.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [848, 881, 905, 968], \"category\": \"Picture\"}, {\"bbox\": [662, 994, 1095, 1159], \"category\": \"Text\", \"text\": \"ALMQVIST & WIKSELLS\\nBOKTRYCKERI-A.-B.\\nUPPSALA\\n1936\"}, {\"bbox\": [1464, 2016, 1654, 2138], \"category\": \"Picture\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    848,
+    881,
+    905,
+    968
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    662,
+    994,
+    1095,
+    1159
+   ],
+   "category": "Text",
+   "text": "ALMQVIST & WIKSELLS\nBOKTRYCKERI-A.-B.\nUPPSALA\n1936"
+  },
+  {
+   "bbox": [
+    1464,
+    2016,
+    1654,
+    2138
+   ],
+   "category": "Picture"
+  }
+ ]
+}

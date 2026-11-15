@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 263,
+ "seconds": 30.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [912, 248, 1306, 285], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [581, 318, 1631, 485], \"category\": \"Text\", \"text\": \"månad 1762 förestått, tildelas; Altså wele Wi Eder sådant härmed til\\nswar i nåder hafwa tilkännagifwit jemte det Wi ock nu Wårt och\\nRs. StatsContoir anbefalla att bemälte Broocman på staten til be-\\nrörde lön upföra.»\"}, {\"bbox\": [575, 485, 1631, 1769], \"category\": \"Text\", \"text\": \"Då Brocman därjämte hade sportler och de 200 daler, som han övertagit efter den avlidne islänningen, hade han således kommit i en jämförelsevis god ställning. Den 25 november 1766 skrev han till Langebek: »Det är nu ½ år, som jag haft 800 dr smt och torde genom nya staten, som utsätter lika mycket i ordinar. lön, så framt jag därjämte får behålla pensionen för Isländskan, ändtel. blifwa [uppflyttad till] 1000 dr.» Detta lyckliga resultat hade han nått tack vare sina försänkningar i mösspartiet, som nu var det härskande. I riksdagen vände man först på sommaren 1766 åter sin uppmärksamhet till biblioteket och antikvitetsarkivet. I sekreta utskottet anmälde landshövding Tilas, »hurusom då han för et par dagar sedan hade warit uti Kongl. Bibliotheket i det så kallade grefwe Pehrs hus, han icke utan bekymmer hade sedt det bofälliga tilstånd, hwaruti Bibliotheksrummen och hela huset sig befunne, så at man icke utan största fahra kunde där wistas i fruktan, at wåningarne stundeligen skulle nedfalla, hwarföre han hemstälde, om icke det måtte updragas Mindre Secrete Deputationen at ju förr des heldre taga sådant i ögnasigte och inkomma med förslag, huru det kunde hielpas» (Sekreta utskottets prot. 27 juni 1766). Med anledning härav skedde den 8 juli en inspektion i greve Pers hus, varom sekreta utskottets protokoll för den 19 augusti berättar: »Likaledes hade Mindre secrete Deputationen projecterat et underdånigt Bref til Kongl. May:t, som uplästes, hwaruti i anseende därtil, at det Kongl. Bibliothequet icke kunde bringas i mera skick och ordning uti de rum, som det nu i det så kallade grefwe Pehrs hus wid Norrebro innehade, anholles, at Hans Mayt täcktes i nåder anbefalla wederbörande at så skyndesamt, som någonsin ske kunde, låta uti behörigt stånd sätta och tilreda de uti Kongl. Slottet i norra flygeln tilämnade BibliotheksRummen, så at åtminstone de smärre wid ena sidan af stora Boksalen jemte et warmt rum för Betieningen måtte oförtöfwat blifwa at tilgå och inflyttningen uti dem då straxt ske med minsta kostnad som\"}, {\"bbox\": [446, 488, 574, 576], \"category\": \"Text\", \"text\": \"Riksdagen\\noch antikvi-\\ntetsarkivet\"}, {\"bbox\": [583, 1795, 658, 1842], \"category\": \"Page-footer\", \"text\": \"246\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    912,
+    248,
+    1306,
+    285
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    581,
+    318,
+    1631,
+    485
+   ],
+   "category": "Text",
+   "text": "månad 1762 förestått, tildelas; Altså wele Wi Eder sådant härmed til\nswar i nåder hafwa tilkännagifwit jemte det Wi ock nu Wårt och\nRs. StatsContoir anbefalla att bemälte Broocman på staten til be-\nrörde lön upföra.»"
+  },
+  {
+   "bbox": [
+    575,
+    485,
+    1631,
+    1769
+   ],
+   "category": "Text",
+   "text": "Då Brocman därjämte hade sportler och de 200 daler, som han övertagit efter den avlidne islänningen, hade han således kommit i en jämförelsevis god ställning. Den 25 november 1766 skrev han till Langebek: »Det är nu ½ år, som jag haft 800 dr smt och torde genom nya staten, som utsätter lika mycket i ordinar. lön, så framt jag därjämte får behålla pensionen för Isländskan, ändtel. blifwa [uppflyttad till] 1000 dr.» Detta lyckliga resultat hade han nått tack vare sina försänkningar i mösspartiet, som nu var det härskande. I riksdagen vände man först på sommaren 1766 åter sin uppmärksamhet till biblioteket och antikvitetsarkivet. I sekreta utskottet anmälde landshövding Tilas, »hurusom då han för et par dagar sedan hade warit uti Kongl. Bibliotheket i det så kallade grefwe Pehrs hus, han icke utan bekymmer hade sedt det bofälliga tilstånd, hwaruti Bibliotheksrummen och hela huset sig befunne, så at man icke utan största fahra kunde där wistas i fruktan, at wåningarne stundeligen skulle nedfalla, hwarföre han hemstälde, om icke det måtte updragas Mindre Secrete Deputationen at ju förr des heldre taga sådant i ögnasigte och inkomma med förslag, huru det kunde hielpas» (Sekreta utskottets prot. 27 juni 1766). Med anledning härav skedde den 8 juli en inspektion i greve Pers hus, varom sekreta utskottets protokoll för den 19 augusti berättar: »Likaledes hade Mindre secrete Deputationen projecterat et underdånigt Bref til Kongl. May:t, som uplästes, hwaruti i anseende därtil, at det Kongl. Bibliothequet icke kunde bringas i mera skick och ordning uti de rum, som det nu i det så kallade grefwe Pehrs hus wid Norrebro innehade, anholles, at Hans Mayt täcktes i nåder anbefalla wederbörande at så skyndesamt, som någonsin ske kunde, låta uti behörigt stånd sätta och tilreda de uti Kongl. Slottet i norra flygeln tilämnade BibliotheksRummen, så at åtminstone de smärre wid ena sidan af stora Boksalen jemte et warmt rum för Betieningen måtte oförtöfwat blifwa at tilgå och inflyttningen uti dem då straxt ske med minsta kostnad som"
+  },
+  {
+   "bbox": [
+    446,
+    488,
+    574,
+    576
+   ],
+   "category": "Text",
+   "text": "Riksdagen\noch antikvi-\ntetsarkivet"
+  },
+  {
+   "bbox": [
+    583,
+    1795,
+    658,
+    1842
+   ],
+   "category": "Page-footer",
+   "text": "246"
+  }
+ ]
+}

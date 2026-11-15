@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 745,
+ "seconds": 31.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [843, 257, 1239, 293], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [513, 327, 1559, 448], \"category\": \"Text\", \"text\": \"någon Fond till löner och öfriga utgifter, Äfvensom Vi härmed och i Kraft af detta Vårt Öpna Bref nådeligen uplåta, förunne och föräre denna Vår Vitterhets-Academie:\"}, {\"bbox\": [513, 458, 1561, 668], \"category\": \"Text\", \"text\": \"I) Till Lön för dess Secreterare de Trehundrade Riksdaler specie, hvilka å Vårt Cantzli-Collegii Stat hittils varit upförde för Secreteraren uti Vårt Antiquitets Archivo, men nu och hädanefter anordnas uppå Academiens Stat, sedan Vi godt funnit at dessa bägge Beställningar uti en Person förena.\"}, {\"bbox\": [513, 672, 1561, 798], \"category\": \"Text\", \"text\": \"II) Den Lön för Amanuensen af Etthundrade Riksdaler Specie, som hittils varit på Antiquitets Archivi Stat upförd, blifver nu på lika sätt med Secreterarens förflyttad.\"}, {\"bbox\": [513, 802, 1561, 922], \"category\": \"Text\", \"text\": \"III) Utaf Arendet för Torneå Regale Lax Fiske Fyrahundrade-Trettio-Åtta Riksdaler Specie till besörjande af Prémier, Ljus och Skrifmaterialier.»\"}, {\"bbox\": [513, 926, 1563, 1258], \"category\": \"Text\", \"text\": \"Därefter angives det sätt, på vilket dessa 438 riksdaler skulle fördelas: till pris 158 riksdaler, till jettoner för ledamöterna 100, till expenser 100 och till vaktmästaren 80 riksdaler. Det, som slår en vid denna stat, är för det första, att intet anslag förekommer till tryckning av några skrifter, till antikvariska resor och till inlösen av fornfynd, ej ens till inköp av medaljer — för denna del av antikvitetsarkivets uppgifter tyckes Gustaf III ej ha intresserat sig. Vidare har han, som vi skola se, glömt ett anslag, som däremot fanns att tillgå.\"}, {\"bbox\": [513, 1258, 1563, 1713], \"category\": \"Text\", \"text\": \"Den 20 mars underrättades kanslikollegiet om antikvitetsarkivets nya ställning (Kanslikoll. Brev från Kungl. Maj:t): »Sedan Vi af Kärlek för Lärdom och Vitterhet åter uplifvat den Vitterhetsacademie, Vår Högst Salige Fru Moder Hennes Maj:t EnkeDrottningen år 1753 instiftat, hafve Vi för at understödja academien med Fond til nödiga löner i nåder godt funnit at med Secreterare Embetet uti Vårt Antiqvitets-存机 Archive förena Academiens secreterare sysla och at i sådan afsigt flytta ifrån Eder stat uppå academiens så väl den lön af Tre hundrade Riksdaler specie, antiquitets archivi Secreteraren årligen åtnjutit, som de Etthundrade Riksdaler specie, hvilka varit Renskrifvaren derstädes årligen anslagen.»¹ Kanslikollegiets stat\"}, {\"bbox\": [513, 1724, 1563, 1787], \"category\": \"Footnote\", \"text\": \"¹ Det kungl. brevet upplästes i kanslikollegiet den 23 mars, då kanslibokhållaren genom ett extractum protocolli underrättades om »lönernas flyttning».\"}, {\"bbox\": [521, 1817, 594, 1854], \"category\": \"Page-footer\", \"text\": \"714\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    843,
+    257,
+    1239,
+    293
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    513,
+    327,
+    1559,
+    448
+   ],
+   "category": "Text",
+   "text": "någon Fond till löner och öfriga utgifter, Äfvensom Vi härmed och i Kraft af detta Vårt Öpna Bref nådeligen uplåta, förunne och föräre denna Vår Vitterhets-Academie:"
+  },
+  {
+   "bbox": [
+    513,
+    458,
+    1561,
+    668
+   ],
+   "category": "Text",
+   "text": "I) Till Lön för dess Secreterare de Trehundrade Riksdaler specie, hvilka å Vårt Cantzli-Collegii Stat hittils varit upförde för Secreteraren uti Vårt Antiquitets Archivo, men nu och hädanefter anordnas uppå Academiens Stat, sedan Vi godt funnit at dessa bägge Beställningar uti en Person förena."
+  },
+  {
+   "bbox": [
+    513,
+    672,
+    1561,
+    798
+   ],
+   "category": "Text",
+   "text": "II) Den Lön för Amanuensen af Etthundrade Riksdaler Specie, som hittils varit på Antiquitets Archivi Stat upförd, blifver nu på lika sätt med Secreterarens förflyttad."
+  },
+  {
+   "bbox": [
+    513,
+    802,
+    1561,
+    922
+   ],
+   "category": "Text",
+   "text": "III) Utaf Arendet för Torneå Regale Lax Fiske Fyrahundrade-Trettio-Åtta Riksdaler Specie till besörjande af Prémier, Ljus och Skrifmaterialier.»"
+  },
+  {
+   "bbox": [
+    513,
+    926,
+    1563,
+    1258
+   ],
+   "category": "Text",
+   "text": "Därefter angives det sätt, på vilket dessa 438 riksdaler skulle fördelas: till pris 158 riksdaler, till jettoner för ledamöterna 100, till expenser 100 och till vaktmästaren 80 riksdaler. Det, som slår en vid denna stat, är för det första, att intet anslag förekommer till tryckning av några skrifter, till antikvariska resor och till inlösen av fornfynd, ej ens till inköp av medaljer — för denna del av antikvitetsarkivets uppgifter tyckes Gustaf III ej ha intresserat sig. Vidare har han, som vi skola se, glömt ett anslag, som däremot fanns att tillgå."
+  },
+  {
+   "bbox": [
+    513,
+    1258,
+    1563,
+    1713
+   ],
+   "category": "Text",
+   "text": "Den 20 mars underrättades kanslikollegiet om antikvitetsarkivets nya ställning (Kanslikoll. Brev från Kungl. Maj:t): »Sedan Vi af Kärlek för Lärdom och Vitterhet åter uplifvat den Vitterhetsacademie, Vår Högst Salige Fru Moder Hennes Maj:t EnkeDrottningen år 1753 instiftat, hafve Vi för at understödja academien med Fond til nödiga löner i nåder godt funnit at med Secreterare Embetet uti Vårt Antiqvitets-存机 Archive förena Academiens secreterare sysla och at i sådan afsigt flytta ifrån Eder stat uppå academiens så väl den lön af Tre hundrade Riksdaler specie, antiquitets archivi Secreteraren årligen åtnjutit, som de Etthundrade Riksdaler specie, hvilka varit Renskrifvaren derstädes årligen anslagen.»¹ Kanslikollegiets stat"
+  },
+  {
+   "bbox": [
+    513,
+    1724,
+    1563,
+    1787
+   ],
+   "category": "Footnote",
+   "text": "¹ Det kungl. brevet upplästes i kanslikollegiet den 23 mars, då kanslibokhållaren genom ett extractum protocolli underrättades om »lönernas flyttning»."
+  },
+  {
+   "bbox": [
+    521,
+    1817,
+    594,
+    1854
+   ],
+   "category": "Page-footer",
+   "text": "714"
+  }
+ ]
+}

@@ -1,0 +1,142 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 276,
+ "seconds": 28.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [112, 251, 1089, 295], \"category\": \"Section-header\", \"text\": \"Arkivet och Biblioteket under riksdagen 1765—1766\"}, {\"bbox\": [74, 321, 1129, 532], \"category\": \"Text\", \"text\": \"5:0 At som Sportlarne äro redan inbegripne i förberörde Summa af 10450 Dal. S:mt, så komma hädanefter inga Sportlar at åtfölja Betjeningens Löner, ehuru ringa de vara må; men kunna de för mera bequämlighet uptagas och beräknas uti de i ofvannämde Förslag utförde Expence-Summor.\"}, {\"bbox\": [112, 536, 649, 571], \"category\": \"Text\", \"text\": \"Secrete Utskottet framhärdar &c.\"}, {\"bbox\": [182, 590, 469, 631], \"category\": \"Text\", \"text\": \"Stormägtigste &c.\"}, {\"bbox\": [76, 653, 421, 738], \"category\": \"Text\", \"text\": \"På Ridderskapets och\\nAdelens vägnar.\"}, {\"bbox\": [116, 749, 375, 784], \"category\": \"Text\", \"text\": \"T. G. Rudbeck.\"}, {\"bbox\": [470, 653, 758, 738], \"category\": \"Text\", \"text\": \"På Präste-Ståndets\\nvägnar.\"}, {\"bbox\": [510, 749, 711, 784], \"category\": \"Text\", \"text\": \"M. Beronius.\"}, {\"bbox\": [808, 653, 1127, 738], \"category\": \"Text\", \"text\": \"På Borgare-Ståndets\\nvägnar.\"}, {\"bbox\": [857, 749, 1079, 784], \"category\": \"Text\", \"text\": \"C. F. Sebaldt.\"}, {\"bbox\": [76, 802, 552, 844], \"category\": \"Text\", \"text\": \"Stockholm, d. 14 Oct. 1766.»\"}, {\"bbox\": [76, 878, 1129, 1246], \"category\": \"Text\", \"text\": \"Det kungabrev, som med anledning härav utfärdades den 2 december 1766, inskränkte sig till att meddela en avskrift av sekreta utskottets underdåniga skrivelse av d. 14 oktober med förständigande till kanslikollegiet att »om wärkställigheten deraf wid förefallande ledigheter» besörja. Dessa ledigheter läto emellertid vänta på sig; Helsingius dog först 1774, och Botins lön utgick ända till 1776. Den nya staten kunde därför ej omedelbart genomföras, och den viktigaste förändringen blev i följd därav, att biblioteket och antikvitetsarkivet nu blevo skilda åt.\"}, {\"bbox\": [1050, 1807, 1125, 1847], \"category\": \"Page-footer\", \"text\": \"259\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    112,
+    251,
+    1089,
+    295
+   ],
+   "category": "Section-header",
+   "text": "Arkivet och Biblioteket under riksdagen 1765—1766"
+  },
+  {
+   "bbox": [
+    74,
+    321,
+    1129,
+    532
+   ],
+   "category": "Text",
+   "text": "5:0 At som Sportlarne äro redan inbegripne i förberörde Summa af 10450 Dal. S:mt, så komma hädanefter inga Sportlar at åtfölja Betjeningens Löner, ehuru ringa de vara må; men kunna de för mera bequämlighet uptagas och beräknas uti de i ofvannämde Förslag utförde Expence-Summor."
+  },
+  {
+   "bbox": [
+    112,
+    536,
+    649,
+    571
+   ],
+   "category": "Text",
+   "text": "Secrete Utskottet framhärdar &c."
+  },
+  {
+   "bbox": [
+    182,
+    590,
+    469,
+    631
+   ],
+   "category": "Text",
+   "text": "Stormägtigste &c."
+  },
+  {
+   "bbox": [
+    76,
+    653,
+    421,
+    738
+   ],
+   "category": "Text",
+   "text": "På Ridderskapets och\nAdelens vägnar."
+  },
+  {
+   "bbox": [
+    116,
+    749,
+    375,
+    784
+   ],
+   "category": "Text",
+   "text": "T. G. Rudbeck."
+  },
+  {
+   "bbox": [
+    470,
+    653,
+    758,
+    738
+   ],
+   "category": "Text",
+   "text": "På Präste-Ståndets\nvägnar."
+  },
+  {
+   "bbox": [
+    510,
+    749,
+    711,
+    784
+   ],
+   "category": "Text",
+   "text": "M. Beronius."
+  },
+  {
+   "bbox": [
+    808,
+    653,
+    1127,
+    738
+   ],
+   "category": "Text",
+   "text": "På Borgare-Ståndets\nvägnar."
+  },
+  {
+   "bbox": [
+    857,
+    749,
+    1079,
+    784
+   ],
+   "category": "Text",
+   "text": "C. F. Sebaldt."
+  },
+  {
+   "bbox": [
+    76,
+    802,
+    552,
+    844
+   ],
+   "category": "Text",
+   "text": "Stockholm, d. 14 Oct. 1766.»"
+  },
+  {
+   "bbox": [
+    76,
+    878,
+    1129,
+    1246
+   ],
+   "category": "Text",
+   "text": "Det kungabrev, som med anledning härav utfärdades den 2 december 1766, inskränkte sig till att meddela en avskrift av sekreta utskottets underdåniga skrivelse av d. 14 oktober med förständigande till kanslikollegiet att »om wärkställigheten deraf wid förefallande ledigheter» besörja. Dessa ledigheter läto emellertid vänta på sig; Helsingius dog först 1774, och Botins lön utgick ända till 1776. Den nya staten kunde därför ej omedelbart genomföras, och den viktigaste förändringen blev i följd därav, att biblioteket och antikvitetsarkivet nu blevo skilda åt."
+  },
+  {
+   "bbox": [
+    1050,
+    1807,
+    1125,
+    1847
+   ],
+   "category": "Page-footer",
+   "text": "259"
+  }
+ ]
+}

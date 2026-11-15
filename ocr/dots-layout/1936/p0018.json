@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 18,
+ "seconds": 30.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [417, 562, 1095, 604], \"category\": \"Section-header\", \"text\": \"ANTIKVITETSARKIVET 1747—1751.\"}, {\"bbox\": [241, 672, 1278, 1053], \"category\": \"Text\", \"text\": \"Helins tid betecknar antikvitetsarkivets djupaste förfall. Varken chefen eller de båda assessorerna tyckas annat än någon enstaka gång hava besökt ämbetsrummet, ingen av dem utförde eller ens kunde utföra något vetenskapligt arbete — åtminstone ingen av assessorerna — och även remisserna från kanslikollegiet besvarades först efter upprepade påminnelser. Arkivet hade således sjunkit ned till en försörjningsanstalt för några ytterst odugliga och fruktansvärt lata avlöningstagare, som förflyttats dit från andra ämbetsverk, där man troligen velat bli av med dem.\"}, {\"bbox\": [1299, 677, 1403, 709], \"category\": \"Text\", \"text\": \"Inledning\"}, {\"bbox\": [243, 1048, 1285, 1681], \"category\": \"Text\", \"text\": \"Det var därför ej att undra på, att riksdagen blev betänkt på att indraga hela arkivet, som onekligen föreföll ganska obehövligt. I mindre sekreta deputationen vid 1740—1741 års riksdag kom — såsom redan anförts (IV, sid. 378, 381) — denna fråga verkligen under diskussion. Sedan deputationen genom ett besök i arkivet förvissat sig om den skriande oreda, som där rådde, fann deputationen, att »angelägit wara will, at betieningen wid detta wärck till statens besparing anten efter hand indrages, då det igenom en eller twänne betiänter wäl kunde skiötas, eller ock at inrättningen därstädes stäldes på den fot, at samma wärck kan tiena till Riksens heder och antiquiteternas bringande i möyeligit lius». I en något förmildrad form upprepades detta i sekreta utskottets skrivelse till Kungl. Maj:t, och när denna påminnelse ej hjälpte, togs ärendet åter upp av 1746—1747 års riksdag, då — som vi skola se — hela arkivets indragning allvarligt kom på tal.\"}, {\"bbox\": [250, 1675, 1285, 1801], \"category\": \"Text\", \"text\": \"Den, som blev institutionens räddare, var den nye chef, som nu tillsattes och som genom sitt plikttrogna och nitiska arbete åtminstone förmådde skänka antikvitetsarkivet en fortsatt livslängd av ännu\"}, {\"bbox\": [1262, 1838, 1281, 1864], \"category\": \"Text\", \"text\": \"I\"}, {\"bbox\": [255, 1860, 385, 1883], \"category\": \"Page-footer\", \"text\": \"I—35832. V.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    417,
+    562,
+    1095,
+    604
+   ],
+   "category": "Section-header",
+   "text": "ANTIKVITETSARKIVET 1747—1751."
+  },
+  {
+   "bbox": [
+    241,
+    672,
+    1278,
+    1053
+   ],
+   "category": "Text",
+   "text": "Helins tid betecknar antikvitetsarkivets djupaste förfall. Varken chefen eller de båda assessorerna tyckas annat än någon enstaka gång hava besökt ämbetsrummet, ingen av dem utförde eller ens kunde utföra något vetenskapligt arbete — åtminstone ingen av assessorerna — och även remisserna från kanslikollegiet besvarades först efter upprepade påminnelser. Arkivet hade således sjunkit ned till en försörjningsanstalt för några ytterst odugliga och fruktansvärt lata avlöningstagare, som förflyttats dit från andra ämbetsverk, där man troligen velat bli av med dem."
+  },
+  {
+   "bbox": [
+    1299,
+    677,
+    1403,
+    709
+   ],
+   "category": "Text",
+   "text": "Inledning"
+  },
+  {
+   "bbox": [
+    243,
+    1048,
+    1285,
+    1681
+   ],
+   "category": "Text",
+   "text": "Det var därför ej att undra på, att riksdagen blev betänkt på att indraga hela arkivet, som onekligen föreföll ganska obehövligt. I mindre sekreta deputationen vid 1740—1741 års riksdag kom — såsom redan anförts (IV, sid. 378, 381) — denna fråga verkligen under diskussion. Sedan deputationen genom ett besök i arkivet förvissat sig om den skriande oreda, som där rådde, fann deputationen, att »angelägit wara will, at betieningen wid detta wärck till statens besparing anten efter hand indrages, då det igenom en eller twänne betiänter wäl kunde skiötas, eller ock at inrättningen därstädes stäldes på den fot, at samma wärck kan tiena till Riksens heder och antiquiteternas bringande i möyeligit lius». I en något förmildrad form upprepades detta i sekreta utskottets skrivelse till Kungl. Maj:t, och när denna påminnelse ej hjälpte, togs ärendet åter upp av 1746—1747 års riksdag, då — som vi skola se — hela arkivets indragning allvarligt kom på tal."
+  },
+  {
+   "bbox": [
+    250,
+    1675,
+    1285,
+    1801
+   ],
+   "category": "Text",
+   "text": "Den, som blev institutionens räddare, var den nye chef, som nu tillsattes och som genom sitt plikttrogna och nitiska arbete åtminstone förmådde skänka antikvitetsarkivet en fortsatt livslängd av ännu"
+  },
+  {
+   "bbox": [
+    1262,
+    1838,
+    1281,
+    1864
+   ],
+   "category": "Text",
+   "text": "I"
+  },
+  {
+   "bbox": [
+    255,
+    1860,
+    385,
+    1883
+   ],
+   "category": "Page-footer",
+   "text": "I—35832. V."
+  }
+ ]
+}

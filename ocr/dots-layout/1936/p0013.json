@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 13,
+ "seconds": 31.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [843, 1913, 983, 2126], \"category\": \"Page-header\", \"text\": \"CENTRAL-BIBLIOTEKET\"}, {\"bbox\": [755, 1738, 1243, 1789], \"category\": \"Text\", \"text\": \"Stockholm 1936\"}, {\"bbox\": [869, 1311, 1138, 1397], \"category\": \"Text\", \"text\": \"VÅRKIVET II\\nANTIKVILET\"}, {\"bbox\": [994, 1246, 1021, 1276], \"category\": \"Text\", \"text\": \"V\"}, {\"bbox\": [776, 1107, 1239, 1157], \"category\": \"Text\", \"text\": \"HENRIK SCHÜCK\"}, {\"bbox\": [778, 921, 1240, 1060], \"category\": \"Text\", \"text\": \"På akademien urpprag\\nförattade\"}, {\"bbox\": [628, 716, 1389, 871], \"category\": \"Title\", \"text\": \"Förhistoria och Historia\\nDess\"}, {\"bbox\": [458, 352, 1572, 643], \"category\": \"Text\", \"text\": \"AKADEMIEN\\nHISTORIE OCH ANTIKVILET\\nKGL. VITTEÄRHETS\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    843,
+    1913,
+    983,
+    2126
+   ],
+   "category": "Page-header",
+   "text": "CENTRAL-BIBLIOTEKET"
+  },
+  {
+   "bbox": [
+    755,
+    1738,
+    1243,
+    1789
+   ],
+   "category": "Text",
+   "text": "Stockholm 1936"
+  },
+  {
+   "bbox": [
+    869,
+    1311,
+    1138,
+    1397
+   ],
+   "category": "Text",
+   "text": "VÅRKIVET II\nANTIKVILET"
+  },
+  {
+   "bbox": [
+    994,
+    1246,
+    1021,
+    1276
+   ],
+   "category": "Text",
+   "text": "V"
+  },
+  {
+   "bbox": [
+    776,
+    1107,
+    1239,
+    1157
+   ],
+   "category": "Text",
+   "text": "HENRIK SCHÜCK"
+  },
+  {
+   "bbox": [
+    778,
+    921,
+    1240,
+    1060
+   ],
+   "category": "Text",
+   "text": "På akademien urpprag\nförattade"
+  },
+  {
+   "bbox": [
+    628,
+    716,
+    1389,
+    871
+   ],
+   "category": "Title",
+   "text": "Förhistoria och Historia\nDess"
+  },
+  {
+   "bbox": [
+    458,
+    352,
+    1572,
+    643
+   ],
+   "category": "Text",
+   "text": "AKADEMIEN\nHISTORIE OCH ANTIKVILET\nKGL. VITTEÄRHETS"
+  }
+ ]
+}

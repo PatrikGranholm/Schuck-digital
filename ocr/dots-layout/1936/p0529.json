@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 529,
+ "seconds": 30.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [892, 276, 1286, 311], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [562, 347, 1603, 430], \"category\": \"Text\", \"text\": \"saga är färdig til Tryckning, andra Isländska saker i concept och en Bergens Privilegie Bok afskrifwen.\"}, {\"bbox\": [562, 430, 1603, 639], \"category\": \"Text\", \"text\": \"Skulle nu Deras Excellencer och Höglofl. Kongl. Cantzli Collegium nådgunstigast täckas hugna honom med ofwannämnda fullmagt, så upmuntras han at med et lika nådigt Tilstånd wara mig på Resan följagtig, som både för skyndsamheten och min ännu icke fullkoml. återställda helsa en sådan hjelp behöfwer.\"}, {\"bbox\": [597, 648, 1075, 691], \"category\": \"Text\", \"text\": \"Stockholm d. 26 Martii 1770.\"}, {\"bbox\": [1296, 650, 1569, 685], \"category\": \"Text\", \"text\": \"N. R. Brocman.»\"}, {\"bbox\": [558, 720, 1605, 1665], \"category\": \"Text\", \"text\": \"Rekommendationen för den stackars Stechau var nog ganska opolitisk, då den erinrade kollegiet om dess och Brocmans strid, och kollegiet svarade också ganska snävt. Sedan Kungl. Maj:ts och sekreta utskottets skrivelser samt Brocmans memorial refererats, fortsätter protokollet: »Innan Kongl. Collegium sig öfwer det ena eller andra uttala kunde, fants nödigt att öfwer altsammans infordra Cantzli Rådet Berchs yttrande igenom utdrag af Protocollet och därjämte låta förberörda Memorial med honom communicera.» Då Berch mottog denna remiss, låg Brocman förmodligen redan på dödsbädden, och det var således ingen anledning att påskynda svaret. Berch dröjde också därmed till efter Brocmans död, den 25 maj 1770, och först den 6 juli svarade han. Hans memorial föredrogs i kanslikollegiet den 9 juli: »Uti ett annat Memorial af d. 6 Julii anmäler Cantzli Rådet Berch, at sedan förberörde Assessor Brochman med döden aflidit, hade af sig sielf förfallit den af Riksens Ständer för honom föreslagne resa till Dannemark för at samla sådanne handlingar, som röra Halland, Skåne, Blekinge, Bohuslän och Gottland. Wid hwilken resa Cantzli Rådet ändock för dess del tyckte någre omständigheter och Modificationer kunnat anföras för at göra den nyttig samt mindre kostsam. Som Riksens Ständer likwäl ansedt förberörde samling nödig, så wille Collegium framdeles taga widare under öfwerwägande, huru den måtte winnas med minsta kostnad.»\"}, {\"bbox\": [440, 1675, 548, 1734], \"category\": \"Text\", \"text\": \"Brocmans\\ntestamente\"}, {\"bbox\": [558, 1672, 1605, 1797], \"category\": \"Text\", \"text\": \"Den 20 oktober 1769 hade Brocman skrivit till Langebek, att han haft en ny blodstörtning och i anledning därav uppsatt sitt testamente: »Jag tog mig ock däri den frihet at nämna all den gunst,\"}, {\"bbox\": [562, 1834, 636, 1871], \"category\": \"Page-footer\", \"text\": \"502\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    892,
+    276,
+    1286,
+    311
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    562,
+    347,
+    1603,
+    430
+   ],
+   "category": "Text",
+   "text": "saga är färdig til Tryckning, andra Isländska saker i concept och en Bergens Privilegie Bok afskrifwen."
+  },
+  {
+   "bbox": [
+    562,
+    430,
+    1603,
+    639
+   ],
+   "category": "Text",
+   "text": "Skulle nu Deras Excellencer och Höglofl. Kongl. Cantzli Collegium nådgunstigast täckas hugna honom med ofwannämnda fullmagt, så upmuntras han at med et lika nådigt Tilstånd wara mig på Resan följagtig, som både för skyndsamheten och min ännu icke fullkoml. återställda helsa en sådan hjelp behöfwer."
+  },
+  {
+   "bbox": [
+    597,
+    648,
+    1075,
+    691
+   ],
+   "category": "Text",
+   "text": "Stockholm d. 26 Martii 1770."
+  },
+  {
+   "bbox": [
+    1296,
+    650,
+    1569,
+    685
+   ],
+   "category": "Text",
+   "text": "N. R. Brocman.»"
+  },
+  {
+   "bbox": [
+    558,
+    720,
+    1605,
+    1665
+   ],
+   "category": "Text",
+   "text": "Rekommendationen för den stackars Stechau var nog ganska opolitisk, då den erinrade kollegiet om dess och Brocmans strid, och kollegiet svarade också ganska snävt. Sedan Kungl. Maj:ts och sekreta utskottets skrivelser samt Brocmans memorial refererats, fortsätter protokollet: »Innan Kongl. Collegium sig öfwer det ena eller andra uttala kunde, fants nödigt att öfwer altsammans infordra Cantzli Rådet Berchs yttrande igenom utdrag af Protocollet och därjämte låta förberörda Memorial med honom communicera.» Då Berch mottog denna remiss, låg Brocman förmodligen redan på dödsbädden, och det var således ingen anledning att påskynda svaret. Berch dröjde också därmed till efter Brocmans död, den 25 maj 1770, och först den 6 juli svarade han. Hans memorial föredrogs i kanslikollegiet den 9 juli: »Uti ett annat Memorial af d. 6 Julii anmäler Cantzli Rådet Berch, at sedan förberörde Assessor Brochman med döden aflidit, hade af sig sielf förfallit den af Riksens Ständer för honom föreslagne resa till Dannemark för at samla sådanne handlingar, som röra Halland, Skåne, Blekinge, Bohuslän och Gottland. Wid hwilken resa Cantzli Rådet ändock för dess del tyckte någre omständigheter och Modificationer kunnat anföras för at göra den nyttig samt mindre kostsam. Som Riksens Ständer likwäl ansedt förberörde samling nödig, så wille Collegium framdeles taga widare under öfwerwägande, huru den måtte winnas med minsta kostnad.»"
+  },
+  {
+   "bbox": [
+    440,
+    1675,
+    548,
+    1734
+   ],
+   "category": "Text",
+   "text": "Brocmans\ntestamente"
+  },
+  {
+   "bbox": [
+    558,
+    1672,
+    1605,
+    1797
+   ],
+   "category": "Text",
+   "text": "Den 20 oktober 1769 hade Brocman skrivit till Langebek, att han haft en ny blodstörtning och i anledning därav uppsatt sitt testamente: »Jag tog mig ock däri den frihet at nämna all den gunst,"
+  },
+  {
+   "bbox": [
+    562,
+    1834,
+    636,
+    1871
+   ],
+   "category": "Page-footer",
+   "text": "502"
+  }
+ ]
+}

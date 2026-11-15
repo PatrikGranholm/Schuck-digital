@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 343,
+ "seconds": 30.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [915, 260, 1310, 296], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [587, 330, 1634, 870], \"category\": \"Text\", \"text\": \"Herr Canzlie Rådet von Stenhagen berättade, att redan år 1725 wid Secreteraren Peringschiölds dödeliga frånfälle hade uti hans, såsom medarfwinges, närwaro alla de papper och documenter, som på något sätt angick Peringschiölds sysla eller Antiquitets werket, blifwit på en gång aflämnade till Antiquitets Archivum, och att nu mera uti Sterbhuset eller hos någon af arfwingarna inga sådana papper, som Herr Baron och Presidenten omnämnt, woro att tillgå; widare tillade Herr Cantzlie Rådet, det Hans Excellence Herr Riksrådet och Presidenten lärer behaga sig till minnes föra, att Hans Excellence, då såsom Canzlie Råd, på Collegii wägnar sjelf biwistade dessa handlingars separerande och annoterande i Sterbhuset samt låta [= låtit] dem afhemtas till Antiquitets Archivum, hwilket ock Hans Excellence sig erinrade.\"}, {\"bbox\": [587, 870, 1634, 952], \"category\": \"Text\", \"text\": \"Resolverades, att Antiquitets Archivi utlåtande öfwer båda dessa af Herr Baron och Presidenten anförda omständigheter inhemtas skulle.\"}, {\"bbox\": [587, 952, 1634, 1153], \"category\": \"Text\", \"text\": \"Hwad det Kongl. Bibliothequet beträffade, så hade Herr Baron och Presidenten der wid ej något annat att påminna, än att Cataloger öfwer de öfriga publique Bibliothequer i riket måtte infordras och enligt Kongl. Canzlie ordningen i det Kongl. Bibliothequet förwaras.\"}, {\"bbox\": [587, 1159, 1634, 1318], \"category\": \"Text\", \"text\": \"Resolverades, att bref härom till de andra Consistorierna skulle afgå af lika innehåll med det, som till Herrar Academie Canzlererna kommer att afgå om sådana Catalogers infordrande ifrån Gymnasierna.»\"}, {\"bbox\": [587, 1324, 1634, 1781], \"category\": \"Text\", \"text\": \"Den första riksdagen under Berchs chefstid sammanträdde den 16 september 1751, men redan den 12 mars, innan denna ännu var påtänkt, upplästes i kanslikollegiet Berchs nu förlorade, den 23 februari nedskrivna årsredogörelse: »Uppl:s Secret. Berchs Memorial af den 23 sidstl. febr. och berättelse om dess göromål wid Antiquitets Archivum, sedan han Secreterare beställningen derstädes tillträdt, jemte de inventarier och beskrifningar, som han under den tiden författat öfwer 1:0 de i Antiquitets Archivo befintel. böcker. 2:do Romerska mynten, af hwilkas beskrifning för dess widlyftighet skull allenast ett summariskt extract meddelas. 3:tio Swenska mynten med hwarderas wigt tydeligen utmerkt. 4:to Ara-\"}, {\"bbox\": [453, 1329, 583, 1391], \"category\": \"Text\", \"text\": \"Consignatio- nen 1751\"}, {\"bbox\": [591, 1818, 666, 1855], \"category\": \"Page-footer\", \"text\": \"324\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    915,
+    260,
+    1310,
+    296
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    587,
+    330,
+    1634,
+    870
+   ],
+   "category": "Text",
+   "text": "Herr Canzlie Rådet von Stenhagen berättade, att redan år 1725 wid Secreteraren Peringschiölds dödeliga frånfälle hade uti hans, såsom medarfwinges, närwaro alla de papper och documenter, som på något sätt angick Peringschiölds sysla eller Antiquitets werket, blifwit på en gång aflämnade till Antiquitets Archivum, och att nu mera uti Sterbhuset eller hos någon af arfwingarna inga sådana papper, som Herr Baron och Presidenten omnämnt, woro att tillgå; widare tillade Herr Cantzlie Rådet, det Hans Excellence Herr Riksrådet och Presidenten lärer behaga sig till minnes föra, att Hans Excellence, då såsom Canzlie Råd, på Collegii wägnar sjelf biwistade dessa handlingars separerande och annoterande i Sterbhuset samt låta [= låtit] dem afhemtas till Antiquitets Archivum, hwilket ock Hans Excellence sig erinrade."
+  },
+  {
+   "bbox": [
+    587,
+    870,
+    1634,
+    952
+   ],
+   "category": "Text",
+   "text": "Resolverades, att Antiquitets Archivi utlåtande öfwer båda dessa af Herr Baron och Presidenten anförda omständigheter inhemtas skulle."
+  },
+  {
+   "bbox": [
+    587,
+    952,
+    1634,
+    1153
+   ],
+   "category": "Text",
+   "text": "Hwad det Kongl. Bibliothequet beträffade, så hade Herr Baron och Presidenten der wid ej något annat att påminna, än att Cataloger öfwer de öfriga publique Bibliothequer i riket måtte infordras och enligt Kongl. Canzlie ordningen i det Kongl. Bibliothequet förwaras."
+  },
+  {
+   "bbox": [
+    587,
+    1159,
+    1634,
+    1318
+   ],
+   "category": "Text",
+   "text": "Resolverades, att bref härom till de andra Consistorierna skulle afgå af lika innehåll med det, som till Herrar Academie Canzlererna kommer att afgå om sådana Catalogers infordrande ifrån Gymnasierna.»"
+  },
+  {
+   "bbox": [
+    587,
+    1324,
+    1634,
+    1781
+   ],
+   "category": "Text",
+   "text": "Den första riksdagen under Berchs chefstid sammanträdde den 16 september 1751, men redan den 12 mars, innan denna ännu var påtänkt, upplästes i kanslikollegiet Berchs nu förlorade, den 23 februari nedskrivna årsredogörelse: »Uppl:s Secret. Berchs Memorial af den 23 sidstl. febr. och berättelse om dess göromål wid Antiquitets Archivum, sedan han Secreterare beställningen derstädes tillträdt, jemte de inventarier och beskrifningar, som han under den tiden författat öfwer 1:0 de i Antiquitets Archivo befintel. böcker. 2:do Romerska mynten, af hwilkas beskrifning för dess widlyftighet skull allenast ett summariskt extract meddelas. 3:tio Swenska mynten med hwarderas wigt tydeligen utmerkt. 4:to Ara-"
+  },
+  {
+   "bbox": [
+    453,
+    1329,
+    583,
+    1391
+   ],
+   "category": "Text",
+   "text": "Consignatio- nen 1751"
+  },
+  {
+   "bbox": [
+    591,
+    1818,
+    666,
+    1855
+   ],
+   "category": "Page-footer",
+   "text": "324"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 222,
+ "seconds": 29.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [188, 263, 1049, 305], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet och Biblioteket 1751—1766\"}, {\"bbox\": [92, 333, 1142, 751], \"category\": \"Text\", \"text\": \"Botin är ledig, tillhörer egenteligen translaturen af de gamle Nordiske språken, och uti den delen hölt Cantzli Rådet före, att Amanuensen Brocman ägde den bästa insigten och färdigheten, hwarå han äfwen gifwit prof i synnerhet uti en öfwersättning af Ingwars saga ifrån gamla Götiskan, som han nu hafwer under händer. Beträffande Amanuensen Görvell, som äfwen wore innom wärcket, tillade Cantzli Rådet, att han ägde goda insigter och kundskaper samt att han skrifwit och på trycket utgifwit åtskilliga artiga och nyttiga arbeten, ehuru uti andra delar än de, som till detta Translators Departement synas egentel. höra.\"}, {\"bbox\": [95, 749, 1138, 833], \"category\": \"Text\", \"text\": \"Effter att hafwa afhördt detta Cantzli Rådet Berchs yttrande skredo Kongl. Collegii Hrr Ledamöter till omröstning.\"}, {\"bbox\": [92, 832, 1142, 1787], \"category\": \"Text\", \"text\": \"Herr Cantzli Rådet Arnell utlät sig: Att ehuruwäl skickeligheten, som hos den ena person kan offta wara större än hos den andra, icke bör utur akt låtas i synnerhet wid en sysla, som fordrar särskildta och torde hända mindre allmänna insigter och kundskaper, så synes man likwäl icke kunna anse dem för oskickeliga, hwilka arbeta och tjäna innom samma wärk, där en sådan sysla kan wara ledig, aldraminst då de hafwa någon förmånsrätt uti tjänsteåren. Der till kommer, att lagen och i synnerhet Tjänstebetänkandet af år 1756 föreskrifwit, att efter åldern uti tjänsten bör hwars och ens förtjänst och skickelighet och i följe deraf hwars och ens rätt till förslag dömmas; Och synes ingen annan exception derwid kunna äga rum än den, att alltid någon innom sjelfwa wärket bör ihogkommas, i fall de äldre sökande wore utan det samma, hwartill gifwes anledning så af den wid förslagers upprättande fastställte ordning och methode som af den för ett wärks betjänings nödige uppmuntran och hugnad. Uppå sådan grund utnämde Herr Cantzli Rådet Registratoren Åkersten, Cantzlisten Kjellström och Amanuensen Görvell. Desse woro till sine Cantzlist fullmagter de äldste; ibland dem ägde den sistnämde redan sin sysla wid Antiquitets Archivum, och ingendera synas kunna wara främmande uti de stycken och de kundskaper, som till Antiquitets Archivi syslor höra, och hwarförutan den omständigheten ännu tillkommer för Görvell, att han redan tillförene warit uppå ett Assessors förslag uppförd wid samma wärk.\"}, {\"bbox\": [1062, 1820, 1134, 1858], \"category\": \"Page-footer\", \"text\": \"205\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    188,
+    263,
+    1049,
+    305
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet och Biblioteket 1751—1766"
+  },
+  {
+   "bbox": [
+    92,
+    333,
+    1142,
+    751
+   ],
+   "category": "Text",
+   "text": "Botin är ledig, tillhörer egenteligen translaturen af de gamle Nordiske språken, och uti den delen hölt Cantzli Rådet före, att Amanuensen Brocman ägde den bästa insigten och färdigheten, hwarå han äfwen gifwit prof i synnerhet uti en öfwersättning af Ingwars saga ifrån gamla Götiskan, som han nu hafwer under händer. Beträffande Amanuensen Görvell, som äfwen wore innom wärcket, tillade Cantzli Rådet, att han ägde goda insigter och kundskaper samt att han skrifwit och på trycket utgifwit åtskilliga artiga och nyttiga arbeten, ehuru uti andra delar än de, som till detta Translators Departement synas egentel. höra."
+  },
+  {
+   "bbox": [
+    95,
+    749,
+    1138,
+    833
+   ],
+   "category": "Text",
+   "text": "Effter att hafwa afhördt detta Cantzli Rådet Berchs yttrande skredo Kongl. Collegii Hrr Ledamöter till omröstning."
+  },
+  {
+   "bbox": [
+    92,
+    832,
+    1142,
+    1787
+   ],
+   "category": "Text",
+   "text": "Herr Cantzli Rådet Arnell utlät sig: Att ehuruwäl skickeligheten, som hos den ena person kan offta wara större än hos den andra, icke bör utur akt låtas i synnerhet wid en sysla, som fordrar särskildta och torde hända mindre allmänna insigter och kundskaper, så synes man likwäl icke kunna anse dem för oskickeliga, hwilka arbeta och tjäna innom samma wärk, där en sådan sysla kan wara ledig, aldraminst då de hafwa någon förmånsrätt uti tjänsteåren. Der till kommer, att lagen och i synnerhet Tjänstebetänkandet af år 1756 föreskrifwit, att efter åldern uti tjänsten bör hwars och ens förtjänst och skickelighet och i följe deraf hwars och ens rätt till förslag dömmas; Och synes ingen annan exception derwid kunna äga rum än den, att alltid någon innom sjelfwa wärket bör ihogkommas, i fall de äldre sökande wore utan det samma, hwartill gifwes anledning så af den wid förslagers upprättande fastställte ordning och methode som af den för ett wärks betjänings nödige uppmuntran och hugnad. Uppå sådan grund utnämde Herr Cantzli Rådet Registratoren Åkersten, Cantzlisten Kjellström och Amanuensen Görvell. Desse woro till sine Cantzlist fullmagter de äldste; ibland dem ägde den sistnämde redan sin sysla wid Antiquitets Archivum, och ingendera synas kunna wara främmande uti de stycken och de kundskaper, som till Antiquitets Archivi syslor höra, och hwarförutan den omständigheten ännu tillkommer för Görvell, att han redan tillförene warit uppå ett Assessors förslag uppförd wid samma wärk."
+  },
+  {
+   "bbox": [
+    1062,
+    1820,
+    1134,
+    1858
+   ],
+   "category": "Page-footer",
+   "text": "205"
+  }
+ ]
+}

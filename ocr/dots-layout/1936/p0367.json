@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 367,
+ "seconds": 23.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [885, 264, 1281, 299], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [561, 333, 1602, 445], \"category\": \"Text\", \"text\": \"oc war thenna book scriffwit aff ena Conventssyster Anno Dni MDXXVI. Oratis Deum pro scriptrice Pater Noster et Ave Maria Requiescant in pace. Obs. om nunnan Ingegerd se Diarium Wazstenense p. 157.\"}, {\"bbox\": [561, 442, 1602, 515], \"category\": \"Text\", \"text\": \"En annan bona scriptrix, quae scripsit magna volumina, missalia et alia war redan död A:o 1477. Vid. Diar. Wazst. p. 141.\"}, {\"bbox\": [561, 512, 1602, 622], \"category\": \"Text\", \"text\": \"Jöns Budde war en flitig man at öfwersätta allehanda små Theologiska saker, mest Legender. Et sådant volumen autographum in 4:to förwaras wid Åbo domkyrka.\"}, {\"bbox\": [561, 666, 1602, 1038], \"category\": \"Text\", \"text\": \"På samma noggranna sätt beskriver han A 2 (Alanus de Rupe), A 3 (Om Christi pijno), A 4 (Horologium æternæ sapientiæ) o. s. v. Den första avdelningen, A, omfattade 58 volymer, den andra, B (svenska lagar) 100, den tredje, C (danska, norska och isländska lagar) 96. Sedan följa andra avdelningar, D (akter rörande svenska historien), E (Peringskiölds avskrifter), F (antikvariernas samlingar), G (jordeböcker, räkenskaper och domböcker), H (genealogier), I (äldre kopior av gamla brev), K (svenska historier och dithörande materier) samt addenda.\"}, {\"bbox\": [425, 1041, 561, 1136], \"category\": \"Text\", \"text\": \"Över isländska handskrifter\"}, {\"bbox\": [561, 1041, 1602, 1776], \"category\": \"Text\", \"text\": \"Av Berchs på lösa blad skrivna katalog gjordes sedermera en prydlig renskrift i två foliovolymer (K. B. U. 94). Den första delen upptager de nyss anförda handskrifterna, den andra de isländsk-norska (utom lagarna): Norvegici Codices Msci et Islandici in Reg. Antiq. Archivo Holm. Membraner i folio voro 7, i quarto 24, i oktav 5 och »in minutissima forma» 1. Chartacei voro i folio 100, i kvart 46 och i oktav 23. Att Berch här haft en väsentlig hjälp av den flitige Wessman, vilken som translator var chef för detta »departement», framgår av en till slutet av volymen fogad »Alfabetisk förteckning på de isländska skrifter, som höra under Tredje Bibliothecariens wård wid Kongl. Bibliothequet i Stockholm, upsat 1752 af Nils Wessman». Vid varje Saga gjordes en anteckning om dess plats i samlingen, t. ex. »Alexander hin stores saga membr. 4:to 8. 1. Ch. fol. 1. 6.» — den fanns således dels bland pergamentshandskrifterna i kvart, där den hade n:r 8 som signum och var den första av de i denna volym intagna sagorna, dels i pappershandskriften folio n:r 1, där den var den sjätte skriften.\"}, {\"bbox\": [561, 1813, 637, 1859], \"category\": \"Page-footer\", \"text\": \"348\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    885,
+    264,
+    1281,
+    299
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    561,
+    333,
+    1602,
+    445
+   ],
+   "category": "Text",
+   "text": "oc war thenna book scriffwit aff ena Conventssyster Anno Dni MDXXVI. Oratis Deum pro scriptrice Pater Noster et Ave Maria Requiescant in pace. Obs. om nunnan Ingegerd se Diarium Wazstenense p. 157."
+  },
+  {
+   "bbox": [
+    561,
+    442,
+    1602,
+    515
+   ],
+   "category": "Text",
+   "text": "En annan bona scriptrix, quae scripsit magna volumina, missalia et alia war redan död A:o 1477. Vid. Diar. Wazst. p. 141."
+  },
+  {
+   "bbox": [
+    561,
+    512,
+    1602,
+    622
+   ],
+   "category": "Text",
+   "text": "Jöns Budde war en flitig man at öfwersätta allehanda små Theologiska saker, mest Legender. Et sådant volumen autographum in 4:to förwaras wid Åbo domkyrka."
+  },
+  {
+   "bbox": [
+    561,
+    666,
+    1602,
+    1038
+   ],
+   "category": "Text",
+   "text": "På samma noggranna sätt beskriver han A 2 (Alanus de Rupe), A 3 (Om Christi pijno), A 4 (Horologium æternæ sapientiæ) o. s. v. Den första avdelningen, A, omfattade 58 volymer, den andra, B (svenska lagar) 100, den tredje, C (danska, norska och isländska lagar) 96. Sedan följa andra avdelningar, D (akter rörande svenska historien), E (Peringskiölds avskrifter), F (antikvariernas samlingar), G (jordeböcker, räkenskaper och domböcker), H (genealogier), I (äldre kopior av gamla brev), K (svenska historier och dithörande materier) samt addenda."
+  },
+  {
+   "bbox": [
+    425,
+    1041,
+    561,
+    1136
+   ],
+   "category": "Text",
+   "text": "Över isländska handskrifter"
+  },
+  {
+   "bbox": [
+    561,
+    1041,
+    1602,
+    1776
+   ],
+   "category": "Text",
+   "text": "Av Berchs på lösa blad skrivna katalog gjordes sedermera en prydlig renskrift i två foliovolymer (K. B. U. 94). Den första delen upptager de nyss anförda handskrifterna, den andra de isländsk-norska (utom lagarna): Norvegici Codices Msci et Islandici in Reg. Antiq. Archivo Holm. Membraner i folio voro 7, i quarto 24, i oktav 5 och »in minutissima forma» 1. Chartacei voro i folio 100, i kvart 46 och i oktav 23. Att Berch här haft en väsentlig hjälp av den flitige Wessman, vilken som translator var chef för detta »departement», framgår av en till slutet av volymen fogad »Alfabetisk förteckning på de isländska skrifter, som höra under Tredje Bibliothecariens wård wid Kongl. Bibliothequet i Stockholm, upsat 1752 af Nils Wessman». Vid varje Saga gjordes en anteckning om dess plats i samlingen, t. ex. »Alexander hin stores saga membr. 4:to 8. 1. Ch. fol. 1. 6.» — den fanns således dels bland pergamentshandskrifterna i kvart, där den hade n:r 8 som signum och var den första av de i denna volym intagna sagorna, dels i pappershandskriften folio n:r 1, där den var den sjätte skriften."
+  },
+  {
+   "bbox": [
+    561,
+    1813,
+    637,
+    1859
+   ],
+   "category": "Page-footer",
+   "text": "348"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 248,
+ "seconds": 29.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [168, 247, 1038, 290], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet och Biblioteket 1751—1766\"}, {\"bbox\": [75, 317, 1131, 696], \"category\": \"Text\", \"text\": \"Amanuensis löhnen, medan Han, til dess et Assessors ställe blifwer ledigt, antingen lärer sig hafwa förbehållit någon del af sit förra Salario såsom Page-Hofmästare eller åtniutit någon douceur för den giorda vacançen, så will iag likwäl å min sida icke lägga hinder i wägen, ehuru iag kunnat smickra mig med något hopp om combination af en mindre löhn, såsom med afledne Cantzlij Rådet Hr. von Stiernman skedde, och at min i några och trettijo år, iag wet ej annat än til mina höga Herrar Förmäns nöije, giorda tienst skulle komma i nådgunstigt behiertande.\"}, {\"bbox\": [115, 705, 582, 749], \"category\": \"Text\", \"text\": \"Stockholm d. 13 Febr. 1766.\"}, {\"bbox\": [767, 744, 1092, 779], \"category\": \"Text\", \"text\": \"Carl Reinh: Berch.»\"}, {\"bbox\": [77, 814, 1136, 1773], \"category\": \"Text\", \"text\": \"Vid sidan av detta skriftliga yttrande avgav Berch också ett för honom ganska egendomligt muntligt: »CantzliRådet och Secreteraren wid Antiquitets Archivum Berch feck företräde och aflemnade sitt Memorial angående Bibliothecarien Mozelii ansökning om den lediga amanuensislönen, som Brocman innehaft, anmälandes munteligen, at han önskade med denna lilla lönen för sig sjelf blifwa hugnad til någon tilökning uti sin Secreterare lön, på lika sätt som framledne CantzliRådet Stierneman en dylika förmån åtnjutit, däräst ej för godt finnes, at hon blifwer bespard, till någon infödd och lärd Isländare kan erhållas. Detta ärende företages uti Hans Excellence CantzliPresidentens närwaro» (d. v. s. uppsköts). Men varken Berch eller Mozelius fick något gott av denna lön, ty då ärendet slutligen den 19 december 1766 föredrogs, hade den nya organisationen redan trätt i kraft, och frågan hade därigenom förfallit. »Secreteraren anmälte, att alt sedan d. 13 februarii detta år wore til Kongl. Collegium inkommit Herr Cantzli Rådet Berchs Memorial och utlåtande öfwer Assessoren Mozelii ansökning om den af Assessoren Brockman förut innehafde Isländske Amanuens Lönen, hwilket icke kunnat til afgiörande företagas i anseende därtil, at Riksens Högloflige Ständer haft under händer at bereda en generelle författning om dessa wärck. Sedan den nu Kongl. Collegio tilhanda kommit, understälte Secreteraren fördensskull, hwad Kongl. Collegium däröfwer täcktes resolvera. Som i följe af den nyss uppläste\"}, {\"bbox\": [1059, 1802, 1129, 1841], \"category\": \"Page-footer\", \"text\": \"231\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    168,
+    247,
+    1038,
+    290
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet och Biblioteket 1751—1766"
+  },
+  {
+   "bbox": [
+    75,
+    317,
+    1131,
+    696
+   ],
+   "category": "Text",
+   "text": "Amanuensis löhnen, medan Han, til dess et Assessors ställe blifwer ledigt, antingen lärer sig hafwa förbehållit någon del af sit förra Salario såsom Page-Hofmästare eller åtniutit någon douceur för den giorda vacançen, så will iag likwäl å min sida icke lägga hinder i wägen, ehuru iag kunnat smickra mig med något hopp om combination af en mindre löhn, såsom med afledne Cantzlij Rådet Hr. von Stiernman skedde, och at min i några och trettijo år, iag wet ej annat än til mina höga Herrar Förmäns nöije, giorda tienst skulle komma i nådgunstigt behiertande."
+  },
+  {
+   "bbox": [
+    115,
+    705,
+    582,
+    749
+   ],
+   "category": "Text",
+   "text": "Stockholm d. 13 Febr. 1766."
+  },
+  {
+   "bbox": [
+    767,
+    744,
+    1092,
+    779
+   ],
+   "category": "Text",
+   "text": "Carl Reinh: Berch.»"
+  },
+  {
+   "bbox": [
+    77,
+    814,
+    1136,
+    1773
+   ],
+   "category": "Text",
+   "text": "Vid sidan av detta skriftliga yttrande avgav Berch också ett för honom ganska egendomligt muntligt: »CantzliRådet och Secreteraren wid Antiquitets Archivum Berch feck företräde och aflemnade sitt Memorial angående Bibliothecarien Mozelii ansökning om den lediga amanuensislönen, som Brocman innehaft, anmälandes munteligen, at han önskade med denna lilla lönen för sig sjelf blifwa hugnad til någon tilökning uti sin Secreterare lön, på lika sätt som framledne CantzliRådet Stierneman en dylika förmån åtnjutit, däräst ej för godt finnes, at hon blifwer bespard, till någon infödd och lärd Isländare kan erhållas. Detta ärende företages uti Hans Excellence CantzliPresidentens närwaro» (d. v. s. uppsköts). Men varken Berch eller Mozelius fick något gott av denna lön, ty då ärendet slutligen den 19 december 1766 föredrogs, hade den nya organisationen redan trätt i kraft, och frågan hade därigenom förfallit. »Secreteraren anmälte, att alt sedan d. 13 februarii detta år wore til Kongl. Collegium inkommit Herr Cantzli Rådet Berchs Memorial och utlåtande öfwer Assessoren Mozelii ansökning om den af Assessoren Brockman förut innehafde Isländske Amanuens Lönen, hwilket icke kunnat til afgiörande företagas i anseende därtil, at Riksens Högloflige Ständer haft under händer at bereda en generelle författning om dessa wärck. Sedan den nu Kongl. Collegio tilhanda kommit, understälte Secreteraren fördensskull, hwad Kongl. Collegium däröfwer täcktes resolvera. Som i följe af den nyss uppläste"
+  },
+  {
+   "bbox": [
+    1059,
+    1802,
+    1129,
+    1841
+   ],
+   "category": "Page-footer",
+   "text": "231"
+  }
+ ]
+}

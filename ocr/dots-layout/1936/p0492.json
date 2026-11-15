@@ -1,0 +1,31 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 492,
+ "seconds": 10.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [321, 357, 1252, 1797], \"category\": \"Picture\"}, {\"bbox\": [1271, 781, 1308, 1369], \"category\": \"Caption\", \"text\": \"Kiviksmonumentet. Kopparstick av Fr. Feldt.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    321,
+    357,
+    1252,
+    1797
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    1271,
+    781,
+    1308,
+    1369
+   ],
+   "category": "Caption",
+   "text": "Kiviksmonumentet. Kopparstick av Fr. Feldt."
+  }
+ ]
+}

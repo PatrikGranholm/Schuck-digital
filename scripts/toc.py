@@ -27,29 +27,36 @@ FOLD = str.maketrans({"i": "1", "I": "1", "l": "1", "o": "0", "O": "0", "°": "0
                       "’": "9", "Ö": "6", "s": "5", "S": "5"})
 
 
-def parse_toc(vol, images, chapters):
+def parse_toc(vol, images, chapters, parts=()):
     """Topics ("name page, name page, ...") from the TOC text layer, assigned to chapters by page range.
     Lines that are only (part of) a chapter title, dot leaders or a page number are dropped first:
     the text layer splits hanging chapter titles over lines and out of order ('medeltidsskrifter' /
     'Svenska') and files the chapter page numbers at the foot of the page."""
     titles = [re.sub(r"\W", "", c["title"]).lower() for c in chapters]
+    # every word of a chapter or part title; a line of such words with a year or "Innehåll" is a title
+    # fragment (vol. V: "INNEHALL. BERCHS TID. Antikvitetsarkivet", "1747—1751")
+    vocab = {w for c in list(chapters) + list(parts) for w in re.findall(r"\w+", c["title"].lower())} | {"innehåll", "innehall"}
     lines = []
     for i in images:
         page = from_textlayer(vol, i)
         for l in page["body"].split("\n"):
+            l = re.sub(r"^\s*(?:\.\s*){1,2}[\diIlo°O]{0,4}(?=\s|$)", "", l.strip())   # leader remnants: ". .", ".235 Tjänste…"
             core = re.sub(r"[ .…]{4,}\s*[\diIlo°O ]*$", "", l.strip())
             key = re.sub(r"\W", "", core).lower()
-            if len(key) <= 4 or key == "innehåll" or any(key in t for t in titles):
+            if len(key) <= 4 or key == "innehåll" or any(key in t for t in titles) \
+                    or (set(re.findall(r"\w+", core.lower())) <= vocab and re.search(r"\d|innehå?a?ll", core.lower())):
                 continue
             lines.append(l)
     text = dehyphenate(lines)
     # a chapter line still on a line with topics = title + dot leaders + page: cut it out
     # (its first word may be missing: chapter lines hang left of the column and the text layer
     # files those words as margin, so a title may start lowercase after the previous full stop)
-    text = re.sub(r"(?:^|(?<=\. ))([^.,\d»]{3,80}?)\s*[ .…,]{6,}\s*[\diIlo°]{0,4}", ", ", text)
+    text = re.sub(r"(?:^|(?<=\. ))([^.,»]{3,80}?)\s*[ .…,]{6,}\s*[\diIlo°]{0,4}", ", ", text)
+    text = re.sub(r"(?<!\d)(1[5-8]) ?(\d) (\d)(?!\d)", r"\1\2\3", text)   # a year split by the text layer: "17 7 7"
     starts = [c["page"] for c in chapters]
     out = [{"chapter": c["title"], "topics": []} for c in chapters]
-    words = [set(re.findall(r"\w+", c["title"].lower())) for c in chapters]
+    pwords = {w for p in parts for w in re.findall(r"\w+", p["title"].lower())}   # "AVVECKLINGEN." before a chapter
+    words = [set(re.findall(r"\w+", c["title"].lower())) | pwords for c in chapters]
     found = []
     # a lone letter other than I/l is not a page number ("Miracuia S. Erici 245": S is not page 5)
     for t in re.finditer(r"([^,]+?)\s+((?![oOsS°;>?’Ö]\s*(?:[,.>?’»;]|$))[\diIloOsS°;>?’Ö]{1,3}(?: ?\d)?)"
@@ -99,7 +106,7 @@ def main():
     ap.add_argument("--vol", required=True)
     a = ap.parse_args()
     st = json.loads((ROOT / "data" / "structure" / f"{a.vol}.json").read_text())
-    toc = parse_toc(a.vol, st["back"]["contents"], st["chapters"])
+    toc = parse_toc(a.vol, st["back"]["contents"], st["chapters"], st.get("parts", []))
     (ROOT / "data" / "structure" / f"{a.vol}-toc.json").write_text(json.dumps(toc, ensure_ascii=False, indent=1))
     notes, body = tei_notes(a.vol)
     res = {"found": [], "misplaced": [], "in body": [], "missing": []}
@@ -107,13 +114,19 @@ def main():
     near = lambda tp, k: notes[k]["page"] is not None and abs(notes[k]["page"] - tp["page"]) <= 1
     topics = [tp for ch in toc for tp in ch["topics"]]
     match = {}
+
+    def score(topic, note, strict):
+        """Fuzzy ratio; a TOC series elides its common part ("Consignationen 1750 321, 1751 324",
+        "Tävlingarna 687, I skaldekonst 690"), so a sidenote that ends with the topic counts too."""
+        t, n = topic.lower().strip(" .,:"), note.lower().strip(" .,:")
+        return max(fuzz.ratio(t, n), 85 if strict and len(t) >= 4 and n.endswith(" " + t) else 0)
     # pass 1: a sidenote on the TOC page (±1); pass 2: best ratio anywhere, nearer page breaking ties
     # (topics recur: Verelius 131 and 262; similar ones must not cascade: Resor 1669, Resor 1670, ...)
     for strict in (True, False):
         for ti, tp in enumerate(topics):
             if ti in match:
                 continue
-            cands = [(max(fuzz.ratio(f.lower(), n["text"].lower()) for f in (tp["topic"], tp.get("full", tp["topic"]))), k)
+            cands = [(max(score(f, n["text"], strict) for f in (tp["topic"], tp.get("full", tp["topic"]))), k)
                      for k, n in enumerate(notes)
                      if k not in used and (near(tp, k) or not strict)]
             cands = [c for c in cands if c[0] >= 80]

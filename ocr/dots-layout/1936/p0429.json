@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 429,
+ "seconds": 27.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [918, 248, 1311, 284], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [590, 318, 1639, 444], \"category\": \"Text\", \"text\": \"Är något deruti, som kan nyttias, räknar iag mig det för en lycka och ej mindre ära. Stockholm d. 15 December 1773» (Kanslikoll. Inkomna skrivelser sign. E IV. 10 a).\"}, {\"bbox\": [590, 444, 1642, 1391], \"category\": \"Text\", \"text\": \"Det bifogade yttrandet är nästan en avhandling i heraldik, och på grundvalen av detta avgav kanslikollegiet sitt yttrande den 9 maj 1774. Detta blev likväl den 27 juni återremitterat till kollegiet med befallning »att närmare pröfwa de grunder, som Collegium härutinnan fölgt samt till efterrättelse nyttia Le Miroir d'honneur et de chevallerie». Den 15 december 1774 hemställde då kansli-rådet af Bierkén, »om icke Kongl. Collegium wille updraga Hr. Cantzlie Rådet och Riddaren Berk, hwars utlåtande Kongl. Collegium nyttjadt vid Instructionens författande, att nu äfven verkställa ofvannemde jemförelse. Kongl. Collegium fant i anledning häraf för godt att anmoda herr Cantzlie Rådet Berk att i mårgon upkomma.» Berch åtog sig uppdraget, och vid sammanträdet den 13 februari 1775 »inkom herr Cantzli Rådet Berch och anmälte, det han i följe af Kongl. Collegii honom gifne befallning skrifteligen författadt sina tankar öfver adeliga vapens första origine och prydnader, ehuruwäl herr cantzli Rådet ej kunnat igenfinna en bok kallad Le Miroir de l'honneur et de la chevallerie såsom dervid till någon uplysning tjenande, utan i det stället funnit en under namn af Theatre de l'honneur et de la chevallerie par Favin. Detta herr Cantzli Rådets yttrande blef sedan upläst, och skulle vid det härom till afgifvande underd. Betänckande en afskrift deraf bifogas, men originalet vid Protocollet förvaras. Herr Cantzli Rådet afträdde.»\"}, {\"bbox\": [593, 1396, 1642, 1522], \"category\": \"Text\", \"text\": \"Det segslitna ärendet rann emellertid ut i sanden, ty någon instruktion för riksheraldikern blev nu ej utfärdad, och förslaget hade endast vållat Berch ett icke ringa besvär.\"}, {\"bbox\": [596, 1807, 675, 1845], \"category\": \"Page-footer\", \"text\": \"410\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    918,
+    248,
+    1311,
+    284
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    590,
+    318,
+    1639,
+    444
+   ],
+   "category": "Text",
+   "text": "Är något deruti, som kan nyttias, räknar iag mig det för en lycka och ej mindre ära. Stockholm d. 15 December 1773» (Kanslikoll. Inkomna skrivelser sign. E IV. 10 a)."
+  },
+  {
+   "bbox": [
+    590,
+    444,
+    1642,
+    1391
+   ],
+   "category": "Text",
+   "text": "Det bifogade yttrandet är nästan en avhandling i heraldik, och på grundvalen av detta avgav kanslikollegiet sitt yttrande den 9 maj 1774. Detta blev likväl den 27 juni återremitterat till kollegiet med befallning »att närmare pröfwa de grunder, som Collegium härutinnan fölgt samt till efterrättelse nyttia Le Miroir d'honneur et de chevallerie». Den 15 december 1774 hemställde då kansli-rådet af Bierkén, »om icke Kongl. Collegium wille updraga Hr. Cantzlie Rådet och Riddaren Berk, hwars utlåtande Kongl. Collegium nyttjadt vid Instructionens författande, att nu äfven verkställa ofvannemde jemförelse. Kongl. Collegium fant i anledning häraf för godt att anmoda herr Cantzlie Rådet Berk att i mårgon upkomma.» Berch åtog sig uppdraget, och vid sammanträdet den 13 februari 1775 »inkom herr Cantzli Rådet Berch och anmälte, det han i följe af Kongl. Collegii honom gifne befallning skrifteligen författadt sina tankar öfver adeliga vapens första origine och prydnader, ehuruwäl herr cantzli Rådet ej kunnat igenfinna en bok kallad Le Miroir de l'honneur et de la chevallerie såsom dervid till någon uplysning tjenande, utan i det stället funnit en under namn af Theatre de l'honneur et de la chevallerie par Favin. Detta herr Cantzli Rådets yttrande blef sedan upläst, och skulle vid det härom till afgifvande underd. Betänckande en afskrift deraf bifogas, men originalet vid Protocollet förvaras. Herr Cantzli Rådet afträdde.»"
+  },
+  {
+   "bbox": [
+    593,
+    1396,
+    1642,
+    1522
+   ],
+   "category": "Text",
+   "text": "Det segslitna ärendet rann emellertid ut i sanden, ty någon instruktion för riksheraldikern blev nu ej utfärdad, och förslaget hade endast vållat Berch ett icke ringa besvär."
+  },
+  {
+   "bbox": [
+    596,
+    1807,
+    675,
+    1845
+   ],
+   "category": "Page-footer",
+   "text": "410"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+  "vol": "1936",
+  "part": "V",
+  "title": "Kgl. Vitterhets historie och antikvitets akademien. Dess förhistoria och historia",
+  "volume_title": "Antikvitetsarkivet II",
+  "note": "Chapters and parts from the table of contents (images 750-751, pp. 719-720, text layer) and the chapter headings recognised by dots.mocr. Images 1-4: digitisation notice (Göteborgs universitetsbibliotek), binding and front endpapers; 5-7, 9, 11, 13: blank leaves; 8: the original printed wrapper (Stockholm 1936), bound in; 10: half-title; 12: title page. Part I, Berchs tid: title leaf image 14, then a blank leaf (15), the frontispiece portrait of Carl Reinhold Berch (16) and a blank leaf (17). Part II, Avvecklingen: title on p. 625 (image 654) between blank pp. 624 and 626. Unpaginated plates, each with a blank verso: 338/339, 452/453, 466/467, 492/493, 502/503, 560/561, 662/663. Images 378-379 (pp. 359-360, tables) loop in dots.mocr and come from the text layer. 752: colophon (Uppsala 1936), no errata list; 753-756, 758-760 blank leaves; 757 the printed back wrapper; 761-763 back endpapers and binding.",
+  "parts": [
+    {"title": "Berchs tid", "chapter": 1, "leaves": [14, 15, 16, 17]},
+    {"title": "Avvecklingen", "chapter": 627, "leaves": [653, 654, 655]}
+  ],
+  "chapters": [
+    {"title": "Antikvitetsarkivet 1747–1751", "page": 1},
+    {"title": "Antikvitetsarkivet och biblioteket 1751–1766", "page": 93},
+    {"title": "Arkivet och biblioteket under riksdagen 1765–1766", "page": 235},
+    {"title": "Berchs sista tid (1766–1778)", "page": 260},
+    {"title": "Arbetet inom arkivet", "page": 320},
+    {"title": "Fornvård och resor", "page": 411},
+    {"title": "Fynd och nyförvärv", "page": 507},
+    {"title": "Antikvitetsarkivets skrifter", "page": 554},
+    {"title": "Antikvitetsarkivet 1778–1786", "page": 627},
+    {"title": "Vitterhetsakademien", "page": 672},
+    {"title": "Vitterhetsakademiens ombildning", "page": 710}
+  ],
+  "front": {
+    "binding": [1, 2, 3, 4, 8],
+    "halftitle": [10],
+    "titlepage": [12]
+  },
+  "back": {
+    "contents": [750, 751],
+    "colophon_errata": [752],
+    "binding": [757, 761, 762, 763]
+  },
+  "errata": []
+}

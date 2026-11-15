@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 109,
+ "seconds": 26.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [846, 283, 1243, 317], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [516, 353, 1560, 645], \"category\": \"Text\", \"text\": \"fått ersättning — om den var »skälig», kunde däremot diskuteras, beroende på olika uppfattning av arbetets värde. Vidare hade Göransson verkligen fått utgiva Sveriges runstenar, men däremot icke sina egna fantasterier. Riksdagen var väl ej fullt belåten med det sätt, på vilket man tolkat dess skrivelse, men lät vid saken bero, och då den ånyo sammanträdde, avlät den till Kungl. Maj:t den 4 juni 1752 följande brev:\"}, {\"bbox\": [512, 644, 1560, 1305], \"category\": \"Text\", \"text\": \"»Hos Riksens Ständer är ibland annat uti behörigit öfwerwägande kommit angående en skjälig belöning för Magister Johan Jöransson för hans sedan sista Riksdag uppå Riksens Ständers då aflåtne underdåniga begäran wid Kongl. Antiquitets Collegium wiste myckna insigt och flit medelst de der befintelige Runstenars afritande och utgifwande. Riksens Ständer, som desutan hafwa sig Magister Jöranssons wackra framsteg i sina öfrige Studier och stilla upförande bekant, önskade, at han til sin skjälige belöning för berörde arbete fått njuta Riksens Ständers honom wid förra Riksdagen meddelte underdånige föreskrifft til godo, men som sådant ei befinnes wara skedt och Riksens Ständer nog öma at nu för tiden belasta Stats-Wercket med sådane Extra utgifter; Så anhålla hos Eder Kongl. Maj:t Riksens Ständer i underdånighet, det täcktes Eder Kongl. Maj:t i nåder anbefalla Consistorium i Carlstad at wid förslagers uprättande til ledige Pastorater hafwa honom, Magister Jöransson, i behörig åtancka.»\"}, {\"bbox\": [516, 1305, 1560, 1512], \"category\": \"Text\", \"text\": \"Göransson fick naturligtvis en dylik rekommendation samt utnämndes 1754 till kyrkoherde i Gillberga i Värmland. Utan tvivel var detta den bästa lösningen av frågan. Ty Göransson var en hederlig och from man, som vida bättre passade för kyrkan än för vetenskapen.\"}, {\"bbox\": [516, 1838, 565, 1875], \"category\": \"Page-footer\", \"text\": \"92\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    846,
+    283,
+    1243,
+    317
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    516,
+    353,
+    1560,
+    645
+   ],
+   "category": "Text",
+   "text": "fått ersättning — om den var »skälig», kunde däremot diskuteras, beroende på olika uppfattning av arbetets värde. Vidare hade Göransson verkligen fått utgiva Sveriges runstenar, men däremot icke sina egna fantasterier. Riksdagen var väl ej fullt belåten med det sätt, på vilket man tolkat dess skrivelse, men lät vid saken bero, och då den ånyo sammanträdde, avlät den till Kungl. Maj:t den 4 juni 1752 följande brev:"
+  },
+  {
+   "bbox": [
+    512,
+    644,
+    1560,
+    1305
+   ],
+   "category": "Text",
+   "text": "»Hos Riksens Ständer är ibland annat uti behörigit öfwerwägande kommit angående en skjälig belöning för Magister Johan Jöransson för hans sedan sista Riksdag uppå Riksens Ständers då aflåtne underdåniga begäran wid Kongl. Antiquitets Collegium wiste myckna insigt och flit medelst de der befintelige Runstenars afritande och utgifwande. Riksens Ständer, som desutan hafwa sig Magister Jöranssons wackra framsteg i sina öfrige Studier och stilla upförande bekant, önskade, at han til sin skjälige belöning för berörde arbete fått njuta Riksens Ständers honom wid förra Riksdagen meddelte underdånige föreskrifft til godo, men som sådant ei befinnes wara skedt och Riksens Ständer nog öma at nu för tiden belasta Stats-Wercket med sådane Extra utgifter; Så anhålla hos Eder Kongl. Maj:t Riksens Ständer i underdånighet, det täcktes Eder Kongl. Maj:t i nåder anbefalla Consistorium i Carlstad at wid förslagers uprättande til ledige Pastorater hafwa honom, Magister Jöransson, i behörig åtancka.»"
+  },
+  {
+   "bbox": [
+    516,
+    1305,
+    1560,
+    1512
+   ],
+   "category": "Text",
+   "text": "Göransson fick naturligtvis en dylik rekommendation samt utnämndes 1754 till kyrkoherde i Gillberga i Värmland. Utan tvivel var detta den bästa lösningen av frågan. Ty Göransson var en hederlig och from man, som vida bättre passade för kyrkan än för vetenskapen."
+  },
+  {
+   "bbox": [
+    516,
+    1838,
+    565,
+    1875
+   ],
+   "category": "Page-footer",
+   "text": "92"
+  }
+ ]
+}

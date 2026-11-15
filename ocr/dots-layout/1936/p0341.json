@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 341,
+ "seconds": 30.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [903, 257, 1302, 293], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [574, 328, 1628, 495], \"category\": \"Text\", \"text\": \"möterne uti Kongl. Antiquitets Archivo med deras arbeten hunnit, intygandes, att sedan Secreteraren Berch tillträdt detta verk, han arbetat med mycken flit på redighet och ordning och att ibland de senasta förbättringar woro:\"}, {\"bbox\": [576, 495, 1628, 620], \"category\": \"Text\", \"text\": \"1:0 att de gamla blyformer och medailler, som allenast tagit bort rummet onödigtwis, woro dädan skaffade och till Hennes Kongl. Höghet aflefwererade, i fall deribland något wore att nyttjas.\"}, {\"bbox\": [576, 620, 1628, 786], \"category\": \"Text\", \"text\": \"2:do att af de nyare medailler, hwaraf efter Kongl. Maj:tts nådigsta befallning, allt efter som de slås i myntet, ett stycke till Antiquitets Archivum kommer att afgifwas, woro redan 43 stycken i god ordning samlade.\"}, {\"bbox\": [576, 786, 1628, 993], \"category\": \"Text\", \"text\": \"3:tio att af det förråd böcker, som hitintills förwarats uti Antiquitets Archivet, woro efter en särskild förtekning ungefärligen 200 Volumina till Kongl. Bibliothequet emot quittence aflämnade, hwarest de förr ej funnits och hwaribland woro åtskilliga rara och uti 15. Seculo tryckta.\"}, {\"bbox\": [576, 993, 1628, 1110], \"category\": \"Text\", \"text\": \"4:0 att på de öfwer Hans Kongl. Maj:tt slagna Medailler, hwilka Ritmästaren Wendelius hölle på att afrita, författar Secreteraren Berch en kort historia.\"}, {\"bbox\": [576, 1115, 1628, 1614], \"category\": \"Text\", \"text\": \"Huru långt assessoren Richardson hunnit med sin historia öfwer Halland, wore Kongl. Collegium utaf det deraf uppwista exemplaret bekant, hwarwid Herr Baron och Presidenten anmerkte den olägenhet wara, att Richardson ganska mycket skyndade på Kopparstyckens afstickande, som redan in alles kostat 2200 Dr. Kmt., men att beskrifningarne deröfwer på långt när ej wore färdige, och skulle denne omkostnad alldeles wara förlorad, i fall Auctoren ej fullkomnade beskrifningen, I anseende hwartill Herr Baron och Presidenten i förhoppning af Kongl. Collegii approbation hade förfogat den anstalt, att Secreteraren Berch inga pengar till nya kopparstyckens förfärdigande måtte utassignera, innan Auctorn förrut uppwist beskrifningen derpå.\"}, {\"bbox\": [582, 1614, 1628, 1696], \"category\": \"Text\", \"text\": \"Kongl. Collegium biföll detta, och att Extractum protocolli till Antiquitets Archivum härom kommer att utfärdas.\"}, {\"bbox\": [582, 1696, 1628, 1778], \"category\": \"Text\", \"text\": \"Om Assessoren Hagelbergs göromål berättade Herr Baron och Presidenten, att han med sitt mödosamma och långwariga arbete\"}, {\"bbox\": [585, 1815, 659, 1853], \"category\": \"Page-footer\", \"text\": \"322\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    903,
+    257,
+    1302,
+    293
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    574,
+    328,
+    1628,
+    495
+   ],
+   "category": "Text",
+   "text": "möterne uti Kongl. Antiquitets Archivo med deras arbeten hunnit, intygandes, att sedan Secreteraren Berch tillträdt detta verk, han arbetat med mycken flit på redighet och ordning och att ibland de senasta förbättringar woro:"
+  },
+  {
+   "bbox": [
+    576,
+    495,
+    1628,
+    620
+   ],
+   "category": "Text",
+   "text": "1:0 att de gamla blyformer och medailler, som allenast tagit bort rummet onödigtwis, woro dädan skaffade och till Hennes Kongl. Höghet aflefwererade, i fall deribland något wore att nyttjas."
+  },
+  {
+   "bbox": [
+    576,
+    620,
+    1628,
+    786
+   ],
+   "category": "Text",
+   "text": "2:do att af de nyare medailler, hwaraf efter Kongl. Maj:tts nådigsta befallning, allt efter som de slås i myntet, ett stycke till Antiquitets Archivum kommer att afgifwas, woro redan 43 stycken i god ordning samlade."
+  },
+  {
+   "bbox": [
+    576,
+    786,
+    1628,
+    993
+   ],
+   "category": "Text",
+   "text": "3:tio att af det förråd böcker, som hitintills förwarats uti Antiquitets Archivet, woro efter en särskild förtekning ungefärligen 200 Volumina till Kongl. Bibliothequet emot quittence aflämnade, hwarest de förr ej funnits och hwaribland woro åtskilliga rara och uti 15. Seculo tryckta."
+  },
+  {
+   "bbox": [
+    576,
+    993,
+    1628,
+    1110
+   ],
+   "category": "Text",
+   "text": "4:0 att på de öfwer Hans Kongl. Maj:tt slagna Medailler, hwilka Ritmästaren Wendelius hölle på att afrita, författar Secreteraren Berch en kort historia."
+  },
+  {
+   "bbox": [
+    576,
+    1115,
+    1628,
+    1614
+   ],
+   "category": "Text",
+   "text": "Huru långt assessoren Richardson hunnit med sin historia öfwer Halland, wore Kongl. Collegium utaf det deraf uppwista exemplaret bekant, hwarwid Herr Baron och Presidenten anmerkte den olägenhet wara, att Richardson ganska mycket skyndade på Kopparstyckens afstickande, som redan in alles kostat 2200 Dr. Kmt., men att beskrifningarne deröfwer på långt när ej wore färdige, och skulle denne omkostnad alldeles wara förlorad, i fall Auctoren ej fullkomnade beskrifningen, I anseende hwartill Herr Baron och Presidenten i förhoppning af Kongl. Collegii approbation hade förfogat den anstalt, att Secreteraren Berch inga pengar till nya kopparstyckens förfärdigande måtte utassignera, innan Auctorn förrut uppwist beskrifningen derpå."
+  },
+  {
+   "bbox": [
+    582,
+    1614,
+    1628,
+    1696
+   ],
+   "category": "Text",
+   "text": "Kongl. Collegium biföll detta, och att Extractum protocolli till Antiquitets Archivum härom kommer att utfärdas."
+  },
+  {
+   "bbox": [
+    582,
+    1696,
+    1628,
+    1778
+   ],
+   "category": "Text",
+   "text": "Om Assessoren Hagelbergs göromål berättade Herr Baron och Presidenten, att han med sitt mödosamma och långwariga arbete"
+  },
+  {
+   "bbox": [
+    585,
+    1815,
+    659,
+    1853
+   ],
+   "category": "Page-footer",
+   "text": "322"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 656,
+ "seconds": 27.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [275, 541, 959, 590], \"category\": \"Section-header\", \"text\": \"ANTIKVITETSARKIVET 1778—1786.\"}, {\"bbox\": [87, 653, 1139, 1649], \"category\": \"Text\", \"text\": \"Genom det kungliga brevet av den 23 januari 1775 (se förut sid. 316) hade bestämts, att riks- och antikvitetsarkiven vid Berchs avgång skulle ställas under en enda arkivsekreterare, d. v. s. sammanslås. Och detta kungabrev hade icke blivit återkallat. Vid Berchs frånfälle den 22 december 1777 borde således sekreteraren Strand i riksarkivet utan vidare hava tillträtt platsen såsom chef även för antikvitetsarkivet. Men så skedde icke, och i stället fick kanslikollegiet befallning att anslå platsen till ansökan ledig. Något kungligt brev härom till kanslikollegiet finnes emellertid icke i registraturet och omtalas ej heller i kanslikollegiets protokoll. Men faktum är emellertid säkert, ty kanslikollegiets skrivelse till Kungl. Maj:t den 17 februari 1778 börjar: »Eder Kongl. May:t har i nåder låtit anbefalla dess och Riksens Cantzli Collegium at inkomma med underdånigt förslag till den efter afledne Cantzli-Rådet och Riddaren Berch lediga syssla wid Kungl. Antiquitets Archivum». Antagligen har denna befallning därför blott skett muntligen genom kanslipresidenten, och genom den nya stat, som utfärdats den 24 januari 1778 och till vilken vi strax skola återkomma, ansåg förmodligen regeringen, att det föregående kungabrevet av den 23 januari 1775 upphävts, ty i den nya staten upptages »en antiquarie och translator af gamla språken» — antagligen genom ett förbiseende i stiliseringen, ty den gamla titel, som Berch hade, var »secreterare och antiquarius», och translatorsplatsen innehades av Gagnerus.\"}, {\"bbox\": [87, 1648, 1132, 1782], \"category\": \"Text\", \"text\": \"I varje fall anslogs platsen ledig, och till denna upprättades den 17 februari 1778 ett förslag upptagande tre namn. Kanslikollegiets skrivelse — efter de nyss citerade inledningsorden — lyder:\"}, {\"bbox\": [1146, 671, 1270, 759], \"category\": \"Text\", \"text\": \"Antikvarieplatsen tillsättes\"}, {\"bbox\": [1050, 1808, 1127, 1858], \"category\": \"Page-footer\", \"text\": \"627\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    275,
+    541,
+    959,
+    590
+   ],
+   "category": "Section-header",
+   "text": "ANTIKVITETSARKIVET 1778—1786."
+  },
+  {
+   "bbox": [
+    87,
+    653,
+    1139,
+    1649
+   ],
+   "category": "Text",
+   "text": "Genom det kungliga brevet av den 23 januari 1775 (se förut sid. 316) hade bestämts, att riks- och antikvitetsarkiven vid Berchs avgång skulle ställas under en enda arkivsekreterare, d. v. s. sammanslås. Och detta kungabrev hade icke blivit återkallat. Vid Berchs frånfälle den 22 december 1777 borde således sekreteraren Strand i riksarkivet utan vidare hava tillträtt platsen såsom chef även för antikvitetsarkivet. Men så skedde icke, och i stället fick kanslikollegiet befallning att anslå platsen till ansökan ledig. Något kungligt brev härom till kanslikollegiet finnes emellertid icke i registraturet och omtalas ej heller i kanslikollegiets protokoll. Men faktum är emellertid säkert, ty kanslikollegiets skrivelse till Kungl. Maj:t den 17 februari 1778 börjar: »Eder Kongl. May:t har i nåder låtit anbefalla dess och Riksens Cantzli Collegium at inkomma med underdånigt förslag till den efter afledne Cantzli-Rådet och Riddaren Berch lediga syssla wid Kungl. Antiquitets Archivum». Antagligen har denna befallning därför blott skett muntligen genom kanslipresidenten, och genom den nya stat, som utfärdats den 24 januari 1778 och till vilken vi strax skola återkomma, ansåg förmodligen regeringen, att det föregående kungabrevet av den 23 januari 1775 upphävts, ty i den nya staten upptages »en antiquarie och translator af gamla språken» — antagligen genom ett förbiseende i stiliseringen, ty den gamla titel, som Berch hade, var »secreterare och antiquarius», och translatorsplatsen innehades av Gagnerus."
+  },
+  {
+   "bbox": [
+    87,
+    1648,
+    1132,
+    1782
+   ],
+   "category": "Text",
+   "text": "I varje fall anslogs platsen ledig, och till denna upprättades den 17 februari 1778 ett förslag upptagande tre namn. Kanslikollegiets skrivelse — efter de nyss citerade inledningsorden — lyder:"
+  },
+  {
+   "bbox": [
+    1146,
+    671,
+    1270,
+    759
+   ],
+   "category": "Text",
+   "text": "Antikvarieplatsen tillsättes"
+  },
+  {
+   "bbox": [
+    1050,
+    1808,
+    1127,
+    1858
+   ],
+   "category": "Page-footer",
+   "text": "627"
+  }
+ ]
+}

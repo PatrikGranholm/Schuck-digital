@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 743,
+ "seconds": 30.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [850, 255, 1246, 290], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [520, 325, 1565, 451], \"category\": \"Text\", \"text\": \"behövdes för den plan, han nu uppgjort. Därigenom kunde han dessutom giva den akademi, han tänkte stifta, ett ekonomiskt underlag, nämligen det i staten upptagna anslaget till antikvitetsarkivet.\"}, {\"bbox\": [520, 451, 1565, 1320], \"category\": \"Text\", \"text\": \"Planen var, som man härav finner, uppgjord redan 1777. Men under Lovisa Ulrikas livstid kunde den naturligtvis ej sättas i verket, knappast heller omedelbart efter hennes död, och Gustaf III dröjde därför ända till den 20 mars 1786, innan han gjorde slag i saken. Vad antikvitetsarkivet beträffar, blev förändringen mycket enkel och obetydlig. Det gamla antikvitetskollegiet hade haft Magnus Gabriel de la Gardie till sin högste styresman, antikvitetsarkivet hade ställts under kanslipresidentens och kanslikollegiets »inseende». Det var endast detta inspektorat, som nu blev ett annat. Antikvitetsarkivet upplöstes icke, men i stället att stå under kanslikollegiet, vars befattning med arkivet nu upphörde, ställdes det under den nybildade akademiens. § 34 i Vitterhets-, Historie- och Antikvitetsakademiens stadgar lyder nämligen: »Academien har en Secreterare, som är Ledamot och räknas bland de Arbetandes antal, hvilken Konungen allena utnämner, emedan utom Academiens Arbeten honom blifver anförtrodt de mynt och Antiquiteter, som förvarats i Antiquitets-Collegio(!) och som nu lemnas i Academiens vård. Til hans biträde antages en Amanuens af Konungen, som ej behöfver, men kan vara Academiens Ledamot. Dessa bägge Tjenstemän skola undfå Lön efter den Stat och Donations lydelse, med hvilken Konungen begåfvar Academien.»\"}, {\"bbox\": [520, 1320, 1567, 1777], \"category\": \"Text\", \"text\": \"För själva instiftandet redogöres i det första bandet av Vitterhets-, Historie- och Antikvitetsakademiens Handlingar: »Den 20 Martii 1786 eller 33 år sedan Högtsalig Konung Adolph Fredric låtit utfärda Academiens första Lagar, täcktes Hans Kongl. Maj:t begifva Sig i Des Råd-Kammare och de in pleno församlade Herrar Riksens Råd tilkännagifva Sit nådiga beslut, låta upläsa de nya Statuterna samt den Donations Skrift, Hans Kongl. Maj:t för Academien låtit författa. — — — Den 20 Martii 1786 eftermiddagen infunno sig på Kongl. Maj:ts nådigste befallning de i Staden varande Ledamöter af Kongl. Vitterhets Academien — — — hvilka samlades i Galeriet en trappa up på Kongl. Slottet och sedermera\"}, {\"bbox\": [384, 1325, 518, 1474], \"category\": \"Text\", \"text\": \"Vitterhets-\\nHistorie- och\\nAntikvitets-\\nakademien\\nstiftas\"}, {\"bbox\": [527, 1813, 599, 1851], \"category\": \"Page-footer\", \"text\": \"712\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    850,
+    255,
+    1246,
+    290
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    520,
+    325,
+    1565,
+    451
+   ],
+   "category": "Text",
+   "text": "behövdes för den plan, han nu uppgjort. Därigenom kunde han dessutom giva den akademi, han tänkte stifta, ett ekonomiskt underlag, nämligen det i staten upptagna anslaget till antikvitetsarkivet."
+  },
+  {
+   "bbox": [
+    520,
+    451,
+    1565,
+    1320
+   ],
+   "category": "Text",
+   "text": "Planen var, som man härav finner, uppgjord redan 1777. Men under Lovisa Ulrikas livstid kunde den naturligtvis ej sättas i verket, knappast heller omedelbart efter hennes död, och Gustaf III dröjde därför ända till den 20 mars 1786, innan han gjorde slag i saken. Vad antikvitetsarkivet beträffar, blev förändringen mycket enkel och obetydlig. Det gamla antikvitetskollegiet hade haft Magnus Gabriel de la Gardie till sin högste styresman, antikvitetsarkivet hade ställts under kanslipresidentens och kanslikollegiets »inseende». Det var endast detta inspektorat, som nu blev ett annat. Antikvitetsarkivet upplöstes icke, men i stället att stå under kanslikollegiet, vars befattning med arkivet nu upphörde, ställdes det under den nybildade akademiens. § 34 i Vitterhets-, Historie- och Antikvitetsakademiens stadgar lyder nämligen: »Academien har en Secreterare, som är Ledamot och räknas bland de Arbetandes antal, hvilken Konungen allena utnämner, emedan utom Academiens Arbeten honom blifver anförtrodt de mynt och Antiquiteter, som förvarats i Antiquitets-Collegio(!) och som nu lemnas i Academiens vård. Til hans biträde antages en Amanuens af Konungen, som ej behöfver, men kan vara Academiens Ledamot. Dessa bägge Tjenstemän skola undfå Lön efter den Stat och Donations lydelse, med hvilken Konungen begåfvar Academien.»"
+  },
+  {
+   "bbox": [
+    520,
+    1320,
+    1567,
+    1777
+   ],
+   "category": "Text",
+   "text": "För själva instiftandet redogöres i det första bandet av Vitterhets-, Historie- och Antikvitetsakademiens Handlingar: »Den 20 Martii 1786 eller 33 år sedan Högtsalig Konung Adolph Fredric låtit utfärda Academiens första Lagar, täcktes Hans Kongl. Maj:t begifva Sig i Des Råd-Kammare och de in pleno församlade Herrar Riksens Råd tilkännagifva Sit nådiga beslut, låta upläsa de nya Statuterna samt den Donations Skrift, Hans Kongl. Maj:t för Academien låtit författa. — — — Den 20 Martii 1786 eftermiddagen infunno sig på Kongl. Maj:ts nådigste befallning de i Staden varande Ledamöter af Kongl. Vitterhets Academien — — — hvilka samlades i Galeriet en trappa up på Kongl. Slottet och sedermera"
+  },
+  {
+   "bbox": [
+    384,
+    1325,
+    518,
+    1474
+   ],
+   "category": "Text",
+   "text": "Vitterhets-\nHistorie- och\nAntikvitets-\nakademien\nstiftas"
+  },
+  {
+   "bbox": [
+    527,
+    1813,
+    599,
+    1851
+   ],
+   "category": "Page-footer",
+   "text": "712"
+  }
+ ]
+}

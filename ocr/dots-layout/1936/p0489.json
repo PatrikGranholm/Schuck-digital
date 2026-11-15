@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 489,
+ "seconds": 29.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [910, 244, 1303, 279], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [583, 315, 1626, 400], \"category\": \"Text\", \"text\": \"och Kyrckor et bättre utseende med tilhöriga utsikter öfwer nästliggande orter.\"}, {\"bbox\": [583, 398, 1626, 689], \"category\": \"Text\", \"text\": \"Dereffter uplästes Assessor Wessmans wid detta Memorial bifogade berättelse om de märkwärdigheter, han i akttagit på Resan til Skåne, Blekinge och Köpenhamn, hwarwid war fogad en förteckning uppå de saker, som han wid hemkomsten aflämnat til Antiquitets Archivi förwar, och upwistes tillika en Upsats på de Monumenter, som Assessoren åhr 1744 upsände ifrån Skåne til Antiquitets Archivum.\"}, {\"bbox\": [583, 688, 1626, 1097], \"category\": \"Text\", \"text\": \"Collegium förklarade sit nöje öfwer den berättelse, som Assessoren Wessman i så måtto författat öfwer den honom anbefaltte resan och hwad han til uplysning af Swenska Historien och antiquiteterne samlat. Men som detta alt kunde förtjena at med mera widlyfftighet utföras, hälst Riksens Ständer täkts bestå en dryg resekostnad til at undersöka och samla desse orters märkwärdigheter; Altså trodde Collegium, at Assessoren lärer härutinnan med all erfordelig flit söka fullgöra, hwad honom kan åligga och som kan lända Riksens Ständer til nöije; Hwilket skulle gifwas Assessoren tilkänna.»\"}, {\"bbox\": [583, 1102, 1626, 1763], \"category\": \"Text\", \"text\": \"Wessman skulle således på grundvalen av sina anteckningar utarbeta en utförlig antikvarisk reseberättelse och tyckes verkligen hava gripit sig an med arbetet, ty den 31 januari 1761 skrev Berch till kanslikollegiet: »Edre Excellencer samt Kgl. M:ts och Riksens Cantzlij-Collegium hafwer förmodeligen med wälbehag inhämtat utur Assessoren Wessmans ingifna Memorial, huru han nu är beredd at fortfara med utgifwandet af sina Skånska Samlingar, hwaraf för några år sedan twenne stycker eller så kallade Qwartaler kommo i dagsliuset. Han hafwer derjemte mig til igenomläsande lemnat det til aftryckning färdiga tredie Stycket, uti hwilket iag, effter mit begrep, ingen ting funnit, som kan hindra dess utgifwande; twärt om, at det torde wara begiärligit icke allenast i Skåne, utan ock flerastädes. Men som Författaren icke ser sig i stånd at giöra uplagan på egen omkostnad, såsom til de bägge förra delarne, ehuru han då fick åtskilliga prænumeranters understöd til fyra delar, och nu derföre anhåller om Förskott utaf Archivi Expensemedel, såsom\"}, {\"bbox\": [588, 1792, 665, 1839], \"category\": \"Page-footer\", \"text\": \"466\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    910,
+    244,
+    1303,
+    279
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    583,
+    315,
+    1626,
+    400
+   ],
+   "category": "Text",
+   "text": "och Kyrckor et bättre utseende med tilhöriga utsikter öfwer nästliggande orter."
+  },
+  {
+   "bbox": [
+    583,
+    398,
+    1626,
+    689
+   ],
+   "category": "Text",
+   "text": "Dereffter uplästes Assessor Wessmans wid detta Memorial bifogade berättelse om de märkwärdigheter, han i akttagit på Resan til Skåne, Blekinge och Köpenhamn, hwarwid war fogad en förteckning uppå de saker, som han wid hemkomsten aflämnat til Antiquitets Archivi förwar, och upwistes tillika en Upsats på de Monumenter, som Assessoren åhr 1744 upsände ifrån Skåne til Antiquitets Archivum."
+  },
+  {
+   "bbox": [
+    583,
+    688,
+    1626,
+    1097
+   ],
+   "category": "Text",
+   "text": "Collegium förklarade sit nöje öfwer den berättelse, som Assessoren Wessman i så måtto författat öfwer den honom anbefaltte resan och hwad han til uplysning af Swenska Historien och antiquiteterne samlat. Men som detta alt kunde förtjena at med mera widlyfftighet utföras, hälst Riksens Ständer täkts bestå en dryg resekostnad til at undersöka och samla desse orters märkwärdigheter; Altså trodde Collegium, at Assessoren lärer härutinnan med all erfordelig flit söka fullgöra, hwad honom kan åligga och som kan lända Riksens Ständer til nöije; Hwilket skulle gifwas Assessoren tilkänna.»"
+  },
+  {
+   "bbox": [
+    583,
+    1102,
+    1626,
+    1763
+   ],
+   "category": "Text",
+   "text": "Wessman skulle således på grundvalen av sina anteckningar utarbeta en utförlig antikvarisk reseberättelse och tyckes verkligen hava gripit sig an med arbetet, ty den 31 januari 1761 skrev Berch till kanslikollegiet: »Edre Excellencer samt Kgl. M:ts och Riksens Cantzlij-Collegium hafwer förmodeligen med wälbehag inhämtat utur Assessoren Wessmans ingifna Memorial, huru han nu är beredd at fortfara med utgifwandet af sina Skånska Samlingar, hwaraf för några år sedan twenne stycker eller så kallade Qwartaler kommo i dagsliuset. Han hafwer derjemte mig til igenomläsande lemnat det til aftryckning färdiga tredie Stycket, uti hwilket iag, effter mit begrep, ingen ting funnit, som kan hindra dess utgifwande; twärt om, at det torde wara begiärligit icke allenast i Skåne, utan ock flerastädes. Men som Författaren icke ser sig i stånd at giöra uplagan på egen omkostnad, såsom til de bägge förra delarne, ehuru han då fick åtskilliga prænumeranters understöd til fyra delar, och nu derföre anhåller om Förskott utaf Archivi Expensemedel, såsom"
+  },
+  {
+   "bbox": [
+    588,
+    1792,
+    665,
+    1839
+   ],
+   "category": "Page-footer",
+   "text": "466"
+  }
+ ]
+}

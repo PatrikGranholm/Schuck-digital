@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 112,
+ "seconds": 29.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [198, 247, 1068, 289], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet och Biblioteket 1751—1766\"}, {\"bbox\": [105, 318, 1159, 692], \"category\": \"Text\", \"text\": \"medii ævi och nyare manuscripter, deröfwer upsätta goda repertorier samt til sig taga och i ordning hålla extracterna, som göras af de äldre historiska handskrefna böcker. I fall af de redan utgifne Chrönikor flere handskrefne uti de sednare tider inlupit, har han at Collationera dem, icke så mycket för variantium lectionum skull som fastmera til at supplera lacunas, kunnandes intet twifwel wara, at den, som med flit och skickelighet sin tid uppå denna delen af antiquitets archivi göromål anwänder, lärer til det allmännas nytta frambringa i liuset Chronica, som nu ligga i mörkret.\"}, {\"bbox\": [105, 692, 1159, 1347], \"category\": \"Text\", \"text\": \"Denne Bibliothecarien har jemwäl under sin wård gamla lagböcker och Codices af Latinska och Grækiska authorer, om de framdeles fås skulle. Han har ock att utgifwa något uti gamla Swenska Geographien och Topographien, uti hwilka wettenskaper åtskilliga wackra arbeten uti andra länder äro utkomne. Till honom höra jemwäl Runstenarnes afritningar, indelte efter Provintserne. Flere böra ännu tagas, och har han, på samma sätt som Peringschöld utgifwit minnesmärken öfwer Uppland, att fullfölja detta arbete öfwer de öfrige Provintserne, hwarutinnan han genom en flitig brefväxling med presterskapet, som hwar å sin ort bör hafwa uti slika ämnen den närmaste kunskap, en nyttig handräckning lärer hafwa at förwänta, til hwilken ända honom tillåtes at nyttja Cantzli Collegii fribrefsbok. Han kan ock hos Collegium wid sådana tilfällen sig anmäla, enär någre Commissioner i landsorterne förordnas, at någon förfaren måtte gifwas med utur antiquitets archivo til at afrita märkwärdige ställen, då sådant med minsta omkostnad skulle ske.\"}, {\"bbox\": [108, 1352, 1159, 1768], \"category\": \"Text\", \"text\": \"Den tredje Bibliothecarien har att öfwersätta Sagor eller dem extrahera. De böra wäl alla wara uti en Catalogo upskrifne och korteligen nämdt, hwad ämne de drifwa, men alla förtiena icke att öfwersättas och än mindre med kostnad allmäne göras. Som någre äro goda nordiska historier, skrifarten mer eller mindre poetisk och wärde at läsas, andra åter ofullkomlige utdrag af hwad gamla främmande skribenter långt bättre utfört, så ankommer det uppå et moget utrönande af Translatorn. Han kan under stundom uti de onyttigaste sagor finna märkwärdiga ställen om de gamlas mening i Religion och sedoläran, deras allmänna lefnadssätt, beskrifningar om\"}, {\"bbox\": [1104, 1804, 1152, 1842], \"category\": \"Page-footer\", \"text\": \"95\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    198,
+    247,
+    1068,
+    289
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet och Biblioteket 1751—1766"
+  },
+  {
+   "bbox": [
+    105,
+    318,
+    1159,
+    692
+   ],
+   "category": "Text",
+   "text": "medii ævi och nyare manuscripter, deröfwer upsätta goda repertorier samt til sig taga och i ordning hålla extracterna, som göras af de äldre historiska handskrefna böcker. I fall af de redan utgifne Chrönikor flere handskrefne uti de sednare tider inlupit, har han at Collationera dem, icke så mycket för variantium lectionum skull som fastmera til at supplera lacunas, kunnandes intet twifwel wara, at den, som med flit och skickelighet sin tid uppå denna delen af antiquitets archivi göromål anwänder, lärer til det allmännas nytta frambringa i liuset Chronica, som nu ligga i mörkret."
+  },
+  {
+   "bbox": [
+    105,
+    692,
+    1159,
+    1347
+   ],
+   "category": "Text",
+   "text": "Denne Bibliothecarien har jemwäl under sin wård gamla lagböcker och Codices af Latinska och Grækiska authorer, om de framdeles fås skulle. Han har ock att utgifwa något uti gamla Swenska Geographien och Topographien, uti hwilka wettenskaper åtskilliga wackra arbeten uti andra länder äro utkomne. Till honom höra jemwäl Runstenarnes afritningar, indelte efter Provintserne. Flere böra ännu tagas, och har han, på samma sätt som Peringschöld utgifwit minnesmärken öfwer Uppland, att fullfölja detta arbete öfwer de öfrige Provintserne, hwarutinnan han genom en flitig brefväxling med presterskapet, som hwar å sin ort bör hafwa uti slika ämnen den närmaste kunskap, en nyttig handräckning lärer hafwa at förwänta, til hwilken ända honom tillåtes at nyttja Cantzli Collegii fribrefsbok. Han kan ock hos Collegium wid sådana tilfällen sig anmäla, enär någre Commissioner i landsorterne förordnas, at någon förfaren måtte gifwas med utur antiquitets archivo til at afrita märkwärdige ställen, då sådant med minsta omkostnad skulle ske."
+  },
+  {
+   "bbox": [
+    108,
+    1352,
+    1159,
+    1768
+   ],
+   "category": "Text",
+   "text": "Den tredje Bibliothecarien har att öfwersätta Sagor eller dem extrahera. De böra wäl alla wara uti en Catalogo upskrifne och korteligen nämdt, hwad ämne de drifwa, men alla förtiena icke att öfwersättas och än mindre med kostnad allmäne göras. Som någre äro goda nordiska historier, skrifarten mer eller mindre poetisk och wärde at läsas, andra åter ofullkomlige utdrag af hwad gamla främmande skribenter långt bättre utfört, så ankommer det uppå et moget utrönande af Translatorn. Han kan under stundom uti de onyttigaste sagor finna märkwärdiga ställen om de gamlas mening i Religion och sedoläran, deras allmänna lefnadssätt, beskrifningar om"
+  },
+  {
+   "bbox": [
+    1104,
+    1804,
+    1152,
+    1842
+   ],
+   "category": "Page-footer",
+   "text": "95"
+  }
+ ]
+}

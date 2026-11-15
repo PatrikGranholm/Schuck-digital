@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 591,
+ "seconds": 29.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [904, 249, 1300, 286], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [573, 318, 1632, 1106], \"category\": \"Text\", \"text\": \"kan man med säkerhet säga, at Norrköping ännu icke var til. Men derföre hoppas jag likwäl, at wår nu så Hederwärde Stad icke skal förlora mera af sin wördige Ålderdom än närwarande Glants». Det kan ju — fortsätter han — synas vågat att beröva östgötastäderna deras »förmente Forn-werld, endast för det, man icke förr uti Tideböckerna skulle finna dem nämnde». Men denna tilltagsenhet torde ursäktas hos en sanningskär skribent, som ej med vett och vilja önskar tillvälla sig det ringaste med orätt. Sin historia vill han därför bygga blott på tillförlitliga och samtida diplom. Tyvärr kan han dock icke konsekvent genomföra denna princip. Lika litet som samtiden i övrigt förstod han att skilja de verkligt historiska isländska sagorna från dem med ett mer eller mindre uppdiktat innehåll, och början av hans stads historia stöder sig på ett dylikt osäkert material. Först när han nått fram till den egentliga medeltiden, kan han vända sig till diplomen, ej blott till de redan i tryck av Hadorph utgivna, utan även till en mängd, som han själv uppspårat, i Östra Stens kyrkas pärmebok, i borgmästar Sundwalls och Langebeks avskriftssamlingar m. m. Man ser härav, vad han åtminstone velat.\"}, {\"bbox\": [441, 1106, 1635, 1524], \"category\": \"Text\", \"text\": \"Ingvars saga\\nKort därefter, 1762, följde hans andra i tryck utgivna arbete: Sagan om Ingvar Widtfarne och hans son Swen, från gamla Isländskan öfwersatt och Undersökning om wåre runstenars ålder i anledning af samma saga samt företal om sagans trowärdighet, hwaruti de förr hos oss utgifna sagors wärde tillika stadfestes, altsammans til nordiska historiens och språkets förbättring utgifwet af Nils Reinhold Brocman. I det väsentliga var även detta arbete avslutat redan före Brocmans anställning i antikvitetsarkivet i maj 1760, ehuru utgivandet kom att dröja, då han ännu ej avslutat sin undersökning av de s. k. Ingvarstenarna.\"}, {\"bbox\": [587, 1520, 1638, 1775], \"category\": \"Text\", \"text\": \"Hans upplaga var den första av denna saga. Valet av ämne var ej vidare lyckligt. Ingvars saga är nämligen en sen, fantastisk och ohistorisk saga från 1300-talet, och den mera kritiske Berch kunde ej underlåta att smått skämta med Brocmans smak för dylika sagor. Då Brocman strax efter sin utnämning på permission rest ned till Östergötland för att undersöka några Ingvarstenar, men ej i tid in-\"}, {\"bbox\": [592, 1802, 666, 1850], \"category\": \"Page-footer\", \"text\": \"562\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    904,
+    249,
+    1300,
+    286
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    573,
+    318,
+    1632,
+    1106
+   ],
+   "category": "Text",
+   "text": "kan man med säkerhet säga, at Norrköping ännu icke var til. Men derföre hoppas jag likwäl, at wår nu så Hederwärde Stad icke skal förlora mera af sin wördige Ålderdom än närwarande Glants». Det kan ju — fortsätter han — synas vågat att beröva östgötastäderna deras »förmente Forn-werld, endast för det, man icke förr uti Tideböckerna skulle finna dem nämnde». Men denna tilltagsenhet torde ursäktas hos en sanningskär skribent, som ej med vett och vilja önskar tillvälla sig det ringaste med orätt. Sin historia vill han därför bygga blott på tillförlitliga och samtida diplom. Tyvärr kan han dock icke konsekvent genomföra denna princip. Lika litet som samtiden i övrigt förstod han att skilja de verkligt historiska isländska sagorna från dem med ett mer eller mindre uppdiktat innehåll, och början av hans stads historia stöder sig på ett dylikt osäkert material. Först när han nått fram till den egentliga medeltiden, kan han vända sig till diplomen, ej blott till de redan i tryck av Hadorph utgivna, utan även till en mängd, som han själv uppspårat, i Östra Stens kyrkas pärmebok, i borgmästar Sundwalls och Langebeks avskriftssamlingar m. m. Man ser härav, vad han åtminstone velat."
+  },
+  {
+   "bbox": [
+    441,
+    1106,
+    1635,
+    1524
+   ],
+   "category": "Text",
+   "text": "Ingvars saga\nKort därefter, 1762, följde hans andra i tryck utgivna arbete: Sagan om Ingvar Widtfarne och hans son Swen, från gamla Isländskan öfwersatt och Undersökning om wåre runstenars ålder i anledning af samma saga samt företal om sagans trowärdighet, hwaruti de förr hos oss utgifna sagors wärde tillika stadfestes, altsammans til nordiska historiens och språkets förbättring utgifwet af Nils Reinhold Brocman. I det väsentliga var även detta arbete avslutat redan före Brocmans anställning i antikvitetsarkivet i maj 1760, ehuru utgivandet kom att dröja, då han ännu ej avslutat sin undersökning av de s. k. Ingvarstenarna."
+  },
+  {
+   "bbox": [
+    587,
+    1520,
+    1638,
+    1775
+   ],
+   "category": "Text",
+   "text": "Hans upplaga var den första av denna saga. Valet av ämne var ej vidare lyckligt. Ingvars saga är nämligen en sen, fantastisk och ohistorisk saga från 1300-talet, och den mera kritiske Berch kunde ej underlåta att smått skämta med Brocmans smak för dylika sagor. Då Brocman strax efter sin utnämning på permission rest ned till Östergötland för att undersöka några Ingvarstenar, men ej i tid in-"
+  },
+  {
+   "bbox": [
+    592,
+    1802,
+    666,
+    1850
+   ],
+   "category": "Page-footer",
+   "text": "562"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 198,
+ "seconds": 38.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [190, 256, 1059, 300], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet och Biblioteket 1751—1766\"}, {\"bbox\": [98, 327, 1152, 415], \"category\": \"Text\", \"text\": \"arbetade och lät i Upsala Vetenskaps-Societetens acter inflyta» (Kansli-koll. Inkomna skrivelser sign. E IV. 13).\"}, {\"bbox\": [98, 410, 1161, 1243], \"category\": \"Text\", \"text\": \"Detta inverkade likväl icke på kanslikollegiet. Men för att i någon mån soulagera Celsius utverkade man för honom en fullmakt som Kungl. bibliotekarie. Den daterades den 23 februari och lyder: »— — — Giöre Witterligit, at aldenstund Wårt och Riksens Cancellie Collegium OSS i underdånighet wid handen gifwit, huruledes amanuensis wid Wårt Bibliotheque här i Stockholm OSS älskelig Magnus Celsius har efter des mogna insikt i lärda wetenskaper med den skickelighet, åhåga och flit förrättat des syssla samt tillika, under den tid Bibliothecarien Dahlin uppå Riksens Ständers underdåniga tillstyrkande niuter ledighet från tienstgiörande, äfwen föreståt hela Bibliothequet, at han å ena sidan wäl förtient en nådig befordran till någon fördelachtigare beställning, men å andra ej utan mycken [olägenhet] ifrån bemälte wärk kan flyttas; ty hafwe Wij blifwit bewekte at ihogkomma honom med något tekn af det nådige nöje, hwarmed Wij hans i så måtto wiste wälförhållande anse och därmedelst låta honom wederfaras någon hugnad samt upmuntran at än widare med des nyttiga tienst wid Bibliothequet fortfara, och wele Wij till den endan härmed och i krafft af denne wår öpne fullmacht nådeligen hafwa förundt och tillagt honom Magnus Celsius namn och heder af Wår Bibliothecarius» (Riksregistraturet 23 febr. 1750).\"}, {\"bbox\": [107, 1238, 1165, 1741], \"category\": \"Text\", \"text\": \"Såsom härav framgår blev Celsius nu icke kungl. bibliotekarie, ty det var fortfarande Dalin, utan erhöll blott »namn och heder» av kungl. bibliotekarie, ehuru han fortfarande mot sin knappa amanuenslön fick sköta biblioteket. Så blevo de båda verken sammanslagna till ett, och 1752 dog lagman Lundberg, då hans assessorslön blev ledig. Denna tillträddes då av Hagelberg, och frågan var nu, huru man skulle förfara med translatorslönen. Det var två, som kunde göra anspråk på den: translator Wessman och bibliotekarien Celsius, vilka båda tillhörde verket och hade samma rang, båda såsom »bibliothecarier», såsom tjänsterna nu efter sammanslagningen hette. Den 9 juni ingav Celsius sin ansökan om platsen: »Sedan min förhoppning om den effter afl. Translator Harmens¹ ledige lönen i så måtto slagit\"}, {\"bbox\": [148, 1751, 964, 1785], \"category\": \"Footnote\", \"text\": \"¹ Platsen såsom translator regius hade indragits vid riksdagen 1751—1752.\"}, {\"bbox\": [1091, 1805, 1161, 1842], \"category\": \"Page-footer\", \"text\": \"181\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    190,
+    256,
+    1059,
+    300
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet och Biblioteket 1751—1766"
+  },
+  {
+   "bbox": [
+    98,
+    327,
+    1152,
+    415
+   ],
+   "category": "Text",
+   "text": "arbetade och lät i Upsala Vetenskaps-Societetens acter inflyta» (Kansli-koll. Inkomna skrivelser sign. E IV. 13)."
+  },
+  {
+   "bbox": [
+    98,
+    410,
+    1161,
+    1243
+   ],
+   "category": "Text",
+   "text": "Detta inverkade likväl icke på kanslikollegiet. Men för att i någon mån soulagera Celsius utverkade man för honom en fullmakt som Kungl. bibliotekarie. Den daterades den 23 februari och lyder: »— — — Giöre Witterligit, at aldenstund Wårt och Riksens Cancellie Collegium OSS i underdånighet wid handen gifwit, huruledes amanuensis wid Wårt Bibliotheque här i Stockholm OSS älskelig Magnus Celsius har efter des mogna insikt i lärda wetenskaper med den skickelighet, åhåga och flit förrättat des syssla samt tillika, under den tid Bibliothecarien Dahlin uppå Riksens Ständers underdåniga tillstyrkande niuter ledighet från tienstgiörande, äfwen föreståt hela Bibliothequet, at han å ena sidan wäl förtient en nådig befordran till någon fördelachtigare beställning, men å andra ej utan mycken [olägenhet] ifrån bemälte wärk kan flyttas; ty hafwe Wij blifwit bewekte at ihogkomma honom med något tekn af det nådige nöje, hwarmed Wij hans i så måtto wiste wälförhållande anse och därmedelst låta honom wederfaras någon hugnad samt upmuntran at än widare med des nyttiga tienst wid Bibliothequet fortfara, och wele Wij till den endan härmed och i krafft af denne wår öpne fullmacht nådeligen hafwa förundt och tillagt honom Magnus Celsius namn och heder af Wår Bibliothecarius» (Riksregistraturet 23 febr. 1750)."
+  },
+  {
+   "bbox": [
+    107,
+    1238,
+    1165,
+    1741
+   ],
+   "category": "Text",
+   "text": "Såsom härav framgår blev Celsius nu icke kungl. bibliotekarie, ty det var fortfarande Dalin, utan erhöll blott »namn och heder» av kungl. bibliotekarie, ehuru han fortfarande mot sin knappa amanuenslön fick sköta biblioteket. Så blevo de båda verken sammanslagna till ett, och 1752 dog lagman Lundberg, då hans assessorslön blev ledig. Denna tillträddes då av Hagelberg, och frågan var nu, huru man skulle förfara med translatorslönen. Det var två, som kunde göra anspråk på den: translator Wessman och bibliotekarien Celsius, vilka båda tillhörde verket och hade samma rang, båda såsom »bibliothecarier», såsom tjänsterna nu efter sammanslagningen hette. Den 9 juni ingav Celsius sin ansökan om platsen: »Sedan min förhoppning om den effter afl. Translator Harmens¹ ledige lönen i så måtto slagit"
+  },
+  {
+   "bbox": [
+    148,
+    1751,
+    964,
+    1785
+   ],
+   "category": "Footnote",
+   "text": "¹ Platsen såsom translator regius hade indragits vid riksdagen 1751—1752."
+  },
+  {
+   "bbox": [
+    1091,
+    1805,
+    1161,
+    1842
+   ],
+   "category": "Page-footer",
+   "text": "181"
+  }
+ ]
+}

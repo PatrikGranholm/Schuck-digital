@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 231,
+ "seconds": 21.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [898, 246, 1295, 282], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [570, 316, 1618, 608], \"category\": \"Text\", \"text\": \"gium sträkt sin omsorg derhän, at bem:te Collegium för en tid sedan updragit Riks Historiographen Magnus Celsius, såsom allment känd för kundskap och skickelighet, at en sådan beskrifning författa; men då han nu är i begrep at efter dess longa tiensteålder och rättighet blifwa flyttad till trägnare giöromål, så lärer han til detta icke hafwa tilräckeligit rådrum, och altså hafwa Riksens Ständer warit betänkte på ett annat ämne.\"}, {\"bbox\": [568, 606, 1618, 940], \"category\": \"Text\", \"text\": \"Detsamma hafwa Riksens Ständer funnit uti Amanuensen wid Kongl. Bibliothequet härstädes Anders Schönberg, som ifrån sin första ungdom winlagdt sig om kundskap uti Fäderneslandets Historia och urkunder. Han har och så wäl deruti som i andre witterhets delar redan åtskillige trykte Skriffter utgifwit och äger i öfrigit til fören:de Arbete all den ledighet, som erfordras; hwarföre ock han hälst under Kongl. Cancellie Collegii styrsel och inseende bör söka til alla delar upfylla detta med honom giorde wal.\"}, {\"bbox\": [565, 938, 1616, 1723], \"category\": \"Text\", \"text\": \"Men som ett så drygt wärk, om det skal bringas til behörig fullkomlighet, icke kan på kort tid fullbordas och således aldraminst tol, att Auctoren sig med annat sysslosätter, Så hafwa Riksens Ständer warit omtänckte, huru han derwid må fästas på et sätt, at han för sin upkomst icke må nödgas söka andre beställningar. Och detta tro Riksens Ständer lättast winnas, om Eders Kongl. Maij:t i nåder skulle täckas hugna honom Anders Schönberg med namn och Fullmagt af Historiographus Regius, til dess samma Syssla wärkel. blifwer ledig, då han dermed må hugnas; dock på det Kongl. Bibliothecarien Daniel Helsingius i anseende til dess alment bekante goda Egenskaper och långwarige tjenstetid må blifwa bibehållen wid dess för Schönberg ägande tour, Så anhålla Riksens Ständer i underdånighet, det Eder Kongl. Maij:t i nåder täcktes hugna Helsingius med Kongl. Secreterare Fullmagt samt låta honom undfå första wid Antiquitets Collegium ledig blifwande Assessors lön, til dess Bibliothecarie lönen blifwer ledig. Likaledes anse Riksens Ständer billigt, at Kongl. Bibliothecarien Wilde blifwer bibehållen wid sin tour framför Schönberg och äfwenledes undfår Kongl. Secreterare Fullmagt.\"}, {\"bbox\": [603, 1723, 1489, 1768], \"category\": \"Text\", \"text\": \"Riksens Ständer framhärda med diupaste wördnad etc.»\"}, {\"bbox\": [570, 1799, 646, 1837], \"category\": \"Page-footer\", \"text\": \"214\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    898,
+    246,
+    1295,
+    282
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    570,
+    316,
+    1618,
+    608
+   ],
+   "category": "Text",
+   "text": "gium sträkt sin omsorg derhän, at bem:te Collegium för en tid sedan updragit Riks Historiographen Magnus Celsius, såsom allment känd för kundskap och skickelighet, at en sådan beskrifning författa; men då han nu är i begrep at efter dess longa tiensteålder och rättighet blifwa flyttad till trägnare giöromål, så lärer han til detta icke hafwa tilräckeligit rådrum, och altså hafwa Riksens Ständer warit betänkte på ett annat ämne."
+  },
+  {
+   "bbox": [
+    568,
+    606,
+    1618,
+    940
+   ],
+   "category": "Text",
+   "text": "Detsamma hafwa Riksens Ständer funnit uti Amanuensen wid Kongl. Bibliothequet härstädes Anders Schönberg, som ifrån sin första ungdom winlagdt sig om kundskap uti Fäderneslandets Historia och urkunder. Han har och så wäl deruti som i andre witterhets delar redan åtskillige trykte Skriffter utgifwit och äger i öfrigit til fören:de Arbete all den ledighet, som erfordras; hwarföre ock han hälst under Kongl. Cancellie Collegii styrsel och inseende bör söka til alla delar upfylla detta med honom giorde wal."
+  },
+  {
+   "bbox": [
+    565,
+    938,
+    1616,
+    1723
+   ],
+   "category": "Text",
+   "text": "Men som ett så drygt wärk, om det skal bringas til behörig fullkomlighet, icke kan på kort tid fullbordas och således aldraminst tol, att Auctoren sig med annat sysslosätter, Så hafwa Riksens Ständer warit omtänckte, huru han derwid må fästas på et sätt, at han för sin upkomst icke må nödgas söka andre beställningar. Och detta tro Riksens Ständer lättast winnas, om Eders Kongl. Maij:t i nåder skulle täckas hugna honom Anders Schönberg med namn och Fullmagt af Historiographus Regius, til dess samma Syssla wärkel. blifwer ledig, då han dermed må hugnas; dock på det Kongl. Bibliothecarien Daniel Helsingius i anseende til dess alment bekante goda Egenskaper och långwarige tjenstetid må blifwa bibehållen wid dess för Schönberg ägande tour, Så anhålla Riksens Ständer i underdånighet, det Eder Kongl. Maij:t i nåder täcktes hugna Helsingius med Kongl. Secreterare Fullmagt samt låta honom undfå första wid Antiquitets Collegium ledig blifwande Assessors lön, til dess Bibliothecarie lönen blifwer ledig. Likaledes anse Riksens Ständer billigt, at Kongl. Bibliothecarien Wilde blifwer bibehållen wid sin tour framför Schönberg och äfwenledes undfår Kongl. Secreterare Fullmagt."
+  },
+  {
+   "bbox": [
+    603,
+    1723,
+    1489,
+    1768
+   ],
+   "category": "Text",
+   "text": "Riksens Ständer framhärda med diupaste wördnad etc.»"
+  },
+  {
+   "bbox": [
+    570,
+    1799,
+    646,
+    1837
+   ],
+   "category": "Page-footer",
+   "text": "214"
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 234,
+ "seconds": 30.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [192, 242, 1060, 284], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet och Biblioteket 1751—1766\"}, {\"bbox\": [98, 312, 1152, 648], \"category\": \"Text\", \"text\": \"tjenstgörande af alla wid Kongl. Bibliothequet och Antiquitets Archivum nu för tiden warande Bibliothecarier och Assessorer; Det han utom en femåra wärkelig tjenstetid som Bibliothecarius äfwen i nästan fulla trenne år biträdt wid Censors Embetets förrättande, hwarwid han dock endast måst åtnöija sig med den lilla lön, han förr innehaft såsom Historiographi Amanuensis m: m:, samt sluter i anledning häraf, att denna lön icke lärer kunna egenteligen anses för ledig, så länge de äldre ordinarie Betjenterne måste sakna sina löner.\"}, {\"bbox\": [100, 646, 1152, 931], \"category\": \"Text\", \"text\": \"Assessoren uti Antiquitets Archiwum P. Prael anhåller att såsom nu warande fjerde ordinarie Bibliothecarien blifwa hugnad med afl. Assessor Wessmans 3:de rum och lön på lika sätt, som wid andra Riksens Collegier i slika fall brukeligit är, hållandes i öfriget före äfwen som Kongl. Secreteraren Wilde, att berörde Lön icke kan såsom ledig anses, utan endast som en flytning ordinarie ledamöterna emellan.\"}, {\"bbox\": [100, 934, 1152, 1145], \"category\": \"Text\", \"text\": \"Kongl. Secreteraren Daniell Hellsingius anmäler, huruledes Kongl. Maij:t under d. 29 Junii sidstl. år på Riksens Ständers föreskrift tillslagit honom den först ledigblifwande lönen uti Antiquitets Collegio och i anseende dertill anhåller nu, att wid detta tillfälle blifwa ihogkommen.\"}, {\"bbox\": [100, 1142, 1152, 1269], \"category\": \"Text\", \"text\": \"Att uti detta mål få desto mera uplysning fants nödigt att höra Herr Cantzellie Rådet Berch, hwilken till den ändan uti Kongl. Collegio blef inkallad.\"}, {\"bbox\": [100, 1266, 1154, 1723], \"category\": \"Text\", \"text\": \"Då han war inkommen, berättade Herr Stats Secreteraren och Riddaren Benzelstierna honom hela sammanhanget här utaf med anmodan å Kongl. Collegii wägnar att häröfwer sig utlåta, i synnerhet om Bibliothecarien Wilde nu borde anses såsom competent sökande, ehuru han wore den äldsta, efter som berörde ledige lön egenteligen tillhörde Kongl. Antiquitets Collegium, och fast än detta nu mera med Kongl. Bibliothequet till ett blifwit sammanlagde, enliget Kongl. Maij:ts 1750 skjedde nådige förordnande, om äntå icke med lönerne som med de öfriga till dessa bägge wärk hörande medel wore beskaffat, att de särskildt böra anwändas till de behof, ifrån hwilka de i början warit anslagne?\"}, {\"bbox\": [138, 1722, 1154, 1764], \"category\": \"Text\", \"text\": \"Herr Cantzellie Rådet Berch swarade härpå, att såsom uti nys-\"}, {\"bbox\": [1075, 1798, 1150, 1838], \"category\": \"Page-footer\", \"text\": \"217\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    192,
+    242,
+    1060,
+    284
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet och Biblioteket 1751—1766"
+  },
+  {
+   "bbox": [
+    98,
+    312,
+    1152,
+    648
+   ],
+   "category": "Text",
+   "text": "tjenstgörande af alla wid Kongl. Bibliothequet och Antiquitets Archivum nu för tiden warande Bibliothecarier och Assessorer; Det han utom en femåra wärkelig tjenstetid som Bibliothecarius äfwen i nästan fulla trenne år biträdt wid Censors Embetets förrättande, hwarwid han dock endast måst åtnöija sig med den lilla lön, han förr innehaft såsom Historiographi Amanuensis m: m:, samt sluter i anledning häraf, att denna lön icke lärer kunna egenteligen anses för ledig, så länge de äldre ordinarie Betjenterne måste sakna sina löner."
+  },
+  {
+   "bbox": [
+    100,
+    646,
+    1152,
+    931
+   ],
+   "category": "Text",
+   "text": "Assessoren uti Antiquitets Archiwum P. Prael anhåller att såsom nu warande fjerde ordinarie Bibliothecarien blifwa hugnad med afl. Assessor Wessmans 3:de rum och lön på lika sätt, som wid andra Riksens Collegier i slika fall brukeligit är, hållandes i öfriget före äfwen som Kongl. Secreteraren Wilde, att berörde Lön icke kan såsom ledig anses, utan endast som en flytning ordinarie ledamöterna emellan."
+  },
+  {
+   "bbox": [
+    100,
+    934,
+    1152,
+    1145
+   ],
+   "category": "Text",
+   "text": "Kongl. Secreteraren Daniell Hellsingius anmäler, huruledes Kongl. Maij:t under d. 29 Junii sidstl. år på Riksens Ständers föreskrift tillslagit honom den först ledigblifwande lönen uti Antiquitets Collegio och i anseende dertill anhåller nu, att wid detta tillfälle blifwa ihogkommen."
+  },
+  {
+   "bbox": [
+    100,
+    1142,
+    1152,
+    1269
+   ],
+   "category": "Text",
+   "text": "Att uti detta mål få desto mera uplysning fants nödigt att höra Herr Cantzellie Rådet Berch, hwilken till den ändan uti Kongl. Collegio blef inkallad."
+  },
+  {
+   "bbox": [
+    100,
+    1266,
+    1154,
+    1723
+   ],
+   "category": "Text",
+   "text": "Då han war inkommen, berättade Herr Stats Secreteraren och Riddaren Benzelstierna honom hela sammanhanget här utaf med anmodan å Kongl. Collegii wägnar att häröfwer sig utlåta, i synnerhet om Bibliothecarien Wilde nu borde anses såsom competent sökande, ehuru han wore den äldsta, efter som berörde ledige lön egenteligen tillhörde Kongl. Antiquitets Collegium, och fast än detta nu mera med Kongl. Bibliothequet till ett blifwit sammanlagde, enliget Kongl. Maij:ts 1750 skjedde nådige förordnande, om äntå icke med lönerne som med de öfriga till dessa bägge wärk hörande medel wore beskaffat, att de särskildt böra anwändas till de behof, ifrån hwilka de i början warit anslagne?"
+  },
+  {
+   "bbox": [
+    138,
+    1722,
+    1154,
+    1764
+   ],
+   "category": "Text",
+   "text": "Herr Cantzellie Rådet Berch swarade härpå, att såsom uti nys-"
+  },
+  {
+   "bbox": [
+    1075,
+    1798,
+    1150,
+    1838
+   ],
+   "category": "Page-footer",
+   "text": "217"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 669,
+ "seconds": 29.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [888, 254, 1282, 290], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [561, 324, 1609, 735], \"category\": \"Text\", \"text\": \"Samlingar af gamla utländska mynt och antiquiteter må jag wid detta tillfälle icke nämna. Hwad Antiquitets archivum häraf för detta äger, är ganska ofullständigt, och sällan yppar sig nu för tiden tilfälle til dylike samlingars ökande, så at en åhrlig fond på ordinair Stat til det ändamålet synes wara mindre nödig och wäl afpassad, äfwen som ock den, hwarmed Antiquitets Archivum warit härtils försedt, i alt afseende måst anses för aldeles otilräckelig dertil, utan tyckes, at när Staten kan tåla dylike utgifter, de wid extraordinaire tilfällen til inköp af sådane ålderdoms minnesmärcken kunna af extra Stats medel bestridas.\"}, {\"bbox\": [563, 738, 1609, 1070], \"category\": \"Text\", \"text\": \"Redan för något mer än 20 åhr sedan aflämnades från Kongl. Antiquitets Archivum til Kongl. Bibliothequet större delen af den wid det förra befinteliga boksamlingen, så at mycket litet deraf behölts, hwilcket ock numera lärer komma at förenas med Kongl. Bibliothequets förråd. De alt för knappa medel, som beståtts detta senare, hafwa warit orsaken dertil, at minsta delen af nödiga utländska böcker därstädes funnits. [Sedan Wilde därefter framhållit otillräckligheten av bibliotekets inköpsmedel, fortsätter han:]\"}, {\"bbox\": [565, 1070, 1615, 1778], \"category\": \"Text\", \"text\": \"I en tid, då ännu litet eller intet war tilgiordt at uplysa Nordens antiquiteter och gamla häfder, då jemte litteraturen i almänhet äfwenwäl bokhandelen i Swerige war öfwer måttan inskränckt, få boktryckare och få förläggare gåfwos til föga andra än theologiska skrifter och betracktelseböcker, då tillika de personer, som sysselsattes med arbete i Nordiska antiquiteterne, woro försedde med knappa löner, wid sådana omständigheter kunde finnas grund dertil, at Kongl. Maj:t och Kronan bestod kostnaden wid deras arbetens utgifwande genom trycket och dem til wedergälning för deras möda en tredie del af de tryckte Exemplaren. Men helt förändrade omständigheter tyckas böra wercka ändring i denna författning, äfwen som det förut skedt med många flera. Då redan i Nordiska Antiquiteterne är så mycket arbetadt både hos oss och i wårt granskap, då jemte smak och tycke för litterature i almänhet också bokhandeln i Swerige ansenligen ökts, så at nu icke fela förläggare til arbeten i alla slags lärdoms grenar, stundom släta nog, än mera de, som med skäl böra giöra sig bättre förhoppning om almänhetens wälbehag, Swenska\"}, {\"bbox\": [571, 1804, 646, 1851], \"category\": \"Page-footer\", \"text\": \"638\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    888,
+    254,
+    1282,
+    290
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    561,
+    324,
+    1609,
+    735
+   ],
+   "category": "Text",
+   "text": "Samlingar af gamla utländska mynt och antiquiteter må jag wid detta tillfälle icke nämna. Hwad Antiquitets archivum häraf för detta äger, är ganska ofullständigt, och sällan yppar sig nu för tiden tilfälle til dylike samlingars ökande, så at en åhrlig fond på ordinair Stat til det ändamålet synes wara mindre nödig och wäl afpassad, äfwen som ock den, hwarmed Antiquitets Archivum warit härtils försedt, i alt afseende måst anses för aldeles otilräckelig dertil, utan tyckes, at när Staten kan tåla dylike utgifter, de wid extraordinaire tilfällen til inköp af sådane ålderdoms minnesmärcken kunna af extra Stats medel bestridas."
+  },
+  {
+   "bbox": [
+    563,
+    738,
+    1609,
+    1070
+   ],
+   "category": "Text",
+   "text": "Redan för något mer än 20 åhr sedan aflämnades från Kongl. Antiquitets Archivum til Kongl. Bibliothequet större delen af den wid det förra befinteliga boksamlingen, så at mycket litet deraf behölts, hwilcket ock numera lärer komma at förenas med Kongl. Bibliothequets förråd. De alt för knappa medel, som beståtts detta senare, hafwa warit orsaken dertil, at minsta delen af nödiga utländska böcker därstädes funnits. [Sedan Wilde därefter framhållit otillräckligheten av bibliotekets inköpsmedel, fortsätter han:]"
+  },
+  {
+   "bbox": [
+    565,
+    1070,
+    1615,
+    1778
+   ],
+   "category": "Text",
+   "text": "I en tid, då ännu litet eller intet war tilgiordt at uplysa Nordens antiquiteter och gamla häfder, då jemte litteraturen i almänhet äfwenwäl bokhandelen i Swerige war öfwer måttan inskränckt, få boktryckare och få förläggare gåfwos til föga andra än theologiska skrifter och betracktelseböcker, då tillika de personer, som sysselsattes med arbete i Nordiska antiquiteterne, woro försedde med knappa löner, wid sådana omständigheter kunde finnas grund dertil, at Kongl. Maj:t och Kronan bestod kostnaden wid deras arbetens utgifwande genom trycket och dem til wedergälning för deras möda en tredie del af de tryckte Exemplaren. Men helt förändrade omständigheter tyckas böra wercka ändring i denna författning, äfwen som det förut skedt med många flera. Då redan i Nordiska Antiquiteterne är så mycket arbetadt både hos oss och i wårt granskap, då jemte smak och tycke för litterature i almänhet också bokhandeln i Swerige ansenligen ökts, så at nu icke fela förläggare til arbeten i alla slags lärdoms grenar, stundom släta nog, än mera de, som med skäl böra giöra sig bättre förhoppning om almänhetens wälbehag, Swenska"
+  },
+  {
+   "bbox": [
+    571,
+    1804,
+    646,
+    1851
+   ],
+   "category": "Page-footer",
+   "text": "638"
+  }
+ ]
+}

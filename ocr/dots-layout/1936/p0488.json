@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 488,
+ "seconds": 39.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [421, 246, 771, 281], \"category\": \"Section-header\", \"text\": \"Fornvård och resor\"}, {\"bbox\": [75, 315, 1120, 971], \"category\": \"Text\", \"text\": \"I sitt memorial¹ ställde sig Berch välvilligare och framhöll rese-\\nberättelsens preliminära karaktär: »Utaf hosgående Berättelse, som\\nherr assessor Wessman upsatt öfwer dess igenom Blekingen och\\nSkåne anstälda resa tæktes Edre Excellencer samt Kgl. M:ts och\\nRiksens Cantzlij Collegium höggunstigast inhämta, hwad många\\nämnen, hwilka man härtill icke hafft wid antiq. archivum, nu mera\\nblifwit sammandragne til en Beskrifning om dessa bägge södra\\nprovintzers äldre tilstånd. Och såsom de fläste af wälbemälte as-\\nsessors gjorde anmärkningar icke äro omständeligen utförde, utan\\nallenast til minnes uptecknade, lärer wara angeläget, at han ju förr\\ndess häldre och medan sakerna ännu äro i frisk åtancka, bredare\\nutförer altsammans och til den ändan jemwäl, hwad Ritningarna\\nwidkommer, betjenar sig af archivi Rijtaren, som effter muntelig\\nunderwisning kunde gifwa de påbegynte Elevationer af gårdar och\\nkyrkor et bättre anseende med tilhöriga utsikter öfwer nästliggande\\norter.\"}, {\"bbox\": [75, 978, 1119, 1095], \"category\": \"Text\", \"text\": \"Hwad för öfrigit är lemnat af fynd ifrån ättehögar samt böcker, skrifter, Sigiller etc. skola behörigen inskrifwas i Inventario under sina Classer.\"}, {\"bbox\": [111, 1108, 532, 1152], \"category\": \"Text\", \"text\": \"Stockholm d. 8 Maji 1758.\"}, {\"bbox\": [770, 1153, 1082, 1187], \"category\": \"Text\", \"text\": \"Carl Reinh. Berch.»\"}, {\"bbox\": [73, 1221, 1121, 1721], \"category\": \"Text\", \"text\": \"Den 9 maj »uplästes Herr Cantzlie Rådet Berchs Memorial af d. 8 Maij, hwarwid bifogas en berättelse, som Assessoren wid Antiquitets Archivum Wessman författat om des til Skåne, Blekinge och Köpenhamn uppå Riksens Ständers wid 1756 års Riksdag befalning gjorda Resa til Swenska Historiens och Antiquiteternes uplysning, yttrandes Herr Cantzlie Rådet sig, at som de fläste af desse af Assessoren gjorda Anmärkningar icke äro omständeligen utförde utan allenast til minnes uptecknade, lärer angeläget wara at han ju förr dess hällre, och medan sakerne ännu äro i friskt minne, widlyfftigare altsammans utförer och til den ändan, hwad Ritningarne widkommer, betjenar sig af Archivi Ritaren, som effter muntelig underwisning kunde gifwa de påbegynte elevationer af gårdar\"}, {\"bbox\": [107, 1734, 1116, 1771], \"category\": \"Footnote\", \"text\": \"¹ Detta saknas i riksarkivet, men finnes i Kungl. biblioteket (Neschers samling) F. 18, Nr 59.\"}, {\"bbox\": [71, 1819, 222, 1843], \"category\": \"Page-footer\", \"text\": \"30-35832. V.\"}, {\"bbox\": [1036, 1797, 1113, 1843], \"category\": \"Page-footer\", \"text\": \"465\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    421,
+    246,
+    771,
+    281
+   ],
+   "category": "Section-header",
+   "text": "Fornvård och resor"
+  },
+  {
+   "bbox": [
+    75,
+    315,
+    1120,
+    971
+   ],
+   "category": "Text",
+   "text": "I sitt memorial¹ ställde sig Berch välvilligare och framhöll rese-\nberättelsens preliminära karaktär: »Utaf hosgående Berättelse, som\nherr assessor Wessman upsatt öfwer dess igenom Blekingen och\nSkåne anstälda resa tæktes Edre Excellencer samt Kgl. M:ts och\nRiksens Cantzlij Collegium höggunstigast inhämta, hwad många\nämnen, hwilka man härtill icke hafft wid antiq. archivum, nu mera\nblifwit sammandragne til en Beskrifning om dessa bägge södra\nprovintzers äldre tilstånd. Och såsom de fläste af wälbemälte as-\nsessors gjorde anmärkningar icke äro omständeligen utförde, utan\nallenast til minnes uptecknade, lärer wara angeläget, at han ju förr\ndess häldre och medan sakerna ännu äro i frisk åtancka, bredare\nutförer altsammans och til den ändan jemwäl, hwad Ritningarna\nwidkommer, betjenar sig af archivi Rijtaren, som effter muntelig\nunderwisning kunde gifwa de påbegynte Elevationer af gårdar och\nkyrkor et bättre anseende med tilhöriga utsikter öfwer nästliggande\norter."
+  },
+  {
+   "bbox": [
+    75,
+    978,
+    1119,
+    1095
+   ],
+   "category": "Text",
+   "text": "Hwad för öfrigit är lemnat af fynd ifrån ättehögar samt böcker, skrifter, Sigiller etc. skola behörigen inskrifwas i Inventario under sina Classer."
+  },
+  {
+   "bbox": [
+    111,
+    1108,
+    532,
+    1152
+   ],
+   "category": "Text",
+   "text": "Stockholm d. 8 Maji 1758."
+  },
+  {
+   "bbox": [
+    770,
+    1153,
+    1082,
+    1187
+   ],
+   "category": "Text",
+   "text": "Carl Reinh. Berch.»"
+  },
+  {
+   "bbox": [
+    73,
+    1221,
+    1121,
+    1721
+   ],
+   "category": "Text",
+   "text": "Den 9 maj »uplästes Herr Cantzlie Rådet Berchs Memorial af d. 8 Maij, hwarwid bifogas en berättelse, som Assessoren wid Antiquitets Archivum Wessman författat om des til Skåne, Blekinge och Köpenhamn uppå Riksens Ständers wid 1756 års Riksdag befalning gjorda Resa til Swenska Historiens och Antiquiteternes uplysning, yttrandes Herr Cantzlie Rådet sig, at som de fläste af desse af Assessoren gjorda Anmärkningar icke äro omständeligen utförde utan allenast til minnes uptecknade, lärer angeläget wara at han ju förr dess hällre, och medan sakerne ännu äro i friskt minne, widlyfftigare altsammans utförer och til den ändan, hwad Ritningarne widkommer, betjenar sig af Archivi Ritaren, som effter muntelig underwisning kunde gifwa de påbegynte elevationer af gårdar"
+  },
+  {
+   "bbox": [
+    107,
+    1734,
+    1116,
+    1771
+   ],
+   "category": "Footnote",
+   "text": "¹ Detta saknas i riksarkivet, men finnes i Kungl. biblioteket (Neschers samling) F. 18, Nr 59."
+  },
+  {
+   "bbox": [
+    71,
+    1819,
+    222,
+    1843
+   ],
+   "category": "Page-footer",
+   "text": "30-35832. V."
+  },
+  {
+   "bbox": [
+    1036,
+    1797,
+    1113,
+    1843
+   ],
+   "category": "Page-footer",
+   "text": "465"
+  }
+ ]
+}

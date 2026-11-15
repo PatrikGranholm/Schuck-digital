@@ -1,0 +1,162 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 674,
+ "seconds": 32.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [294, 271, 874, 319], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet 1778—1786\"}, {\"bbox\": [51, 339, 1105, 806], \"category\": \"Text\", \"text\": \"båda med otillräckliga anslag, var en orimlighet, och såsom vi minnas hade Berch redan vid sitt tillträde börjat överföra arkivets boksamling till Kungl. biblioteket, ehuru lokalförhållandena hindrade tankens fullföljande. Saken var således förberedd, men tyvärr blev fördelningen åter tämligen planlös. Strand tyckes själv ej hava övervakat den utan nöjt sig med att låta registrarorn Johan Wilhelm Brannius tillgodose arkivets intressen — något, som denne skötte mycket illa, ty riksarkivet fick alls icke, vad det borde hava fått, och det mesta, även av arkivalierna, gick till Kungl. biblioteket. Själva de kvitton, som utfärdats av de båda verken och som Adlerbeth bifogat sin skrivelse, äro i detta fall upplysande. Brannius skrev:\"}, {\"bbox\": [51, 819, 1099, 954], \"category\": \"Text\", \"text\": \"»Til Kongl. Riksarchivum äro ifrån Kongl. antiquitets archivum aflämnade diverse handlingar efter förteckning af den 13 dennes, hwilka härmed quitteras. Stockholm den 14 Junii 1780.\"}, {\"bbox\": [813, 965, 1066, 1002], \"category\": \"Text\", \"text\": \"I. W. Brannius.»\"}, {\"bbox\": [85, 1026, 393, 1071], \"category\": \"Text\", \"text\": \"Wildes kvitto lyder:\"}, {\"bbox\": [48, 1074, 1097, 1322], \"category\": \"Text\", \"text\": \"»Alla handskrifter, som funnits wid antiquitets archivum och enligt uprättad och af högwälborne herr Baron HofCantzleren och Commendeuren af Kongl. Nordstjärne Orden Fredric Sparre gillad förtekning borde til Kongl. Bibliothequet aflämnas, äro til detta senare verk lefvererade, undantagne effterföljande, som icke kunnat igenfinnas:\"}, {\"bbox\": [85, 1334, 649, 1375], \"category\": \"List-item\", \"text\": \"A. C. Lectiones et cantiones annuæ\"}, {\"bbox\": [85, 1376, 428, 1419], \"category\": \"List-item\", \"text\": \"C. 41. dansk Lagbok\"}, {\"bbox\": [85, 1418, 646, 1462], \"category\": \"List-item\", \"text\": \"D. 43. Messenii pandolatria Sveciæ\"}, {\"bbox\": [85, 1460, 812, 1503], \"category\": \"List-item\", \"text\": \"D. 73. Juvencii Celii Calani historia de Attila\"}, {\"bbox\": [85, 1501, 899, 1552], \"category\": \"List-item\", \"text\": \"K. 10 En dansk Chrönika om kriget 1551—1613\"}, {\"bbox\": [85, 1542, 1089, 1594], \"category\": \"List-item\", \"text\": \"K. 27 Wilhadi Nicolai Documentum de origine Regni Daniæ.\"}, {\"bbox\": [48, 1605, 1094, 1743], \"category\": \"Text\", \"text\": \"Likaledes är til Kongl. Bibliothequet aflämnad den lilla samling af tryckta böcker, som förut wid antiquitets archivum förwarades, hvilket alt härmed quitteras. Stockholm den 27 Septemb. 1780.\"}, {\"bbox\": [848, 1759, 1058, 1794], \"category\": \"Text\", \"text\": \"And. Wilde.»\"}, {\"bbox\": [1012, 1832, 1084, 1878], \"category\": \"Page-footer\", \"text\": \"643\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    294,
+    271,
+    874,
+    319
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet 1778—1786"
+  },
+  {
+   "bbox": [
+    51,
+    339,
+    1105,
+    806
+   ],
+   "category": "Text",
+   "text": "båda med otillräckliga anslag, var en orimlighet, och såsom vi minnas hade Berch redan vid sitt tillträde börjat överföra arkivets boksamling till Kungl. biblioteket, ehuru lokalförhållandena hindrade tankens fullföljande. Saken var således förberedd, men tyvärr blev fördelningen åter tämligen planlös. Strand tyckes själv ej hava övervakat den utan nöjt sig med att låta registrarorn Johan Wilhelm Brannius tillgodose arkivets intressen — något, som denne skötte mycket illa, ty riksarkivet fick alls icke, vad det borde hava fått, och det mesta, även av arkivalierna, gick till Kungl. biblioteket. Själva de kvitton, som utfärdats av de båda verken och som Adlerbeth bifogat sin skrivelse, äro i detta fall upplysande. Brannius skrev:"
+  },
+  {
+   "bbox": [
+    51,
+    819,
+    1099,
+    954
+   ],
+   "category": "Text",
+   "text": "»Til Kongl. Riksarchivum äro ifrån Kongl. antiquitets archivum aflämnade diverse handlingar efter förteckning af den 13 dennes, hwilka härmed quitteras. Stockholm den 14 Junii 1780."
+  },
+  {
+   "bbox": [
+    813,
+    965,
+    1066,
+    1002
+   ],
+   "category": "Text",
+   "text": "I. W. Brannius.»"
+  },
+  {
+   "bbox": [
+    85,
+    1026,
+    393,
+    1071
+   ],
+   "category": "Text",
+   "text": "Wildes kvitto lyder:"
+  },
+  {
+   "bbox": [
+    48,
+    1074,
+    1097,
+    1322
+   ],
+   "category": "Text",
+   "text": "»Alla handskrifter, som funnits wid antiquitets archivum och enligt uprättad och af högwälborne herr Baron HofCantzleren och Commendeuren af Kongl. Nordstjärne Orden Fredric Sparre gillad förtekning borde til Kongl. Bibliothequet aflämnas, äro til detta senare verk lefvererade, undantagne effterföljande, som icke kunnat igenfinnas:"
+  },
+  {
+   "bbox": [
+    85,
+    1334,
+    649,
+    1375
+   ],
+   "category": "List-item",
+   "text": "A. C. Lectiones et cantiones annuæ"
+  },
+  {
+   "bbox": [
+    85,
+    1376,
+    428,
+    1419
+   ],
+   "category": "List-item",
+   "text": "C. 41. dansk Lagbok"
+  },
+  {
+   "bbox": [
+    85,
+    1418,
+    646,
+    1462
+   ],
+   "category": "List-item",
+   "text": "D. 43. Messenii pandolatria Sveciæ"
+  },
+  {
+   "bbox": [
+    85,
+    1460,
+    812,
+    1503
+   ],
+   "category": "List-item",
+   "text": "D. 73. Juvencii Celii Calani historia de Attila"
+  },
+  {
+   "bbox": [
+    85,
+    1501,
+    899,
+    1552
+   ],
+   "category": "List-item",
+   "text": "K. 10 En dansk Chrönika om kriget 1551—1613"
+  },
+  {
+   "bbox": [
+    85,
+    1542,
+    1089,
+    1594
+   ],
+   "category": "List-item",
+   "text": "K. 27 Wilhadi Nicolai Documentum de origine Regni Daniæ."
+  },
+  {
+   "bbox": [
+    48,
+    1605,
+    1094,
+    1743
+   ],
+   "category": "Text",
+   "text": "Likaledes är til Kongl. Bibliothequet aflämnad den lilla samling af tryckta böcker, som förut wid antiquitets archivum förwarades, hvilket alt härmed quitteras. Stockholm den 27 Septemb. 1780."
+  },
+  {
+   "bbox": [
+    848,
+    1759,
+    1058,
+    1794
+   ],
+   "category": "Text",
+   "text": "And. Wilde.»"
+  },
+  {
+   "bbox": [
+    1012,
+    1832,
+    1084,
+    1878
+   ],
+   "category": "Page-footer",
+   "text": "643"
+  }
+ ]
+}

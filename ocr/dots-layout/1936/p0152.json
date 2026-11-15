@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 152,
+ "seconds": 30.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [203, 257, 1071, 303], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet och Biblioteket 1751—1766\"}, {\"bbox\": [106, 327, 1161, 828], \"category\": \"Text\", \"text\": \"Den 31 december 1692 hade ett kungabrev utfärdats för Elias Brenner, genom vilket Brenner tillades 600 dlr smt, »så lenge och intill dess at någon öpning kan förfalla wid Antiquitets Staten, så at han derpå för samma lön må kunna blifva upförder», och likaså benådades Keder den 3 november 1696 med 600 dlr smt »åhrlig pension, till dess han wid någon beställning framdeles kan warda employerat» — tydligen såsom assessor i antikvitetsarkivet, vilket både han och Brenner blevo. De tre fallen, Brenner, Keder och Botin, voro således alldeles identiska och rörde tre betydande forskare, vilka dels och tillsvidare erhöllo — som vi såga — ett »författarunderstöd», dels löfte om första lediga plats inom den institution, dit deras vetenskapliga produktion hörde.\"}, {\"bbox\": [106, 827, 1158, 1319], \"category\": \"Text\", \"text\": \"Kanslikollegiets skrivelse härom föredrogs i rådet den 13 april: »Och som Kongl. Maj:t wid detta ährendets behörig[a] öfwerwägande fandt Collegii härwid afgifne underdånige yttrande med de därhos anförde skiäl til alla delar wäl grundade samt för den skull ej annat kunde afsee, än at förenämde Botin i anseende til dess redan å daga lagde prof af berömelig flit och oförtrutenhet at uti förenämde ämnen gagna det allmänna så wäl det sökte understödet som någon upmuntran i öfrigit til dess befordran i framtiden wärkeligen förtjenar; altså och emedan wärkställigheten däraf på Riksens Ständers Secreta utskotts föregående åtgiärd och underdånige yttrande egenteligen ankommer; ty befaldes, at detta till den ändan med Riksens Ständers Secreta utskott Communiceras skulle.»\"}, {\"bbox\": [106, 1323, 1157, 1783], \"category\": \"Text\", \"text\": \"I sekreta utskottet, där ärendet behandlades den 27 juli (Utskottshandl., vol. 73, n:r 203), rönte propositionen ett mycket välvilligt mottagande. Flere av ledamöterna ansågo sig kunna vitsorda arbetets förtjänster, och efter ett referat av det kungliga brevet och kanslikollegiets yttrande fortsätter protokollet: kanslikollegiet hade föreslagit, att »Botin måtte hugnas med Extraordinarie assessors tjenst wid antiquitets archivum och med någon årlig lön eller underhåll förses, till thess han wid nästa ledig blifwande ordinarie assessors-Beställning thärsammastädes eller någon annan theremot swarande Beställning kan befordras. Hwad thet förra angår, så har hos Secrete utskåttet i betraktande kommet, huru olika tillgång för antiquitets\"}, {\"bbox\": [1077, 1812, 1148, 1851], \"category\": \"Page-footer\", \"text\": \"135\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    203,
+    257,
+    1071,
+    303
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet och Biblioteket 1751—1766"
+  },
+  {
+   "bbox": [
+    106,
+    327,
+    1161,
+    828
+   ],
+   "category": "Text",
+   "text": "Den 31 december 1692 hade ett kungabrev utfärdats för Elias Brenner, genom vilket Brenner tillades 600 dlr smt, »så lenge och intill dess at någon öpning kan förfalla wid Antiquitets Staten, så at han derpå för samma lön må kunna blifva upförder», och likaså benådades Keder den 3 november 1696 med 600 dlr smt »åhrlig pension, till dess han wid någon beställning framdeles kan warda employerat» — tydligen såsom assessor i antikvitetsarkivet, vilket både han och Brenner blevo. De tre fallen, Brenner, Keder och Botin, voro således alldeles identiska och rörde tre betydande forskare, vilka dels och tillsvidare erhöllo — som vi såga — ett »författarunderstöd», dels löfte om första lediga plats inom den institution, dit deras vetenskapliga produktion hörde."
+  },
+  {
+   "bbox": [
+    106,
+    827,
+    1158,
+    1319
+   ],
+   "category": "Text",
+   "text": "Kanslikollegiets skrivelse härom föredrogs i rådet den 13 april: »Och som Kongl. Maj:t wid detta ährendets behörig[a] öfwerwägande fandt Collegii härwid afgifne underdånige yttrande med de därhos anförde skiäl til alla delar wäl grundade samt för den skull ej annat kunde afsee, än at förenämde Botin i anseende til dess redan å daga lagde prof af berömelig flit och oförtrutenhet at uti förenämde ämnen gagna det allmänna så wäl det sökte understödet som någon upmuntran i öfrigit til dess befordran i framtiden wärkeligen förtjenar; altså och emedan wärkställigheten däraf på Riksens Ständers Secreta utskotts föregående åtgiärd och underdånige yttrande egenteligen ankommer; ty befaldes, at detta till den ändan med Riksens Ständers Secreta utskott Communiceras skulle.»"
+  },
+  {
+   "bbox": [
+    106,
+    1323,
+    1157,
+    1783
+   ],
+   "category": "Text",
+   "text": "I sekreta utskottet, där ärendet behandlades den 27 juli (Utskottshandl., vol. 73, n:r 203), rönte propositionen ett mycket välvilligt mottagande. Flere av ledamöterna ansågo sig kunna vitsorda arbetets förtjänster, och efter ett referat av det kungliga brevet och kanslikollegiets yttrande fortsätter protokollet: kanslikollegiet hade föreslagit, att »Botin måtte hugnas med Extraordinarie assessors tjenst wid antiquitets archivum och med någon årlig lön eller underhåll förses, till thess han wid nästa ledig blifwande ordinarie assessors-Beställning thärsammastädes eller någon annan theremot swarande Beställning kan befordras. Hwad thet förra angår, så har hos Secrete utskåttet i betraktande kommet, huru olika tillgång för antiquitets"
+  },
+  {
+   "bbox": [
+    1077,
+    1812,
+    1148,
+    1851
+   ],
+   "category": "Page-footer",
+   "text": "135"
+  }
+ ]
+}

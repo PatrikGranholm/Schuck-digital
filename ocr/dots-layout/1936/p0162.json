@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 162,
+ "seconds": 30.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [184, 257, 1051, 301], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet och Biblioteket 1751—1766\"}, {\"bbox\": [88, 328, 1140, 455], \"category\": \"Text\", \"text\": \"talen. Bergius var dessutom en kunnig och begåvad man, och det var därför förklarligt, att Bonde fäst sig vid honom; Brocman, som Bonde då icke kände, hade vid denna tid ännu ej utgivit något.\"}, {\"bbox\": [88, 453, 1139, 653], \"category\": \"Text\", \"text\": \"Den 8 januari 1758 hade Hagelberg avlidit, och platsen såsom assessor skulle således besättas. Såsom vi nyss sett var successionen klar, enär Botin skulle tillträda första lediga ordinarie assessorat, men Bonde tänkte sig, att Bergius efter honom kunde bliva e. o. assessor och skrev en\"}, {\"bbox\": [303, 678, 920, 768], \"category\": \"Section-header\", \"text\": \"»Pro Memoria\\nangående successionen efter Hagelberg.\"}, {\"bbox\": [82, 783, 1137, 1782], \"category\": \"Text\", \"text\": \"Man har i långliga tider warit omtänckt, huru äfwen hos oss såsom uti andra rijken en Corps Diplomatic skulle hopsamlas och genom trycket allmängiöras, på det man icke widare må förlora, hwad ännu öfrigit wara kan, sedan genom eldswådor, distraherande och annan olägenhet en stor del deraf gådt oss ur händerne. Denna samling skulle då icke allenast wara rijket till heder utan ock så wäl Inländske som Utländske till fördel. Man är nu nyligen blifwen än mera dertill upmuntrat af Justitiærådet i Danmark H. Langebeck, som tillbiuder sig att gifwa del af alt det, hwad der å orten kan finnas, hwilket säkert lär wara uti myckenhet, som Historien gifwer wid handen om det myckna bortförande af wåra gambla handlingar under de danska Konungars regering här i Sverige. Detta tilbudet har han tillagt det willkor, om det blifwer här nyttjadt till förfärdigande af en Swänsk Corps Diplomatic, hwilket tillfälle man ofta fåfängt sökt, och om det nu icke nyttjas, torde det sedan swårl. yppas. Utom dess skulle än widare gifwas tillgång till många publique documenter, som uti Privatorum gömmor förwaras. Till detta arbete, som icke kan annars(!) än blifwa granlaga och ey mindre widlöftigt, fordras en person, som utom grundeliga Studier och i synnerhet uti rikets gambla handlingar är arbetsam och äger en god skrifart och accuratesse jämte förfarenhet uti gamla stylars läsande med mera, som därtill hörer. Här till woro Magister Docens Bergius mycket tiänlig, som redan är ägare af en stor samling uti det, som hörer till en Corps diplomatic och gifwit publicum nog\"}, {\"bbox\": [84, 1832, 232, 1855], \"category\": \"Page-footer\", \"text\": \"10—35832. V.\"}, {\"bbox\": [1054, 1819, 1125, 1856], \"category\": \"Page-footer\", \"text\": \"145\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    184,
+    257,
+    1051,
+    301
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet och Biblioteket 1751—1766"
+  },
+  {
+   "bbox": [
+    88,
+    328,
+    1140,
+    455
+   ],
+   "category": "Text",
+   "text": "talen. Bergius var dessutom en kunnig och begåvad man, och det var därför förklarligt, att Bonde fäst sig vid honom; Brocman, som Bonde då icke kände, hade vid denna tid ännu ej utgivit något."
+  },
+  {
+   "bbox": [
+    88,
+    453,
+    1139,
+    653
+   ],
+   "category": "Text",
+   "text": "Den 8 januari 1758 hade Hagelberg avlidit, och platsen såsom assessor skulle således besättas. Såsom vi nyss sett var successionen klar, enär Botin skulle tillträda första lediga ordinarie assessorat, men Bonde tänkte sig, att Bergius efter honom kunde bliva e. o. assessor och skrev en"
+  },
+  {
+   "bbox": [
+    303,
+    678,
+    920,
+    768
+   ],
+   "category": "Section-header",
+   "text": "»Pro Memoria\nangående successionen efter Hagelberg."
+  },
+  {
+   "bbox": [
+    82,
+    783,
+    1137,
+    1782
+   ],
+   "category": "Text",
+   "text": "Man har i långliga tider warit omtänckt, huru äfwen hos oss såsom uti andra rijken en Corps Diplomatic skulle hopsamlas och genom trycket allmängiöras, på det man icke widare må förlora, hwad ännu öfrigit wara kan, sedan genom eldswådor, distraherande och annan olägenhet en stor del deraf gådt oss ur händerne. Denna samling skulle då icke allenast wara rijket till heder utan ock så wäl Inländske som Utländske till fördel. Man är nu nyligen blifwen än mera dertill upmuntrat af Justitiærådet i Danmark H. Langebeck, som tillbiuder sig att gifwa del af alt det, hwad der å orten kan finnas, hwilket säkert lär wara uti myckenhet, som Historien gifwer wid handen om det myckna bortförande af wåra gambla handlingar under de danska Konungars regering här i Sverige. Detta tilbudet har han tillagt det willkor, om det blifwer här nyttjadt till förfärdigande af en Swänsk Corps Diplomatic, hwilket tillfälle man ofta fåfängt sökt, och om det nu icke nyttjas, torde det sedan swårl. yppas. Utom dess skulle än widare gifwas tillgång till många publique documenter, som uti Privatorum gömmor förwaras. Till detta arbete, som icke kan annars(!) än blifwa granlaga och ey mindre widlöftigt, fordras en person, som utom grundeliga Studier och i synnerhet uti rikets gambla handlingar är arbetsam och äger en god skrifart och accuratesse jämte förfarenhet uti gamla stylars läsande med mera, som därtill hörer. Här till woro Magister Docens Bergius mycket tiänlig, som redan är ägare af en stor samling uti det, som hörer till en Corps diplomatic och gifwit publicum nog"
+  },
+  {
+   "bbox": [
+    84,
+    1832,
+    232,
+    1855
+   ],
+   "category": "Page-footer",
+   "text": "10—35832. V."
+  },
+  {
+   "bbox": [
+    1054,
+    1819,
+    1125,
+    1856
+   ],
+   "category": "Page-footer",
+   "text": "145"
+  }
+ ]
+}

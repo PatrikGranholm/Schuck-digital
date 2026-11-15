@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 144,
+ "seconds": 40.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [208, 273, 1072, 316], \"category\": \"Section-header\", \"text\": \"Antikvitetsarkivet och Biblioteket 1751—1766\"}, {\"bbox\": [116, 344, 1163, 1052], \"category\": \"Text\", \"text\": \"blifwer, utom hwad han sielf kan hinna utarbeta i Swenska Historien och literaturen, at i synerhet hålla de under dess wård warande samlingar af M:ster, gl. bref, sigiller, mynt och andre antiquiteter uti så god ordning och genom hielp af sine subalterner giöra därutur så gode adversaria, utdrag och register, at han med färdighet och uplysning kan gå dem till handa, som, af honom upmuntrade, wilja i desse saker något utarbeta, warandes at förmoda, som ock af erfarenheten bestyrkes, at ej lära felas de, som wilja anwända en behagelig skrifart till nyttige historiske arbeten i Swenska saker, enär de uti colligerandet, som fordrar mycken mödo och tid, samt memoirers bibringande blifwa så wäl af Bibliothecario som Antiquarien hulpne och tillhanda gångne, särdeles om ock sådane scribenter nu som förr i brist af förlag utaf wärkets årl:e penningefond, som genom desse projecterade Indragningar kunde blifwa tilräckeligare, wid trycknings omkåstnaden understöddes under lika wilkor, som hittils för Ant. Archivi ledamöter warit wanligit, och det enär arbetet någon förlagshielp af publique medel pröfwades förtiena.\"}, {\"bbox\": [120, 1051, 1163, 1135], \"category\": \"Text\", \"text\": \"I anledning af hwad nu sagt är, skulle förber:de årl:n anslagne 8150 D:r S:mt oförgripel. således kunna med förmodelig nytta anwändas\"}, {\"bbox\": [258, 1143, 1025, 1626], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>Bibliothecarien</td><td>1200</td></tr><tr><td>Dess Amanuensis</td><td>500</td></tr><tr><td>Antiquarien</td><td>1200</td></tr><tr><td>Dess Amanuensis</td><td>500</td></tr><tr><td>Isländaren</td><td>500</td></tr><tr><td>Ritaren</td><td>300</td></tr><tr><td>Wid Bibliothequet til böckers Inköp och inbindning, samt Skrifmaterialer etc.</td><td>1000</td></tr><tr><td>Till Antiquarii disposition wid Bokförlager, hwarjehanda Inköp wid Antiquitets och myntsaml:ne samt Skrifmaterialer etc.</td><td>1000</td></tr><tr><td>Besparing i Staten</td><td>1950</td></tr><tr><td>Summa</td><td>8150</td></tr></tbody></table>\"}, {\"bbox\": [972, 1640, 1131, 1675], \"category\": \"Text\", \"text\": \"Beronius.»\"}, {\"bbox\": [123, 1711, 1165, 1797], \"category\": \"Text\", \"text\": \"Diskussionen härom blev ganska livlig. »Hr. Biskop Beronius upläste ett af sig författat skriftel:t Votum angående nya inrätt-\"}, {\"bbox\": [1090, 1832, 1161, 1869], \"category\": \"Page-footer\", \"text\": \"127\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    208,
+    273,
+    1072,
+    316
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsarkivet och Biblioteket 1751—1766"
+  },
+  {
+   "bbox": [
+    116,
+    344,
+    1163,
+    1052
+   ],
+   "category": "Text",
+   "text": "blifwer, utom hwad han sielf kan hinna utarbeta i Swenska Historien och literaturen, at i synerhet hålla de under dess wård warande samlingar af M:ster, gl. bref, sigiller, mynt och andre antiquiteter uti så god ordning och genom hielp af sine subalterner giöra därutur så gode adversaria, utdrag och register, at han med färdighet och uplysning kan gå dem till handa, som, af honom upmuntrade, wilja i desse saker något utarbeta, warandes at förmoda, som ock af erfarenheten bestyrkes, at ej lära felas de, som wilja anwända en behagelig skrifart till nyttige historiske arbeten i Swenska saker, enär de uti colligerandet, som fordrar mycken mödo och tid, samt memoirers bibringande blifwa så wäl af Bibliothecario som Antiquarien hulpne och tillhanda gångne, särdeles om ock sådane scribenter nu som förr i brist af förlag utaf wärkets årl:e penningefond, som genom desse projecterade Indragningar kunde blifwa tilräckeligare, wid trycknings omkåstnaden understöddes under lika wilkor, som hittils för Ant. Archivi ledamöter warit wanligit, och det enär arbetet någon förlagshielp af publique medel pröfwades förtiena."
+  },
+  {
+   "bbox": [
+    120,
+    1051,
+    1163,
+    1135
+   ],
+   "category": "Text",
+   "text": "I anledning af hwad nu sagt är, skulle förber:de årl:n anslagne 8150 D:r S:mt oförgripel. således kunna med förmodelig nytta anwändas"
+  },
+  {
+   "bbox": [
+    258,
+    1143,
+    1025,
+    1626
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>Bibliothecarien</td><td>1200</td></tr><tr><td>Dess Amanuensis</td><td>500</td></tr><tr><td>Antiquarien</td><td>1200</td></tr><tr><td>Dess Amanuensis</td><td>500</td></tr><tr><td>Isländaren</td><td>500</td></tr><tr><td>Ritaren</td><td>300</td></tr><tr><td>Wid Bibliothequet til böckers Inköp och inbindning, samt Skrifmaterialer etc.</td><td>1000</td></tr><tr><td>Till Antiquarii disposition wid Bokförlager, hwarjehanda Inköp wid Antiquitets och myntsaml:ne samt Skrifmaterialer etc.</td><td>1000</td></tr><tr><td>Besparing i Staten</td><td>1950</td></tr><tr><td>Summa</td><td>8150</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    972,
+    1640,
+    1131,
+    1675
+   ],
+   "category": "Text",
+   "text": "Beronius.»"
+  },
+  {
+   "bbox": [
+    123,
+    1711,
+    1165,
+    1797
+   ],
+   "category": "Text",
+   "text": "Diskussionen härom blev ganska livlig. »Hr. Biskop Beronius upläste ett af sig författat skriftel:t Votum angående nya inrätt-"
+  },
+  {
+   "bbox": [
+    1090,
+    1832,
+    1161,
+    1869
+   ],
+   "category": "Page-footer",
+   "text": "127"
+  }
+ ]
+}

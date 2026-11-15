@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 652,
+ "seconds": 52.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [312, 277, 823, 322], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivets skrifter\"}, {\"bbox\": [37, 347, 1092, 1098], \"category\": \"Text\", \"text\": \"att själva planen var misslyckad: »Medaljbeskrifningarne, med inskrifterna återgifna i svensk öfversättning, förlora sig såsom en obetydlig bisak i de vidlyftiga lefnadsteckningarne», och för att förstå medaljen äro de utförliga biografierna överflödiga. Frånser man emellertid denna brist i planen, höra hans levnadsbeskrivningar till de sakrikaste och kunnigaste biografier, som vi hava från 1700-talet, och även stilen måste betecknas såsom god. I den nyss omtalade förhandsanmälan, som Gjörwell skrev i Stockholms lärda tidningar (22 juli 1776), yttrar han: »I det, som Hr. Förf. således icke gifvit högre Namn än Lefverne, få inga prägtiga Låf-qväden väntas, som bättre passa sig för Pris-skrifter i Vältalighet, blotta Förloppet af Gerningarna blifver nog, hälst när med trygghet sägas kan, hvad dertil varit orsaken samt någorlunda utmärker Personens tänkesätt. — — — Caracterer, Anecdoter och Anmärkningar, som måla Tiden, Folket och Sederne, finnas här öfveralt införde, och af dem många hittils obekante, hvilket Recensenten kan försäkra, som både ägt tilfälle at läsa igenom de redan tryckta Arken och sedt Handskriften af et Verk, hvars Fullbordan ej nog önskas kan.»\"}, {\"bbox\": [37, 1095, 1089, 1420], \"category\": \"Text\", \"text\": \"I bokhandeln kunde arbetet utsläppas först mot slutet av 1777; i Stockholms lärda tidningar för den 17 november säges, att det »nyligen» utgivits, och då låg författaren troligen redan på dödsbädden; han avled den 22 december. Men för den gamle forskaren bör det dock hava varit en tröst att, innan han för alltid tillslöt sina ögon, få kasta en blick på den volym, som han troligen betraktade såsom den förnämsta litterära insats, som han gjort — frukten av ett helt livs lärda mödor.\"}, {\"bbox\": [1003, 1828, 1078, 1876], \"category\": \"Page-footer\", \"text\": \"623\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    312,
+    277,
+    823,
+    322
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivets skrifter"
+  },
+  {
+   "bbox": [
+    37,
+    347,
+    1092,
+    1098
+   ],
+   "category": "Text",
+   "text": "att själva planen var misslyckad: »Medaljbeskrifningarne, med inskrifterna återgifna i svensk öfversättning, förlora sig såsom en obetydlig bisak i de vidlyftiga lefnadsteckningarne», och för att förstå medaljen äro de utförliga biografierna överflödiga. Frånser man emellertid denna brist i planen, höra hans levnadsbeskrivningar till de sakrikaste och kunnigaste biografier, som vi hava från 1700-talet, och även stilen måste betecknas såsom god. I den nyss omtalade förhandsanmälan, som Gjörwell skrev i Stockholms lärda tidningar (22 juli 1776), yttrar han: »I det, som Hr. Förf. således icke gifvit högre Namn än Lefverne, få inga prägtiga Låf-qväden väntas, som bättre passa sig för Pris-skrifter i Vältalighet, blotta Förloppet af Gerningarna blifver nog, hälst när med trygghet sägas kan, hvad dertil varit orsaken samt någorlunda utmärker Personens tänkesätt. — — — Caracterer, Anecdoter och Anmärkningar, som måla Tiden, Folket och Sederne, finnas här öfveralt införde, och af dem många hittils obekante, hvilket Recensenten kan försäkra, som både ägt tilfälle at läsa igenom de redan tryckta Arken och sedt Handskriften af et Verk, hvars Fullbordan ej nog önskas kan.»"
+  },
+  {
+   "bbox": [
+    37,
+    1095,
+    1089,
+    1420
+   ],
+   "category": "Text",
+   "text": "I bokhandeln kunde arbetet utsläppas först mot slutet av 1777; i Stockholms lärda tidningar för den 17 november säges, att det »nyligen» utgivits, och då låg författaren troligen redan på dödsbädden; han avled den 22 december. Men för den gamle forskaren bör det dock hava varit en tröst att, innan han för alltid tillslöt sina ögon, få kasta en blick på den volym, som han troligen betraktade såsom den förnämsta litterära insats, som han gjort — frukten av ett helt livs lärda mödor."
+  },
+  {
+   "bbox": [
+    1003,
+    1828,
+    1078,
+    1876
+   ],
+   "category": "Page-footer",
+   "text": "623"
+  }
+ ]
+}

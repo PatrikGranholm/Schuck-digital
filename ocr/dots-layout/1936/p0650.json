@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 650,
+ "seconds": 29.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [328, 267, 839, 313], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivets skrifter\"}, {\"bbox\": [52, 335, 1106, 1332], \"category\": \"Text\", \"text\": \"kallades öfver detta mål och inkom. Herr Excellence och Kongl. Collegium betygade för honom sitt synnerliga nöije öfver det nit och den åhåga, [han] åda[ga]lagt vid denna Medaille-Historias författande, hvarigenom han på så hedrande sätt sig utmärkt. Hans Excellence och Kongl. Collegium önskade, att detta arbete måtte komma i dagsljuset, men huru och på hvad sätt sådant med lindrigaste omkostnad måtte kunna verkställas, derom affordrade Hans Excellence och Kongl. Collegium CantzliRådets yttrande. Till detta ändamåls vinnande ansåg herr CantzliRådet Berch bäst vara, att han af åfwannämda dess arbete låter trycka ett profark och genom Bokförarne här i staden och i Landsorterne kundgör, att ett sådant verk är färdigt, som till afhandlingssätt, tryck och papper är lika med det framlagde Profarket, hvaraf sedermera utrönas kan, huruvida Prænumeranternes antal blifver så stort, att förlaget till uplagan däraf kan ersättas. Herr CantzliRådet anhölt ock fördensskull, att i händelse denna utväg gillas, måtte en eller annan af Kongl. Collegii herrar ledamöter åtaga sig att hafva inseendet öfver verkställigheten af detta profarks upläggande, med hvilka herr CantzliRådet tillika kunde om papperets godhet och storlek sig till effterrättelse få rådfråga. Hans Excellence och Kongl. Collegium hade härvid icke något att påminna, och åtog sig herr Stats Secreteraren Benzelstierna och herr CantzliRådet Baron Ribbing den tillsyn och det biträde, som herr CantzliRådet Berch i nyssberörde måtto begärdt.»\"}, {\"bbox\": [52, 1332, 1102, 1792], \"category\": \"Text\", \"text\": \"Ehuru ingen dylik prenumerationsanmälan finnes bevarad i Kungl. biblioteket, är det dock säkert, att den utfärdats, ty i Vitterhets-, Historie- och Antikvitetsakademiens arkiv (sign. Ab 22) finnes den med Berchs piktur utskriven: »Sedan några wänner welat försäkra mig, at almänheten wäntade på de längesedan utlofwade Namnkunnige Swenskars Skådepenningar, afritade och stukna i Koppar och bifogade lefwernes beskrifningar, och iag hitintils dermed drögt, dels at ifrån flera ställen inhämta ytterligare omständigheter, som uplysa dessa personers förtjenster, dels ock för den betungande kostnaden, som en rund tid warit på papper och tryck, hwarigenom köpare blifwit afskrämde ifrån större werck, Så vågar\"}, {\"bbox\": [1022, 1821, 1093, 1860], \"category\": \"Page-footer\", \"text\": \"621\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    328,
+    267,
+    839,
+    313
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivets skrifter"
+  },
+  {
+   "bbox": [
+    52,
+    335,
+    1106,
+    1332
+   ],
+   "category": "Text",
+   "text": "kallades öfver detta mål och inkom. Herr Excellence och Kongl. Collegium betygade för honom sitt synnerliga nöije öfver det nit och den åhåga, [han] åda[ga]lagt vid denna Medaille-Historias författande, hvarigenom han på så hedrande sätt sig utmärkt. Hans Excellence och Kongl. Collegium önskade, att detta arbete måtte komma i dagsljuset, men huru och på hvad sätt sådant med lindrigaste omkostnad måtte kunna verkställas, derom affordrade Hans Excellence och Kongl. Collegium CantzliRådets yttrande. Till detta ändamåls vinnande ansåg herr CantzliRådet Berch bäst vara, att han af åfwannämda dess arbete låter trycka ett profark och genom Bokförarne här i staden och i Landsorterne kundgör, att ett sådant verk är färdigt, som till afhandlingssätt, tryck och papper är lika med det framlagde Profarket, hvaraf sedermera utrönas kan, huruvida Prænumeranternes antal blifver så stort, att förlaget till uplagan däraf kan ersättas. Herr CantzliRådet anhölt ock fördensskull, att i händelse denna utväg gillas, måtte en eller annan af Kongl. Collegii herrar ledamöter åtaga sig att hafva inseendet öfver verkställigheten af detta profarks upläggande, med hvilka herr CantzliRådet tillika kunde om papperets godhet och storlek sig till effterrättelse få rådfråga. Hans Excellence och Kongl. Collegium hade härvid icke något att påminna, och åtog sig herr Stats Secreteraren Benzelstierna och herr CantzliRådet Baron Ribbing den tillsyn och det biträde, som herr CantzliRådet Berch i nyssberörde måtto begärdt.»"
+  },
+  {
+   "bbox": [
+    52,
+    1332,
+    1102,
+    1792
+   ],
+   "category": "Text",
+   "text": "Ehuru ingen dylik prenumerationsanmälan finnes bevarad i Kungl. biblioteket, är det dock säkert, att den utfärdats, ty i Vitterhets-, Historie- och Antikvitetsakademiens arkiv (sign. Ab 22) finnes den med Berchs piktur utskriven: »Sedan några wänner welat försäkra mig, at almänheten wäntade på de längesedan utlofwade Namnkunnige Swenskars Skådepenningar, afritade och stukna i Koppar och bifogade lefwernes beskrifningar, och iag hitintils dermed drögt, dels at ifrån flera ställen inhämta ytterligare omständigheter, som uplysa dessa personers förtjenster, dels ock för den betungande kostnaden, som en rund tid warit på papper och tryck, hwarigenom köpare blifwit afskrämde ifrån större werck, Så vågar"
+  },
+  {
+   "bbox": [
+    1022,
+    1821,
+    1093,
+    1860
+   ],
+   "category": "Page-footer",
+   "text": "621"
+  }
+ ]
+}

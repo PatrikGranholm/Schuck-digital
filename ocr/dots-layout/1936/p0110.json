@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 110,
+ "seconds": 29.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [142, 562, 1189, 606], \"category\": \"Section-header\", \"text\": \"ANTIKVITETSARKIVET OCH BIBLIOTEKET 1751—1766.\"}, {\"bbox\": [142, 676, 1192, 844], \"category\": \"Text\", \"text\": \"Den 22 november 1750 ingav kanslikollegiet till Kungl. Maj:t sitt underdåniga förslag till instruktion för de båda sammanslagna institutionerna, antikvitetsarkivet och Kungl. biblioteket. Detta förslag, som i allt väsentligt ansluter sig till Berchs memorial, lyder:\"}, {\"bbox\": [142, 844, 1192, 1340], \"category\": \"Text\", \"text\": \"»Kongl. May:t har warit omtänkt, huruledes Kongl. Antiquitets Archivum och Bibliothequet måtte bringas uti det skick och ordning, att ändamålet af deras inrättning fullkomligen kunde ernås: att hafwa en samling af lärda mäns arbeten, att göra dem till en nyttig hielpreda för wett och snille, att utur de äldre tidelängder framleta Rikets och Nationens fordna öden, det är: alt sådant, hwaruti sig wisa bör, om nyttan af dess werk swarar emot inrättningen. Och som de kunna lämna hwarannan inbördes stöd och biträde, så har ock Hans Kongl. May:t i nåder för godt funnit, att de hädanefter måge förwandlas till ett werk och anbefallt dess och Riksens Cantzlie Collegium att efter denna ändring utfärda en Instruction för de högre och mindre Betienter på sätt som följer.\"}, {\"bbox\": [181, 1340, 992, 1380], \"category\": \"Text\", \"text\": \"Efter härwarande Stat består antiquitetsarchivum af\"}, {\"bbox\": [146, 1381, 1192, 1464], \"category\": \"Text\", \"text\": \"En Secreterare, twenne Assessorer, Translator, twenne amanuenser, en ritare och en Cancellipost.\"}, {\"bbox\": [146, 1464, 1192, 1547], \"category\": \"Text\", \"text\": \"Bibliothequet åter af en Bibliothecarie, en amanuensis och en Cancellipost.\"}, {\"bbox\": [146, 1547, 1192, 1622], \"category\": \"Text\", \"text\": \"Af de fem: Secreteraren, Bibliothecarien, assessorerna och Translatoren skall\"}, {\"bbox\": [146, 1627, 1192, 1795], \"category\": \"Text\", \"text\": \"En hafwa de tryckte Böcker om händer och besörjer inkjöpet af nya med den sparsamhet och hushållning, at den fond, 600 Dr. smt., som dertil anordnad är, icke anwändes til andra än de oundgängeligaste, som kunna pryda en Konungs Bibliotheque och skaffa nytta\"}, {\"bbox\": [1192, 681, 1328, 797], \"category\": \"Text\", \"text\": \"Instruktioner 1750 för arkivet och biblioteket\"}, {\"bbox\": [1141, 1832, 1189, 1869], \"category\": \"Page-footer\", \"text\": \"93\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    142,
+    562,
+    1189,
+    606
+   ],
+   "category": "Section-header",
+   "text": "ANTIKVITETSARKIVET OCH BIBLIOTEKET 1751—1766."
+  },
+  {
+   "bbox": [
+    142,
+    676,
+    1192,
+    844
+   ],
+   "category": "Text",
+   "text": "Den 22 november 1750 ingav kanslikollegiet till Kungl. Maj:t sitt underdåniga förslag till instruktion för de båda sammanslagna institutionerna, antikvitetsarkivet och Kungl. biblioteket. Detta förslag, som i allt väsentligt ansluter sig till Berchs memorial, lyder:"
+  },
+  {
+   "bbox": [
+    142,
+    844,
+    1192,
+    1340
+   ],
+   "category": "Text",
+   "text": "»Kongl. May:t har warit omtänkt, huruledes Kongl. Antiquitets Archivum och Bibliothequet måtte bringas uti det skick och ordning, att ändamålet af deras inrättning fullkomligen kunde ernås: att hafwa en samling af lärda mäns arbeten, att göra dem till en nyttig hielpreda för wett och snille, att utur de äldre tidelängder framleta Rikets och Nationens fordna öden, det är: alt sådant, hwaruti sig wisa bör, om nyttan af dess werk swarar emot inrättningen. Och som de kunna lämna hwarannan inbördes stöd och biträde, så har ock Hans Kongl. May:t i nåder för godt funnit, att de hädanefter måge förwandlas till ett werk och anbefallt dess och Riksens Cantzlie Collegium att efter denna ändring utfärda en Instruction för de högre och mindre Betienter på sätt som följer."
+  },
+  {
+   "bbox": [
+    181,
+    1340,
+    992,
+    1380
+   ],
+   "category": "Text",
+   "text": "Efter härwarande Stat består antiquitetsarchivum af"
+  },
+  {
+   "bbox": [
+    146,
+    1381,
+    1192,
+    1464
+   ],
+   "category": "Text",
+   "text": "En Secreterare, twenne Assessorer, Translator, twenne amanuenser, en ritare och en Cancellipost."
+  },
+  {
+   "bbox": [
+    146,
+    1464,
+    1192,
+    1547
+   ],
+   "category": "Text",
+   "text": "Bibliothequet åter af en Bibliothecarie, en amanuensis och en Cancellipost."
+  },
+  {
+   "bbox": [
+    146,
+    1547,
+    1192,
+    1622
+   ],
+   "category": "Text",
+   "text": "Af de fem: Secreteraren, Bibliothecarien, assessorerna och Translatoren skall"
+  },
+  {
+   "bbox": [
+    146,
+    1627,
+    1192,
+    1795
+   ],
+   "category": "Text",
+   "text": "En hafwa de tryckte Böcker om händer och besörjer inkjöpet af nya med den sparsamhet och hushållning, at den fond, 600 Dr. smt., som dertil anordnad är, icke anwändes til andra än de oundgängeligaste, som kunna pryda en Konungs Bibliotheque och skaffa nytta"
+  },
+  {
+   "bbox": [
+    1192,
+    681,
+    1328,
+    797
+   ],
+   "category": "Text",
+   "text": "Instruktioner 1750 för arkivet och biblioteket"
+  },
+  {
+   "bbox": [
+    1141,
+    1832,
+    1189,
+    1869
+   ],
+   "category": "Page-footer",
+   "text": "93"
+  }
+ ]
+}

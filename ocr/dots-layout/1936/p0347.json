@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 347,
+ "seconds": 30.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [897, 256, 1296, 292], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [565, 326, 1615, 701], \"category\": \"Text\", \"text\": \"än en rijk och dristig förläggare. Hwarföre är swårt at finna, hwad Hr. Magister Bergius egentel:n skulle kunna åstadkomma i den gamla Diplomatiquen, som ofwanbem:te berömwärde män icke redan hafwa samlat och i ordning lagt. Dock är ingen twifwel, at ju wälbem:te Herr Magister effter sin ägande insikt i gamla Saker och lust til arbete likafult kan hafwa ymnogt ämne til at uplysa et och annat i Swenska Antiqviteterna samt at Kgl. Collegium längre fram, och när han fådt tid at lemna några wedermälen, lärer nådgunstigast tänka på hans befordran.\"}, {\"bbox\": [565, 701, 1615, 1115], \"category\": \"Text\", \"text\": \"4. Translatorn Nils Wessman hafwer med understöd af det almänna halfftannat år warit stadd på resor i Danmark, Skåne och flera södra länder och samlat åtskilliga både Handlingar och Minnesmärcken ifrån dessa orter, som Peringsköld och de förre antiqvarier föga hafwa besökt. Hwarföre man hafwer orsak at tro, det Skånska Handlingarne, en Skrift, som wälbem:te Translator för sin afresa började utgifwa, snart lärer fortsättias, och publico meddelas åtskillige curieuse effterrättelser om Skånes tilstånd, medan de Danske där woro rådande, såsom redan Archivi Förråd af honom blifwit ökt med hwarjehanda ålderdomens öfwerlefwor.\"}, {\"bbox\": [565, 1115, 1615, 1276], \"category\": \"Text\", \"text\": \"5. Amanuensis Islandi Thorwalder Brochmans sysla hafwer bestådt uti gamla Isländska Sagors extraherande. Derjemte at han in extenso öfwersatt åtskilliga stycken, som honom af Hans Excellence Riks Rådet Hr. Grefwe Gustaf Bonde warit anbefalte.\"}, {\"bbox\": [565, 1276, 1615, 1522], \"category\": \"Text\", \"text\": \"6. Amanuensis Bergman hafwer giordt godt gagn wid Lectionum Variantium ihopdragande på Runestenar. Sedan at afcopiera åtskilliga gamla Permebref, hwilka Archivum af privatis fått läna samt at i handlingarna och de äldre Collectaneis upsöka sådana effterrättelser, som af en eller annan stundom påfordras, Hwilke då af honom warda afskrefne och utlemnade.\"}, {\"bbox\": [565, 1522, 1615, 1742], \"category\": \"Text\", \"text\": \"7. Ritaren Olof Rehn brukas at aftaga mynt, medailler och andra små minnesmärcken. Han ärnar dessutan fulborda de Kopparstick öfwer S:t Henrics Graf, som på flera plåtar woro utkastade af den förra Archivi Ritaren Wendelius.\\nStockholm d. 17 Martii 1758.\"}, {\"bbox\": [1255, 1742, 1569, 1778], \"category\": \"Text\", \"text\": \"Carl Reinh: Berch.»\"}, {\"bbox\": [565, 1803, 636, 1848], \"category\": \"Page-footer\", \"text\": \"328\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    897,
+    256,
+    1296,
+    292
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    565,
+    326,
+    1615,
+    701
+   ],
+   "category": "Text",
+   "text": "än en rijk och dristig förläggare. Hwarföre är swårt at finna, hwad Hr. Magister Bergius egentel:n skulle kunna åstadkomma i den gamla Diplomatiquen, som ofwanbem:te berömwärde män icke redan hafwa samlat och i ordning lagt. Dock är ingen twifwel, at ju wälbem:te Herr Magister effter sin ägande insikt i gamla Saker och lust til arbete likafult kan hafwa ymnogt ämne til at uplysa et och annat i Swenska Antiqviteterna samt at Kgl. Collegium längre fram, och när han fådt tid at lemna några wedermälen, lärer nådgunstigast tänka på hans befordran."
+  },
+  {
+   "bbox": [
+    565,
+    701,
+    1615,
+    1115
+   ],
+   "category": "Text",
+   "text": "4. Translatorn Nils Wessman hafwer med understöd af det almänna halfftannat år warit stadd på resor i Danmark, Skåne och flera södra länder och samlat åtskilliga både Handlingar och Minnesmärcken ifrån dessa orter, som Peringsköld och de förre antiqvarier föga hafwa besökt. Hwarföre man hafwer orsak at tro, det Skånska Handlingarne, en Skrift, som wälbem:te Translator för sin afresa började utgifwa, snart lärer fortsättias, och publico meddelas åtskillige curieuse effterrättelser om Skånes tilstånd, medan de Danske där woro rådande, såsom redan Archivi Förråd af honom blifwit ökt med hwarjehanda ålderdomens öfwerlefwor."
+  },
+  {
+   "bbox": [
+    565,
+    1115,
+    1615,
+    1276
+   ],
+   "category": "Text",
+   "text": "5. Amanuensis Islandi Thorwalder Brochmans sysla hafwer bestådt uti gamla Isländska Sagors extraherande. Derjemte at han in extenso öfwersatt åtskilliga stycken, som honom af Hans Excellence Riks Rådet Hr. Grefwe Gustaf Bonde warit anbefalte."
+  },
+  {
+   "bbox": [
+    565,
+    1276,
+    1615,
+    1522
+   ],
+   "category": "Text",
+   "text": "6. Amanuensis Bergman hafwer giordt godt gagn wid Lectionum Variantium ihopdragande på Runestenar. Sedan at afcopiera åtskilliga gamla Permebref, hwilka Archivum af privatis fått läna samt at i handlingarna och de äldre Collectaneis upsöka sådana effterrättelser, som af en eller annan stundom påfordras, Hwilke då af honom warda afskrefne och utlemnade."
+  },
+  {
+   "bbox": [
+    565,
+    1522,
+    1615,
+    1742
+   ],
+   "category": "Text",
+   "text": "7. Ritaren Olof Rehn brukas at aftaga mynt, medailler och andra små minnesmärcken. Han ärnar dessutan fulborda de Kopparstick öfwer S:t Henrics Graf, som på flera plåtar woro utkastade af den förra Archivi Ritaren Wendelius.\nStockholm d. 17 Martii 1758."
+  },
+  {
+   "bbox": [
+    1255,
+    1742,
+    1569,
+    1778
+   ],
+   "category": "Text",
+   "text": "Carl Reinh: Berch.»"
+  },
+  {
+   "bbox": [
+    565,
+    1803,
+    636,
+    1848
+   ],
+   "category": "Page-footer",
+   "text": "328"
+  }
+ ]
+}

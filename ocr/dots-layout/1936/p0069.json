@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 69,
+ "seconds": 30.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [898, 247, 1294, 285], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [573, 316, 1615, 610], \"category\": \"Text\", \"text\": \"där till kanslikollegiet, som den 2 mars 1748, då kungabrevet föredrogs, häri fann »ett och annat, som tycktes kunna förtjena et närmare öfwerwägande», och »skulle detta målet företagas, när Hans Excellence Herr Presidenten är tillstädes». Egendomligt nog blev ärendet icke remitterat till Helin och bibliotekarien Dalin, och i kollegiet tyckes man under jämnt två år låtit ärendet förbliva liggande, ty först den 2 mars 1750 kom det ånyo före:\"}, {\"bbox\": [567, 607, 1612, 1770], \"category\": \"Text\", \"text\": \"»Hans Excellence Herr Grefwen och Presidenten [Tessin] trodde sig nu få äga denna förmiddagen till att företaga det ofta omtalte ärendet angående Kongl. Bibliothequets och antiquitets archivi bättre inrättning. Uplästes derom Kongl. May:ts nådiga skrifwelse af d. 7 Januarii 1748, hwarutinnan Collegium befalles att effter noga öfwerwägande yttra sig öfwer det hos Riksens Ständers Secreta utskott wid då öfwerståndne Riksdag ingifne förslag, huruwida de derutinnan till ofwanberörde ändamål projecterade utwägar och medel måge med fördel kunna till wärkställande nyttias. Detta förslag uplästes och giordes derwid följande anmärkningar, att bland de upräknade samlingar, som höra till Kongl. Bibliothequet, auctoren förbigådt numismatiquen och physiquen, hwilka i anseende till deras både nytta och prydnad wisserligen förtiena deras rum uti ett kongeligit Bibliotheque. Om conferencerne på Bibliothequet en eller twenne dagar i weckan tillades, att ganska nyttigt skulle wara, om de inrättas på ett sätt af föreläsningar utaf någon af de personer, hwilka effter detta förslagets widare innehåld komma till Bibliothecarier att antagas, eller och någon annan skickelig, som sig sådant will åtaga; dessa lectioners förnämsta ämne bör blifwa historia litteraria och skulle sådant utan publici bekostnad kunna lättast igenom subscriptioner wärkställas, när de nya rummen på slåttet blifwa färdiga. Wid den puncten att de böcker, som till Hans May:t ifrån främmande orter præsenteras, kunde på underdånig föreställning komma bibliothequet till godo, berättades, att föga mer än en enda händelse warit, då något arbete, som förtient att i Bibliothequet förwaras, blifwit af utländsk hand Kongl. May:t præsenterad. Wid det, som anföres, att exemplaren, hwilka boktryckarne böra af de här trykta böcker till Bibliothequerne aflemna,\"}, {\"bbox\": [573, 1800, 622, 1840], \"category\": \"Page-footer\", \"text\": \"52\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    898,
+    247,
+    1294,
+    285
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    573,
+    316,
+    1615,
+    610
+   ],
+   "category": "Text",
+   "text": "där till kanslikollegiet, som den 2 mars 1748, då kungabrevet föredrogs, häri fann »ett och annat, som tycktes kunna förtjena et närmare öfwerwägande», och »skulle detta målet företagas, när Hans Excellence Herr Presidenten är tillstädes». Egendomligt nog blev ärendet icke remitterat till Helin och bibliotekarien Dalin, och i kollegiet tyckes man under jämnt två år låtit ärendet förbliva liggande, ty först den 2 mars 1750 kom det ånyo före:"
+  },
+  {
+   "bbox": [
+    567,
+    607,
+    1612,
+    1770
+   ],
+   "category": "Text",
+   "text": "»Hans Excellence Herr Grefwen och Presidenten [Tessin] trodde sig nu få äga denna förmiddagen till att företaga det ofta omtalte ärendet angående Kongl. Bibliothequets och antiquitets archivi bättre inrättning. Uplästes derom Kongl. May:ts nådiga skrifwelse af d. 7 Januarii 1748, hwarutinnan Collegium befalles att effter noga öfwerwägande yttra sig öfwer det hos Riksens Ständers Secreta utskott wid då öfwerståndne Riksdag ingifne förslag, huruwida de derutinnan till ofwanberörde ändamål projecterade utwägar och medel måge med fördel kunna till wärkställande nyttias. Detta förslag uplästes och giordes derwid följande anmärkningar, att bland de upräknade samlingar, som höra till Kongl. Bibliothequet, auctoren förbigådt numismatiquen och physiquen, hwilka i anseende till deras både nytta och prydnad wisserligen förtiena deras rum uti ett kongeligit Bibliotheque. Om conferencerne på Bibliothequet en eller twenne dagar i weckan tillades, att ganska nyttigt skulle wara, om de inrättas på ett sätt af föreläsningar utaf någon af de personer, hwilka effter detta förslagets widare innehåld komma till Bibliothecarier att antagas, eller och någon annan skickelig, som sig sådant will åtaga; dessa lectioners förnämsta ämne bör blifwa historia litteraria och skulle sådant utan publici bekostnad kunna lättast igenom subscriptioner wärkställas, när de nya rummen på slåttet blifwa färdiga. Wid den puncten att de böcker, som till Hans May:t ifrån främmande orter præsenteras, kunde på underdånig föreställning komma bibliothequet till godo, berättades, att föga mer än en enda händelse warit, då något arbete, som förtient att i Bibliothequet förwaras, blifwit af utländsk hand Kongl. May:t præsenterad. Wid det, som anföres, att exemplaren, hwilka boktryckarne böra af de här trykta böcker till Bibliothequerne aflemna,"
+  },
+  {
+   "bbox": [
+    573,
+    1800,
+    622,
+    1840
+   ],
+   "category": "Page-footer",
+   "text": "52"
+  }
+ ]
+}

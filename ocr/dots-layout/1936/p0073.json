@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 73,
+ "seconds": 30.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [903, 245, 1295, 282], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [575, 312, 1613, 562], \"category\": \"Text\", \"text\": \"ända, och den tredie myntwäsendet med antiquiteter och minningsmärken. Dessas lön och wilkor kunde då förbättras och deras flit ey allenast understödias med tre skickeliga Ammanuenser (eller huru man behagar kalla dem) utan ock med tre goda Cancellister, som wid detta wärk kunde sig med dygd och snille uptiena. Stockh. d. 7 Nov. 1750.\"}, {\"bbox\": [1000, 564, 1190, 599], \"category\": \"Text\", \"text\": \"Olof Dalin.»\"}, {\"bbox\": [1045, 607, 1605, 646], \"category\": \"Text\", \"text\": \"(Kanslikoll. Inkomna skrivelser sign. E IV 21).\"}, {\"bbox\": [561, 684, 1607, 1764], \"category\": \"Text\", \"text\": \"Av Berch fick emellertid Dalin ett mycket gott svar: »Uti det förslag til en ny inrättning wid Kongl. Bibliotheket och antiquitetsarchivum, hwarmed Riksens höglofl. Cantzlij Collegium hos Kongl. May:t ärnar inkomma, finner iag hufwudändamålet wara, at hwar ledamot får sitt wissa ämne at utarbeta, at de rådgiöra med hwarannan, komma öfwerens om planerne til deras under händer tagna wärck och wänta af hwarannan et kiärligit biträde och communication af hwad den ene kan under sina lucubrationer råka uppå, som tienar at uplysa den andras arbete, hwarigenom skulle ske, at alla til Bibliotheket och archivum lemnade saker kunde snarare komma i et behörigt lius och tiden winnas, när hwar och en med ifwer skötte sit och hade den förmohnen, at hans medarbetare gåfwe honom de illustrationer wid handen, som eljest blefwe liggande i glömska eller icke utan stort beswär såsom i et fremmande departement skulle under ständig ovisshet effterletas. Det är wäl ingen twifwel, at ju Kongl. Cantzlij Collegium giärna skulle se både Bibliotheks och Ant. archivi Betienings nog swaga och nästan utan hopp til framsteg iråkade wilckor på något sätt förbättrade, men så är mig obekant, huru wida högbem:te Collegium kan wara authorizerat at giöra en så märcklig ändring i staten, som den wore, för hwilcken Hr. Bibliothecarien Dalin tyckes inclinera: at draga aldeles in et par tienster och dermed öka de qwarblifwandes löner. Uti det upsatte förslaget är antalet af tiensterne effter gamla staten bibehållit, hwilcket icke wäl kan minskas hos et folck, som ty wärr hafwer så många tienstsökande eller åtminstone där pensioner för Litterate redan äro ganska få i jemförande emot andra länders.\"}, {\"bbox\": [564, 1787, 611, 1834], \"category\": \"Page-footer\", \"text\": \"56\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    903,
+    245,
+    1295,
+    282
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    575,
+    312,
+    1613,
+    562
+   ],
+   "category": "Text",
+   "text": "ända, och den tredie myntwäsendet med antiquiteter och minningsmärken. Dessas lön och wilkor kunde då förbättras och deras flit ey allenast understödias med tre skickeliga Ammanuenser (eller huru man behagar kalla dem) utan ock med tre goda Cancellister, som wid detta wärk kunde sig med dygd och snille uptiena. Stockh. d. 7 Nov. 1750."
+  },
+  {
+   "bbox": [
+    1000,
+    564,
+    1190,
+    599
+   ],
+   "category": "Text",
+   "text": "Olof Dalin.»"
+  },
+  {
+   "bbox": [
+    1045,
+    607,
+    1605,
+    646
+   ],
+   "category": "Text",
+   "text": "(Kanslikoll. Inkomna skrivelser sign. E IV 21)."
+  },
+  {
+   "bbox": [
+    561,
+    684,
+    1607,
+    1764
+   ],
+   "category": "Text",
+   "text": "Av Berch fick emellertid Dalin ett mycket gott svar: »Uti det förslag til en ny inrättning wid Kongl. Bibliotheket och antiquitetsarchivum, hwarmed Riksens höglofl. Cantzlij Collegium hos Kongl. May:t ärnar inkomma, finner iag hufwudändamålet wara, at hwar ledamot får sitt wissa ämne at utarbeta, at de rådgiöra med hwarannan, komma öfwerens om planerne til deras under händer tagna wärck och wänta af hwarannan et kiärligit biträde och communication af hwad den ene kan under sina lucubrationer råka uppå, som tienar at uplysa den andras arbete, hwarigenom skulle ske, at alla til Bibliotheket och archivum lemnade saker kunde snarare komma i et behörigt lius och tiden winnas, när hwar och en med ifwer skötte sit och hade den förmohnen, at hans medarbetare gåfwe honom de illustrationer wid handen, som eljest blefwe liggande i glömska eller icke utan stort beswär såsom i et fremmande departement skulle under ständig ovisshet effterletas. Det är wäl ingen twifwel, at ju Kongl. Cantzlij Collegium giärna skulle se både Bibliotheks och Ant. archivi Betienings nog swaga och nästan utan hopp til framsteg iråkade wilckor på något sätt förbättrade, men så är mig obekant, huru wida högbem:te Collegium kan wara authorizerat at giöra en så märcklig ändring i staten, som den wore, för hwilcken Hr. Bibliothecarien Dalin tyckes inclinera: at draga aldeles in et par tienster och dermed öka de qwarblifwandes löner. Uti det upsatte förslaget är antalet af tiensterne effter gamla staten bibehållit, hwilcket icke wäl kan minskas hos et folck, som ty wärr hafwer så många tienstsökande eller åtminstone där pensioner för Litterate redan äro ganska få i jemförande emot andra länders."
+  },
+  {
+   "bbox": [
+    564,
+    1787,
+    611,
+    1834
+   ],
+   "category": "Page-footer",
+   "text": "56"
+  }
+ ]
+}

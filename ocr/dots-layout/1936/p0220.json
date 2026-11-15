@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 220,
+ "seconds": 30.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [193, 265, 1059, 308], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet och Biblioteket 1751—1766\"}, {\"bbox\": [100, 336, 1150, 426], \"category\": \"Text\", \"text\": \"Kongl. Collegium skyndesammast häröfwer insända des benägna yttrande».\"}, {\"bbox\": [100, 419, 1156, 963], \"category\": \"Text\", \"text\": \"Härpå svarade kanslikollegiet den 21 juli: »Hans Excellence och Collegium förde sig til minnes, at Collegium i följe af Kongl. May:ts författning om Bibliothequets och antiquitets archivi förenande til et och samma wärk ansett amanuensis och Cantzlist sysslorne wid dessa wärk at wara af enahanda tour, at ock Collegium uti den fullmagt, som för Nils Rabenius d. 25 Sept. 1759 utfärdades och således longt förr än Brochmans befordran skedde, antagit honom til ordinarie Cantzlist eller amanuensis wid Kongl. Bibliothequet, och uppå enahanda grund hade Hans Excellence och Collegium nu anset Brochmans befordran och at Brochman icke wunnit någon tour eller rättighet til befordran framför dem bägge. I anledning af hwilket alt swar til Protocoll Deputationen genom Memorial skulle afgå, hwilket genast upsattes och justerades.»\"}, {\"bbox\": [100, 957, 1156, 1171], \"category\": \"Text\", \"text\": \"Kollegiets svar föredrogs den 22 augusti i utskottet, och »wid öfwerwägande af hwad således anfördt blifwit, fant utskottet Kongl. Collegium härwid sig rätteligen hafwa förhållit, så at deremot icke något widare är at påminna». Brocman hade således, troligen tack vare Bonde, sluppit undan räfsten.\"}, {\"bbox\": [100, 1166, 1156, 1793], \"category\": \"Text\", \"text\": \"Kort efteråt, sedan riksdagen avslutats, skaffade Bonde honom en ny befordran. Den 29 juni 1762 hade Botin, som vi sett, befordrats till kammarråd, ehuru med bibehållande av sin lön såsom assessor i antikvitetskollegiet, och själva platsen, om än icke lönen, hade således blivit ledig. Ehuru alldeles nybliven amanuens anmälde sig Brocman såsom sökande, och efter en längre överläggning i kanslikollegiet kom han med nätt nöd upp på förslaget, men blev icke dess mindre den lycklige — tydligen med hjälp av Bonde, som nu satt i regeringen. Överläggningen i kanslikollegiet saknar ej sitt intresse: »Så wida tiden war inne till att upprätta förslag uppå den effter Cammar Rådet Botin ledige blefne Assessors beställningen uti Kongl. Antiquitets Archivo, så fant Kongl. Collegium nödigt att förut af Cantzli Rådet Berch inhämta des utlåtande öfwer de sökande, emedan han såsom Chef af Antiquitets Archivum jämte Kongl. Bibliothequet närmast känner sysslans beskaffenhet och de\"}, {\"bbox\": [1156, 1168, 1295, 1256], \"category\": \"Text\", \"text\": \"Brocman blir assessor utan lön\"}, {\"bbox\": [1080, 1823, 1153, 1861], \"category\": \"Page-footer\", \"text\": \"203\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    193,
+    265,
+    1059,
+    308
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet och Biblioteket 1751—1766"
+  },
+  {
+   "bbox": [
+    100,
+    336,
+    1150,
+    426
+   ],
+   "category": "Text",
+   "text": "Kongl. Collegium skyndesammast häröfwer insända des benägna yttrande»."
+  },
+  {
+   "bbox": [
+    100,
+    419,
+    1156,
+    963
+   ],
+   "category": "Text",
+   "text": "Härpå svarade kanslikollegiet den 21 juli: »Hans Excellence och Collegium förde sig til minnes, at Collegium i följe af Kongl. May:ts författning om Bibliothequets och antiquitets archivi förenande til et och samma wärk ansett amanuensis och Cantzlist sysslorne wid dessa wärk at wara af enahanda tour, at ock Collegium uti den fullmagt, som för Nils Rabenius d. 25 Sept. 1759 utfärdades och således longt förr än Brochmans befordran skedde, antagit honom til ordinarie Cantzlist eller amanuensis wid Kongl. Bibliothequet, och uppå enahanda grund hade Hans Excellence och Collegium nu anset Brochmans befordran och at Brochman icke wunnit någon tour eller rättighet til befordran framför dem bägge. I anledning af hwilket alt swar til Protocoll Deputationen genom Memorial skulle afgå, hwilket genast upsattes och justerades.»"
+  },
+  {
+   "bbox": [
+    100,
+    957,
+    1156,
+    1171
+   ],
+   "category": "Text",
+   "text": "Kollegiets svar föredrogs den 22 augusti i utskottet, och »wid öfwerwägande af hwad således anfördt blifwit, fant utskottet Kongl. Collegium härwid sig rätteligen hafwa förhållit, så at deremot icke något widare är at påminna». Brocman hade således, troligen tack vare Bonde, sluppit undan räfsten."
+  },
+  {
+   "bbox": [
+    100,
+    1166,
+    1156,
+    1793
+   ],
+   "category": "Text",
+   "text": "Kort efteråt, sedan riksdagen avslutats, skaffade Bonde honom en ny befordran. Den 29 juni 1762 hade Botin, som vi sett, befordrats till kammarråd, ehuru med bibehållande av sin lön såsom assessor i antikvitetskollegiet, och själva platsen, om än icke lönen, hade således blivit ledig. Ehuru alldeles nybliven amanuens anmälde sig Brocman såsom sökande, och efter en längre överläggning i kanslikollegiet kom han med nätt nöd upp på förslaget, men blev icke dess mindre den lycklige — tydligen med hjälp av Bonde, som nu satt i regeringen. Överläggningen i kanslikollegiet saknar ej sitt intresse: »Så wida tiden war inne till att upprätta förslag uppå den effter Cammar Rådet Botin ledige blefne Assessors beställningen uti Kongl. Antiquitets Archivo, så fant Kongl. Collegium nödigt att förut af Cantzli Rådet Berch inhämta des utlåtande öfwer de sökande, emedan han såsom Chef af Antiquitets Archivum jämte Kongl. Bibliothequet närmast känner sysslans beskaffenhet och de"
+  },
+  {
+   "bbox": [
+    1156,
+    1168,
+    1295,
+    1256
+   ],
+   "category": "Text",
+   "text": "Brocman blir assessor utan lön"
+  },
+  {
+   "bbox": [
+    1080,
+    1823,
+    1153,
+    1861
+   ],
+   "category": "Page-footer",
+   "text": "203"
+  }
+ ]
+}

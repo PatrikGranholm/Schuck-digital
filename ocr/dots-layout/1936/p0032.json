@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 32,
+ "seconds": 29.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [407, 262, 982, 303], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet 1747—1751\"}, {\"bbox\": [173, 331, 1219, 956], \"category\": \"Text\", \"text\": \"sammanträde den 6 december påmintes, »huruledes någon besparing jemwäl torde under Statswerkets nuwarande trångmål tillåtas wid någon existerande ledighet af den betiening, som härtill warit bestådd för antiquitetsarchivum». En skrivelse härom avgick ock till Kungl. Maj:t, som remitterade den till kanslikollegium. Dess mycket ovederhäftiga svar har redan här meddelats (IV, sid. 392), men godtogs naturligtvis ej av statsdeputationen, som visserligen »hölt betänkeligit att gifwa anledning till Antiquitets Archivi statens indragande, emedan det länder både till nytto och prydnad för riket att framgent hafva nödig kundskap om äldre tiders monumenter med mehra, som tienar till de äldste och märckwärdigaste handlingarnes förklarande. Så skulle dock Deputationen hålla före, att i fall någondera af Assessorerne eller Amanuenserne skulle afgå innan nästa riksdag, kunde då en sådan vacance lämnas obesatt tillswidare, staten till någon lisa.»\"}, {\"bbox\": [178, 953, 1222, 1785], \"category\": \"Text\", \"text\": \"Att under dylika omständigheter och under pågående riksdag tillsätta en ny chef för verket var naturligtvis en betänklig sak. Hade Helin under riksdagstiden avgått, är det väl sannolikt, att platsen indragits eller ställts på vakans. I Berchs intresse låg det således, att Helin stod kvar, så länge riksdagen var samlad, och närmast att uppehålla den fingerade tjänstledigheten, som skulle gå till ända vid årets slut. Den 14 december ingav han också en anhållan om dess förlängning: »Såsom den af Hans Kongl. May:t mig allernådigst förlänte tiden til mitt hemmablifwande nu snart lider til ända, kan iag icke annat än med diupaste wördnad erkiänna den mig härtill wederfarna nåd och tillika min skyldighet at fordersamast gifwa mig på resan til Paris at återtaga tienstgiörandet wid den mig i nåder anförtrodda Commissions Secreterare beställningen där på orten. Dock emedan åhrstiden nu är mycket swår och resan skulle blifwa både kostsam och beswärlig, jemte det at mina enskylta angelägenheter och det iag til Kongl. antiquitets archivi tienst begynt skrifwa fordra något längre närwarelse i fäderneslandet. Ty litar iag på Edre Excellencers och Höglofl. Kongl. Cantzlij Collegii mig altid betedda nåd, at de med deras högtgiällande föreskrifft täckas befordra mig til förlängande af mitt\"}, {\"bbox\": [1170, 1817, 1216, 1855], \"category\": \"Page-footer\", \"text\": \"15\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    407,
+    262,
+    982,
+    303
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet 1747—1751"
+  },
+  {
+   "bbox": [
+    173,
+    331,
+    1219,
+    956
+   ],
+   "category": "Text",
+   "text": "sammanträde den 6 december påmintes, »huruledes någon besparing jemwäl torde under Statswerkets nuwarande trångmål tillåtas wid någon existerande ledighet af den betiening, som härtill warit bestådd för antiquitetsarchivum». En skrivelse härom avgick ock till Kungl. Maj:t, som remitterade den till kanslikollegium. Dess mycket ovederhäftiga svar har redan här meddelats (IV, sid. 392), men godtogs naturligtvis ej av statsdeputationen, som visserligen »hölt betänkeligit att gifwa anledning till Antiquitets Archivi statens indragande, emedan det länder både till nytto och prydnad för riket att framgent hafva nödig kundskap om äldre tiders monumenter med mehra, som tienar till de äldste och märckwärdigaste handlingarnes förklarande. Så skulle dock Deputationen hålla före, att i fall någondera af Assessorerne eller Amanuenserne skulle afgå innan nästa riksdag, kunde då en sådan vacance lämnas obesatt tillswidare, staten till någon lisa.»"
+  },
+  {
+   "bbox": [
+    178,
+    953,
+    1222,
+    1785
+   ],
+   "category": "Text",
+   "text": "Att under dylika omständigheter och under pågående riksdag tillsätta en ny chef för verket var naturligtvis en betänklig sak. Hade Helin under riksdagstiden avgått, är det väl sannolikt, att platsen indragits eller ställts på vakans. I Berchs intresse låg det således, att Helin stod kvar, så länge riksdagen var samlad, och närmast att uppehålla den fingerade tjänstledigheten, som skulle gå till ända vid årets slut. Den 14 december ingav han också en anhållan om dess förlängning: »Såsom den af Hans Kongl. May:t mig allernådigst förlänte tiden til mitt hemmablifwande nu snart lider til ända, kan iag icke annat än med diupaste wördnad erkiänna den mig härtill wederfarna nåd och tillika min skyldighet at fordersamast gifwa mig på resan til Paris at återtaga tienstgiörandet wid den mig i nåder anförtrodda Commissions Secreterare beställningen där på orten. Dock emedan åhrstiden nu är mycket swår och resan skulle blifwa både kostsam och beswärlig, jemte det at mina enskylta angelägenheter och det iag til Kongl. antiquitets archivi tienst begynt skrifwa fordra något längre närwarelse i fäderneslandet. Ty litar iag på Edre Excellencers och Höglofl. Kongl. Cantzlij Collegii mig altid betedda nåd, at de med deras högtgiällande föreskrifft täckas befordra mig til förlängande af mitt"
+  },
+  {
+   "bbox": [
+    1170,
+    1817,
+    1216,
+    1855
+   ],
+   "category": "Page-footer",
+   "text": "15"
+  }
+ ]
+}

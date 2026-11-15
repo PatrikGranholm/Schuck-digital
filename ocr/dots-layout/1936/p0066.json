@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 66,
+ "seconds": 31.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [375, 256, 952, 296], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet 1747—1751\"}, {\"bbox\": [141, 324, 1186, 536], \"category\": \"Text\", \"text\": \"Et annat medel at förbättra desse Wachtmästares wilckor och giöra dem mera tilgifne til wärcket, wid hwilket de tiena, wore, om man gofwe dem, antingen bägge tilsammans eller den äldste af dem, såsom en grad rättigheten at emot en liten proCent försälja de af publico förlagda böcker.\"}, {\"bbox\": [141, 531, 1185, 659], \"category\": \"Text\", \"text\": \"Härutaf tager man nu tilfälle at något nämna om Capitalet til Antiquitets Archivi förökande. Det, som Staten består, är icke rätt ansenligt; men det kunde dock göras större\"}, {\"bbox\": [141, 655, 1190, 1777], \"category\": \"Text\", \"text\": \"1. igenom Bokhandeln. Månge, som i Swerige låtit utan subscription trycka sina arbeten, särdeles Antiquitets archivum, hafwa klagat deröfwer, at de ej hafft afgång och at exemplaren blifwit dem liggande til last. Skulden består til en del deruti, at man ej hafft någon Swensk boklåda, hwarföre böcker mången gång blifwit dyrare kiöpte på auction än hos auctore sielf, som hafft hundrade tahls exemplar på händren, utan at kunna afsättja dem. Altså skulle ej wara otienligt, om en booklåda inrättades endast af i Swerige trykta saker, så wäl hwad publicum som private personer låta upläggia, och om en af wachtmästarne blefwe factor för utsälgningen emot en liten recognition. På de stunder, han wid Bibliotheket eller Archivum upwacktar, kunde hans hustru eller någon annan på hans wägnar passa upp i boden. De private förläggare kan man fuller icke twinga at låta försälgningen gå igenom hans händer, men kunde dock efftersees i booktryckarnes privilegier, om de hafwa låf at tillika wara Bookförare. Finnes sådant dem ej uttryckeligen tillåtit, kunde sådant straxt förbiudas och dragas til denna booklådan. Åtminstone kunde factoren derwid förwissas om de publique förlags Böckren, under hwilcka jemwäl de borde begripas, som Ständernes Contoir föryttrar och hwarmed mycket ojämt tilgår, effter Contoirs-skrifwarene icke särdeles förstå sig på at collationera exemplar, äro hindrade med deras räkenskaper och afwisa kiöparen ifrån den ena dagen til den andra, hwarigenom mången blifwer ledsen och slår utur hogen at köpa, hwad han utom dylika swårigheter giärna tagit. Dock som det kunde räknas för farligit at i en sådan factors händer anförtro många och än mindre alla exemplaren, så wore nog, om honom anförtroddes allenast någre i sönder af hwart\"}, {\"bbox\": [147, 1831, 282, 1857], \"category\": \"Page-footer\", \"text\": \"4—35832. V.\"}, {\"bbox\": [1133, 1810, 1187, 1847], \"category\": \"Page-footer\", \"text\": \"49\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    375,
+    256,
+    952,
+    296
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet 1747—1751"
+  },
+  {
+   "bbox": [
+    141,
+    324,
+    1186,
+    536
+   ],
+   "category": "Text",
+   "text": "Et annat medel at förbättra desse Wachtmästares wilckor och giöra dem mera tilgifne til wärcket, wid hwilket de tiena, wore, om man gofwe dem, antingen bägge tilsammans eller den äldste af dem, såsom en grad rättigheten at emot en liten proCent försälja de af publico förlagda böcker."
+  },
+  {
+   "bbox": [
+    141,
+    531,
+    1185,
+    659
+   ],
+   "category": "Text",
+   "text": "Härutaf tager man nu tilfälle at något nämna om Capitalet til Antiquitets Archivi förökande. Det, som Staten består, är icke rätt ansenligt; men det kunde dock göras större"
+  },
+  {
+   "bbox": [
+    141,
+    655,
+    1190,
+    1777
+   ],
+   "category": "Text",
+   "text": "1. igenom Bokhandeln. Månge, som i Swerige låtit utan subscription trycka sina arbeten, särdeles Antiquitets archivum, hafwa klagat deröfwer, at de ej hafft afgång och at exemplaren blifwit dem liggande til last. Skulden består til en del deruti, at man ej hafft någon Swensk boklåda, hwarföre böcker mången gång blifwit dyrare kiöpte på auction än hos auctore sielf, som hafft hundrade tahls exemplar på händren, utan at kunna afsättja dem. Altså skulle ej wara otienligt, om en booklåda inrättades endast af i Swerige trykta saker, så wäl hwad publicum som private personer låta upläggia, och om en af wachtmästarne blefwe factor för utsälgningen emot en liten recognition. På de stunder, han wid Bibliotheket eller Archivum upwacktar, kunde hans hustru eller någon annan på hans wägnar passa upp i boden. De private förläggare kan man fuller icke twinga at låta försälgningen gå igenom hans händer, men kunde dock efftersees i booktryckarnes privilegier, om de hafwa låf at tillika wara Bookförare. Finnes sådant dem ej uttryckeligen tillåtit, kunde sådant straxt förbiudas och dragas til denna booklådan. Åtminstone kunde factoren derwid förwissas om de publique förlags Böckren, under hwilcka jemwäl de borde begripas, som Ständernes Contoir föryttrar och hwarmed mycket ojämt tilgår, effter Contoirs-skrifwarene icke särdeles förstå sig på at collationera exemplar, äro hindrade med deras räkenskaper och afwisa kiöparen ifrån den ena dagen til den andra, hwarigenom mången blifwer ledsen och slår utur hogen at köpa, hwad han utom dylika swårigheter giärna tagit. Dock som det kunde räknas för farligit at i en sådan factors händer anförtro många och än mindre alla exemplaren, så wore nog, om honom anförtroddes allenast någre i sönder af hwart"
+  },
+  {
+   "bbox": [
+    147,
+    1831,
+    282,
+    1857
+   ],
+   "category": "Page-footer",
+   "text": "4—35832. V."
+  },
+  {
+   "bbox": [
+    1133,
+    1810,
+    1187,
+    1847
+   ],
+   "category": "Page-footer",
+   "text": "49"
+  }
+ ]
+}

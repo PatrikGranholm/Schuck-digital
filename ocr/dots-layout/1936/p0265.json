@@ -1,0 +1,132 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 265,
+ "seconds": 43.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [913, 251, 1306, 286], \"category\": \"Section-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [586, 321, 1627, 487], \"category\": \"Text\", \"text\": \"närmade sig slutet, hade man ännu ej tagit upp frågan om eventuella indragningar vid antikvitetsarkivet. Men så inlämnade Brocman omkring den 1 september ett formligt förslag till verkets omorganisation (Utskottshandl. 1765—1766 vol. 27 n:r 305 b):\"}, {\"bbox\": [471, 516, 574, 574], \"category\": \"Text\", \"text\": \"Brocmans memorial\"}, {\"bbox\": [622, 510, 1627, 595], \"category\": \"Text\", \"text\": \"»Om Kongl. Antiquitets archivum, Bibliothequet, Riksarchivum och Historiographus.\"}, {\"bbox\": [586, 604, 1627, 1016], \"category\": \"Text\", \"text\": \"Wid dessa werk fordras hos de tjänstgörande en utmärkt Insigt och skicklighet, som icke winnes utan genom besynnerl:a naturgåfwor, studier och öfning i de stycken, som wid hwartdera werkets skötsel ärfordras. Ingen ting därföre billigare än at de, som wid dem tjäna, så blifwa lönte, at de i Brist af utkomst icke nödgas söka sig ifrån et til et annat eller til andra syslosättningar dela sin tid samt at hwartdera werket, såsom til arbetssätt och ordning åtskildt, sättes på den fot, at inom detsamma skälig upmuntran och Befordran icke saknas, hwilket så wida det utan Statens gravation ske kan, så fort som vacancer existera, sålunda förmodel. lättast winnes\"}, {\"bbox\": [916, 1042, 1302, 1084], \"category\": \"Section-header\", \"text\": \"Wid antiquitetsarchivum\"}, {\"bbox\": [586, 1094, 1627, 1423], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>för antiquarien</td><td>1200 dr. smt.</td><td>förr antiquarien</td><td>1200</td></tr><tr><td>assess. el. Translator</td><td>800</td><td>1 assessor</td><td>600</td></tr><tr><td>amanuensis</td><td>500</td><td>1 d:o</td><td>600</td></tr><tr><td>vic. amanuensis</td><td>300</td><td>Translator</td><td>500</td></tr><tr><td>Expenser anslås</td><td>950</td><td>1 amanuensis</td><td>300</td></tr><tr><td></td><td>3750</td><td>1 d:o Isl.</td><td>300</td></tr><tr><td></td><td></td><td>1 Ritare</td><td>200</td></tr><tr><td></td><td></td><td>Expenser</td><td>650</td></tr><tr><td></td><td></td><td></td><td>4350</td></tr></tbody></table>\"}, {\"bbox\": [965, 1425, 1255, 1468], \"category\": \"Section-header\", \"text\": \"Wid Bibliothequet\"}, {\"bbox\": [586, 1476, 1627, 1624], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>Bibliothecarien</td><td>1200</td><td>600</td></tr><tr><td>Vice Bibliothecarien</td><td>800</td><td></td></tr><tr><td>Amanuensis</td><td>500</td><td>250</td></tr><tr><td>til Expenser</td><td>1000</td><td>600</td><td>1450</td></tr><tr><td></td><td>3500</td><td></td><td></td></tr></tbody></table>\"}, {\"bbox\": [958, 1644, 1253, 1680], \"category\": \"Section-header\", \"text\": \"Wid Riksarchivum\"}, {\"bbox\": [642, 1696, 1539, 1772], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>Secreteraren</td><td>1200</td><td>1000</td></tr><tr><td>Actuarien</td><td>800</td><td>450</td></tr></tbody></table>\"}, {\"bbox\": [591, 1798, 662, 1842], \"category\": \"Page-footer\", \"text\": \"248\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    913,
+    251,
+    1306,
+    286
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    586,
+    321,
+    1627,
+    487
+   ],
+   "category": "Text",
+   "text": "närmade sig slutet, hade man ännu ej tagit upp frågan om eventuella indragningar vid antikvitetsarkivet. Men så inlämnade Brocman omkring den 1 september ett formligt förslag till verkets omorganisation (Utskottshandl. 1765—1766 vol. 27 n:r 305 b):"
+  },
+  {
+   "bbox": [
+    471,
+    516,
+    574,
+    574
+   ],
+   "category": "Text",
+   "text": "Brocmans memorial"
+  },
+  {
+   "bbox": [
+    622,
+    510,
+    1627,
+    595
+   ],
+   "category": "Text",
+   "text": "»Om Kongl. Antiquitets archivum, Bibliothequet, Riksarchivum och Historiographus."
+  },
+  {
+   "bbox": [
+    586,
+    604,
+    1627,
+    1016
+   ],
+   "category": "Text",
+   "text": "Wid dessa werk fordras hos de tjänstgörande en utmärkt Insigt och skicklighet, som icke winnes utan genom besynnerl:a naturgåfwor, studier och öfning i de stycken, som wid hwartdera werkets skötsel ärfordras. Ingen ting därföre billigare än at de, som wid dem tjäna, så blifwa lönte, at de i Brist af utkomst icke nödgas söka sig ifrån et til et annat eller til andra syslosättningar dela sin tid samt at hwartdera werket, såsom til arbetssätt och ordning åtskildt, sättes på den fot, at inom detsamma skälig upmuntran och Befordran icke saknas, hwilket så wida det utan Statens gravation ske kan, så fort som vacancer existera, sålunda förmodel. lättast winnes"
+  },
+  {
+   "bbox": [
+    916,
+    1042,
+    1302,
+    1084
+   ],
+   "category": "Section-header",
+   "text": "Wid antiquitetsarchivum"
+  },
+  {
+   "bbox": [
+    586,
+    1094,
+    1627,
+    1423
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>för antiquarien</td><td>1200 dr. smt.</td><td>förr antiquarien</td><td>1200</td></tr><tr><td>assess. el. Translator</td><td>800</td><td>1 assessor</td><td>600</td></tr><tr><td>amanuensis</td><td>500</td><td>1 d:o</td><td>600</td></tr><tr><td>vic. amanuensis</td><td>300</td><td>Translator</td><td>500</td></tr><tr><td>Expenser anslås</td><td>950</td><td>1 amanuensis</td><td>300</td></tr><tr><td></td><td>3750</td><td>1 d:o Isl.</td><td>300</td></tr><tr><td></td><td></td><td>1 Ritare</td><td>200</td></tr><tr><td></td><td></td><td>Expenser</td><td>650</td></tr><tr><td></td><td></td><td></td><td>4350</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    965,
+    1425,
+    1255,
+    1468
+   ],
+   "category": "Section-header",
+   "text": "Wid Bibliothequet"
+  },
+  {
+   "bbox": [
+    586,
+    1476,
+    1627,
+    1624
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>Bibliothecarien</td><td>1200</td><td>600</td></tr><tr><td>Vice Bibliothecarien</td><td>800</td><td></td></tr><tr><td>Amanuensis</td><td>500</td><td>250</td></tr><tr><td>til Expenser</td><td>1000</td><td>600</td><td>1450</td></tr><tr><td></td><td>3500</td><td></td><td></td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    958,
+    1644,
+    1253,
+    1680
+   ],
+   "category": "Section-header",
+   "text": "Wid Riksarchivum"
+  },
+  {
+   "bbox": [
+    642,
+    1696,
+    1539,
+    1772
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>Secreteraren</td><td>1200</td><td>1000</td></tr><tr><td>Actuarien</td><td>800</td><td>450</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    591,
+    1798,
+    662,
+    1842
+   ],
+   "category": "Page-footer",
+   "text": "248"
+  }
+ ]
+}

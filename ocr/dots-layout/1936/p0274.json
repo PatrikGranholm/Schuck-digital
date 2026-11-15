@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 274,
+ "seconds": 33.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [113, 251, 1081, 296], \"category\": \"Section-header\", \"text\": \"Arkivet och Biblioteket under riksdagen 1765—1766\"}, {\"bbox\": [73, 319, 1121, 723], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>I Translator af Gamle Språken</td><td>500</td><td>Dal. S:mt</td></tr><tr><td>I Amanuensis</td><td>250</td><td>»</td></tr><tr><td>I Dito</td><td>200</td><td>»</td></tr><tr><td>I Ritare</td><td>200</td><td>»</td></tr><tr><td>Til Skrif-Materialier</td><td>100</td><td>»</td></tr><tr><td>Til Resepenningar, för Antiquiteters upköp</td><td>150</td><td>»</td></tr><tr><td>Til Böckers Inköp</td><td>400</td><td>»</td></tr><tr><td>För Isländske Translatorn särskilt</td><td>200</td><td>»</td></tr><tr><td>Hvartil kommer, at ordinarie årlige Sportlarne för ofvann.</td><td></td><td></td></tr><tr><td>Betjenter utgjöra vid pass</td><td>1200</td><td>»</td></tr><tr><td>Tilsammans</td><td>10450</td><td>Dal. S:mt</td></tr></tbody></table>\"}, {\"bbox\": [71, 753, 1121, 1369], \"category\": \"Text\", \"text\": \"Enär Secr. Utskottet härvid besinnar, at af Antiquitets Archivi Betjeningen kan indragas begge Assessorerne samt en Ritare, emedan de förres gjöromål kunna nogsamt bestridas af de öfriga, neml. Antiquarien och Translatorn i de gamle Göthiske och Islänske Språken, samt de för en Ritare mindre ofta förefallande Sysslor särskilt kunna betalas, enär sådant fordras, af de til Böckers inköp m. m. vid Antiquitets Archivum anslagne Extra-utgifts Summor, såsom ock, at Translator Regius kan hädanefter ombäras, äfven som den redan i flera år varit mindre nödig funnen; så har Secrete Utskottet varit omtänkt att nyttja desse löner på den ordinarie Staten til at förbättra de öfrigas vilkor, dels emedan samma Löner äro redan på den gamla Staten til förenämde Verk anslagne, dels emedan det billigt är at förvänta deraf, at då Betjeningen unfår en rundeligare utkomst än förr, kan den jämväl upfylla alt det, som emellan någre flere förut varit delt.\"}, {\"bbox\": [71, 1374, 1121, 1541], \"category\": \"Text\", \"text\": \"Secrete-Utskottet tilstyrker derföre, at följande Stat måtte hädanefter vidtagas, och, alt som förefallande Ledigheter medgifva, ställas i verket, emedan Secrete Utskottets tanka icke är at betaga någon det, han nu efter Fulmagt och Resolutioner innehafver.\"}, {\"bbox\": [376, 1575, 809, 1619], \"category\": \"Section-header\", \"text\": \"Till Antiquitets Archivum:\"}, {\"bbox\": [71, 1626, 1121, 1776], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>Antiquarien, årlig Lön</td><td>1200</td><td>Dal. S:mt</td></tr><tr><td>Translatorn i Gamle Språken</td><td>800</td><td>»</td></tr><tr><td>Amanuensis</td><td>500</td><td>»</td></tr><tr><td>Vice-Amanuensis</td><td>300</td><td>»</td></tr></tbody></table>\"}, {\"bbox\": [71, 1825, 220, 1851], \"category\": \"Page-footer\", \"text\": \"17-35832. V.\"}, {\"bbox\": [1037, 1810, 1112, 1849], \"category\": \"Page-footer\", \"text\": \"257\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    113,
+    251,
+    1081,
+    296
+   ],
+   "category": "Section-header",
+   "text": "Arkivet och Biblioteket under riksdagen 1765—1766"
+  },
+  {
+   "bbox": [
+    73,
+    319,
+    1121,
+    723
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>I Translator af Gamle Språken</td><td>500</td><td>Dal. S:mt</td></tr><tr><td>I Amanuensis</td><td>250</td><td>»</td></tr><tr><td>I Dito</td><td>200</td><td>»</td></tr><tr><td>I Ritare</td><td>200</td><td>»</td></tr><tr><td>Til Skrif-Materialier</td><td>100</td><td>»</td></tr><tr><td>Til Resepenningar, för Antiquiteters upköp</td><td>150</td><td>»</td></tr><tr><td>Til Böckers Inköp</td><td>400</td><td>»</td></tr><tr><td>För Isländske Translatorn särskilt</td><td>200</td><td>»</td></tr><tr><td>Hvartil kommer, at ordinarie årlige Sportlarne för ofvann.</td><td></td><td></td></tr><tr><td>Betjenter utgjöra vid pass</td><td>1200</td><td>»</td></tr><tr><td>Tilsammans</td><td>10450</td><td>Dal. S:mt</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    71,
+    753,
+    1121,
+    1369
+   ],
+   "category": "Text",
+   "text": "Enär Secr. Utskottet härvid besinnar, at af Antiquitets Archivi Betjeningen kan indragas begge Assessorerne samt en Ritare, emedan de förres gjöromål kunna nogsamt bestridas af de öfriga, neml. Antiquarien och Translatorn i de gamle Göthiske och Islänske Språken, samt de för en Ritare mindre ofta förefallande Sysslor särskilt kunna betalas, enär sådant fordras, af de til Böckers inköp m. m. vid Antiquitets Archivum anslagne Extra-utgifts Summor, såsom ock, at Translator Regius kan hädanefter ombäras, äfven som den redan i flera år varit mindre nödig funnen; så har Secrete Utskottet varit omtänkt att nyttja desse löner på den ordinarie Staten til at förbättra de öfrigas vilkor, dels emedan samma Löner äro redan på den gamla Staten til förenämde Verk anslagne, dels emedan det billigt är at förvänta deraf, at då Betjeningen unfår en rundeligare utkomst än förr, kan den jämväl upfylla alt det, som emellan någre flere förut varit delt."
+  },
+  {
+   "bbox": [
+    71,
+    1374,
+    1121,
+    1541
+   ],
+   "category": "Text",
+   "text": "Secrete-Utskottet tilstyrker derföre, at följande Stat måtte hädanefter vidtagas, och, alt som förefallande Ledigheter medgifva, ställas i verket, emedan Secrete Utskottets tanka icke är at betaga någon det, han nu efter Fulmagt och Resolutioner innehafver."
+  },
+  {
+   "bbox": [
+    376,
+    1575,
+    809,
+    1619
+   ],
+   "category": "Section-header",
+   "text": "Till Antiquitets Archivum:"
+  },
+  {
+   "bbox": [
+    71,
+    1626,
+    1121,
+    1776
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>Antiquarien, årlig Lön</td><td>1200</td><td>Dal. S:mt</td></tr><tr><td>Translatorn i Gamle Språken</td><td>800</td><td>»</td></tr><tr><td>Amanuensis</td><td>500</td><td>»</td></tr><tr><td>Vice-Amanuensis</td><td>300</td><td>»</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    71,
+    1825,
+    220,
+    1851
+   ],
+   "category": "Page-footer",
+   "text": "17-35832. V."
+  },
+  {
+   "bbox": [
+    1037,
+    1810,
+    1112,
+    1849
+   ],
+   "category": "Page-footer",
+   "text": "257"
+  }
+ ]
+}

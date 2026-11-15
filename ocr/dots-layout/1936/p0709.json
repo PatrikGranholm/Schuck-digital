@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 709,
+ "seconds": 30.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [873, 261, 1269, 297], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [543, 332, 1594, 451], \"category\": \"Text\", \"text\": \"stämmande faktorn. För det namn, under vilket akademien i dagligt tal gick, »drottningens akademi«, gjorde den således fullt skäl. Den var och var avsedd att vara hennes litterära hovkrets.\"}, {\"bbox\": [543, 456, 1594, 831], \"category\": \"Text\", \"text\": \"Vitterhetsakademiens verksamhet sönderfaller i två perioder, den första från 1753 till 1756, då den avbröts genom den misslyckade revolutionskuppen, och från 1773 till 1782, Lovisa Ulrikas dödsår. För den första perioden äro källorna mycket bristfälliga. De utgöras av Kongl. Svenska Vitterhets-akademiens Handlingar, Första Delen, tryckt 1755, tre memorialprotokoll av Dalin, ett par brev, några prisskrifter i manuskript, ett rådsprotokoll och tre notiser i Salvius' Lärda Tidningar. Viktigast är rådsprotokollet, den 20 mars 1753:\"}, {\"bbox\": [412, 461, 538, 523], \"category\": \"Text\", \"text\": \"Akademiens stiftande\"}, {\"bbox\": [541, 829, 1594, 1734], \"category\": \"Text\", \"text\": \"»§ 13. Hans Excellence Herr Riksrådet Baron Höpken inkom från andre Råds Division och berättade, hurusom Hennes Kongl. Majt. Drottningen i Nåder wore hugad för att här inrätta en särskilt Academie de(!) belles Lettres och att Hennes Majt. till den ändan anbefalt först ÖfwerIntendenten Baron Horleman i lifstiden samt sedan Hans Excellence att för den samma till Hans Kongl. Majts. Nådiga authorisation projectera nödige lagar, hwilket som Hans Excellence jämbwäl nu efterkommit, så hade Hans Excellence ej allenast låtit dem anmähla och upläsa uti Cantzli-Collegio, som derwid ej haft något att påminna, utan hade jämbwäl de samma i går blifwit af Hennes Majt. samt i dag af Hans Kongl. Majt. igenomläste och approberade, och som Deras Excellencer på andra Råds Divisionen äfven nu nyss låtit sig desamma föreläsa samt derwid ej haft något att påminna; så återstode nu allenast, att Deras Excellencer på denna Division äfven ville låta sig dem föreläsa; hwilket skiedde och war wid desamma ej något att påminna. Hans Excellence berättade widare, det Hans Kongl. Majt. gierna wille med aldra första som möijligt är härmed fägne Hennes Kongl. Majt. Drottningen och hemstälte Hans Excellence fördenskull, om icke desamma gienast kunde till Kungl. Majts nådiga underskrift förfärdigas? Hwilket bifölls. Hans Excellence Herr Riks-Rådet Baron Höpken afträdde åter till andre Råds Divisionen.»\"}, {\"bbox\": [579, 1740, 1589, 1782], \"category\": \"Text\", \"text\": \"Redan samma dag underskrevs också det kungabrev, genom\"}, {\"bbox\": [543, 1808, 619, 1857], \"category\": \"Page-footer\", \"text\": \"678\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    873,
+    261,
+    1269,
+    297
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    543,
+    332,
+    1594,
+    451
+   ],
+   "category": "Text",
+   "text": "stämmande faktorn. För det namn, under vilket akademien i dagligt tal gick, »drottningens akademi«, gjorde den således fullt skäl. Den var och var avsedd att vara hennes litterära hovkrets."
+  },
+  {
+   "bbox": [
+    543,
+    456,
+    1594,
+    831
+   ],
+   "category": "Text",
+   "text": "Vitterhetsakademiens verksamhet sönderfaller i två perioder, den första från 1753 till 1756, då den avbröts genom den misslyckade revolutionskuppen, och från 1773 till 1782, Lovisa Ulrikas dödsår. För den första perioden äro källorna mycket bristfälliga. De utgöras av Kongl. Svenska Vitterhets-akademiens Handlingar, Första Delen, tryckt 1755, tre memorialprotokoll av Dalin, ett par brev, några prisskrifter i manuskript, ett rådsprotokoll och tre notiser i Salvius' Lärda Tidningar. Viktigast är rådsprotokollet, den 20 mars 1753:"
+  },
+  {
+   "bbox": [
+    412,
+    461,
+    538,
+    523
+   ],
+   "category": "Text",
+   "text": "Akademiens stiftande"
+  },
+  {
+   "bbox": [
+    541,
+    829,
+    1594,
+    1734
+   ],
+   "category": "Text",
+   "text": "»§ 13. Hans Excellence Herr Riksrådet Baron Höpken inkom från andre Råds Division och berättade, hurusom Hennes Kongl. Majt. Drottningen i Nåder wore hugad för att här inrätta en särskilt Academie de(!) belles Lettres och att Hennes Majt. till den ändan anbefalt först ÖfwerIntendenten Baron Horleman i lifstiden samt sedan Hans Excellence att för den samma till Hans Kongl. Majts. Nådiga authorisation projectera nödige lagar, hwilket som Hans Excellence jämbwäl nu efterkommit, så hade Hans Excellence ej allenast låtit dem anmähla och upläsa uti Cantzli-Collegio, som derwid ej haft något att påminna, utan hade jämbwäl de samma i går blifwit af Hennes Majt. samt i dag af Hans Kongl. Majt. igenomläste och approberade, och som Deras Excellencer på andra Råds Divisionen äfven nu nyss låtit sig desamma föreläsa samt derwid ej haft något att påminna; så återstode nu allenast, att Deras Excellencer på denna Division äfven ville låta sig dem föreläsa; hwilket skiedde och war wid desamma ej något att påminna. Hans Excellence berättade widare, det Hans Kongl. Majt. gierna wille med aldra första som möijligt är härmed fägne Hennes Kongl. Majt. Drottningen och hemstälte Hans Excellence fördenskull, om icke desamma gienast kunde till Kungl. Majts nådiga underskrift förfärdigas? Hwilket bifölls. Hans Excellence Herr Riks-Rådet Baron Höpken afträdde åter till andre Råds Divisionen.»"
+  },
+  {
+   "bbox": [
+    579,
+    1740,
+    1589,
+    1782
+   ],
+   "category": "Text",
+   "text": "Redan samma dag underskrevs också det kungabrev, genom"
+  },
+  {
+   "bbox": [
+    543,
+    1808,
+    619,
+    1857
+   ],
+   "category": "Page-footer",
+   "text": "678"
+  }
+ ]
+}

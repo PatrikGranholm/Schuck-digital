@@ -1,0 +1,132 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 63,
+ "seconds": 32.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [877, 267, 1271, 304], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [551, 335, 1595, 467], \"category\": \"Text\", \"text\": \"en wid Bibliotheket. De äro sins emellan lika gode. Dock lärer den wid Bibliotheket wara upförd til minsta löhnen. Altså kunde den swagaste löhnen blifwa för den yngste i deras sälskap.\"}, {\"bbox\": [586, 461, 888, 500], \"category\": \"Text\", \"text\": \"4. En Ritare, och\"}, {\"bbox\": [551, 502, 1593, 578], \"category\": \"Text\", \"text\": \"5. Twenne Wachtmästare, den ene wid Bibliotheket och den andre wid Archivum.\"}, {\"bbox\": [549, 583, 1595, 753], \"category\": \"Text\", \"text\": \"Indelningen och göremålet för ofwanbem:te personer blefwe följande. Af de förstnämde Femb, nembl:n Secreteraren, Bibliothecarien, Assessorerna och Translatorn (dem man Förslags-wijs will alle samman kalla Bibliothecarier) kunde\"}, {\"bbox\": [549, 751, 1593, 831], \"category\": \"Text\", \"text\": \"1. En hafwa de tryckta Böckren om händer, öka dem och hålla ofwanbem:te Conferencer i historia literaria.\"}, {\"bbox\": [547, 833, 1593, 1041], \"category\": \"Text\", \"text\": \"2. En annan alla medii ævi och nyare manuscripter, deröfwer upsätta goda repertorier samt til sig taga och i ordning hålla Extracterne, som giöras af de äldre Historiska handskrefne böcker. I hans wård kunde äfwenwäl lagböckerne lämnas, och i fall man med tiden finge några gamla Codices af latinska och Grekiske auctorer.\"}, {\"bbox\": [547, 1041, 1590, 1205], \"category\": \"Text\", \"text\": \"3. Den tredie Gamla Sagor, dem han verterar eller extraherar. Wore ock wähl, om Han utom Isländskan förstode de andra äldre språken, som hafwa gemenskap med Swenskan såsom gamla Tyskan och Engelskan.\"}, {\"bbox\": [547, 1205, 1590, 1287], \"category\": \"Text\", \"text\": \"4. Den Fierde alla Permebref, som af honom indelas och giöras nyttige effter det föromtalte sättet.\"}, {\"bbox\": [547, 1287, 1590, 1373], \"category\": \"Text\", \"text\": \"5. Alla Mynten komma i den Femtes förwar så wäl som de öfrige antiqviteter, Sigill, armband, wärjor, Runestafwar etc. etc.\"}, {\"bbox\": [543, 1371, 1593, 1790], \"category\": \"Text\", \"text\": \"Amanuenserna beträffande, så will man föreställa sig, at de wid Universiteterne, så mycket möijeligit är och tilfällen där finnas, redan lagt grunden uti historia Literaria, Swenska och Romerska Antiqviteterna, Diplomatiquen och dylika hijt hörande stycker. Skulle och wara ganska nyttigt, om Herrar Professorerne, när de finna några ämnen, som hafwa medfödd böijelse härtil, wille taga sig dem något närmare om. Af Stipendier (wäl förståendes sådana, som ej igenom Testamenterna äro anslagne til vissa Studier) kunde ju något enkannerligen gifwas åt en tilkommande Amanuensis för Antiquiteterne och jemwäl en af dem, som äro skyldige at resa,\"}, {\"bbox\": [545, 1809, 595, 1855], \"category\": \"Page-footer\", \"text\": \"46\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    877,
+    267,
+    1271,
+    304
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    551,
+    335,
+    1595,
+    467
+   ],
+   "category": "Text",
+   "text": "en wid Bibliotheket. De äro sins emellan lika gode. Dock lärer den wid Bibliotheket wara upförd til minsta löhnen. Altså kunde den swagaste löhnen blifwa för den yngste i deras sälskap."
+  },
+  {
+   "bbox": [
+    586,
+    461,
+    888,
+    500
+   ],
+   "category": "Text",
+   "text": "4. En Ritare, och"
+  },
+  {
+   "bbox": [
+    551,
+    502,
+    1593,
+    578
+   ],
+   "category": "Text",
+   "text": "5. Twenne Wachtmästare, den ene wid Bibliotheket och den andre wid Archivum."
+  },
+  {
+   "bbox": [
+    549,
+    583,
+    1595,
+    753
+   ],
+   "category": "Text",
+   "text": "Indelningen och göremålet för ofwanbem:te personer blefwe följande. Af de förstnämde Femb, nembl:n Secreteraren, Bibliothecarien, Assessorerna och Translatorn (dem man Förslags-wijs will alle samman kalla Bibliothecarier) kunde"
+  },
+  {
+   "bbox": [
+    549,
+    751,
+    1593,
+    831
+   ],
+   "category": "Text",
+   "text": "1. En hafwa de tryckta Böckren om händer, öka dem och hålla ofwanbem:te Conferencer i historia literaria."
+  },
+  {
+   "bbox": [
+    547,
+    833,
+    1593,
+    1041
+   ],
+   "category": "Text",
+   "text": "2. En annan alla medii ævi och nyare manuscripter, deröfwer upsätta goda repertorier samt til sig taga och i ordning hålla Extracterne, som giöras af de äldre Historiska handskrefne böcker. I hans wård kunde äfwenwäl lagböckerne lämnas, och i fall man med tiden finge några gamla Codices af latinska och Grekiske auctorer."
+  },
+  {
+   "bbox": [
+    547,
+    1041,
+    1590,
+    1205
+   ],
+   "category": "Text",
+   "text": "3. Den tredie Gamla Sagor, dem han verterar eller extraherar. Wore ock wähl, om Han utom Isländskan förstode de andra äldre språken, som hafwa gemenskap med Swenskan såsom gamla Tyskan och Engelskan."
+  },
+  {
+   "bbox": [
+    547,
+    1205,
+    1590,
+    1287
+   ],
+   "category": "Text",
+   "text": "4. Den Fierde alla Permebref, som af honom indelas och giöras nyttige effter det föromtalte sättet."
+  },
+  {
+   "bbox": [
+    547,
+    1287,
+    1590,
+    1373
+   ],
+   "category": "Text",
+   "text": "5. Alla Mynten komma i den Femtes förwar så wäl som de öfrige antiqviteter, Sigill, armband, wärjor, Runestafwar etc. etc."
+  },
+  {
+   "bbox": [
+    543,
+    1371,
+    1593,
+    1790
+   ],
+   "category": "Text",
+   "text": "Amanuenserna beträffande, så will man föreställa sig, at de wid Universiteterne, så mycket möijeligit är och tilfällen där finnas, redan lagt grunden uti historia Literaria, Swenska och Romerska Antiqviteterna, Diplomatiquen och dylika hijt hörande stycker. Skulle och wara ganska nyttigt, om Herrar Professorerne, när de finna några ämnen, som hafwa medfödd böijelse härtil, wille taga sig dem något närmare om. Af Stipendier (wäl förståendes sådana, som ej igenom Testamenterna äro anslagne til vissa Studier) kunde ju något enkannerligen gifwas åt en tilkommande Amanuensis för Antiquiteterne och jemwäl en af dem, som äro skyldige at resa,"
+  },
+  {
+   "bbox": [
+    545,
+    1809,
+    595,
+    1855
+   ],
+   "category": "Page-footer",
+   "text": "46"
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 345,
+ "seconds": 31.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [925, 279, 1319, 315], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [596, 348, 1636, 434], \"category\": \"Text\", \"text\": \"Collegii wälbehag öfwer hans förhållande skulle genom Utdrag ur Protocollet honom tillkänna gifwas.\"}, {\"bbox\": [594, 433, 1637, 600], \"category\": \"Text\", \"text\": \"Secreterarens hemställande om kopparplåtarna fant Kgl. Collegium lättast af Antiquitets archivi ledamöter kunna besörjas, hwilket H. Baron och Hof Canzleren anmodades att gifwa dem tillkänna; kunnande de dertill nödige utgifter tagas af Archivi medel.\"}, {\"bbox\": [594, 598, 1637, 891], \"category\": \"Text\", \"text\": \"Äntel. och hwad angick de gamla i samma Archivo befintel. onyttiga saker, hwilka utan saknad kunna försäljas, så skulle sådant Kongl. Maij:ts wälbehag underställas, och till den ändan uppsatsen, som Secreteraren deröfwer författat, bifogas det underdåniga betänkande, som i följe af Kgl. Collegii Protocoll under d. 22 nov. förl. år, ang:de försäljandet af Antiquitets Archivi förlags böcker blifwit uppsatt och hwilket nu uppl:s och justerades.»\"}, {\"bbox\": [467, 891, 1637, 1220], \"category\": \"List-item\", \"text\": \"Consignatio- nen 1755\\n\\nHans för riksdagen 1755–1756 avsedda relation är ej heller bevarad, men omtalas i kanslikollegiets protokoll den 14 oktober 1755: »Upl. Kongl. Secreteraren Berchs ingifna memorial, hwar- igenom anmäles samtel. antiquitets Archivi Betjenters författade berättelse, öfwer hwad hwar och en af dem sedan sista Riksdag wid berörde wärk förrättadt; Resolverades, at dessa relationer tilställas herr Baron och HofCantzleren, som effter Cantzlie ordningen öfwer antiquitets archivum eger närmaste inseende.»\"}, {\"bbox\": [590, 1220, 1637, 1675], \"category\": \"Text\", \"text\": \"Den omtalas ock i protokollet den 10 mars 1756: »Uplästes en förteckning på samtel. antiquitets archivi Ledamöternes arbeten sedan sista Riksdag, hwilka dels äro tryckfärdige, dels ännu äro under händer. Denna förteckning, hwilken redan under den 14 oct. förl. år blifwit uti Collegio anmäld, tilstältes nu Herr Hof- Cantzleren Grefwe Gyllenborg att enligit Cantzlie ordningen tilse, huruwida antiquitets archivi Ledamöter för den framfarne tiden dess Embetes skyldigheter fullgjordt och sådant hädaneffter i ackt tagandes warder samt hwad i öfrigit kan wara tilgiörandes i anseende til de redan utarbetade och tryckfärdige arbetens fram- skaffande i dagsljuset med mera.»\"}, {\"bbox\": [462, 1675, 1637, 1801], \"category\": \"List-item\", \"text\": \"Consignatio- nen 1758\\n\\nDäremot finnes kvar en årsberättelse från den 17 mars 1758 (Kanslikoll. Inkomna skrivelser sign. E IV. 10 b). »Til ödmiuk effterlefnad af Kongl. Maij:ts och Riksens Cantzlij Collegii befalning at giöra\"}, {\"bbox\": [592, 1827, 669, 1874], \"category\": \"Page-footer\", \"text\": \"326\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    925,
+    279,
+    1319,
+    315
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    596,
+    348,
+    1636,
+    434
+   ],
+   "category": "Text",
+   "text": "Collegii wälbehag öfwer hans förhållande skulle genom Utdrag ur Protocollet honom tillkänna gifwas."
+  },
+  {
+   "bbox": [
+    594,
+    433,
+    1637,
+    600
+   ],
+   "category": "Text",
+   "text": "Secreterarens hemställande om kopparplåtarna fant Kgl. Collegium lättast af Antiquitets archivi ledamöter kunna besörjas, hwilket H. Baron och Hof Canzleren anmodades att gifwa dem tillkänna; kunnande de dertill nödige utgifter tagas af Archivi medel."
+  },
+  {
+   "bbox": [
+    594,
+    598,
+    1637,
+    891
+   ],
+   "category": "Text",
+   "text": "Äntel. och hwad angick de gamla i samma Archivo befintel. onyttiga saker, hwilka utan saknad kunna försäljas, så skulle sådant Kongl. Maij:ts wälbehag underställas, och till den ändan uppsatsen, som Secreteraren deröfwer författat, bifogas det underdåniga betänkande, som i följe af Kgl. Collegii Protocoll under d. 22 nov. förl. år, ang:de försäljandet af Antiquitets Archivi förlags böcker blifwit uppsatt och hwilket nu uppl:s och justerades.»"
+  },
+  {
+   "bbox": [
+    467,
+    891,
+    1637,
+    1220
+   ],
+   "category": "List-item",
+   "text": "Consignatio- nen 1755\n\nHans för riksdagen 1755–1756 avsedda relation är ej heller bevarad, men omtalas i kanslikollegiets protokoll den 14 oktober 1755: »Upl. Kongl. Secreteraren Berchs ingifna memorial, hwar- igenom anmäles samtel. antiquitets Archivi Betjenters författade berättelse, öfwer hwad hwar och en af dem sedan sista Riksdag wid berörde wärk förrättadt; Resolverades, at dessa relationer tilställas herr Baron och HofCantzleren, som effter Cantzlie ordningen öfwer antiquitets archivum eger närmaste inseende.»"
+  },
+  {
+   "bbox": [
+    590,
+    1220,
+    1637,
+    1675
+   ],
+   "category": "Text",
+   "text": "Den omtalas ock i protokollet den 10 mars 1756: »Uplästes en förteckning på samtel. antiquitets archivi Ledamöternes arbeten sedan sista Riksdag, hwilka dels äro tryckfärdige, dels ännu äro under händer. Denna förteckning, hwilken redan under den 14 oct. förl. år blifwit uti Collegio anmäld, tilstältes nu Herr Hof- Cantzleren Grefwe Gyllenborg att enligit Cantzlie ordningen tilse, huruwida antiquitets archivi Ledamöter för den framfarne tiden dess Embetes skyldigheter fullgjordt och sådant hädaneffter i ackt tagandes warder samt hwad i öfrigit kan wara tilgiörandes i anseende til de redan utarbetade och tryckfärdige arbetens fram- skaffande i dagsljuset med mera.»"
+  },
+  {
+   "bbox": [
+    462,
+    1675,
+    1637,
+    1801
+   ],
+   "category": "List-item",
+   "text": "Consignatio- nen 1758\n\nDäremot finnes kvar en årsberättelse från den 17 mars 1758 (Kanslikoll. Inkomna skrivelser sign. E IV. 10 b). »Til ödmiuk effterlefnad af Kongl. Maij:ts och Riksens Cantzlij Collegii befalning at giöra"
+  },
+  {
+   "bbox": [
+    592,
+    1827,
+    669,
+    1874
+   ],
+   "category": "Page-footer",
+   "text": "326"
+  }
+ ]
+}

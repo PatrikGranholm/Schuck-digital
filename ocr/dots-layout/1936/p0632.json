@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 632,
+ "seconds": 29.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [337, 270, 847, 315], \"category\": \"Section-header\", \"text\": \"Antikvitetsarkivets skrifter\"}, {\"bbox\": [63, 339, 1120, 715], \"category\": \"Text\", \"text\": \"den skickelighet Cammarrådet Botin äger till Riks Historiens fortsättiande i förberörde måtto. Ibland andre dess på trycket utkomne arbeten, som wittna derom, är i synnerhet at anföra dess Utkast till Swenska Folckets Historia, hwilket, ehuru efter sitt ändamål i korthet författadt, dock utmärker Auctorns insikt i Historien. Och har bemälte CammarRåd äfwen uppå honom derom giord tillfrågan tyckts wara benägen at förenemde Arbete med RiksHistoriens fullföljande i de sednare tidehwarfwen sig åtaga, derest det honom updragas skulle.\"}, {\"bbox\": [60, 714, 1118, 1502], \"category\": \"Text\", \"text\": \"En annan utwäg till oftanemde fortsättning af von Dalins Riks Historia wore, om Högloflige Deputationen skulle finna at den under RiksHistoriographens inseende kunde anförtros Amanuensis Historiographi Lönbom, som Cantzli Rådet von Celse så fördelacktigt i sitt Memorial omnämner; at bemälte Amanuensis är wäl bewandrad i nyare Swenska Historien, äger däruti goda samlingar och tillika en förswarlig Historisk stil, det witna de arbeten, han igenom trycket utgifwit, hwaraf han en del, som ej bestå i blotta samlingar, sielf författadt; derjemte skulle i händelse Riks Historiens fullföljande honom anförtroddes, han derwid så mycket lättare kunna arbeta under Riks Historiographens inseende, som han är med honom i nära förtroende och honom äfwen uti syslan subordinerad. Det ankommer i öfrigit uppå Högloflige Deputationen, hwilken af desse skulle till det i fråga warande Riks Historie arbete kunna antagas, och twiflar Collegium ej, med mindre densamma därtill emot någon upmuntran skall kunna förmås, och lärer den ej heller underlåta at anwända all möjelig flit, så at arbetet må blifwa bragt till fullbordan och Högloflige Deputationens åstundan derutinnan upfyllas.\"}, {\"bbox\": [60, 1501, 1113, 1796], \"category\": \"Text\", \"text\": \"Eljest bör Collegium berätta, att wid samma tid, då Collegium ärhölt Höglofl. Deputationens Extractum protocolli, war första delen utkommen af en ny särskilt Riks Historia, utaf Professor Bring i Lund utarbetad. Auctorens widsträckta lärdom icke mindre än den utkomne delens beskaffenhet öfwertygade gienast Collegium om den uplysning och pålitelighet, som häraf kunde tillskyndas Swenska Historien, i det denne auctor aldrig annat antager, än hwad\"}, {\"bbox\": [1031, 1825, 1105, 1872], \"category\": \"Page-footer\", \"text\": \"603\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    337,
+    270,
+    847,
+    315
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsarkivets skrifter"
+  },
+  {
+   "bbox": [
+    63,
+    339,
+    1120,
+    715
+   ],
+   "category": "Text",
+   "text": "den skickelighet Cammarrådet Botin äger till Riks Historiens fortsättiande i förberörde måtto. Ibland andre dess på trycket utkomne arbeten, som wittna derom, är i synnerhet at anföra dess Utkast till Swenska Folckets Historia, hwilket, ehuru efter sitt ändamål i korthet författadt, dock utmärker Auctorns insikt i Historien. Och har bemälte CammarRåd äfwen uppå honom derom giord tillfrågan tyckts wara benägen at förenemde Arbete med RiksHistoriens fullföljande i de sednare tidehwarfwen sig åtaga, derest det honom updragas skulle."
+  },
+  {
+   "bbox": [
+    60,
+    714,
+    1118,
+    1502
+   ],
+   "category": "Text",
+   "text": "En annan utwäg till oftanemde fortsättning af von Dalins Riks Historia wore, om Högloflige Deputationen skulle finna at den under RiksHistoriographens inseende kunde anförtros Amanuensis Historiographi Lönbom, som Cantzli Rådet von Celse så fördelacktigt i sitt Memorial omnämner; at bemälte Amanuensis är wäl bewandrad i nyare Swenska Historien, äger däruti goda samlingar och tillika en förswarlig Historisk stil, det witna de arbeten, han igenom trycket utgifwit, hwaraf han en del, som ej bestå i blotta samlingar, sielf författadt; derjemte skulle i händelse Riks Historiens fullföljande honom anförtroddes, han derwid så mycket lättare kunna arbeta under Riks Historiographens inseende, som han är med honom i nära förtroende och honom äfwen uti syslan subordinerad. Det ankommer i öfrigit uppå Högloflige Deputationen, hwilken af desse skulle till det i fråga warande Riks Historie arbete kunna antagas, och twiflar Collegium ej, med mindre densamma därtill emot någon upmuntran skall kunna förmås, och lärer den ej heller underlåta at anwända all möjelig flit, så at arbetet må blifwa bragt till fullbordan och Högloflige Deputationens åstundan derutinnan upfyllas."
+  },
+  {
+   "bbox": [
+    60,
+    1501,
+    1113,
+    1796
+   ],
+   "category": "Text",
+   "text": "Eljest bör Collegium berätta, att wid samma tid, då Collegium ärhölt Höglofl. Deputationens Extractum protocolli, war första delen utkommen af en ny särskilt Riks Historia, utaf Professor Bring i Lund utarbetad. Auctorens widsträckta lärdom icke mindre än den utkomne delens beskaffenhet öfwertygade gienast Collegium om den uplysning och pålitelighet, som häraf kunde tillskyndas Swenska Historien, i det denne auctor aldrig annat antager, än hwad"
+  },
+  {
+   "bbox": [
+    1031,
+    1825,
+    1105,
+    1872
+   ],
+   "category": "Page-footer",
+   "text": "603"
+  }
+ ]
+}

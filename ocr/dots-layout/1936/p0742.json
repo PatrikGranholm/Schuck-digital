@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 742,
+ "seconds": 29.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [364, 258, 957, 305], \"category\": \"Section-header\", \"text\": \"Vitterhetsakademiens ombildning\"}, {\"bbox\": [136, 328, 1187, 705], \"category\": \"Text\", \"text\": \"Problemet var icke lättlöst. Ty två akademier, Lovisa Ulrikas och Gustaf III:s, båda med samma uppgift, kunde ej gärna gå för sig. Att upplösa moderns akademi var också omöjligt och skulle ha ansetts såsom en ytterst pietetslös handling. Den utväg, som Gustaf III fann i detta dilemma, var därför genialisk. Han lät Vitterhetsakademien bestå såsom Lovisa Ulrikas skapelse, men med ett delvis ändrat namn och andra uppgifter samt stiftade själv en ny akademi med delvis nya medlemmar, men med de uppgifter, som för Vitterhetsakademien hade varit de väsentliga.\"}, {\"bbox\": [136, 702, 1185, 954], \"category\": \"Text\", \"text\": \"Impulsen hade han nog fått från Paris. Där funnos ju både Académie française och Académie des inscriptions et belles-lettres. Och genom att taga fasta på vissa detaljer i moderns skapelse kunde denna ombildas till en svensk Académie des inscriptions et belles-lettres. Därigenom blev platsen ledig för en Svensk akademi, som skulle bliva Gustaf III:s egen skapelse.\"}, {\"bbox\": [134, 951, 1185, 1404], \"category\": \"Text\", \"text\": \"Redan i det kungabrev, genom vilket Vitterhetsakademien stiftats, hade den ju förklarats vara en »académie des belles-lettres» — visserligen ej en »académie des inscriptions et belles-lettres». Men i dess statuter hade historien och antikviteterna satts först bland dess arbetsuppgifter. Vidare hade antikvitetsarkivets chef, Berch, nästan varit den ledande inom Vitterhetsakademien, och på hans initiativ hade man utsatt pristävlingar i inskriftskonst; den kunde således, om man lade vikt vid dessa detaljer, med en viss rätt betraktas såsom en »medaljakademi». Gustaf III tog vara på dem, och tack vare dem ansåg han sig kunna ombilda Lovisa Ulrikas akademi till en Vitterhets-, Historie- och Antikvitetsakademi.\"}, {\"bbox\": [131, 1404, 1182, 1783], \"category\": \"Text\", \"text\": \"För en antikvitetsakademi behövdes emellertid antikviteter, och det var detta behov, som räddade antikvitetsarkivet. 1775 hade Gustaf III bestämt sig för att indraga detta samt fördela samlingarna mellan riksarkivet och Kungl. biblioteket, men i staten den 24 januari 1778 fick arkivet stå kvar, ehuru med personalen reducerad till en antikvarie och dennes amanuens samt i samband därmed berövad större delen av samlingarna, som överfördes till Kungl. biblioteket och riksarkivet. Endast de rena antikviteterna, fornsakerna, mynten och medaljerna, fingo stanna kvar, eller just det, som\"}, {\"bbox\": [1101, 1818, 1170, 1857], \"category\": \"Page-footer\", \"text\": \"711\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    364,
+    258,
+    957,
+    305
+   ],
+   "category": "Section-header",
+   "text": "Vitterhetsakademiens ombildning"
+  },
+  {
+   "bbox": [
+    136,
+    328,
+    1187,
+    705
+   ],
+   "category": "Text",
+   "text": "Problemet var icke lättlöst. Ty två akademier, Lovisa Ulrikas och Gustaf III:s, båda med samma uppgift, kunde ej gärna gå för sig. Att upplösa moderns akademi var också omöjligt och skulle ha ansetts såsom en ytterst pietetslös handling. Den utväg, som Gustaf III fann i detta dilemma, var därför genialisk. Han lät Vitterhetsakademien bestå såsom Lovisa Ulrikas skapelse, men med ett delvis ändrat namn och andra uppgifter samt stiftade själv en ny akademi med delvis nya medlemmar, men med de uppgifter, som för Vitterhetsakademien hade varit de väsentliga."
+  },
+  {
+   "bbox": [
+    136,
+    702,
+    1185,
+    954
+   ],
+   "category": "Text",
+   "text": "Impulsen hade han nog fått från Paris. Där funnos ju både Académie française och Académie des inscriptions et belles-lettres. Och genom att taga fasta på vissa detaljer i moderns skapelse kunde denna ombildas till en svensk Académie des inscriptions et belles-lettres. Därigenom blev platsen ledig för en Svensk akademi, som skulle bliva Gustaf III:s egen skapelse."
+  },
+  {
+   "bbox": [
+    134,
+    951,
+    1185,
+    1404
+   ],
+   "category": "Text",
+   "text": "Redan i det kungabrev, genom vilket Vitterhetsakademien stiftats, hade den ju förklarats vara en »académie des belles-lettres» — visserligen ej en »académie des inscriptions et belles-lettres». Men i dess statuter hade historien och antikviteterna satts först bland dess arbetsuppgifter. Vidare hade antikvitetsarkivets chef, Berch, nästan varit den ledande inom Vitterhetsakademien, och på hans initiativ hade man utsatt pristävlingar i inskriftskonst; den kunde således, om man lade vikt vid dessa detaljer, med en viss rätt betraktas såsom en »medaljakademi». Gustaf III tog vara på dem, och tack vare dem ansåg han sig kunna ombilda Lovisa Ulrikas akademi till en Vitterhets-, Historie- och Antikvitetsakademi."
+  },
+  {
+   "bbox": [
+    131,
+    1404,
+    1182,
+    1783
+   ],
+   "category": "Text",
+   "text": "För en antikvitetsakademi behövdes emellertid antikviteter, och det var detta behov, som räddade antikvitetsarkivet. 1775 hade Gustaf III bestämt sig för att indraga detta samt fördela samlingarna mellan riksarkivet och Kungl. biblioteket, men i staten den 24 januari 1778 fick arkivet stå kvar, ehuru med personalen reducerad till en antikvarie och dennes amanuens samt i samband därmed berövad större delen av samlingarna, som överfördes till Kungl. biblioteket och riksarkivet. Endast de rena antikviteterna, fornsakerna, mynten och medaljerna, fingo stanna kvar, eller just det, som"
+  },
+  {
+   "bbox": [
+    1101,
+    1818,
+    1170,
+    1857
+   ],
+   "category": "Page-footer",
+   "text": "711"
+  }
+ ]
+}

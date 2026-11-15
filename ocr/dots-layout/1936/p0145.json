@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 145,
+ "seconds": 21.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [923, 274, 1316, 309], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [596, 344, 1636, 677], \"category\": \"Text\", \"text\": \"ningars gjörande wid Kongl. Antiquitets Collegium och Kongl. Bibliothequet härstädes och desse wärckens försättjande uppå en bättre och för Riket nyttigare fot medelst en del af Betjeningens indragande och de af densamma innehafwande Löners tilläggande åt den delen deraf, som komme att wid wärcket förblifwa, på det dessa således med mera utkomst måtte så mycket mera kunna sättjas i stånd att med behörig drift och idoghet skjöta de dem åliggande Sysslor.\"}, {\"bbox\": [596, 677, 1636, 1008], \"category\": \"Text\", \"text\": \"Herr Borgmästar Renhorn yttrade sig, det Han wore af mening, det hwad Kgl. antiquitets Collegium widkomme, borde det till Upsala warda flyttjat såsom uppå en ort, där mindre wore tillfällen att ifrån arbete distraheras än här i Stockholm, samt att det derstädes gjorde tillfyllest, om det blefwe förestådt af en särskildt Professor, som derföre kunde åtnjuta en åhrlig tillräckelig Lön och deremot wara förplicktad att den Studerande ungdomen tillhanda gå med hvad uplysning, som af honom äskas kunde.\"}, {\"bbox\": [594, 1008, 1634, 1793], \"category\": \"Text\", \"text\": \"Herr Borgmästaren hölle då före mycken större nytta warda Riket af detta wärcket tillflytande, än hittills skedt, besynnerligen som att sedan den tiden detta Collegium af Högstsal. Konung Carl den XI blef uprättat, sällan el:r aldrig undantagandes genast i början af dess inrättning några nyttige arbeten der ifrån blifwit utgifne, icke heller mera återstode till utarbetande, som kunde egentel:n skattas för Riket nyttigt wara, till förtigande dessutom af den besparing Rikets Cassor så hufwudsakeligen nu för tiden tarfwade, om icke Riket aldeles en gång skall gå öfwer ända, då mindre nödige utgifter eij warda inskränckte, utan behofwen dageligen ökte, warandes dylika wärck uti Herr Borgmästarens sinne wäl lämpelige uti ett Rikt land, som kan tåla att wid mackt hålla dylika prydande wettenskaper, men ingalunda oumbärlige uti ett så fattigt land som Swerige, hwarest brist är att upfylla de mäst oumgängelige tarfwor. I öfrigit hwad Bibliothequet anginge, så wore Han ej emot, det icke det samma måtte warda bibehållit, emedan det kunde tjena De Kongl. Prinssarne til nytta wid en tiltagande ålder, dock att derwid en del af betjeningen indrages och in Summa all möjelig hushåldning i akt toges.\"}, {\"bbox\": [599, 1824, 672, 1859], \"category\": \"Page-footer\", \"text\": \"128\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    923,
+    274,
+    1316,
+    309
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    596,
+    344,
+    1636,
+    677
+   ],
+   "category": "Text",
+   "text": "ningars gjörande wid Kongl. Antiquitets Collegium och Kongl. Bibliothequet härstädes och desse wärckens försättjande uppå en bättre och för Riket nyttigare fot medelst en del af Betjeningens indragande och de af densamma innehafwande Löners tilläggande åt den delen deraf, som komme att wid wärcket förblifwa, på det dessa således med mera utkomst måtte så mycket mera kunna sättjas i stånd att med behörig drift och idoghet skjöta de dem åliggande Sysslor."
+  },
+  {
+   "bbox": [
+    596,
+    677,
+    1636,
+    1008
+   ],
+   "category": "Text",
+   "text": "Herr Borgmästar Renhorn yttrade sig, det Han wore af mening, det hwad Kgl. antiquitets Collegium widkomme, borde det till Upsala warda flyttjat såsom uppå en ort, där mindre wore tillfällen att ifrån arbete distraheras än här i Stockholm, samt att det derstädes gjorde tillfyllest, om det blefwe förestådt af en särskildt Professor, som derföre kunde åtnjuta en åhrlig tillräckelig Lön och deremot wara förplicktad att den Studerande ungdomen tillhanda gå med hvad uplysning, som af honom äskas kunde."
+  },
+  {
+   "bbox": [
+    594,
+    1008,
+    1634,
+    1793
+   ],
+   "category": "Text",
+   "text": "Herr Borgmästaren hölle då före mycken större nytta warda Riket af detta wärcket tillflytande, än hittills skedt, besynnerligen som att sedan den tiden detta Collegium af Högstsal. Konung Carl den XI blef uprättat, sällan el:r aldrig undantagandes genast i början af dess inrättning några nyttige arbeten der ifrån blifwit utgifne, icke heller mera återstode till utarbetande, som kunde egentel:n skattas för Riket nyttigt wara, till förtigande dessutom af den besparing Rikets Cassor så hufwudsakeligen nu för tiden tarfwade, om icke Riket aldeles en gång skall gå öfwer ända, då mindre nödige utgifter eij warda inskränckte, utan behofwen dageligen ökte, warandes dylika wärck uti Herr Borgmästarens sinne wäl lämpelige uti ett Rikt land, som kan tåla att wid mackt hålla dylika prydande wettenskaper, men ingalunda oumbärlige uti ett så fattigt land som Swerige, hwarest brist är att upfylla de mäst oumgängelige tarfwor. I öfrigit hwad Bibliothequet anginge, så wore Han ej emot, det icke det samma måtte warda bibehållit, emedan det kunde tjena De Kongl. Prinssarne til nytta wid en tiltagande ålder, dock att derwid en del af betjeningen indrages och in Summa all möjelig hushåldning i akt toges."
+  },
+  {
+   "bbox": [
+    599,
+    1824,
+    672,
+    1859
+   ],
+   "category": "Page-footer",
+   "text": "128"
+  }
+ ]
+}

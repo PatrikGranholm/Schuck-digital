@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 294,
+ "seconds": 30.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [324, 254, 880, 297], \"category\": \"Section-header\", \"text\": \"Berchs sista tid (1766—1778)\"}, {\"bbox\": [76, 325, 1128, 402], \"category\": \"Text\", \"text\": \"wore derföre icke berättigad till något ensamt inseende öfwer sjelfwa wärket.\"}, {\"bbox\": [76, 407, 1129, 734], \"category\": \"Text\", \"text\": \"Herr Stats Secreteraren Carlschöld medgaf, att enligit Cantzlie-ordningen upsynen öfwer Antiquitets Archivum tillkomme Hof-Cantzleren, men förmente tillika, det swårligen kunna i anseende till författningar och praxis bestridas, att Cantzlie Rådet Berch framför Assessorerne derwid har ett specielt answar och wore i så måtto, hwad Herr Stats Secreteraren tilstyrkt, till det minsta en formalitet, den han för Sin del icke fant någon anlednnig att ute-lemna.\"}, {\"bbox\": [76, 739, 1129, 949], \"category\": \"Text\", \"text\": \"Herr HofCantzlern Grefwe Düben utlät sig icke kunna weta, huruwida det icke wore aldeles öfwerflödigt att på wist sätt å nyo underkasta denna saken CantzlieRådet Berchs omdöme, sedan han i det redan ingifne och uti Collegio upläste Examinations Proto-collet tillräckeligen yttrat sig öfwer de sökandes skickelighet.\"}, {\"bbox\": [76, 947, 1131, 1652], \"category\": \"Text\", \"text\": \"Hwad åter egenteliga öfwerinseendet samt specielle wården öfwer Antiquitets Archivum beträffade, trodde Herr HofCantzlern frågan derom nu så mycket mindre kunna upkomma, som Cantzlieord-ningen derutinnan är tydelig och Riksens Höglofl. Ständers Secrete Utskott äfwen wid sista Riksdag i den delen en sådan Författning giordt, som Kongl. Cantzlie Collegium med Hr. HofCantzlern behagat communicera genom Utdrag af Protocollet hållit d. 19 Dec. 1766. I öfrigit hade Hr HofCantzlern gärna sedt, att han wid tillfälle af denna vice Amanuensis Sysslans bortgifwande i Kongl. Collegio kunnat wara närwarande, hwilket ej låtit sig göra, emedan saken förewarit på en måndag, då Utrikes ärender i Kongl. Maij:ts RådCammare förehafwes, hwaräst HofCantzlern måste wara till-städes, hwarföre han ock nu tillkänna gaf sin önskan att hädan-efter, så wida mögeligheten medgifwer, de ärender, som röra Archi-verne och Kongl. Bibliothequet, ej måtte företagas, då han wore frånwarande, på det han må äga lägenhet att wid början af sakernes anmälan erindra, hwad till äwentyrs kan wara nödigt.\"}, {\"bbox\": [76, 1651, 1131, 1778], \"category\": \"Text\", \"text\": \"De öfrige Herrar Ledamöter trodde denna saken närmare kunna uplysas så wäl af Cantzlie Ordningen som af de Kongl. Författ-ningar, hwilka specielt röra Antiquitets Archivum. Af Cantzlie\"}, {\"bbox\": [1052, 1813, 1126, 1852], \"category\": \"Page-footer\", \"text\": \"277\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    324,
+    254,
+    880,
+    297
+   ],
+   "category": "Section-header",
+   "text": "Berchs sista tid (1766—1778)"
+  },
+  {
+   "bbox": [
+    76,
+    325,
+    1128,
+    402
+   ],
+   "category": "Text",
+   "text": "wore derföre icke berättigad till något ensamt inseende öfwer sjelfwa wärket."
+  },
+  {
+   "bbox": [
+    76,
+    407,
+    1129,
+    734
+   ],
+   "category": "Text",
+   "text": "Herr Stats Secreteraren Carlschöld medgaf, att enligit Cantzlie-ordningen upsynen öfwer Antiquitets Archivum tillkomme Hof-Cantzleren, men förmente tillika, det swårligen kunna i anseende till författningar och praxis bestridas, att Cantzlie Rådet Berch framför Assessorerne derwid har ett specielt answar och wore i så måtto, hwad Herr Stats Secreteraren tilstyrkt, till det minsta en formalitet, den han för Sin del icke fant någon anlednnig att ute-lemna."
+  },
+  {
+   "bbox": [
+    76,
+    739,
+    1129,
+    949
+   ],
+   "category": "Text",
+   "text": "Herr HofCantzlern Grefwe Düben utlät sig icke kunna weta, huruwida det icke wore aldeles öfwerflödigt att på wist sätt å nyo underkasta denna saken CantzlieRådet Berchs omdöme, sedan han i det redan ingifne och uti Collegio upläste Examinations Proto-collet tillräckeligen yttrat sig öfwer de sökandes skickelighet."
+  },
+  {
+   "bbox": [
+    76,
+    947,
+    1131,
+    1652
+   ],
+   "category": "Text",
+   "text": "Hwad åter egenteliga öfwerinseendet samt specielle wården öfwer Antiquitets Archivum beträffade, trodde Herr HofCantzlern frågan derom nu så mycket mindre kunna upkomma, som Cantzlieord-ningen derutinnan är tydelig och Riksens Höglofl. Ständers Secrete Utskott äfwen wid sista Riksdag i den delen en sådan Författning giordt, som Kongl. Cantzlie Collegium med Hr. HofCantzlern behagat communicera genom Utdrag af Protocollet hållit d. 19 Dec. 1766. I öfrigit hade Hr HofCantzlern gärna sedt, att han wid tillfälle af denna vice Amanuensis Sysslans bortgifwande i Kongl. Collegio kunnat wara närwarande, hwilket ej låtit sig göra, emedan saken förewarit på en måndag, då Utrikes ärender i Kongl. Maij:ts RådCammare förehafwes, hwaräst HofCantzlern måste wara till-städes, hwarföre han ock nu tillkänna gaf sin önskan att hädan-efter, så wida mögeligheten medgifwer, de ärender, som röra Archi-verne och Kongl. Bibliothequet, ej måtte företagas, då han wore frånwarande, på det han må äga lägenhet att wid början af sakernes anmälan erindra, hwad till äwentyrs kan wara nödigt."
+  },
+  {
+   "bbox": [
+    76,
+    1651,
+    1131,
+    1778
+   ],
+   "category": "Text",
+   "text": "De öfrige Herrar Ledamöter trodde denna saken närmare kunna uplysas så wäl af Cantzlie Ordningen som af de Kongl. Författ-ningar, hwilka specielt röra Antiquitets Archivum. Af Cantzlie"
+  },
+  {
+   "bbox": [
+    1052,
+    1813,
+    1126,
+    1852
+   ],
+   "category": "Page-footer",
+   "text": "277"
+  }
+ ]
+}

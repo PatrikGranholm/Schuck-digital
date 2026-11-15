@@ -1,0 +1,202 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 397,
+ "seconds": 36.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [903, 260, 1297, 296], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [574, 330, 732, 368], \"category\": \"Section-header\", \"text\": \"Af Messing\"}, {\"bbox\": [574, 371, 1497, 410], \"category\": \"List-item\", \"text\": \"[N. 173.] En guten Signets-ring; hwaruti et Leijon och en Drake.\"}, {\"bbox\": [574, 418, 1532, 492], \"category\": \"List-item\", \"text\": \"[N. 174.] En flat finger-Ring; med små Zijrater af strek och ringlar. (p. 17).\"}, {\"bbox\": [574, 495, 1624, 569], \"category\": \"List-item\", \"text\": \"[N. 175.] En stor Ring af Messing, eller blandad Koppar, giord som en Diademe. (p. 21)\"}, {\"bbox\": [574, 578, 1624, 688], \"category\": \"List-item\", \"text\": \"[N. 176.] *Coulant*, som en olive-Kiärna, af en sort Jaspis funnen i jorden på Linköpings borggård 1774 samma gång som wixel-ringen, (se pag. 36 Supra.)\"}, {\"bbox\": [716, 701, 854, 742], \"category\": \"Section-header\", \"text\": \"Örhängen.\"}, {\"bbox\": [574, 745, 992, 783], \"category\": \"List-item\", \"text\": \"[N. 177.] 2 par af Ametister.\"}, {\"bbox\": [574, 792, 957, 831], \"category\": \"List-item\", \"text\": \"[N. 178.] 1 p. af granater.\"}, {\"bbox\": [574, 839, 1173, 878], \"category\": \"List-item\", \"text\": \"[N. 179.] 1 p. af små rubiner och pärlor.\"}, {\"bbox\": [574, 886, 1621, 961], \"category\": \"List-item\", \"text\": \"[N. 180.] 1 p. af Wattn-opaler, allesamman ifrån Räntecammaren, 1752 til Archivum aflemnade: skola hafwa kommit ifrån Riga.\"}, {\"bbox\": [574, 969, 1624, 1079], \"category\": \"List-item\", \"text\": \"[N. 181.] *Hårnål af Gull*, sönderbruten; med påskrifft Conenstent. Anno 1638: War likwäl hel, när hon uptogs funnit under Westerås slott; då det efter sidsta branden reparerades, år 1738.\"}, {\"bbox\": [574, 1086, 1626, 1196], \"category\": \"List-item\", \"text\": \"[N. 182.] *Gull-Kedja* med widhängande Pryl, eller Tandpeta; också af Gull. Funnen i Norrköping, på Johannis Kyrckogård, då en graf ränsades. Insänd d. 16 Febr. 1749.\"}, {\"bbox\": [574, 1205, 1624, 1314], \"category\": \"List-item\", \"text\": \"[N. 183.] *Silfwer-Kedja* af flera trådar och Lenckor; uti tre afdelningar, sammanfogade med ringar. Tyckes hafwa tient något Fruentimmer, at derwid hänga sin Sax, Nåldosa och dylikt.\"}, {\"bbox\": [574, 1322, 1624, 1397], \"category\": \"List-item\", \"text\": \"[N. 184.] Annan af tre strängar, wid ena ändan häfftade i en ring, funnen på Öland 1775, [se Anm. p. 27.]\"}, {\"bbox\": [574, 1404, 1624, 1550], \"category\": \"List-item\", \"text\": \"[N. 185.] *Silfwerkedja* med tre Knappar; och derwid hängande Helgedomakar; på ena sidan är graverat Frälsaren på Korset; på den andra Mariæ och Ewangelisternas bilder. Funnen i jorden på Öland 1763. [Anm. p. 22.]\"}, {\"bbox\": [574, 1559, 1624, 1667], \"category\": \"List-item\", \"text\": \"[N. 186.] [*Silfwerkedja* af flera trådar och twå ringar hvaruti hänger et cizelerat smycke, kanhända Helgedomakar. Funnit i jorden på Öland och til Archivum inlöst 1780.]\"}, {\"bbox\": [574, 1671, 1624, 1781], \"category\": \"List-item\", \"text\": \"[N. 187.] *Massift Silfwerbälte*, hwarpå är skrifwit: Upriktighet Mandom och Tro; godt aer hoos them på jorden bo. 1603. Derwid hänger K. Carl den IX:des medaille med devise: Jehovah ist mein trost.\"}, {\"bbox\": [574, 1807, 648, 1855], \"category\": \"Page-footer\", \"text\": \"378\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    903,
+    260,
+    1297,
+    296
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    574,
+    330,
+    732,
+    368
+   ],
+   "category": "Section-header",
+   "text": "Af Messing"
+  },
+  {
+   "bbox": [
+    574,
+    371,
+    1497,
+    410
+   ],
+   "category": "List-item",
+   "text": "[N. 173.] En guten Signets-ring; hwaruti et Leijon och en Drake."
+  },
+  {
+   "bbox": [
+    574,
+    418,
+    1532,
+    492
+   ],
+   "category": "List-item",
+   "text": "[N. 174.] En flat finger-Ring; med små Zijrater af strek och ringlar. (p. 17)."
+  },
+  {
+   "bbox": [
+    574,
+    495,
+    1624,
+    569
+   ],
+   "category": "List-item",
+   "text": "[N. 175.] En stor Ring af Messing, eller blandad Koppar, giord som en Diademe. (p. 21)"
+  },
+  {
+   "bbox": [
+    574,
+    578,
+    1624,
+    688
+   ],
+   "category": "List-item",
+   "text": "[N. 176.] *Coulant*, som en olive-Kiärna, af en sort Jaspis funnen i jorden på Linköpings borggård 1774 samma gång som wixel-ringen, (se pag. 36 Supra.)"
+  },
+  {
+   "bbox": [
+    716,
+    701,
+    854,
+    742
+   ],
+   "category": "Section-header",
+   "text": "Örhängen."
+  },
+  {
+   "bbox": [
+    574,
+    745,
+    992,
+    783
+   ],
+   "category": "List-item",
+   "text": "[N. 177.] 2 par af Ametister."
+  },
+  {
+   "bbox": [
+    574,
+    792,
+    957,
+    831
+   ],
+   "category": "List-item",
+   "text": "[N. 178.] 1 p. af granater."
+  },
+  {
+   "bbox": [
+    574,
+    839,
+    1173,
+    878
+   ],
+   "category": "List-item",
+   "text": "[N. 179.] 1 p. af små rubiner och pärlor."
+  },
+  {
+   "bbox": [
+    574,
+    886,
+    1621,
+    961
+   ],
+   "category": "List-item",
+   "text": "[N. 180.] 1 p. af Wattn-opaler, allesamman ifrån Räntecammaren, 1752 til Archivum aflemnade: skola hafwa kommit ifrån Riga."
+  },
+  {
+   "bbox": [
+    574,
+    969,
+    1624,
+    1079
+   ],
+   "category": "List-item",
+   "text": "[N. 181.] *Hårnål af Gull*, sönderbruten; med påskrifft Conenstent. Anno 1638: War likwäl hel, när hon uptogs funnit under Westerås slott; då det efter sidsta branden reparerades, år 1738."
+  },
+  {
+   "bbox": [
+    574,
+    1086,
+    1626,
+    1196
+   ],
+   "category": "List-item",
+   "text": "[N. 182.] *Gull-Kedja* med widhängande Pryl, eller Tandpeta; också af Gull. Funnen i Norrköping, på Johannis Kyrckogård, då en graf ränsades. Insänd d. 16 Febr. 1749."
+  },
+  {
+   "bbox": [
+    574,
+    1205,
+    1624,
+    1314
+   ],
+   "category": "List-item",
+   "text": "[N. 183.] *Silfwer-Kedja* af flera trådar och Lenckor; uti tre afdelningar, sammanfogade med ringar. Tyckes hafwa tient något Fruentimmer, at derwid hänga sin Sax, Nåldosa och dylikt."
+  },
+  {
+   "bbox": [
+    574,
+    1322,
+    1624,
+    1397
+   ],
+   "category": "List-item",
+   "text": "[N. 184.] Annan af tre strängar, wid ena ändan häfftade i en ring, funnen på Öland 1775, [se Anm. p. 27.]"
+  },
+  {
+   "bbox": [
+    574,
+    1404,
+    1624,
+    1550
+   ],
+   "category": "List-item",
+   "text": "[N. 185.] *Silfwerkedja* med tre Knappar; och derwid hängande Helgedomakar; på ena sidan är graverat Frälsaren på Korset; på den andra Mariæ och Ewangelisternas bilder. Funnen i jorden på Öland 1763. [Anm. p. 22.]"
+  },
+  {
+   "bbox": [
+    574,
+    1559,
+    1624,
+    1667
+   ],
+   "category": "List-item",
+   "text": "[N. 186.] [*Silfwerkedja* af flera trådar och twå ringar hvaruti hänger et cizelerat smycke, kanhända Helgedomakar. Funnit i jorden på Öland och til Archivum inlöst 1780.]"
+  },
+  {
+   "bbox": [
+    574,
+    1671,
+    1624,
+    1781
+   ],
+   "category": "List-item",
+   "text": "[N. 187.] *Massift Silfwerbälte*, hwarpå är skrifwit: Upriktighet Mandom och Tro; godt aer hoos them på jorden bo. 1603. Derwid hänger K. Carl den IX:des medaille med devise: Jehovah ist mein trost."
+  },
+  {
+   "bbox": [
+    574,
+    1807,
+    648,
+    1855
+   ],
+   "category": "Page-footer",
+   "text": "378"
+  }
+ ]
+}

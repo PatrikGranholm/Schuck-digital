@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 223,
+ "seconds": 31.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [885, 242, 1279, 277], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [588, 312, 1370, 356], \"category\": \"Text\", \"text\": \"Herr Cantzlirådet Rabbe yttrade sig, som följer,\"}, {\"bbox\": [552, 354, 1606, 967], \"category\": \"Text\", \"text\": \"Det är med så många och grundeliga skäl, som Herr Cantzli Rådet Arnell bestyrkt des wal af Personer till detta underdåniga förslags upprättande, att jag för min del eij annat kan, än med honom alldeles instämma, Läggandes endast dertill, hwad Cantzlisten Kjellström beträffar, att då han tjänar wid ett Kongl. Collegium, som öfwer Archiverne och Bibliothequet har inseende, och wid en Expedition, der sådane ärender esom oftast förekomma, jag så mycket mindre kan anse honom som främmande till den beställning, han nu söker, som under den tiden jag hafft den äran att wid Kongl. Collegii Expedition wara Secreterare, jag aldrabäst haft tillfälle att lära känna hans egenskaper och är öfwertygad, att hwad hos honom kunde äskas af den kundskap och öfning, som icke kan winnas utan af ett omedelbart deltagande i Archivi sysslorne, hans goda begrepp, flit och application sådant honom innom kort tid tillräckeligen förwärfwar.\"}, {\"bbox\": [590, 974, 1454, 1018], \"category\": \"Text\", \"text\": \"Herr Cantzli Rådet Rosenadler yttrade sig som följer:\"}, {\"bbox\": [552, 1016, 1605, 1348], \"category\": \"Text\", \"text\": \"Som Antiquitets Archivum är af särskildt beskaffenhet och fordrar sina särskilta kundskaper, så tror jag mig wid förslaget egentel. böra reflectera på dem, som förut tjänt wid detta wärk och wist sig äga insikt uti de dithörande stycken. I anledning deraf och til följe af 2 § i 1756 års förordning föreslår jag bägge Amanuenserne Görvell och Brocman, dock hwad Brocman beträffar, håller jag före, att omständigheterne, huru wida han må anses såsom den sig i rättan tid anmält, må Kongl. Maij:sts nådiga godtfinnande underställas.\"}, {\"bbox\": [554, 1347, 1603, 1471], \"category\": \"Text\", \"text\": \"Sedan fyller jag förslaget med den älsta af de öfrige sökande, neml. Registratoren Åkersten, hälst des innehafwande sysla äger de mäst analogue göromål med dem, som uti Antiquitets Archivo förekomma.\"}, {\"bbox\": [552, 1470, 1605, 1762], \"category\": \"Text\", \"text\": \"Herr Cantzli Rådet Lagerflycht trodde sig wäl å ena sidan böra i stöd af Tjänstebetänkandet föreslå dem, som hade mästa ancienneteten, men hölt derjämte före, att den af de sökande icke kunde utslutas, som blifwit af Chefen i synnerhet anmäld såsom ägande den skickelighet, hwilken fordras wid det till denna lediga sysla hörande Departement. Herr Cantzli Rådet nämde således registratorn Åkersten, och Cantzlisten Kjällström, som af de sökande woro de äldste,\"}, {\"bbox\": [557, 1788, 632, 1826], \"category\": \"Page-footer\", \"text\": \"206\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    885,
+    242,
+    1279,
+    277
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    588,
+    312,
+    1370,
+    356
+   ],
+   "category": "Text",
+   "text": "Herr Cantzlirådet Rabbe yttrade sig, som följer,"
+  },
+  {
+   "bbox": [
+    552,
+    354,
+    1606,
+    967
+   ],
+   "category": "Text",
+   "text": "Det är med så många och grundeliga skäl, som Herr Cantzli Rådet Arnell bestyrkt des wal af Personer till detta underdåniga förslags upprättande, att jag för min del eij annat kan, än med honom alldeles instämma, Läggandes endast dertill, hwad Cantzlisten Kjellström beträffar, att då han tjänar wid ett Kongl. Collegium, som öfwer Archiverne och Bibliothequet har inseende, och wid en Expedition, der sådane ärender esom oftast förekomma, jag så mycket mindre kan anse honom som främmande till den beställning, han nu söker, som under den tiden jag hafft den äran att wid Kongl. Collegii Expedition wara Secreterare, jag aldrabäst haft tillfälle att lära känna hans egenskaper och är öfwertygad, att hwad hos honom kunde äskas af den kundskap och öfning, som icke kan winnas utan af ett omedelbart deltagande i Archivi sysslorne, hans goda begrepp, flit och application sådant honom innom kort tid tillräckeligen förwärfwar."
+  },
+  {
+   "bbox": [
+    590,
+    974,
+    1454,
+    1018
+   ],
+   "category": "Text",
+   "text": "Herr Cantzli Rådet Rosenadler yttrade sig som följer:"
+  },
+  {
+   "bbox": [
+    552,
+    1016,
+    1605,
+    1348
+   ],
+   "category": "Text",
+   "text": "Som Antiquitets Archivum är af särskildt beskaffenhet och fordrar sina särskilta kundskaper, så tror jag mig wid förslaget egentel. böra reflectera på dem, som förut tjänt wid detta wärk och wist sig äga insikt uti de dithörande stycken. I anledning deraf och til följe af 2 § i 1756 års förordning föreslår jag bägge Amanuenserne Görvell och Brocman, dock hwad Brocman beträffar, håller jag före, att omständigheterne, huru wida han må anses såsom den sig i rättan tid anmält, må Kongl. Maij:sts nådiga godtfinnande underställas."
+  },
+  {
+   "bbox": [
+    554,
+    1347,
+    1603,
+    1471
+   ],
+   "category": "Text",
+   "text": "Sedan fyller jag förslaget med den älsta af de öfrige sökande, neml. Registratoren Åkersten, hälst des innehafwande sysla äger de mäst analogue göromål med dem, som uti Antiquitets Archivo förekomma."
+  },
+  {
+   "bbox": [
+    552,
+    1470,
+    1605,
+    1762
+   ],
+   "category": "Text",
+   "text": "Herr Cantzli Rådet Lagerflycht trodde sig wäl å ena sidan böra i stöd af Tjänstebetänkandet föreslå dem, som hade mästa ancienneteten, men hölt derjämte före, att den af de sökande icke kunde utslutas, som blifwit af Chefen i synnerhet anmäld såsom ägande den skickelighet, hwilken fordras wid det till denna lediga sysla hörande Departement. Herr Cantzli Rådet nämde således registratorn Åkersten, och Cantzlisten Kjällström, som af de sökande woro de äldste,"
+  },
+  {
+   "bbox": [
+    557,
+    1788,
+    632,
+    1826
+   ],
+   "category": "Page-footer",
+   "text": "206"
+  }
+ ]
+}

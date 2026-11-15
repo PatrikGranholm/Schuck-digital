@@ -1,0 +1,32 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 5,
+ "seconds": 10.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [157, 146, 302, 192], \"category\": \"Page-header\", \"text\": \"Coll. Cat.\"}, {\"bbox\": [171, 2258, 255, 2384], \"category\": \"Page-footer\", \"text\": \"GUST. HEDBERG\\nROFBOG\\nSUNDARE\\nSTOCKHOLM\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    157,
+    146,
+    302,
+    192
+   ],
+   "category": "Page-header",
+   "text": "Coll. Cat."
+  },
+  {
+   "bbox": [
+    171,
+    2258,
+    255,
+    2384
+   ],
+   "category": "Page-footer",
+   "text": "GUST. HEDBERG\nROFBOG\nSUNDARE\nSTOCKHOLM"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 181,
+ "seconds": 30.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [937, 274, 1331, 310], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [607, 343, 1651, 752], \"category\": \"Text\", \"text\": \"manhanget af detta mindre eftertänksamma Föregifwande, kunde efter anstäld Undersökning på Stället om en mer eller mindre Möjelighet af et slikt Fynd ingen Längtan gjöra mig Sagesmannens Närvarelse angelägen. Hans olika Utlåtelser öfver et så märkligt sit eget Försök och noga Besigtning af alla förnämnda Byägor, som med des upgifna Beskrifning kunde äga någon Gemenskap, gjorde mig til fullo öfvertygad därom, at Sanning och Trovärdighet icke varit förste Sagsmannen så om Hjertat, som man skäligen af en sådan Man och Undersåte inför sin Patron eller höga Öfverhet åtminstone bort förmoda.»\"}, {\"bbox\": [604, 757, 1649, 1373], \"category\": \"Text\", \"text\": \"Reseberättelsen var tillika en offentlig förklaring, att antikvitetsarkivet befriat sig från all rudbeckianism. Dess siste epigon inom arkivet hade Bonde varit. Någon nytta inom detta hade han ej gjort, men knappast heller någon skada, då han personligen var en human och fin gammal herre, som icke med maktmedel sökte att tvinga sina meningar igenom. För arkivets organisation och verksamhet var det därför utan någon större betydelse, att riksdagen gjort honom till inspektor för fornforskningen inom landet. Viktigare var ständernas ingripande till förmån för Botin, som på riksdagens förslag utnämnts till e. o. assessor med 600 dalers lön. I och för sig var — såsom redan framhållits — detta ett steg i rätt riktning, för så vitt den tanken låg bakom, att landets främste historiker och fornforskare borde fästas vid arkivet. Ty detta var att upptaga traditionen från det gamla antikvitetskollegiets början, då kollegiet vida mera var en lärd akademi än ett ämbetsverk.\"}, {\"bbox\": [602, 1377, 1646, 1795], \"category\": \"Text\", \"text\": \"Men man har anledning att åtminstone misstänka, att i ständernas välvilja mot Botin även ett partipolitiskt motiv ingått. Botin var en av hattpartiets bästa pennor, en verkligt lärd historiker, och vid samma riksdag, då han föreslogs till e. o. assessor, hade ett beslut fattats om utarbetandet av en avhandling om Sveriges gällande sälla statsskick. Den 21 oktober 1756 skrevo nämligen riksens ständer till Kungl. Maj:t: »Hos Riksens Ständer har uti ömt öfwerwägande kommit, huru angelägit det är, att Rikets fundamentale Lagar måtte blifwa af hwar och en Rikets undersåtare till dess rätta innehåll bekandta och så wäl gemene man som andra blifwa i det möjeligaste\"}, {\"bbox\": [470, 1382, 596, 1445], \"category\": \"Text\", \"text\": \"Politiska befordringar\"}, {\"bbox\": [606, 1821, 682, 1866], \"category\": \"Page-footer\", \"text\": \"164\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    937,
+    274,
+    1331,
+    310
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    607,
+    343,
+    1651,
+    752
+   ],
+   "category": "Text",
+   "text": "manhanget af detta mindre eftertänksamma Föregifwande, kunde efter anstäld Undersökning på Stället om en mer eller mindre Möjelighet af et slikt Fynd ingen Längtan gjöra mig Sagesmannens Närvarelse angelägen. Hans olika Utlåtelser öfver et så märkligt sit eget Försök och noga Besigtning af alla förnämnda Byägor, som med des upgifna Beskrifning kunde äga någon Gemenskap, gjorde mig til fullo öfvertygad därom, at Sanning och Trovärdighet icke varit förste Sagsmannen så om Hjertat, som man skäligen af en sådan Man och Undersåte inför sin Patron eller höga Öfverhet åtminstone bort förmoda.»"
+  },
+  {
+   "bbox": [
+    604,
+    757,
+    1649,
+    1373
+   ],
+   "category": "Text",
+   "text": "Reseberättelsen var tillika en offentlig förklaring, att antikvitetsarkivet befriat sig från all rudbeckianism. Dess siste epigon inom arkivet hade Bonde varit. Någon nytta inom detta hade han ej gjort, men knappast heller någon skada, då han personligen var en human och fin gammal herre, som icke med maktmedel sökte att tvinga sina meningar igenom. För arkivets organisation och verksamhet var det därför utan någon större betydelse, att riksdagen gjort honom till inspektor för fornforskningen inom landet. Viktigare var ständernas ingripande till förmån för Botin, som på riksdagens förslag utnämnts till e. o. assessor med 600 dalers lön. I och för sig var — såsom redan framhållits — detta ett steg i rätt riktning, för så vitt den tanken låg bakom, att landets främste historiker och fornforskare borde fästas vid arkivet. Ty detta var att upptaga traditionen från det gamla antikvitetskollegiets början, då kollegiet vida mera var en lärd akademi än ett ämbetsverk."
+  },
+  {
+   "bbox": [
+    602,
+    1377,
+    1646,
+    1795
+   ],
+   "category": "Text",
+   "text": "Men man har anledning att åtminstone misstänka, att i ständernas välvilja mot Botin även ett partipolitiskt motiv ingått. Botin var en av hattpartiets bästa pennor, en verkligt lärd historiker, och vid samma riksdag, då han föreslogs till e. o. assessor, hade ett beslut fattats om utarbetandet av en avhandling om Sveriges gällande sälla statsskick. Den 21 oktober 1756 skrevo nämligen riksens ständer till Kungl. Maj:t: »Hos Riksens Ständer har uti ömt öfwerwägande kommit, huru angelägit det är, att Rikets fundamentale Lagar måtte blifwa af hwar och en Rikets undersåtare till dess rätta innehåll bekandta och så wäl gemene man som andra blifwa i det möjeligaste"
+  },
+  {
+   "bbox": [
+    470,
+    1382,
+    596,
+    1445
+   ],
+   "category": "Text",
+   "text": "Politiska befordringar"
+  },
+  {
+   "bbox": [
+    606,
+    1821,
+    682,
+    1866
+   ],
+   "category": "Page-footer",
+   "text": "164"
+  }
+ ]
+}

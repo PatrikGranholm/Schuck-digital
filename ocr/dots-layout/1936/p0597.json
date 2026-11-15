@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 597,
+ "seconds": 31.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [905, 244, 1304, 279], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [575, 315, 1624, 399], \"category\": \"Text\", \"text\": \"m. m.) börjar han med Uppland och Stockholm, först med uppgifter om gatorna i den gamla staden. T. ex. Skomakaregatan.\"}, {\"bbox\": [575, 415, 1548, 499], \"category\": \"Text\", \"text\": \"»1388 war et hus där belägit, pantsatt til Upsala domkyrcka. Helga Likama hus war där belägit 1488.\"}, {\"bbox\": [646, 499, 1162, 541], \"category\": \"Text\", \"text\": \"Capella gilde hus där redan 1409.\"}, {\"bbox\": [579, 541, 1624, 625], \"category\": \"Text\", \"text\": \"1489 hade Upsala domk. et par trägårdar, som hon bortbytte emot jord på Färingön.\"}, {\"bbox\": [579, 625, 1624, 831], \"category\": \"Text\", \"text\": \"1494 wid Skomakare-brincken låg et hus, som räntade årl. 20 marker, hwilket Biscop Cordt i Strängnäs köpte och lade under SS. Petri et Pauli chor i Stockholms storkyrcka. Wid denne Skomakare gata nämnes ock S. Michaelis gilde hus och sub A:0 1436 wårfrugilles.\"}, {\"bbox\": [575, 831, 1624, 913], \"category\": \"Text\", \"text\": \"Wissmar-gatan. Rådman Henrich Dünckstedt hade 1413 sit Stenhus be Norden der Porte alss man gheit to deme Wismarkate.»\"}, {\"bbox\": [575, 936, 1624, 1425], \"category\": \"Text\", \"text\": \"Efter gatorna kommer han till de gamla stadsportarna, torgen, Storkyrkan och Tyska kyrkan, Riddarhuset, Bancohuset och Bollhuset, adliga palats, borgmästare och rådmän samt borgerliga näringar, övergår sedan till att på samma sätt göra anteckningar om Riddarholmen, Södermalm, Norrmalm, Helgeandsholmen, Kungsträdgården, Blasieholmen, Skeppsholmen, Kungsholmen, Ladugårdslandet och Valmalsön. Från Stockholm vänder han sig till de andra Upplandsstäderna, Uppsala, Enköping, Norrtälje, Öregrund, Östhammar, Sigtuna och Björkö, kommer sedan till slotten, där han på tal om Drottningholm yttrar sig särdeles utförligt om Lovisa Ulrikas samlingar. Därefter följa de andra landskapen, dock mera kortfattat.\"}, {\"bbox\": [575, 1431, 1624, 1765], \"category\": \"Text\", \"text\": \"Även med svensk biografi sysselsatte han sig, och i Vitterhets-, Historie- och Antikvitetsakademien finnes en annan stor foliovolym: Anwisning på Swenska Privata personers Lefwernes-Beskrifningar, som til största delen finnas hos C. R. B. Han redogör här först för äldre biografiska arbeten och därefter för sin egen samling, som han indelat först i folier, kvarter och oktaver med underavdelningar: personalier utan likpredikningar och med sådana, vidare i riksens råd, ämbetsmän, prästerskap, borgerskap och fruntimmer. Sam-\"}, {\"bbox\": [579, 1791, 651, 1839], \"category\": \"Page-footer\", \"text\": \"568\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    905,
+    244,
+    1304,
+    279
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    575,
+    315,
+    1624,
+    399
+   ],
+   "category": "Text",
+   "text": "m. m.) börjar han med Uppland och Stockholm, först med uppgifter om gatorna i den gamla staden. T. ex. Skomakaregatan."
+  },
+  {
+   "bbox": [
+    575,
+    415,
+    1548,
+    499
+   ],
+   "category": "Text",
+   "text": "»1388 war et hus där belägit, pantsatt til Upsala domkyrcka. Helga Likama hus war där belägit 1488."
+  },
+  {
+   "bbox": [
+    646,
+    499,
+    1162,
+    541
+   ],
+   "category": "Text",
+   "text": "Capella gilde hus där redan 1409."
+  },
+  {
+   "bbox": [
+    579,
+    541,
+    1624,
+    625
+   ],
+   "category": "Text",
+   "text": "1489 hade Upsala domk. et par trägårdar, som hon bortbytte emot jord på Färingön."
+  },
+  {
+   "bbox": [
+    579,
+    625,
+    1624,
+    831
+   ],
+   "category": "Text",
+   "text": "1494 wid Skomakare-brincken låg et hus, som räntade årl. 20 marker, hwilket Biscop Cordt i Strängnäs köpte och lade under SS. Petri et Pauli chor i Stockholms storkyrcka. Wid denne Skomakare gata nämnes ock S. Michaelis gilde hus och sub A:0 1436 wårfrugilles."
+  },
+  {
+   "bbox": [
+    575,
+    831,
+    1624,
+    913
+   ],
+   "category": "Text",
+   "text": "Wissmar-gatan. Rådman Henrich Dünckstedt hade 1413 sit Stenhus be Norden der Porte alss man gheit to deme Wismarkate.»"
+  },
+  {
+   "bbox": [
+    575,
+    936,
+    1624,
+    1425
+   ],
+   "category": "Text",
+   "text": "Efter gatorna kommer han till de gamla stadsportarna, torgen, Storkyrkan och Tyska kyrkan, Riddarhuset, Bancohuset och Bollhuset, adliga palats, borgmästare och rådmän samt borgerliga näringar, övergår sedan till att på samma sätt göra anteckningar om Riddarholmen, Södermalm, Norrmalm, Helgeandsholmen, Kungsträdgården, Blasieholmen, Skeppsholmen, Kungsholmen, Ladugårdslandet och Valmalsön. Från Stockholm vänder han sig till de andra Upplandsstäderna, Uppsala, Enköping, Norrtälje, Öregrund, Östhammar, Sigtuna och Björkö, kommer sedan till slotten, där han på tal om Drottningholm yttrar sig särdeles utförligt om Lovisa Ulrikas samlingar. Därefter följa de andra landskapen, dock mera kortfattat."
+  },
+  {
+   "bbox": [
+    575,
+    1431,
+    1624,
+    1765
+   ],
+   "category": "Text",
+   "text": "Även med svensk biografi sysselsatte han sig, och i Vitterhets-, Historie- och Antikvitetsakademien finnes en annan stor foliovolym: Anwisning på Swenska Privata personers Lefwernes-Beskrifningar, som til största delen finnas hos C. R. B. Han redogör här först för äldre biografiska arbeten och därefter för sin egen samling, som han indelat först i folier, kvarter och oktaver med underavdelningar: personalier utan likpredikningar och med sådana, vidare i riksens råd, ämbetsmän, prästerskap, borgerskap och fruntimmer. Sam-"
+  },
+  {
+   "bbox": [
+    579,
+    1791,
+    651,
+    1839
+   ],
+   "category": "Page-footer",
+   "text": "568"
+  }
+ ]
+}

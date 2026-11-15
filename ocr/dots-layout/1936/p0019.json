@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 19,
+ "seconds": 31.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [857, 276, 1255, 313], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [526, 345, 1586, 724], \"category\": \"Text\", \"text\": \"några tiotal år. Det var Carl Reinhold Berch. Att han ej helt lyckades att rycka upp den alldeles förfallna institutionen, var ej hans fel, ty han hade att kämpa mot svårigheter, som en enskild man, hur duglig han än må vara, icke kan betvinga — först mot hela den utilistiska tidsandan, som ej hade sinne för något så onyttigt som fornforskningen, och sedan mot frihetstidens så förlamande riksdagstyrelse. Men om han än härigenom hindrades att få den hjälp, som var nödig, utförde han ensam ett arbete, som torde kunna ställas vid sidan av Hadorphs och Peringskiölds.\"}, {\"bbox\": [397, 724, 521, 819], \"category\": \"Text\", \"text\": \"Berchs biografi före 1747\"}, {\"bbox\": [520, 721, 1580, 1726], \"category\": \"Text\", \"text\": \"I motsats till Helin och hans assessorer sökte Berch chefsplatsen ej för lönens skull utan av intresse för dess uppgifter, och i viss mån kan sägas, att han under sin ungdom och första mannaålder huvudsakligen beredde sig på att kunna övertaga och göra sig kompetent för denna plats. Han var född i Stockholm 1706 i ett visserligen ej rikt, men burget borgerligt föräldrahem och erhöll därför en mycket god uppfostran. Vid fjorton års ålder sattes han i Tyska skolan, som då var Stockholms förnämsta läroanstalt, enär något gymnasium ännu ej fanns i huvudstaden. Rektor för skolan var en ganska märklig man, J. B. Steinmeyer, särskilt bekant för sitt intresse för den s. k. sinnebildskonsten eller konsten att författa inskriptioner och emblem för medaljer, publika byggnader o. d., och detta intresse fick nu även Berch, medan han ännu satt på skolbänken. Denna sinnebildskonst sammanhängde mycket nära med numismatiken, som under 1700-talet blev antikvitetsarkivets viktigaste arbetsområde, och redan som skolgosse började Berch sin myntsamling. I sin självbiografi (tryckt 1916) berättar han: »Uti Tyska scholan hade redan en af disciplarne skaffat honom en hop af Karlstens jettoner, dem han giärna hanterade för sinnebildernas skull som ett diupsinnigt språk, hwilket inga andra än hans då warande Rector kunde tala. En annan gång fick han köpa ett litet antal gamla Swenska Mynt, och sidst gaf honom hans ifrån fremmande orter hemkommande moderbroder Reinhold Cedercreutz en stor hop Romerske, fast än föga betydeliga och mäst du Bas-Empire.»\"}, {\"bbox\": [518, 1725, 1566, 1812], \"category\": \"Text\", \"text\": \"1722 började han att studera vid Uppsala universitet, där han visserligen ej avlade någon examen — detta var då mindre vanligt\"}, {\"bbox\": [521, 1844, 542, 1872], \"category\": \"Page-footer\", \"text\": \"2\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    857,
+    276,
+    1255,
+    313
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    526,
+    345,
+    1586,
+    724
+   ],
+   "category": "Text",
+   "text": "några tiotal år. Det var Carl Reinhold Berch. Att han ej helt lyckades att rycka upp den alldeles förfallna institutionen, var ej hans fel, ty han hade att kämpa mot svårigheter, som en enskild man, hur duglig han än må vara, icke kan betvinga — först mot hela den utilistiska tidsandan, som ej hade sinne för något så onyttigt som fornforskningen, och sedan mot frihetstidens så förlamande riksdagstyrelse. Men om han än härigenom hindrades att få den hjälp, som var nödig, utförde han ensam ett arbete, som torde kunna ställas vid sidan av Hadorphs och Peringskiölds."
+  },
+  {
+   "bbox": [
+    397,
+    724,
+    521,
+    819
+   ],
+   "category": "Text",
+   "text": "Berchs biografi före 1747"
+  },
+  {
+   "bbox": [
+    520,
+    721,
+    1580,
+    1726
+   ],
+   "category": "Text",
+   "text": "I motsats till Helin och hans assessorer sökte Berch chefsplatsen ej för lönens skull utan av intresse för dess uppgifter, och i viss mån kan sägas, att han under sin ungdom och första mannaålder huvudsakligen beredde sig på att kunna övertaga och göra sig kompetent för denna plats. Han var född i Stockholm 1706 i ett visserligen ej rikt, men burget borgerligt föräldrahem och erhöll därför en mycket god uppfostran. Vid fjorton års ålder sattes han i Tyska skolan, som då var Stockholms förnämsta läroanstalt, enär något gymnasium ännu ej fanns i huvudstaden. Rektor för skolan var en ganska märklig man, J. B. Steinmeyer, särskilt bekant för sitt intresse för den s. k. sinnebildskonsten eller konsten att författa inskriptioner och emblem för medaljer, publika byggnader o. d., och detta intresse fick nu även Berch, medan han ännu satt på skolbänken. Denna sinnebildskonst sammanhängde mycket nära med numismatiken, som under 1700-talet blev antikvitetsarkivets viktigaste arbetsområde, och redan som skolgosse började Berch sin myntsamling. I sin självbiografi (tryckt 1916) berättar han: »Uti Tyska scholan hade redan en af disciplarne skaffat honom en hop af Karlstens jettoner, dem han giärna hanterade för sinnebildernas skull som ett diupsinnigt språk, hwilket inga andra än hans då warande Rector kunde tala. En annan gång fick han köpa ett litet antal gamla Swenska Mynt, och sidst gaf honom hans ifrån fremmande orter hemkommande moderbroder Reinhold Cedercreutz en stor hop Romerske, fast än föga betydeliga och mäst du Bas-Empire.»"
+  },
+  {
+   "bbox": [
+    518,
+    1725,
+    1566,
+    1812
+   ],
+   "category": "Text",
+   "text": "1722 började han att studera vid Uppsala universitet, där han visserligen ej avlade någon examen — detta var då mindre vanligt"
+  },
+  {
+   "bbox": [
+    521,
+    1844,
+    542,
+    1872
+   ],
+   "category": "Page-footer",
+   "text": "2"
+  }
+ ]
+}

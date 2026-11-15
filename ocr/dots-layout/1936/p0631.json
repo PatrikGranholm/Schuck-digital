@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 631,
+ "seconds": 29.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [907, 268, 1302, 305], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [577, 337, 1622, 468], \"category\": \"Text\", \"text\": \"kunna ständigt vistas i Stockholm, äfwen agtade sig wara utom stånd att kunna med detta arbete sig sysslosätta, hwaruppå betänkandet om Rikshistorien ytterligare justerades».\"}, {\"bbox\": [577, 463, 1627, 924], \"category\": \"Text\", \"text\": \"Sedan kollegiet refererat de här citerade memorialen från Celse, Bring och Berch, fortsätter skrivelsen: »Collegium har ock derföre nu, då et så önskat tillfälle gifwits, låtit sitt första giöromål wara at höra RiksHistoriographen Cantzli Rådet von Celse, huruwida han förenemde arbete sig wille åtaga. Utaf hans Swar och Memorial, som härhos följer, lärer Högloflige Deputationen inhemta, hwad hinder honom i wägen ligga, kunnande Collegium ej neka, at icke med de skähl han anfördt och med det widsträckta och nyttiga wärck han har under händer, som lärer komma at bestå i en Historia critica Historicorum Septentrionis, Collegium måste anse hans förfall för giällande.\"}, {\"bbox\": [582, 919, 1629, 1414], \"category\": \"Text\", \"text\": \"Samma förfall företer sig äfwen till en del för Riks Historiographen Schönberg. Såsom han aldeles ingen lön på Stat åtnjuter, så synes ännu mindre han kunna påläggas at ständigt wistas här i Staden, hwarföre han ock redan för detta warit föranlåten at undanbedja sig författandet af Konung Carl den XI:s Historia, den Collegium eljest welat honom updraga, och äfwen nu undanbedt sig den omtalte fortsättningen af von Dalins Riks Historia. Collegium har således trodt sig böra hafwa i synnerhet afseende på några sådane, hwilka såsom jemt wistande här i Staden kunde derigenom hafwa ständig tillgång till Archiverne, derutur de förnemsta uplysningar och efterrättelser till en RiksHistorias sammanskrifwande böra hemtas.\"}, {\"bbox\": [586, 1415, 1632, 1751], \"category\": \"Text\", \"text\": \"Deribland är Cantzli Rådet och Antiqvarien Berck, som nogsamt är känd ej mindre för insikt uti de till en RiksHistoria hörande delar, än för en behagelig och Snillerik skrifart. Men hwarföre han icke tilltrodt sig kunna detta i fråga warande Arbete företaga, det har han förklarat uti hosföljande dess Memorial och hwarwid han tillika omnämdt en af honom redan författad Historia i anledning af Sweriges Konungars skådepenningar, hwarom Collegium här nedanföre will widare sig yttra.\"}, {\"bbox\": [627, 1746, 1632, 1793], \"category\": \"Text\", \"text\": \"Kongl. Collegium har ej heller undfallit de goda egenskaper och\"}, {\"bbox\": [591, 1821, 668, 1860], \"category\": \"Page-footer\", \"text\": \"602\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    907,
+    268,
+    1302,
+    305
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    577,
+    337,
+    1622,
+    468
+   ],
+   "category": "Text",
+   "text": "kunna ständigt vistas i Stockholm, äfwen agtade sig wara utom stånd att kunna med detta arbete sig sysslosätta, hwaruppå betänkandet om Rikshistorien ytterligare justerades»."
+  },
+  {
+   "bbox": [
+    577,
+    463,
+    1627,
+    924
+   ],
+   "category": "Text",
+   "text": "Sedan kollegiet refererat de här citerade memorialen från Celse, Bring och Berch, fortsätter skrivelsen: »Collegium har ock derföre nu, då et så önskat tillfälle gifwits, låtit sitt första giöromål wara at höra RiksHistoriographen Cantzli Rådet von Celse, huruwida han förenemde arbete sig wille åtaga. Utaf hans Swar och Memorial, som härhos följer, lärer Högloflige Deputationen inhemta, hwad hinder honom i wägen ligga, kunnande Collegium ej neka, at icke med de skähl han anfördt och med det widsträckta och nyttiga wärck han har under händer, som lärer komma at bestå i en Historia critica Historicorum Septentrionis, Collegium måste anse hans förfall för giällande."
+  },
+  {
+   "bbox": [
+    582,
+    919,
+    1629,
+    1414
+   ],
+   "category": "Text",
+   "text": "Samma förfall företer sig äfwen till en del för Riks Historiographen Schönberg. Såsom han aldeles ingen lön på Stat åtnjuter, så synes ännu mindre han kunna påläggas at ständigt wistas här i Staden, hwarföre han ock redan för detta warit föranlåten at undanbedja sig författandet af Konung Carl den XI:s Historia, den Collegium eljest welat honom updraga, och äfwen nu undanbedt sig den omtalte fortsättningen af von Dalins Riks Historia. Collegium har således trodt sig böra hafwa i synnerhet afseende på några sådane, hwilka såsom jemt wistande här i Staden kunde derigenom hafwa ständig tillgång till Archiverne, derutur de förnemsta uplysningar och efterrättelser till en RiksHistorias sammanskrifwande böra hemtas."
+  },
+  {
+   "bbox": [
+    586,
+    1415,
+    1632,
+    1751
+   ],
+   "category": "Text",
+   "text": "Deribland är Cantzli Rådet och Antiqvarien Berck, som nogsamt är känd ej mindre för insikt uti de till en RiksHistoria hörande delar, än för en behagelig och Snillerik skrifart. Men hwarföre han icke tilltrodt sig kunna detta i fråga warande Arbete företaga, det har han förklarat uti hosföljande dess Memorial och hwarwid han tillika omnämdt en af honom redan författad Historia i anledning af Sweriges Konungars skådepenningar, hwarom Collegium här nedanföre will widare sig yttra."
+  },
+  {
+   "bbox": [
+    627,
+    1746,
+    1632,
+    1793
+   ],
+   "category": "Text",
+   "text": "Kongl. Collegium har ej heller undfallit de goda egenskaper och"
+  },
+  {
+   "bbox": [
+    591,
+    1821,
+    668,
+    1860
+   ],
+   "category": "Page-footer",
+   "text": "602"
+  }
+ ]
+}

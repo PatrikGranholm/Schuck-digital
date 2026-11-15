@@ -1,0 +1,142 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 750,
+ "seconds": 37.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [516, 516, 779, 551], \"category\": \"Section-header\", \"text\": \"INNEHÅLL.\"}, {\"bbox\": [202, 591, 430, 624], \"category\": \"Section-header\", \"text\": \"BERCHS TID.\"}, {\"bbox\": [129, 652, 1164, 695], \"category\": \"List-item\", \"text\": \"Antikvitetsarkivet 1747—1751 . . . . . . . . . . . . . 1\"}, {\"bbox\": [200, 699, 1098, 850], \"category\": \"Text\", \"text\": \"Inledning 1, Berchs biografi före 1747 2, Berchs plan att bliva Helins efterträdare 8, Berchs hemkomst 12, Riksdagen 1746 14, Berch adjungeras Helin 22, Helin avgår som sekreterare 25, Berch blir Helins efterträdare 28, Personalen vid antikvitetsarkivet 1747—1750 34, Berchs plan till omorganisation 37, Omorganisationen genomföres 51, Bautil 61.\"}, {\"bbox\": [129, 877, 1164, 922], \"category\": \"List-item\", \"text\": \"Antikvitetsarkivet och Biblioteket 1751—1766 . . . . . . . 93\"}, {\"bbox\": [200, 925, 1098, 1283], \"category\": \"Text\", \"text\": \"Instruktionen 1750 för arkivet och biblioteket 93, Instruktionens första tillämpning 98, Lokalförhållandena 100, Föreläsningarna 103, Akademiska konferenser 104, Dalin om vattenminskningen 116, Riksdagen 1751—1752 119, Riksdagen 1755—1756 131, Botin blir e. o. assessor 131, Bonde blir inspektor över arkivet 138, Diplomatariet och Bergius 142, Jättebenranglen 156, Politiska befordringar 164, Richardson som assessor 165, Celsius 179, Ritarplatsen 184, Praels befordringar 184, Hagelbergs efterträdare 187, Wilde blir e. o. bibliotekarie 187, Gjörwells anställning 188, Wessman efterträder Richardson som assessor 189, Prael blir ord. assessor 191, Rabenius blir amanuens 192, Brocman blir kanslist 193, Brocman blir assessor utan lön 203, Wilde blir Celsius' efterträdare 209, Helsingius blir e. o. bibliotekarie 211, Helsingius blir ord. assessor med lön 215, Den siste islänningen 221, Mozelius blir e. o. assessor 228, Gjörwell får fullmakt som bibliotekarie 232.\"}, {\"bbox\": [129, 1309, 1164, 1354], \"category\": \"List-item\", \"text\": \"Arkivet och Biblioteket under Riksdagen 1765—1766 . . . 235\"}, {\"bbox\": [200, 1356, 1098, 1450], \"category\": \"Text\", \"text\": \"Tjänstemännen begära löneförhöjning 235, Berchs memorial 1765 237, Remisser från riksdagen 238, Brocmans manipulationer 241, Riksdagen och antikvitetsarkivet 246, Brocmans memorial 248, Debatten om Brocmans förslag 251.\"}, {\"bbox\": [129, 1474, 1164, 1518], \"category\": \"List-item\", \"text\": \"Berchs sista tid (1766—1778) . . . . . . . . . . . . . . 260\"}, {\"bbox\": [200, 1522, 1098, 1644], \"category\": \"Text\", \"text\": \"Brocmans lönevillkor 260, Striden om vice amanuensen 264, Gagnerus blir assessor 302, Stechau blir vice amanuens 304, Flyttningen till slottet 304, Helsingius' sista tid 308. Botins lön blir ledig 310, Berchs lön förbättras 311, Arkivsekreterarens plats indrages 316, Berchs död 318.\"}, {\"bbox\": [129, 1670, 1164, 1715], \"category\": \"List-item\", \"text\": \"Arbetet inom arkivet . . . . . . . . . . . . . . . . . . . 320\"}, {\"bbox\": [200, 1717, 1098, 1783], \"category\": \"Text\", \"text\": \"Äldre Consignationer 320, Consignationen 1750 321, 1751 324, 1755 326, 1758 326, 1760 329, 1764 331, 1771 333, Berchs memorial 1772 337, Memorial 1775 342,\"}, {\"bbox\": [1091, 1818, 1162, 1856], \"category\": \"Page-footer\", \"text\": \"719\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    516,
+    516,
+    779,
+    551
+   ],
+   "category": "Section-header",
+   "text": "INNEHÅLL."
+  },
+  {
+   "bbox": [
+    202,
+    591,
+    430,
+    624
+   ],
+   "category": "Section-header",
+   "text": "BERCHS TID."
+  },
+  {
+   "bbox": [
+    129,
+    652,
+    1164,
+    695
+   ],
+   "category": "List-item",
+   "text": "Antikvitetsarkivet 1747—1751 . . . . . . . . . . . . . 1"
+  },
+  {
+   "bbox": [
+    200,
+    699,
+    1098,
+    850
+   ],
+   "category": "Text",
+   "text": "Inledning 1, Berchs biografi före 1747 2, Berchs plan att bliva Helins efterträdare 8, Berchs hemkomst 12, Riksdagen 1746 14, Berch adjungeras Helin 22, Helin avgår som sekreterare 25, Berch blir Helins efterträdare 28, Personalen vid antikvitetsarkivet 1747—1750 34, Berchs plan till omorganisation 37, Omorganisationen genomföres 51, Bautil 61."
+  },
+  {
+   "bbox": [
+    129,
+    877,
+    1164,
+    922
+   ],
+   "category": "List-item",
+   "text": "Antikvitetsarkivet och Biblioteket 1751—1766 . . . . . . . 93"
+  },
+  {
+   "bbox": [
+    200,
+    925,
+    1098,
+    1283
+   ],
+   "category": "Text",
+   "text": "Instruktionen 1750 för arkivet och biblioteket 93, Instruktionens första tillämpning 98, Lokalförhållandena 100, Föreläsningarna 103, Akademiska konferenser 104, Dalin om vattenminskningen 116, Riksdagen 1751—1752 119, Riksdagen 1755—1756 131, Botin blir e. o. assessor 131, Bonde blir inspektor över arkivet 138, Diplomatariet och Bergius 142, Jättebenranglen 156, Politiska befordringar 164, Richardson som assessor 165, Celsius 179, Ritarplatsen 184, Praels befordringar 184, Hagelbergs efterträdare 187, Wilde blir e. o. bibliotekarie 187, Gjörwells anställning 188, Wessman efterträder Richardson som assessor 189, Prael blir ord. assessor 191, Rabenius blir amanuens 192, Brocman blir kanslist 193, Brocman blir assessor utan lön 203, Wilde blir Celsius' efterträdare 209, Helsingius blir e. o. bibliotekarie 211, Helsingius blir ord. assessor med lön 215, Den siste islänningen 221, Mozelius blir e. o. assessor 228, Gjörwell får fullmakt som bibliotekarie 232."
+  },
+  {
+   "bbox": [
+    129,
+    1309,
+    1164,
+    1354
+   ],
+   "category": "List-item",
+   "text": "Arkivet och Biblioteket under Riksdagen 1765—1766 . . . 235"
+  },
+  {
+   "bbox": [
+    200,
+    1356,
+    1098,
+    1450
+   ],
+   "category": "Text",
+   "text": "Tjänstemännen begära löneförhöjning 235, Berchs memorial 1765 237, Remisser från riksdagen 238, Brocmans manipulationer 241, Riksdagen och antikvitetsarkivet 246, Brocmans memorial 248, Debatten om Brocmans förslag 251."
+  },
+  {
+   "bbox": [
+    129,
+    1474,
+    1164,
+    1518
+   ],
+   "category": "List-item",
+   "text": "Berchs sista tid (1766—1778) . . . . . . . . . . . . . . 260"
+  },
+  {
+   "bbox": [
+    200,
+    1522,
+    1098,
+    1644
+   ],
+   "category": "Text",
+   "text": "Brocmans lönevillkor 260, Striden om vice amanuensen 264, Gagnerus blir assessor 302, Stechau blir vice amanuens 304, Flyttningen till slottet 304, Helsingius' sista tid 308. Botins lön blir ledig 310, Berchs lön förbättras 311, Arkivsekreterarens plats indrages 316, Berchs död 318."
+  },
+  {
+   "bbox": [
+    129,
+    1670,
+    1164,
+    1715
+   ],
+   "category": "List-item",
+   "text": "Arbetet inom arkivet . . . . . . . . . . . . . . . . . . . 320"
+  },
+  {
+   "bbox": [
+    200,
+    1717,
+    1098,
+    1783
+   ],
+   "category": "Text",
+   "text": "Äldre Consignationer 320, Consignationen 1750 321, 1751 324, 1755 326, 1758 326, 1760 329, 1764 331, 1771 333, Berchs memorial 1772 337, Memorial 1775 342,"
+  },
+  {
+   "bbox": [
+    1091,
+    1818,
+    1162,
+    1856
+   ],
+   "category": "Page-footer",
+   "text": "719"
+  }
+ ]
+}

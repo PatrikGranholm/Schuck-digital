@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 312,
+ "seconds": 30.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [346, 237, 900, 281], \"category\": \"Section-header\", \"text\": \"Berchs sista tid (1766—1778)\"}, {\"bbox\": [93, 306, 1147, 1017], \"category\": \"Text\", \"text\": \"lade Adolf Fredrik regeringen. Som bekant ställde sig ämbetsverken kraftigt på konungamaktens sida, och efter några dagars motstånd nödgades rådet giva vika och gå in på riksdagens inkallande. Mot denna bakgrund utspelades den fortsatta striden om vice amanuenssysslan. Adolf Fredrik höll nämligen i sig att ej vilja underteckna det nyss anförda kungabrevet, och den 7 februari 1769 beslöts därför i rådet: »det härom till Kongl. Maj:t borde giöras underdånig föreställning, och anmodade deras Excellencer därföre herr Riks Rådet Baron Hermelin och Grefve Gyllenstierna att i denna afsigt Kongl. Maj:t upwackta samt derjemte tillkjänna gifwa de skiäl, hwilcka föranlåtit deras Excellencer att Kongl. Maj:t i underdånighet styrcka till ändring uti CantzlieCollegii härutinnan giorda förfarande». Föreställningarna hjälpte emellertid icke, och vid rådets sammanträde den 9 februari »återkommo deras Excellencer herrar Riksens Råd Baron Hermelin och gref Gyllenstierna ifrån Kongl. Maj:t med berättelse, huru som deras Excellencer, till följe af hwad dem som ofwanförmält är blifwit updragit\"}, {\"bbox\": [98, 1011, 1147, 1141], \"category\": \"Text\", \"text\": \"1:0) giordt Hans Maj:t å Rådets wägnar en underdånig föreställning om nådig underskrifft på det upsatte brefwet till Cantzlie Collegium af d. (ej utskrivet) ang:de Magister Stechau.\"}, {\"bbox\": [98, 1134, 1151, 1639], \"category\": \"Text\", \"text\": \"Hwaröfwer Hans M:t sig i nåder utlåtit, det Hans May:t hölle betänckeligt att berörde bref underskrifwa. Hans May:t lämnade derhän, huruwida Stechau wore mer eller mindre berättigad till den anhållne befordran än dess medsökande, men Hans Maj:t trodde, att den, som en gång undfått fullmagt på en sysla, borde den samma icke blifwa förlustig utan att hafwa henne genom något brott förwärckat. Deras Excellencer hade deruppå ärindrat, det sådant wore enligt med ett Hans Maj:ts nådiga bref till Cammar Collegium ang:de fullmagternes återtagande af dem, som emot andras bättre rätt wunnit befordran. Men Hans Maj:t hade förblifwit wid sitt yttrande samt tilika utlåtit sig, att den i fråga warande Expeditionen kunde med dess höga namns stämpel tecknas.\"}, {\"bbox\": [101, 1632, 1151, 1721], \"category\": \"Text\", \"text\": \"Hwarom fördensskull genom utdrag af Protocollet nådig befallning till wederbörande genast befaltes expedieras.»\"}, {\"bbox\": [136, 1715, 1149, 1763], \"category\": \"Text\", \"text\": \"Handlingen är också försedd med den ryktbara namnstämpeln.\"}, {\"bbox\": [1075, 1792, 1146, 1832], \"category\": \"Page-footer\", \"text\": \"295\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    346,
+    237,
+    900,
+    281
+   ],
+   "category": "Section-header",
+   "text": "Berchs sista tid (1766—1778)"
+  },
+  {
+   "bbox": [
+    93,
+    306,
+    1147,
+    1017
+   ],
+   "category": "Text",
+   "text": "lade Adolf Fredrik regeringen. Som bekant ställde sig ämbetsverken kraftigt på konungamaktens sida, och efter några dagars motstånd nödgades rådet giva vika och gå in på riksdagens inkallande. Mot denna bakgrund utspelades den fortsatta striden om vice amanuenssysslan. Adolf Fredrik höll nämligen i sig att ej vilja underteckna det nyss anförda kungabrevet, och den 7 februari 1769 beslöts därför i rådet: »det härom till Kongl. Maj:t borde giöras underdånig föreställning, och anmodade deras Excellencer därföre herr Riks Rådet Baron Hermelin och Grefve Gyllenstierna att i denna afsigt Kongl. Maj:t upwackta samt derjemte tillkjänna gifwa de skiäl, hwilcka föranlåtit deras Excellencer att Kongl. Maj:t i underdånighet styrcka till ändring uti CantzlieCollegii härutinnan giorda förfarande». Föreställningarna hjälpte emellertid icke, och vid rådets sammanträde den 9 februari »återkommo deras Excellencer herrar Riksens Råd Baron Hermelin och gref Gyllenstierna ifrån Kongl. Maj:t med berättelse, huru som deras Excellencer, till följe af hwad dem som ofwanförmält är blifwit updragit"
+  },
+  {
+   "bbox": [
+    98,
+    1011,
+    1147,
+    1141
+   ],
+   "category": "Text",
+   "text": "1:0) giordt Hans Maj:t å Rådets wägnar en underdånig föreställning om nådig underskrifft på det upsatte brefwet till Cantzlie Collegium af d. (ej utskrivet) ang:de Magister Stechau."
+  },
+  {
+   "bbox": [
+    98,
+    1134,
+    1151,
+    1639
+   ],
+   "category": "Text",
+   "text": "Hwaröfwer Hans M:t sig i nåder utlåtit, det Hans May:t hölle betänckeligt att berörde bref underskrifwa. Hans May:t lämnade derhän, huruwida Stechau wore mer eller mindre berättigad till den anhållne befordran än dess medsökande, men Hans Maj:t trodde, att den, som en gång undfått fullmagt på en sysla, borde den samma icke blifwa förlustig utan att hafwa henne genom något brott förwärckat. Deras Excellencer hade deruppå ärindrat, det sådant wore enligt med ett Hans Maj:ts nådiga bref till Cammar Collegium ang:de fullmagternes återtagande af dem, som emot andras bättre rätt wunnit befordran. Men Hans Maj:t hade förblifwit wid sitt yttrande samt tilika utlåtit sig, att den i fråga warande Expeditionen kunde med dess höga namns stämpel tecknas."
+  },
+  {
+   "bbox": [
+    101,
+    1632,
+    1151,
+    1721
+   ],
+   "category": "Text",
+   "text": "Hwarom fördensskull genom utdrag af Protocollet nådig befallning till wederbörande genast befaltes expedieras.»"
+  },
+  {
+   "bbox": [
+    136,
+    1715,
+    1149,
+    1763
+   ],
+   "category": "Text",
+   "text": "Handlingen är också försedd med den ryktbara namnstämpeln."
+  },
+  {
+   "bbox": [
+    1075,
+    1792,
+    1146,
+    1832
+   ],
+   "category": "Page-footer",
+   "text": "295"
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 416,
+ "seconds": 43.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [403, 254, 792, 289], \"category\": \"Section-header\", \"text\": \"Arbetet inom arkivet\"}, {\"bbox\": [65, 324, 1123, 616], \"category\": \"Text\", \"text\": \"larens förvaltning stående statsmedlen. I dennes räkenskaper för 1752 är posten upptagen under denna rubrik: »Til Hr. Secreteraren Berch, som för egne medel uphandlat åtskillige rara Medailler samt utom dess gått i förskått för diverse andra utgifter, altsammans för Kungl. antiquitets archivi räkning, återbetalt efter Räkning och quittence 987.12». Berchs egen kassabok upplyser i detalj om dessa försäljningar och inköp:\"}, {\"bbox\": [100, 625, 1123, 665], \"category\": \"Text\", \"text\": \"»För Kongl. antiquitets archivum upburit\"}, {\"bbox\": [71, 667, 1123, 920], \"category\": \"Table\", \"text\": \"<table><tr><td>1749</td><td>Såldt några dupletter af Romerska mynt til Hennes May:tz myntCabinet, hwarföre emottagit af Hans Ex. gr. Tessin</td><td>72.</td></tr><tr><td></td><td>Noch 33 små arabiska dupletter til samma Cabinet</td><td>37.4</td></tr><tr><td>1750</td><td>Af Swenska små dupletter, til hofcantzlern gr. Gyllenborg</td><td>56.16</td></tr><tr><td></td><td>Noch af samma slaget såldt</td><td>16.15</td></tr><tr><td>1751</td><td>dragit wäxel ifrån Paris på 262<sup>tt</sup> 10<sup>s</sup>, som giör i swensk räkning</td><td>(ej utskrifvet)</td></tr></table>\"}, {\"bbox\": [417, 922, 761, 961], \"category\": \"Text\", \"text\": \"Clarerat d. 9 juni 1752\"}, {\"bbox\": [540, 975, 655, 1013], \"category\": \"Section-header\", \"text\": \"Utgifvit\"}, {\"bbox\": [71, 1016, 1123, 1778], \"category\": \"Table\", \"text\": \"<table><tr><td>1750</td><td>Upkiöpt de tre swenska ordenspenningarne til Kgl. samlingen, hwilka wägde 2 6/8 lod à 7.16.</td><td>20.20</td></tr><tr><td>Tenn</td><td>at prägla en medaille öfwer K. Adolph Fr. <i>Omnibus prodesse cupit</i></td><td>18</td></tr><tr><td></td><td>En packa af archivi böcker, emballerad och buren til Malmöfahrtyget at sedan med Doct. Benzelii saker komma til Lund</td><td>3.24</td></tr><tr><td></td><td>Frachten för samma packa här betald</td><td>6.</td></tr><tr><td></td><td>Bokbindaren Höök för arbete wid archivum</td><td>13.</td></tr><tr><td></td><td>Postporto til Mariestad. Borgmästar Wollin om fynd, 2 lod</td><td>30</td></tr><tr><td></td><td>d:o til Lund. Doct. Benzelius om förenämde Böcker</td><td>21</td></tr><tr><td>1751</td><td>Schütz von Religion der Nordischen Völcker exemplaret 4 bandet</td><td>5.16</td></tr><tr><td></td><td>låtit häfta Göranssons Bautil</td><td>1.8</td></tr><tr><td></td><td>I afräkning på twenne stora medailler, som Envoyen Windt lät komma ifrån Danmarck för Kgl. Cabinettet, gifwit honom en swensk, som wägde 7 1/2 lod, d'hazard à 7 dr. lodet</td><td>52.16</td></tr><tr><td></td><td>Inwäxlat K. Fredrichs Ducat med skiölden utan kedja</td><td>22</td></tr><tr><td></td><td>dito 2 hela och 3 halfwa ducater, differente, ducaten allenast til 20 dr.</td><td>70</td></tr><tr><td></td><td>En penning öfwer hof-fröknarna såsom hönss</td><td>7.16</td></tr></table>\"}, {\"bbox\": [1041, 1814, 1117, 1852], \"category\": \"Page-footer\", \"text\": \"397\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    403,
+    254,
+    792,
+    289
+   ],
+   "category": "Section-header",
+   "text": "Arbetet inom arkivet"
+  },
+  {
+   "bbox": [
+    65,
+    324,
+    1123,
+    616
+   ],
+   "category": "Text",
+   "text": "larens förvaltning stående statsmedlen. I dennes räkenskaper för 1752 är posten upptagen under denna rubrik: »Til Hr. Secreteraren Berch, som för egne medel uphandlat åtskillige rara Medailler samt utom dess gått i förskått för diverse andra utgifter, altsammans för Kungl. antiquitets archivi räkning, återbetalt efter Räkning och quittence 987.12». Berchs egen kassabok upplyser i detalj om dessa försäljningar och inköp:"
+  },
+  {
+   "bbox": [
+    100,
+    625,
+    1123,
+    665
+   ],
+   "category": "Text",
+   "text": "»För Kongl. antiquitets archivum upburit"
+  },
+  {
+   "bbox": [
+    71,
+    667,
+    1123,
+    920
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>1749</td><td>Såldt några dupletter af Romerska mynt til Hennes May:tz myntCabinet, hwarföre emottagit af Hans Ex. gr. Tessin</td><td>72.</td></tr><tr><td></td><td>Noch 33 små arabiska dupletter til samma Cabinet</td><td>37.4</td></tr><tr><td>1750</td><td>Af Swenska små dupletter, til hofcantzlern gr. Gyllenborg</td><td>56.16</td></tr><tr><td></td><td>Noch af samma slaget såldt</td><td>16.15</td></tr><tr><td>1751</td><td>dragit wäxel ifrån Paris på 262<sup>tt</sup> 10<sup>s</sup>, som giör i swensk räkning</td><td>(ej utskrifvet)</td></tr></table>"
+  },
+  {
+   "bbox": [
+    417,
+    922,
+    761,
+    961
+   ],
+   "category": "Text",
+   "text": "Clarerat d. 9 juni 1752"
+  },
+  {
+   "bbox": [
+    540,
+    975,
+    655,
+    1013
+   ],
+   "category": "Section-header",
+   "text": "Utgifvit"
+  },
+  {
+   "bbox": [
+    71,
+    1016,
+    1123,
+    1778
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>1750</td><td>Upkiöpt de tre swenska ordenspenningarne til Kgl. samlingen, hwilka wägde 2 6/8 lod à 7.16.</td><td>20.20</td></tr><tr><td>Tenn</td><td>at prägla en medaille öfwer K. Adolph Fr. <i>Omnibus prodesse cupit</i></td><td>18</td></tr><tr><td></td><td>En packa af archivi böcker, emballerad och buren til Malmöfahrtyget at sedan med Doct. Benzelii saker komma til Lund</td><td>3.24</td></tr><tr><td></td><td>Frachten för samma packa här betald</td><td>6.</td></tr><tr><td></td><td>Bokbindaren Höök för arbete wid archivum</td><td>13.</td></tr><tr><td></td><td>Postporto til Mariestad. Borgmästar Wollin om fynd, 2 lod</td><td>30</td></tr><tr><td></td><td>d:o til Lund. Doct. Benzelius om förenämde Böcker</td><td>21</td></tr><tr><td>1751</td><td>Schütz von Religion der Nordischen Völcker exemplaret 4 bandet</td><td>5.16</td></tr><tr><td></td><td>låtit häfta Göranssons Bautil</td><td>1.8</td></tr><tr><td></td><td>I afräkning på twenne stora medailler, som Envoyen Windt lät komma ifrån Danmarck för Kgl. Cabinettet, gifwit honom en swensk, som wägde 7 1/2 lod, d'hazard à 7 dr. lodet</td><td>52.16</td></tr><tr><td></td><td>Inwäxlat K. Fredrichs Ducat med skiölden utan kedja</td><td>22</td></tr><tr><td></td><td>dito 2 hela och 3 halfwa ducater, differente, ducaten allenast til 20 dr.</td><td>70</td></tr><tr><td></td><td>En penning öfwer hof-fröknarna såsom hönss</td><td>7.16</td></tr></table>"
+  },
+  {
+   "bbox": [
+    1041,
+    1814,
+    1117,
+    1852
+   ],
+   "category": "Page-footer",
+   "text": "397"
+  }
+ ]
+}

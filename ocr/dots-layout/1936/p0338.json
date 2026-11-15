@@ -1,0 +1,41 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 338,
+ "seconds": 10.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [93, 342, 1089, 1621], \"category\": \"Picture\"}, {\"bbox\": [362, 1666, 811, 1702], \"category\": \"Caption\", \"text\": \"CARL REINHOLD BERCH\"}, {\"bbox\": [324, 1721, 850, 1756], \"category\": \"Text\", \"text\": \"Lavering av J. E. Rehn (Kungl. Biblioteket).\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    93,
+    342,
+    1089,
+    1621
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    362,
+    1666,
+    811,
+    1702
+   ],
+   "category": "Caption",
+   "text": "CARL REINHOLD BERCH"
+  },
+  {
+   "bbox": [
+    324,
+    1721,
+    850,
+    1756
+   ],
+   "category": "Text",
+   "text": "Lavering av J. E. Rehn (Kungl. Biblioteket)."
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 41,
+ "seconds": 30.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [885, 258, 1277, 297], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [551, 327, 1598, 744], \"category\": \"Text\", \"text\": \"wägen til survivance. Som nu secreta utskottets afsickt aldrig kunnat wara sådan, aldenstund den är uppenbart stridande emot de allmänna lagar och secreta utskottets Instruction, så hemstälte Hr Hårleman, om icke en föreställning häröfwer til secreta utskottet ske kunde, innan Betänkandet i rådet förekommer, hwilcket effter Deputationens wälmente upsåt lärer såsom en warsamhet anses. Deputationen hade likaledes som Hr. Hårleman förut ingen kunskap om denna expedition och biföll des tancka, hwarföre ock i anledning deraf en föreställning skriftligen upsattes» (Mindre sekreta deputationens prot. den 13 oktober 1747).\"}, {\"bbox\": [541, 741, 1592, 1735], \"category\": \"Text\", \"text\": \"Denna »föreställning», som avgick den 24 oktober, lyder: »Till Secreta Utskottet angående secreterare tiensten wid antiquitets archivum. Stockholm den 24 October 1747. Riksens Höglofl. Ständers secreta utskott har igenom ett afgifwit underdånigt Betänckande til Hans Kongl. Maytt af den 3 sidstl. Junii angående Betieningens indragande wid antiquitets archivum til ett mindre antal tillika hemstält, om icke, enär nuwarande antiquitets Collegii Secreteraren igenom döden afgår, Translatorn Hagelberg måtte komma i nådig åtancka wid denna beställningens återbesättjande. Som mindre Secreta Deputationen icke kunnat påminna sig, at den warit wid öfwerläggningen af denna sidsta omständighet närwarande och densamma den swåra uttydning och tilwitelse synes kunna tillläggas, at S. U. bundit en Rikets undersåte til en wiss lifstids tienst och för en annans befordran öpnat wägen til survivancer twert emot allmänna lagen och Secreta Utskottets Instruction, så har Deputation trodt sin skyldighet wara at inhämta rätta meningen häraf, innan detta Betänckande uti Rådet förekommer, då Höglofl. Secrete utskottet torde finna, at det borde ändras och närmare jemnkas effter des afsickt, hwilcken så uti detta som alla andra förekommande mål uppå lag och ordning grundad är. Deputation giör sig således försäkrad, at S. U. lärer denna Deputationens warsamhet så benäget anse, som densamma är wälment och på intet sätt rörer den wördnad, hwilcken Deputation Secreta utskottets Beslut skyldig är.»\"}, {\"bbox\": [576, 1732, 1578, 1782], \"category\": \"Text\", \"text\": \"Den 29 oktober upplästes denna skrivelse i sekreta utskottet,\"}, {\"bbox\": [544, 1810, 591, 1847], \"category\": \"Page-footer\", \"text\": \"24\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    885,
+    258,
+    1277,
+    297
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    551,
+    327,
+    1598,
+    744
+   ],
+   "category": "Text",
+   "text": "wägen til survivance. Som nu secreta utskottets afsickt aldrig kunnat wara sådan, aldenstund den är uppenbart stridande emot de allmänna lagar och secreta utskottets Instruction, så hemstälte Hr Hårleman, om icke en föreställning häröfwer til secreta utskottet ske kunde, innan Betänkandet i rådet förekommer, hwilcket effter Deputationens wälmente upsåt lärer såsom en warsamhet anses. Deputationen hade likaledes som Hr. Hårleman förut ingen kunskap om denna expedition och biföll des tancka, hwarföre ock i anledning deraf en föreställning skriftligen upsattes» (Mindre sekreta deputationens prot. den 13 oktober 1747)."
+  },
+  {
+   "bbox": [
+    541,
+    741,
+    1592,
+    1735
+   ],
+   "category": "Text",
+   "text": "Denna »föreställning», som avgick den 24 oktober, lyder: »Till Secreta Utskottet angående secreterare tiensten wid antiquitets archivum. Stockholm den 24 October 1747. Riksens Höglofl. Ständers secreta utskott har igenom ett afgifwit underdånigt Betänckande til Hans Kongl. Maytt af den 3 sidstl. Junii angående Betieningens indragande wid antiquitets archivum til ett mindre antal tillika hemstält, om icke, enär nuwarande antiquitets Collegii Secreteraren igenom döden afgår, Translatorn Hagelberg måtte komma i nådig åtancka wid denna beställningens återbesättjande. Som mindre Secreta Deputationen icke kunnat påminna sig, at den warit wid öfwerläggningen af denna sidsta omständighet närwarande och densamma den swåra uttydning och tilwitelse synes kunna tillläggas, at S. U. bundit en Rikets undersåte til en wiss lifstids tienst och för en annans befordran öpnat wägen til survivancer twert emot allmänna lagen och Secreta Utskottets Instruction, så har Deputation trodt sin skyldighet wara at inhämta rätta meningen häraf, innan detta Betänckande uti Rådet förekommer, då Höglofl. Secrete utskottet torde finna, at det borde ändras och närmare jemnkas effter des afsickt, hwilcken så uti detta som alla andra förekommande mål uppå lag och ordning grundad är. Deputation giör sig således försäkrad, at S. U. lärer denna Deputationens warsamhet så benäget anse, som densamma är wälment och på intet sätt rörer den wördnad, hwilcken Deputation Secreta utskottets Beslut skyldig är.»"
+  },
+  {
+   "bbox": [
+    576,
+    1732,
+    1578,
+    1782
+   ],
+   "category": "Text",
+   "text": "Den 29 oktober upplästes denna skrivelse i sekreta utskottet,"
+  },
+  {
+   "bbox": [
+    544,
+    1810,
+    591,
+    1847
+   ],
+   "category": "Page-footer",
+   "text": "24"
+  }
+ ]
+}

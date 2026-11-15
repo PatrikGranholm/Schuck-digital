@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 710,
+ "seconds": 30.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [448, 263, 817, 299], \"category\": \"Section-header\", \"text\": \"Vitterhetsakademien\"}, {\"bbox\": [105, 333, 1154, 410], \"category\": \"Text\", \"text\": \"vilket akademien stiftades. Det finnes tryckt i Handlingarnas första del:\"}, {\"bbox\": [105, 416, 1156, 997], \"category\": \"Text\", \"text\": \"»Vi Adolph Friedrich . . . . Göre vitterligt, at såsom Vi hos Oss i öfvervägande komma låtit, huru, utom den redan här i Stockholm inrättade Vetenskaps Academien, en annan Académie des belles-lettres ansenligen bidraga skulle til Våra trogna Undersåtares nytta och förmon, samt til den ändan anmodat Vår Högtälskeliga Gemål, Hennes Kongl. Maj:t Drottningen, at hugna denna senare med en Nådig benägenhet och Dess egen besynnerliga Höga omvårdnad; så hafve Vi aktat nödigt, för bättre Ordning skull, utstaka och stadfästa följande Lagar til deras underdåniga efterlefnad, som Hennes Kongl. Maj:t skulle behaga utse til Ledamöter af denna Academie, viljandes Vi vidare fram ändra, förbättra och utvidga samma Lagar, alt som erfarenheten och tidernas omskiften sådant medgifva och fordra skulle.» Därefter följa akademiens statuter eller »lagar».\"}, {\"bbox\": [108, 997, 1156, 1123], \"category\": \"Text\", \"text\": \"Kanslikollegiets protokoll innehålla emellertid intet om frågans föregående behandling i kollegiet. Först dagen efteråt, den 21 mars, finner man i protokollet följande notis:\"}, {\"bbox\": [108, 1123, 1156, 1701], \"category\": \"Text\", \"text\": \"»§ 5. Gafs tilkiänna, at Privilegierne för den af Hennes Kongl. Maj:t til inrättande académie des belles Lettres lära nu komma at renskrifwas, och beslöts, at de til bemälte Privilegiers inbindande erforderlige saker upkiöpas af Cantzli Bokhållaren, som om betalningen därföre har sig at hos Hans Excellence Herr Presidenten anmäla. I anledning häraf utfärdades följande utdrag ur Protocollet. S. d. Fants godt, at Cantzlie Bokhållaren Sondell genom Protocolls utdrag skulle anbefallas at upkiöpa fem och ett halft qwarter blått sammet, fem qwarter gult taft och en half aln gula och en och en half aln blå taftsband, en silfwerkupa för Stora sigillet, en silfwer- och guld litzqward med dess frantzar, trij alnar waxduk, twå ₩ rödt sigill-wax, ett halft ₩ bomull, kommandes dessa saker at aflämnas til Hans Excellence Herr Presidentens Contoir, hwarest betalning derföre undfås.»\"}, {\"bbox\": [112, 1701, 1156, 1787], \"category\": \"Text\", \"text\": \"Enligt Lagarna cap. III § 4 skulle akademien hava »allmän sammankomst», d. v. s. fira sin högtidsdag på drottningens födelsedag,\"}, {\"bbox\": [1080, 1813, 1156, 1861], \"category\": \"Page-footer\", \"text\": \"679\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    448,
+    263,
+    817,
+    299
+   ],
+   "category": "Section-header",
+   "text": "Vitterhetsakademien"
+  },
+  {
+   "bbox": [
+    105,
+    333,
+    1154,
+    410
+   ],
+   "category": "Text",
+   "text": "vilket akademien stiftades. Det finnes tryckt i Handlingarnas första del:"
+  },
+  {
+   "bbox": [
+    105,
+    416,
+    1156,
+    997
+   ],
+   "category": "Text",
+   "text": "»Vi Adolph Friedrich . . . . Göre vitterligt, at såsom Vi hos Oss i öfvervägande komma låtit, huru, utom den redan här i Stockholm inrättade Vetenskaps Academien, en annan Académie des belles-lettres ansenligen bidraga skulle til Våra trogna Undersåtares nytta och förmon, samt til den ändan anmodat Vår Högtälskeliga Gemål, Hennes Kongl. Maj:t Drottningen, at hugna denna senare med en Nådig benägenhet och Dess egen besynnerliga Höga omvårdnad; så hafve Vi aktat nödigt, för bättre Ordning skull, utstaka och stadfästa följande Lagar til deras underdåniga efterlefnad, som Hennes Kongl. Maj:t skulle behaga utse til Ledamöter af denna Academie, viljandes Vi vidare fram ändra, förbättra och utvidga samma Lagar, alt som erfarenheten och tidernas omskiften sådant medgifva och fordra skulle.» Därefter följa akademiens statuter eller »lagar»."
+  },
+  {
+   "bbox": [
+    108,
+    997,
+    1156,
+    1123
+   ],
+   "category": "Text",
+   "text": "Kanslikollegiets protokoll innehålla emellertid intet om frågans föregående behandling i kollegiet. Först dagen efteråt, den 21 mars, finner man i protokollet följande notis:"
+  },
+  {
+   "bbox": [
+    108,
+    1123,
+    1156,
+    1701
+   ],
+   "category": "Text",
+   "text": "»§ 5. Gafs tilkiänna, at Privilegierne för den af Hennes Kongl. Maj:t til inrättande académie des belles Lettres lära nu komma at renskrifwas, och beslöts, at de til bemälte Privilegiers inbindande erforderlige saker upkiöpas af Cantzli Bokhållaren, som om betalningen därföre har sig at hos Hans Excellence Herr Presidenten anmäla. I anledning häraf utfärdades följande utdrag ur Protocollet. S. d. Fants godt, at Cantzlie Bokhållaren Sondell genom Protocolls utdrag skulle anbefallas at upkiöpa fem och ett halft qwarter blått sammet, fem qwarter gult taft och en half aln gula och en och en half aln blå taftsband, en silfwerkupa för Stora sigillet, en silfwer- och guld litzqward med dess frantzar, trij alnar waxduk, twå ₩ rödt sigill-wax, ett halft ₩ bomull, kommandes dessa saker at aflämnas til Hans Excellence Herr Presidentens Contoir, hwarest betalning derföre undfås.»"
+  },
+  {
+   "bbox": [
+    112,
+    1701,
+    1156,
+    1787
+   ],
+   "category": "Text",
+   "text": "Enligt Lagarna cap. III § 4 skulle akademien hava »allmän sammankomst», d. v. s. fira sin högtidsdag på drottningens födelsedag,"
+  },
+  {
+   "bbox": [
+    1080,
+    1813,
+    1156,
+    1861
+   ],
+   "category": "Page-footer",
+   "text": "679"
+  }
+ ]
+}

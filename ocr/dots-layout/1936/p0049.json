@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 49,
+ "seconds": 30.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [870, 258, 1263, 295], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [537, 327, 1588, 869], \"category\": \"Text\", \"text\": \"kollet den 22 juni 1750 lyder nämligen: »Uplästes Kongl. May:ts nådiga bref af d. 13 Junii, hwarmedelst Hans Kongl. May:tt behagat gifwa sitt bifall och samtycke, at Collegium nu genast och innan den uti förordningen föreskrefna tiden må inkomma med sit underdåniga förslag till Secreterare beställningens återbesättjande wid Kongl. antiquitets archivum; företogs altså samma sak och uplästes de sökandes suppliquer, neml. Kongl. Secreterarens Carl Reinhold Bercks, assessorernes wid Kongl. antiquitets archivum Jacob Richardsons och Carl Hagelbergs ansökningar at på Collegii underdåniga förslag blifwa upförde; som flere sökande sig icke anmält, så befaltes, at förslaget straxt skulle uprättas och hwar och en af desse sökande effter sin rang upföras.» Lyckligtvis sammanföll rangen här med den verkliga förtjänsten.\"}, {\"bbox\": [537, 867, 1582, 1200], \"category\": \"Text\", \"text\": \"Men i kollegiets skrivelse till Kongl. Maj:t fick Berch ett mycket varmt förord: »Sedan Eder Kongl. May:tt genom nådig skrifwelse till dess och Riksens Cancellie Collegium af d. 13 sidst. Junii behagat gifwa sitt bifall och samtycke, att Collegium nu genast och innan den uti författningarne föreskrefne tiden må inkomma med sitt underdåniga förslag till Secreterare beställningens återbesättande wid Kongl. antiquitets archivum, så har Collegium härmed den nåden att följande 3:ne sökande dertill i underd. anmäla, neml.\"}, {\"bbox\": [533, 1198, 1578, 1781], \"category\": \"Text\", \"text\": \"Uti första rummet Kongl. Secreteraren Carl Reinhold Berch, hwilcken icke allenast wid academien uti Upsala aflagt prof af dess mogna kunskap uti Swenska antiquiteterne och densamma uppå dess 2:ne utrikes resor sig förwärfwat uti de Romerska utan och ifrån dess första inträde uti Kongl. Cantzliet dels gådt Historiographen Wilde, dels Secreteraren Helin tillhanda och i synnerhet uti dessa senare åren under dennas siuklighet denna nu lediga beställning effter Eder Kongl. May:tts Eget nådigste förordnande förestådt, utom det han befordran förtjenar i anseende till dess skickelighet uti andra Cancellie sysslor, hwilcken han icke mindre än ett redeligit förhållande å daga lagt, då han under 3:ne Ministrar warit Commissions Secreterare i franckrike, till bewis hwaraf Eder Kongl. May:tt behagat tillägga honom Kongl. Secreterare namn och heder. Men alt detta skulle Collegium tro sig kunna\"}, {\"bbox\": [535, 1811, 583, 1850], \"category\": \"Page-footer\", \"text\": \"32\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    870,
+    258,
+    1263,
+    295
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    537,
+    327,
+    1588,
+    869
+   ],
+   "category": "Text",
+   "text": "kollet den 22 juni 1750 lyder nämligen: »Uplästes Kongl. May:ts nådiga bref af d. 13 Junii, hwarmedelst Hans Kongl. May:tt behagat gifwa sitt bifall och samtycke, at Collegium nu genast och innan den uti förordningen föreskrefna tiden må inkomma med sit underdåniga förslag till Secreterare beställningens återbesättjande wid Kongl. antiquitets archivum; företogs altså samma sak och uplästes de sökandes suppliquer, neml. Kongl. Secreterarens Carl Reinhold Bercks, assessorernes wid Kongl. antiquitets archivum Jacob Richardsons och Carl Hagelbergs ansökningar at på Collegii underdåniga förslag blifwa upförde; som flere sökande sig icke anmält, så befaltes, at förslaget straxt skulle uprättas och hwar och en af desse sökande effter sin rang upföras.» Lyckligtvis sammanföll rangen här med den verkliga förtjänsten."
+  },
+  {
+   "bbox": [
+    537,
+    867,
+    1582,
+    1200
+   ],
+   "category": "Text",
+   "text": "Men i kollegiets skrivelse till Kongl. Maj:t fick Berch ett mycket varmt förord: »Sedan Eder Kongl. May:tt genom nådig skrifwelse till dess och Riksens Cancellie Collegium af d. 13 sidst. Junii behagat gifwa sitt bifall och samtycke, att Collegium nu genast och innan den uti författningarne föreskrefne tiden må inkomma med sitt underdåniga förslag till Secreterare beställningens återbesättande wid Kongl. antiquitets archivum, så har Collegium härmed den nåden att följande 3:ne sökande dertill i underd. anmäla, neml."
+  },
+  {
+   "bbox": [
+    533,
+    1198,
+    1578,
+    1781
+   ],
+   "category": "Text",
+   "text": "Uti första rummet Kongl. Secreteraren Carl Reinhold Berch, hwilcken icke allenast wid academien uti Upsala aflagt prof af dess mogna kunskap uti Swenska antiquiteterne och densamma uppå dess 2:ne utrikes resor sig förwärfwat uti de Romerska utan och ifrån dess första inträde uti Kongl. Cantzliet dels gådt Historiographen Wilde, dels Secreteraren Helin tillhanda och i synnerhet uti dessa senare åren under dennas siuklighet denna nu lediga beställning effter Eder Kongl. May:tts Eget nådigste förordnande förestådt, utom det han befordran förtjenar i anseende till dess skickelighet uti andra Cancellie sysslor, hwilcken han icke mindre än ett redeligit förhållande å daga lagt, då han under 3:ne Ministrar warit Commissions Secreterare i franckrike, till bewis hwaraf Eder Kongl. May:tt behagat tillägga honom Kongl. Secreterare namn och heder. Men alt detta skulle Collegium tro sig kunna"
+  },
+  {
+   "bbox": [
+    535,
+    1811,
+    583,
+    1850
+   ],
+   "category": "Page-footer",
+   "text": "32"
+  }
+ ]
+}

@@ -1,0 +1,282 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 618,
+ "seconds": 45.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [366, 248, 875, 293], \"category\": \"Section-header\", \"text\": \"Antikvitetsarkivets skrifter\"}, {\"bbox\": [922, 315, 1144, 354], \"category\": \"Text\", \"text\": \"Transport 124.\"}, {\"bbox\": [97, 346, 1144, 388], \"category\": \"List-item\", \"text\": \"74. J. C. Hedlinger 3.\"}, {\"bbox\": [97, 383, 1144, 457], \"category\": \"List-item\", \"text\": \"75. Jettons de Mesdames Rålamb, Eva Bielke, de Geer, & Fehman: de Mrs C. F. Piper, P. Elvius 6.\"}, {\"bbox\": [97, 453, 1144, 501], \"category\": \"List-item\", \"text\": \"76. C. R. Berch 1.\"}, {\"bbox\": [959, 501, 1144, 538], \"category\": \"Text\", \"text\": \"Summa 134.\"}, {\"bbox\": [97, 565, 1144, 638], \"category\": \"Text\", \"text\": \"Hafwa kostat at sticka 2000 Livres Tournois, som giöra 200 ducater, ell:r 400 RiksD:r Hamb:r B:co.\"}, {\"bbox\": [131, 678, 1088, 719], \"category\": \"Text\", \"text\": \"Nyare Skåde- och Räkn[e]-penningar, som framdeles skola stickas.\"}, {\"bbox\": [97, 723, 907, 762], \"category\": \"Text\", \"text\": \"Öfwer Gr. Brahe. S:t Brita 2:ne sedermera anskaffade.\"}, {\"bbox\": [262, 762, 859, 796], \"category\": \"Text\", \"text\": \"De la Gardie. Grefwinnan Eva Ekeblad.\"}, {\"bbox\": [262, 798, 761, 836], \"category\": \"Text\", \"text\": \"Gyllenborg. Fredrich, Presidenten.\"}, {\"bbox\": [262, 834, 676, 869], \"category\": \"Text\", \"text\": \"Fersen. Axel, Lantmarskalk.\"}, {\"bbox\": [262, 869, 825, 908], \"category\": \"Text\", \"text\": \"Tessin. Carl Gust. någre nye jettoner.\"}, {\"bbox\": [262, 906, 861, 944], \"category\": \"Text\", \"text\": \"Sparre. Fredr. Academiens Premie-jetton.\"}, {\"bbox\": [262, 942, 905, 979], \"category\": \"Text\", \"text\": \"Ehrenpreus. Carl. Ups. Academie Cantzler.\"}, {\"bbox\": [184, 975, 602, 1008], \"category\": \"Text\", \"text\": \"Frh. Horn. Catharina Ebba.\"}, {\"bbox\": [262, 1010, 905, 1049], \"category\": \"Text\", \"text\": \"Fleming. Otto. med:lle stucken i Danmark.\"}, {\"bbox\": [262, 1047, 959, 1087], \"category\": \"Text\", \"text\": \"Ribbing. Fru De Geer öfwer Kopp-ympningen.\"}, {\"bbox\": [262, 1085, 815, 1122], \"category\": \"Text\", \"text\": \"— Grefwinnan Höpkens jetton.\"}, {\"bbox\": [262, 1118, 665, 1151], \"category\": \"Text\", \"text\": \"Hårleman. öfwer hans död.\"}, {\"bbox\": [198, 1153, 411, 1184], \"category\": \"Text\", \"text\": \"Hr Lundmark\"}, {\"bbox\": [262, 1188, 408, 1219], \"category\": \"Text\", \"text\": \"Westerhof\"}, {\"bbox\": [262, 1223, 510, 1262], \"category\": \"Text\", \"text\": \"Rudbeck. Ol[o]f\"}, {\"bbox\": [262, 1260, 393, 1291], \"category\": \"Text\", \"text\": \"Fehrman.\"}, {\"bbox\": [196, 1306, 1137, 1378], \"category\": \"Text\", \"text\": \"Academiens ledamöter på jettoner: Polhem, Ahlströmer, Linnæus, Elvius, Ekström, Schützer, Grill.»\"}, {\"bbox\": [92, 1419, 1137, 1754], \"category\": \"Text\", \"text\": \"Något svar härpå fick han icke, och då ett år gått efter Rabbes anmälan, vågade den försynte Berch själv påminna kollegiet om dess löfte: »För någon tid dristade iag uptäcka för Edre Excell:r och Kongl. Collegium min oförmögenhet at längre kunna umbära et förlag af 200 ducater Specie, som iag hade giordt på plåtars utstickande til historien öfwer Sweriges berömde herrar och män. Och ehuruwäl detta wärck, som alla andre, hwilka antiquarierne skrifwa, bör af antiquitets归作 påkostas, blef föreslagit, emedan bem:te\"}, {\"bbox\": [1061, 1802, 1133, 1849], \"category\": \"Page-footer\", \"text\": \"589\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    366,
+    248,
+    875,
+    293
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsarkivets skrifter"
+  },
+  {
+   "bbox": [
+    922,
+    315,
+    1144,
+    354
+   ],
+   "category": "Text",
+   "text": "Transport 124."
+  },
+  {
+   "bbox": [
+    97,
+    346,
+    1144,
+    388
+   ],
+   "category": "List-item",
+   "text": "74. J. C. Hedlinger 3."
+  },
+  {
+   "bbox": [
+    97,
+    383,
+    1144,
+    457
+   ],
+   "category": "List-item",
+   "text": "75. Jettons de Mesdames Rålamb, Eva Bielke, de Geer, & Fehman: de Mrs C. F. Piper, P. Elvius 6."
+  },
+  {
+   "bbox": [
+    97,
+    453,
+    1144,
+    501
+   ],
+   "category": "List-item",
+   "text": "76. C. R. Berch 1."
+  },
+  {
+   "bbox": [
+    959,
+    501,
+    1144,
+    538
+   ],
+   "category": "Text",
+   "text": "Summa 134."
+  },
+  {
+   "bbox": [
+    97,
+    565,
+    1144,
+    638
+   ],
+   "category": "Text",
+   "text": "Hafwa kostat at sticka 2000 Livres Tournois, som giöra 200 ducater, ell:r 400 RiksD:r Hamb:r B:co."
+  },
+  {
+   "bbox": [
+    131,
+    678,
+    1088,
+    719
+   ],
+   "category": "Text",
+   "text": "Nyare Skåde- och Räkn[e]-penningar, som framdeles skola stickas."
+  },
+  {
+   "bbox": [
+    97,
+    723,
+    907,
+    762
+   ],
+   "category": "Text",
+   "text": "Öfwer Gr. Brahe. S:t Brita 2:ne sedermera anskaffade."
+  },
+  {
+   "bbox": [
+    262,
+    762,
+    859,
+    796
+   ],
+   "category": "Text",
+   "text": "De la Gardie. Grefwinnan Eva Ekeblad."
+  },
+  {
+   "bbox": [
+    262,
+    798,
+    761,
+    836
+   ],
+   "category": "Text",
+   "text": "Gyllenborg. Fredrich, Presidenten."
+  },
+  {
+   "bbox": [
+    262,
+    834,
+    676,
+    869
+   ],
+   "category": "Text",
+   "text": "Fersen. Axel, Lantmarskalk."
+  },
+  {
+   "bbox": [
+    262,
+    869,
+    825,
+    908
+   ],
+   "category": "Text",
+   "text": "Tessin. Carl Gust. någre nye jettoner."
+  },
+  {
+   "bbox": [
+    262,
+    906,
+    861,
+    944
+   ],
+   "category": "Text",
+   "text": "Sparre. Fredr. Academiens Premie-jetton."
+  },
+  {
+   "bbox": [
+    262,
+    942,
+    905,
+    979
+   ],
+   "category": "Text",
+   "text": "Ehrenpreus. Carl. Ups. Academie Cantzler."
+  },
+  {
+   "bbox": [
+    184,
+    975,
+    602,
+    1008
+   ],
+   "category": "Text",
+   "text": "Frh. Horn. Catharina Ebba."
+  },
+  {
+   "bbox": [
+    262,
+    1010,
+    905,
+    1049
+   ],
+   "category": "Text",
+   "text": "Fleming. Otto. med:lle stucken i Danmark."
+  },
+  {
+   "bbox": [
+    262,
+    1047,
+    959,
+    1087
+   ],
+   "category": "Text",
+   "text": "Ribbing. Fru De Geer öfwer Kopp-ympningen."
+  },
+  {
+   "bbox": [
+    262,
+    1085,
+    815,
+    1122
+   ],
+   "category": "Text",
+   "text": "— Grefwinnan Höpkens jetton."
+  },
+  {
+   "bbox": [
+    262,
+    1118,
+    665,
+    1151
+   ],
+   "category": "Text",
+   "text": "Hårleman. öfwer hans död."
+  },
+  {
+   "bbox": [
+    198,
+    1153,
+    411,
+    1184
+   ],
+   "category": "Text",
+   "text": "Hr Lundmark"
+  },
+  {
+   "bbox": [
+    262,
+    1188,
+    408,
+    1219
+   ],
+   "category": "Text",
+   "text": "Westerhof"
+  },
+  {
+   "bbox": [
+    262,
+    1223,
+    510,
+    1262
+   ],
+   "category": "Text",
+   "text": "Rudbeck. Ol[o]f"
+  },
+  {
+   "bbox": [
+    262,
+    1260,
+    393,
+    1291
+   ],
+   "category": "Text",
+   "text": "Fehrman."
+  },
+  {
+   "bbox": [
+    196,
+    1306,
+    1137,
+    1378
+   ],
+   "category": "Text",
+   "text": "Academiens ledamöter på jettoner: Polhem, Ahlströmer, Linnæus, Elvius, Ekström, Schützer, Grill.»"
+  },
+  {
+   "bbox": [
+    92,
+    1419,
+    1137,
+    1754
+   ],
+   "category": "Text",
+   "text": "Något svar härpå fick han icke, och då ett år gått efter Rabbes anmälan, vågade den försynte Berch själv påminna kollegiet om dess löfte: »För någon tid dristade iag uptäcka för Edre Excell:r och Kongl. Collegium min oförmögenhet at längre kunna umbära et förlag af 200 ducater Specie, som iag hade giordt på plåtars utstickande til historien öfwer Sweriges berömde herrar och män. Och ehuruwäl detta wärck, som alla andre, hwilka antiquarierne skrifwa, bör af antiquitets归作 påkostas, blef föreslagit, emedan bem:te"
+  },
+  {
+   "bbox": [
+    1061,
+    1802,
+    1133,
+    1849
+   ],
+   "category": "Page-footer",
+   "text": "589"
+  }
+ ]
+}

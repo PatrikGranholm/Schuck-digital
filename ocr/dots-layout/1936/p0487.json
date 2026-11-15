@@ -1,0 +1,142 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 487,
+ "seconds": 23.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [898, 250, 1297, 286], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [672, 318, 1165, 358], \"category\": \"List-item\", \"text\": \"2) Ramii Norjes beskrifwelse 4:0.\"}, {\"bbox\": [672, 356, 1192, 393], \"category\": \"List-item\", \"text\": \"3) Resenii Inscriptiones Hafnienses.\"}, {\"bbox\": [672, 391, 1289, 428], \"category\": \"List-item\", \"text\": \"4) Likpredikan öfwer Britta Rammell 4:0.\"}, {\"bbox\": [672, 427, 1619, 499], \"category\": \"List-item\", \"text\": \"5) Kongl. May:ts Bref till kejsaren 1675 angående de Brandenburgska sakerne 4:0.\"}, {\"bbox\": [672, 497, 1617, 564], \"category\": \"List-item\", \"text\": \"6) Den gamla skånska handboken, då landet blef swenskt, corrigerad 8:0.\"}, {\"bbox\": [672, 567, 1085, 605], \"category\": \"List-item\", \"text\": \"7) Likaledes handboken 8:0.\"}, {\"bbox\": [571, 622, 1617, 741], \"category\": \"Text\", \"text\": \"Av skånska saker, som jag medbragt ifrån Kiöpenhamn, 215 st. Utom dessa böcker har jag aflämnat En helt ny Edition af Pelloutiers Histoire des Celtes. 2 Tomer.\"}, {\"bbox\": [1335, 749, 1581, 784], \"category\": \"Text\", \"text\": \"Nils Wessman.»\"}, {\"bbox\": [568, 817, 1617, 1024], \"category\": \"Text\", \"text\": \"Kanslikollegiet upptog denna reseberättelse påfallande snävt och ansåg tydligen — utan tvivel med rätta — att den var väl summarisk och innehållslös: »Uplästes en af Translator Wessman til Collegium ingifwen berättelse om den af honom år 1756 til Blekinge, Skåne och Köpenhamn anstälte resa.\"}, {\"bbox\": [568, 1024, 1617, 1478], \"category\": \"Text\", \"text\": \"Kongl. Collegium ansåg med ordningen mera öfwerensstämmande, at bem:te Translator först härmed hade wändt sig til Antiquitets-Collegium eller Archivum, som utgör et under Kongl. Cantzlie Collegio subordineradt särskilt wärk och hwar under Translatoren närmast hörer, då det samma egt tilfälle, at öfwer denna berättelse och resa dess utlåtande afgifwa; hwilket är så mycket nödigare, som Wessman förmäler sig hafwa dit lämnat åtskillige saker, om hwilka Collegium ingen widare kunskap eger, än hwad af Wessmans egen berättelse är at inhämta, så at Kongl. Collegium nu icke är i stånd döma antingen om deras gagn och nytta, ej heller om Wessman behörigen fullgiort den förelagda resa.\"}, {\"bbox\": [566, 1478, 1617, 1767], \"category\": \"Text\", \"text\": \"Och fant Collegium således nödigt at denna berättelse öfwerlämnas til Herr Cantzlie Rådet och Secreteraren wid Antiquitets archivum Berch, som har at så wäl Communicera den med Hans Excellence Herr Riks Rådet Grefwe Bonde, i anseende til det öfwerinseende honom öfwer Archivet tilkommer, som ock at draga försorg, at Antiquitets Archivi yttrande om denna sak inkommer» (Kansliprot. 17 april 1758).\"}, {\"bbox\": [566, 1795, 643, 1842], \"category\": \"Page-footer\", \"text\": \"464\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    898,
+    250,
+    1297,
+    286
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    672,
+    318,
+    1165,
+    358
+   ],
+   "category": "List-item",
+   "text": "2) Ramii Norjes beskrifwelse 4:0."
+  },
+  {
+   "bbox": [
+    672,
+    356,
+    1192,
+    393
+   ],
+   "category": "List-item",
+   "text": "3) Resenii Inscriptiones Hafnienses."
+  },
+  {
+   "bbox": [
+    672,
+    391,
+    1289,
+    428
+   ],
+   "category": "List-item",
+   "text": "4) Likpredikan öfwer Britta Rammell 4:0."
+  },
+  {
+   "bbox": [
+    672,
+    427,
+    1619,
+    499
+   ],
+   "category": "List-item",
+   "text": "5) Kongl. May:ts Bref till kejsaren 1675 angående de Brandenburgska sakerne 4:0."
+  },
+  {
+   "bbox": [
+    672,
+    497,
+    1617,
+    564
+   ],
+   "category": "List-item",
+   "text": "6) Den gamla skånska handboken, då landet blef swenskt, corrigerad 8:0."
+  },
+  {
+   "bbox": [
+    672,
+    567,
+    1085,
+    605
+   ],
+   "category": "List-item",
+   "text": "7) Likaledes handboken 8:0."
+  },
+  {
+   "bbox": [
+    571,
+    622,
+    1617,
+    741
+   ],
+   "category": "Text",
+   "text": "Av skånska saker, som jag medbragt ifrån Kiöpenhamn, 215 st. Utom dessa böcker har jag aflämnat En helt ny Edition af Pelloutiers Histoire des Celtes. 2 Tomer."
+  },
+  {
+   "bbox": [
+    1335,
+    749,
+    1581,
+    784
+   ],
+   "category": "Text",
+   "text": "Nils Wessman.»"
+  },
+  {
+   "bbox": [
+    568,
+    817,
+    1617,
+    1024
+   ],
+   "category": "Text",
+   "text": "Kanslikollegiet upptog denna reseberättelse påfallande snävt och ansåg tydligen — utan tvivel med rätta — att den var väl summarisk och innehållslös: »Uplästes en af Translator Wessman til Collegium ingifwen berättelse om den af honom år 1756 til Blekinge, Skåne och Köpenhamn anstälte resa."
+  },
+  {
+   "bbox": [
+    568,
+    1024,
+    1617,
+    1478
+   ],
+   "category": "Text",
+   "text": "Kongl. Collegium ansåg med ordningen mera öfwerensstämmande, at bem:te Translator först härmed hade wändt sig til Antiquitets-Collegium eller Archivum, som utgör et under Kongl. Cantzlie Collegio subordineradt särskilt wärk och hwar under Translatoren närmast hörer, då det samma egt tilfälle, at öfwer denna berättelse och resa dess utlåtande afgifwa; hwilket är så mycket nödigare, som Wessman förmäler sig hafwa dit lämnat åtskillige saker, om hwilka Collegium ingen widare kunskap eger, än hwad af Wessmans egen berättelse är at inhämta, så at Kongl. Collegium nu icke är i stånd döma antingen om deras gagn och nytta, ej heller om Wessman behörigen fullgiort den förelagda resa."
+  },
+  {
+   "bbox": [
+    566,
+    1478,
+    1617,
+    1767
+   ],
+   "category": "Text",
+   "text": "Och fant Collegium således nödigt at denna berättelse öfwerlämnas til Herr Cantzlie Rådet och Secreteraren wid Antiquitets archivum Berch, som har at så wäl Communicera den med Hans Excellence Herr Riks Rådet Grefwe Bonde, i anseende til det öfwerinseende honom öfwer Archivet tilkommer, som ock at draga försorg, at Antiquitets Archivi yttrande om denna sak inkommer» (Kansliprot. 17 april 1758)."
+  },
+  {
+   "bbox": [
+    566,
+    1795,
+    643,
+    1842
+   ],
+   "category": "Page-footer",
+   "text": "464"
+  }
+ ]
+}

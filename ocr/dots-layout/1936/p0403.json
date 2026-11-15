@@ -1,0 +1,222 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 403,
+ "seconds": 37.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [907, 256, 1304, 292], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [580, 325, 1629, 394], \"category\": \"List-item\", \"text\": \"[N. 279.] En pryl, med ord på skafftet: Heidur sie Gud e himnum aog hanst lofi firer nad Sin.\"}, {\"bbox\": [580, 408, 1627, 447], \"category\": \"List-item\", \"text\": \"[N. 280.] Et Sax-foder, med ord: Ingebiorg Sigurdar dotter a Sk. fodur.\"}, {\"bbox\": [580, 456, 907, 492], \"category\": \"List-item\", \"text\": \"[N. 281.] En Nål-dosa.\"}, {\"bbox\": [580, 503, 881, 542], \"category\": \"List-item\", \"text\": \"[N. 282.] Et Spänne.\"}, {\"bbox\": [580, 550, 1304, 589], \"category\": \"List-item\", \"text\": \"[N. 283.] En stor graverad rund plåt eller Smycke.\"}, {\"bbox\": [580, 603, 1627, 679], \"category\": \"List-item\", \"text\": \"[N. 284.] D:o mindre, med ord: Gudrun Ingemundar dotter a Silgiuna bo. Altsammans af messing, i et Knippe sammanbundit.\"}, {\"bbox\": [580, 691, 1627, 795], \"category\": \"List-item\", \"text\": \"[N. 285.] *Et penning-formigt metall-stycke*, på hwilket en Ängel är afbildad med Spira eller något dylikt i högra handen och en glob i den wänstra.\"}, {\"bbox\": [580, 811, 1382, 850], \"category\": \"List-item\", \"text\": \"[N. 286.] *En gammalmodig Sko*, för Fruentimmer, i Skåne.\"}, {\"bbox\": [580, 863, 1210, 903], \"category\": \"List-item\", \"text\": \"[N. 287.] *En Toffel* för någon låghalt person.\"}, {\"bbox\": [719, 929, 1127, 968], \"category\": \"Section-header\", \"text\": \"Okände saker fundne i jorden\"}, {\"bbox\": [580, 971, 1324, 1010], \"category\": \"List-item\", \"text\": \"[N. 288.] *Stor wriden prydnad* af koppar, anm. p. 19.\"}, {\"bbox\": [580, 1023, 1627, 1168], \"category\": \"List-item\", \"text\": \"[N. 289.] Något som liknar et *täckelse för ögonen*, af smal koppar, dragen i spirale lineer. Bägge fundne i Småland Misterhult sn, Wästra Ramnebo-gård och inlefwerade af H:r Öfwersten Hammarschöld 1753. (Anm. p. 18).\"}, {\"bbox\": [580, 1176, 1627, 1279], \"category\": \"List-item\", \"text\": \"[N. 290.] *Twenne Ringar af Koppar*. Den större funnen i en Ättehög wid wästra Carleby, Harjagers Härad, i Skåne, gifwen af H:r Wessman.\"}, {\"bbox\": [580, 1294, 1405, 1333], \"category\": \"List-item\", \"text\": \"[N. 291.] Liknelse af et *Smörjehorn*, af koppar (Anm. p. 17).\"}, {\"bbox\": [580, 1348, 1627, 1456], \"category\": \"List-item\", \"text\": \"[N. 292.] *Dylik*; litet större, äfwen som den förra, med handtag, el:r öra och hvässad såsom en wigg nedantil (funnen wäster om Fielkingebacke i Christianstad Län och inlemnad 1783.]\"}, {\"bbox\": [580, 1465, 1201, 1504], \"category\": \"List-item\", \"text\": \"[N. 293.] *En iholig Jernbult*, af rost förtärd.\"}, {\"bbox\": [580, 1518, 1627, 1592], \"category\": \"List-item\", \"text\": \"[N. 294.] *Et stycke Gull*, liknande *en Spijk*, af 62 ducaters wigt funnit i Upland. (not. p. 18.)\"}, {\"bbox\": [580, 1603, 1627, 1675], \"category\": \"List-item\", \"text\": \"[N. 295.] *En liten silfwerhammare* hängande i en ring, förmodl. amulet; funnen i åkren under såningen om hösten 177 ... i Läby Sokn 3/4 mil från Upsala.]\"}, {\"bbox\": [717, 1703, 1627, 1776], \"category\": \"Text\", \"text\": \"[Sedan följer en förteckning på sigill, nr 296—387, nästan alla nummer skrivna med Berchs piktur. Därefter följer:]\"}, {\"bbox\": [580, 1804, 657, 1850], \"category\": \"Page-footer\", \"text\": \"384\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    907,
+    256,
+    1304,
+    292
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    580,
+    325,
+    1629,
+    394
+   ],
+   "category": "List-item",
+   "text": "[N. 279.] En pryl, med ord på skafftet: Heidur sie Gud e himnum aog hanst lofi firer nad Sin."
+  },
+  {
+   "bbox": [
+    580,
+    408,
+    1627,
+    447
+   ],
+   "category": "List-item",
+   "text": "[N. 280.] Et Sax-foder, med ord: Ingebiorg Sigurdar dotter a Sk. fodur."
+  },
+  {
+   "bbox": [
+    580,
+    456,
+    907,
+    492
+   ],
+   "category": "List-item",
+   "text": "[N. 281.] En Nål-dosa."
+  },
+  {
+   "bbox": [
+    580,
+    503,
+    881,
+    542
+   ],
+   "category": "List-item",
+   "text": "[N. 282.] Et Spänne."
+  },
+  {
+   "bbox": [
+    580,
+    550,
+    1304,
+    589
+   ],
+   "category": "List-item",
+   "text": "[N. 283.] En stor graverad rund plåt eller Smycke."
+  },
+  {
+   "bbox": [
+    580,
+    603,
+    1627,
+    679
+   ],
+   "category": "List-item",
+   "text": "[N. 284.] D:o mindre, med ord: Gudrun Ingemundar dotter a Silgiuna bo. Altsammans af messing, i et Knippe sammanbundit."
+  },
+  {
+   "bbox": [
+    580,
+    691,
+    1627,
+    795
+   ],
+   "category": "List-item",
+   "text": "[N. 285.] *Et penning-formigt metall-stycke*, på hwilket en Ängel är afbildad med Spira eller något dylikt i högra handen och en glob i den wänstra."
+  },
+  {
+   "bbox": [
+    580,
+    811,
+    1382,
+    850
+   ],
+   "category": "List-item",
+   "text": "[N. 286.] *En gammalmodig Sko*, för Fruentimmer, i Skåne."
+  },
+  {
+   "bbox": [
+    580,
+    863,
+    1210,
+    903
+   ],
+   "category": "List-item",
+   "text": "[N. 287.] *En Toffel* för någon låghalt person."
+  },
+  {
+   "bbox": [
+    719,
+    929,
+    1127,
+    968
+   ],
+   "category": "Section-header",
+   "text": "Okände saker fundne i jorden"
+  },
+  {
+   "bbox": [
+    580,
+    971,
+    1324,
+    1010
+   ],
+   "category": "List-item",
+   "text": "[N. 288.] *Stor wriden prydnad* af koppar, anm. p. 19."
+  },
+  {
+   "bbox": [
+    580,
+    1023,
+    1627,
+    1168
+   ],
+   "category": "List-item",
+   "text": "[N. 289.] Något som liknar et *täckelse för ögonen*, af smal koppar, dragen i spirale lineer. Bägge fundne i Småland Misterhult sn, Wästra Ramnebo-gård och inlefwerade af H:r Öfwersten Hammarschöld 1753. (Anm. p. 18)."
+  },
+  {
+   "bbox": [
+    580,
+    1176,
+    1627,
+    1279
+   ],
+   "category": "List-item",
+   "text": "[N. 290.] *Twenne Ringar af Koppar*. Den större funnen i en Ättehög wid wästra Carleby, Harjagers Härad, i Skåne, gifwen af H:r Wessman."
+  },
+  {
+   "bbox": [
+    580,
+    1294,
+    1405,
+    1333
+   ],
+   "category": "List-item",
+   "text": "[N. 291.] Liknelse af et *Smörjehorn*, af koppar (Anm. p. 17)."
+  },
+  {
+   "bbox": [
+    580,
+    1348,
+    1627,
+    1456
+   ],
+   "category": "List-item",
+   "text": "[N. 292.] *Dylik*; litet större, äfwen som den förra, med handtag, el:r öra och hvässad såsom en wigg nedantil (funnen wäster om Fielkingebacke i Christianstad Län och inlemnad 1783.]"
+  },
+  {
+   "bbox": [
+    580,
+    1465,
+    1201,
+    1504
+   ],
+   "category": "List-item",
+   "text": "[N. 293.] *En iholig Jernbult*, af rost förtärd."
+  },
+  {
+   "bbox": [
+    580,
+    1518,
+    1627,
+    1592
+   ],
+   "category": "List-item",
+   "text": "[N. 294.] *Et stycke Gull*, liknande *en Spijk*, af 62 ducaters wigt funnit i Upland. (not. p. 18.)"
+  },
+  {
+   "bbox": [
+    580,
+    1603,
+    1627,
+    1675
+   ],
+   "category": "List-item",
+   "text": "[N. 295.] *En liten silfwerhammare* hängande i en ring, förmodl. amulet; funnen i åkren under såningen om hösten 177 ... i Läby Sokn 3/4 mil från Upsala.]"
+  },
+  {
+   "bbox": [
+    717,
+    1703,
+    1627,
+    1776
+   ],
+   "category": "Text",
+   "text": "[Sedan följer en förteckning på sigill, nr 296—387, nästan alla nummer skrivna med Berchs piktur. Därefter följer:]"
+  },
+  {
+   "bbox": [
+    580,
+    1804,
+    657,
+    1850
+   ],
+   "category": "Page-footer",
+   "text": "384"
+  }
+ ]
+}

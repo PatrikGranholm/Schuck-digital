@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 648,
+ "seconds": 29.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [370, 256, 877, 302], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivets skrifter\"}, {\"bbox\": [90, 324, 1146, 1534], \"category\": \"Text\", \"text\": \"Likväl kom hans arbete till sist ut, tack vare Adlerbeth och dennes pietet för företrädarens minne, ehuru näppeligen i det skick, som den gamle numismatikern själv skulle hava gillat, i det att blott själva texten trycktes, utan några kopparstick av medaljerna. 1788 utgavs nämligen »Kort utkast til Konung Gustaf Adolphs och dess gemåls lefwernes-beskrifning i anledning af de öfwer desse slagne skåde-penningar. Stockholm tryckt hos Johan A. Carlbohm 1788». I sitt företal yttrade Adlerbeth: »Författaren til denna Skrift är Framledne Cantzlie Rådet och Riddaren Carl Reinhold Berch, som företog sig efter von Dalins död at fullfölja dess Svenska Historia intil K. Adolph Friedrichs anträde til Regeringen, dock med föresats at inskränka sitt arbete inom händelserne, til hvilkas kännedom de under hvarje konung slagne Skåde-Penningar kunde gifva anledning. Konungen, som af Canc. Råd. Berchs Arfvingar inlöste Hand-Skriften, har nu nådigast tillåtit dess utgifvande af Trycket. Af en händelse har Stycket om K. Carl XI förut kommit til Almänhet.¹ Det öfrige tror man sig så mycket skyndsammare kunna meddela, som följande Afdelning om Drottning Christina redan är lagd under pressen.» Sedan följde Kristinas, Karl Gustafs, Karl XII:s och Fredrik I:s historier, alla 1788, samt Adolf Fredriks 1789. Om arbetet torde gälla, vad jag i min biografi över Berch skrivit: »Såsom fortsättning på Dalins historia försvarar detta arbete godt sin plats, ty Berch har nästan samma förmåga som Dalin att berätta, och såsom historisk forskare är han honom onekligen överlägsen. Men den besynnerliga sammanblandningen med medaljhistoria torde hafva varit orsaken till, att detta arbete aldrig tilldrog sig den uppmärksamhet, det synes hafva förtjänat. Något bidrog väl också tiden, ty endast några årtionden senare uppstod en ny historisk skola, och inför denna måste Berchs framställning förefalla förlegad.»\"}, {\"bbox\": [90, 1534, 1137, 1665], \"category\": \"Text\", \"text\": \"Det arbete, som låg Berch närmast om hjärtat, var dock — för att citera dess slutliga titel — Namnkunnige Swenska herrars och fruers skådepenningar afritade och i koppar stuckne med bifogade\"}, {\"bbox\": [88, 1686, 1136, 1776], \"category\": \"Footnote\", \"text\": \"¹ »Kort utkast til Konung Carl XI:s historia. I anledning af de under hans regering slagne skåde-penningar» hade förut, men under samma år (1788) utgivits i »Stockholm, i Upsala och Åbo uti Swederi academiska bokhandel».\"}, {\"bbox\": [1056, 1812, 1132, 1860], \"category\": \"Page-footer\", \"text\": \"619\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    370,
+    256,
+    877,
+    302
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivets skrifter"
+  },
+  {
+   "bbox": [
+    90,
+    324,
+    1146,
+    1534
+   ],
+   "category": "Text",
+   "text": "Likväl kom hans arbete till sist ut, tack vare Adlerbeth och dennes pietet för företrädarens minne, ehuru näppeligen i det skick, som den gamle numismatikern själv skulle hava gillat, i det att blott själva texten trycktes, utan några kopparstick av medaljerna. 1788 utgavs nämligen »Kort utkast til Konung Gustaf Adolphs och dess gemåls lefwernes-beskrifning i anledning af de öfwer desse slagne skåde-penningar. Stockholm tryckt hos Johan A. Carlbohm 1788». I sitt företal yttrade Adlerbeth: »Författaren til denna Skrift är Framledne Cantzlie Rådet och Riddaren Carl Reinhold Berch, som företog sig efter von Dalins död at fullfölja dess Svenska Historia intil K. Adolph Friedrichs anträde til Regeringen, dock med föresats at inskränka sitt arbete inom händelserne, til hvilkas kännedom de under hvarje konung slagne Skåde-Penningar kunde gifva anledning. Konungen, som af Canc. Råd. Berchs Arfvingar inlöste Hand-Skriften, har nu nådigast tillåtit dess utgifvande af Trycket. Af en händelse har Stycket om K. Carl XI förut kommit til Almänhet.¹ Det öfrige tror man sig så mycket skyndsammare kunna meddela, som följande Afdelning om Drottning Christina redan är lagd under pressen.» Sedan följde Kristinas, Karl Gustafs, Karl XII:s och Fredrik I:s historier, alla 1788, samt Adolf Fredriks 1789. Om arbetet torde gälla, vad jag i min biografi över Berch skrivit: »Såsom fortsättning på Dalins historia försvarar detta arbete godt sin plats, ty Berch har nästan samma förmåga som Dalin att berätta, och såsom historisk forskare är han honom onekligen överlägsen. Men den besynnerliga sammanblandningen med medaljhistoria torde hafva varit orsaken till, att detta arbete aldrig tilldrog sig den uppmärksamhet, det synes hafva förtjänat. Något bidrog väl också tiden, ty endast några årtionden senare uppstod en ny historisk skola, och inför denna måste Berchs framställning förefalla förlegad.»"
+  },
+  {
+   "bbox": [
+    90,
+    1534,
+    1137,
+    1665
+   ],
+   "category": "Text",
+   "text": "Det arbete, som låg Berch närmast om hjärtat, var dock — för att citera dess slutliga titel — Namnkunnige Swenska herrars och fruers skådepenningar afritade och i koppar stuckne med bifogade"
+  },
+  {
+   "bbox": [
+    88,
+    1686,
+    1136,
+    1776
+   ],
+   "category": "Footnote",
+   "text": "¹ »Kort utkast til Konung Carl XI:s historia. I anledning af de under hans regering slagne skåde-penningar» hade förut, men under samma år (1788) utgivits i »Stockholm, i Upsala och Åbo uti Swederi academiska bokhandel»."
+  },
+  {
+   "bbox": [
+    1056,
+    1812,
+    1132,
+    1860
+   ],
+   "category": "Page-footer",
+   "text": "619"
+  }
+ ]
+}

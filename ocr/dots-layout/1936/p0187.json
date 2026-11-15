@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 187,
+ "seconds": 21.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [881, 264, 1275, 300], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [548, 333, 1600, 584], \"category\": \"Text\", \"text\": \"Ständer at tilstyrka; så befaltes, at Secreteraren och assessorerna i antiquitets archivo skulle genom utdrag af Protocollet antydas at i denna sak til Kongl. Collegium med des utlåtande inkomma, emedan Kongl. Collegium desförinnan ey är i stånd at öfwer denna assesserens ansökning sina tanckar Riksens höglofl. Ständers Mindre Secreta Deputation meddela.»\"}, {\"bbox\": [541, 582, 1600, 1744], \"category\": \"Text\", \"text\": \"Berchs yttrande är — såsom alltid — till formen ytterst urbant, men innehåller mellan raderna en skarp satir över Richardsons närighet och hans usla arbete: »Til underdån-ödmiukast effterlefnad af C. C. E. E. och högloflige Kongl. Cantzlij Collegii Befalning, at Wij, som hafwa den ähran at tiena wid Kongl. M:ts ant. archivum och Bibliothek, skola aflägga wår berättelse, om ämnet af Hr. assessor Richardsons under namn af Hallandia Antiqua et Hodierna författade arbete är med den redighet och insigt afhandlat, at Swenska historien och Publicum i gemen någon uplysning och nytta deraf kan hafwa at förwänta, på det at Kongl. Collegium må wara i stånd at til Riksens Ständers mindre Secrete Deputation sig yttra öfwer wälbem:te assessors underd. ansökning at niuta afskrifning för en uti Riksens Ständers Contoir låntagen Summa af åttatusende åtta-hundrade sextio Twå dahler 30 öre smt; Så kunna Wij icke under-låta at aldraförst betyga wår åstundan, at C. C. E. E. och Kongl. Cantzlij Collegium såsom högt uplyste domare öfwer nyttiga skrifter hade för sig låtit upläsa, hwad Hr. Ass. Richardson, innan något aftryckande skedde, hade af sitt halländska wärck uti handskrifft framgifwit, särdeles som wår oförgripeliga tancka torde af fölgden skattas hafwa warit mindre owäldig, då antingen sägas kunde, at wij af wänskap för auctorn såsom wår medarbetare hafwa uphögt, hwad som i sig sielf warit medelmåttigt, eller af blind kiärlek til wåra enskylta giöromål ringa achtat annat, som likwäl ej mindre gagn skaffat för Publicum och lius i Swenska Historien. Det är ej utan at i den lilla början af Hr. assessor Richardsons halländska stora wärck, som wij sedt i handskrifft och hwilken del nu skal wara under pressen, icke just et sådant skrifsätt och redighet finnes¹, som wij uti dylikt ämne, efter vårt begrep, skulle hafwa brukat, men likwäl för mången\"}, {\"bbox\": [575, 1751, 1289, 1785], \"category\": \"Footnote\", \"text\": \"¹ Alla kursiveringar äro här gjorda för att framhålla Berchs satir.\"}, {\"bbox\": [549, 1818, 625, 1856], \"category\": \"Page-footer\", \"text\": \"170\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    881,
+    264,
+    1275,
+    300
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    548,
+    333,
+    1600,
+    584
+   ],
+   "category": "Text",
+   "text": "Ständer at tilstyrka; så befaltes, at Secreteraren och assessorerna i antiquitets archivo skulle genom utdrag af Protocollet antydas at i denna sak til Kongl. Collegium med des utlåtande inkomma, emedan Kongl. Collegium desförinnan ey är i stånd at öfwer denna assesserens ansökning sina tanckar Riksens höglofl. Ständers Mindre Secreta Deputation meddela.»"
+  },
+  {
+   "bbox": [
+    541,
+    582,
+    1600,
+    1744
+   ],
+   "category": "Text",
+   "text": "Berchs yttrande är — såsom alltid — till formen ytterst urbant, men innehåller mellan raderna en skarp satir över Richardsons närighet och hans usla arbete: »Til underdån-ödmiukast effterlefnad af C. C. E. E. och högloflige Kongl. Cantzlij Collegii Befalning, at Wij, som hafwa den ähran at tiena wid Kongl. M:ts ant. archivum och Bibliothek, skola aflägga wår berättelse, om ämnet af Hr. assessor Richardsons under namn af Hallandia Antiqua et Hodierna författade arbete är med den redighet och insigt afhandlat, at Swenska historien och Publicum i gemen någon uplysning och nytta deraf kan hafwa at förwänta, på det at Kongl. Collegium må wara i stånd at til Riksens Ständers mindre Secrete Deputation sig yttra öfwer wälbem:te assessors underd. ansökning at niuta afskrifning för en uti Riksens Ständers Contoir låntagen Summa af åttatusende åtta-hundrade sextio Twå dahler 30 öre smt; Så kunna Wij icke under-låta at aldraförst betyga wår åstundan, at C. C. E. E. och Kongl. Cantzlij Collegium såsom högt uplyste domare öfwer nyttiga skrifter hade för sig låtit upläsa, hwad Hr. Ass. Richardson, innan något aftryckande skedde, hade af sitt halländska wärck uti handskrifft framgifwit, särdeles som wår oförgripeliga tancka torde af fölgden skattas hafwa warit mindre owäldig, då antingen sägas kunde, at wij af wänskap för auctorn såsom wår medarbetare hafwa uphögt, hwad som i sig sielf warit medelmåttigt, eller af blind kiärlek til wåra enskylta giöromål ringa achtat annat, som likwäl ej mindre gagn skaffat för Publicum och lius i Swenska Historien. Det är ej utan at i den lilla början af Hr. assessor Richardsons halländska stora wärck, som wij sedt i handskrifft och hwilken del nu skal wara under pressen, icke just et sådant skrifsätt och redighet finnes¹, som wij uti dylikt ämne, efter vårt begrep, skulle hafwa brukat, men likwäl för mången"
+  },
+  {
+   "bbox": [
+    575,
+    1751,
+    1289,
+    1785
+   ],
+   "category": "Footnote",
+   "text": "¹ Alla kursiveringar äro här gjorda för att framhålla Berchs satir."
+  },
+  {
+   "bbox": [
+    549,
+    1818,
+    625,
+    1856
+   ],
+   "category": "Page-footer",
+   "text": "170"
+  }
+ ]
+}

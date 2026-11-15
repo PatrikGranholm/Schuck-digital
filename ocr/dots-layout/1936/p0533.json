@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 533,
+ "seconds": 23.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [882, 277, 1276, 313], \"category\": \"Section-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [547, 347, 1600, 766], \"category\": \"Text\", \"text\": \"Med warm hand gifwer iag min half-Broder amanuensis wid Kongl. antiquitets archivum Johan Adolph Stechau alla mina meubler, Linne- och gång-kläder, ring och wärja, hwaraf likwäl Sko- och Knäband spännen skickas till Herr Directeuren Johan Edman i Upsala att gifwa Gustaf Fridric Rhen, när han blifwer så gammal, att han kan bruka dem. 2:0) Skall mitt signet och tillhörande pännhus, Balsamdosa och min fadderskied förwaras åt min frände Johan Brocman. Min hushållerska skall ock, då hon skiljes wid huset, hafwa sin säng och gardin därwid, en gryta och några nödiga matkäril. Stockholm den 23 maij 1770.\"}, {\"bbox\": [1298, 769, 1557, 803], \"category\": \"Text\", \"text\": \"N. R. Brocman.\"}, {\"bbox\": [552, 811, 1001, 901], \"category\": \"Text\", \"text\": \"Såsom wittne\\nS. Rabbe. Lor. Görges.»\"}, {\"bbox\": [552, 934, 1599, 1020], \"category\": \"Text\", \"text\": \"Det kan tilläggas, att den samling, som såldes på auktion, enligt den tryckta katalogen upptog ej mindre än 1755 nummer.\"}, {\"bbox\": [558, 1826, 633, 1874], \"category\": \"Page-footer\", \"text\": \"506\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    882,
+    277,
+    1276,
+    313
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    547,
+    347,
+    1600,
+    766
+   ],
+   "category": "Text",
+   "text": "Med warm hand gifwer iag min half-Broder amanuensis wid Kongl. antiquitets archivum Johan Adolph Stechau alla mina meubler, Linne- och gång-kläder, ring och wärja, hwaraf likwäl Sko- och Knäband spännen skickas till Herr Directeuren Johan Edman i Upsala att gifwa Gustaf Fridric Rhen, när han blifwer så gammal, att han kan bruka dem. 2:0) Skall mitt signet och tillhörande pännhus, Balsamdosa och min fadderskied förwaras åt min frände Johan Brocman. Min hushållerska skall ock, då hon skiljes wid huset, hafwa sin säng och gardin därwid, en gryta och några nödiga matkäril. Stockholm den 23 maij 1770."
+  },
+  {
+   "bbox": [
+    1298,
+    769,
+    1557,
+    803
+   ],
+   "category": "Text",
+   "text": "N. R. Brocman."
+  },
+  {
+   "bbox": [
+    552,
+    811,
+    1001,
+    901
+   ],
+   "category": "Text",
+   "text": "Såsom wittne\nS. Rabbe. Lor. Görges.»"
+  },
+  {
+   "bbox": [
+    552,
+    934,
+    1599,
+    1020
+   ],
+   "category": "Text",
+   "text": "Det kan tilläggas, att den samling, som såldes på auktion, enligt den tryckta katalogen upptog ej mindre än 1755 nummer."
+  },
+  {
+   "bbox": [
+    558,
+    1826,
+    633,
+    1874
+   ],
+   "category": "Page-footer",
+   "text": "506"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 303,
+ "seconds": 30.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [898, 246, 1295, 281], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [568, 316, 1624, 642], \"category\": \"Text\", \"text\": \"beswär deröfwer, att Kongl. Cancellie Collegium antagit till vice Ammanuensis wid Ant: Archiv: Magister Hellman, då Stechau likwäl 1765 i nov: månad, skall hafwa sökt att blifwa wid Archivum, som extra ordin: antagen, och samma ansökning sedermera förnyat, samt att han under Translatorns upseende nu på 3:die året wid detta wärck skall giordt oförwitelig tienst, hwaremot Hellman ej skall hafwa nogot annat för sig talande, än att han lefwat längre, med mera.\"}, {\"bbox\": [568, 647, 1624, 1139], \"category\": \"Text\", \"text\": \"2:0 Cancellie Collegii under d. 21 sidstl. Junii häröfwer afgifne underdånige utlåtande, hwarutinnan förmäles, att Stechau oagtadt dess åberopade ansökningar icke blifwit till extraordinarius antagen; att ett sådant antagande altid warit till Collegii bepröfwande fri lämnat; att som Stechau således ej wid Antiquitets Archivum warit extra ordinarius, det arbete för honom icke eller kan gälla, som han under Translatorn skall hafwa giordt såsom en öfwerenskommelse dem emellan såsom bröder; och att när således ingendera hwarken Hellman eller Stechau warit wid wärcket engagerad, deras befordran skall berodt uppå en bepröfwad flit och skickelighet uti de studier och stycken, som till sysslan erfordras, hwilcket genom examen blifwit utrönt.\"}, {\"bbox\": [571, 1144, 1626, 1352], \"category\": \"Text\", \"text\": \"Detta tror Collegium tillräckeligen uplysa sitt utnämnande i denna delen och uti ett mål, hwarwid för första gången finnes wara beswär anförde, emedan alla dylika beswär altid warit ansedde och effter warande författningar ej annat lärer kunna än blifwa ansedde strida emot Lag och wanlig ordning och således wara aldeles obehörige.\"}, {\"bbox\": [571, 1351, 1626, 1559], \"category\": \"Text\", \"text\": \"Som Hans Excellence Baron Reuterholm om detta mål gjordt sig noga underrättad och till närmare uplysnings erhållande efwen hos sig hemma haft Cancellie Collegii häröfwer hållne Protocoller, Så åhörde Deras Excellencer nu först dess här ofwanföre omförmälte aflämnade tanka, så lydande:\"}, {\"bbox\": [571, 1558, 1626, 1767], \"category\": \"Text\", \"text\": \"Af Magister Johan Adolph Stechaus beswär, Kungl. Cancellie Collegii förklaring deröfwer och bemälte Collegii infordrade Protocoller finner jag, att då vice Amanuensis sysslan wid Kongl. Antiquitets Archivet skulle besättas, har Kongl. Collegium, utan att Herr R. Rådet Friherre von Friesendorf och ej eller Hof-\"}, {\"bbox\": [577, 1794, 651, 1833], \"category\": \"Page-footer\", \"text\": \"286\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    898,
+    246,
+    1295,
+    281
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    568,
+    316,
+    1624,
+    642
+   ],
+   "category": "Text",
+   "text": "beswär deröfwer, att Kongl. Cancellie Collegium antagit till vice Ammanuensis wid Ant: Archiv: Magister Hellman, då Stechau likwäl 1765 i nov: månad, skall hafwa sökt att blifwa wid Archivum, som extra ordin: antagen, och samma ansökning sedermera förnyat, samt att han under Translatorns upseende nu på 3:die året wid detta wärck skall giordt oförwitelig tienst, hwaremot Hellman ej skall hafwa nogot annat för sig talande, än att han lefwat längre, med mera."
+  },
+  {
+   "bbox": [
+    568,
+    647,
+    1624,
+    1139
+   ],
+   "category": "Text",
+   "text": "2:0 Cancellie Collegii under d. 21 sidstl. Junii häröfwer afgifne underdånige utlåtande, hwarutinnan förmäles, att Stechau oagtadt dess åberopade ansökningar icke blifwit till extraordinarius antagen; att ett sådant antagande altid warit till Collegii bepröfwande fri lämnat; att som Stechau således ej wid Antiquitets Archivum warit extra ordinarius, det arbete för honom icke eller kan gälla, som han under Translatorn skall hafwa giordt såsom en öfwerenskommelse dem emellan såsom bröder; och att när således ingendera hwarken Hellman eller Stechau warit wid wärcket engagerad, deras befordran skall berodt uppå en bepröfwad flit och skickelighet uti de studier och stycken, som till sysslan erfordras, hwilcket genom examen blifwit utrönt."
+  },
+  {
+   "bbox": [
+    571,
+    1144,
+    1626,
+    1352
+   ],
+   "category": "Text",
+   "text": "Detta tror Collegium tillräckeligen uplysa sitt utnämnande i denna delen och uti ett mål, hwarwid för första gången finnes wara beswär anförde, emedan alla dylika beswär altid warit ansedde och effter warande författningar ej annat lärer kunna än blifwa ansedde strida emot Lag och wanlig ordning och således wara aldeles obehörige."
+  },
+  {
+   "bbox": [
+    571,
+    1351,
+    1626,
+    1559
+   ],
+   "category": "Text",
+   "text": "Som Hans Excellence Baron Reuterholm om detta mål gjordt sig noga underrättad och till närmare uplysnings erhållande efwen hos sig hemma haft Cancellie Collegii häröfwer hållne Protocoller, Så åhörde Deras Excellencer nu först dess här ofwanföre omförmälte aflämnade tanka, så lydande:"
+  },
+  {
+   "bbox": [
+    571,
+    1558,
+    1626,
+    1767
+   ],
+   "category": "Text",
+   "text": "Af Magister Johan Adolph Stechaus beswär, Kungl. Cancellie Collegii förklaring deröfwer och bemälte Collegii infordrade Protocoller finner jag, att då vice Amanuensis sysslan wid Kongl. Antiquitets Archivet skulle besättas, har Kongl. Collegium, utan att Herr R. Rådet Friherre von Friesendorf och ej eller Hof-"
+  },
+  {
+   "bbox": [
+    577,
+    1794,
+    651,
+    1833
+   ],
+   "category": "Page-footer",
+   "text": "286"
+  }
+ ]
+}

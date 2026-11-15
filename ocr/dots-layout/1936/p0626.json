@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 626,
+ "seconds": 29.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [330, 271, 838, 314], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivets skrifter\"}, {\"bbox\": [55, 341, 1107, 1296], \"category\": \"Text\", \"text\": \"syslosättas, blefwo afbrutne och kunde till skada för litteraturen sedermera aldeles blifwa bortlagde och omsider förqwafde, hälst han äfwen wore en man uti så avancerad ålder, att icke synnerlig räckning göras kunde, det han finge dela många år till flerehanda widlyftige arbeten, fast mera fördes Collegium på den tanckan, huru de wärck, uti hwilcka han hit intills arbetat och hwaraf han en god del skall uti manuskript hafwa färdigt, men i brist på tillgång af medel icke kan utgifwa, måtte komma till allmänhetens kundskap igenom trycket, medan han sjelf ännu lefwer och aldrabäst är i stånd att lägga den hand därwid, som gör honom till senaste efterwerlden af ett hedrande minne förtjent. Till winnande häraf fant Collegium sig hafwa all anledning att hos Mindre Secreta Deputationen anföra, hurusom flere slike Wärck uti Historien och Antiquiteterne kunde wara färdiga att till det allmännas nytta och Rikets heder utgifwas; men att den ringa fond, som till ett slikt behof årligen wore på Cantzli Staten beståd, icke görligen medgåfwo ett sådant företagande, och då Auctorerne ej sjelfwe ägde därtill egen förmögenhet, blefwo deras arbete så godt som fåfängt, då det endast förwarades uti Manuscript på ett ställe och kommo föga till någonskundskap, hwarföre en bättre och ansenligare fond till deras utgifwande woro att önska, men förr än detta steg ginge uti wärckställighet, fant Collegium nödigt att af Cantzli Rådet Berch närmare inhämta, hwad han sjelf kunde hafwa färdigt att först låta utkomma.\"}, {\"bbox\": [55, 1296, 1104, 1667], \"category\": \"Text\", \"text\": \"Efter ett sådant omhugsande af skickelige ämnen till Riks Historiens continuerande, och då flere icke syntes wara att påtäncka, föll Kongl. Collegium för de anförde skäl tillbaka med dess tanckar på Cammar Rådet Botin. Men som Collegium icke hade sig bekant, huruwida hans tid och öfrige omständigheter kunde medgifwa honom att sig detta arbete åtaga, Så will Hans Excellence Herr Riks Rådet och Cantzli Présidenten först höra honom däröfwer, då efter hans afgifne yttrande Saken kommer att tagas under ytterligare öfwerwägande.»\"}, {\"bbox\": [55, 1667, 1101, 1794], \"category\": \"Text\", \"text\": \"Såsom en ny kandidat hade således framkastats Botin, men även Berch, från vilken ett yttrande infordrats. Innan detta inkommit, fortsattes överläggningen vid kanslikollegiets sammanträde den 9\"}, {\"bbox\": [1026, 1832, 1096, 1870], \"category\": \"Page-footer\", \"text\": \"597\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    330,
+    271,
+    838,
+    314
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivets skrifter"
+  },
+  {
+   "bbox": [
+    55,
+    341,
+    1107,
+    1296
+   ],
+   "category": "Text",
+   "text": "syslosättas, blefwo afbrutne och kunde till skada för litteraturen sedermera aldeles blifwa bortlagde och omsider förqwafde, hälst han äfwen wore en man uti så avancerad ålder, att icke synnerlig räckning göras kunde, det han finge dela många år till flerehanda widlyftige arbeten, fast mera fördes Collegium på den tanckan, huru de wärck, uti hwilcka han hit intills arbetat och hwaraf han en god del skall uti manuskript hafwa färdigt, men i brist på tillgång af medel icke kan utgifwa, måtte komma till allmänhetens kundskap igenom trycket, medan han sjelf ännu lefwer och aldrabäst är i stånd att lägga den hand därwid, som gör honom till senaste efterwerlden af ett hedrande minne förtjent. Till winnande häraf fant Collegium sig hafwa all anledning att hos Mindre Secreta Deputationen anföra, hurusom flere slike Wärck uti Historien och Antiquiteterne kunde wara färdiga att till det allmännas nytta och Rikets heder utgifwas; men att den ringa fond, som till ett slikt behof årligen wore på Cantzli Staten beståd, icke görligen medgåfwo ett sådant företagande, och då Auctorerne ej sjelfwe ägde därtill egen förmögenhet, blefwo deras arbete så godt som fåfängt, då det endast förwarades uti Manuscript på ett ställe och kommo föga till någonskundskap, hwarföre en bättre och ansenligare fond till deras utgifwande woro att önska, men förr än detta steg ginge uti wärckställighet, fant Collegium nödigt att af Cantzli Rådet Berch närmare inhämta, hwad han sjelf kunde hafwa färdigt att först låta utkomma."
+  },
+  {
+   "bbox": [
+    55,
+    1296,
+    1104,
+    1667
+   ],
+   "category": "Text",
+   "text": "Efter ett sådant omhugsande af skickelige ämnen till Riks Historiens continuerande, och då flere icke syntes wara att påtäncka, föll Kongl. Collegium för de anförde skäl tillbaka med dess tanckar på Cammar Rådet Botin. Men som Collegium icke hade sig bekant, huruwida hans tid och öfrige omständigheter kunde medgifwa honom att sig detta arbete åtaga, Så will Hans Excellence Herr Riks Rådet och Cantzli Présidenten först höra honom däröfwer, då efter hans afgifne yttrande Saken kommer att tagas under ytterligare öfwerwägande.»"
+  },
+  {
+   "bbox": [
+    55,
+    1667,
+    1101,
+    1794
+   ],
+   "category": "Text",
+   "text": "Såsom en ny kandidat hade således framkastats Botin, men även Berch, från vilken ett yttrande infordrats. Innan detta inkommit, fortsattes överläggningen vid kanslikollegiets sammanträde den 9"
+  },
+  {
+   "bbox": [
+    1026,
+    1832,
+    1096,
+    1870
+   ],
+   "category": "Page-footer",
+   "text": "597"
+  }
+ ]
+}

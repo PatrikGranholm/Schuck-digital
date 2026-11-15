@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 58,
+ "seconds": 31.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [406, 268, 977, 308], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet 1747—1751\"}, {\"bbox\": [170, 338, 1209, 457], \"category\": \"Text\", \"text\": \"Jemte Bibliotheket förtienar ock Antiquitets Archivum at sättas i godt stånd så mycket mera, som det i nya Slottet säges skola komma under et och samma tak.\"}, {\"bbox\": [170, 462, 1212, 961], \"category\": \"Text\", \"text\": \"Detta wärck blef, som iag tror, under Drotning Christina inrättat och war den tiden såsom en lärd Societet under namn af Collegium, som skulle utarbeta gamla Swenska Historien och förklara de ifrån forna tider ännu öfrige minnesmärcken. De mäste Ledamöterne af bem:te Collegio woro dock merendels boende i Upsala. Sedermera har det något ändrat sit anseende, är nu förlagt til Stockholm och et Gömme för Swenska manuscripter, mynt, Rörstafwar [= runstavar], Vrner, wärjor och annan krigsredskap, som blifwit upgräfd i ättehögar, samt åtskilliga mer eller mindre kostbara Fynd etc. etc. Likwäl hafwa de, som i sednare tiderne hafft dessa Saker under deras wård, äfwen som wid första inrättningen, understundom utgifwit wackra wärck.\"}, {\"bbox\": [170, 959, 1212, 1292], \"category\": \"Text\", \"text\": \"På det bem:te i Antiquitets Archivo förwarade saker måtte skaffa någon mera nytta och ej längre ligga til en dehl rätt så litet bekante, som de woro innan man hittat på dem i jorden eller gamla Gömmor, så skulle ej wara otienligt, om Höga Wederbörande anbefalte Archivi Betienterne at hafwa wård hwar om sin classe och deruti enkannerligen arbeta; Hwarigenom hela förrådet skulle omsider komma i et jämt och wackert lius, i det stället at Sagorne hafwa en tid bort öfwerhölgt alt det öfriga.\"}, {\"bbox\": [210, 1291, 970, 1333], \"category\": \"Text\", \"text\": \"Anser man altså Manuscripterna, så äro deribland\"}, {\"bbox\": [173, 1332, 1216, 1790], \"category\": \"Text\", \"text\": \"1:0) *Isländska Sagor*. Desse äro icke af lika wärde. Allesamman böra fuller i en Catalogo wara upskrefne och korteligen nämnt, hwad ämne de drifwa, men alle förtiena icke at öfwersättas och än mindre at med omkostnad publiceras. Någre äro såsom Sturleson goda Nordiska Historier, skrifarten mer eller mindre poëtisk och wärde at läsas; andre återigen eländiga utdrag af hwad gamle främmande Scribenter långt bättre utfördt, om Trojaniske kriget, Martyrerne, Wilhelm Conquestor etc. etc., lönandes det icke mödan at lasta sig med elaka copior, när man hafwer tilgång til goda originaler, eller äro de updiktade til at gifwa Hielte-mod igenom några chimerique Kämpars til efftersyn framsatte exempel, ofta ock\"}, {\"bbox\": [1164, 1824, 1210, 1858], \"category\": \"Page-footer\", \"text\": \"41\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    406,
+    268,
+    977,
+    308
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet 1747—1751"
+  },
+  {
+   "bbox": [
+    170,
+    338,
+    1209,
+    457
+   ],
+   "category": "Text",
+   "text": "Jemte Bibliotheket förtienar ock Antiquitets Archivum at sättas i godt stånd så mycket mera, som det i nya Slottet säges skola komma under et och samma tak."
+  },
+  {
+   "bbox": [
+    170,
+    462,
+    1212,
+    961
+   ],
+   "category": "Text",
+   "text": "Detta wärck blef, som iag tror, under Drotning Christina inrättat och war den tiden såsom en lärd Societet under namn af Collegium, som skulle utarbeta gamla Swenska Historien och förklara de ifrån forna tider ännu öfrige minnesmärcken. De mäste Ledamöterne af bem:te Collegio woro dock merendels boende i Upsala. Sedermera har det något ändrat sit anseende, är nu förlagt til Stockholm och et Gömme för Swenska manuscripter, mynt, Rörstafwar [= runstavar], Vrner, wärjor och annan krigsredskap, som blifwit upgräfd i ättehögar, samt åtskilliga mer eller mindre kostbara Fynd etc. etc. Likwäl hafwa de, som i sednare tiderne hafft dessa Saker under deras wård, äfwen som wid första inrättningen, understundom utgifwit wackra wärck."
+  },
+  {
+   "bbox": [
+    170,
+    959,
+    1212,
+    1292
+   ],
+   "category": "Text",
+   "text": "På det bem:te i Antiquitets Archivo förwarade saker måtte skaffa någon mera nytta och ej längre ligga til en dehl rätt så litet bekante, som de woro innan man hittat på dem i jorden eller gamla Gömmor, så skulle ej wara otienligt, om Höga Wederbörande anbefalte Archivi Betienterne at hafwa wård hwar om sin classe och deruti enkannerligen arbeta; Hwarigenom hela förrådet skulle omsider komma i et jämt och wackert lius, i det stället at Sagorne hafwa en tid bort öfwerhölgt alt det öfriga."
+  },
+  {
+   "bbox": [
+    210,
+    1291,
+    970,
+    1333
+   ],
+   "category": "Text",
+   "text": "Anser man altså Manuscripterna, så äro deribland"
+  },
+  {
+   "bbox": [
+    173,
+    1332,
+    1216,
+    1790
+   ],
+   "category": "Text",
+   "text": "1:0) *Isländska Sagor*. Desse äro icke af lika wärde. Allesamman böra fuller i en Catalogo wara upskrefne och korteligen nämnt, hwad ämne de drifwa, men alle förtiena icke at öfwersättas och än mindre at med omkostnad publiceras. Någre äro såsom Sturleson goda Nordiska Historier, skrifarten mer eller mindre poëtisk och wärde at läsas; andre återigen eländiga utdrag af hwad gamle främmande Scribenter långt bättre utfördt, om Trojaniske kriget, Martyrerne, Wilhelm Conquestor etc. etc., lönandes det icke mödan at lasta sig med elaka copior, när man hafwer tilgång til goda originaler, eller äro de updiktade til at gifwa Hielte-mod igenom några chimerique Kämpars til efftersyn framsatte exempel, ofta ock"
+  },
+  {
+   "bbox": [
+    1164,
+    1824,
+    1210,
+    1858
+   ],
+   "category": "Page-footer",
+   "text": "41"
+  }
+ ]
+}

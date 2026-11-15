@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 205,
+ "seconds": 29.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [882, 284, 1279, 319], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [551, 353, 1605, 851], \"category\": \"Text\", \"text\": \"godt funnit at öka Betjeningen wid Wårt Bibliotheque härstädes med en Extra Ordinarie Bibliothecarius, som kommer at gjöra den ordinarie Bibliothecarien biträde och under des sjukdom, hinder eller frånwaro beställningen förestå, och hos OSS wid detta tilfället i nådig åtanka kommer amanuensis Historiographi, Oss älskelig Anders Wilde i anseende til de af honom å daga lagde prof af skickelighet och grundelig insigt i de til denna sysla hörande stycken samt i öfrigt altid betygade goda och redeliga wälförhållande, Ty wele Wi härmed och i kraft af denna wår öpna fullmagt i nåder hafwa förordnat honom Anders Wilde at wara Extraordinarie Bibliothecarius med tour ifrån d. 1 Junii innevarande år, kommandes han derwid at tjena med den lön han nu innehafwer.»\"}, {\"bbox\": [548, 851, 1603, 1806], \"category\": \"Text\", \"text\": \"Platsen såsom amanuens vid biblioteket hade genom Praëls unämning till e. o. assessor i antikvitetsarkivet emellertid blivit ledig, ehuru någon lön ännu ej fanns. Icke dess mindre anmälde sig två sökande, den ene av dem en sedermera i vår litteraturhistoria känd man, Carl Christopher Gjörwell. Den 11 Mars 1755 hade han antagits som e. o. amanuens vid biblioteket, då han »så wäl wid Inrikes som fremmande academier inhämtat wacker kunskap uti Historia Literaria och andra nyttiga wetenskaper och war därjämte känd för at äga hwarjehanda goda egenskaper». Nu sökte han, som sagt, den ordinarie amanuensplatsen. Ärendet behandlades i kanslikollegiet den 17 oktober 1758: »Herr HofCantzleren Carleson berättade, att till den ledige blefne Amanuenssysslan wid Kongl. Bibliothequet effter nu mera Assessor Praël hade 2:ne Extraordinarier Röding och Görvel sig anmält. Herr HofCantzleren yttrade sig derwid, att han för sjukdom skull icke hafft tilfälle at göra sig så noga underrättad om Betjeningen wid Archivum och Bibliothequet, som herr hofCantzleren annars önskat, och at han således uti närwarande casu icke annat kunde än hålla sig wid Kongl. Bibliothecarien Celsii utlåtande och för den skull i anledning deraf hemstälte, om icke den sidst nämde eller Jörvel wid detta tilfälle kunde komma i åtanka, hälst han igenom flere af trycket utkomne skrifter gjordt sig af allmänheten wäl förtjänt. Herr Cantzlie Rådet Benzelstierna [anmärkte], at Röding äfwen hade med hwarjehanda arbeten sig\"}, {\"bbox\": [422, 854, 542, 917], \"category\": \"Text\", \"text\": \"Gjörwells\\nanställning\"}, {\"bbox\": [554, 1833, 627, 1869], \"category\": \"Page-footer\", \"text\": \"188\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    882,
+    284,
+    1279,
+    319
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    551,
+    353,
+    1605,
+    851
+   ],
+   "category": "Text",
+   "text": "godt funnit at öka Betjeningen wid Wårt Bibliotheque härstädes med en Extra Ordinarie Bibliothecarius, som kommer at gjöra den ordinarie Bibliothecarien biträde och under des sjukdom, hinder eller frånwaro beställningen förestå, och hos OSS wid detta tilfället i nådig åtanka kommer amanuensis Historiographi, Oss älskelig Anders Wilde i anseende til de af honom å daga lagde prof af skickelighet och grundelig insigt i de til denna sysla hörande stycken samt i öfrigt altid betygade goda och redeliga wälförhållande, Ty wele Wi härmed och i kraft af denna wår öpna fullmagt i nåder hafwa förordnat honom Anders Wilde at wara Extraordinarie Bibliothecarius med tour ifrån d. 1 Junii innevarande år, kommandes han derwid at tjena med den lön han nu innehafwer.»"
+  },
+  {
+   "bbox": [
+    548,
+    851,
+    1603,
+    1806
+   ],
+   "category": "Text",
+   "text": "Platsen såsom amanuens vid biblioteket hade genom Praëls unämning till e. o. assessor i antikvitetsarkivet emellertid blivit ledig, ehuru någon lön ännu ej fanns. Icke dess mindre anmälde sig två sökande, den ene av dem en sedermera i vår litteraturhistoria känd man, Carl Christopher Gjörwell. Den 11 Mars 1755 hade han antagits som e. o. amanuens vid biblioteket, då han »så wäl wid Inrikes som fremmande academier inhämtat wacker kunskap uti Historia Literaria och andra nyttiga wetenskaper och war därjämte känd för at äga hwarjehanda goda egenskaper». Nu sökte han, som sagt, den ordinarie amanuensplatsen. Ärendet behandlades i kanslikollegiet den 17 oktober 1758: »Herr HofCantzleren Carleson berättade, att till den ledige blefne Amanuenssysslan wid Kongl. Bibliothequet effter nu mera Assessor Praël hade 2:ne Extraordinarier Röding och Görvel sig anmält. Herr HofCantzleren yttrade sig derwid, att han för sjukdom skull icke hafft tilfälle at göra sig så noga underrättad om Betjeningen wid Archivum och Bibliothequet, som herr hofCantzleren annars önskat, och at han således uti närwarande casu icke annat kunde än hålla sig wid Kongl. Bibliothecarien Celsii utlåtande och för den skull i anledning deraf hemstälte, om icke den sidst nämde eller Jörvel wid detta tilfälle kunde komma i åtanka, hälst han igenom flere af trycket utkomne skrifter gjordt sig af allmänheten wäl förtjänt. Herr Cantzlie Rådet Benzelstierna [anmärkte], at Röding äfwen hade med hwarjehanda arbeten sig"
+  },
+  {
+   "bbox": [
+    422,
+    854,
+    542,
+    917
+   ],
+   "category": "Text",
+   "text": "Gjörwells\nanställning"
+  },
+  {
+   "bbox": [
+    554,
+    1833,
+    627,
+    1869
+   ],
+   "category": "Page-footer",
+   "text": "188"
+  }
+ ]
+}

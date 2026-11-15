@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 625,
+ "seconds": 29.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [918, 268, 1313, 305], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [591, 338, 1636, 1042], \"category\": \"Text\", \"text\": \"Wid betracktandet af så stort ämne och wid omhugsandet efter dem, som det nog wärdigt måtte kunna utföra, ärhindrade sig Hans Excellence och Kongl. Collegium straxt i början Cammar Rådet Botin i anseende till dess lyckeliga skrifart, som ibland nu warande Auctorer tycktes komma närmast i jämförelse med von Dalin och som äfwen redan wisat utmärckta prof af dess insigt uti Historiska delarne, i synnerhet uti dess genom trycket utgifne utkast till Swenska folckets Historia. Dock kom härwid i eftersinnande, att han redan liksom gått utur den Historiska Kretzen, då han nu med nytta brukades wid Kammar Wärcket, Hwarföre fråga blef, huruwida dessutom någre andre kunde wara att påtäncka, hwilcka anwända sin tid på Historiska Studium och som till förenämde arbete kunde föreslås. Wid Academien i Upsala förekom wäl Cantzlie-Rådet och Professoren Ihres ådagalagde widtbekanta kunskaper, men som han redan wore en man emellan 60 till 70 år, så syntes åldren och lifstiden icke widare kunna lofwa ifrån honom fullbordan af förberörde Riks Historia.\"}, {\"bbox\": [591, 1042, 1638, 1460], \"category\": \"Text\", \"text\": \"Hans Excellence Herr Riks Rådet och Cantzli Présidenten önskade, att såsom Cantzler wid Kongl. Academien i Åbo kunna därifrån présentera någon tjenlig man till detta göromål. Men förra Historiarum Professoren därstädes Cantzli Rådet Scarin hade redan för dess höga ålder till 80 år ärhållit afskied och kunde således härmed icke sysslosättas. Den nu warande Historiarum Professoren Billmarck war ännu ung och hade ej hunnit att göra sina Historiska arbeten nog bekanta, ehuru han wore en man af mycket goda egenskaper både i anseende till snille och studier, så att man med säkerhet kunde förwänta sig all nytta för framtiden utaf honom.\"}, {\"bbox\": [595, 1456, 1640, 1788], \"category\": \"Text\", \"text\": \"Wid Bibliothequet och antiquitets Collegium här i Stockholm kom wäl Cantzli Rådet och Antiquarien Berch samt Kongl. Secreteraren och Bibliothecarien Wilde uti åtanka, bägge i anseende till deras grundeliga lärdom och myckna arbetsamhet, men som den senare el:lr Wilde wore dageligen sysslosatt med Bibliothequets i ordning bringande, sedan det nu mera blifwit inflyttadt uti de nya rum här på Kongl. Slottet, och den förre el:r Berch hade andra Historiska Wärck under arbete, som, därest han med annat skulle\"}, {\"bbox\": [602, 1821, 677, 1871], \"category\": \"Page-footer\", \"text\": \"596\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    918,
+    268,
+    1313,
+    305
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    591,
+    338,
+    1636,
+    1042
+   ],
+   "category": "Text",
+   "text": "Wid betracktandet af så stort ämne och wid omhugsandet efter dem, som det nog wärdigt måtte kunna utföra, ärhindrade sig Hans Excellence och Kongl. Collegium straxt i början Cammar Rådet Botin i anseende till dess lyckeliga skrifart, som ibland nu warande Auctorer tycktes komma närmast i jämförelse med von Dalin och som äfwen redan wisat utmärckta prof af dess insigt uti Historiska delarne, i synnerhet uti dess genom trycket utgifne utkast till Swenska folckets Historia. Dock kom härwid i eftersinnande, att han redan liksom gått utur den Historiska Kretzen, då han nu med nytta brukades wid Kammar Wärcket, Hwarföre fråga blef, huruwida dessutom någre andre kunde wara att påtäncka, hwilcka anwända sin tid på Historiska Studium och som till förenämde arbete kunde föreslås. Wid Academien i Upsala förekom wäl Cantzlie-Rådet och Professoren Ihres ådagalagde widtbekanta kunskaper, men som han redan wore en man emellan 60 till 70 år, så syntes åldren och lifstiden icke widare kunna lofwa ifrån honom fullbordan af förberörde Riks Historia."
+  },
+  {
+   "bbox": [
+    591,
+    1042,
+    1638,
+    1460
+   ],
+   "category": "Text",
+   "text": "Hans Excellence Herr Riks Rådet och Cantzli Présidenten önskade, att såsom Cantzler wid Kongl. Academien i Åbo kunna därifrån présentera någon tjenlig man till detta göromål. Men förra Historiarum Professoren därstädes Cantzli Rådet Scarin hade redan för dess höga ålder till 80 år ärhållit afskied och kunde således härmed icke sysslosättas. Den nu warande Historiarum Professoren Billmarck war ännu ung och hade ej hunnit att göra sina Historiska arbeten nog bekanta, ehuru han wore en man af mycket goda egenskaper både i anseende till snille och studier, så att man med säkerhet kunde förwänta sig all nytta för framtiden utaf honom."
+  },
+  {
+   "bbox": [
+    595,
+    1456,
+    1640,
+    1788
+   ],
+   "category": "Text",
+   "text": "Wid Bibliothequet och antiquitets Collegium här i Stockholm kom wäl Cantzli Rådet och Antiquarien Berch samt Kongl. Secreteraren och Bibliothecarien Wilde uti åtanka, bägge i anseende till deras grundeliga lärdom och myckna arbetsamhet, men som den senare el:lr Wilde wore dageligen sysslosatt med Bibliothequets i ordning bringande, sedan det nu mera blifwit inflyttadt uti de nya rum här på Kongl. Slottet, och den förre el:r Berch hade andra Historiska Wärck under arbete, som, därest han med annat skulle"
+  },
+  {
+   "bbox": [
+    602,
+    1821,
+    677,
+    1871
+   ],
+   "category": "Page-footer",
+   "text": "596"
+  }
+ ]
+}

@@ -1,0 +1,212 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 714,
+ "seconds": 33.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [444, 259, 814, 297], \"category\": \"Section-header\", \"text\": \"Vitterhetsakademien\"}, {\"bbox\": [103, 328, 1154, 499], \"category\": \"Text\", \"text\": \"Sitt inträde tog han först den 13 mars 1755 med ett tal som besvarades av Höpken — bägge tryckta i Handlingarna — och förmodligen intogs då även en annan ny ledamot. Dalins konceptprotokoll för den 24 juli 1754 lyder nämligen:\"}, {\"bbox\": [138, 507, 684, 551], \"category\": \"Text\", \"text\": \"»1754 d. 24 Jul. på Drotningholm.\"}, {\"bbox\": [105, 554, 511, 598], \"category\": \"Text\", \"text\": \"Närv. Hennes Maj:t sielf.\"}, {\"bbox\": [200, 607, 481, 651], \"category\": \"Text\", \"text\": \"H. E. B. Höpken.\"}, {\"bbox\": [200, 649, 488, 685], \"category\": \"Text\", \"text\": \"Bar. Rudenschöld.\"}, {\"bbox\": [234, 691, 329, 725], \"category\": \"Text\", \"text\": \"Dalin.\"}, {\"bbox\": [103, 748, 863, 794], \"category\": \"Text\", \"text\": \"H. E. H[öpken] propon. Berch til Dalins bistånd.\"}, {\"bbox\": [138, 791, 256, 826], \"category\": \"Text\", \"text\": \"bifallet.\"}, {\"bbox\": [103, 838, 1152, 915], \"category\": \"Text\", \"text\": \"Alla insände skrifter examinerades: Eloquencen hade ingen [som] blef krönt.\"}, {\"bbox\": [103, 926, 746, 965], \"category\": \"Text\", \"text\": \"Poesien hade den latinska från Danmark.\"}, {\"bbox\": [103, 974, 485, 1018], \"category\": \"Text\", \"text\": \"Historien. Sunnaskog.\"}, {\"bbox\": [103, 1021, 952, 1066], \"category\": \"Text\", \"text\": \"Nya ämnen Poes. Ode öf. passagen öfwer Düna 1701.\"}, {\"bbox\": [138, 1063, 379, 1105], \"category\": \"Text\", \"text\": \"Eloq. en hiälte.\"}, {\"bbox\": [138, 1105, 703, 1147], \"category\": \"Text\", \"text\": \"Hist. Krigskonsten i K. Gust. I. tid.\"}, {\"bbox\": [103, 1151, 1111, 1196], \"category\": \"Text\", \"text\": \"H. E. H[öpken] sade sig ha några traductioner af Tacite. införas.\"}, {\"bbox\": [138, 1199, 826, 1243], \"category\": \"Text\", \"text\": \"N. B. parallell de Plutarque. borde imiteras.\"}, {\"bbox\": [103, 1246, 1147, 1323], \"category\": \"Text\", \"text\": \"Dalin upläste sine tankar öfwer Swenska skaldekonsten i wår tid. — införd.»\"}, {\"bbox\": [100, 1364, 1147, 1784], \"category\": \"Text\", \"text\": \"Härav framgår, att Carl Reinhold Berch blev intagen i akademien den 24 juli 1754 och att de tryckta Handlingarna således hava orätt år, då de datera hans »tal, då han i kongl. Akademien blef intagen d. 13 Mars 1754». Då var han ännu ej invald, och varken han eller Bonde voro närvarande vid sammankomsten den 24 juli 1754, då akademien representerades av summa tre ledamöter. I poesien prisbelöntes då ett latinskt poem av dansken Luxdorph, vilket trycktes i Handlingarna; fru Nordenflycht, som tävlat med en svensk dikt om samma ämne, föll däremot igenom. I historien tillföll priset hovauditören Eric Tuneld, vars skrift över Folkungarnas\"}, {\"bbox\": [1066, 1811, 1139, 1859], \"category\": \"Page-footer\", \"text\": \"683\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    444,
+    259,
+    814,
+    297
+   ],
+   "category": "Section-header",
+   "text": "Vitterhetsakademien"
+  },
+  {
+   "bbox": [
+    103,
+    328,
+    1154,
+    499
+   ],
+   "category": "Text",
+   "text": "Sitt inträde tog han först den 13 mars 1755 med ett tal som besvarades av Höpken — bägge tryckta i Handlingarna — och förmodligen intogs då även en annan ny ledamot. Dalins konceptprotokoll för den 24 juli 1754 lyder nämligen:"
+  },
+  {
+   "bbox": [
+    138,
+    507,
+    684,
+    551
+   ],
+   "category": "Text",
+   "text": "»1754 d. 24 Jul. på Drotningholm."
+  },
+  {
+   "bbox": [
+    105,
+    554,
+    511,
+    598
+   ],
+   "category": "Text",
+   "text": "Närv. Hennes Maj:t sielf."
+  },
+  {
+   "bbox": [
+    200,
+    607,
+    481,
+    651
+   ],
+   "category": "Text",
+   "text": "H. E. B. Höpken."
+  },
+  {
+   "bbox": [
+    200,
+    649,
+    488,
+    685
+   ],
+   "category": "Text",
+   "text": "Bar. Rudenschöld."
+  },
+  {
+   "bbox": [
+    234,
+    691,
+    329,
+    725
+   ],
+   "category": "Text",
+   "text": "Dalin."
+  },
+  {
+   "bbox": [
+    103,
+    748,
+    863,
+    794
+   ],
+   "category": "Text",
+   "text": "H. E. H[öpken] propon. Berch til Dalins bistånd."
+  },
+  {
+   "bbox": [
+    138,
+    791,
+    256,
+    826
+   ],
+   "category": "Text",
+   "text": "bifallet."
+  },
+  {
+   "bbox": [
+    103,
+    838,
+    1152,
+    915
+   ],
+   "category": "Text",
+   "text": "Alla insände skrifter examinerades: Eloquencen hade ingen [som] blef krönt."
+  },
+  {
+   "bbox": [
+    103,
+    926,
+    746,
+    965
+   ],
+   "category": "Text",
+   "text": "Poesien hade den latinska från Danmark."
+  },
+  {
+   "bbox": [
+    103,
+    974,
+    485,
+    1018
+   ],
+   "category": "Text",
+   "text": "Historien. Sunnaskog."
+  },
+  {
+   "bbox": [
+    103,
+    1021,
+    952,
+    1066
+   ],
+   "category": "Text",
+   "text": "Nya ämnen Poes. Ode öf. passagen öfwer Düna 1701."
+  },
+  {
+   "bbox": [
+    138,
+    1063,
+    379,
+    1105
+   ],
+   "category": "Text",
+   "text": "Eloq. en hiälte."
+  },
+  {
+   "bbox": [
+    138,
+    1105,
+    703,
+    1147
+   ],
+   "category": "Text",
+   "text": "Hist. Krigskonsten i K. Gust. I. tid."
+  },
+  {
+   "bbox": [
+    103,
+    1151,
+    1111,
+    1196
+   ],
+   "category": "Text",
+   "text": "H. E. H[öpken] sade sig ha några traductioner af Tacite. införas."
+  },
+  {
+   "bbox": [
+    138,
+    1199,
+    826,
+    1243
+   ],
+   "category": "Text",
+   "text": "N. B. parallell de Plutarque. borde imiteras."
+  },
+  {
+   "bbox": [
+    103,
+    1246,
+    1147,
+    1323
+   ],
+   "category": "Text",
+   "text": "Dalin upläste sine tankar öfwer Swenska skaldekonsten i wår tid. — införd.»"
+  },
+  {
+   "bbox": [
+    100,
+    1364,
+    1147,
+    1784
+   ],
+   "category": "Text",
+   "text": "Härav framgår, att Carl Reinhold Berch blev intagen i akademien den 24 juli 1754 och att de tryckta Handlingarna således hava orätt år, då de datera hans »tal, då han i kongl. Akademien blef intagen d. 13 Mars 1754». Då var han ännu ej invald, och varken han eller Bonde voro närvarande vid sammankomsten den 24 juli 1754, då akademien representerades av summa tre ledamöter. I poesien prisbelöntes då ett latinskt poem av dansken Luxdorph, vilket trycktes i Handlingarna; fru Nordenflycht, som tävlat med en svensk dikt om samma ämne, föll däremot igenom. I historien tillföll priset hovauditören Eric Tuneld, vars skrift över Folkungarnas"
+  },
+  {
+   "bbox": [
+    1066,
+    1811,
+    1139,
+    1859
+   ],
+   "category": "Page-footer",
+   "text": "683"
+  }
+ ]
+}

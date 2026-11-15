@@ -40,6 +40,7 @@ XML_ID = "{http://www.w3.org/XML/1998/namespace}id"
 
 CSS = """
 body { font-family: serif; line-height: 1.45; margin: 0 4%; }
+p.part { font-size: 1.6em; text-align: center; margin: 3em 0 0; letter-spacing: .1em; text-transform: uppercase; }
 h1 { font-size: 1.4em; text-align: center; margin: 2em 0 1.2em; font-weight: normal; letter-spacing: .05em; }
 h2.sub { font-size: 1em; font-style: italic; font-weight: normal; text-align: center; margin: 1em 0 .5em; }
 p { margin: 0; text-indent: 1.3em; text-align: justify; }
@@ -276,19 +277,27 @@ class Book:
                     sec.append(d)
                 self.doc("dedication.xhtml", "Tillägnan", "dedication", fill_ded)
         titles = {str(k + 1): ch["title"] for k, ch in enumerate(self.struct["chapters"])}
-        for d in text.find(f"{T}body").iter(f"{T}div"):
+        body = text.find(f"{T}body")
+        parent = {c: p for p in body.iter(f"{T}div") for c in p}
+        for d in body.iter(f"{T}div"):
             if d.get("type") != "chapter":
                 continue
             n = d.get("n")
             title = titles.get(n, f"Kapitel {n}")
+            par = parent.get(d)   # vol. V: the part title before the part's first chapter
+            part = ("".join(par.find(f"{T}head").itertext())
+                    if par is not None and par.get("type") == "part"
+                    and next(c for c in par if c.get("type") == "chapter") is d else None)
 
-            def fill_ch(sec, ctx, d=d, title=title):
+            def fill_ch(sec, ctx, d=d, title=title, part=part):
                 # the page break before the chapter heading
                 for c in d:
                     if c.tag == f"{T}pb":
                         self.element(c, sec, ctx)
                     elif c.tag == f"{T}head":
                         break
+                if part:
+                    sec.append(h("p", {"class": "part"}, part))
                 sec.append(h("h1", None, title))
                 self.blocks(d, sec, ctx)
             self.doc(f"chapter{int(n):02d}.xhtml", title, "chapter", fill_ch)

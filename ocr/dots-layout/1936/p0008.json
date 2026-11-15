@@ -1,0 +1,61 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 8,
+ "seconds": 28.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [393, 271, 1222, 355], \"category\": \"Text\", \"text\": \"HENRIK SCHÜCK\"}, {\"bbox\": [165, 531, 1462, 871], \"category\": \"Title\", \"text\": \"KGL. VITTERHETS\\nHISTORIE OCH ANTIKVITETS\\nAKADEMIEN\"}, {\"bbox\": [411, 954, 1224, 1203], \"category\": \"Text\", \"text\": \"DESS\\nFÖRHISTORIA OCH HISTORIA\\nV\"}, {\"bbox\": [679, 1491, 966, 1780], \"category\": \"Picture\"}, {\"bbox\": [555, 1882, 1111, 1952], \"category\": \"Text\", \"text\": \"STOCKHOLM 1936\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    393,
+    271,
+    1222,
+    355
+   ],
+   "category": "Text",
+   "text": "HENRIK SCHÜCK"
+  },
+  {
+   "bbox": [
+    165,
+    531,
+    1462,
+    871
+   ],
+   "category": "Title",
+   "text": "KGL. VITTERHETS\nHISTORIE OCH ANTIKVITETS\nAKADEMIEN"
+  },
+  {
+   "bbox": [
+    411,
+    954,
+    1224,
+    1203
+   ],
+   "category": "Text",
+   "text": "DESS\nFÖRHISTORIA OCH HISTORIA\nV"
+  },
+  {
+   "bbox": [
+    679,
+    1491,
+    966,
+    1780
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    555,
+    1882,
+    1111,
+    1952
+   ],
+   "category": "Text",
+   "text": "STOCKHOLM 1936"
+  }
+ ]
+}

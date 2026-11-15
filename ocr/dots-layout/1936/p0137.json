@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 137,
+ "seconds": 30.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [883, 242, 1282, 277], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [552, 312, 1603, 935], \"category\": \"Text\", \"text\": \"Kungl. Maj:t inlämnat en proposition rörande den ökning av amanuensernas antal och löner, som förut omtalats. Då ärendet den 24 februari 1752 förekom i mindre sekreta deputationen, ingav borgmästar Renhorn »des tankar och utlåtande ang:de den sedan sista riksdag giorde nya inrättningen med antiquitets archivum och Biblioteket. Och som H. Biscopen Doctor Browallius, som nu war frånwarande, förbehållit sig at äfwen aflämna sit yttrande härutinnan, så upsköts med öfwerläggning härom til en annan dag, då Hr Biskopen kan komma tilstädes» (Utskottshand. 1751—1752. Mindre sekreta dep.). Biskop Browallius fick emellertid ej Renhorns yttrande förrän den 11 april, då han lovade »sit utlåtande deröfwer meddela» — ett löfte, som han likväl ej höll. Så vida även han tänkt att angripa antikvitetsarkivet, var ett tillägg till Renhorns memorial tämligen överflödigt, ty i skärpa lämnar detta intet övrigt att fordra. Det lyder:\"}, {\"bbox\": [552, 935, 1602, 1266], \"category\": \"Text\", \"text\": \"»Utaf Kongl. Maij:ts secreta proposition har jag funnit, huru som Högl. S. U. förleden Riksdag hemstält till Kongl. Maj:ts nådigste bepröfwande någre förslag angående Kongl. Maij:ts Bibliothèques och Antiquvitets Archivi sammanbindande uti ett wärk, hwarigenom afsigten af deras inrättning förmentes närmare kunna winnas, hwareffter ock H:s Kongl. M:t af Des Cancellie Collegium undfått ett utkast till Instruction, som icke innehölt något annat än Syslornas instakning till inbördes handräckning.\"}, {\"bbox\": [552, 1266, 1602, 1555], \"category\": \"Text\", \"text\": \"Den samma har Kongl. Maj:t tagit i behörigt öfwerwägande, gillat och till wärkställighet komma låtit, undantagande den projecterade tillökning af 2:ne amanuenser samt det förslag at Amanuensernes lön må sättjas på samma fot som Cancellisternes i Kongl. Cancelliet från 3 till 500 D. S:mt, som bem. Collegium tilstyrkt, hwarigenom som staten synes graveras, så har Kongl. Maj:t detta mål till Riksens Ständers bepröfwande i nåder öfwerlämnat.\"}, {\"bbox\": [552, 1555, 1602, 1763], \"category\": \"Text\", \"text\": \"Jag har efftersedt, att högl. S. U. wid 1747 års riksdag allenast hemstält till Kongl. Maij:t desse förslag att tjena till afsigtens förbättring med desse båda wärken. Men finner icke S. U. hafwa begärt, att alt detta skulle i wärket ställas, widare än möijeligheten kunde tillåta, mindre att derigenom någon anledning skulle gifwas\"}, {\"bbox\": [559, 1798, 633, 1827], \"category\": \"Page-footer\", \"text\": \"120\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    883,
+    242,
+    1282,
+    277
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    552,
+    312,
+    1603,
+    935
+   ],
+   "category": "Text",
+   "text": "Kungl. Maj:t inlämnat en proposition rörande den ökning av amanuensernas antal och löner, som förut omtalats. Då ärendet den 24 februari 1752 förekom i mindre sekreta deputationen, ingav borgmästar Renhorn »des tankar och utlåtande ang:de den sedan sista riksdag giorde nya inrättningen med antiquitets archivum och Biblioteket. Och som H. Biscopen Doctor Browallius, som nu war frånwarande, förbehållit sig at äfwen aflämna sit yttrande härutinnan, så upsköts med öfwerläggning härom til en annan dag, då Hr Biskopen kan komma tilstädes» (Utskottshand. 1751—1752. Mindre sekreta dep.). Biskop Browallius fick emellertid ej Renhorns yttrande förrän den 11 april, då han lovade »sit utlåtande deröfwer meddela» — ett löfte, som han likväl ej höll. Så vida även han tänkt att angripa antikvitetsarkivet, var ett tillägg till Renhorns memorial tämligen överflödigt, ty i skärpa lämnar detta intet övrigt att fordra. Det lyder:"
+  },
+  {
+   "bbox": [
+    552,
+    935,
+    1602,
+    1266
+   ],
+   "category": "Text",
+   "text": "»Utaf Kongl. Maij:ts secreta proposition har jag funnit, huru som Högl. S. U. förleden Riksdag hemstält till Kongl. Maj:ts nådigste bepröfwande någre förslag angående Kongl. Maij:ts Bibliothèques och Antiquvitets Archivi sammanbindande uti ett wärk, hwarigenom afsigten af deras inrättning förmentes närmare kunna winnas, hwareffter ock H:s Kongl. M:t af Des Cancellie Collegium undfått ett utkast till Instruction, som icke innehölt något annat än Syslornas instakning till inbördes handräckning."
+  },
+  {
+   "bbox": [
+    552,
+    1266,
+    1602,
+    1555
+   ],
+   "category": "Text",
+   "text": "Den samma har Kongl. Maj:t tagit i behörigt öfwerwägande, gillat och till wärkställighet komma låtit, undantagande den projecterade tillökning af 2:ne amanuenser samt det förslag at Amanuensernes lön må sättjas på samma fot som Cancellisternes i Kongl. Cancelliet från 3 till 500 D. S:mt, som bem. Collegium tilstyrkt, hwarigenom som staten synes graveras, så har Kongl. Maj:t detta mål till Riksens Ständers bepröfwande i nåder öfwerlämnat."
+  },
+  {
+   "bbox": [
+    552,
+    1555,
+    1602,
+    1763
+   ],
+   "category": "Text",
+   "text": "Jag har efftersedt, att högl. S. U. wid 1747 års riksdag allenast hemstält till Kongl. Maij:t desse förslag att tjena till afsigtens förbättring med desse båda wärken. Men finner icke S. U. hafwa begärt, att alt detta skulle i wärket ställas, widare än möijeligheten kunde tillåta, mindre att derigenom någon anledning skulle gifwas"
+  },
+  {
+   "bbox": [
+    559,
+    1798,
+    633,
+    1827
+   ],
+   "category": "Page-footer",
+   "text": "120"
+  }
+ ]
+}

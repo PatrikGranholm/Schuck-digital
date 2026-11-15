@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 696,
+ "seconds": 30.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [306, 256, 888, 301], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet 1778—1786\"}, {\"bbox\": [65, 325, 1122, 743], \"category\": \"Text\", \"text\": \"rades till von Engeström, som den 21 oktober meddelade, att guld-\\npenningarna voro romerska, och den 25 november anmälde sekre-\\nteraren Forsslund, »det Herr Cantzli Rådet von Engeström, som til\\ngenomseende emottagit det af Majoren och Riddaren Silfwersvan\\ninlemnade fynd af 23 (!) stycken Guldmynt, yttrat sig, at 18 stycken\\naf dem kunde för Kongl. antiquitets archivi räkning behållas och\\ntrenne efter Hans Excellences Herr Riksrådet Grefwe Falkenbergs\\nåstundan til Kongl. academiens i Lund myntcabinet aflåtas». Av\\narkivets medel betalades 51 rdr 37 sk. och 4 rst. och av Lunds uni-\\nversitet 8 rdr 12 sk. 8 rst. Om guldringarna nämnes däremot intet.\"}, {\"bbox\": [67, 741, 1120, 868], \"category\": \"Text\", \"text\": \"Den 20 oktober 1783 anmäldes ett fynd från Öland, en silver-\\nkedja, som drängen Knut Olsson från Mellösa och Bredsätra socken\\ngjort, men det ansågs ej av det värde, att det förtjänade att inlösas.\"}, {\"bbox\": [65, 864, 1120, 1780], \"category\": \"Text\", \"text\": \"Även ett annat 1783 gjort fynd ansåg kollegiet ej böra inlösas.\\nDen 9 december »anmältes, det någre bönder inlämnat ett fynd av\\nen armring af guld, hwilket blifwit gort i Wappeby gärde och\\nThorstuna sockn af en gosse wid namn Eric Andersson, hwarjämte\\nde äfwen företedde Kyrkoherdens i församlingen Kongl. Hof-\\nPredikanten Ramstedts betyg derå, att denne ring blifwit lagligen\\n3 gånger å rad på Predikstolen derstädes uplyst, samt äfwen Proto-\\ncolls utdrag af d. 29 Octob. förledit år af häradshöfdingen Weser\\nom samma fynds upvisande för tingsrätten i orten och Guldsmedens\\ni Enköping Ahlins attestatum på fyndets halt och vigt, som var\\n43 3/4 Ducater slätt guld. Kongl. Collegium ansåg ej merbemälte\\nring såsom ägande hvarken Inscription, namn eller vapen, hvilka i\\nnågon måtto kunna uplysa forntiden, af den beskaffenhet och wärde,\\natt han förtjente inlösas, i anseende hvartill så wäl som ock att den\\nför sin wigt blefwe mera dyr, än Kongl. antiquitets archivi ringa\\nfond tillåter, hälst det wore till förmodandes, att framdeles någodt\\nfynd göres, som bättre förtjente att inlösas och penningar till sådant\\ndå böra vara att tillgå. Kongl. Collegium befallte, det allenast en\\nritning af ofta nämde ring i befunnen storlek skulle tagas för att\\nbland Kongl. antiquitets [archivi] samlingar förvaras. Och blef i\\nanledning häraf Kongl. antiquitets archivi Ritmästare Ren up-\\nkallad och tillsagd att med snaraste en sådan ritning förfärdiga och\"}, {\"bbox\": [1036, 1805, 1113, 1855], \"category\": \"Page-footer\", \"text\": \"665\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    306,
+    256,
+    888,
+    301
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet 1778—1786"
+  },
+  {
+   "bbox": [
+    65,
+    325,
+    1122,
+    743
+   ],
+   "category": "Text",
+   "text": "rades till von Engeström, som den 21 oktober meddelade, att guld-\npenningarna voro romerska, och den 25 november anmälde sekre-\nteraren Forsslund, »det Herr Cantzli Rådet von Engeström, som til\ngenomseende emottagit det af Majoren och Riddaren Silfwersvan\ninlemnade fynd af 23 (!) stycken Guldmynt, yttrat sig, at 18 stycken\naf dem kunde för Kongl. antiquitets archivi räkning behållas och\ntrenne efter Hans Excellences Herr Riksrådet Grefwe Falkenbergs\nåstundan til Kongl. academiens i Lund myntcabinet aflåtas». Av\narkivets medel betalades 51 rdr 37 sk. och 4 rst. och av Lunds uni-\nversitet 8 rdr 12 sk. 8 rst. Om guldringarna nämnes däremot intet."
+  },
+  {
+   "bbox": [
+    67,
+    741,
+    1120,
+    868
+   ],
+   "category": "Text",
+   "text": "Den 20 oktober 1783 anmäldes ett fynd från Öland, en silver-\nkedja, som drängen Knut Olsson från Mellösa och Bredsätra socken\ngjort, men det ansågs ej av det värde, att det förtjänade att inlösas."
+  },
+  {
+   "bbox": [
+    65,
+    864,
+    1120,
+    1780
+   ],
+   "category": "Text",
+   "text": "Även ett annat 1783 gjort fynd ansåg kollegiet ej böra inlösas.\nDen 9 december »anmältes, det någre bönder inlämnat ett fynd av\nen armring af guld, hwilket blifwit gort i Wappeby gärde och\nThorstuna sockn af en gosse wid namn Eric Andersson, hwarjämte\nde äfwen företedde Kyrkoherdens i församlingen Kongl. Hof-\nPredikanten Ramstedts betyg derå, att denne ring blifwit lagligen\n3 gånger å rad på Predikstolen derstädes uplyst, samt äfwen Proto-\ncolls utdrag af d. 29 Octob. förledit år af häradshöfdingen Weser\nom samma fynds upvisande för tingsrätten i orten och Guldsmedens\ni Enköping Ahlins attestatum på fyndets halt och vigt, som var\n43 3/4 Ducater slätt guld. Kongl. Collegium ansåg ej merbemälte\nring såsom ägande hvarken Inscription, namn eller vapen, hvilka i\nnågon måtto kunna uplysa forntiden, af den beskaffenhet och wärde,\natt han förtjente inlösas, i anseende hvartill så wäl som ock att den\nför sin wigt blefwe mera dyr, än Kongl. antiquitets archivi ringa\nfond tillåter, hälst det wore till förmodandes, att framdeles någodt\nfynd göres, som bättre förtjente att inlösas och penningar till sådant\ndå böra vara att tillgå. Kongl. Collegium befallte, det allenast en\nritning af ofta nämde ring i befunnen storlek skulle tagas för att\nbland Kongl. antiquitets [archivi] samlingar förvaras. Och blef i\nanledning häraf Kongl. antiquitets archivi Ritmästare Ren up-\nkallad och tillsagd att med snaraste en sådan ritning förfärdiga och"
+  },
+  {
+   "bbox": [
+    1036,
+    1805,
+    1113,
+    1855
+   ],
+   "category": "Page-footer",
+   "text": "665"
+  }
+ ]
+}

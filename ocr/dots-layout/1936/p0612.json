@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 612,
+ "seconds": 29.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [336, 276, 843, 321], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivets skrifter\"}, {\"bbox\": [63, 345, 1116, 1592], \"category\": \"Text\", \"text\": \"arbetet företes. »H. HofCantzleren Baron Hamilton upwiste för Hans Excellence (Höpken) en början utaf Secreteraren Berchs författade histoire des medailles eller beskrifning öfwer alla utkomne swenska particulière personers medailler och skådepenningar jemte några jettoner, hwilka alla i aftryck medfölgde, sådane som Secreteraren Berch låtit dem i koppar afstickas, då han i frankriket wistades, hwarå effter hans upgifwande omkostnaden sig till 1600 Dr. bestigit. Hans Excellence samt de öfrige Collegii Ledamöter woro af den tancka, att som Collegio åligger hålla hand deröfwer, att wederbörande betjente wid Riksens archiver fullgiöra dess pligt, som är att bringa nyttiga wärck i dagsliuset, som tjena till uplysning i Swenska historien, och Secret. Berch såsom en fölgd deraf sig detta arbetet företagit samt i öfrigit utaf bemelte Secreterares bekanta insigt och erfarenhet man har skiäl att förmoda, det arbetet lärer blifwa för det allmänna både nyttigt och behageligit, så trodde Hans Excellence och Collegium sig hafwa full anledning att nu genast utaf antiquitets archivi medlen låta godtgiöra Secreteraren Berch den omkostnad, som till kopparstickningen åtgådt, och sedermera foga anstalt, att med tryckandet af sielfwa Beskrifningen fortfaras må, alt effter som han densamma hinner fullkomna. Collegium trodde sig nogsamt utaf den ingifne början kunna förutse arbetets begiärlighet och att försälgningen deraf på wanligit sätt för antiquitets archivi räkning snart skulle ersätta omkostnaderna, så att dessa 1600 Dr, som nu i ersättning tillställas Secreteraren Berch, lära förwandlas uti ett förskott, hwilcket närmast öfwerensstämmer med afsickten af dessa medels samlande, hwilcka under antiquitets archivi disposition lyda och enligit Kongl. Stadgar och förordningar böra till slike behof anwändas. Hans Excellence effterskickades i Rådet och Collegium företog sig att genomse nyssnämde Beskrifning öfwer Medaillerne, hwareffter Collegium skildes åt.»\"}, {\"bbox\": [65, 1590, 1113, 1802], \"category\": \"Text\", \"text\": \"Emellertid överlämnade man manuskriptet till kanslirådet Carleson för närmare granskning, och den 27 november anmälde denne, »det han efter Kongl. Collegii anmodan igenomgådt det prof, som Secreteraren Berch af sin Historia Numismatica inlämnat: at utom ett och annat ställe, som secreteraren sielf lärer pröfwa nödigt at\"}, {\"bbox\": [1034, 1831, 1106, 1876], \"category\": \"Page-footer\", \"text\": \"583\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    336,
+    276,
+    843,
+    321
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivets skrifter"
+  },
+  {
+   "bbox": [
+    63,
+    345,
+    1116,
+    1592
+   ],
+   "category": "Text",
+   "text": "arbetet företes. »H. HofCantzleren Baron Hamilton upwiste för Hans Excellence (Höpken) en början utaf Secreteraren Berchs författade histoire des medailles eller beskrifning öfwer alla utkomne swenska particulière personers medailler och skådepenningar jemte några jettoner, hwilka alla i aftryck medfölgde, sådane som Secreteraren Berch låtit dem i koppar afstickas, då han i frankriket wistades, hwarå effter hans upgifwande omkostnaden sig till 1600 Dr. bestigit. Hans Excellence samt de öfrige Collegii Ledamöter woro af den tancka, att som Collegio åligger hålla hand deröfwer, att wederbörande betjente wid Riksens archiver fullgiöra dess pligt, som är att bringa nyttiga wärck i dagsliuset, som tjena till uplysning i Swenska historien, och Secret. Berch såsom en fölgd deraf sig detta arbetet företagit samt i öfrigit utaf bemelte Secreterares bekanta insigt och erfarenhet man har skiäl att förmoda, det arbetet lärer blifwa för det allmänna både nyttigt och behageligit, så trodde Hans Excellence och Collegium sig hafwa full anledning att nu genast utaf antiquitets archivi medlen låta godtgiöra Secreteraren Berch den omkostnad, som till kopparstickningen åtgådt, och sedermera foga anstalt, att med tryckandet af sielfwa Beskrifningen fortfaras må, alt effter som han densamma hinner fullkomna. Collegium trodde sig nogsamt utaf den ingifne början kunna förutse arbetets begiärlighet och att försälgningen deraf på wanligit sätt för antiquitets archivi räkning snart skulle ersätta omkostnaderna, så att dessa 1600 Dr, som nu i ersättning tillställas Secreteraren Berch, lära förwandlas uti ett förskott, hwilcket närmast öfwerensstämmer med afsickten af dessa medels samlande, hwilcka under antiquitets archivi disposition lyda och enligit Kongl. Stadgar och förordningar böra till slike behof anwändas. Hans Excellence effterskickades i Rådet och Collegium företog sig att genomse nyssnämde Beskrifning öfwer Medaillerne, hwareffter Collegium skildes åt.»"
+  },
+  {
+   "bbox": [
+    65,
+    1590,
+    1113,
+    1802
+   ],
+   "category": "Text",
+   "text": "Emellertid överlämnade man manuskriptet till kanslirådet Carleson för närmare granskning, och den 27 november anmälde denne, »det han efter Kongl. Collegii anmodan igenomgådt det prof, som Secreteraren Berch af sin Historia Numismatica inlämnat: at utom ett och annat ställe, som secreteraren sielf lärer pröfwa nödigt at"
+  },
+  {
+   "bbox": [
+    1034,
+    1831,
+    1106,
+    1876
+   ],
+   "category": "Page-footer",
+   "text": "583"
+  }
+ ]
+}

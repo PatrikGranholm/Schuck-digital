@@ -1,0 +1,132 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 739,
+ "seconds": 40.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [850, 260, 1245, 296], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [517, 331, 1569, 824], \"category\": \"Text\", \"text\": \"ber. 1779 hölls blott decembersammanträdet, 1780 var akademien väl livaktigare med tre sammankomster, den 3 maj, den 27 november och den 15 december, men 1781 sammanträdde akademien däremot blott en gång, den 29 november, och 1782 likaledes blott en gång, den 30 april. Denna sammankomst blev den sista, ty den 16 juli slutade Lovisa Ulrika sina dagar. Redan under hennes livstid var — som vi av denna statistik finna — hennes akademi en döende institution, som ofta blott sammanträdde en gång om året, i december, för att utdela pris, men för övrigt låg i dvala. Vitterhetsakademiens protokoll sluta emellertid med denna anteckning: »Den 11 Augusti 1782 infunno sig efter Nådig befallning vid lustslottet Drottningholm de i staden varande ledamöter af Academien neml.\"}, {\"bbox\": [554, 841, 1192, 876], \"category\": \"Text\", \"text\": \"H.E. RiksRådet m. m. Grefve Scheffer.\"}, {\"bbox\": [554, 882, 1195, 917], \"category\": \"Text\", \"text\": \"H.E.R.R. m. m. Grefve Rudenschöld.\"}, {\"bbox\": [554, 924, 939, 958], \"category\": \"Text\", \"text\": \"Cammar Rådet af Botin.\"}, {\"bbox\": [554, 965, 1130, 1000], \"category\": \"Text\", \"text\": \"HofMarskalken Baron Manderström.\"}, {\"bbox\": [554, 1007, 992, 1042], \"category\": \"Text\", \"text\": \"Professoren Melanderhielm.\"}, {\"bbox\": [554, 1048, 1128, 1089], \"category\": \"Text\", \"text\": \"Acad.Secr. Hofjunkaren Rosenstein.\"}, {\"bbox\": [517, 1118, 1567, 1490], \"category\": \"Text\", \"text\": \"Efter slutad cour och publique spisning lemnades Academien företräde i Hans Maj:t Konungens sängkammare, då den äldste närvarande ledamoten H.E. Grefve Scheffer förde ordet och i underdånighet anhöll at, sedan Academien förlorat det beskydd och inseende Högstsal. Drottning Lovisa Ulrica densamma förundt, Hans Kongl. Maj:t utom den Nådiga protection, hvaraf Academien altid haft at fägna sig, äfven i Nåder täcktes tillåta, at den måtte i Hans Maj:t få wörda Sin Höga Skyddsherre och under dess Nådiga inseende fortsätta sine arbeten.\"}, {\"bbox\": [517, 1490, 1567, 1616], \"category\": \"Text\", \"text\": \"Härtil behagade Hans Kongl. Maj:t i Nådigaste ordasätt samtycka och gaf deruppå hvar och en af Academiens ledamöter sin hand at kyssa.»\"}, {\"bbox\": [517, 1616, 1567, 1781], \"category\": \"Text\", \"text\": \"Som vi skola se var detta ett löfte, som Gustaf III knappt tänkte hålla, åtminstone icke i den form, som ledamöterna förmodligen trodde, och i varje fall blev akademien efter änkedrottningens död ej ånyo sammankallad. Dess siste sekreterare, Nils von Rosenstein,\"}, {\"bbox\": [521, 1808, 594, 1855], \"category\": \"Page-footer\", \"text\": \"708\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    850,
+    260,
+    1245,
+    296
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    517,
+    331,
+    1569,
+    824
+   ],
+   "category": "Text",
+   "text": "ber. 1779 hölls blott decembersammanträdet, 1780 var akademien väl livaktigare med tre sammankomster, den 3 maj, den 27 november och den 15 december, men 1781 sammanträdde akademien däremot blott en gång, den 29 november, och 1782 likaledes blott en gång, den 30 april. Denna sammankomst blev den sista, ty den 16 juli slutade Lovisa Ulrika sina dagar. Redan under hennes livstid var — som vi av denna statistik finna — hennes akademi en döende institution, som ofta blott sammanträdde en gång om året, i december, för att utdela pris, men för övrigt låg i dvala. Vitterhetsakademiens protokoll sluta emellertid med denna anteckning: »Den 11 Augusti 1782 infunno sig efter Nådig befallning vid lustslottet Drottningholm de i staden varande ledamöter af Academien neml."
+  },
+  {
+   "bbox": [
+    554,
+    841,
+    1192,
+    876
+   ],
+   "category": "Text",
+   "text": "H.E. RiksRådet m. m. Grefve Scheffer."
+  },
+  {
+   "bbox": [
+    554,
+    882,
+    1195,
+    917
+   ],
+   "category": "Text",
+   "text": "H.E.R.R. m. m. Grefve Rudenschöld."
+  },
+  {
+   "bbox": [
+    554,
+    924,
+    939,
+    958
+   ],
+   "category": "Text",
+   "text": "Cammar Rådet af Botin."
+  },
+  {
+   "bbox": [
+    554,
+    965,
+    1130,
+    1000
+   ],
+   "category": "Text",
+   "text": "HofMarskalken Baron Manderström."
+  },
+  {
+   "bbox": [
+    554,
+    1007,
+    992,
+    1042
+   ],
+   "category": "Text",
+   "text": "Professoren Melanderhielm."
+  },
+  {
+   "bbox": [
+    554,
+    1048,
+    1128,
+    1089
+   ],
+   "category": "Text",
+   "text": "Acad.Secr. Hofjunkaren Rosenstein."
+  },
+  {
+   "bbox": [
+    517,
+    1118,
+    1567,
+    1490
+   ],
+   "category": "Text",
+   "text": "Efter slutad cour och publique spisning lemnades Academien företräde i Hans Maj:t Konungens sängkammare, då den äldste närvarande ledamoten H.E. Grefve Scheffer förde ordet och i underdånighet anhöll at, sedan Academien förlorat det beskydd och inseende Högstsal. Drottning Lovisa Ulrica densamma förundt, Hans Kongl. Maj:t utom den Nådiga protection, hvaraf Academien altid haft at fägna sig, äfven i Nåder täcktes tillåta, at den måtte i Hans Maj:t få wörda Sin Höga Skyddsherre och under dess Nådiga inseende fortsätta sine arbeten."
+  },
+  {
+   "bbox": [
+    517,
+    1490,
+    1567,
+    1616
+   ],
+   "category": "Text",
+   "text": "Härtil behagade Hans Kongl. Maj:t i Nådigaste ordasätt samtycka och gaf deruppå hvar och en af Academiens ledamöter sin hand at kyssa.»"
+  },
+  {
+   "bbox": [
+    517,
+    1616,
+    1567,
+    1781
+   ],
+   "category": "Text",
+   "text": "Som vi skola se var detta ett löfte, som Gustaf III knappt tänkte hålla, åtminstone icke i den form, som ledamöterna förmodligen trodde, och i varje fall blev akademien efter änkedrottningens död ej ånyo sammankallad. Dess siste sekreterare, Nils von Rosenstein,"
+  },
+  {
+   "bbox": [
+    521,
+    1808,
+    594,
+    1855
+   ],
+   "category": "Page-footer",
+   "text": "708"
+  }
+ ]
+}

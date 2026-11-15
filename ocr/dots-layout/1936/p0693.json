@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 693,
+ "seconds": 33.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [898, 256, 1296, 293], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [571, 326, 1622, 619], \"category\": \"Text\", \"text\": \"Lieutenanten Johan Girolla¹ till mig uti bifogade memorial inberättat, at Soldaten wid Eder Kongl. Maij:ts Uplands Regemente och Öfverste Lieutenantens Compagnie No. 131 Anders Gunstedt, under det han wid des Soldate Torp skulle hämta Ene Buskar, uti yttre Jordskorpan funnit 4 st. Guld Tråds Ringar, hwilke af Rådmannen och Guld Smeden Fahlberg här i Staden blifwit proberade och wägde samt befunne innehålla 9¹/₂ Ducats wigt Pistolett Guld.\"}, {\"bbox\": [571, 618, 1622, 778], \"category\": \"Text\", \"text\": \"Eder Kongl. Maij:ts nådigste befallning utbeder jag mig underdånigst få afwakta, huruwida Eder Kongl. Maij:t täckes berörde Fynd inlösa eller eij, hwilket emedlertid förseglat här i Lands Cancelliet förwaras.\"}, {\"bbox\": [607, 788, 1346, 833], \"category\": \"Text\", \"text\": \"Upsala Lands Cancellie den 21 Februarii 1783.\"}, {\"bbox\": [1267, 836, 1582, 873], \"category\": \"Text\", \"text\": \"Olof von Nackreii.»\"}, {\"bbox\": [568, 901, 1622, 1358], \"category\": \"Text\", \"text\": \"Sedan kollegiet infordrat själva fyndet, blev detta remitterat till Adlerbeth (Prot. 27 mars), och den 29 april »inkom efter anmälan Kongl. Secreteraren Adlerbeth och berättade, att af de slags guldtrådsringar, som blifwit wid Gunsta Soldate Torp i Upsala lähn fundne, flere finnas uti Kongl. antiquitets archivo, men inga af den finhet och tunnhet som desse nu öfwersände, Hwarföre Kongl. Secreteraren hemstälte, om icke en af dem, som wore tillräckeligit till at wisa, uti hwad grad af finhet guldet å den tiden kunde arbetas, i afseende därå måtte inlösas». Detta bifölls av kollegiet, och för den inlösta ringen betalades 1 rd 29 sk. 7 rst. De övriga återsändes till upphittaren.\"}, {\"bbox\": [568, 1357, 1622, 1440], \"category\": \"Text\", \"text\": \"1783 gjordes även ett stort fynd i Skåne, varom befallningsmannen i brev av den 10 mars underrättade landshövding Thott: »I anled-\"}, {\"bbox\": [566, 1449, 1622, 1781], \"category\": \"Footnote\", \"text\": \"¹ Girollas brev finnes i Adlerbeths avskrift (V. H. A. A. Bihang till Inventariet). Det lyder: Hos herr Baron Landshöfdingen och Riddaren får jag äran ödmjukast anmäla, at soldaten vid Kongl. Mai:ts Uplands Regemente, Öfverste Lieutenantens Compagnie Nr. 131 Anders Gunstedt för mig upvist fyra st. ringar af Pistolet guld, fundne strax vid des Boställe Gunsta i yttre Jordskårpan, under det han förskaffade sig enebuskar til bränsle. Detta fynd, hittadt på Karlens Rothållares egor, är för kort tid tilbakars allmänneligen å angränsande socknar uplyst å Prädikstolarne, och som ingen egare dertil sig anmält, har jag å soldatens vägnar härmed bort i all ödmjukhet åfvannämde Guldringar upvisa, hvilka til vigt och värde enligt hosgående Guldsmeds attest finnes intygadt. I lika ödmjukhet underställes herr Baron, Landshöfdingen och Riddaren, om ej Gunstedt kan bli ensam egare häraf såsom fattig och behöfvande, sedan ej hittegodset är af större värde, icke häller någon antiquitet.\"}, {\"bbox\": [571, 1804, 646, 1844], \"category\": \"Page-footer\", \"text\": \"662\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    898,
+    256,
+    1296,
+    293
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    571,
+    326,
+    1622,
+    619
+   ],
+   "category": "Text",
+   "text": "Lieutenanten Johan Girolla¹ till mig uti bifogade memorial inberättat, at Soldaten wid Eder Kongl. Maij:ts Uplands Regemente och Öfverste Lieutenantens Compagnie No. 131 Anders Gunstedt, under det han wid des Soldate Torp skulle hämta Ene Buskar, uti yttre Jordskorpan funnit 4 st. Guld Tråds Ringar, hwilke af Rådmannen och Guld Smeden Fahlberg här i Staden blifwit proberade och wägde samt befunne innehålla 9¹/₂ Ducats wigt Pistolett Guld."
+  },
+  {
+   "bbox": [
+    571,
+    618,
+    1622,
+    778
+   ],
+   "category": "Text",
+   "text": "Eder Kongl. Maij:ts nådigste befallning utbeder jag mig underdånigst få afwakta, huruwida Eder Kongl. Maij:t täckes berörde Fynd inlösa eller eij, hwilket emedlertid förseglat här i Lands Cancelliet förwaras."
+  },
+  {
+   "bbox": [
+    607,
+    788,
+    1346,
+    833
+   ],
+   "category": "Text",
+   "text": "Upsala Lands Cancellie den 21 Februarii 1783."
+  },
+  {
+   "bbox": [
+    1267,
+    836,
+    1582,
+    873
+   ],
+   "category": "Text",
+   "text": "Olof von Nackreii.»"
+  },
+  {
+   "bbox": [
+    568,
+    901,
+    1622,
+    1358
+   ],
+   "category": "Text",
+   "text": "Sedan kollegiet infordrat själva fyndet, blev detta remitterat till Adlerbeth (Prot. 27 mars), och den 29 april »inkom efter anmälan Kongl. Secreteraren Adlerbeth och berättade, att af de slags guldtrådsringar, som blifwit wid Gunsta Soldate Torp i Upsala lähn fundne, flere finnas uti Kongl. antiquitets archivo, men inga af den finhet och tunnhet som desse nu öfwersände, Hwarföre Kongl. Secreteraren hemstälte, om icke en af dem, som wore tillräckeligit till at wisa, uti hwad grad af finhet guldet å den tiden kunde arbetas, i afseende därå måtte inlösas». Detta bifölls av kollegiet, och för den inlösta ringen betalades 1 rd 29 sk. 7 rst. De övriga återsändes till upphittaren."
+  },
+  {
+   "bbox": [
+    568,
+    1357,
+    1622,
+    1440
+   ],
+   "category": "Text",
+   "text": "1783 gjordes även ett stort fynd i Skåne, varom befallningsmannen i brev av den 10 mars underrättade landshövding Thott: »I anled-"
+  },
+  {
+   "bbox": [
+    566,
+    1449,
+    1622,
+    1781
+   ],
+   "category": "Footnote",
+   "text": "¹ Girollas brev finnes i Adlerbeths avskrift (V. H. A. A. Bihang till Inventariet). Det lyder: Hos herr Baron Landshöfdingen och Riddaren får jag äran ödmjukast anmäla, at soldaten vid Kongl. Mai:ts Uplands Regemente, Öfverste Lieutenantens Compagnie Nr. 131 Anders Gunstedt för mig upvist fyra st. ringar af Pistolet guld, fundne strax vid des Boställe Gunsta i yttre Jordskårpan, under det han förskaffade sig enebuskar til bränsle. Detta fynd, hittadt på Karlens Rothållares egor, är för kort tid tilbakars allmänneligen å angränsande socknar uplyst å Prädikstolarne, och som ingen egare dertil sig anmält, har jag å soldatens vägnar härmed bort i all ödmjukhet åfvannämde Guldringar upvisa, hvilka til vigt och värde enligt hosgående Guldsmeds attest finnes intygadt. I lika ödmjukhet underställes herr Baron, Landshöfdingen och Riddaren, om ej Gunstedt kan bli ensam egare häraf såsom fattig och behöfvande, sedan ej hittegodset är af större värde, icke häller någon antiquitet."
+  },
+  {
+   "bbox": [
+    571,
+    1804,
+    646,
+    1844
+   ],
+   "category": "Page-footer",
+   "text": "662"
+  }
+ ]
+}

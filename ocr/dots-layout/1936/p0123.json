@@ -1,0 +1,142 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 123,
+ "seconds": 39.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [877, 255, 1274, 291], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [621, 325, 1600, 411], \"category\": \"List-item\", \"text\": \"Petau, en liten och mycket rare piece in 4:0, hwilken Sallengre låtit å nyo trycka i sin Thesauro antiqvitatum.\"}, {\"bbox\": [553, 409, 1600, 535], \"category\": \"List-item\", \"text\": \"Ass. Hagelberg påminte därhos, at han funnit olika tanckar om bem:te Keders Nummo Othiniano införde uti en af Peters-burgska academiens Commentariis.\"}, {\"bbox\": [877, 574, 1274, 618], \"category\": \"Text\", \"text\": \"1750. Den 24 Novemb.\"}, {\"bbox\": [900, 635, 1253, 669], \"category\": \"Section-header\", \"text\": \"De samma närwarande\"}, {\"bbox\": [553, 698, 1600, 1025], \"category\": \"List-item\", \"text\": \"Secr. Berch. Kongl. Cantzlij-Collegium hade til honom lemnat, hwad assessoren Richardson hade til högbem:te Collegium ingifwit af sin Halländska Beskrifning. Och emedan andra angelägne syslor icke tillåta herrarne af Cantzlijet at läsa detta Halländska wärcket igenom, ty wore deras wilja, at Ant. Archivi ledamöter toge sig sådant före i deras sammankomst och igenom påminnelser gifwa auctoren tilfälle at tydeligare uttrycka sin mening och förbättra sit wärck i et eller annat mål.\"}, {\"bbox\": [553, 1030, 1401, 1074], \"category\": \"List-item\", \"text\": \"Transl. Wessman begynte at läsa up det första Capit.\"}, {\"bbox\": [553, 1072, 1600, 1403], \"category\": \"List-item\", \"text\": \"Secr. Berch: Wid Hallands belägenhet är nödigt, at man rådgiörer med Wettenskaps academiens Secreterare Wargentin och underrättar sig, om uti hans ell. hans antecessoris Elvii tid någre accurate mätningar äro giorde på den trakten, ty det kan hända, at ass. Richardson fölgt någon gammal auctor, som icke warit Mathematicus. Man wet, at Geographien i gemen och distantiæ locorum i Swerige hafwa igenom observationer i dessa sidsta åren mycket blifwit ändrade.\"}, {\"bbox\": [553, 1401, 1600, 1521], \"category\": \"List-item\", \"text\": \"Id. Danaholm. På densamma finnes här wid archivum en liten Charta, hwilcken för Rågångens skull är merckwärdig; owist, om auctor sedt densamma.\"}, {\"bbox\": [553, 1525, 1562, 1569], \"category\": \"List-item\", \"text\": \"Tr. Wessman: ad cap. II porcus öfwersättes swijn och icke grijs.\"}, {\"bbox\": [553, 1568, 1600, 1687], \"category\": \"List-item\", \"text\": \"Berch. Bättre i mitt tycke wore, om sådana främmande auctorers ord icke stode på latin införde i Swenska texten, utan kunde man med små caracterer sättia dem nedanföre såsom noter.\"}, {\"bbox\": [553, 1691, 1600, 1772], \"category\": \"List-item\", \"text\": \"Wessm. Glossarium Juridicum, när det citeras, bör Weylles namn widsättias. Äfwen när böcker finnas af flera editioner, är det\"}, {\"bbox\": [564, 1805, 638, 1843], \"category\": \"Page-footer\", \"text\": \"106\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    877,
+    255,
+    1274,
+    291
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    621,
+    325,
+    1600,
+    411
+   ],
+   "category": "List-item",
+   "text": "Petau, en liten och mycket rare piece in 4:0, hwilken Sallengre låtit å nyo trycka i sin Thesauro antiqvitatum."
+  },
+  {
+   "bbox": [
+    553,
+    409,
+    1600,
+    535
+   ],
+   "category": "List-item",
+   "text": "Ass. Hagelberg påminte därhos, at han funnit olika tanckar om bem:te Keders Nummo Othiniano införde uti en af Peters-burgska academiens Commentariis."
+  },
+  {
+   "bbox": [
+    877,
+    574,
+    1274,
+    618
+   ],
+   "category": "Text",
+   "text": "1750. Den 24 Novemb."
+  },
+  {
+   "bbox": [
+    900,
+    635,
+    1253,
+    669
+   ],
+   "category": "Section-header",
+   "text": "De samma närwarande"
+  },
+  {
+   "bbox": [
+    553,
+    698,
+    1600,
+    1025
+   ],
+   "category": "List-item",
+   "text": "Secr. Berch. Kongl. Cantzlij-Collegium hade til honom lemnat, hwad assessoren Richardson hade til högbem:te Collegium ingifwit af sin Halländska Beskrifning. Och emedan andra angelägne syslor icke tillåta herrarne af Cantzlijet at läsa detta Halländska wärcket igenom, ty wore deras wilja, at Ant. Archivi ledamöter toge sig sådant före i deras sammankomst och igenom påminnelser gifwa auctoren tilfälle at tydeligare uttrycka sin mening och förbättra sit wärck i et eller annat mål."
+  },
+  {
+   "bbox": [
+    553,
+    1030,
+    1401,
+    1074
+   ],
+   "category": "List-item",
+   "text": "Transl. Wessman begynte at läsa up det första Capit."
+  },
+  {
+   "bbox": [
+    553,
+    1072,
+    1600,
+    1403
+   ],
+   "category": "List-item",
+   "text": "Secr. Berch: Wid Hallands belägenhet är nödigt, at man rådgiörer med Wettenskaps academiens Secreterare Wargentin och underrättar sig, om uti hans ell. hans antecessoris Elvii tid någre accurate mätningar äro giorde på den trakten, ty det kan hända, at ass. Richardson fölgt någon gammal auctor, som icke warit Mathematicus. Man wet, at Geographien i gemen och distantiæ locorum i Swerige hafwa igenom observationer i dessa sidsta åren mycket blifwit ändrade."
+  },
+  {
+   "bbox": [
+    553,
+    1401,
+    1600,
+    1521
+   ],
+   "category": "List-item",
+   "text": "Id. Danaholm. På densamma finnes här wid archivum en liten Charta, hwilcken för Rågångens skull är merckwärdig; owist, om auctor sedt densamma."
+  },
+  {
+   "bbox": [
+    553,
+    1525,
+    1562,
+    1569
+   ],
+   "category": "List-item",
+   "text": "Tr. Wessman: ad cap. II porcus öfwersättes swijn och icke grijs."
+  },
+  {
+   "bbox": [
+    553,
+    1568,
+    1600,
+    1687
+   ],
+   "category": "List-item",
+   "text": "Berch. Bättre i mitt tycke wore, om sådana främmande auctorers ord icke stode på latin införde i Swenska texten, utan kunde man med små caracterer sättia dem nedanföre såsom noter."
+  },
+  {
+   "bbox": [
+    553,
+    1691,
+    1600,
+    1772
+   ],
+   "category": "List-item",
+   "text": "Wessm. Glossarium Juridicum, när det citeras, bör Weylles namn widsättias. Äfwen när böcker finnas af flera editioner, är det"
+  },
+  {
+   "bbox": [
+    564,
+    1805,
+    638,
+    1843
+   ],
+   "category": "Page-footer",
+   "text": "106"
+  }
+ ]
+}

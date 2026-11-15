@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 166,
+ "seconds": 29.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [186, 256, 1049, 299], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet och Biblioteket 1751—1766\"}, {\"bbox\": [93, 327, 1142, 578], \"category\": \"Text\", \"text\": \"ord. assessoren wid antiquitets archivum, som skulle utarbeta en swensk Corps diplomatique, men at Herr Riks Rådet icke dess mindre blifwit fast uti sin förut yttrade mening och fördensskull äfwen nu upgifwit et Project til Instruction för denne assessor, hwilcket Collegium lät sig föreläsa och däreffter företog sig saken til slutliget afgörande».\"}, {\"bbox\": [97, 576, 1142, 662], \"category\": \"Text\", \"text\": \"Detta förslag till instruktion, som Bonde — väl med hjälp av Bergius — utarbetat, har följande lydelse:\"}, {\"bbox\": [130, 688, 1142, 766], \"category\": \"Text\", \"text\": \"»Instruction för Extraordinarie assessoren i Kongl. antiquitets archivo.\"}, {\"bbox\": [93, 782, 1145, 1780], \"category\": \"Text\", \"text\": \"Dess hufwudsysla skall wara at förfärdiga en swensk Corps Diplomatique, på det Publicum må kunna ha någon nytta och ljus af de många acter och Diplomata, som nu ligga nedgravne i mörker och likwäl med mycken möda och kostnad blifwit samlade, och på det icke wådeldar och andra olyckeliga tilfälligheter må tilskynda oss så stor mistning, som alt för ofta tilförne skedt. Han gör början dertil med at eftersöka och hopsamla alla publique Diplomata, Patenter, acter, Documenter och handlingar, så uti Kongl. archiverne, Bibliothequer och publique samlingar såsom ock hos Private i Riket, hos hwilka något hwad härtil hörer erhållas kan. Så snart denna samling är gjord, innefattande både äldre och nyare tider, fördelar han dem efter sina ämnen uti wissa flockar, så att alla de handlingar, som röra Sweriges afhandlingar med utländska magter komma under en särskild flock, dock fördelte i wissa titlar såsom krigs-manifester, swar på andra Puissancers manifester, alliance-, Neutralitets, Commerce, heyrats och flera dylika tractater. Sedan åter Inrikes handlingar i andra särskilda flockar, innehållande dels hwad som rör Rikets styrelse i fordna tider och fiscum regis såsom Upsala öde samt huru denna fiscus sedermera blifwet förökt, dels alla fordna konungars donationer och förläningar så til publique werk och gillen som til enskilda personer, dels Privilegier för adel, Ridderskap och frälsemän, clerkeri, kyrckor och kloster, lärosäten, köpingar och städer, dels ock Påfwe Bullor samt Konungars och Furstars öpna Bref, som finnas på något sätt interessante och så widare.\"}, {\"bbox\": [1068, 1814, 1142, 1854], \"category\": \"Page-footer\", \"text\": \"149\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    186,
+    256,
+    1049,
+    299
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet och Biblioteket 1751—1766"
+  },
+  {
+   "bbox": [
+    93,
+    327,
+    1142,
+    578
+   ],
+   "category": "Text",
+   "text": "ord. assessoren wid antiquitets archivum, som skulle utarbeta en swensk Corps diplomatique, men at Herr Riks Rådet icke dess mindre blifwit fast uti sin förut yttrade mening och fördensskull äfwen nu upgifwit et Project til Instruction för denne assessor, hwilcket Collegium lät sig föreläsa och däreffter företog sig saken til slutliget afgörande»."
+  },
+  {
+   "bbox": [
+    97,
+    576,
+    1142,
+    662
+   ],
+   "category": "Text",
+   "text": "Detta förslag till instruktion, som Bonde — väl med hjälp av Bergius — utarbetat, har följande lydelse:"
+  },
+  {
+   "bbox": [
+    130,
+    688,
+    1142,
+    766
+   ],
+   "category": "Text",
+   "text": "»Instruction för Extraordinarie assessoren i Kongl. antiquitets archivo."
+  },
+  {
+   "bbox": [
+    93,
+    782,
+    1145,
+    1780
+   ],
+   "category": "Text",
+   "text": "Dess hufwudsysla skall wara at förfärdiga en swensk Corps Diplomatique, på det Publicum må kunna ha någon nytta och ljus af de många acter och Diplomata, som nu ligga nedgravne i mörker och likwäl med mycken möda och kostnad blifwit samlade, och på det icke wådeldar och andra olyckeliga tilfälligheter må tilskynda oss så stor mistning, som alt för ofta tilförne skedt. Han gör början dertil med at eftersöka och hopsamla alla publique Diplomata, Patenter, acter, Documenter och handlingar, så uti Kongl. archiverne, Bibliothequer och publique samlingar såsom ock hos Private i Riket, hos hwilka något hwad härtil hörer erhållas kan. Så snart denna samling är gjord, innefattande både äldre och nyare tider, fördelar han dem efter sina ämnen uti wissa flockar, så att alla de handlingar, som röra Sweriges afhandlingar med utländska magter komma under en särskild flock, dock fördelte i wissa titlar såsom krigs-manifester, swar på andra Puissancers manifester, alliance-, Neutralitets, Commerce, heyrats och flera dylika tractater. Sedan åter Inrikes handlingar i andra särskilda flockar, innehållande dels hwad som rör Rikets styrelse i fordna tider och fiscum regis såsom Upsala öde samt huru denna fiscus sedermera blifwet förökt, dels alla fordna konungars donationer och förläningar så til publique werk och gillen som til enskilda personer, dels Privilegier för adel, Ridderskap och frälsemän, clerkeri, kyrckor och kloster, lärosäten, köpingar och städer, dels ock Påfwe Bullor samt Konungars och Furstars öpna Bref, som finnas på något sätt interessante och så widare."
+  },
+  {
+   "bbox": [
+    1068,
+    1814,
+    1142,
+    1854
+   ],
+   "category": "Page-footer",
+   "text": "149"
+  }
+ ]
+}

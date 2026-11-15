@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 159,
+ "seconds": 29.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [878, 260, 1277, 296], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [550, 330, 1603, 490], \"category\": \"Text\", \"text\": \"utgav Sagan om Ingwar Widtfarne; likaså sökte han, som vi sedan skola se, att återuppliva 1600-talets antikvariska »ransakningar» och att ånyo efter Thorvaldur Brochmanns död få en islänning anställd i arkivet.\"}, {\"bbox\": [550, 496, 1603, 1195], \"category\": \"Text\", \"text\": \"Den insats, vid vilken han själv dock lade den största vikten, var planen på ett svenskt diplomatarium. Egendomligt nog tyckes han knappt hava känt till de omfattande förarbeten, som redan gjorts av Hadorph, Peringskiöld och Örnhielm, och uppslaget fick han icke från deras samlingar, utan från Danmark, från en av samtidens mest betydande lärde, Jacob Langebek. En bland dennes många planer, som han dock ej kunde genomföra, var utgivandet av ett Opus diplomaticum Daniæ. Sedan han i Danmark gjort stora avskriftssamlingar, fick han ett statsanslag, med vilket han 1753—1754 företog en forskningsresa till Sverige och Östersjöprovinserna, varvid han till följeslagare hade den unge Nils Reinhold Brocman, vilken vi sedan ofta skola möta i detta arbete, och enligt uppgift skall Langebek på den resan ha insamlat mellan tre och fyra tusen diplom. Efter återkomsten till Danmark fick han höra om Bondes utnämning till inspektor för antikvitetsarkivet och skrev då till honom följande i Säfstaholmssamlingen (R. A. Tom. 119, n:r 90) bevarade brev:\"}, {\"bbox\": [622, 1231, 1115, 1273], \"category\": \"Text\", \"text\": \"»Höivelbaarne Naadige Herre.\"}, {\"bbox\": [550, 1282, 1603, 1782], \"category\": \"Text\", \"text\": \"Jeg havde den Lykke for faa aar siden at giöre en reise i Sverige og omkring hele Østersøen for at söge monumenter til oplysning i vor Nordens, men i sær mit fædrelands Historie. Ikke var ieg aldeles uheldig i mit ærende, men vist havde ieg profiteret langt mere, dersom en længere tid end halvandet aar havde været mig given til saa vidtlöftig en tour at fuldende. Under mit værende i Stokholm havde ieg ikke liden nytte af Kongl. antiquitets archivo, som ieg endnu taknemligen erkiender og önsker, at ieg i det mindste haft tvende aar alene der at tilbringe. Men det, som ieg mest beklager, er at ieg ikke skulde være saa lykkelig at blive kiendt af Deres Höigrevelige Excellence, som paa den tid efter beretning opholdt sig i Skaane. Jeg har baade her og der med megen berömelse hört\"}, {\"bbox\": [423, 502, 544, 593], \"category\": \"Text\", \"text\": \"Diplomatariet och Bergius\"}, {\"bbox\": [557, 1818, 631, 1854], \"category\": \"Page-footer\", \"text\": \"142\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    878,
+    260,
+    1277,
+    296
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    550,
+    330,
+    1603,
+    490
+   ],
+   "category": "Text",
+   "text": "utgav Sagan om Ingwar Widtfarne; likaså sökte han, som vi sedan skola se, att återuppliva 1600-talets antikvariska »ransakningar» och att ånyo efter Thorvaldur Brochmanns död få en islänning anställd i arkivet."
+  },
+  {
+   "bbox": [
+    550,
+    496,
+    1603,
+    1195
+   ],
+   "category": "Text",
+   "text": "Den insats, vid vilken han själv dock lade den största vikten, var planen på ett svenskt diplomatarium. Egendomligt nog tyckes han knappt hava känt till de omfattande förarbeten, som redan gjorts av Hadorph, Peringskiöld och Örnhielm, och uppslaget fick han icke från deras samlingar, utan från Danmark, från en av samtidens mest betydande lärde, Jacob Langebek. En bland dennes många planer, som han dock ej kunde genomföra, var utgivandet av ett Opus diplomaticum Daniæ. Sedan han i Danmark gjort stora avskriftssamlingar, fick han ett statsanslag, med vilket han 1753—1754 företog en forskningsresa till Sverige och Östersjöprovinserna, varvid han till följeslagare hade den unge Nils Reinhold Brocman, vilken vi sedan ofta skola möta i detta arbete, och enligt uppgift skall Langebek på den resan ha insamlat mellan tre och fyra tusen diplom. Efter återkomsten till Danmark fick han höra om Bondes utnämning till inspektor för antikvitetsarkivet och skrev då till honom följande i Säfstaholmssamlingen (R. A. Tom. 119, n:r 90) bevarade brev:"
+  },
+  {
+   "bbox": [
+    622,
+    1231,
+    1115,
+    1273
+   ],
+   "category": "Text",
+   "text": "»Höivelbaarne Naadige Herre."
+  },
+  {
+   "bbox": [
+    550,
+    1282,
+    1603,
+    1782
+   ],
+   "category": "Text",
+   "text": "Jeg havde den Lykke for faa aar siden at giöre en reise i Sverige og omkring hele Østersøen for at söge monumenter til oplysning i vor Nordens, men i sær mit fædrelands Historie. Ikke var ieg aldeles uheldig i mit ærende, men vist havde ieg profiteret langt mere, dersom en længere tid end halvandet aar havde været mig given til saa vidtlöftig en tour at fuldende. Under mit værende i Stokholm havde ieg ikke liden nytte af Kongl. antiquitets archivo, som ieg endnu taknemligen erkiender og önsker, at ieg i det mindste haft tvende aar alene der at tilbringe. Men det, som ieg mest beklager, er at ieg ikke skulde være saa lykkelig at blive kiendt af Deres Höigrevelige Excellence, som paa den tid efter beretning opholdt sig i Skaane. Jeg har baade her og der med megen berömelse hört"
+  },
+  {
+   "bbox": [
+    423,
+    502,
+    544,
+    593
+   ],
+   "category": "Text",
+   "text": "Diplomatariet och Bergius"
+  },
+  {
+   "bbox": [
+    557,
+    1818,
+    631,
+    1854
+   ],
+   "category": "Page-footer",
+   "text": "142"
+  }
+ ]
+}

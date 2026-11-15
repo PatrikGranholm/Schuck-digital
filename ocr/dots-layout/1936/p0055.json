@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 55,
+ "seconds": 32.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [890, 270, 1286, 307], \"category\": \"Section-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [555, 336, 1603, 1035], \"category\": \"Text\", \"text\": \"undertecknad, utvecklade han de olika avdelningarnas vetenskapliga betydelse, gav en skarp kritik av den äldre tidens »götiska» fornforskning, likaså av den avita tjänstetillsättningen, framkastade tanken på vetenskapliga föreläsningar i huvudstaden och upptog den gamla planen på arkivets ombildning till en historisk-antikvarisk akademi. En huvudpunkt var en sammanslagning av Kungl. biblioteket och antikvitetsarkivet, vilka båda vid denna tid voro grannar i greve Pers hus och sedan, såsom meningen var, skulle komma »under samma tak» i det nya slottet. En dylik sammanslagning var då ganska naturlig.¹ Liksom biblioteket bestod arkivet av en samling tryckta böcker och handskrifter, och den tidens bibliotek voro även förvaringsplatser för allehanda kuriosa, mynt o. d., till en del även museer; så t. ex. förvarades det berömda konstskåpet från Augsburg, universitetets tavelsamling m. m. i Uppsalabiblioteket. För oss hade visserligen den naturliga sammanslagningen varit av riksarkivet och antikvitetsarkivet, men denna gamla tvistepunkt (IV, sid. 86) berör Berch icke.\"}, {\"bbox\": [551, 1040, 1599, 1414], \"category\": \"Text\", \"text\": \"Den märkliga inlagan lyder: »Då Sweriges framledne Konungar hafwa uti deras Residentz anlagt et Bibliothek, må man ingalunda tro, at sådant skedt endast för anständighetens skull och til at wara andra Förstar lik, utan fast mera til et angenämt tidsfördrif för dem sielfwa, til underwisning för de Kongl. Barnen och omsider at Konungens ämbetsmän, särdeles i Cantzlijet, derutinnan måtte hafwa tilgång til sådana Böcker, hwilka wid hwarjehanda sig i deras tienst yppande tilfällen behöfwa påsees och dem de icke hafwa wilckor at sielfwe sig anskaffa.\"}, {\"bbox\": [551, 1412, 1597, 1500], \"category\": \"Text\", \"text\": \"At wara försedd med många Böcker uti alla faculteter och wettenskaper är en stor prydnad för et Bibliothek, men när medlen\"}, {\"bbox\": [547, 1517, 1597, 1793], \"category\": \"Footnote\", \"text\": \"¹ Uppslaget tyckes Berch ha fått från Frankrike. Den första oktober 1759 skrev Wessman (Kanslikoll. Inkomna skrivelser sign. E IV. 14) »Sedan H. Kongl. May:t år 1751 för godt funnit, at Kongl. antiquitets archivum skulle undergå någon reformation i anseende till förra instructioner och inrätningar, blef saken så afhandlad, at i ställe för 2:ne Assessorer och en Translator af gamla språken skulle giöromålen regleras effter dett wid Kongl. franska Academien i Paris brukelige sätt, och således assessors och Translators titulen uphöra, och wi i stället få Bibliothequariers caracterer och tillika beställningar. När saken war färdig, blefwo wi samtel. kallade till Hs Excellence — —, hwarest H. Kongl. Maysts bref oss förelästes samt hwar och en fick Copia af den honom tillhörande instruction, sedan departementerne woro reglerade.»\"}, {\"bbox\": [549, 1814, 597, 1859], \"category\": \"Page-footer\", \"text\": \"38\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    890,
+    270,
+    1286,
+    307
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    555,
+    336,
+    1603,
+    1035
+   ],
+   "category": "Text",
+   "text": "undertecknad, utvecklade han de olika avdelningarnas vetenskapliga betydelse, gav en skarp kritik av den äldre tidens »götiska» fornforskning, likaså av den avita tjänstetillsättningen, framkastade tanken på vetenskapliga föreläsningar i huvudstaden och upptog den gamla planen på arkivets ombildning till en historisk-antikvarisk akademi. En huvudpunkt var en sammanslagning av Kungl. biblioteket och antikvitetsarkivet, vilka båda vid denna tid voro grannar i greve Pers hus och sedan, såsom meningen var, skulle komma »under samma tak» i det nya slottet. En dylik sammanslagning var då ganska naturlig.¹ Liksom biblioteket bestod arkivet av en samling tryckta böcker och handskrifter, och den tidens bibliotek voro även förvaringsplatser för allehanda kuriosa, mynt o. d., till en del även museer; så t. ex. förvarades det berömda konstskåpet från Augsburg, universitetets tavelsamling m. m. i Uppsalabiblioteket. För oss hade visserligen den naturliga sammanslagningen varit av riksarkivet och antikvitetsarkivet, men denna gamla tvistepunkt (IV, sid. 86) berör Berch icke."
+  },
+  {
+   "bbox": [
+    551,
+    1040,
+    1599,
+    1414
+   ],
+   "category": "Text",
+   "text": "Den märkliga inlagan lyder: »Då Sweriges framledne Konungar hafwa uti deras Residentz anlagt et Bibliothek, må man ingalunda tro, at sådant skedt endast för anständighetens skull och til at wara andra Förstar lik, utan fast mera til et angenämt tidsfördrif för dem sielfwa, til underwisning för de Kongl. Barnen och omsider at Konungens ämbetsmän, särdeles i Cantzlijet, derutinnan måtte hafwa tilgång til sådana Böcker, hwilka wid hwarjehanda sig i deras tienst yppande tilfällen behöfwa påsees och dem de icke hafwa wilckor at sielfwe sig anskaffa."
+  },
+  {
+   "bbox": [
+    551,
+    1412,
+    1597,
+    1500
+   ],
+   "category": "Text",
+   "text": "At wara försedd med många Böcker uti alla faculteter och wettenskaper är en stor prydnad för et Bibliothek, men när medlen"
+  },
+  {
+   "bbox": [
+    547,
+    1517,
+    1597,
+    1793
+   ],
+   "category": "Footnote",
+   "text": "¹ Uppslaget tyckes Berch ha fått från Frankrike. Den första oktober 1759 skrev Wessman (Kanslikoll. Inkomna skrivelser sign. E IV. 14) »Sedan H. Kongl. May:t år 1751 för godt funnit, at Kongl. antiquitets archivum skulle undergå någon reformation i anseende till förra instructioner och inrätningar, blef saken så afhandlad, at i ställe för 2:ne Assessorer och en Translator af gamla språken skulle giöromålen regleras effter dett wid Kongl. franska Academien i Paris brukelige sätt, och således assessors och Translators titulen uphöra, och wi i stället få Bibliothequariers caracterer och tillika beställningar. När saken war färdig, blefwo wi samtel. kallade till Hs Excellence — —, hwarest H. Kongl. Maysts bref oss förelästes samt hwar och en fick Copia af den honom tillhörande instruction, sedan departementerne woro reglerade.»"
+  },
+  {
+   "bbox": [
+    549,
+    1814,
+    597,
+    1859
+   ],
+   "category": "Page-footer",
+   "text": "38"
+  }
+ ]
+}

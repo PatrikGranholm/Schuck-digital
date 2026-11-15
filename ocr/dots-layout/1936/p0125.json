@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 125,
+ "seconds": 28.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [873, 252, 1272, 287], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [615, 322, 1599, 532], \"category\": \"Text\", \"text\": \"calco, hwilcket nyligen utkommit, anmärktes, at däruti felades månge gemmæ Celatæ, hwilka Dr. Christina ägt och dem man hade trodt få igen uti konstkammaren wid detta huset, som blef drotningens arfwinge, ty at hon ägt flera, dertil finnas spår uti andra skrifter.\"}, {\"bbox\": [615, 531, 1599, 1112], \"category\": \"Text\", \"text\": \"De äfwenledes nyligen publicerade Pierres gravées du Cabinet du Roi de France wore wärde at äga, icke så mycket at man kan wänta sig en så lärd och för antiquiteterna nyttig Commentarium som Baron Stosches öfwer sådant ämne, men först för gravuren skull, hwilcken är giord effter den stora Ritmästaren Bouchardons teckningar, dem Secr. Berch alla samman sedt hos upläggaren Mariette, och sedan, emedan bem:te Mariette säges hafwa giort et företal om Gravurens historia, hwilcket ännu ingen lärer bättre kunna utföra än han. Ty Mariette är icke allenast i franckrike utan ock utomlands erkänd för [att] äga en ogemen historisk kunskap om målningar, kopparstycken och hwad med teckning hafwer gemenskap. Et litet prof gaf han uti Cataloguen, som giordes på Mr. Croizats Ritningar.\"}, {\"bbox\": [873, 1134, 1277, 1176], \"category\": \"Text\", \"text\": \"1750. Den 8 Decembris.\"}, {\"bbox\": [926, 1188, 1202, 1312], \"category\": \"Text\", \"text\": \"Närwarande\\nSecr. Herr Berch.\\nAss. Hagelberg.\"}, {\"bbox\": [551, 1322, 1599, 1405], \"category\": \"List-item\", \"text\": \"Secr. Berch begärte, at reciteras hwad som återstod uti Halländska Beskrifningen.\"}, {\"bbox\": [551, 1405, 1599, 1779], \"category\": \"List-item\", \"text\": \"Ass. Hagelberg. Emedan Hr. auctorn giärna will [hafwa] sitt wärck illustrerat med kopparstycken, borde han tilse, at han utur Ständernas Contoir finge lähna plåtarna til halländska wapnet, Kongsbacka och dylikt, som han i afhandlingen kommer at omorda. Hwilcka plåtar Ständernas Contoir förmodel. icke warder honom wägrandes, aldenstund Sveciæ wärket effter den gamla planen icke warder fulfölgt och Cronans giorde omkostnad på kopparstick åtminstone til en liten del blifwer nyttig igenom Ass. Richardsons arbete.\"}, {\"bbox\": [557, 1801, 629, 1839], \"category\": \"Page-footer\", \"text\": \"108\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    873,
+    252,
+    1272,
+    287
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    615,
+    322,
+    1599,
+    532
+   ],
+   "category": "Text",
+   "text": "calco, hwilcket nyligen utkommit, anmärktes, at däruti felades månge gemmæ Celatæ, hwilka Dr. Christina ägt och dem man hade trodt få igen uti konstkammaren wid detta huset, som blef drotningens arfwinge, ty at hon ägt flera, dertil finnas spår uti andra skrifter."
+  },
+  {
+   "bbox": [
+    615,
+    531,
+    1599,
+    1112
+   ],
+   "category": "Text",
+   "text": "De äfwenledes nyligen publicerade Pierres gravées du Cabinet du Roi de France wore wärde at äga, icke så mycket at man kan wänta sig en så lärd och för antiquiteterna nyttig Commentarium som Baron Stosches öfwer sådant ämne, men först för gravuren skull, hwilcken är giord effter den stora Ritmästaren Bouchardons teckningar, dem Secr. Berch alla samman sedt hos upläggaren Mariette, och sedan, emedan bem:te Mariette säges hafwa giort et företal om Gravurens historia, hwilcket ännu ingen lärer bättre kunna utföra än han. Ty Mariette är icke allenast i franckrike utan ock utomlands erkänd för [att] äga en ogemen historisk kunskap om målningar, kopparstycken och hwad med teckning hafwer gemenskap. Et litet prof gaf han uti Cataloguen, som giordes på Mr. Croizats Ritningar."
+  },
+  {
+   "bbox": [
+    873,
+    1134,
+    1277,
+    1176
+   ],
+   "category": "Text",
+   "text": "1750. Den 8 Decembris."
+  },
+  {
+   "bbox": [
+    926,
+    1188,
+    1202,
+    1312
+   ],
+   "category": "Text",
+   "text": "Närwarande\nSecr. Herr Berch.\nAss. Hagelberg."
+  },
+  {
+   "bbox": [
+    551,
+    1322,
+    1599,
+    1405
+   ],
+   "category": "List-item",
+   "text": "Secr. Berch begärte, at reciteras hwad som återstod uti Halländska Beskrifningen."
+  },
+  {
+   "bbox": [
+    551,
+    1405,
+    1599,
+    1779
+   ],
+   "category": "List-item",
+   "text": "Ass. Hagelberg. Emedan Hr. auctorn giärna will [hafwa] sitt wärck illustrerat med kopparstycken, borde han tilse, at han utur Ständernas Contoir finge lähna plåtarna til halländska wapnet, Kongsbacka och dylikt, som han i afhandlingen kommer at omorda. Hwilcka plåtar Ständernas Contoir förmodel. icke warder honom wägrandes, aldenstund Sveciæ wärket effter den gamla planen icke warder fulfölgt och Cronans giorde omkostnad på kopparstick åtminstone til en liten del blifwer nyttig igenom Ass. Richardsons arbete."
+  },
+  {
+   "bbox": [
+    557,
+    1801,
+    629,
+    1839
+   ],
+   "category": "Page-footer",
+   "text": "108"
+  }
+ ]
+}

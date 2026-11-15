@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 593,
+ "seconds": 30.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [937, 280, 1335, 317], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [606, 348, 1656, 770], \"category\": \"Text\", \"text\": \"343 b samt slutligen en handskrift i Lunds bibliotek, som Brocman 1752 fått i Köpenhamn, troligen ock en av Thorvaldur Brockmann gjord avskrift av Bondes exemplar. Dessutom hade han sett — om än icke begagnat — tre andra handskrifter (väl de av Olson som A. C. och L. betecknade), och för sin text hade han således ett mera omfattande material än det, över vilket hans svenska föregångare, Verelius, Reenhielm och andra vid sina sagoeditioner förfogat, i regeln blott en enda — vanligen sen och dålig — handskrift. Ehuru jag därom ej kan hava något omdöme, torde ock Brocmans text och översättning vara bättre än dessa föregångares.\"}, {\"bbox\": [609, 764, 1658, 1102], \"category\": \"Text\", \"text\": \"Upplagan var antikvitetsarkivets sista försök att upprätthålla den isländska traditionen från 1600-talet, och som man kunnat vänta hade uppslaget kommit från Gustaf Bonde, vilket Brocman även i företalet erkände. Någon efterföljd fick detta uppslag dock icke. Som vi sett (sid. 501 och 505) uppgiver väl Brocman, att hans halvbror Stechau förberett upplagor av Slisa-Hróas þáttr och Sigmundar þáttr Brestissonar, men dessa hava i varje fall ej utgivits och något manuskript finnes veterligen ej kvar.¹\"}, {\"bbox\": [611, 1094, 1661, 1722], \"category\": \"Text\", \"text\": \"Den inledning, som Brocman satt i spetsen för sin upplaga och vari han vill bevisa sagans trovärdighet, är visserligen ej rudbeckiansk, men likväl ett ganska underhaltigt specimen. För övrigt bör man veta — skriver han — »at mycket uti åtskilliga wære Förfäders Minnen, som nu för oss kan synas otroligt, uti sin Tid och sit rätta Förstånd warit för de wettigare icke allenast nog begripligt, utan ock i Stora Gärningars Qwäden eller deras poetiska Beröm helt nödwändigt för at ännu mera uphöja dem öfwer en grof Allmoges Förundran. Härifrån leda oförnekligen de faseliga Drakar och Ormar, Resar med deras underliga åthäfwor sin Uprinnelse, och är nästan handgripligt, at i Början intet annat än gryma, starka, stora, mägtiga och sluga Människor under slike Figurer blifwit beteknade, fastän en mera fåkunnig Tid sedermera, kanske utan någon Eftertanke och blott af en Wana, sina Sagor med en för oss så litet behaglig Smink öfwerhölgt.» Detta argument övertygade\"}, {\"bbox\": [615, 1738, 1660, 1801], \"category\": \"Footnote\", \"text\": \"¹ Däremot finnes i K. B. (Papp. fol. 16) en av Stechau gjord kopia av Sotbergs avskrift av Snorres Edda.\"}, {\"bbox\": [620, 1833, 696, 1881], \"category\": \"Page-footer\", \"text\": \"564\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    937,
+    280,
+    1335,
+    317
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    606,
+    348,
+    1656,
+    770
+   ],
+   "category": "Text",
+   "text": "343 b samt slutligen en handskrift i Lunds bibliotek, som Brocman 1752 fått i Köpenhamn, troligen ock en av Thorvaldur Brockmann gjord avskrift av Bondes exemplar. Dessutom hade han sett — om än icke begagnat — tre andra handskrifter (väl de av Olson som A. C. och L. betecknade), och för sin text hade han således ett mera omfattande material än det, över vilket hans svenska föregångare, Verelius, Reenhielm och andra vid sina sagoeditioner förfogat, i regeln blott en enda — vanligen sen och dålig — handskrift. Ehuru jag därom ej kan hava något omdöme, torde ock Brocmans text och översättning vara bättre än dessa föregångares."
+  },
+  {
+   "bbox": [
+    609,
+    764,
+    1658,
+    1102
+   ],
+   "category": "Text",
+   "text": "Upplagan var antikvitetsarkivets sista försök att upprätthålla den isländska traditionen från 1600-talet, och som man kunnat vänta hade uppslaget kommit från Gustaf Bonde, vilket Brocman även i företalet erkände. Någon efterföljd fick detta uppslag dock icke. Som vi sett (sid. 501 och 505) uppgiver väl Brocman, att hans halvbror Stechau förberett upplagor av Slisa-Hróas þáttr och Sigmundar þáttr Brestissonar, men dessa hava i varje fall ej utgivits och något manuskript finnes veterligen ej kvar.¹"
+  },
+  {
+   "bbox": [
+    611,
+    1094,
+    1661,
+    1722
+   ],
+   "category": "Text",
+   "text": "Den inledning, som Brocman satt i spetsen för sin upplaga och vari han vill bevisa sagans trovärdighet, är visserligen ej rudbeckiansk, men likväl ett ganska underhaltigt specimen. För övrigt bör man veta — skriver han — »at mycket uti åtskilliga wære Förfäders Minnen, som nu för oss kan synas otroligt, uti sin Tid och sit rätta Förstånd warit för de wettigare icke allenast nog begripligt, utan ock i Stora Gärningars Qwäden eller deras poetiska Beröm helt nödwändigt för at ännu mera uphöja dem öfwer en grof Allmoges Förundran. Härifrån leda oförnekligen de faseliga Drakar och Ormar, Resar med deras underliga åthäfwor sin Uprinnelse, och är nästan handgripligt, at i Början intet annat än gryma, starka, stora, mägtiga och sluga Människor under slike Figurer blifwit beteknade, fastän en mera fåkunnig Tid sedermera, kanske utan någon Eftertanke och blott af en Wana, sina Sagor med en för oss så litet behaglig Smink öfwerhölgt.» Detta argument övertygade"
+  },
+  {
+   "bbox": [
+    615,
+    1738,
+    1660,
+    1801
+   ],
+   "category": "Footnote",
+   "text": "¹ Däremot finnes i K. B. (Papp. fol. 16) en av Stechau gjord kopia av Sotbergs avskrift av Snorres Edda."
+  },
+  {
+   "bbox": [
+    620,
+    1833,
+    696,
+    1881
+   ],
+   "category": "Page-footer",
+   "text": "564"
+  }
+ ]
+}

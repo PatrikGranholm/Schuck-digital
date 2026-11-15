@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 624,
+ "seconds": 28.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [356, 254, 865, 300], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivets skrifter\"}, {\"bbox\": [85, 323, 1133, 908], \"category\": \"Text\", \"text\": \"Stenhagen, att sedan Mindre Secreta Deputation begärt Collegii utlåtande öfwer Swea Rikes Historias fortsättande och Kongl. Collegium igenom bref till Hans Excellence Herr Riks Rådet Baron Hiärne såsom Cantzler för Lunds Academie inhämtadt, huruwida Historiarum Professor därstädes, Swen Bring, kunde sig sådant åtaga; äfwensom Collegium låtit igenom förberörde Secreterare infordra RiksHistoriographi CantzliRådet v. Celses utlåtande däröfwer; hade Herr Cantzli Rådet Rabbe tagit Acterne till sig såsom hörande under det Departement, hwilcket är honom in Specie ålagt, och däröfwer skrifteligen författadt dess tanckar, hwilcka han upsatt i forme af ett Projecterat Memorial till Mindre Secreta Deputation, på det i fall Deras Excellencer och Collegium funne för godt att i samma Project ingå, Expeditionen och swaret så mycket snarare må komma till Deputationen att affärdas.\"}, {\"bbox\": [82, 905, 1130, 1776], \"category\": \"Text\", \"text\": \"Bemälte Herr Cantzliråd hade i anledning af Riks Historiographi von Celses fördelagtige anmälan af Amanuensen Loenboms flit och skickelighet, föreslagit, att han, Loenbom, kunde sysslosättas med RiksHistoriens fortsättande under Historiographen v. Celses inseende. Men Deras Excellencer och Kongl. Collegium frucktade, att på detta sättet wärcket icke torde winna det anseende, som wid en Riks Histories författande påsyftas bör, ty ehuru goda egenskaper Loenbom än för sig sjelf äga må och ehuru mycken flit och kundskap han än wid särskilte samlingars utgifwande kunnat berömmeligen ådaga lägga, syntes han dock ej ännu hunnit till den grad af bekantskap ibland In- eller Utrikes Lärde, att ett så stort arbete kan gärna blifwa hans lott, hälst då det förut warit börjadt och författadt af framledne HofCantzleren och Riddaren von Dalin, hwars widsträckta Historiska insigter, lyckliga snille och wackra skrifart giordt de redan utkomne delar af Riks Historien så behagelige och hans namn så agtadt, att man både in- och Utrikes wäntar med upmärksamhet på den, som träder i hans fotspår att fullkomna det återstående af Historien för de senare tidehwarf, då Swea Rikes lustresta(!) Epoquer komma att wisas, så under Konung Gustafs Adolphs dråpeliga Regering som under de därpå följande stora Regenter.\"}, {\"bbox\": [1048, 1821, 1121, 1858], \"category\": \"Page-footer\", \"text\": \"595\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    356,
+    254,
+    865,
+    300
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivets skrifter"
+  },
+  {
+   "bbox": [
+    85,
+    323,
+    1133,
+    908
+   ],
+   "category": "Text",
+   "text": "Stenhagen, att sedan Mindre Secreta Deputation begärt Collegii utlåtande öfwer Swea Rikes Historias fortsättande och Kongl. Collegium igenom bref till Hans Excellence Herr Riks Rådet Baron Hiärne såsom Cantzler för Lunds Academie inhämtadt, huruwida Historiarum Professor därstädes, Swen Bring, kunde sig sådant åtaga; äfwensom Collegium låtit igenom förberörde Secreterare infordra RiksHistoriographi CantzliRådet v. Celses utlåtande däröfwer; hade Herr Cantzli Rådet Rabbe tagit Acterne till sig såsom hörande under det Departement, hwilcket är honom in Specie ålagt, och däröfwer skrifteligen författadt dess tanckar, hwilcka han upsatt i forme af ett Projecterat Memorial till Mindre Secreta Deputation, på det i fall Deras Excellencer och Collegium funne för godt att i samma Project ingå, Expeditionen och swaret så mycket snarare må komma till Deputationen att affärdas."
+  },
+  {
+   "bbox": [
+    82,
+    905,
+    1130,
+    1776
+   ],
+   "category": "Text",
+   "text": "Bemälte Herr Cantzliråd hade i anledning af Riks Historiographi von Celses fördelagtige anmälan af Amanuensen Loenboms flit och skickelighet, föreslagit, att han, Loenbom, kunde sysslosättas med RiksHistoriens fortsättande under Historiographen v. Celses inseende. Men Deras Excellencer och Kongl. Collegium frucktade, att på detta sättet wärcket icke torde winna det anseende, som wid en Riks Histories författande påsyftas bör, ty ehuru goda egenskaper Loenbom än för sig sjelf äga må och ehuru mycken flit och kundskap han än wid särskilte samlingars utgifwande kunnat berömmeligen ådaga lägga, syntes han dock ej ännu hunnit till den grad af bekantskap ibland In- eller Utrikes Lärde, att ett så stort arbete kan gärna blifwa hans lott, hälst då det förut warit börjadt och författadt af framledne HofCantzleren och Riddaren von Dalin, hwars widsträckta Historiska insigter, lyckliga snille och wackra skrifart giordt de redan utkomne delar af Riks Historien så behagelige och hans namn så agtadt, att man både in- och Utrikes wäntar med upmärksamhet på den, som träder i hans fotspår att fullkomna det återstående af Historien för de senare tidehwarf, då Swea Rikes lustresta(!) Epoquer komma att wisas, så under Konung Gustafs Adolphs dråpeliga Regering som under de därpå följande stora Regenter."
+  },
+  {
+   "bbox": [
+    1048,
+    1821,
+    1121,
+    1858
+   ],
+   "category": "Page-footer",
+   "text": "595"
+  }
+ ]
+}

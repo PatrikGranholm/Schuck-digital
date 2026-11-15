@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 228,
+ "seconds": 30.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [176, 250, 1041, 292], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet och Biblioteket 1751—1766\"}, {\"bbox\": [81, 320, 1135, 611], \"category\": \"Text\", \"text\": \"gällande, näml. at Wilde nyligen jämte Bibliothecarie förwaltningen blifwit updragit at wara Cantzlie Rådet von Oelreich til biträde wid Censuren enl. Kongl. Brefwet af d. 26 sistl. Junii, i följe hwaraf han icke så ständigt kan wara wid Bibliothequet tilstädes. Och i anseende härtil beslöt Collegium at låta afgå underdånigt hemställande, att Collegium måtte få befalning at med ordenteliget förslag til denna Extra ord:e Bibliothecarie syssla inkomma.»\"}, {\"bbox\": [83, 611, 1135, 729], \"category\": \"Text\", \"text\": \"Det kungliga svaret kom den 9 december, då Wilde förklarades vara ordinarie bibliotekarie och då kanslikollegiets framställning om tillsättandet av en e. o. bibliotekarie bifölls.\"}, {\"bbox\": [83, 735, 1137, 1772], \"category\": \"Text\", \"text\": \"Bland dem, som anmält sig till platsen efter Celsius, hade även varit en bland frihetstidens sämst kände skandalskrivare och partihantlangare, Daniel Helsingius, och i ansökningshandlingen (Kanslikoll. Inkomna skrivelser sign. E IV. 13) har han anfört sin meritlista, som egentligen visar, att han saknade all vetenskaplig kompetens: »Wid förslagets uprättande til det genom RiksHistoriographi Herr Celsii befordran ledig blefne Bibliothecarie sysslan wid Kongl. Bibliothequet anhåller hos Edre Excellencer och Höglofl. Kongl. Cancellie Collegium iag underdån-ödmiukast, at ett Rum therå nådgunstigast mig förunnas må. — — — — — — Effter 2 wid Åbo och theruppå 13 samfälte års wid Upsala academie idkade studier inhämtad färdighet i åtskillige fremmande språk samt i synnerhet å sednare orten ådagalagda flera offenteliga prof af framsteg har iag i 11 år dels som Extra ord. Notarius i Kgl. may:ts Slots-Rätt och Cancellie, dels ock som ordinarius på det förra stället med wederbörandes nöje ensam förestått Expeditionerne ej mindre än protocollet, till dess effter äskad dimission iag then samma för någon tid tillbaka erhöll med ingen annan förmån än det blotta förbehåll at til godo njuta mina arbetsår och wid yppad anständig ledighet få gå i tienst åter. Och har under hela denna tid åhågan för bokl. wetenskaper så litet hos mig aftagit, at de twert om under et tröttsamt protocolls arbete, flere widrige motkast och en sparsammare lycka warit min mästa upmuntran, förnemsta tidsfördrif och nöjdaste följeslagare. Får jag således wid detta tilfelle och sedan Riksens Höglofl. Ständers ej mindre öma än underdåniga föreskrift hos Hans Kongl. Maye-\"}, {\"bbox\": [1143, 735, 1276, 822], \"category\": \"Text\", \"text\": \"Helsingius\\nblir e. o.\\nbibliotekarie\"}, {\"bbox\": [1056, 1808, 1127, 1836], \"category\": \"Page-footer\", \"text\": \"211\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    176,
+    250,
+    1041,
+    292
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet och Biblioteket 1751—1766"
+  },
+  {
+   "bbox": [
+    81,
+    320,
+    1135,
+    611
+   ],
+   "category": "Text",
+   "text": "gällande, näml. at Wilde nyligen jämte Bibliothecarie förwaltningen blifwit updragit at wara Cantzlie Rådet von Oelreich til biträde wid Censuren enl. Kongl. Brefwet af d. 26 sistl. Junii, i följe hwaraf han icke så ständigt kan wara wid Bibliothequet tilstädes. Och i anseende härtil beslöt Collegium at låta afgå underdånigt hemställande, att Collegium måtte få befalning at med ordenteliget förslag til denna Extra ord:e Bibliothecarie syssla inkomma.»"
+  },
+  {
+   "bbox": [
+    83,
+    611,
+    1135,
+    729
+   ],
+   "category": "Text",
+   "text": "Det kungliga svaret kom den 9 december, då Wilde förklarades vara ordinarie bibliotekarie och då kanslikollegiets framställning om tillsättandet av en e. o. bibliotekarie bifölls."
+  },
+  {
+   "bbox": [
+    83,
+    735,
+    1137,
+    1772
+   ],
+   "category": "Text",
+   "text": "Bland dem, som anmält sig till platsen efter Celsius, hade även varit en bland frihetstidens sämst kände skandalskrivare och partihantlangare, Daniel Helsingius, och i ansökningshandlingen (Kanslikoll. Inkomna skrivelser sign. E IV. 13) har han anfört sin meritlista, som egentligen visar, att han saknade all vetenskaplig kompetens: »Wid förslagets uprättande til det genom RiksHistoriographi Herr Celsii befordran ledig blefne Bibliothecarie sysslan wid Kongl. Bibliothequet anhåller hos Edre Excellencer och Höglofl. Kongl. Cancellie Collegium iag underdån-ödmiukast, at ett Rum therå nådgunstigast mig förunnas må. — — — — — — Effter 2 wid Åbo och theruppå 13 samfälte års wid Upsala academie idkade studier inhämtad färdighet i åtskillige fremmande språk samt i synnerhet å sednare orten ådagalagda flera offenteliga prof af framsteg har iag i 11 år dels som Extra ord. Notarius i Kgl. may:ts Slots-Rätt och Cancellie, dels ock som ordinarius på det förra stället med wederbörandes nöje ensam förestått Expeditionerne ej mindre än protocollet, till dess effter äskad dimission iag then samma för någon tid tillbaka erhöll med ingen annan förmån än det blotta förbehåll at til godo njuta mina arbetsår och wid yppad anständig ledighet få gå i tienst åter. Och har under hela denna tid åhågan för bokl. wetenskaper så litet hos mig aftagit, at de twert om under et tröttsamt protocolls arbete, flere widrige motkast och en sparsammare lycka warit min mästa upmuntran, förnemsta tidsfördrif och nöjdaste följeslagare. Får jag således wid detta tilfelle och sedan Riksens Höglofl. Ständers ej mindre öma än underdåniga föreskrift hos Hans Kongl. Maye-"
+  },
+  {
+   "bbox": [
+    1143,
+    735,
+    1276,
+    822
+   ],
+   "category": "Text",
+   "text": "Helsingius\nblir e. o.\nbibliotekarie"
+  },
+  {
+   "bbox": [
+    1056,
+    1808,
+    1127,
+    1836
+   ],
+   "category": "Page-footer",
+   "text": "211"
+  }
+ ]
+}

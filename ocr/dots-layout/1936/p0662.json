@@ -1,0 +1,31 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 662,
+ "seconds": 9.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [122, 395, 1097, 1586], \"category\": \"Picture\"}, {\"bbox\": [306, 1632, 891, 1718], \"category\": \"Caption\", \"text\": \"GUDMUND GÖRAN ADLERBETH\\nOljemålning av L. Pasch d. y. 1780 (Gripsholm).\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    122,
+    395,
+    1097,
+    1586
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    306,
+    1632,
+    891,
+    1718
+   ],
+   "category": "Caption",
+   "text": "GUDMUND GÖRAN ADLERBETH\nOljemålning av L. Pasch d. y. 1780 (Gripsholm)."
+  }
+ ]
+}

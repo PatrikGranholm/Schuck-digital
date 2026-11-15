@@ -1,0 +1,142 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 383,
+ "seconds": 33.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [892, 262, 1298, 299], \"category\": \"Section-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [564, 331, 1616, 458], \"category\": \"Text\", \"text\": \"finnes i Vitterhets-, Historie- och Antikvitetsakademien, förtjänar därför att här avtryckas. Tillägg, nedskrivna efter Berchs tid, äro här tryckta med mindre stil.\"}, {\"bbox\": [1004, 475, 1188, 519], \"category\": \"Section-header\", \"text\": \"Upteckning\"}, {\"bbox\": [603, 527, 1572, 567], \"category\": \"Text\", \"text\": \"på de uti Kongl. Antiqv. Archivo förwarade gamla Minnesmärcken.\"}, {\"bbox\": [724, 576, 1454, 614], \"category\": \"Text\", \"text\": \"[af Berch och Adlerbeth med Anmärkningar af desamma.]\"}, {\"bbox\": [564, 626, 1616, 812], \"category\": \"Table\", \"text\": \"<table><tr><td>Ifrån Hedendomen, och äldsta tider</td><td>p. 1.</td></tr><tr><td>Lapparnes trummor och Afgudar</td><td>p. 3.</td></tr><tr><td>Run-stafwar af åtskillig skapnad</td><td>p. 5 Seqq.</td></tr><tr><td>Påfwedömets Reliqvier</td><td>13.</td></tr><tr><td>Kyrckio-käril</td><td>15.</td></tr></table>\"}, {\"bbox\": [564, 828, 776, 868], \"category\": \"Section-header\", \"text\": \"Krigs rustning\"}, {\"bbox\": [617, 866, 1531, 1189], \"category\": \"Table\", \"text\": \"<table><tr><td>Swärd</td><td>19.</td></tr><tr><td>Stridz-hamrar</td><td>22.</td></tr><tr><td>Spiut</td><td>23.</td></tr><tr><td>Bogar</td><td>24.</td></tr><tr><td>Pijlar</td><td>24.</td></tr><tr><td>Harnesk</td><td>25.</td></tr><tr><td>Hielmar</td><td>25.</td></tr><tr><td>Sporrar</td><td>26.</td></tr><tr><td>Häst-monderingar</td><td>28.</td></tr></table>\"}, {\"bbox\": [564, 1207, 713, 1246], \"category\": \"Section-header\", \"text\": \"Prydnader\"}, {\"bbox\": [617, 1244, 1531, 1497], \"category\": \"Table\", \"text\": \"<table><tr><td>Hals- och Arm-smiden</td><td>29.</td></tr><tr><td>Finger-ringar</td><td>35.</td></tr><tr><td>Örhängen och Kedjor</td><td>38.</td></tr><tr><td>Spännen</td><td>39.</td></tr><tr><td>Beslag och Pucklor</td><td>40.</td></tr><tr><td>Knappar</td><td>41.</td></tr><tr><td>K. Gustaf Ericsons Käpp</td><td>ib.</td></tr></table>\"}, {\"bbox\": [564, 1502, 1531, 1722], \"category\": \"Table\", \"text\": \"<table><tr><td>Mat- och Drycks Käril</td><td>43.</td></tr><tr><td>Knifwar, Yxor och annan Redskap</td><td>46.</td></tr><tr><td>Okände Saker</td><td>48.</td></tr><tr><td>Sigiller</td><td>49.</td></tr><tr><td>Målningar</td><td>57.</td></tr><tr><td>Åtskilligt, som egentel:n icke hörer til Swenska Antiqviteterna</td><td>59.</td></tr></table>\"}, {\"bbox\": [469, 1746, 1618, 1787], \"category\": \"Footnote\", \"text\": \"[1686] [1.] Öfwerlefwor effter Biörkö-stad bestående uti stora Portnaglar af jern,\"}, {\"bbox\": [568, 1811, 644, 1858], \"category\": \"Page-footer\", \"text\": \"364\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    892,
+    262,
+    1298,
+    299
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    564,
+    331,
+    1616,
+    458
+   ],
+   "category": "Text",
+   "text": "finnes i Vitterhets-, Historie- och Antikvitetsakademien, förtjänar därför att här avtryckas. Tillägg, nedskrivna efter Berchs tid, äro här tryckta med mindre stil."
+  },
+  {
+   "bbox": [
+    1004,
+    475,
+    1188,
+    519
+   ],
+   "category": "Section-header",
+   "text": "Upteckning"
+  },
+  {
+   "bbox": [
+    603,
+    527,
+    1572,
+    567
+   ],
+   "category": "Text",
+   "text": "på de uti Kongl. Antiqv. Archivo förwarade gamla Minnesmärcken."
+  },
+  {
+   "bbox": [
+    724,
+    576,
+    1454,
+    614
+   ],
+   "category": "Text",
+   "text": "[af Berch och Adlerbeth med Anmärkningar af desamma.]"
+  },
+  {
+   "bbox": [
+    564,
+    626,
+    1616,
+    812
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>Ifrån Hedendomen, och äldsta tider</td><td>p. 1.</td></tr><tr><td>Lapparnes trummor och Afgudar</td><td>p. 3.</td></tr><tr><td>Run-stafwar af åtskillig skapnad</td><td>p. 5 Seqq.</td></tr><tr><td>Påfwedömets Reliqvier</td><td>13.</td></tr><tr><td>Kyrckio-käril</td><td>15.</td></tr></table>"
+  },
+  {
+   "bbox": [
+    564,
+    828,
+    776,
+    868
+   ],
+   "category": "Section-header",
+   "text": "Krigs rustning"
+  },
+  {
+   "bbox": [
+    617,
+    866,
+    1531,
+    1189
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>Swärd</td><td>19.</td></tr><tr><td>Stridz-hamrar</td><td>22.</td></tr><tr><td>Spiut</td><td>23.</td></tr><tr><td>Bogar</td><td>24.</td></tr><tr><td>Pijlar</td><td>24.</td></tr><tr><td>Harnesk</td><td>25.</td></tr><tr><td>Hielmar</td><td>25.</td></tr><tr><td>Sporrar</td><td>26.</td></tr><tr><td>Häst-monderingar</td><td>28.</td></tr></table>"
+  },
+  {
+   "bbox": [
+    564,
+    1207,
+    713,
+    1246
+   ],
+   "category": "Section-header",
+   "text": "Prydnader"
+  },
+  {
+   "bbox": [
+    617,
+    1244,
+    1531,
+    1497
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>Hals- och Arm-smiden</td><td>29.</td></tr><tr><td>Finger-ringar</td><td>35.</td></tr><tr><td>Örhängen och Kedjor</td><td>38.</td></tr><tr><td>Spännen</td><td>39.</td></tr><tr><td>Beslag och Pucklor</td><td>40.</td></tr><tr><td>Knappar</td><td>41.</td></tr><tr><td>K. Gustaf Ericsons Käpp</td><td>ib.</td></tr></table>"
+  },
+  {
+   "bbox": [
+    564,
+    1502,
+    1531,
+    1722
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>Mat- och Drycks Käril</td><td>43.</td></tr><tr><td>Knifwar, Yxor och annan Redskap</td><td>46.</td></tr><tr><td>Okände Saker</td><td>48.</td></tr><tr><td>Sigiller</td><td>49.</td></tr><tr><td>Målningar</td><td>57.</td></tr><tr><td>Åtskilligt, som egentel:n icke hörer til Swenska Antiqviteterna</td><td>59.</td></tr></table>"
+  },
+  {
+   "bbox": [
+    469,
+    1746,
+    1618,
+    1787
+   ],
+   "category": "Footnote",
+   "text": "[1686] [1.] Öfwerlefwor effter Biörkö-stad bestående uti stora Portnaglar af jern,"
+  },
+  {
+   "bbox": [
+    568,
+    1811,
+    644,
+    1858
+   ],
+   "category": "Page-footer",
+   "text": "364"
+  }
+ ]
+}

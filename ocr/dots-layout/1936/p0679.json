@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 679,
+ "seconds": 30.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [855, 271, 1250, 307], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [524, 341, 1570, 674], \"category\": \"Text\", \"text\": \"enligt Bokhållarens Falkensons upgift, behållningen i Archivi Cassa wid detta års ingång war 586 Riksdaler 12 Skill. 11 runst. eller 10,552 Daler kopp:mt 27 öre; så är wäl ingen twifwel, at ju Förlagskostnaden deraf kan bestridas, då wilkoren med Boktryckaren betingas lika som förr. Det torde dock wara rådligast at genom prénumerationer äfwen denne gången samla tilgång, hwartil Sommar-månaderne kunde anwändas, til dess man i höst blefwe i stånd at föranstalta sjelfwa tryckningen.\"}, {\"bbox\": [522, 674, 1569, 1170], \"category\": \"Text\", \"text\": \"Men om Edre Excellencer och Höglofl. Kongl. Collegium pröfwar skäligt, at archivet til mer eller mindre del kommer at widkännas Förlags-kostnaden, vågar jag i ödmjukhet anhålla, det uttryckeligen stadgas må, at den om archivets Förlagsböckers aflämnande til Kongl. Bibliotheket widtagne Förfatning icke må sträckas til denna andra delen, såsom med den förra skedt, hwaraf alla de oförsålde Exemplaren (några få undantagne, för hwilka Boktryckaren Lange kommer at göra räkning) blifwit lefwererade til bemälte Bibliothek, at til dess förmån försäljas. Antiquitets archivet skulle derwid framdeles altförmycket komma til korta, och tyckes det wara hårdt, om det ena publique werket med sin kostnad och förlust skulle bidraga til det andras winst.\"}, {\"bbox\": [558, 1175, 1052, 1219], \"category\": \"Text\", \"text\": \"Stockholm den 23 Martii 1779.\"}, {\"bbox\": [1296, 1220, 1531, 1254], \"category\": \"Text\", \"text\": \"G. Adlerbeth.»\"}, {\"bbox\": [520, 1292, 1566, 1790], \"category\": \"Text\", \"text\": \"»Kongl. Collegium hade ej något att påminna, hwad sjelfwa tryckningen och utgifwandet widkommer, utan befaltes, att följande utdrag utur Protocollet härom skulle utfärdas, men hwad den härwid förefallande kostnad angår, så fant Kongl. Collegium nödigt at häröfwer af Secreteraren och Riksantiquarien inhämta närmare underrättelse» (Kanslikoll. prot. 23 mars 1779). Då ärendet ånyo förekom den 27 april, begärde kollegiet närmare upplysning om Adlerbeths för kollegiet dunkla uppgift om antikvitetsarkivets bokförlag: »Widare tilfrågades Secreteraren, på hwad grund han uti sitt memorial af den 23 sistledne Martii angående tryckningen af andra delen af framledne Herr Cantzli Rådet Berchs Lefwernesbeskrifningar öfwer namnkunnige swenske män och fruentimmer anfördt, att alla de\"}, {\"bbox\": [522, 1817, 595, 1862], \"category\": \"Page-footer\", \"text\": \"648\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    855,
+    271,
+    1250,
+    307
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    524,
+    341,
+    1570,
+    674
+   ],
+   "category": "Text",
+   "text": "enligt Bokhållarens Falkensons upgift, behållningen i Archivi Cassa wid detta års ingång war 586 Riksdaler 12 Skill. 11 runst. eller 10,552 Daler kopp:mt 27 öre; så är wäl ingen twifwel, at ju Förlagskostnaden deraf kan bestridas, då wilkoren med Boktryckaren betingas lika som förr. Det torde dock wara rådligast at genom prénumerationer äfwen denne gången samla tilgång, hwartil Sommar-månaderne kunde anwändas, til dess man i höst blefwe i stånd at föranstalta sjelfwa tryckningen."
+  },
+  {
+   "bbox": [
+    522,
+    674,
+    1569,
+    1170
+   ],
+   "category": "Text",
+   "text": "Men om Edre Excellencer och Höglofl. Kongl. Collegium pröfwar skäligt, at archivet til mer eller mindre del kommer at widkännas Förlags-kostnaden, vågar jag i ödmjukhet anhålla, det uttryckeligen stadgas må, at den om archivets Förlagsböckers aflämnande til Kongl. Bibliotheket widtagne Förfatning icke må sträckas til denna andra delen, såsom med den förra skedt, hwaraf alla de oförsålde Exemplaren (några få undantagne, för hwilka Boktryckaren Lange kommer at göra räkning) blifwit lefwererade til bemälte Bibliothek, at til dess förmån försäljas. Antiquitets archivet skulle derwid framdeles altförmycket komma til korta, och tyckes det wara hårdt, om det ena publique werket med sin kostnad och förlust skulle bidraga til det andras winst."
+  },
+  {
+   "bbox": [
+    558,
+    1175,
+    1052,
+    1219
+   ],
+   "category": "Text",
+   "text": "Stockholm den 23 Martii 1779."
+  },
+  {
+   "bbox": [
+    1296,
+    1220,
+    1531,
+    1254
+   ],
+   "category": "Text",
+   "text": "G. Adlerbeth.»"
+  },
+  {
+   "bbox": [
+    520,
+    1292,
+    1566,
+    1790
+   ],
+   "category": "Text",
+   "text": "»Kongl. Collegium hade ej något att påminna, hwad sjelfwa tryckningen och utgifwandet widkommer, utan befaltes, att följande utdrag utur Protocollet härom skulle utfärdas, men hwad den härwid förefallande kostnad angår, så fant Kongl. Collegium nödigt at häröfwer af Secreteraren och Riksantiquarien inhämta närmare underrättelse» (Kanslikoll. prot. 23 mars 1779). Då ärendet ånyo förekom den 27 april, begärde kollegiet närmare upplysning om Adlerbeths för kollegiet dunkla uppgift om antikvitetsarkivets bokförlag: »Widare tilfrågades Secreteraren, på hwad grund han uti sitt memorial af den 23 sistledne Martii angående tryckningen af andra delen af framledne Herr Cantzli Rådet Berchs Lefwernesbeskrifningar öfwer namnkunnige swenske män och fruentimmer anfördt, att alla de"
+  },
+  {
+   "bbox": [
+    522,
+    1817,
+    595,
+    1862
+   ],
+   "category": "Page-footer",
+   "text": "648"
+  }
+ ]
+}

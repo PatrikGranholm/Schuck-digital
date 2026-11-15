@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 113,
+ "seconds": 29.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [888, 249, 1285, 285], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [557, 320, 1605, 611], \"category\": \"Text\", \"text\": \"byggningar, gewär och annan redskap, jemwäl åtskilligt uti den gamla Geographien och om orternas förra namn med mera, af hwilka alt utdrag och öfwersättningar böra göras. Som han utom göthiskan och Isländskan bör förstå de öfriga gamla språken, som hafwa gemenskap med det swenska såsom gamla Tyskan och Engelskan, så är det ock uti hans ämne at författa och utgifwa något wärk om dessa språkens Harmonie.\"}, {\"bbox\": [555, 610, 1605, 1100], \"category\": \"Text\", \"text\": \"Den fjerde Bibliothecarien har under sin wård alla gamla permebref, som antingen redan äro afskrefne eller hädanefter böra afskrifwas in extenso eller, om innehållet ej är desto angelägnare, allenast extractwis. Utur Konungabrefwen, Påfwarnas bullor, Klosterdom- och bytesbref har han at söka och det allmänna meddela uplysningar uti inrikes författningar, förbund med främmande makter, kyrkohistorien, om adelige godsens öden och Genealogier med mera. Han har ock at författa något uti Diplomatiquen eller om de gamlas sätt at skrifwa, på det denna wetenskap att läsa de gamla skrifter och permebref icke må wara bunden wid några få personers lifstid utan hafwa sina beskrefne reglor, hwarigenom den kan öfwerlemnas de efterkommande.\"}, {\"bbox\": [555, 1106, 1604, 1223], \"category\": \"Text\", \"text\": \"Honom tilkommer ock at göra beskrifningar om de Kongl. grafwarne, hwilka mycken uplysning uti de äldre tiders historia gifwa kunna.\"}, {\"bbox\": [555, 1229, 1602, 1306], \"category\": \"Text\", \"text\": \"Till den femte Bibliothecariens förwar höra alla mynten och ibland dem:\"}, {\"bbox\": [555, 1312, 1604, 1637], \"category\": \"Text\", \"text\": \"*De romerska.* At göra öfwer dem några Commentarier, det är öfwerflödigt i anseende til den myckenhet autorer, man uti detta ämne hafwer, så framt icke någre mynt torde wara deribland, hwilka uti böckerna icke finnas omrörde och på sådan händelse förtjena afritas och förklaras. Wid de öfrige är nog, om allenast uti Cataloguen antecknadt warder, uti hwilka böcker hwar och en finnes beskrifwen. Många hufwuden felas ännu uti bem:te sviter, hwilka böra efterletas.\"}, {\"bbox\": [555, 1642, 1602, 1769], \"category\": \"Text\", \"text\": \"*De swenska.* Denne samling bör efter hand ökas och beskrifwas, och måste han låta sig angeläget wara at förnämligast undersöka dessa penningars inwärtes godhet, hwad de hafwa gullit, huru de blifwit\"}, {\"bbox\": [557, 1795, 607, 1842], \"category\": \"Page-footer\", \"text\": \"96\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    888,
+    249,
+    1285,
+    285
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    557,
+    320,
+    1605,
+    611
+   ],
+   "category": "Text",
+   "text": "byggningar, gewär och annan redskap, jemwäl åtskilligt uti den gamla Geographien och om orternas förra namn med mera, af hwilka alt utdrag och öfwersättningar böra göras. Som han utom göthiskan och Isländskan bör förstå de öfriga gamla språken, som hafwa gemenskap med det swenska såsom gamla Tyskan och Engelskan, så är det ock uti hans ämne at författa och utgifwa något wärk om dessa språkens Harmonie."
+  },
+  {
+   "bbox": [
+    555,
+    610,
+    1605,
+    1100
+   ],
+   "category": "Text",
+   "text": "Den fjerde Bibliothecarien har under sin wård alla gamla permebref, som antingen redan äro afskrefne eller hädanefter böra afskrifwas in extenso eller, om innehållet ej är desto angelägnare, allenast extractwis. Utur Konungabrefwen, Påfwarnas bullor, Klosterdom- och bytesbref har han at söka och det allmänna meddela uplysningar uti inrikes författningar, förbund med främmande makter, kyrkohistorien, om adelige godsens öden och Genealogier med mera. Han har ock at författa något uti Diplomatiquen eller om de gamlas sätt at skrifwa, på det denna wetenskap att läsa de gamla skrifter och permebref icke må wara bunden wid några få personers lifstid utan hafwa sina beskrefne reglor, hwarigenom den kan öfwerlemnas de efterkommande."
+  },
+  {
+   "bbox": [
+    555,
+    1106,
+    1604,
+    1223
+   ],
+   "category": "Text",
+   "text": "Honom tilkommer ock at göra beskrifningar om de Kongl. grafwarne, hwilka mycken uplysning uti de äldre tiders historia gifwa kunna."
+  },
+  {
+   "bbox": [
+    555,
+    1229,
+    1602,
+    1306
+   ],
+   "category": "Text",
+   "text": "Till den femte Bibliothecariens förwar höra alla mynten och ibland dem:"
+  },
+  {
+   "bbox": [
+    555,
+    1312,
+    1604,
+    1637
+   ],
+   "category": "Text",
+   "text": "*De romerska.* At göra öfwer dem några Commentarier, det är öfwerflödigt i anseende til den myckenhet autorer, man uti detta ämne hafwer, så framt icke någre mynt torde wara deribland, hwilka uti böckerna icke finnas omrörde och på sådan händelse förtjena afritas och förklaras. Wid de öfrige är nog, om allenast uti Cataloguen antecknadt warder, uti hwilka böcker hwar och en finnes beskrifwen. Många hufwuden felas ännu uti bem:te sviter, hwilka böra efterletas."
+  },
+  {
+   "bbox": [
+    555,
+    1642,
+    1602,
+    1769
+   ],
+   "category": "Text",
+   "text": "*De swenska.* Denne samling bör efter hand ökas och beskrifwas, och måste han låta sig angeläget wara at förnämligast undersöka dessa penningars inwärtes godhet, hwad de hafwa gullit, huru de blifwit"
+  },
+  {
+   "bbox": [
+    557,
+    1795,
+    607,
+    1842
+   ],
+   "category": "Page-footer",
+   "text": "96"
+  }
+ ]
+}

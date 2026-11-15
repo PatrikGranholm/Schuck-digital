@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 703,
+ "seconds": 26.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [813, 553, 1328, 589], \"category\": \"Section-header\", \"text\": \"VITTERHETSAKADEMIEN.\"}, {\"bbox\": [413, 672, 539, 735], \"category\": \"Text\", \"text\": \"Akademiens\\nförebilder\"}, {\"bbox\": [543, 664, 1597, 1737], \"category\": \"Text\", \"text\": \"Om man frånser drottning Kristina, var Lovisa Ulrika den första svenska monark, som hade några utpräglade vetenskapliga och litterära intressen, och för så vitt det under frihetstiden fanns någon konungamakt, utövades denna snarare av Lovisa Ulrika än av den beskedlige Adolf Fredrik. Utan tvivel måste hon räknas till kretsen av tidens upplysningsmonarker. Hon brevväxlade med Voltaire, hennes närmaste vän under den första tiden var den fint bildade Carl Gustaf Tessin, Linné ordnade hennes naturvetenskapliga samlingar, Berch hennes numismatiska, och poeten och rolighetsministern vid hennes hov var Olof Dalin. Att hon bildade vår första vittra akademi, var därför ej förvånande. Det är väl icke sannolikt, att hon känt till, att hennes föregångerska drottning Kristina vid sitt hov också haft en akademi, och i varje fall kom hon på samma idé. Den närmaste väckelsen hade hon med all sannolikhet fått från den krets av lärde, med vilken hennes bror, Fredrik den andre, omgav sig, och hennes akademi var nog av henne själv närmast avsedd att bliva en dylik litterär hovcirkel. Att denna fick formen av en akademi, berodde kanske därpå, att hon därigenom ville giva den en högre dignitet, kanske också på hennes önskan att därifrån utesluta den eljest självskrivne Tessin, som nu blivit hennes fiende, och att på så sätt giva den forne gunstlingen ett nålstygn. Möjligen har det varit hennes vän baron Hårleman, som ingivit henne tanken på den akademiska formen. Han hade länge vistats i Paris och kände till de olika franska akademierna, och det var i varje fall han, som fick i uppdrag att utarbeta statuterna för den akademi, som drottningen ville bilda.\"}, {\"bbox\": [582, 1741, 1594, 1786], \"category\": \"Text\", \"text\": \"Om förebilden kan man ej tveka. Denna har icke varit akademien\"}, {\"bbox\": [547, 1814, 623, 1861], \"category\": \"Page-footer\", \"text\": \"672\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    813,
+    553,
+    1328,
+    589
+   ],
+   "category": "Section-header",
+   "text": "VITTERHETSAKADEMIEN."
+  },
+  {
+   "bbox": [
+    413,
+    672,
+    539,
+    735
+   ],
+   "category": "Text",
+   "text": "Akademiens\nförebilder"
+  },
+  {
+   "bbox": [
+    543,
+    664,
+    1597,
+    1737
+   ],
+   "category": "Text",
+   "text": "Om man frånser drottning Kristina, var Lovisa Ulrika den första svenska monark, som hade några utpräglade vetenskapliga och litterära intressen, och för så vitt det under frihetstiden fanns någon konungamakt, utövades denna snarare av Lovisa Ulrika än av den beskedlige Adolf Fredrik. Utan tvivel måste hon räknas till kretsen av tidens upplysningsmonarker. Hon brevväxlade med Voltaire, hennes närmaste vän under den första tiden var den fint bildade Carl Gustaf Tessin, Linné ordnade hennes naturvetenskapliga samlingar, Berch hennes numismatiska, och poeten och rolighetsministern vid hennes hov var Olof Dalin. Att hon bildade vår första vittra akademi, var därför ej förvånande. Det är väl icke sannolikt, att hon känt till, att hennes föregångerska drottning Kristina vid sitt hov också haft en akademi, och i varje fall kom hon på samma idé. Den närmaste väckelsen hade hon med all sannolikhet fått från den krets av lärde, med vilken hennes bror, Fredrik den andre, omgav sig, och hennes akademi var nog av henne själv närmast avsedd att bliva en dylik litterär hovcirkel. Att denna fick formen av en akademi, berodde kanske därpå, att hon därigenom ville giva den en högre dignitet, kanske också på hennes önskan att därifrån utesluta den eljest självskrivne Tessin, som nu blivit hennes fiende, och att på så sätt giva den forne gunstlingen ett nålstygn. Möjligen har det varit hennes vän baron Hårleman, som ingivit henne tanken på den akademiska formen. Han hade länge vistats i Paris och kände till de olika franska akademierna, och det var i varje fall han, som fick i uppdrag att utarbeta statuterna för den akademi, som drottningen ville bilda."
+  },
+  {
+   "bbox": [
+    582,
+    1741,
+    1594,
+    1786
+   ],
+   "category": "Text",
+   "text": "Om förebilden kan man ej tveka. Denna har icke varit akademien"
+  },
+  {
+   "bbox": [
+    547,
+    1814,
+    623,
+    1861
+   ],
+   "category": "Page-footer",
+   "text": "672"
+  }
+ ]
+}

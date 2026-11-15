@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 48,
+ "seconds": 30.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [404, 257, 975, 297], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet 1747—1751\"}, {\"bbox\": [167, 325, 1212, 784], \"category\": \"Text\", \"text\": \"Jag bör så mycket mer giöra mig i all underdånighet försäkrad om all den höga nåd, mild förfodran och understöd, som mig styrka kan till att än framgent tiena fäderneslandet, som the grundsatzer, jag menlöst uti bem:te samtal anfördt, blifwit genom Riksdags beslut faststälte och godkiände, hwarföre jag utom allas gemensamma goda wälwilja jemwäl bör hoppas att aldrig få sakna utan fast heller hugnas af all högstpriselig nådigste höga öfwerhetens milda hägn och befordran mig någorlunda till belöning och uphielpande utur förtryck. Hwilket alt hos Hans Kongl. May:t jag jemwäl underdånigst nu anmäla bör, med oaflåtelig underdånödmiuk wördnad» etc. (R. A. Kanslikoll. Inkomna skrivelser sign. E IV. 14).\"}, {\"bbox\": [173, 781, 1218, 1735], \"category\": \"Text\", \"text\": \"Hagelbergs ansökan är vida ärligare. Han åberopar blott sin långa tjänstgöring, sitt behov och lämpligheten av en succession inom verket. Liksom Richardson erbjöd också han sig att till Helin avstå hela lönen: »Sedan det förspörjes, at Kongl. Secreteraren och Antiquarien Hr. Johan Helin hos Ed. Höggrefl. Excellencer och högl. Kongl. Collegium sig anmält til afskedstagande ifrån sin nu innehafwande beställning med halfwa lönens behållande, understår hos Ed. höggrefl. Excellencer och högl. Kgl. Collegium jag mig i diupaste ödmiukhet at bönfalla, det jag wid successionen nådgunstigast må blifwa ihugkommen. Mina ringa förtienster lära igenom förr inlagde suppliquer wara bekante, at de taga sin början ifrån åhr 1719, men wid Kgl. antiquitets Archivum ifrån 1725. Skulle nu någon utom wärket wid detta tilfälle blifwa antingen H. Assessoren Richardsson el. mig föredragen, som bägge wilja ey allenast lemna H. Kongl. Secreteraren Helin hela lönen i sin lifstid i anseende til dess höga ålder och många meriter utan ock försäkra, at sysslan lika fult förswarl. skal blifwa giord, så måste iag såsom ordinarie Embetsman och i touren wid bem:te kgl. antiqv. archivum ewigt sucka wid wår magra utkomst utan hopp at se wåra wilkor någonsin förbättrade. Dock tillåter ey Ed. höggrefl. Excellencers och högl. kgl. Collegii högstberömde justice och nådige benägenhet mig därom på något sätt att twifla» (R. A. Kanslikoll. Inkomna skrivelser sign. E IV. 13).\"}, {\"bbox\": [215, 1733, 1218, 1778], \"category\": \"Text\", \"text\": \"I kanslikollegiet blev behandlingen mycket kortfattad. Proto-\"}, {\"bbox\": [1165, 1810, 1211, 1847], \"category\": \"Page-footer\", \"text\": \"31\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    404,
+    257,
+    975,
+    297
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet 1747—1751"
+  },
+  {
+   "bbox": [
+    167,
+    325,
+    1212,
+    784
+   ],
+   "category": "Text",
+   "text": "Jag bör så mycket mer giöra mig i all underdånighet försäkrad om all den höga nåd, mild förfodran och understöd, som mig styrka kan till att än framgent tiena fäderneslandet, som the grundsatzer, jag menlöst uti bem:te samtal anfördt, blifwit genom Riksdags beslut faststälte och godkiände, hwarföre jag utom allas gemensamma goda wälwilja jemwäl bör hoppas att aldrig få sakna utan fast heller hugnas af all högstpriselig nådigste höga öfwerhetens milda hägn och befordran mig någorlunda till belöning och uphielpande utur förtryck. Hwilket alt hos Hans Kongl. May:t jag jemwäl underdånigst nu anmäla bör, med oaflåtelig underdånödmiuk wördnad» etc. (R. A. Kanslikoll. Inkomna skrivelser sign. E IV. 14)."
+  },
+  {
+   "bbox": [
+    173,
+    781,
+    1218,
+    1735
+   ],
+   "category": "Text",
+   "text": "Hagelbergs ansökan är vida ärligare. Han åberopar blott sin långa tjänstgöring, sitt behov och lämpligheten av en succession inom verket. Liksom Richardson erbjöd också han sig att till Helin avstå hela lönen: »Sedan det förspörjes, at Kongl. Secreteraren och Antiquarien Hr. Johan Helin hos Ed. Höggrefl. Excellencer och högl. Kongl. Collegium sig anmält til afskedstagande ifrån sin nu innehafwande beställning med halfwa lönens behållande, understår hos Ed. höggrefl. Excellencer och högl. Kgl. Collegium jag mig i diupaste ödmiukhet at bönfalla, det jag wid successionen nådgunstigast må blifwa ihugkommen. Mina ringa förtienster lära igenom förr inlagde suppliquer wara bekante, at de taga sin början ifrån åhr 1719, men wid Kgl. antiquitets Archivum ifrån 1725. Skulle nu någon utom wärket wid detta tilfälle blifwa antingen H. Assessoren Richardsson el. mig föredragen, som bägge wilja ey allenast lemna H. Kongl. Secreteraren Helin hela lönen i sin lifstid i anseende til dess höga ålder och många meriter utan ock försäkra, at sysslan lika fult förswarl. skal blifwa giord, så måste iag såsom ordinarie Embetsman och i touren wid bem:te kgl. antiqv. archivum ewigt sucka wid wår magra utkomst utan hopp at se wåra wilkor någonsin förbättrade. Dock tillåter ey Ed. höggrefl. Excellencers och högl. kgl. Collegii högstberömde justice och nådige benägenhet mig därom på något sätt att twifla» (R. A. Kanslikoll. Inkomna skrivelser sign. E IV. 13)."
+  },
+  {
+   "bbox": [
+    215,
+    1733,
+    1218,
+    1778
+   ],
+   "category": "Text",
+   "text": "I kanslikollegiet blev behandlingen mycket kortfattad. Proto-"
+  },
+  {
+   "bbox": [
+    1165,
+    1810,
+    1211,
+    1847
+   ],
+   "category": "Page-footer",
+   "text": "31"
+  }
+ ]
+}

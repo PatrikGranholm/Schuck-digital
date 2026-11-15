@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 285,
+ "seconds": 30.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [891, 252, 1285, 287], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [562, 322, 1611, 689], \"category\": \"Text\", \"text\": \"[en] Copist. Däremot skulle kunna ligga honom i wägen hans nära blodsband med assessor Broocman och det äfwentyrliga præjudicat, om twenne bröder skulle vara vid et wärck, som hädaneffter icke skall bestå af flere än fyra personer, sekreteraren, assessoren och tvenne amanuenser, hvilka desutan böra succedera hvarandra och ingen fremmande tillåtas at sticka sig emellan, hvarutaf hända kunde, at i framtiden, om twenne bröder, mindre redelige än man nu hafver uti herrar Broocman och Stechau, råkade på en gång blifwa förmän, skulle archivum stå uti fara.\"}, {\"bbox\": [562, 694, 1611, 903], \"category\": \"Text\", \"text\": \"Desse considerationer ville man underställa Kongl. Collegii bepröfwande och förklarade sig Berch, at han giärna emottager hwilkendera, antingen Hellman eller Stechau, som Collegium behagar utnämna, så at han för sin del icke en gång wore emot, om lotten giorde utslag.\"}, {\"bbox\": [598, 908, 1049, 949], \"category\": \"Text\", \"text\": \"Stockholm d. 16 Nov. 1767.\"}, {\"bbox\": [719, 996, 1055, 1032], \"category\": \"Text\", \"text\": \"Carl Reinhold Berch.\"}, {\"bbox\": [1176, 949, 1454, 1038], \"category\": \"Text\", \"text\": \"In fidem\\nJ. Ekestubbe.»\"}, {\"bbox\": [562, 1067, 1611, 1315], \"category\": \"Text\", \"text\": \"Protokollet föredrogs, som sagt, den 21 december i kanslikollegiet. Kanslipresidenten var då ej närvarande, utan blott statssekreteraren Benzelstierna och kansliråden Ekestubbe, Lagerflycht, Rabbe, Arnell och Bunge. Diskussionen blev mycket lång och livlig samt slutade — trots kanslirådet Rabbes ingripande — med ett avgjort nederlag för Stechau:\"}, {\"bbox\": [562, 1315, 1611, 1771], \"category\": \"Text\", \"text\": \"»Herr Cantzlie Rådet Ekestubbe upwiste för Kongl. Collegium det Protocoll, som blifwit hållit wid tillfälle af examen med de sökande till den enligit Riksens Ständers författning inrättade vice amanuensis syslan wid antiquitets archivum. Samma Protocoll uplästes och war däraf att intaga, huruledes Lind uti de ärforderlige stycken warit mindre för sig kommen än de bägge öfrige Hellman och Stechau, hwilke undfått därutinnan ett jämngodt och lika hedrande wittnesbörd om förwärfwad insigt och skickelighet. I anledning häraf fann Kongl. Collegium angeläget wara att detta befordringsmål under öfwerläggningen företaga och det så mycket mera, som innewarande år snart wore till ända gångit och i fall af upskof\"}, {\"bbox\": [566, 1798, 639, 1838], \"category\": \"Page-footer\", \"text\": \"268\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    891,
+    252,
+    1285,
+    287
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    562,
+    322,
+    1611,
+    689
+   ],
+   "category": "Text",
+   "text": "[en] Copist. Däremot skulle kunna ligga honom i wägen hans nära blodsband med assessor Broocman och det äfwentyrliga præjudicat, om twenne bröder skulle vara vid et wärck, som hädaneffter icke skall bestå af flere än fyra personer, sekreteraren, assessoren och tvenne amanuenser, hvilka desutan böra succedera hvarandra och ingen fremmande tillåtas at sticka sig emellan, hvarutaf hända kunde, at i framtiden, om twenne bröder, mindre redelige än man nu hafver uti herrar Broocman och Stechau, råkade på en gång blifwa förmän, skulle archivum stå uti fara."
+  },
+  {
+   "bbox": [
+    562,
+    694,
+    1611,
+    903
+   ],
+   "category": "Text",
+   "text": "Desse considerationer ville man underställa Kongl. Collegii bepröfwande och förklarade sig Berch, at han giärna emottager hwilkendera, antingen Hellman eller Stechau, som Collegium behagar utnämna, så at han för sin del icke en gång wore emot, om lotten giorde utslag."
+  },
+  {
+   "bbox": [
+    598,
+    908,
+    1049,
+    949
+   ],
+   "category": "Text",
+   "text": "Stockholm d. 16 Nov. 1767."
+  },
+  {
+   "bbox": [
+    719,
+    996,
+    1055,
+    1032
+   ],
+   "category": "Text",
+   "text": "Carl Reinhold Berch."
+  },
+  {
+   "bbox": [
+    1176,
+    949,
+    1454,
+    1038
+   ],
+   "category": "Text",
+   "text": "In fidem\nJ. Ekestubbe.»"
+  },
+  {
+   "bbox": [
+    562,
+    1067,
+    1611,
+    1315
+   ],
+   "category": "Text",
+   "text": "Protokollet föredrogs, som sagt, den 21 december i kanslikollegiet. Kanslipresidenten var då ej närvarande, utan blott statssekreteraren Benzelstierna och kansliråden Ekestubbe, Lagerflycht, Rabbe, Arnell och Bunge. Diskussionen blev mycket lång och livlig samt slutade — trots kanslirådet Rabbes ingripande — med ett avgjort nederlag för Stechau:"
+  },
+  {
+   "bbox": [
+    562,
+    1315,
+    1611,
+    1771
+   ],
+   "category": "Text",
+   "text": "»Herr Cantzlie Rådet Ekestubbe upwiste för Kongl. Collegium det Protocoll, som blifwit hållit wid tillfälle af examen med de sökande till den enligit Riksens Ständers författning inrättade vice amanuensis syslan wid antiquitets archivum. Samma Protocoll uplästes och war däraf att intaga, huruledes Lind uti de ärforderlige stycken warit mindre för sig kommen än de bägge öfrige Hellman och Stechau, hwilke undfått därutinnan ett jämngodt och lika hedrande wittnesbörd om förwärfwad insigt och skickelighet. I anledning häraf fann Kongl. Collegium angeläget wara att detta befordringsmål under öfwerläggningen företaga och det så mycket mera, som innewarande år snart wore till ända gångit och i fall af upskof"
+  },
+  {
+   "bbox": [
+    566,
+    1798,
+    639,
+    1838
+   ],
+   "category": "Page-footer",
+   "text": "268"
+  }
+ ]
+}

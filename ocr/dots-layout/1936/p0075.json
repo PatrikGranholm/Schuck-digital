@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 75,
+ "seconds": 30.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [885, 248, 1279, 284], \"category\": \"Section-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [557, 318, 1599, 816], \"category\": \"Text\", \"text\": \"translator regni och fördela denna på alla tjänstemännen i biblioteket och arkivet — utom på Berch själv. Han skrev: »I fall Kongl. Cantzlij Collegium skulle wilja behierta Bibliotheks och archivi Betieningens ringa emolumenter med någon tilökning i lönerna och således draga wärcket utur det förakt, hwaruti det råkat, då det warit såsom pis-aller för dem, som ingen annorstädes kunnat komma fort. Så wore tilfälle dertil, när en gång Translatoris regni beställningen blifwer ledig, hwilcken många anse såsom mindre nödig i dessa tider, då fremmande språk äro mera almänt bekanta. De 600 Dr. smt. som Translator hafft, kunde delas, at af de fyra herrarne neml. Bibliothecarien, bägge assessorerne och Translatore Ling. vet. kunde\"}, {\"bbox\": [554, 831, 1599, 1383], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>Den äldste i tiensten öfwer sin ständiga lön</td><td>600</td></tr><tr><td>få såsom öfwerste graden en tilökn.</td><td>200</td></tr><tr><td>Den andra</td><td>600</td></tr><tr><td>tilökn.</td><td>100</td></tr><tr><td>Den tredie</td><td>600</td></tr><tr><td>tilökn.</td><td>100</td></tr><tr><td>Den fierde eller yngste</td><td>500</td></tr><tr><td>tilökn.</td><td>100</td></tr><tr><td>Cantzlisten wid Bibliotheket</td><td>250</td></tr><tr><td>tilökn.</td><td>50</td></tr><tr><td>Den Jsländska wid arch.</td><td>250</td></tr><tr><td>tilökn.</td><td>50</td></tr><tr><td>Då således alla Cantzlister hade lika goda wilckor</td><td>600</td></tr></tbody></table>\"}, {\"bbox\": [554, 1410, 1597, 1578], \"category\": \"Text\", \"text\": \"Hwarwid iag inbillar mig, at ingen skäligen kan förtycka, om assessoren Hagelberg, ehuruwäl han icke är den äldsta assessor, hwad fulmachten widkommer, likwäl har längst tient wid dessa wärcken, blefwe per exceptionem a regula hugnad med de 200 Dr. smt.\"}, {\"bbox\": [554, 1577, 1597, 1745], \"category\": \"Text\", \"text\": \"Men om så hände, at Translator regni aflede, innan Hr. Transl. Wessman, som får ingen lön för Lagman Lundbergs skul, och Cantzlisten Bergman, som allenast niuter half för den redan i några och trettijo åhr tienstfrija Enhörningens skul, icke då hade kommit\"}, {\"bbox\": [557, 1794, 602, 1841], \"category\": \"Page-footer\", \"text\": \"58\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    885,
+    248,
+    1279,
+    284
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    557,
+    318,
+    1599,
+    816
+   ],
+   "category": "Text",
+   "text": "translator regni och fördela denna på alla tjänstemännen i biblioteket och arkivet — utom på Berch själv. Han skrev: »I fall Kongl. Cantzlij Collegium skulle wilja behierta Bibliotheks och archivi Betieningens ringa emolumenter med någon tilökning i lönerna och således draga wärcket utur det förakt, hwaruti det råkat, då det warit såsom pis-aller för dem, som ingen annorstädes kunnat komma fort. Så wore tilfälle dertil, när en gång Translatoris regni beställningen blifwer ledig, hwilcken många anse såsom mindre nödig i dessa tider, då fremmande språk äro mera almänt bekanta. De 600 Dr. smt. som Translator hafft, kunde delas, at af de fyra herrarne neml. Bibliothecarien, bägge assessorerne och Translatore Ling. vet. kunde"
+  },
+  {
+   "bbox": [
+    554,
+    831,
+    1599,
+    1383
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>Den äldste i tiensten öfwer sin ständiga lön</td><td>600</td></tr><tr><td>få såsom öfwerste graden en tilökn.</td><td>200</td></tr><tr><td>Den andra</td><td>600</td></tr><tr><td>tilökn.</td><td>100</td></tr><tr><td>Den tredie</td><td>600</td></tr><tr><td>tilökn.</td><td>100</td></tr><tr><td>Den fierde eller yngste</td><td>500</td></tr><tr><td>tilökn.</td><td>100</td></tr><tr><td>Cantzlisten wid Bibliotheket</td><td>250</td></tr><tr><td>tilökn.</td><td>50</td></tr><tr><td>Den Jsländska wid arch.</td><td>250</td></tr><tr><td>tilökn.</td><td>50</td></tr><tr><td>Då således alla Cantzlister hade lika goda wilckor</td><td>600</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    554,
+    1410,
+    1597,
+    1578
+   ],
+   "category": "Text",
+   "text": "Hwarwid iag inbillar mig, at ingen skäligen kan förtycka, om assessoren Hagelberg, ehuruwäl han icke är den äldsta assessor, hwad fulmachten widkommer, likwäl har längst tient wid dessa wärcken, blefwe per exceptionem a regula hugnad med de 200 Dr. smt."
+  },
+  {
+   "bbox": [
+    554,
+    1577,
+    1597,
+    1745
+   ],
+   "category": "Text",
+   "text": "Men om så hände, at Translator regni aflede, innan Hr. Transl. Wessman, som får ingen lön för Lagman Lundbergs skul, och Cantzlisten Bergman, som allenast niuter half för den redan i några och trettijo åhr tienstfrija Enhörningens skul, icke då hade kommit"
+  },
+  {
+   "bbox": [
+    557,
+    1794,
+    602,
+    1841
+   ],
+   "category": "Page-footer",
+   "text": "58"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 53,
+ "seconds": 30.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [893, 274, 1289, 311], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [567, 343, 1607, 470], \"category\": \"Text\", \"text\": \"förhållandena voro därför ganska abderitiska. Hagelberg var assessor med translators lön, Bödker translator med halv kanslistlön och Bergman kanslist utan någon lön alls.\"}, {\"bbox\": [558, 468, 1607, 1796], \"category\": \"Text\", \"text\": \"Slutligen fanns en ritare, Jacob Wendelius, som antagits redan 1720 och som under Helins tid haft ovanligt goda och lugna dagar, då varken Helin eller assessorerna givit honom något att göra. Någon i minsta mån lärd bildning hade han icke fått, men detta hindrade honom icke att söka både translators- och assessorsplatsen i antikvitetsarkivet och ej heller kanslikollegiet att uppföra honom på förslagen — på assessorsförslaget t. o. m. i andra rummet (IV, sid. 292, 312). Wendelius' ansökan till den senare platsen ger oss indirekte en ypperlig bild av antikvitetsarkivet vid denna tid. Han redogör där för sina meriter. För platsen i fråga voro de de minsta möjliga. I 27 år hade han med »oförtruten flit» tjänstgjort i arkivet. Under denna tid hade han 1722 — således under den yngre Peringskiölds tid — rest till Gripsholm »at aftaga the ther befinteliga monumenter», och 1744 hade han fått avrita Gustav Adolfs grav i Riddarholmskyrkan. Vidare hade han för adelsmatrikeln ritat av åtskilliga gamla sköldemärken, hade även gjort förslag till dylika, men ej lyckats bli vapenritare efter von Schantz. På sista tiden — tydligen sedan Berch kommit in i verket — hade han även ritat av flera mynt, som ej funnos hos Brenner. Men så anföres den merit, som i främsta rummet skulle motivera hans anställande såsom assessor: »Utom alt detta, hwilket min syssla och Beställning egenteligen tilhördt, så har med stor och till mer än 4000 Dr. smt sig bestigande bekostnad iag här i Riket lagt grunden till Bomullsgarns spinningen och några hundrade personer deruti till manufacturernes och Publici icke ringa fördel inöfwa låtit, hwilket alt Riksens höglofl. ständers här hos fogade och mig lämnade nåd- och högrättwisa witnesbörd widare utwisa; utom mycken kostnad, som iag till Bomulls Tygers wäfwande samt swenska gräs och örters præparerande till Tryck och Färgande haft underkastat warit och kan sålunda i afseende dertill, utom hwad förr i underdån-ödmiukhet anfört är, giöra mig ett säkert underdånigt hopp om then belöning, som Kongl. May:tz förnyade nådigste Manufactur Privilegier af åhr 1739 i\"}, {\"bbox\": [563, 1819, 613, 1866], \"category\": \"Page-footer\", \"text\": \"36\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    893,
+    274,
+    1289,
+    311
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    567,
+    343,
+    1607,
+    470
+   ],
+   "category": "Text",
+   "text": "förhållandena voro därför ganska abderitiska. Hagelberg var assessor med translators lön, Bödker translator med halv kanslistlön och Bergman kanslist utan någon lön alls."
+  },
+  {
+   "bbox": [
+    558,
+    468,
+    1607,
+    1796
+   ],
+   "category": "Text",
+   "text": "Slutligen fanns en ritare, Jacob Wendelius, som antagits redan 1720 och som under Helins tid haft ovanligt goda och lugna dagar, då varken Helin eller assessorerna givit honom något att göra. Någon i minsta mån lärd bildning hade han icke fått, men detta hindrade honom icke att söka både translators- och assessorsplatsen i antikvitetsarkivet och ej heller kanslikollegiet att uppföra honom på förslagen — på assessorsförslaget t. o. m. i andra rummet (IV, sid. 292, 312). Wendelius' ansökan till den senare platsen ger oss indirekte en ypperlig bild av antikvitetsarkivet vid denna tid. Han redogör där för sina meriter. För platsen i fråga voro de de minsta möjliga. I 27 år hade han med »oförtruten flit» tjänstgjort i arkivet. Under denna tid hade han 1722 — således under den yngre Peringskiölds tid — rest till Gripsholm »at aftaga the ther befinteliga monumenter», och 1744 hade han fått avrita Gustav Adolfs grav i Riddarholmskyrkan. Vidare hade han för adelsmatrikeln ritat av åtskilliga gamla sköldemärken, hade även gjort förslag till dylika, men ej lyckats bli vapenritare efter von Schantz. På sista tiden — tydligen sedan Berch kommit in i verket — hade han även ritat av flera mynt, som ej funnos hos Brenner. Men så anföres den merit, som i främsta rummet skulle motivera hans anställande såsom assessor: »Utom alt detta, hwilket min syssla och Beställning egenteligen tilhördt, så har med stor och till mer än 4000 Dr. smt sig bestigande bekostnad iag här i Riket lagt grunden till Bomullsgarns spinningen och några hundrade personer deruti till manufacturernes och Publici icke ringa fördel inöfwa låtit, hwilket alt Riksens höglofl. ständers här hos fogade och mig lämnade nåd- och högrättwisa witnesbörd widare utwisa; utom mycken kostnad, som iag till Bomulls Tygers wäfwande samt swenska gräs och örters præparerande till Tryck och Färgande haft underkastat warit och kan sålunda i afseende dertill, utom hwad förr i underdån-ödmiukhet anfört är, giöra mig ett säkert underdånigt hopp om then belöning, som Kongl. May:tz förnyade nådigste Manufactur Privilegier af åhr 1739 i"
+  },
+  {
+   "bbox": [
+    563,
+    1819,
+    613,
+    1866
+   ],
+   "category": "Page-footer",
+   "text": "36"
+  }
+ ]
+}

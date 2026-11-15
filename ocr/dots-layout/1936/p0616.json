@@ -1,0 +1,42 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 616,
+ "seconds": 34.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [340, 277, 854, 323], \"category\": \"Section-header\", \"text\": \"Antikvitetsarkivets skrifter\"}, {\"bbox\": [74, 338, 1125, 1807], \"category\": \"Table\", \"text\": \"<table><thead><tr><th>Pl.</th><th></th><th>Stycketal</th></tr></thead><tbody><tr><td>1.</td><td>S:t Birgitta</td><td>2.</td></tr><tr><td>2.</td><td>Gr. Magnus Brahe</td><td>1.</td></tr><tr><td>3.</td><td>Gr. Pehr Brahe</td><td>5.</td></tr><tr><td>4.</td><td>Gr. Axel Oxenstierna</td><td>2.</td></tr><tr><td>5.</td><td>Gr. Johan Oxenstierna Axelsson</td><td>1.</td></tr><tr><td>6.</td><td>Hr Johan Banér</td><td>1.</td></tr><tr><td>7.</td><td>Hr Lennart Torstensson</td><td>1.</td></tr><tr><td>8.</td><td>Gr. Magnus dela Gardie</td><td>3.</td></tr><tr><td>9.</td><td>Förstinnan Maria Euphrosina dess Gemål</td><td>2.</td></tr><tr><td>10.</td><td>Gr. Gustaf Adolph de la Gardie</td><td>2.</td></tr><tr><td>11.</td><td>Gr. Carl Gustaf Wrangel</td><td>6.</td></tr><tr><td>12.</td><td>Ejusdem Barn</td><td>1.</td></tr><tr><td>13.</td><td>Gr. Gustaf Otto Stenbock</td><td>1.</td></tr><tr><td>14.</td><td>Gr. Magnus Stenbock, dess Son</td><td>2.</td></tr><tr><td>15.</td><td>Gr. Johan Gabr. Stenbock</td><td>1.</td></tr><tr><td>16.</td><td>Gr. Hans Christoff Königsmarck</td><td>1.</td></tr><tr><td></td><td>— Otto Wilhelm Königsm.</td><td>1.</td></tr><tr><td></td><td>— Maria Aurora K.</td><td>2.</td></tr><tr><td></td><td>— Carl Johan K.</td><td>1.</td></tr><tr><td>17.</td><td>Gr. Nils Bielke</td><td>1.</td></tr><tr><td>18.</td><td>D:o och Henric Horn</td><td>1.</td></tr><tr><td>19.</td><td>Gr. Hans Wachtmeister</td><td>1.</td></tr><tr><td>20.</td><td>Gr. Fabian Wrede</td><td>3.</td></tr><tr><td>21.</td><td>Riks Skattmästaren Gustaf Bonde</td><td>2.</td></tr><tr><td></td><td>Kgl. Rådet Gr. Carl Bonde, dess Son</td><td>1.</td></tr><tr><td>22.</td><td>Ad. Ludw. Lewenhaupts action wid Gemauerthoff</td><td>1.</td></tr><tr><td>23.</td><td>C. G. Rhenschölds d:o wid Fra[u]nstadt</td><td>1.</td></tr><tr><td>24.</td><td>Gr. C. E. Lewenhaupt, lantmarskalk</td><td>1.</td></tr><tr><td>25.</td><td>Baron Schering Rosenhane</td><td>1.</td></tr><tr><td>26.</td><td>Hr Matthias Biörnklo</td><td>1.</td></tr><tr><td>27.</td><td>Hr Adeler-Salvius</td><td>1.</td></tr><tr><td>28.</td><td>Gr. Carl Gyllenborg</td><td>2.</td></tr><tr><td>29.</td><td>Gr. Carl Piper</td><td>1.</td></tr><tr><td>30.</td><td>Gr. Arwedh Horn</td><td>5.</td></tr><tr><td>31.</td><td>Gr. Gustaf Cronhielm</td><td>1.</td></tr><tr><td>32.</td><td>Gr. Nicodemus Tessin</td><td>4.</td></tr><tr><td>33.</td><td>Hedw. Eleon. Stenbock, dess Grefwinna</td><td>1.</td></tr><tr><td>34.</td><td>Gr. Carl Gustaf Tessin</td><td>2.</td></tr><tr><td>35.</td><td>Gr. Olof Törnflycht</td><td>2.</td></tr></tbody><tfoot><tr><td></td><td>Transport</td><td>69.</td></tr></tfoot></table>\"}, {\"bbox\": [1034, 1835, 1109, 1881], \"category\": \"Page-footer\", \"text\": \"587\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    340,
+    277,
+    854,
+    323
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsarkivets skrifter"
+  },
+  {
+   "bbox": [
+    74,
+    338,
+    1125,
+    1807
+   ],
+   "category": "Table",
+   "text": "<table><thead><tr><th>Pl.</th><th></th><th>Stycketal</th></tr></thead><tbody><tr><td>1.</td><td>S:t Birgitta</td><td>2.</td></tr><tr><td>2.</td><td>Gr. Magnus Brahe</td><td>1.</td></tr><tr><td>3.</td><td>Gr. Pehr Brahe</td><td>5.</td></tr><tr><td>4.</td><td>Gr. Axel Oxenstierna</td><td>2.</td></tr><tr><td>5.</td><td>Gr. Johan Oxenstierna Axelsson</td><td>1.</td></tr><tr><td>6.</td><td>Hr Johan Banér</td><td>1.</td></tr><tr><td>7.</td><td>Hr Lennart Torstensson</td><td>1.</td></tr><tr><td>8.</td><td>Gr. Magnus dela Gardie</td><td>3.</td></tr><tr><td>9.</td><td>Förstinnan Maria Euphrosina dess Gemål</td><td>2.</td></tr><tr><td>10.</td><td>Gr. Gustaf Adolph de la Gardie</td><td>2.</td></tr><tr><td>11.</td><td>Gr. Carl Gustaf Wrangel</td><td>6.</td></tr><tr><td>12.</td><td>Ejusdem Barn</td><td>1.</td></tr><tr><td>13.</td><td>Gr. Gustaf Otto Stenbock</td><td>1.</td></tr><tr><td>14.</td><td>Gr. Magnus Stenbock, dess Son</td><td>2.</td></tr><tr><td>15.</td><td>Gr. Johan Gabr. Stenbock</td><td>1.</td></tr><tr><td>16.</td><td>Gr. Hans Christoff Königsmarck</td><td>1.</td></tr><tr><td></td><td>— Otto Wilhelm Königsm.</td><td>1.</td></tr><tr><td></td><td>— Maria Aurora K.</td><td>2.</td></tr><tr><td></td><td>— Carl Johan K.</td><td>1.</td></tr><tr><td>17.</td><td>Gr. Nils Bielke</td><td>1.</td></tr><tr><td>18.</td><td>D:o och Henric Horn</td><td>1.</td></tr><tr><td>19.</td><td>Gr. Hans Wachtmeister</td><td>1.</td></tr><tr><td>20.</td><td>Gr. Fabian Wrede</td><td>3.</td></tr><tr><td>21.</td><td>Riks Skattmästaren Gustaf Bonde</td><td>2.</td></tr><tr><td></td><td>Kgl. Rådet Gr. Carl Bonde, dess Son</td><td>1.</td></tr><tr><td>22.</td><td>Ad. Ludw. Lewenhaupts action wid Gemauerthoff</td><td>1.</td></tr><tr><td>23.</td><td>C. G. Rhenschölds d:o wid Fra[u]nstadt</td><td>1.</td></tr><tr><td>24.</td><td>Gr. C. E. Lewenhaupt, lantmarskalk</td><td>1.</td></tr><tr><td>25.</td><td>Baron Schering Rosenhane</td><td>1.</td></tr><tr><td>26.</td><td>Hr Matthias Biörnklo</td><td>1.</td></tr><tr><td>27.</td><td>Hr Adeler-Salvius</td><td>1.</td></tr><tr><td>28.</td><td>Gr. Carl Gyllenborg</td><td>2.</td></tr><tr><td>29.</td><td>Gr. Carl Piper</td><td>1.</td></tr><tr><td>30.</td><td>Gr. Arwedh Horn</td><td>5.</td></tr><tr><td>31.</td><td>Gr. Gustaf Cronhielm</td><td>1.</td></tr><tr><td>32.</td><td>Gr. Nicodemus Tessin</td><td>4.</td></tr><tr><td>33.</td><td>Hedw. Eleon. Stenbock, dess Grefwinna</td><td>1.</td></tr><tr><td>34.</td><td>Gr. Carl Gustaf Tessin</td><td>2.</td></tr><tr><td>35.</td><td>Gr. Olof Törnflycht</td><td>2.</td></tr></tbody><tfoot><tr><td></td><td>Transport</td><td>69.</td></tr></tfoot></table>"
+  },
+  {
+   "bbox": [
+    1034,
+    1835,
+    1109,
+    1881
+   ],
+   "category": "Page-footer",
+   "text": "587"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 452,
+ "seconds": 28.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [95, 750, 827, 1763], \"category\": \"Picture\"}, {\"bbox\": [848, 1104, 889, 1770], \"category\": \"Caption\", \"text\": \"Det s. k. S. Birgittas skrin (i Vadstena klosterkyrka).\"}, {\"bbox\": [93, 332, 1111, 677], \"category\": \"Picture\"}, {\"bbox\": [994, 734, 1025, 871], \"category\": \"Text\", \"text\": \"S. ANNA\"}, {\"bbox\": [1032, 732, 1117, 1770], \"category\": \"Text\", \"text\": \"Medeltida träskulptur, på 1700-talet uppställd i S. Annas kvarn i Nyköping (nu i Nyköpings museum).\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    95,
+    750,
+    827,
+    1763
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    848,
+    1104,
+    889,
+    1770
+   ],
+   "category": "Caption",
+   "text": "Det s. k. S. Birgittas skrin (i Vadstena klosterkyrka)."
+  },
+  {
+   "bbox": [
+    93,
+    332,
+    1111,
+    677
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    994,
+    734,
+    1025,
+    871
+   ],
+   "category": "Text",
+   "text": "S. ANNA"
+  },
+  {
+   "bbox": [
+    1032,
+    732,
+    1117,
+    1770
+   ],
+   "category": "Text",
+   "text": "Medeltida träskulptur, på 1700-talet uppställd i S. Annas kvarn i Nyköping (nu i Nyköpings museum)."
+  }
+ ]
+}

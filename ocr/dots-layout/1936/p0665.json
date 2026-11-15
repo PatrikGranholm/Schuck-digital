@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 665,
+ "seconds": 31.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [863, 255, 1258, 292], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [534, 326, 1586, 411], \"category\": \"Text\", \"text\": \"vara överflödiga, och denna uppfattning drog, som vi skola se, strax efteråt en annan förändring med sig.\"}, {\"bbox\": [534, 408, 1586, 536], \"category\": \"Text\", \"text\": \"Tills vidare gällde det dock blott inskränkningar i staten. I den sista kanslistat, som Gustaf III den 17 mars 1777 undertecknat (R. A. Stater), hade antikvitetsarkivet haft följande anslag:\"}, {\"bbox\": [571, 557, 1343, 602], \"category\": \"Text\", \"text\": \"»Effter Kongl. Maj:ts Bref d. 2 December 1766.\"}, {\"bbox\": [538, 609, 1586, 1691], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>I</td><td>Secreterare och antiquarius</td><td>1200</td><td>Dr. smt.</td></tr><tr><td>I</td><td>Assessor</td><td>600</td><td></td></tr><tr><td>I</td><td>Translator af gamla språken</td><td>500</td><td></td></tr><tr><td colspan=\\\"2\\\">Än tilökning effter Kongl. Maj:ts Bref den 5 Julii 1763 och ofwan åberopade Kongl. Bref af de förut på Extraordinarie Staten för Isländska Translationen bestådde</td><td>200</td><td>700</td></tr><tr><td>I</td><td>amanuensis</td><td>250</td><td></td></tr><tr><td colspan=\\\"2\\\">Än tilökning effter Kongl. Maj:ts Bref d. 2 December 1766</td><td>150</td><td>400</td></tr><tr><td>I</td><td>vice amanuensis</td><td></td><td>200</td></tr><tr><td>I</td><td>Ritare</td><td></td><td>200</td></tr><tr><td>I</td><td>dräng</td><td></td><td>120</td></tr><tr><td colspan=\\\"2\\\">Til Skrif Materialier och hwarjehanda Expenser, hwarföre skall giöras Räkning</td><td></td><td>100</td></tr><tr><td colspan=\\\"2\\\">Til Resepenningar wid antiquiteters upsökande, hwarföre Räkning giöres</td><td></td><td>150</td></tr><tr><td colspan=\\\"2\\\">Til Böckers och Pappers inkiöp samt Tryck- och Formsnidare kostnad, hwarföre äfwen skall giöras Räkning</td><td></td><td>400</td></tr><tr><td colspan=\\\"2\\\">Effter Riksens Ständers Secrete utskotts resolution d. 9 april 1731 böra ofwannämnde</td><td>150</td><td>Dr. smt., som til resepenningar äro upförde, samt de 400 Dr. dito mynt, hwilka til Böckers inkiöp med mera bestås, ej utassigneras, förr än räkning blifwer giord för de förre åren dertil bestådde medel.</td></tr></tbody></table>\"}, {\"bbox\": [544, 1713, 1598, 1777], \"category\": \"Text\", \"text\": \"års Stat, så at han werkeligen i desse senare åren icke åtniutit mer än en trediedel af den lön, som honom efter merberörde Stat borde tilkomma.»\"}, {\"bbox\": [547, 1807, 628, 1855], \"category\": \"Page-footer\", \"text\": \"634\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    863,
+    255,
+    1258,
+    292
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    534,
+    326,
+    1586,
+    411
+   ],
+   "category": "Text",
+   "text": "vara överflödiga, och denna uppfattning drog, som vi skola se, strax efteråt en annan förändring med sig."
+  },
+  {
+   "bbox": [
+    534,
+    408,
+    1586,
+    536
+   ],
+   "category": "Text",
+   "text": "Tills vidare gällde det dock blott inskränkningar i staten. I den sista kanslistat, som Gustaf III den 17 mars 1777 undertecknat (R. A. Stater), hade antikvitetsarkivet haft följande anslag:"
+  },
+  {
+   "bbox": [
+    571,
+    557,
+    1343,
+    602
+   ],
+   "category": "Text",
+   "text": "»Effter Kongl. Maj:ts Bref d. 2 December 1766."
+  },
+  {
+   "bbox": [
+    538,
+    609,
+    1586,
+    1691
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>I</td><td>Secreterare och antiquarius</td><td>1200</td><td>Dr. smt.</td></tr><tr><td>I</td><td>Assessor</td><td>600</td><td></td></tr><tr><td>I</td><td>Translator af gamla språken</td><td>500</td><td></td></tr><tr><td colspan=\"2\">Än tilökning effter Kongl. Maj:ts Bref den 5 Julii 1763 och ofwan åberopade Kongl. Bref af de förut på Extraordinarie Staten för Isländska Translationen bestådde</td><td>200</td><td>700</td></tr><tr><td>I</td><td>amanuensis</td><td>250</td><td></td></tr><tr><td colspan=\"2\">Än tilökning effter Kongl. Maj:ts Bref d. 2 December 1766</td><td>150</td><td>400</td></tr><tr><td>I</td><td>vice amanuensis</td><td></td><td>200</td></tr><tr><td>I</td><td>Ritare</td><td></td><td>200</td></tr><tr><td>I</td><td>dräng</td><td></td><td>120</td></tr><tr><td colspan=\"2\">Til Skrif Materialier och hwarjehanda Expenser, hwarföre skall giöras Räkning</td><td></td><td>100</td></tr><tr><td colspan=\"2\">Til Resepenningar wid antiquiteters upsökande, hwarföre Räkning giöres</td><td></td><td>150</td></tr><tr><td colspan=\"2\">Til Böckers och Pappers inkiöp samt Tryck- och Formsnidare kostnad, hwarföre äfwen skall giöras Räkning</td><td></td><td>400</td></tr><tr><td colspan=\"2\">Effter Riksens Ständers Secrete utskotts resolution d. 9 april 1731 böra ofwannämnde</td><td>150</td><td>Dr. smt., som til resepenningar äro upförde, samt de 400 Dr. dito mynt, hwilka til Böckers inkiöp med mera bestås, ej utassigneras, förr än räkning blifwer giord för de förre åren dertil bestådde medel.</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    544,
+    1713,
+    1598,
+    1777
+   ],
+   "category": "Text",
+   "text": "års Stat, så at han werkeligen i desse senare åren icke åtniutit mer än en trediedel af den lön, som honom efter merberörde Stat borde tilkomma.»"
+  },
+  {
+   "bbox": [
+    547,
+    1807,
+    628,
+    1855
+   ],
+   "category": "Page-footer",
+   "text": "634"
+  }
+ ]
+}

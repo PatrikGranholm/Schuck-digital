@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 513,
+ "seconds": 30.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [898, 279, 1295, 316], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [570, 350, 1623, 559], \"category\": \"Text\", \"text\": \"och Höglofl. Kongl. Cancellie Collegium behagade denna min ödmjukaste upgift gilla och mit Tilbud at å egen kostnad göra samma Resa under det säkra Hopp at vid återkomsten därföre hugnas med en förtjänd Befordran Hans Kongl. Maj:t i underdånighet föredraga.\"}, {\"bbox\": [570, 559, 1623, 850], \"category\": \"Text\", \"text\": \"Så snart mit Resepass var utfärdadt och jag ifrån en tilstött opasslighet som knappast återställd, anträddes Resan i augusti Månad och fortsattes genom Linköping, Jönköping och Växiö til Hoby Sokn i Blekinge och Bräkne Härad, hvaräst den så ryktbara Runamon ligger, som efter Saxos föregifvande, at Konung Harald Hildetand på hänna låtit uthugga sin faders Bedrifter, äfven af våre Häfdateknare kallas Rupes Haraldina.\"}, {\"bbox\": [570, 850, 1623, 1627], \"category\": \"Text\", \"text\": \"Länge därom öfvertygad, at Saxo härom skrifvit mer än han vetat, hvilket jag i undersökningen om Runstenarnes ålder p. 59 seq. bevist, har jag likväl icke velat skylla antingen Wormius, hvars Ritning Mon. Dan. p. 122 föreställer på denna Häll med vanliga Runor det ordet LVnd, eller Hr. Mützel, som i sin Disp. om Bräkne Härad gifvit oss en ny Ritning med en ganska förunderlig Beskrifning öfver halfalnslånga och obekanta Runor på en Stenremsa af 44 alnars Längd, hvilken skild från själfva Hällen likväl vore i hänna inpassad. Nu för at skilja desse Herrar imellan och förnämligast för at själf om en så märkvärdig ålderdomslemning öfvertygas var jag ändteligen först i September kommen på stället, fastän i förväg af Soknefolket litet tröstad at på denna Runamo finna något synnerliga märkvärdigt, hälst assessor Wessman ock sades år 1756 hafva besökt hänna, ledsagad af Länsmannen och Gästgifvaren i orten, men likväl intet betydligt af dess Runor kunnat intaga. — Med sådan förfarenhet kom jag til detta Rum, som jag så länge åstundat at se, och fann, ehuru likt det ock var människo-åverkan, likväl intet annat på denna Häll än det, som Regnvatnets fall uti några Bergsrefvor kunnat åstadkomma.»\"}, {\"bbox\": [570, 1632, 1623, 1718], \"category\": \"Text\", \"text\": \"Från Runamo reste han till Kivik för att verifiera Wessmans ritning¹, »hvaräst jag ock ändteligen fick bese den besynnerliga Graf,\"}, {\"bbox\": [570, 1738, 1623, 1802], \"category\": \"Footnote\", \"text\": \"¹ Wessman och Brocman voro de första, som undersökt och avbildat Kiviksmonumentet. Sedermera, 1780, utgavs i Lund under Lagerbrings presidium en disputation av A. C. Forssenius:\"}, {\"bbox\": [570, 1828, 647, 1874], \"category\": \"Page-footer\", \"text\": \"486\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    898,
+    279,
+    1295,
+    316
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    570,
+    350,
+    1623,
+    559
+   ],
+   "category": "Text",
+   "text": "och Höglofl. Kongl. Cancellie Collegium behagade denna min ödmjukaste upgift gilla och mit Tilbud at å egen kostnad göra samma Resa under det säkra Hopp at vid återkomsten därföre hugnas med en förtjänd Befordran Hans Kongl. Maj:t i underdånighet föredraga."
+  },
+  {
+   "bbox": [
+    570,
+    559,
+    1623,
+    850
+   ],
+   "category": "Text",
+   "text": "Så snart mit Resepass var utfärdadt och jag ifrån en tilstött opasslighet som knappast återställd, anträddes Resan i augusti Månad och fortsattes genom Linköping, Jönköping och Växiö til Hoby Sokn i Blekinge och Bräkne Härad, hvaräst den så ryktbara Runamon ligger, som efter Saxos föregifvande, at Konung Harald Hildetand på hänna låtit uthugga sin faders Bedrifter, äfven af våre Häfdateknare kallas Rupes Haraldina."
+  },
+  {
+   "bbox": [
+    570,
+    850,
+    1623,
+    1627
+   ],
+   "category": "Text",
+   "text": "Länge därom öfvertygad, at Saxo härom skrifvit mer än han vetat, hvilket jag i undersökningen om Runstenarnes ålder p. 59 seq. bevist, har jag likväl icke velat skylla antingen Wormius, hvars Ritning Mon. Dan. p. 122 föreställer på denna Häll med vanliga Runor det ordet LVnd, eller Hr. Mützel, som i sin Disp. om Bräkne Härad gifvit oss en ny Ritning med en ganska förunderlig Beskrifning öfver halfalnslånga och obekanta Runor på en Stenremsa af 44 alnars Längd, hvilken skild från själfva Hällen likväl vore i hänna inpassad. Nu för at skilja desse Herrar imellan och förnämligast för at själf om en så märkvärdig ålderdomslemning öfvertygas var jag ändteligen först i September kommen på stället, fastän i förväg af Soknefolket litet tröstad at på denna Runamo finna något synnerliga märkvärdigt, hälst assessor Wessman ock sades år 1756 hafva besökt hänna, ledsagad af Länsmannen och Gästgifvaren i orten, men likväl intet betydligt af dess Runor kunnat intaga. — Med sådan förfarenhet kom jag til detta Rum, som jag så länge åstundat at se, och fann, ehuru likt det ock var människo-åverkan, likväl intet annat på denna Häll än det, som Regnvatnets fall uti några Bergsrefvor kunnat åstadkomma.»"
+  },
+  {
+   "bbox": [
+    570,
+    1632,
+    1623,
+    1718
+   ],
+   "category": "Text",
+   "text": "Från Runamo reste han till Kivik för att verifiera Wessmans ritning¹, »hvaräst jag ock ändteligen fick bese den besynnerliga Graf,"
+  },
+  {
+   "bbox": [
+    570,
+    1738,
+    1623,
+    1802
+   ],
+   "category": "Footnote",
+   "text": "¹ Wessman och Brocman voro de första, som undersökt och avbildat Kiviksmonumentet. Sedermera, 1780, utgavs i Lund under Lagerbrings presidium en disputation av A. C. Forssenius:"
+  },
+  {
+   "bbox": [
+    570,
+    1828,
+    647,
+    1874
+   ],
+   "category": "Page-footer",
+   "text": "486"
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 666,
+ "seconds": 33.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [335, 258, 922, 303], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet 1778—1786\"}, {\"bbox\": [97, 327, 1145, 416], \"category\": \"Text\", \"text\": \"När något wärck är färdigt, will Kongl. Maj:t benåda auctoren med en trediedel af alla Exemplaren, som upläggas.\"}, {\"bbox\": [97, 411, 1147, 580], \"category\": \"Text\", \"text\": \"Eljest och enär Assessoren och Ritaren wid antiquitets archivum afgå, komma deras löner at fördelas emellan de öfrige Betjenterne til förbättring på deras löner wid berörde Archiver och Bibliothequet effter Kongl. Maj:ts bref af den 2 December 1766, som här anföres.»\"}, {\"bbox\": [95, 577, 1145, 748], \"category\": \"Text\", \"text\": \"Sekreteraren hade således i verkligheten haft 200 riksdaler, amanuensen 66 rd r 32, och till expenser, resor och böckers tryckning hade anslagits 108 rd r 16. Nu drog man in alla andra anslag än dessa tre, och den 24 januari 1778 fick den nya staten denna form:\"}, {\"bbox\": [95, 754, 1143, 1010], \"category\": \"Text\", \"text\": \"»1 antiqvarius och Translator i gamla språken . . . 300 Rdr.\\n1 amanuensis . . . . . . . . . . . . . . . . . . . 100\\nTil skrifmaterialier och hwarjehanda Expenser 16. 32\\nTil resepenningar wid Antiquiteters upsökande 25\\nTil Böckers och Pappers inkiöp samt tryck- och\\nformsnidare kostnad . . . . . . . . . . 66. 32—108. 16.»\"}, {\"bbox\": [93, 1031, 1143, 1320], \"category\": \"Text\", \"text\": \"Enligt den avsedda beräkningen (1 rd r = 3 daler smt) borde antikvariens lön hava blivit 400 rd r, men sattes nu till 300, amanuensens lön borde hava blivit 133 rd r 16 och expensanslaget 216 rd r 16. Och för att åstadkomma den obetydliga löneförhöjningen för de enda kvarstående inom verket, antikvarien och amanuensen, hade alla andra anslag indragits, och expensanslaget utgick fortfarande efter en kurs av 6 daler = 1 rd r.\"}, {\"bbox\": [93, 1320, 1141, 1743], \"category\": \"Text\", \"text\": \"Även vid Kungl. biblioteket indrogos platser, och i det kungliga brevet den 24 januari 1778 skrives härom: »Så länge Wårt allmänna Bibliotheque icke är i annat stånd, än det sig nu befinner, och Wi därtil icke kunna anslå större Fond til inköp af nya Böcker, än nu bestås, hwarigenom det med tiden kunde komma i jemnförelse med andra Publique Bibliothequer, hafwe Wi funnit tilräckeligt, om derwid på Stat bestås en Bibliothecarius och en Amanuensis.» Innan brevet utfärdades, gjorde emellertid kungl. bibliotekarien Wilde ett försök att för sitt verk få förbättrade villkor och inlämnade därför den 14 januari 1778 »ett Ödmjukt Promemoria»¹ av följande lydelse:\"}, {\"bbox\": [125, 1745, 1138, 1783], \"category\": \"Footnote\", \"text\": \"¹ Till vilken denna promemoria inlämnades, är ovisst, möjligen till hovkansleren baron Fredrik\"}, {\"bbox\": [1139, 1334, 1257, 1395], \"category\": \"Text\", \"text\": \"Wildes promemoria\"}, {\"bbox\": [1060, 1812, 1135, 1859], \"category\": \"Page-footer\", \"text\": \"635\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    335,
+    258,
+    922,
+    303
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet 1778—1786"
+  },
+  {
+   "bbox": [
+    97,
+    327,
+    1145,
+    416
+   ],
+   "category": "Text",
+   "text": "När något wärck är färdigt, will Kongl. Maj:t benåda auctoren med en trediedel af alla Exemplaren, som upläggas."
+  },
+  {
+   "bbox": [
+    97,
+    411,
+    1147,
+    580
+   ],
+   "category": "Text",
+   "text": "Eljest och enär Assessoren och Ritaren wid antiquitets archivum afgå, komma deras löner at fördelas emellan de öfrige Betjenterne til förbättring på deras löner wid berörde Archiver och Bibliothequet effter Kongl. Maj:ts bref af den 2 December 1766, som här anföres.»"
+  },
+  {
+   "bbox": [
+    95,
+    577,
+    1145,
+    748
+   ],
+   "category": "Text",
+   "text": "Sekreteraren hade således i verkligheten haft 200 riksdaler, amanuensen 66 rd r 32, och till expenser, resor och böckers tryckning hade anslagits 108 rd r 16. Nu drog man in alla andra anslag än dessa tre, och den 24 januari 1778 fick den nya staten denna form:"
+  },
+  {
+   "bbox": [
+    95,
+    754,
+    1143,
+    1010
+   ],
+   "category": "Text",
+   "text": "»1 antiqvarius och Translator i gamla språken . . . 300 Rdr.\n1 amanuensis . . . . . . . . . . . . . . . . . . . 100\nTil skrifmaterialier och hwarjehanda Expenser 16. 32\nTil resepenningar wid Antiquiteters upsökande 25\nTil Böckers och Pappers inkiöp samt tryck- och\nformsnidare kostnad . . . . . . . . . . 66. 32—108. 16.»"
+  },
+  {
+   "bbox": [
+    93,
+    1031,
+    1143,
+    1320
+   ],
+   "category": "Text",
+   "text": "Enligt den avsedda beräkningen (1 rd r = 3 daler smt) borde antikvariens lön hava blivit 400 rd r, men sattes nu till 300, amanuensens lön borde hava blivit 133 rd r 16 och expensanslaget 216 rd r 16. Och för att åstadkomma den obetydliga löneförhöjningen för de enda kvarstående inom verket, antikvarien och amanuensen, hade alla andra anslag indragits, och expensanslaget utgick fortfarande efter en kurs av 6 daler = 1 rd r."
+  },
+  {
+   "bbox": [
+    93,
+    1320,
+    1141,
+    1743
+   ],
+   "category": "Text",
+   "text": "Även vid Kungl. biblioteket indrogos platser, och i det kungliga brevet den 24 januari 1778 skrives härom: »Så länge Wårt allmänna Bibliotheque icke är i annat stånd, än det sig nu befinner, och Wi därtil icke kunna anslå större Fond til inköp af nya Böcker, än nu bestås, hwarigenom det med tiden kunde komma i jemnförelse med andra Publique Bibliothequer, hafwe Wi funnit tilräckeligt, om derwid på Stat bestås en Bibliothecarius och en Amanuensis.» Innan brevet utfärdades, gjorde emellertid kungl. bibliotekarien Wilde ett försök att för sitt verk få förbättrade villkor och inlämnade därför den 14 januari 1778 »ett Ödmjukt Promemoria»¹ av följande lydelse:"
+  },
+  {
+   "bbox": [
+    125,
+    1745,
+    1138,
+    1783
+   ],
+   "category": "Footnote",
+   "text": "¹ Till vilken denna promemoria inlämnades, är ovisst, möjligen till hovkansleren baron Fredrik"
+  },
+  {
+   "bbox": [
+    1139,
+    1334,
+    1257,
+    1395
+   ],
+   "category": "Text",
+   "text": "Wildes promemoria"
+  },
+  {
+   "bbox": [
+    1060,
+    1812,
+    1135,
+    1859
+   ],
+   "category": "Page-footer",
+   "text": "635"
+  }
+ ]
+}

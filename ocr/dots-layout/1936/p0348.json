@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 348,
+ "seconds": 31.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [418, 261, 807, 297], \"category\": \"Section-header\", \"text\": \"Arbetet inom arkivet\"}, {\"bbox\": [84, 331, 1139, 831], \"category\": \"Text\", \"text\": \"Den nästa riksdagen efter 1756 var den långa, som var samlad från oktober 1760 till juni 1762, och även till denna är Berchs berättelse bevarad (Kanslikoll. Inkomna skrivelser sign. E IV. 10 b): »Kongl. Antiqvitets Archivum hafwer sedan sidsta Riksdag under Hans Excellences Riksrådets Gref Bondes upsikt altid hafft til föremål, jemte den gamla Historien, at beskrifwa hwarjehanda ifrån äldsta tider ännu öfriga Minnesmärken. Til detta ändamåls befrämjande hafwer ock Riksens Cantzlij-Collegium behagat låta circulair-bref afgå til samteliga Consistorierna om Herrar Pastorum biträde at til Archivum inlemna berättelser om deras Soknar, hwad uti hwar och en kan finnas af ålderdoms öfwerlefwor, hwilket nyttiga föranstaltande man hoppas icke skola wara utan frukt.\"}, {\"bbox\": [1136, 336, 1266, 398], \"category\": \"Text\", \"text\": \"Consignatio-\\nnen 1760\"}, {\"bbox\": [84, 830, 1137, 907], \"category\": \"Text\", \"text\": \"Imedlertid hafwa Archivi Ledamöter på åtskilligt sätt warit sys-selsatte.\"}, {\"bbox\": [84, 911, 1137, 1328], \"category\": \"Text\", \"text\": \"1. Af Cantzlij Rådet Berch är en Catalogus förfärdigad öfwer Manuscripterna, på det sätt, at olika ämnen, som uti et band ofta blifwit häfftade af äldre tiders Folk, noga blifwit af honom anteck-nade, då man sedt sig äga mera, än Bokens förra titul uti Inventario hade låfwat. Swenska Mynt Cabinettet hafwer märckeligen blifwit ökt först derigenom, at inge nya medailler äro förbilåtne, at ju et exemplar är wordet aflagt för Cronan; sedan at af äldre månge blif-wit tilökte dels hemma i landet, dels på utrikes auctioner, hwartil sällan andre medel äro anwände än de, som af Archivi dupletters eller dess Förlags-böckers försäljande småningom influtit.\"}, {\"bbox\": [84, 1328, 1137, 1493], \"category\": \"Text\", \"text\": \"Sammaledes är ingen lägenhet försummad til Romerska Mynt-samlingens ökande, ehuru sällan de ock förekomma. De mäst betydande Supplementer i sednare tider äro skäncker af Hr. Hof-Cantzlern Carleson och Kongl. Secr:n Baron Leuhusen;\"}, {\"bbox\": [84, 1493, 1137, 1784], \"category\": \"Text\", \"text\": \"Hwarföre man hafwer all anledning at tro, när en gång Archivum hinner inflyttas uti de rum, som på Kongl. Slottet nu warda tilredde, och alla Manuscripter, Medailler och andra Monumenter i sin be-höriga ordning kunna upställas och utbredas, man då skal finna dess Förråd ansenligare, än mången förmodat, och jemte prydnaden en långt större nytta hämtas kunna af dem, som i dessa Studier hafwa nöije.\"}, {\"bbox\": [1054, 1821, 1129, 1859], \"category\": \"Page-footer\", \"text\": \"329\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    418,
+    261,
+    807,
+    297
+   ],
+   "category": "Section-header",
+   "text": "Arbetet inom arkivet"
+  },
+  {
+   "bbox": [
+    84,
+    331,
+    1139,
+    831
+   ],
+   "category": "Text",
+   "text": "Den nästa riksdagen efter 1756 var den långa, som var samlad från oktober 1760 till juni 1762, och även till denna är Berchs berättelse bevarad (Kanslikoll. Inkomna skrivelser sign. E IV. 10 b): »Kongl. Antiqvitets Archivum hafwer sedan sidsta Riksdag under Hans Excellences Riksrådets Gref Bondes upsikt altid hafft til föremål, jemte den gamla Historien, at beskrifwa hwarjehanda ifrån äldsta tider ännu öfriga Minnesmärken. Til detta ändamåls befrämjande hafwer ock Riksens Cantzlij-Collegium behagat låta circulair-bref afgå til samteliga Consistorierna om Herrar Pastorum biträde at til Archivum inlemna berättelser om deras Soknar, hwad uti hwar och en kan finnas af ålderdoms öfwerlefwor, hwilket nyttiga föranstaltande man hoppas icke skola wara utan frukt."
+  },
+  {
+   "bbox": [
+    1136,
+    336,
+    1266,
+    398
+   ],
+   "category": "Text",
+   "text": "Consignatio-\nnen 1760"
+  },
+  {
+   "bbox": [
+    84,
+    830,
+    1137,
+    907
+   ],
+   "category": "Text",
+   "text": "Imedlertid hafwa Archivi Ledamöter på åtskilligt sätt warit sys-selsatte."
+  },
+  {
+   "bbox": [
+    84,
+    911,
+    1137,
+    1328
+   ],
+   "category": "Text",
+   "text": "1. Af Cantzlij Rådet Berch är en Catalogus förfärdigad öfwer Manuscripterna, på det sätt, at olika ämnen, som uti et band ofta blifwit häfftade af äldre tiders Folk, noga blifwit af honom anteck-nade, då man sedt sig äga mera, än Bokens förra titul uti Inventario hade låfwat. Swenska Mynt Cabinettet hafwer märckeligen blifwit ökt först derigenom, at inge nya medailler äro förbilåtne, at ju et exemplar är wordet aflagt för Cronan; sedan at af äldre månge blif-wit tilökte dels hemma i landet, dels på utrikes auctioner, hwartil sällan andre medel äro anwände än de, som af Archivi dupletters eller dess Förlags-böckers försäljande småningom influtit."
+  },
+  {
+   "bbox": [
+    84,
+    1328,
+    1137,
+    1493
+   ],
+   "category": "Text",
+   "text": "Sammaledes är ingen lägenhet försummad til Romerska Mynt-samlingens ökande, ehuru sällan de ock förekomma. De mäst betydande Supplementer i sednare tider äro skäncker af Hr. Hof-Cantzlern Carleson och Kongl. Secr:n Baron Leuhusen;"
+  },
+  {
+   "bbox": [
+    84,
+    1493,
+    1137,
+    1784
+   ],
+   "category": "Text",
+   "text": "Hwarföre man hafwer all anledning at tro, när en gång Archivum hinner inflyttas uti de rum, som på Kongl. Slottet nu warda tilredde, och alla Manuscripter, Medailler och andra Monumenter i sin be-höriga ordning kunna upställas och utbredas, man då skal finna dess Förråd ansenligare, än mången förmodat, och jemte prydnaden en långt större nytta hämtas kunna af dem, som i dessa Studier hafwa nöije."
+  },
+  {
+   "bbox": [
+    1054,
+    1821,
+    1129,
+    1859
+   ],
+   "category": "Page-footer",
+   "text": "329"
+  }
+ ]
+}

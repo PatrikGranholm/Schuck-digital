@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 225,
+ "seconds": 30.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [894, 240, 1292, 276], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [567, 311, 1617, 518], \"category\": \"Text\", \"text\": \"vell såsom den älste af de sökande inom wärket, hwilken redan tillförene warit uppå ett Assessors förslag wid Antiquitets Archivum uppförd, och slutel. Amanuensen Brocman, som igenom des arbeten och goda insigt uti de gamla Nordiska språken wunnit för sig Chefens wid wärket synnerliga recommendation.\"}, {\"bbox\": [567, 517, 1614, 636], \"category\": \"Text\", \"text\": \"Hans Excellence Herr Riks Rådet och Cantzli Presidenten Grefwe Ekeblad utnämde likaledes registratorn Åkersten, Amanuensen Görvell och Amanuensen Brocman.\"}, {\"bbox\": [567, 641, 1612, 719], \"category\": \"Text\", \"text\": \"Af de frånwarande Collegii Herrar Ledamöter war ingen i Staden, hwars tanka särskildt skulle kunna inhämtas.\"}, {\"bbox\": [565, 723, 1614, 974], \"category\": \"Text\", \"text\": \"I följe af föregående omröstning, hade Registratorn Åkersten undfått 10 vota, Cantzlisten Kjelström 6, Amanuensen Görvell 7 och Amanuensen Brocman äfwen 7 vota, hwarigenom således registratorn Åkersten och de 2:ne sistnämde komma att uppföras uti Collegii till afgifwande underdånige förslag, hwarwid detta Protocoll äfwen kommer att bifogas.\"}, {\"bbox\": [562, 972, 1610, 1551], \"category\": \"Text\", \"text\": \"Wid justeringen af detta Protocoll anmälte Herr Presidenten och HofCantzlern Carleson, det han hafft tillfälle att häraf lämna del till Hans Excellence Herr Riks Rådet Grefwe Bonde, som effter Riksens Ständers tillstyrkande äger öfwerinseendet af Bibliothequet och Antiquitets Archivum; Och hade Hans Excellence förklaradt sig mycket nögd der med, att Amanuensen Görvell och aman: Brocman blifwit uppå Förslaget uppförde, emedan Hans Excell:ns alltid funnit hos dem en synnerlig hog och drift att arbeta samt att swara emot den uppmuntran, Hans Excellence sökt gifwa betjäningen wid detta wärk. Hans Excellence skulle för öfrigit önska, att wid denna ledighet Amanuensen Brocman kommer hos Kongl. Maj:st uti nådig åtanka, emedan han synes wara dertill i synnerhet förtjänt igenom den skickelighet och den insigt, han äger uti de till denna sysla hörande stycken.»\"}, {\"bbox\": [561, 1551, 1609, 1761], \"category\": \"Text\", \"text\": \"Utan tvivel var Brocman den mest kompetente, och det var på honom som Kungl. Maj:ts val föll. Fullmakten utfärdades den 31 december 1762: »Wi Adolph Friedrich etc. giöre wetterligit, at som förmedelst Botins ärhåldne befordran femte Bibliothecarie Beställningen wid vårt och Riksens Bibliotheque och Antiquitets\"}, {\"bbox\": [567, 1786, 639, 1824], \"category\": \"Page-footer\", \"text\": \"208\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    894,
+    240,
+    1292,
+    276
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    567,
+    311,
+    1617,
+    518
+   ],
+   "category": "Text",
+   "text": "vell såsom den älste af de sökande inom wärket, hwilken redan tillförene warit uppå ett Assessors förslag wid Antiquitets Archivum uppförd, och slutel. Amanuensen Brocman, som igenom des arbeten och goda insigt uti de gamla Nordiska språken wunnit för sig Chefens wid wärket synnerliga recommendation."
+  },
+  {
+   "bbox": [
+    567,
+    517,
+    1614,
+    636
+   ],
+   "category": "Text",
+   "text": "Hans Excellence Herr Riks Rådet och Cantzli Presidenten Grefwe Ekeblad utnämde likaledes registratorn Åkersten, Amanuensen Görvell och Amanuensen Brocman."
+  },
+  {
+   "bbox": [
+    567,
+    641,
+    1612,
+    719
+   ],
+   "category": "Text",
+   "text": "Af de frånwarande Collegii Herrar Ledamöter war ingen i Staden, hwars tanka särskildt skulle kunna inhämtas."
+  },
+  {
+   "bbox": [
+    565,
+    723,
+    1614,
+    974
+   ],
+   "category": "Text",
+   "text": "I följe af föregående omröstning, hade Registratorn Åkersten undfått 10 vota, Cantzlisten Kjelström 6, Amanuensen Görvell 7 och Amanuensen Brocman äfwen 7 vota, hwarigenom således registratorn Åkersten och de 2:ne sistnämde komma att uppföras uti Collegii till afgifwande underdånige förslag, hwarwid detta Protocoll äfwen kommer att bifogas."
+  },
+  {
+   "bbox": [
+    562,
+    972,
+    1610,
+    1551
+   ],
+   "category": "Text",
+   "text": "Wid justeringen af detta Protocoll anmälte Herr Presidenten och HofCantzlern Carleson, det han hafft tillfälle att häraf lämna del till Hans Excellence Herr Riks Rådet Grefwe Bonde, som effter Riksens Ständers tillstyrkande äger öfwerinseendet af Bibliothequet och Antiquitets Archivum; Och hade Hans Excellence förklaradt sig mycket nögd der med, att Amanuensen Görvell och aman: Brocman blifwit uppå Förslaget uppförde, emedan Hans Excell:ns alltid funnit hos dem en synnerlig hog och drift att arbeta samt att swara emot den uppmuntran, Hans Excellence sökt gifwa betjäningen wid detta wärk. Hans Excellence skulle för öfrigit önska, att wid denna ledighet Amanuensen Brocman kommer hos Kongl. Maj:st uti nådig åtanka, emedan han synes wara dertill i synnerhet förtjänt igenom den skickelighet och den insigt, han äger uti de till denna sysla hörande stycken.»"
+  },
+  {
+   "bbox": [
+    561,
+    1551,
+    1609,
+    1761
+   ],
+   "category": "Text",
+   "text": "Utan tvivel var Brocman den mest kompetente, och det var på honom som Kungl. Maj:ts val föll. Fullmakten utfärdades den 31 december 1762: »Wi Adolph Friedrich etc. giöre wetterligit, at som förmedelst Botins ärhåldne befordran femte Bibliothecarie Beställningen wid vårt och Riksens Bibliotheque och Antiquitets"
+  },
+  {
+   "bbox": [
+    567,
+    1786,
+    639,
+    1824
+   ],
+   "category": "Page-footer",
+   "text": "208"
+  }
+ ]
+}

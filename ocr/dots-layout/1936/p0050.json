@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 50,
+ "seconds": 31.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [384, 277, 957, 317], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet 1747—1751\"}, {\"bbox\": [148, 345, 1190, 474], \"category\": \"Text\", \"text\": \"förbigå, och lärer den enda omständighet wid detta tillfälle giöra tillfyllest, att han både utomlands och innan Riket med heder och rättighet bär namn af antiquarius.\"}, {\"bbox\": [148, 471, 1192, 846], \"category\": \"Text\", \"text\": \"Uti andra rummet assessoren wid Kongl. antiquitets archivum Jacob Richardson, om hwars tjensteår, utgifne arbeten och goda egenskaper Collegium tillförne wid andra tillfällen sig i underdånighet yttrat. Och uti tredje rummet assessoren wid Kongl. antiquitets archivum Carl Hagelberg, som warit uti Eder Kongl. May:tts tjenst sedan år 1719 och wid bemelte archivum sedan år 1725, som jemwäl är kiänd för en mogen kunskap uti antiquiteterne så wäl som andra wettenskaper och deraf berömlige prof lemnat, hwarom Collegium tillförne sitt witnesbörd gifwit.\"}, {\"bbox\": [153, 843, 1192, 1093], \"category\": \"Text\", \"text\": \"Flere hafwa sig icke anmält, utan underställer Eder Kongl. May:tts nådigste ompröfwande Collegium i underdånighet, hwilckendera af dessa 3:ne Eder Kongl. May:tt täckes med sin nådige fullmackt uppå förenämde Secreterare beställning hugna, då densamma uti Secreteraren Helins lifstid kommer att åtnöja sig med halfwa lönen» (Kanslikoll. registratur den 22 juni 1750).\"}, {\"bbox\": [153, 1091, 1197, 1798], \"category\": \"Text\", \"text\": \"Denna skrivelse justerades redan den 25 juni, och den 3 juli föredrogs den i rådet: »Sedan anmältes Cantzlie Collegii med Kongl. May:ts nådige tillstånd ingifne underdånige förslag til den efter Helin lediga Secreterare Beställningen wid antiquitets archivum. Och som Kongl. May:t redan i anledning af Cantzlie Collegii giorde underdåniga föreställning funnit godt, det beställningen utan afbidande af den wanlige liggetiden må återbesättas. Så befaltes, det samma förslag [skulle] hos Kongl. May:t i underdånighet föredragas.» Två dagar senare var ärendet klart: »Klockan inemot 3/4 delen på Ett fick Cammar Expeditionen företräde. Hans Excellence Hr. Baron Wrede berättade, att han, effter hwad i förrgår i Rådet blef resolverat, samma dag efter middagen varit ute på Carlberg och föredragit Hans May:t förslaget till Secreterare Beställningen i Antiquitets Archivo och att Hans May:t då behagat till bemälte ledighet utnämna Secreteraren Berck, som står föreslagen därtill i första rummet. Däruppå förmälte StatsSecreteraren Boneauschiöld, att som Cancellie Colleg. uppå Hans May:ts meddelte tillstånd innom\"}, {\"bbox\": [162, 1852, 296, 1879], \"category\": \"Page-footer\", \"text\": \"3—34832. V.\"}, {\"bbox\": [1148, 1833, 1193, 1868], \"category\": \"Page-footer\", \"text\": \"33\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    384,
+    277,
+    957,
+    317
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet 1747—1751"
+  },
+  {
+   "bbox": [
+    148,
+    345,
+    1190,
+    474
+   ],
+   "category": "Text",
+   "text": "förbigå, och lärer den enda omständighet wid detta tillfälle giöra tillfyllest, att han både utomlands och innan Riket med heder och rättighet bär namn af antiquarius."
+  },
+  {
+   "bbox": [
+    148,
+    471,
+    1192,
+    846
+   ],
+   "category": "Text",
+   "text": "Uti andra rummet assessoren wid Kongl. antiquitets archivum Jacob Richardson, om hwars tjensteår, utgifne arbeten och goda egenskaper Collegium tillförne wid andra tillfällen sig i underdånighet yttrat. Och uti tredje rummet assessoren wid Kongl. antiquitets archivum Carl Hagelberg, som warit uti Eder Kongl. May:tts tjenst sedan år 1719 och wid bemelte archivum sedan år 1725, som jemwäl är kiänd för en mogen kunskap uti antiquiteterne så wäl som andra wettenskaper och deraf berömlige prof lemnat, hwarom Collegium tillförne sitt witnesbörd gifwit."
+  },
+  {
+   "bbox": [
+    153,
+    843,
+    1192,
+    1093
+   ],
+   "category": "Text",
+   "text": "Flere hafwa sig icke anmält, utan underställer Eder Kongl. May:tts nådigste ompröfwande Collegium i underdånighet, hwilckendera af dessa 3:ne Eder Kongl. May:tt täckes med sin nådige fullmackt uppå förenämde Secreterare beställning hugna, då densamma uti Secreteraren Helins lifstid kommer att åtnöja sig med halfwa lönen» (Kanslikoll. registratur den 22 juni 1750)."
+  },
+  {
+   "bbox": [
+    153,
+    1091,
+    1197,
+    1798
+   ],
+   "category": "Text",
+   "text": "Denna skrivelse justerades redan den 25 juni, och den 3 juli föredrogs den i rådet: »Sedan anmältes Cantzlie Collegii med Kongl. May:ts nådige tillstånd ingifne underdånige förslag til den efter Helin lediga Secreterare Beställningen wid antiquitets archivum. Och som Kongl. May:t redan i anledning af Cantzlie Collegii giorde underdåniga föreställning funnit godt, det beställningen utan afbidande af den wanlige liggetiden må återbesättas. Så befaltes, det samma förslag [skulle] hos Kongl. May:t i underdånighet föredragas.» Två dagar senare var ärendet klart: »Klockan inemot 3/4 delen på Ett fick Cammar Expeditionen företräde. Hans Excellence Hr. Baron Wrede berättade, att han, effter hwad i förrgår i Rådet blef resolverat, samma dag efter middagen varit ute på Carlberg och föredragit Hans May:t förslaget till Secreterare Beställningen i Antiquitets Archivo och att Hans May:t då behagat till bemälte ledighet utnämna Secreteraren Berck, som står föreslagen därtill i första rummet. Däruppå förmälte StatsSecreteraren Boneauschiöld, att som Cancellie Colleg. uppå Hans May:ts meddelte tillstånd innom"
+  },
+  {
+   "bbox": [
+    162,
+    1852,
+    296,
+    1879
+   ],
+   "category": "Page-footer",
+   "text": "3—34832. V."
+  },
+  {
+   "bbox": [
+    1148,
+    1833,
+    1193,
+    1868
+   ],
+   "category": "Page-footer",
+   "text": "33"
+  }
+ ]
+}

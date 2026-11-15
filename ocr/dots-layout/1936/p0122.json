@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 122,
+ "seconds": 28.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [201, 251, 1067, 295], \"category\": \"Section-header\", \"text\": \"Antikvitetsarkivet och Biblioteket 1751—1766\"}, {\"bbox\": [108, 322, 1159, 449], \"category\": \"Text\", \"text\": \"demien — och ett bland de sista protokollen fördes av en e. o. amanuens, Johan Elers. De första, som finnas V. H. H. A. sign. Ab. 23, äro skrivna med Berchs egen hand:\"}, {\"bbox\": [108, 453, 588, 496], \"category\": \"Text\", \"text\": \"»1750. Den 17:de Novembris.\"}, {\"bbox\": [302, 507, 961, 667], \"category\": \"Text\", \"text\": \"närwarande uti Kongl. antiquitets archivo\\nSecreteraren Berch\\nAssessor Hagelberg\\nTranslatoren Wessman.\"}, {\"bbox\": [108, 695, 1159, 1276], \"category\": \"Text\", \"text\": \"Secr. Berch Anmälte sit under händer hafwande arbete at skrifwa en Historiam Numismaticam familiarum illustrium patriæ, hwarwid fuller förnämsta afsikten wore at gifwa en så fulkomlig lefwernes beskrifning om de personer, som stå afbildade eller omnämnas på skåde-penningar, som någonsin hafwas kunde; dock wore nödigt at wid början af hwar familia och innan man skrede til den enskylte personens lefwerne något orda om släktens ursprung, delande i flera grenar, hwilka af dem wore utgångne, när en eller annan blifwit förbättrad med grefwe och friherre stånd samt på hwad sätt de uti skiöldemärcken skilja sig ifrån hwarandra med mera, som kan tiena til släktens historia i gemen, utan at gå uti någon detail om alla individuis, hwilket tilhörde dem, som ex professo wille skrifwa Genealogier.\"}, {\"bbox\": [108, 1276, 1159, 1772], \"category\": \"Text\", \"text\": \"Til prof uplästes preliminair historierna om Brahiska och DelaGardiska slächterne, hwarmed herrar Collegæ woro nögde. Secr. Berch upläste äfwenwäl en del af et bref, som en hans Correspondent i Franckrike honom tilskrifwit angående Keders Nummus Othini. Den franske lärde trodde, så mycket han kunde sluta af ritningen, at penningen wore göthisk, men at ansiktet icke förestälte Odin utan någon af detta folckets Konungar och at penningen wore af samma classe som Médallas Desconocidas, hwarom Lathanosa och Mahudel hade skrifwit. Dock fick man med det samma effterrättelse om en tredie auctore, hwilcken ingen af de närwarande hade sig bekant, och tiente i detta ämnet, neml. Les curiosités de Paul\"}, {\"bbox\": [1080, 1811, 1151, 1850], \"category\": \"Page-footer\", \"text\": \"105\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    201,
+    251,
+    1067,
+    295
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsarkivet och Biblioteket 1751—1766"
+  },
+  {
+   "bbox": [
+    108,
+    322,
+    1159,
+    449
+   ],
+   "category": "Text",
+   "text": "demien — och ett bland de sista protokollen fördes av en e. o. amanuens, Johan Elers. De första, som finnas V. H. H. A. sign. Ab. 23, äro skrivna med Berchs egen hand:"
+  },
+  {
+   "bbox": [
+    108,
+    453,
+    588,
+    496
+   ],
+   "category": "Text",
+   "text": "»1750. Den 17:de Novembris."
+  },
+  {
+   "bbox": [
+    302,
+    507,
+    961,
+    667
+   ],
+   "category": "Text",
+   "text": "närwarande uti Kongl. antiquitets archivo\nSecreteraren Berch\nAssessor Hagelberg\nTranslatoren Wessman."
+  },
+  {
+   "bbox": [
+    108,
+    695,
+    1159,
+    1276
+   ],
+   "category": "Text",
+   "text": "Secr. Berch Anmälte sit under händer hafwande arbete at skrifwa en Historiam Numismaticam familiarum illustrium patriæ, hwarwid fuller förnämsta afsikten wore at gifwa en så fulkomlig lefwernes beskrifning om de personer, som stå afbildade eller omnämnas på skåde-penningar, som någonsin hafwas kunde; dock wore nödigt at wid början af hwar familia och innan man skrede til den enskylte personens lefwerne något orda om släktens ursprung, delande i flera grenar, hwilka af dem wore utgångne, när en eller annan blifwit förbättrad med grefwe och friherre stånd samt på hwad sätt de uti skiöldemärcken skilja sig ifrån hwarandra med mera, som kan tiena til släktens historia i gemen, utan at gå uti någon detail om alla individuis, hwilket tilhörde dem, som ex professo wille skrifwa Genealogier."
+  },
+  {
+   "bbox": [
+    108,
+    1276,
+    1159,
+    1772
+   ],
+   "category": "Text",
+   "text": "Til prof uplästes preliminair historierna om Brahiska och DelaGardiska slächterne, hwarmed herrar Collegæ woro nögde. Secr. Berch upläste äfwenwäl en del af et bref, som en hans Correspondent i Franckrike honom tilskrifwit angående Keders Nummus Othini. Den franske lärde trodde, så mycket han kunde sluta af ritningen, at penningen wore göthisk, men at ansiktet icke förestälte Odin utan någon af detta folckets Konungar och at penningen wore af samma classe som Médallas Desconocidas, hwarom Lathanosa och Mahudel hade skrifwit. Dock fick man med det samma effterrättelse om en tredie auctore, hwilcken ingen af de närwarande hade sig bekant, och tiente i detta ämnet, neml. Les curiosités de Paul"
+  },
+  {
+   "bbox": [
+    1080,
+    1811,
+    1151,
+    1850
+   ],
+   "category": "Page-footer",
+   "text": "105"
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 160,
+ "seconds": 29.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [187, 253, 1061, 298], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet och Biblioteket 1751—1766\"}, {\"bbox\": [94, 324, 1149, 493], \"category\": \"Text\", \"text\": \"tale om Deres Excellences Kiærlighed for lærdom og studerede folk og Deres omhu for nordiske antiquiteterne, at ieg selv setter et gandske stort verde derpaa og havde billigen anseet Deres Excellences bekendskab for en af de bedste acquisitioner paa min Reise.\"}, {\"bbox\": [94, 491, 1149, 866], \"category\": \"Text\", \"text\": \"Naadige Herre. Siden ieg da ikke var lykkelig at faae personlig opvarte Deres Höigrevelige Excellence, utbeder ieg mig Deres Excellences tilladelse til at skriftligen frembyde min underdanige opvartning. Intet bedre Tilfelde kunde mig gives end nu ieg fornemmer, at Rigets Stænder har giort et saa lykkeligt Trin og formaaet Deres Excellence til at paatage sig et opsigt over Kongl. antiquitets archivum, hvortil Deres Excellence ieg af hiertet gratulerer, men meget mere önsker publico og det kiære Svenske Fædernesland til lykke, som deraf ufeilbarligen vil hente den störste heder og fordeel.\"}, {\"bbox\": [94, 864, 1149, 1528], \"category\": \"Text\", \"text\": \"Jeg vilde önske Deres Excellence maatte falde paa de naadige tanker at see et Corpus Diplomaticum Sveciæ befordret til lyset, som kunde svare imod det store verk af samme slag, hvorpaa efter vor Konges prisverdige befaling ieg her i mange aar af alle Rigets archiver har samlet. Deres Excellence indseer langt bedre end ieg, hvad Lys og vished deraf i fremtiden vilde flyde til alle dele af nordiske Historien. Dersom ieg ikke gaaer alt for vidt i min dristighed, understaar ieg mig at foreslaae Deres Excellence en ung mand, som med allerstörste nytte til saadant arbeid kunde bruges, navnlig Magister Brocman, som paa ovenmeldte reise mig bestandig som medhielper og ikke lidet for sin egen deel profiterede af leiligheden, men for nærværende tid opholder sig i Lund. Af unge mennesker har ieg ikke kiænt hans lige i assiduité, accuratesse og alle de egenskaber, som höre til at handle artem diplomaticam, foruden at tale om den gode kundskab han besidder ei allene i Juridiquen, men fornemligen i sit fæderneslands Historie og Antiquiteter.\"}, {\"bbox\": [94, 1526, 1149, 1653], \"category\": \"Text\", \"text\": \"Under Deres Excellences höie protection vil ieg have baade hannem og mig underdanigst recommenderet og for det övrige have æren med en uendelig stor höiagtning at förblive — — — —\"}, {\"bbox\": [887, 1663, 1109, 1707], \"category\": \"Text\", \"text\": \"J. Langebek.\"}, {\"bbox\": [94, 1703, 612, 1748], \"category\": \"Text\", \"text\": \"Kiöbenhavn d. 22 Martii 1757.»\"}, {\"bbox\": [1068, 1815, 1139, 1853], \"category\": \"Page-footer\", \"text\": \"143\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    187,
+    253,
+    1061,
+    298
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet och Biblioteket 1751—1766"
+  },
+  {
+   "bbox": [
+    94,
+    324,
+    1149,
+    493
+   ],
+   "category": "Text",
+   "text": "tale om Deres Excellences Kiærlighed for lærdom og studerede folk og Deres omhu for nordiske antiquiteterne, at ieg selv setter et gandske stort verde derpaa og havde billigen anseet Deres Excellences bekendskab for en af de bedste acquisitioner paa min Reise."
+  },
+  {
+   "bbox": [
+    94,
+    491,
+    1149,
+    866
+   ],
+   "category": "Text",
+   "text": "Naadige Herre. Siden ieg da ikke var lykkelig at faae personlig opvarte Deres Höigrevelige Excellence, utbeder ieg mig Deres Excellences tilladelse til at skriftligen frembyde min underdanige opvartning. Intet bedre Tilfelde kunde mig gives end nu ieg fornemmer, at Rigets Stænder har giort et saa lykkeligt Trin og formaaet Deres Excellence til at paatage sig et opsigt over Kongl. antiquitets archivum, hvortil Deres Excellence ieg af hiertet gratulerer, men meget mere önsker publico og det kiære Svenske Fædernesland til lykke, som deraf ufeilbarligen vil hente den störste heder og fordeel."
+  },
+  {
+   "bbox": [
+    94,
+    864,
+    1149,
+    1528
+   ],
+   "category": "Text",
+   "text": "Jeg vilde önske Deres Excellence maatte falde paa de naadige tanker at see et Corpus Diplomaticum Sveciæ befordret til lyset, som kunde svare imod det store verk af samme slag, hvorpaa efter vor Konges prisverdige befaling ieg her i mange aar af alle Rigets archiver har samlet. Deres Excellence indseer langt bedre end ieg, hvad Lys og vished deraf i fremtiden vilde flyde til alle dele af nordiske Historien. Dersom ieg ikke gaaer alt for vidt i min dristighed, understaar ieg mig at foreslaae Deres Excellence en ung mand, som med allerstörste nytte til saadant arbeid kunde bruges, navnlig Magister Brocman, som paa ovenmeldte reise mig bestandig som medhielper og ikke lidet for sin egen deel profiterede af leiligheden, men for nærværende tid opholder sig i Lund. Af unge mennesker har ieg ikke kiænt hans lige i assiduité, accuratesse og alle de egenskaber, som höre til at handle artem diplomaticam, foruden at tale om den gode kundskab han besidder ei allene i Juridiquen, men fornemligen i sit fæderneslands Historie og Antiquiteter."
+  },
+  {
+   "bbox": [
+    94,
+    1526,
+    1149,
+    1653
+   ],
+   "category": "Text",
+   "text": "Under Deres Excellences höie protection vil ieg have baade hannem og mig underdanigst recommenderet og for det övrige have æren med en uendelig stor höiagtning at förblive — — — —"
+  },
+  {
+   "bbox": [
+    887,
+    1663,
+    1109,
+    1707
+   ],
+   "category": "Text",
+   "text": "J. Langebek."
+  },
+  {
+   "bbox": [
+    94,
+    1703,
+    612,
+    1748
+   ],
+   "category": "Text",
+   "text": "Kiöbenhavn d. 22 Martii 1757.»"
+  },
+  {
+   "bbox": [
+    1068,
+    1815,
+    1139,
+    1853
+   ],
+   "category": "Page-footer",
+   "text": "143"
+  }
+ ]
+}

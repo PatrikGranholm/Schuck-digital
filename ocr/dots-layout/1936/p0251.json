@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 251,
+ "seconds": 18.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [884, 251, 1281, 286], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [556, 321, 1608, 447], \"category\": \"Text\", \"text\": \"något i ökade arbetskrafter, och när riksdagen sammanträdde den 16 januari 1765 voro förhållandena inom verket så abderitiska, att ett ingripande väl kunde anses påkallat.\"}, {\"bbox\": [554, 445, 1608, 857], \"category\": \"Text\", \"text\": \"Vid biblioteket funnos två platser, bibliotekarien och amanuensen, den förre med 600 dalers, den senare med 250 dalers avlöning. Bibliotekarie var Anders Wilde, men lönen uppbars av rikshistoriografen v. Celse, och Wilde fick nöja sig med den i staten åt historiografens amanuens anslagna lönen, 400 daler; amanuenssysslan hos historiografen sköttes ej av honom utan av den lönlöse Loenbom. Amanuens vid biblioteket var Gjörwell, som även uppbar amanuenslönen, men vars tid väsentligen upptogs av de litterära publikationer, han utgav. I följd därav hade man, utom staten, tillsatt en annan ordinarie amanuens, Rabenius — utan lön.\"}, {\"bbox\": [554, 859, 1606, 1391], \"category\": \"Text\", \"text\": \"Vid arkivet funnos — utom chefsplatsen, som innehades av Berch med 1200 dalers lön — tre assessorsplatser, två amanuenser och en ritare. Assessorerna uppburo, de två äldsta 600 daler, den yngste 500 (translatorslönen), de båda amanuenserna 300 daler var. Men ingen av de tre, som uppburo assessorslönerna, gjorde tjänst. Botin var kammarråd, Prael prinsessans informator, och Helsingius hade av egen maktfullkomlighet gjort sig tjänstfri. Dessutom fanns en e. o. assessor utan lön, Mozelius, som heller icke gjorde tjänst. Endast de två amanuensplatserna voro besatta med personer, som verkligen arbetade i arkivet, med Brocman, som väl hade assessors titel, men ingen assessorslön, och Gagnerus. Av sju tjänstemän voro fyra således endast titulära. Sådan var ställningen, då riksdagen sammanträdde.\"}, {\"bbox\": [558, 1806, 634, 1844], \"category\": \"Page-footer\", \"text\": \"234\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    884,
+    251,
+    1281,
+    286
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    556,
+    321,
+    1608,
+    447
+   ],
+   "category": "Text",
+   "text": "något i ökade arbetskrafter, och när riksdagen sammanträdde den 16 januari 1765 voro förhållandena inom verket så abderitiska, att ett ingripande väl kunde anses påkallat."
+  },
+  {
+   "bbox": [
+    554,
+    445,
+    1608,
+    857
+   ],
+   "category": "Text",
+   "text": "Vid biblioteket funnos två platser, bibliotekarien och amanuensen, den förre med 600 dalers, den senare med 250 dalers avlöning. Bibliotekarie var Anders Wilde, men lönen uppbars av rikshistoriografen v. Celse, och Wilde fick nöja sig med den i staten åt historiografens amanuens anslagna lönen, 400 daler; amanuenssysslan hos historiografen sköttes ej av honom utan av den lönlöse Loenbom. Amanuens vid biblioteket var Gjörwell, som även uppbar amanuenslönen, men vars tid väsentligen upptogs av de litterära publikationer, han utgav. I följd därav hade man, utom staten, tillsatt en annan ordinarie amanuens, Rabenius — utan lön."
+  },
+  {
+   "bbox": [
+    554,
+    859,
+    1606,
+    1391
+   ],
+   "category": "Text",
+   "text": "Vid arkivet funnos — utom chefsplatsen, som innehades av Berch med 1200 dalers lön — tre assessorsplatser, två amanuenser och en ritare. Assessorerna uppburo, de två äldsta 600 daler, den yngste 500 (translatorslönen), de båda amanuenserna 300 daler var. Men ingen av de tre, som uppburo assessorslönerna, gjorde tjänst. Botin var kammarråd, Prael prinsessans informator, och Helsingius hade av egen maktfullkomlighet gjort sig tjänstfri. Dessutom fanns en e. o. assessor utan lön, Mozelius, som heller icke gjorde tjänst. Endast de två amanuensplatserna voro besatta med personer, som verkligen arbetade i arkivet, med Brocman, som väl hade assessors titel, men ingen assessorslön, och Gagnerus. Av sju tjänstemän voro fyra således endast titulära. Sådan var ställningen, då riksdagen sammanträdde."
+  },
+  {
+   "bbox": [
+    558,
+    1806,
+    634,
+    1844
+   ],
+   "category": "Page-footer",
+   "text": "234"
+  }
+ ]
+}

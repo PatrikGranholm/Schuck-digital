@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 430,
+ "seconds": 30.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [348, 566, 841, 602], \"category\": \"Section-header\", \"text\": \"## FORNVÅRD OCH RESOR.\"}, {\"bbox\": [64, 679, 1122, 1179], \"category\": \"Text\", \"text\": \"Hadorph och Peringskiöld hade, som vi minnas, inlagt stora förtjänster om fornvården och nästan årligen rest kring i landsorten, men under Helins tid hade denna fornvård legat så gott som nere, och ej heller Berch tyckes hava i någon större grad intresserat sig för denna sak. Att på ett mera effektivt sätt utöva en inspektion över de kring hela riket spridda fornlämningarna var ju med den tidens kommunikationsförhållanden och arkivets otillräckliga reseanslag knappt heller möjligt, och fornvården, för så vitt den förekom, fick i praktiken därför skötas av konsistorierna¹ och landshövdingarna. Antikvitetsarkivets och kanslikollegiets del däri kom helt naturligt att begränsas till de direktiv, de kunde giva dessa myndigheter.\"}, {\"bbox\": [1124, 684, 1238, 713], \"category\": \"Text\", \"text\": \"Cirkuläret\"}, {\"bbox\": [1152, 720, 1207, 746], \"category\": \"Text\", \"text\": \"1753\"}, {\"bbox\": [66, 1178, 1122, 1427], \"category\": \"Text\", \"text\": \"Under denna tid togs frågan om fornvården upp av Tessin, som vid kanslikollegiets sammanträde den 19 september 1750 berättade »om de i Strengnes befinteliga konungagrafwars otjenliga tillstånd, dem man funnit dels öpne, dels till kistorne skadde med mera, och aldenstund Kongl. May:t i nåder anbefallt dess och Riksens Cantzlie Collegium att till konungagrafwarnes wård låta dem med Collegii\"}, {\"bbox\": [66, 1449, 1123, 1630], \"category\": \"Footnote\", \"text\": \"¹ Så hade biskop Halenius utverkat ett anslag till restauration av Varnhems kyrka. Därom skrives i sekreta utskottets protokoll för den 19 juni 1756: »Upl. en af Stats Deputationen projecterad skrifwelse ang:e Varnhems kyrkas reparerande, hwaruti föreslås, att sedan Kgl. M:t bewiljat kyrkan en Collect öfwer hela riket, densamma tillika med de af Statsmedlen årligen bestådde femtijo dal. smt lära göra tillfyllest till samma kyrkas i stånd sättande och underhållande, ingen tillökning därå bewiljas må.\"}, {\"bbox\": [66, 1628, 1123, 1779], \"category\": \"Footnote\", \"text\": \"Hr. Biskoppen Dr. Halenius förestälte, att denne kyrcka är namnkunnig icke allenast för dess wackra byggnad utan ock för de konungagrafwar där äro och hemstälte, om icke i anseende till den föreslagne summans otillräckelighet den samma ännu kunde något ökas, hwilcket uppå skedd proposition i så måtto biföls, att en årl. tillökning af 30 Dr. smt sker å den förut bestådde summa, och komma dessa penningar att tagas af Statsmedlen.»\"}, {\"bbox\": [1039, 1813, 1115, 1849], \"category\": \"Page-footer\", \"text\": \"411\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    348,
+    566,
+    841,
+    602
+   ],
+   "category": "Section-header",
+   "text": "## FORNVÅRD OCH RESOR."
+  },
+  {
+   "bbox": [
+    64,
+    679,
+    1122,
+    1179
+   ],
+   "category": "Text",
+   "text": "Hadorph och Peringskiöld hade, som vi minnas, inlagt stora förtjänster om fornvården och nästan årligen rest kring i landsorten, men under Helins tid hade denna fornvård legat så gott som nere, och ej heller Berch tyckes hava i någon större grad intresserat sig för denna sak. Att på ett mera effektivt sätt utöva en inspektion över de kring hela riket spridda fornlämningarna var ju med den tidens kommunikationsförhållanden och arkivets otillräckliga reseanslag knappt heller möjligt, och fornvården, för så vitt den förekom, fick i praktiken därför skötas av konsistorierna¹ och landshövdingarna. Antikvitetsarkivets och kanslikollegiets del däri kom helt naturligt att begränsas till de direktiv, de kunde giva dessa myndigheter."
+  },
+  {
+   "bbox": [
+    1124,
+    684,
+    1238,
+    713
+   ],
+   "category": "Text",
+   "text": "Cirkuläret"
+  },
+  {
+   "bbox": [
+    1152,
+    720,
+    1207,
+    746
+   ],
+   "category": "Text",
+   "text": "1753"
+  },
+  {
+   "bbox": [
+    66,
+    1178,
+    1122,
+    1427
+   ],
+   "category": "Text",
+   "text": "Under denna tid togs frågan om fornvården upp av Tessin, som vid kanslikollegiets sammanträde den 19 september 1750 berättade »om de i Strengnes befinteliga konungagrafwars otjenliga tillstånd, dem man funnit dels öpne, dels till kistorne skadde med mera, och aldenstund Kongl. May:t i nåder anbefallt dess och Riksens Cantzlie Collegium att till konungagrafwarnes wård låta dem med Collegii"
+  },
+  {
+   "bbox": [
+    66,
+    1449,
+    1123,
+    1630
+   ],
+   "category": "Footnote",
+   "text": "¹ Så hade biskop Halenius utverkat ett anslag till restauration av Varnhems kyrka. Därom skrives i sekreta utskottets protokoll för den 19 juni 1756: »Upl. en af Stats Deputationen projecterad skrifwelse ang:e Varnhems kyrkas reparerande, hwaruti föreslås, att sedan Kgl. M:t bewiljat kyrkan en Collect öfwer hela riket, densamma tillika med de af Statsmedlen årligen bestådde femtijo dal. smt lära göra tillfyllest till samma kyrkas i stånd sättande och underhållande, ingen tillökning därå bewiljas må."
+  },
+  {
+   "bbox": [
+    66,
+    1628,
+    1123,
+    1779
+   ],
+   "category": "Footnote",
+   "text": "Hr. Biskoppen Dr. Halenius förestälte, att denne kyrcka är namnkunnig icke allenast för dess wackra byggnad utan ock för de konungagrafwar där äro och hemstälte, om icke i anseende till den föreslagne summans otillräckelighet den samma ännu kunde något ökas, hwilcket uppå skedd proposition i så måtto biföls, att en årl. tillökning af 30 Dr. smt sker å den förut bestådde summa, och komma dessa penningar att tagas af Statsmedlen.»"
+  },
+  {
+   "bbox": [
+    1039,
+    1813,
+    1115,
+    1849
+   ],
+   "category": "Page-footer",
+   "text": "411"
+  }
+ ]
+}

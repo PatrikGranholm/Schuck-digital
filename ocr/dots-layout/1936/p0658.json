@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 658,
+ "seconds": 30.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [325, 255, 905, 298], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet 1778—1786\"}, {\"bbox\": [87, 325, 1133, 493], \"category\": \"Text\", \"text\": \"förtroende, Collegium til dem hyser, at deräst Eder Kongl. May:t skulle i nåder täckas hugna någondera af dem med den i fråga warande Antiquarii sysslan, densamma warder til Eder Kongl. May:ts höga nöje bestridd.»\"}, {\"bbox\": [87, 493, 1133, 785], \"category\": \"Text\", \"text\": \"Som man märker, tyckes kollegiet snarast hava varit böjd för Gagnerus, men hade förmodligen fått en vink om, att Adlerbeth redan på förhand var utsedd. Man uppförde honom därför i första rummet, och endast några dagar senare blev han utnämnd. I det Kongl. brevet den 25 februari 1778 nämndes han emellertid icke till »antiquarius och translator i gamla språken», utan till »antiquarius» med titel och rang av förste expeditionssekreterare. Brevet lyder:\"}, {\"bbox\": [1141, 501, 1246, 559], \"category\": \"Text\", \"text\": \"Adlerbeth utnämnes\"}, {\"bbox\": [87, 783, 1133, 1525], \"category\": \"Text\", \"text\": \"»Wi Gustaf etc. göre weterligit, att som medelst Cantzlie Rådets och Riddarens af Wår Nordstjerneorden Carl Reinhold Berchs timade död antiqvarii beställningen wid Wårt antiquitets archivum är worden ledig och Wi nu icke allenast funnit samma beställning af sådan beskaffenhet, att den med förste ExpeditionsSecreterare ämbetet wid StatsExpeditionerne bör wara uti lika anseende och wärdighet utan ock wid återbesättjandet deraf OSS i nåder påminne Wår Trotjenare Protocoll Secreteraren wid Wår KrigsExpedition OSS älskelig och wälbördig Gudmund Adlerbeths å daga lagde öfwertygande prof af lärdom och insigter samt utmärkta nit och skickelighet, hwarmedelst han gjort sig wärdig och förtjent till widare befordran. Altså wele Wi härmed och i kraft af denna Wår öpna Fullmagt nådeligen hafwa förordnat honom Gudmund Adlerbeth att i bemälde Berchs ställe wara antiquarius wid berörde Wårt antiquitets archivum med åtnjutande af den lön och förmon samma syssla tillkommer samt det anseende och wärdighet, Wi i förenämnde måtto i nåder godtfunnit samma ämbete att tillägga» (Riksregistraturet).\"}, {\"bbox\": [87, 1527, 1133, 1779], \"category\": \"Text\", \"text\": \"Sin ämbetsed avlade Adlerbeth den 20 mars, »wid hwilket tillfälle bemälte antiquarie anhölt, det Kongl. Collegium behagade att till honom låta inventera de wid Kongl. antiquitets archivum warande Manuscripter och Monumenter, hwilka han såsom tillförordnad antiqvarie nu kommer att emottaga och hädanefter förwara. Kongl. antiquarien afträdde, och updrogs herrar Cantzli-\"}, {\"bbox\": [1052, 1808, 1127, 1856], \"category\": \"Page-footer\", \"text\": \"629\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    325,
+    255,
+    905,
+    298
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet 1778—1786"
+  },
+  {
+   "bbox": [
+    87,
+    325,
+    1133,
+    493
+   ],
+   "category": "Text",
+   "text": "förtroende, Collegium til dem hyser, at deräst Eder Kongl. May:t skulle i nåder täckas hugna någondera af dem med den i fråga warande Antiquarii sysslan, densamma warder til Eder Kongl. May:ts höga nöje bestridd.»"
+  },
+  {
+   "bbox": [
+    87,
+    493,
+    1133,
+    785
+   ],
+   "category": "Text",
+   "text": "Som man märker, tyckes kollegiet snarast hava varit böjd för Gagnerus, men hade förmodligen fått en vink om, att Adlerbeth redan på förhand var utsedd. Man uppförde honom därför i första rummet, och endast några dagar senare blev han utnämnd. I det Kongl. brevet den 25 februari 1778 nämndes han emellertid icke till »antiquarius och translator i gamla språken», utan till »antiquarius» med titel och rang av förste expeditionssekreterare. Brevet lyder:"
+  },
+  {
+   "bbox": [
+    1141,
+    501,
+    1246,
+    559
+   ],
+   "category": "Text",
+   "text": "Adlerbeth utnämnes"
+  },
+  {
+   "bbox": [
+    87,
+    783,
+    1133,
+    1525
+   ],
+   "category": "Text",
+   "text": "»Wi Gustaf etc. göre weterligit, att som medelst Cantzlie Rådets och Riddarens af Wår Nordstjerneorden Carl Reinhold Berchs timade död antiqvarii beställningen wid Wårt antiquitets archivum är worden ledig och Wi nu icke allenast funnit samma beställning af sådan beskaffenhet, att den med förste ExpeditionsSecreterare ämbetet wid StatsExpeditionerne bör wara uti lika anseende och wärdighet utan ock wid återbesättjandet deraf OSS i nåder påminne Wår Trotjenare Protocoll Secreteraren wid Wår KrigsExpedition OSS älskelig och wälbördig Gudmund Adlerbeths å daga lagde öfwertygande prof af lärdom och insigter samt utmärkta nit och skickelighet, hwarmedelst han gjort sig wärdig och förtjent till widare befordran. Altså wele Wi härmed och i kraft af denna Wår öpna Fullmagt nådeligen hafwa förordnat honom Gudmund Adlerbeth att i bemälde Berchs ställe wara antiquarius wid berörde Wårt antiquitets archivum med åtnjutande af den lön och förmon samma syssla tillkommer samt det anseende och wärdighet, Wi i förenämnde måtto i nåder godtfunnit samma ämbete att tillägga» (Riksregistraturet)."
+  },
+  {
+   "bbox": [
+    87,
+    1527,
+    1133,
+    1779
+   ],
+   "category": "Text",
+   "text": "Sin ämbetsed avlade Adlerbeth den 20 mars, »wid hwilket tillfälle bemälte antiquarie anhölt, det Kongl. Collegium behagade att till honom låta inventera de wid Kongl. antiquitets archivum warande Manuscripter och Monumenter, hwilka han såsom tillförordnad antiqvarie nu kommer att emottaga och hädanefter förwara. Kongl. antiquarien afträdde, och updrogs herrar Cantzli-"
+  },
+  {
+   "bbox": [
+    1052,
+    1808,
+    1127,
+    1856
+   ],
+   "category": "Page-footer",
+   "text": "629"
+  }
+ ]
+}

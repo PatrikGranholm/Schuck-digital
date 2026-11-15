@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 700,
+ "seconds": 29.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [331, 267, 913, 311], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet 1778—1786\"}, {\"bbox\": [93, 337, 1146, 507], \"category\": \"Text\", \"text\": \"i konungens tjenst haft den nåden innom bemälte tid tillbringa mäst ett år på utrikes bottn samt tillika här hemma warit af Hans Maj:st nyttjad till upgift af nödige pröfwade skådepenningar samt utarbetande af Konungens Histoire metallique.\"}, {\"bbox\": [91, 504, 1146, 1035], \"category\": \"Text\", \"text\": \"Jag torde likwäl wid detta tillfälle böra i ödmjukhet nämna, at icke allenast Kongl. Svenska Mynt-Cabinettet blifwit förökt med alla de mynt, skåde-, minnes- och spel-penningar, hwilka under denna tiden inom Riket utkommit och hwaraf enligt Kongl. Maj:sts nådiga förordnande exemplar i Silfwer gratis ifrån Myntet böra aflämnas, utan ock att det efter framledne Cantzli Rådet Berch lämnade och nu med Kongl. Samlingen införlifwade Cabinett af utländske Privatorum minnespenningar blifwit ökt med ett wackert antal Franske, några Tyska och Italienska, hvilka jag genom benäget föranstaltande af flera wid Kongl. Maj:sts beskickningar utomlands nyttjade Embetsmän haft tillfälle låta komma, Såsom jag ock äfwen nu wäntar åthskillige dylika penningar från Ängland och Italien.\"}, {\"bbox\": [91, 1041, 1142, 1580], \"category\": \"Text\", \"text\": \"Hwad angår Svenska forntids minnesmärken, så hafwa äfwen på de förflutne trenne åren flere sådana blifwit inlöste: Såsom 1783 från Upland en liten i jorden funnen ring af wriden Guldtråd; 1784 18 wid Kaggeholm upgrafne guldpenningar af det så kallade nedre kejsardömet; Samma år likaledes en ansenlig myckenhet i Skåne fundne anglo Saxoniska Silfwerpenningar; 1785 ett på Öland funnit metall Sigill; 1786 en i Norrland ur jorden hämtad stor tummering; Samma år 29 st. äfwen i Swensk jord fundne tyska Guld-Mynt. Men som alla dessa i Höglofl. Kongl. Collegio äro i sin ordning anmäldte och fördenskull underrättelse om dem i Dess Protocoller utförligen förwarad, så fölle jag genom en omständeligare berättelse härom Höglofl. Kongl. Collegium allenast till onödigt beswär.\"}, {\"bbox\": [91, 1579, 1140, 1789], \"category\": \"Text\", \"text\": \"Den inhemska Portrait-samling, som wid Kongl. Antiquitets Archivet förwaras och som enligt Hans Maj:sts nådiga tillstånd bör alt framgent hållas fullständig genom ett fullgodt exemplars ditlefwererande utan betalning af hwart och ett innom Riket graveradt portrait af Svenska personer, har äfwen under samma tid vunnit\"}, {\"bbox\": [1058, 1820, 1135, 1868], \"category\": \"Page-footer\", \"text\": \"669\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    331,
+    267,
+    913,
+    311
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet 1778—1786"
+  },
+  {
+   "bbox": [
+    93,
+    337,
+    1146,
+    507
+   ],
+   "category": "Text",
+   "text": "i konungens tjenst haft den nåden innom bemälte tid tillbringa mäst ett år på utrikes bottn samt tillika här hemma warit af Hans Maj:st nyttjad till upgift af nödige pröfwade skådepenningar samt utarbetande af Konungens Histoire metallique."
+  },
+  {
+   "bbox": [
+    91,
+    504,
+    1146,
+    1035
+   ],
+   "category": "Text",
+   "text": "Jag torde likwäl wid detta tillfälle böra i ödmjukhet nämna, at icke allenast Kongl. Svenska Mynt-Cabinettet blifwit förökt med alla de mynt, skåde-, minnes- och spel-penningar, hwilka under denna tiden inom Riket utkommit och hwaraf enligt Kongl. Maj:sts nådiga förordnande exemplar i Silfwer gratis ifrån Myntet böra aflämnas, utan ock att det efter framledne Cantzli Rådet Berch lämnade och nu med Kongl. Samlingen införlifwade Cabinett af utländske Privatorum minnespenningar blifwit ökt med ett wackert antal Franske, några Tyska och Italienska, hvilka jag genom benäget föranstaltande af flera wid Kongl. Maj:sts beskickningar utomlands nyttjade Embetsmän haft tillfälle låta komma, Såsom jag ock äfwen nu wäntar åthskillige dylika penningar från Ängland och Italien."
+  },
+  {
+   "bbox": [
+    91,
+    1041,
+    1142,
+    1580
+   ],
+   "category": "Text",
+   "text": "Hwad angår Svenska forntids minnesmärken, så hafwa äfwen på de förflutne trenne åren flere sådana blifwit inlöste: Såsom 1783 från Upland en liten i jorden funnen ring af wriden Guldtråd; 1784 18 wid Kaggeholm upgrafne guldpenningar af det så kallade nedre kejsardömet; Samma år likaledes en ansenlig myckenhet i Skåne fundne anglo Saxoniska Silfwerpenningar; 1785 ett på Öland funnit metall Sigill; 1786 en i Norrland ur jorden hämtad stor tummering; Samma år 29 st. äfwen i Swensk jord fundne tyska Guld-Mynt. Men som alla dessa i Höglofl. Kongl. Collegio äro i sin ordning anmäldte och fördenskull underrättelse om dem i Dess Protocoller utförligen förwarad, så fölle jag genom en omständeligare berättelse härom Höglofl. Kongl. Collegium allenast till onödigt beswär."
+  },
+  {
+   "bbox": [
+    91,
+    1579,
+    1140,
+    1789
+   ],
+   "category": "Text",
+   "text": "Den inhemska Portrait-samling, som wid Kongl. Antiquitets Archivet förwaras och som enligt Hans Maj:sts nådiga tillstånd bör alt framgent hållas fullständig genom ett fullgodt exemplars ditlefwererande utan betalning af hwart och ett innom Riket graveradt portrait af Svenska personer, har äfwen under samma tid vunnit"
+  },
+  {
+   "bbox": [
+    1058,
+    1820,
+    1135,
+    1868
+   ],
+   "category": "Page-footer",
+   "text": "669"
+  }
+ ]
+}

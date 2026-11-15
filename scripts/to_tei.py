@@ -470,6 +470,12 @@ def build(vol):
     back = struct.get("back", {})
     back_idx = {i: k for k, v in back.items() for i in v}
     front_idx = {i: k for k, v in struct.get("front", {}).items() for i in v}
+    # parts (vol. V): <div type="part"> around their chapters; the part's title leaves (title, blank
+    # leaves, a frontispiece) open the div, and the printed part title becomes its <head>
+    vparts = struct.get("parts", [])
+    part_leaf = {i: k for k, p in enumerate(vparts) for i in p.get("leaves", [])}
+    part_at = {p["chapter"]: k for k, p in enumerate(vparts)}
+    part_lead = [[] for _ in vparts]
     first_ch = chapters[0]["page"]
     first_idx = next(r["index"] for r in pm if r["page"] == first_ch)
     last_idx = max((r["index"] for r in pm if r["how"] in ("read", "filled") and r["index"] not in back_idx),
@@ -562,6 +568,18 @@ def build(vol):
         if kind == "duplicate":
             continue
         if not img_path(vol, idx).exists():
+            continue
+        if idx in part_leaf:
+            k = part_leaf[idx]
+            resp, blocks = page_source(vol, idx)
+            texts = [b["text"] for b in blocks if b["kind"] not in ("figure", "pageno", "signature") and b["text"].strip()
+                     and fuzz.ratio(b["text"].strip(" .").lower(), vparts[k]["title"].lower()) < 80]
+            lead = page_points(idx, page, resp, [])
+            if texts:   # frontispiece caption
+                lead += (f'<figure type="plate" facs="#f{vol}-{idx:04d}">'
+                         f'<head>{inline(" / ".join(texts), ph.xml)}</head></figure>')
+            part_lead[k].append(lead)
+            stats["pages"] += 1
             continue
         if idx < first_idx:   # front matter by type from the structure file; binding/scan pages: facsimile only
             ftype = front_idx.get(idx)
@@ -666,6 +684,8 @@ def build(vol):
 
         if ch:
             flush_para()
+            if page in part_at:
+                body_divs.append(part_at[page])
             chapter_no += 1
             cur_div = [f'<div type="chapter" n="{chapter_no}">', pb, f"<head>{head_xml}</head>"]
             body_divs.append(cur_div)
@@ -778,7 +798,15 @@ def build(vol):
         return re.sub(r'<quote xml:id="([^"]+)"', lambda m: f'<quote xml:id="{m.group(1)}" next="#{quote_links[m.group(1)]}"'
                       if m.group(1) in quote_links else m.group(0), xml)
 
-    body = "\n".join(link("\n".join(d)) + "\n</div>" for d in body_divs)
+    out, in_part = [], False
+    for d in body_divs:
+        if isinstance(d, int):   # a part starts before this chapter
+            out.append(("</div>\n" if in_part else "") + f'<div type="part" n="{d + 1}">'
+                       + "".join(part_lead[d]) + f"<head>{escape(vparts[d]['title'])}</head>")
+            in_part = True
+        else:
+            out.append(link("\n".join(d)) + "\n</div>")
+    body = "\n".join(out) + ("\n</div>" if in_part else "")
     front_xml = f'<front>{"".join(front)}</front>'.replace("\n", "<lb/>") if front else ""  # printed line breaks
     back_xml = "<back>" + "".join(
         f'<div type="{t}"{" xml:id=" + chr(34) + "corrigenda" + chr(34) if t == "corrigenda" else ""}>{"".join(v)}</div>' for t, v in (("contents", back_divs["contents"]),

@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 583,
+ "seconds": 27.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [723, 538, 1436, 576], \"category\": \"Section-header\", \"text\": \"ANTIKVITETSARKIVETS SKRIFTER.\"}, {\"bbox\": [406, 661, 559, 779], \"category\": \"Text\", \"text\": \"Få arbeten utgivas av antikvitetsarkivet\"}, {\"bbox\": [557, 651, 1616, 1692], \"category\": \"Text\", \"text\": \"Av samtiden betraktades antikvitetsarkivet onekligen såsom ett slags akademi, vars kanske främsta uppgift var att utgiva lärda arbeten i de humanistiska ämnen, som tiden odlade, och ständigt hör man klagomål över, att inga dylika arbeten från arkivet överlämnades till allmänheten. I mycket voro dessa klagomål obefogade. Riksdagen, där de oftast framfördes, bar själv till den väsentligaste delen skulden till denna overksamhet, då den knappt synes hava tänkt sig möjligheten av ett tryckanslag, och utan ett dylikt kunde ju inga skrifter utgivas. En annan orsak var de odugliga assessorer, som regeringen och riksdagen tillsatte. Av Richardson, Lundberg, Prael och Helsingius kunde man ej vänta sig några lärda verk, och Botins arbeten räknades ej arkivet till förtjänst, då han blott nominellt — för lönens skull — var assessor. De relativt dugliga, Hangelberg och Wessman, hade, trots kunskaper, ej förmågan att framlägga dessa i skrift; deras ansatser, som ej ledde till något resultat, ha redan förut omnämnts. Gagnerus, som först mot slutet av Berchs tid blev assessor och snart tog sig tjänstledighet, hade större förutsättningar att åstadkomma något mera betydande arbete. Han tyckes hava varit en kunnig och begåvad språkman och har även efterlämnat en stor svensk ordbok, ursprungligen i elva foliovolymer, av vilka tio finnas kvar i Vitterhets-, Historie- och Antikvitetsakademiens arkiv. Men arbetet blev aldrig utgivet, lika litet som hans andra språkarbeten, som nu hamnat i Svenska akademiens scriptorium. För allmänheten voro dessa skrifter okända och tillskyndade icke arkivet någon ära.\"}, {\"bbox\": [471, 1695, 565, 1724], \"category\": \"Text\", \"text\": \"Brocman\"}, {\"bbox\": [572, 1684, 1616, 1774], \"category\": \"Text\", \"text\": \"Endast två av dess ledamöter framträdde därför inför allmänheten såsom verkliga skriftställare, nämligen Berch och Brocman, och\"}, {\"bbox\": [578, 1813, 650, 1850], \"category\": \"Page-footer\", \"text\": \"554\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    723,
+    538,
+    1436,
+    576
+   ],
+   "category": "Section-header",
+   "text": "ANTIKVITETSARKIVETS SKRIFTER."
+  },
+  {
+   "bbox": [
+    406,
+    661,
+    559,
+    779
+   ],
+   "category": "Text",
+   "text": "Få arbeten utgivas av antikvitetsarkivet"
+  },
+  {
+   "bbox": [
+    557,
+    651,
+    1616,
+    1692
+   ],
+   "category": "Text",
+   "text": "Av samtiden betraktades antikvitetsarkivet onekligen såsom ett slags akademi, vars kanske främsta uppgift var att utgiva lärda arbeten i de humanistiska ämnen, som tiden odlade, och ständigt hör man klagomål över, att inga dylika arbeten från arkivet överlämnades till allmänheten. I mycket voro dessa klagomål obefogade. Riksdagen, där de oftast framfördes, bar själv till den väsentligaste delen skulden till denna overksamhet, då den knappt synes hava tänkt sig möjligheten av ett tryckanslag, och utan ett dylikt kunde ju inga skrifter utgivas. En annan orsak var de odugliga assessorer, som regeringen och riksdagen tillsatte. Av Richardson, Lundberg, Prael och Helsingius kunde man ej vänta sig några lärda verk, och Botins arbeten räknades ej arkivet till förtjänst, då han blott nominellt — för lönens skull — var assessor. De relativt dugliga, Hangelberg och Wessman, hade, trots kunskaper, ej förmågan att framlägga dessa i skrift; deras ansatser, som ej ledde till något resultat, ha redan förut omnämnts. Gagnerus, som först mot slutet av Berchs tid blev assessor och snart tog sig tjänstledighet, hade större förutsättningar att åstadkomma något mera betydande arbete. Han tyckes hava varit en kunnig och begåvad språkman och har även efterlämnat en stor svensk ordbok, ursprungligen i elva foliovolymer, av vilka tio finnas kvar i Vitterhets-, Historie- och Antikvitetsakademiens arkiv. Men arbetet blev aldrig utgivet, lika litet som hans andra språkarbeten, som nu hamnat i Svenska akademiens scriptorium. För allmänheten voro dessa skrifter okända och tillskyndade icke arkivet någon ära."
+  },
+  {
+   "bbox": [
+    471,
+    1695,
+    565,
+    1724
+   ],
+   "category": "Text",
+   "text": "Brocman"
+  },
+  {
+   "bbox": [
+    572,
+    1684,
+    1616,
+    1774
+   ],
+   "category": "Text",
+   "text": "Endast två av dess ledamöter framträdde därför inför allmänheten såsom verkliga skriftställare, nämligen Berch och Brocman, och"
+  },
+  {
+   "bbox": [
+    578,
+    1813,
+    650,
+    1850
+   ],
+   "category": "Page-footer",
+   "text": "554"
+  }
+ ]
+}

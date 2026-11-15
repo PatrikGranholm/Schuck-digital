@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 661,
+ "seconds": 46.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [908, 255, 1304, 291], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [577, 325, 1629, 1033], \"category\": \"Text\", \"text\": \"16 september med en ny anhållan: »Expeditions Secreteraren och Riksantiquarien Adlerbeth inkom och gaf til kjänna, det han nådigst blifwit anbefald at wara Hans Kongl. Mayst. på dess resa til Pisa följacktig, i anseende hwartil Riksantiquarien trodt sin skyldighet fordra at gjöra sig underrättad om Kongl. Collegii wilja, hwart han hade at lämna nycklarne till Cabinetterne under denne tiden uti Kongl. antiquitets archivet, och undfick derå nu det swar, at sagde nycklar borde til Kongl. Collegium inlämnas för at därstädes under Riksantiquariens bortowaro efter wanligheten förwaras. Sluteligen anmälte Riksantiquarien, det wagtmästaren Forsberg anhållit at på någon tid få bortresa, och förmälde Riksantiquarien sig icke hafwa för sin del något at deremot påminna, hälst bemälte Forsberg så föranstaltadt, at wagtmästaren wid Kongl. Bibliothequet åtagit sig at under Forsbergs frånwaro upwagtningen wid Kongl. antiquitets archivet besörja, och fant Kongl. Collegium jämwäl för godt at til den af Forsberg begärte permission bifall lämna» (Kansliprot. 16 sept. 1783).\"}, {\"bbox\": [577, 1031, 1629, 1321], \"category\": \"Text\", \"text\": \"Från denna resa kom Adlerbeth väl tillbaka redan på sommaren 1784, men for då till Ramsjöholm och började först i november i arkivet. Under denna tid var museet stängt, både antikvarien och vaktmästaren voro borta, och någon vikarie hade ej förordnats. Men så var det heller icke mycket att göra, då den fåtaliga personalen efter Berchs död strängt taget blott hade att övervaka, att intet ur samlingarna kom bort.\"}, {\"bbox\": [577, 1319, 1629, 1612], \"category\": \"Text\", \"text\": \"Det förefaller nästan, som om man blott väntat på Berchs död för att komma antikvitetsarkivet till livs. Hans vördade personlighet stod då ej längre i vägen, och ingen fanns, som kunde föra antikvitetsarkivets talan, ty kanslikollegiet, som möjligen skulle hava gjort det, gick man alldeles förbi. Det första slaget kom endast några veckor efter Berchs bortgång och redan före Adlerbeths utnämning.\"}, {\"bbox\": [577, 1610, 1629, 1778], \"category\": \"Text\", \"text\": \"Genom det förändrade penningvärdet hade ämbetsmännens löner, som utgingo i daler silvermynt, högst betydligt sjunkit. I 1696 års stat hade en daler silvermynt motsvarat en halv riksdaler specie; sedan hade dalern sjunkit till en tredjedels riksdaler för att slutligen\"}, {\"bbox\": [457, 1325, 574, 1388], \"category\": \"Text\", \"text\": \"Löne-regleringen\"}, {\"bbox\": [579, 1803, 656, 1852], \"category\": \"Page-footer\", \"text\": \"632\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    908,
+    255,
+    1304,
+    291
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    577,
+    325,
+    1629,
+    1033
+   ],
+   "category": "Text",
+   "text": "16 september med en ny anhållan: »Expeditions Secreteraren och Riksantiquarien Adlerbeth inkom och gaf til kjänna, det han nådigst blifwit anbefald at wara Hans Kongl. Mayst. på dess resa til Pisa följacktig, i anseende hwartil Riksantiquarien trodt sin skyldighet fordra at gjöra sig underrättad om Kongl. Collegii wilja, hwart han hade at lämna nycklarne till Cabinetterne under denne tiden uti Kongl. antiquitets archivet, och undfick derå nu det swar, at sagde nycklar borde til Kongl. Collegium inlämnas för at därstädes under Riksantiquariens bortowaro efter wanligheten förwaras. Sluteligen anmälte Riksantiquarien, det wagtmästaren Forsberg anhållit at på någon tid få bortresa, och förmälde Riksantiquarien sig icke hafwa för sin del något at deremot påminna, hälst bemälte Forsberg så föranstaltadt, at wagtmästaren wid Kongl. Bibliothequet åtagit sig at under Forsbergs frånwaro upwagtningen wid Kongl. antiquitets archivet besörja, och fant Kongl. Collegium jämwäl för godt at til den af Forsberg begärte permission bifall lämna» (Kansliprot. 16 sept. 1783)."
+  },
+  {
+   "bbox": [
+    577,
+    1031,
+    1629,
+    1321
+   ],
+   "category": "Text",
+   "text": "Från denna resa kom Adlerbeth väl tillbaka redan på sommaren 1784, men for då till Ramsjöholm och började först i november i arkivet. Under denna tid var museet stängt, både antikvarien och vaktmästaren voro borta, och någon vikarie hade ej förordnats. Men så var det heller icke mycket att göra, då den fåtaliga personalen efter Berchs död strängt taget blott hade att övervaka, att intet ur samlingarna kom bort."
+  },
+  {
+   "bbox": [
+    577,
+    1319,
+    1629,
+    1612
+   ],
+   "category": "Text",
+   "text": "Det förefaller nästan, som om man blott väntat på Berchs död för att komma antikvitetsarkivet till livs. Hans vördade personlighet stod då ej längre i vägen, och ingen fanns, som kunde föra antikvitetsarkivets talan, ty kanslikollegiet, som möjligen skulle hava gjort det, gick man alldeles förbi. Det första slaget kom endast några veckor efter Berchs bortgång och redan före Adlerbeths utnämning."
+  },
+  {
+   "bbox": [
+    577,
+    1610,
+    1629,
+    1778
+   ],
+   "category": "Text",
+   "text": "Genom det förändrade penningvärdet hade ämbetsmännens löner, som utgingo i daler silvermynt, högst betydligt sjunkit. I 1696 års stat hade en daler silvermynt motsvarat en halv riksdaler specie; sedan hade dalern sjunkit till en tredjedels riksdaler för att slutligen"
+  },
+  {
+   "bbox": [
+    457,
+    1325,
+    574,
+    1388
+   ],
+   "category": "Text",
+   "text": "Löne-regleringen"
+  },
+  {
+   "bbox": [
+    579,
+    1803,
+    656,
+    1852
+   ],
+   "category": "Page-footer",
+   "text": "632"
+  }
+ ]
+}

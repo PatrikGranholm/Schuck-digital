@@ -1,0 +1,32 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 654,
+ "seconds": 9.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [315, 933, 815, 985], \"category\": \"Title\", \"text\": \"AVVECKLINGEN\"}, {\"bbox\": [37, 1835, 189, 1859], \"category\": \"Page-footer\", \"text\": \"40-35832. V.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    315,
+    933,
+    815,
+    985
+   ],
+   "category": "Title",
+   "text": "AVVECKLINGEN"
+  },
+  {
+   "bbox": [
+    37,
+    1835,
+    189,
+    1859
+   ],
+   "category": "Page-footer",
+   "text": "40-35832. V."
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 601,
+ "seconds": 31.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [879, 251, 1275, 287], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [551, 321, 1600, 491], \"category\": \"Text\", \"text\": \"Efter de båda förut tryckta uppsatserna (St. 39—41, St. 50—53) följde Om handtverkeriernes ålder (St. 65, 66), Om kyrko- och präste-skrud (St. 81, 82) och Om lekar och tidsfördrif (St. 102, 103). Därmed avstannade dessa »antiquitates explicatæ».\"}, {\"bbox\": [551, 488, 1600, 692], \"category\": \"Text\", \"text\": \"Till denna grupp kan också räknas en längre uppsats Om konsterne i Swerige, som infördes i Almänna Tidningar 1770 och där fyller flera nummer (Nr. 118, 119, 123, 125, 127). Den behandlar måleriet, kopparsticket, skulpturen och arkitekturen och torde vara ett bland de första försöken till en svensk konsthistoria.\"}, {\"bbox\": [551, 694, 1607, 1774], \"category\": \"Text\", \"text\": \"Själv fäste Berch antagligen ej någon större vikt vid dessa små populära avhandlingar, och de kunna väl också snarast betraktas såsom den lärde antikvariens »bordssamtal». Men de vittna dock om hans omfattande kunskaper. Han citerar isländska sagor, pärmebrev och krönikor samt drar då och då fram något fynd ur antikvitetsarkivets samlingar. Ibland är framställningen mera katalogartad såsom i uppsatsen om hantverkerierna: »*Grytemakare* i Linköping 1382. På 1400-talet woro Grytogjutare och Grytostöpare, om ej i Stockholm, dock i de smärre städerna esomoftast Rådmän. *Gullarbetare* i Norrige 1274; i Westerås war Anshelm Knutsson 1291, i Stockholm Mäster Lambert mycket berömd 1405. — — — *Perlestickare*, dem man i Stockholm finner på 1400-talet hafwa Tyska namn, som witna, hwadan de kommit. Stickaren Olof Swensson bodde i Wadstena 1565, hwarest icke lärer hafwa warit stort annat för honom at brodera än Pungar för hederliga Mattmödrar: ty kallades han oftare Pungmakare.» Andra uppsatser hava åtminstone i inledningen en mera novellistisk form. Så börjar uppsatsen om kyrkoskrud: »I påminnen eder, Min Herre, huru under wår sidsta Resa hände, at wi skulle byta hästar uti en Gästgifwaregård, som war när intil Sokn-kyrkan, och at jag nyttjade tilfälle, när Klockaren hade något at sysla derinne, til enskylt efterspanande, om til äfwentyrs gamla Prydnader och Minnesmärken funnos ifrån Påfwiska tiderna. Wid återkomsten kunde jag försäkra, at ingenting war, som skulle upwäcka någon nyfikenhet. Min ledsagare visade mig allenast en näselös Jungfru Maria med Barnet, som nu stod uti en skräpwrå och hade twifwels utan tilförene haft sit rum på Altaret,\"}, {\"bbox\": [564, 1809, 637, 1849], \"category\": \"Page-footer\", \"text\": \"572\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    879,
+    251,
+    1275,
+    287
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    551,
+    321,
+    1600,
+    491
+   ],
+   "category": "Text",
+   "text": "Efter de båda förut tryckta uppsatserna (St. 39—41, St. 50—53) följde Om handtverkeriernes ålder (St. 65, 66), Om kyrko- och präste-skrud (St. 81, 82) och Om lekar och tidsfördrif (St. 102, 103). Därmed avstannade dessa »antiquitates explicatæ»."
+  },
+  {
+   "bbox": [
+    551,
+    488,
+    1600,
+    692
+   ],
+   "category": "Text",
+   "text": "Till denna grupp kan också räknas en längre uppsats Om konsterne i Swerige, som infördes i Almänna Tidningar 1770 och där fyller flera nummer (Nr. 118, 119, 123, 125, 127). Den behandlar måleriet, kopparsticket, skulpturen och arkitekturen och torde vara ett bland de första försöken till en svensk konsthistoria."
+  },
+  {
+   "bbox": [
+    551,
+    694,
+    1607,
+    1774
+   ],
+   "category": "Text",
+   "text": "Själv fäste Berch antagligen ej någon större vikt vid dessa små populära avhandlingar, och de kunna väl också snarast betraktas såsom den lärde antikvariens »bordssamtal». Men de vittna dock om hans omfattande kunskaper. Han citerar isländska sagor, pärmebrev och krönikor samt drar då och då fram något fynd ur antikvitetsarkivets samlingar. Ibland är framställningen mera katalogartad såsom i uppsatsen om hantverkerierna: »*Grytemakare* i Linköping 1382. På 1400-talet woro Grytogjutare och Grytostöpare, om ej i Stockholm, dock i de smärre städerna esomoftast Rådmän. *Gullarbetare* i Norrige 1274; i Westerås war Anshelm Knutsson 1291, i Stockholm Mäster Lambert mycket berömd 1405. — — — *Perlestickare*, dem man i Stockholm finner på 1400-talet hafwa Tyska namn, som witna, hwadan de kommit. Stickaren Olof Swensson bodde i Wadstena 1565, hwarest icke lärer hafwa warit stort annat för honom at brodera än Pungar för hederliga Mattmödrar: ty kallades han oftare Pungmakare.» Andra uppsatser hava åtminstone i inledningen en mera novellistisk form. Så börjar uppsatsen om kyrkoskrud: »I påminnen eder, Min Herre, huru under wår sidsta Resa hände, at wi skulle byta hästar uti en Gästgifwaregård, som war när intil Sokn-kyrkan, och at jag nyttjade tilfälle, när Klockaren hade något at sysla derinne, til enskylt efterspanande, om til äfwentyrs gamla Prydnader och Minnesmärken funnos ifrån Påfwiska tiderna. Wid återkomsten kunde jag försäkra, at ingenting war, som skulle upwäcka någon nyfikenhet. Min ledsagare visade mig allenast en näselös Jungfru Maria med Barnet, som nu stod uti en skräpwrå och hade twifwels utan tilförene haft sit rum på Altaret,"
+  },
+  {
+   "bbox": [
+    564,
+    1809,
+    637,
+    1849
+   ],
+   "category": "Page-footer",
+   "text": "572"
+  }
+ ]
+}

@@ -1,0 +1,142 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 275,
+ "seconds": 30.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [896, 253, 1290, 289], \"category\": \"Section-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [571, 322, 1622, 397], \"category\": \"Text\", \"text\": \"Til Skrif-Materialier, Resepenningar, Böckers inköp, Ritare-kostnad 750 Dal. S:mt\"}, {\"bbox\": [906, 424, 1286, 466], \"category\": \"Section-header\", \"text\": \"Vid Kongl. Biblioteket:\"}, {\"bbox\": [571, 476, 1558, 624], \"category\": \"Text\", \"text\": \"Bibliothecarien 1200 »\\nVice-Bibliothecarien 800 »\\nAmanuensis 500 »\\nTil Böckers inköp 700 »\"}, {\"bbox\": [933, 649, 1259, 685], \"category\": \"Section-header\", \"text\": \"Vid Riks-Archivum:\"}, {\"bbox\": [574, 703, 1624, 995], \"category\": \"Text\", \"text\": \"Secreteraren 1200 »\\nActuarien 800 »\\nRegistratoren 600 »\\nCancellisten 500 »\\nCopisten 300 »\\nTil Acters inbindande 100 »\\nPappers inköp til Placater 200 »\\n10450 Dal. S:mt\"}, {\"bbox\": [577, 1027, 1624, 1111], \"category\": \"Text\", \"text\": \"Med Cancellie-Posterne, som förut ej blifvit här uptagne, förhålles efter förra vanligheten.\"}, {\"bbox\": [613, 1111, 1203, 1152], \"category\": \"Text\", \"text\": \"Härvid bör Secrete Utskottet tillägga:\"}, {\"bbox\": [577, 1152, 1624, 1276], \"category\": \"Text\", \"text\": \"1:0 At Antiquitets Archivum och Biblioteket må hädanefter vara åtskilde, såsom de tilförene varit och innan sista författningen med Deras Förening vidtogs; ståendes hvardera under sin Förman.\"}, {\"bbox\": [577, 1276, 1624, 1393], \"category\": \"Text\", \"text\": \"2:0 At, enligt Cancellie-Ordningen, Hof-Cancelleren må äga en sorgfällig tilsyn öfver desse Verk samt Ordningen och Gjöromålen därstädes.\"}, {\"bbox\": [577, 1397, 1624, 1566], \"category\": \"Text\", \"text\": \"3:0 At ibland de trenne, som äro Förmän för Riks- och Antiquitets-Archiverne samt Biblioteket, hvilka böra vara Kongl. Secreterare, må den, som är älst, vara med Cancellie-Råds Fullmagt hugnad.\"}, {\"bbox\": [577, 1566, 1624, 1766], \"category\": \"Text\", \"text\": \"4:0 At Befordringarne blifva, så mycket möjeligit är, inom hvardera Verket samt at Translator och Antiquarius såsom ock Amanuensis och Vice-Amanuensis vid Antiquitets Archivum succedera til hvarandras Löner och ställen, utan at öfvergifva sina Departementer.\"}, {\"bbox\": [585, 1802, 658, 1848], \"category\": \"Page-footer\", \"text\": \"258\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    896,
+    253,
+    1290,
+    289
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    571,
+    322,
+    1622,
+    397
+   ],
+   "category": "Text",
+   "text": "Til Skrif-Materialier, Resepenningar, Böckers inköp, Ritare-kostnad 750 Dal. S:mt"
+  },
+  {
+   "bbox": [
+    906,
+    424,
+    1286,
+    466
+   ],
+   "category": "Section-header",
+   "text": "Vid Kongl. Biblioteket:"
+  },
+  {
+   "bbox": [
+    571,
+    476,
+    1558,
+    624
+   ],
+   "category": "Text",
+   "text": "Bibliothecarien 1200 »\nVice-Bibliothecarien 800 »\nAmanuensis 500 »\nTil Böckers inköp 700 »"
+  },
+  {
+   "bbox": [
+    933,
+    649,
+    1259,
+    685
+   ],
+   "category": "Section-header",
+   "text": "Vid Riks-Archivum:"
+  },
+  {
+   "bbox": [
+    574,
+    703,
+    1624,
+    995
+   ],
+   "category": "Text",
+   "text": "Secreteraren 1200 »\nActuarien 800 »\nRegistratoren 600 »\nCancellisten 500 »\nCopisten 300 »\nTil Acters inbindande 100 »\nPappers inköp til Placater 200 »\n10450 Dal. S:mt"
+  },
+  {
+   "bbox": [
+    577,
+    1027,
+    1624,
+    1111
+   ],
+   "category": "Text",
+   "text": "Med Cancellie-Posterne, som förut ej blifvit här uptagne, förhålles efter förra vanligheten."
+  },
+  {
+   "bbox": [
+    613,
+    1111,
+    1203,
+    1152
+   ],
+   "category": "Text",
+   "text": "Härvid bör Secrete Utskottet tillägga:"
+  },
+  {
+   "bbox": [
+    577,
+    1152,
+    1624,
+    1276
+   ],
+   "category": "Text",
+   "text": "1:0 At Antiquitets Archivum och Biblioteket må hädanefter vara åtskilde, såsom de tilförene varit och innan sista författningen med Deras Förening vidtogs; ståendes hvardera under sin Förman."
+  },
+  {
+   "bbox": [
+    577,
+    1276,
+    1624,
+    1393
+   ],
+   "category": "Text",
+   "text": "2:0 At, enligt Cancellie-Ordningen, Hof-Cancelleren må äga en sorgfällig tilsyn öfver desse Verk samt Ordningen och Gjöromålen därstädes."
+  },
+  {
+   "bbox": [
+    577,
+    1397,
+    1624,
+    1566
+   ],
+   "category": "Text",
+   "text": "3:0 At ibland de trenne, som äro Förmän för Riks- och Antiquitets-Archiverne samt Biblioteket, hvilka böra vara Kongl. Secreterare, må den, som är älst, vara med Cancellie-Råds Fullmagt hugnad."
+  },
+  {
+   "bbox": [
+    577,
+    1566,
+    1624,
+    1766
+   ],
+   "category": "Text",
+   "text": "4:0 At Befordringarne blifva, så mycket möjeligit är, inom hvardera Verket samt at Translator och Antiquarius såsom ock Amanuensis och Vice-Amanuensis vid Antiquitets Archivum succedera til hvarandras Löner och ställen, utan at öfvergifva sina Departementer."
+  },
+  {
+   "bbox": [
+    585,
+    1802,
+    658,
+    1848
+   ],
+   "category": "Page-footer",
+   "text": "258"
+  }
+ ]
+}

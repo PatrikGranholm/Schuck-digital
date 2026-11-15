@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 712,
+ "seconds": 31.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [464, 257, 833, 295], \"category\": \"Page-header\", \"text\": \"Vitterhetsakademien\"}, {\"bbox\": [121, 326, 1171, 536], \"category\": \"Text\", \"text\": \"Swenska Witterhets Historien, tjenande til et kårt begrep om den saken från den äldsta til wåra tider.» Därefter redogör tidningen för årets tävlingsämnen, vilka av Dalins anteckning att döma föreslagits, det första av Dalin, det andra av Höpken och det tredje bestämts av drottningen.\"}, {\"bbox\": [117, 534, 1171, 944], \"category\": \"Text\", \"text\": \"Medlemmarna av akademien voro vid dess instiftande således blott fem: kanslipresidenten baron von Höpken, hans närmaste man riksrådet greve Ekeblad, riksrådet baron Carl Fredrik Scheffer, vilka båda herrar förut varit ministrar i Paris, statssekreteraren baron Rudenschiöld och skalden Dalin, vilken således kommit in i ett ytterst högförnämt sällskap, ehuru han tydligen ej betraktades såsom en med de förra likställd ledamot, utan såsom deras sekreterare. Kort efter högtidsdagen utsåg drottningen ännu en ledamot, riksrådet greve Gustaf Bonde. Bland akademiens papper finnes Dalins avskrift av kallelsebrevet:\"}, {\"bbox\": [1179, 547, 1304, 606], \"category\": \"Text\", \"text\": \"De första ledamöterna\"}, {\"bbox\": [117, 948, 1166, 1033], \"category\": \"Text\", \"text\": \"»Högvälborne Herr Grefve och Riksråd samt Riddare och Commendeur af Kgl. M:tz orden.\"}, {\"bbox\": [112, 1031, 1166, 1654], \"category\": \"Text\", \"text\": \"Hennes May:tz wår nådigsta drottnings ögon äro altför uplyste til at icke märka och urskilja en så bekant och grundelig witterhet som Eders Excellences; Ty har jag härigenom den äran på Hennes May:tz nådiga befallning at anmoda Eders Excellence til at wara En ibland den för kortsedan af drotningen inrättade Kgl. Witterhets Academiens ledamöter. Hennes May:tz mening är ingalunda, at sådant skall lända Eders Excellence til minsta beswär; ty fastän ingen ledig stund til sådana saker skulle gifwas, så underlåter dock icke Eders Excellences namn af redan ådagalagde förtienster at stå i ledamöternas antal med heder. Hennes May:t har jemwäl befallt mig at betyga Eders Excellence dess nådiga nöye öfwer den korta afhandling om finska nationens och språkets härkomst, som genom Hans Excellence Rikzrådet Baron Höpken blifvit inlämnad och nog gifwer tilkänna, at Eders Excellence i sin stillhet icke är fåfäng. Jag har den äran at wara med all wördnad.\"}, {\"bbox\": [149, 1657, 427, 1695], \"category\": \"Text\", \"text\": \"Eders Excellences\"}, {\"bbox\": [592, 1663, 1126, 1742], \"category\": \"Text\", \"text\": \"allerödmiukaste och lydige tienare\\nD.\"}, {\"bbox\": [148, 1741, 563, 1787], \"category\": \"Text\", \"text\": \"Stockh. d. 19 nov. 1753.»\"}, {\"bbox\": [1082, 1813, 1155, 1851], \"category\": \"Page-footer\", \"text\": \"681\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    464,
+    257,
+    833,
+    295
+   ],
+   "category": "Page-header",
+   "text": "Vitterhetsakademien"
+  },
+  {
+   "bbox": [
+    121,
+    326,
+    1171,
+    536
+   ],
+   "category": "Text",
+   "text": "Swenska Witterhets Historien, tjenande til et kårt begrep om den saken från den äldsta til wåra tider.» Därefter redogör tidningen för årets tävlingsämnen, vilka av Dalins anteckning att döma föreslagits, det första av Dalin, det andra av Höpken och det tredje bestämts av drottningen."
+  },
+  {
+   "bbox": [
+    117,
+    534,
+    1171,
+    944
+   ],
+   "category": "Text",
+   "text": "Medlemmarna av akademien voro vid dess instiftande således blott fem: kanslipresidenten baron von Höpken, hans närmaste man riksrådet greve Ekeblad, riksrådet baron Carl Fredrik Scheffer, vilka båda herrar förut varit ministrar i Paris, statssekreteraren baron Rudenschiöld och skalden Dalin, vilken således kommit in i ett ytterst högförnämt sällskap, ehuru han tydligen ej betraktades såsom en med de förra likställd ledamot, utan såsom deras sekreterare. Kort efter högtidsdagen utsåg drottningen ännu en ledamot, riksrådet greve Gustaf Bonde. Bland akademiens papper finnes Dalins avskrift av kallelsebrevet:"
+  },
+  {
+   "bbox": [
+    1179,
+    547,
+    1304,
+    606
+   ],
+   "category": "Text",
+   "text": "De första ledamöterna"
+  },
+  {
+   "bbox": [
+    117,
+    948,
+    1166,
+    1033
+   ],
+   "category": "Text",
+   "text": "»Högvälborne Herr Grefve och Riksråd samt Riddare och Commendeur af Kgl. M:tz orden."
+  },
+  {
+   "bbox": [
+    112,
+    1031,
+    1166,
+    1654
+   ],
+   "category": "Text",
+   "text": "Hennes May:tz wår nådigsta drottnings ögon äro altför uplyste til at icke märka och urskilja en så bekant och grundelig witterhet som Eders Excellences; Ty har jag härigenom den äran på Hennes May:tz nådiga befallning at anmoda Eders Excellence til at wara En ibland den för kortsedan af drotningen inrättade Kgl. Witterhets Academiens ledamöter. Hennes May:tz mening är ingalunda, at sådant skall lända Eders Excellence til minsta beswär; ty fastän ingen ledig stund til sådana saker skulle gifwas, så underlåter dock icke Eders Excellences namn af redan ådagalagde förtienster at stå i ledamöternas antal med heder. Hennes May:t har jemwäl befallt mig at betyga Eders Excellence dess nådiga nöye öfwer den korta afhandling om finska nationens och språkets härkomst, som genom Hans Excellence Rikzrådet Baron Höpken blifvit inlämnad och nog gifwer tilkänna, at Eders Excellence i sin stillhet icke är fåfäng. Jag har den äran at wara med all wördnad."
+  },
+  {
+   "bbox": [
+    149,
+    1657,
+    427,
+    1695
+   ],
+   "category": "Text",
+   "text": "Eders Excellences"
+  },
+  {
+   "bbox": [
+    592,
+    1663,
+    1126,
+    1742
+   ],
+   "category": "Text",
+   "text": "allerödmiukaste och lydige tienare\nD."
+  },
+  {
+   "bbox": [
+    148,
+    1741,
+    563,
+    1787
+   ],
+   "category": "Text",
+   "text": "Stockh. d. 19 nov. 1753.»"
+  },
+  {
+   "bbox": [
+    1082,
+    1813,
+    1155,
+    1851
+   ],
+   "category": "Page-footer",
+   "text": "681"
+  }
+ ]
+}

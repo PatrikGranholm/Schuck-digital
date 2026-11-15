@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 320,
+ "seconds": 29.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [323, 248, 882, 292], \"category\": \"Section-header\", \"text\": \"Berchs sista tid (1766—1778)\"}, {\"bbox\": [72, 318, 1130, 531], \"category\": \"Text\", \"text\": \"Lænbom, hwilkas böneskriffter Edre Excellencer och Kongl. Collegium höggunstigast behagat med mig communicera. Jag är redan förut glad, at hwilckenthera Hans Kgl. Maij:t behagar med denna ledigblefna tienst hugna, iag altid får en snäll, wälwillig och god medarbetare.\"}, {\"bbox\": [72, 526, 1130, 696], \"category\": \"Text\", \"text\": \"För den förra, Herr Gagnerus, talar än widare hans fleråriga tienst inom wärcket och där wid til wäntande befordran, enligit den Successions ordning, som Riksens Höglofl. Ständer wid 1766 års riksdag behagat utsätta.\"}, {\"bbox\": [72, 692, 1132, 1194], \"category\": \"Text\", \"text\": \"För den sednare, Herr Lænbom, är til någon förbättring på dess wilckor et bewekande skiäl, at han under sin igenom flera Historiska wärk och nyttiga Samlingar å daga lagda mykna flijt alt hitintils warit uti tryckande omständigheter och ännu är utesluten ifrån deltagandet uti Sportelmedlen; hwilken förlust han menar kunna ersättas, om de 200 D. Smt., som Assessor Brocman för sin person innehaft, nu blefwe honom tillagde, hwaremot han uti sin böneskrifft tyckes på et fogeligit och undergifwit sätt afstå med pretension til den nu lediga Translators syslan, fast han redan 1759 blifwit antagen til Extraordinarie Cantzlist wid Antiqvitets-Archivum och Bibliotheket och år 1763 blifwit upförd på Förslag til en Bibliothecarii sysla.\"}, {\"bbox\": [76, 1188, 1136, 1775], \"category\": \"Text\", \"text\": \"Nu ehuruwäl berörde 200 D. Smt. hafwa ifrån början blifwit af extra-medel tagne til understöd för den fattiga främlingen Thorwalder Grimsson Brochman och sedan personnelt transporterade på Translatorn N. R. Brocman, dock som de sidst äro uptagne såsom ständige medel på den nya staten för Antiqvitets-Archivum (effter hwilken ock de wid bägge Archiverne och Bibliotheket qwarblifwande betienters löningar, Antiqvariens undantagen, blefwo förbättrade) och utgiöra en del af Translators lönen, så lärer Edre Excellencer och Kongl. Collegium sielf inse swårigheten at häruti giöra någon ändring och minska de förmohner, som den tilkommande assessorn ell:r Translatorn enligt Riksens Ständers förfatning bör få åtniuta; men hwad H. Loenbom widkommer lika fult behålla honom uti nådig åtancka til förbättrande af dess swaga wilckor, när så tilfälle gifwes» (Kanslikoll. Inkomna skrivelser sign. E IV. 10 a\"}, {\"bbox\": [1055, 1806, 1128, 1845], \"category\": \"Page-footer\", \"text\": \"303\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    323,
+    248,
+    882,
+    292
+   ],
+   "category": "Section-header",
+   "text": "Berchs sista tid (1766—1778)"
+  },
+  {
+   "bbox": [
+    72,
+    318,
+    1130,
+    531
+   ],
+   "category": "Text",
+   "text": "Lænbom, hwilkas böneskriffter Edre Excellencer och Kongl. Collegium höggunstigast behagat med mig communicera. Jag är redan förut glad, at hwilckenthera Hans Kgl. Maij:t behagar med denna ledigblefna tienst hugna, iag altid får en snäll, wälwillig och god medarbetare."
+  },
+  {
+   "bbox": [
+    72,
+    526,
+    1130,
+    696
+   ],
+   "category": "Text",
+   "text": "För den förra, Herr Gagnerus, talar än widare hans fleråriga tienst inom wärcket och där wid til wäntande befordran, enligit den Successions ordning, som Riksens Höglofl. Ständer wid 1766 års riksdag behagat utsätta."
+  },
+  {
+   "bbox": [
+    72,
+    692,
+    1132,
+    1194
+   ],
+   "category": "Text",
+   "text": "För den sednare, Herr Lænbom, är til någon förbättring på dess wilckor et bewekande skiäl, at han under sin igenom flera Historiska wärk och nyttiga Samlingar å daga lagda mykna flijt alt hitintils warit uti tryckande omständigheter och ännu är utesluten ifrån deltagandet uti Sportelmedlen; hwilken förlust han menar kunna ersättas, om de 200 D. Smt., som Assessor Brocman för sin person innehaft, nu blefwe honom tillagde, hwaremot han uti sin böneskrifft tyckes på et fogeligit och undergifwit sätt afstå med pretension til den nu lediga Translators syslan, fast han redan 1759 blifwit antagen til Extraordinarie Cantzlist wid Antiqvitets-Archivum och Bibliotheket och år 1763 blifwit upförd på Förslag til en Bibliothecarii sysla."
+  },
+  {
+   "bbox": [
+    76,
+    1188,
+    1136,
+    1775
+   ],
+   "category": "Text",
+   "text": "Nu ehuruwäl berörde 200 D. Smt. hafwa ifrån början blifwit af extra-medel tagne til understöd för den fattiga främlingen Thorwalder Grimsson Brochman och sedan personnelt transporterade på Translatorn N. R. Brocman, dock som de sidst äro uptagne såsom ständige medel på den nya staten för Antiqvitets-Archivum (effter hwilken ock de wid bägge Archiverne och Bibliotheket qwarblifwande betienters löningar, Antiqvariens undantagen, blefwo förbättrade) och utgiöra en del af Translators lönen, så lärer Edre Excellencer och Kongl. Collegium sielf inse swårigheten at häruti giöra någon ändring och minska de förmohner, som den tilkommande assessorn ell:r Translatorn enligt Riksens Ständers förfatning bör få åtniuta; men hwad H. Loenbom widkommer lika fult behålla honom uti nådig åtancka til förbättrande af dess swaga wilckor, när så tilfälle gifwes» (Kanslikoll. Inkomna skrivelser sign. E IV. 10 a"
+  },
+  {
+   "bbox": [
+    1055,
+    1806,
+    1128,
+    1845
+   ],
+   "category": "Page-footer",
+   "text": "303"
+  }
+ ]
+}

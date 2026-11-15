@@ -1,0 +1,41 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 754,
+ "seconds": 9.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [0, 2285, 185, 2325], \"category\": \"Page-header\", \"text\": \"1\"}, {\"bbox\": [0, 0, 1603, 2301], \"category\": \"Picture\"}, {\"bbox\": [1603, 2285, 1708, 2325], \"category\": \"Page-header\", \"text\": \"3\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    0,
+    2285,
+    185,
+    2325
+   ],
+   "category": "Page-header",
+   "text": "1"
+  },
+  {
+   "bbox": [
+    0,
+    0,
+    1603,
+    2301
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    1603,
+    2285,
+    1708,
+    2325
+   ],
+   "category": "Page-header",
+   "text": "3"
+  }
+ ]
+}

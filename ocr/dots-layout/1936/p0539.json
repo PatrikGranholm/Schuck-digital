@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 539,
+ "seconds": 31.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [905, 247, 1302, 283], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [576, 317, 1626, 403], \"category\": \"Text\", \"text\": \"lofl. Kongl. Collegium theröfwer gunstigt täckes öfwer hembud-\\nningen sig utlåta. Jag förblifwer etc.\"}, {\"bbox\": [1406, 407, 1589, 442], \"category\": \"Text\", \"text\": \"Nils Bielke\"}, {\"bbox\": [579, 454, 1125, 498], \"category\": \"Text\", \"text\": \"Nyköpingz Slott d. [ ] Junii 1762.»\"}, {\"bbox\": [576, 524, 1629, 1644], \"category\": \"Text\", \"text\": \"Ärendet remitterades till Berch, som svarade den 15 juni (Kanslikoll. Inkomna skrivelser sign. E IV. 10 b): »De i Södermanland nyligen upfundne gamle silfwerpenningar, som landshöfdingen i orten herr grefwe Nils Bielke på Jordägandens wägnar anbiuder Publicum til inlösande, tyckas wara mindre angelägne för antiquitets archivum, som igenom dylika fordna fynd fått tilräckeligit förråd af gamla Engelska och Tyska silfwerpenningar samt små tehnar och utsmidda ämnen af samma metall, hvaraf redan kan slutas, at wære förfäder, innan de ägde nog mynt af egen prägel, hafwa betient sig af fremmande penningar och brutit silfwer, som mera utgafs effter wigt uti marcker och åttonde delar el. ören än räknat. Jmedlertid [är] upfinnarens lag-lydnad at hafwa gifwit detta wid handen all heder wärd, så at om flere effterfölgde hans exempel, skulle mången gång wissa saker komma i dagsliuset, som gifwa begrep om de gamlas prydnader och beqwämligheter samt för den orsaken wäl förtiente at öfwer rätta wärdet betalas och i archivo blifwa nedlagde. Stockholm d. 15 Junii 1762.» Då Berchs skrivelse dagen därpå föredrogs i kanslikollegiet, höll även kollegiet »före, at uppmuntran i denna delen wore både nödig och nyttig, så att flere enskylta uti Riket, som redan hafwa eller framdeles kunna uppfinna någre sådane lemningar efter fordna tider, icke måge afhållas, utan snarare förmås att framgifwa dem. Och uti sådan afsigt har det jemwäl uti lagen blifwit faststält, att wissa procent utöfwer fyndets wärde skola gifwas ägaren, enär han det aflåter.» Ehuru således kollegiet ansåg mynten »för mindre nyttige för antiquitetsarchivum», hemställde det likväl hos Kungl. Maj:t om deras inlösen med antikvitetsarkivets inköpsmedel. Genom ett kungl. brev av den 29 juni bifölls denna framställning.\"}, {\"bbox\": [454, 1645, 575, 1681], \"category\": \"Text\", \"text\": \"Fynd 1763\"}, {\"bbox\": [583, 1642, 1629, 1767], \"category\": \"Text\", \"text\": \"Året därpå, 1763, gjordes flera fynd. Den 13 september berättade kanslipresidenten Ekeblad, »huruledes, under dess wistande på Landet, Bonden Anders Andersson i Skattegården Filsbäck, be-\"}, {\"bbox\": [585, 1803, 658, 1843], \"category\": \"Page-footer\", \"text\": \"512\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    905,
+    247,
+    1302,
+    283
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    576,
+    317,
+    1626,
+    403
+   ],
+   "category": "Text",
+   "text": "lofl. Kongl. Collegium theröfwer gunstigt täckes öfwer hembud-\nningen sig utlåta. Jag förblifwer etc."
+  },
+  {
+   "bbox": [
+    1406,
+    407,
+    1589,
+    442
+   ],
+   "category": "Text",
+   "text": "Nils Bielke"
+  },
+  {
+   "bbox": [
+    579,
+    454,
+    1125,
+    498
+   ],
+   "category": "Text",
+   "text": "Nyköpingz Slott d. [ ] Junii 1762.»"
+  },
+  {
+   "bbox": [
+    576,
+    524,
+    1629,
+    1644
+   ],
+   "category": "Text",
+   "text": "Ärendet remitterades till Berch, som svarade den 15 juni (Kanslikoll. Inkomna skrivelser sign. E IV. 10 b): »De i Södermanland nyligen upfundne gamle silfwerpenningar, som landshöfdingen i orten herr grefwe Nils Bielke på Jordägandens wägnar anbiuder Publicum til inlösande, tyckas wara mindre angelägne för antiquitets archivum, som igenom dylika fordna fynd fått tilräckeligit förråd af gamla Engelska och Tyska silfwerpenningar samt små tehnar och utsmidda ämnen af samma metall, hvaraf redan kan slutas, at wære förfäder, innan de ägde nog mynt af egen prägel, hafwa betient sig af fremmande penningar och brutit silfwer, som mera utgafs effter wigt uti marcker och åttonde delar el. ören än räknat. Jmedlertid [är] upfinnarens lag-lydnad at hafwa gifwit detta wid handen all heder wärd, så at om flere effterfölgde hans exempel, skulle mången gång wissa saker komma i dagsliuset, som gifwa begrep om de gamlas prydnader och beqwämligheter samt för den orsaken wäl förtiente at öfwer rätta wärdet betalas och i archivo blifwa nedlagde. Stockholm d. 15 Junii 1762.» Då Berchs skrivelse dagen därpå föredrogs i kanslikollegiet, höll även kollegiet »före, at uppmuntran i denna delen wore både nödig och nyttig, så att flere enskylta uti Riket, som redan hafwa eller framdeles kunna uppfinna någre sådane lemningar efter fordna tider, icke måge afhållas, utan snarare förmås att framgifwa dem. Och uti sådan afsigt har det jemwäl uti lagen blifwit faststält, att wissa procent utöfwer fyndets wärde skola gifwas ägaren, enär han det aflåter.» Ehuru således kollegiet ansåg mynten »för mindre nyttige för antiquitetsarchivum», hemställde det likväl hos Kungl. Maj:t om deras inlösen med antikvitetsarkivets inköpsmedel. Genom ett kungl. brev av den 29 juni bifölls denna framställning."
+  },
+  {
+   "bbox": [
+    454,
+    1645,
+    575,
+    1681
+   ],
+   "category": "Text",
+   "text": "Fynd 1763"
+  },
+  {
+   "bbox": [
+    583,
+    1642,
+    1629,
+    1767
+   ],
+   "category": "Text",
+   "text": "Året därpå, 1763, gjordes flera fynd. Den 13 september berättade kanslipresidenten Ekeblad, »huruledes, under dess wistande på Landet, Bonden Anders Andersson i Skattegården Filsbäck, be-"
+  },
+  {
+   "bbox": [
+    585,
+    1803,
+    658,
+    1843
+   ],
+   "category": "Page-footer",
+   "text": "512"
+  }
+ ]
+}

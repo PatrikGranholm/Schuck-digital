@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 547,
+ "seconds": 30.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [905, 270, 1302, 305], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [577, 339, 1624, 425], \"category\": \"Text\", \"text\": \"förborgad låge eller ock hwad annan betydande beskaffenhet thenna byggnad innehade. Framhärdar etc.\"}, {\"bbox\": [1175, 430, 1588, 472], \"category\": \"Text\", \"text\": \"Carl Otto von Segebaden\"}, {\"bbox\": [577, 493, 1306, 537], \"category\": \"Text\", \"text\": \"LandsCancelliet uti Wisby d. 16 Martii 1768.»\"}, {\"bbox\": [567, 582, 1624, 1537], \"category\": \"Text\", \"text\": \"Brevet, som upplästes den 18 april, remitterades — jämte den Berättelse¹, som Åkerman bilagt — till Berch, som den 27 fick företräde, då han yttrade sig om den underjordiska byggnaden, »hwilken förmenas kunna hysa någon skatt eller annat, som torde wara märkwärdigt. Herr Cantzlierådet tykte sig likwäl icke kunna sättja särdeles tro dertill, utan hölt fast mera före, att denna byggnad torde wara återlefwor af en gammal kalkugn, hälst kalktillwärkningen warit ifrån äldre tider i gång på Gottland och de pipor, hwilka på murarne sig wisade, syntes wara en sort dragrör, som wid rostwärk kunna wara nödige. Således tykte Herr Cantzlierådet, att det föga torde löna kostnaden att afsända härifrån någon, som anstälte derstädes widare gräfning eller eftersökning, hwartill icke heller antiquitets archivi medel nu medgofwo något förråd, utan syntes lämpeligast, att emedan Församlingen och Prästen förmena der finnas någon skatt och fyndet är på kyrkans jord, kunde wederbörande uppmuntras att för kyrkans räkning fullfölja gräfningen för att undersöka derom, då efter lag wärdet tillfaller kyrkan och en ottondedel däröfwer, om något finnes, som förtjänar att inlösas för Cronans räkning, kunnandes wid en sådan gräfning någon af de närmaste Landtmätare komma tilstädes att behörigen afrita byggnaden med hwad mera, som kan finnas sådant förtjäna. Kongl. Collegium biföll denna hemställan, och skulle derom bref till bemälte Landshöfding afgå.»\"}, {\"bbox\": [565, 1537, 1616, 1703], \"category\": \"Text\", \"text\": \"Segebaden gav sig emellertid icke och tyckes ha vänt sig till konsistoriet i Visby, som den 8 juni skrev till kanslikollegiet: »I anledning af Eders Excellences Samt Kongl. Maij:tz och Riksens Höglofl. Cancellie Collegii ankomne Höggunstige Skrifwelse af\"}, {\"bbox\": [565, 1731, 1611, 1794], \"category\": \"Footnote\", \"text\": \"¹ Denna trycktes sedan (1774): Berättelse om ett Urminnes-Märke, Hittat på Gottland och Hemse kyrkogård Åhr 1767.\"}, {\"bbox\": [567, 1829, 642, 1866], \"category\": \"Page-footer\", \"text\": \"520\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    905,
+    270,
+    1302,
+    305
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    577,
+    339,
+    1624,
+    425
+   ],
+   "category": "Text",
+   "text": "förborgad låge eller ock hwad annan betydande beskaffenhet thenna byggnad innehade. Framhärdar etc."
+  },
+  {
+   "bbox": [
+    1175,
+    430,
+    1588,
+    472
+   ],
+   "category": "Text",
+   "text": "Carl Otto von Segebaden"
+  },
+  {
+   "bbox": [
+    577,
+    493,
+    1306,
+    537
+   ],
+   "category": "Text",
+   "text": "LandsCancelliet uti Wisby d. 16 Martii 1768.»"
+  },
+  {
+   "bbox": [
+    567,
+    582,
+    1624,
+    1537
+   ],
+   "category": "Text",
+   "text": "Brevet, som upplästes den 18 april, remitterades — jämte den Berättelse¹, som Åkerman bilagt — till Berch, som den 27 fick företräde, då han yttrade sig om den underjordiska byggnaden, »hwilken förmenas kunna hysa någon skatt eller annat, som torde wara märkwärdigt. Herr Cantzlierådet tykte sig likwäl icke kunna sättja särdeles tro dertill, utan hölt fast mera före, att denna byggnad torde wara återlefwor af en gammal kalkugn, hälst kalktillwärkningen warit ifrån äldre tider i gång på Gottland och de pipor, hwilka på murarne sig wisade, syntes wara en sort dragrör, som wid rostwärk kunna wara nödige. Således tykte Herr Cantzlierådet, att det föga torde löna kostnaden att afsända härifrån någon, som anstälte derstädes widare gräfning eller eftersökning, hwartill icke heller antiquitets archivi medel nu medgofwo något förråd, utan syntes lämpeligast, att emedan Församlingen och Prästen förmena der finnas någon skatt och fyndet är på kyrkans jord, kunde wederbörande uppmuntras att för kyrkans räkning fullfölja gräfningen för att undersöka derom, då efter lag wärdet tillfaller kyrkan och en ottondedel däröfwer, om något finnes, som förtjänar att inlösas för Cronans räkning, kunnandes wid en sådan gräfning någon af de närmaste Landtmätare komma tilstädes att behörigen afrita byggnaden med hwad mera, som kan finnas sådant förtjäna. Kongl. Collegium biföll denna hemställan, och skulle derom bref till bemälte Landshöfding afgå.»"
+  },
+  {
+   "bbox": [
+    565,
+    1537,
+    1616,
+    1703
+   ],
+   "category": "Text",
+   "text": "Segebaden gav sig emellertid icke och tyckes ha vänt sig till konsistoriet i Visby, som den 8 juni skrev till kanslikollegiet: »I anledning af Eders Excellences Samt Kongl. Maij:tz och Riksens Höglofl. Cancellie Collegii ankomne Höggunstige Skrifwelse af"
+  },
+  {
+   "bbox": [
+    565,
+    1731,
+    1611,
+    1794
+   ],
+   "category": "Footnote",
+   "text": "¹ Denna trycktes sedan (1774): Berättelse om ett Urminnes-Märke, Hittat på Gottland och Hemse kyrkogård Åhr 1767."
+  },
+  {
+   "bbox": [
+    567,
+    1829,
+    642,
+    1866
+   ],
+   "category": "Page-footer",
+   "text": "520"
+  }
+ ]
+}

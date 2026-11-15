@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 12,
+ "seconds": 22.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [185, 347, 1301, 647], \"category\": \"Title\", \"text\": \"KGL. VITTERHETS\\nHISTORIE OCH ANTIKVITETS\\nAKADEMIEN\"}, {\"bbox\": [367, 714, 1131, 873], \"category\": \"Title\", \"text\": \"Dess\\nFörhistoria och Historia\"}, {\"bbox\": [518, 919, 979, 1062], \"category\": \"Text\", \"text\": \"På akademiens uppdrag\\nförfattade\\nav\"}, {\"bbox\": [518, 1107, 981, 1165], \"category\": \"Text\", \"text\": \"HENRIK SCHÜCK\"}, {\"bbox\": [737, 1246, 767, 1279], \"category\": \"Text\", \"text\": \"V\"}, {\"bbox\": [621, 1312, 891, 1398], \"category\": \"Text\", \"text\": \"ANTIKVITETS-\\nARKIVET II\"}, {\"bbox\": [518, 1739, 1001, 1792], \"category\": \"Text\", \"text\": \"Stockholm 1936\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    185,
+    347,
+    1301,
+    647
+   ],
+   "category": "Title",
+   "text": "KGL. VITTERHETS\nHISTORIE OCH ANTIKVITETS\nAKADEMIEN"
+  },
+  {
+   "bbox": [
+    367,
+    714,
+    1131,
+    873
+   ],
+   "category": "Title",
+   "text": "Dess\nFörhistoria och Historia"
+  },
+  {
+   "bbox": [
+    518,
+    919,
+    979,
+    1062
+   ],
+   "category": "Text",
+   "text": "På akademiens uppdrag\nförfattade\nav"
+  },
+  {
+   "bbox": [
+    518,
+    1107,
+    981,
+    1165
+   ],
+   "category": "Text",
+   "text": "HENRIK SCHÜCK"
+  },
+  {
+   "bbox": [
+    737,
+    1246,
+    767,
+    1279
+   ],
+   "category": "Text",
+   "text": "V"
+  },
+  {
+   "bbox": [
+    621,
+    1312,
+    891,
+    1398
+   ],
+   "category": "Text",
+   "text": "ANTIKVITETS-\nARKIVET II"
+  },
+  {
+   "bbox": [
+    518,
+    1739,
+    1001,
+    1792
+   ],
+   "category": "Text",
+   "text": "Stockholm 1936"
+  }
+ ]
+}

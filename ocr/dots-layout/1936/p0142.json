@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 142,
+ "seconds": 31.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [202, 243, 1071, 287], \"category\": \"Section-header\", \"text\": \"Antikvitetsarkivet och Biblioteket 1751—1766\"}, {\"bbox\": [108, 314, 1160, 475], \"category\": \"Text\", \"text\": \"ämbetes syssla dem pålägger, och att wederbörande äfwen således må kunna tiltro sig at därföre fullkomligt skäl af dem wänta och fordra. De öfrige olägenheter torde förmodel:n i följe häraf effter hand förfalla.\"}, {\"bbox\": [108, 480, 1160, 558], \"category\": \"Text\", \"text\": \"Innan den nya Indelningen wid desse wärken skedde, woro sysslorna och lönerna desse\"}, {\"bbox\": [247, 566, 1063, 1160], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>Bibliothecarien</td><td>600</td><td>D:r S:mt</td></tr><tr><td>Amanuensis</td><td>250</td><td></td></tr><tr><td>Til böckers köp skrifmaterialer etc.</td><td>600</td><td>1450</td></tr><tr><td>Antiquarien</td><td>1000</td><td></td></tr><tr><td>2:ne Assessorer a 600 hwardera</td><td>1200</td><td></td></tr><tr><td>Translator i gl. språket</td><td>400</td><td></td></tr><tr><td>Isländare</td><td>300</td><td></td></tr><tr><td>Cancellist</td><td>300</td><td></td></tr><tr><td>Ritare</td><td>300</td><td></td></tr><tr><td>Till förlager af böcker, inköp af skrifmater.</td><td>600</td><td>4100</td></tr><tr><td colspan=\\\"3\\\">Här till kommer:</td></tr><tr><td>Censor Lib.</td><td>1000</td><td></td></tr><tr><td>Historiographus</td><td>1000</td><td></td></tr><tr><td>Transl. Regni</td><td>600</td><td>2600</td></tr><tr><td>Summa</td><td></td><td>8150.</td></tr></tbody></table>\"}, {\"bbox\": [108, 1184, 1160, 1767], \"category\": \"Text\", \"text\": \"Igenom nya inrättningen äro beställningarne wid Bibliothequet och Ant. Archivum fördelte emellan 5 Bibliothecarier, 5 Amanuenser och en Ritare; hwaraf synes, at som beställningarne woro förr 9 till antalet, men nu 11, warande 2:ne Amanuenser tilkomne, så blifwer denna senare Inrättningen drygare i aflöning än den förra och således swårare at utan betungande af staten och til förbe:de ändamåls winnande behörigen ställa i wärket, där icke, som förslag lärer därwid hafwa warit, Historiographi och Translatoris Regni vacerande och indragande löner kunde komma wärket til någorlunda, fast icke förslående, hielp och understöd. Ty om än de til desse 2:ne beställningar upgående 1600 D:r S:mt skulle delas in uppå nya Inrättningen således, at hwardera af Bibliothecarierne fingo 800 D:r S:mts lön, som ej kunde säjas wara för mycket, så blef för Amanuenserne liten tilökning öfrig och aldeles intet at öka\"}, {\"bbox\": [1082, 1802, 1153, 1841], \"category\": \"Page-footer\", \"text\": \"125\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    202,
+    243,
+    1071,
+    287
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsarkivet och Biblioteket 1751—1766"
+  },
+  {
+   "bbox": [
+    108,
+    314,
+    1160,
+    475
+   ],
+   "category": "Text",
+   "text": "ämbetes syssla dem pålägger, och att wederbörande äfwen således må kunna tiltro sig at därföre fullkomligt skäl af dem wänta och fordra. De öfrige olägenheter torde förmodel:n i följe häraf effter hand förfalla."
+  },
+  {
+   "bbox": [
+    108,
+    480,
+    1160,
+    558
+   ],
+   "category": "Text",
+   "text": "Innan den nya Indelningen wid desse wärken skedde, woro sysslorna och lönerna desse"
+  },
+  {
+   "bbox": [
+    247,
+    566,
+    1063,
+    1160
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>Bibliothecarien</td><td>600</td><td>D:r S:mt</td></tr><tr><td>Amanuensis</td><td>250</td><td></td></tr><tr><td>Til böckers köp skrifmaterialer etc.</td><td>600</td><td>1450</td></tr><tr><td>Antiquarien</td><td>1000</td><td></td></tr><tr><td>2:ne Assessorer a 600 hwardera</td><td>1200</td><td></td></tr><tr><td>Translator i gl. språket</td><td>400</td><td></td></tr><tr><td>Isländare</td><td>300</td><td></td></tr><tr><td>Cancellist</td><td>300</td><td></td></tr><tr><td>Ritare</td><td>300</td><td></td></tr><tr><td>Till förlager af böcker, inköp af skrifmater.</td><td>600</td><td>4100</td></tr><tr><td colspan=\"3\">Här till kommer:</td></tr><tr><td>Censor Lib.</td><td>1000</td><td></td></tr><tr><td>Historiographus</td><td>1000</td><td></td></tr><tr><td>Transl. Regni</td><td>600</td><td>2600</td></tr><tr><td>Summa</td><td></td><td>8150.</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    108,
+    1184,
+    1160,
+    1767
+   ],
+   "category": "Text",
+   "text": "Igenom nya inrättningen äro beställningarne wid Bibliothequet och Ant. Archivum fördelte emellan 5 Bibliothecarier, 5 Amanuenser och en Ritare; hwaraf synes, at som beställningarne woro förr 9 till antalet, men nu 11, warande 2:ne Amanuenser tilkomne, så blifwer denna senare Inrättningen drygare i aflöning än den förra och således swårare at utan betungande af staten och til förbe:de ändamåls winnande behörigen ställa i wärket, där icke, som förslag lärer därwid hafwa warit, Historiographi och Translatoris Regni vacerande och indragande löner kunde komma wärket til någorlunda, fast icke förslående, hielp och understöd. Ty om än de til desse 2:ne beställningar upgående 1600 D:r S:mt skulle delas in uppå nya Inrättningen således, at hwardera af Bibliothecarierne fingo 800 D:r S:mts lön, som ej kunde säjas wara för mycket, så blef för Amanuenserne liten tilökning öfrig och aldeles intet at öka"
+  },
+  {
+   "bbox": [
+    1082,
+    1802,
+    1153,
+    1841
+   ],
+   "category": "Page-footer",
+   "text": "125"
+  }
+ ]
+}

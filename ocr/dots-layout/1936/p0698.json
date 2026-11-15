@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 698,
+ "seconds": 30.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [336, 258, 921, 302], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet 1778—1786\"}, {\"bbox\": [98, 328, 1148, 411], \"category\": \"Text\", \"text\": \"beth ansåg dem ej förtjäna att inlösas (Kansliprot. 11 januari, 15 april, 10 maj 1785. Inkomna skrivelser IX. 2).\"}, {\"bbox\": [98, 411, 1150, 663], \"category\": \"Text\", \"text\": \"Större intresse visade man för ett Ölandsfynd. Den 5 oktober 1785 skrev landshövdingen i Kalmar till kanslikollegiet (Inkomna skrivelser sign. IX. 6): »På Enetri ägor uti Åhs Sochn och Ölands Södre Mot har Scholægåssen Melen hittat uti Jorden en liten piece af malm, formerad och utstuckit, såsom den warit nyttjad till Sigill med sådan devise och namn, som hos följande aftryck utwisar.\"}, {\"bbox\": [98, 661, 1150, 951], \"category\": \"Text\", \"text\": \"Denna piece, som Melen icke gör någon swårighet wid at aflämna emot någon wederkänsla uti dess fattigdom, har jag trodt mig icke böra undgå at här hos till Eders Excellence och Höglofl. Kongl. Cancellie Collegio öfwersända med hemställan, huruwida Eders Excellence och Höglofl. Kongl. Cancellie Collegium anser wara nödigt at det samma inlösa, derest [det] någon slags uplysning i Historien gifwa kan, eller om det skall Melen återställas.\"}, {\"bbox\": [134, 961, 810, 1007], \"category\": \"Text\", \"text\": \"Calmar Lands Cancellie d. 5 October 1785.\"}, {\"bbox\": [950, 1006, 1115, 1040], \"category\": \"Text\", \"text\": \"Kaulbars.»\"}, {\"bbox\": [95, 1072, 1149, 1781], \"category\": \"Text\", \"text\": \"Ärendet remitterades till Adlerbeth, som den 8 november ingav detta memorial till kanslikollegiet: »Det til mitt utlåtande af höglofl. Kongl. Cantzli Collegio communicerade fynd ifrån Öland, bestående af et gammalt metall-sigill, tyckes förtjena at inlösas til förökande af den i Kongl. antiquitets archivo befindteliga samling af Sigiller från medel-åldren. Dess wärde är wäl i anseende til materien och arbetet ganska obetydligt. Men som det i betraktande af samlingens complettering och til upmuntran för dem, som framdeles kunna göra sådane fynd at dem framgifwa, icke så noga lärer böra betalas efter intrinsequa valeuren, tyckes mig oförgripeligen, at 2:ne Riksdaler kunde tildelas upfinnaren såsom hitte-lön. Sigillet synes troligen hafwa warit nyttjadt af något gille eller convivium, hvilket burit namn efter den däruti både nämde och förestäldte S. Benedicta. Flere dylika gilles-sigiller, som i antiquitets archivo förwaras, gifwa medelst deras enahanda smak anledning til en sådan gissning. Arbetet och caracteren af de graverade bokstäfwerne tyckas utmärka femtonde Seculum» (Kanslikoll. Inkomna skri-\"}, {\"bbox\": [1065, 1808, 1142, 1856], \"category\": \"Page-footer\", \"text\": \"667\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    336,
+    258,
+    921,
+    302
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet 1778—1786"
+  },
+  {
+   "bbox": [
+    98,
+    328,
+    1148,
+    411
+   ],
+   "category": "Text",
+   "text": "beth ansåg dem ej förtjäna att inlösas (Kansliprot. 11 januari, 15 april, 10 maj 1785. Inkomna skrivelser IX. 2)."
+  },
+  {
+   "bbox": [
+    98,
+    411,
+    1150,
+    663
+   ],
+   "category": "Text",
+   "text": "Större intresse visade man för ett Ölandsfynd. Den 5 oktober 1785 skrev landshövdingen i Kalmar till kanslikollegiet (Inkomna skrivelser sign. IX. 6): »På Enetri ägor uti Åhs Sochn och Ölands Södre Mot har Scholægåssen Melen hittat uti Jorden en liten piece af malm, formerad och utstuckit, såsom den warit nyttjad till Sigill med sådan devise och namn, som hos följande aftryck utwisar."
+  },
+  {
+   "bbox": [
+    98,
+    661,
+    1150,
+    951
+   ],
+   "category": "Text",
+   "text": "Denna piece, som Melen icke gör någon swårighet wid at aflämna emot någon wederkänsla uti dess fattigdom, har jag trodt mig icke böra undgå at här hos till Eders Excellence och Höglofl. Kongl. Cancellie Collegio öfwersända med hemställan, huruwida Eders Excellence och Höglofl. Kongl. Cancellie Collegium anser wara nödigt at det samma inlösa, derest [det] någon slags uplysning i Historien gifwa kan, eller om det skall Melen återställas."
+  },
+  {
+   "bbox": [
+    134,
+    961,
+    810,
+    1007
+   ],
+   "category": "Text",
+   "text": "Calmar Lands Cancellie d. 5 October 1785."
+  },
+  {
+   "bbox": [
+    950,
+    1006,
+    1115,
+    1040
+   ],
+   "category": "Text",
+   "text": "Kaulbars.»"
+  },
+  {
+   "bbox": [
+    95,
+    1072,
+    1149,
+    1781
+   ],
+   "category": "Text",
+   "text": "Ärendet remitterades till Adlerbeth, som den 8 november ingav detta memorial till kanslikollegiet: »Det til mitt utlåtande af höglofl. Kongl. Cantzli Collegio communicerade fynd ifrån Öland, bestående af et gammalt metall-sigill, tyckes förtjena at inlösas til förökande af den i Kongl. antiquitets archivo befindteliga samling af Sigiller från medel-åldren. Dess wärde är wäl i anseende til materien och arbetet ganska obetydligt. Men som det i betraktande af samlingens complettering och til upmuntran för dem, som framdeles kunna göra sådane fynd at dem framgifwa, icke så noga lärer böra betalas efter intrinsequa valeuren, tyckes mig oförgripeligen, at 2:ne Riksdaler kunde tildelas upfinnaren såsom hitte-lön. Sigillet synes troligen hafwa warit nyttjadt af något gille eller convivium, hvilket burit namn efter den däruti både nämde och förestäldte S. Benedicta. Flere dylika gilles-sigiller, som i antiquitets archivo förwaras, gifwa medelst deras enahanda smak anledning til en sådan gissning. Arbetet och caracteren af de graverade bokstäfwerne tyckas utmärka femtonde Seculum» (Kanslikoll. Inkomna skri-"
+  },
+  {
+   "bbox": [
+    1065,
+    1808,
+    1142,
+    1856
+   ],
+   "category": "Page-footer",
+   "text": "667"
+  }
+ ]
+}

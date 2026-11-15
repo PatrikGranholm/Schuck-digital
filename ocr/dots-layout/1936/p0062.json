@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 62,
+ "seconds": 32.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [399, 273, 974, 313], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet 1747—1751\"}, {\"bbox\": [169, 341, 1205, 427], \"category\": \"Text\", \"text\": \"mål Commissioner utskickas i Landzorterne, sådan som den war, hwilken för några år sedan drog öfwer [til] Finland.\"}, {\"bbox\": [169, 424, 1213, 1172], \"category\": \"Text\", \"text\": \"Til at winna ändamålet af det föregående är högst angelägit, at til tiensterna wid Bibliotheket och Archivum sådane Personer sättas, som hafwa giort sig kunnige om de saker, hwilka derwid förekomma och tros äga [lika] stor lust til sielfwa arbetet som [til] den anslagna löhnen. Men ingalunda at desse ställen blifwa ansedde endast som pensioner för folck, som länge hafwa arbetat wid andra wärck och för mellankommande händelser ej kunnat avancera. Månge säga sig ej hafwa lust til Bibliotheket och Archivum, emedan Wärken äro så inskränkte och föga hopp at wid dem kunna drifwa sin lycka något högt. Men denna invändningen är mycket lahm, effter intet twifwel bör wara, at ju Öfwerheten finner utwägar at forthielpa folck, som äga Studier, sundt begrep och äro hemma uti Rikets fordna handlingar, på hwilka de nyare, som ock senare läras, äro grundade. Imedlertid skulle wara orådeligit at för de egen-nyttigas skull föreslå större löhner wid bem:te wärck eller för de äre-girigas någon ändring i rangen. En ny indelning uti arbetet kan man likwäl våga at proponera samt at Underbetienterne blefwe såsom Elever til de högre ställen.\"}, {\"bbox\": [172, 1168, 1215, 1257], \"category\": \"Text\", \"text\": \"Wid Archivum och Bibliotheket är effter närwarande Stat föl-jande betiening.\"}, {\"bbox\": [214, 1252, 1173, 1296], \"category\": \"Text\", \"text\": \"1. En Kongelig Secreterare, som hafwer Archivum under sig.\"}, {\"bbox\": [177, 1294, 1215, 1420], \"category\": \"Text\", \"text\": \"2. En Bibliothecarius, Twenne Antiquitets Assessorer och en Translator för de gamla Språken, sins emellan lika i rang, fast än den sidsta hafwer de swagaste wilckoren.\"}, {\"bbox\": [177, 1417, 1219, 1745], \"category\": \"Text\", \"text\": \"Desse femb Personer kunde dela Sakerne, som förwaras, och det dertil hörande arbetet sins emellan och den äldste ibland dem hafwa prerogativen af Kgl. Secreterares rang och löhn, antingen at man kallade honom Öfwer-Bibliothecarius och de öfrige Bibliothecarier, eller blefwe wid de gamla titlarna af Secreterare och Assessorer, ehuru underligt det i sig sielf låter at kalla dem Assessorer, som aldrig sittia tilsamman och afgiöra något, och det är at se dem gå nedan för Secreteraren. Widare äro där\"}, {\"bbox\": [214, 1747, 1219, 1794], \"category\": \"Text\", \"text\": \"3. Trenne Amanuenses, hwaribland 2 äro wid Archivum och\"}, {\"bbox\": [1165, 1827, 1215, 1864], \"category\": \"Page-footer\", \"text\": \"45\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    399,
+    273,
+    974,
+    313
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet 1747—1751"
+  },
+  {
+   "bbox": [
+    169,
+    341,
+    1205,
+    427
+   ],
+   "category": "Text",
+   "text": "mål Commissioner utskickas i Landzorterne, sådan som den war, hwilken för några år sedan drog öfwer [til] Finland."
+  },
+  {
+   "bbox": [
+    169,
+    424,
+    1213,
+    1172
+   ],
+   "category": "Text",
+   "text": "Til at winna ändamålet af det föregående är högst angelägit, at til tiensterna wid Bibliotheket och Archivum sådane Personer sättas, som hafwa giort sig kunnige om de saker, hwilka derwid förekomma och tros äga [lika] stor lust til sielfwa arbetet som [til] den anslagna löhnen. Men ingalunda at desse ställen blifwa ansedde endast som pensioner för folck, som länge hafwa arbetat wid andra wärck och för mellankommande händelser ej kunnat avancera. Månge säga sig ej hafwa lust til Bibliotheket och Archivum, emedan Wärken äro så inskränkte och föga hopp at wid dem kunna drifwa sin lycka något högt. Men denna invändningen är mycket lahm, effter intet twifwel bör wara, at ju Öfwerheten finner utwägar at forthielpa folck, som äga Studier, sundt begrep och äro hemma uti Rikets fordna handlingar, på hwilka de nyare, som ock senare läras, äro grundade. Imedlertid skulle wara orådeligit at för de egen-nyttigas skull föreslå större löhner wid bem:te wärck eller för de äre-girigas någon ändring i rangen. En ny indelning uti arbetet kan man likwäl våga at proponera samt at Underbetienterne blefwe såsom Elever til de högre ställen."
+  },
+  {
+   "bbox": [
+    172,
+    1168,
+    1215,
+    1257
+   ],
+   "category": "Text",
+   "text": "Wid Archivum och Bibliotheket är effter närwarande Stat föl-jande betiening."
+  },
+  {
+   "bbox": [
+    214,
+    1252,
+    1173,
+    1296
+   ],
+   "category": "Text",
+   "text": "1. En Kongelig Secreterare, som hafwer Archivum under sig."
+  },
+  {
+   "bbox": [
+    177,
+    1294,
+    1215,
+    1420
+   ],
+   "category": "Text",
+   "text": "2. En Bibliothecarius, Twenne Antiquitets Assessorer och en Translator för de gamla Språken, sins emellan lika i rang, fast än den sidsta hafwer de swagaste wilckoren."
+  },
+  {
+   "bbox": [
+    177,
+    1417,
+    1219,
+    1745
+   ],
+   "category": "Text",
+   "text": "Desse femb Personer kunde dela Sakerne, som förwaras, och det dertil hörande arbetet sins emellan och den äldste ibland dem hafwa prerogativen af Kgl. Secreterares rang och löhn, antingen at man kallade honom Öfwer-Bibliothecarius och de öfrige Bibliothecarier, eller blefwe wid de gamla titlarna af Secreterare och Assessorer, ehuru underligt det i sig sielf låter at kalla dem Assessorer, som aldrig sittia tilsamman och afgiöra något, och det är at se dem gå nedan för Secreteraren. Widare äro där"
+  },
+  {
+   "bbox": [
+    214,
+    1747,
+    1219,
+    1794
+   ],
+   "category": "Text",
+   "text": "3. Trenne Amanuenses, hwaribland 2 äro wid Archivum och"
+  },
+  {
+   "bbox": [
+    1165,
+    1827,
+    1215,
+    1864
+   ],
+   "category": "Page-footer",
+   "text": "45"
+  }
+ ]
+}

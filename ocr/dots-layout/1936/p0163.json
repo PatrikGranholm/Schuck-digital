@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 163,
+ "seconds": 30.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [943, 278, 1336, 314], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [613, 348, 1655, 1302], \"category\": \"Text\", \"text\": \"prof af sin skickelighet uti dess genom trycket utgifne skrifter under titel: Förråd af äldre och nyare handlingar i nordiska Historien jämte Disputationer i Swenska Historien och antiquiteter utom andra nytta arbeten i antiquiteterne, som han under händer hafwer, hwartill han haft så godt tillfälle medelst högl. Kongl. Cantzlie Collegii tillstånd att öfwer 8 år blifwa uti bägge archiverne och om hwad där finnes giöra sig bekant och innehafwer dessutom wackra studier jämte en besynnerlig arbetsamhet, och efter bemälte Bergius warit Magister Docens uti Historien wid academien uti Lund i 11 års tid, och i alla tider wanligit är, att Magistri Docentes blifwa Professores, hwilka äga lika rang med assessorer uti Collegierne; ty woro wäl, om Magister Bergius för ofwan anförde och flere skiäl blefwe Extra ordinarie assessor wid antiquitets archivum och nu så mycket häldre, sedan assessor Hagelberg med döden afgådt och Extra ordinarie assessoren Botin, som efter Riksens höglofl. Ständers förordnande tillträder det nu ledigt warande ordinarie assessors rummet, men bör efter högbemälte förordnande till nästa riksdag, om möyeligit är, utarbeta det återstående af Beskrifningen om swänska hemman och Jordagods jämte de öfrige arbeten, hwilka han sig åtagit att författa, blifwer härmedelst skild ifrån de wanliga arbeten wid antiquitets archivum, och existerar således en stor brist på arbetare wid archivum, däräst så få ledamöter äro» (U. B. Gahm sign. U 125, ingivet 15 febr. 1758).\"}, {\"bbox\": [613, 1302, 1655, 1799], \"category\": \"Text\", \"text\": \"Inom kanslikollegiet mottogs Bondes förslag icke med någon sympati. Där höll man på en succession inom verket och ville därför ej släppa in någon »utböling». Men å den andra sidan ansåg man sig ej kunna avstyrka ett förslag, som ingivits av en man med Bondes auktoritet. Diskussionen blev därför ganska lång och fortsattes under flera sammankomster, den 15, 17, 20 och 21 februari, den 21 mars och den 14 april. Redan vid sammanträdet den 20 februari sade sig statssekreteraren Carleson och kanslirådet Ekestubbe »wara af den tancka, att genom Bergii tillförordnande på sätt, som sagt är, skulle tyckas andra äldre betjenters inom wärcket rätt alt för nära ske, hwilka för deras långliga och wäl förrättade tjenster, samt altså för redan ådagalagde, gjorde sig till belöning och befordran\"}, {\"bbox\": [621, 1827, 694, 1873], \"category\": \"Page-footer\", \"text\": \"146\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    943,
+    278,
+    1336,
+    314
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    613,
+    348,
+    1655,
+    1302
+   ],
+   "category": "Text",
+   "text": "prof af sin skickelighet uti dess genom trycket utgifne skrifter under titel: Förråd af äldre och nyare handlingar i nordiska Historien jämte Disputationer i Swenska Historien och antiquiteter utom andra nytta arbeten i antiquiteterne, som han under händer hafwer, hwartill han haft så godt tillfälle medelst högl. Kongl. Cantzlie Collegii tillstånd att öfwer 8 år blifwa uti bägge archiverne och om hwad där finnes giöra sig bekant och innehafwer dessutom wackra studier jämte en besynnerlig arbetsamhet, och efter bemälte Bergius warit Magister Docens uti Historien wid academien uti Lund i 11 års tid, och i alla tider wanligit är, att Magistri Docentes blifwa Professores, hwilka äga lika rang med assessorer uti Collegierne; ty woro wäl, om Magister Bergius för ofwan anförde och flere skiäl blefwe Extra ordinarie assessor wid antiquitets archivum och nu så mycket häldre, sedan assessor Hagelberg med döden afgådt och Extra ordinarie assessoren Botin, som efter Riksens höglofl. Ständers förordnande tillträder det nu ledigt warande ordinarie assessors rummet, men bör efter högbemälte förordnande till nästa riksdag, om möyeligit är, utarbeta det återstående af Beskrifningen om swänska hemman och Jordagods jämte de öfrige arbeten, hwilka han sig åtagit att författa, blifwer härmedelst skild ifrån de wanliga arbeten wid antiquitets archivum, och existerar således en stor brist på arbetare wid archivum, däräst så få ledamöter äro» (U. B. Gahm sign. U 125, ingivet 15 febr. 1758)."
+  },
+  {
+   "bbox": [
+    613,
+    1302,
+    1655,
+    1799
+   ],
+   "category": "Text",
+   "text": "Inom kanslikollegiet mottogs Bondes förslag icke med någon sympati. Där höll man på en succession inom verket och ville därför ej släppa in någon »utböling». Men å den andra sidan ansåg man sig ej kunna avstyrka ett förslag, som ingivits av en man med Bondes auktoritet. Diskussionen blev därför ganska lång och fortsattes under flera sammankomster, den 15, 17, 20 och 21 februari, den 21 mars och den 14 april. Redan vid sammanträdet den 20 februari sade sig statssekreteraren Carleson och kanslirådet Ekestubbe »wara af den tancka, att genom Bergii tillförordnande på sätt, som sagt är, skulle tyckas andra äldre betjenters inom wärcket rätt alt för nära ske, hwilka för deras långliga och wäl förrättade tjenster, samt altså för redan ådagalagde, gjorde sig till belöning och befordran"
+  },
+  {
+   "bbox": [
+    621,
+    1827,
+    694,
+    1873
+   ],
+   "category": "Page-footer",
+   "text": "146"
+  }
+ ]
+}

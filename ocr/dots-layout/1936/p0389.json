@@ -1,0 +1,242 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 389,
+ "seconds": 37.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [901, 262, 1298, 298], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [701, 331, 1488, 367], \"category\": \"List-item\", \"text\": \"N. 4 b. Hand-hammar af sten, utan at fästas wid skafft.\"}, {\"bbox\": [701, 368, 1069, 404], \"category\": \"List-item\", \"text\": \"N. 4 c. Annan, opolerad.\"}, {\"bbox\": [701, 404, 1433, 440], \"category\": \"List-item\", \"text\": \"N. 4 d. Annan. Alla tre ifrån Skåne. (Anm. p. 19)\"}, {\"bbox\": [574, 449, 1628, 589], \"category\": \"List-item\", \"text\": \"N. 61. Af H:r Assessor Wesman ingifwen, så kallad, *Stridshammar* af koppar funnen wid Tosterups Herregård i en Ättebacka. NB. lika med den, som ibland Romerska Antiqviteterna är införd såsom en culter excoriatorius.\"}, {\"bbox\": [701, 593, 1628, 771], \"category\": \"Text\", \"text\": \"[Rhode i sina Antiquitäten Remarques beskrifver pp. 88 seq. dylika i grafvar fundne Koppar-Knifvar, af krokig form, dem han tror tjent til offers slagtande dels i anseende til deras storlek och form, dels emedan de funnits tilsamman med et stycke rökverk hvaraf ock slutes at där varit en präst begrafven.]\"}, {\"bbox\": [577, 781, 1628, 857], \"category\": \"List-item\", \"text\": \"[N. 62.] Jern-Hammar, med jern-skafft: af rost merendels förstörd (anm: p. 12) gifwen af Inspector Leyel wid Afwesta. 1752.\"}, {\"bbox\": [577, 864, 1569, 904], \"category\": \"List-item\", \"text\": \"[N. 63.] Nyare Hammar, med smalt jern-skafft; och handtag af behn.\"}, {\"bbox\": [577, 911, 1628, 1015], \"category\": \"List-item\", \"text\": \"[N. 64.] Annan ny Hammar; med förtent jern-skafft och handtag af trä, tagen ifrån en Snapphane i förra danska kriget, inlemnad af H:r Transl. Wessman.\"}, {\"bbox\": [707, 1030, 946, 1068], \"category\": \"Text\", \"text\": \"*Spiut.* (anm. p. 12)\"}, {\"bbox\": [577, 1071, 1628, 1180], \"category\": \"List-item\", \"text\": \"[N. 65.] Spetz af et Koppar-Spiut, funnit i Skåne, wid Christianstad gifwit af H:r Transl. Wessman. (1750)\"}, {\"bbox\": [577, 1189, 1250, 1228], \"category\": \"List-item\", \"text\": \"[N. 66.] Jern Spetz: merendels af rost upäten.\"}, {\"bbox\": [577, 1237, 798, 1274], \"category\": \"List-item\", \"text\": \"[N. 67.] Dylik.\"}, {\"bbox\": [577, 1282, 1221, 1322], \"category\": \"List-item\", \"text\": \"[N. 68.] Hillebard, med owanlig lång Spetz.\"}, {\"bbox\": [577, 1331, 1488, 1369], \"category\": \"List-item\", \"text\": \"[N. 69.] Annan, med kortare Spetz; och mindre konstigt korss.\"}, {\"bbox\": [577, 1377, 1628, 1451], \"category\": \"List-item\", \"text\": \"[N. 70.] Litet Spiut: hwartil skafftet är en Prim-staf. Inkommen ibland Lagmans Carlesons Runstafwar.\"}, {\"bbox\": [577, 1454, 1628, 1493], \"category\": \"List-item\", \"text\": \"[N. 71.] Spetz af en Bardisan: ifrån K. Carl IX. eller K. Gustaf Adolphs tid.\"}, {\"bbox\": [577, 1502, 1628, 1569], \"category\": \"List-item\", \"text\": \"[N. 72.] Et månguddigt gutet jern-stycke, tyckes wara en del af en Morgonstierna.\"}, {\"bbox\": [710, 1584, 793, 1623], \"category\": \"Text\", \"text\": \"*Bogar*\"}, {\"bbox\": [577, 1626, 1224, 1664], \"category\": \"List-item\", \"text\": \"[N. 73.] Stort Armborst. Bogen af fiskbehn.\"}, {\"bbox\": [577, 1668, 1044, 1706], \"category\": \"List-item\", \"text\": \"[N. 74.] Annat. Bogen af ståhl.\"}, {\"bbox\": [577, 1708, 1630, 1777], \"category\": \"List-item\", \"text\": \"[N. 75.] Mindre; också af ståhl: med dess Spännare. Lemnat af H:r Wessman.\"}, {\"bbox\": [586, 1818, 661, 1857], \"category\": \"Page-footer\", \"text\": \"370\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    901,
+    262,
+    1298,
+    298
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    701,
+    331,
+    1488,
+    367
+   ],
+   "category": "List-item",
+   "text": "N. 4 b. Hand-hammar af sten, utan at fästas wid skafft."
+  },
+  {
+   "bbox": [
+    701,
+    368,
+    1069,
+    404
+   ],
+   "category": "List-item",
+   "text": "N. 4 c. Annan, opolerad."
+  },
+  {
+   "bbox": [
+    701,
+    404,
+    1433,
+    440
+   ],
+   "category": "List-item",
+   "text": "N. 4 d. Annan. Alla tre ifrån Skåne. (Anm. p. 19)"
+  },
+  {
+   "bbox": [
+    574,
+    449,
+    1628,
+    589
+   ],
+   "category": "List-item",
+   "text": "N. 61. Af H:r Assessor Wesman ingifwen, så kallad, *Stridshammar* af koppar funnen wid Tosterups Herregård i en Ättebacka. NB. lika med den, som ibland Romerska Antiqviteterna är införd såsom en culter excoriatorius."
+  },
+  {
+   "bbox": [
+    701,
+    593,
+    1628,
+    771
+   ],
+   "category": "Text",
+   "text": "[Rhode i sina Antiquitäten Remarques beskrifver pp. 88 seq. dylika i grafvar fundne Koppar-Knifvar, af krokig form, dem han tror tjent til offers slagtande dels i anseende til deras storlek och form, dels emedan de funnits tilsamman med et stycke rökverk hvaraf ock slutes at där varit en präst begrafven.]"
+  },
+  {
+   "bbox": [
+    577,
+    781,
+    1628,
+    857
+   ],
+   "category": "List-item",
+   "text": "[N. 62.] Jern-Hammar, med jern-skafft: af rost merendels förstörd (anm: p. 12) gifwen af Inspector Leyel wid Afwesta. 1752."
+  },
+  {
+   "bbox": [
+    577,
+    864,
+    1569,
+    904
+   ],
+   "category": "List-item",
+   "text": "[N. 63.] Nyare Hammar, med smalt jern-skafft; och handtag af behn."
+  },
+  {
+   "bbox": [
+    577,
+    911,
+    1628,
+    1015
+   ],
+   "category": "List-item",
+   "text": "[N. 64.] Annan ny Hammar; med förtent jern-skafft och handtag af trä, tagen ifrån en Snapphane i förra danska kriget, inlemnad af H:r Transl. Wessman."
+  },
+  {
+   "bbox": [
+    707,
+    1030,
+    946,
+    1068
+   ],
+   "category": "Text",
+   "text": "*Spiut.* (anm. p. 12)"
+  },
+  {
+   "bbox": [
+    577,
+    1071,
+    1628,
+    1180
+   ],
+   "category": "List-item",
+   "text": "[N. 65.] Spetz af et Koppar-Spiut, funnit i Skåne, wid Christianstad gifwit af H:r Transl. Wessman. (1750)"
+  },
+  {
+   "bbox": [
+    577,
+    1189,
+    1250,
+    1228
+   ],
+   "category": "List-item",
+   "text": "[N. 66.] Jern Spetz: merendels af rost upäten."
+  },
+  {
+   "bbox": [
+    577,
+    1237,
+    798,
+    1274
+   ],
+   "category": "List-item",
+   "text": "[N. 67.] Dylik."
+  },
+  {
+   "bbox": [
+    577,
+    1282,
+    1221,
+    1322
+   ],
+   "category": "List-item",
+   "text": "[N. 68.] Hillebard, med owanlig lång Spetz."
+  },
+  {
+   "bbox": [
+    577,
+    1331,
+    1488,
+    1369
+   ],
+   "category": "List-item",
+   "text": "[N. 69.] Annan, med kortare Spetz; och mindre konstigt korss."
+  },
+  {
+   "bbox": [
+    577,
+    1377,
+    1628,
+    1451
+   ],
+   "category": "List-item",
+   "text": "[N. 70.] Litet Spiut: hwartil skafftet är en Prim-staf. Inkommen ibland Lagmans Carlesons Runstafwar."
+  },
+  {
+   "bbox": [
+    577,
+    1454,
+    1628,
+    1493
+   ],
+   "category": "List-item",
+   "text": "[N. 71.] Spetz af en Bardisan: ifrån K. Carl IX. eller K. Gustaf Adolphs tid."
+  },
+  {
+   "bbox": [
+    577,
+    1502,
+    1628,
+    1569
+   ],
+   "category": "List-item",
+   "text": "[N. 72.] Et månguddigt gutet jern-stycke, tyckes wara en del af en Morgonstierna."
+  },
+  {
+   "bbox": [
+    710,
+    1584,
+    793,
+    1623
+   ],
+   "category": "Text",
+   "text": "*Bogar*"
+  },
+  {
+   "bbox": [
+    577,
+    1626,
+    1224,
+    1664
+   ],
+   "category": "List-item",
+   "text": "[N. 73.] Stort Armborst. Bogen af fiskbehn."
+  },
+  {
+   "bbox": [
+    577,
+    1668,
+    1044,
+    1706
+   ],
+   "category": "List-item",
+   "text": "[N. 74.] Annat. Bogen af ståhl."
+  },
+  {
+   "bbox": [
+    577,
+    1708,
+    1630,
+    1777
+   ],
+   "category": "List-item",
+   "text": "[N. 75.] Mindre; också af ståhl: med dess Spännare. Lemnat af H:r Wessman."
+  },
+  {
+   "bbox": [
+    586,
+    1818,
+    661,
+    1857
+   ],
+   "category": "Page-footer",
+   "text": "370"
+  }
+ ]
+}

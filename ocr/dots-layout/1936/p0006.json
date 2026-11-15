@@ -1,0 +1,91 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 6,
+ "seconds": 30.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [275, 292, 1117, 362], \"category\": \"Text\", \"text\": \"HENRIK SCHÜCK\"}, {\"bbox\": [282, 544, 1125, 630], \"category\": \"Text\", \"text\": \"KGL. VITTEKNETS\"}, {\"bbox\": [47, 667, 1364, 753], \"category\": \"Text\", \"text\": \"HISTORIE OCH ANTIKVITETS\"}, {\"bbox\": [418, 794, 984, 880], \"category\": \"Text\", \"text\": \"AKADEMEN\"}, {\"bbox\": [282, 965, 1109, 1105], \"category\": \"Text\", \"text\": \"DESS\\nFÖRBISTORIA OCH HISTORIA\"}, {\"bbox\": [667, 1158, 725, 1215], \"category\": \"Text\", \"text\": \"V\"}, {\"bbox\": [548, 1505, 845, 1795], \"category\": \"Picture\"}, {\"bbox\": [421, 1904, 984, 1967], \"category\": \"Text\", \"text\": \"STOCKHOLM 1936\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    275,
+    292,
+    1117,
+    362
+   ],
+   "category": "Text",
+   "text": "HENRIK SCHÜCK"
+  },
+  {
+   "bbox": [
+    282,
+    544,
+    1125,
+    630
+   ],
+   "category": "Text",
+   "text": "KGL. VITTEKNETS"
+  },
+  {
+   "bbox": [
+    47,
+    667,
+    1364,
+    753
+   ],
+   "category": "Text",
+   "text": "HISTORIE OCH ANTIKVITETS"
+  },
+  {
+   "bbox": [
+    418,
+    794,
+    984,
+    880
+   ],
+   "category": "Text",
+   "text": "AKADEMEN"
+  },
+  {
+   "bbox": [
+    282,
+    965,
+    1109,
+    1105
+   ],
+   "category": "Text",
+   "text": "DESS\nFÖRBISTORIA OCH HISTORIA"
+  },
+  {
+   "bbox": [
+    667,
+    1158,
+    725,
+    1215
+   ],
+   "category": "Text",
+   "text": "V"
+  },
+  {
+   "bbox": [
+    548,
+    1505,
+    845,
+    1795
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    421,
+    1904,
+    984,
+    1967
+   ],
+   "category": "Text",
+   "text": "STOCKHOLM 1936"
+  }
+ ]
+}

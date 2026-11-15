@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 351,
+ "seconds": 31.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [896, 263, 1290, 299], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet II\"}, {\"bbox\": [570, 334, 1615, 501], \"category\": \"Text\", \"text\": \"Swenska, warda ökade, såsom isynnerhet det sidst nämnde hafwer under förflutna åren blifwit mycket talrikt igenom min upmärksamhet på alt nytt, som kommer ifrån pressen eller på utländska auctioner för någorlunda billigt prijs står at lösas.\"}, {\"bbox\": [567, 500, 1615, 791], \"category\": \"Text\", \"text\": \"2) Kongl. Secreteraren och Bibliothecarien herr Anders Wilde, änskiönt wid en ringa löhn af Historiographi Amanuensis, sedan de hans innehafwande tienst tilständiga emolumenter hafwa fölgt med Hr. Cantzlij Rådet von Celse til historiographien, arbetar dock dagel. wid Bibliotheket, ökar det med nyttiga och en Kongl. Samling anständiga Böcker och sätter Catalogerne i fulkomligit stånd, som af Bilagan omständeligen kan inhämtas.\"}, {\"bbox\": [567, 791, 1612, 957], \"category\": \"Text\", \"text\": \"3) Assessoren och Bibliothecarien Hr. Prael, hwars ordinarie löhn upbäres af CammarRådet Botin, niuter nu allenast sin förra Translatorslöhn. Han är sysselsat med Hennes Kongl. Höghets Printzessans information och tager sig icke af antiquiteterne.\"}, {\"bbox\": [564, 957, 1610, 1123], \"category\": \"Text\", \"text\": \"4) Kongl. Secreteraren Herr Helsingius är igenom Riksens Ständers förestälning anwist på en ordinarie assessors löhn wid archivum, lärer ock hos dem giöra redo för något nyttigt, om ej just til antiquiteterna hörande arbete.\"}, {\"bbox\": [564, 1123, 1610, 1453], \"category\": \"Text\", \"text\": \"5) Bibliothecarien herr Nils Reinhold Broocman, så länge den hans ställe eljest tilhörige löhnen upbäres af herr Prael, tienar för sin förra amanuensis löhn med en tilökning, som war på extra Stat gifwen afledne Jsländaren Thorwalder Grimsson Brochman. Är nu med tilstånd utomlands stadd, dock under sin härwaro lemnade prof af mycken skickelighet och lust at arbeta i de gamla sakerna, som dels hans utgifna anmärkningar öfwer Jngwars Saga, dels hans handskrefne helsinge-Resa kunna intyga.\"}, {\"bbox\": [564, 1453, 1610, 1570], \"category\": \"Text\", \"text\": \"6) Amanuensis wid Bibliotheket med Kgl. Bibliothecarii namn och tour Hr. Giörwell giör dageligen tienst wid Bibliotheket och åtniuter den ordinarie amanuensis löhnen.\"}, {\"bbox\": [564, 1575, 1612, 1699], \"category\": \"Text\", \"text\": \"7) Bibliothecarien Mozelius är antagen i afseende på det til kommande arbetet wid Kongliga Bokförrådets flytning, men berättar sig imedlertid hafwa historiskt arbete under händer.\"}, {\"bbox\": [564, 1699, 1612, 1785], \"category\": \"Text\", \"text\": \"8) Amanuensis wid archivum Samuel Gagnerus är flitig på sit ställe och biträder mig med all hielp, hwarom iag honom anlitar.\"}, {\"bbox\": [564, 1819, 643, 1858], \"category\": \"Page-footer\", \"text\": \"332\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    896,
+    263,
+    1290,
+    299
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet II"
+  },
+  {
+   "bbox": [
+    570,
+    334,
+    1615,
+    501
+   ],
+   "category": "Text",
+   "text": "Swenska, warda ökade, såsom isynnerhet det sidst nämnde hafwer under förflutna åren blifwit mycket talrikt igenom min upmärksamhet på alt nytt, som kommer ifrån pressen eller på utländska auctioner för någorlunda billigt prijs står at lösas."
+  },
+  {
+   "bbox": [
+    567,
+    500,
+    1615,
+    791
+   ],
+   "category": "Text",
+   "text": "2) Kongl. Secreteraren och Bibliothecarien herr Anders Wilde, änskiönt wid en ringa löhn af Historiographi Amanuensis, sedan de hans innehafwande tienst tilständiga emolumenter hafwa fölgt med Hr. Cantzlij Rådet von Celse til historiographien, arbetar dock dagel. wid Bibliotheket, ökar det med nyttiga och en Kongl. Samling anständiga Böcker och sätter Catalogerne i fulkomligit stånd, som af Bilagan omständeligen kan inhämtas."
+  },
+  {
+   "bbox": [
+    567,
+    791,
+    1612,
+    957
+   ],
+   "category": "Text",
+   "text": "3) Assessoren och Bibliothecarien Hr. Prael, hwars ordinarie löhn upbäres af CammarRådet Botin, niuter nu allenast sin förra Translatorslöhn. Han är sysselsat med Hennes Kongl. Höghets Printzessans information och tager sig icke af antiquiteterne."
+  },
+  {
+   "bbox": [
+    564,
+    957,
+    1610,
+    1123
+   ],
+   "category": "Text",
+   "text": "4) Kongl. Secreteraren Herr Helsingius är igenom Riksens Ständers förestälning anwist på en ordinarie assessors löhn wid archivum, lärer ock hos dem giöra redo för något nyttigt, om ej just til antiquiteterna hörande arbete."
+  },
+  {
+   "bbox": [
+    564,
+    1123,
+    1610,
+    1453
+   ],
+   "category": "Text",
+   "text": "5) Bibliothecarien herr Nils Reinhold Broocman, så länge den hans ställe eljest tilhörige löhnen upbäres af herr Prael, tienar för sin förra amanuensis löhn med en tilökning, som war på extra Stat gifwen afledne Jsländaren Thorwalder Grimsson Brochman. Är nu med tilstånd utomlands stadd, dock under sin härwaro lemnade prof af mycken skickelighet och lust at arbeta i de gamla sakerna, som dels hans utgifna anmärkningar öfwer Jngwars Saga, dels hans handskrefne helsinge-Resa kunna intyga."
+  },
+  {
+   "bbox": [
+    564,
+    1453,
+    1610,
+    1570
+   ],
+   "category": "Text",
+   "text": "6) Amanuensis wid Bibliotheket med Kgl. Bibliothecarii namn och tour Hr. Giörwell giör dageligen tienst wid Bibliotheket och åtniuter den ordinarie amanuensis löhnen."
+  },
+  {
+   "bbox": [
+    564,
+    1575,
+    1612,
+    1699
+   ],
+   "category": "Text",
+   "text": "7) Bibliothecarien Mozelius är antagen i afseende på det til kommande arbetet wid Kongliga Bokförrådets flytning, men berättar sig imedlertid hafwa historiskt arbete under händer."
+  },
+  {
+   "bbox": [
+    564,
+    1699,
+    1612,
+    1785
+   ],
+   "category": "Text",
+   "text": "8) Amanuensis wid archivum Samuel Gagnerus är flitig på sit ställe och biträder mig med all hielp, hwarom iag honom anlitar."
+  },
+  {
+   "bbox": [
+    564,
+    1819,
+    643,
+    1858
+   ],
+   "category": "Page-footer",
+   "text": "332"
+  }
+ ]
+}

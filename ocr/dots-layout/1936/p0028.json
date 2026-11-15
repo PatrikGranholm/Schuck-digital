@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 28,
+ "seconds": 31.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [425, 275, 1003, 315], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet 1747—1751\"}, {\"bbox\": [190, 344, 1236, 431], \"category\": \"Text\", \"text\": \"wara onyttig, om iag finge komma hem» (K. B. Engeström sign. CXVII. 1. Den 22 Febr. 1745).\"}, {\"bbox\": [190, 426, 1245, 1261], \"category\": \"Text\", \"text\": \"Den 7 juni 1745 anhöll han hos kanslikollegiet om rätt att resa hem: »Eders Excellencer samt Kgl. May:ts och Riksens Cantzlij Collegium täktes nådgunstigast tillåta, at iag uti diupaste ödmjukhet får andraga den widlöfftighet, uti hwilcken mina enskylta angelägenheter råkat under de sex åhr iag hafft den lyckan at upwakta wid Beskickningen på denna orten, dels för dyrhetens skull, särdeles under all den tid, då iag effter den nya inrättningen allenast åtnjöt halfft Tractamente, dels för hwarjehanda ändringar hemma i fäderneslandet, hwilcka hos private jemwäl dragit känbare minskningar med sig, dels ock af hwad iag förlorat på resande Swenske. Och som det fördenskul högst angelägit för mig wara will at närwarande jämka skiötzeln af det, som ännu är öfrigt af mina swaga wilckor, hwilcka icke äro mig widare om hiertat, än de tiena at så mycket beqwämligare kunna giöra Kgl. May:ts tienst. Ty är min ödmiukaste Bön, det behagade Eders Excellencer och Höglofl. Cantzlij Collegium nådgunstigast lämna mig tilstånd at, då Ministre Plenipotentiaire Herr Baron Scheffer kommit hit til Residencet tilbaka, få giöra en resa til Swerige, hwaräst iag öfwer wintern hoppas blifwa färdig at emottaga Eders Excellencers och Höglofl. Kgl. Cantzlij Collegii widare ordres.\"}, {\"bbox\": [200, 1251, 1250, 1799], \"category\": \"Text\", \"text\": \"Under min frånwaro lärer Kongl. May:ts höga tienst på denna orten så mycket mindre lida, som Herr Ministren låfwat at bruka den derwid, som redan är wahn wid dessa syslor och kan winna Eders Excellencers och Kongl. Collegii nådiga bifall och til hwilcken iag afstår hela löhnen med dertil höriga förmohner, emot hwad han af frij wilja will dehla med sig til mitt understöd i Swerige. Fördenskul i anseende dertil at hwarcken tiensten här wid Legationen försummas eller något begäres, som kan lända Staten til last, iag i diupaste ödmiukhet hoppas, at Eders Excellencer och Höglofl. Kgl. Cantzlij Collegium lärer förunna mig ofwanbem:te Resefrijhet» (R. A. Gallica, Scheffers (och Berchs) brev till kanslikollegiet. 1744—1748). Det skäl, han åberopar, var nog ej endast ett svepskäl, ty av sin ärvda förmögenhet hade han tydligen förbrukat en betydande del\"}, {\"bbox\": [1202, 1827, 1245, 1853], \"category\": \"Page-footer\", \"text\": \"II\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    425,
+    275,
+    1003,
+    315
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet 1747—1751"
+  },
+  {
+   "bbox": [
+    190,
+    344,
+    1236,
+    431
+   ],
+   "category": "Text",
+   "text": "wara onyttig, om iag finge komma hem» (K. B. Engeström sign. CXVII. 1. Den 22 Febr. 1745)."
+  },
+  {
+   "bbox": [
+    190,
+    426,
+    1245,
+    1261
+   ],
+   "category": "Text",
+   "text": "Den 7 juni 1745 anhöll han hos kanslikollegiet om rätt att resa hem: »Eders Excellencer samt Kgl. May:ts och Riksens Cantzlij Collegium täktes nådgunstigast tillåta, at iag uti diupaste ödmjukhet får andraga den widlöfftighet, uti hwilcken mina enskylta angelägenheter råkat under de sex åhr iag hafft den lyckan at upwakta wid Beskickningen på denna orten, dels för dyrhetens skull, särdeles under all den tid, då iag effter den nya inrättningen allenast åtnjöt halfft Tractamente, dels för hwarjehanda ändringar hemma i fäderneslandet, hwilcka hos private jemwäl dragit känbare minskningar med sig, dels ock af hwad iag förlorat på resande Swenske. Och som det fördenskul högst angelägit för mig wara will at närwarande jämka skiötzeln af det, som ännu är öfrigt af mina swaga wilckor, hwilcka icke äro mig widare om hiertat, än de tiena at så mycket beqwämligare kunna giöra Kgl. May:ts tienst. Ty är min ödmiukaste Bön, det behagade Eders Excellencer och Höglofl. Cantzlij Collegium nådgunstigast lämna mig tilstånd at, då Ministre Plenipotentiaire Herr Baron Scheffer kommit hit til Residencet tilbaka, få giöra en resa til Swerige, hwaräst iag öfwer wintern hoppas blifwa färdig at emottaga Eders Excellencers och Höglofl. Kgl. Cantzlij Collegii widare ordres."
+  },
+  {
+   "bbox": [
+    200,
+    1251,
+    1250,
+    1799
+   ],
+   "category": "Text",
+   "text": "Under min frånwaro lärer Kongl. May:ts höga tienst på denna orten så mycket mindre lida, som Herr Ministren låfwat at bruka den derwid, som redan är wahn wid dessa syslor och kan winna Eders Excellencers och Kongl. Collegii nådiga bifall och til hwilcken iag afstår hela löhnen med dertil höriga förmohner, emot hwad han af frij wilja will dehla med sig til mitt understöd i Swerige. Fördenskul i anseende dertil at hwarcken tiensten här wid Legationen försummas eller något begäres, som kan lända Staten til last, iag i diupaste ödmiukhet hoppas, at Eders Excellencer och Höglofl. Kgl. Cantzlij Collegium lärer förunna mig ofwanbem:te Resefrijhet» (R. A. Gallica, Scheffers (och Berchs) brev till kanslikollegiet. 1744—1748). Det skäl, han åberopar, var nog ej endast ett svepskäl, ty av sin ärvda förmögenhet hade han tydligen förbrukat en betydande del"
+  },
+  {
+   "bbox": [
+    1202,
+    1827,
+    1245,
+    1853
+   ],
+   "category": "Page-footer",
+   "text": "II"
+  }
+ ]
+}

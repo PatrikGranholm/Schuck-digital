@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 186,
+ "seconds": 38.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [203, 258, 1066, 301], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet och Biblioteket 1751—1766\"}, {\"bbox\": [107, 328, 1158, 580], \"category\": \"Text\", \"text\": \"Silfwermynt skulle först ersättas af thessa medel. Men på thet the inlöste Exemplaren ej måge ligga Cronan länge til last, at en förnyad föreställning af Regements-Cheferne må giöras samtelige Officerare på sätt, som uti Kongl. Brefwet af then 31 juli 1747 är förmält, at the sig samma Bok förskaffa såsom et uti Krigs-wetenskapen både nyttigt och fullständigt arbete» (Riksdagstidningar n:r 22).¹\"}, {\"bbox\": [107, 578, 1158, 787], \"category\": \"Text\", \"text\": \"Richardson hade således till sist gjort en mycket god affär. Han hade på eget förlag tryckt boken och för detta av ständerna fått 4000 daler smt, som förmodligen var mer än vad boken kostat. Nu fick han förskottet avskrivet, varjämte staten inlöste de osålda exemplaren.\"}, {\"bbox\": [107, 785, 1161, 1408], \"category\": \"Text\", \"text\": \"En lika förmånlig affär tänkte han nu göra med Hallandia antiqua et hodierna, vars tryckning bekostats ej av honom själv utan med antikvitetsarkivets medel. Vid samma tillfälle (den 8 februari 1752), då hans nyss nämnda supplik föredrogs i sekreta utskottet, anmäldes där ett annat av honom den 8 januari ingivet — nu också förlorat — memorial, vilket då remitterades till mindre sekreta deputationen och därifrån till kanslikollegiet, där det föredrogs den 28 februari: »Herr HåfCantzleren Baron Hamilton inkom och anmälte, det Riksens Ständers Mindre Secrete Deputation åstundade Kongl. Collegii utlåtande öfwer assessorens Richardssons til Kongl. May:t i unddånighet ingifne och til Secreta utskottet samt därifrån til Mindre Secrete, Defensions och Riksens Ständers Contoirs Deputation remitterade ansökning om tilstånd at uti Riksens Ständers Contoir åtniuta afskrifning i Räkenskaperne för en af honom därstädes låntagen summa stor 8862 Dr. 30 silfm.\"}, {\"bbox\": [111, 1406, 1163, 1739], \"category\": \"Text\", \"text\": \"Kongl. Collegium företog sig därpå at genomläsa de af bemälte assessor ingifne suppliquer, och som Kongl. Collegium fant nödigt at, innan det häröfwer till bemälte Deputation sitt yttrande afgifwer, förut wara närmare underrättadt, om ämnet af åfwannämde assessor under namn af Hallandia antiqua et hodierna författade arbete är så afhandladt, at Kongl. Collegium i anseende til den uplysning och nytta, som Swenska historien och Publicum i gemen har däraf at förwänta, kan drista sig en slik ansökning hos Riksens höglofl.\"}, {\"bbox\": [148, 1748, 739, 1783], \"category\": \"Footnote\", \"text\": \"¹ I protokollsboken saknas protokollet för den 12 juli.\"}, {\"bbox\": [1086, 1806, 1159, 1854], \"category\": \"Page-footer\", \"text\": \"169\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    203,
+    258,
+    1066,
+    301
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet och Biblioteket 1751—1766"
+  },
+  {
+   "bbox": [
+    107,
+    328,
+    1158,
+    580
+   ],
+   "category": "Text",
+   "text": "Silfwermynt skulle först ersättas af thessa medel. Men på thet the inlöste Exemplaren ej måge ligga Cronan länge til last, at en förnyad föreställning af Regements-Cheferne må giöras samtelige Officerare på sätt, som uti Kongl. Brefwet af then 31 juli 1747 är förmält, at the sig samma Bok förskaffa såsom et uti Krigs-wetenskapen både nyttigt och fullständigt arbete» (Riksdagstidningar n:r 22).¹"
+  },
+  {
+   "bbox": [
+    107,
+    578,
+    1158,
+    787
+   ],
+   "category": "Text",
+   "text": "Richardson hade således till sist gjort en mycket god affär. Han hade på eget förlag tryckt boken och för detta av ständerna fått 4000 daler smt, som förmodligen var mer än vad boken kostat. Nu fick han förskottet avskrivet, varjämte staten inlöste de osålda exemplaren."
+  },
+  {
+   "bbox": [
+    107,
+    785,
+    1161,
+    1408
+   ],
+   "category": "Text",
+   "text": "En lika förmånlig affär tänkte han nu göra med Hallandia antiqua et hodierna, vars tryckning bekostats ej av honom själv utan med antikvitetsarkivets medel. Vid samma tillfälle (den 8 februari 1752), då hans nyss nämnda supplik föredrogs i sekreta utskottet, anmäldes där ett annat av honom den 8 januari ingivet — nu också förlorat — memorial, vilket då remitterades till mindre sekreta deputationen och därifrån till kanslikollegiet, där det föredrogs den 28 februari: »Herr HåfCantzleren Baron Hamilton inkom och anmälte, det Riksens Ständers Mindre Secrete Deputation åstundade Kongl. Collegii utlåtande öfwer assessorens Richardssons til Kongl. May:t i unddånighet ingifne och til Secreta utskottet samt därifrån til Mindre Secrete, Defensions och Riksens Ständers Contoirs Deputation remitterade ansökning om tilstånd at uti Riksens Ständers Contoir åtniuta afskrifning i Räkenskaperne för en af honom därstädes låntagen summa stor 8862 Dr. 30 silfm."
+  },
+  {
+   "bbox": [
+    111,
+    1406,
+    1163,
+    1739
+   ],
+   "category": "Text",
+   "text": "Kongl. Collegium företog sig därpå at genomläsa de af bemälte assessor ingifne suppliquer, och som Kongl. Collegium fant nödigt at, innan det häröfwer till bemälte Deputation sitt yttrande afgifwer, förut wara närmare underrättadt, om ämnet af åfwannämde assessor under namn af Hallandia antiqua et hodierna författade arbete är så afhandladt, at Kongl. Collegium i anseende til den uplysning och nytta, som Swenska historien och Publicum i gemen har däraf at förwänta, kan drista sig en slik ansökning hos Riksens höglofl."
+  },
+  {
+   "bbox": [
+    148,
+    1748,
+    739,
+    1783
+   ],
+   "category": "Footnote",
+   "text": "¹ I protokollsboken saknas protokollet för den 12 juli."
+  },
+  {
+   "bbox": [
+    1086,
+    1806,
+    1159,
+    1854
+   ],
+   "category": "Page-footer",
+   "text": "169"
+  }
+ ]
+}

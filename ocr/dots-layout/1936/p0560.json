@@ -1,0 +1,31 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 560,
+ "seconds": 9.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [123, 371, 1149, 1655], \"category\": \"Picture\"}, {\"bbox\": [338, 1711, 917, 1794], \"category\": \"Caption\", \"text\": \"Guldföremål, funna 1774 vid Tureholm, Södermanland.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    123,
+    371,
+    1149,
+    1655
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    338,
+    1711,
+    917,
+    1794
+   ],
+   "category": "Caption",
+   "text": "Guldföremål, funna 1774 vid Tureholm, Södermanland."
+  }
+ ]
+}

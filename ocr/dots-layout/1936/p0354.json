@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 354,
+ "seconds": 30.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [408, 258, 794, 295], \"category\": \"Section-header\", \"text\": \"Arbetet inom arkivet\"}, {\"bbox\": [74, 329, 1125, 498], \"category\": \"Text\", \"text\": \"skrifter (något litet undantagit) måst lemnas qwar uti det så kal-lade gref Pehrs hus, dädan man också nu är i begrep at tränga dem, sedan Rummen blifwit anordnade för kungl. Lifdrabante Corpsens Cantzlij och Räkne-kammare.\"}, {\"bbox\": [74, 496, 1129, 1112], \"category\": \"Text\", \"text\": \"Utom föregående occupationer med gamla saker inom archivum hafwer Berch äfwen wäl förfärdigat flera små afhandlingar om lef-nadssättet och plägsederna i Norden under medel-tiden, dem han låtit trycka uti andras periodiska arbeten, continuerat historien om Sweriges namnkunniga herrar och män i anledning af deras skåde-penningar, wid påfordran upgifwit sina förslag til sinnebilder på nya medailler, inscriptioner at upsättas på publique ställen samt deviser, som Kgl. hofwet wid åtskilliga högtidligheter kunnat åstunda. Hennes Kgl. M:t Änkedrotningen hafwer också behagat lemna honom wid pass halfft-annat tusend paster, tagne på gamla pierres gravées, dem at förklara och i ordning lägga, hwarigenom han inhämtat någon närmare kunskap i sådana slags monumenter, som hit intils sällan förekommit, men kan blifwa nyttig i fram-tiden, om denna eller en dylik samling någon gång skulle archivo tilfalla.\"}, {\"bbox\": [79, 1117, 1129, 1243], \"category\": \"Text\", \"text\": \"Ibland archivi öfriga ledamöter upbäres en assessors löhn af Kgl. Secreteraren H. Helsingius, om hwars tienster wid antiqvitets wärcket icke det ringaste är at berätta.\"}, {\"bbox\": [79, 1241, 1133, 1617], \"category\": \"Text\", \"text\": \"Andra assessors löhnen hafwer fölgt Cammar Rådet Herr Anders Botin, i hwars ställe Lagmannen Herr Mozelius är upförd ibland archivi assessorer. Men som hela hans tid förut warit uptagen med Hans Kgl. Höghets Printz Fredrik Adolphs information, han ock effter wäl förrättad upwaktning blifwit hugnad med lagmans ca-ractere, tienstfrihet och en hederlig pension, så är til twiflandes, om han wid assessors löhnens ledigblifwande skulle wilja öfwergifwa sin stilla landt-lefnad, som han utwaldt, komma til staden, giöra tienst och åtnöija sig med den ordinarie assessors löhnen.\"}, {\"bbox\": [82, 1615, 1134, 1783], \"category\": \"Text\", \"text\": \"Om assessorn och Translatorn Herr Gagnerus samt amanuenserne Hellman och Stechau, hwilka på hosgående blad hafwa sielfwa up-räknat deras nedlagde arbeten, kan iag för deras flitiga upwaktning och beredwillighet at åtaga sig, hwad iag dem anlitar om uti archi-\"}, {\"bbox\": [1056, 1818, 1131, 1856], \"category\": \"Page-footer\", \"text\": \"335\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    408,
+    258,
+    794,
+    295
+   ],
+   "category": "Section-header",
+   "text": "Arbetet inom arkivet"
+  },
+  {
+   "bbox": [
+    74,
+    329,
+    1125,
+    498
+   ],
+   "category": "Text",
+   "text": "skrifter (något litet undantagit) måst lemnas qwar uti det så kal-lade gref Pehrs hus, dädan man också nu är i begrep at tränga dem, sedan Rummen blifwit anordnade för kungl. Lifdrabante Corpsens Cantzlij och Räkne-kammare."
+  },
+  {
+   "bbox": [
+    74,
+    496,
+    1129,
+    1112
+   ],
+   "category": "Text",
+   "text": "Utom föregående occupationer med gamla saker inom archivum hafwer Berch äfwen wäl förfärdigat flera små afhandlingar om lef-nadssättet och plägsederna i Norden under medel-tiden, dem han låtit trycka uti andras periodiska arbeten, continuerat historien om Sweriges namnkunniga herrar och män i anledning af deras skåde-penningar, wid påfordran upgifwit sina förslag til sinnebilder på nya medailler, inscriptioner at upsättas på publique ställen samt deviser, som Kgl. hofwet wid åtskilliga högtidligheter kunnat åstunda. Hennes Kgl. M:t Änkedrotningen hafwer också behagat lemna honom wid pass halfft-annat tusend paster, tagne på gamla pierres gravées, dem at förklara och i ordning lägga, hwarigenom han inhämtat någon närmare kunskap i sådana slags monumenter, som hit intils sällan förekommit, men kan blifwa nyttig i fram-tiden, om denna eller en dylik samling någon gång skulle archivo tilfalla."
+  },
+  {
+   "bbox": [
+    79,
+    1117,
+    1129,
+    1243
+   ],
+   "category": "Text",
+   "text": "Ibland archivi öfriga ledamöter upbäres en assessors löhn af Kgl. Secreteraren H. Helsingius, om hwars tienster wid antiqvitets wärcket icke det ringaste är at berätta."
+  },
+  {
+   "bbox": [
+    79,
+    1241,
+    1133,
+    1617
+   ],
+   "category": "Text",
+   "text": "Andra assessors löhnen hafwer fölgt Cammar Rådet Herr Anders Botin, i hwars ställe Lagmannen Herr Mozelius är upförd ibland archivi assessorer. Men som hela hans tid förut warit uptagen med Hans Kgl. Höghets Printz Fredrik Adolphs information, han ock effter wäl förrättad upwaktning blifwit hugnad med lagmans ca-ractere, tienstfrihet och en hederlig pension, så är til twiflandes, om han wid assessors löhnens ledigblifwande skulle wilja öfwergifwa sin stilla landt-lefnad, som han utwaldt, komma til staden, giöra tienst och åtnöija sig med den ordinarie assessors löhnen."
+  },
+  {
+   "bbox": [
+    82,
+    1615,
+    1134,
+    1783
+   ],
+   "category": "Text",
+   "text": "Om assessorn och Translatorn Herr Gagnerus samt amanuenserne Hellman och Stechau, hwilka på hosgående blad hafwa sielfwa up-räknat deras nedlagde arbeten, kan iag för deras flitiga upwaktning och beredwillighet at åtaga sig, hwad iag dem anlitar om uti archi-"
+  },
+  {
+   "bbox": [
+    1056,
+    1818,
+    1131,
+    1856
+   ],
+   "category": "Page-footer",
+   "text": "335"
+  }
+ ]
+}

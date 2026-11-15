@@ -1,0 +1,152 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 370,
+ "seconds": 34.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [407, 260, 791, 295], \"category\": \"Section-header\", \"text\": \"Arbetet inom arkivet\"}, {\"bbox\": [77, 329, 1125, 416], \"category\": \"Text\", \"text\": \"angivande av brevet, dess årtal och dess signum i arkivet. Så börjar\\nregistret:\"}, {\"bbox\": [77, 425, 719, 461], \"category\": \"Text\", \"text\": \"Aa van der Karll, welb. man 1443. 49. 10.\"}, {\"bbox\": [77, 461, 668, 498], \"category\": \"Text\", \"text\": \"Abern Jovanson (Sparre) 1396. 80. 149.\"}, {\"bbox\": [112, 496, 979, 532], \"category\": \"Text\", \"text\": \"Hans Farsbror in lit. værstor Jovan Simonson 1401. 32. 49.\"}, {\"bbox\": [77, 531, 1076, 568], \"category\": \"Text\", \"text\": \"(Abern): Monampson. mil. hade Bo Jonsons Faster + 1402. 33. 16.\"}, {\"bbox\": [77, 567, 688, 604], \"category\": \"Text\", \"text\": \"(Abern) Norkason (Stierna) 1444. 11. 16.\"}, {\"bbox\": [77, 603, 1066, 641], \"category\": \"Text\", \"text\": \"(Abern) Sixtenson (Sparre, hvit), Pr 4. 7. 1298 2. 44. 1301 80. 7.\"}, {\"bbox\": [112, 672, 919, 712], \"category\": \"Text\", \"text\": \"Mater Ingerdis de waxtorp, socer Phil. Ulfs. 80. 9. 11.\"}, {\"bbox\": [77, 744, 1125, 827], \"category\": \"Text\", \"text\": \"I stället för de fantastiska och obestyrkta genalogier, som man förut\\nhaft, hade forskaren här således fått en säker grund att bygga på.\"}, {\"bbox\": [77, 827, 1125, 1236], \"category\": \"Text\", \"text\": \"I riksarkivet förvaras ännu en foliovolym med titel Index alphabet.\\nV Diariorum Archivi Antiquit., med hänvisningar till Berchs nyss\\nomtalade register till Peringskiöld. Den torde snarast kunna ka-\\nrakteriseras såsom ett förarbete till ett antikvariskt reallexikon.\\nEtt exempel skall förtydliga detta: »Dana-arf. 411.» Slår man nu\\nupp sidan 411 i Berchs register till Peringskiöld, finner man bland\\nde å denna sida refererade breven: »1508. gåfwo-bref til Swen\\nMyra, borgare i Åbo, på del i den gård, som Hr. Johan dirahakr\\nbesatt och igenom danaarff effter Thomas Tydske war Cronan hem-\\nfallen. dat. Stockholm.»\"}, {\"bbox\": [77, 1240, 1125, 1781], \"category\": \"Text\", \"text\": \"Även i Vitterhets-, Historie- och Antikvitetsakademien finnes en\\ndylik foliant, som avser de nordiska antikviteterna i allmänhet.\\nArbetet tyckes ha kommit till på det sättet, att Berch excerperat\\nalla de arbeten, han läst, och i början av volymen har han antecknat\\ndem, som han under året läst och excerperat t. ex. under 1750,\\ndå han tydligen ville sätta sig in i den isländska litteraturen, med\\nvilken han förut föga sysslat: »Hervara saga med Verelii noter,\\nHerrauds och Boses saga cum ejusdem, Göthriks och Rolfs dito,\\nThorsten Vikings-sons saga med Reenhielms, N. B. editionis in\\n8:0, Kätil Hängs saga, Orvar Oddes dito, Heidini og Hogna dito,\\neditæ a Rudbeckio in fol.» Under de närmast följande åren läste\\nhan de övriga isländska sagor, som funnos utgivna, men sedan också\\nandra arbeten såsom Hadorphs rimkrönikor, Mallets Introduction\"}, {\"bbox\": [1133, 1245, 1240, 1306], \"category\": \"Text\", \"text\": \"Excerpt-\\nsamlingar\"}, {\"bbox\": [1048, 1816, 1122, 1854], \"category\": \"Page-footer\", \"text\": \"351\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    407,
+    260,
+    791,
+    295
+   ],
+   "category": "Section-header",
+   "text": "Arbetet inom arkivet"
+  },
+  {
+   "bbox": [
+    77,
+    329,
+    1125,
+    416
+   ],
+   "category": "Text",
+   "text": "angivande av brevet, dess årtal och dess signum i arkivet. Så börjar\nregistret:"
+  },
+  {
+   "bbox": [
+    77,
+    425,
+    719,
+    461
+   ],
+   "category": "Text",
+   "text": "Aa van der Karll, welb. man 1443. 49. 10."
+  },
+  {
+   "bbox": [
+    77,
+    461,
+    668,
+    498
+   ],
+   "category": "Text",
+   "text": "Abern Jovanson (Sparre) 1396. 80. 149."
+  },
+  {
+   "bbox": [
+    112,
+    496,
+    979,
+    532
+   ],
+   "category": "Text",
+   "text": "Hans Farsbror in lit. værstor Jovan Simonson 1401. 32. 49."
+  },
+  {
+   "bbox": [
+    77,
+    531,
+    1076,
+    568
+   ],
+   "category": "Text",
+   "text": "(Abern): Monampson. mil. hade Bo Jonsons Faster + 1402. 33. 16."
+  },
+  {
+   "bbox": [
+    77,
+    567,
+    688,
+    604
+   ],
+   "category": "Text",
+   "text": "(Abern) Norkason (Stierna) 1444. 11. 16."
+  },
+  {
+   "bbox": [
+    77,
+    603,
+    1066,
+    641
+   ],
+   "category": "Text",
+   "text": "(Abern) Sixtenson (Sparre, hvit), Pr 4. 7. 1298 2. 44. 1301 80. 7."
+  },
+  {
+   "bbox": [
+    112,
+    672,
+    919,
+    712
+   ],
+   "category": "Text",
+   "text": "Mater Ingerdis de waxtorp, socer Phil. Ulfs. 80. 9. 11."
+  },
+  {
+   "bbox": [
+    77,
+    744,
+    1125,
+    827
+   ],
+   "category": "Text",
+   "text": "I stället för de fantastiska och obestyrkta genalogier, som man förut\nhaft, hade forskaren här således fått en säker grund att bygga på."
+  },
+  {
+   "bbox": [
+    77,
+    827,
+    1125,
+    1236
+   ],
+   "category": "Text",
+   "text": "I riksarkivet förvaras ännu en foliovolym med titel Index alphabet.\nV Diariorum Archivi Antiquit., med hänvisningar till Berchs nyss\nomtalade register till Peringskiöld. Den torde snarast kunna ka-\nrakteriseras såsom ett förarbete till ett antikvariskt reallexikon.\nEtt exempel skall förtydliga detta: »Dana-arf. 411.» Slår man nu\nupp sidan 411 i Berchs register till Peringskiöld, finner man bland\nde å denna sida refererade breven: »1508. gåfwo-bref til Swen\nMyra, borgare i Åbo, på del i den gård, som Hr. Johan dirahakr\nbesatt och igenom danaarff effter Thomas Tydske war Cronan hem-\nfallen. dat. Stockholm.»"
+  },
+  {
+   "bbox": [
+    77,
+    1240,
+    1125,
+    1781
+   ],
+   "category": "Text",
+   "text": "Även i Vitterhets-, Historie- och Antikvitetsakademien finnes en\ndylik foliant, som avser de nordiska antikviteterna i allmänhet.\nArbetet tyckes ha kommit till på det sättet, att Berch excerperat\nalla de arbeten, han läst, och i början av volymen har han antecknat\ndem, som han under året läst och excerperat t. ex. under 1750,\ndå han tydligen ville sätta sig in i den isländska litteraturen, med\nvilken han förut föga sysslat: »Hervara saga med Verelii noter,\nHerrauds och Boses saga cum ejusdem, Göthriks och Rolfs dito,\nThorsten Vikings-sons saga med Reenhielms, N. B. editionis in\n8:0, Kätil Hängs saga, Orvar Oddes dito, Heidini og Hogna dito,\neditæ a Rudbeckio in fol.» Under de närmast följande åren läste\nhan de övriga isländska sagor, som funnos utgivna, men sedan också\nandra arbeten såsom Hadorphs rimkrönikor, Mallets Introduction"
+  },
+  {
+   "bbox": [
+    1133,
+    1245,
+    1240,
+    1306
+   ],
+   "category": "Text",
+   "text": "Excerpt-\nsamlingar"
+  },
+  {
+   "bbox": [
+    1048,
+    1816,
+    1122,
+    1854
+   ],
+   "category": "Page-footer",
+   "text": "351"
+  }
+ ]
+}

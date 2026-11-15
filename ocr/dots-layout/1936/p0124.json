@@ -1,0 +1,122 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 124,
+ "seconds": 30.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [208, 253, 1075, 299], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet och Biblioteket 1751—1766\"}, {\"bbox\": [185, 325, 1163, 451], \"category\": \"List-item\", \"text\": \"angelägit, at man wid citationerna, åtminstone första gången, nämner hwilken edition man betient sig utaf, om man will beropa sig på pagina.\"}, {\"bbox\": [117, 449, 1163, 618], \"category\": \"List-item\", \"text\": \"Berch. ad Cap. II. Om marck penningar och lödig marcker är icke på alla ställen så distinct handlat, som wara borde; fördenskul bör denna passagen med attention igenomläsas. Kan hända at ingen ting derwid blifwer til at påminna.\"}, {\"bbox\": [115, 615, 1163, 823], \"category\": \"List-item\", \"text\": \"Wessm. ad cap. IV. Sagan om Rolffs rännil är bäst at lemna borta. Man weet, huru mycket Ödmans Bohuslähns beskrifning har uti alfwarsamt folcks omdöme derigenom lidit, at han infört åtskilligt sqwaller och sälsama äfwventyr, som gemena hopen roar sig med ell. fasar före.\"}, {\"bbox\": [117, 822, 1163, 910], \"category\": \"List-item\", \"text\": \"Berch: 2:ne köpmän i Kongsbacka. Är mindre förachteligit för staden, som tör hända repar sig, om man sätter några få.\"}, {\"bbox\": [478, 948, 801, 990], \"category\": \"Text\", \"text\": \"1750. d. 1 Decembr.\"}, {\"bbox\": [553, 1008, 718, 1042], \"category\": \"Text\", \"text\": \"De samma\"}, {\"bbox\": [114, 1070, 1164, 1276], \"category\": \"List-item\", \"text\": \"Wessman framgaf sit Betänckande öfwer den til ant. archivum af Borgmästaren Wollin i Mariestad hitsända Rune-skriften på Götlanda kyrckodörr. Samma skrifft war redan aftagen i Peringskölds tid, som det finnes i hans samlingar til Westergötl. monumenter; men icke förklarad.\"}, {\"bbox\": [184, 1278, 1162, 1527], \"category\": \"Text\", \"text\": \"Fants godt at sända denna af Hr. Wessman giorda förklaring til Wollin, dock allenast som en enskylt mening, hwilcken framsättes utan at wilja påtwinga någon den samma. Wid samma tilfälle skulle jemwäl Borgmästaren anmodas at til archivum aflåta de små monumenter, som han säger sig äga, hwilka i Westgötha jord blifwit fundne.\"}, {\"bbox\": [115, 1526, 1162, 1778], \"category\": \"List-item\", \"text\": \"Secr. Berch åtog sig at swara Borgmästaren i archivi namn. Han upläste jemwäl några Nova Literaria, som han fått ifrån sin Correspondent i Tyskland, hwaribland dock icke mera war, som rörde Swenska sakerna, än at en Mr. Bufon, som skrifwit Histoire naturelle du Cabinet du Roi de France, är en ny fiende, som Linnæus fått emot sin Systeme. Om Museo Odes-\"}, {\"bbox\": [1086, 1816, 1159, 1854], \"category\": \"Page-footer\", \"text\": \"107\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    208,
+    253,
+    1075,
+    299
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet och Biblioteket 1751—1766"
+  },
+  {
+   "bbox": [
+    185,
+    325,
+    1163,
+    451
+   ],
+   "category": "List-item",
+   "text": "angelägit, at man wid citationerna, åtminstone första gången, nämner hwilken edition man betient sig utaf, om man will beropa sig på pagina."
+  },
+  {
+   "bbox": [
+    117,
+    449,
+    1163,
+    618
+   ],
+   "category": "List-item",
+   "text": "Berch. ad Cap. II. Om marck penningar och lödig marcker är icke på alla ställen så distinct handlat, som wara borde; fördenskul bör denna passagen med attention igenomläsas. Kan hända at ingen ting derwid blifwer til at påminna."
+  },
+  {
+   "bbox": [
+    115,
+    615,
+    1163,
+    823
+   ],
+   "category": "List-item",
+   "text": "Wessm. ad cap. IV. Sagan om Rolffs rännil är bäst at lemna borta. Man weet, huru mycket Ödmans Bohuslähns beskrifning har uti alfwarsamt folcks omdöme derigenom lidit, at han infört åtskilligt sqwaller och sälsama äfwventyr, som gemena hopen roar sig med ell. fasar före."
+  },
+  {
+   "bbox": [
+    117,
+    822,
+    1163,
+    910
+   ],
+   "category": "List-item",
+   "text": "Berch: 2:ne köpmän i Kongsbacka. Är mindre förachteligit för staden, som tör hända repar sig, om man sätter några få."
+  },
+  {
+   "bbox": [
+    478,
+    948,
+    801,
+    990
+   ],
+   "category": "Text",
+   "text": "1750. d. 1 Decembr."
+  },
+  {
+   "bbox": [
+    553,
+    1008,
+    718,
+    1042
+   ],
+   "category": "Text",
+   "text": "De samma"
+  },
+  {
+   "bbox": [
+    114,
+    1070,
+    1164,
+    1276
+   ],
+   "category": "List-item",
+   "text": "Wessman framgaf sit Betänckande öfwer den til ant. archivum af Borgmästaren Wollin i Mariestad hitsända Rune-skriften på Götlanda kyrckodörr. Samma skrifft war redan aftagen i Peringskölds tid, som det finnes i hans samlingar til Westergötl. monumenter; men icke förklarad."
+  },
+  {
+   "bbox": [
+    184,
+    1278,
+    1162,
+    1527
+   ],
+   "category": "Text",
+   "text": "Fants godt at sända denna af Hr. Wessman giorda förklaring til Wollin, dock allenast som en enskylt mening, hwilcken framsättes utan at wilja påtwinga någon den samma. Wid samma tilfälle skulle jemwäl Borgmästaren anmodas at til archivum aflåta de små monumenter, som han säger sig äga, hwilka i Westgötha jord blifwit fundne."
+  },
+  {
+   "bbox": [
+    115,
+    1526,
+    1162,
+    1778
+   ],
+   "category": "List-item",
+   "text": "Secr. Berch åtog sig at swara Borgmästaren i archivi namn. Han upläste jemwäl några Nova Literaria, som han fått ifrån sin Correspondent i Tyskland, hwaribland dock icke mera war, som rörde Swenska sakerna, än at en Mr. Bufon, som skrifwit Histoire naturelle du Cabinet du Roi de France, är en ny fiende, som Linnæus fått emot sin Systeme. Om Museo Odes-"
+  },
+  {
+   "bbox": [
+    1086,
+    1816,
+    1159,
+    1854
+   ],
+   "category": "Page-footer",
+   "text": "107"
+  }
+ ]
+}

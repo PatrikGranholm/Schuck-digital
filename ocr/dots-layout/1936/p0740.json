@@ -1,0 +1,42 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1936",
+ "index": 740,
+ "seconds": 11.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [470, 267, 836, 304], \"category\": \"Section-header\", \"text\": \"Vitterhetsakademien\"}, {\"bbox\": [126, 337, 1176, 619], \"category\": \"Text\", \"text\": \"avreste redan 1782 såsom kommissionssekreterare till Paris, och den 7 oktober 1783 skrev Kellgren till honom: »Med risque att upprepa, hvad som redan är bekant, skall jag dock omnämna ett och annat. Vitterhets Academien är då i Herrans namn afsomnad. Dess Statuter äro återlämnade.» Han visste då icke, att Gustaf III redan hade beslutat att i en annan form återuppliva den — såsom Svenska akademien.\"}, {\"bbox\": [1095, 1830, 1169, 1869], \"category\": \"Page-footer\", \"text\": \"709\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    470,
+    267,
+    836,
+    304
+   ],
+   "category": "Section-header",
+   "text": "Vitterhetsakademien"
+  },
+  {
+   "bbox": [
+    126,
+    337,
+    1176,
+    619
+   ],
+   "category": "Text",
+   "text": "avreste redan 1782 såsom kommissionssekreterare till Paris, och den 7 oktober 1783 skrev Kellgren till honom: »Med risque att upprepa, hvad som redan är bekant, skall jag dock omnämna ett och annat. Vitterhets Academien är då i Herrans namn afsomnad. Dess Statuter äro återlämnade.» Han visste då icke, att Gustaf III redan hade beslutat att i en annan form återuppliva den — såsom Svenska akademien."
+  },
+  {
+   "bbox": [
+    1095,
+    1830,
+    1169,
+    1869
+   ],
+   "category": "Page-footer",
+   "text": "709"
+  }
+ ]
+}
