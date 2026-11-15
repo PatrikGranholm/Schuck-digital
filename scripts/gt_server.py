@@ -2,7 +2,7 @@
 
   python scripts/gt_server.py --vol 1932         every image of a volume (printed pages from data/pagemap)
   python scripts/gt_server.py [--pages gt/sample.tsv]   the pages listed in a TSV (vol, index, ...)
-  then open http://localhost:8765/
+  then open http://localhost:8765/  (NER review: http://localhost:8765/ner/, see ner_review.py)
 
 Text comes from, in order: gt/pages/ (verified), gt/wip/ (saved work in progress),
 gt/drafts/ (stored draft), else a draft made on the fly from dots-layout, else the text layer.
@@ -18,6 +18,7 @@ import json
 import re
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 
+import ner_review
 from common import GT, ROOT, img_path
 from regions import REGIONS, load, textlayer_tokens, write_gt
 
@@ -126,6 +127,8 @@ class Handler(BaseHTTPRequestHandler):
         return m.group(1), vol, idx
 
     def do_GET(self):
+        if ner_review.handle(self, "GET"):       # NER review screens: /ner/, /api/ner/*
+            return
         path = self.path.split("?")[0]
         if path in ("/", "/index.html"):
             return self.send(200, (WEB / "index.html").read_bytes(), "text/html; charset=utf-8")
@@ -143,7 +146,13 @@ class Handler(BaseHTTPRequestHandler):
             return self.send(200, page_payload(vol, idx))
         self.send(404, {"error": "not found"})
 
+    def do_POST(self):
+        if not ner_review.handle(self, "POST"):
+            self.send(404, {"error": "not found"})
+
     def do_PUT(self):
+        if ner_review.handle(self, "PUT"):
+            return
         kind, vol, idx = self.route()
         if kind != "api/page" or vol is None:
             return self.send(404, {"error": "not found"})
@@ -184,7 +193,7 @@ def main():
     ap.add_argument("--pages", help="TSV of pages (default gt/sample.tsv)")
     a = ap.parse_args()
     PAGES.extend(page_list(a.vol, a.pages))
-    print(f"GT editor: http://localhost:{a.port}/  (Ctrl+C to stop)")
+    print(f"GT editor: http://localhost:{a.port}/  NER review: http://localhost:{a.port}/ner/  (Ctrl+C to stop)")
     ThreadingHTTPServer(("127.0.0.1", a.port), Handler).serve_forever()
 
 

@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Schück NER review</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <strong class="brand">Schück NER</strong>
+  <nav class="tabs" role="tablist">
+    <button role="tab" data-tab="register" id="tab-register">Register</button>
+    <button role="tab" data-tab="queue" id="tab-queue">Mentions</button>
+  </nav>
+  <span id="progress" class="muted"></span>
+  <span class="spacer"></span>
+  <span id="msg" class="muted" role="status"></span>
+  <a href="/" class="muted small">GT editor</a>
+  <button id="helpbtn" title="Workflow and keys (?)">?</button>
+</header>
+
+<main>
+  <!-- ======================= register ======================= -->
+  <section id="view-register" class="view">
+    <aside class="list-pane">
+      <div class="filters">
+        <select id="r-kind" aria-label="Kind">
+          <option value="persons">Persons</option>
+          <option value="places">Places</option>
+        </select>
+        <select id="r-status" aria-label="Status">
+          <option value="review">to review</option>
+          <option value="auto">auto-matched</option>
+          <option value="none">no candidate</option>
+          <option value="review,auto,none">all open</option>
+          <option value="skipped">skipped (1 mention)</option>
+          <option value="checked">checked</option>
+          <option value="rejected">rejected</option>
+          <option value="merged">merged</option>
+          <option value="all">all</option>
+        </select>
+        <input id="r-q" type="search" placeholder="filter name / form" aria-label="Filter">
+      </div>
+      <div id="r-count" class="muted small pad"></div>
+      <ol id="r-list" class="list"></ol>
+    </aside>
+    <article id="r-detail" class="detail"><p class="muted pad">Choose an entry.</p></article>
+  </section>
+
+  <!-- ======================= mention queue ======================= -->
+  <section id="view-queue" class="view" hidden>
+    <aside class="list-pane">
+      <div class="filters">
+        <select id="q-vol" aria-label="Volume"></select>
+        <select id="q-kind" aria-label="Queue">
+          <option value="guess">rule guesses (cert low)</option>
+          <option value="unresolved">unresolved</option>
+          <option value="medium">surname by dominance (cert medium)</option>
+        </select>
+        <label class="small"><input type="checkbox" id="q-done"> show finished</label>
+      </div>
+      <div id="q-count" class="muted small pad"></div>
+      <ol id="q-list" class="list"></ol>
+    </aside>
+    <article id="q-detail" class="detail"><p class="muted pad">Choose a group.</p></article>
+  </section>
+</main>
+
+<dialog id="help">
+  <h2>NER review</h2>
+  <p>Two screens over the rule output of <code>register.py</code> and <code>link.py</code>. Every action is saved immediately:
+    entry decisions go to <code>data/register/*.json</code>, mention decisions to <code>data/ner/&lt;vol&gt;-decisions.json</code>. Reruns of the scripts keep them.</p>
+  <h3>Register</h3>
+  <ul>
+    <li><kbd>1</kbd>–<kbd>9</kbd> choose that Wikidata candidate · <kbd>Enter</kbd> confirm the automatic match · <kbd>0</kbd> checked, no Wikidata match · <kbd>X</kbd> reject (not a person/place)</li>
+    <li><kbd>J</kbd>/<kbd>K</kbd> next/previous entry · <kbd>/</kbd> filter · <kbd>S</kbd> search Wikidata with another name</li>
+    <li><b>Merge into…</b>: the entry is the same as another; its mentions follow on the next <code>link.py</code> run.</li>
+    <li><b>Split</b>: tick mentions in the list and move them to another entry or a new one.</li>
+  </ul>
+  <h3>Mentions</h3>
+  <ul>
+    <li>Groups are ambiguous mentions with the same candidates in one chapter. The rule's guess is pre-selected.</li>
+    <li><kbd>↓</kbd>/<kbd>↑</kbd> next/previous mention · <kbd>Enter</kbd> accept the guess · <kbd>1</kbd>–<kbd>9</kbd> that candidate · <kbd>X</kbd> not a name · <kbd>U</kbd> undo the decision</li>
+    <li><kbd>Shift</kbd>+<kbd>1</kbd>–<kbd>9</kbd> or <b>all open →</b>: the rest of the group to one candidate · <kbd>Shift</kbd>+<kbd>Enter</kbd> accept all open guesses</li>
+    <li><kbd>Space</kbd> show the scan · <kbd>P</kbd> the whole paragraph, where you can select a name the model missed and add it</li>
+  </ul>
+  <h3>Afterwards</h3>
+  <p>Nothing changes in the TEI until you rebuild:</p>
+  <pre>cd scripts &amp;&amp; $P link.py --vol 1932 &amp;&amp; cd ..
+$P scripts/to_tei.py --vol 1932 --validate &amp;&amp; $P scripts/build_site.py</pre>
+  <form method="dialog"><button>Close</button></form>
+</dialog>
+
+<dialog id="picker">
+  <h3 id="picker-title">Choose entry</h3>
+  <input id="picker-q" type="search" placeholder="name…" autocomplete="off">
+  <ol id="picker-list" class="list picker-list"></ol>
+  <div class="row">
+    <button id="picker-new">New entry “<span id="picker-newname"></span>”</button>
+    <select id="picker-newkind"><option value="persons">person</option><option value="places">place</option></select>
+    <span class="spacer"></span>
+    <button id="picker-cancel">Cancel</button>
+  </div>
+</dialog>
+<script src="app.js"></script>
+</body>
+</html>

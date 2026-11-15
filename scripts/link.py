@@ -81,7 +81,7 @@ def main():
             dcs = decisions[key]
             if dcs.get("reject"):
                 continue
-            link.update(ref=dcs.get("ref"), cert="high", how="manual")
+            link.update(ref=dcs.get("ref"), cert="high", how="manual", type=dcs.get("type", link["type"]))
             links.append(link)
             continue
         if m["label"] == "LOC":
@@ -119,6 +119,36 @@ def main():
             c = Counter(x["ref"] for x in by_chapter[l["chapter"]] if x["ref"] in cands)
             guess, how = (c.most_common(1)[0][0], "guess: chapter majority") if c else (None, "unresolved")
         l.update(ref=guess, cert="low" if guess else None, how=how)
+
+    # names the model missed, added in the review screen (scripts/ner_review.py)
+    by_sha = {u["sha"]: u for u in ner["units"]}
+    have = {f"{l['sha']}:{l['start']}:{l['end']}" for l in links}
+    for key, dcs in decisions.items():
+        if not dcs.get("add") or key in have:
+            continue
+        sha, s0, e0 = key.split(":")
+        u = by_sha.get(sha)
+        if not u or u["text"][int(s0):int(e0)] != dcs.get("text"):
+            print(f"  added mention no longer matches its text unit (OCR changed?): {key} {dcs.get('text')!r}")
+            continue
+        links.append({"unit": u["id"], "sha": sha, "start": int(s0), "end": int(e0), "text": dcs["text"],
+                      "page": u["page"], "chapter": u["chapter"], "type": dcs.get("type", "persName"),
+                      "ref": dcs.get("ref"), "cert": "high", "how": "manual: added"})
+    # merged entries (status "merged", set in the review screen) point to the entry they were merged into
+    redirect = {e["id"]: e["merged_into"] for reg_ in (persons, places) for e in reg_.values()
+                if e.get("status") == "merged" and e.get("merged_into")}
+
+    def final(eid):
+        seen = set()
+        while eid in redirect and eid not in seen:
+            seen.add(eid)
+            eid = redirect[eid]
+        return eid
+    for l in links:
+        if l.get("ref"):
+            l["ref"] = final(l["ref"])
+        if l.get("candidates"):
+            l["candidates"] = list(dict.fromkeys(final(c) for c in l["candidates"]))
 
     out = D / "ner" / f"{a.vol}-links.json"
     out.write_text(json.dumps(links, ensure_ascii=False, indent=0))
