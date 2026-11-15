@@ -395,6 +395,31 @@ def split_footnotes(text):
     return {m.group(1): m.group(2).strip()} if m else {"cont": text.strip()}
 
 
+def snap_word(t, ds, de):
+    """Move a cut [ds, de) in t that starts or ends inside a word to a word boundary. A garbled text-layer
+    sidenote ("Fornminnenas forstonnS", vol. I p. 1) aligns with only part of its last word, and the rest
+    ("öring") would stay behind as body text: complete the word when the missing part is no longer than
+    the part inside the cut. Otherwise the alignment ran into a neighbouring body word ("Axehiälm b|egagnade"):
+    leave that word out. -> (ds, de), or (None, None) when nothing is left."""
+    if ds > 0 and t[ds - 1].isalnum() and t[ds].isalnum():
+        w0 = ds
+        while w0 > 0 and t[w0 - 1].isalnum():
+            w0 -= 1
+        w1 = ds
+        while w1 < de and t[w1].isalnum():
+            w1 += 1
+        ds = w0 if ds - w0 <= w1 - ds else w1
+    if de < len(t) and de > ds and t[de - 1].isalnum() and t[de].isalnum():
+        w1 = de
+        while w1 < len(t) and t[w1].isalnum():
+            w1 += 1
+        w0 = de
+        while w0 > ds and t[w0 - 1].isalnum():
+            w0 -= 1
+        de = w1 if w1 - de <= de - w0 else w0
+    return (ds, de) if t[ds:de].strip() else (None, None)
+
+
 def rescue_margins(vol, idx, blocks):
     """dots.mocr sometimes reads a sidenote into the adjacent paragraph. The text layer separates
     margin words by column, so a text-layer sidenote without a dots counterpart is searched for
@@ -414,13 +439,22 @@ def rescue_margins(vol, idx, blocks):
             if b["kind"] != "body":
                 continue
             al = fuzz.partial_ratio_alignment(text, b["text"], score_cutoff=85)
-            if al and (best is None or al.score > best[1].score):
-                best = (b, al)
+            if not al:
+                continue
+            # a block that is (nearly) all sidenote beats an exact match inside running text
+            # ("Johan Pe-ringer" as its own block vs. "nämligen Johan Peringer, vilken", vol. II p. 88)
+            score = al.score + (10 if al.dest_end - al.dest_start >= 0.8 * len(b["text"].strip()) else 0)
+            if best is None or score > best[2]:
+                best = (b, al, score)
         if not best:
             continue
-        b, al = best
-        cut = b["text"][al.dest_start:al.dest_end]
-        b["text"] = re.sub(r"\s{2,}", " ", b["text"][:al.dest_start] + " " + b["text"][al.dest_end:]).strip()
+        b, al, _ = best
+        t = b["text"]
+        ds, de = snap_word(t, al.dest_start, al.dest_end)
+        if ds is None:
+            continue
+        cut = t[ds:de]
+        b["text"] = re.sub(r"\s{2,}", " ", t[:ds] + " " + t[de:]).strip()
         ws = [w[1] for l in g for w in l[5]]
         blocks.append({"kind": "margin", "text": cut.strip(), "cat": "rescued",
                        "bbox": [min(x[0] for x in ws), min(x[1] for x in ws), max(x[2] for x in ws), max(x[3] for x in ws)]})
@@ -588,7 +622,11 @@ def build(vol):
             resp, blocks = page_source(vol, idx)
             texts = [b["text"] for b in blocks if b["kind"] not in ("figure", "pageno", "signature") and b["text"].strip()]
             pb_xml = page_points(idx, page, resp, [])
-            if ftype in ("halftitle", "titlepage"):
+            if ftype == "frontispiece":   # plate facing the title page: the printed caption becomes the figure's head
+                fig = (f'<figure type="plate" facs="#f{vol}-{idx:04d}">'
+                       + (f'<head>{inline(" / ".join(texts), ph.xml)}</head>' if texts else "") + "</figure>")
+                front.append(f'<div type="frontispiece">{pb_xml}{fig}</div>')
+            elif ftype in ("halftitle", "titlepage"):
                 front.append(f'<titlePage type="{ftype}">{pb_xml}' + "".join(
                     f"<titlePart>{inline(t, ph.xml)}</titlePart>" for t in texts) + "</titlePage>")
             elif ftype:
