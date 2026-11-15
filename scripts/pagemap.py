@@ -18,6 +18,7 @@ import re
 from collections import Counter
 
 from lxml import etree
+from rapidfuzz import fuzz
 
 from common import OCR, ROOT, VOLUMES, parse_vols
 
@@ -54,6 +55,17 @@ def is_text(lines):
     return sum(bool(re.fullmatch(r"[^\W\d_]{2,}[.,;:!?»«)-]*", w)) for w in toks) / len(toks) >= MIN_WORDLIKE
 
 
+def same_head(lines, heads, page):
+    """True if a text page's first line matches the running head of a numbered page of the same parity
+    (p±2, p±4), ignoring spaces and case: the text layer often splits heads ('Antikvit et skolle giet II')."""
+    if not is_text(lines):
+        return False
+    norm = lambda s: re.sub(r"\W", "", s).lower()
+    first = norm(lines[0])
+    refs = [norm(heads[q]) for q in (page - 2, page + 2, page - 4, page + 4) if q in heads]
+    return bool(first) and any(len(r) >= 5 and fuzz.ratio(first, r) >= 85 for r in refs)
+
+
 def chain(read):
     """Longest chain of (index, page) with page increasing and page step <= index step."""
     pts = [(i, p) for i, p in enumerate(read) if p is not None]
@@ -83,6 +95,7 @@ def build(vol):
     anchors = chain(read)
     for i, p in anchors:
         rec[i].update(page=p, how="read")
+    heads = {p: texts[i][0] for i, p in anchors if texts[i]}   # printed page -> first line (running head)
     for (ia, pa), (ib, pb) in zip(anchors, anchors[1:]):
         gap = list(range(ia + 1, ib))
         need = pb - pa - 1
@@ -91,6 +104,22 @@ def build(vol):
             for i in plates:
                 rec[i]["how"] = "plate"
             gap = [i for i in gap if i not in plates]
+        if len(gap) > need:   # unnumbered inserts with running text: extend from both anchors by running head
+            left = []
+            while len(left) < need and gap and same_head(texts[gap[0]], heads, pa + 1 + len(left)):
+                left.append(gap.pop(0))
+            right = []
+            while len(left) + len(right) < need and gap and same_head(texts[gap[-1]], heads, pb - 1 - len(right)):
+                right.insert(0, gap.pop())
+            for k, i in enumerate(left):
+                rec[i].update(page=pa + 1 + k, how="filled")
+            for k, i in enumerate(right):
+                rec[i].update(page=pb - len(right) + k, how="filled")
+            need -= len(left) + len(right)
+            if need == 0:
+                for i in gap:
+                    rec[i]["how"] = "plate"
+                gap = []
         if len(gap) == need:
             for k, i in enumerate(gap):
                 rec[i].update(page=pa + 1 + k, how="filled")
@@ -102,10 +131,12 @@ def build(vol):
         while k >= 0 and p >= 1 and is_text(texts[k]):
             rec[k].update(page=p, how="filled")
             k, p = k - 1, p - 1
-    if anchors:  # after the last anchor: back matter, fill while pages have text
-        il, pl = anchors[-1]
+    if anchors:  # after the last anchor: fill consecutive text pages; from the first non-text image on
+        il, pl = anchors[-1]  # (blank leaf, TOC with dot leaders) the count is unknown, so no numbers
+        numbering = True
         for i in range(il + 1, n):
-            if is_text(texts[i]):
+            numbering = numbering and is_text(texts[i])
+            if numbering:
                 pl += 1
                 rec[i].update(page=pl, how="filled")
             else:
