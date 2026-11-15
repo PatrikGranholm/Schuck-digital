@@ -6,12 +6,20 @@
    "Aalborg": 1
   },
   "n": 1,
-  "units": [
-   "u00551"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Aalborg": 1
+    },
+    "n": 1,
+    "units": [
+     "u00551"
+    ]
+   }
+  }
  },
  {
   "id": "plac-aarhuus",
@@ -20,12 +28,20 @@
    "Aarhuus": 1
   },
   "n": 1,
-  "units": [
-   "u00549"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Aarhuus": 1
+    },
+    "n": 1,
+    "units": [
+     "u00549"
+    ]
+   }
+  }
  },
  {
   "id": "plac-amerika",
@@ -34,12 +50,20 @@
    "Amerika": 1
   },
   "n": 1,
-  "units": [
-   "u00484"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Amerika": 1
+    },
+    "n": 1,
+    "units": [
+     "u00484"
+    ]
+   }
+  }
  },
  {
   "id": "plac-arboga",
@@ -48,10 +72,6 @@
    "Arboga": 2
   },
   "n": 2,
-  "units": [
-   "u00029",
-   "u00530"
-  ],
   "candidates": [
    {
     "qid": "Q669660",
@@ -73,7 +93,19 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Arboga": 2
+    },
+    "n": 2,
+    "units": [
+     "u00029",
+     "u00530"
+    ]
+   }
+  }
  },
  {
   "id": "plac-arboga-kloster",
@@ -82,12 +114,20 @@
    "Arboga kloster": 1
   },
   "n": 1,
-  "units": [
-   "u00029"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Arboga kloster": 1
+    },
+    "n": 1,
+    "units": [
+     "u00029"
+    ]
+   }
+  }
  },
  {
   "id": "plac-asien",
@@ -96,14 +136,6 @@
    "Asien": 7
   },
   "n": 7,
-  "units": [
-   "u00053",
-   "u00484",
-   "u00516",
-   "u00844",
-   "u00895",
-   "u00896"
-  ],
   "candidates": [
    {
     "qid": "Q48",
@@ -113,7 +145,23 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Asien": 7
+    },
+    "n": 7,
+    "units": [
+     "u00053",
+     "u00484",
+     "u00516",
+     "u00844",
+     "u00895",
+     "u00896"
+    ]
+   }
+  }
  },
  {
   "id": "plac-askaby-kloster",
@@ -122,12 +170,20 @@
    "Askaby kloster": 1
   },
   "n": 1,
-  "units": [
-   "u00029"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Askaby kloster": 1
+    },
+    "n": 1,
+    "units": [
+     "u00029"
+    ]
+   }
+  }
  },
  {
   "id": "plac-aske",
@@ -136,12 +192,20 @@
    "Aske": 1
   },
   "n": 1,
-  "units": [
-   "u00565"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Aske": 1
+    },
+    "n": 1,
+    "units": [
+     "u00565"
+    ]
+   }
+  }
  },
  {
   "id": "plac-babels-torn",
@@ -150,12 +214,20 @@
    "Babels torn": 1
   },
   "n": 1,
-  "units": [
-   "u00484"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Babels torn": 1
+    },
+    "n": 1,
+    "units": [
+     "u00484"
+    ]
+   }
+  }
  },
  {
   "id": "plac-badelunda",
@@ -164,12 +236,20 @@
    "Badelunda": 1
   },
   "n": 1,
-  "units": [
-   "u00146"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Badelunda": 1
+    },
+    "n": 1,
+    "units": [
+     "u00146"
+    ]
+   }
+  }
  },
  {
   "id": "plac-bahnen",
@@ -178,12 +258,20 @@
    "Bahnen": 1
   },
   "n": 1,
-  "units": [
-   "u00104"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Bahnen": 1
+    },
+    "n": 1,
+    "units": [
+     "u00104"
+    ]
+   }
+  }
  },
  {
   "id": "plac-balticum",
@@ -192,12 +280,20 @@
    "Balticum": 1
   },
   "n": 1,
-  "units": [
-   "u00566"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Balticum": 1
+    },
+    "n": 1,
+    "units": [
+     "u00566"
+    ]
+   }
+  }
  },
  {
   "id": "plac-basel",
@@ -206,12 +302,6 @@
    "Basel": 5
   },
   "n": 5,
-  "units": [
-   "u00052",
-   "u00054",
-   "u00056",
-   "u00409"
-  ],
   "candidates": [
    {
     "qid": "Q78",
@@ -227,7 +317,21 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Basel": 5
+    },
+    "n": 5,
+    "units": [
+     "u00052",
+     "u00054",
+     "u00056",
+     "u00409"
+    ]
+   }
+  }
  },
  {
   "id": "plac-belgien",
@@ -236,12 +340,20 @@
    "Belgien": 1
   },
   "n": 1,
-  "units": [
-   "u00764"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Belgien": 1
+    },
+    "n": 1,
+    "units": [
+     "u00764"
+    ]
+   }
+  }
  },
  {
   "id": "plac-bergen",
@@ -250,10 +362,6 @@
    "Bergen": 2
   },
   "n": 2,
-  "units": [
-   "u00472",
-   "u00549"
-  ],
   "candidates": [
    {
     "qid": "Q26793",
@@ -293,7 +401,19 @@
    }
   ],
   "wikidata": "Q26793",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Bergen": 2
+    },
+    "n": 2,
+    "units": [
+     "u00472",
+     "u00549"
+    ]
+   }
+  }
  },
  {
   "id": "plac-birgittahuset",
@@ -302,12 +422,20 @@
    "Birgittahuset": 1
   },
   "n": 1,
-  "units": [
-   "u00082"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Birgittahuset": 1
+    },
+    "n": 1,
+    "units": [
+     "u00082"
+    ]
+   }
+  }
  },
  {
   "id": "plac-björkö",
@@ -316,12 +444,20 @@
    "Björkö": 1
   },
   "n": 1,
-  "units": [
-   "u00503"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Björkö": 1
+    },
+    "n": 1,
+    "units": [
+     "u00503"
+    ]
+   }
+  }
  },
  {
   "id": "plac-blekinge",
@@ -330,12 +466,20 @@
    "Blekinge": 1
   },
   "n": 1,
-  "units": [
-   "u00944"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Blekinge": 1
+    },
+    "n": 1,
+    "units": [
+     "u00944"
+    ]
+   }
+  }
  },
  {
   "id": "plac-bondekyrkian",
@@ -344,12 +488,20 @@
    "Bondekyrkian": 1
   },
   "n": 1,
-  "units": [
-   "u00840"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Bondekyrkian": 1
+    },
+    "n": 1,
+    "units": [
+     "u00840"
+    ]
+   }
+  }
  },
  {
   "id": "plac-borgby",
@@ -358,17 +510,25 @@
    "Borgby": 7
   },
   "n": 7,
-  "units": [
-   "u00555",
-   "u00631",
-   "u00644",
-   "u00646",
-   "u00664",
-   "u00675"
-  ],
   "candidates": [],
   "wikidata": null,
-  "status": "none"
+  "status": "none",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Borgby": 7
+    },
+    "n": 7,
+    "units": [
+     "u00555",
+     "u00631",
+     "u00644",
+     "u00646",
+     "u00664",
+     "u00675"
+    ]
+   }
+  }
  },
  {
   "id": "plac-borgholms-slott",
@@ -377,12 +537,20 @@
    "Borgholms slott": 1
   },
   "n": 1,
-  "units": [
-   "u00710"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Borgholms slott": 1
+    },
+    "n": 1,
+    "units": [
+     "u00710"
+    ]
+   }
+  }
  },
  {
   "id": "plac-braunsberg",
@@ -391,12 +559,20 @@
    "Braunsberg": 1
   },
   "n": 1,
-  "units": [
-   "u00491"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Braunsberg": 1
+    },
+    "n": 1,
+    "units": [
+     "u00491"
+    ]
+   }
+  }
  },
  {
   "id": "plac-bremen",
@@ -405,12 +581,20 @@
    "Bremen": 1
   },
   "n": 1,
-  "units": [
-   "u00976"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Bremen": 1
+    },
+    "n": 1,
+    "units": [
+     "u00976"
+    ]
+   }
+  }
  },
  {
   "id": "plac-bremens",
@@ -419,12 +603,20 @@
    "Bremens": 1
   },
   "n": 1,
-  "units": [
-   "u00074"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Bremens": 1
+    },
+    "n": 1,
+    "units": [
+     "u00074"
+    ]
+   }
+  }
  },
  {
   "id": "plac-breslau",
@@ -433,12 +625,20 @@
    "Breslau": 1
   },
   "n": 1,
-  "units": [
-   "u00056"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Breslau": 1
+    },
+    "n": 1,
+    "units": [
+     "u00056"
+    ]
+   }
+  }
  },
  {
   "id": "plac-british-museum",
@@ -447,12 +647,20 @@
    "British Museum": 1
   },
   "n": 1,
-  "units": [
-   "u00892"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "British Museum": 1
+    },
+    "n": 1,
+    "units": [
+     "u00892"
+    ]
+   }
+  }
  },
  {
   "id": "plac-bro",
@@ -461,12 +669,20 @@
    "Bro": 1
   },
   "n": 1,
-  "units": [
-   "u00145"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Bro": 1
+    },
+    "n": 1,
+    "units": [
+     "u00145"
+    ]
+   }
+  }
  },
  {
   "id": "plac-broby",
@@ -475,10 +691,6 @@
    "Broby": 2
   },
   "n": 2,
-  "units": [
-   "u00899",
-   "u00900"
-  ],
   "candidates": [
    {
     "qid": "Q923113",
@@ -518,7 +730,19 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Broby": 2
+    },
+    "n": 2,
+    "units": [
+     "u00899",
+     "u00900"
+    ]
+   }
+  }
  },
  {
   "id": "plac-bureus",
@@ -527,12 +751,20 @@
    "BUREUS": 1
   },
   "n": 1,
-  "units": [
-   "u00127"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "BUREUS": 1
+    },
+    "n": 1,
+    "units": [
+     "u00127"
+    ]
+   }
+  }
  },
  {
   "id": "plac-bägby-bro",
@@ -541,12 +773,20 @@
    "Bägby bro": 1
   },
   "n": 1,
-  "units": [
-   "u00711"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Bägby bro": 1
+    },
+    "n": 1,
+    "units": [
+     "u00711"
+    ]
+   }
+  }
  },
  {
   "id": "plac-bälinge",
@@ -555,12 +795,20 @@
    "Bälinge": 1
   },
   "n": 1,
-  "units": [
-   "u00505"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Bälinge": 1
+    },
+    "n": 1,
+    "units": [
+     "u00505"
+    ]
+   }
+  }
  },
  {
   "id": "plac-campo-dei-fiori",
@@ -569,12 +817,20 @@
    "Campo dei fiori": 1
   },
   "n": 1,
-  "units": [
-   "u00082"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Campo dei fiori": 1
+    },
+    "n": 1,
+    "units": [
+     "u00082"
+    ]
+   }
+  }
  },
  {
   "id": "plac-carmenta",
@@ -583,12 +839,20 @@
    "Carmenta": 1
   },
   "n": 1,
-  "units": [
-   "u00076"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Carmenta": 1
+    },
+    "n": 1,
+    "units": [
+     "u00076"
+    ]
+   }
+  }
  },
  {
   "id": "plac-dagajthi",
@@ -597,12 +861,20 @@
    "Dagajthi": 1
   },
   "n": 1,
-  "units": [
-   "u00043"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Dagajthi": 1
+    },
+    "n": 1,
+    "units": [
+     "u00043"
+    ]
+   }
+  }
  },
  {
   "id": "plac-dalarna",
@@ -611,10 +883,6 @@
    "Dalarna": 2
   },
   "n": 2,
-  "units": [
-   "u00147",
-   "u00499"
-  ],
   "candidates": [
    {
     "qid": "Q205218",
@@ -636,7 +904,19 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Dalarna": 2
+    },
+    "n": 2,
+    "units": [
+     "u00147",
+     "u00499"
+    ]
+   }
+  }
  },
  {
   "id": "plac-danmark",
@@ -646,49 +926,6 @@
    "Danmark": 61
   },
   "n": 70,
-  "units": [
-   "u00052",
-   "u00054",
-   "u00058",
-   "u00086",
-   "u00336",
-   "u00338",
-   "u00343",
-   "u00409",
-   "u00411",
-   "u00414",
-   "u00472",
-   "u00495",
-   "u00512",
-   "u00514",
-   "u00519",
-   "u00540",
-   "u00541",
-   "u00542",
-   "u00552",
-   "u00573",
-   "u00629",
-   "u00708",
-   "u00739",
-   "u00741",
-   "u00742",
-   "u00745",
-   "u00748",
-   "u00750",
-   "u00752",
-   "u00753",
-   "u00754",
-   "u00759",
-   "u00761",
-   "u00767",
-   "u00771",
-   "u00772",
-   "u00828",
-   "u00840",
-   "u00916",
-   "u01014",
-   "u01021"
-  ],
   "candidates": [
    {
     "qid": "Q35",
@@ -728,7 +965,59 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Danmarks": 9,
+     "Danmark": 61
+    },
+    "n": 70,
+    "units": [
+     "u00052",
+     "u00054",
+     "u00058",
+     "u00086",
+     "u00336",
+     "u00338",
+     "u00343",
+     "u00409",
+     "u00411",
+     "u00414",
+     "u00472",
+     "u00495",
+     "u00512",
+     "u00514",
+     "u00519",
+     "u00540",
+     "u00541",
+     "u00542",
+     "u00552",
+     "u00573",
+     "u00629",
+     "u00708",
+     "u00739",
+     "u00741",
+     "u00742",
+     "u00745",
+     "u00748",
+     "u00750",
+     "u00752",
+     "u00753",
+     "u00754",
+     "u00759",
+     "u00761",
+     "u00767",
+     "u00771",
+     "u00772",
+     "u00828",
+     "u00840",
+     "u00916",
+     "u01014",
+     "u01021"
+    ]
+   }
+  }
  },
  {
   "id": "plac-danzig",
@@ -737,9 +1026,6 @@
    "Danzig": 3
   },
   "n": 3,
-  "units": [
-   "u00056"
-  ],
   "candidates": [
    {
     "qid": "Q22033925",
@@ -749,7 +1035,18 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Danzig": 3
+    },
+    "n": 3,
+    "units": [
+     "u00056"
+    ]
+   }
+  }
  },
  {
   "id": "plac-dorpat",
@@ -758,11 +1055,6 @@
    "Dorpat": 4
   },
   "n": 4,
-  "units": [
-   "u00651",
-   "u00828",
-   "u00829"
-  ],
   "candidates": [
    {
     "qid": "Q13972",
@@ -772,7 +1064,20 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Dorpat": 4
+    },
+    "n": 4,
+    "units": [
+     "u00651",
+     "u00828",
+     "u00829"
+    ]
+   }
+  }
  },
  {
   "id": "plac-eestland",
@@ -781,12 +1086,20 @@
    "Eestland": 1
   },
   "n": 1,
-  "units": [
-   "u00094"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Eestland": 1
+    },
+    "n": 1,
+    "units": [
+     "u00094"
+    ]
+   }
+  }
  },
  {
   "id": "plac-egypten",
@@ -795,12 +1108,20 @@
    "Egypten": 1
   },
   "n": 1,
-  "units": [
-   "u00053"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Egypten": 1
+    },
+    "n": 1,
+    "units": [
+     "u00053"
+    ]
+   }
+  }
  },
  {
   "id": "plac-ekala-bro",
@@ -809,13 +1130,21 @@
    "Ekala bro": 2
   },
   "n": 2,
-  "units": [
-   "u00144",
-   "u00146"
-  ],
   "candidates": [],
   "wikidata": null,
-  "status": "none"
+  "status": "none",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Ekala bro": 2
+    },
+    "n": 2,
+    "units": [
+     "u00144",
+     "u00146"
+    ]
+   }
+  }
  },
  {
   "id": "plac-england",
@@ -824,12 +1153,20 @@
    "England": 1
   },
   "n": 1,
-  "units": [
-   "u00060"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "England": 1
+    },
+    "n": 1,
+    "units": [
+     "u00060"
+    ]
+   }
+  }
  },
  {
   "id": "plac-estland",
@@ -838,15 +1175,23 @@
    "Estland": 4
   },
   "n": 4,
-  "units": [
-   "u00043",
-   "u00124",
-   "u00558",
-   "u00976"
-  ],
   "candidates": [],
   "wikidata": null,
-  "status": "none"
+  "status": "none",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Estland": 4
+    },
+    "n": 4,
+    "units": [
+     "u00043",
+     "u00124",
+     "u00558",
+     "u00976"
+    ]
+   }
+  }
  },
  {
   "id": "plac-europa",
@@ -855,13 +1200,6 @@
    "Europa": 5
   },
   "n": 5,
-  "units": [
-   "u00037",
-   "u00047",
-   "u00074",
-   "u00399",
-   "u00917"
-  ],
   "candidates": [
    {
     "qid": "Q46",
@@ -883,7 +1221,22 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Europa": 5
+    },
+    "n": 5,
+    "units": [
+     "u00037",
+     "u00047",
+     "u00074",
+     "u00399",
+     "u00917"
+    ]
+   }
+  }
  },
  {
   "id": "plac-finland",
@@ -893,23 +1246,6 @@
    "Finlands": 2
   },
   "n": 18,
-  "units": [
-   "u00094",
-   "u00415",
-   "u00452",
-   "u00468",
-   "u00499",
-   "u00512",
-   "u00519",
-   "u00534",
-   "u00558",
-   "u00571",
-   "u00608",
-   "u00654",
-   "u00685",
-   "u00734",
-   "u00976"
-  ],
   "candidates": [
    {
     "qid": "Q33",
@@ -931,7 +1267,33 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Finland": 16,
+     "Finlands": 2
+    },
+    "n": 18,
+    "units": [
+     "u00094",
+     "u00415",
+     "u00452",
+     "u00468",
+     "u00499",
+     "u00512",
+     "u00519",
+     "u00534",
+     "u00558",
+     "u00571",
+     "u00608",
+     "u00654",
+     "u00685",
+     "u00734",
+     "u00976"
+    ]
+   }
+  }
  },
  {
   "id": "plac-frankrike",
@@ -940,13 +1302,6 @@
    "Frankrike": 5
   },
   "n": 5,
-  "units": [
-   "u00076",
-   "u00087",
-   "u00448",
-   "u00473",
-   "u00828"
-  ],
   "candidates": [
    {
     "qid": "Q142",
@@ -962,7 +1317,22 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Frankrike": 5
+    },
+    "n": 5,
+    "units": [
+     "u00076",
+     "u00087",
+     "u00448",
+     "u00473",
+     "u00828"
+    ]
+   }
+  }
  },
  {
   "id": "plac-fre",
@@ -971,12 +1341,20 @@
    "Fre": 1
   },
   "n": 1,
-  "units": [
-   "u00644"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Fre": 1
+    },
+    "n": 1,
+    "units": [
+     "u00644"
+    ]
+   }
+  }
  },
  {
   "id": "plac-fresta",
@@ -985,12 +1363,6 @@
    "Fresta": 4
   },
   "n": 4,
-  "units": [
-   "u00555",
-   "u00558",
-   "u00562",
-   "u00565"
-  ],
   "candidates": [
    {
     "qid": "Q32236860",
@@ -1012,7 +1384,21 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Fresta": 4
+    },
+    "n": 4,
+    "units": [
+     "u00555",
+     "u00558",
+     "u00562",
+     "u00565"
+    ]
+   }
+  }
  },
  {
   "id": "plac-fårön",
@@ -1021,12 +1407,20 @@
    "Fårön": 1
   },
   "n": 1,
-  "units": [
-   "u00043"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Fårön": 1
+    },
+    "n": 1,
+    "units": [
+     "u00043"
+    ]
+   }
+  }
  },
  {
   "id": "plac-gamla-lödöse",
@@ -1035,12 +1429,20 @@
    "Gamla Lödöse": 1
   },
   "n": 1,
-  "units": [
-   "u00029"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Gamla Lödöse": 1
+    },
+    "n": 1,
+    "units": [
+     "u00029"
+    ]
+   }
+  }
  },
  {
   "id": "plac-gefle-skola",
@@ -1049,12 +1451,20 @@
    "Gefle skola": 1
   },
   "n": 1,
-  "units": [
-   "u00134"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Gefle skola": 1
+    },
+    "n": 1,
+    "units": [
+     "u00134"
+    ]
+   }
+  }
  },
  {
   "id": "plac-gotland",
@@ -1064,11 +1474,6 @@
    "Gotlands": 1
   },
   "n": 3,
-  "units": [
-   "u00043",
-   "u00146",
-   "u00415"
-  ],
   "candidates": [
    {
     "qid": "Q1027830",
@@ -1096,7 +1501,21 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Gotland": 2,
+     "Gotlands": 1
+    },
+    "n": 3,
+    "units": [
+     "u00043",
+     "u00146",
+     "u00415"
+    ]
+   }
+  }
  },
  {
   "id": "plac-greifswald",
@@ -1105,12 +1524,20 @@
    "Greifswald": 1
   },
   "n": 1,
-  "units": [
-   "u00133"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Greifswald": 1
+    },
+    "n": 1,
+    "units": [
+     "u00133"
+    ]
+   }
+  }
  },
  {
   "id": "plac-grekland",
@@ -1119,11 +1546,6 @@
    "Grekland": 3
   },
   "n": 3,
-  "units": [
-   "u00043",
-   "u00076",
-   "u00484"
-  ],
   "candidates": [
    {
     "qid": "Q41",
@@ -1133,7 +1555,20 @@
    }
   ],
   "wikidata": "Q41",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Grekland": 3
+    },
+    "n": 3,
+    "units": [
+     "u00043",
+     "u00076",
+     "u00484"
+    ]
+   }
+  }
  },
  {
   "id": "plac-gripsholm",
@@ -1142,10 +1577,6 @@
    "Gripsholm": 2
   },
   "n": 2,
-  "units": [
-   "u00134",
-   "u00490"
-  ],
   "candidates": [
    {
     "qid": "Q714783",
@@ -1161,7 +1592,19 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Gripsholm": 2
+    },
+    "n": 2,
+    "units": [
+     "u00134",
+     "u00490"
+    ]
+   }
+  }
  },
  {
   "id": "plac-gråmunkeholmen",
@@ -1170,12 +1613,20 @@
    "Gråmunkeholmen": 1
   },
   "n": 1,
-  "units": [
-   "u00134"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Gråmunkeholmen": 1
+    },
+    "n": 1,
+    "units": [
+     "u00134"
+    ]
+   }
+  }
  },
  {
   "id": "plac-grönland",
@@ -1184,13 +1635,21 @@
    "Grönland": 2
   },
   "n": 2,
-  "units": [
-   "u00484",
-   "u00514"
-  ],
   "candidates": [],
   "wikidata": null,
-  "status": "none"
+  "status": "none",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Grönland": 2
+    },
+    "n": 2,
+    "units": [
+     "u00484",
+     "u00514"
+    ]
+   }
+  }
  },
  {
   "id": "plac-gärdslösa-socken",
@@ -1199,12 +1658,20 @@
    "Gärdslösa socken": 1
   },
   "n": 1,
-  "units": [
-   "u00711"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Gärdslösa socken": 1
+    },
+    "n": 1,
+    "units": [
+     "u00711"
+    ]
+   }
+  }
  },
  {
   "id": "plac-gästrikland",
@@ -1213,10 +1680,6 @@
    "Gästrikland": 2
   },
   "n": 2,
-  "units": [
-   "u00316",
-   "u00348"
-  ],
   "candidates": [
    {
     "qid": "Q183459",
@@ -1226,7 +1689,19 @@
    }
   ],
   "wikidata": "Q183459",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Gästrikland": 2
+    },
+    "n": 2,
+    "units": [
+     "u00316",
+     "u00348"
+    ]
+   }
+  }
  },
  {
   "id": "plac-gävle",
@@ -1235,12 +1710,20 @@
    "Gävle": 1
   },
   "n": 1,
-  "units": [
-   "u00133"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Gävle": 1
+    },
+    "n": 1,
+    "units": [
+     "u00133"
+    ]
+   }
+  }
  },
  {
   "id": "plac-göta-rike",
@@ -1249,12 +1732,20 @@
    "Göta rike": 1
   },
   "n": 1,
-  "units": [
-   "u00124"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Göta rike": 1
+    },
+    "n": 1,
+    "units": [
+     "u00124"
+    ]
+   }
+  }
  },
  {
   "id": "plac-götaland",
@@ -1263,10 +1754,6 @@
    "Götaland": 2
   },
   "n": 2,
-  "units": [
-   "u00047",
-   "u00348"
-  ],
   "candidates": [
    {
     "qid": "Q201694",
@@ -1276,7 +1763,19 @@
    }
   ],
   "wikidata": "Q201694",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Götaland": 2
+    },
+    "n": 2,
+    "units": [
+     "u00047",
+     "u00348"
+    ]
+   }
+  }
  },
  {
   "id": "plac-göteborg",
@@ -1285,10 +1784,6 @@
    "Göteborg": 3
   },
   "n": 3,
-  "units": [
-   "u00771",
-   "u00772"
-  ],
   "candidates": [
    {
     "qid": "Q25287",
@@ -1304,7 +1799,19 @@
    }
   ],
   "wikidata": "Q25287",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Göteborg": 3
+    },
+    "n": 3,
+    "units": [
+     "u00771",
+     "u00772"
+    ]
+   }
+  }
  },
  {
   "id": "plac-hageby",
@@ -1313,9 +1820,6 @@
    "Hageby": 2
   },
   "n": 2,
-  "units": [
-   "u00317"
-  ],
   "candidates": [
    {
     "qid": "Q262973",
@@ -1349,7 +1853,18 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Hageby": 2
+    },
+    "n": 2,
+    "units": [
+     "u00317"
+    ]
+   }
+  }
  },
  {
   "id": "plac-halland",
@@ -1359,12 +1874,6 @@
    "Halland": 3
   },
   "n": 4,
-  "units": [
-   "u00146",
-   "u00512",
-   "u00944",
-   "u00946"
-  ],
   "candidates": [
    {
     "qid": "Q626045",
@@ -1380,7 +1889,22 @@
    }
   ],
   "wikidata": "Q626045",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Hallands": 1,
+     "Halland": 3
+    },
+    "n": 4,
+    "units": [
+     "u00146",
+     "u00512",
+     "u00944",
+     "u00946"
+    ]
+   }
+  }
  },
  {
   "id": "plac-hamburg",
@@ -1389,12 +1913,20 @@
    "Hamburg": 1
   },
   "n": 1,
-  "units": [
-   "u00748"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Hamburg": 1
+    },
+    "n": 1,
+    "units": [
+     "u00748"
+    ]
+   }
+  }
  },
  {
   "id": "plac-hamburgh",
@@ -1403,12 +1935,20 @@
    "Hamburgh": 1
   },
   "n": 1,
-  "units": [
-   "u00783"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Hamburgh": 1
+    },
+    "n": 1,
+    "units": [
+     "u00783"
+    ]
+   }
+  }
  },
  {
   "id": "plac-hammarby",
@@ -1417,12 +1957,6 @@
    "Hammarby": 4
   },
   "n": 4,
-  "units": [
-   "u00555",
-   "u00565",
-   "u00637",
-   "u00644"
-  ],
   "candidates": [
    {
     "qid": "Q2855490",
@@ -1462,7 +1996,21 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Hammarby": 4
+    },
+    "n": 4,
+    "units": [
+     "u00555",
+     "u00565",
+     "u00637",
+     "u00644"
+    ]
+   }
+  }
  },
  {
   "id": "plac-hargs-kvarn",
@@ -1471,12 +2019,20 @@
    "Hargs kvarn": 1
   },
   "n": 1,
-  "units": [
-   "u00146"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Hargs kvarn": 1
+    },
+    "n": 1,
+    "units": [
+     "u00146"
+    ]
+   }
+  }
  },
  {
   "id": "plac-hargsmon",
@@ -1485,12 +2041,20 @@
    "Hargsmon": 1
   },
   "n": 1,
-  "units": [
-   "u00146"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Hargsmon": 1
+    },
+    "n": 1,
+    "units": [
+     "u00146"
+    ]
+   }
+  }
  },
  {
   "id": "plac-hargsån",
@@ -1499,12 +2063,20 @@
    "Hargsån": 1
   },
   "n": 1,
-  "units": [
-   "u00146"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Hargsån": 1
+    },
+    "n": 1,
+    "units": [
+     "u00146"
+    ]
+   }
+  }
  },
  {
   "id": "plac-hedemora",
@@ -1513,13 +2085,21 @@
    "Hedemora": 2
   },
   "n": 2,
-  "units": [
-   "u00133",
-   "u00134"
-  ],
   "candidates": [],
   "wikidata": null,
-  "status": "none"
+  "status": "none",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Hedemora": 2
+    },
+    "n": 2,
+    "units": [
+     "u00133",
+     "u00134"
+    ]
+   }
+  }
  },
  {
   "id": "plac-helsingl",
@@ -1528,12 +2108,20 @@
    "Helsingl": 1
   },
   "n": 1,
-  "units": [
-   "u00373"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Helsingl": 1
+    },
+    "n": 1,
+    "units": [
+     "u00373"
+    ]
+   }
+  }
  },
  {
   "id": "plac-helsingör",
@@ -1542,11 +2130,6 @@
    "Helsingör": 6
   },
   "n": 6,
-  "units": [
-   "u00782",
-   "u00789",
-   "u00814"
-  ],
   "candidates": [
    {
     "qid": "Q26881",
@@ -1556,7 +2139,20 @@
    }
   ],
   "wikidata": "Q26881",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Helsingör": 6
+    },
+    "n": 6,
+    "units": [
+     "u00782",
+     "u00789",
+     "u00814"
+    ]
+   }
+  }
  },
  {
   "id": "plac-holland",
@@ -1565,14 +2161,6 @@
    "Holland": 6
   },
   "n": 6,
-  "units": [
-   "u00448",
-   "u00727",
-   "u00764",
-   "u00784",
-   "u00828",
-   "u00893"
-  ],
   "candidates": [
    {
     "qid": "Q55",
@@ -1612,7 +2200,23 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Holland": 6
+    },
+    "n": 6,
+    "units": [
+     "u00448",
+     "u00727",
+     "u00764",
+     "u00784",
+     "u00828",
+     "u00893"
+    ]
+   }
+  }
  },
  {
   "id": "plac-holstein",
@@ -1621,12 +2225,20 @@
    "Holstein": 1
   },
   "n": 1,
-  "units": [
-   "u00828"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Holstein": 1
+    },
+    "n": 1,
+    "units": [
+     "u00828"
+    ]
+   }
+  }
  },
  {
   "id": "plac-hudhiksvall",
@@ -1635,12 +2247,20 @@
    "Hudhiksvall": 1
   },
   "n": 1,
-  "units": [
-   "u00465"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Hudhiksvall": 1
+    },
+    "n": 1,
+    "units": [
+     "u00465"
+    ]
+   }
+  }
  },
  {
   "id": "plac-hälsingborg",
@@ -1649,11 +2269,6 @@
    "Hälsingborg": 5
   },
   "n": 5,
-  "units": [
-   "u00773",
-   "u00779",
-   "u00785"
-  ],
   "candidates": [
    {
     "qid": "Q18290791",
@@ -1663,7 +2278,20 @@
    }
   ],
   "wikidata": "Q18290791",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Hälsingborg": 5
+    },
+    "n": 5,
+    "units": [
+     "u00773",
+     "u00779",
+     "u00785"
+    ]
+   }
+  }
  },
  {
   "id": "plac-hälsingland",
@@ -1672,11 +2300,6 @@
    "Hälsingland": 3
   },
   "n": 3,
-  "units": [
-   "u00316",
-   "u00348",
-   "u00451"
-  ],
   "candidates": [
    {
     "qid": "Q206564",
@@ -1686,7 +2309,20 @@
    }
   ],
   "wikidata": "Q206564",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Hälsingland": 3
+    },
+    "n": 3,
+    "units": [
+     "u00316",
+     "u00348",
+     "u00451"
+    ]
+   }
+  }
  },
  {
   "id": "plac-hólar",
@@ -1695,11 +2331,6 @@
    "Hólar": 3
   },
   "n": 3,
-  "units": [
-   "u00748",
-   "u00771",
-   "u00772"
-  ],
   "candidates": [
    {
     "qid": "Q1019455",
@@ -1715,7 +2346,20 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Hólar": 3
+    },
+    "n": 3,
+    "units": [
+     "u00748",
+     "u00771",
+     "u00772"
+    ]
+   }
+  }
  },
  {
   "id": "plac-indien",
@@ -1724,12 +2368,20 @@
    "Indien": 1
   },
   "n": 1,
-  "units": [
-   "u00476"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Indien": 1
+    },
+    "n": 1,
+    "units": [
+     "u00476"
+    ]
+   }
+  }
  },
  {
   "id": "plac-ingermanland",
@@ -1738,11 +2390,6 @@
    "Ingermanland": 3
   },
   "n": 3,
-  "units": [
-   "u00094",
-   "u00558",
-   "u00976"
-  ],
   "candidates": [
    {
     "qid": "Q14688",
@@ -1752,7 +2399,20 @@
    }
   ],
   "wikidata": "Q14688",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Ingermanland": 3
+    },
+    "n": 3,
+    "units": [
+     "u00094",
+     "u00558",
+     "u00976"
+    ]
+   }
+  }
  },
  {
   "id": "plac-island",
@@ -1762,34 +2422,6 @@
    "Islands": 2
   },
   "n": 41,
-  "units": [
-   "u00499",
-   "u00514",
-   "u00745",
-   "u00748",
-   "u00750",
-   "u00771",
-   "u00772",
-   "u00773",
-   "u00780",
-   "u00784",
-   "u00788",
-   "u00789",
-   "u00791",
-   "u00799",
-   "u00806",
-   "u00808",
-   "u00809",
-   "u00810",
-   "u00812",
-   "u00813",
-   "u00820",
-   "u00822",
-   "u00842",
-   "u00890",
-   "u00895",
-   "u00905"
-  ],
   "candidates": [
    {
     "qid": "Q189",
@@ -1823,7 +2455,44 @@
    }
   ],
   "wikidata": "Q189",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Island": 39,
+     "Islands": 2
+    },
+    "n": 41,
+    "units": [
+     "u00499",
+     "u00514",
+     "u00745",
+     "u00748",
+     "u00750",
+     "u00771",
+     "u00772",
+     "u00773",
+     "u00780",
+     "u00784",
+     "u00788",
+     "u00789",
+     "u00791",
+     "u00799",
+     "u00806",
+     "u00808",
+     "u00809",
+     "u00810",
+     "u00812",
+     "u00813",
+     "u00820",
+     "u00822",
+     "u00842",
+     "u00890",
+     "u00895",
+     "u00905"
+    ]
+   }
+  }
  },
  {
   "id": "plac-italien",
@@ -1833,22 +2502,6 @@
    "Italiens": 2
   },
   "n": 19,
-  "units": [
-   "u00026",
-   "u00039",
-   "u00040",
-   "u00053",
-   "u00056",
-   "u00066",
-   "u00076",
-   "u00325",
-   "u00331",
-   "u00335",
-   "u00415",
-   "u00448",
-   "u00530",
-   "u00828"
-  ],
   "candidates": [
    {
     "qid": "Q38",
@@ -1858,7 +2511,32 @@
    }
   ],
   "wikidata": "Q38",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Italien": 17,
+     "Italiens": 2
+    },
+    "n": 19,
+    "units": [
+     "u00026",
+     "u00039",
+     "u00040",
+     "u00053",
+     "u00056",
+     "u00066",
+     "u00076",
+     "u00325",
+     "u00331",
+     "u00335",
+     "u00415",
+     "u00448",
+     "u00530",
+     "u00828"
+    ]
+   }
+  }
  },
  {
   "id": "plac-jellinge",
@@ -1867,12 +2545,20 @@
    "Jellinge": 1
   },
   "n": 1,
-  "units": [
-   "u00338"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Jellinge": 1
+    },
+    "n": 1,
+    "units": [
+     "u00338"
+    ]
+   }
+  }
  },
  {
   "id": "plac-johan-iii-s-kapell",
@@ -1881,12 +2567,20 @@
    "Johan III:s kapell": 1
   },
   "n": 1,
-  "units": [
-   "u00565"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Johan III:s kapell": 1
+    },
+    "n": 1,
+    "units": [
+     "u00565"
+    ]
+   }
+  }
  },
  {
   "id": "plac-jylland",
@@ -1895,9 +2589,6 @@
    "Jylland": 2
   },
   "n": 2,
-  "units": [
-   "u00551"
-  ],
   "candidates": [
    {
     "qid": "Q25389",
@@ -1913,7 +2604,18 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Jylland": 2
+    },
+    "n": 2,
+    "units": [
+     "u00551"
+    ]
+   }
+  }
  },
  {
   "id": "plac-jönköping",
@@ -1923,11 +2625,6 @@
    "Jönköping": 2
   },
   "n": 3,
-  "units": [
-   "u00029",
-   "u00673",
-   "u00992"
-  ],
   "candidates": [
    {
     "qid": "Q25415",
@@ -1949,7 +2646,21 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Jönköpings": 1,
+     "Jönköping": 2
+    },
+    "n": 3,
+    "units": [
+     "u00029",
+     "u00673",
+     "u00992"
+    ]
+   }
+  }
  },
  {
   "id": "plac-kajaneborg",
@@ -1958,11 +2669,6 @@
    "Kajaneborg": 3
   },
   "n": 3,
-  "units": [
-   "u00499",
-   "u00511",
-   "u00514"
-  ],
   "candidates": [
    {
     "qid": "Q2628629",
@@ -1972,7 +2678,20 @@
    }
   ],
   "wikidata": "Q2628629",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Kajaneborg": 3
+    },
+    "n": 3,
+    "units": [
+     "u00499",
+     "u00511",
+     "u00514"
+    ]
+   }
+  }
  },
  {
   "id": "plac-kalmar",
@@ -1981,12 +2700,20 @@
    "Kalmar": 1
   },
   "n": 1,
-  "units": [
-   "u00761"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Kalmar": 1
+    },
+    "n": 1,
+    "units": [
+     "u00761"
+    ]
+   }
+  }
  },
  {
   "id": "plac-kiöpenhamn",
@@ -1995,12 +2722,20 @@
    "Kiöpenhamn": 1
   },
   "n": 1,
-  "units": [
-   "u00919"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Kiöpenhamn": 1
+    },
+    "n": 1,
+    "units": [
+     "u00919"
+    ]
+   }
+  }
  },
  {
   "id": "plac-korsholm",
@@ -2009,12 +2744,20 @@
    "Korsholm": 1
   },
   "n": 1,
-  "units": [
-   "u00511"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Korsholm": 1
+    },
+    "n": 1,
+    "units": [
+     "u00511"
+    ]
+   }
+  }
  },
  {
   "id": "plac-kronobäck",
@@ -2023,12 +2766,20 @@
    "Kronobäck": 1
   },
   "n": 1,
-  "units": [
-   "u00029"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Kronobäck": 1
+    },
+    "n": 1,
+    "units": [
+     "u00029"
+    ]
+   }
+  }
  },
  {
   "id": "plac-kungl",
@@ -2037,12 +2788,20 @@
    "Kungl": 1
   },
   "n": 1,
-  "units": [
-   "u00464"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Kungl": 1
+    },
+    "n": 1,
+    "units": [
+     "u00464"
+    ]
+   }
+  }
  },
  {
   "id": "plac-kurland",
@@ -2051,12 +2810,20 @@
    "Kurland": 1
   },
   "n": 1,
-  "units": [
-   "u00124"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Kurland": 1
+    },
+    "n": 1,
+    "units": [
+     "u00124"
+    ]
+   }
+  }
  },
  {
   "id": "plac-kurlands",
@@ -2065,12 +2832,20 @@
    "Kurlands": 1
   },
   "n": 1,
-  "units": [
-   "u00519"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Kurlands": 1
+    },
+    "n": 1,
+    "units": [
+     "u00519"
+    ]
+   }
+  }
  },
  {
   "id": "plac-kyrkobrinken",
@@ -2079,12 +2854,20 @@
    "Kyrkobrinken": 1
   },
   "n": 1,
-  "units": [
-   "u00147"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Kyrkobrinken": 1
+    },
+    "n": 1,
+    "units": [
+     "u00147"
+    ]
+   }
+  }
  },
  {
   "id": "plac-köpenhamn",
@@ -2093,18 +2876,6 @@
    "Köpenhamn": 20
   },
   "n": 20,
-  "units": [
-   "u00499",
-   "u00748",
-   "u00771",
-   "u00772",
-   "u00773",
-   "u00782",
-   "u00783",
-   "u00788",
-   "u00806",
-   "u00814"
-  ],
   "candidates": [
    {
     "qid": "Q1748",
@@ -2120,7 +2891,27 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Köpenhamn": 20
+    },
+    "n": 20,
+    "units": [
+     "u00499",
+     "u00748",
+     "u00771",
+     "u00772",
+     "u00773",
+     "u00782",
+     "u00783",
+     "u00788",
+     "u00806",
+     "u00814"
+    ]
+   }
+  }
  },
  {
   "id": "plac-københavn",
@@ -2129,12 +2920,20 @@
    "København": 1
   },
   "n": 1,
-  "units": [
-   "u00809"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "København": 1
+    },
+    "n": 1,
+    "units": [
+     "u00809"
+    ]
+   }
+  }
  },
  {
   "id": "plac-lappland",
@@ -2143,12 +2942,20 @@
    "Lappland": 1
   },
   "n": 1,
-  "units": [
-   "u00484"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Lappland": 1
+    },
+    "n": 1,
+    "units": [
+     "u00484"
+    ]
+   }
+  }
  },
  {
   "id": "plac-leiden",
@@ -2157,10 +2964,6 @@
    "Leiden": 3
   },
   "n": 3,
-  "units": [
-   "u00828",
-   "u00917"
-  ],
   "candidates": [
    {
     "qid": "Q43631",
@@ -2176,7 +2979,19 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Leiden": 3
+    },
+    "n": 3,
+    "units": [
+     "u00828",
+     "u00917"
+    ]
+   }
+  }
  },
  {
   "id": "plac-lekala",
@@ -2185,12 +3000,20 @@
    "Lekala": 1
   },
   "n": 1,
-  "units": [
-   "u00710"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Lekala": 1
+    },
+    "n": 1,
+    "units": [
+     "u00710"
+    ]
+   }
+  }
  },
  {
   "id": "plac-linköping",
@@ -2200,18 +3023,6 @@
    "Linköping": 8
   },
   "n": 11,
-  "units": [
-   "u00029",
-   "u00404",
-   "u00464",
-   "u00465",
-   "u00484",
-   "u00485",
-   "u00491",
-   "u00507",
-   "u00761",
-   "u00764"
-  ],
   "candidates": [
    {
     "qid": "Q25413",
@@ -2233,7 +3044,28 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Linköpings": 3,
+     "Linköping": 8
+    },
+    "n": 11,
+    "units": [
+     "u00029",
+     "u00404",
+     "u00464",
+     "u00465",
+     "u00484",
+     "u00485",
+     "u00491",
+     "u00507",
+     "u00761",
+     "u00764"
+    ]
+   }
+  }
  },
  {
   "id": "plac-linköpings-skola",
@@ -2242,12 +3074,20 @@
    "Linköpings skola": 1
   },
   "n": 1,
-  "units": [
-   "u00828"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Linköpings skola": 1
+    },
+    "n": 1,
+    "units": [
+     "u00828"
+    ]
+   }
+  }
  },
  {
   "id": "plac-livlands",
@@ -2256,12 +3096,20 @@
    "Livlands": 1
   },
   "n": 1,
-  "units": [
-   "u00519"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Livlands": 1
+    },
+    "n": 1,
+    "units": [
+     "u00519"
+    ]
+   }
+  }
  },
  {
   "id": "plac-lund",
@@ -2270,11 +3118,6 @@
    "Lund": 3
   },
   "n": 3,
-  "units": [
-   "u00761",
-   "u00782",
-   "u00811"
-  ],
   "candidates": [
    {
     "qid": "Q2167",
@@ -2308,7 +3151,20 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Lund": 3
+    },
+    "n": 3,
+    "units": [
+     "u00761",
+     "u00782",
+     "u00811"
+    ]
+   }
+  }
  },
  {
   "id": "plac-läby",
@@ -2317,12 +3173,20 @@
    "Läby": 1
   },
   "n": 1,
-  "units": [
-   "u00146"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Läby": 1
+    },
+    "n": 1,
+    "units": [
+     "u00146"
+    ]
+   }
+  }
  },
  {
   "id": "plac-magog",
@@ -2331,12 +3195,20 @@
    "Magog": 1
   },
   "n": 1,
-  "units": [
-   "u00495"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Magog": 1
+    },
+    "n": 1,
+    "units": [
+     "u00495"
+    ]
+   }
+  }
  },
  {
   "id": "plac-malmö",
@@ -2345,12 +3217,20 @@
    "Malmö": 1
   },
   "n": 1,
-  "units": [
-   "u00767"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Malmö": 1
+    },
+    "n": 1,
+    "units": [
+     "u00767"
+    ]
+   }
+  }
  },
  {
   "id": "plac-mecklenburg",
@@ -2359,12 +3239,20 @@
    "Mecklenburg": 1
   },
   "n": 1,
-  "units": [
-   "u00124"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Mecklenburg": 1
+    },
+    "n": 1,
+    "units": [
+     "u00124"
+    ]
+   }
+  }
  },
  {
   "id": "plac-medelpad",
@@ -2373,12 +3261,6 @@
    "Medelpad": 4
   },
   "n": 4,
-  "units": [
-   "u00316",
-   "u00348",
-   "u00375",
-   "u00451"
-  ],
   "candidates": [
    {
     "qid": "Q210687",
@@ -2394,7 +3276,21 @@
    }
   ],
   "wikidata": "Q210687",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Medelpad": 4
+    },
+    "n": 4,
+    "units": [
+     "u00316",
+     "u00348",
+     "u00375",
+     "u00451"
+    ]
+   }
+  }
  },
  {
   "id": "plac-messenius",
@@ -2403,12 +3299,20 @@
    "MESSENIUS": 1
   },
   "n": 1,
-  "units": [
-   "u00127"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "MESSENIUS": 1
+    },
+    "n": 1,
+    "units": [
+     "u00127"
+    ]
+   }
+  }
  },
  {
   "id": "plac-motalatrakten",
@@ -2417,12 +3321,20 @@
    "Motalatrakten": 1
   },
   "n": 1,
-  "units": [
-   "u00491"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Motalatrakten": 1
+    },
+    "n": 1,
+    "units": [
+     "u00491"
+    ]
+   }
+  }
  },
  {
   "id": "plac-munkalif",
@@ -2431,12 +3343,20 @@
    "Munkalif": 1
   },
   "n": 1,
-  "units": [
-   "u00472"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Munkalif": 1
+    },
+    "n": 1,
+    "units": [
+     "u00472"
+    ]
+   }
+  }
  },
  {
   "id": "plac-münster",
@@ -2445,12 +3365,20 @@
    "Münster": 1
   },
   "n": 1,
-  "units": [
-   "u00828"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Münster": 1
+    },
+    "n": 1,
+    "units": [
+     "u00828"
+    ]
+   }
+  }
  },
  {
   "id": "plac-nordamerika",
@@ -2459,12 +3387,20 @@
    "Nordamerika": 1
   },
   "n": 1,
-  "units": [
-   "u00484"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Nordamerika": 1
+    },
+    "n": 1,
+    "units": [
+     "u00484"
+    ]
+   }
+  }
  },
  {
   "id": "plac-norden",
@@ -2473,12 +3409,6 @@
    "Norden": 5
   },
   "n": 5,
-  "units": [
-   "u00056",
-   "u00484",
-   "u00553",
-   "u00895"
-  ],
   "candidates": [
    {
     "qid": "Q52062",
@@ -2500,7 +3430,21 @@
    }
   ],
   "wikidata": "Q52062",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Norden": 5
+    },
+    "n": 5,
+    "units": [
+     "u00056",
+     "u00484",
+     "u00553",
+     "u00895"
+    ]
+   }
+  }
  },
  {
   "id": "plac-nordens",
@@ -2509,14 +3453,6 @@
    "Nordens": 6
   },
   "n": 6,
-  "units": [
-   "u00517",
-   "u00519",
-   "u00745",
-   "u00844",
-   "u00895",
-   "u00896"
-  ],
   "candidates": [
    {
     "qid": "Q19605673",
@@ -2526,7 +3462,23 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Nordens": 6
+    },
+    "n": 6,
+    "units": [
+     "u00517",
+     "u00519",
+     "u00745",
+     "u00844",
+     "u00895",
+     "u00896"
+    ]
+   }
+  }
  },
  {
   "id": "plac-nordspanien",
@@ -2535,12 +3487,20 @@
    "Nordspanien": 1
   },
   "n": 1,
-  "units": [
-   "u00042"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Nordspanien": 1
+    },
+    "n": 1,
+    "units": [
+     "u00042"
+    ]
+   }
+  }
  },
  {
   "id": "plac-norge",
@@ -2550,17 +3510,6 @@
    "Norge": 8
   },
   "n": 12,
-  "units": [
-   "u00052",
-   "u00067",
-   "u00495",
-   "u00499",
-   "u00514",
-   "u00519",
-   "u00542",
-   "u00745",
-   "u00748"
-  ],
   "candidates": [
    {
     "qid": "Q20",
@@ -2582,7 +3531,27 @@
    }
   ],
   "wikidata": "Q20",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Norges": 4,
+     "Norge": 8
+    },
+    "n": 12,
+    "units": [
+     "u00052",
+     "u00067",
+     "u00495",
+     "u00499",
+     "u00514",
+     "u00519",
+     "u00542",
+     "u00745",
+     "u00748"
+    ]
+   }
+  }
  },
  {
   "id": "plac-norremalms",
@@ -2591,12 +3560,20 @@
    "Norremalms": 1
   },
   "n": 1,
-  "units": [
-   "u00724"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Norremalms": 1
+    },
+    "n": 1,
+    "units": [
+     "u00724"
+    ]
+   }
+  }
  },
  {
   "id": "plac-norrköping",
@@ -2605,10 +3582,6 @@
    "Norrköping": 2
   },
   "n": 2,
-  "units": [
-   "u00453",
-   "u00530"
-  ],
   "candidates": [
    {
     "qid": "Q25724",
@@ -2618,7 +3591,19 @@
    }
   ],
   "wikidata": "Q25724",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Norrköping": 2
+    },
+    "n": 2,
+    "units": [
+     "u00453",
+     "u00530"
+    ]
+   }
+  }
  },
  {
   "id": "plac-norrland",
@@ -2627,11 +3612,6 @@
    "Norrland": 3
   },
   "n": 3,
-  "units": [
-   "u00451",
-   "u00481",
-   "u00645"
-  ],
   "candidates": [
    {
     "qid": "Q203505",
@@ -2647,7 +3627,20 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Norrland": 3
+    },
+    "n": 3,
+    "units": [
+     "u00451",
+     "u00481",
+     "u00645"
+    ]
+   }
+  }
  },
  {
   "id": "plac-norrsunda-socken",
@@ -2656,12 +3649,20 @@
    "Norrsunda socken": 1
   },
   "n": 1,
-  "units": [
-   "u00645"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Norrsunda socken": 1
+    },
+    "n": 1,
+    "units": [
+     "u00645"
+    ]
+   }
+  }
  },
  {
   "id": "plac-nydala",
@@ -2670,9 +3671,6 @@
    "Nydala": 2
   },
   "n": 2,
-  "units": [
-   "u00029"
-  ],
   "candidates": [
    {
     "qid": "Q7071032",
@@ -2694,7 +3692,18 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Nydala": 2
+    },
+    "n": 2,
+    "units": [
+     "u00029"
+    ]
+   }
+  }
  },
  {
   "id": "plac-nyköping",
@@ -2703,9 +3712,6 @@
    "Nyköping": 2
   },
   "n": 2,
-  "units": [
-   "u00134"
-  ],
   "candidates": [
    {
     "qid": "Q54356",
@@ -2715,7 +3721,18 @@
    }
   ],
   "wikidata": "Q54356",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Nyköping": 2
+    },
+    "n": 2,
+    "units": [
+     "u00134"
+    ]
+   }
+  }
  },
  {
   "id": "plac-närke",
@@ -2725,14 +3742,23 @@
    "Närkes": 1
   },
   "n": 3,
-  "units": [
-   "u00316",
-   "u00348",
-   "u00452"
-  ],
   "candidates": [],
   "wikidata": null,
-  "status": "none"
+  "status": "none",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Närke": 2,
+     "Närkes": 1
+    },
+    "n": 3,
+    "units": [
+     "u00316",
+     "u00348",
+     "u00452"
+    ]
+   }
+  }
  },
  {
   "id": "plac-odensala",
@@ -2741,12 +3767,20 @@
    "Odensala": 1
   },
   "n": 1,
-  "units": [
-   "u00895"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Odensala": 1
+    },
+    "n": 1,
+    "units": [
+     "u00895"
+    ]
+   }
+  }
  },
  {
   "id": "plac-orienten",
@@ -2755,12 +3789,20 @@
    "Orienten": 1
   },
   "n": 1,
-  "units": [
-   "u00138"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Orienten": 1
+    },
+    "n": 1,
+    "units": [
+     "u00138"
+    ]
+   }
+  }
  },
  {
   "id": "plac-padova",
@@ -2769,12 +3811,20 @@
    "Padova": 1
   },
   "n": 1,
-  "units": [
-   "u00323"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Padova": 1
+    },
+    "n": 1,
+    "units": [
+     "u00323"
+    ]
+   }
+  }
  },
  {
   "id": "plac-paris",
@@ -2783,13 +3833,6 @@
    "Paris": 5
   },
   "n": 5,
-  "units": [
-   "u00045",
-   "u00087",
-   "u00827",
-   "u00828",
-   "u00829"
-  ],
   "candidates": [
    {
     "qid": "Q90",
@@ -2829,7 +3872,22 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Paris": 5
+    },
+    "n": 5,
+    "units": [
+     "u00045",
+     "u00087",
+     "u00827",
+     "u00828",
+     "u00829"
+    ]
+   }
+  }
  },
  {
   "id": "plac-polen",
@@ -2838,12 +3896,6 @@
    "Polen": 6
   },
   "n": 6,
-  "units": [
-   "u00087",
-   "u00124",
-   "u00491",
-   "u00509"
-  ],
   "candidates": [
    {
     "qid": "Q36",
@@ -2859,7 +3911,21 @@
    }
   ],
   "wikidata": "Q36",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Polen": 6
+    },
+    "n": 6,
+    "units": [
+     "u00087",
+     "u00124",
+     "u00491",
+     "u00509"
+    ]
+   }
+  }
  },
  {
   "id": "plac-pommern",
@@ -2868,12 +3934,20 @@
    "Pommern": 1
   },
   "n": 1,
-  "units": [
-   "u00124"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Pommern": 1
+    },
+    "n": 1,
+    "units": [
+     "u00124"
+    ]
+   }
+  }
  },
  {
   "id": "plac-prag",
@@ -2882,12 +3956,20 @@
    "Prag": 1
   },
   "n": 1,
-  "units": [
-   "u00764"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Prag": 1
+    },
+    "n": 1,
+    "units": [
+     "u00764"
+    ]
+   }
+  }
  },
  {
   "id": "plac-preussen",
@@ -2896,10 +3978,6 @@
    "Preussen": 2
   },
   "n": 2,
-  "units": [
-   "u00553",
-   "u00593"
-  ],
   "candidates": [
    {
     "qid": "Q38872",
@@ -2927,7 +4005,19 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Preussen": 2
+    },
+    "n": 2,
+    "units": [
+     "u00553",
+     "u00593"
+    ]
+   }
+  }
  },
  {
   "id": "plac-rhen",
@@ -2936,12 +4026,20 @@
    "Rhen": 1
   },
   "n": 1,
-  "units": [
-   "u00828"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Rhen": 1
+    },
+    "n": 1,
+    "units": [
+     "u00828"
+    ]
+   }
+  }
  },
  {
   "id": "plac-ringsteds-kloster",
@@ -2950,12 +4048,20 @@
    "Ringsteds kloster": 2
   },
   "n": 2,
-  "units": [
-   "u00767"
-  ],
   "candidates": [],
   "wikidata": null,
-  "status": "none"
+  "status": "none",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Ringsteds kloster": 2
+    },
+    "n": 2,
+    "units": [
+     "u00767"
+    ]
+   }
+  }
  },
  {
   "id": "plac-rom",
@@ -2965,18 +4071,27 @@
    "Roms": 1
   },
   "n": 10,
-  "units": [
-   "u00042",
-   "u00063",
-   "u00076",
-   "u00082",
-   "u00319",
-   "u00647",
-   "u00828"
-  ],
   "candidates": [],
   "wikidata": null,
-  "status": "none"
+  "status": "none",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Rom": 9,
+     "Roms": 1
+    },
+    "n": 10,
+    "units": [
+     "u00042",
+     "u00063",
+     "u00076",
+     "u00082",
+     "u00319",
+     "u00647",
+     "u00828"
+    ]
+   }
+  }
  },
  {
   "id": "plac-roskilde",
@@ -2985,12 +4100,20 @@
    "Roskilde": 1
   },
   "n": 1,
-  "units": [
-   "u00767"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Roskilde": 1
+    },
+    "n": 1,
+    "units": [
+     "u00767"
+    ]
+   }
+  }
  },
  {
   "id": "plac-ryssland",
@@ -2999,14 +4122,22 @@
    "Ryssland": 3
   },
   "n": 3,
-  "units": [
-   "u00043",
-   "u00484",
-   "u00724"
-  ],
   "candidates": [],
   "wikidata": null,
-  "status": "none"
+  "status": "none",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Ryssland": 3
+    },
+    "n": 3,
+    "units": [
+     "u00043",
+     "u00484",
+     "u00724"
+    ]
+   }
+  }
  },
  {
   "id": "plac-scandza",
@@ -3015,12 +4146,20 @@
    "Scandza": 1
   },
   "n": 1,
-  "units": [
-   "u00037"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Scandza": 1
+    },
+    "n": 1,
+    "units": [
+     "u00037"
+    ]
+   }
+  }
  },
  {
   "id": "plac-schweiz",
@@ -3029,12 +4168,20 @@
    "Schweiz": 1
   },
   "n": 1,
-  "units": [
-   "u00828"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Schweiz": 1
+    },
+    "n": 1,
+    "units": [
+     "u00828"
+    ]
+   }
+  }
  },
  {
   "id": "plac-schytien",
@@ -3043,12 +4190,20 @@
    "Schytien": 1
   },
   "n": 1,
-  "units": [
-   "u00076"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Schytien": 1
+    },
+    "n": 1,
+    "units": [
+     "u00076"
+    ]
+   }
+  }
  },
  {
   "id": "plac-sevilla",
@@ -3057,10 +4212,6 @@
    "Sevilla": 2
   },
   "n": 2,
-  "units": [
-   "u00040",
-   "u00045"
-  ],
   "candidates": [
    {
     "qid": "Q8717",
@@ -3100,7 +4251,19 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Sevilla": 2
+    },
+    "n": 2,
+    "units": [
+     "u00040",
+     "u00045"
+    ]
+   }
+  }
  },
  {
   "id": "plac-sicilien",
@@ -3109,12 +4272,20 @@
    "Sicilien": 1
   },
   "n": 1,
-  "units": [
-   "u00053"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Sicilien": 1
+    },
+    "n": 1,
+    "units": [
+     "u00053"
+    ]
+   }
+  }
  },
  {
   "id": "plac-sigtuna",
@@ -3123,16 +4294,6 @@
    "Sigtuna": 11
   },
   "n": 11,
-  "units": [
-   "u00076",
-   "u00144",
-   "u00146",
-   "u00496",
-   "u00503",
-   "u00566",
-   "u00645",
-   "u00895"
-  ],
   "candidates": [
    {
     "qid": "Q3183470",
@@ -3172,7 +4333,25 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Sigtuna": 11
+    },
+    "n": 11,
+    "units": [
+     "u00076",
+     "u00144",
+     "u00146",
+     "u00496",
+     "u00503",
+     "u00566",
+     "u00645",
+     "u00895"
+    ]
+   }
+  }
  },
  {
   "id": "plac-sigtuna-kloster",
@@ -3181,12 +4360,20 @@
    "Sigtuna kloster": 1
   },
   "n": 1,
-  "units": [
-   "u00029"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Sigtuna kloster": 1
+    },
+    "n": 1,
+    "units": [
+     "u00029"
+    ]
+   }
+  }
  },
  {
   "id": "plac-sigtunatrakten",
@@ -3195,12 +4382,20 @@
    "Sigtunatrakten": 1
   },
   "n": 1,
-  "units": [
-   "u00565"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Sigtunatrakten": 1
+    },
+    "n": 1,
+    "units": [
+     "u00565"
+    ]
+   }
+  }
  },
  {
   "id": "plac-själland",
@@ -3209,10 +4404,6 @@
    "Själland": 2
   },
   "n": 2,
-  "units": [
-   "u00338",
-   "u00767"
-  ],
   "candidates": [
    {
     "qid": "Q25535",
@@ -3222,7 +4413,19 @@
    }
   ],
   "wikidata": "Q25535",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Själland": 2
+    },
+    "n": 2,
+    "units": [
+     "u00338",
+     "u00767"
+    ]
+   }
+  }
  },
  {
   "id": "plac-skaane",
@@ -3231,12 +4434,20 @@
    "Skaane": 1
   },
   "n": 1,
-  "units": [
-   "u00549"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Skaane": 1
+    },
+    "n": 1,
+    "units": [
+     "u00549"
+    ]
+   }
+  }
  },
  {
   "id": "plac-skandinavien",
@@ -3246,11 +4457,6 @@
    "Skandinaviens": 1
   },
   "n": 3,
-  "units": [
-   "u00037",
-   "u00484",
-   "u00539"
-  ],
   "candidates": [
    {
     "qid": "Q21195",
@@ -3260,7 +4466,21 @@
    }
   ],
   "wikidata": "Q21195",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Skandinavien": 2,
+     "Skandinaviens": 1
+    },
+    "n": 3,
+    "units": [
+     "u00037",
+     "u00484",
+     "u00539"
+    ]
+   }
+  }
  },
  {
   "id": "plac-skara",
@@ -3270,12 +4490,6 @@
    "Skaras": 1
   },
   "n": 4,
-  "units": [
-   "u00029",
-   "u00077",
-   "u00503",
-   "u00507"
-  ],
   "candidates": [
    {
     "qid": "Q939389",
@@ -3291,7 +4505,22 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Skara": 3,
+     "Skaras": 1
+    },
+    "n": 4,
+    "units": [
+     "u00029",
+     "u00077",
+     "u00503",
+     "u00507"
+    ]
+   }
+  }
  },
  {
   "id": "plac-skara-kyrka",
@@ -3300,12 +4529,20 @@
    "Skara kyrka": 1
   },
   "n": 1,
-  "units": [
-   "u00027"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Skara kyrka": 1
+    },
+    "n": 1,
+    "units": [
+     "u00027"
+    ]
+   }
+  }
  },
  {
   "id": "plac-skenninge",
@@ -3314,13 +4551,21 @@
    "Skenninge": 2
   },
   "n": 2,
-  "units": [
-   "u00029",
-   "u00455"
-  ],
   "candidates": [],
   "wikidata": null,
-  "status": "none"
+  "status": "none",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Skenninge": 2
+    },
+    "n": 2,
+    "units": [
+     "u00029",
+     "u00455"
+    ]
+   }
+  }
  },
  {
   "id": "plac-skogzby",
@@ -3329,12 +4574,20 @@
    "Skogzby": 1
   },
   "n": 1,
-  "units": [
-   "u00708"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Skogzby": 1
+    },
+    "n": 1,
+    "units": [
+     "u00708"
+    ]
+   }
+  }
  },
  {
   "id": "plac-skrämsta",
@@ -3343,12 +4596,20 @@
    "Skrämsta": 1
   },
   "n": 1,
-  "units": [
-   "u00146"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Skrämsta": 1
+    },
+    "n": 1,
+    "units": [
+     "u00146"
+    ]
+   }
+  }
  },
  {
   "id": "plac-skálaholt",
@@ -3357,12 +4618,20 @@
    "Skálaholt": 1
   },
   "n": 1,
-  "units": [
-   "u00750"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Skálaholt": 1
+    },
+    "n": 1,
+    "units": [
+     "u00750"
+    ]
+   }
+  }
  },
  {
   "id": "plac-skåne",
@@ -3372,16 +4641,25 @@
    "Skåne": 4
   },
   "n": 5,
-  "units": [
-   "u00146",
-   "u00512",
-   "u00767",
-   "u00944",
-   "u00946"
-  ],
   "candidates": [],
   "wikidata": null,
-  "status": "none"
+  "status": "none",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Skånes": 1,
+     "Skåne": 4
+    },
+    "n": 5,
+    "units": [
+     "u00146",
+     "u00512",
+     "u00767",
+     "u00944",
+     "u00946"
+    ]
+   }
+  }
  },
  {
   "id": "plac-slottet",
@@ -3390,10 +4668,6 @@
    "Slottet": 2
   },
   "n": 2,
-  "units": [
-   "u00118",
-   "u00840"
-  ],
   "candidates": [
    {
     "qid": "Q18660578",
@@ -3433,7 +4707,19 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Slottet": 2
+    },
+    "n": 2,
+    "units": [
+     "u00118",
+     "u00840"
+    ]
+   }
+  }
  },
  {
   "id": "plac-småland",
@@ -3443,17 +4729,6 @@
    "Smålands": 1
   },
   "n": 9,
-  "units": [
-   "u00316",
-   "u00348",
-   "u00382",
-   "u00452",
-   "u00667",
-   "u00670",
-   "u00704",
-   "u00705",
-   "u00828"
-  ],
   "candidates": [
    {
     "qid": "Q199957",
@@ -3493,7 +4768,27 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Småland": 8,
+     "Smålands": 1
+    },
+    "n": 9,
+    "units": [
+     "u00316",
+     "u00348",
+     "u00382",
+     "u00452",
+     "u00667",
+     "u00670",
+     "u00704",
+     "u00705",
+     "u00828"
+    ]
+   }
+  }
  },
  {
   "id": "plac-sorunda",
@@ -3502,12 +4797,20 @@
    "Sorunda": 1
   },
   "n": 1,
-  "units": [
-   "u00453"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Sorunda": 1
+    },
+    "n": 1,
+    "units": [
+     "u00453"
+    ]
+   }
+  }
  },
  {
   "id": "plac-sorö",
@@ -3516,12 +4819,20 @@
    "Sorö": 1
   },
   "n": 1,
-  "units": [
-   "u00759"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Sorö": 1
+    },
+    "n": 1,
+    "units": [
+     "u00759"
+    ]
+   }
+  }
  },
  {
   "id": "plac-spanien",
@@ -3531,13 +4842,6 @@
    "Spaniens": 1
   },
   "n": 5,
-  "units": [
-   "u00040",
-   "u00042",
-   "u00053",
-   "u00057",
-   "u00058"
-  ],
   "candidates": [
    {
     "qid": "Q29",
@@ -3547,7 +4851,23 @@
    }
   ],
   "wikidata": "Q29",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Spanien": 4,
+     "Spaniens": 1
+    },
+    "n": 5,
+    "units": [
+     "u00040",
+     "u00042",
+     "u00053",
+     "u00057",
+     "u00058"
+    ]
+   }
+  }
  },
  {
   "id": "plac-stavanger",
@@ -3556,12 +4876,20 @@
    "Stavanger": 1
   },
   "n": 1,
-  "units": [
-   "u00549"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Stavanger": 1
+    },
+    "n": 1,
+    "units": [
+     "u00549"
+    ]
+   }
+  }
  },
  {
   "id": "plac-steninge",
@@ -3570,12 +4898,20 @@
    "Steninge": 1
   },
   "n": 1,
-  "units": [
-   "u00465"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Steninge": 1
+    },
+    "n": 1,
+    "units": [
+     "u00465"
+    ]
+   }
+  }
  },
  {
   "id": "plac-stettin",
@@ -3584,12 +4920,20 @@
    "Stettin": 1
   },
   "n": 1,
-  "units": [
-   "u00491"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Stettin": 1
+    },
+    "n": 1,
+    "units": [
+     "u00491"
+    ]
+   }
+  }
  },
  {
   "id": "plac-stockholm",
@@ -3599,57 +4943,66 @@
    "Stockholms": 2
   },
   "n": 58,
-  "units": [
-   "u00008",
-   "u00021",
-   "u00029",
-   "u00091",
-   "u00134",
-   "u00141",
-   "u00324",
-   "u00348",
-   "u00356",
-   "u00414",
-   "u00465",
-   "u00503",
-   "u00530",
-   "u00534",
-   "u00541",
-   "u00574",
-   "u00575",
-   "u00593",
-   "u00612",
-   "u00631",
-   "u00651",
-   "u00653",
-   "u00655",
-   "u00696",
-   "u00727",
-   "u00729",
-   "u00734",
-   "u00759",
-   "u00761",
-   "u00764",
-   "u00767",
-   "u00773",
-   "u00778",
-   "u00782",
-   "u00784",
-   "u00795",
-   "u00806",
-   "u00814",
-   "u00820",
-   "u00942",
-   "u00976",
-   "u00980",
-   "u00984",
-   "u00993",
-   "u00995",
-   "u00996"
-  ],
   "candidates": [],
   "wikidata": null,
-  "status": "none"
+  "status": "none",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Stockholm": 56,
+     "Stockholms": 2
+    },
+    "n": 58,
+    "units": [
+     "u00008",
+     "u00021",
+     "u00029",
+     "u00091",
+     "u00134",
+     "u00141",
+     "u00324",
+     "u00348",
+     "u00356",
+     "u00414",
+     "u00465",
+     "u00503",
+     "u00530",
+     "u00534",
+     "u00541",
+     "u00574",
+     "u00575",
+     "u00593",
+     "u00612",
+     "u00631",
+     "u00651",
+     "u00653",
+     "u00655",
+     "u00696",
+     "u00727",
+     "u00729",
+     "u00734",
+     "u00759",
+     "u00761",
+     "u00764",
+     "u00767",
+     "u00773",
+     "u00778",
+     "u00782",
+     "u00784",
+     "u00795",
+     "u00806",
+     "u00814",
+     "u00820",
+     "u00942",
+     "u00976",
+     "u00980",
+     "u00984",
+     "u00993",
+     "u00995",
+     "u00996"
+    ]
+   }
+  }
  },
  {
   "id": "plac-stockholms-län",
@@ -3658,12 +5011,20 @@
    "Stockholms län": 1
   },
   "n": 1,
-  "units": [
-   "u00634"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Stockholms län": 1
+    },
+    "n": 1,
+    "units": [
+     "u00634"
+    ]
+   }
+  }
  },
  {
   "id": "plac-stockholms-slott",
@@ -3672,10 +5033,6 @@
    "Stockholms slott": 2
   },
   "n": 2,
-  "units": [
-   "u00524",
-   "u00634"
-  ],
   "candidates": [
    {
     "qid": "Q750444",
@@ -3685,7 +5042,19 @@
    }
   ],
   "wikidata": "Q750444",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Stockholms slott": 2
+    },
+    "n": 2,
+    "units": [
+     "u00524",
+     "u00634"
+    ]
+   }
+  }
  },
  {
   "id": "plac-stolbova",
@@ -3694,12 +5063,20 @@
    "Stolbova": 1
   },
   "n": 1,
-  "units": [
-   "u00124"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Stolbova": 1
+    },
+    "n": 1,
+    "units": [
+     "u00124"
+    ]
+   }
+  }
  },
  {
   "id": "plac-strängnäs",
@@ -3708,12 +5085,6 @@
    "Strängnäs": 4
   },
   "n": 4,
-  "units": [
-   "u00029",
-   "u00530",
-   "u00651",
-   "u00695"
-  ],
   "candidates": [
    {
     "qid": "Q106909",
@@ -3729,7 +5100,21 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Strängnäs": 4
+    },
+    "n": 4,
+    "units": [
+     "u00029",
+     "u00530",
+     "u00651",
+     "u00695"
+    ]
+   }
+  }
  },
  {
   "id": "plac-svarsta",
@@ -3738,12 +5123,20 @@
    "Svarsta": 1
   },
   "n": 1,
-  "units": [
-   "u00144"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Svarsta": 1
+    },
+    "n": 1,
+    "units": [
+     "u00144"
+    ]
+   }
+  }
  },
  {
   "id": "plac-svartmunkeklostrets",
@@ -3752,12 +5145,20 @@
    "Svartmunkeklostrets": 1
   },
   "n": 1,
-  "units": [
-   "u00513"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Svartmunkeklostrets": 1
+    },
+    "n": 1,
+    "units": [
+     "u00513"
+    ]
+   }
+  }
  },
  {
   "id": "plac-svartsjö",
@@ -3766,12 +5167,20 @@
    "Svartsjö": 1
   },
   "n": 1,
-  "units": [
-   "u00029"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Svartsjö": 1
+    },
+    "n": 1,
+    "units": [
+     "u00029"
+    ]
+   }
+  }
  },
  {
   "id": "plac-svealand",
@@ -3780,10 +5189,6 @@
    "Svealand": 2
   },
   "n": 2,
-  "units": [
-   "u00047",
-   "u00348"
-  ],
   "candidates": [
    {
     "qid": "Q203835",
@@ -3793,7 +5198,19 @@
    }
   ],
   "wikidata": "Q203835",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Svealand": 2
+    },
+    "n": 2,
+    "units": [
+     "u00047",
+     "u00348"
+    ]
+   }
+  }
  },
  {
   "id": "plac-svearike",
@@ -3802,13 +5219,21 @@
    "Svearike": 2
   },
   "n": 2,
-  "units": [
-   "u00042",
-   "u00519"
-  ],
   "candidates": [],
   "wikidata": null,
-  "status": "none"
+  "status": "none",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Svearike": 2
+    },
+    "n": 2,
+    "units": [
+     "u00042",
+     "u00519"
+    ]
+   }
+  }
  },
  {
   "id": "plac-sverige",
@@ -3818,95 +5243,6 @@
    "Sveriges": 29
   },
   "n": 128,
-  "units": [
-   "u00026",
-   "u00029",
-   "u00042",
-   "u00045",
-   "u00047",
-   "u00052",
-   "u00056",
-   "u00059",
-   "u00060",
-   "u00066",
-   "u00067",
-   "u00072",
-   "u00074",
-   "u00076",
-   "u00079",
-   "u00082",
-   "u00086",
-   "u00091",
-   "u00124",
-   "u00125",
-   "u00147",
-   "u00314",
-   "u00317",
-   "u00399",
-   "u00414",
-   "u00418",
-   "u00448",
-   "u00461",
-   "u00469",
-   "u00471",
-   "u00472",
-   "u00474",
-   "u00484",
-   "u00491",
-   "u00492",
-   "u00496",
-   "u00498",
-   "u00499",
-   "u00503",
-   "u00507",
-   "u00509",
-   "u00512",
-   "u00514",
-   "u00516",
-   "u00518",
-   "u00519",
-   "u00524",
-   "u00553",
-   "u00558",
-   "u00575",
-   "u00580",
-   "u00608",
-   "u00629",
-   "u00651",
-   "u00708",
-   "u00739",
-   "u00743",
-   "u00745",
-   "u00748",
-   "u00754",
-   "u00759",
-   "u00770",
-   "u00771",
-   "u00772",
-   "u00779",
-   "u00794",
-   "u00807",
-   "u00809",
-   "u00811",
-   "u00812",
-   "u00813",
-   "u00814",
-   "u00816",
-   "u00817",
-   "u00818",
-   "u00829",
-   "u00830",
-   "u00832",
-   "u00842",
-   "u00886",
-   "u00894",
-   "u00895",
-   "u00898",
-   "u00917",
-   "u00918",
-   "u00923",
-   "u01014"
-  ],
   "candidates": [
    {
     "qid": "Q34",
@@ -3916,7 +5252,105 @@
    }
   ],
   "wikidata": "Q34",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Sverige": 99,
+     "Sveriges": 29
+    },
+    "n": 128,
+    "units": [
+     "u00026",
+     "u00029",
+     "u00042",
+     "u00045",
+     "u00047",
+     "u00052",
+     "u00056",
+     "u00059",
+     "u00060",
+     "u00066",
+     "u00067",
+     "u00072",
+     "u00074",
+     "u00076",
+     "u00079",
+     "u00082",
+     "u00086",
+     "u00091",
+     "u00124",
+     "u00125",
+     "u00147",
+     "u00314",
+     "u00317",
+     "u00399",
+     "u00414",
+     "u00418",
+     "u00448",
+     "u00461",
+     "u00469",
+     "u00471",
+     "u00472",
+     "u00474",
+     "u00484",
+     "u00491",
+     "u00492",
+     "u00496",
+     "u00498",
+     "u00499",
+     "u00503",
+     "u00507",
+     "u00509",
+     "u00512",
+     "u00514",
+     "u00516",
+     "u00518",
+     "u00519",
+     "u00524",
+     "u00553",
+     "u00558",
+     "u00575",
+     "u00580",
+     "u00608",
+     "u00629",
+     "u00651",
+     "u00708",
+     "u00739",
+     "u00743",
+     "u00745",
+     "u00748",
+     "u00754",
+     "u00759",
+     "u00770",
+     "u00771",
+     "u00772",
+     "u00779",
+     "u00794",
+     "u00807",
+     "u00809",
+     "u00811",
+     "u00812",
+     "u00813",
+     "u00814",
+     "u00816",
+     "u00817",
+     "u00818",
+     "u00829",
+     "u00830",
+     "u00832",
+     "u00842",
+     "u00886",
+     "u00894",
+     "u00895",
+     "u00898",
+     "u00917",
+     "u00918",
+     "u00923",
+     "u01014"
+    ]
+   }
+  }
  },
  {
   "id": "plac-söderköpings",
@@ -3925,12 +5359,20 @@
    "Söderköpings": 1
   },
   "n": 1,
-  "units": [
-   "u00029"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Söderköpings": 1
+    },
+    "n": 1,
+    "units": [
+     "u00029"
+    ]
+   }
+  }
  },
  {
   "id": "plac-södermanland",
@@ -3940,12 +5382,6 @@
    "Södermanlands": 1
   },
   "n": 4,
-  "units": [
-   "u00316",
-   "u00704",
-   "u00705",
-   "u00918"
-  ],
   "candidates": [
    {
     "qid": "Q626062",
@@ -3955,7 +5391,22 @@
    }
   ],
   "wikidata": "Q626062",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Södermanland": 3,
+     "Södermanlands": 1
+    },
+    "n": 4,
+    "units": [
+     "u00316",
+     "u00704",
+     "u00705",
+     "u00918"
+    ]
+   }
+  }
  },
  {
   "id": "plac-thorsborg",
@@ -3964,12 +5415,20 @@
    "Thorsborg": 1
   },
   "n": 1,
-  "units": [
-   "u00043"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Thorsborg": 1
+    },
+    "n": 1,
+    "units": [
+     "u00043"
+    ]
+   }
+  }
  },
  {
   "id": "plac-thorstuna",
@@ -3978,12 +5437,20 @@
    "Thorstuna": 1
   },
   "n": 1,
-  "units": [
-   "u00665"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Thorstuna": 1
+    },
+    "n": 1,
+    "units": [
+     "u00665"
+    ]
+   }
+  }
  },
  {
   "id": "plac-tiberstranden",
@@ -3992,12 +5459,20 @@
    "Tiberstranden": 1
   },
   "n": 1,
-  "units": [
-   "u00076"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Tiberstranden": 1
+    },
+    "n": 1,
+    "units": [
+     "u00076"
+    ]
+   }
+  }
  },
  {
   "id": "plac-torsslunda",
@@ -4006,12 +5481,20 @@
    "Torsslunda": 1
   },
   "n": 1,
-  "units": [
-   "u00708"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Torsslunda": 1
+    },
+    "n": 1,
+    "units": [
+     "u00708"
+    ]
+   }
+  }
  },
  {
   "id": "plac-trolle-ljungby",
@@ -4020,12 +5503,20 @@
    "Trolle-Ljungby": 2
   },
   "n": 2,
-  "units": [
-   "u00767"
-  ],
   "candidates": [],
   "wikidata": null,
-  "status": "none"
+  "status": "none",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Trolle-Ljungby": 2
+    },
+    "n": 2,
+    "units": [
+     "u00767"
+    ]
+   }
+  }
  },
  {
   "id": "plac-tyskland",
@@ -4034,16 +5525,6 @@
    "Tyskland": 9
   },
   "n": 9,
-  "units": [
-   "u00059",
-   "u00060",
-   "u00079",
-   "u00138",
-   "u00448",
-   "u00473",
-   "u00484",
-   "u00530"
-  ],
   "candidates": [
    {
     "qid": "Q183",
@@ -4059,7 +5540,25 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Tyskland": 9
+    },
+    "n": 9,
+    "units": [
+     "u00059",
+     "u00060",
+     "u00079",
+     "u00138",
+     "u00448",
+     "u00473",
+     "u00484",
+     "u00530"
+    ]
+   }
+  }
  },
  {
   "id": "plac-täby",
@@ -4068,12 +5567,20 @@
    "Täby": 1
   },
   "n": 1,
-  "units": [
-   "u00505"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Täby": 1
+    },
+    "n": 1,
+    "units": [
+     "u00505"
+    ]
+   }
+  }
  },
  {
   "id": "plac-ubsala",
@@ -4082,12 +5589,20 @@
    "Ubsala": 1
   },
   "n": 1,
-  "units": [
-   "u00076"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Ubsala": 1
+    },
+    "n": 1,
+    "units": [
+     "u00076"
+    ]
+   }
+  }
  },
  {
   "id": "plac-ulfsbäck",
@@ -4096,12 +5611,20 @@
    "Ulfsbäck": 1
   },
   "n": 1,
-  "units": [
-   "u00343"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Ulfsbäck": 1
+    },
+    "n": 1,
+    "units": [
+     "u00343"
+    ]
+   }
+  }
  },
  {
   "id": "plac-ulleråkers",
@@ -4110,12 +5633,20 @@
    "Ulleråkers": 1
   },
   "n": 1,
-  "units": [
-   "u00900"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Ulleråkers": 1
+    },
+    "n": 1,
+    "units": [
+     "u00900"
+    ]
+   }
+  }
  },
  {
   "id": "plac-ulmerugien",
@@ -4124,12 +5655,20 @@
    "Ulmerugien": 1
   },
   "n": 1,
-  "units": [
-   "u00124"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Ulmerugien": 1
+    },
+    "n": 1,
+    "units": [
+     "u00124"
+    ]
+   }
+  }
  },
  {
   "id": "plac-uppland",
@@ -4139,19 +5678,6 @@
    "Upplands": 1
   },
   "n": 13,
-  "units": [
-   "u00147",
-   "u00316",
-   "u00348",
-   "u00481",
-   "u00519",
-   "u00644",
-   "u00673",
-   "u00704",
-   "u00705",
-   "u00721",
-   "u00918"
-  ],
   "candidates": [
    {
     "qid": "Q203509",
@@ -4161,7 +5687,29 @@
    }
   ],
   "wikidata": "Q203509",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Uppland": 12,
+     "Upplands": 1
+    },
+    "n": 13,
+    "units": [
+     "u00147",
+     "u00316",
+     "u00348",
+     "u00481",
+     "u00519",
+     "u00644",
+     "u00673",
+     "u00704",
+     "u00705",
+     "u00721",
+     "u00918"
+    ]
+   }
+  }
  },
  {
   "id": "plac-uppsala",
@@ -4172,57 +5720,6 @@
    "UPPSALA": 1
   },
   "n": 65,
-  "units": [
-   "u00027",
-   "u00029",
-   "u00052",
-   "u00056",
-   "u00076",
-   "u00133",
-   "u00134",
-   "u00138",
-   "u00351",
-   "u00452",
-   "u00481",
-   "u00484",
-   "u00493",
-   "u00503",
-   "u00509",
-   "u00516",
-   "u00530",
-   "u00651",
-   "u00654",
-   "u00750",
-   "u00760",
-   "u00761",
-   "u00764",
-   "u00767",
-   "u00771",
-   "u00772",
-   "u00773",
-   "u00779",
-   "u00788",
-   "u00789",
-   "u00791",
-   "u00800",
-   "u00819",
-   "u00828",
-   "u00829",
-   "u00830",
-   "u00832",
-   "u00842",
-   "u00886",
-   "u00891",
-   "u00894",
-   "u00905",
-   "u00909",
-   "u00923",
-   "u00927",
-   "u00989",
-   "u00995",
-   "u01014",
-   "u01034"
-  ],
   "candidates": [
    {
     "qid": "Q25286",
@@ -4262,7 +5759,68 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Uppsala": 63,
+     "Uppsalas": 1,
+     "UPPSALA": 1
+    },
+    "n": 65,
+    "units": [
+     "u00027",
+     "u00029",
+     "u00052",
+     "u00056",
+     "u00076",
+     "u00133",
+     "u00134",
+     "u00138",
+     "u00351",
+     "u00452",
+     "u00481",
+     "u00484",
+     "u00493",
+     "u00503",
+     "u00509",
+     "u00516",
+     "u00530",
+     "u00651",
+     "u00654",
+     "u00750",
+     "u00760",
+     "u00761",
+     "u00764",
+     "u00767",
+     "u00771",
+     "u00772",
+     "u00773",
+     "u00779",
+     "u00788",
+     "u00789",
+     "u00791",
+     "u00800",
+     "u00819",
+     "u00828",
+     "u00829",
+     "u00830",
+     "u00832",
+     "u00842",
+     "u00886",
+     "u00891",
+     "u00894",
+     "u00905",
+     "u00909",
+     "u00923",
+     "u00927",
+     "u00989",
+     "u00995",
+     "u01014",
+     "u01034"
+    ]
+   }
+  }
  },
  {
   "id": "plac-uppsala-domkyrkas",
@@ -4271,12 +5829,20 @@
    "Uppsala domkyrkas": 1
   },
   "n": 1,
-  "units": [
-   "u00027"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Uppsala domkyrkas": 1
+    },
+    "n": 1,
+    "units": [
+     "u00027"
+    ]
+   }
+  }
  },
  {
   "id": "plac-uppsverige",
@@ -4285,12 +5851,20 @@
    "Uppsverige": 1
   },
   "n": 1,
-  "units": [
-   "u00898"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Uppsverige": 1
+    },
+    "n": 1,
+    "units": [
+     "u00898"
+    ]
+   }
+  }
  },
  {
   "id": "plac-upsala",
@@ -4299,20 +5873,6 @@
    "Upsala": 14
   },
   "n": 14,
-  "units": [
-   "u00452",
-   "u00525",
-   "u00541",
-   "u00657",
-   "u00723",
-   "u00819",
-   "u00894",
-   "u00919",
-   "u00989",
-   "u00990",
-   "u00996",
-   "u01008"
-  ],
   "candidates": [
    {
     "qid": "Q25286",
@@ -4352,7 +5912,29 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Upsala": 14
+    },
+    "n": 14,
+    "units": [
+     "u00452",
+     "u00525",
+     "u00541",
+     "u00657",
+     "u00723",
+     "u00819",
+     "u00894",
+     "u00919",
+     "u00989",
+     "u00990",
+     "u00996",
+     "u01008"
+    ]
+   }
+  }
  },
  {
   "id": "plac-vadstena",
@@ -4361,14 +5943,6 @@
    "Vadstena": 7
   },
   "n": 7,
-  "units": [
-   "u00029",
-   "u00455",
-   "u00464",
-   "u00472",
-   "u00473",
-   "u00491"
-  ],
   "candidates": [
    {
     "qid": "Q265682",
@@ -4390,7 +5964,23 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Vadstena": 7
+    },
+    "n": 7,
+    "units": [
+     "u00029",
+     "u00455",
+     "u00464",
+     "u00472",
+     "u00473",
+     "u00491"
+    ]
+   }
+  }
  },
  {
   "id": "plac-vadstena-kloster",
@@ -4399,11 +5989,6 @@
    "Vadstena kloster": 5
   },
   "n": 5,
-  "units": [
-   "u00455",
-   "u00464",
-   "u00468"
-  ],
   "candidates": [
    {
     "qid": "Q513949",
@@ -4413,7 +5998,20 @@
    }
   ],
   "wikidata": "Q513949",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Vadstena kloster": 5
+    },
+    "n": 5,
+    "units": [
+     "u00455",
+     "u00464",
+     "u00468"
+    ]
+   }
+  }
  },
  {
   "id": "plac-varpsunds-udde",
@@ -4422,13 +6020,21 @@
    "Varpsunds udde": 3
   },
   "n": 3,
-  "units": [
-   "u00144",
-   "u00146"
-  ],
   "candidates": [],
   "wikidata": null,
-  "status": "none"
+  "status": "none",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Varpsunds udde": 3
+    },
+    "n": 3,
+    "units": [
+     "u00144",
+     "u00146"
+    ]
+   }
+  }
  },
  {
   "id": "plac-vassunda",
@@ -4437,10 +6043,6 @@
    "Vassunda": 3
   },
   "n": 3,
-  "units": [
-   "u00144",
-   "u00146"
-  ],
   "candidates": [
    {
     "qid": "Q1903675",
@@ -4456,7 +6058,19 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Vassunda": 3
+    },
+    "n": 3,
+    "units": [
+     "u00144",
+     "u00146"
+    ]
+   }
+  }
  },
  {
   "id": "plac-vassunda-kyrka",
@@ -4465,12 +6079,20 @@
    "Vassunda kyrka": 1
   },
   "n": 1,
-  "units": [
-   "u00144"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Vassunda kyrka": 1
+    },
+    "n": 1,
+    "units": [
+     "u00144"
+    ]
+   }
+  }
  },
  {
   "id": "plac-venedig",
@@ -4479,10 +6101,6 @@
    "Venedig": 2
   },
   "n": 2,
-  "units": [
-   "u00323",
-   "u00828"
-  ],
   "candidates": [
    {
     "qid": "Q641",
@@ -4516,7 +6134,19 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Venedig": 2
+    },
+    "n": 2,
+    "units": [
+     "u00323",
+     "u00828"
+    ]
+   }
+  }
  },
  {
   "id": "plac-viborg",
@@ -4525,12 +6155,20 @@
    "Viborg": 1
   },
   "n": 1,
-  "units": [
-   "u00549"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Viborg": 1
+    },
+    "n": 1,
+    "units": [
+     "u00549"
+    ]
+   }
+  }
  },
  {
   "id": "plac-vilkinaland",
@@ -4539,12 +6177,20 @@
    "Vilkinaland": 1
   },
   "n": 1,
-  "units": [
-   "u00474"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Vilkinaland": 1
+    },
+    "n": 1,
+    "units": [
+     "u00474"
+    ]
+   }
+  }
  },
  {
   "id": "plac-visingsborg",
@@ -4553,10 +6199,6 @@
    "Visingsborg": 3
   },
   "n": 3,
-  "units": [
-   "u00773",
-   "u00789"
-  ],
   "candidates": [
    {
     "qid": "Q1148295",
@@ -4572,7 +6214,19 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Visingsborg": 3
+    },
+    "n": 3,
+    "units": [
+     "u00773",
+     "u00789"
+    ]
+   }
+  }
  },
  {
   "id": "plac-visingsborgs-skola",
@@ -4581,12 +6235,20 @@
    "Visingsborgs skola": 1
   },
   "n": 1,
-  "units": [
-   "u00772"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Visingsborgs skola": 1
+    },
+    "n": 1,
+    "units": [
+     "u00772"
+    ]
+   }
+  }
  },
  {
   "id": "plac-visingsö",
@@ -4595,11 +6257,6 @@
    "Visingsö": 4
   },
   "n": 4,
-  "units": [
-   "u00771",
-   "u00772",
-   "u00773"
-  ],
   "candidates": [
    {
     "qid": "Q529887",
@@ -4615,7 +6272,20 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Visingsö": 4
+    },
+    "n": 4,
+    "units": [
+     "u00771",
+     "u00772",
+     "u00773"
+    ]
+   }
+  }
  },
  {
   "id": "plac-värmland",
@@ -4624,12 +6294,20 @@
    "Värmland": 1
   },
   "n": 1,
-  "units": [
-   "u00348"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Värmland": 1
+    },
+    "n": 1,
+    "units": [
+     "u00348"
+    ]
+   }
+  }
  },
  {
   "id": "plac-värmlands",
@@ -4638,12 +6316,20 @@
    "Värmlands": 1
   },
   "n": 1,
-  "units": [
-   "u00452"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Värmlands": 1
+    },
+    "n": 1,
+    "units": [
+     "u00452"
+    ]
+   }
+  }
  },
  {
   "id": "plac-västergötland",
@@ -4653,13 +6339,6 @@
    "Västergötlands": 1
   },
   "n": 7,
-  "units": [
-   "u00042",
-   "u00348",
-   "u00670",
-   "u00844",
-   "u00898"
-  ],
   "candidates": [
    {
     "qid": "Q213551",
@@ -4669,7 +6348,23 @@
    }
   ],
   "wikidata": "Q213551",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Västergötland": 6,
+     "Västergötlands": 1
+    },
+    "n": 7,
+    "units": [
+     "u00042",
+     "u00348",
+     "u00670",
+     "u00844",
+     "u00898"
+    ]
+   }
+  }
  },
  {
   "id": "plac-västerås",
@@ -4678,13 +6373,21 @@
    "Västerås": 2
   },
   "n": 2,
-  "units": [
-   "u00029",
-   "u00507"
-  ],
   "candidates": [],
   "wikidata": null,
-  "status": "none"
+  "status": "none",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Västerås": 2
+    },
+    "n": 2,
+    "units": [
+     "u00029",
+     "u00507"
+    ]
+   }
+  }
  },
  {
   "id": "plac-västgöta",
@@ -4693,12 +6396,20 @@
    "Västgöta": 1
   },
   "n": 1,
-  "units": [
-   "u00918"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Västgöta": 1
+    },
+    "n": 1,
+    "units": [
+     "u00918"
+    ]
+   }
+  }
  },
  {
   "id": "plac-västmanland",
@@ -4707,13 +6418,6 @@
    "Västmanland": 5
   },
   "n": 5,
-  "units": [
-   "u00147",
-   "u00316",
-   "u00348",
-   "u00704",
-   "u00705"
-  ],
   "candidates": [
    {
     "qid": "Q321430",
@@ -4723,7 +6427,22 @@
    }
   ],
   "wikidata": "Q321430",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Västmanland": 5
+    },
+    "n": 5,
+    "units": [
+     "u00147",
+     "u00316",
+     "u00348",
+     "u00704",
+     "u00705"
+    ]
+   }
+  }
  },
  {
   "id": "plac-västmanna",
@@ -4732,12 +6451,20 @@
    "Västmanna": 1
   },
   "n": 1,
-  "units": [
-   "u00452"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Västmanna": 1
+    },
+    "n": 1,
+    "units": [
+     "u00452"
+    ]
+   }
+  }
  },
  {
   "id": "plac-växjö",
@@ -4746,10 +6473,6 @@
    "Växjö": 2
   },
   "n": 2,
-  "units": [
-   "u00052",
-   "u00507"
-  ],
   "candidates": [
    {
     "qid": "Q26152",
@@ -4759,7 +6482,19 @@
    }
   ],
   "wikidata": "Q26152",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Växjö": 2
+    },
+    "n": 2,
+    "units": [
+     "u00052",
+     "u00507"
+    ]
+   }
+  }
  },
  {
   "id": "plac-växjö-kloster",
@@ -4768,12 +6503,20 @@
    "Växjö kloster": 1
   },
   "n": 1,
-  "units": [
-   "u00029"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Växjö kloster": 1
+    },
+    "n": 1,
+    "units": [
+     "u00029"
+    ]
+   }
+  }
  },
  {
   "id": "plac-vårdssätra",
@@ -4782,12 +6525,20 @@
    "Vårdssätra": 1
   },
   "n": 1,
-  "units": [
-   "u00493"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Vårdssätra": 1
+    },
+    "n": 1,
+    "units": [
+     "u00493"
+    ]
+   }
+  }
  },
  {
   "id": "plac-vårdsätra",
@@ -4796,11 +6547,6 @@
    "Vårdsätra": 3
   },
   "n": 3,
-  "units": [
-   "u00631",
-   "u00685",
-   "u00738"
-  ],
   "candidates": [
    {
     "qid": "Q2359724",
@@ -4810,7 +6556,20 @@
    }
   ],
   "wikidata": "Q2359724",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Vårdsätra": 3
+    },
+    "n": 3,
+    "units": [
+     "u00631",
+     "u00685",
+     "u00738"
+    ]
+   }
+  }
  },
  {
   "id": "plac-wadstena",
@@ -4819,12 +6578,20 @@
    "Wadstena": 1
   },
   "n": 1,
-  "units": [
-   "u00968"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Wadstena": 1
+    },
+    "n": 1,
+    "units": [
+     "u00968"
+    ]
+   }
+  }
  },
  {
   "id": "plac-werden",
@@ -4833,12 +6600,20 @@
    "Werden": 1
   },
   "n": 1,
-  "units": [
-   "u00764"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Werden": 1
+    },
+    "n": 1,
+    "units": [
+     "u00764"
+    ]
+   }
+  }
  },
  {
   "id": "plac-wien",
@@ -4847,9 +6622,6 @@
    "Wien": 2
   },
   "n": 2,
-  "units": [
-   "u00056"
-  ],
   "candidates": [
    {
     "qid": "Q1741",
@@ -4871,7 +6643,18 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Wien": 2
+    },
+    "n": 2,
+    "units": [
+     "u00056"
+    ]
+   }
+  }
  },
  {
   "id": "plac-wisingsborg",
@@ -4880,12 +6663,20 @@
    "Wisingsborg": 1
   },
   "n": 1,
-  "units": [
-   "u00778"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Wisingsborg": 1
+    },
+    "n": 1,
+    "units": [
+     "u00778"
+    ]
+   }
+  }
  },
  {
   "id": "plac-wizingsborg",
@@ -4894,12 +6685,20 @@
    "Wizingsborg": 1
   },
   "n": 1,
-  "units": [
-   "u00795"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Wizingsborg": 1
+    },
+    "n": 1,
+    "units": [
+     "u00795"
+    ]
+   }
+  }
  },
  {
   "id": "plac-wästergötland",
@@ -4908,12 +6707,20 @@
    "Wästergötland": 1
   },
   "n": 1,
-  "units": [
-   "u00667"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Wästergötland": 1
+    },
+    "n": 1,
+    "units": [
+     "u00667"
+    ]
+   }
+  }
  },
  {
   "id": "plac-wårdsätra",
@@ -4922,13 +6729,21 @@
    "Wårdsätra": 2
   },
   "n": 2,
-  "units": [
-   "u00560",
-   "u00583"
-  ],
   "candidates": [],
   "wikidata": null,
-  "status": "none"
+  "status": "none",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Wårdsätra": 2
+    },
+    "n": 2,
+    "units": [
+     "u00560",
+     "u00583"
+    ]
+   }
+  }
  },
  {
   "id": "plac-ängsö",
@@ -4937,12 +6752,20 @@
    "Ängsö": 1
   },
   "n": 1,
-  "units": [
-   "u00464"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Ängsö": 1
+    },
+    "n": 1,
+    "units": [
+     "u00464"
+    ]
+   }
+  }
  },
  {
   "id": "plac-åbo",
@@ -4951,10 +6774,6 @@
    "Åbo": 2
   },
   "n": 2,
-  "units": [
-   "u00507",
-   "u00683"
-  ],
   "candidates": [
    {
     "qid": "Q38511",
@@ -4976,7 +6795,19 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Åbo": 2
+    },
+    "n": 2,
+    "units": [
+     "u00507",
+     "u00683"
+    ]
+   }
+  }
  },
  {
   "id": "plac-åland",
@@ -4985,10 +6816,6 @@
    "Åland": 2
   },
   "n": 2,
-  "units": [
-   "u00031",
-   "u00089"
-  ],
   "candidates": [
    {
     "qid": "Q5689",
@@ -5010,7 +6837,19 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Åland": 2
+    },
+    "n": 2,
+    "units": [
+     "u00031",
+     "u00089"
+    ]
+   }
+  }
  },
  {
   "id": "plac-ångermanland",
@@ -5019,12 +6858,20 @@
    "Ångermanland": 1
   },
   "n": 1,
-  "units": [
-   "u00451"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Ångermanland": 1
+    },
+    "n": 1,
+    "units": [
+     "u00451"
+    ]
+   }
+  }
  },
  {
   "id": "plac-öland",
@@ -5034,20 +6881,6 @@
    "Ölands": 2
   },
   "n": 15,
-  "units": [
-   "u00384",
-   "u00452",
-   "u00667",
-   "u00670",
-   "u00685",
-   "u00704",
-   "u00705",
-   "u00715",
-   "u00719",
-   "u00720",
-   "u00721",
-   "u00942"
-  ],
   "candidates": [
    {
     "qid": "Q239276",
@@ -5063,7 +6896,30 @@
    }
   ],
   "wikidata": null,
-  "status": "review"
+  "status": "review",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Öland": 13,
+     "Ölands": 2
+    },
+    "n": 15,
+    "units": [
+     "u00384",
+     "u00452",
+     "u00667",
+     "u00670",
+     "u00685",
+     "u00704",
+     "u00705",
+     "u00715",
+     "u00719",
+     "u00720",
+     "u00721",
+     "u00942"
+    ]
+   }
+  }
  },
  {
   "id": "plac-örebro",
@@ -5072,12 +6928,20 @@
    "Örebro": 1
   },
   "n": 1,
-  "units": [
-   "u00477"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Örebro": 1
+    },
+    "n": 1,
+    "units": [
+     "u00477"
+    ]
+   }
+  }
  },
  {
   "id": "plac-öreby",
@@ -5086,12 +6950,20 @@
    "Öreby": 1
   },
   "n": 1,
-  "units": [
-   "u00087"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Öreby": 1
+    },
+    "n": 1,
+    "units": [
+     "u00087"
+    ]
+   }
+  }
  },
  {
   "id": "plac-östergötland",
@@ -5100,11 +6972,6 @@
    "Östergötland": 3
   },
   "n": 3,
-  "units": [
-   "u00316",
-   "u00348",
-   "u00909"
-  ],
   "candidates": [
    {
     "qid": "Q214829",
@@ -5114,7 +6981,20 @@
    }
   ],
   "wikidata": "Q214829",
-  "status": "auto"
+  "status": "auto",
+  "vols": {
+   "1932": {
+    "forms": {
+     "Östergötland": 3
+    },
+    "n": 3,
+    "units": [
+     "u00316",
+     "u00348",
+     "u00909"
+    ]
+   }
+  }
  },
  {
   "id": "plac-östgöta",
@@ -5123,11 +7003,19 @@
    "Östgöta": 1
   },
   "n": 1,
-  "units": [
-   "u00918"
-  ],
   "status": "skipped",
   "candidates": [],
-  "wikidata": null
+  "wikidata": null,
+  "vols": {
+   "1932": {
+    "forms": {
+     "Östgöta": 1
+    },
+    "n": 1,
+    "units": [
+     "u00918"
+    ]
+   }
+  }
  }
 ]

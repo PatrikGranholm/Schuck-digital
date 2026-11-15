@@ -382,15 +382,47 @@ def build_places(ner):
     return entries, moved
 
 
-def merge_existing(path, new):
-    """Keep entries a person has already reviewed (status checked / rejected)."""
-    if not path.exists():
-        return new
-    old = {e["id"]: e for e in json.loads(path.read_text())}
-    for eid, e in old.items():
-        if e.get("status") in ("checked", "rejected"):
-            new[eid] = e | {k: new[eid][k] for k in ("forms", "n_full", "n_bare", "n", "units") if eid in new and k in new[eid]}
-    return new
+PER_VOL = ("forms", "n_full", "n_bare", "n_ambiguous", "bare_probable", "n", "units")
+LEGACY_VOL = "1932"     # entries written before the register had per-volume slices came from vol. I
+
+
+def merge_existing(path, new, vol):
+    """Merge this volume's entries into the shared register.
+
+    Each entry keeps per-volume slices in e["vols"][vol] (forms, counts, units: unit ids are
+    per volume). This run replaces only its own volume's slice; other volumes' entries stay.
+    Top-level forms and counts are the sums over volumes. The Wikidata decision of an existing
+    entry is kept, except that one never looked up ("skipped") takes this run's lookup, and a
+    reviewed one (checked / rejected) is never touched."""
+    old = {e["id"]: e for e in json.loads(path.read_text())} if path.exists() else {}
+    for e in old.values():
+        if "vols" not in e:
+            e["vols"] = {LEGACY_VOL: {k: e[k] for k in PER_VOL if k in e}}
+    out = {}
+    for eid in sorted(set(old) | set(new)):
+        o, n = old.get(eid), new.get(eid)
+        if o is None:
+            e = dict(n)
+        else:
+            e = dict(o)
+            e["vols"] = dict(o["vols"])
+            e["vols"].pop(vol, None)
+            if n is not None and o.get("status") == "skipped":
+                e.update({k: n[k] for k in ("candidates", "wikidata", "status", "manuscripta", "context_year")
+                          if k in n})
+        if n is not None:
+            e["vols"][vol] = {k: n[k] for k in PER_VOL if k in n}
+        if not e.get("vols") and e.get("status") not in ("checked", "rejected"):
+            continue
+        sl = e["vols"].values()
+        e["forms"] = dict(sum((Counter(v.get("forms", {})) for v in sl), Counter()))
+        for k in ("n_full", "n_bare", "n_ambiguous", "n"):
+            if any(k in v for v in sl):
+                e[k] = sum(v.get(k, 0) for v in sl)
+        e.pop("units", None)
+        e.pop("bare_probable", None)
+        out[eid] = e
+    return out
 
 
 def main():
@@ -428,14 +460,18 @@ def main():
         e["wikidata"], e["status"] = decide(e["candidates"], threshold=6, margin=2)
     d = ROOT / "data" / "register"
     d.mkdir(parents=True, exist_ok=True)
-    persons = merge_existing(d / "persons.json", persons)
-    places = merge_existing(d / "places.json", places)
+    persons = merge_existing(d / "persons.json", persons, a.vol)
+    places = merge_existing(d / "places.json", places, a.vol)
     (d / "persons.json").write_text(json.dumps(sorted(persons.values(), key=lambda e: e["id"]), ensure_ascii=False, indent=1))
     (d / "places.json").write_text(json.dumps(sorted(places.values(), key=lambda e: e["id"]), ensure_ascii=False, indent=1))
     (d / f"ambiguous-{a.vol}.json").write_text(json.dumps(ambiguous, ensure_ascii=False, indent=1))
-    (ROOT / "report" / f"register-{a.vol}.md").write_text(report(a.vol, persons, places, ambiguous, rejected, moved))
-    st = Counter(e["status"] for e in persons.values())
-    sp = Counter(e["status"] for e in places.values())
+    view = lambda reg: {k: e | e["vols"][a.vol] for k, e in reg.items() if a.vol in e.get("vols", {})}
+    vp, vl = view(persons), view(places)       # this volume's entries with its own counts
+    (ROOT / "report" / f"register-{a.vol}.md").write_text(report(a.vol, vp, vl, ambiguous, rejected, moved))
+    st = Counter(e["status"] for e in vp.values())
+    sp = Counter(e["status"] for e in vl.values())
+    print(f"register (all volumes): {len(persons)} persons, {len(places)} places")
+    persons, places = vp, vl
     print(f"persons: {len(persons)} entries {dict(st)}; ambiguous surnames: {len(ambiguous)} "
           f"({sum(x['mentions'] for x in ambiguous.values())} mentions); places: {len(places)} {dict(sp)}")
 

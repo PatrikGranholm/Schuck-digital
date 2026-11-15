@@ -54,17 +54,19 @@ def main():
     units = {u["id"]: u for u in ner["units"]}
     order = {u["id"]: k for k, u in enumerate(ner["units"])}
 
+    # each volume links by its own forms: a bare surname unique in one volume may be ambiguous in another
+    own = lambda e: e["vols"].get(a.vol) if "vols" in e else e
     per_form = {}
     for e in persons.values():
-        if e.get("status") == "rejected":
+        if e.get("status") == "rejected" or not own(e):
             continue
-        for f in e["forms"]:
+        for f in own(e)["forms"]:
             per_form.setdefault(f, e["id"])
     plc_form = {}
     for e in places.values():
-        if e.get("status") == "rejected":
+        if e.get("status") == "rejected" or not own(e):
             continue
-        for f in e["forms"]:
+        for f in own(e)["forms"]:
             plc_form.setdefault(f, e["id"])
 
     ms = [m for m in ner["mentions"] if m["label"] in ("PER", "LOC")]
@@ -91,7 +93,7 @@ def main():
             continue
         eid = per_form.get(m["text"])
         if eid:
-            e = persons[eid]
+            e = own(persons[eid])
             bare = " " not in nf or nf.split()[0] in reg.PARTICLES
             link.update(ref=eid, cert="medium" if bare and e.get("bare_probable") else "high", how="form")
         elif nf in ambiguous:
