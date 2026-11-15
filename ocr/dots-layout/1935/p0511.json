@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 511,
+ "seconds": 32.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [795, 227, 1166, 262], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [454, 296, 1503, 1255], \"category\": \"Text\", \"text\": \"Då brevet upplästs i kanslikollegiet, resolverades, »at som Collegium icke är i stånd sig häröfwer yttra, innan sielfwa fyndet upwises», så anmodades landshövdingen att insända detsamma. Med en fänrik Skytte lovade Barnekow att sända fyndet till Stockholm och bad i sitt brev (den 9 febr. 1746, i sign. E IX. 7) om skyndsam behandling, »hälst derigenom skier upmuntran för dem, som kunna hädanefter finna på slike Fynder». Men så fort gick det icke, och Skytte tyckes ha tagit god tid på sig, innan han lämnade fyndet från sig, ty först den 27 augusti uppvistes detta i kanslikollegiet, då assessor Hagelberg, som inkallades, fick mottaga det. Helins yttrande avgavs den 22 oktober: »Dett fyndet, som Herr Lands Höfdingen Barnekow nyligen låtit till Höglåfl. Kongl. Cancellie Collegium insända, bestående af ett långt wridit guldstycke och åtskilliga afbrotter af en kopparwärja, har iag låtit af guldarbetaren Östman probera. Guldstycket är befunnit wara Ducatguld, fast något hårdt, som ej skall förringa wärdet, och wäga 9 5/8 ducat samt kopparbitarne tillsammans 1 m. och 14 1/2 lod. Hwad den wridne guldstången angår, så lärer det wara swårt at kunna säya, hwartill den samma har warit tienlig i det lynde(?), som den nu befinnes, emedan den synes wara något bögd här och där, så framt man ej skulle tycka, at den warit at fästa håret wid. Där höglåfl. K. Cancellie Collegium skulle finna nödigt at låta inlösa detta guldfyndet till de andra, som redan finnes uti K. R. antiquitets archivo, så lärer dess wärde stiga för\"}, {\"bbox\": [454, 1269, 1502, 1539], \"category\": \"Text\", \"text\": \"bem:te Fynd [har] denna fattiga huusman upwist för sin broder härstädes Fäl[t]skiär Arwid Strömbergh, som strax af guldsmeden Liungholm alt låtit besicktiga, hwilket sålunda är befunnit, att Sabelfästet till större delen förrutnat och dess beslag icke af något wärde, men then förmente metals stången af gådt guld, något öfwer nijo Ducaters wickt. Desse 2:ne bröder hafwer intet detta welat dölja, hwarföre den ena, Fällskiären Strömbergh, emot qvittence mig gullstången lefwererat, med begiäran hielpa dess fattiga broder denna dess Fynd lagl. uplysa, Som i Stöd af M. G. B: 48 Cap:s 2 § sidsta mening föranlåtit mig sådant Eders Höga nåde alldra ödmiukast wid handen gifwa, i händelse Kongl. Maij:tt Cronan och Eders Höga Nåde desse Möbler skulle åstunda eller antiqviteten der af hafwa någon underrättelse.\"}, {\"bbox\": [454, 1538, 1502, 1687], \"category\": \"Text\", \"text\": \"Eders Höga Nåde, Nådigst täckes Sig yttra samt lika nådigt hielpa thenna fattiga mannen för upgifwandet måtte till sin understöd niuta någon wedergälning, om detta gullstycke skulle honom affordras; såsom och från andras tiltahl blifwa befriad, emedan han i följe af åberopade lagsrum sit angifne gullstycke icke som någon båtnfynd anses. I afwacktan af Eders Höga Nådes nådiga befalning huru härmed skall förehållas etc.\"}, {\"bbox\": [454, 1691, 702, 1754], \"category\": \"Text\", \"text\": \"Cimbrishamn\\nd. 6 Decembris 1745.»\"}, {\"bbox\": [1258, 1693, 1464, 1721], \"category\": \"Text\", \"text\": \"C. G. Rhebouschi\"}, {\"bbox\": [454, 1789, 529, 1827], \"category\": \"Page-footer\", \"text\": \"492\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    795,
+    227,
+    1166,
+    262
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    454,
+    296,
+    1503,
+    1255
+   ],
+   "category": "Text",
+   "text": "Då brevet upplästs i kanslikollegiet, resolverades, »at som Collegium icke är i stånd sig häröfwer yttra, innan sielfwa fyndet upwises», så anmodades landshövdingen att insända detsamma. Med en fänrik Skytte lovade Barnekow att sända fyndet till Stockholm och bad i sitt brev (den 9 febr. 1746, i sign. E IX. 7) om skyndsam behandling, »hälst derigenom skier upmuntran för dem, som kunna hädanefter finna på slike Fynder». Men så fort gick det icke, och Skytte tyckes ha tagit god tid på sig, innan han lämnade fyndet från sig, ty först den 27 augusti uppvistes detta i kanslikollegiet, då assessor Hagelberg, som inkallades, fick mottaga det. Helins yttrande avgavs den 22 oktober: »Dett fyndet, som Herr Lands Höfdingen Barnekow nyligen låtit till Höglåfl. Kongl. Cancellie Collegium insända, bestående af ett långt wridit guldstycke och åtskilliga afbrotter af en kopparwärja, har iag låtit af guldarbetaren Östman probera. Guldstycket är befunnit wara Ducatguld, fast något hårdt, som ej skall förringa wärdet, och wäga 9 5/8 ducat samt kopparbitarne tillsammans 1 m. och 14 1/2 lod. Hwad den wridne guldstången angår, så lärer det wara swårt at kunna säya, hwartill den samma har warit tienlig i det lynde(?), som den nu befinnes, emedan den synes wara något bögd här och där, så framt man ej skulle tycka, at den warit at fästa håret wid. Där höglåfl. K. Cancellie Collegium skulle finna nödigt at låta inlösa detta guldfyndet till de andra, som redan finnes uti K. R. antiquitets archivo, så lärer dess wärde stiga för"
+  },
+  {
+   "bbox": [
+    454,
+    1269,
+    1502,
+    1539
+   ],
+   "category": "Text",
+   "text": "bem:te Fynd [har] denna fattiga huusman upwist för sin broder härstädes Fäl[t]skiär Arwid Strömbergh, som strax af guldsmeden Liungholm alt låtit besicktiga, hwilket sålunda är befunnit, att Sabelfästet till större delen förrutnat och dess beslag icke af något wärde, men then förmente metals stången af gådt guld, något öfwer nijo Ducaters wickt. Desse 2:ne bröder hafwer intet detta welat dölja, hwarföre den ena, Fällskiären Strömbergh, emot qvittence mig gullstången lefwererat, med begiäran hielpa dess fattiga broder denna dess Fynd lagl. uplysa, Som i Stöd af M. G. B: 48 Cap:s 2 § sidsta mening föranlåtit mig sådant Eders Höga nåde alldra ödmiukast wid handen gifwa, i händelse Kongl. Maij:tt Cronan och Eders Höga Nåde desse Möbler skulle åstunda eller antiqviteten der af hafwa någon underrättelse."
+  },
+  {
+   "bbox": [
+    454,
+    1538,
+    1502,
+    1687
+   ],
+   "category": "Text",
+   "text": "Eders Höga Nåde, Nådigst täckes Sig yttra samt lika nådigt hielpa thenna fattiga mannen för upgifwandet måtte till sin understöd niuta någon wedergälning, om detta gullstycke skulle honom affordras; såsom och från andras tiltahl blifwa befriad, emedan han i följe af åberopade lagsrum sit angifne gullstycke icke som någon båtnfynd anses. I afwacktan af Eders Höga Nådes nådiga befalning huru härmed skall förehållas etc."
+  },
+  {
+   "bbox": [
+    454,
+    1691,
+    702,
+    1754
+   ],
+   "category": "Text",
+   "text": "Cimbrishamn\nd. 6 Decembris 1745.»"
+  },
+  {
+   "bbox": [
+    1258,
+    1693,
+    1464,
+    1721
+   ],
+   "category": "Text",
+   "text": "C. G. Rhebouschi"
+  },
+  {
+   "bbox": [
+    454,
+    1789,
+    529,
+    1827
+   ],
+   "category": "Page-footer",
+   "text": "492"
+  }
+ ]
+}

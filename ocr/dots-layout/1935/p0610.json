@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 610,
+ "seconds": 27.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [577, 224, 763, 259], \"category\": \"Page-header\", \"text\": \"Helins tid\"}, {\"bbox\": [143, 294, 1193, 878], \"category\": \"Text\", \"text\": \"han hemställer, at som Brukshern Carl de Geer bewilliat tryck-omkostnad till en beskrifning öfwer Wendels och Tierps häraders i Upland antiquiteter och minnesmärken, jemwäl detta arbetet således utan Kongl. antiquitets archivi omkostnad kan utfärdas samt de af framl:ne Cancellie Rådet och antiquarien Peringschöld påbegynte monumenta Uplandica således småningom komma i dagsliuset, om icke fördensskull Kongl. Collegium skulle täckas samtycka, at slika uti antiquitetet befintel. monumenter kunde till honom och Cancellisten Hagelberg utlefwereras, på det hwar och en sin härads beskrifning [må kunna] förfärdiga och i ett arbete trycka låta. Resolutio. Kongl. Collegium samtycker till assessorens begäran, hafwandes Secret. Helin derom at föranstalta, doch så at acterne på intet sätt blifwa distraherade.» Av någon nu ej känd an-ledning blev ej heller detta arbete utgivet.\"}, {\"bbox\": [143, 877, 1193, 1624], \"category\": \"Text\", \"text\": \"Biörner var i varje fall den av arkivets tjänstemän, som mest sys-selsatte sig med antikvariska ortbeskrivningar, ehuru värdet av dessa i hög grad förminskades genom hans rudbeckianism. Redan 1717 hade han i Uppsala disputerat på en avhandling om Norrland i fornhistorien, De Svedia Boreali, som han sedermera utvidgade till den 1741 utgivna Specimen Historico Geographicum De-scriptionem Gotvnheimiæ seu Gigantearum Terrarum quæ in Suethia Boreali olim sitæ sunt succinte exhibens, vilken avhandling enligt titelbladets uppgift till större delen var tryckt redan 1721. Han rör sig här med en mycket stor citatapparat i den rudbeckska stilen, antika författares arbeten och fornaldarsagor om vartannat, men då uppgiften mindre är att beskriva Norrlands fornminnen än att bevisa att landet, Jättehem, äldst varit bebott av jättar, är värdet mera omtvistligt. Att emellertid denna jätteteori, — som alls icke var ny — slog mycket an, särskilt i Norrland, få vi i det följande till-fälle att se. Större värde har hans Dissertatio Epistolaris de Stock-holmiæ antiquæ situ, nomine et legibus (1731), där han mera rör sig inom den historiska tiden.\"}, {\"bbox\": [147, 1624, 1192, 1751], \"category\": \"Text\", \"text\": \"Hans kollega Richardson blev först 1752 — således efter Helins tid — färdig med första delen av Hallandia. Den andra delen följde året därpå, men den tredje blev aldrig utgiven, ehuru Richardson\"}, {\"bbox\": [1115, 1789, 1184, 1827], \"category\": \"Page-footer\", \"text\": \"591\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    577,
+    224,
+    763,
+    259
+   ],
+   "category": "Page-header",
+   "text": "Helins tid"
+  },
+  {
+   "bbox": [
+    143,
+    294,
+    1193,
+    878
+   ],
+   "category": "Text",
+   "text": "han hemställer, at som Brukshern Carl de Geer bewilliat tryck-omkostnad till en beskrifning öfwer Wendels och Tierps häraders i Upland antiquiteter och minnesmärken, jemwäl detta arbetet således utan Kongl. antiquitets archivi omkostnad kan utfärdas samt de af framl:ne Cancellie Rådet och antiquarien Peringschöld påbegynte monumenta Uplandica således småningom komma i dagsliuset, om icke fördensskull Kongl. Collegium skulle täckas samtycka, at slika uti antiquitetet befintel. monumenter kunde till honom och Cancellisten Hagelberg utlefwereras, på det hwar och en sin härads beskrifning [må kunna] förfärdiga och i ett arbete trycka låta. Resolutio. Kongl. Collegium samtycker till assessorens begäran, hafwandes Secret. Helin derom at föranstalta, doch så at acterne på intet sätt blifwa distraherade.» Av någon nu ej känd an-ledning blev ej heller detta arbete utgivet."
+  },
+  {
+   "bbox": [
+    143,
+    877,
+    1193,
+    1624
+   ],
+   "category": "Text",
+   "text": "Biörner var i varje fall den av arkivets tjänstemän, som mest sys-selsatte sig med antikvariska ortbeskrivningar, ehuru värdet av dessa i hög grad förminskades genom hans rudbeckianism. Redan 1717 hade han i Uppsala disputerat på en avhandling om Norrland i fornhistorien, De Svedia Boreali, som han sedermera utvidgade till den 1741 utgivna Specimen Historico Geographicum De-scriptionem Gotvnheimiæ seu Gigantearum Terrarum quæ in Suethia Boreali olim sitæ sunt succinte exhibens, vilken avhandling enligt titelbladets uppgift till större delen var tryckt redan 1721. Han rör sig här med en mycket stor citatapparat i den rudbeckska stilen, antika författares arbeten och fornaldarsagor om vartannat, men då uppgiften mindre är att beskriva Norrlands fornminnen än att bevisa att landet, Jättehem, äldst varit bebott av jättar, är värdet mera omtvistligt. Att emellertid denna jätteteori, — som alls icke var ny — slog mycket an, särskilt i Norrland, få vi i det följande till-fälle att se. Större värde har hans Dissertatio Epistolaris de Stock-holmiæ antiquæ situ, nomine et legibus (1731), där han mera rör sig inom den historiska tiden."
+  },
+  {
+   "bbox": [
+    147,
+    1624,
+    1192,
+    1751
+   ],
+   "category": "Text",
+   "text": "Hans kollega Richardson blev först 1752 — således efter Helins tid — färdig med första delen av Hallandia. Den andra delen följde året därpå, men den tredje blev aldrig utgiven, ehuru Richardson"
+  },
+  {
+   "bbox": [
+    1115,
+    1789,
+    1184,
+    1827
+   ],
+   "category": "Page-footer",
+   "text": "591"
+  }
+ ]
+}

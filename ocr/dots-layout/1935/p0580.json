@@ -1,0 +1,172 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 580,
+ "seconds": 38.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [561, 228, 749, 263], \"category\": \"Section-header\", \"text\": \"Helins tid\"}, {\"bbox\": [135, 299, 1175, 591], \"category\": \"Text\", \"text\": \"Kongl. May:tts nådige wilja, at Collegium om werckställigheten häraf föranstaltar. Till underdånigst följe hwaraf fants godt, at följande, som wid handen gafs skola äga wackra både större och mindre samlingar af swenska mynt och skådepgr. skulle anmodas genom Collegii bref berörde sammanträde i Kungl. Collegio nestkommande måndags eftermiddag kl. 3 biwista, neml. Hans Excellence RiksRådet Ehrenpreus\"}, {\"bbox\": [344, 591, 806, 632], \"category\": \"Text\", \"text\": \"Hans Excellence gref Tessin\"}, {\"bbox\": [344, 632, 855, 667], \"category\": \"Text\", \"text\": \"Hr. Præsidenten Baron Rålamb\"}, {\"bbox\": [344, 673, 827, 715], \"category\": \"Text\", \"text\": \"Hr. HofCantzleren gref Piper\"}, {\"bbox\": [344, 715, 874, 757], \"category\": \"Text\", \"text\": \"Hr. Lagmannen gref Gyllenborg\"}, {\"bbox\": [344, 757, 636, 791], \"category\": \"Text\", \"text\": \"Secreteraren Helin\"}, {\"bbox\": [344, 798, 779, 833], \"category\": \"Text\", \"text\": \"Secreteraren von Stiernman\"}, {\"bbox\": [344, 840, 599, 874], \"category\": \"Text\", \"text\": \"Assessor Biörner\"}, {\"bbox\": [344, 881, 670, 916], \"category\": \"Text\", \"text\": \"Hofrådet Warmholtz\"}, {\"bbox\": [344, 923, 631, 957], \"category\": \"Text\", \"text\": \"Kämneren Stroem\"}, {\"bbox\": [344, 964, 519, 999], \"category\": \"Text\", \"text\": \"Fru Grill.»\"}, {\"bbox\": [132, 1028, 1173, 1653], \"category\": \"Text\", \"text\": \"Till dessa på så sätt utsedde ledamöter utfärdades vederbörliga kallelsebrev, som avskrivits av Gahm (sign. U 122), och på utsatt tid sammanträdde denna akademi in nuce. Den hade, mera bestämt än de senare akademierna, fått sig en klar arbetsuppgift förelagd: att arbeta på en svensk Historia numismatica, och att verkligen något blivit åtgjort för att lösa denna uppgift, framgår av den relation, som Helin den 1 oktober 1746 ingav till kanslikollegiet¹ (R. A. Kanslikoll. Inkomna skrivelser sign. E. IV. 9): »Wid det tillfället at Hans Kgl. May:t gifwit högl. Kongl. R. Cancellie Collegio till känna om det Bromelska Cabinettets lefwererande till Kgl. antiquitets archivum, har högmel:te Collegium gifwit Hans Kgl. may:t wid handen, at som samma samling ej wore tillräckelig, utan at här i staden funnos åtskilliga samlingar, hwilka innehöllo mycket, som der uti wore felande, tycktes wara nödigt, det till en Historiæ numismaticæ samlande de uti den Kongel. samlingen felande toges i ögnasichte\"}, {\"bbox\": [132, 1663, 1171, 1756], \"category\": \"Footnote\", \"text\": \"¹ För »Medaille Commission» skrev Helin ock sin förut omtalade »Förteckning på de fynder af guld och silfwer, som sedan 1725 til Kongl. antiquitets archivum blifwit angifne och inkomne äro, upsatt d. 16 jan. 1745».\"}, {\"bbox\": [156, 1794, 263, 1822], \"category\": \"Page-footer\", \"text\": \"36-34672.\"}, {\"bbox\": [1099, 1784, 1165, 1831], \"category\": \"Page-footer\", \"text\": \"561\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    561,
+    228,
+    749,
+    263
+   ],
+   "category": "Section-header",
+   "text": "Helins tid"
+  },
+  {
+   "bbox": [
+    135,
+    299,
+    1175,
+    591
+   ],
+   "category": "Text",
+   "text": "Kongl. May:tts nådige wilja, at Collegium om werckställigheten häraf föranstaltar. Till underdånigst följe hwaraf fants godt, at följande, som wid handen gafs skola äga wackra både större och mindre samlingar af swenska mynt och skådepgr. skulle anmodas genom Collegii bref berörde sammanträde i Kungl. Collegio nestkommande måndags eftermiddag kl. 3 biwista, neml. Hans Excellence RiksRådet Ehrenpreus"
+  },
+  {
+   "bbox": [
+    344,
+    591,
+    806,
+    632
+   ],
+   "category": "Text",
+   "text": "Hans Excellence gref Tessin"
+  },
+  {
+   "bbox": [
+    344,
+    632,
+    855,
+    667
+   ],
+   "category": "Text",
+   "text": "Hr. Præsidenten Baron Rålamb"
+  },
+  {
+   "bbox": [
+    344,
+    673,
+    827,
+    715
+   ],
+   "category": "Text",
+   "text": "Hr. HofCantzleren gref Piper"
+  },
+  {
+   "bbox": [
+    344,
+    715,
+    874,
+    757
+   ],
+   "category": "Text",
+   "text": "Hr. Lagmannen gref Gyllenborg"
+  },
+  {
+   "bbox": [
+    344,
+    757,
+    636,
+    791
+   ],
+   "category": "Text",
+   "text": "Secreteraren Helin"
+  },
+  {
+   "bbox": [
+    344,
+    798,
+    779,
+    833
+   ],
+   "category": "Text",
+   "text": "Secreteraren von Stiernman"
+  },
+  {
+   "bbox": [
+    344,
+    840,
+    599,
+    874
+   ],
+   "category": "Text",
+   "text": "Assessor Biörner"
+  },
+  {
+   "bbox": [
+    344,
+    881,
+    670,
+    916
+   ],
+   "category": "Text",
+   "text": "Hofrådet Warmholtz"
+  },
+  {
+   "bbox": [
+    344,
+    923,
+    631,
+    957
+   ],
+   "category": "Text",
+   "text": "Kämneren Stroem"
+  },
+  {
+   "bbox": [
+    344,
+    964,
+    519,
+    999
+   ],
+   "category": "Text",
+   "text": "Fru Grill.»"
+  },
+  {
+   "bbox": [
+    132,
+    1028,
+    1173,
+    1653
+   ],
+   "category": "Text",
+   "text": "Till dessa på så sätt utsedde ledamöter utfärdades vederbörliga kallelsebrev, som avskrivits av Gahm (sign. U 122), och på utsatt tid sammanträdde denna akademi in nuce. Den hade, mera bestämt än de senare akademierna, fått sig en klar arbetsuppgift förelagd: att arbeta på en svensk Historia numismatica, och att verkligen något blivit åtgjort för att lösa denna uppgift, framgår av den relation, som Helin den 1 oktober 1746 ingav till kanslikollegiet¹ (R. A. Kanslikoll. Inkomna skrivelser sign. E. IV. 9): »Wid det tillfället at Hans Kgl. May:t gifwit högl. Kongl. R. Cancellie Collegio till känna om det Bromelska Cabinettets lefwererande till Kgl. antiquitets archivum, har högmel:te Collegium gifwit Hans Kgl. may:t wid handen, at som samma samling ej wore tillräckelig, utan at här i staden funnos åtskilliga samlingar, hwilka innehöllo mycket, som der uti wore felande, tycktes wara nödigt, det till en Historiæ numismaticæ samlande de uti den Kongel. samlingen felande toges i ögnasichte"
+  },
+  {
+   "bbox": [
+    132,
+    1663,
+    1171,
+    1756
+   ],
+   "category": "Footnote",
+   "text": "¹ För »Medaille Commission» skrev Helin ock sin förut omtalade »Förteckning på de fynder af guld och silfwer, som sedan 1725 til Kongl. antiquitets archivum blifwit angifne och inkomne äro, upsatt d. 16 jan. 1745»."
+  },
+  {
+   "bbox": [
+    156,
+    1794,
+    263,
+    1822
+   ],
+   "category": "Page-footer",
+   "text": "36-34672."
+  },
+  {
+   "bbox": [
+    1099,
+    1784,
+    1165,
+    1831
+   ],
+   "category": "Page-footer",
+   "text": "561"
+  }
+ ]
+}

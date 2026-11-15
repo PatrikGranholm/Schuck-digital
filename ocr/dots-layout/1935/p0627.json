@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 627,
+ "seconds": 20.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [782, 226, 1156, 261], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [447, 296, 1494, 505], \"category\": \"Text\", \"text\": \"Tycktes, at Bref borde afgå till Upsala at inhämta deras efterrättelse, huru denna skriften är blefwen censurerad, och därhoos begära, at de hädaneffter tillsee, at de skrifwa sachtmodigare och at imedlertid kan sees efter, om någon förordning öfwer sådant är uthgången.\"}, {\"bbox\": [447, 504, 1493, 667], \"category\": \"Text\", \"text\": \"H. HoffCantzleren: Jag kan intet see, hwad är emot at ju Biörner får swara, hwad sielfwa saken angår, allenast at det skeer i moderate termer; emedlertid will iag swara Profess. Celsius på dess bref. Detta bifölls, och at man låter honom sådant weeta.»\"}, {\"bbox\": [445, 669, 1492, 1086], \"category\": \"Text\", \"text\": \"Biörner hade således redan fått en motskrift färdig, som han nu begärde att få trycka. Detta var dock ej så lätt, ty liksom under den karolinska tiden hade man fortfarande en panisk förskräckelse för alla litterära fejder, och särskilt var det i Stockholm svårt att få ut en bok; Celsius, som bodde i Uppsala och tillhörde universitetet, vilket i censuravseende intog en undantagsställning, hade utan all censur utgivit sin stridsskrift. Biörners däremot blev mycket noga nagelfaren, och att den till sist fick en relativt mindre polemisk form, än den ursprungligen haft, var helt visst mera censorns, Rosenadlers, förtjänst än Biörners.\"}, {\"bbox\": [443, 1085, 1490, 1752], \"category\": \"Text\", \"text\": \"Den 8 mars förehades ärendet åter i kanslikollegiet. »Hr. Rosenadler upkom, och taltes om Translat. Biörners ansökning at få beswara Professor Celsii hårda skrift emot des runographia. Hr. Rosenadler sade sig wid Biörners första project et och annat redan hafwa ändrat, fastän han påstådt det böra blj ståendes såsom alt grundande sig på stenar och sanningen. Nu som han menar sig alt kunna bevisa, så kunde honom lemnas at wisa sanningen quoad rem samt sedan med uteslutande af det, som kunde synas anstöteligit, wisa at Professor Celsius mycket orätt kallar det convitia, som Biörner raisonerar om de förras förseelser, som ruunstenarne afritat, kunnandes Prof. Celsius sna[ra]re beskyllas at bruka convitier i sin skrift emot Biörner, där han wrider och uttyder des ord til oanständiga meningar samt brukar åtskilliga injurier så wäl mot Biörner som förra antiquarier. Collegium war äfwen af den mening, at Biörner borde allenast blj wid saken och wisa des sanning och richtighet, hwaraf han mera heder och satisfaction hafwer, än om han brukar injurier\"}, {\"bbox\": [443, 1777, 518, 1815], \"category\": \"Page-footer\", \"text\": \"608\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    782,
+    226,
+    1156,
+    261
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    447,
+    296,
+    1494,
+    505
+   ],
+   "category": "Text",
+   "text": "Tycktes, at Bref borde afgå till Upsala at inhämta deras efterrättelse, huru denna skriften är blefwen censurerad, och därhoos begära, at de hädaneffter tillsee, at de skrifwa sachtmodigare och at imedlertid kan sees efter, om någon förordning öfwer sådant är uthgången."
+  },
+  {
+   "bbox": [
+    447,
+    504,
+    1493,
+    667
+   ],
+   "category": "Text",
+   "text": "H. HoffCantzleren: Jag kan intet see, hwad är emot at ju Biörner får swara, hwad sielfwa saken angår, allenast at det skeer i moderate termer; emedlertid will iag swara Profess. Celsius på dess bref. Detta bifölls, och at man låter honom sådant weeta.»"
+  },
+  {
+   "bbox": [
+    445,
+    669,
+    1492,
+    1086
+   ],
+   "category": "Text",
+   "text": "Biörner hade således redan fått en motskrift färdig, som han nu begärde att få trycka. Detta var dock ej så lätt, ty liksom under den karolinska tiden hade man fortfarande en panisk förskräckelse för alla litterära fejder, och särskilt var det i Stockholm svårt att få ut en bok; Celsius, som bodde i Uppsala och tillhörde universitetet, vilket i censuravseende intog en undantagsställning, hade utan all censur utgivit sin stridsskrift. Biörners däremot blev mycket noga nagelfaren, och att den till sist fick en relativt mindre polemisk form, än den ursprungligen haft, var helt visst mera censorns, Rosenadlers, förtjänst än Biörners."
+  },
+  {
+   "bbox": [
+    443,
+    1085,
+    1490,
+    1752
+   ],
+   "category": "Text",
+   "text": "Den 8 mars förehades ärendet åter i kanslikollegiet. »Hr. Rosenadler upkom, och taltes om Translat. Biörners ansökning at få beswara Professor Celsii hårda skrift emot des runographia. Hr. Rosenadler sade sig wid Biörners första project et och annat redan hafwa ändrat, fastän han påstådt det böra blj ståendes såsom alt grundande sig på stenar och sanningen. Nu som han menar sig alt kunna bevisa, så kunde honom lemnas at wisa sanningen quoad rem samt sedan med uteslutande af det, som kunde synas anstöteligit, wisa at Professor Celsius mycket orätt kallar det convitia, som Biörner raisonerar om de förras förseelser, som ruunstenarne afritat, kunnandes Prof. Celsius sna[ra]re beskyllas at bruka convitier i sin skrift emot Biörner, där han wrider och uttyder des ord til oanständiga meningar samt brukar åtskilliga injurier så wäl mot Biörner som förra antiquarier. Collegium war äfwen af den mening, at Biörner borde allenast blj wid saken och wisa des sanning och richtighet, hwaraf han mera heder och satisfaction hafwer, än om han brukar injurier"
+  },
+  {
+   "bbox": [
+    443,
+    1777,
+    518,
+    1815
+   ],
+   "category": "Page-footer",
+   "text": "608"
+  }
+ ]
+}

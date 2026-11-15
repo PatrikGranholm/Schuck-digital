@@ -1,0 +1,31 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 210,
+ "seconds": 8.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [222, 381, 1101, 1512], \"category\": \"Picture\"}, {\"bbox\": [338, 1565, 998, 1647], \"category\": \"Caption\", \"text\": \"Avbildningar av Olof Skötkonungs mynt i Keder:\\n»Nummi aliquot diversi» (1706).\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    222,
+    381,
+    1101,
+    1512
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    338,
+    1565,
+    998,
+    1647
+   ],
+   "category": "Caption",
+   "text": "Avbildningar av Olof Skötkonungs mynt i Keder:\n»Nummi aliquot diversi» (1706)."
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 115,
+ "seconds": 15.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [517, 275, 1488, 723], \"category\": \"Picture\"}, {\"bbox\": [617, 735, 1008, 780], \"category\": \"Section-header\", \"text\": \"Andra våningens fördelning\"}, {\"bbox\": [562, 775, 852, 814], \"category\": \"Text\", \"text\": \"A. farstauya av trappa.\"}, {\"bbox\": [567, 809, 971, 841], \"category\": \"Text\", \"text\": \"B.C. Antiquitets Archivi 2. Camrar.\"}, {\"bbox\": [562, 840, 886, 875], \"category\": \"Text\", \"text\": \"D. Väderk frå... Camrar,\"}, {\"bbox\": [567, 875, 902, 910], \"category\": \"Text\", \"text\": \"E. F. Kungst. Rij Archir Valar.\"}, {\"bbox\": [564, 904, 1234, 944], \"category\": \"Text\", \"text\": \"G.H.1. Gåpgaråd mästerav kum, i den for val av 2. Camrar.\"}, {\"bbox\": [564, 1039, 1449, 1632], \"category\": \"Picture\"}, {\"bbox\": [598, 1523, 1224, 1596], \"category\": \"Text\", \"text\": \"J. nadevta : våningen 8. Gåpäckr Camrar, förvaarav Rij Archivi Acter.\"}, {\"bbox\": [605, 1592, 1236, 1669], \"category\": \"Text\", \"text\": \"J. 9.° Rämet, där en for trappa äv, förvaarav Antiquitets Archivi Färgamängbraf av MSS.⁶\"}, {\"bbox\": [524, 1687, 1491, 1752], \"category\": \"Text\", \"text\": \"Plan av bottenvåningen och våningen I tr. upp i »grefve Pers hus». Bilaga till J. Pering-skiölds memorial 27/11 1701.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    517,
+    275,
+    1488,
+    723
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    617,
+    735,
+    1008,
+    780
+   ],
+   "category": "Section-header",
+   "text": "Andra våningens fördelning"
+  },
+  {
+   "bbox": [
+    562,
+    775,
+    852,
+    814
+   ],
+   "category": "Text",
+   "text": "A. farstauya av trappa."
+  },
+  {
+   "bbox": [
+    567,
+    809,
+    971,
+    841
+   ],
+   "category": "Text",
+   "text": "B.C. Antiquitets Archivi 2. Camrar."
+  },
+  {
+   "bbox": [
+    562,
+    840,
+    886,
+    875
+   ],
+   "category": "Text",
+   "text": "D. Väderk frå... Camrar,"
+  },
+  {
+   "bbox": [
+    567,
+    875,
+    902,
+    910
+   ],
+   "category": "Text",
+   "text": "E. F. Kungst. Rij Archir Valar."
+  },
+  {
+   "bbox": [
+    564,
+    904,
+    1234,
+    944
+   ],
+   "category": "Text",
+   "text": "G.H.1. Gåpgaråd mästerav kum, i den for val av 2. Camrar."
+  },
+  {
+   "bbox": [
+    564,
+    1039,
+    1449,
+    1632
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    598,
+    1523,
+    1224,
+    1596
+   ],
+   "category": "Text",
+   "text": "J. nadevta : våningen 8. Gåpäckr Camrar, förvaarav Rij Archivi Acter."
+  },
+  {
+   "bbox": [
+    605,
+    1592,
+    1236,
+    1669
+   ],
+   "category": "Text",
+   "text": "J. 9.° Rämet, där en for trappa äv, förvaarav Antiquitets Archivi Färgamängbraf av MSS.⁶"
+  },
+  {
+   "bbox": [
+    524,
+    1687,
+    1491,
+    1752
+   ],
+   "category": "Text",
+   "text": "Plan av bottenvåningen och våningen I tr. upp i »grefve Pers hus». Bilaga till J. Pering-skiölds memorial 27/11 1701."
+  }
+ ]
+}

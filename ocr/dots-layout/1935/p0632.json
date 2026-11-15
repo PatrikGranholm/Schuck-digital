@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 632,
+ "seconds": 27.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [588, 223, 774, 258], \"category\": \"Page-header\", \"text\": \"Helins tid\"}, {\"bbox\": [160, 294, 1206, 1047], \"category\": \"Text\", \"text\": \"mot Celsius' befarade anfall. Med anledning härav infann sig justitiekansleren den 12 september i kanslikollegiet: »Hr. Justitie Cantzleren Fehman inkom efter anmälan och, sedan han tagit sit säte, berättade, at Translatoren Biörner hos Justitie Cantzlers Embetet klagat öfwer Professoren Celsius, som i en utgifwen skrifft honom som ock några döde wäl meriterade antiquarier angripit, begärandes beskydd deremot samt reparation, och som Justitie Cantzl.förnummit, att något härom skall wara passerat i Collegio, så begärte han derom underrättelse, innan han lägger handen derwid. Hr. HofCantzleren swarade, at derutinnan intet widare passerat, än at Hr. Rosenadler en och annan gång tilkänna gifwit, at et swar, som Biörner författat på Dr. Celsius skrifft, warit hos honom til Censur, hafwandes wäl några af Collegii ledamöter privatim rådt Biörner til moderation uti bem:te swar, som han ock något deruti skall hafwa ändrat. Men för öfrigit har Collegium icke lagt handen derwid, och är således intet passerat med Collegii ledamöters wetskap, som hindrar Hr. Justitie Cantzleren at härutinnan göra, som han finner rådeligit.» Kollegiet ville således tydligen stå utanför det hela.\"}, {\"bbox\": [163, 1045, 1204, 1173], \"category\": \"Text\", \"text\": \"Men justitiekansleren hade, efter vad det förefaller, imponerats av Biörners inlaga och avlät redan den 15 ett skarpt brev till konsistoriet i Uppsala:\"}, {\"bbox\": [163, 1170, 1209, 1756], \"category\": \"Text\", \"text\": \"»Iag har intet kunnat undgå venerando consistorio academico härigenom wid handen gifwa, hurusåsom de skrifter, hwilka professoren H. doctor Olaus Celsius och translatoren H. Biörner emot hwarannan låtit af trycket utgå, förorsakat så wäl uti kongl. cancellie collegio som hos annat ärbart folk et besynnerligit missnögie deröfwer, at personerne angripas med oanständiga expressioner och sådan skrifart, som modestien intet kan tåla och allraminst anstår dem, som äre uti sådane ämbeten, at de icke mindre med goda exempel än lärdom böra arbeta til ungdomens förkåfring så wäl uti seder och beskedelighet som bokliga kånster til fäderneslandets nytta och tienst, wiljandes man sedan sådane oanständigheter öfwerskyla och förswara under en förment rätmätig retorsion, der likwäl sådant intet är tillåtet, utan den, som förmenar sig wara af en annan förolämpad, hafwer andre och rättare wägar at söka samt erhålla behörig\"}, {\"bbox\": [1133, 1781, 1204, 1827], \"category\": \"Page-footer\", \"text\": \"613\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    588,
+    223,
+    774,
+    258
+   ],
+   "category": "Page-header",
+   "text": "Helins tid"
+  },
+  {
+   "bbox": [
+    160,
+    294,
+    1206,
+    1047
+   ],
+   "category": "Text",
+   "text": "mot Celsius' befarade anfall. Med anledning härav infann sig justitiekansleren den 12 september i kanslikollegiet: »Hr. Justitie Cantzleren Fehman inkom efter anmälan och, sedan han tagit sit säte, berättade, at Translatoren Biörner hos Justitie Cantzlers Embetet klagat öfwer Professoren Celsius, som i en utgifwen skrifft honom som ock några döde wäl meriterade antiquarier angripit, begärandes beskydd deremot samt reparation, och som Justitie Cantzl.förnummit, att något härom skall wara passerat i Collegio, så begärte han derom underrättelse, innan han lägger handen derwid. Hr. HofCantzleren swarade, at derutinnan intet widare passerat, än at Hr. Rosenadler en och annan gång tilkänna gifwit, at et swar, som Biörner författat på Dr. Celsius skrifft, warit hos honom til Censur, hafwandes wäl några af Collegii ledamöter privatim rådt Biörner til moderation uti bem:te swar, som han ock något deruti skall hafwa ändrat. Men för öfrigit har Collegium icke lagt handen derwid, och är således intet passerat med Collegii ledamöters wetskap, som hindrar Hr. Justitie Cantzleren at härutinnan göra, som han finner rådeligit.» Kollegiet ville således tydligen stå utanför det hela."
+  },
+  {
+   "bbox": [
+    163,
+    1045,
+    1204,
+    1173
+   ],
+   "category": "Text",
+   "text": "Men justitiekansleren hade, efter vad det förefaller, imponerats av Biörners inlaga och avlät redan den 15 ett skarpt brev till konsistoriet i Uppsala:"
+  },
+  {
+   "bbox": [
+    163,
+    1170,
+    1209,
+    1756
+   ],
+   "category": "Text",
+   "text": "»Iag har intet kunnat undgå venerando consistorio academico härigenom wid handen gifwa, hurusåsom de skrifter, hwilka professoren H. doctor Olaus Celsius och translatoren H. Biörner emot hwarannan låtit af trycket utgå, förorsakat så wäl uti kongl. cancellie collegio som hos annat ärbart folk et besynnerligit missnögie deröfwer, at personerne angripas med oanständiga expressioner och sådan skrifart, som modestien intet kan tåla och allraminst anstår dem, som äre uti sådane ämbeten, at de icke mindre med goda exempel än lärdom böra arbeta til ungdomens förkåfring så wäl uti seder och beskedelighet som bokliga kånster til fäderneslandets nytta och tienst, wiljandes man sedan sådane oanständigheter öfwerskyla och förswara under en förment rätmätig retorsion, der likwäl sådant intet är tillåtet, utan den, som förmenar sig wara af en annan förolämpad, hafwer andre och rättare wägar at söka samt erhålla behörig"
+  },
+  {
+   "bbox": [
+    1133,
+    1781,
+    1204,
+    1827
+   ],
+   "category": "Page-footer",
+   "text": "613"
+  }
+ ]
+}

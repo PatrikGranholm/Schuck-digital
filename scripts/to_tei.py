@@ -180,6 +180,9 @@ def serialize(plain, spans, points, ph, repl=()):
     are split (the inner one is closed and reopened). repl: [(start, end, xml)] replaces
     plain[start:end] with xml (no other bound may fall strictly inside)."""
     spans = [s for s in spans if s[1] > s[0]]
+    # <idno> allows no elements: a note/footnote anchor inside a shelfmark moves to its end
+    idnos = [(s[0], s[1]) for s in spans if s[2] == "idno"]
+    points = [(next((b for a, b in idnos if a < p < b), p), c) for p, c in points]
     reps = {a: (b, x) for a, b, x in repl}
     bounds = sorted({0, len(plain)} | {s[0] for s in spans} | {s[1] for s in spans} | {p for p, _ in points}
                     | {a for a, _, _ in repl} | {b for _, b, _ in repl})

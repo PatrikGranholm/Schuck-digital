@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 407,
+ "seconds": 27.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [806, 232, 1176, 267], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [473, 302, 1513, 1631], \"category\": \"Text\", \"text\": \"Så upplästes den 28 januari 1743 i kanslikollegiet »assessor Samuel Lundberg Paulsons Memorial af d. 31 aug. sistledne, at honom wäl af Secreteraren Helin blifwit del lemnat af Collegii erhåldne Extractum Protocolli af d. 7 jan. förl. år, som förmår, at de i antiquitets archivo befintelige handlingar, mynt, fynd och minnesmerken behörigen skola sorteras och sedan deröfwer förteckning giöras samt at Ledamöterne i antiquitets archivo böra twenne gånger i weckan sammanträda med mera, men så wet han icke, hwarföre berörde sessioner ey blifwit håldne. Dock har assessoren, sedan han af Secreteraren blifwit påkallad, instält sig och i dess samt assessoren Richardsons närwaro genomgådt en af Secreteraren författad lista på sorterade Pergamentz bref, som finnas i archivo; hwad angår des tilatgifwande Relation, så har han under påstående Ricksdag nästledne åhr anfört orsakerne, hwarföre han ej kunnat utgifwa något under händer hafwande arbete, fortfarandes nu at genomgå de gamla swenska lagarne med deras commentarier med mera, som anföres. Sedan häröfwer wordet discuterat, resolverades, at utdrag ur Protocollet skulle utfärdas til Secreteraren i antiquitets archivo Helin af innehåll: Ehuruwäl Collegium redan genom Extractum Protocolli til Secreteraren Helin af d. 7 jan. 1742 tydeligen förordnat, huru skall förhållas med sorteringen af alla wid antiquitets archivum befintelige handlingar, mynt, fynd och minnesmärcken, likaledes om sammanträdet af ledamöterne i antiquitets archivo och at archivum quartaliter til Cantzelie Collegium hade at upwisa, hwad som blifwit af dem förrättadt, hwarföre ock wid hwar Ricksdags börian en Relation borde insändas at ingifwa til Richsens Ständer, om hwad sedan förra Ricksdagen blifwit tilgiordt och utarbetat, hwilken Collegii befallning sedermera blifwit itererat, men til Collegium hittils ey behörigen inkommit. Så resolverades, att Hr. Secreteraren Helin härmed ytterligare skulle anbefallas, at det, som förberörde och sedermera itererat Extractum Protocolli innehåller, ofelbart och med det forderligaste warder wärckstält.»\"}, {\"bbox\": [476, 1631, 1512, 1755], \"category\": \"Text\", \"text\": \"På denna anmaning brydde sig Helin troligen ej ens om att svara. För riksdagen 1742–1743 hade visserligen han och de båda assessorerne avfattat den föreskrivna relationen, men som (Kansliprot. den 7\"}, {\"bbox\": [477, 1785, 552, 1831], \"category\": \"Page-footer\", \"text\": \"388\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    806,
+    232,
+    1176,
+    267
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    473,
+    302,
+    1513,
+    1631
+   ],
+   "category": "Text",
+   "text": "Så upplästes den 28 januari 1743 i kanslikollegiet »assessor Samuel Lundberg Paulsons Memorial af d. 31 aug. sistledne, at honom wäl af Secreteraren Helin blifwit del lemnat af Collegii erhåldne Extractum Protocolli af d. 7 jan. förl. år, som förmår, at de i antiquitets archivo befintelige handlingar, mynt, fynd och minnesmerken behörigen skola sorteras och sedan deröfwer förteckning giöras samt at Ledamöterne i antiquitets archivo böra twenne gånger i weckan sammanträda med mera, men så wet han icke, hwarföre berörde sessioner ey blifwit håldne. Dock har assessoren, sedan han af Secreteraren blifwit påkallad, instält sig och i dess samt assessoren Richardsons närwaro genomgådt en af Secreteraren författad lista på sorterade Pergamentz bref, som finnas i archivo; hwad angår des tilatgifwande Relation, så har han under påstående Ricksdag nästledne åhr anfört orsakerne, hwarföre han ej kunnat utgifwa något under händer hafwande arbete, fortfarandes nu at genomgå de gamla swenska lagarne med deras commentarier med mera, som anföres. Sedan häröfwer wordet discuterat, resolverades, at utdrag ur Protocollet skulle utfärdas til Secreteraren i antiquitets archivo Helin af innehåll: Ehuruwäl Collegium redan genom Extractum Protocolli til Secreteraren Helin af d. 7 jan. 1742 tydeligen förordnat, huru skall förhållas med sorteringen af alla wid antiquitets archivum befintelige handlingar, mynt, fynd och minnesmärcken, likaledes om sammanträdet af ledamöterne i antiquitets archivo och at archivum quartaliter til Cantzelie Collegium hade at upwisa, hwad som blifwit af dem förrättadt, hwarföre ock wid hwar Ricksdags börian en Relation borde insändas at ingifwa til Richsens Ständer, om hwad sedan förra Ricksdagen blifwit tilgiordt och utarbetat, hwilken Collegii befallning sedermera blifwit itererat, men til Collegium hittils ey behörigen inkommit. Så resolverades, att Hr. Secreteraren Helin härmed ytterligare skulle anbefallas, at det, som förberörde och sedermera itererat Extractum Protocolli innehåller, ofelbart och med det forderligaste warder wärckstält.»"
+  },
+  {
+   "bbox": [
+    476,
+    1631,
+    1512,
+    1755
+   ],
+   "category": "Text",
+   "text": "På denna anmaning brydde sig Helin troligen ej ens om att svara. För riksdagen 1742–1743 hade visserligen han och de båda assessorerne avfattat den föreskrivna relationen, men som (Kansliprot. den 7"
+  },
+  {
+   "bbox": [
+    477,
+    1785,
+    552,
+    1831
+   ],
+   "category": "Page-footer",
+   "text": "388"
+  }
+ ]
+}

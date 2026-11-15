@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 628,
+ "seconds": 35.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [578, 223, 764, 259], \"category\": \"Page-header\", \"text\": \"Helins tid\"}, {\"bbox\": [152, 294, 1194, 581], \"category\": \"Text\", \"text\": \"tillbakas i des swar, hwarföre han och bör ansäyas at moderera, hwad han däruti för hårdt skrifwit. Imedlertid fann och Collegium för godt, at som Biörner klagar öfwer de af Celsius brukade hårda expressioner i des scripto, som ligger för hwars mans ögon, utan at alla kunna dömma den rätta beskaffenheten af saken, så afgår bref til Facult. Philosophicam i Upsala om och af hwem detta scriptum är wordit censurerat.»\"}, {\"bbox\": [148, 586, 1194, 1756], \"category\": \"Text\", \"text\": \"Något brev till Uppsala tyckes likväl nu ej hava avskickats, ty varken omtalas detta sedermera såsom avsänt eller nämnes något om en svarsskrivelse. I Biörners skrift hade Rosenadler strukit och ändrat allt, som kunde anses anstötligt, och den första april redogjorde han i kollegiet för sina åtgöranden: »Dernäst förehade Hr. Rosenadler et af Translatoren Biörner författat swar och wederläggning af Professor Celsii emot des Tractat om Helsinge runorne utkommen skrifft. Detta swar sade Hr. Cantzlierådet är temmeligen hårdt och skarpt, men som Collegium tillåtit honom at få swara och wederlägga Celsius, hwilken brukat emot Biörner hårda och swåra invectiver, så är det swårt at föreskrifwa Biörner, huru långt han skall gå uti sit swar och hwad för expressioner han skall bruka för sig; [vidare] sade Hr. CantzlieR:t: wore det ogörligit [om] en sådan skrift at säya, hwarest och på hwad sätt han skall uphöra samt om och huruwida termerna skola tempereras eller ey, sedan Celsius honom först angripit och Biörner något tyckes böra säya til sit förswar, allegerade jemwäl några expressioner uhr Biörners swar, såsom »mordax lingua, spurce loqui» samt hwad han swarar om cauda draconis, hwilka ord Celsius uti en oanständig mening uptagit, med mera, hwilket alt Hr. CantzlieR:t sade, at Celsius äntå lärer illa uptaga, och fördensskull wore swårt at determinera, hwad deraf bör kallas modest eller ey och hwad som bör stå eller ändras, sedan Celsius til alt sådant först gifwit anledning, beklagandes sig för öfrigit Biörner, at han skall wara så illa utropad igenom denna Celsii skrift. Hr. Brauner: min mening är, at Biörner bör moderera sit swar, ty sedan denne saken en gång blifwit föredragen Collegio, så kan Colleg. ey tillåta, at något sådant bör utkomma; hwad Celsii skrift angår, så har Coll. deraf ey wetat. Hr. Hofcantzl. sade sig redan förut hafwa rådt\"}, {\"bbox\": [175, 1797, 279, 1822], \"category\": \"Page-footer\", \"text\": \"39-34672.\"}, {\"bbox\": [1113, 1785, 1189, 1832], \"category\": \"Page-footer\", \"text\": \"609\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    578,
+    223,
+    764,
+    259
+   ],
+   "category": "Page-header",
+   "text": "Helins tid"
+  },
+  {
+   "bbox": [
+    152,
+    294,
+    1194,
+    581
+   ],
+   "category": "Text",
+   "text": "tillbakas i des swar, hwarföre han och bör ansäyas at moderera, hwad han däruti för hårdt skrifwit. Imedlertid fann och Collegium för godt, at som Biörner klagar öfwer de af Celsius brukade hårda expressioner i des scripto, som ligger för hwars mans ögon, utan at alla kunna dömma den rätta beskaffenheten af saken, så afgår bref til Facult. Philosophicam i Upsala om och af hwem detta scriptum är wordit censurerat.»"
+  },
+  {
+   "bbox": [
+    148,
+    586,
+    1194,
+    1756
+   ],
+   "category": "Text",
+   "text": "Något brev till Uppsala tyckes likväl nu ej hava avskickats, ty varken omtalas detta sedermera såsom avsänt eller nämnes något om en svarsskrivelse. I Biörners skrift hade Rosenadler strukit och ändrat allt, som kunde anses anstötligt, och den första april redogjorde han i kollegiet för sina åtgöranden: »Dernäst förehade Hr. Rosenadler et af Translatoren Biörner författat swar och wederläggning af Professor Celsii emot des Tractat om Helsinge runorne utkommen skrifft. Detta swar sade Hr. Cantzlierådet är temmeligen hårdt och skarpt, men som Collegium tillåtit honom at få swara och wederlägga Celsius, hwilken brukat emot Biörner hårda och swåra invectiver, så är det swårt at föreskrifwa Biörner, huru långt han skall gå uti sit swar och hwad för expressioner han skall bruka för sig; [vidare] sade Hr. CantzlieR:t: wore det ogörligit [om] en sådan skrift at säya, hwarest och på hwad sätt han skall uphöra samt om och huruwida termerna skola tempereras eller ey, sedan Celsius honom först angripit och Biörner något tyckes böra säya til sit förswar, allegerade jemwäl några expressioner uhr Biörners swar, såsom »mordax lingua, spurce loqui» samt hwad han swarar om cauda draconis, hwilka ord Celsius uti en oanständig mening uptagit, med mera, hwilket alt Hr. CantzlieR:t sade, at Celsius äntå lärer illa uptaga, och fördensskull wore swårt at determinera, hwad deraf bör kallas modest eller ey och hwad som bör stå eller ändras, sedan Celsius til alt sådant först gifwit anledning, beklagandes sig för öfrigit Biörner, at han skall wara så illa utropad igenom denna Celsii skrift. Hr. Brauner: min mening är, at Biörner bör moderera sit swar, ty sedan denne saken en gång blifwit föredragen Collegio, så kan Colleg. ey tillåta, at något sådant bör utkomma; hwad Celsii skrift angår, så har Coll. deraf ey wetat. Hr. Hofcantzl. sade sig redan förut hafwa rådt"
+  },
+  {
+   "bbox": [
+    175,
+    1797,
+    279,
+    1822
+   ],
+   "category": "Page-footer",
+   "text": "39-34672."
+  },
+  {
+   "bbox": [
+    1113,
+    1785,
+    1189,
+    1832
+   ],
+   "category": "Page-footer",
+   "text": "609"
+  }
+ ]
+}

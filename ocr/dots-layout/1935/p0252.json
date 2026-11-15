@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 252,
+ "seconds": 31.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [364, 229, 871, 273], \"category\": \"Section-header\", \"text\": \"Den yngre Peringskiölds tid\"}, {\"bbox\": [98, 299, 1139, 547], \"category\": \"Text\", \"text\": \"fått befallning att närvara — Peringskiöld själv var däremot icke med — och efter resans avslutning inlämnade von Schantz följande räkning (R. A. Expensräkningar för 1724): »Uppå resan, som effter Kongl. Mai:ttz nådigste befallning åhr 1724 d. 7 junij företogs till den stora ättehögens upgräfwande i Upland och Årkesta socken är allenast anwändt neml.\"}, {\"bbox\": [138, 552, 1113, 774], \"category\": \"Table\", \"text\": \"<table><tr><td>Skiutz ifrån Stockholm till Lindholmen</td><td>3 1/4 mihl.</td><td>7 dal.</td><td>10</td></tr><tr><td>Wid behörigt tillfälle kom att utläggias</td><td>7.</td><td>1.</td><td></td></tr><tr><td colspan=\\\"4\\\">Frij Förplägning gafs hoos Hans Excellence Riksrådet Hög-wälb. Hr. Baron Josias Cederhielm</td></tr><tr><td colspan=\\\"4\\\">Likaledes ock frij skiutz ifrån Lindholmen til Stockholm</td></tr><tr><td colspan=\\\"3\\\"></td><td>Summa 14 Dr. 11.</td></tr></table>\"}, {\"bbox\": [102, 784, 625, 827], \"category\": \"Text\", \"text\": \"Stockholm d. 16 Junij A:0 1724.\"}, {\"bbox\": [864, 822, 1108, 857], \"category\": \"Text\", \"text\": \"L. v. Schantz.»\"}, {\"bbox\": [100, 885, 1141, 1053], \"category\": \"Text\", \"text\": \"Denna grävning har ej ringa intresse, då den — efter Verelius' — är den första, om vilken en utförlig berättelse finnes. Denna avfattades av von Schantz och finnes nu i det topografiska arkivet i V. H. A. A.:\"}, {\"bbox\": [102, 1058, 1141, 1232], \"category\": \"Text\", \"text\": \"»Kort Berättelse om den Store Ättebacken i Upland, Sämming-hundra Härad och Årkesta Sochn, på Waksthuna Skatteägor belägen, och dess upgräfning, som effter Kongl. Mai:tz nådigste Ordres toog sin begynnelse åhr 1724 d. 8 Junii.\"}, {\"bbox\": [104, 1242, 1144, 1622], \"category\": \"Text\", \"text\": \"Anno 1724 d. 8 Junij woro 40 st. Soldater af Uplands Infanterie Regemente tilstädes wid Kullen under Lieutnantens H:r Joh. Wilh. Elgensternas och 2:ne Under Officerares Commendo och upseende, hwilka kl. 4 om morgonen, sedan dhe hullit wanligit Chorum, begynte at giöra twenne öpningar på högen, den ena å wästra och den andre å södre sidan, hwardera ungefehr om 4 ell:r 5 al:rs bredd, så wäl som en stor öpning öfwerst uppå, och fans under den öfwerste gräswallen en blandning af allahanda slags mull hwarftals lagdt, såsom swartmylla, gröfre mull och fijn sand, jämwäl och gallmeya;\"}, {\"bbox\": [106, 1628, 1145, 1752], \"category\": \"Text\", \"text\": \"ecrassées et rompues par le temps ou par l'inadvertence de ceux, qui ont commencé à creuser. J'aurois souhaité de pouvoir annoncer quelque découverte plus satisfaisante. L'avantage qu'on en peut tirer c'est de remarquer le grand soin que les anciens ont pris d'ensevelir leur morts et de les honorer à leur manière.»\"}, {\"bbox\": [1073, 1784, 1141, 1822], \"category\": \"Page-footer\", \"text\": \"233\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    364,
+    229,
+    871,
+    273
+   ],
+   "category": "Section-header",
+   "text": "Den yngre Peringskiölds tid"
+  },
+  {
+   "bbox": [
+    98,
+    299,
+    1139,
+    547
+   ],
+   "category": "Text",
+   "text": "fått befallning att närvara — Peringskiöld själv var däremot icke med — och efter resans avslutning inlämnade von Schantz följande räkning (R. A. Expensräkningar för 1724): »Uppå resan, som effter Kongl. Mai:ttz nådigste befallning åhr 1724 d. 7 junij företogs till den stora ättehögens upgräfwande i Upland och Årkesta socken är allenast anwändt neml."
+  },
+  {
+   "bbox": [
+    138,
+    552,
+    1113,
+    774
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>Skiutz ifrån Stockholm till Lindholmen</td><td>3 1/4 mihl.</td><td>7 dal.</td><td>10</td></tr><tr><td>Wid behörigt tillfälle kom att utläggias</td><td>7.</td><td>1.</td><td></td></tr><tr><td colspan=\"4\">Frij Förplägning gafs hoos Hans Excellence Riksrådet Hög-wälb. Hr. Baron Josias Cederhielm</td></tr><tr><td colspan=\"4\">Likaledes ock frij skiutz ifrån Lindholmen til Stockholm</td></tr><tr><td colspan=\"3\"></td><td>Summa 14 Dr. 11.</td></tr></table>"
+  },
+  {
+   "bbox": [
+    102,
+    784,
+    625,
+    827
+   ],
+   "category": "Text",
+   "text": "Stockholm d. 16 Junij A:0 1724."
+  },
+  {
+   "bbox": [
+    864,
+    822,
+    1108,
+    857
+   ],
+   "category": "Text",
+   "text": "L. v. Schantz.»"
+  },
+  {
+   "bbox": [
+    100,
+    885,
+    1141,
+    1053
+   ],
+   "category": "Text",
+   "text": "Denna grävning har ej ringa intresse, då den — efter Verelius' — är den första, om vilken en utförlig berättelse finnes. Denna avfattades av von Schantz och finnes nu i det topografiska arkivet i V. H. A. A.:"
+  },
+  {
+   "bbox": [
+    102,
+    1058,
+    1141,
+    1232
+   ],
+   "category": "Text",
+   "text": "»Kort Berättelse om den Store Ättebacken i Upland, Sämming-hundra Härad och Årkesta Sochn, på Waksthuna Skatteägor belägen, och dess upgräfning, som effter Kongl. Mai:tz nådigste Ordres toog sin begynnelse åhr 1724 d. 8 Junii."
+  },
+  {
+   "bbox": [
+    104,
+    1242,
+    1144,
+    1622
+   ],
+   "category": "Text",
+   "text": "Anno 1724 d. 8 Junij woro 40 st. Soldater af Uplands Infanterie Regemente tilstädes wid Kullen under Lieutnantens H:r Joh. Wilh. Elgensternas och 2:ne Under Officerares Commendo och upseende, hwilka kl. 4 om morgonen, sedan dhe hullit wanligit Chorum, begynte at giöra twenne öpningar på högen, den ena å wästra och den andre å södre sidan, hwardera ungefehr om 4 ell:r 5 al:rs bredd, så wäl som en stor öpning öfwerst uppå, och fans under den öfwerste gräswallen en blandning af allahanda slags mull hwarftals lagdt, såsom swartmylla, gröfre mull och fijn sand, jämwäl och gallmeya;"
+  },
+  {
+   "bbox": [
+    106,
+    1628,
+    1145,
+    1752
+   ],
+   "category": "Text",
+   "text": "ecrassées et rompues par le temps ou par l'inadvertence de ceux, qui ont commencé à creuser. J'aurois souhaité de pouvoir annoncer quelque découverte plus satisfaisante. L'avantage qu'on en peut tirer c'est de remarquer le grand soin que les anciens ont pris d'ensevelir leur morts et de les honorer à leur manière.»"
+  },
+  {
+   "bbox": [
+    1073,
+    1784,
+    1141,
+    1822
+   ],
+   "category": "Page-footer",
+   "text": "233"
+  }
+ ]
+}

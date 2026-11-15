@@ -1,0 +1,122 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 505,
+ "seconds": 31.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [803, 230, 1178, 266], \"category\": \"Section-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [466, 297, 1501, 375], \"category\": \"Table\", \"text\": \"<table><tr><td>T. I N. 5 aliis minores</td><td>2</td></tr><tr><td>B cum puncto unus</td><td>1.</td></tr></table>\"}, {\"bbox\": [867, 401, 1121, 434], \"category\": \"Section-header\", \"text\": \"Ericus Wictoriosus\"}, {\"bbox\": [466, 440, 1494, 477], \"category\": \"Table\", \"text\": \"<table><tr><td>T. I N. 1. non absimiles</td><td>2</td></tr></table>\"}, {\"bbox\": [871, 508, 1114, 547], \"category\": \"Section-header\", \"text\": \"Olaus Skotkonung\"}, {\"bbox\": [466, 548, 1501, 659], \"category\": \"Table\", \"text\": \"<table><tr><td>T. I N. 1. nonnihil diversi</td><td>5</td></tr><tr><td>T. I. N. 2. sine punctis</td><td>5</td></tr><tr><td>T. I. N. 3 — — —</td><td>1.</td></tr></table>\"}, {\"bbox\": [896, 686, 1087, 719], \"category\": \"Section-header\", \"text\": \"Kanutus Erici\"}, {\"bbox\": [466, 720, 1501, 792], \"category\": \"Table\", \"text\": \"<table><tr><td>T. III. N. 3 — — —</td><td>2.</td></tr><tr><td>KANVTVS. Brenn. non memoratus</td><td>1.</td></tr></table>\"}, {\"bbox\": [907, 823, 1077, 862], \"category\": \"Section-header\", \"text\": \"II Incogniti\"}, {\"bbox\": [464, 857, 1501, 1751], \"category\": \"Table\", \"text\": \"<table><tr><td>C. N. 1. T. inc. N. 7</td><td>1.</td></tr><tr><td>Imago viri Coronati cum vexillo in dextera et globo crucigero in læva</td><td>1.</td></tr><tr><td>C. N. 3 T. inc. N. 8</td><td>1.</td></tr><tr><td>C. N. 5 nonnihil diversi</td><td>3.</td></tr><tr><td>Ā monasticum nonnihil diversi</td><td>2.</td></tr><tr><td>M. monasticum</td><td>2.</td></tr><tr><td>Lit. R</td><td>1.</td></tr><tr><td>Lit. S. nonnihil diversi</td><td>2.</td></tr><tr><td>Lit. N.</td><td>2.</td></tr><tr><td>N Imago viri pedum tenentis</td><td>1.</td></tr><tr><td>Imago viri cum</td><td>1.</td></tr><tr><td>Imago viri ruditer formatus cum liliis non nihil inter se diversi</td><td>4.</td></tr><tr><td>Vultus informis cum punctis</td><td>1.</td></tr><tr><td>Caput Kanuti Regis non prorsus dissimile cum literis LEDVS.</td><td>3.</td></tr><tr><td>C. N. 50</td><td>1.</td></tr><tr><td>Eadem figura acuminata</td><td>1.</td></tr><tr><td>Eadem figura cum 4 punctis</td><td>1.</td></tr><tr><td>Eadem figura cum rota ab altera parte T. inc. 14 non absimiles</td><td>2.</td></tr><tr><td>Rota obscuri</td><td>4.</td></tr><tr><td>Caput mitratum inter pedum et Rosam ab altera parte Crux</td><td>5.</td></tr><tr><td>Numi bracteati diversi generis crucibus signati</td><td>17.</td></tr><tr><td>Rosa</td><td>1.</td></tr><tr><td>Cornu Cervinum</td><td>1.</td></tr><tr><td>Leo</td><td>2.</td></tr><tr><td>Caput inter tres turres</td><td>1.</td></tr></table>\"}, {\"bbox\": [464, 1777, 540, 1822], \"category\": \"Page-footer\", \"text\": \"486\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    803,
+    230,
+    1178,
+    266
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    466,
+    297,
+    1501,
+    375
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>T. I N. 5 aliis minores</td><td>2</td></tr><tr><td>B cum puncto unus</td><td>1.</td></tr></table>"
+  },
+  {
+   "bbox": [
+    867,
+    401,
+    1121,
+    434
+   ],
+   "category": "Section-header",
+   "text": "Ericus Wictoriosus"
+  },
+  {
+   "bbox": [
+    466,
+    440,
+    1494,
+    477
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>T. I N. 1. non absimiles</td><td>2</td></tr></table>"
+  },
+  {
+   "bbox": [
+    871,
+    508,
+    1114,
+    547
+   ],
+   "category": "Section-header",
+   "text": "Olaus Skotkonung"
+  },
+  {
+   "bbox": [
+    466,
+    548,
+    1501,
+    659
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>T. I N. 1. nonnihil diversi</td><td>5</td></tr><tr><td>T. I. N. 2. sine punctis</td><td>5</td></tr><tr><td>T. I. N. 3 — — —</td><td>1.</td></tr></table>"
+  },
+  {
+   "bbox": [
+    896,
+    686,
+    1087,
+    719
+   ],
+   "category": "Section-header",
+   "text": "Kanutus Erici"
+  },
+  {
+   "bbox": [
+    466,
+    720,
+    1501,
+    792
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>T. III. N. 3 — — —</td><td>2.</td></tr><tr><td>KANVTVS. Brenn. non memoratus</td><td>1.</td></tr></table>"
+  },
+  {
+   "bbox": [
+    907,
+    823,
+    1077,
+    862
+   ],
+   "category": "Section-header",
+   "text": "II Incogniti"
+  },
+  {
+   "bbox": [
+    464,
+    857,
+    1501,
+    1751
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>C. N. 1. T. inc. N. 7</td><td>1.</td></tr><tr><td>Imago viri Coronati cum vexillo in dextera et globo crucigero in læva</td><td>1.</td></tr><tr><td>C. N. 3 T. inc. N. 8</td><td>1.</td></tr><tr><td>C. N. 5 nonnihil diversi</td><td>3.</td></tr><tr><td>Ā monasticum nonnihil diversi</td><td>2.</td></tr><tr><td>M. monasticum</td><td>2.</td></tr><tr><td>Lit. R</td><td>1.</td></tr><tr><td>Lit. S. nonnihil diversi</td><td>2.</td></tr><tr><td>Lit. N.</td><td>2.</td></tr><tr><td>N Imago viri pedum tenentis</td><td>1.</td></tr><tr><td>Imago viri cum</td><td>1.</td></tr><tr><td>Imago viri ruditer formatus cum liliis non nihil inter se diversi</td><td>4.</td></tr><tr><td>Vultus informis cum punctis</td><td>1.</td></tr><tr><td>Caput Kanuti Regis non prorsus dissimile cum literis LEDVS.</td><td>3.</td></tr><tr><td>C. N. 50</td><td>1.</td></tr><tr><td>Eadem figura acuminata</td><td>1.</td></tr><tr><td>Eadem figura cum 4 punctis</td><td>1.</td></tr><tr><td>Eadem figura cum rota ab altera parte T. inc. 14 non absimiles</td><td>2.</td></tr><tr><td>Rota obscuri</td><td>4.</td></tr><tr><td>Caput mitratum inter pedum et Rosam ab altera parte Crux</td><td>5.</td></tr><tr><td>Numi bracteati diversi generis crucibus signati</td><td>17.</td></tr><tr><td>Rosa</td><td>1.</td></tr><tr><td>Cornu Cervinum</td><td>1.</td></tr><tr><td>Leo</td><td>2.</td></tr><tr><td>Caput inter tres turres</td><td>1.</td></tr></table>"
+  },
+  {
+   "bbox": [
+    464,
+    1777,
+    540,
+    1822
+   ],
+   "category": "Page-footer",
+   "text": "486"
+  }
+ ]
+}

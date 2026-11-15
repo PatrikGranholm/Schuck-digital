@@ -1,0 +1,60 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 20,
+ "seconds": 10.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [272, 282, 1054, 626], \"category\": \"Picture\"}, {\"bbox\": [312, 656, 1042, 697], \"category\": \"Caption\", \"text\": \"Medalj över NILS KEDER av J. C. Hedlinger (1728).\"}, {\"bbox\": [355, 776, 988, 1627], \"category\": \"Picture\"}, {\"bbox\": [514, 1675, 836, 1709], \"category\": \"Caption\", \"text\": \"ELIAS BRENNER\"}, {\"bbox\": [382, 1728, 966, 1762], \"category\": \"Text\", \"text\": \"Självporträtt i miniatyr, utfört 1696. Nationalmuseum.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    272,
+    282,
+    1054,
+    626
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    312,
+    656,
+    1042,
+    697
+   ],
+   "category": "Caption",
+   "text": "Medalj över NILS KEDER av J. C. Hedlinger (1728)."
+  },
+  {
+   "bbox": [
+    355,
+    776,
+    988,
+    1627
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    514,
+    1675,
+    836,
+    1709
+   ],
+   "category": "Caption",
+   "text": "ELIAS BRENNER"
+  },
+  {
+   "bbox": [
+    382,
+    1728,
+    966,
+    1762
+   ],
+   "category": "Text",
+   "text": "Självporträtt i miniatyr, utfört 1696. Nationalmuseum."
+  }
+ ]
+}

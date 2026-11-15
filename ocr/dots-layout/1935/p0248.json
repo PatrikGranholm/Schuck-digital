@@ -1,0 +1,81 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 248,
+ "seconds": 22.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [353, 228, 863, 273], \"category\": \"Section-header\", \"text\": \"Den yngre Peringskiölds tid\"}, {\"bbox\": [87, 298, 1131, 554], \"category\": \"Text\", \"text\": \"obiter illud adjiciamus, nulli dubitamus quotannis ceimeliothecam Collegii Antiquitatum his talibus pretiosis auri argentique ceimeliis insigniter auctum iri, si tantillum ultra internum pretium metalli cederet inventoribus; nunc cum nonnisi tertiæ partis valor eis concedatur, tentationi objiciuntur, cui ferendæ non omnes sunt pares, et plurima veterrimæ ætatis monumenta auri et argenti fabrorum\"}, {\"bbox\": [95, 562, 1134, 1337], \"category\": \"Picture\"}, {\"bbox\": [462, 1358, 767, 1390], \"category\": \"Caption\", \"text\": \"De Ribbingska guldringarna.\"}, {\"bbox\": [93, 1416, 1137, 1628], \"category\": \"Text\", \"text\": \"sunt victimæ, non sine gravi antiquitatum patriorum jactura». Men det hjälpte icke. Fyndet inlöstes ej av staten och är numera förlorat, vare sig Ribbing låtit nedsmälta det eller sålt det till någon »fremmande». Det var dock detta fynd, som gav uppslaget till den visa lagstiftning om fornfynd, som inflöt i 1734 års lag.\"}, {\"bbox\": [96, 1623, 1138, 1752], \"category\": \"Text\", \"text\": \"Man torde observera, att Peringskiöld alls icke tog någon del i kanslikollegiets försök att för arkivet förvärva de dyrbara ringarna, ehuru han därtill haft starka skäl, ty förfaringssättet hade knappt\"}, {\"bbox\": [1064, 1785, 1133, 1823], \"category\": \"Page-footer\", \"text\": \"231\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    353,
+    228,
+    863,
+    273
+   ],
+   "category": "Section-header",
+   "text": "Den yngre Peringskiölds tid"
+  },
+  {
+   "bbox": [
+    87,
+    298,
+    1131,
+    554
+   ],
+   "category": "Text",
+   "text": "obiter illud adjiciamus, nulli dubitamus quotannis ceimeliothecam Collegii Antiquitatum his talibus pretiosis auri argentique ceimeliis insigniter auctum iri, si tantillum ultra internum pretium metalli cederet inventoribus; nunc cum nonnisi tertiæ partis valor eis concedatur, tentationi objiciuntur, cui ferendæ non omnes sunt pares, et plurima veterrimæ ætatis monumenta auri et argenti fabrorum"
+  },
+  {
+   "bbox": [
+    95,
+    562,
+    1134,
+    1337
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    462,
+    1358,
+    767,
+    1390
+   ],
+   "category": "Caption",
+   "text": "De Ribbingska guldringarna."
+  },
+  {
+   "bbox": [
+    93,
+    1416,
+    1137,
+    1628
+   ],
+   "category": "Text",
+   "text": "sunt victimæ, non sine gravi antiquitatum patriorum jactura». Men det hjälpte icke. Fyndet inlöstes ej av staten och är numera förlorat, vare sig Ribbing låtit nedsmälta det eller sålt det till någon »fremmande». Det var dock detta fynd, som gav uppslaget till den visa lagstiftning om fornfynd, som inflöt i 1734 års lag."
+  },
+  {
+   "bbox": [
+    96,
+    1623,
+    1138,
+    1752
+   ],
+   "category": "Text",
+   "text": "Man torde observera, att Peringskiöld alls icke tog någon del i kanslikollegiets försök att för arkivet förvärva de dyrbara ringarna, ehuru han därtill haft starka skäl, ty förfaringssättet hade knappt"
+  },
+  {
+   "bbox": [
+    1064,
+    1785,
+    1133,
+    1823
+   ],
+   "category": "Page-footer",
+   "text": "231"
+  }
+ ]
+}

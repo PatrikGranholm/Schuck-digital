@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 269,
+ "seconds": 26.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [888, 465, 1140, 502], \"category\": \"Section-header\", \"text\": \"HELINS TID.\"}, {\"bbox\": [351, 582, 474, 641], \"category\": \"Text\", \"text\": \"Vetenskaps-\\nsocieteten\"}, {\"bbox\": [486, 575, 1538, 1164], \"category\": \"Text\", \"text\": \"Icke många år efter det att Helin blivit ställd i spetsen för den svenska fornforskningen, råkade antikvitetsarkivet ut visserligen icke för ett anfall, men för ett förslag, som, så vida det gillats av höga vederbörande, skulle hava förvandlat arkivet från ett ämbetsverk i Stockholm till en akademi i Uppsala — således till det, som det forna antikvitetskollegiet varit ämnat att bliva. Förslaget ledde väl ej till något resultat, lika litet som Leijonmarcks förut omtalade försök att till riksarkivet återbörda de handskrifter och pärmebrev, som avsöndrats till antikvitetskollegiet, och således, i sak, sammanföra riks- och antikvitetsarkiven till en enda institution. Men förslaget är likväl av ett stort intresse och bör därför här ej förbigås, ty själva tanken att åter utvidga arkivet till en akademi återkommer vid flera tillfällen under 1700-talet, till dess att slutligen antikvitetsarkivet och vitterhetsakademien sammanslogos.\"}, {\"bbox\": [484, 1159, 1535, 1747], \"category\": \"Text\", \"text\": \"I Uppsala fanns som bekant sedan 1719 ett lärt sällskap, Bokwettsgillet, vilket 1728 ombildats till en akademi — den första i vårt land — Societas regia scientiarum eller Vetenskapssocieteten. Denna var visserligen huvudsakligen ett naturvetenskapligt sällskap, men nästan lika mycket ett humanistiskt, och dess ledare var under den första tiden vår störste då levande humanist, Erik Benzelius. Sedan 1720 utgav sällskapet en tidskrift, Acta litteraria Sveciæ, som innehöll en mängd artiklar även i antikvariska ämnen, och vid sammanträdena föredrogos uppsatser om runstenar och andra fornminnen. Så till vida fortlevde rudbeckianismen här, som Olof Rudbeck d. y. flitigt uppbyggde sällskapet med sina etymologiska fantasterier, men å den andra sidan hade den sunda fornforskningen här den yppersta representanten i landet, den lärde polyhistorn Olof Celsius. Man behöver blott läsa några utdrag ur protokollen\"}, {\"bbox\": [488, 1776, 563, 1815], \"category\": \"Page-footer\", \"text\": \"250\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    888,
+    465,
+    1140,
+    502
+   ],
+   "category": "Section-header",
+   "text": "HELINS TID."
+  },
+  {
+   "bbox": [
+    351,
+    582,
+    474,
+    641
+   ],
+   "category": "Text",
+   "text": "Vetenskaps-\nsocieteten"
+  },
+  {
+   "bbox": [
+    486,
+    575,
+    1538,
+    1164
+   ],
+   "category": "Text",
+   "text": "Icke många år efter det att Helin blivit ställd i spetsen för den svenska fornforskningen, råkade antikvitetsarkivet ut visserligen icke för ett anfall, men för ett förslag, som, så vida det gillats av höga vederbörande, skulle hava förvandlat arkivet från ett ämbetsverk i Stockholm till en akademi i Uppsala — således till det, som det forna antikvitetskollegiet varit ämnat att bliva. Förslaget ledde väl ej till något resultat, lika litet som Leijonmarcks förut omtalade försök att till riksarkivet återbörda de handskrifter och pärmebrev, som avsöndrats till antikvitetskollegiet, och således, i sak, sammanföra riks- och antikvitetsarkiven till en enda institution. Men förslaget är likväl av ett stort intresse och bör därför här ej förbigås, ty själva tanken att åter utvidga arkivet till en akademi återkommer vid flera tillfällen under 1700-talet, till dess att slutligen antikvitetsarkivet och vitterhetsakademien sammanslogos."
+  },
+  {
+   "bbox": [
+    484,
+    1159,
+    1535,
+    1747
+   ],
+   "category": "Text",
+   "text": "I Uppsala fanns som bekant sedan 1719 ett lärt sällskap, Bokwettsgillet, vilket 1728 ombildats till en akademi — den första i vårt land — Societas regia scientiarum eller Vetenskapssocieteten. Denna var visserligen huvudsakligen ett naturvetenskapligt sällskap, men nästan lika mycket ett humanistiskt, och dess ledare var under den första tiden vår störste då levande humanist, Erik Benzelius. Sedan 1720 utgav sällskapet en tidskrift, Acta litteraria Sveciæ, som innehöll en mängd artiklar även i antikvariska ämnen, och vid sammanträdena föredrogos uppsatser om runstenar och andra fornminnen. Så till vida fortlevde rudbeckianismen här, som Olof Rudbeck d. y. flitigt uppbyggde sällskapet med sina etymologiska fantasterier, men å den andra sidan hade den sunda fornforskningen här den yppersta representanten i landet, den lärde polyhistorn Olof Celsius. Man behöver blott läsa några utdrag ur protokollen"
+  },
+  {
+   "bbox": [
+    488,
+    1776,
+    563,
+    1815
+   ],
+   "category": "Page-footer",
+   "text": "250"
+  }
+ ]
+}

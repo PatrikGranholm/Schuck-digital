@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 268,
+ "seconds": 24.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [368, 218, 879, 264], \"category\": \"Section-header\", \"text\": \"Den yngre Peringskiölds tid\"}, {\"bbox\": [100, 287, 1146, 1293], \"category\": \"Text\", \"text\": \"till kanslikollegiet: »Friedrich — — — Wi hafwe i nåder låtit OSS föredraga Edert underdånige förslag dat. d. 11 nästledne martii till Secreterare Beställningen uti Wårt antiquitets Archivo efter framledne Secreteraren Peringschiöld, uti hwilket förslag af Eder i underdånighet blifwit nämde assessorerne Nicolaus Keder och Carl Ludvic von Scantz samt actuarien Johan Helin, anförande I därjemte, huruledes de 2:ne senare sig för Eder yttrat, att i fall OSS nådigst skulle täckas förhielpa någon af dem til denne beställning, då willja på en sådan händelse, äfwensom Secreteraren Peringschiöld i dess lifstid giordt, afstå till assessoren Keder årligen en fierdedel eller 300 Dr. smt. af lönen; och ehuruwäl Wij i nåder warit sinnade at i anseende till oftanämde assessor Keders långlige och trogne tiänst hugna honom med ber:de efter Peringschiöld ledig blefne Secreteriat, doch aldenstund han sig i underdånighet utlåtit at för dess tilltagande ålder skull hellre wilja förblifwa wid sin förre assessorstienst, allenast den, som till Secreterare tiensten förordnad warder, till honom årligen afgifwer en fierdedel af Secreterarelönen; altså har OSS i nåder behagat at uppå detta Secreteriat med Wår nådige fullmackt försee actuarien Johan Helin, hwilket Wij Eder härmed i nåder welat tillkänna gifwa med nådig wilja och befallning, at I sörjen derföre, det merbem:de assessor Keder må af honom deremot efter dess egen giorde utfästelse åhrligen uppbära en fierdedel af den löhn, som för samma Secreterare beställning i staten uppförd finnes» (Riksregistraturet).\"}, {\"bbox\": [109, 1287, 1145, 1376], \"category\": \"Text\", \"text\": \"Full lön fick Helin således först efter tio år, ty trots sin sjuklighet levde Keder ända till 1735.\"}, {\"bbox\": [1077, 1780, 1150, 1818], \"category\": \"Page-footer\", \"text\": \"249\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    368,
+    218,
+    879,
+    264
+   ],
+   "category": "Section-header",
+   "text": "Den yngre Peringskiölds tid"
+  },
+  {
+   "bbox": [
+    100,
+    287,
+    1146,
+    1293
+   ],
+   "category": "Text",
+   "text": "till kanslikollegiet: »Friedrich — — — Wi hafwe i nåder låtit OSS föredraga Edert underdånige förslag dat. d. 11 nästledne martii till Secreterare Beställningen uti Wårt antiquitets Archivo efter framledne Secreteraren Peringschiöld, uti hwilket förslag af Eder i underdånighet blifwit nämde assessorerne Nicolaus Keder och Carl Ludvic von Scantz samt actuarien Johan Helin, anförande I därjemte, huruledes de 2:ne senare sig för Eder yttrat, att i fall OSS nådigst skulle täckas förhielpa någon af dem til denne beställning, då willja på en sådan händelse, äfwensom Secreteraren Peringschiöld i dess lifstid giordt, afstå till assessoren Keder årligen en fierdedel eller 300 Dr. smt. af lönen; och ehuruwäl Wij i nåder warit sinnade at i anseende till oftanämde assessor Keders långlige och trogne tiänst hugna honom med ber:de efter Peringschiöld ledig blefne Secreteriat, doch aldenstund han sig i underdånighet utlåtit at för dess tilltagande ålder skull hellre wilja förblifwa wid sin förre assessorstienst, allenast den, som till Secreterare tiensten förordnad warder, till honom årligen afgifwer en fierdedel af Secreterarelönen; altså har OSS i nåder behagat at uppå detta Secreteriat med Wår nådige fullmackt försee actuarien Johan Helin, hwilket Wij Eder härmed i nåder welat tillkänna gifwa med nådig wilja och befallning, at I sörjen derföre, det merbem:de assessor Keder må af honom deremot efter dess egen giorde utfästelse åhrligen uppbära en fierdedel af den löhn, som för samma Secreterare beställning i staten uppförd finnes» (Riksregistraturet)."
+  },
+  {
+   "bbox": [
+    109,
+    1287,
+    1145,
+    1376
+   ],
+   "category": "Text",
+   "text": "Full lön fick Helin således först efter tio år, ty trots sin sjuklighet levde Keder ända till 1735."
+  },
+  {
+   "bbox": [
+    1077,
+    1780,
+    1150,
+    1818
+   ],
+   "category": "Page-footer",
+   "text": "249"
+  }
+ ]
+}

@@ -1,0 +1,152 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 182,
+ "seconds": 24.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [381, 226, 892, 269], \"category\": \"Section-header\", \"text\": \"Den äldre Peringskiölds tid\"}, {\"bbox\": [114, 296, 1159, 1380], \"category\": \"Text\", \"text\": \"den bekante samlaren Gahm Persson, från honom till Nescher och från denne till Kungl. biblioteket, där de nu förvaras i tio folio-band. De kunna ej betraktas såsom manuskriptet till Monumenta utan såsom en samling anteckningar, som skulle användas för det tillämnade arbetet. Volym I, »Introductio», har ett mycket heterogent innehåll, några projekterade företal av Peringskiöld, avskrifter av avhandlingar av Örnhielm, den äldre Hadorph (om Gotland, om runor m. m.), den yngre Hadorph (om språkens ursprung, om det forntida begravningsskicket), stora förteckningar på runstenar och gravmonument i olika delar av Sverige, några småskrifter av Peringskiöld m. m. Volym II innehåller collectenea för Tiundaland. Volym III har titeln »Then Andra Boken af Swea och Göthernas Minnings-Märken fordom uthi Uplands andra dehl Attundaland med Runer eller annan Skrifft på Stenar och ährestoder inrättade, nu yttermera afrijtade och med En wederbörlig uthtydning korteligen beskrefne», men består också blott av collectanea. Volym IV innehåller tre »böcker»: »Tridie Boken af Swea och Göthernes Minnings-Märke innehållandes — — — Uplands tredie dehl Fjädrundaland», vidare »Fierde Boken, i hvilken beskådas Swea och Göthernas Minnings-Märke och gamla handlingar uthi Wesmannaland», och här förekommer även ett brev om en runsten, som påträffats så sent som 1723, vilket visar, att samingen åtminstone i någon mån fortsatts eller varit ämnad att fortsättas av den yngre Peringskiöld. Såsom »Femte Boken» förekommer här Dalarna, vilken bok egentligen blott består av en avskrift av en relation om Näftåget. I volym V har den sjätte boken ägnats\"}, {\"bbox\": [140, 1395, 1012, 1428], \"category\": \"Footnote\", \"text\": \"18) Caracteres Illustrium Heroum, Procerum ac Consiliariorum Regni Sveciæ.\"}, {\"bbox\": [140, 1426, 856, 1459], \"category\": \"Footnote\", \"text\": \"19) Triplex appendix ad Caracteres Procerum et Conciliariorum.\"}, {\"bbox\": [140, 1457, 476, 1487], \"category\": \"Footnote\", \"text\": \"20) Gubernatores ac Præfecti.\"}, {\"bbox\": [140, 1487, 539, 1518], \"category\": \"Footnote\", \"text\": \"21) Legiferi et judices Territoriales.\"}, {\"bbox\": [140, 1518, 434, 1547], \"category\": \"Footnote\", \"text\": \"22) Consules et Senatores.\"}, {\"bbox\": [140, 1545, 813, 1577], \"category\": \"Footnote\", \"text\": \"23) Onomasticon Gothicum, item matonymica Sveo Gothica.\"}, {\"bbox\": [140, 1575, 594, 1606], \"category\": \"Footnote\", \"text\": \"24) Proverbiorum Gothicorum fasciculus.\"}, {\"bbox\": [140, 1606, 859, 1637], \"category\": \"Footnote\", \"text\": \"25) Index nominum Poeticorum. Lärer wara Lexicon Poeticum.\"}, {\"bbox\": [118, 1633, 1157, 1698], \"category\": \"Footnote\", \"text\": \"26) Index Historico-Philologicum antiquitates concernens Patrias e Codd. tam Mss quam impressis desumptas studio I. Fr. Peringskiold.\"}, {\"bbox\": [140, 1696, 626, 1727], \"category\": \"Footnote\", \"text\": \"27) Verelii Index Linguæ veteris Scandicæ.\"}, {\"bbox\": [140, 1727, 524, 1756], \"category\": \"Footnote\", \"text\": \"28) Proftryck af någre Runstenar.\"}, {\"bbox\": [1085, 1788, 1152, 1825], \"category\": \"Page-footer\", \"text\": \"171\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    381,
+    226,
+    892,
+    269
+   ],
+   "category": "Section-header",
+   "text": "Den äldre Peringskiölds tid"
+  },
+  {
+   "bbox": [
+    114,
+    296,
+    1159,
+    1380
+   ],
+   "category": "Text",
+   "text": "den bekante samlaren Gahm Persson, från honom till Nescher och från denne till Kungl. biblioteket, där de nu förvaras i tio folio-band. De kunna ej betraktas såsom manuskriptet till Monumenta utan såsom en samling anteckningar, som skulle användas för det tillämnade arbetet. Volym I, »Introductio», har ett mycket heterogent innehåll, några projekterade företal av Peringskiöld, avskrifter av avhandlingar av Örnhielm, den äldre Hadorph (om Gotland, om runor m. m.), den yngre Hadorph (om språkens ursprung, om det forntida begravningsskicket), stora förteckningar på runstenar och gravmonument i olika delar av Sverige, några småskrifter av Peringskiöld m. m. Volym II innehåller collectenea för Tiundaland. Volym III har titeln »Then Andra Boken af Swea och Göthernas Minnings-Märken fordom uthi Uplands andra dehl Attundaland med Runer eller annan Skrifft på Stenar och ährestoder inrättade, nu yttermera afrijtade och med En wederbörlig uthtydning korteligen beskrefne», men består också blott av collectanea. Volym IV innehåller tre »böcker»: »Tridie Boken af Swea och Göthernes Minnings-Märke innehållandes — — — Uplands tredie dehl Fjädrundaland», vidare »Fierde Boken, i hvilken beskådas Swea och Göthernas Minnings-Märke och gamla handlingar uthi Wesmannaland», och här förekommer även ett brev om en runsten, som påträffats så sent som 1723, vilket visar, att samingen åtminstone i någon mån fortsatts eller varit ämnad att fortsättas av den yngre Peringskiöld. Såsom »Femte Boken» förekommer här Dalarna, vilken bok egentligen blott består av en avskrift av en relation om Näftåget. I volym V har den sjätte boken ägnats"
+  },
+  {
+   "bbox": [
+    140,
+    1395,
+    1012,
+    1428
+   ],
+   "category": "Footnote",
+   "text": "18) Caracteres Illustrium Heroum, Procerum ac Consiliariorum Regni Sveciæ."
+  },
+  {
+   "bbox": [
+    140,
+    1426,
+    856,
+    1459
+   ],
+   "category": "Footnote",
+   "text": "19) Triplex appendix ad Caracteres Procerum et Conciliariorum."
+  },
+  {
+   "bbox": [
+    140,
+    1457,
+    476,
+    1487
+   ],
+   "category": "Footnote",
+   "text": "20) Gubernatores ac Præfecti."
+  },
+  {
+   "bbox": [
+    140,
+    1487,
+    539,
+    1518
+   ],
+   "category": "Footnote",
+   "text": "21) Legiferi et judices Territoriales."
+  },
+  {
+   "bbox": [
+    140,
+    1518,
+    434,
+    1547
+   ],
+   "category": "Footnote",
+   "text": "22) Consules et Senatores."
+  },
+  {
+   "bbox": [
+    140,
+    1545,
+    813,
+    1577
+   ],
+   "category": "Footnote",
+   "text": "23) Onomasticon Gothicum, item matonymica Sveo Gothica."
+  },
+  {
+   "bbox": [
+    140,
+    1575,
+    594,
+    1606
+   ],
+   "category": "Footnote",
+   "text": "24) Proverbiorum Gothicorum fasciculus."
+  },
+  {
+   "bbox": [
+    140,
+    1606,
+    859,
+    1637
+   ],
+   "category": "Footnote",
+   "text": "25) Index nominum Poeticorum. Lärer wara Lexicon Poeticum."
+  },
+  {
+   "bbox": [
+    118,
+    1633,
+    1157,
+    1698
+   ],
+   "category": "Footnote",
+   "text": "26) Index Historico-Philologicum antiquitates concernens Patrias e Codd. tam Mss quam impressis desumptas studio I. Fr. Peringskiold."
+  },
+  {
+   "bbox": [
+    140,
+    1696,
+    626,
+    1727
+   ],
+   "category": "Footnote",
+   "text": "27) Verelii Index Linguæ veteris Scandicæ."
+  },
+  {
+   "bbox": [
+    140,
+    1727,
+    524,
+    1756
+   ],
+   "category": "Footnote",
+   "text": "28) Proftryck af någre Runstenar."
+  },
+  {
+   "bbox": [
+    1085,
+    1788,
+    1152,
+    1825
+   ],
+   "category": "Page-footer",
+   "text": "171"
+  }
+ ]
+}

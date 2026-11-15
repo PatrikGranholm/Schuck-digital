@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 564,
+ "seconds": 33.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [554, 215, 744, 250], \"category\": \"Section-header\", \"text\": \"Helins tid\"}, {\"bbox\": [124, 284, 1159, 718], \"category\": \"Table\", \"text\": \"<table><tr><td>10) En massiv guldarmring</td><td>22 7/8</td></tr><tr><td>11) En hel tunn bögd tummering</td><td>1 3/4</td></tr><tr><td>12) Trenne långliga knappar af Fildegrains arbete och olika storlek, tilhopa</td><td>10 3/8</td></tr><tr><td>13) En liten tunn ring</td><td>3/4</td></tr><tr><td>14) Et wridit guldstycke, som wid dess påfinnande warit wridit som en armring, af ringa materia</td><td>7 3/8</td></tr><tr><td>15) de stora guldringarne, som 1738 blifwit fundne i Wästergötland wäga 131 lod, myntewigt</td><td>524</td></tr><tr><td>16) En hårnål hel lik med den, som ännu brukas, funnen efter slotsbranden i Westerås med åretahl 1638</td><td>2 3/8</td></tr><tr><td>17) En långlig guldknapp</td><td>2</td></tr></table>\"}, {\"bbox\": [124, 761, 1164, 846], \"category\": \"Section-header\", \"text\": \"Förtekning på guldpenningar eller medailler, som förwaras i K. R. Antiquitets Archivo\"}, {\"bbox\": [138, 822, 1159, 1322], \"category\": \"Table\", \"text\": \"<table><thead><tr><th></th><th>Ducat.</th></tr></thead><tbody><tr><td>1) Attilæ ansichte med horn. På andra sidan AQVILEIA, wäger</td><td>34</td></tr><tr><td>2) K. Gustavi I krönings medaille 1528</td><td>7 1/2</td></tr><tr><td>3) En samma Konungs medaille med ciseleradt arbete och tredubbel kedia</td><td>11 3/4</td></tr><tr><td>4) K. Caroli IX med dess bild och Swenska wapnet, på andra sidan 1608</td><td>5 3/4</td></tr><tr><td>5) Samma Konungs Skådepenning öfwer Staden Giötheborgs anläggande</td><td>12 3/4</td></tr><tr><td>6) En i Tyskland slagen skådepenning öfwer Westfaliska freden</td><td>10</td></tr><tr><td>7) Fem Rom. Keysares mynt af Bas Empire, fundne på Gotland, tilhopa</td><td>6 1/4</td></tr><tr><td>8) Twänne långliga tunna ovaler el. Japanska guldtungor el. mynt med dylika Caracterer teknade</td><td>10 1/8</td></tr></tbody></table>\"}, {\"bbox\": [124, 1359, 1164, 1445], \"category\": \"Section-header\", \"text\": \"Förtekning på de ifrån K. Stats Contoiret 1731 til K. Antiquitets Archivum lefwererade gamla mynt och medailler i guld.\"}, {\"bbox\": [138, 1426, 1164, 1741], \"category\": \"Table\", \"text\": \"<table><thead><tr><th></th><th>Ducat.</th></tr></thead><tbody><tr><td>1) Imp. Caes. Domit. Avg. Ger. Cos. XVII æ. Caput Domitiani Pont. Maxi. RP VIII. LVD. Saec. Sve. D. Infra S. C. Imperator in templi porticu sedens</td><td>10</td></tr><tr><td>2) Hadrianus Avgvstvs PP. Caput Imperatoris laureatum. Cos III. Eques</td><td>2 1/16</td></tr><tr><td>3) Faustina Avg. Pii. Avg. Fil. Caput Faustinæ Concordia. Avis.</td><td>2 1/16</td></tr><tr><td>4) Imp. Gordianus Pius Felix Avgvstvs. Caput Gordiani radiatum P. M. TRP. Cos. II. PP. mulier sedens, sinistra ramum tenet</td><td>20 1/2</td></tr></tbody></table>\"}, {\"bbox\": [147, 1783, 253, 1808], \"category\": \"Page-footer\", \"text\": \"35-34672.\"}, {\"bbox\": [1092, 1779, 1160, 1816], \"category\": \"Page-footer\", \"text\": \"545\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    554,
+    215,
+    744,
+    250
+   ],
+   "category": "Section-header",
+   "text": "Helins tid"
+  },
+  {
+   "bbox": [
+    124,
+    284,
+    1159,
+    718
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>10) En massiv guldarmring</td><td>22 7/8</td></tr><tr><td>11) En hel tunn bögd tummering</td><td>1 3/4</td></tr><tr><td>12) Trenne långliga knappar af Fildegrains arbete och olika storlek, tilhopa</td><td>10 3/8</td></tr><tr><td>13) En liten tunn ring</td><td>3/4</td></tr><tr><td>14) Et wridit guldstycke, som wid dess påfinnande warit wridit som en armring, af ringa materia</td><td>7 3/8</td></tr><tr><td>15) de stora guldringarne, som 1738 blifwit fundne i Wästergötland wäga 131 lod, myntewigt</td><td>524</td></tr><tr><td>16) En hårnål hel lik med den, som ännu brukas, funnen efter slotsbranden i Westerås med åretahl 1638</td><td>2 3/8</td></tr><tr><td>17) En långlig guldknapp</td><td>2</td></tr></table>"
+  },
+  {
+   "bbox": [
+    124,
+    761,
+    1164,
+    846
+   ],
+   "category": "Section-header",
+   "text": "Förtekning på guldpenningar eller medailler, som förwaras i K. R. Antiquitets Archivo"
+  },
+  {
+   "bbox": [
+    138,
+    822,
+    1159,
+    1322
+   ],
+   "category": "Table",
+   "text": "<table><thead><tr><th></th><th>Ducat.</th></tr></thead><tbody><tr><td>1) Attilæ ansichte med horn. På andra sidan AQVILEIA, wäger</td><td>34</td></tr><tr><td>2) K. Gustavi I krönings medaille 1528</td><td>7 1/2</td></tr><tr><td>3) En samma Konungs medaille med ciseleradt arbete och tredubbel kedia</td><td>11 3/4</td></tr><tr><td>4) K. Caroli IX med dess bild och Swenska wapnet, på andra sidan 1608</td><td>5 3/4</td></tr><tr><td>5) Samma Konungs Skådepenning öfwer Staden Giötheborgs anläggande</td><td>12 3/4</td></tr><tr><td>6) En i Tyskland slagen skådepenning öfwer Westfaliska freden</td><td>10</td></tr><tr><td>7) Fem Rom. Keysares mynt af Bas Empire, fundne på Gotland, tilhopa</td><td>6 1/4</td></tr><tr><td>8) Twänne långliga tunna ovaler el. Japanska guldtungor el. mynt med dylika Caracterer teknade</td><td>10 1/8</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    124,
+    1359,
+    1164,
+    1445
+   ],
+   "category": "Section-header",
+   "text": "Förtekning på de ifrån K. Stats Contoiret 1731 til K. Antiquitets Archivum lefwererade gamla mynt och medailler i guld."
+  },
+  {
+   "bbox": [
+    138,
+    1426,
+    1164,
+    1741
+   ],
+   "category": "Table",
+   "text": "<table><thead><tr><th></th><th>Ducat.</th></tr></thead><tbody><tr><td>1) Imp. Caes. Domit. Avg. Ger. Cos. XVII æ. Caput Domitiani Pont. Maxi. RP VIII. LVD. Saec. Sve. D. Infra S. C. Imperator in templi porticu sedens</td><td>10</td></tr><tr><td>2) Hadrianus Avgvstvs PP. Caput Imperatoris laureatum. Cos III. Eques</td><td>2 1/16</td></tr><tr><td>3) Faustina Avg. Pii. Avg. Fil. Caput Faustinæ Concordia. Avis.</td><td>2 1/16</td></tr><tr><td>4) Imp. Gordianus Pius Felix Avgvstvs. Caput Gordiani radiatum P. M. TRP. Cos. II. PP. mulier sedens, sinistra ramum tenet</td><td>20 1/2</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    147,
+    1783,
+    253,
+    1808
+   ],
+   "category": "Page-footer",
+   "text": "35-34672."
+  },
+  {
+   "bbox": [
+    1092,
+    1779,
+    1160,
+    1816
+   ],
+   "category": "Page-footer",
+   "text": "545"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 565,
+ "seconds": 28.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [806, 221, 1182, 256], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [472, 288, 1521, 723], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>5)</td><td>Imp. C. CL. Tacitus Avg. Caput Imperatoris laureatum Victoria Avg. Victoria dextra corollam, sinistra palmæ ramum tenet</td><td>1 1/4</td></tr><tr><td>6)</td><td>DN. Valentinianvs PF. Avg. Caput Restitvtor Reipvblicæ. Imperator Stans cum labaro et victoriola. Infra Ant. Γ</td><td>1 1/4</td></tr><tr><td>7)</td><td>Dn. Theodosivs PF. Avg. Caput Imperatoris diadematum. Victoria Avgg. Duo Imperatores sedentes cum globo intermedio, supra adstante victoria</td><td>1 1/2</td></tr><tr><td>8)</td><td>ΦΙΛΙΠΠΟΥ. Victoria in bigis. Caput laureatum</td><td>2 7/16</td></tr><tr><td>9)</td><td>ΒΑΣΙΛΕΩΣ ΛΥΣΙΜΑΧΟΥ Γ. Minerva sedens victoriolam præferens Caput diadematum et Coronatum</td><td>5</td></tr><tr><td>10)</td><td>Nummus Talismannicus</td><td>8 1/8»</td></tr></tbody></table>\"}, {\"bbox\": [472, 748, 1519, 1746], \"category\": \"Text\", \"text\": \"Sedan kanslikollegiet mottagit Helins memorial, skrev det den 10 december 1743 till Kungl. Maj:t (R. A. Kanslikoll. skrivelser till K. M.): »Eders Kongl. May:t har igenom utdrag utur Råds Protocollet af d. 8 sistl. Novembr i nåder behagat anbefalla dess och Riksens Cantzlie Collegium at i underdånighet til känna gifwa, hwad gull-Persedlar, som tid effter annan blifwit inlöste och til antiquitets archivum inlefwererade, måge därstädes finnas at tilgå, samt tillika yttra, hwad som för antiquitetens skull bör förwaras samt hwad af berörde gull-Persedlar til ett annat förewarande nödigt behof må kunna anwändas til tre hundrade Ducaters wigt. Til underdånigt följe häraf har Collegium detta angående inhämtat Secreterarens wid antiquitets archivum Helins utlåtande, som författat den wid des Memorial underdånigt bifogade förtekning öfwer de tid efter annan inkomne fynd lit A som ock af de där förwarade guldmynt, penningar och Medailler lit B och C. Ehuru nu Secreteraren Helin uppgifwit de mynt och guldpenningar, som kunde för mindre rare anses och hwilka til wigten allenast utgiöra ungefärl. 96 ducater i sämre och bättre guld, så föreställer han likwäl, om icke de borde än widare lämnas wid antiquitets archivum til at igenom byte eller kiöp få anwända dem antingen till den Swenska eller den Romerska myntesamlingens förökande. Detta har Collegium Eders Kongl. May:t i underdånighet föredraga bordt, och alldenstund utom de fynd och penningar, som för Rikets heder icke kunna umbäras och hwilka af deras ålder eller sälsynta art äga hos kännare mång-\"}, {\"bbox\": [476, 1775, 550, 1822], \"category\": \"Page-footer\", \"text\": \"546\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    806,
+    221,
+    1182,
+    256
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    472,
+    288,
+    1521,
+    723
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>5)</td><td>Imp. C. CL. Tacitus Avg. Caput Imperatoris laureatum Victoria Avg. Victoria dextra corollam, sinistra palmæ ramum tenet</td><td>1 1/4</td></tr><tr><td>6)</td><td>DN. Valentinianvs PF. Avg. Caput Restitvtor Reipvblicæ. Imperator Stans cum labaro et victoriola. Infra Ant. Γ</td><td>1 1/4</td></tr><tr><td>7)</td><td>Dn. Theodosivs PF. Avg. Caput Imperatoris diadematum. Victoria Avgg. Duo Imperatores sedentes cum globo intermedio, supra adstante victoria</td><td>1 1/2</td></tr><tr><td>8)</td><td>ΦΙΛΙΠΠΟΥ. Victoria in bigis. Caput laureatum</td><td>2 7/16</td></tr><tr><td>9)</td><td>ΒΑΣΙΛΕΩΣ ΛΥΣΙΜΑΧΟΥ Γ. Minerva sedens victoriolam præferens Caput diadematum et Coronatum</td><td>5</td></tr><tr><td>10)</td><td>Nummus Talismannicus</td><td>8 1/8»</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    472,
+    748,
+    1519,
+    1746
+   ],
+   "category": "Text",
+   "text": "Sedan kanslikollegiet mottagit Helins memorial, skrev det den 10 december 1743 till Kungl. Maj:t (R. A. Kanslikoll. skrivelser till K. M.): »Eders Kongl. May:t har igenom utdrag utur Råds Protocollet af d. 8 sistl. Novembr i nåder behagat anbefalla dess och Riksens Cantzlie Collegium at i underdånighet til känna gifwa, hwad gull-Persedlar, som tid effter annan blifwit inlöste och til antiquitets archivum inlefwererade, måge därstädes finnas at tilgå, samt tillika yttra, hwad som för antiquitetens skull bör förwaras samt hwad af berörde gull-Persedlar til ett annat förewarande nödigt behof må kunna anwändas til tre hundrade Ducaters wigt. Til underdånigt följe häraf har Collegium detta angående inhämtat Secreterarens wid antiquitets archivum Helins utlåtande, som författat den wid des Memorial underdånigt bifogade förtekning öfwer de tid efter annan inkomne fynd lit A som ock af de där förwarade guldmynt, penningar och Medailler lit B och C. Ehuru nu Secreteraren Helin uppgifwit de mynt och guldpenningar, som kunde för mindre rare anses och hwilka til wigten allenast utgiöra ungefärl. 96 ducater i sämre och bättre guld, så föreställer han likwäl, om icke de borde än widare lämnas wid antiquitets archivum til at igenom byte eller kiöp få anwända dem antingen till den Swenska eller den Romerska myntesamlingens förökande. Detta har Collegium Eders Kongl. May:t i underdånighet föredraga bordt, och alldenstund utom de fynd och penningar, som för Rikets heder icke kunna umbäras och hwilka af deras ålder eller sälsynta art äga hos kännare mång-"
+  },
+  {
+   "bbox": [
+    476,
+    1775,
+    550,
+    1822
+   ],
+   "category": "Page-footer",
+   "text": "546"
+  }
+ ]
+}

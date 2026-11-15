@@ -1,0 +1,31 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 12,
+ "seconds": 8.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [125, 353, 745, 1551], \"category\": \"Picture\"}, {\"bbox\": [275, 1596, 935, 1705], \"category\": \"Caption\", \"text\": \"JOHAN PERINGSKIÖLD\\nMålning av Jean Klopper.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    125,
+    353,
+    745,
+    1551
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    275,
+    1596,
+    935,
+    1705
+   ],
+   "category": "Caption",
+   "text": "JOHAN PERINGSKIÖLD\nMålning av Jean Klopper."
+  }
+ ]
+}

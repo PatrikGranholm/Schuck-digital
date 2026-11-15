@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 84,
+ "seconds": 34.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [400, 226, 911, 269], \"category\": \"Section-header\", \"text\": \"Den äldre Peringskiölds tid\"}, {\"bbox\": [282, 298, 634, 340], \"category\": \"Section-header\", \"text\": \"»Antiquitets Archivum\"}, {\"bbox\": [1065, 304, 1169, 336], \"category\": \"Text\", \"text\": \"Dr. smt\"}, {\"bbox\": [131, 345, 1169, 788], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>1</td><td>Secreterare och Antiquarius</td><td>1200</td></tr><tr><td>2</td><td>assessorer à 600 D.</td><td>1200</td></tr><tr><td>1</td><td>Translator i gamla språken</td><td>600</td></tr><tr><td>2</td><td>Cancellister à 300 Dr.</td><td>600</td></tr><tr><td>1</td><td>Ritare</td><td>200</td></tr><tr><td></td><td></td><td>3800</td></tr><tr><td>1</td><td>Antiquitets archivi påst</td><td>150</td></tr><tr><td></td><td>Till kläder för hwar påst</td><td>34</td></tr><tr><td></td><td>Til skrifmaterialier för Antiquitets Archivum, resepenningar wid Antiquiteters uppsökande, Böckers inkiöpande, Tryck och formsnidare löhn</td><td>650</td></tr><tr><td></td><td>Summa</td><td>4634»</td></tr></tbody></table>\"}, {\"bbox\": [126, 809, 1169, 1225], \"category\": \"Text\", \"text\": \"Staten skiljer sig i sak föga från 1692 års. Viktigast är, att antikvariens och sekreterarens lön, som förut stått på två olika ställen, sammanförts, så att denna lön upptagits till 1200 daler. Men i sammanhang därmed har arvodet till antikvariens skrivare, 150 daler, strukits. Egendomligt nog har translatorns lön ökats från 500 till 600 daler, likaså de bägge kanslisternas, som förut hade 250, resp. 200, men nu fingo 300 var. Likaså har drängens eller »antikvitetspostens» lön ökats från 60 till 184 daler. Anslaget till expenser, resor, bokinköp m. m. blev detsamma som förut, ehuru — som vi strax skola se — det redan 1711 ifrågasattes att indraga\"}, {\"bbox\": [124, 1247, 1169, 1516], \"category\": \"Text\", \"text\": \"fördenskull åhrligen och så ofta Collegium därom will wara underrättad, att gifwa Collegio Berättelse, hwad han efter dess Instruction med sine underbetiente däruti har utarbetat. Skulle han ifrån Landsorterne förnimma, att någon tillförende icke bekant Runesten eller annan antiquitet där woro att see, så kan han antingen låta afrijta sådane Stenar och Monumenter eller med Collegii godtfinnande sielf resa dijt och således giöra sig om deras innehåld och betydelse underrättad. Hwad Secreteraren med de öfrige Betienternes tillhielp kan hafwa utarbetat och pröfwar godt att låta genom trycket utgå, det tillåtes honom efter wanligheten med Kongl. May:tz bekostnad att låta trycka, sedan det af Collegio behörigen blifvit öfwersedt och gillat, rättandes sig Secreteraren i det öfriga efter dess Instruction.\"}, {\"bbox\": [124, 1516, 1169, 1603], \"category\": \"Text\", \"text\": \"38 §) Assessorerne uti Antiquitets Archivo åligger äfven som Secreteraren alla åhr att utgifwa i dagsliuset något wärck, som de hafwa utarbetat eller åtminstone wisa, hwad de hafwa giordt och huruwida de därmed äro komne, änskiönt de icke alt till åhrets slut hafwa kunnat fullborda.\"}, {\"bbox\": [124, 1605, 1169, 1755], \"category\": \"Text\", \"text\": \"39 §) Ritaren uti Antiquitets Archivo bör sig dersammastädes flitigt infinna och icke allenast afrita det, som honom af wederbörande kan blifwa befalt, utan ock giöra sig uti de gambla Runeskrifter och stylar så färdig, att han dem wäl och tydeligen kan utföra, i synnerhet då de derefter komma att utstickas. Han skall ock i alla andra förefallande åhrender gå dess Förmän tillhanda och alt hwad honom i dess beställning kan anförtros.»\"}, {\"bbox\": [1120, 1792, 1164, 1830], \"category\": \"Page-footer\", \"text\": \"75\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    400,
+    226,
+    911,
+    269
+   ],
+   "category": "Section-header",
+   "text": "Den äldre Peringskiölds tid"
+  },
+  {
+   "bbox": [
+    282,
+    298,
+    634,
+    340
+   ],
+   "category": "Section-header",
+   "text": "»Antiquitets Archivum"
+  },
+  {
+   "bbox": [
+    1065,
+    304,
+    1169,
+    336
+   ],
+   "category": "Text",
+   "text": "Dr. smt"
+  },
+  {
+   "bbox": [
+    131,
+    345,
+    1169,
+    788
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>1</td><td>Secreterare och Antiquarius</td><td>1200</td></tr><tr><td>2</td><td>assessorer à 600 D.</td><td>1200</td></tr><tr><td>1</td><td>Translator i gamla språken</td><td>600</td></tr><tr><td>2</td><td>Cancellister à 300 Dr.</td><td>600</td></tr><tr><td>1</td><td>Ritare</td><td>200</td></tr><tr><td></td><td></td><td>3800</td></tr><tr><td>1</td><td>Antiquitets archivi påst</td><td>150</td></tr><tr><td></td><td>Till kläder för hwar påst</td><td>34</td></tr><tr><td></td><td>Til skrifmaterialier för Antiquitets Archivum, resepenningar wid Antiquiteters uppsökande, Böckers inkiöpande, Tryck och formsnidare löhn</td><td>650</td></tr><tr><td></td><td>Summa</td><td>4634»</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    126,
+    809,
+    1169,
+    1225
+   ],
+   "category": "Text",
+   "text": "Staten skiljer sig i sak föga från 1692 års. Viktigast är, att antikvariens och sekreterarens lön, som förut stått på två olika ställen, sammanförts, så att denna lön upptagits till 1200 daler. Men i sammanhang därmed har arvodet till antikvariens skrivare, 150 daler, strukits. Egendomligt nog har translatorns lön ökats från 500 till 600 daler, likaså de bägge kanslisternas, som förut hade 250, resp. 200, men nu fingo 300 var. Likaså har drängens eller »antikvitetspostens» lön ökats från 60 till 184 daler. Anslaget till expenser, resor, bokinköp m. m. blev detsamma som förut, ehuru — som vi strax skola se — det redan 1711 ifrågasattes att indraga"
+  },
+  {
+   "bbox": [
+    124,
+    1247,
+    1169,
+    1516
+   ],
+   "category": "Text",
+   "text": "fördenskull åhrligen och så ofta Collegium därom will wara underrättad, att gifwa Collegio Berättelse, hwad han efter dess Instruction med sine underbetiente däruti har utarbetat. Skulle han ifrån Landsorterne förnimma, att någon tillförende icke bekant Runesten eller annan antiquitet där woro att see, så kan han antingen låta afrijta sådane Stenar och Monumenter eller med Collegii godtfinnande sielf resa dijt och således giöra sig om deras innehåld och betydelse underrättad. Hwad Secreteraren med de öfrige Betienternes tillhielp kan hafwa utarbetat och pröfwar godt att låta genom trycket utgå, det tillåtes honom efter wanligheten med Kongl. May:tz bekostnad att låta trycka, sedan det af Collegio behörigen blifvit öfwersedt och gillat, rättandes sig Secreteraren i det öfriga efter dess Instruction."
+  },
+  {
+   "bbox": [
+    124,
+    1516,
+    1169,
+    1603
+   ],
+   "category": "Text",
+   "text": "38 §) Assessorerne uti Antiquitets Archivo åligger äfven som Secreteraren alla åhr att utgifwa i dagsliuset något wärck, som de hafwa utarbetat eller åtminstone wisa, hwad de hafwa giordt och huruwida de därmed äro komne, änskiönt de icke alt till åhrets slut hafwa kunnat fullborda."
+  },
+  {
+   "bbox": [
+    124,
+    1605,
+    1169,
+    1755
+   ],
+   "category": "Text",
+   "text": "39 §) Ritaren uti Antiquitets Archivo bör sig dersammastädes flitigt infinna och icke allenast afrita det, som honom af wederbörande kan blifwa befalt, utan ock giöra sig uti de gambla Runeskrifter och stylar så färdig, att han dem wäl och tydeligen kan utföra, i synnerhet då de derefter komma att utstickas. Han skall ock i alla andra förefallande åhrender gå dess Förmän tillhanda och alt hwad honom i dess beställning kan anförtros.»"
+  },
+  {
+   "bbox": [
+    1120,
+    1792,
+    1164,
+    1830
+   ],
+   "category": "Page-footer",
+   "text": "75"
+  }
+ ]
+}

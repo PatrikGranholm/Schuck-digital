@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 398,
+ "seconds": 28.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [545, 233, 732, 269], \"category\": \"Section-header\", \"text\": \"Helins tid\"}, {\"bbox\": [120, 304, 1163, 386], \"category\": \"Text\", \"text\": \"Betänkande förmäles om Secreteraren Helin wore något hårdt at taxera honom före, hälst ohördan.\"}, {\"bbox\": [120, 387, 1163, 549], \"category\": \"Text\", \"text\": \"Hr. Borgm. Renhorn swarade härtil, at de ledamöter af mindre Secrete Deputationen, som warit ombudne at efftersee, huru i archivo tilstode, funnit det i sådant tilstånd, som Betänkandet förmäler.\"}, {\"bbox\": [120, 553, 1165, 1096], \"category\": \"Text\", \"text\": \"Hr. Biskopen Dr. Eric Benzelius yttrade sig, at om något hade warit felat, som förtiente anmärckning och påminnelse, hade sådant bordt komma ifrån secrete utskottet el. Cancellie Collegio. Men icke som förnimmes wara skiedt, at konungens Betiente blifwa af enskylte personer, som ey höra til mindre Deputationen och icke en gång hafwa säte och stämma i Secrete utskottet, oskyldigt tiltalte under Ständers namn. Och hwad den omtalte oredan angår, kan man ey så mycket undra derpå, när til en så stoor hoop saker och skrifter ey mehra än 2:ne obeqwäme rum äro at tilgå; men om de hade tilräckeligit utrymme, kunde de med skiäl lastas, för det de icke hölle bättre ordning. Eljest wore fullkomlige Register öfwer archiver ey så snart at förfärdiga, hwarom ingen bättre kunde döma än den, som et Bibliotheque el. archivum länge förestått.\"}, {\"bbox\": [120, 1095, 1165, 1262], \"category\": \"Text\", \"text\": \"Hr. Lagercrantz yttrande sig äfwen hafwa hördt, at wid det tilfället de Deputerade warit uppe i antiquitets archivo, hade en och annan otienlighet förelupit af dem, som ey hördt til Deputationen och derföre så mycket mindre bordt sig dermed befatta.\"}, {\"bbox\": [120, 1261, 1165, 1713], \"category\": \"Text\", \"text\": \"Hr. Borgm. Reenhorn sade, at Deputationen ey rådt före, at innan den ditkom, någre andre herredagsmän warit der förut, beropade sig i öfrigt på de andre mindre Secrete Deputationens h:rar ledamöter, som warit med i archivo, i hwad confusion de funnit saker och handlingar blandade hwar om annan, utan at ledamöterne wetat någon reda däruppå el. at något tilförlåteligt Register kunnat upwisas, oachtat Secreteraren Helin åberopat sig på et sådant, hwarpå han skulle hafwa arbetat. Eljest hade äfwen bem:te Secreterare i föga wördsamma termer swarat på et Memorial, som HoffCantzleren Baron v. Gedda ingifwit ang:de et nyttigt förslag til bättre Inrättning med arbetet i archivo.\"}, {\"bbox\": [163, 1717, 1165, 1757], \"category\": \"Text\", \"text\": \"Hr. Bisk. Dr. Eric Benzelius sade, at Secreteraren wore en lärd\"}, {\"bbox\": [1095, 1790, 1165, 1829], \"category\": \"Page-footer\", \"text\": \"379\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    545,
+    233,
+    732,
+    269
+   ],
+   "category": "Section-header",
+   "text": "Helins tid"
+  },
+  {
+   "bbox": [
+    120,
+    304,
+    1163,
+    386
+   ],
+   "category": "Text",
+   "text": "Betänkande förmäles om Secreteraren Helin wore något hårdt at taxera honom före, hälst ohördan."
+  },
+  {
+   "bbox": [
+    120,
+    387,
+    1163,
+    549
+   ],
+   "category": "Text",
+   "text": "Hr. Borgm. Renhorn swarade härtil, at de ledamöter af mindre Secrete Deputationen, som warit ombudne at efftersee, huru i archivo tilstode, funnit det i sådant tilstånd, som Betänkandet förmäler."
+  },
+  {
+   "bbox": [
+    120,
+    553,
+    1165,
+    1096
+   ],
+   "category": "Text",
+   "text": "Hr. Biskopen Dr. Eric Benzelius yttrade sig, at om något hade warit felat, som förtiente anmärckning och påminnelse, hade sådant bordt komma ifrån secrete utskottet el. Cancellie Collegio. Men icke som förnimmes wara skiedt, at konungens Betiente blifwa af enskylte personer, som ey höra til mindre Deputationen och icke en gång hafwa säte och stämma i Secrete utskottet, oskyldigt tiltalte under Ständers namn. Och hwad den omtalte oredan angår, kan man ey så mycket undra derpå, när til en så stoor hoop saker och skrifter ey mehra än 2:ne obeqwäme rum äro at tilgå; men om de hade tilräckeligit utrymme, kunde de med skiäl lastas, för det de icke hölle bättre ordning. Eljest wore fullkomlige Register öfwer archiver ey så snart at förfärdiga, hwarom ingen bättre kunde döma än den, som et Bibliotheque el. archivum länge förestått."
+  },
+  {
+   "bbox": [
+    120,
+    1095,
+    1165,
+    1262
+   ],
+   "category": "Text",
+   "text": "Hr. Lagercrantz yttrande sig äfwen hafwa hördt, at wid det tilfället de Deputerade warit uppe i antiquitets archivo, hade en och annan otienlighet förelupit af dem, som ey hördt til Deputationen och derföre så mycket mindre bordt sig dermed befatta."
+  },
+  {
+   "bbox": [
+    120,
+    1261,
+    1165,
+    1713
+   ],
+   "category": "Text",
+   "text": "Hr. Borgm. Reenhorn sade, at Deputationen ey rådt före, at innan den ditkom, någre andre herredagsmän warit der förut, beropade sig i öfrigt på de andre mindre Secrete Deputationens h:rar ledamöter, som warit med i archivo, i hwad confusion de funnit saker och handlingar blandade hwar om annan, utan at ledamöterne wetat någon reda däruppå el. at något tilförlåteligt Register kunnat upwisas, oachtat Secreteraren Helin åberopat sig på et sådant, hwarpå han skulle hafwa arbetat. Eljest hade äfwen bem:te Secreterare i föga wördsamma termer swarat på et Memorial, som HoffCantzleren Baron v. Gedda ingifwit ang:de et nyttigt förslag til bättre Inrättning med arbetet i archivo."
+  },
+  {
+   "bbox": [
+    163,
+    1717,
+    1165,
+    1757
+   ],
+   "category": "Text",
+   "text": "Hr. Bisk. Dr. Eric Benzelius sade, at Secreteraren wore en lärd"
+  },
+  {
+   "bbox": [
+    1095,
+    1790,
+    1165,
+    1829
+   ],
+   "category": "Page-footer",
+   "text": "379"
+  }
+ ]
+}

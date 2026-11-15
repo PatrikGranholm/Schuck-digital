@@ -1,0 +1,152 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 606,
+ "seconds": 31.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [581, 231, 768, 266], \"category\": \"Section-header\", \"text\": \"Helins tid\"}, {\"bbox\": [594, 302, 752, 340], \"category\": \"Section-header\", \"text\": \"In Quarto.\"}, {\"bbox\": [152, 343, 1187, 454], \"category\": \"Text\", \"text\": \"Nr. 4. Laur. Böckers bref til H. Prof. Rudbeck. Man har wäl tilförende en afskrift däraf, men detta är originalet, bestående af 150 pagg 22.\"}, {\"bbox\": [152, 452, 1173, 520], \"category\": \"Text\", \"text\": \"N. 12. Ynglinga Sagan är af Renhielm med egen hand afskrefwen i fr. band Dr. 1.22\"}, {\"bbox\": [152, 520, 1165, 596], \"category\": \"Text\", \"text\": \"Nr. 20 Saugur St. Olafs. Äro allena skaldeqwäderne af ber:de Saga samt af Rugman afskrefne och utradade Dr 1.8.\"}, {\"bbox\": [152, 594, 1173, 662], \"category\": \"Text\", \"text\": \"Nr. 22. Sagan om Frithjof Fräkne, är skrefwen och på swenska öfwersatt af Renhielm Dr. 1.18\"}, {\"bbox\": [152, 662, 1187, 807], \"category\": \"Text\", \"text\": \"Nr. 28 Åtskilliga Sagor, som widare kunna ses i sielfwa boken. Är Jslandinga Sagan den större med gl. Jsländsk styl. och i sielfwa skrifarten correctare än den afskrift, som man tilförende däraf hafwer Dr. 5.18.\"}, {\"bbox\": [594, 831, 754, 868], \"category\": \"Section-header\", \"text\": \"Jn Octavo.\"}, {\"bbox\": [152, 872, 1165, 1124], \"category\": \"Text\", \"text\": \"Nr. 1 Norske Kongers Cronika in til åhr 1263. Detta är allena en afskrift af den 1594 på danska i Kiöpenhamn tryckte mindre norska Cronikan, som af Jens Mortensen i Slangerup är utgifwen och går ey längre än til och med Harald Hårfagres tid. Eliest finnes också frammanföre i samma band Marciani Heracliotæ orbis descriptio på latin, som äfwenwäl är därsammastädes uplagd af Stephanio 1662 Dr. 1.8.\"}, {\"bbox\": [152, 1122, 1195, 1196], \"category\": \"Text\", \"text\": \"Så at för alla dessa manuscripter är in alles af Hr. Krigs Commissarien Williamson utbetalt Koppar:mt Dr. 42.14.»\"}, {\"bbox\": [152, 1217, 1193, 1299], \"category\": \"Text\", \"text\": \"Dessa 42 daler, 14 öre kmt finnas ock upptagna i räkenskaperna, som vid årets slut visade en behållning av 5181 daler 26 4/5 öre kmt.\"}, {\"bbox\": [152, 1299, 1195, 1758], \"category\": \"Text\", \"text\": \"Det var således icke mycket, som Helin gjorde för manuskriptsamlingens ökande, och några donationer till denna gjordes ej heller. Endast en donation — av tryckta böcker — omnämnes. Donator var den hollsteinske diplomaten överste Bassewitz, och om hans bokgåva skrev Helin i ett den 14 september 1727 i kanslikollegiet uppläst memorial (sign. E IV. 9): »Til Kongl. antiquitets archivum hafwer H. Öfwersten Bassewitz förutan tilförne giorde föräringar behagat i dessa dagar lemna och skiänka et wackert antahl af utwalde och kostbara böcker, som hosgående förtekning det närmare utwisar, hwarföre iag straxt på Kongl. antiquitets archivi wägnar aflagt skyldig tacksäyelse, för denskuld har iag ei bordt\"}, {\"bbox\": [1205, 1306, 1328, 1365], \"category\": \"Text\", \"text\": \"Bassewitz' bokdonation\"}, {\"bbox\": [1122, 1785, 1193, 1832], \"category\": \"Page-footer\", \"text\": \"587\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    581,
+    231,
+    768,
+    266
+   ],
+   "category": "Section-header",
+   "text": "Helins tid"
+  },
+  {
+   "bbox": [
+    594,
+    302,
+    752,
+    340
+   ],
+   "category": "Section-header",
+   "text": "In Quarto."
+  },
+  {
+   "bbox": [
+    152,
+    343,
+    1187,
+    454
+   ],
+   "category": "Text",
+   "text": "Nr. 4. Laur. Böckers bref til H. Prof. Rudbeck. Man har wäl tilförende en afskrift däraf, men detta är originalet, bestående af 150 pagg 22."
+  },
+  {
+   "bbox": [
+    152,
+    452,
+    1173,
+    520
+   ],
+   "category": "Text",
+   "text": "N. 12. Ynglinga Sagan är af Renhielm med egen hand afskrefwen i fr. band Dr. 1.22"
+  },
+  {
+   "bbox": [
+    152,
+    520,
+    1165,
+    596
+   ],
+   "category": "Text",
+   "text": "Nr. 20 Saugur St. Olafs. Äro allena skaldeqwäderne af ber:de Saga samt af Rugman afskrefne och utradade Dr 1.8."
+  },
+  {
+   "bbox": [
+    152,
+    594,
+    1173,
+    662
+   ],
+   "category": "Text",
+   "text": "Nr. 22. Sagan om Frithjof Fräkne, är skrefwen och på swenska öfwersatt af Renhielm Dr. 1.18"
+  },
+  {
+   "bbox": [
+    152,
+    662,
+    1187,
+    807
+   ],
+   "category": "Text",
+   "text": "Nr. 28 Åtskilliga Sagor, som widare kunna ses i sielfwa boken. Är Jslandinga Sagan den större med gl. Jsländsk styl. och i sielfwa skrifarten correctare än den afskrift, som man tilförende däraf hafwer Dr. 5.18."
+  },
+  {
+   "bbox": [
+    594,
+    831,
+    754,
+    868
+   ],
+   "category": "Section-header",
+   "text": "Jn Octavo."
+  },
+  {
+   "bbox": [
+    152,
+    872,
+    1165,
+    1124
+   ],
+   "category": "Text",
+   "text": "Nr. 1 Norske Kongers Cronika in til åhr 1263. Detta är allena en afskrift af den 1594 på danska i Kiöpenhamn tryckte mindre norska Cronikan, som af Jens Mortensen i Slangerup är utgifwen och går ey längre än til och med Harald Hårfagres tid. Eliest finnes också frammanföre i samma band Marciani Heracliotæ orbis descriptio på latin, som äfwenwäl är därsammastädes uplagd af Stephanio 1662 Dr. 1.8."
+  },
+  {
+   "bbox": [
+    152,
+    1122,
+    1195,
+    1196
+   ],
+   "category": "Text",
+   "text": "Så at för alla dessa manuscripter är in alles af Hr. Krigs Commissarien Williamson utbetalt Koppar:mt Dr. 42.14.»"
+  },
+  {
+   "bbox": [
+    152,
+    1217,
+    1193,
+    1299
+   ],
+   "category": "Text",
+   "text": "Dessa 42 daler, 14 öre kmt finnas ock upptagna i räkenskaperna, som vid årets slut visade en behållning av 5181 daler 26 4/5 öre kmt."
+  },
+  {
+   "bbox": [
+    152,
+    1299,
+    1195,
+    1758
+   ],
+   "category": "Text",
+   "text": "Det var således icke mycket, som Helin gjorde för manuskriptsamlingens ökande, och några donationer till denna gjordes ej heller. Endast en donation — av tryckta böcker — omnämnes. Donator var den hollsteinske diplomaten överste Bassewitz, och om hans bokgåva skrev Helin i ett den 14 september 1727 i kanslikollegiet uppläst memorial (sign. E IV. 9): »Til Kongl. antiquitets archivum hafwer H. Öfwersten Bassewitz förutan tilförne giorde föräringar behagat i dessa dagar lemna och skiänka et wackert antahl af utwalde och kostbara böcker, som hosgående förtekning det närmare utwisar, hwarföre iag straxt på Kongl. antiquitets archivi wägnar aflagt skyldig tacksäyelse, för denskuld har iag ei bordt"
+  },
+  {
+   "bbox": [
+    1205,
+    1306,
+    1328,
+    1365
+   ],
+   "category": "Text",
+   "text": "Bassewitz' bokdonation"
+  },
+  {
+   "bbox": [
+    1122,
+    1785,
+    1193,
+    1832
+   ],
+   "category": "Page-footer",
+   "text": "587"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 282,
+ "seconds": 28.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [520, 230, 706, 264], \"category\": \"Page-header\", \"text\": \"Helins tid\"}, {\"bbox\": [92, 297, 1134, 506], \"category\": \"Text\", \"text\": \"af de samlingar¹, som uti antiquitets archivo finnas. Hwarföre ock antiquitets Collegium sosom en akademisk sysla aldra först wid academien i Upsala är inrättadt, men sedermera hit til Stockholm flyttadt at derutur upsöka några til Reductionen tjenliga bref och documenter.\"}, {\"bbox\": [92, 506, 1137, 677], \"category\": \"Text\", \"text\": \"3) kunna antiquitets archivi samlingar beqwämligast få sitt rum på Kongl. Bibliotheket i Upsala tilsammans med de gamla bref och documenter, som där til ymnigt förråd jämwäl finnes, så at man då hade tilfälle altsammans på ett ställe at tilgå.\"}, {\"bbox\": [96, 673, 1141, 1253], \"category\": \"Text\", \"text\": \"4) äro nu öfwer 50 åhrs tid wåra antiquiteter genom antiquitets Collegii serdeles berömwärde flit och åhåga så uptäckte och utarbetade, at hädaneffter ej lärer stå dermed så mycket at giöra, som ock nogsamt kan synas deraf, at nu på några åhr ingen ting serdeles af antiquitets archivo är publicerat. Och skulle man således tycka det wara onödigt häreffter allenast til den ändan en hel stat underhålla utan heller nu den samma til societetens uphjelpande anwända, hälst som man ändå derigenom winner samma ändamål, som med antiquitets archivi inrättning är intenderat och dessutom man ernår den nytta, som utaf societeten med rätta bör wäntas, näml. at här i Riket blifwa excolerade de nyttiga wetenskaperne Mathematiquen, Physiquen, Chymien, Medicine, Œconomien och historia naturalis samt allehanda nya experimenter och mechaniske inventioner frambrackte.\"}, {\"bbox\": [100, 1254, 1146, 1714], \"category\": \"Text\", \"text\": \"5) kunna de nu warande Ledamöter af antiquitets archivo igenom denna ändring intet på något sätt at lida, hälst deras sysla blifwer lika fult den samma, och i stället för Secretarius och Assessores archivi antiquitatum komma de at kallas Secretarius och Assessores Societatis Regiæ Scientiarum, allenast at secreteraren hädaneffter intet allenast samlar och låter trycka antiquiteter, utan alt det, som til Societetens ändamål kan höra. Kunnandes wid den ena Assessorens frånfälle eller avancement en sådan i hans ställe förordnas, som utarbetar något nyttigt i det öfriga, som förutan antiquiteterne är societetens giöromål. Likaså kan Translatoren uti archivo få namn af Assessor Societatis Regiæ och sin wanliga sysla\"}, {\"bbox\": [138, 1725, 882, 1760], \"category\": \"Footnote\", \"text\": \"¹ Dylika ansökningar till antikvitetsarkivet förekommo ej så sällan.\"}, {\"bbox\": [1074, 1781, 1143, 1827], \"category\": \"Page-footer\", \"text\": \"263\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    520,
+    230,
+    706,
+    264
+   ],
+   "category": "Page-header",
+   "text": "Helins tid"
+  },
+  {
+   "bbox": [
+    92,
+    297,
+    1134,
+    506
+   ],
+   "category": "Text",
+   "text": "af de samlingar¹, som uti antiquitets archivo finnas. Hwarföre ock antiquitets Collegium sosom en akademisk sysla aldra först wid academien i Upsala är inrättadt, men sedermera hit til Stockholm flyttadt at derutur upsöka några til Reductionen tjenliga bref och documenter."
+  },
+  {
+   "bbox": [
+    92,
+    506,
+    1137,
+    677
+   ],
+   "category": "Text",
+   "text": "3) kunna antiquitets archivi samlingar beqwämligast få sitt rum på Kongl. Bibliotheket i Upsala tilsammans med de gamla bref och documenter, som där til ymnigt förråd jämwäl finnes, så at man då hade tilfälle altsammans på ett ställe at tilgå."
+  },
+  {
+   "bbox": [
+    96,
+    673,
+    1141,
+    1253
+   ],
+   "category": "Text",
+   "text": "4) äro nu öfwer 50 åhrs tid wåra antiquiteter genom antiquitets Collegii serdeles berömwärde flit och åhåga så uptäckte och utarbetade, at hädaneffter ej lärer stå dermed så mycket at giöra, som ock nogsamt kan synas deraf, at nu på några åhr ingen ting serdeles af antiquitets archivo är publicerat. Och skulle man således tycka det wara onödigt häreffter allenast til den ändan en hel stat underhålla utan heller nu den samma til societetens uphjelpande anwända, hälst som man ändå derigenom winner samma ändamål, som med antiquitets archivi inrättning är intenderat och dessutom man ernår den nytta, som utaf societeten med rätta bör wäntas, näml. at här i Riket blifwa excolerade de nyttiga wetenskaperne Mathematiquen, Physiquen, Chymien, Medicine, Œconomien och historia naturalis samt allehanda nya experimenter och mechaniske inventioner frambrackte."
+  },
+  {
+   "bbox": [
+    100,
+    1254,
+    1146,
+    1714
+   ],
+   "category": "Text",
+   "text": "5) kunna de nu warande Ledamöter af antiquitets archivo igenom denna ändring intet på något sätt at lida, hälst deras sysla blifwer lika fult den samma, och i stället för Secretarius och Assessores archivi antiquitatum komma de at kallas Secretarius och Assessores Societatis Regiæ Scientiarum, allenast at secreteraren hädaneffter intet allenast samlar och låter trycka antiquiteter, utan alt det, som til Societetens ändamål kan höra. Kunnandes wid den ena Assessorens frånfälle eller avancement en sådan i hans ställe förordnas, som utarbetar något nyttigt i det öfriga, som förutan antiquiteterne är societetens giöromål. Likaså kan Translatoren uti archivo få namn af Assessor Societatis Regiæ och sin wanliga sysla"
+  },
+  {
+   "bbox": [
+    138,
+    1725,
+    882,
+    1760
+   ],
+   "category": "Footnote",
+   "text": "¹ Dylika ansökningar till antikvitetsarkivet förekommo ej så sällan."
+  },
+  {
+   "bbox": [
+    1074,
+    1781,
+    1143,
+    1827
+   ],
+   "category": "Page-footer",
+   "text": "263"
+  }
+ ]
+}

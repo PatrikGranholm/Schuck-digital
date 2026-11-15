@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 274,
+ "seconds": 27.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [528, 229, 713, 263], \"category\": \"Page-header\", \"text\": \"Helins tid\"}, {\"bbox\": [97, 299, 1138, 836], \"category\": \"Text\", \"text\": \"Hwarföre ock år 1725 twänne af dessa Actorum Collectores uti Kongl. Maij:ts och Riksens Höglofl. Cancellie-Collegio et ödmiukt memorial angående en sådan Societets inrättande insinuerade, hwilken deras wälmenta föreställning Riksens Höglofl. Cancellie-Collegium i anledning af des priswärda omwårdnad för Studiernas upkomst här i Riket, genom bref af d. 28 Junii åhr 1726, hos Hans Kongl. Maij:t i underdånighet androg och der uppå erhöll Kongl. Maij:ts nådigsta bifall af d. 19 Julij samma åhr at jämwäl här i Swerige äfwen som i andra länder och Riken en Societas Scientiarum skulle inrättas, som kunde komma at idka och updrifwa studia Mathematica och Physica, samt wärkställa alla Astronomiska observationer och frambringa något i Physiqven och historia naturali med mera.\"}, {\"bbox\": [97, 840, 1139, 1342], \"category\": \"Text\", \"text\": \"I anledning hwaraf den tilförende i Upsala warande private societet, som ofwannemde Acta literaria utgifwit, blef i begynnelsen af åhr 1728 af Hans Kongl. Maij:t försedd med en Præside Illustri och sedan genom Kongl. Maij:ts Nådigste resolution af den 11 Novembris samma åhr til en Societas Regia literaria et Scientiarum wärkeligen förordnad. Hvaruppå sedermera följande åhr intet allenast Lärde och förfarne Män i Landsorterne blefwo til Kongl. Societetens frånwarande ledamöter antagne; utan hade jämwäl societeten den åhran, at åtskillige af de förnämste Höge Herrar i Riket på samma sätt, som wid de Utlänske Kongl. Societeterne är wanligit, gunstigt sig åtogo at wara til Societetens större lustre och upkomst des Membra honoraria.\"}, {\"bbox\": [102, 1339, 1141, 1709], \"category\": \"Text\", \"text\": \"Under hela denna tiden in til närwarande åhr har wähl Societeten continuerat at utgifwa de acta literaria, som år 1720 begyntes, hwarutinnan Societeten har ej allenast [recenserat] böcker och Tractater, som här i landet under den tiden utkommit, utan låtit jämwäl i dagzliuset framkomma en stor dehl af observationer i Antiquiteterne samt gamla bref och documenter, som så wäl den fordna Civil- som Kyrkio-staten här i Swerige märkeligen illustrera, til at förtiga de Philologiska discourser, som tid effter annan äro uti Actis influtne.\"}, {\"bbox\": [140, 1712, 1141, 1757], \"category\": \"Text\", \"text\": \"Men hwad det öfriga angår, som Kongl. Maij:ts ofwannemde\"}, {\"bbox\": [1067, 1791, 1138, 1830], \"category\": \"Page-footer\", \"text\": \"255\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    528,
+    229,
+    713,
+    263
+   ],
+   "category": "Page-header",
+   "text": "Helins tid"
+  },
+  {
+   "bbox": [
+    97,
+    299,
+    1138,
+    836
+   ],
+   "category": "Text",
+   "text": "Hwarföre ock år 1725 twänne af dessa Actorum Collectores uti Kongl. Maij:ts och Riksens Höglofl. Cancellie-Collegio et ödmiukt memorial angående en sådan Societets inrättande insinuerade, hwilken deras wälmenta föreställning Riksens Höglofl. Cancellie-Collegium i anledning af des priswärda omwårdnad för Studiernas upkomst här i Riket, genom bref af d. 28 Junii åhr 1726, hos Hans Kongl. Maij:t i underdånighet androg och der uppå erhöll Kongl. Maij:ts nådigsta bifall af d. 19 Julij samma åhr at jämwäl här i Swerige äfwen som i andra länder och Riken en Societas Scientiarum skulle inrättas, som kunde komma at idka och updrifwa studia Mathematica och Physica, samt wärkställa alla Astronomiska observationer och frambringa något i Physiqven och historia naturali med mera."
+  },
+  {
+   "bbox": [
+    97,
+    840,
+    1139,
+    1342
+   ],
+   "category": "Text",
+   "text": "I anledning hwaraf den tilförende i Upsala warande private societet, som ofwannemde Acta literaria utgifwit, blef i begynnelsen af åhr 1728 af Hans Kongl. Maij:t försedd med en Præside Illustri och sedan genom Kongl. Maij:ts Nådigste resolution af den 11 Novembris samma åhr til en Societas Regia literaria et Scientiarum wärkeligen förordnad. Hvaruppå sedermera följande åhr intet allenast Lärde och förfarne Män i Landsorterne blefwo til Kongl. Societetens frånwarande ledamöter antagne; utan hade jämwäl societeten den åhran, at åtskillige af de förnämste Höge Herrar i Riket på samma sätt, som wid de Utlänske Kongl. Societeterne är wanligit, gunstigt sig åtogo at wara til Societetens större lustre och upkomst des Membra honoraria."
+  },
+  {
+   "bbox": [
+    102,
+    1339,
+    1141,
+    1709
+   ],
+   "category": "Text",
+   "text": "Under hela denna tiden in til närwarande åhr har wähl Societeten continuerat at utgifwa de acta literaria, som år 1720 begyntes, hwarutinnan Societeten har ej allenast [recenserat] böcker och Tractater, som här i landet under den tiden utkommit, utan låtit jämwäl i dagzliuset framkomma en stor dehl af observationer i Antiquiteterne samt gamla bref och documenter, som så wäl den fordna Civil- som Kyrkio-staten här i Swerige märkeligen illustrera, til at förtiga de Philologiska discourser, som tid effter annan äro uti Actis influtne."
+  },
+  {
+   "bbox": [
+    140,
+    1712,
+    1141,
+    1757
+   ],
+   "category": "Text",
+   "text": "Men hwad det öfriga angår, som Kongl. Maij:ts ofwannemde"
+  },
+  {
+   "bbox": [
+    1067,
+    1791,
+    1138,
+    1830
+   ],
+   "category": "Page-footer",
+   "text": "255"
+  }
+ ]
+}

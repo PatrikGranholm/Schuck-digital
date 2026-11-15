@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 510,
+ "seconds": 29.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [561, 226, 748, 261], \"category\": \"Section-header\", \"text\": \"Helins tid\"}, {\"bbox\": [133, 297, 1177, 381], \"category\": \"Text\", \"text\": \"i vilket 65 daler 12 öre ånyo tilldelades Erik Persson (Kanslikoll. prot. 18 mars 1746, 16 dec. 1748 och 10 mars 1749).\"}, {\"bbox\": [133, 379, 1189, 1421], \"category\": \"Text\", \"text\": \"Den 20 januari 1746 fick kanslikollegiet mottaga ett av lands-hövdingen i Kristianstad Christ. Barnekow den 8 s. m. avsänt brev (R. A. Kanslikoll. Inkomna skrivelser sign. E IX. 7), som är märkligt, därför att här angives ett fynd av koppar. »Wid en Jordgrafning uti en backa at afföra Grus til landswägen i Ingelsta härad, Glimminge Sochn, har Torparen Erich Strömbergs hustru i stora Gliminge funnit några stycken af et gammalt Swärd, bestående af en mäst förmultnad kopparklinga, och en knapp med et annat stycke fästet tilhörande wid kortet eller parer stången, jämwäl et stycke wridit massivt gull något öfwer et qwarters längd til 9 5/8 dels ducaters wigt efter bilagde Guldsmeds Conrad Gadds härstädes gifne attest skattad til 5 D:r S:rmt ducater. Jag har til mig infordrat berörde Fynd och funnit det af berörde beskaffenhet enligt Inspector Carl G. Rebouschis derom insände och härhos bifogade berättelse. Och aldenstund bemälte Torpare i föllje af 48 Cap. 2 § Miss B. underdånigst hembiuder det fundne Hans Kongl. Mai:tt, ifall det skulle åstundas, och til den ändan berörde Persedlar till mig emot qvittence aflemnat; Fördensskull har jag denna Fynd Eders Excellencer samt Kongl. Maij:ts och riksens Cancellie Collegio bordt tilkiänna gifwa och afbider Eders Excellencers samt Kongl. Maij:ts och riksens Höglofl. Cancellie Collegii utlåtande, antingen Hans Kongl. Maij:tt desse fundne gamla persedlar nådigst täckes af den fattige Torparen lösa, eller de til hans disposition skola lämnas; warandes de Swerdet tilhörande Kopparstycken aldeles onyttige, men Guldstången uti sitt värde, förblifwer stedse etc.\"}, {\"bbox\": [141, 1438, 406, 1522], \"category\": \"Text\", \"text\": \"Christianstad\\nd. 8 Janu: 1746.\"}, {\"bbox\": [881, 1477, 1151, 1513], \"category\": \"Text\", \"text\": \"Christ. Barnekow\"}, {\"bbox\": [907, 1537, 1126, 1578], \"category\": \"Text\", \"text\": \"Carl Carcey.»¹\"}, {\"bbox\": [141, 1603, 1191, 1756], \"category\": \"Footnote\", \"text\": \"¹ Det här bilagda brevet från inspektor Rebouschi lyder: »Eders Höga Nåde täckes icke onådigt uptaga, att iag dierfwar mig ödmiukeligen berätta, huru som een fattig huusman i Stora Glemminge byy wid namn Erick Strömbergh igenom dess hustro, som warit wid een jordgrafning uti een backe med flera att grafwa muhl eller fyllning till lanswägarnes förbättrande, hafwer derstädes i jorden funnit ett gammalt Sabelfäste och een liten wriden metalsstång, ungefär lickt ett Börums-skafft;\"}, {\"bbox\": [1111, 1789, 1185, 1827], \"category\": \"Page-footer\", \"text\": \"491\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    561,
+    226,
+    748,
+    261
+   ],
+   "category": "Section-header",
+   "text": "Helins tid"
+  },
+  {
+   "bbox": [
+    133,
+    297,
+    1177,
+    381
+   ],
+   "category": "Text",
+   "text": "i vilket 65 daler 12 öre ånyo tilldelades Erik Persson (Kanslikoll. prot. 18 mars 1746, 16 dec. 1748 och 10 mars 1749)."
+  },
+  {
+   "bbox": [
+    133,
+    379,
+    1189,
+    1421
+   ],
+   "category": "Text",
+   "text": "Den 20 januari 1746 fick kanslikollegiet mottaga ett av lands-hövdingen i Kristianstad Christ. Barnekow den 8 s. m. avsänt brev (R. A. Kanslikoll. Inkomna skrivelser sign. E IX. 7), som är märkligt, därför att här angives ett fynd av koppar. »Wid en Jordgrafning uti en backa at afföra Grus til landswägen i Ingelsta härad, Glimminge Sochn, har Torparen Erich Strömbergs hustru i stora Gliminge funnit några stycken af et gammalt Swärd, bestående af en mäst förmultnad kopparklinga, och en knapp med et annat stycke fästet tilhörande wid kortet eller parer stången, jämwäl et stycke wridit massivt gull något öfwer et qwarters längd til 9 5/8 dels ducaters wigt efter bilagde Guldsmeds Conrad Gadds härstädes gifne attest skattad til 5 D:r S:rmt ducater. Jag har til mig infordrat berörde Fynd och funnit det af berörde beskaffenhet enligt Inspector Carl G. Rebouschis derom insände och härhos bifogade berättelse. Och aldenstund bemälte Torpare i föllje af 48 Cap. 2 § Miss B. underdånigst hembiuder det fundne Hans Kongl. Mai:tt, ifall det skulle åstundas, och til den ändan berörde Persedlar till mig emot qvittence aflemnat; Fördensskull har jag denna Fynd Eders Excellencer samt Kongl. Maij:ts och riksens Cancellie Collegio bordt tilkiänna gifwa och afbider Eders Excellencers samt Kongl. Maij:ts och riksens Höglofl. Cancellie Collegii utlåtande, antingen Hans Kongl. Maij:tt desse fundne gamla persedlar nådigst täckes af den fattige Torparen lösa, eller de til hans disposition skola lämnas; warandes de Swerdet tilhörande Kopparstycken aldeles onyttige, men Guldstången uti sitt värde, förblifwer stedse etc."
+  },
+  {
+   "bbox": [
+    141,
+    1438,
+    406,
+    1522
+   ],
+   "category": "Text",
+   "text": "Christianstad\nd. 8 Janu: 1746."
+  },
+  {
+   "bbox": [
+    881,
+    1477,
+    1151,
+    1513
+   ],
+   "category": "Text",
+   "text": "Christ. Barnekow"
+  },
+  {
+   "bbox": [
+    907,
+    1537,
+    1126,
+    1578
+   ],
+   "category": "Text",
+   "text": "Carl Carcey.»¹"
+  },
+  {
+   "bbox": [
+    141,
+    1603,
+    1191,
+    1756
+   ],
+   "category": "Footnote",
+   "text": "¹ Det här bilagda brevet från inspektor Rebouschi lyder: »Eders Höga Nåde täckes icke onådigt uptaga, att iag dierfwar mig ödmiukeligen berätta, huru som een fattig huusman i Stora Glemminge byy wid namn Erick Strömbergh igenom dess hustro, som warit wid een jordgrafning uti een backe med flera att grafwa muhl eller fyllning till lanswägarnes förbättrande, hafwer derstädes i jorden funnit ett gammalt Sabelfäste och een liten wriden metalsstång, ungefär lickt ett Börums-skafft;"
+  },
+  {
+   "bbox": [
+    1111,
+    1789,
+    1185,
+    1827
+   ],
+   "category": "Page-footer",
+   "text": "491"
+  }
+ ]
+}

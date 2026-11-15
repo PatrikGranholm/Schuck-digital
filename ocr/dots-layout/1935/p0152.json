@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 152,
+ "seconds": 29.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [378, 223, 894, 268], \"category\": \"Section-header\", \"text\": \"Den äldre Peringskiölds tid\"}, {\"bbox\": [111, 294, 1162, 1378], \"category\": \"Text\", \"text\": \"Saga på Pergament med Runor skrifwit; hwilket fördensskull sosom ett äwerdeligit monument til upfinnarens nampns ähra uthi Kongl. Antiquitets Archivo förwaras skall, som här med försäkras och dem begge till tacksamheet quitteras. Stockholm d. 3 Nov. 1694.» (K. B. Handl. rör. antikvitetskoll. och arkivet II). Det vittnar icke gott för Peringskiölds kritik, att han ej genast insåg, att här endast förelåg ett klumpigt falsarium; på de sidor, där runorna skulle hetas utplånade av rök, har tydligen ingenting alls stått, utan dessa blad ha blott suddats över med någon mörk smörja. Peringskiöld hyste emellertid inga misstankar, utan gav ut själva manuskriptet. Först lät han i träsnitt avbilda detta — ej blott runorna utan även de tomma sidorna, sedan följde den transskriberade runtexten med en svensk och en latinsk översättning, men — egendomligt nog — utan någon inledning¹ och utan någon kommentar². Redan 1698 tyckes emellertid Peringskiöld hava haft sin edition färdig eller i det närmaste färdig, ty från detta år finnes i ett av Kungl. bibliotekets exemplar ett av Keder då handskrivet företal: »Approbatio. Nobile hoc fragmentum Historiæ Hialmari ex ipso autographo (quod annorum iniquitate diu subductum clementior tandem benigne nobis restituit dies) ab insigni Antiquario dno Johanne Peringskiöld, collega nostro plurimum honorando, servata ad amussim Runarum figura, magnitudine, serie atq. distantia sincere ac diligenter delineatum recentioribus præterea literis recte descriptum ac gemina versione scite adornatum, ubi cum nihil occurrat quod antiquitates patrias non apprime illustret, publico conspecta censemus dignissimum. Holmiæ d. [ ] Decembr. Anno 1698.\"}, {\"bbox\": [944, 1383, 1125, 1419], \"category\": \"Text\", \"text\": \"N. Keder.»\"}, {\"bbox\": [113, 1434, 1159, 1562], \"category\": \"Text\", \"text\": \"I sitt memorial den 20 december 1698 upptager Peringskiöld bland sina arbeten: »Konung Hialmars Historia sosom den i heden domen skrifwen warit med sina gamla Runar efter originalet aldeles\"}, {\"bbox\": [111, 1570, 1158, 1692], \"category\": \"Footnote\", \"text\": \"¹ Möjligen var en dylik påtänkt, ty i den katalog, som han skickade Hickesius, har han en egendomlig uppgift om författaren: »Historia Hialmari Regis Biarmlandiæ atque Thulemarchiæ ab Anonymi Roduri filio, vigente gentilismo ante secula octo Lingua et Runis Sveo-Gothorum antiquis in Membrana conscripta». Författarens far skulle således ha hetat Rodurus.\"}, {\"bbox\": [111, 1690, 1158, 1753], \"category\": \"Footnote\", \"text\": \"² Ett exemplar skickade han till den berömde engelske filologen Hickesius, som ånyo utgav runtexten och den latinska översättningen.\"}, {\"bbox\": [1083, 1789, 1153, 1828], \"category\": \"Page-footer\", \"text\": \"143\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    378,
+    223,
+    894,
+    268
+   ],
+   "category": "Section-header",
+   "text": "Den äldre Peringskiölds tid"
+  },
+  {
+   "bbox": [
+    111,
+    294,
+    1162,
+    1378
+   ],
+   "category": "Text",
+   "text": "Saga på Pergament med Runor skrifwit; hwilket fördensskull sosom ett äwerdeligit monument til upfinnarens nampns ähra uthi Kongl. Antiquitets Archivo förwaras skall, som här med försäkras och dem begge till tacksamheet quitteras. Stockholm d. 3 Nov. 1694.» (K. B. Handl. rör. antikvitetskoll. och arkivet II). Det vittnar icke gott för Peringskiölds kritik, att han ej genast insåg, att här endast förelåg ett klumpigt falsarium; på de sidor, där runorna skulle hetas utplånade av rök, har tydligen ingenting alls stått, utan dessa blad ha blott suddats över med någon mörk smörja. Peringskiöld hyste emellertid inga misstankar, utan gav ut själva manuskriptet. Först lät han i träsnitt avbilda detta — ej blott runorna utan även de tomma sidorna, sedan följde den transskriberade runtexten med en svensk och en latinsk översättning, men — egendomligt nog — utan någon inledning¹ och utan någon kommentar². Redan 1698 tyckes emellertid Peringskiöld hava haft sin edition färdig eller i det närmaste färdig, ty från detta år finnes i ett av Kungl. bibliotekets exemplar ett av Keder då handskrivet företal: »Approbatio. Nobile hoc fragmentum Historiæ Hialmari ex ipso autographo (quod annorum iniquitate diu subductum clementior tandem benigne nobis restituit dies) ab insigni Antiquario dno Johanne Peringskiöld, collega nostro plurimum honorando, servata ad amussim Runarum figura, magnitudine, serie atq. distantia sincere ac diligenter delineatum recentioribus præterea literis recte descriptum ac gemina versione scite adornatum, ubi cum nihil occurrat quod antiquitates patrias non apprime illustret, publico conspecta censemus dignissimum. Holmiæ d. [ ] Decembr. Anno 1698."
+  },
+  {
+   "bbox": [
+    944,
+    1383,
+    1125,
+    1419
+   ],
+   "category": "Text",
+   "text": "N. Keder.»"
+  },
+  {
+   "bbox": [
+    113,
+    1434,
+    1159,
+    1562
+   ],
+   "category": "Text",
+   "text": "I sitt memorial den 20 december 1698 upptager Peringskiöld bland sina arbeten: »Konung Hialmars Historia sosom den i heden domen skrifwen warit med sina gamla Runar efter originalet aldeles"
+  },
+  {
+   "bbox": [
+    111,
+    1570,
+    1158,
+    1692
+   ],
+   "category": "Footnote",
+   "text": "¹ Möjligen var en dylik påtänkt, ty i den katalog, som han skickade Hickesius, har han en egendomlig uppgift om författaren: »Historia Hialmari Regis Biarmlandiæ atque Thulemarchiæ ab Anonymi Roduri filio, vigente gentilismo ante secula octo Lingua et Runis Sveo-Gothorum antiquis in Membrana conscripta». Författarens far skulle således ha hetat Rodurus."
+  },
+  {
+   "bbox": [
+    111,
+    1690,
+    1158,
+    1753
+   ],
+   "category": "Footnote",
+   "text": "² Ett exemplar skickade han till den berömde engelske filologen Hickesius, som ånyo utgav runtexten och den latinska översättningen."
+  },
+  {
+   "bbox": [
+    1083,
+    1789,
+    1153,
+    1828
+   ],
+   "category": "Page-footer",
+   "text": "143"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 199,
+ "seconds": 27.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [832, 228, 1204, 265], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [497, 297, 1536, 422], \"category\": \"Text\", \"text\": \"sionen rörande denna punkt avslutad. Något beslut fattades ej, men kanslikollegiets ståndpunkt var tydlig: någon kritik av Atlantican fick ej förekomma.\"}, {\"bbox\": [480, 421, 1536, 1755], \"category\": \"Text\", \"text\": \"Förmodligen togs frågan å nyo upp på hösten, men tyvärr saknas kanslikollegiets protokoll mellan den 4 oktober och den 2 december, då ärendet förmodligen behandlats, och även registraturet för 1696 är mycket ofullständigt. Men så mycket är säkert, att kollegiet den 24 november avlät ett nu förlorat brev till Rudbeck, som den 14 december besvarade det nästan med en avhandling (K. B. sign. F h. 28), som upptager ej mindre än tretton tätt skrivna foliosidor: »Dätt höglofl. Kung. Cancellitz Collegij bref af den 24 Nov. hafver iagh wäl bekommit angående H. Secreterarens och Antiquariens Peringskiölds wärk uthaf Runstenarna och des inscriptioners uttydningar, som sigh hooss dät H. K. C. Collegium förfrågat, om han icke må införa sina meningar om des rätta förstånd, fast de icke i alla stycker [stämma] medh den utydningh, som en eller annan kunde för dätta där på hafva giort, försäkrandes alt sådant likvist ei annorlunda skal ske än medh gott maner ok på godh grund samt wåra antiquiteter til heder. Men sosom dett H. K. C. Collegium påminner sigh, att H. Secret. medh migh ok andra woro öfver några besynnerliga passager af åtskilliga meningar ok efter H. K. Collegij gotfinnande uthi samtal medh hwarandra, begärandes nu, dätt iagh ville dätt H. K. Collegio til känna gifva, huru vida wij worto förente, på dätt icke nogot anstöteligit motte uti skrifterna förekomma. Hwar uppå til dät H. K. C. Collegium iagh mitt ödmiuktienstigaste swar ok betenkiande nu vidh handen gifva wil, att K. Secreteraren sedermera både munteligen til migh några gongor samt skrifteligen, särdeles den 29 octob. 1695, sigh således utlåtit: Hwadh de inscriptioner, som för uti H. Professorens samt sal. Werelij och andras arbeten äro införda, angår ok H. Profess:ns wilia är, att de må stå orörde, så kan iagh på dätt högsta försäkra H. Professoren, att dätt aldrigh warit min tanka att offenteligen lasta deras utydningh. H. Professorens egna stenar wil iagh ok så gerna lemna orörde ok i sitt höga wärde. Nu kan iagh inthet annat förstå, än de stenar, som reda i liuset äro utkomne, som H. Secreterarens clara ord lyda, dem wil\"}, {\"bbox\": [492, 1778, 563, 1815], \"category\": \"Page-footer\", \"text\": \"188\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    832,
+    228,
+    1204,
+    265
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    497,
+    297,
+    1536,
+    422
+   ],
+   "category": "Text",
+   "text": "sionen rörande denna punkt avslutad. Något beslut fattades ej, men kanslikollegiets ståndpunkt var tydlig: någon kritik av Atlantican fick ej förekomma."
+  },
+  {
+   "bbox": [
+    480,
+    421,
+    1536,
+    1755
+   ],
+   "category": "Text",
+   "text": "Förmodligen togs frågan å nyo upp på hösten, men tyvärr saknas kanslikollegiets protokoll mellan den 4 oktober och den 2 december, då ärendet förmodligen behandlats, och även registraturet för 1696 är mycket ofullständigt. Men så mycket är säkert, att kollegiet den 24 november avlät ett nu förlorat brev till Rudbeck, som den 14 december besvarade det nästan med en avhandling (K. B. sign. F h. 28), som upptager ej mindre än tretton tätt skrivna foliosidor: »Dätt höglofl. Kung. Cancellitz Collegij bref af den 24 Nov. hafver iagh wäl bekommit angående H. Secreterarens och Antiquariens Peringskiölds wärk uthaf Runstenarna och des inscriptioners uttydningar, som sigh hooss dät H. K. C. Collegium förfrågat, om han icke må införa sina meningar om des rätta förstånd, fast de icke i alla stycker [stämma] medh den utydningh, som en eller annan kunde för dätta där på hafva giort, försäkrandes alt sådant likvist ei annorlunda skal ske än medh gott maner ok på godh grund samt wåra antiquiteter til heder. Men sosom dett H. K. C. Collegium påminner sigh, att H. Secret. medh migh ok andra woro öfver några besynnerliga passager af åtskilliga meningar ok efter H. K. Collegij gotfinnande uthi samtal medh hwarandra, begärandes nu, dätt iagh ville dätt H. K. Collegio til känna gifva, huru vida wij worto förente, på dätt icke nogot anstöteligit motte uti skrifterna förekomma. Hwar uppå til dät H. K. C. Collegium iagh mitt ödmiuktienstigaste swar ok betenkiande nu vidh handen gifva wil, att K. Secreteraren sedermera både munteligen til migh några gongor samt skrifteligen, särdeles den 29 octob. 1695, sigh således utlåtit: Hwadh de inscriptioner, som för uti H. Professorens samt sal. Werelij och andras arbeten äro införda, angår ok H. Profess:ns wilia är, att de må stå orörde, så kan iagh på dätt högsta försäkra H. Professoren, att dätt aldrigh warit min tanka att offenteligen lasta deras utydningh. H. Professorens egna stenar wil iagh ok så gerna lemna orörde ok i sitt höga wärde. Nu kan iagh inthet annat förstå, än de stenar, som reda i liuset äro utkomne, som H. Secreterarens clara ord lyda, dem wil"
+  },
+  {
+   "bbox": [
+    492,
+    1778,
+    563,
+    1815
+   ],
+   "category": "Page-footer",
+   "text": "188"
+  }
+ ]
+}

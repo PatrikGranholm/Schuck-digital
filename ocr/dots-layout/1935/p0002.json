@@ -1,0 +1,140 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 2,
+ "seconds": 23.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [191, 97, 521, 130], \"category\": \"Text\", \"text\": \"GÖTEBORGSRUNIVERSITETSBIBLIOTEK\"}, {\"bbox\": [193, 123, 523, 212], \"category\": \"Picture\"}, {\"bbox\": [367, 202, 523, 232], \"category\": \"Text\", \"text\": \"100144 8154\"}, {\"bbox\": [1481, 74, 1593, 151], \"category\": \"Text\", \"text\": \"fol\"}, {\"bbox\": [1476, 145, 1721, 234], \"category\": \"Text\", \"text\": \"84/834:4\"}, {\"bbox\": [494, 261, 1318, 328], \"category\": \"Text\", \"text\": \"HENRIK SCHÜCK\"}, {\"bbox\": [491, 519, 1331, 593], \"category\": \"Title\", \"text\": \"KGL. VITTERHETS\"}, {\"bbox\": [251, 646, 1571, 844], \"category\": \"Title\", \"text\": \"HISTORIE OCH ANTIKVITETS\\nAKADEMIEN\"}, {\"bbox\": [497, 1015, 1318, 1076], \"category\": \"Text\", \"text\": \"FÖRHISTORIA OCH HISTORIA\"}, {\"bbox\": [836, 941, 981, 991], \"category\": \"Text\", \"text\": \"DESS\"}, {\"bbox\": [869, 1135, 952, 1191], \"category\": \"Text\", \"text\": \"IV\"}, {\"bbox\": [767, 1478, 1055, 1768], \"category\": \"Picture\"}, {\"bbox\": [627, 1891, 1188, 1952], \"category\": \"Text\", \"text\": \"STOCKHOLM 1935\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    191,
+    97,
+    521,
+    130
+   ],
+   "category": "Text",
+   "text": "GÖTEBORGSRUNIVERSITETSBIBLIOTEK"
+  },
+  {
+   "bbox": [
+    193,
+    123,
+    523,
+    212
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    367,
+    202,
+    523,
+    232
+   ],
+   "category": "Text",
+   "text": "100144 8154"
+  },
+  {
+   "bbox": [
+    1481,
+    74,
+    1593,
+    151
+   ],
+   "category": "Text",
+   "text": "fol"
+  },
+  {
+   "bbox": [
+    1476,
+    145,
+    1721,
+    234
+   ],
+   "category": "Text",
+   "text": "84/834:4"
+  },
+  {
+   "bbox": [
+    494,
+    261,
+    1318,
+    328
+   ],
+   "category": "Text",
+   "text": "HENRIK SCHÜCK"
+  },
+  {
+   "bbox": [
+    491,
+    519,
+    1331,
+    593
+   ],
+   "category": "Title",
+   "text": "KGL. VITTERHETS"
+  },
+  {
+   "bbox": [
+    251,
+    646,
+    1571,
+    844
+   ],
+   "category": "Title",
+   "text": "HISTORIE OCH ANTIKVITETS\nAKADEMIEN"
+  },
+  {
+   "bbox": [
+    497,
+    1015,
+    1318,
+    1076
+   ],
+   "category": "Text",
+   "text": "FÖRHISTORIA OCH HISTORIA"
+  },
+  {
+   "bbox": [
+    836,
+    941,
+    981,
+    991
+   ],
+   "category": "Text",
+   "text": "DESS"
+  },
+  {
+   "bbox": [
+    869,
+    1135,
+    952,
+    1191
+   ],
+   "category": "Text",
+   "text": "IV"
+  },
+  {
+   "bbox": [
+    767,
+    1478,
+    1055,
+    1768
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    627,
+    1891,
+    1188,
+    1952
+   ],
+   "category": "Text",
+   "text": "STOCKHOLM 1935"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 535,
+ "seconds": 27.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [808, 229, 1182, 264], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [475, 299, 1512, 425], \"category\": \"Text\", \"text\": \"wara nyttigt för den studerande ungdomen, om detta wackra och mycket courieuse myntcabinet, som Hr. Rijksrådet Cronstedt med så mycken möda och soin samblat, blefwo af academien inlöst.\"}, {\"bbox\": [475, 425, 1514, 966], \"category\": \"Text\", \"text\": \"Professor Walrave swarade, at det icke är utan at detta kan wara et wackert myntcabinet, men det kåstar ansenl. och tillåter academiæ cassans tillstånd det icke, emedan hon behöfwer sine medell till andra förnödenheter och reparationer, som dhe hafft den ähran i deras Memorial at berätta; dess utan har academien redan en mycket wacker samling i det Romerska myntet, så at hon ey behöfwer detta Cabinet inlösa. Och som academien har dhe immuniteter, Privilegier och frijheter att sielf få disponera om sine medell, som det finner lända till academiens bästa, så lefwa dhe deputerade i det säkra håpp, att academien derwid i nåder lerer blifwa maintinerad och ey twungen att till detta myntCabinets inlösen så hårdt gripa an des räntcammare; opläste derhoos de (?) förordningar, tiänande till bestyrkian af deras anhållan.\"}, {\"bbox\": [475, 966, 1516, 1373], \"category\": \"Text\", \"text\": \"Hans Excellence Landtmarskalken sade, at meningen ey är eller warit at påtruga academien detta myntCabinet, utan har man förmodat, at academien sielf skulle wara hugat till des så mycket större lustre inlösa detta rara myntcabinet eller gå i förskått deraf till dess Cronan blefwo i stånd det sielf framdeles att till sig inlösa, och är nu frågan, om icke academien, där henne lämnas frijhet at sielf härom med Hr. Rijksrådet Cronstedt accordera, skulle willia det inlösa eller och gå i förskått af medlen dertill, effter som det woro skada, at et så rart cabinet skulle komma at stadna i främmandes händer.\"}, {\"bbox\": [475, 1378, 1514, 1753], \"category\": \"Text\", \"text\": \"Professor Walrave och de deputerade swarade, att academien behöfwer sine medell till andra förnödenheter, som förr dels mundtel. dels skrifftel. i ödmiukhet är wid handen gifwit, och at gå i förskått, i fall någon tillgång af medell öfrig funnos, finner academien högst betänkeligt, ty i fall den samma i hast skulle behöfwa sina medell tillbaka, torde wara owist, om Cronan war i stånd det at göra, och wijsar förfarenheten häri i de framflutne åhren, [huru] dermed gått. Och som deras commission ey widare går, än at allenast på academiens wägnar i ödmiukhet afbedia sig inlösen af detta kåst-\"}, {\"bbox\": [479, 1782, 553, 1829], \"category\": \"Page-footer\", \"text\": \"516\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    808,
+    229,
+    1182,
+    264
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    475,
+    299,
+    1512,
+    425
+   ],
+   "category": "Text",
+   "text": "wara nyttigt för den studerande ungdomen, om detta wackra och mycket courieuse myntcabinet, som Hr. Rijksrådet Cronstedt med så mycken möda och soin samblat, blefwo af academien inlöst."
+  },
+  {
+   "bbox": [
+    475,
+    425,
+    1514,
+    966
+   ],
+   "category": "Text",
+   "text": "Professor Walrave swarade, at det icke är utan at detta kan wara et wackert myntcabinet, men det kåstar ansenl. och tillåter academiæ cassans tillstånd det icke, emedan hon behöfwer sine medell till andra förnödenheter och reparationer, som dhe hafft den ähran i deras Memorial at berätta; dess utan har academien redan en mycket wacker samling i det Romerska myntet, så at hon ey behöfwer detta Cabinet inlösa. Och som academien har dhe immuniteter, Privilegier och frijheter att sielf få disponera om sine medell, som det finner lända till academiens bästa, så lefwa dhe deputerade i det säkra håpp, att academien derwid i nåder lerer blifwa maintinerad och ey twungen att till detta myntCabinets inlösen så hårdt gripa an des räntcammare; opläste derhoos de (?) förordningar, tiänande till bestyrkian af deras anhållan."
+  },
+  {
+   "bbox": [
+    475,
+    966,
+    1516,
+    1373
+   ],
+   "category": "Text",
+   "text": "Hans Excellence Landtmarskalken sade, at meningen ey är eller warit at påtruga academien detta myntCabinet, utan har man förmodat, at academien sielf skulle wara hugat till des så mycket större lustre inlösa detta rara myntcabinet eller gå i förskått deraf till dess Cronan blefwo i stånd det sielf framdeles att till sig inlösa, och är nu frågan, om icke academien, där henne lämnas frijhet at sielf härom med Hr. Rijksrådet Cronstedt accordera, skulle willia det inlösa eller och gå i förskått af medlen dertill, effter som det woro skada, at et så rart cabinet skulle komma at stadna i främmandes händer."
+  },
+  {
+   "bbox": [
+    475,
+    1378,
+    1514,
+    1753
+   ],
+   "category": "Text",
+   "text": "Professor Walrave och de deputerade swarade, att academien behöfwer sine medell till andra förnödenheter, som förr dels mundtel. dels skrifftel. i ödmiukhet är wid handen gifwit, och at gå i förskått, i fall någon tillgång af medell öfrig funnos, finner academien högst betänkeligt, ty i fall den samma i hast skulle behöfwa sina medell tillbaka, torde wara owist, om Cronan war i stånd det at göra, och wijsar förfarenheten häri i de framflutne åhren, [huru] dermed gått. Och som deras commission ey widare går, än at allenast på academiens wägnar i ödmiukhet afbedia sig inlösen af detta kåst-"
+  },
+  {
+   "bbox": [
+    479,
+    1782,
+    553,
+    1829
+   ],
+   "category": "Page-footer",
+   "text": "516"
+  }
+ ]
+}

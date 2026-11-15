@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 143,
+ "seconds": 30.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [829, 232, 1199, 268], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [493, 302, 1534, 1341], \"category\": \"Text\", \"text\": \"otillfredsställande, och då kanslikollegiet med anledning av kammarrevisionens anmärkningar ålade Peringskiöld att förklara sig, blev denna förklaring, som ingavs den 15 januari 1708, av samma art som den föregående: »Kongl. May:ts instruction och fullmacht samt Resepass för Antiquarien pålägger honom åhrligen att resa med Ritare kring Landet at aftaga gamla Monumenter, til hwilken ända också Resepenningar på staten anslagne äre. Min antecessor, som åthniutit åhrligen 300 Dr. silwermynts Resepenningar (dubbelt mehr emot mig) hafwer aldrig därföre giordt någon skriftelig Räkning, hållandes wara nog at kunna opwisa the kring landet aftagne Runestenar efter dess Ritares kladder, hwilka vthi then olyckeliga Slotsbranden mehrendehles förkommo. Mina räkningar hafwer iag verificeradt med aftryck af the i landsorten afritade monumenter, runestenar, ättehögar, kyrkior, epitaphier och lijkstenar på hwart särskildte åhr aftagne, hwilka iag förmodar swara emot then ringa resepenning, som iag vpburit, och at samma verificationer af giordt arbete skole wara giltigare än någon gästgifwares¹ eller bondes attest på mijltalet eller förtäringen, hwilket senare at anföra woro mig både hinderligit och omöijeligit altid kunna taga. För åthskilliga swåra och långsamma monumenters aftagande skull har iag ibland kommit att uppehålla mig med ritare på en ort i många dagar och stundom några wekor i dyra städer, hwarest iag somliga åhr mycket mehr vtkostat, än iag vpburit, dehls af nijt til fäderneslandets tienst, dehls i förmodan at få åtniuta så stora resepenningar som min antecessor» (R. A. Kanslikoll. Inkomna skrivelser sign. E IV. 8).\"}, {\"bbox\": [497, 1352, 1534, 1416], \"category\": \"Footnote\", \"text\": \"¹ En dylik reseräkning av någon bland Peringskiölds medhjälpare finnes verkligen kvar (V. H. A. A. sign. Ab 27), daterad den 19 augusti 1697. Den är ganska kuriös:\"}, {\"bbox\": [930, 1425, 1105, 1456], \"category\": \"Text\", \"text\": \"»Hl. Sigteraren.\"}, {\"bbox\": [602, 1456, 1534, 1724], \"category\": \"Table\", \"text\": \"<table><tr><td>49 måltider</td><td>49.</td></tr><tr><td>1 Stop franst wijn</td><td>2.16</td></tr><tr><td>7½ kanna öhl</td><td>5.20</td></tr><tr><td>5 kannor ½ stop</td><td>3.30</td></tr><tr><td>1 kanna öhl</td><td>.24</td></tr><tr><td>1 halft stop wijn</td><td>2</td></tr><tr><td>Cammar och säng</td><td>3.</td></tr><tr><td>Cammar och säng för Monsör Truls</td><td>6.</td></tr><tr><td>höö för hästarna</td><td>9.</td></tr></table>\"}, {\"bbox\": [1369, 1727, 1536, 1753], \"category\": \"Text\", \"text\": \"Summa 81.26»\"}, {\"bbox\": [502, 1796, 574, 1835], \"category\": \"Page-footer\", \"text\": \"134\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    829,
+    232,
+    1199,
+    268
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    493,
+    302,
+    1534,
+    1341
+   ],
+   "category": "Text",
+   "text": "otillfredsställande, och då kanslikollegiet med anledning av kammarrevisionens anmärkningar ålade Peringskiöld att förklara sig, blev denna förklaring, som ingavs den 15 januari 1708, av samma art som den föregående: »Kongl. May:ts instruction och fullmacht samt Resepass för Antiquarien pålägger honom åhrligen att resa med Ritare kring Landet at aftaga gamla Monumenter, til hwilken ända också Resepenningar på staten anslagne äre. Min antecessor, som åthniutit åhrligen 300 Dr. silwermynts Resepenningar (dubbelt mehr emot mig) hafwer aldrig därföre giordt någon skriftelig Räkning, hållandes wara nog at kunna opwisa the kring landet aftagne Runestenar efter dess Ritares kladder, hwilka vthi then olyckeliga Slotsbranden mehrendehles förkommo. Mina räkningar hafwer iag verificeradt med aftryck af the i landsorten afritade monumenter, runestenar, ättehögar, kyrkior, epitaphier och lijkstenar på hwart särskildte åhr aftagne, hwilka iag förmodar swara emot then ringa resepenning, som iag vpburit, och at samma verificationer af giordt arbete skole wara giltigare än någon gästgifwares¹ eller bondes attest på mijltalet eller förtäringen, hwilket senare at anföra woro mig både hinderligit och omöijeligit altid kunna taga. För åthskilliga swåra och långsamma monumenters aftagande skull har iag ibland kommit att uppehålla mig med ritare på en ort i många dagar och stundom några wekor i dyra städer, hwarest iag somliga åhr mycket mehr vtkostat, än iag vpburit, dehls af nijt til fäderneslandets tienst, dehls i förmodan at få åtniuta så stora resepenningar som min antecessor» (R. A. Kanslikoll. Inkomna skrivelser sign. E IV. 8)."
+  },
+  {
+   "bbox": [
+    497,
+    1352,
+    1534,
+    1416
+   ],
+   "category": "Footnote",
+   "text": "¹ En dylik reseräkning av någon bland Peringskiölds medhjälpare finnes verkligen kvar (V. H. A. A. sign. Ab 27), daterad den 19 augusti 1697. Den är ganska kuriös:"
+  },
+  {
+   "bbox": [
+    930,
+    1425,
+    1105,
+    1456
+   ],
+   "category": "Text",
+   "text": "»Hl. Sigteraren."
+  },
+  {
+   "bbox": [
+    602,
+    1456,
+    1534,
+    1724
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>49 måltider</td><td>49.</td></tr><tr><td>1 Stop franst wijn</td><td>2.16</td></tr><tr><td>7½ kanna öhl</td><td>5.20</td></tr><tr><td>5 kannor ½ stop</td><td>3.30</td></tr><tr><td>1 kanna öhl</td><td>.24</td></tr><tr><td>1 halft stop wijn</td><td>2</td></tr><tr><td>Cammar och säng</td><td>3.</td></tr><tr><td>Cammar och säng för Monsör Truls</td><td>6.</td></tr><tr><td>höö för hästarna</td><td>9.</td></tr></table>"
+  },
+  {
+   "bbox": [
+    1369,
+    1727,
+    1536,
+    1753
+   ],
+   "category": "Text",
+   "text": "Summa 81.26»"
+  },
+  {
+   "bbox": [
+    502,
+    1796,
+    574,
+    1835
+   ],
+   "category": "Page-footer",
+   "text": "134"
+  }
+ ]
+}

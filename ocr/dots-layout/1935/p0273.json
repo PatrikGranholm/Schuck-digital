@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 273,
+ "seconds": 29.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [835, 230, 1207, 265], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [500, 298, 1540, 426], \"category\": \"Text\", \"text\": \"begära til sin widare upkomst och förkofran, hwilcket memorial Prof. And. Celsius lofwade at til nästa sammankomst effter helgen upsätta, som tå af Societeten kunde justeras».\"}, {\"bbox\": [496, 424, 1540, 800], \"category\": \"Text\", \"text\": \"Detta sammanträde hölls den 28 januari 1731: »Upläste Hr. Prof. Celsius projectet till Memorialet, som skal lefwereras in wid Riksdagen, hwilket blef af Societeten approberadt, och blef resolveradt, at thet med första skal öfwersändas til hans Excellence Præses Illustris [Arvid Horn] at theröfwer jemwel hans nådiga ompröfwande afwackta». Förmodligen drog detta något om, så att memorialet först i mars kunde ingivas till riksdagen, och som vi skola se blev detta dröjsmål ödesdigert. Memorialet (R. A. Lärda sällskap 1725—1821) hade följande lydelse:\"}, {\"bbox\": [495, 798, 1538, 1049], \"category\": \"Text\", \"text\": \"»In för Riksens Höglofl. Ständer fördristar sig jämwäl Societeten wid närwarande Riksdag at inkomma med en ödmiuk berättelse om des första inrättning och det, som sedermera til des påsyfftade ändamål kan wara uträttadt, samt i lika ödmiukhet insinuera de medel och utwägar, som skulle kunna til des widare tilwäxt och framgång märkeligen bidraga.\"}, {\"bbox\": [493, 1048, 1537, 1342], \"category\": \"Text\", \"text\": \"Det torde ej wara för Riksens Höglofl. Ständer obekant, at wid slutet af åhr 1719 hafwa någre Kongl. Maij:ts undersåtare wid Upsala Academie kommit öfwerens at wissa tider om åhret utgifwa under titel af Actis Literariis Sveciæ en kort recension af de böcker, som i vårt Fädernesland tryckas, och tillika de antiqviteter och observationer i Mathesi, Physiqven och Medicine, som de sielfwe kunnat anställa eller ock andre Curieuse och lärde män i Riket dem behagat meddela.\"}, {\"bbox\": [490, 1337, 1535, 1756], \"category\": \"Text\", \"text\": \"Detta deras ringa arbete hade den lyckan at winna så in- som utomlands en allmän approbation, så at de främmande Lärde, särdeles societates Scientiarum i England och Frankrike intet allenast upmuntrade Collectores af dessa Actis at widare dermed fortfara, utan ock önskade, at jämwäl uti Swerige en Societet blefwe inrättad, utaf hwilken de måtte kunna bättre, än här tils är skedt, uti dessa Nordiska Länders Geographie och historia naturali blifwa underrättade, samt här ifrån bekomma en hop med observationer och experimenter, som til Physiqvens och Astronomiens widare tiltagande aldeles äro oumgängelige.\"}, {\"bbox\": [360, 803, 473, 859], \"category\": \"Text\", \"text\": \"Societens memorial\"}, {\"bbox\": [493, 1789, 567, 1827], \"category\": \"Page-footer\", \"text\": \"254\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    835,
+    230,
+    1207,
+    265
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    500,
+    298,
+    1540,
+    426
+   ],
+   "category": "Text",
+   "text": "begära til sin widare upkomst och förkofran, hwilcket memorial Prof. And. Celsius lofwade at til nästa sammankomst effter helgen upsätta, som tå af Societeten kunde justeras»."
+  },
+  {
+   "bbox": [
+    496,
+    424,
+    1540,
+    800
+   ],
+   "category": "Text",
+   "text": "Detta sammanträde hölls den 28 januari 1731: »Upläste Hr. Prof. Celsius projectet till Memorialet, som skal lefwereras in wid Riksdagen, hwilket blef af Societeten approberadt, och blef resolveradt, at thet med första skal öfwersändas til hans Excellence Præses Illustris [Arvid Horn] at theröfwer jemwel hans nådiga ompröfwande afwackta». Förmodligen drog detta något om, så att memorialet först i mars kunde ingivas till riksdagen, och som vi skola se blev detta dröjsmål ödesdigert. Memorialet (R. A. Lärda sällskap 1725—1821) hade följande lydelse:"
+  },
+  {
+   "bbox": [
+    495,
+    798,
+    1538,
+    1049
+   ],
+   "category": "Text",
+   "text": "»In för Riksens Höglofl. Ständer fördristar sig jämwäl Societeten wid närwarande Riksdag at inkomma med en ödmiuk berättelse om des första inrättning och det, som sedermera til des påsyfftade ändamål kan wara uträttadt, samt i lika ödmiukhet insinuera de medel och utwägar, som skulle kunna til des widare tilwäxt och framgång märkeligen bidraga."
+  },
+  {
+   "bbox": [
+    493,
+    1048,
+    1537,
+    1342
+   ],
+   "category": "Text",
+   "text": "Det torde ej wara för Riksens Höglofl. Ständer obekant, at wid slutet af åhr 1719 hafwa någre Kongl. Maij:ts undersåtare wid Upsala Academie kommit öfwerens at wissa tider om åhret utgifwa under titel af Actis Literariis Sveciæ en kort recension af de böcker, som i vårt Fädernesland tryckas, och tillika de antiqviteter och observationer i Mathesi, Physiqven och Medicine, som de sielfwe kunnat anställa eller ock andre Curieuse och lärde män i Riket dem behagat meddela."
+  },
+  {
+   "bbox": [
+    490,
+    1337,
+    1535,
+    1756
+   ],
+   "category": "Text",
+   "text": "Detta deras ringa arbete hade den lyckan at winna så in- som utomlands en allmän approbation, så at de främmande Lärde, särdeles societates Scientiarum i England och Frankrike intet allenast upmuntrade Collectores af dessa Actis at widare dermed fortfara, utan ock önskade, at jämwäl uti Swerige en Societet blefwe inrättad, utaf hwilken de måtte kunna bättre, än här tils är skedt, uti dessa Nordiska Länders Geographie och historia naturali blifwa underrättade, samt här ifrån bekomma en hop med observationer och experimenter, som til Physiqvens och Astronomiens widare tiltagande aldeles äro oumgängelige."
+  },
+  {
+   "bbox": [
+    360,
+    803,
+    473,
+    859
+   ],
+   "category": "Text",
+   "text": "Societens memorial"
+  },
+  {
+   "bbox": [
+    493,
+    1789,
+    567,
+    1827
+   ],
+   "category": "Page-footer",
+   "text": "254"
+  }
+ ]
+}

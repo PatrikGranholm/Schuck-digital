@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 86,
+ "seconds": 38.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [398, 225, 907, 268], \"category\": \"Section-header\", \"text\": \"Den äldre Peringskiölds tid\"}, {\"bbox\": [130, 296, 1166, 1046], \"category\": \"Text\", \"text\": \"svar från konungen kom icke, och i följd därav blevo ritaren och skrivaren strukne ur staten. I brev till Westenhielm underrättade Peringskiöld honom härom: »Angående Kongl. Antiquitetz Archivi betiente lärer förmodeligen wara Hr. Lagmannen bekant, at igenom Kongl. M:tz nya Stat för Kgl. Cancellie Archivo, inrättad pro Anno 1715, blefwo trenne betiente uthslutne, näml. En min ordinaire Amanuensis Hedenstrauck, sedan En extra ordinaire Amanuensis Hinnel och En dito Ritare Tungelfelt. Doch som Kongl. M:tz igenom sit nådige bref til dess Cancellie Collegium lät förnimma, om bemälte twenne Extraordinarie betienter woro widare af nöden, så gaf Kgl. Cancellie Collegium mig befallning at giöra min underdånige berättelse och Memorial, hwar uti iag anförde deras arbete och nyttighet at conserveras. Jag införde dem också på A. A. personel Stat pro 1715. Kgl. Cancellie Collegium biföll mit Memorial och skickade det öfver til Kongl. May:ttz widare approbation, men som där på intet swar kommit, så har högbemälte Collegium af Staten f. 1715 uthlemnat förnämde personer» (V. H. A. A. sign. Ab 20. Den 16 januari 1716).\"}, {\"bbox\": [165, 1056, 730, 1100], \"category\": \"Text\", \"text\": \"Den 30 maj 1719 följde en ny stat:\"}, {\"bbox\": [475, 1105, 822, 1146], \"category\": \"Section-header\", \"text\": \"»Antiqvitets Archivum\"}, {\"bbox\": [1184, 1064, 1282, 1118], \"category\": \"Text\", \"text\": \"1719 års stat\"}, {\"bbox\": [127, 1150, 1164, 1653], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>1</td><td>Secreterare och Antiqvarius medh en Skrifware</td><td>1350</td></tr><tr><td>2</td><td>Assessorer à 600 D.</td><td>1200</td></tr><tr><td>1</td><td>Translator af Gamla språken</td><td>500</td></tr><tr><td>1</td><td>Amanuensis</td><td>250</td></tr><tr><td>1</td><td>Dito</td><td>200</td></tr><tr><td>1</td><td>Rijtare</td><td>200</td></tr><tr><td>1</td><td>Drängh</td><td>60</td></tr><tr><td></td><td>Till Reesepenningar widh Antiqviteters opsökiande, wharföre bör giöras Räckningh</td><td>150</td></tr><tr><td></td><td>Till Skrif Materialier och hwariehanda Expenser, sammaledes</td><td>100</td></tr><tr><td></td><td>Till Böckers inkiöp samt till Papper, Tryck- och Formsnijdare Kåstnadh, hwarföre giöres Räckningh</td><td>400</td></tr><tr><td></td><td>När något wärck är färdigt, will Kongl. May:st benåda Auctorn 1/3 dehl af alla dhe Exemplar, som uppläggas.</td><td></td></tr></tbody></table>\"}, {\"bbox\": [535, 1651, 682, 1686], \"category\": \"Text\", \"text\": \"D. 4410.»\"}, {\"bbox\": [162, 1708, 1161, 1752], \"category\": \"Text\", \"text\": \"Den har i det hela återgått till 1692 års stat. Arvodet till anti-\"}, {\"bbox\": [1112, 1792, 1158, 1830], \"category\": \"Page-footer\", \"text\": \"77\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    398,
+    225,
+    907,
+    268
+   ],
+   "category": "Section-header",
+   "text": "Den äldre Peringskiölds tid"
+  },
+  {
+   "bbox": [
+    130,
+    296,
+    1166,
+    1046
+   ],
+   "category": "Text",
+   "text": "svar från konungen kom icke, och i följd därav blevo ritaren och skrivaren strukne ur staten. I brev till Westenhielm underrättade Peringskiöld honom härom: »Angående Kongl. Antiquitetz Archivi betiente lärer förmodeligen wara Hr. Lagmannen bekant, at igenom Kongl. M:tz nya Stat för Kgl. Cancellie Archivo, inrättad pro Anno 1715, blefwo trenne betiente uthslutne, näml. En min ordinaire Amanuensis Hedenstrauck, sedan En extra ordinaire Amanuensis Hinnel och En dito Ritare Tungelfelt. Doch som Kongl. M:tz igenom sit nådige bref til dess Cancellie Collegium lät förnimma, om bemälte twenne Extraordinarie betienter woro widare af nöden, så gaf Kgl. Cancellie Collegium mig befallning at giöra min underdånige berättelse och Memorial, hwar uti iag anförde deras arbete och nyttighet at conserveras. Jag införde dem också på A. A. personel Stat pro 1715. Kgl. Cancellie Collegium biföll mit Memorial och skickade det öfver til Kongl. May:ttz widare approbation, men som där på intet swar kommit, så har högbemälte Collegium af Staten f. 1715 uthlemnat förnämde personer» (V. H. A. A. sign. Ab 20. Den 16 januari 1716)."
+  },
+  {
+   "bbox": [
+    165,
+    1056,
+    730,
+    1100
+   ],
+   "category": "Text",
+   "text": "Den 30 maj 1719 följde en ny stat:"
+  },
+  {
+   "bbox": [
+    475,
+    1105,
+    822,
+    1146
+   ],
+   "category": "Section-header",
+   "text": "»Antiqvitets Archivum"
+  },
+  {
+   "bbox": [
+    1184,
+    1064,
+    1282,
+    1118
+   ],
+   "category": "Text",
+   "text": "1719 års stat"
+  },
+  {
+   "bbox": [
+    127,
+    1150,
+    1164,
+    1653
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>1</td><td>Secreterare och Antiqvarius medh en Skrifware</td><td>1350</td></tr><tr><td>2</td><td>Assessorer à 600 D.</td><td>1200</td></tr><tr><td>1</td><td>Translator af Gamla språken</td><td>500</td></tr><tr><td>1</td><td>Amanuensis</td><td>250</td></tr><tr><td>1</td><td>Dito</td><td>200</td></tr><tr><td>1</td><td>Rijtare</td><td>200</td></tr><tr><td>1</td><td>Drängh</td><td>60</td></tr><tr><td></td><td>Till Reesepenningar widh Antiqviteters opsökiande, wharföre bör giöras Räckningh</td><td>150</td></tr><tr><td></td><td>Till Skrif Materialier och hwariehanda Expenser, sammaledes</td><td>100</td></tr><tr><td></td><td>Till Böckers inkiöp samt till Papper, Tryck- och Formsnijdare Kåstnadh, hwarföre giöres Räckningh</td><td>400</td></tr><tr><td></td><td>När något wärck är färdigt, will Kongl. May:st benåda Auctorn 1/3 dehl af alla dhe Exemplar, som uppläggas.</td><td></td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    535,
+    1651,
+    682,
+    1686
+   ],
+   "category": "Text",
+   "text": "D. 4410.»"
+  },
+  {
+   "bbox": [
+    162,
+    1708,
+    1161,
+    1752
+   ],
+   "category": "Text",
+   "text": "Den har i det hela återgått till 1692 års stat. Arvodet till anti-"
+  },
+  {
+   "bbox": [
+    1112,
+    1792,
+    1158,
+    1830
+   ],
+   "category": "Page-footer",
+   "text": "77"
+  }
+ ]
+}

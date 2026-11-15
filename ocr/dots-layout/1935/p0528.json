@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 528,
+ "seconds": 28.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [564, 226, 750, 261], \"category\": \"Section-header\", \"text\": \"Helins tid\"}, {\"bbox\": [138, 297, 1182, 500], \"category\": \"Text\", \"text\": \"sielfwa inkiöpet af Medaillerne ungefärligen kan hafwa kostat, och at han derwid ej inberäknat wärdet af Instrumentis Sacrificalibus, så kunde H:s Excell:ce utan alt för stor skada och saknad, eller så framt han skulle finna sig någorlunda nögd, ej för ringare än 8000 Plåt. alt sammans aflåta.\"}, {\"bbox\": [138, 505, 1184, 1296], \"category\": \"Text\", \"text\": \"Som nu detta Cabinettet är af den beskaffenheten och det wärdet, som redan är berättat, så wore det en rät prydnad och skatt, som uti et Kongl. Residence med heder kunde upwisas så wäl för höga och curieuse Fremmande, som hit ankomma, som för de infödde, hwilka allaredan ega en rät smak uti detta kostbara Studio Numismatico eller ock för dem, som hafwa lust och mogenhet at derwid underrätta sig. Altså förmodar man, at Riksens Högl. Ständers Secrete Utskott lärer så wäl til Rikets heder och prydnad som almän efterrättelse om des inlösande så mycket mera draga försorg, som detta Cabinettet är af den beskaffenhet, at det af andra Länders curieuse Herrar och Männ, som wid slika samlingars inlösande ej så noga se uppå det utsatte wärdet och eljest hafwa den förmögenhet och inkomster, som ej många här i landet ega, torde blifwa här ifrån bortkiöpt, hwilket der det sedan skulle återkiöpas, eller om med tiden til Rikets heder och nytta någon dylik samling skulle anläggas, långt anseenligare Summa lärer erfordras, som doch på många år ej skulle stå at winna, så framt icke et sådant tilfälle funnes, som nu gifwes och på fremmande eljest orter med stor bekostnad måste ske, emedan det lärer wara fåfängt sådant här i Riket at företaga.\"}, {\"bbox\": [534, 1313, 794, 1389], \"category\": \"Section-header\", \"text\": \"Aldra ödmiukast\\naf\"}, {\"bbox\": [204, 1406, 349, 1450], \"category\": \"Text\", \"text\": \"J. Helin.\"}, {\"bbox\": [594, 1406, 757, 1442], \"category\": \"Text\", \"text\": \"N. Keder.\"}, {\"bbox\": [890, 1406, 1111, 1442], \"category\": \"Text\", \"text\": \"C: L. Schantz\"}, {\"bbox\": [375, 1466, 1144, 1543], \"category\": \"Text\", \"text\": \"Concordantiam cum Originali testor\\nPetr. Ekerman»\"}, {\"bbox\": [138, 1584, 1184, 1753], \"category\": \"Text\", \"text\": \"Något skriftligt utlåtande tyckes mindre sekreta deputationen, som samtidigt förehade förslaget om inköp av den Bromellska samlingen, icke hava avgivit. Men vid sekreta utskottets sammanträde den 24 maj berättade greve Tessin, »at den mindre secreta Deputa-\"}, {\"bbox\": [1105, 1789, 1177, 1828], \"category\": \"Page-footer\", \"text\": \"509\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    564,
+    226,
+    750,
+    261
+   ],
+   "category": "Section-header",
+   "text": "Helins tid"
+  },
+  {
+   "bbox": [
+    138,
+    297,
+    1182,
+    500
+   ],
+   "category": "Text",
+   "text": "sielfwa inkiöpet af Medaillerne ungefärligen kan hafwa kostat, och at han derwid ej inberäknat wärdet af Instrumentis Sacrificalibus, så kunde H:s Excell:ce utan alt för stor skada och saknad, eller så framt han skulle finna sig någorlunda nögd, ej för ringare än 8000 Plåt. alt sammans aflåta."
+  },
+  {
+   "bbox": [
+    138,
+    505,
+    1184,
+    1296
+   ],
+   "category": "Text",
+   "text": "Som nu detta Cabinettet är af den beskaffenheten och det wärdet, som redan är berättat, så wore det en rät prydnad och skatt, som uti et Kongl. Residence med heder kunde upwisas så wäl för höga och curieuse Fremmande, som hit ankomma, som för de infödde, hwilka allaredan ega en rät smak uti detta kostbara Studio Numismatico eller ock för dem, som hafwa lust och mogenhet at derwid underrätta sig. Altså förmodar man, at Riksens Högl. Ständers Secrete Utskott lärer så wäl til Rikets heder och prydnad som almän efterrättelse om des inlösande så mycket mera draga försorg, som detta Cabinettet är af den beskaffenhet, at det af andra Länders curieuse Herrar och Männ, som wid slika samlingars inlösande ej så noga se uppå det utsatte wärdet och eljest hafwa den förmögenhet och inkomster, som ej många här i landet ega, torde blifwa här ifrån bortkiöpt, hwilket der det sedan skulle återkiöpas, eller om med tiden til Rikets heder och nytta någon dylik samling skulle anläggas, långt anseenligare Summa lärer erfordras, som doch på många år ej skulle stå at winna, så framt icke et sådant tilfälle funnes, som nu gifwes och på fremmande eljest orter med stor bekostnad måste ske, emedan det lärer wara fåfängt sådant här i Riket at företaga."
+  },
+  {
+   "bbox": [
+    534,
+    1313,
+    794,
+    1389
+   ],
+   "category": "Section-header",
+   "text": "Aldra ödmiukast\naf"
+  },
+  {
+   "bbox": [
+    204,
+    1406,
+    349,
+    1450
+   ],
+   "category": "Text",
+   "text": "J. Helin."
+  },
+  {
+   "bbox": [
+    594,
+    1406,
+    757,
+    1442
+   ],
+   "category": "Text",
+   "text": "N. Keder."
+  },
+  {
+   "bbox": [
+    890,
+    1406,
+    1111,
+    1442
+   ],
+   "category": "Text",
+   "text": "C: L. Schantz"
+  },
+  {
+   "bbox": [
+    375,
+    1466,
+    1144,
+    1543
+   ],
+   "category": "Text",
+   "text": "Concordantiam cum Originali testor\nPetr. Ekerman»"
+  },
+  {
+   "bbox": [
+    138,
+    1584,
+    1184,
+    1753
+   ],
+   "category": "Text",
+   "text": "Något skriftligt utlåtande tyckes mindre sekreta deputationen, som samtidigt förehade förslaget om inköp av den Bromellska samlingen, icke hava avgivit. Men vid sekreta utskottets sammanträde den 24 maj berättade greve Tessin, »at den mindre secreta Deputa-"
+  },
+  {
+   "bbox": [
+    1105,
+    1789,
+    1177,
+    1828
+   ],
+   "category": "Page-footer",
+   "text": "509"
+  }
+ ]
+}

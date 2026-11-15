@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 77,
+ "seconds": 30.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [818, 227, 1193, 263], \"category\": \"Section-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [482, 297, 1528, 426], \"category\": \"Text\", \"text\": \"ej. Å den andra sidan kan det knappt fördöljas, att arkivets vetenskapliga verksamhet i mycket förlamats av den tröstlösa ekonomiska situationen i början av 1700-talet.\"}, {\"bbox\": [368, 434, 469, 491], \"category\": \"Text\", \"text\": \"1692 års stat\"}, {\"bbox\": [482, 423, 1528, 552], \"category\": \"Text\", \"text\": \"Den stat, som den 23 april 1692 utfärdades för antikvitetsarkivet, har redan meddelats (II, sid. 260), men bör för sammanhangets skull här ånyo anföras:\"}, {\"bbox\": [484, 558, 1532, 1029], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>»En Secretarius eller Antiquarius niuter de 600 Dr. smt., som på Archivi Staat äre Antiquario påförde, och får nu dertill på denne Staten dahl. Sölf.</td><td>600</td></tr><tr><td>Twenne Assessorer hwardera 600</td><td>1200</td></tr><tr><td>En Translator af gamble språken</td><td>500</td></tr><tr><td>En amanuensis</td><td>250</td></tr><tr><td>En dito</td><td>200</td></tr><tr><td>En Rijtare</td><td>200</td></tr><tr><td>En dräng</td><td>60</td></tr><tr><td>Resepengar</td><td>150</td></tr><tr><td>Till hwariehanda expenser</td><td>100</td></tr><tr><td>Till Böcker, Papper, tryckning, formsnijdande</td><td>400</td></tr><tr><td></td><td>3660»</td></tr></tbody></table>\"}, {\"bbox\": [487, 1057, 1532, 1427], \"category\": \"Text\", \"text\": \"Som man märker företer staten en egendomlighet. Såsom antikvarie stod chefen på kansliets allmänna stat (»En Antiquarius med en skrifware — 750 Dr.») och såsom sekreterare på antikvitetsarkivets. Historiskt var detta alldeles riktigt, ty det hade från början varit två olika platser, ehuru de från 1679 hade samma innehavare. Å den andra sidan hade de vid denna tid faktiskt blivit en enda, och det var därför ingen anledning att i staten skilja på dem. I den nästa stat, som utfärdades, 1713, hava de också sammanförts till en enda.\"}, {\"bbox\": [487, 1429, 1532, 1682], \"category\": \"Text\", \"text\": \"Genom staten av den 23 april 1692 hade emellertid den förut så osäkra ekonomien ordnats. Tjänstemännen fingo nu sina fasta, ej alltför knappt tillmätta löner utbetalade av statskontoret. Till expenser hade anslagits 100 daler smt, till resor 150 daler smt, vilka anslag torde ha varit tillräckliga. Alldeles för litet var däremot 400 daler till inköp av böcker, handskrifter, papper, arvoden åt\"}, {\"bbox\": [491, 1689, 1532, 1755], \"category\": \"Text\", \"text\": \"1703 av Peringskiöld med anledning av de i följd av kriget minskade löneutanordningarna (R. A. Biografica. Peringskiöld). Denna få vi i det följande ofta tillfälle att citera.\"}, {\"bbox\": [494, 1782, 543, 1820], \"category\": \"Page-footer\", \"text\": \"68\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    818,
+    227,
+    1193,
+    263
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    482,
+    297,
+    1528,
+    426
+   ],
+   "category": "Text",
+   "text": "ej. Å den andra sidan kan det knappt fördöljas, att arkivets vetenskapliga verksamhet i mycket förlamats av den tröstlösa ekonomiska situationen i början av 1700-talet."
+  },
+  {
+   "bbox": [
+    368,
+    434,
+    469,
+    491
+   ],
+   "category": "Text",
+   "text": "1692 års stat"
+  },
+  {
+   "bbox": [
+    482,
+    423,
+    1528,
+    552
+   ],
+   "category": "Text",
+   "text": "Den stat, som den 23 april 1692 utfärdades för antikvitetsarkivet, har redan meddelats (II, sid. 260), men bör för sammanhangets skull här ånyo anföras:"
+  },
+  {
+   "bbox": [
+    484,
+    558,
+    1532,
+    1029
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>»En Secretarius eller Antiquarius niuter de 600 Dr. smt., som på Archivi Staat äre Antiquario påförde, och får nu dertill på denne Staten dahl. Sölf.</td><td>600</td></tr><tr><td>Twenne Assessorer hwardera 600</td><td>1200</td></tr><tr><td>En Translator af gamble språken</td><td>500</td></tr><tr><td>En amanuensis</td><td>250</td></tr><tr><td>En dito</td><td>200</td></tr><tr><td>En Rijtare</td><td>200</td></tr><tr><td>En dräng</td><td>60</td></tr><tr><td>Resepengar</td><td>150</td></tr><tr><td>Till hwariehanda expenser</td><td>100</td></tr><tr><td>Till Böcker, Papper, tryckning, formsnijdande</td><td>400</td></tr><tr><td></td><td>3660»</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    487,
+    1057,
+    1532,
+    1427
+   ],
+   "category": "Text",
+   "text": "Som man märker företer staten en egendomlighet. Såsom antikvarie stod chefen på kansliets allmänna stat (»En Antiquarius med en skrifware — 750 Dr.») och såsom sekreterare på antikvitetsarkivets. Historiskt var detta alldeles riktigt, ty det hade från början varit två olika platser, ehuru de från 1679 hade samma innehavare. Å den andra sidan hade de vid denna tid faktiskt blivit en enda, och det var därför ingen anledning att i staten skilja på dem. I den nästa stat, som utfärdades, 1713, hava de också sammanförts till en enda."
+  },
+  {
+   "bbox": [
+    487,
+    1429,
+    1532,
+    1682
+   ],
+   "category": "Text",
+   "text": "Genom staten av den 23 april 1692 hade emellertid den förut så osäkra ekonomien ordnats. Tjänstemännen fingo nu sina fasta, ej alltför knappt tillmätta löner utbetalade av statskontoret. Till expenser hade anslagits 100 daler smt, till resor 150 daler smt, vilka anslag torde ha varit tillräckliga. Alldeles för litet var däremot 400 daler till inköp av böcker, handskrifter, papper, arvoden åt"
+  },
+  {
+   "bbox": [
+    491,
+    1689,
+    1532,
+    1755
+   ],
+   "category": "Text",
+   "text": "1703 av Peringskiöld med anledning av de i följd av kriget minskade löneutanordningarna (R. A. Biografica. Peringskiöld). Denna få vi i det följande ofta tillfälle att citera."
+  },
+  {
+   "bbox": [
+    494,
+    1782,
+    543,
+    1820
+   ],
+   "category": "Page-footer",
+   "text": "68"
+  }
+ ]
+}

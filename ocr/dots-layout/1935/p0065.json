@@ -1,0 +1,132 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 65,
+ "seconds": 30.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [802, 227, 1174, 263], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [470, 299, 1513, 502], \"category\": \"Text\", \"text\": \"färdade Helin detta kvitto (R. A. Biografica. Westenhielm): »d. 9 april 1734 lät Hr. assessor Adlerbaum skicka til mig 2:ne bundtar, hwaruti skulle ligga alt det, som han hos sig hade af des sal. swärfaders Lagm. Westenhielms utarbetade och samlade skrifter ang:de K. Gust. I Historia:\"}, {\"bbox\": [473, 506, 1513, 592], \"category\": \"Text\", \"text\": \"1) Kort Inledning til Historien af Gustavianiske slechten i grått Cardus papper inhäftad.\"}, {\"bbox\": [473, 589, 1513, 676], \"category\": \"Text\", \"text\": \"2) K. Gustaf den förstes Histories fierde och femte bok i Turskt pergament inbundne.\"}, {\"bbox\": [507, 672, 1513, 717], \"category\": \"Text\", \"text\": \"3) Dito siette boken af förbe:te Historia i Cardus papper inhäftad.\"}, {\"bbox\": [507, 715, 1401, 758], \"category\": \"Text\", \"text\": \"4) Dito siunde boken äfwenwäl i Carduspapper inhäftad.\"}, {\"bbox\": [473, 756, 1513, 882], \"category\": \"Text\", \"text\": \"5) I Turskt papper inbundit en del af den 7:de boken, men den 8:de, 9:de och 10:de boken helt fulkomliga, doch synas detta wara efter det förra conceptet och planen skrifwit.\"}, {\"bbox\": [473, 880, 1513, 1006], \"category\": \"Text\", \"text\": \"6) åtskilliga Sal. Lagm. Westenhielms dels egenhändiga concepter, dels corrigerade efter den förra planen, doch mycket defectueuse och utan sammanhang.\"}, {\"bbox\": [507, 1004, 1513, 1048], \"category\": \"Text\", \"text\": \"7) En liten bundt med allehanda samlingar til förbe:te historia.\"}, {\"bbox\": [507, 1046, 1456, 1090], \"category\": \"Text\", \"text\": \"8) K. Erich den XIV historia skrifwen af E. J. Tegel. Mst.»\"}, {\"bbox\": [473, 1088, 1517, 1753], \"category\": \"Text\", \"text\": \"Ännu saknades således de tre första böckerna, och året därpå, 1735, avled assessor Adlerbaum. Ett av hans manuskript tyckes då redan hava utlånats till Erik Benzelius, som den 26 augusti detta år skrev till Benzelstierna, att han »fått til låns conceptet af sal. Westenhielms 7 Böcker af Historia Gustavi I: och måtte gerna vetta, om thet renskrifna fins i Riks-Arquivo, som ock hvad år thet är inkommit, ty jag finner, at Auctoren uti en del af thetta, som är renskrifvit, mycket ändrat och jämväl i bredden tillagt». Härpå svarade Benzelstierna den 12 September: »Af Westenhielms vackra Historia Gustavi I är in til denna stund ej något renskrifvit fullkomligt exemplar inkommit til Riks- eller Antiquitets Archivum, utan til det senare allenast ett hans concept, hvaraf dock felas de 3 första böckerna. Secr. Helin berättar mig, att åtskilliga concepter skola finnas af detta verk, och om de en gång kunna fås tilhopa, lärer verket kunna få en god form, om någon flitig och tålamodig man sig det företager.» Troligen var det genom Ben-\"}, {\"bbox\": [478, 1781, 528, 1830], \"category\": \"Page-footer\", \"text\": \"56\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    802,
+    227,
+    1174,
+    263
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    470,
+    299,
+    1513,
+    502
+   ],
+   "category": "Text",
+   "text": "färdade Helin detta kvitto (R. A. Biografica. Westenhielm): »d. 9 april 1734 lät Hr. assessor Adlerbaum skicka til mig 2:ne bundtar, hwaruti skulle ligga alt det, som han hos sig hade af des sal. swärfaders Lagm. Westenhielms utarbetade och samlade skrifter ang:de K. Gust. I Historia:"
+  },
+  {
+   "bbox": [
+    473,
+    506,
+    1513,
+    592
+   ],
+   "category": "Text",
+   "text": "1) Kort Inledning til Historien af Gustavianiske slechten i grått Cardus papper inhäftad."
+  },
+  {
+   "bbox": [
+    473,
+    589,
+    1513,
+    676
+   ],
+   "category": "Text",
+   "text": "2) K. Gustaf den förstes Histories fierde och femte bok i Turskt pergament inbundne."
+  },
+  {
+   "bbox": [
+    507,
+    672,
+    1513,
+    717
+   ],
+   "category": "Text",
+   "text": "3) Dito siette boken af förbe:te Historia i Cardus papper inhäftad."
+  },
+  {
+   "bbox": [
+    507,
+    715,
+    1401,
+    758
+   ],
+   "category": "Text",
+   "text": "4) Dito siunde boken äfwenwäl i Carduspapper inhäftad."
+  },
+  {
+   "bbox": [
+    473,
+    756,
+    1513,
+    882
+   ],
+   "category": "Text",
+   "text": "5) I Turskt papper inbundit en del af den 7:de boken, men den 8:de, 9:de och 10:de boken helt fulkomliga, doch synas detta wara efter det förra conceptet och planen skrifwit."
+  },
+  {
+   "bbox": [
+    473,
+    880,
+    1513,
+    1006
+   ],
+   "category": "Text",
+   "text": "6) åtskilliga Sal. Lagm. Westenhielms dels egenhändiga concepter, dels corrigerade efter den förra planen, doch mycket defectueuse och utan sammanhang."
+  },
+  {
+   "bbox": [
+    507,
+    1004,
+    1513,
+    1048
+   ],
+   "category": "Text",
+   "text": "7) En liten bundt med allehanda samlingar til förbe:te historia."
+  },
+  {
+   "bbox": [
+    507,
+    1046,
+    1456,
+    1090
+   ],
+   "category": "Text",
+   "text": "8) K. Erich den XIV historia skrifwen af E. J. Tegel. Mst.»"
+  },
+  {
+   "bbox": [
+    473,
+    1088,
+    1517,
+    1753
+   ],
+   "category": "Text",
+   "text": "Ännu saknades således de tre första böckerna, och året därpå, 1735, avled assessor Adlerbaum. Ett av hans manuskript tyckes då redan hava utlånats till Erik Benzelius, som den 26 augusti detta år skrev till Benzelstierna, att han »fått til låns conceptet af sal. Westenhielms 7 Böcker af Historia Gustavi I: och måtte gerna vetta, om thet renskrifna fins i Riks-Arquivo, som ock hvad år thet är inkommit, ty jag finner, at Auctoren uti en del af thetta, som är renskrifvit, mycket ändrat och jämväl i bredden tillagt». Härpå svarade Benzelstierna den 12 September: »Af Westenhielms vackra Historia Gustavi I är in til denna stund ej något renskrifvit fullkomligt exemplar inkommit til Riks- eller Antiquitets Archivum, utan til det senare allenast ett hans concept, hvaraf dock felas de 3 första böckerna. Secr. Helin berättar mig, att åtskilliga concepter skola finnas af detta verk, och om de en gång kunna fås tilhopa, lärer verket kunna få en god form, om någon flitig och tålamodig man sig det företager.» Troligen var det genom Ben-"
+  },
+  {
+   "bbox": [
+    478,
+    1781,
+    528,
+    1830
+   ],
+   "category": "Page-footer",
+   "text": "56"
+  }
+ ]
+}

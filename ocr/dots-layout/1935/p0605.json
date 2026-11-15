@@ -1,0 +1,132 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 605,
+ "seconds": 31.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [789, 226, 1162, 262], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [450, 296, 1498, 465], \"category\": \"Text\", \"text\": \"sign. E IV. 9). Till sitt memorial fogade han en lista på inropen med bifogade priser: »Förteckning på de Manuscripter, som på auction i Upsala öfwer afl. H. Archiatern Rudbecks Böcker äro för K. R. Antiquitets Archivum inropade och betalte, neml.\"}, {\"bbox\": [912, 492, 1036, 524], \"category\": \"Text\", \"text\": \"In folio.\"}, {\"bbox\": [450, 537, 1434, 614], \"category\": \"Text\", \"text\": \"Nr. 4. Glossarium på S. Olofs Saga, Är med Ol. Verelii hand skrefwen, bestående af mehr än 4 böcker papper. Kostar. Dr. 8\"}, {\"bbox\": [450, 612, 1482, 722], \"category\": \"Text\", \"text\": \"N. 15 Lygare Liod Syra Gudmundar Erlandsonar, thet är en dicht om lögnare, förswänskat af Jona Rugman med dess företal. Består af 4 ark och warit ärnad at tryckas. Dr. 3.24\"}, {\"bbox\": [450, 719, 1482, 793], \"category\": \"Text\", \"text\": \"Nr. 19 Olai Petri Crönika är med gammal styl 1551 skrefwen. Af företalet felas något. Men sielfwa Crönikan fulkomlig. Dr. 2.10\"}, {\"bbox\": [450, 790, 1482, 1006], \"category\": \"Text\", \"text\": \"Nr. 25. Edda Jslandice. Är wäl med Verelii egen hand skrifwen, dock ey så fulkomlig som den tryckte och de andra, som finnas tilförende i Antiq. Archivo. Skaldskapar Mal och Liodsgrein, som följa med samma band, äro af lika beskaffenhet, så at de kunna anses som goda och widlyfftige utdrag af de widlyfftigare. Dr. 3.10\"}, {\"bbox\": [450, 1003, 1442, 1148], \"category\": \"Text\", \"text\": \"Nr. 27. Åtskilliga skaldewijsor. Desse äro alla skrefne med Rugmans hand. 1 Jsländskan. 2 Utredningen och 3 Paraphrasis af större delen. Wisorne äro mestedels utur Sturleson och kunna confereras med de tryckte. Dr. 4.\"}, {\"bbox\": [450, 1146, 1482, 1392], \"category\": \"Text\", \"text\": \"Nr. 29. Varia Miscellanea. Bestå 1:0) af utlänte Böcker utur Antiquitets Archivo och Bibliotheca acad. 2:0) Rudbecks excerpter utur åtskilliga auctoribus til des atlantiska wärk. 3:0) af Biskop Nils Rudbecks bref och insände berättelser om gamla män och qwinnor ifrån åtskillige sochnar och 4:0) Olof Rudbecks Concepter til personalier och grafskrifter öfwer Werelius. Dr. 3.24\"}, {\"bbox\": [450, 1392, 1476, 1538], \"category\": \"Text\", \"text\": \"Nr. 35 Uplandiæ monumenta Runica, bestå af Runstenars gl. inscriptioner med latinsk öfwersättning, ey allena öfwer Upland, utan ock de andra orterne, som i Buræorum tid warit aftagne. Dr. 2.28\"}, {\"bbox\": [450, 1536, 1464, 1752], \"category\": \"Text\", \"text\": \"Nr. 39. Vocabularium Latino-Theotiscum cum annotat. Sparfwenfeldii. Det är et Glossarium, som H. Sparfwenfeldt 1692 in Conv. St. Galli excerperat af Versione interlinaari vet. Ms. Regula St Benedicti kallad. Detta senare Mst. är i Thesauro Schilteriano tryckt, men intet något särskilt Glossarium däröfwer. Dr. 2.4.\"}, {\"bbox\": [456, 1779, 529, 1827], \"category\": \"Page-footer\", \"text\": \"586\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    789,
+    226,
+    1162,
+    262
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    450,
+    296,
+    1498,
+    465
+   ],
+   "category": "Text",
+   "text": "sign. E IV. 9). Till sitt memorial fogade han en lista på inropen med bifogade priser: »Förteckning på de Manuscripter, som på auction i Upsala öfwer afl. H. Archiatern Rudbecks Böcker äro för K. R. Antiquitets Archivum inropade och betalte, neml."
+  },
+  {
+   "bbox": [
+    912,
+    492,
+    1036,
+    524
+   ],
+   "category": "Text",
+   "text": "In folio."
+  },
+  {
+   "bbox": [
+    450,
+    537,
+    1434,
+    614
+   ],
+   "category": "Text",
+   "text": "Nr. 4. Glossarium på S. Olofs Saga, Är med Ol. Verelii hand skrefwen, bestående af mehr än 4 böcker papper. Kostar. Dr. 8"
+  },
+  {
+   "bbox": [
+    450,
+    612,
+    1482,
+    722
+   ],
+   "category": "Text",
+   "text": "N. 15 Lygare Liod Syra Gudmundar Erlandsonar, thet är en dicht om lögnare, förswänskat af Jona Rugman med dess företal. Består af 4 ark och warit ärnad at tryckas. Dr. 3.24"
+  },
+  {
+   "bbox": [
+    450,
+    719,
+    1482,
+    793
+   ],
+   "category": "Text",
+   "text": "Nr. 19 Olai Petri Crönika är med gammal styl 1551 skrefwen. Af företalet felas något. Men sielfwa Crönikan fulkomlig. Dr. 2.10"
+  },
+  {
+   "bbox": [
+    450,
+    790,
+    1482,
+    1006
+   ],
+   "category": "Text",
+   "text": "Nr. 25. Edda Jslandice. Är wäl med Verelii egen hand skrifwen, dock ey så fulkomlig som den tryckte och de andra, som finnas tilförende i Antiq. Archivo. Skaldskapar Mal och Liodsgrein, som följa med samma band, äro af lika beskaffenhet, så at de kunna anses som goda och widlyfftige utdrag af de widlyfftigare. Dr. 3.10"
+  },
+  {
+   "bbox": [
+    450,
+    1003,
+    1442,
+    1148
+   ],
+   "category": "Text",
+   "text": "Nr. 27. Åtskilliga skaldewijsor. Desse äro alla skrefne med Rugmans hand. 1 Jsländskan. 2 Utredningen och 3 Paraphrasis af större delen. Wisorne äro mestedels utur Sturleson och kunna confereras med de tryckte. Dr. 4."
+  },
+  {
+   "bbox": [
+    450,
+    1146,
+    1482,
+    1392
+   ],
+   "category": "Text",
+   "text": "Nr. 29. Varia Miscellanea. Bestå 1:0) af utlänte Böcker utur Antiquitets Archivo och Bibliotheca acad. 2:0) Rudbecks excerpter utur åtskilliga auctoribus til des atlantiska wärk. 3:0) af Biskop Nils Rudbecks bref och insände berättelser om gamla män och qwinnor ifrån åtskillige sochnar och 4:0) Olof Rudbecks Concepter til personalier och grafskrifter öfwer Werelius. Dr. 3.24"
+  },
+  {
+   "bbox": [
+    450,
+    1392,
+    1476,
+    1538
+   ],
+   "category": "Text",
+   "text": "Nr. 35 Uplandiæ monumenta Runica, bestå af Runstenars gl. inscriptioner med latinsk öfwersättning, ey allena öfwer Upland, utan ock de andra orterne, som i Buræorum tid warit aftagne. Dr. 2.28"
+  },
+  {
+   "bbox": [
+    450,
+    1536,
+    1464,
+    1752
+   ],
+   "category": "Text",
+   "text": "Nr. 39. Vocabularium Latino-Theotiscum cum annotat. Sparfwenfeldii. Det är et Glossarium, som H. Sparfwenfeldt 1692 in Conv. St. Galli excerperat af Versione interlinaari vet. Ms. Regula St Benedicti kallad. Detta senare Mst. är i Thesauro Schilteriano tryckt, men intet något särskilt Glossarium däröfwer. Dr. 2.4."
+  },
+  {
+   "bbox": [
+    456,
+    1779,
+    529,
+    1827
+   ],
+   "category": "Page-footer",
+   "text": "586"
+  }
+ ]
+}

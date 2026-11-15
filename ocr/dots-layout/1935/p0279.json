@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 279,
+ "seconds": 28.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [834, 228, 1208, 264], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [500, 298, 1542, 424], \"category\": \"Text\", \"text\": \"Cammar-Collegium at inkomma med sitt betänkande; men för de många rikswårdande ärender blef deruppå samma Riksdag ej giordt något slut.\"}, {\"bbox\": [498, 424, 1544, 922], \"category\": \"Text\", \"text\": \"3:0 Om Bookauctionerne i Stockholm kunde komma under societetens disposition och således få åtniuta den årliga inkomst, som derutaf kan inflyta, sedan de derwid nödige utgifter äro betalte. Societeten giör sig så mycket mera om Riksens Höglofl. Ständers Höggunstiga bifall härutinnan försäkrad, som Höglofl. i åminnelse Konung Carl den XII uti sitt öpna bref, daterat Blonje den 6 November 1705, för Richard von der Hardt at wara Bookauctionator i Stockholm och Upsala för rättwist funnit, at han för hwar auction skulle gifwa en wiss afgifft til Kongl. Academiens Bibliotek i Upsala, hwilket dock ej skedt sedan bemälte von der Hardts död åhr 1711, då följande åhret Bokauctions wärket i Stockholm blef lagt under Stockholms Stads Adress och auctions Cammar.\"}, {\"bbox\": [498, 922, 1544, 1629], \"category\": \"Text\", \"text\": \"Om Riksens Höglofl. Ständer täckes taga i gunstig Consideration, 1:0 at i förmågo af Högbemälte Hans Kongl. Maij:ts nådiga bref här om, daterat Bender den 26 Julii 1712, inga andra Bokauctioner höra til stadsens adress och auctions Cammar än de, som effter föregången execution kunna dit komma, och man af de tryckta catalogerne finner, at snart ingen eller ganska ringa del af böcker, som årligen genom auction försäljes, är exeqverad, utan af ägarenas fria wilja dit sändas. 2:0 at det är bewisligit, bemälte Bokauctioner nu så stigit, at en som hade allena med dem at giöra, kunde derwid hafwa sin nödiga utkomst, sedan han aflönt betjenterna, som derwid erfordras samt betalt åhrlig hushyra, förmodar societeten det samma kunna nogsamt förmå Riksens Höglofl. Ständer at falla på de tankar, det Bookauctionerne måtte åter ifrån Stadsens adress och auctions Cammar aldeles befrias och afskiljas, effter som det är *et separat och til den studerande Ungdomens gagn allena anstält wärck*, som orden lyda uti ofwan Högstbemälte Kongl. Maij:ts Nådigsta bref af den 6 november 1705.\"}, {\"bbox\": [498, 1627, 1539, 1754], \"category\": \"Text\", \"text\": \"4:0 Om de 300 D:r Silf:mt, som Riksens Höglofl. Ständer wid sidsta Riksdag hafwa efterlåtit H:r Anders Duhre at niuta årligen af det arrende, som för Ulltuna KongzLadugård bör betalas, kunde\"}, {\"bbox\": [502, 1780, 576, 1818], \"category\": \"Page-footer\", \"text\": \"260\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    834,
+    228,
+    1208,
+    264
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    500,
+    298,
+    1542,
+    424
+   ],
+   "category": "Text",
+   "text": "Cammar-Collegium at inkomma med sitt betänkande; men för de många rikswårdande ärender blef deruppå samma Riksdag ej giordt något slut."
+  },
+  {
+   "bbox": [
+    498,
+    424,
+    1544,
+    922
+   ],
+   "category": "Text",
+   "text": "3:0 Om Bookauctionerne i Stockholm kunde komma under societetens disposition och således få åtniuta den årliga inkomst, som derutaf kan inflyta, sedan de derwid nödige utgifter äro betalte. Societeten giör sig så mycket mera om Riksens Höglofl. Ständers Höggunstiga bifall härutinnan försäkrad, som Höglofl. i åminnelse Konung Carl den XII uti sitt öpna bref, daterat Blonje den 6 November 1705, för Richard von der Hardt at wara Bookauctionator i Stockholm och Upsala för rättwist funnit, at han för hwar auction skulle gifwa en wiss afgifft til Kongl. Academiens Bibliotek i Upsala, hwilket dock ej skedt sedan bemälte von der Hardts död åhr 1711, då följande åhret Bokauctions wärket i Stockholm blef lagt under Stockholms Stads Adress och auctions Cammar."
+  },
+  {
+   "bbox": [
+    498,
+    922,
+    1544,
+    1629
+   ],
+   "category": "Text",
+   "text": "Om Riksens Höglofl. Ständer täckes taga i gunstig Consideration, 1:0 at i förmågo af Högbemälte Hans Kongl. Maij:ts nådiga bref här om, daterat Bender den 26 Julii 1712, inga andra Bokauctioner höra til stadsens adress och auctions Cammar än de, som effter föregången execution kunna dit komma, och man af de tryckta catalogerne finner, at snart ingen eller ganska ringa del af böcker, som årligen genom auction försäljes, är exeqverad, utan af ägarenas fria wilja dit sändas. 2:0 at det är bewisligit, bemälte Bokauctioner nu så stigit, at en som hade allena med dem at giöra, kunde derwid hafwa sin nödiga utkomst, sedan han aflönt betjenterna, som derwid erfordras samt betalt åhrlig hushyra, förmodar societeten det samma kunna nogsamt förmå Riksens Höglofl. Ständer at falla på de tankar, det Bookauctionerne måtte åter ifrån Stadsens adress och auctions Cammar aldeles befrias och afskiljas, effter som det är *et separat och til den studerande Ungdomens gagn allena anstält wärck*, som orden lyda uti ofwan Högstbemälte Kongl. Maij:ts Nådigsta bref af den 6 november 1705."
+  },
+  {
+   "bbox": [
+    498,
+    1627,
+    1539,
+    1754
+   ],
+   "category": "Text",
+   "text": "4:0 Om de 300 D:r Silf:mt, som Riksens Höglofl. Ständer wid sidsta Riksdag hafwa efterlåtit H:r Anders Duhre at niuta årligen af det arrende, som för Ulltuna KongzLadugård bör betalas, kunde"
+  },
+  {
+   "bbox": [
+    502,
+    1780,
+    576,
+    1818
+   ],
+   "category": "Page-footer",
+   "text": "260"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 69,
+ "seconds": 29.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [798, 228, 1171, 265], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [461, 299, 1508, 674], \"category\": \"Text\", \"text\": \"Ledamöterna skulle således personligen förekallas i kanslikollegiet för att där redogöra för sin verksamhet. Detta skedde först den 20 juni — således månaden före Hadorphs död — och därvid infunno sig antikvarien, de båda assessorerna och translatorn, vilka muntligen redogjorde för sina arbeten under 1692. Så dog Hadorph den 12 juli 1693, då Peringer blev hans efterträdare, och nu, den 9 januari 1695, inlämnade denne en »Consignation» i den gamla stilen på allas arbete inom arkivet (R. A. Kanslikoll. Inkomna skrivelser sign. E IV. 8):\"}, {\"bbox\": [464, 674, 1507, 758], \"category\": \"Text\", \"text\": \"»Förtekning på Kongl. Antiquitets Archivi Betientes arbete och förehafwande uthi förledne åhr 1694 till underskrefne Datum.\"}, {\"bbox\": [464, 758, 1507, 968], \"category\": \"Text\", \"text\": \"Assessores Antiquitatum Hr. Werwing och Hr. Brenner, som sina Historiske Wärk och Beskrifningar hemma i sine Huus utharbeta, läre förmodeligen sielfwe till deras Grefl. Excell:ier och Kongl. Cancellie Collegium giöra sin underdånige Berättelse samt sitt arbete upwijsa.\"}, {\"bbox\": [464, 966, 1508, 1381], \"category\": \"Text\", \"text\": \"Johan Peringskiöld hafwer 1:0) fördelt Monumenta Sueo Gothorum medh sina afrijtningar och affskriffter uthi särskilte Tomis effter hwart Landskap, Härad och Sochnar, hwar af Tomus primus innehåller en trediedehl af Upland, som är Thiundalands Märkwärdigheter af gambla Runerijtningar samt förnäma Mäns Lijkstenar och Begrafningar eller andra nyare Öfwerskriffter, öfwer hwilka nu effterhanden giöres en wederbörlig uthtydning medh en kort Beskrifning, hwar till och så de åtherstående Figurer medh all flijt i Koppar eller trä uthstickas samt nya Runestämplar till ett nytt Runetryck nu mehrendels förfärdigade äro.\"}, {\"bbox\": [464, 1380, 1508, 1506], \"category\": \"Text\", \"text\": \"2:0) Uthaf samma Monumentis Runicis begynt ordine Alphabetico Colligera Ett Onomasticum Gothicum seu Nomina Viris Fœminisque quondam propria medh deras rätta Bemärkelse.\"}, {\"bbox\": [464, 1504, 1508, 1623], \"category\": \"Text\", \"text\": \"3) Till ett lijtet Prof vpsatt några Matronymica Sueo-Gothica eller en Förtekning på åthskilliga förnäme Männ, som fordom brukat sitt Mödernes namn i stället för fädernet.\"}, {\"bbox\": [464, 1627, 1508, 1756], \"category\": \"Text\", \"text\": \"4) Jnrättat en ätt och Stamgård af 530 Örtesängar, uthi hwilka vårt allernådigste Swea och Göthiska Konungahuus beskådar sina höglofl. förfäders uprinnelse och afgång effter åhr och Datum medh\"}, {\"bbox\": [464, 1782, 517, 1822], \"category\": \"Page-footer\", \"text\": \"60\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    798,
+    228,
+    1171,
+    265
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    461,
+    299,
+    1508,
+    674
+   ],
+   "category": "Text",
+   "text": "Ledamöterna skulle således personligen förekallas i kanslikollegiet för att där redogöra för sin verksamhet. Detta skedde först den 20 juni — således månaden före Hadorphs död — och därvid infunno sig antikvarien, de båda assessorerna och translatorn, vilka muntligen redogjorde för sina arbeten under 1692. Så dog Hadorph den 12 juli 1693, då Peringer blev hans efterträdare, och nu, den 9 januari 1695, inlämnade denne en »Consignation» i den gamla stilen på allas arbete inom arkivet (R. A. Kanslikoll. Inkomna skrivelser sign. E IV. 8):"
+  },
+  {
+   "bbox": [
+    464,
+    674,
+    1507,
+    758
+   ],
+   "category": "Text",
+   "text": "»Förtekning på Kongl. Antiquitets Archivi Betientes arbete och förehafwande uthi förledne åhr 1694 till underskrefne Datum."
+  },
+  {
+   "bbox": [
+    464,
+    758,
+    1507,
+    968
+   ],
+   "category": "Text",
+   "text": "Assessores Antiquitatum Hr. Werwing och Hr. Brenner, som sina Historiske Wärk och Beskrifningar hemma i sine Huus utharbeta, läre förmodeligen sielfwe till deras Grefl. Excell:ier och Kongl. Cancellie Collegium giöra sin underdånige Berättelse samt sitt arbete upwijsa."
+  },
+  {
+   "bbox": [
+    464,
+    966,
+    1508,
+    1381
+   ],
+   "category": "Text",
+   "text": "Johan Peringskiöld hafwer 1:0) fördelt Monumenta Sueo Gothorum medh sina afrijtningar och affskriffter uthi särskilte Tomis effter hwart Landskap, Härad och Sochnar, hwar af Tomus primus innehåller en trediedehl af Upland, som är Thiundalands Märkwärdigheter af gambla Runerijtningar samt förnäma Mäns Lijkstenar och Begrafningar eller andra nyare Öfwerskriffter, öfwer hwilka nu effterhanden giöres en wederbörlig uthtydning medh en kort Beskrifning, hwar till och så de åtherstående Figurer medh all flijt i Koppar eller trä uthstickas samt nya Runestämplar till ett nytt Runetryck nu mehrendels förfärdigade äro."
+  },
+  {
+   "bbox": [
+    464,
+    1380,
+    1508,
+    1506
+   ],
+   "category": "Text",
+   "text": "2:0) Uthaf samma Monumentis Runicis begynt ordine Alphabetico Colligera Ett Onomasticum Gothicum seu Nomina Viris Fœminisque quondam propria medh deras rätta Bemärkelse."
+  },
+  {
+   "bbox": [
+    464,
+    1504,
+    1508,
+    1623
+   ],
+   "category": "Text",
+   "text": "3) Till ett lijtet Prof vpsatt några Matronymica Sueo-Gothica eller en Förtekning på åthskilliga förnäme Männ, som fordom brukat sitt Mödernes namn i stället för fädernet."
+  },
+  {
+   "bbox": [
+    464,
+    1627,
+    1508,
+    1756
+   ],
+   "category": "Text",
+   "text": "4) Jnrättat en ätt och Stamgård af 530 Örtesängar, uthi hwilka vårt allernådigste Swea och Göthiska Konungahuus beskådar sina höglofl. förfäders uprinnelse och afgång effter åhr och Datum medh"
+  },
+  {
+   "bbox": [
+    464,
+    1782,
+    517,
+    1822
+   ],
+   "category": "Page-footer",
+   "text": "60"
+  }
+ ]
+}

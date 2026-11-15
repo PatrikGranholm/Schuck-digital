@@ -1,0 +1,50 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 250,
+ "seconds": 10.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [346, 253, 904, 821], \"category\": \"Picture\"}, {\"bbox\": [252, 859, 1010, 941], \"category\": \"Caption\", \"text\": \"Medalj över CARL LUDVIG VON SCHANTZ, gjuten efter A. Karlstens vaxmodell (1715).\"}, {\"bbox\": [194, 992, 1064, 1727], \"category\": \"Picture\"}, {\"bbox\": [200, 1774, 1069, 1857], \"category\": \"Caption\", \"text\": \"Profil av Orkestahögen. Färglagd teckning i assessor von Schantz' berättelse över undersökningen. (A. T. A.)\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    346,
+    253,
+    904,
+    821
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    252,
+    859,
+    1010,
+    941
+   ],
+   "category": "Caption",
+   "text": "Medalj över CARL LUDVIG VON SCHANTZ, gjuten efter A. Karlstens vaxmodell (1715)."
+  },
+  {
+   "bbox": [
+    194,
+    992,
+    1064,
+    1727
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    200,
+    1774,
+    1069,
+    1857
+   ],
+   "category": "Caption",
+   "text": "Profil av Orkestahögen. Färglagd teckning i assessor von Schantz' berättelse över undersökningen. (A. T. A.)"
+  }
+ ]
+}

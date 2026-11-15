@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 99,
+ "seconds": 27.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [805, 223, 1182, 259], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [470, 294, 1515, 1626], \"category\": \"Text\", \"text\": \"Excell: och det Kongl. Collegium, hwarpå iag åter erhölt skriftelig order sådant at emoottaga och i Archivo förwahra, Lit. F., som och skedde; men någon tijdh dereffter, nembl. d. 5 Aug. A:o 1685, bekom iag ordres at sammanträda med Collegio Antiqvitatum, bem:te Acter Sortera och hwad deribland funnes höra till bem:te Collegium [lakun] till förwahring tillställa, men det öfriga uti Kongl. Maij:tz Rijkz Archivo på sitt wissa rum inläggia och giöma, Lit. G., Hwar på Sahl. H:r Hadorph tog alla Brefwen till sigh til-lijka med Studenten Westhio, hwilken dem effter den af H:r Ha-dorphio gifne Methoden sedan i paar åhrs tijdh hölt uppå at Sortera och antekna; Effter hans dödh studzade fuller det arbetet, kunnandes iag eij weta, huru wijda der med kan wara kommit; Nu at seija san-ningen, så höra alle sådane och andre Gamble bref och skrifter egentel. till Rijkzens Archivum, allenast hafwa Antiqvarierne och Historiographi sampt Antiqvitetz Collegium sådant fådt till låns, så länge dhe dheraf kunnat något extrahera, Sigillerne afrijta eller elliest af läsandet sig betiäna; men aldrig har Kongl. Maij:ttz nå-digste intention warit, at sakerne ifrån Kgl. Maij:tz Rijkz Archivo skulle distraherade och continuerligen borta blifwa; Fördenskull hemstelles ödmiukeligen Eders Hög-Grefl. Excell:tz Excell:tz och det Kongl. Colleg. at betänkia, om icke dhe Skåniske gamble Brefwen iämwäl måge till Archivum Regni återstälte blifwa, hälst emedan dhe icke kunna eller böra skillias åth, hafwandes dhe gode Herrar af Antiqvitetet med slijke Handlingar icke wijdare till giöra, än at dhe läns wijs wid deras Historiske arbeten der af sig betiena, doch at ingen ting må föras neder utur Slåttet i deras private huus, som här till wanligit warit, hwarigenom många saker äro komne at förloras, som till exempel med 10 a 12 Folianter af Scondia illustrata Messenij skeedt är, hwilken Book lijkwäl kostar Hans Kongl. Maij:t många Tusende Rijkzdahl:r och nu eij mehra står at igen finna, hwar öfwer iag längst för detta i Kongl. Chancellie Collegio bådhe munt- och Skrifteligen klagat.\"}, {\"bbox\": [962, 1652, 1018, 1687], \"category\": \"Section-header\", \"text\": \"IV.\"}, {\"bbox\": [506, 1705, 1510, 1750], \"category\": \"Text\", \"text\": \"Hwarutinnan Antiqvitetz wäsendet egentel. bör bestå, det kan\"}, {\"bbox\": [473, 1787, 526, 1828], \"category\": \"Page-footer\", \"text\": \"90\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    805,
+    223,
+    1182,
+    259
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    470,
+    294,
+    1515,
+    1626
+   ],
+   "category": "Text",
+   "text": "Excell: och det Kongl. Collegium, hwarpå iag åter erhölt skriftelig order sådant at emoottaga och i Archivo förwahra, Lit. F., som och skedde; men någon tijdh dereffter, nembl. d. 5 Aug. A:o 1685, bekom iag ordres at sammanträda med Collegio Antiqvitatum, bem:te Acter Sortera och hwad deribland funnes höra till bem:te Collegium [lakun] till förwahring tillställa, men det öfriga uti Kongl. Maij:tz Rijkz Archivo på sitt wissa rum inläggia och giöma, Lit. G., Hwar på Sahl. H:r Hadorph tog alla Brefwen till sigh til-lijka med Studenten Westhio, hwilken dem effter den af H:r Ha-dorphio gifne Methoden sedan i paar åhrs tijdh hölt uppå at Sortera och antekna; Effter hans dödh studzade fuller det arbetet, kunnandes iag eij weta, huru wijda der med kan wara kommit; Nu at seija san-ningen, så höra alle sådane och andre Gamble bref och skrifter egentel. till Rijkzens Archivum, allenast hafwa Antiqvarierne och Historiographi sampt Antiqvitetz Collegium sådant fådt till låns, så länge dhe dheraf kunnat något extrahera, Sigillerne afrijta eller elliest af läsandet sig betiäna; men aldrig har Kongl. Maij:ttz nå-digste intention warit, at sakerne ifrån Kgl. Maij:tz Rijkz Archivo skulle distraherade och continuerligen borta blifwa; Fördenskull hemstelles ödmiukeligen Eders Hög-Grefl. Excell:tz Excell:tz och det Kongl. Colleg. at betänkia, om icke dhe Skåniske gamble Brefwen iämwäl måge till Archivum Regni återstälte blifwa, hälst emedan dhe icke kunna eller böra skillias åth, hafwandes dhe gode Herrar af Antiqvitetet med slijke Handlingar icke wijdare till giöra, än at dhe läns wijs wid deras Historiske arbeten der af sig betiena, doch at ingen ting må föras neder utur Slåttet i deras private huus, som här till wanligit warit, hwarigenom många saker äro komne at förloras, som till exempel med 10 a 12 Folianter af Scondia illustrata Messenij skeedt är, hwilken Book lijkwäl kostar Hans Kongl. Maij:t många Tusende Rijkzdahl:r och nu eij mehra står at igen finna, hwar öfwer iag längst för detta i Kongl. Chancellie Collegio bådhe munt- och Skrifteligen klagat."
+  },
+  {
+   "bbox": [
+    962,
+    1652,
+    1018,
+    1687
+   ],
+   "category": "Section-header",
+   "text": "IV."
+  },
+  {
+   "bbox": [
+    506,
+    1705,
+    1510,
+    1750
+   ],
+   "category": "Text",
+   "text": "Hwarutinnan Antiqvitetz wäsendet egentel. bör bestå, det kan"
+  },
+  {
+   "bbox": [
+    473,
+    1787,
+    526,
+    1828
+   ],
+   "category": "Page-footer",
+   "text": "90"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 71,
+ "seconds": 28.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [794, 226, 1165, 261], \"category\": \"Section-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [461, 297, 1504, 374], \"category\": \"Text\", \"text\": \"Pergamentsbref af forna Konungar gifne Linkiöpings stifft, hwar medh han ännu continuerar.\"}, {\"bbox\": [458, 380, 1504, 755], \"category\": \"Text\", \"text\": \"Amanuensis Islandus Gudmund Gudmundsson, som såwäl A:o 1693 emillan midsommaren och mickelsmässa samt i förledne åhr uthi wåhrterminen warit siuklig och dess emillan mycket försummelig och ostadig, hafwer 1) afcopierat Arngrimi Jonæ dissertation de Chronico Norvagico 2) Konung Olof den heligas Saga på gammal Göthiska uthur trenne ifrån Upsala Bibliotec låntagne Manuscripter 3) extraherat ynglingasagan samt Halfdan Swartes, Harald Hårfagers, Herwarar, Kettil Hängs, grim Lodinkins, Orwar Odds och till en dehl af Konung Rolf Krakas Sagor.\"}, {\"bbox\": [460, 755, 1504, 1005], \"category\": \"Text\", \"text\": \"Rijtaren Thomas Holm hafwer 1) afrijtat några gambla sigiller 2) de Kongl. och furstlige wapner, som åtherstogo på högbem:te wår konungslige Families ätt och Stamgårds tafla. 3) warit fölliachtig på åthskillige Runeresor samt 4) reenrijtat de aftagne Monumenter och Rijtningar, som nu effterhanden af formsnidaren Johan Tunbärg i träformer uthskiäras och till tryck förfärdigas.\"}, {\"bbox\": [460, 1005, 1504, 1171], \"category\": \"Text\", \"text\": \"Antiquarii Amanuensis Peter Stenhagen hafwer 1) reenskrifwit åthskillige på Resan aftagne Inscriptioner och Epitaphier såsom och 2) Secreterarens och Antiquariens Concepter samt 3) afcopierat några gambla Pergamentsbref.\"}, {\"bbox\": [853, 1200, 1108, 1235], \"category\": \"Section-header\", \"text\": \"Extra Ordinarii.\"}, {\"bbox\": [460, 1252, 1504, 1502], \"category\": \"Text\", \"text\": \"Elias Salin, som allenast för innegående åhr ännu åthniuter extraordinarie Löhn, hafwer i förledne åhr effter den begynte methoden registrerat sidsta halfwa delen af Wästgötelagen tillijka medh Skånelagen, så att alla Swea och Götha Lagar äro nu aldeles af honom igenomfarne, continuerandes här effter medh Indice Rerum et Verborum öfwer gambla Recesserne.\"}, {\"bbox\": [460, 1502, 1504, 1752], \"category\": \"Text\", \"text\": \"Johan Meyer, som i föråhrs effter Kongl. May:ts allernådigste Bref åthnöt 200 Dr. sölf. mt. extraordinarie Löhn, för det han då registrerade de gamble skåniske Closterbrefwen, hafwer sedermehra i förledne åhr, sedan Januarii månadh, warit i Antiquitets Archivo brukader såsom en Extraordinarius att reenskrifwa en deel af Translatoren Gudmund Olssons Concepter uthi Lexico Gothico,\"}, {\"bbox\": [463, 1780, 514, 1817], \"category\": \"Page-footer\", \"text\": \"62\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    794,
+    226,
+    1165,
+    261
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    461,
+    297,
+    1504,
+    374
+   ],
+   "category": "Text",
+   "text": "Pergamentsbref af forna Konungar gifne Linkiöpings stifft, hwar medh han ännu continuerar."
+  },
+  {
+   "bbox": [
+    458,
+    380,
+    1504,
+    755
+   ],
+   "category": "Text",
+   "text": "Amanuensis Islandus Gudmund Gudmundsson, som såwäl A:o 1693 emillan midsommaren och mickelsmässa samt i förledne åhr uthi wåhrterminen warit siuklig och dess emillan mycket försummelig och ostadig, hafwer 1) afcopierat Arngrimi Jonæ dissertation de Chronico Norvagico 2) Konung Olof den heligas Saga på gammal Göthiska uthur trenne ifrån Upsala Bibliotec låntagne Manuscripter 3) extraherat ynglingasagan samt Halfdan Swartes, Harald Hårfagers, Herwarar, Kettil Hängs, grim Lodinkins, Orwar Odds och till en dehl af Konung Rolf Krakas Sagor."
+  },
+  {
+   "bbox": [
+    460,
+    755,
+    1504,
+    1005
+   ],
+   "category": "Text",
+   "text": "Rijtaren Thomas Holm hafwer 1) afrijtat några gambla sigiller 2) de Kongl. och furstlige wapner, som åtherstogo på högbem:te wår konungslige Families ätt och Stamgårds tafla. 3) warit fölliachtig på åthskillige Runeresor samt 4) reenrijtat de aftagne Monumenter och Rijtningar, som nu effterhanden af formsnidaren Johan Tunbärg i träformer uthskiäras och till tryck förfärdigas."
+  },
+  {
+   "bbox": [
+    460,
+    1005,
+    1504,
+    1171
+   ],
+   "category": "Text",
+   "text": "Antiquarii Amanuensis Peter Stenhagen hafwer 1) reenskrifwit åthskillige på Resan aftagne Inscriptioner och Epitaphier såsom och 2) Secreterarens och Antiquariens Concepter samt 3) afcopierat några gambla Pergamentsbref."
+  },
+  {
+   "bbox": [
+    853,
+    1200,
+    1108,
+    1235
+   ],
+   "category": "Section-header",
+   "text": "Extra Ordinarii."
+  },
+  {
+   "bbox": [
+    460,
+    1252,
+    1504,
+    1502
+   ],
+   "category": "Text",
+   "text": "Elias Salin, som allenast för innegående åhr ännu åthniuter extraordinarie Löhn, hafwer i förledne åhr effter den begynte methoden registrerat sidsta halfwa delen af Wästgötelagen tillijka medh Skånelagen, så att alla Swea och Götha Lagar äro nu aldeles af honom igenomfarne, continuerandes här effter medh Indice Rerum et Verborum öfwer gambla Recesserne."
+  },
+  {
+   "bbox": [
+    460,
+    1502,
+    1504,
+    1752
+   ],
+   "category": "Text",
+   "text": "Johan Meyer, som i föråhrs effter Kongl. May:ts allernådigste Bref åthnöt 200 Dr. sölf. mt. extraordinarie Löhn, för det han då registrerade de gamble skåniske Closterbrefwen, hafwer sedermehra i förledne åhr, sedan Januarii månadh, warit i Antiquitets Archivo brukader såsom en Extraordinarius att reenskrifwa en deel af Translatoren Gudmund Olssons Concepter uthi Lexico Gothico,"
+  },
+  {
+   "bbox": [
+    463,
+    1780,
+    514,
+    1817
+   ],
+   "category": "Page-footer",
+   "text": "62"
+  }
+ ]
+}

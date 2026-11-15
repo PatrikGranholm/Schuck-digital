@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 284,
+ "seconds": 29.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [525, 223, 710, 258], \"category\": \"Page-header\", \"text\": \"Helins tid\"}, {\"bbox\": [93, 291, 1141, 667], \"category\": \"Text\", \"text\": \"låtit, och huruledes flere, ware sig anten ordinaire eller extra ordinaire arbeten, skulle hädaneffter genom Antiquitets Archivi inrymmande wara af dem til förwäntandes än som til förende? Seende man ju nogsamt, at allenast en eller twå af dem, hwilka ifrån åhr 1720 til denna tiden hafwa utfärdat acta litteraria, något skrifwit, men de öfrige altsintet. Och förutan det, at mästa delen af bemälte acter torde wara föga dugelig, så har och i brist af tilbörlig idoghet händt, at man med desse actis utdragit ifrån den ene tiden till den andre.\"}, {\"bbox\": [97, 664, 1144, 880], \"category\": \"Text\", \"text\": \"4) Om någonsin flera och nyttigare skrifter blifwit giorda af de lärde, än när academicæ¹ och andra litterariæ societates warit aldeles åtskilgde såsom i London, Berlin etc., i dy at man således å båda sidor kommit til at med en mutua et honesta æmulatione skrifwa, hwad hwarjom och enom wid sin beställning ålegat?\"}, {\"bbox\": [97, 874, 1144, 1090], \"category\": \"Text\", \"text\": \"5) Om icke fölgiackteligen Hr. Professorer medels deras påstående synas söka at unwika en sådan æmulation, som doch i alla tider är befunnen wara alla wackra och nödiga wetenskapers förnämsta politiska upkomst samt understöd, och de i så måtto onödigt wjs draga antiquitets Archivum med des medel och salaria til sin societet?\"}, {\"bbox\": [101, 1083, 1148, 1628], \"category\": \"Text\", \"text\": \"6) Om wäl antiquitets Archivum kan fogeligen wara i Upsala; emedan det är förutan Konga bref och andre angelägne Riksens acter, äfwen til många documenter så nära sammahängande med Cammar存机, at man altid ifrå landsorterne, hälst wid påstående Riksdagar, dem bägge om underrättelse i många handa måhl måste anlita? I förrige [tider] kunde det wäl låta sig giöra, då antiquitets werket allenast bestod af några få sagor, runestafwar, runeritningar och fynder, men nu förmodeligen icke så, sedan det genom ymnogare förråd på allehanda requisitis eller fullfång ej allenast æmulerat utan och söker at öfwergå academierne i Swenska antiquitetens och historiens uplysande och utarbetande och förmodeligen redan wisat sine höge förmän i högloflige Cancellie Collegio så god conduite som någon academisk societet med disputationer.\"}, {\"bbox\": [105, 1621, 1149, 1713], \"category\": \"Text\", \"text\": \"7) Om det ju icke wore nog, at då studiosi under tiden wela disputera i swenska historien samt antiquiteten, Hr. Præsides eller\"}, {\"bbox\": [140, 1716, 1151, 1755], \"category\": \"Footnote\", \"text\": \"¹ Man torde här observera språkbruket. Academia betyder universitet, ej vårt »akademi».\"}, {\"bbox\": [1074, 1775, 1145, 1821], \"category\": \"Page-footer\", \"text\": \"265\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    525,
+    223,
+    710,
+    258
+   ],
+   "category": "Page-header",
+   "text": "Helins tid"
+  },
+  {
+   "bbox": [
+    93,
+    291,
+    1141,
+    667
+   ],
+   "category": "Text",
+   "text": "låtit, och huruledes flere, ware sig anten ordinaire eller extra ordinaire arbeten, skulle hädaneffter genom Antiquitets Archivi inrymmande wara af dem til förwäntandes än som til förende? Seende man ju nogsamt, at allenast en eller twå af dem, hwilka ifrån åhr 1720 til denna tiden hafwa utfärdat acta litteraria, något skrifwit, men de öfrige altsintet. Och förutan det, at mästa delen af bemälte acter torde wara föga dugelig, så har och i brist af tilbörlig idoghet händt, at man med desse actis utdragit ifrån den ene tiden till den andre."
+  },
+  {
+   "bbox": [
+    97,
+    664,
+    1144,
+    880
+   ],
+   "category": "Text",
+   "text": "4) Om någonsin flera och nyttigare skrifter blifwit giorda af de lärde, än när academicæ¹ och andra litterariæ societates warit aldeles åtskilgde såsom i London, Berlin etc., i dy at man således å båda sidor kommit til at med en mutua et honesta æmulatione skrifwa, hwad hwarjom och enom wid sin beställning ålegat?"
+  },
+  {
+   "bbox": [
+    97,
+    874,
+    1144,
+    1090
+   ],
+   "category": "Text",
+   "text": "5) Om icke fölgiackteligen Hr. Professorer medels deras påstående synas söka at unwika en sådan æmulation, som doch i alla tider är befunnen wara alla wackra och nödiga wetenskapers förnämsta politiska upkomst samt understöd, och de i så måtto onödigt wjs draga antiquitets Archivum med des medel och salaria til sin societet?"
+  },
+  {
+   "bbox": [
+    101,
+    1083,
+    1148,
+    1628
+   ],
+   "category": "Text",
+   "text": "6) Om wäl antiquitets Archivum kan fogeligen wara i Upsala; emedan det är förutan Konga bref och andre angelägne Riksens acter, äfwen til många documenter så nära sammahängande med Cammar存机, at man altid ifrå landsorterne, hälst wid påstående Riksdagar, dem bägge om underrättelse i många handa måhl måste anlita? I förrige [tider] kunde det wäl låta sig giöra, då antiquitets werket allenast bestod af några få sagor, runestafwar, runeritningar och fynder, men nu förmodeligen icke så, sedan det genom ymnogare förråd på allehanda requisitis eller fullfång ej allenast æmulerat utan och söker at öfwergå academierne i Swenska antiquitetens och historiens uplysande och utarbetande och förmodeligen redan wisat sine höge förmän i högloflige Cancellie Collegio så god conduite som någon academisk societet med disputationer."
+  },
+  {
+   "bbox": [
+    105,
+    1621,
+    1149,
+    1713
+   ],
+   "category": "Text",
+   "text": "7) Om det ju icke wore nog, at då studiosi under tiden wela disputera i swenska historien samt antiquiteten, Hr. Præsides eller"
+  },
+  {
+   "bbox": [
+    140,
+    1716,
+    1151,
+    1755
+   ],
+   "category": "Footnote",
+   "text": "¹ Man torde här observera språkbruket. Academia betyder universitet, ej vårt »akademi»."
+  },
+  {
+   "bbox": [
+    1074,
+    1775,
+    1145,
+    1821
+   ],
+   "category": "Page-footer",
+   "text": "265"
+  }
+ ]
+}

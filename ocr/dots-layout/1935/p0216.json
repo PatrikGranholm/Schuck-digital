@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 216,
+ "seconds": 25.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [282, 476, 969, 513], \"category\": \"Section-header\", \"text\": \"DEN YNGRE PERINGSKIÖLDS TID.\"}, {\"bbox\": [102, 588, 1146, 1754], \"category\": \"Text\", \"text\": \"Johan Peringskiöld avled den 24 mars 1720 — jämte Keder den siste av den karolinska tidens fornforskare — och med honom sjönk också antikvitetskollegiets och arkivets storhetstid i graven. I viss mån var hans efterträdare redan utsedd, i det att sonen Johan Fredrik Peringskiöld den 20 juni 1719 fått »Secreterare och Antiquarii caracter och heder, doch utan gravation af Staten eller widare löhn än den honom för Translators beställningen påföres». Av kanslikollegiet tolkades dock (Kanslikoll. prot. 10 dec. 1719) detta kungabrev så, att den yngre Peringskiöld därigenom »fått successionen efter sin fader». Men säkert var detta ingalunda, ty det kungliga brevet hade ju blott givit honom »karaktär och heder», vilket ej var detsamma som själva platsen. Han inlämnade därför denna skrivelse till kanslikollegiet. »Såsom min sal. K. Fader nu nyligen igenom döden är beklageligen afgången, hwarmedelst Secreterare och antiquitets archivum (= antiquariiplatsen) är blefwen ledig, vppå hwilken Hennes Kongl. May:t i förledit år allernådigst hade behagat mig med Fullmacht benåda; Fördenskull är till Eders Höggrefl. Excellencier och det Höglofl. Kongl. Cancellie Collegium min underdån-ödmiuka begäran, det måtte iag blifva på staten vpförd att häreffter wärkeligen åtniuta lön för samma beställning, mig till någon hugnad och upmuntring at conservera och fortfara med de af min sal. K. Fader dels påbegynte, dels och fullbordade arbeten, hwilka såsom dess efterlämnade foster iag är sinnad i liuset at framte. Emot hwilken nåd iag med all underdån-ödmiuk wördnad framgent lefwer — —.» Peringskiöld var emellertid en ganska ung man, ännu ej trettioett år, och hans litterära meriter ej vidare betydande, under det att den äldste assessoren Niclas Keder var sextioett år och en ansedd forskare. Att förbigå honom var således svårt.\"}, {\"bbox\": [1152, 594, 1291, 686], \"category\": \"Text\", \"text\": \"Den yngre\\nPeringskiölds\\nutnämning\"}, {\"bbox\": [1073, 1790, 1141, 1819], \"category\": \"Page-footer\", \"text\": \"201\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    282,
+    476,
+    969,
+    513
+   ],
+   "category": "Section-header",
+   "text": "DEN YNGRE PERINGSKIÖLDS TID."
+  },
+  {
+   "bbox": [
+    102,
+    588,
+    1146,
+    1754
+   ],
+   "category": "Text",
+   "text": "Johan Peringskiöld avled den 24 mars 1720 — jämte Keder den siste av den karolinska tidens fornforskare — och med honom sjönk också antikvitetskollegiets och arkivets storhetstid i graven. I viss mån var hans efterträdare redan utsedd, i det att sonen Johan Fredrik Peringskiöld den 20 juni 1719 fått »Secreterare och Antiquarii caracter och heder, doch utan gravation af Staten eller widare löhn än den honom för Translators beställningen påföres». Av kanslikollegiet tolkades dock (Kanslikoll. prot. 10 dec. 1719) detta kungabrev så, att den yngre Peringskiöld därigenom »fått successionen efter sin fader». Men säkert var detta ingalunda, ty det kungliga brevet hade ju blott givit honom »karaktär och heder», vilket ej var detsamma som själva platsen. Han inlämnade därför denna skrivelse till kanslikollegiet. »Såsom min sal. K. Fader nu nyligen igenom döden är beklageligen afgången, hwarmedelst Secreterare och antiquitets archivum (= antiquariiplatsen) är blefwen ledig, vppå hwilken Hennes Kongl. May:t i förledit år allernådigst hade behagat mig med Fullmacht benåda; Fördenskull är till Eders Höggrefl. Excellencier och det Höglofl. Kongl. Cancellie Collegium min underdån-ödmiuka begäran, det måtte iag blifva på staten vpförd att häreffter wärkeligen åtniuta lön för samma beställning, mig till någon hugnad och upmuntring at conservera och fortfara med de af min sal. K. Fader dels påbegynte, dels och fullbordade arbeten, hwilka såsom dess efterlämnade foster iag är sinnad i liuset at framte. Emot hwilken nåd iag med all underdån-ödmiuk wördnad framgent lefwer — —.» Peringskiöld var emellertid en ganska ung man, ännu ej trettioett år, och hans litterära meriter ej vidare betydande, under det att den äldste assessoren Niclas Keder var sextioett år och en ansedd forskare. Att förbigå honom var således svårt."
+  },
+  {
+   "bbox": [
+    1152,
+    594,
+    1291,
+    686
+   ],
+   "category": "Text",
+   "text": "Den yngre\nPeringskiölds\nutnämning"
+  },
+  {
+   "bbox": [
+    1073,
+    1790,
+    1141,
+    1819
+   ],
+   "category": "Page-footer",
+   "text": "201"
+  }
+ ]
+}

@@ -1,0 +1,152 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 76,
+ "seconds": 31.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [388, 224, 898, 268], \"category\": \"Section-header\", \"text\": \"Den äldre Peringskiölds tid\"}, {\"bbox\": [116, 295, 1311, 505], \"category\": \"Text\", \"text\": \"Därefter upphöra consignationerna och ersättas af »förteckningar», Förteckningar som insändes kvartalsvis, men endast upptaga de olika tjänsterna och deras innehavare, däremot ej, annat än i undantagsfall, deras arbeten. Det kan därför vara nog att här avtrycka endast den första, som ingavs den 22 maj 1697:\"}, {\"bbox\": [116, 520, 1156, 606], \"category\": \"Text\", \"text\": \"»Förtekning på Kongl. Antiquitets Archivi Assessorer och Betiänte, som på Staten åthniuta löhn för innevarande åhr 1697, nembl.\"}, {\"bbox\": [116, 614, 957, 688], \"category\": \"Text\", \"text\": \"Secreteraren och Antiquarien Johan Peringskiöld med sin Amanuensi Jonas Bröms.\"}, {\"bbox\": [116, 687, 516, 725], \"category\": \"Text\", \"text\": \"Assessoren Jonas Werwing.\"}, {\"bbox\": [116, 723, 486, 754], \"category\": \"Text\", \"text\": \"Assessoren Elias Brenner.\"}, {\"bbox\": [116, 757, 957, 830], \"category\": \"Text\", \"text\": \"En Translator i framledne Gudmund Olufssons Islandi ställe förskrifwen, men ännu ey ankommen.\"}, {\"bbox\": [114, 829, 1156, 1153], \"category\": \"Table\", \"text\": \"<table><tr><td>Amanuensis Petter Stenhagen emot</td><td>250</td><td>Dr. smt</td></tr><tr><td>Ritaren Thomas Holm emot</td><td>200</td><td></td></tr><tr><td>Ritaren Johan Christopher von Bergen</td><td>dito</td><td></td></tr><tr><td>Amanuensis Herman von Börger</td><td>dito</td><td></td></tr><tr><td>Amanuensis Islandus Gustavus Rosendalius ifrån Upsala förskrifven i Gudmund Gudmundsons ställe, som blef genom dess död ledigt d. 18 martij. Denne dess Sucessor ankom til Antiquitets wärket d. 28 Aprilis.</td><td>Dito</td><td></td></tr><tr><td>Wachtdrängen Olof Pijhl</td><td>60</td><td></td></tr></table>\"}, {\"bbox\": [112, 1173, 1154, 1258], \"category\": \"Text\", \"text\": \"Uppå Kongl. Antiquitets Archivi vägnar Stockholm d. 22 Maji 1697. bewitnar\"}, {\"bbox\": [768, 1269, 1083, 1312], \"category\": \"Text\", \"text\": \"Johan Peringskiöld.»\"}, {\"bbox\": [560, 1311, 1154, 1347], \"category\": \"Text\", \"text\": \"(R. A. Handl. rör. antikvitetskoll. och arkivet II)\"}, {\"bbox\": [111, 1374, 1154, 1708], \"category\": \"Text\", \"text\": \"Varpå det berott, att dessa årsredogörelser på detta sätt krympt ihop, är svårt att säga, och möjligt är, att consignationer verkligen en tid efter 1697 ingivits, ehuru de nu äro förlorade. Men då assessorerna ej lämnade några uppgifter och då någon isländsk translator ej tillsatts, var Peringskiöld arkivets enda vetenskapliga arbetskraft, ty de övriga voro blott renskrivare och ritare åt honom, och om sin verksamhet gav han ofta genom sina inlagor kanslikollegiet underrättelse.¹ Särskilt nödvändiga voro consignationerna således\"}, {\"bbox\": [145, 1718, 1152, 1752], \"category\": \"Footnote\", \"text\": \"¹ En dylik förteckning, som något motsvarar Hadorphs Catalogus, ingavs den 28 november\"}, {\"bbox\": [1100, 1780, 1148, 1827], \"category\": \"Page-footer\", \"text\": \"67\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    388,
+    224,
+    898,
+    268
+   ],
+   "category": "Section-header",
+   "text": "Den äldre Peringskiölds tid"
+  },
+  {
+   "bbox": [
+    116,
+    295,
+    1311,
+    505
+   ],
+   "category": "Text",
+   "text": "Därefter upphöra consignationerna och ersättas af »förteckningar», Förteckningar som insändes kvartalsvis, men endast upptaga de olika tjänsterna och deras innehavare, däremot ej, annat än i undantagsfall, deras arbeten. Det kan därför vara nog att här avtrycka endast den första, som ingavs den 22 maj 1697:"
+  },
+  {
+   "bbox": [
+    116,
+    520,
+    1156,
+    606
+   ],
+   "category": "Text",
+   "text": "»Förtekning på Kongl. Antiquitets Archivi Assessorer och Betiänte, som på Staten åthniuta löhn för innevarande åhr 1697, nembl."
+  },
+  {
+   "bbox": [
+    116,
+    614,
+    957,
+    688
+   ],
+   "category": "Text",
+   "text": "Secreteraren och Antiquarien Johan Peringskiöld med sin Amanuensi Jonas Bröms."
+  },
+  {
+   "bbox": [
+    116,
+    687,
+    516,
+    725
+   ],
+   "category": "Text",
+   "text": "Assessoren Jonas Werwing."
+  },
+  {
+   "bbox": [
+    116,
+    723,
+    486,
+    754
+   ],
+   "category": "Text",
+   "text": "Assessoren Elias Brenner."
+  },
+  {
+   "bbox": [
+    116,
+    757,
+    957,
+    830
+   ],
+   "category": "Text",
+   "text": "En Translator i framledne Gudmund Olufssons Islandi ställe förskrifwen, men ännu ey ankommen."
+  },
+  {
+   "bbox": [
+    114,
+    829,
+    1156,
+    1153
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>Amanuensis Petter Stenhagen emot</td><td>250</td><td>Dr. smt</td></tr><tr><td>Ritaren Thomas Holm emot</td><td>200</td><td></td></tr><tr><td>Ritaren Johan Christopher von Bergen</td><td>dito</td><td></td></tr><tr><td>Amanuensis Herman von Börger</td><td>dito</td><td></td></tr><tr><td>Amanuensis Islandus Gustavus Rosendalius ifrån Upsala förskrifven i Gudmund Gudmundsons ställe, som blef genom dess död ledigt d. 18 martij. Denne dess Sucessor ankom til Antiquitets wärket d. 28 Aprilis.</td><td>Dito</td><td></td></tr><tr><td>Wachtdrängen Olof Pijhl</td><td>60</td><td></td></tr></table>"
+  },
+  {
+   "bbox": [
+    112,
+    1173,
+    1154,
+    1258
+   ],
+   "category": "Text",
+   "text": "Uppå Kongl. Antiquitets Archivi vägnar Stockholm d. 22 Maji 1697. bewitnar"
+  },
+  {
+   "bbox": [
+    768,
+    1269,
+    1083,
+    1312
+   ],
+   "category": "Text",
+   "text": "Johan Peringskiöld.»"
+  },
+  {
+   "bbox": [
+    560,
+    1311,
+    1154,
+    1347
+   ],
+   "category": "Text",
+   "text": "(R. A. Handl. rör. antikvitetskoll. och arkivet II)"
+  },
+  {
+   "bbox": [
+    111,
+    1374,
+    1154,
+    1708
+   ],
+   "category": "Text",
+   "text": "Varpå det berott, att dessa årsredogörelser på detta sätt krympt ihop, är svårt att säga, och möjligt är, att consignationer verkligen en tid efter 1697 ingivits, ehuru de nu äro förlorade. Men då assessorerna ej lämnade några uppgifter och då någon isländsk translator ej tillsatts, var Peringskiöld arkivets enda vetenskapliga arbetskraft, ty de övriga voro blott renskrivare och ritare åt honom, och om sin verksamhet gav han ofta genom sina inlagor kanslikollegiet underrättelse.¹ Särskilt nödvändiga voro consignationerna således"
+  },
+  {
+   "bbox": [
+    145,
+    1718,
+    1152,
+    1752
+   ],
+   "category": "Footnote",
+   "text": "¹ En dylik förteckning, som något motsvarar Hadorphs Catalogus, ingavs den 28 november"
+  },
+  {
+   "bbox": [
+    1100,
+    1780,
+    1148,
+    1827
+   ],
+   "category": "Page-footer",
+   "text": "67"
+  }
+ ]
+}

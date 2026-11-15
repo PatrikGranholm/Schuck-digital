@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 239,
+ "seconds": 21.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [841, 228, 1216, 263], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [506, 298, 1547, 466], \"category\": \"Text\", \"text\": \"Och som icke den minste med uppwachtning och förrättning här wid förfehla bör, tächtes Högwälborne Herr Baron och Hof-Cancelleren såsom Vår Höggunstige Förman oss til det bästa hafwa befrämiade och vår hörsamhet altid Höggunstigt vpptaga.\"}, {\"bbox\": [540, 470, 1115, 514], \"category\": \"Text\", \"text\": \"Vppå Kongl. Antiq: Archivi wegnar\"}, {\"bbox\": [1218, 511, 1506, 554], \"category\": \"Text\", \"text\": \"J. F. Peringskiöld.\"}, {\"bbox\": [506, 560, 956, 603], \"category\": \"Text\", \"text\": \"Stockholm d. 23 Jan. 1725.»\"}, {\"bbox\": [503, 630, 1549, 1420], \"category\": \"Text\", \"text\": \"Några dagar förut hade de båda assessorerna Keder och von Schantz också lämnat en dylik redogörelse: »Inför Wälborne Hr HåfCantzlern inställe Wij, underskrefne Assessorer i Kongl. Maij:ttz och Riksens Antiquitets Archivo, Oss åter igen i största ödmiukheet effter wanligheten att i föllie af K. Cancellie Ordningens Innehåld, framtee, hwad Wij i det förflutne åhret kunnat till publici tienst uträtta, neml. Jag Nicolas Keder har i förledit åhr warit af mina många och swåra siukdomar så aldeles afmattader och förswagader, att Jag näpligen har kunnat läsa eller skrifwa; dock har Jag på litet när absolverat min Tractat de compluribus vetusti ævi rarissimis ex argento nummis Danicis ac Norvegicis Orbi erudito et curioso nondum cognitis, hwilka i mit ringa Cabinet giömas och wår Rem nummariam antiquam mycket illustrera. Dessförutan har Jag inventerat åtskillige deviser och Inscriptioner til Medailler. Jag har också hafft och har ännu at giöra med sidsta Correcturet af hwart arck til framledne assessoren Brenners Thesaurus nummorum Sueo-Gothicorum, som ligger nu under Pressen. Jag längtar nu af alt mit hierta effter et godt slut på all min ångst och wedermöda. Gud tröste mig i medlertijd!\"}, {\"bbox\": [506, 1419, 1547, 1584], \"category\": \"Text\", \"text\": \"Hwad mig Carl Ludwig v. Schantz angår, har Jag på Kongl. Krigs Collegij anmodan förfärdigat 3:ne projecter til Wadstena Krigsmans huus Contoirs Sigill, hwaraf et approberat blef af Medailleuren Hedlinger i Ståhl utarbetat.\"}, {\"bbox\": [504, 1584, 1547, 1753], \"category\": \"Text\", \"text\": \"Åtskillige Genealogiske Attester utgifwit, samt effter någras begiäran deras ahnor utur det swenska Genealogiska Wercket utletat, hwilket Jag äfwen med åtskillige Familier i förledit åhr förökt och hoppas med Gudz hielp at wid tillkommande Riksdag\"}, {\"bbox\": [506, 1790, 579, 1819], \"category\": \"Page-footer\", \"text\": \"222\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    841,
+    228,
+    1216,
+    263
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    506,
+    298,
+    1547,
+    466
+   ],
+   "category": "Text",
+   "text": "Och som icke den minste med uppwachtning och förrättning här wid förfehla bör, tächtes Högwälborne Herr Baron och Hof-Cancelleren såsom Vår Höggunstige Förman oss til det bästa hafwa befrämiade och vår hörsamhet altid Höggunstigt vpptaga."
+  },
+  {
+   "bbox": [
+    540,
+    470,
+    1115,
+    514
+   ],
+   "category": "Text",
+   "text": "Vppå Kongl. Antiq: Archivi wegnar"
+  },
+  {
+   "bbox": [
+    1218,
+    511,
+    1506,
+    554
+   ],
+   "category": "Text",
+   "text": "J. F. Peringskiöld."
+  },
+  {
+   "bbox": [
+    506,
+    560,
+    956,
+    603
+   ],
+   "category": "Text",
+   "text": "Stockholm d. 23 Jan. 1725.»"
+  },
+  {
+   "bbox": [
+    503,
+    630,
+    1549,
+    1420
+   ],
+   "category": "Text",
+   "text": "Några dagar förut hade de båda assessorerna Keder och von Schantz också lämnat en dylik redogörelse: »Inför Wälborne Hr HåfCantzlern inställe Wij, underskrefne Assessorer i Kongl. Maij:ttz och Riksens Antiquitets Archivo, Oss åter igen i största ödmiukheet effter wanligheten att i föllie af K. Cancellie Ordningens Innehåld, framtee, hwad Wij i det förflutne åhret kunnat till publici tienst uträtta, neml. Jag Nicolas Keder har i förledit åhr warit af mina många och swåra siukdomar så aldeles afmattader och förswagader, att Jag näpligen har kunnat läsa eller skrifwa; dock har Jag på litet när absolverat min Tractat de compluribus vetusti ævi rarissimis ex argento nummis Danicis ac Norvegicis Orbi erudito et curioso nondum cognitis, hwilka i mit ringa Cabinet giömas och wår Rem nummariam antiquam mycket illustrera. Dessförutan har Jag inventerat åtskillige deviser och Inscriptioner til Medailler. Jag har också hafft och har ännu at giöra med sidsta Correcturet af hwart arck til framledne assessoren Brenners Thesaurus nummorum Sueo-Gothicorum, som ligger nu under Pressen. Jag längtar nu af alt mit hierta effter et godt slut på all min ångst och wedermöda. Gud tröste mig i medlertijd!"
+  },
+  {
+   "bbox": [
+    506,
+    1419,
+    1547,
+    1584
+   ],
+   "category": "Text",
+   "text": "Hwad mig Carl Ludwig v. Schantz angår, har Jag på Kongl. Krigs Collegij anmodan förfärdigat 3:ne projecter til Wadstena Krigsmans huus Contoirs Sigill, hwaraf et approberat blef af Medailleuren Hedlinger i Ståhl utarbetat."
+  },
+  {
+   "bbox": [
+    504,
+    1584,
+    1547,
+    1753
+   ],
+   "category": "Text",
+   "text": "Åtskillige Genealogiske Attester utgifwit, samt effter någras begiäran deras ahnor utur det swenska Genealogiska Wercket utletat, hwilket Jag äfwen med åtskillige Familier i förledit åhr förökt och hoppas med Gudz hielp at wid tillkommande Riksdag"
+  },
+  {
+   "bbox": [
+    506,
+    1790,
+    579,
+    1819
+   ],
+   "category": "Page-footer",
+   "text": "222"
+  }
+ ]
+}

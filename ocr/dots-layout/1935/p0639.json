@@ -1,0 +1,42 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 639,
+ "seconds": 16.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [886, 221, 1033, 254], \"category\": \"Section-header\", \"text\": \"Innehåll\"}, {\"bbox\": [502, 289, 1407, 743], \"category\": \"Text\", \"text\": \"Biörner 352, Sportelfrågan 358, Hovkansleren och arkivet efter 1740 365, Riksdagens ingripande 371, Sekreta deputationens visitation 375, Diskussion i sekreta utskottet 378. Efter räfsten 383, Inför 1746 års riksdag 389, Resor 397, Richardsons första resa 397, Efter hemkomsten från första resan 404, Förberedelserna till den andra resan 408, Richardsons andra resa 423, Wessmans resor 430, Vetenskapliga remisser 440, Fornvården 444, Fynden och 1734 års lag 450, Plakat om gamla skrifter 458, Den nya lagens verkan 458, Fynden under Helins tid 460, Förvärv av myntkabinett 496, Karl XI:s myntkabinett 497, Cronstedts samling 500, Bromells samling 520, Berchs och Ulrika Eleonoras samlingar 540, Avsöndringar från myntkabinettet 540, Avsöndringar till universiteten 554, Myntverkets skyldighet mot arkivet 557, Ansats till en numismatisk akademi 558, Runstavssamlingen 564, von Schantz' raritetskabinett 567, Förvärv vid bokauktioner 576, Gyllengrips auktion 577, Den Rudbeckska auktionen 583, Bassewitz bokdonation 587, Arkivets litterära insats 588, Runarbetet 588, Monumenta 590, Arkeologiska skrifter 592, Sagoeditioner 593, Biörners övriga arbeten 598, Biörners och Celsius' strid 599.\"}, {\"bbox\": [424, 1776, 500, 1815], \"category\": \"Page-footer\", \"text\": \"620\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    886,
+    221,
+    1033,
+    254
+   ],
+   "category": "Section-header",
+   "text": "Innehåll"
+  },
+  {
+   "bbox": [
+    502,
+    289,
+    1407,
+    743
+   ],
+   "category": "Text",
+   "text": "Biörner 352, Sportelfrågan 358, Hovkansleren och arkivet efter 1740 365, Riksdagens ingripande 371, Sekreta deputationens visitation 375, Diskussion i sekreta utskottet 378. Efter räfsten 383, Inför 1746 års riksdag 389, Resor 397, Richardsons första resa 397, Efter hemkomsten från första resan 404, Förberedelserna till den andra resan 408, Richardsons andra resa 423, Wessmans resor 430, Vetenskapliga remisser 440, Fornvården 444, Fynden och 1734 års lag 450, Plakat om gamla skrifter 458, Den nya lagens verkan 458, Fynden under Helins tid 460, Förvärv av myntkabinett 496, Karl XI:s myntkabinett 497, Cronstedts samling 500, Bromells samling 520, Berchs och Ulrika Eleonoras samlingar 540, Avsöndringar från myntkabinettet 540, Avsöndringar till universiteten 554, Myntverkets skyldighet mot arkivet 557, Ansats till en numismatisk akademi 558, Runstavssamlingen 564, von Schantz' raritetskabinett 567, Förvärv vid bokauktioner 576, Gyllengrips auktion 577, Den Rudbeckska auktionen 583, Bassewitz bokdonation 587, Arkivets litterära insats 588, Runarbetet 588, Monumenta 590, Arkeologiska skrifter 592, Sagoeditioner 593, Biörners övriga arbeten 598, Biörners och Celsius' strid 599."
+  },
+  {
+   "bbox": [
+    424,
+    1776,
+    500,
+    1815
+   ],
+   "category": "Page-footer",
+   "text": "620"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 27,
+ "seconds": 28.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [828, 225, 1175, 262], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [479, 294, 1529, 1375], \"category\": \"Text\", \"text\": \"Issländare, är igenom döden afgången d. 20 Decembris och för detta, då han warit nychter, giordt god tiänst i gambla språkets uthtydande, som ingen annan kunnat bättre förrätta, föruthan det att förnämbligast igenom hans tilskyndande ära åthskillige wackra Mss. och Historier till Kongl. Antiquitets Archivum införskaffade; men twenne hans små barn i sådant fattigt tilstånd effterlemnade, att icke en halföre finnes effter honom til swepning och begrafning eller barnens underhållande; Ty skedde Gudi en särdeles behagelig wälgärning, om Hans Kongl. May:tt allernådigst skulle, sosom emot de förra Issländske främlingar skedt är, bewillia någon hiälp till den dödas swepning och jordsättning, benådandes barnen med något understöd af wissa medel eller dess Löhn på nu fölliande halfwa åhret för 1696». Som vi sett erhöllo barnen halva årslönen (500 daler). Därefter fortsätter Peringskiöld: »Effter dät lärer wara swårt att här i landet få någon så capabel man, som nu strax kan succedera bem:te translator att uthföra dess begynte Lexicon Gothicum samt uthtyda och förklara de gambla Historiske skalder och wijser; Ty hemställes uthi deras grefl. Excellenciers och Kongl. Cantzlij Collegii godtfinnande antingen man skal införskrifwa nogon Jsländare, särdeles den tillförene i förslag hafde Arnas Magnusson, som af Utterklou och sina Landz män haft ett godt loford, eller om studiosus Antiquitatum Petter Salan kunde med samma Translatoris löhn och til sin bättre ewertuerande i gamla språket uppå ett åhr få reesa til Jssland med en annan här warande Jssländare, Sigurd benämd¹, att inlösa några där betingade rare skrifter och gamla sagor» (R. A. Kanslikoll. Inkomna skrivelser Ser. E IV. 8).\"}, {\"bbox\": [487, 1373, 1529, 1672], \"category\": \"Text\", \"text\": \"Att Peringskiöld verkligen tänkt på honom såsom translator, synes framgå av följande odaterade brev från Salan troligen till Oxenstierna (V. H. A. A. sign. Ab 17): »Högwälborne Grefve, nådige Herre. Såsom Eders högGrefl. Excellence har i nåder lemnat mig dhen frijheten att i diupaste ödmiukhet gifwa tillkänna, när uti Antiquitetz Collegio blefwe nogen öpning, Så blef iag i går dijt upkalad af Hr. Secret. Peringskiöld, dher han lät mig weta, att\"}, {\"bbox\": [490, 1686, 1529, 1751], \"category\": \"Footnote\", \"text\": \"¹ Denne var antikvitetskollegiets och arkivets snickare samt användes ock ibland som formskärare.\"}, {\"bbox\": [496, 1783, 542, 1820], \"category\": \"Page-footer\", \"text\": \"18\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    828,
+    225,
+    1175,
+    262
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    479,
+    294,
+    1529,
+    1375
+   ],
+   "category": "Text",
+   "text": "Issländare, är igenom döden afgången d. 20 Decembris och för detta, då han warit nychter, giordt god tiänst i gambla språkets uthtydande, som ingen annan kunnat bättre förrätta, föruthan det att förnämbligast igenom hans tilskyndande ära åthskillige wackra Mss. och Historier till Kongl. Antiquitets Archivum införskaffade; men twenne hans små barn i sådant fattigt tilstånd effterlemnade, att icke en halföre finnes effter honom til swepning och begrafning eller barnens underhållande; Ty skedde Gudi en särdeles behagelig wälgärning, om Hans Kongl. May:tt allernådigst skulle, sosom emot de förra Issländske främlingar skedt är, bewillia någon hiälp till den dödas swepning och jordsättning, benådandes barnen med något understöd af wissa medel eller dess Löhn på nu fölliande halfwa åhret för 1696». Som vi sett erhöllo barnen halva årslönen (500 daler). Därefter fortsätter Peringskiöld: »Effter dät lärer wara swårt att här i landet få någon så capabel man, som nu strax kan succedera bem:te translator att uthföra dess begynte Lexicon Gothicum samt uthtyda och förklara de gambla Historiske skalder och wijser; Ty hemställes uthi deras grefl. Excellenciers och Kongl. Cantzlij Collegii godtfinnande antingen man skal införskrifwa nogon Jsländare, särdeles den tillförene i förslag hafde Arnas Magnusson, som af Utterklou och sina Landz män haft ett godt loford, eller om studiosus Antiquitatum Petter Salan kunde med samma Translatoris löhn och til sin bättre ewertuerande i gamla språket uppå ett åhr få reesa til Jssland med en annan här warande Jssländare, Sigurd benämd¹, att inlösa några där betingade rare skrifter och gamla sagor» (R. A. Kanslikoll. Inkomna skrivelser Ser. E IV. 8)."
+  },
+  {
+   "bbox": [
+    487,
+    1373,
+    1529,
+    1672
+   ],
+   "category": "Text",
+   "text": "Att Peringskiöld verkligen tänkt på honom såsom translator, synes framgå av följande odaterade brev från Salan troligen till Oxenstierna (V. H. A. A. sign. Ab 17): »Högwälborne Grefve, nådige Herre. Såsom Eders högGrefl. Excellence har i nåder lemnat mig dhen frijheten att i diupaste ödmiukhet gifwa tillkänna, när uti Antiquitetz Collegio blefwe nogen öpning, Så blef iag i går dijt upkalad af Hr. Secret. Peringskiöld, dher han lät mig weta, att"
+  },
+  {
+   "bbox": [
+    490,
+    1686,
+    1529,
+    1751
+   ],
+   "category": "Footnote",
+   "text": "¹ Denne var antikvitetskollegiets och arkivets snickare samt användes ock ibland som formskärare."
+  },
+  {
+   "bbox": [
+    496,
+    1783,
+    542,
+    1820
+   ],
+   "category": "Page-footer",
+   "text": "18"
+  }
+ ]
+}

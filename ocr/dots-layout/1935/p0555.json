@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 555,
+ "seconds": 28.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [806, 222, 1174, 257], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [472, 292, 1506, 417], \"category\": \"Text\", \"text\": \"måste lämnas till Egarens Disposition, hwilket dock till Riksens Ständers Secrete utskottz widare godt finnande hemställes Stockholm d. 14 Novem. 1734.»¹\"}, {\"bbox\": [468, 417, 1506, 957], \"category\": \"Text\", \"text\": \"Statsdeputationen hade således avstyrkt inköpet, och det såg ut, som om affären skulle stanna i stöpet. Sterbhuset, som lockats av den summa, som Cronstedt fått, hade begärt för mycket och ej passat på det rätta ögonblicket. Själv hade Bromell först blott värderat själva myntsamlingen till 15,000 daler kmt, Uppsala konsistoriet hade ej kommit till ett högre belopp än 3000 plåtar (= 18,000 dal. kmt), och Helin endast till 14,867 daler kmt 8 öre. Därtill kommo visserligen miniatyrerna, myntordningar o. s. v. Men det var tydligt att 36,000 daler i sakkunniga kretsar ansågs vara ett väl drygt tilltaget pris, och änkan hade fordrat 48,000. Emellertid tyckes hon inom sekreta utskottet ha haft sina förespråkare, ty här blev köpet ej omedelbart förkastat, och oviljan tyckes hava vänt sig mot det motsträviga universitetet.\"}, {\"bbox\": [465, 957, 1503, 1664], \"category\": \"Text\", \"text\": \"I sekreta utskottet upplästes statsdeputationens memorial den 3 december: »H:r Ehrencrona förmente att Upsala academia wäl kunde inlösa detta Cabinet efftersom det wore skada, at det samma, som lijkwäl med så mycken möda och beswär samt kåstnad är samblat, skulle komma at stadna uti någon privat eller främmandes händer eller eliest blifwa skingrat, emedan det tiänar till en god upplysning i den swänska Historia för den studerande ungdomen, och lärer nogsam tillgång af medell dertill wid academien finnas, emedan den på 1727 åhrs Rijksdag finnes hafft en besparing af 60,000 dr. smt, och sedan den tijden måste den sig utan twifwel mycket förökt. Men därom har man ingen kunskap, emedan inga räkenskaper sedan den tijden äro inkomne, än skönt Kongl. Cammar Collegium förnimmes åhrl. och i nog alfwarsame termer hafwa derom tillskrifwit. Och som högnödigt är att räkenskaperne inkomma, så hemstälte han, om icke et underdånigt memorial till Hans May:t kunde afgå att anbefalla academien utan drögsmål insända sina räkenskaper till Cammar Collegium och det inom en wiss tijd.\"}, {\"bbox\": [465, 1685, 1499, 1748], \"category\": \"Footnote\", \"text\": \"¹ Memorialet är undertecknat av Statsdeputationens tre medlemmar Bielke, Melander och Ljungqvist.\"}, {\"bbox\": [465, 1774, 539, 1822], \"category\": \"Page-footer\", \"text\": \"536\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    806,
+    222,
+    1174,
+    257
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    472,
+    292,
+    1506,
+    417
+   ],
+   "category": "Text",
+   "text": "måste lämnas till Egarens Disposition, hwilket dock till Riksens Ständers Secrete utskottz widare godt finnande hemställes Stockholm d. 14 Novem. 1734.»¹"
+  },
+  {
+   "bbox": [
+    468,
+    417,
+    1506,
+    957
+   ],
+   "category": "Text",
+   "text": "Statsdeputationen hade således avstyrkt inköpet, och det såg ut, som om affären skulle stanna i stöpet. Sterbhuset, som lockats av den summa, som Cronstedt fått, hade begärt för mycket och ej passat på det rätta ögonblicket. Själv hade Bromell först blott värderat själva myntsamlingen till 15,000 daler kmt, Uppsala konsistoriet hade ej kommit till ett högre belopp än 3000 plåtar (= 18,000 dal. kmt), och Helin endast till 14,867 daler kmt 8 öre. Därtill kommo visserligen miniatyrerna, myntordningar o. s. v. Men det var tydligt att 36,000 daler i sakkunniga kretsar ansågs vara ett väl drygt tilltaget pris, och änkan hade fordrat 48,000. Emellertid tyckes hon inom sekreta utskottet ha haft sina förespråkare, ty här blev köpet ej omedelbart förkastat, och oviljan tyckes hava vänt sig mot det motsträviga universitetet."
+  },
+  {
+   "bbox": [
+    465,
+    957,
+    1503,
+    1664
+   ],
+   "category": "Text",
+   "text": "I sekreta utskottet upplästes statsdeputationens memorial den 3 december: »H:r Ehrencrona förmente att Upsala academia wäl kunde inlösa detta Cabinet efftersom det wore skada, at det samma, som lijkwäl med så mycken möda och beswär samt kåstnad är samblat, skulle komma at stadna uti någon privat eller främmandes händer eller eliest blifwa skingrat, emedan det tiänar till en god upplysning i den swänska Historia för den studerande ungdomen, och lärer nogsam tillgång af medell dertill wid academien finnas, emedan den på 1727 åhrs Rijksdag finnes hafft en besparing af 60,000 dr. smt, och sedan den tijden måste den sig utan twifwel mycket förökt. Men därom har man ingen kunskap, emedan inga räkenskaper sedan den tijden äro inkomne, än skönt Kongl. Cammar Collegium förnimmes åhrl. och i nog alfwarsame termer hafwa derom tillskrifwit. Och som högnödigt är att räkenskaperne inkomma, så hemstälte han, om icke et underdånigt memorial till Hans May:t kunde afgå att anbefalla academien utan drögsmål insända sina räkenskaper till Cammar Collegium och det inom en wiss tijd."
+  },
+  {
+   "bbox": [
+    465,
+    1685,
+    1499,
+    1748
+   ],
+   "category": "Footnote",
+   "text": "¹ Memorialet är undertecknat av Statsdeputationens tre medlemmar Bielke, Melander och Ljungqvist."
+  },
+  {
+   "bbox": [
+    465,
+    1774,
+    539,
+    1822
+   ],
+   "category": "Page-footer",
+   "text": "536"
+  }
+ ]
+}

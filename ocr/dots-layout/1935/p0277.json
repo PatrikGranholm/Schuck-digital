@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 277,
+ "seconds": 27.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [856, 219, 1229, 254], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [521, 290, 1559, 665], \"category\": \"Text\", \"text\": \"7:0 at Societeten hade medel at hyra uti Upsala nödige husrum så wäl för des sammankomster som för des acters och documenters förwarande samt för de naturalier och rariteter, som ifrån landet til Societeten kunna inkomma, såssom ock för allehanda Mathematiska och Physicaliska instrumenter och Machiner, som til Societeten komma at upkiöpas med mera, som i framtiden torde kunna behöfwas. Hwarwid Riksens Höglofl. Ständers gunstigaste ompröfwande underställes, om icke observatorium astronomicum kunde så byggas, at Societeten kunde jämwäl der få sina rum.\"}, {\"bbox\": [521, 665, 1558, 989], \"category\": \"Text\", \"text\": \"Såssom nu alt detta, som til Societens upkomst torde pröfwas nödigt, synes fordra en ansenlig fond och vårt K. Fäderneslandz medellösa tilstånd är deremot nogsamt bekant, så fördristar sig ej Societeten i anseende der til af publico til Statens gravation något understöd begära, utan allenast effterfölliande oförgripeliga förslag i ödmiukhet andraga, hwarigenom Societeten utan det allmännas betungande skulle kunna wederbörligen inrättas och underhållas; nämbl:n:\"}, {\"bbox\": [521, 996, 1558, 1495], \"category\": \"Text\", \"text\": \"1:0 Om Antiqvitets Archivum skulle med Societeten blifwa sammanfogad och således des Stat och underhåld til Societeten blifwa anslagen, hälst som Societens giöromål ibland alt annat i anledning af Hans Kongl. Maij:ts nådigsta resolution är aldeles det samma som Archivi antiqvitatum, nämbl:n at utgifwa något uti Swänska antiqviteterne samt uti Landzorterna allehanda gamla monumenter upsöka och genom trycket låta utkomma, hwilket, som ofwanbemält är, man finner uti Actis Literariis Sveciæ redan wara skedt och hädan effter så mycket bättre och wigare kunde låta sig göra, som Societens ledamöter hade då Archivum antiqvitatum närmare at tilgå och kunde utaf des rika samling af gamla bref och documenter årligen låta uti Actis literariis något inflyta.\"}, {\"bbox\": [518, 1494, 1557, 1746], \"category\": \"Text\", \"text\": \"Hwarwid Riksens Höglofl. Ständer behagade gunstigt betänka, om icke Archivum antiqvitatum med så mycket större fog kunde tillika med Societeten wara i Upsala, som det ock tilförende under namn af Collegium Antiqvitatum dersammastädes warit först inrättat och aldramäst af de Studerande brukas och effterfrågas, at der utur til deras böckers och disputationers förfärdigande nödig\"}, {\"bbox\": [521, 1773, 591, 1818], \"category\": \"Page-footer\", \"text\": \"258\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    856,
+    219,
+    1229,
+    254
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    521,
+    290,
+    1559,
+    665
+   ],
+   "category": "Text",
+   "text": "7:0 at Societeten hade medel at hyra uti Upsala nödige husrum så wäl för des sammankomster som för des acters och documenters förwarande samt för de naturalier och rariteter, som ifrån landet til Societeten kunna inkomma, såssom ock för allehanda Mathematiska och Physicaliska instrumenter och Machiner, som til Societeten komma at upkiöpas med mera, som i framtiden torde kunna behöfwas. Hwarwid Riksens Höglofl. Ständers gunstigaste ompröfwande underställes, om icke observatorium astronomicum kunde så byggas, at Societeten kunde jämwäl der få sina rum."
+  },
+  {
+   "bbox": [
+    521,
+    665,
+    1558,
+    989
+   ],
+   "category": "Text",
+   "text": "Såssom nu alt detta, som til Societens upkomst torde pröfwas nödigt, synes fordra en ansenlig fond och vårt K. Fäderneslandz medellösa tilstånd är deremot nogsamt bekant, så fördristar sig ej Societeten i anseende der til af publico til Statens gravation något understöd begära, utan allenast effterfölliande oförgripeliga förslag i ödmiukhet andraga, hwarigenom Societeten utan det allmännas betungande skulle kunna wederbörligen inrättas och underhållas; nämbl:n:"
+  },
+  {
+   "bbox": [
+    521,
+    996,
+    1558,
+    1495
+   ],
+   "category": "Text",
+   "text": "1:0 Om Antiqvitets Archivum skulle med Societeten blifwa sammanfogad och således des Stat och underhåld til Societeten blifwa anslagen, hälst som Societens giöromål ibland alt annat i anledning af Hans Kongl. Maij:ts nådigsta resolution är aldeles det samma som Archivi antiqvitatum, nämbl:n at utgifwa något uti Swänska antiqviteterne samt uti Landzorterna allehanda gamla monumenter upsöka och genom trycket låta utkomma, hwilket, som ofwanbemält är, man finner uti Actis Literariis Sveciæ redan wara skedt och hädan effter så mycket bättre och wigare kunde låta sig göra, som Societens ledamöter hade då Archivum antiqvitatum närmare at tilgå och kunde utaf des rika samling af gamla bref och documenter årligen låta uti Actis literariis något inflyta."
+  },
+  {
+   "bbox": [
+    518,
+    1494,
+    1557,
+    1746
+   ],
+   "category": "Text",
+   "text": "Hwarwid Riksens Höglofl. Ständer behagade gunstigt betänka, om icke Archivum antiqvitatum med så mycket större fog kunde tillika med Societeten wara i Upsala, som det ock tilförende under namn af Collegium Antiqvitatum dersammastädes warit först inrättat och aldramäst af de Studerande brukas och effterfrågas, at der utur til deras böckers och disputationers förfärdigande nödig"
+  },
+  {
+   "bbox": [
+    521,
+    1773,
+    591,
+    1818
+   ],
+   "category": "Page-footer",
+   "text": "258"
+  }
+ ]
+}

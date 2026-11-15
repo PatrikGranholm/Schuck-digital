@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 506,
+ "seconds": 28.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [553, 225, 742, 260], \"category\": \"Section-header\", \"text\": \"Helins tid\"}, {\"bbox\": [127, 294, 1161, 717], \"category\": \"Table\", \"text\": \"<table><tr><td>Caput mitratum cum pedo. Majoris est moduli sed diffractus</td><td>1.</td></tr><tr><td>Caput difforme inter 2 cruces</td><td>1.</td></tr><tr><td>Tres turres ab altera figura Episcopi</td><td>1.</td></tr><tr><td>Caput Episcopi ruditer efformatum cum pedo</td><td>1.</td></tr><tr><td>Caput</td><td>2</td></tr><tr><td>Caput ad dectram prospiciens cum ramo</td><td>2.</td></tr><tr><td>Caput sed sine ramo</td><td>1.</td></tr><tr><td>Caput ad lævam diversi</td><td>6</td></tr><tr><td>Caput ad sinistram Cum literis E RX</td><td>1.</td></tr><tr><td>Idem Cum literis E RX</td><td>1</td></tr><tr><td>Figura quæ delineari sed describi non possunt</td><td>2</td></tr></table>\"}, {\"bbox\": [553, 747, 756, 779], \"category\": \"Section-header\", \"text\": \"III Germanici\"}, {\"bbox\": [132, 793, 1155, 938], \"category\": \"Table\", \"text\": \"<table><tr><td>Imperator gladium tenens cum addita stella. Inscr. FRIDERICVS IMPERATOR. Typus urbis Romæ. Inscr. ROMA CAPUT MVNDI</td><td>1</td></tr><tr><td>Colonienses</td><td>4</td></tr></table>\"}, {\"bbox\": [576, 972, 736, 1011], \"category\": \"Section-header\", \"text\": \"IV Anglici\"}, {\"bbox\": [132, 1019, 1173, 1093], \"category\": \"Table\", \"text\": \"<table><tr><td>Caput diadematum cum manu sceptrum tenente, diversi generis Num 2 Henrici III</td><td>3.»</td></tr></table>\"}, {\"bbox\": [132, 1126, 1177, 1753], \"category\": \"Text\", \"text\": \"Då memorialet den 30 juni föredrogs i kanslikollegiet, fick Helin av detta en välförtjänt eloge för den möda han nedlagt på myntens urskiljande. De till inköp föreslagna mynten vägde ej mer än 3 1/8 lod, och med förhöjningen av 1/8 steg det erforderliga beloppet ej till mera än 19 daler 20 öre kmt, som beviljades att utgå av expensmedlen och enligt räkenskaperna även utbetalades, ehuru visserligen först 1741 — eller två år efter det att fyndet gjorts. Men ehuru Jonas Nilsson således fått vänta tämligen länge på någon lösen för fyndet, blev saken dock tack vare Helins humana synpunkter ordnad till fördel för honom. Den 6 februari biföll Kungl. Maj:t Helins av kanslikollegiet förordade hemställan, att bonden skulle få behålla hela fyndet. Förmodligen sålde han nu de 4 lod silvermynt, som arkivet ej ansåg sig behöva, till andra samlare och lät väl också nedsmälta de 72 2/8 lod, som enligt Helins mening vore obrukeliga till annat. Om lodet även här betalades med 5 dr 2 öre,\"}, {\"bbox\": [1099, 1779, 1173, 1826], \"category\": \"Page-footer\", \"text\": \"487\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    553,
+    225,
+    742,
+    260
+   ],
+   "category": "Section-header",
+   "text": "Helins tid"
+  },
+  {
+   "bbox": [
+    127,
+    294,
+    1161,
+    717
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>Caput mitratum cum pedo. Majoris est moduli sed diffractus</td><td>1.</td></tr><tr><td>Caput difforme inter 2 cruces</td><td>1.</td></tr><tr><td>Tres turres ab altera figura Episcopi</td><td>1.</td></tr><tr><td>Caput Episcopi ruditer efformatum cum pedo</td><td>1.</td></tr><tr><td>Caput</td><td>2</td></tr><tr><td>Caput ad dectram prospiciens cum ramo</td><td>2.</td></tr><tr><td>Caput sed sine ramo</td><td>1.</td></tr><tr><td>Caput ad lævam diversi</td><td>6</td></tr><tr><td>Caput ad sinistram Cum literis E RX</td><td>1.</td></tr><tr><td>Idem Cum literis E RX</td><td>1</td></tr><tr><td>Figura quæ delineari sed describi non possunt</td><td>2</td></tr></table>"
+  },
+  {
+   "bbox": [
+    553,
+    747,
+    756,
+    779
+   ],
+   "category": "Section-header",
+   "text": "III Germanici"
+  },
+  {
+   "bbox": [
+    132,
+    793,
+    1155,
+    938
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>Imperator gladium tenens cum addita stella. Inscr. FRIDERICVS IMPERATOR. Typus urbis Romæ. Inscr. ROMA CAPUT MVNDI</td><td>1</td></tr><tr><td>Colonienses</td><td>4</td></tr></table>"
+  },
+  {
+   "bbox": [
+    576,
+    972,
+    736,
+    1011
+   ],
+   "category": "Section-header",
+   "text": "IV Anglici"
+  },
+  {
+   "bbox": [
+    132,
+    1019,
+    1173,
+    1093
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>Caput diadematum cum manu sceptrum tenente, diversi generis Num 2 Henrici III</td><td>3.»</td></tr></table>"
+  },
+  {
+   "bbox": [
+    132,
+    1126,
+    1177,
+    1753
+   ],
+   "category": "Text",
+   "text": "Då memorialet den 30 juni föredrogs i kanslikollegiet, fick Helin av detta en välförtjänt eloge för den möda han nedlagt på myntens urskiljande. De till inköp föreslagna mynten vägde ej mer än 3 1/8 lod, och med förhöjningen av 1/8 steg det erforderliga beloppet ej till mera än 19 daler 20 öre kmt, som beviljades att utgå av expensmedlen och enligt räkenskaperna även utbetalades, ehuru visserligen först 1741 — eller två år efter det att fyndet gjorts. Men ehuru Jonas Nilsson således fått vänta tämligen länge på någon lösen för fyndet, blev saken dock tack vare Helins humana synpunkter ordnad till fördel för honom. Den 6 februari biföll Kungl. Maj:t Helins av kanslikollegiet förordade hemställan, att bonden skulle få behålla hela fyndet. Förmodligen sålde han nu de 4 lod silvermynt, som arkivet ej ansåg sig behöva, till andra samlare och lät väl också nedsmälta de 72 2/8 lod, som enligt Helins mening vore obrukeliga till annat. Om lodet även här betalades med 5 dr 2 öre,"
+  },
+  {
+   "bbox": [
+    1099,
+    1779,
+    1173,
+    1826
+   ],
+   "category": "Page-footer",
+   "text": "487"
+  }
+ ]
+}

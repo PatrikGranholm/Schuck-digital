@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 436,
+ "seconds": 36.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [552, 222, 740, 257], \"category\": \"Section-header\", \"text\": \"Helins tid\"}, {\"bbox\": [126, 293, 1166, 461], \"category\": \"Text\", \"text\": \"Med oaflåtelig ödmiukaste wördnad underställes thetta Eders hög-\\ngrefl. Excellencers och Kongl. May:s och Riksens höglofl. Can-\\ncellie Collegii nådgunstiga förordnande. Stockholm d. 19 mars\\n1741.»\"}, {\"bbox\": [126, 461, 1166, 586], \"category\": \"Text\", \"text\": \"Såsom bihang hade han fogat såväl ett utdrag ur Expensräk-\\nningarna rörande föregående antikvariska resor, som ock ett förslag\\npå kostnaden för den tillämnade resan: »Förslag til resekostnaden:\"}, {\"bbox\": [122, 601, 1166, 1262], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>Assessoren 2 månader hwarje månad 30 dagar gör 60 dagar à 3 Dr. smt.</td><td>180 Dr. smt</td></tr><tr><td>200 mihl, dubbel skiussen theri beräknadt, upföres ungefärl., skönt then theröfwer stiga skulle med alla resor neder i or- terne, gör för 3 hästar à 8 smt.</td><td>150</td></tr><tr><td>ritaren likaledes 60 dagar à 1 Dr. —</td><td>60</td></tr><tr><td>Thetta är allenast til förplägning, men hwad arbetandet wid- kom, måste wähl särskilt betalas, så wida han icke är på sta- ten, skiussen 1 häst</td><td>50</td></tr><tr><td>resedräng 60 dagar à 16</td><td>30</td></tr><tr><td>Thetta är allenast hans underhåld, men theröfwer torde och fordras löhn för arfwodet, när han måste här wid utnöta sina kläder. Skiussen 1 häst</td><td>50.</td></tr><tr><td></td><td>520</td></tr><tr><td>Uträkning på 3 månader för Assessoren allena</td><td></td></tr><tr><td>3 månader gör 90 dagar à 3 Dr.</td><td>270</td></tr><tr><td>Skiussen</td><td>150</td></tr><tr><td></td><td>420.»</td></tr></tbody></table>\"}, {\"bbox\": [122, 1289, 1164, 1749], \"category\": \"Text\", \"text\": \"Ärendet föredrogs i kanslikollegiet den 14 april, då Richardsons begäran avslogs, enär, efter vad upplyst blivit, antikvarierna aldrig erhållit dagtraktamente under deras antikvariska resor. Men väl lät man genom sekreteraren Modée underrätta Richardson, »at om han wille åtnöya sig med resepgr. för sig sielf fram och tillbakars, som gör 150 Dr. smt., wore Collegium benägen at i underdånighet anmäla detsamma hos Kongl. May:t». Den 4 maj berättade Secret. Modée, »att han efter Collegii befallning gifwit assessor Richardson tillkänna, at Collegium till de af honom begärte underhålds och Tractaments penningar för sig och en dräng till den åstundade resan till Halland ey samtycka kan, utan om han wille åtnöya sig med\"}, {\"bbox\": [146, 1791, 251, 1816], \"category\": \"Page-footer\", \"text\": \"27-34672.\"}, {\"bbox\": [1087, 1786, 1160, 1823], \"category\": \"Page-footer\", \"text\": \"417\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    552,
+    222,
+    740,
+    257
+   ],
+   "category": "Section-header",
+   "text": "Helins tid"
+  },
+  {
+   "bbox": [
+    126,
+    293,
+    1166,
+    461
+   ],
+   "category": "Text",
+   "text": "Med oaflåtelig ödmiukaste wördnad underställes thetta Eders hög-\ngrefl. Excellencers och Kongl. May:s och Riksens höglofl. Can-\ncellie Collegii nådgunstiga förordnande. Stockholm d. 19 mars\n1741.»"
+  },
+  {
+   "bbox": [
+    126,
+    461,
+    1166,
+    586
+   ],
+   "category": "Text",
+   "text": "Såsom bihang hade han fogat såväl ett utdrag ur Expensräk-\nningarna rörande föregående antikvariska resor, som ock ett förslag\npå kostnaden för den tillämnade resan: »Förslag til resekostnaden:"
+  },
+  {
+   "bbox": [
+    122,
+    601,
+    1166,
+    1262
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>Assessoren 2 månader hwarje månad 30 dagar gör 60 dagar à 3 Dr. smt.</td><td>180 Dr. smt</td></tr><tr><td>200 mihl, dubbel skiussen theri beräknadt, upföres ungefärl., skönt then theröfwer stiga skulle med alla resor neder i or- terne, gör för 3 hästar à 8 smt.</td><td>150</td></tr><tr><td>ritaren likaledes 60 dagar à 1 Dr. —</td><td>60</td></tr><tr><td>Thetta är allenast til förplägning, men hwad arbetandet wid- kom, måste wähl särskilt betalas, så wida han icke är på sta- ten, skiussen 1 häst</td><td>50</td></tr><tr><td>resedräng 60 dagar à 16</td><td>30</td></tr><tr><td>Thetta är allenast hans underhåld, men theröfwer torde och fordras löhn för arfwodet, när han måste här wid utnöta sina kläder. Skiussen 1 häst</td><td>50.</td></tr><tr><td></td><td>520</td></tr><tr><td>Uträkning på 3 månader för Assessoren allena</td><td></td></tr><tr><td>3 månader gör 90 dagar à 3 Dr.</td><td>270</td></tr><tr><td>Skiussen</td><td>150</td></tr><tr><td></td><td>420.»</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    122,
+    1289,
+    1164,
+    1749
+   ],
+   "category": "Text",
+   "text": "Ärendet föredrogs i kanslikollegiet den 14 april, då Richardsons begäran avslogs, enär, efter vad upplyst blivit, antikvarierna aldrig erhållit dagtraktamente under deras antikvariska resor. Men väl lät man genom sekreteraren Modée underrätta Richardson, »at om han wille åtnöya sig med resepgr. för sig sielf fram och tillbakars, som gör 150 Dr. smt., wore Collegium benägen at i underdånighet anmäla detsamma hos Kongl. May:t». Den 4 maj berättade Secret. Modée, »att han efter Collegii befallning gifwit assessor Richardson tillkänna, at Collegium till de af honom begärte underhålds och Tractaments penningar för sig och en dräng till den åstundade resan till Halland ey samtycka kan, utan om han wille åtnöya sig med"
+  },
+  {
+   "bbox": [
+    146,
+    1791,
+    251,
+    1816
+   ],
+   "category": "Page-footer",
+   "text": "27-34672."
+  },
+  {
+   "bbox": [
+    1087,
+    1786,
+    1160,
+    1823
+   ],
+   "category": "Page-footer",
+   "text": "417"
+  }
+ ]
+}

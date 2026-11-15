@@ -1,0 +1,31 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 114,
+ "seconds": 8.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [128, 303, 1159, 1669], \"category\": \"Picture\"}, {\"bbox\": [216, 1684, 1076, 1748], \"category\": \"Caption\", \"text\": \"Helgeandsholmen enligt Johan Holms karta över en del av Stockholms Stad 1689.\\nKrigsarkivet.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    128,
+    303,
+    1159,
+    1669
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    216,
+    1684,
+    1076,
+    1748
+   ],
+   "category": "Caption",
+   "text": "Helgeandsholmen enligt Johan Holms karta över en del av Stockholms Stad 1689.\nKrigsarkivet."
+  }
+ ]
+}

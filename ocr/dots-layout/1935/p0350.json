@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 350,
+ "seconds": 27.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [553, 224, 740, 259], \"category\": \"Page-header\", \"text\": \"Helins tid\"}, {\"bbox\": [126, 294, 1168, 504], \"category\": \"Text\", \"text\": \"iag befrucktar, att till slikt arbetes behörige utförande torde finnas brist på tillräckelige documenter och acta publica, så har iag på den händelse fallit på den tanckan att på dylikt sätt beskrifwa Konung Johan den tredjes historia, hwartill torde finnas mera tillgång på erforderlige documenter.»\"}, {\"bbox\": [126, 502, 1173, 1628], \"category\": \"Text\", \"text\": \"Det gällde nu att även för honom bestämma någon arbetsuppgift, sedan man övergivit tanken på Monumenta. Några dagar förut hade han uppvaktat hovkansleren och frågat, om han ej kunde få i uppdrag att fortsätta Westenhielms historia, vilket dock ej befanns tillrådligt, enär man »ej wiste hvad som fanns af Westenhielms historia». Nu hade han ställt två stora historiska verk i utsikt, Karl Knutsson och Sturarnes samt Johan den tredjes historia. Kanslikollegiet bestämde sig för det förra alternativet och tillfogade, att »öfwersten Bassevitz, hwilken warit Hanoveransk Envoyé här wid hofwet, fullkomligen utarbetat denna Historien och den samma med behörige documenter försedt, hwaraf han förnimmes hafwa förärt ett Manuscript till hans Excellence Hr. Grefwe Horn; dock som denna Historia än widare torde kunna utarbetas och det jämwäl wore wärdt, att öfwerste Bassevitz arbete öfwersattes på swenska, tycktes, att assessoren Lundberg kunde företaga sig detta arbete, sedan man först fått höra, om Öfwersten Bassevitz will tillåta, att denna af honom utarbetade Historien öfwersättes, hwarom man för höflighet skull kunde först avertera honom, hwarföre påtog sig herr hofCantzleren att härom tala med Secreteraren Swartzen, som sig här uppehåller och förr warit hos Öfwerste Bassevitz secreterare, att [han] därom wille skrifwa till bemälte öfwerste» (Kansliprot. den 4 febr. 1736). Det dröjde emellertid ganska länge, innan Lundberg besvärade sig med att taga någon kännedom om Bassevitz' handskrivna historia.¹ I stället ville han — att döma av hans memorial — grunda sin historia på djupa och ingående studier, vilka dock, så vitt man kan se, hade en tämligen avlägsen beröring med Karl Knutssons historia, nämligen landskapslagarna, Polens, Preussens och Pom-\"}, {\"bbox\": [135, 1647, 1175, 1739], \"category\": \"Footnote\", \"text\": \"¹ Warmholtz uppgiver (n:r 2904), att Adolf Fredrik skänkt en 1727 gjord avskrift till Kungl. biblioteket. Där finnes den likväl nu icke. Arbetet börjar för övrigt först 1470 eller efter Karl Knutssons död.\"}, {\"bbox\": [1099, 1787, 1167, 1825], \"category\": \"Page-footer\", \"text\": \"331\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    553,
+    224,
+    740,
+    259
+   ],
+   "category": "Page-header",
+   "text": "Helins tid"
+  },
+  {
+   "bbox": [
+    126,
+    294,
+    1168,
+    504
+   ],
+   "category": "Text",
+   "text": "iag befrucktar, att till slikt arbetes behörige utförande torde finnas brist på tillräckelige documenter och acta publica, så har iag på den händelse fallit på den tanckan att på dylikt sätt beskrifwa Konung Johan den tredjes historia, hwartill torde finnas mera tillgång på erforderlige documenter.»"
+  },
+  {
+   "bbox": [
+    126,
+    502,
+    1173,
+    1628
+   ],
+   "category": "Text",
+   "text": "Det gällde nu att även för honom bestämma någon arbetsuppgift, sedan man övergivit tanken på Monumenta. Några dagar förut hade han uppvaktat hovkansleren och frågat, om han ej kunde få i uppdrag att fortsätta Westenhielms historia, vilket dock ej befanns tillrådligt, enär man »ej wiste hvad som fanns af Westenhielms historia». Nu hade han ställt två stora historiska verk i utsikt, Karl Knutsson och Sturarnes samt Johan den tredjes historia. Kanslikollegiet bestämde sig för det förra alternativet och tillfogade, att »öfwersten Bassevitz, hwilken warit Hanoveransk Envoyé här wid hofwet, fullkomligen utarbetat denna Historien och den samma med behörige documenter försedt, hwaraf han förnimmes hafwa förärt ett Manuscript till hans Excellence Hr. Grefwe Horn; dock som denna Historia än widare torde kunna utarbetas och det jämwäl wore wärdt, att öfwerste Bassevitz arbete öfwersattes på swenska, tycktes, att assessoren Lundberg kunde företaga sig detta arbete, sedan man först fått höra, om Öfwersten Bassevitz will tillåta, att denna af honom utarbetade Historien öfwersättes, hwarom man för höflighet skull kunde först avertera honom, hwarföre påtog sig herr hofCantzleren att härom tala med Secreteraren Swartzen, som sig här uppehåller och förr warit hos Öfwerste Bassevitz secreterare, att [han] därom wille skrifwa till bemälte öfwerste» (Kansliprot. den 4 febr. 1736). Det dröjde emellertid ganska länge, innan Lundberg besvärade sig med att taga någon kännedom om Bassevitz' handskrivna historia.¹ I stället ville han — att döma av hans memorial — grunda sin historia på djupa och ingående studier, vilka dock, så vitt man kan se, hade en tämligen avlägsen beröring med Karl Knutssons historia, nämligen landskapslagarna, Polens, Preussens och Pom-"
+  },
+  {
+   "bbox": [
+    135,
+    1647,
+    1175,
+    1739
+   ],
+   "category": "Footnote",
+   "text": "¹ Warmholtz uppgiver (n:r 2904), att Adolf Fredrik skänkt en 1727 gjord avskrift till Kungl. biblioteket. Där finnes den likväl nu icke. Arbetet börjar för övrigt först 1470 eller efter Karl Knutssons död."
+  },
+  {
+   "bbox": [
+    1099,
+    1787,
+    1167,
+    1825
+   ],
+   "category": "Page-footer",
+   "text": "331"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 335,
+ "seconds": 30.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [805, 221, 1176, 257], \"category\": \"Section-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [465, 288, 1509, 585], \"category\": \"Text\", \"text\": \"»Bundtarna» på hyllorna voro i viss mån kronologiskt ordnade, ehuru principen vid J. F. Peringskiölds död ännu ej hunnit genomföras. Så t. ex. funnos på femte hyllan femton buntar med brev från år 1400 till 1447, men till dessa ha fogats en bunt med brev 1545—1560, och 1400-tals brev funnos ock på andra hyllor. De voro dock jämförelsevis lätta att påträffa, enär varje bunt var försedd med ett nummer. Som exempel kunna vi taga den sjätte hyllan:\"}, {\"bbox\": [570, 597, 1395, 812], \"category\": \"Table\", \"text\": \"<table><tr><td>1</td><td>Bundten</td><td>från 1434 til 1436</td><td>Nr. 16</td></tr><tr><td>2</td><td>B.</td><td>från 1437 til 1438</td><td>Nr. 4</td></tr><tr><td>3</td><td>B.</td><td>från 1443 til 1445</td><td>Nr. 49</td></tr><tr><td>4</td><td>B.</td><td>från 1448 til 1450</td><td>Nr. 51</td></tr><tr><td>5</td><td>B.</td><td>från 1451 til 1452</td><td>Nr. 52</td></tr></table>\"}, {\"bbox\": [458, 828, 1504, 1484], \"category\": \"Text\", \"text\": \"De egentliga antikviteterna förvarades i »mellanrummet», de dyrbara, av guld, i ett skåp. I en »träask» hade den ännu obetydliga myntsamlingen inlagts. Den hade redan 1721 inventerats i Keders närvaro, och de svenska mynten hade sorterats efter regenterna; de arabiska, engelska o. s. v. tyckas däremot ännu ha varit osorterade. Därefter förtecknas silversamlingen, tjugofyra nummer, börjande med »S. Eskils armpipa med sölfwerfoder, item des Monstrance». Sedan följer såsom en ny avdelning »några andra antiquiteter», ett alabasterkärl, en liten avgud av malm, en liten curieus urna av koppar m. m. Även i »främsta rummet» fanns en antikvitetssamling, Björköfynden, en så kallad Thorwigg, tre gamla svärd, S. Brynolphi stövel m. m. Någon vetenskaplig princip, enligt vilken dessa fornsaker ordnats, fanns således icke, men en dylik tillämpades ju först av B. E. Hildebrand, och ännu så länge förstod man blott att ordna föremålen efter de olika metallerna, i guld, silver eller annan materia.\"}, {\"bbox\": [455, 1492, 1500, 1743], \"category\": \"Text\", \"text\": \"Däremot hade man redan ställt tryckta böcker och handskrifter för sig. I »främsta rummet» fanns ett bibliotek av tryckta böcker, ordnade efter formatet, 57 folianter, 71 kvarter, 37 in octavo och 6 in duodecimo, och boktitlarna äro så pass noggrant angivna, att det ej bör hava mött någon svårighet att igenfinna volymen, t. ex. »Den danske Krønicke, som Saxo Grammaticus scref, öfwersedt och för-\"}, {\"bbox\": [457, 1770, 533, 1815], \"category\": \"Page-footer\", \"text\": \"316\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    805,
+    221,
+    1176,
+    257
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    465,
+    288,
+    1509,
+    585
+   ],
+   "category": "Text",
+   "text": "»Bundtarna» på hyllorna voro i viss mån kronologiskt ordnade, ehuru principen vid J. F. Peringskiölds död ännu ej hunnit genomföras. Så t. ex. funnos på femte hyllan femton buntar med brev från år 1400 till 1447, men till dessa ha fogats en bunt med brev 1545—1560, och 1400-tals brev funnos ock på andra hyllor. De voro dock jämförelsevis lätta att påträffa, enär varje bunt var försedd med ett nummer. Som exempel kunna vi taga den sjätte hyllan:"
+  },
+  {
+   "bbox": [
+    570,
+    597,
+    1395,
+    812
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>1</td><td>Bundten</td><td>från 1434 til 1436</td><td>Nr. 16</td></tr><tr><td>2</td><td>B.</td><td>från 1437 til 1438</td><td>Nr. 4</td></tr><tr><td>3</td><td>B.</td><td>från 1443 til 1445</td><td>Nr. 49</td></tr><tr><td>4</td><td>B.</td><td>från 1448 til 1450</td><td>Nr. 51</td></tr><tr><td>5</td><td>B.</td><td>från 1451 til 1452</td><td>Nr. 52</td></tr></table>"
+  },
+  {
+   "bbox": [
+    458,
+    828,
+    1504,
+    1484
+   ],
+   "category": "Text",
+   "text": "De egentliga antikviteterna förvarades i »mellanrummet», de dyrbara, av guld, i ett skåp. I en »träask» hade den ännu obetydliga myntsamlingen inlagts. Den hade redan 1721 inventerats i Keders närvaro, och de svenska mynten hade sorterats efter regenterna; de arabiska, engelska o. s. v. tyckas däremot ännu ha varit osorterade. Därefter förtecknas silversamlingen, tjugofyra nummer, börjande med »S. Eskils armpipa med sölfwerfoder, item des Monstrance». Sedan följer såsom en ny avdelning »några andra antiquiteter», ett alabasterkärl, en liten avgud av malm, en liten curieus urna av koppar m. m. Även i »främsta rummet» fanns en antikvitetssamling, Björköfynden, en så kallad Thorwigg, tre gamla svärd, S. Brynolphi stövel m. m. Någon vetenskaplig princip, enligt vilken dessa fornsaker ordnats, fanns således icke, men en dylik tillämpades ju först av B. E. Hildebrand, och ännu så länge förstod man blott att ordna föremålen efter de olika metallerna, i guld, silver eller annan materia."
+  },
+  {
+   "bbox": [
+    455,
+    1492,
+    1500,
+    1743
+   ],
+   "category": "Text",
+   "text": "Däremot hade man redan ställt tryckta böcker och handskrifter för sig. I »främsta rummet» fanns ett bibliotek av tryckta böcker, ordnade efter formatet, 57 folianter, 71 kvarter, 37 in octavo och 6 in duodecimo, och boktitlarna äro så pass noggrant angivna, att det ej bör hava mött någon svårighet att igenfinna volymen, t. ex. »Den danske Krønicke, som Saxo Grammaticus scref, öfwersedt och för-"
+  },
+  {
+   "bbox": [
+    457,
+    1770,
+    533,
+    1815
+   ],
+   "category": "Page-footer",
+   "text": "316"
+  }
+ ]
+}

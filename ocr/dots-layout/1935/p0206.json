@@ -1,0 +1,319 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 206,
+ "seconds": 38.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [246, 354, 440, 390], \"category\": \"Text\", \"text\": \"OLAUS. Treetelia.\"}, {\"bbox\": [256, 402, 372, 546], \"category\": \"Picture\"}, {\"bbox\": [431, 400, 547, 544], \"category\": \"Picture\"}, {\"bbox\": [595, 388, 729, 548], \"category\": \"Picture\"}, {\"bbox\": [768, 360, 935, 403], \"category\": \"Text\", \"text\": \"BIORNO A° Ch. 918.\"}, {\"bbox\": [774, 406, 907, 550], \"category\": \"Picture\"}, {\"bbox\": [942, 360, 1136, 408], \"category\": \"Text\", \"text\": \"STENCHILLVS\\nAnno Ch. 940\"}, {\"bbox\": [941, 406, 1073, 552], \"category\": \"Picture\"}, {\"bbox\": [246, 590, 625, 627], \"category\": \"Text\", \"text\": \"AMUNDUS. Kolbrenna. A° Ch. 1019\"}, {\"bbox\": [255, 656, 540, 764], \"category\": \"Picture\"}, {\"bbox\": [598, 637, 716, 768], \"category\": \"Picture\"}, {\"bbox\": [790, 594, 1069, 621], \"category\": \"Text\", \"text\": \"PHILIPPUS. A° Ch. 1080\"}, {\"bbox\": [781, 653, 1064, 761], \"category\": \"Picture\"}, {\"bbox\": [278, 816, 662, 866], \"category\": \"Text\", \"text\": \"RAGVALDUS Knaphöfde. 1130.\"}, {\"bbox\": [258, 887, 541, 999], \"category\": \"Picture\"}, {\"bbox\": [593, 859, 722, 1014], \"category\": \"Picture\"}, {\"bbox\": [809, 823, 1046, 847], \"category\": \"Text\", \"text\": \"SVERCHERUS. 1138.\"}, {\"bbox\": [776, 883, 1065, 999], \"category\": \"Picture\"}, {\"bbox\": [621, 1047, 881, 1081], \"category\": \"Text\", \"text\": \"ERICUS. 9. 1150.\"}, {\"bbox\": [253, 1100, 371, 1236], \"category\": \"Picture\"}, {\"bbox\": [421, 1092, 549, 1252], \"category\": \"Picture\"}, {\"bbox\": [598, 1096, 713, 1234], \"category\": \"Picture\"}, {\"bbox\": [764, 1089, 904, 1254], \"category\": \"Picture\"}, {\"bbox\": [961, 1094, 1052, 1232], \"category\": \"Picture\"}, {\"bbox\": [339, 1223, 459, 1363], \"category\": \"Picture\"}, {\"bbox\": [518, 1222, 634, 1362], \"category\": \"Picture\"}, {\"bbox\": [689, 1221, 804, 1363], \"category\": \"Picture\"}, {\"bbox\": [871, 1222, 983, 1358], \"category\": \"Picture\"}, {\"bbox\": [252, 1348, 545, 1468], \"category\": \"Picture\"}, {\"bbox\": [603, 1333, 717, 1483], \"category\": \"Picture\"}, {\"bbox\": [777, 1351, 1066, 1465], \"category\": \"Picture\"}, {\"bbox\": [202, 1525, 405, 1559], \"category\": \"Text\", \"text\": \"Brenner collegit et pinx:\"}, {\"bbox\": [342, 1610, 1018, 1691], \"category\": \"Text\", \"text\": \"Första planschen i Brenner, »Thesaurus nummorum sveo-gothicorum» (1691).\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    246,
+    354,
+    440,
+    390
+   ],
+   "category": "Text",
+   "text": "OLAUS. Treetelia."
+  },
+  {
+   "bbox": [
+    256,
+    402,
+    372,
+    546
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    431,
+    400,
+    547,
+    544
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    595,
+    388,
+    729,
+    548
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    768,
+    360,
+    935,
+    403
+   ],
+   "category": "Text",
+   "text": "BIORNO A° Ch. 918."
+  },
+  {
+   "bbox": [
+    774,
+    406,
+    907,
+    550
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    942,
+    360,
+    1136,
+    408
+   ],
+   "category": "Text",
+   "text": "STENCHILLVS\nAnno Ch. 940"
+  },
+  {
+   "bbox": [
+    941,
+    406,
+    1073,
+    552
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    246,
+    590,
+    625,
+    627
+   ],
+   "category": "Text",
+   "text": "AMUNDUS. Kolbrenna. A° Ch. 1019"
+  },
+  {
+   "bbox": [
+    255,
+    656,
+    540,
+    764
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    598,
+    637,
+    716,
+    768
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    790,
+    594,
+    1069,
+    621
+   ],
+   "category": "Text",
+   "text": "PHILIPPUS. A° Ch. 1080"
+  },
+  {
+   "bbox": [
+    781,
+    653,
+    1064,
+    761
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    278,
+    816,
+    662,
+    866
+   ],
+   "category": "Text",
+   "text": "RAGVALDUS Knaphöfde. 1130."
+  },
+  {
+   "bbox": [
+    258,
+    887,
+    541,
+    999
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    593,
+    859,
+    722,
+    1014
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    809,
+    823,
+    1046,
+    847
+   ],
+   "category": "Text",
+   "text": "SVERCHERUS. 1138."
+  },
+  {
+   "bbox": [
+    776,
+    883,
+    1065,
+    999
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    621,
+    1047,
+    881,
+    1081
+   ],
+   "category": "Text",
+   "text": "ERICUS. 9. 1150."
+  },
+  {
+   "bbox": [
+    253,
+    1100,
+    371,
+    1236
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    421,
+    1092,
+    549,
+    1252
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    598,
+    1096,
+    713,
+    1234
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    764,
+    1089,
+    904,
+    1254
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    961,
+    1094,
+    1052,
+    1232
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    339,
+    1223,
+    459,
+    1363
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    518,
+    1222,
+    634,
+    1362
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    689,
+    1221,
+    804,
+    1363
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    871,
+    1222,
+    983,
+    1358
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    252,
+    1348,
+    545,
+    1468
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    603,
+    1333,
+    717,
+    1483
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    777,
+    1351,
+    1066,
+    1465
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    202,
+    1525,
+    405,
+    1559
+   ],
+   "category": "Text",
+   "text": "Brenner collegit et pinx:"
+  },
+  {
+   "bbox": [
+    342,
+    1610,
+    1018,
+    1691
+   ],
+   "category": "Text",
+   "text": "Första planschen i Brenner, »Thesaurus nummorum sveo-gothicorum» (1691)."
+  }
+ ]
+}

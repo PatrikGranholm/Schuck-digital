@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 559,
+ "seconds": 36.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [800, 221, 1170, 256], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [464, 291, 1503, 500], \"category\": \"Text\", \"text\": \"till antiquitetsarchivum affölja, så gifwe Wij Eder sådant härmed til swar och efterrättelse i nåder tillkänna» (Riksregistraturet). Det Bromellska myntkabinettet hade på så sätt blivit statsegendom och överlämnats till antikvitetsarkivet, där det kom att bilda kärnan inom den svenska avdelningen av myntsamlingen.\"}, {\"bbox\": [461, 500, 1503, 1496], \"category\": \"Text\", \"text\": \"Under Helins sista tid ökades statens myntkabinett med ännu en stor samling. 1747 inköptes nämligen Berchs välförsedda medaljsamling. Detta förvärv behandlas likväl lämpligast först i nästa del. Berch, som från och med 1747 blivit arkivets verklige chef, hade troligen ock förtjänsten av ett annat förvärv, av en samling medaljer, som tillhört Ulrika Eleonora. Den 26 januari 1748 upplästes nämligen i kanslikollegiet »Kongl. May:tz nådige Bref af d. 31 sistl. December i anledning af Riksens Ständers Secrete utskotts underdåniga skrifwelse, det Kongl. May:t i nåder för godt funnit att genom bref af samma Datum anbefalla dess och Riksens CammarCollegium att utaf de Medailler i guld och sölfwer, som finnas ibland högstsal. Hennes Kongl. May:tz Drottning Ulricæ Eleonoræ, dess högt älskelige gemåls, qwarlåtenskap låta utsöka och till Riksens antiquitets archivum lämna them, som ther förr icke finnas. Resolverades: att härom afgår Extractum Protocoli till antiquitets archivum, som om wärkställigheten däraf har att draga behörig försorg, så att de ifrån Kongl. Cammar Collegium komma att blifwa afhämtade.» Enligt kanslikollegiets protokoll den 27 juli 1748 hade samlingen då överlämnats till antikvitetsarkivet. Så synnerligen stor tyckes den icke hava varit. Enligt B. E. Hildebrands Inventarium omfattade den: en armring av silver, en drottning Kristinas medalj, en drottning Maria Eleonoras begravningsmedalj, 112 diverse mynt, mest svenska, 9 antika silvermynt, 102 moderna guldmedaljer och 10 medaljer av silver.\"}, {\"bbox\": [459, 1496, 1501, 1746], \"category\": \"Text\", \"text\": \"Under Helins tid hade således den förut ganska oansenliga myntsamlingen blivit en för dåtida förhållanden mycket aktningsbjudande kollektion. Själv hade Helin här ej gjort någon insats. Men hans indolens var dock så till vida av fördel för myntkabinettet, att den åtminstone till en början hindrade samlingens förminskande. Som vi minnas, hade Cronstedt föreslagit, att hans samling skulle\"}, {\"bbox\": [312, 506, 459, 626], \"category\": \"Text\", \"text\": \"Berchs och Ulrika Eleonoras samlingar\"}, {\"bbox\": [307, 1504, 456, 1590], \"category\": \"Text\", \"text\": \"Avsöndringar från myntkabinettet\"}, {\"bbox\": [461, 1782, 535, 1819], \"category\": \"Page-footer\", \"text\": \"540\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    800,
+    221,
+    1170,
+    256
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    464,
+    291,
+    1503,
+    500
+   ],
+   "category": "Text",
+   "text": "till antiquitetsarchivum affölja, så gifwe Wij Eder sådant härmed til swar och efterrättelse i nåder tillkänna» (Riksregistraturet). Det Bromellska myntkabinettet hade på så sätt blivit statsegendom och överlämnats till antikvitetsarkivet, där det kom att bilda kärnan inom den svenska avdelningen av myntsamlingen."
+  },
+  {
+   "bbox": [
+    461,
+    500,
+    1503,
+    1496
+   ],
+   "category": "Text",
+   "text": "Under Helins sista tid ökades statens myntkabinett med ännu en stor samling. 1747 inköptes nämligen Berchs välförsedda medaljsamling. Detta förvärv behandlas likväl lämpligast först i nästa del. Berch, som från och med 1747 blivit arkivets verklige chef, hade troligen ock förtjänsten av ett annat förvärv, av en samling medaljer, som tillhört Ulrika Eleonora. Den 26 januari 1748 upplästes nämligen i kanslikollegiet »Kongl. May:tz nådige Bref af d. 31 sistl. December i anledning af Riksens Ständers Secrete utskotts underdåniga skrifwelse, det Kongl. May:t i nåder för godt funnit att genom bref af samma Datum anbefalla dess och Riksens CammarCollegium att utaf de Medailler i guld och sölfwer, som finnas ibland högstsal. Hennes Kongl. May:tz Drottning Ulricæ Eleonoræ, dess högt älskelige gemåls, qwarlåtenskap låta utsöka och till Riksens antiquitets archivum lämna them, som ther förr icke finnas. Resolverades: att härom afgår Extractum Protocoli till antiquitets archivum, som om wärkställigheten däraf har att draga behörig försorg, så att de ifrån Kongl. Cammar Collegium komma att blifwa afhämtade.» Enligt kanslikollegiets protokoll den 27 juli 1748 hade samlingen då överlämnats till antikvitetsarkivet. Så synnerligen stor tyckes den icke hava varit. Enligt B. E. Hildebrands Inventarium omfattade den: en armring av silver, en drottning Kristinas medalj, en drottning Maria Eleonoras begravningsmedalj, 112 diverse mynt, mest svenska, 9 antika silvermynt, 102 moderna guldmedaljer och 10 medaljer av silver."
+  },
+  {
+   "bbox": [
+    459,
+    1496,
+    1501,
+    1746
+   ],
+   "category": "Text",
+   "text": "Under Helins tid hade således den förut ganska oansenliga myntsamlingen blivit en för dåtida förhållanden mycket aktningsbjudande kollektion. Själv hade Helin här ej gjort någon insats. Men hans indolens var dock så till vida av fördel för myntkabinettet, att den åtminstone till en början hindrade samlingens förminskande. Som vi minnas, hade Cronstedt föreslagit, att hans samling skulle"
+  },
+  {
+   "bbox": [
+    312,
+    506,
+    459,
+    626
+   ],
+   "category": "Text",
+   "text": "Berchs och Ulrika Eleonoras samlingar"
+  },
+  {
+   "bbox": [
+    307,
+    1504,
+    456,
+    1590
+   ],
+   "category": "Text",
+   "text": "Avsöndringar från myntkabinettet"
+  },
+  {
+   "bbox": [
+    461,
+    1782,
+    535,
+    1819
+   ],
+   "category": "Page-footer",
+   "text": "540"
+  }
+ ]
+}

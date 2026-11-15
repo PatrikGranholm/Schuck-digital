@@ -1,0 +1,41 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 228,
+ "seconds": 9.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [166, 365, 1151, 1591], \"category\": \"Picture\"}, {\"bbox\": [435, 1647, 894, 1694], \"category\": \"Caption\", \"text\": \"ERIK JULIUS BJÖRNER\"}, {\"bbox\": [295, 1701, 1037, 1737], \"category\": \"Text\", \"text\": \"Målning av Johan Fredrik Hörling. Hallwylska Museet, Stockholm.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    166,
+    365,
+    1151,
+    1591
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    435,
+    1647,
+    894,
+    1694
+   ],
+   "category": "Caption",
+   "text": "ERIK JULIUS BJÖRNER"
+  },
+  {
+   "bbox": [
+    295,
+    1701,
+    1037,
+    1737
+   ],
+   "category": "Text",
+   "text": "Målning av Johan Fredrik Hörling. Hallwylska Museet, Stockholm."
+  }
+ ]
+}

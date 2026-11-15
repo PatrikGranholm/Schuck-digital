@@ -1,0 +1,81 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 180,
+ "seconds": 23.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [251, 304, 266, 322], \"category\": \"Page-header\", \"text\": \"2\"}, {\"bbox\": [440, 298, 849, 325], \"category\": \"Page-header\", \"text\": \"MONUMENTA TERRITORII WILATTUNG.\"}, {\"bbox\": [574, 334, 740, 379], \"category\": \"Section-header\", \"text\": \"Ståringe.\"}, {\"bbox\": [254, 382, 650, 796], \"category\": \"Text\", \"text\": \"A Rainledne Landzhöfdingens och A Baronens Herr Erich Sparres Arsfwingars nu warande Såtegård Ståringe/ hafwer ifrån Konung Ingrar Ostens Sonstid/ uti Ellofwa hundrade Åhr wid pas/ förwarat en märkelig Runnesten wid Stallet nåst in til Sidn Bågen i Ahrdala Sochn uprester/ icke af sint Marmor/ utan ån warachtigare ånne/ af grost oc hårt gryte/ i en spitzig form uthuggin/ som til sine klara slingor och runeritning/ dem iag åhr 1685 i Augusti Månad besett och afritat hafwer/ ånnu behåller bifogade anseende och korta Historia:\"}, {\"bbox\": [654, 379, 1045, 816], \"category\": \"Text\", \"text\": \"A Pud aulam Ståringe dictam, quam Generosissimus Baro Dominus Ericus Sparre Sudermanniæ quondam Sartrapa hæredibus suis possidendam reliquerat, Cippus conspicitur pyramidalis ex lapide rudiore prope Stabulum erectus, ubi facie versus lacum Bagensem in parochia Ahrdalensi inde a Regis Ingvari temporibus constitutus fuerat, altitudine supra terram quatuor tantum ulnarum eminens, ætate vero undecim Centenorum annos superat; cujus duritiei insculptæ literæ, cum circumvoluta Hydra, egressum nobis exhibent stylo laconico Historiam, quam Anno 1685. mense Augusti propriâ delineatam manu heic subjicimus:\"}, {\"bbox\": [316, 822, 955, 1657], \"category\": \"Picture\"}, {\"bbox\": [243, 1731, 1056, 1771], \"category\": \"Caption\", \"text\": \"Provtryck till Peringskiölds »Monumenta territorii Wilattung».\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    251,
+    304,
+    266,
+    322
+   ],
+   "category": "Page-header",
+   "text": "2"
+  },
+  {
+   "bbox": [
+    440,
+    298,
+    849,
+    325
+   ],
+   "category": "Page-header",
+   "text": "MONUMENTA TERRITORII WILATTUNG."
+  },
+  {
+   "bbox": [
+    574,
+    334,
+    740,
+    379
+   ],
+   "category": "Section-header",
+   "text": "Ståringe."
+  },
+  {
+   "bbox": [
+    254,
+    382,
+    650,
+    796
+   ],
+   "category": "Text",
+   "text": "A Rainledne Landzhöfdingens och A Baronens Herr Erich Sparres Arsfwingars nu warande Såtegård Ståringe/ hafwer ifrån Konung Ingrar Ostens Sonstid/ uti Ellofwa hundrade Åhr wid pas/ förwarat en märkelig Runnesten wid Stallet nåst in til Sidn Bågen i Ahrdala Sochn uprester/ icke af sint Marmor/ utan ån warachtigare ånne/ af grost oc hårt gryte/ i en spitzig form uthuggin/ som til sine klara slingor och runeritning/ dem iag åhr 1685 i Augusti Månad besett och afritat hafwer/ ånnu behåller bifogade anseende och korta Historia:"
+  },
+  {
+   "bbox": [
+    654,
+    379,
+    1045,
+    816
+   ],
+   "category": "Text",
+   "text": "A Pud aulam Ståringe dictam, quam Generosissimus Baro Dominus Ericus Sparre Sudermanniæ quondam Sartrapa hæredibus suis possidendam reliquerat, Cippus conspicitur pyramidalis ex lapide rudiore prope Stabulum erectus, ubi facie versus lacum Bagensem in parochia Ahrdalensi inde a Regis Ingvari temporibus constitutus fuerat, altitudine supra terram quatuor tantum ulnarum eminens, ætate vero undecim Centenorum annos superat; cujus duritiei insculptæ literæ, cum circumvoluta Hydra, egressum nobis exhibent stylo laconico Historiam, quam Anno 1685. mense Augusti propriâ delineatam manu heic subjicimus:"
+  },
+  {
+   "bbox": [
+    316,
+    822,
+    955,
+    1657
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    243,
+    1731,
+    1056,
+    1771
+   ],
+   "category": "Caption",
+   "text": "Provtryck till Peringskiölds »Monumenta territorii Wilattung»."
+  }
+ ]
+}

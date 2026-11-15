@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 475,
+ "seconds": 28.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [805, 226, 1175, 262], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [472, 297, 1511, 541], \"category\": \"Text\", \"text\": \"puncter kunna communiceras Kongl. Lag Commissionen till att låta i den allmenna lagen, som handlar om Fynd, undantaga, hwad som således af gambla Swenska antiqviteter i mynt eller andra gambla rariteter kan hittas och skattas wärdt till Kronan att inlösas och i Kongl. Antiqvitets archivo förwaras, för hwilcket kommer på ofwanbenämde sätt att betalas hela wärdet med ¹/₈ del deröfwer.\"}, {\"bbox\": [472, 545, 1511, 714], \"category\": \"Text\", \"text\": \"4. Kunde för öfrigt försäkras, att richtige medel altid skola stå i beredskap till att utan uppehåll inlösa och betala alt det, som kan aktas nödigt för ett monument i framtiden att inkiöpas af hittarne ell. andra, som något dylikt woro förorsakade att föryttra.\"}, {\"bbox\": [472, 713, 1511, 1087], \"category\": \"Text\", \"text\": \"Der nu en Förordning på detta sättet skulle utkomma, så tyckes eij annat kunna förmodas, än att som Kongl. Maij:tt och Cronan igenom des twå tredie delars afstående och lösens erbiudande för hela wärdet med ¹/₈ dels förhöijning deröfwer, då långt flere gamble saker så wäl af mynt som andra dylika curieuse ting, som äro wärde för effterkommanderne till upplysning af förra tidens häfd och bruk och till fäderneslandets heder att förwaras och conserveras, lära kunna anskaffas, än härtills skiedt. Hwilket dock till Riksens Ständers secrete utskotts widare bepröfwande härmed hemställes.»\"}, {\"bbox\": [472, 1086, 1511, 1752], \"category\": \"Text\", \"text\": \"Kanslikollegiet hade således visserligen tänkt, att ett nytt fyndplakat skulle utfärdas, men tillika hemställt, att ärendet skulle remitteras till lagkommissionen. Inom denna hade frågan verkligen varit uppe. I det förslag till missgärningsbalk, som uppsattes 1729, hade kommissionen givit kap. 47 denna lydelse: »§ 1. Hwar som fynd hittar, ehwad fynd thet hälst är; han bör thet genast kundgiöra och tre söndagar å rad i närmaste kyrkia å landet eller i alla stadsens kyrkior så ock häradzting eller rådstuga lysa låta. Kommer then, som mist hafwer och bewisar, at thet honom tillhörer; tage sit åter, och gifwe skiälig hittelön. Kommer han ej innan natt och åhr; tage konungen twå delar, och trediung han som hitte. § 2. Af urminnes nedgrafwen skatt, bottnfynd, eller annat slikt, ther ingen är ägande till, tage konungen halft, och halft then som hitte. Om strandvrak och skepsfynd urskils i siölagen och Siöskadebalken. § 3. Hittar någor sådan gammal skatt, gammalt mynt, guld, sölfwer, koppar, metal eller andra konststycken; tå äger han konung-\"}, {\"bbox\": [472, 1779, 547, 1827], \"category\": \"Page-footer\", \"text\": \"456\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    805,
+    226,
+    1175,
+    262
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    472,
+    297,
+    1511,
+    541
+   ],
+   "category": "Text",
+   "text": "puncter kunna communiceras Kongl. Lag Commissionen till att låta i den allmenna lagen, som handlar om Fynd, undantaga, hwad som således af gambla Swenska antiqviteter i mynt eller andra gambla rariteter kan hittas och skattas wärdt till Kronan att inlösas och i Kongl. Antiqvitets archivo förwaras, för hwilcket kommer på ofwanbenämde sätt att betalas hela wärdet med ¹/₈ del deröfwer."
+  },
+  {
+   "bbox": [
+    472,
+    545,
+    1511,
+    714
+   ],
+   "category": "Text",
+   "text": "4. Kunde för öfrigt försäkras, att richtige medel altid skola stå i beredskap till att utan uppehåll inlösa och betala alt det, som kan aktas nödigt för ett monument i framtiden att inkiöpas af hittarne ell. andra, som något dylikt woro förorsakade att föryttra."
+  },
+  {
+   "bbox": [
+    472,
+    713,
+    1511,
+    1087
+   ],
+   "category": "Text",
+   "text": "Der nu en Förordning på detta sättet skulle utkomma, så tyckes eij annat kunna förmodas, än att som Kongl. Maij:tt och Cronan igenom des twå tredie delars afstående och lösens erbiudande för hela wärdet med ¹/₈ dels förhöijning deröfwer, då långt flere gamble saker så wäl af mynt som andra dylika curieuse ting, som äro wärde för effterkommanderne till upplysning af förra tidens häfd och bruk och till fäderneslandets heder att förwaras och conserveras, lära kunna anskaffas, än härtills skiedt. Hwilket dock till Riksens Ständers secrete utskotts widare bepröfwande härmed hemställes.»"
+  },
+  {
+   "bbox": [
+    472,
+    1086,
+    1511,
+    1752
+   ],
+   "category": "Text",
+   "text": "Kanslikollegiet hade således visserligen tänkt, att ett nytt fyndplakat skulle utfärdas, men tillika hemställt, att ärendet skulle remitteras till lagkommissionen. Inom denna hade frågan verkligen varit uppe. I det förslag till missgärningsbalk, som uppsattes 1729, hade kommissionen givit kap. 47 denna lydelse: »§ 1. Hwar som fynd hittar, ehwad fynd thet hälst är; han bör thet genast kundgiöra och tre söndagar å rad i närmaste kyrkia å landet eller i alla stadsens kyrkior så ock häradzting eller rådstuga lysa låta. Kommer then, som mist hafwer och bewisar, at thet honom tillhörer; tage sit åter, och gifwe skiälig hittelön. Kommer han ej innan natt och åhr; tage konungen twå delar, och trediung han som hitte. § 2. Af urminnes nedgrafwen skatt, bottnfynd, eller annat slikt, ther ingen är ägande till, tage konungen halft, och halft then som hitte. Om strandvrak och skepsfynd urskils i siölagen och Siöskadebalken. § 3. Hittar någor sådan gammal skatt, gammalt mynt, guld, sölfwer, koppar, metal eller andra konststycken; tå äger han konung-"
+  },
+  {
+   "bbox": [
+    472,
+    1779,
+    547,
+    1827
+   ],
+   "category": "Page-footer",
+   "text": "456"
+  }
+ ]
+}

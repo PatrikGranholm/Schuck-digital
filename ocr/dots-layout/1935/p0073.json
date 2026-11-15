@@ -1,0 +1,132 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 73,
+ "seconds": 30.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [813, 223, 1189, 259], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [547, 294, 1521, 463], \"category\": \"List-item\", \"text\": \"hafwer allenast ifrån d. 10:de wisan i Konung Harald gråfälds saga i Sturlæsons wärk scolierat öfwer de 9 fölliande wisor, afsomnandes den 20 December om afton Anno 1695, sedan han i 14 åhrs tijd hafft sin tiänst och förtäring här i Swerige.\"}, {\"bbox\": [479, 462, 1521, 671], \"category\": \"List-item\", \"text\": \"Amanuensis Lars Persson Eedström hafr afskrifwit åthskillige gamla original Pergamentz bref, förnemligast för Linköpings Stifft, af forna Konungar och Biskopar uthgifne etc., afsomnandes d. 3 Januarij 1696, sedan han i 20 åhrs tijd och några månader medh all flijt och trohet wid Antiquitets wärket upwachtadt hade.\"}, {\"bbox\": [479, 670, 1521, 837], \"category\": \"List-item\", \"text\": \"Amanuensis Islandus Gudmund Gudmundsson hafwer warit mycket siuklig och fördensskull allenast extraherat contenta af några små sagor samt collationerat begynnelsen på begge göthiske handskrefne Exemplaren af Sturlæson.\"}, {\"bbox\": [479, 835, 1521, 996], \"category\": \"List-item\", \"text\": \"Rijtaren Thomas Holm hafwer afrijtat 1:0) Hialmars Saga fordom med Runer på Pergament skrefwen, sammal. 2) Ett Landamerke, och 3) Upsala Erchiebiskoparnes gambla Sigiller och Monumenter.\"}, {\"bbox\": [479, 1001, 1521, 1085], \"category\": \"List-item\", \"text\": \"Antiquariens Amanuensis Peter Stenhagen hafwer af gamla original bref och Documenter afcopierat\"}, {\"bbox\": [551, 1084, 1298, 1127], \"category\": \"List-item\", \"text\": \"1) Åthskillige Concilia et Statuta Episcoporum,\"}, {\"bbox\": [551, 1126, 1379, 1168], \"category\": \"List-item\", \"text\": \"2) Några andra Kongl. Bref och Documenter sampt\"}, {\"bbox\": [551, 1167, 1521, 1252], \"category\": \"List-item\", \"text\": \"3) Concepter, särdeles af Latinska version til Sturlæsons uppläggning på trycket.\"}, {\"bbox\": [479, 1250, 1521, 1624], \"category\": \"List-item\", \"text\": \"Elias Salin, som effter Kongl. May:tz allernådigste Bref åthniutit extraordinarie löhn in till detta åhrs begynnelse, hafwer giordt Indicem rerum et verborum öfwer högloflige Konung Gustavi I, Konung Eriks, Konung Johans, Kong Sigismundi och Konung Carl den niondes utgifne Placater och Recesser effter den method, som alla Sweriges gamla lagar af honom tilförene registrerade blifwit, warandes ännu 8 volumina af Recesserne oregistrerade, och [vore] fördensskull wähl, om löhnen til sama begynte arbetes fullkomliga uthförende förlängias kunde.\"}, {\"bbox\": [475, 1623, 1517, 1748], \"category\": \"List-item\", \"text\": \"Johan Meyer, hwilken sosom en extraordinarius Amanuensis allenast åthniutit Vnderhåld af stipendiis Antiquitatum i Upsala, hafr i tvenne glest skrefne Folianter renskrifwit Translatoren\"}, {\"bbox\": [477, 1777, 530, 1824], \"category\": \"Page-footer\", \"text\": \"64\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    813,
+    223,
+    1189,
+    259
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    547,
+    294,
+    1521,
+    463
+   ],
+   "category": "List-item",
+   "text": "hafwer allenast ifrån d. 10:de wisan i Konung Harald gråfälds saga i Sturlæsons wärk scolierat öfwer de 9 fölliande wisor, afsomnandes den 20 December om afton Anno 1695, sedan han i 14 åhrs tijd hafft sin tiänst och förtäring här i Swerige."
+  },
+  {
+   "bbox": [
+    479,
+    462,
+    1521,
+    671
+   ],
+   "category": "List-item",
+   "text": "Amanuensis Lars Persson Eedström hafr afskrifwit åthskillige gamla original Pergamentz bref, förnemligast för Linköpings Stifft, af forna Konungar och Biskopar uthgifne etc., afsomnandes d. 3 Januarij 1696, sedan han i 20 åhrs tijd och några månader medh all flijt och trohet wid Antiquitets wärket upwachtadt hade."
+  },
+  {
+   "bbox": [
+    479,
+    670,
+    1521,
+    837
+   ],
+   "category": "List-item",
+   "text": "Amanuensis Islandus Gudmund Gudmundsson hafwer warit mycket siuklig och fördensskull allenast extraherat contenta af några små sagor samt collationerat begynnelsen på begge göthiske handskrefne Exemplaren af Sturlæson."
+  },
+  {
+   "bbox": [
+    479,
+    835,
+    1521,
+    996
+   ],
+   "category": "List-item",
+   "text": "Rijtaren Thomas Holm hafwer afrijtat 1:0) Hialmars Saga fordom med Runer på Pergament skrefwen, sammal. 2) Ett Landamerke, och 3) Upsala Erchiebiskoparnes gambla Sigiller och Monumenter."
+  },
+  {
+   "bbox": [
+    479,
+    1001,
+    1521,
+    1085
+   ],
+   "category": "List-item",
+   "text": "Antiquariens Amanuensis Peter Stenhagen hafwer af gamla original bref och Documenter afcopierat"
+  },
+  {
+   "bbox": [
+    551,
+    1084,
+    1298,
+    1127
+   ],
+   "category": "List-item",
+   "text": "1) Åthskillige Concilia et Statuta Episcoporum,"
+  },
+  {
+   "bbox": [
+    551,
+    1126,
+    1379,
+    1168
+   ],
+   "category": "List-item",
+   "text": "2) Några andra Kongl. Bref och Documenter sampt"
+  },
+  {
+   "bbox": [
+    551,
+    1167,
+    1521,
+    1252
+   ],
+   "category": "List-item",
+   "text": "3) Concepter, särdeles af Latinska version til Sturlæsons uppläggning på trycket."
+  },
+  {
+   "bbox": [
+    479,
+    1250,
+    1521,
+    1624
+   ],
+   "category": "List-item",
+   "text": "Elias Salin, som effter Kongl. May:tz allernådigste Bref åthniutit extraordinarie löhn in till detta åhrs begynnelse, hafwer giordt Indicem rerum et verborum öfwer högloflige Konung Gustavi I, Konung Eriks, Konung Johans, Kong Sigismundi och Konung Carl den niondes utgifne Placater och Recesser effter den method, som alla Sweriges gamla lagar af honom tilförene registrerade blifwit, warandes ännu 8 volumina af Recesserne oregistrerade, och [vore] fördensskull wähl, om löhnen til sama begynte arbetes fullkomliga uthförende förlängias kunde."
+  },
+  {
+   "bbox": [
+    475,
+    1623,
+    1517,
+    1748
+   ],
+   "category": "List-item",
+   "text": "Johan Meyer, hwilken sosom en extraordinarius Amanuensis allenast åthniutit Vnderhåld af stipendiis Antiquitatum i Upsala, hafr i tvenne glest skrefne Folianter renskrifwit Translatoren"
+  },
+  {
+   "bbox": [
+    477,
+    1777,
+    530,
+    1824
+   ],
+   "category": "Page-footer",
+   "text": "64"
+  }
+ ]
+}

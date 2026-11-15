@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 193,
+ "seconds": 27.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [827, 233, 1199, 269], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [490, 303, 1537, 1336], \"category\": \"Text\", \"text\": \"Alla yttrade sig då i samma riktning som Gyldenstolpe, och om själva saken berättade sekreteraren Leyonstedt: »Peringschöld är eij tillfredz mädh Rudbeckens procedere, effter han honom ett picquant Breff skall hafwa låtit tillskrifva angående dät, at han synes ett och annat af dät willia förkasta, hwarom wære förre uthi antiquiteterne wähl kunnige män och antiqua[rier] hafwa hafft lijka meningh; till sådant vill Peringschöld eij tigga, uthan hafwer samblat een stoor hoop tillsammans, som han Rudbecken will opponera». Bengt Oxenstierna yttrade då: »Man måste så laga, att eij något sådant blifwer publicerat, uthan tillsee, huru deras twist måtte kunna blifwa assopierat och bijlagd. Professorerna Lagerlöff och Obrecht torde bäst kunna brukas till at bringa däm till gott accord.» Närmast var det således fråga om ett tryckningsförbud för den skrift, som Peringskiöld utarbetat. Men ett dylikt förbud tyckes kanslikollegiet ej hava ansett sig äga befogenhet att utfärda, utan ansåg »bäst, at Kongl. May:tt låter afgå ett Breff till Cantzli Collegium att tillsee, dät förbem:te twist mädh gott maneer måtte blifwa bijlagd». Därefter följde — egendomligt nog — en lång överläggning i kanslikollegiet, huru detta kungliga brev till kanslikollegiet skulle avfattas, och vid ett nytt sammanträde den 23 maj bad sekreteraren Leyonstedt, »att han måtte få upläsa dät upsatte Brefwet, som uthi K. May:ttz nampn skulle afgå till K. Cantzli Collegium angående den twisten om någre gambla ordz uthtydning, som är emellan Secret. Peringschöld och Profess. Ol. Rudbeck».\"}, {\"bbox\": [492, 1347, 1536, 1432], \"category\": \"Text\", \"text\": \"Förslaget godkändes, och det ifrågavarande kungabrevet (Riksregistraturet) utfärdades den 28 maj:\"}, {\"bbox\": [754, 1442, 1536, 1603], \"category\": \"Text\", \"text\": \"»Till Cantzelie Collegium angående dhe skiljachtige meningar, som äre upkomne emillan Prof: Rudbeck och Secret: Peringschöld uthi Antiquitetz wäsendet.\"}, {\"bbox\": [632, 1627, 769, 1661], \"category\": \"Text\", \"text\": \"Carl etc.\"}, {\"bbox\": [495, 1673, 1536, 1758], \"category\": \"Text\", \"text\": \"Wår synnerl. etc. Wij hafwe fuller tijd effter annan i nåder låtit Oss uthaf Eder underdånigst berättas, hwad som den uthi Wårt\"}, {\"bbox\": [498, 1787, 569, 1825], \"category\": \"Page-footer\", \"text\": \"182\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    827,
+    233,
+    1199,
+    269
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    490,
+    303,
+    1537,
+    1336
+   ],
+   "category": "Text",
+   "text": "Alla yttrade sig då i samma riktning som Gyldenstolpe, och om själva saken berättade sekreteraren Leyonstedt: »Peringschöld är eij tillfredz mädh Rudbeckens procedere, effter han honom ett picquant Breff skall hafwa låtit tillskrifva angående dät, at han synes ett och annat af dät willia förkasta, hwarom wære förre uthi antiquiteterne wähl kunnige män och antiqua[rier] hafwa hafft lijka meningh; till sådant vill Peringschöld eij tigga, uthan hafwer samblat een stoor hoop tillsammans, som han Rudbecken will opponera». Bengt Oxenstierna yttrade då: »Man måste så laga, att eij något sådant blifwer publicerat, uthan tillsee, huru deras twist måtte kunna blifwa assopierat och bijlagd. Professorerna Lagerlöff och Obrecht torde bäst kunna brukas till at bringa däm till gott accord.» Närmast var det således fråga om ett tryckningsförbud för den skrift, som Peringskiöld utarbetat. Men ett dylikt förbud tyckes kanslikollegiet ej hava ansett sig äga befogenhet att utfärda, utan ansåg »bäst, at Kongl. May:tt låter afgå ett Breff till Cantzli Collegium att tillsee, dät förbem:te twist mädh gott maneer måtte blifwa bijlagd». Därefter följde — egendomligt nog — en lång överläggning i kanslikollegiet, huru detta kungliga brev till kanslikollegiet skulle avfattas, och vid ett nytt sammanträde den 23 maj bad sekreteraren Leyonstedt, »att han måtte få upläsa dät upsatte Brefwet, som uthi K. May:ttz nampn skulle afgå till K. Cantzli Collegium angående den twisten om någre gambla ordz uthtydning, som är emellan Secret. Peringschöld och Profess. Ol. Rudbeck»."
+  },
+  {
+   "bbox": [
+    492,
+    1347,
+    1536,
+    1432
+   ],
+   "category": "Text",
+   "text": "Förslaget godkändes, och det ifrågavarande kungabrevet (Riksregistraturet) utfärdades den 28 maj:"
+  },
+  {
+   "bbox": [
+    754,
+    1442,
+    1536,
+    1603
+   ],
+   "category": "Text",
+   "text": "»Till Cantzelie Collegium angående dhe skiljachtige meningar, som äre upkomne emillan Prof: Rudbeck och Secret: Peringschöld uthi Antiquitetz wäsendet."
+  },
+  {
+   "bbox": [
+    632,
+    1627,
+    769,
+    1661
+   ],
+   "category": "Text",
+   "text": "Carl etc."
+  },
+  {
+   "bbox": [
+    495,
+    1673,
+    1536,
+    1758
+   ],
+   "category": "Text",
+   "text": "Wår synnerl. etc. Wij hafwe fuller tijd effter annan i nåder låtit Oss uthaf Eder underdånigst berättas, hwad som den uthi Wårt"
+  },
+  {
+   "bbox": [
+    498,
+    1787,
+    569,
+    1825
+   ],
+   "category": "Page-footer",
+   "text": "182"
+  }
+ ]
+}

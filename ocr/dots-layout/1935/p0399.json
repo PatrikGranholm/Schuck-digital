@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 399,
+ "seconds": 28.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [815, 230, 1190, 266], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [477, 300, 1523, 676], \"category\": \"Text\", \"text\": \"och derjemte en sachtmodig man, så at det icke wore til förmodan, at han förtienar något tilmäle hwarcken för försumlighet el. sidwördnad emot sine förmän. Deremot är assessoren Biörner så mycket berömd, der likwäl är bekant, at uti et af hans arbeten något influtit, som warit af den beskaffenhet, at det har måst igenom en tryckt Publication återkallas och ändras. För öfrigit höll Hr. Biskopen före, at utan någon apart Instruction el. ny Jnrättning arbetet i antiquitets archivo kan bestridas, allenast Cantzliordningen i den puncten effterlefwes.\"}, {\"bbox\": [477, 675, 1522, 883], \"category\": \"Text\", \"text\": \"Hr. von Horleman höll för nödigt, at i fall Deputationens gifne förslag ey skulle winna bijfall, då åtminstone Cantzlij Collegium får befallning at mehra wårda sig om antiquitets Collegium och tilsee, at det må komma i bättre skick och ordning än det nu wärkel. befinnes uti. (Därefter yttrade Benzelius sig om translator regni.)\"}, {\"bbox\": [474, 882, 1522, 1415], \"category\": \"Text\", \"text\": \"För öfrigit itererade Hr. Biskopen, det ingen ny inrättning wid antiquitets archivo synes wara nödig, utan det giöres tillfyllest, enär ledamöterne fullgiöra sin skyldighet och Cantzlij Collegium anbefalles at hafwa mehra upsicht deruppå samt bijträda Betienterne wid archivum uti alt, hwad de til Inrättningens och arbetets befrämjande andragandes warda, aldeles på sätt, som Cantzlijordningen föreskrifwer. Hwarjemte det äfwen kunde hafwa sin nytta med sig, at antiquitets archivi ledamöter wid hwarje Riksdag til Cantzlij Collegium ingifwa en berättelse om hwad arbete de sedan sista Riksdag giordt. För öfrigit hemstälte Hr. Biskopen, om icke det personelle, som ang:de Secreteraren Helin och de öfrige antiquitets Collegii ledamöter är projecterat, måtte aldeles uhr Expeditionen utelemnas.\"}, {\"bbox\": [477, 1421, 1517, 1547], \"category\": \"Text\", \"text\": \"Uppå Hr. gr. och Landtmarschalkens proposition Bijfölls, hwad Hr. Bisk. Benzelius således hemstält och kommer Expeditionen til Hs. Kongl. May:t dereffter at rättas.»\"}, {\"bbox\": [475, 1547, 1517, 1757], \"category\": \"Text\", \"text\": \"Den justerade skrivelse, som avgick till Kongl. Maj:t, är emellertid skarp nog: »Utaf Eders Kongl. May:sts och Riksens Cancelli Collegii protocoll d. [1]4 maji har Secrete utskåttet funnit, huru som herr Baron och hofCantzleren von Gedda uti dess samma dag ingifne memorial giordt åtskillige nyttige och nödige påminnelser\"}, {\"bbox\": [477, 1783, 554, 1830], \"category\": \"Page-footer\", \"text\": \"380\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    815,
+    230,
+    1190,
+    266
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    477,
+    300,
+    1523,
+    676
+   ],
+   "category": "Text",
+   "text": "och derjemte en sachtmodig man, så at det icke wore til förmodan, at han förtienar något tilmäle hwarcken för försumlighet el. sidwördnad emot sine förmän. Deremot är assessoren Biörner så mycket berömd, der likwäl är bekant, at uti et af hans arbeten något influtit, som warit af den beskaffenhet, at det har måst igenom en tryckt Publication återkallas och ändras. För öfrigit höll Hr. Biskopen före, at utan någon apart Instruction el. ny Jnrättning arbetet i antiquitets archivo kan bestridas, allenast Cantzliordningen i den puncten effterlefwes."
+  },
+  {
+   "bbox": [
+    477,
+    675,
+    1522,
+    883
+   ],
+   "category": "Text",
+   "text": "Hr. von Horleman höll för nödigt, at i fall Deputationens gifne förslag ey skulle winna bijfall, då åtminstone Cantzlij Collegium får befallning at mehra wårda sig om antiquitets Collegium och tilsee, at det må komma i bättre skick och ordning än det nu wärkel. befinnes uti. (Därefter yttrade Benzelius sig om translator regni.)"
+  },
+  {
+   "bbox": [
+    474,
+    882,
+    1522,
+    1415
+   ],
+   "category": "Text",
+   "text": "För öfrigit itererade Hr. Biskopen, det ingen ny inrättning wid antiquitets archivo synes wara nödig, utan det giöres tillfyllest, enär ledamöterne fullgiöra sin skyldighet och Cantzlij Collegium anbefalles at hafwa mehra upsicht deruppå samt bijträda Betienterne wid archivum uti alt, hwad de til Inrättningens och arbetets befrämjande andragandes warda, aldeles på sätt, som Cantzlijordningen föreskrifwer. Hwarjemte det äfwen kunde hafwa sin nytta med sig, at antiquitets archivi ledamöter wid hwarje Riksdag til Cantzlij Collegium ingifwa en berättelse om hwad arbete de sedan sista Riksdag giordt. För öfrigit hemstälte Hr. Biskopen, om icke det personelle, som ang:de Secreteraren Helin och de öfrige antiquitets Collegii ledamöter är projecterat, måtte aldeles uhr Expeditionen utelemnas."
+  },
+  {
+   "bbox": [
+    477,
+    1421,
+    1517,
+    1547
+   ],
+   "category": "Text",
+   "text": "Uppå Hr. gr. och Landtmarschalkens proposition Bijfölls, hwad Hr. Bisk. Benzelius således hemstält och kommer Expeditionen til Hs. Kongl. May:t dereffter at rättas.»"
+  },
+  {
+   "bbox": [
+    475,
+    1547,
+    1517,
+    1757
+   ],
+   "category": "Text",
+   "text": "Den justerade skrivelse, som avgick till Kongl. Maj:t, är emellertid skarp nog: »Utaf Eders Kongl. May:sts och Riksens Cancelli Collegii protocoll d. [1]4 maji har Secrete utskåttet funnit, huru som herr Baron och hofCantzleren von Gedda uti dess samma dag ingifne memorial giordt åtskillige nyttige och nödige påminnelser"
+  },
+  {
+   "bbox": [
+    477,
+    1783,
+    554,
+    1830
+   ],
+   "category": "Page-footer",
+   "text": "380"
+  }
+ ]
+}

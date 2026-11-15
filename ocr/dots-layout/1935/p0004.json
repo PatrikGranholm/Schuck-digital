@@ -1,0 +1,101 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 4,
+ "seconds": 43.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [558, 94, 961, 200], \"category\": \"Picture\"}, {\"bbox\": [561, 193, 654, 225], \"category\": \"Text\", \"text\": \"14000\"}, {\"bbox\": [788, 202, 954, 238], \"category\": \"Text\", \"text\": \"000199997\"}, {\"bbox\": [178, 365, 1293, 655], \"category\": \"Title\", \"text\": \"KGL. VITTERHETS\\nHISTORIE OCH ANTIKVITETS\\nAKADEMIEN\"}, {\"bbox\": [352, 729, 1113, 884], \"category\": \"Title\", \"text\": \"Dess\\nFörhistoria och Historia\"}, {\"bbox\": [496, 935, 969, 1076], \"category\": \"Text\", \"text\": \"På akademiens uppdrag\\nförfattade\\nav\"}, {\"bbox\": [496, 1123, 966, 1171], \"category\": \"Text\", \"text\": \"HENRIK SCHÜCK\"}, {\"bbox\": [588, 1261, 876, 1417], \"category\": \"Text\", \"text\": \"IV\\nANTIKVITETS-\\nARKIVET I\"}, {\"bbox\": [481, 1764, 981, 1817], \"category\": \"Text\", \"text\": \"Stockholm 1935\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    558,
+    94,
+    961,
+    200
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    561,
+    193,
+    654,
+    225
+   ],
+   "category": "Text",
+   "text": "14000"
+  },
+  {
+   "bbox": [
+    788,
+    202,
+    954,
+    238
+   ],
+   "category": "Text",
+   "text": "000199997"
+  },
+  {
+   "bbox": [
+    178,
+    365,
+    1293,
+    655
+   ],
+   "category": "Title",
+   "text": "KGL. VITTERHETS\nHISTORIE OCH ANTIKVITETS\nAKADEMIEN"
+  },
+  {
+   "bbox": [
+    352,
+    729,
+    1113,
+    884
+   ],
+   "category": "Title",
+   "text": "Dess\nFörhistoria och Historia"
+  },
+  {
+   "bbox": [
+    496,
+    935,
+    969,
+    1076
+   ],
+   "category": "Text",
+   "text": "På akademiens uppdrag\nförfattade\nav"
+  },
+  {
+   "bbox": [
+    496,
+    1123,
+    966,
+    1171
+   ],
+   "category": "Text",
+   "text": "HENRIK SCHÜCK"
+  },
+  {
+   "bbox": [
+    588,
+    1261,
+    876,
+    1417
+   ],
+   "category": "Text",
+   "text": "IV\nANTIKVITETS-\nARKIVET I"
+  },
+  {
+   "bbox": [
+    481,
+    1764,
+    981,
+    1817
+   ],
+   "category": "Text",
+   "text": "Stockholm 1935"
+  }
+ ]
+}

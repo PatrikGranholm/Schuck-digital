@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 57,
+ "seconds": 27.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [813, 226, 1184, 261], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [482, 297, 1517, 416], \"category\": \"Text\", \"text\": \"och fäderneslandets tienst och heder hafwer ospard. Samma memorial wille ock Collegium communicera med Kongl. Antiquitets Archivo och deröfwer höra deras tanckar.\"}, {\"bbox\": [482, 421, 1517, 587], \"category\": \"Text\", \"text\": \"Assessoren tackade ödmiukeligen och bad, det han måtte få part utaf det, som berörde Antiquitets Archivum worde däruti swarande, hwilket Collegium ock honom tillsade med försäkran att gärna willja befordra dess arbete och goda förehafwande» (Kanslikoll. prot.).\"}, {\"bbox\": [478, 587, 1517, 1751], \"category\": \"Text\", \"text\": \"Innehållet i brevet var således, dels att han ville ha ett anslag till arbetets tryckning, dels ett lagmansämbete eller lön som historiograf, dels papper och dels en skrivare. Såsom häradshövding hade han redan en renskrivare, den förut omtalade Hinnel, och det var denne som han på detta sätt ville avlöna. Ärendet remitterades till antikvitetsarkivet, som i skrivelse den 17 juni visade upp, att arkivet ej hade några medel att bekosta tryckningen. Däremot gick man honom till mötes med avseende på skrivaren; »Vppå Eders Höggrefl. Excellen:ers och Kongl. Cantzlij Collegii höggunstige skrifwelse til Kongl. Antiquitets Archivum om Assessor Westenhielms Historiske Werks befrämiande öfwer höglofl. i åminnelse Konung Gustavi I Bedrifter, länder til vnderdån. hörsamt swar, at samma berömlige werk, som för thet almänna bästa vtharbetat är och länder til Fäderneslandets merkelige heder, kan af en amanuensi Antiquitatum renskrifvas, när thet til Antiquitets Archivum inlefwererat blifwer. Men på then händelsen Assessor Westenhielm intet wille låta här wid Antiquitets Archivum renskrifwa sit werk vtan påstå, at hans egen antagne amanuensis Erik Gösta Hinnel skulle få beständig Löhn och wara honom tilhanda på landet, så står vti Eders Höggrefl. Excell:ers och Kongl. Cancellie Collegii nådige behag och befalning, at samma Hinnel wid någon thera af the ordinaire Antiquitets skrifwarnes afgående må vpföras på staten och sedan brukas på landet til Hr. Westenhielms Werks renskrifwande. Sammaledes kan en härwarande Ritare aftaga the figurer och Ritningar, som Autor sielf behagar angifwa och framtee til bem:te werkz illustration och prydning — — — Anbelangande medel til Werketz vplägning och kopparstick, så bör Autor giöra ett tryckprof och förslag på hela dess omkostnad och sedan igenom Eders Höggrefl.\"}, {\"bbox\": [482, 1780, 531, 1825], \"category\": \"Page-footer\", \"text\": \"48\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    813,
+    226,
+    1184,
+    261
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    482,
+    297,
+    1517,
+    416
+   ],
+   "category": "Text",
+   "text": "och fäderneslandets tienst och heder hafwer ospard. Samma memorial wille ock Collegium communicera med Kongl. Antiquitets Archivo och deröfwer höra deras tanckar."
+  },
+  {
+   "bbox": [
+    482,
+    421,
+    1517,
+    587
+   ],
+   "category": "Text",
+   "text": "Assessoren tackade ödmiukeligen och bad, det han måtte få part utaf det, som berörde Antiquitets Archivum worde däruti swarande, hwilket Collegium ock honom tillsade med försäkran att gärna willja befordra dess arbete och goda förehafwande» (Kanslikoll. prot.)."
+  },
+  {
+   "bbox": [
+    478,
+    587,
+    1517,
+    1751
+   ],
+   "category": "Text",
+   "text": "Innehållet i brevet var således, dels att han ville ha ett anslag till arbetets tryckning, dels ett lagmansämbete eller lön som historiograf, dels papper och dels en skrivare. Såsom häradshövding hade han redan en renskrivare, den förut omtalade Hinnel, och det var denne som han på detta sätt ville avlöna. Ärendet remitterades till antikvitetsarkivet, som i skrivelse den 17 juni visade upp, att arkivet ej hade några medel att bekosta tryckningen. Däremot gick man honom till mötes med avseende på skrivaren; »Vppå Eders Höggrefl. Excellen:ers och Kongl. Cantzlij Collegii höggunstige skrifwelse til Kongl. Antiquitets Archivum om Assessor Westenhielms Historiske Werks befrämiande öfwer höglofl. i åminnelse Konung Gustavi I Bedrifter, länder til vnderdån. hörsamt swar, at samma berömlige werk, som för thet almänna bästa vtharbetat är och länder til Fäderneslandets merkelige heder, kan af en amanuensi Antiquitatum renskrifvas, när thet til Antiquitets Archivum inlefwererat blifwer. Men på then händelsen Assessor Westenhielm intet wille låta här wid Antiquitets Archivum renskrifwa sit werk vtan påstå, at hans egen antagne amanuensis Erik Gösta Hinnel skulle få beständig Löhn och wara honom tilhanda på landet, så står vti Eders Höggrefl. Excell:ers och Kongl. Cancellie Collegii nådige behag och befalning, at samma Hinnel wid någon thera af the ordinaire Antiquitets skrifwarnes afgående må vpföras på staten och sedan brukas på landet til Hr. Westenhielms Werks renskrifwande. Sammaledes kan en härwarande Ritare aftaga the figurer och Ritningar, som Autor sielf behagar angifwa och framtee til bem:te werkz illustration och prydning — — — Anbelangande medel til Werketz vplägning och kopparstick, så bör Autor giöra ett tryckprof och förslag på hela dess omkostnad och sedan igenom Eders Höggrefl."
+  },
+  {
+   "bbox": [
+    482,
+    1780,
+    531,
+    1825
+   ],
+   "category": "Page-footer",
+   "text": "48"
+  }
+ ]
+}

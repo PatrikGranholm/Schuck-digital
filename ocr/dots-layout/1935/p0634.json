@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 634,
+ "seconds": 27.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [591, 220, 776, 254], \"category\": \"Section-header\", \"text\": \"Helins tid\"}, {\"bbox\": [162, 289, 1209, 537], \"category\": \"Text\", \"text\": \"inseende, at kongl. förordningarne icke måge widare öfwerträdas, önskandes det, som nu skier, måtte hafwa den wärkan, at jag icke blifwer föranlåten i brist der af taga andra utwägar, som thorde förorsaka dem någon olust, til hwilkas nögie at befordra jag fast häldre hafwer all mödo ospard, som jag och giärna wid alla tilfällen will wara venerandi consistorii\"}, {\"bbox\": [892, 545, 1173, 579], \"category\": \"Text\", \"text\": \"Thomas Fehman.»\"}, {\"bbox\": [167, 621, 1222, 1749], \"category\": \"Text\", \"text\": \"Konsistoriet svarade den 14 oktober: »Af högwälborne H. Justitiæ Cancellerens til consistorium academicum öfwerlemnade skrifwelse d. 15 sidstl. Sept. förnimmer consistorium, hwad missnögie orient. etc. professorens wid denna kongl. academien H. Doctoris Celsii och translatoris regii i Stockholm H. Biörners nyligen av trycket emot hwarannan utgifne skrifter så uti höglofl. kongl. cancellie collegio som hos annat ärbart folk förorsakat medelst deras oanständiga expressioner och skrifart; hwarutaf högwälb. H. justitiæ cancelleren pröfwat nödigt consistorium påminna, hwad Kongl. Maij:ts förordningar af åhr 1662 och 1681 härom innehålla, nämligen at alt hwad af trycket utgår eller eljest publict giöres, bör skie med all moderation och beskiedelighet och utan andras förklening. Fördensskull kan consistorium academicum icke dölja, at äfwen det har olust och slätt intet nögie af den skarpa stilen, man i berörde skrifter brukat, hållandes så före, at sådant med applausu hade kunnat å daga gifwas, om wederbörande uti wänlighet och med ömhet om hwarandras namn och existimation behagat andraga sina observationer och skiähl. Så betygar och consistorium härmedelst, det man bemälte H. doctor Celsii skrifft icke hört något af, än mindre sedt, för än den tryckt här uti boklådan såldes, kunnandes altså förmodeligen consistorio så mycket mindre något tilskrifwas af det uti henne influtit, som hon icke lemnats under consistorii eller wederbörande facultets censur. Förutan detta kan consistorium icke underlåta at nämna, det här wid academien hwarken bland professorerne eller andra sports något misshageligit i skrifwande frå långlige tider tilbaka och ifrån sahlig professoren Schefferi och Verelii skrifftwäxlande, utan wi tacke Gud, at wi uti god sämja och enighet, som\"}, {\"bbox\": [1147, 1774, 1220, 1819], \"category\": \"Page-footer\", \"text\": \"615\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    591,
+    220,
+    776,
+    254
+   ],
+   "category": "Section-header",
+   "text": "Helins tid"
+  },
+  {
+   "bbox": [
+    162,
+    289,
+    1209,
+    537
+   ],
+   "category": "Text",
+   "text": "inseende, at kongl. förordningarne icke måge widare öfwerträdas, önskandes det, som nu skier, måtte hafwa den wärkan, at jag icke blifwer föranlåten i brist der af taga andra utwägar, som thorde förorsaka dem någon olust, til hwilkas nögie at befordra jag fast häldre hafwer all mödo ospard, som jag och giärna wid alla tilfällen will wara venerandi consistorii"
+  },
+  {
+   "bbox": [
+    892,
+    545,
+    1173,
+    579
+   ],
+   "category": "Text",
+   "text": "Thomas Fehman.»"
+  },
+  {
+   "bbox": [
+    167,
+    621,
+    1222,
+    1749
+   ],
+   "category": "Text",
+   "text": "Konsistoriet svarade den 14 oktober: »Af högwälborne H. Justitiæ Cancellerens til consistorium academicum öfwerlemnade skrifwelse d. 15 sidstl. Sept. förnimmer consistorium, hwad missnögie orient. etc. professorens wid denna kongl. academien H. Doctoris Celsii och translatoris regii i Stockholm H. Biörners nyligen av trycket emot hwarannan utgifne skrifter så uti höglofl. kongl. cancellie collegio som hos annat ärbart folk förorsakat medelst deras oanständiga expressioner och skrifart; hwarutaf högwälb. H. justitiæ cancelleren pröfwat nödigt consistorium påminna, hwad Kongl. Maij:ts förordningar af åhr 1662 och 1681 härom innehålla, nämligen at alt hwad af trycket utgår eller eljest publict giöres, bör skie med all moderation och beskiedelighet och utan andras förklening. Fördensskull kan consistorium academicum icke dölja, at äfwen det har olust och slätt intet nögie af den skarpa stilen, man i berörde skrifter brukat, hållandes så före, at sådant med applausu hade kunnat å daga gifwas, om wederbörande uti wänlighet och med ömhet om hwarandras namn och existimation behagat andraga sina observationer och skiähl. Så betygar och consistorium härmedelst, det man bemälte H. doctor Celsii skrifft icke hört något af, än mindre sedt, för än den tryckt här uti boklådan såldes, kunnandes altså förmodeligen consistorio så mycket mindre något tilskrifwas af det uti henne influtit, som hon icke lemnats under consistorii eller wederbörande facultets censur. Förutan detta kan consistorium icke underlåta at nämna, det här wid academien hwarken bland professorerne eller andra sports något misshageligit i skrifwande frå långlige tider tilbaka och ifrån sahlig professoren Schefferi och Verelii skrifftwäxlande, utan wi tacke Gud, at wi uti god sämja och enighet, som"
+  },
+  {
+   "bbox": [
+    1147,
+    1774,
+    1220,
+    1819
+   ],
+   "category": "Page-footer",
+   "text": "615"
+  }
+ ]
+}

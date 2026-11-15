@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 31,
+ "seconds": 27.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [825, 232, 1169, 267], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [474, 303, 1515, 471], \"category\": \"Text\", \"text\": \"Jonæ ipse per literas nostratibus indicabat se paratum esse iter ingredi ad occupandum Translatoris locum; et quanqvam Gudmundi Olai profectibus suos adhuc impares fateretur, mercedem annuam tamen adaugeri cupiebat».\"}, {\"bbox\": [332, 477, 465, 565], \"category\": \"Text\", \"text\": \"Peringskiöld\\nblir\\ntranslator\"}, {\"bbox\": [477, 469, 1519, 1754], \"category\": \"Text\", \"text\": \"Emellertid kan man hava åtminstone en misstanke, att Peringskiöld ej drev dessa underhandlingar med någon större energi och att han hade en annan plan för translatorslönens användning. Den siste kvarvarande islänningen i Sverige, Guðmundur Guðmundsson, avled den 18 mars 1697, — och han tyckes aldrig hava varit ifrågasatt till den förnämligare translatorstjänsten — på hösten samma år dog Petter Salan, och nu hade Asgeir Jónsson dragit sig tillbaka. Den 1 december 1697 inlämnade Peringskiöld då följande underdåniga memorial, i vilket han anhöll att själv få uppbära den besparade translatorslönen (500 daler smt): »Emedan som efter Kongl. May:ttz allernådigste befallning d. 3 oct. 1693 ingen af de andra Antiquitets Archivi betiänte antagit sig det stora arbetet med den tredie versionen på Latin till Sturlesons wärk, ty hafwer iag den uthom mina ordinarie ämbetes beställningar wid ledige stunder och med stort nattwakande upsatt och tillagt til de utländskas tiänst och wärketz bättre afgång både inn- och uthomlandz, hwar hos iag emot gamla göthiska textens jämförande af tvenne Manuscripter har aldeles ändradt och förbättradt Translatorens Gudmund Olufsons första uthkast til Swenska versionen, på hwilket extraordinarie arbete iag nu i fyra åhr med stort beswär arbetat hafwer och således icke allenast 2 åhr i bem:te Translatoris lifztijd uthan och sedan des död d. 20 Decemb. 1695 åter i 2 samfällte åhr förrättat Antiquitatum Translatoris tiänsten. Ty hemställes i Hans May:ttz höga Kongl. nåde at behiärtiga, det iag emot detta wärketz widelyftighet lärer til en liten hugnadt och understöd hafwa förtiänt förbemelte Translatoris löhn, som i desse tu framledne åhr sedan des död besparder och ännu innestående är, särdeles som iag ännu tänker med gudz hielp de fölliande dehlar af de Nordlandske Konungars Historier til Fädererneslandetz tiänst nu strax genom trycket continuera och det återstående sielf vertera til des en capabel Translator ifrån Issland ankommer» (R. A. Kanslikoll. Inkomna skrivelser sign. E IV. 8).\"}, {\"bbox\": [487, 1795, 535, 1824], \"category\": \"Page-footer\", \"text\": \"22\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    825,
+    232,
+    1169,
+    267
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    474,
+    303,
+    1515,
+    471
+   ],
+   "category": "Text",
+   "text": "Jonæ ipse per literas nostratibus indicabat se paratum esse iter ingredi ad occupandum Translatoris locum; et quanqvam Gudmundi Olai profectibus suos adhuc impares fateretur, mercedem annuam tamen adaugeri cupiebat»."
+  },
+  {
+   "bbox": [
+    332,
+    477,
+    465,
+    565
+   ],
+   "category": "Text",
+   "text": "Peringskiöld\nblir\ntranslator"
+  },
+  {
+   "bbox": [
+    477,
+    469,
+    1519,
+    1754
+   ],
+   "category": "Text",
+   "text": "Emellertid kan man hava åtminstone en misstanke, att Peringskiöld ej drev dessa underhandlingar med någon större energi och att han hade en annan plan för translatorslönens användning. Den siste kvarvarande islänningen i Sverige, Guðmundur Guðmundsson, avled den 18 mars 1697, — och han tyckes aldrig hava varit ifrågasatt till den förnämligare translatorstjänsten — på hösten samma år dog Petter Salan, och nu hade Asgeir Jónsson dragit sig tillbaka. Den 1 december 1697 inlämnade Peringskiöld då följande underdåniga memorial, i vilket han anhöll att själv få uppbära den besparade translatorslönen (500 daler smt): »Emedan som efter Kongl. May:ttz allernådigste befallning d. 3 oct. 1693 ingen af de andra Antiquitets Archivi betiänte antagit sig det stora arbetet med den tredie versionen på Latin till Sturlesons wärk, ty hafwer iag den uthom mina ordinarie ämbetes beställningar wid ledige stunder och med stort nattwakande upsatt och tillagt til de utländskas tiänst och wärketz bättre afgång både inn- och uthomlandz, hwar hos iag emot gamla göthiska textens jämförande af tvenne Manuscripter har aldeles ändradt och förbättradt Translatorens Gudmund Olufsons första uthkast til Swenska versionen, på hwilket extraordinarie arbete iag nu i fyra åhr med stort beswär arbetat hafwer och således icke allenast 2 åhr i bem:te Translatoris lifztijd uthan och sedan des död d. 20 Decemb. 1695 åter i 2 samfällte åhr förrättat Antiquitatum Translatoris tiänsten. Ty hemställes i Hans May:ttz höga Kongl. nåde at behiärtiga, det iag emot detta wärketz widelyftighet lärer til en liten hugnadt och understöd hafwa förtiänt förbemelte Translatoris löhn, som i desse tu framledne åhr sedan des död besparder och ännu innestående är, särdeles som iag ännu tänker med gudz hielp de fölliande dehlar af de Nordlandske Konungars Historier til Fädererneslandetz tiänst nu strax genom trycket continuera och det återstående sielf vertera til des en capabel Translator ifrån Issland ankommer» (R. A. Kanslikoll. Inkomna skrivelser sign. E IV. 8)."
+  },
+  {
+   "bbox": [
+    487,
+    1795,
+    535,
+    1824
+   ],
+   "category": "Page-footer",
+   "text": "22"
+  }
+ ]
+}

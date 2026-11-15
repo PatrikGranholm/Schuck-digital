@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 8,
+ "seconds": 26.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [322, 473, 1006, 515], \"category\": \"Section-header\", \"text\": \"DEN ÄLDRE PERINGSKIÖLDS TID.\"}, {\"bbox\": [134, 585, 1181, 1506], \"category\": \"Text\", \"text\": \"Genom det kungliga brevet av den 23 april 1692 hade antikvitetskollegiet förvandlats till ett antikvitetsarkiv. I sak betydde namnförändringen ej så mycket, och meningen var icke att skapa något nytt, utan snarast att sätta institutionen i stånd att bliva, vad det nu till Stockholm flyttade kollegiet från början varit avsett att bliva: en institution för svensk fornforskning. Kollegiets ställning i detta avseende hade ej varit fullt klar, och dess förhållande till antikvarieämbetet var ej bestämt. Detta senare hade tillkommit redan 1630, kollegiet hade stiftats 1666 och hade under den första tiden varit en antikvarisk akademi, som ej stått i någon organisk förbindelse med antikvarieämbetet. Därigenom att kollegiets ledande kraft, Hadorph, 1679 blivit antikvarie och kollegiet samtidigt upphört att verka såsom en akademi samt sjunkit ned i overksamhet, hade kollegiet i själva verket blivit blott ett namn på Hadorphs antikvarieämbete. Men det var ej nog med detta »samröre», ty 1676 hade Hadorph utnämnts till sekreterare i arkivet, som därigenom sprängts i två avdelningar, det egentliga arkivet, än kallat kansliarkivet, än riksarkivet, och antikvitetsarkivet, som omfattade arkivalier före Gustav Vasas tid. Hadorph var således dels antikvarie, dels arkivsekreterare, dels assessor i antikvitetskollegiet, och antikvitetskollegiet var i själva verket Hadorph i alla dessa tre funktioner, ty förhållandet mellan de olika platserna var, som sagt, ej reglerat.\"}, {\"bbox\": [134, 1500, 1169, 1752], \"category\": \"Text\", \"text\": \"Det var detta, som skedde genom det kungliga brevet av den 23 april, ehuru icke alldeles fullständigt. Antikvitetsarkivet blev därigenom en självständig avdelning inom Kungl. Maj:ts kansli, dess högste chef blev kanslipresidenten och chef under honom »en antiqvarius och sekreterare». Såsom dennes medhjälpare och underordnade uppfördes i staten två assessorer, en translator, två ama-\"}, {\"bbox\": [1209, 601, 1308, 634], \"category\": \"Text\", \"text\": \"Inledning\"}, {\"bbox\": [161, 1791, 249, 1814], \"category\": \"Page-footer\", \"text\": \"I-34672.\"}, {\"bbox\": [1146, 1794, 1163, 1821], \"category\": \"Page-footer\", \"text\": \"I\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    322,
+    473,
+    1006,
+    515
+   ],
+   "category": "Section-header",
+   "text": "DEN ÄLDRE PERINGSKIÖLDS TID."
+  },
+  {
+   "bbox": [
+    134,
+    585,
+    1181,
+    1506
+   ],
+   "category": "Text",
+   "text": "Genom det kungliga brevet av den 23 april 1692 hade antikvitetskollegiet förvandlats till ett antikvitetsarkiv. I sak betydde namnförändringen ej så mycket, och meningen var icke att skapa något nytt, utan snarast att sätta institutionen i stånd att bliva, vad det nu till Stockholm flyttade kollegiet från början varit avsett att bliva: en institution för svensk fornforskning. Kollegiets ställning i detta avseende hade ej varit fullt klar, och dess förhållande till antikvarieämbetet var ej bestämt. Detta senare hade tillkommit redan 1630, kollegiet hade stiftats 1666 och hade under den första tiden varit en antikvarisk akademi, som ej stått i någon organisk förbindelse med antikvarieämbetet. Därigenom att kollegiets ledande kraft, Hadorph, 1679 blivit antikvarie och kollegiet samtidigt upphört att verka såsom en akademi samt sjunkit ned i overksamhet, hade kollegiet i själva verket blivit blott ett namn på Hadorphs antikvarieämbete. Men det var ej nog med detta »samröre», ty 1676 hade Hadorph utnämnts till sekreterare i arkivet, som därigenom sprängts i två avdelningar, det egentliga arkivet, än kallat kansliarkivet, än riksarkivet, och antikvitetsarkivet, som omfattade arkivalier före Gustav Vasas tid. Hadorph var således dels antikvarie, dels arkivsekreterare, dels assessor i antikvitetskollegiet, och antikvitetskollegiet var i själva verket Hadorph i alla dessa tre funktioner, ty förhållandet mellan de olika platserna var, som sagt, ej reglerat."
+  },
+  {
+   "bbox": [
+    134,
+    1500,
+    1169,
+    1752
+   ],
+   "category": "Text",
+   "text": "Det var detta, som skedde genom det kungliga brevet av den 23 april, ehuru icke alldeles fullständigt. Antikvitetsarkivet blev därigenom en självständig avdelning inom Kungl. Maj:ts kansli, dess högste chef blev kanslipresidenten och chef under honom »en antiqvarius och sekreterare». Såsom dennes medhjälpare och underordnade uppfördes i staten två assessorer, en translator, två ama-"
+  },
+  {
+   "bbox": [
+    1209,
+    601,
+    1308,
+    634
+   ],
+   "category": "Text",
+   "text": "Inledning"
+  },
+  {
+   "bbox": [
+    161,
+    1791,
+    249,
+    1814
+   ],
+   "category": "Page-footer",
+   "text": "I-34672."
+  },
+  {
+   "bbox": [
+    1146,
+    1794,
+    1163,
+    1821
+   ],
+   "category": "Page-footer",
+   "text": "I"
+  }
+ ]
+}

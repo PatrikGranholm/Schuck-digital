@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 91,
+ "seconds": 35.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [828, 231, 1199, 267], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [495, 299, 1534, 392], \"category\": \"Text\", \"text\": \"Kongl. Antiquitets Archivi Exemplar, huru de hädaneffter åt för lindrigare prijs försällias kunna\"}, {\"bbox\": [495, 392, 1506, 1364], \"category\": \"Table\", \"text\": \"<table><thead><tr><th>nembl.</th><th></th><th>Exemplar</th><th>Dr.</th><th>Kmt.</th></tr></thead><tbody><tr><td>Sleidani Historia</td><td>på</td><td>Skrifpapper</td><td>1</td><td>à 5</td></tr><tr><td>D:o</td><td></td><td>Tryckpapper</td><td>1</td><td>- 3</td></tr><tr><td>De Veritate Relig. Phil. Mornæj</td><td></td><td>Skrifpapper</td><td>1</td><td>- 2.16</td></tr><tr><td>D:o</td><td></td><td>Tryckpapper</td><td>1</td><td>- 2.</td></tr><tr><td>Hervarar Saga</td><td></td><td>Skrifpapper</td><td>1</td><td>- 3.</td></tr><tr><td>Rimkrönikan med Föreningarne</td><td></td><td>Skrifpapper</td><td>1.</td><td>- 3</td></tr><tr><td>D:o</td><td></td><td>Tryckpapper</td><td>1</td><td>- 2.</td></tr><tr><td>Rolamb Observ. Juris</td><td></td><td>Skrifpapper</td><td>1</td><td>- 3.</td></tr><tr><td>D:o</td><td></td><td>Tryckpapper</td><td>1</td><td>- 2.</td></tr><tr><td>Ulfila</td><td></td><td>Skrifpapper</td><td>1.</td><td>- 4.16</td></tr><tr><td>Biörkö och Gotlandz lagen med</td><td></td><td>Tryckpapper</td><td>1</td><td>5.</td></tr><tr><td>Wijsby Siörätt.</td><td></td><td>Skrifpapper</td><td>1</td><td>3.</td></tr><tr><td>De Regno Christi Phil. Nikolaj</td><td></td><td>Skrifpapper</td><td>1.</td><td>1</td></tr><tr><td>D:o</td><td></td><td>Tryckpapper</td><td>1</td><td>24.</td></tr><tr><td>Leges Provinciales Joh. Loccenij</td><td></td><td>Skrifpapper</td><td>1.</td><td>3.</td></tr><tr><td>Schef. de Archiepiscopis</td><td></td><td>Skrifpapper</td><td>1.</td><td>24</td></tr><tr><td>De insign. R. Sweciæ</td><td></td><td>Skrifpapper</td><td>1.</td><td>3</td></tr><tr><td>D:o</td><td></td><td>Skrifpapper</td><td>1.</td><td>2</td></tr><tr><td>S. Ansgarij vita</td><td></td><td>Skrifpapper</td><td>1.</td><td>1.8</td></tr><tr><td>D:o</td><td></td><td>Tryckpapper</td><td>1.</td><td>1.</td></tr><tr><td>S. Erici Vita</td><td></td><td>Skrifpapper</td><td>1.</td><td>16</td></tr><tr><td>D:o</td><td></td><td>Tryckpapper</td><td>1.</td><td>12</td></tr><tr><td>Skånelagen</td><td></td><td>Skrifpapper</td><td>1.</td><td>1.16</td></tr><tr><td>Dalelagen</td><td></td><td>Tryckpapper</td><td>1</td><td></td></tr><tr><td>S. Olofs saga</td><td></td><td>Skrifpapper</td><td>1</td><td>16</td></tr><tr><td>Catalogus Librorum</td><td></td><td>Tryckpapper</td><td>1.</td><td>4.</td></tr></tbody></table>\"}, {\"bbox\": [508, 1379, 1549, 1552], \"category\": \"Text\", \"text\": \"Efter Kongl. May:tz allernådigste Resol. d. 3 Octob. 693 samt Kongl. Cantzlie Collegii befalning af d. 23 Apr. 694 blef denna Taxa till Kongl. Cantzlie Collegii wijdare approbation upsatter A:o 1695 d. 14 Decemb.\"}, {\"bbox\": [577, 1558, 1484, 1647], \"category\": \"Text\", \"text\": \"Jöran Bergenhielm Joh. Schmedeman\\nI. Corall Diderich Volckers Gotthard Volgenau.»\"}, {\"bbox\": [508, 1668, 1551, 1761], \"category\": \"Text\", \"text\": \"Likaså tyckes Peringskiöld ha öppnat en egen boklåda för försäljning av arkivets böcker. Om denna och dess efterföljare berättar\"}, {\"bbox\": [511, 1789, 559, 1828], \"category\": \"Page-footer\", \"text\": \"82\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    828,
+    231,
+    1199,
+    267
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    495,
+    299,
+    1534,
+    392
+   ],
+   "category": "Text",
+   "text": "Kongl. Antiquitets Archivi Exemplar, huru de hädaneffter åt för lindrigare prijs försällias kunna"
+  },
+  {
+   "bbox": [
+    495,
+    392,
+    1506,
+    1364
+   ],
+   "category": "Table",
+   "text": "<table><thead><tr><th>nembl.</th><th></th><th>Exemplar</th><th>Dr.</th><th>Kmt.</th></tr></thead><tbody><tr><td>Sleidani Historia</td><td>på</td><td>Skrifpapper</td><td>1</td><td>à 5</td></tr><tr><td>D:o</td><td></td><td>Tryckpapper</td><td>1</td><td>- 3</td></tr><tr><td>De Veritate Relig. Phil. Mornæj</td><td></td><td>Skrifpapper</td><td>1</td><td>- 2.16</td></tr><tr><td>D:o</td><td></td><td>Tryckpapper</td><td>1</td><td>- 2.</td></tr><tr><td>Hervarar Saga</td><td></td><td>Skrifpapper</td><td>1</td><td>- 3.</td></tr><tr><td>Rimkrönikan med Föreningarne</td><td></td><td>Skrifpapper</td><td>1.</td><td>- 3</td></tr><tr><td>D:o</td><td></td><td>Tryckpapper</td><td>1</td><td>- 2.</td></tr><tr><td>Rolamb Observ. Juris</td><td></td><td>Skrifpapper</td><td>1</td><td>- 3.</td></tr><tr><td>D:o</td><td></td><td>Tryckpapper</td><td>1</td><td>- 2.</td></tr><tr><td>Ulfila</td><td></td><td>Skrifpapper</td><td>1.</td><td>- 4.16</td></tr><tr><td>Biörkö och Gotlandz lagen med</td><td></td><td>Tryckpapper</td><td>1</td><td>5.</td></tr><tr><td>Wijsby Siörätt.</td><td></td><td>Skrifpapper</td><td>1</td><td>3.</td></tr><tr><td>De Regno Christi Phil. Nikolaj</td><td></td><td>Skrifpapper</td><td>1.</td><td>1</td></tr><tr><td>D:o</td><td></td><td>Tryckpapper</td><td>1</td><td>24.</td></tr><tr><td>Leges Provinciales Joh. Loccenij</td><td></td><td>Skrifpapper</td><td>1.</td><td>3.</td></tr><tr><td>Schef. de Archiepiscopis</td><td></td><td>Skrifpapper</td><td>1.</td><td>24</td></tr><tr><td>De insign. R. Sweciæ</td><td></td><td>Skrifpapper</td><td>1.</td><td>3</td></tr><tr><td>D:o</td><td></td><td>Skrifpapper</td><td>1.</td><td>2</td></tr><tr><td>S. Ansgarij vita</td><td></td><td>Skrifpapper</td><td>1.</td><td>1.8</td></tr><tr><td>D:o</td><td></td><td>Tryckpapper</td><td>1.</td><td>1.</td></tr><tr><td>S. Erici Vita</td><td></td><td>Skrifpapper</td><td>1.</td><td>16</td></tr><tr><td>D:o</td><td></td><td>Tryckpapper</td><td>1.</td><td>12</td></tr><tr><td>Skånelagen</td><td></td><td>Skrifpapper</td><td>1.</td><td>1.16</td></tr><tr><td>Dalelagen</td><td></td><td>Tryckpapper</td><td>1</td><td></td></tr><tr><td>S. Olofs saga</td><td></td><td>Skrifpapper</td><td>1</td><td>16</td></tr><tr><td>Catalogus Librorum</td><td></td><td>Tryckpapper</td><td>1.</td><td>4.</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    508,
+    1379,
+    1549,
+    1552
+   ],
+   "category": "Text",
+   "text": "Efter Kongl. May:tz allernådigste Resol. d. 3 Octob. 693 samt Kongl. Cantzlie Collegii befalning af d. 23 Apr. 694 blef denna Taxa till Kongl. Cantzlie Collegii wijdare approbation upsatter A:o 1695 d. 14 Decemb."
+  },
+  {
+   "bbox": [
+    577,
+    1558,
+    1484,
+    1647
+   ],
+   "category": "Text",
+   "text": "Jöran Bergenhielm Joh. Schmedeman\nI. Corall Diderich Volckers Gotthard Volgenau.»"
+  },
+  {
+   "bbox": [
+    508,
+    1668,
+    1551,
+    1761
+   ],
+   "category": "Text",
+   "text": "Likaså tyckes Peringskiöld ha öppnat en egen boklåda för försäljning av arkivets böcker. Om denna och dess efterföljare berättar"
+  },
+  {
+   "bbox": [
+    511,
+    1789,
+    559,
+    1828
+   ],
+   "category": "Page-footer",
+   "text": "82"
+  }
+ ]
+}

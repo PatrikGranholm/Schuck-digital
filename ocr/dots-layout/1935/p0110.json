@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 110,
+ "seconds": 30.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [382, 226, 894, 270], \"category\": \"Section-header\", \"text\": \"Den äldre Peringskiölds tid\"}, {\"bbox\": [111, 296, 1159, 956], \"category\": \"Text\", \"text\": \"bägge arkiven inrymda.¹ Den nedersta våningen i n:r 38 dispo-\\nnerades av krigs- och kommerskollegierna. I våningen över denna\\n(sign. K 2 i genomskärningsplanen)² hade de båda arkiven sina rum. Dessa\\nvoro ett större arbetsrum, som upplåtits åt kansliarkivet, och ett\\ninnanför liggande mindre, som var antikvitetsarkivets ämbetsrum\\nmed plats för tre à fyra personer. Dessutom fanns en »hvälfd\\nkammare i förstugan», som enligt ett kungabrev av 1688 uppläts\\ntill antikvitetsarkivet, men som enligt Bergh ännu 1692 begagna-\\ndes av exekutionskommissionen. Den tredje våningen (K 3) inne-\\nhades av kansliet, och över denna låg ännu en våning, i vilken\\nBalettsalen var inrymd. Bredvid 38 låg en långsträckt byggnad\\n(n:r 37), bestående av tre långa valv. I det nedre av dessa, »nedre\\nhvalfvet» (A 1), förvarades dels antikvitetsarkivets samlingar, dels\\nstora delar av kansliarkivets. »Öfre hvalfvet» (A 2) tyckes helt hava\\nupptagits av kansliarkivets acta, och det tredje valvet (A 3) begag-\\nnades av kansliet.\"}, {\"bbox\": [107, 963, 1154, 1380], \"category\": \"Text\", \"text\": \"Denna placering av arkivalierna hade en avgörande betydelse, då den stora vådelden utbröt den 7 maj 1697 mellan 2 och 3 på dagen. Den började på vinden till rikssalsbyggnaden (n:r 17), men spred sig med stor hastighet till de övriga delarna av slottet. Av dessa angrepos först taken och de närmast dem liggande våningarna, och vad räddningsarbetet beträffar, var detta naturligtvis lättast i jordvåningarna. Kansliarkivets handlingar i »öfvre hvalfvet» drabbades därför vida hårdare av olyckan än antikvitetsarkivets i »nedre hvalfvet». Redan dagen efter eldsvådan sammanträdde rådet i Karlbergs slott, och inför detta uppläste sekreteraren Åkerhielm en av\"}, {\"bbox\": [1162, 972, 1302, 1002], \"category\": \"Text\", \"text\": \"Slottsbranden\"}, {\"bbox\": [143, 1400, 944, 1435], \"category\": \"Footnote\", \"text\": \"¹ Se härom utförligt Severin Bergh: Svenska riksarkivet (1916) sid. 248 ff.\"}, {\"bbox\": [143, 1437, 559, 1469], \"category\": \"Footnote\", \"text\": \"² Genomskärning av kanslibyggnaden.\"}, {\"bbox\": [206, 1475, 898, 1743], \"category\": \"Table\", \"text\": \"<table><thead><tr><th></th><th>nr. 37</th><th>nr. 38</th><th></th></tr></thead><tbody><tr><td></td><td></td><td>Balettsalen m. m.</td><td>K. 4</td></tr><tr><td>A 3</td><td>Kansliet</td><td>Kansliet</td><td>K. 3</td></tr><tr><td>A 2</td><td>»Öfre hvalfvet»</td><td>De båda arkiven</td><td>K. 2</td></tr><tr><td>A 1</td><td>»Nedre hvalfvet»</td><td>Krigs- och kommerskollegium</td><td>K. 1</td></tr></tbody></table>\"}, {\"bbox\": [1077, 1794, 1143, 1822], \"category\": \"Page-footer\", \"text\": \"101\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    382,
+    226,
+    894,
+    270
+   ],
+   "category": "Section-header",
+   "text": "Den äldre Peringskiölds tid"
+  },
+  {
+   "bbox": [
+    111,
+    296,
+    1159,
+    956
+   ],
+   "category": "Text",
+   "text": "bägge arkiven inrymda.¹ Den nedersta våningen i n:r 38 dispo-\nnerades av krigs- och kommerskollegierna. I våningen över denna\n(sign. K 2 i genomskärningsplanen)² hade de båda arkiven sina rum. Dessa\nvoro ett större arbetsrum, som upplåtits åt kansliarkivet, och ett\ninnanför liggande mindre, som var antikvitetsarkivets ämbetsrum\nmed plats för tre à fyra personer. Dessutom fanns en »hvälfd\nkammare i förstugan», som enligt ett kungabrev av 1688 uppläts\ntill antikvitetsarkivet, men som enligt Bergh ännu 1692 begagna-\ndes av exekutionskommissionen. Den tredje våningen (K 3) inne-\nhades av kansliet, och över denna låg ännu en våning, i vilken\nBalettsalen var inrymd. Bredvid 38 låg en långsträckt byggnad\n(n:r 37), bestående av tre långa valv. I det nedre av dessa, »nedre\nhvalfvet» (A 1), förvarades dels antikvitetsarkivets samlingar, dels\nstora delar av kansliarkivets. »Öfre hvalfvet» (A 2) tyckes helt hava\nupptagits av kansliarkivets acta, och det tredje valvet (A 3) begag-\nnades av kansliet."
+  },
+  {
+   "bbox": [
+    107,
+    963,
+    1154,
+    1380
+   ],
+   "category": "Text",
+   "text": "Denna placering av arkivalierna hade en avgörande betydelse, då den stora vådelden utbröt den 7 maj 1697 mellan 2 och 3 på dagen. Den började på vinden till rikssalsbyggnaden (n:r 17), men spred sig med stor hastighet till de övriga delarna av slottet. Av dessa angrepos först taken och de närmast dem liggande våningarna, och vad räddningsarbetet beträffar, var detta naturligtvis lättast i jordvåningarna. Kansliarkivets handlingar i »öfvre hvalfvet» drabbades därför vida hårdare av olyckan än antikvitetsarkivets i »nedre hvalfvet». Redan dagen efter eldsvådan sammanträdde rådet i Karlbergs slott, och inför detta uppläste sekreteraren Åkerhielm en av"
+  },
+  {
+   "bbox": [
+    1162,
+    972,
+    1302,
+    1002
+   ],
+   "category": "Text",
+   "text": "Slottsbranden"
+  },
+  {
+   "bbox": [
+    143,
+    1400,
+    944,
+    1435
+   ],
+   "category": "Footnote",
+   "text": "¹ Se härom utförligt Severin Bergh: Svenska riksarkivet (1916) sid. 248 ff."
+  },
+  {
+   "bbox": [
+    143,
+    1437,
+    559,
+    1469
+   ],
+   "category": "Footnote",
+   "text": "² Genomskärning av kanslibyggnaden."
+  },
+  {
+   "bbox": [
+    206,
+    1475,
+    898,
+    1743
+   ],
+   "category": "Table",
+   "text": "<table><thead><tr><th></th><th>nr. 37</th><th>nr. 38</th><th></th></tr></thead><tbody><tr><td></td><td></td><td>Balettsalen m. m.</td><td>K. 4</td></tr><tr><td>A 3</td><td>Kansliet</td><td>Kansliet</td><td>K. 3</td></tr><tr><td>A 2</td><td>»Öfre hvalfvet»</td><td>De båda arkiven</td><td>K. 2</td></tr><tr><td>A 1</td><td>»Nedre hvalfvet»</td><td>Krigs- och kommerskollegium</td><td>K. 1</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    1077,
+    1794,
+    1143,
+    1822
+   ],
+   "category": "Page-footer",
+   "text": "101"
+  }
+ ]
+}

@@ -1,0 +1,142 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 75,
+ "seconds": 30.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [825, 229, 1197, 265], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [493, 300, 1534, 462], \"category\": \"Text\", \"text\": \"Sexennium, som framledne Widikindi upsatt; men Hr. Brenner Continuerar med Swenska myntens och Medaillernes aftagande och beskrifning, hopsökandes ochså de uthländska göthers mynt, som i en särskilt Tractat af honom beskrifne warda.\"}, {\"bbox\": [529, 467, 1337, 509], \"category\": \"Text\", \"text\": \"Translator Lingvæ Antiquæ är ännu ey ankommen.\"}, {\"bbox\": [493, 507, 1536, 674], \"category\": \"Text\", \"text\": \"Amanuensis Petter Stenhagen hafwer 1:0) afskrifwit Lunds Domkyrkias bref, som efter Kongl. Cantzlie Collegii befallning nedersändes til General Majoren Otto Wellingk 2:do) för Assessor Werwing renskrifwit Widikinds Sexennium til Gustavi Adolphi Historia.\"}, {\"bbox\": [493, 674, 1536, 883], \"category\": \"Text\", \"text\": \"Amanuensis Islandus Gudmund Gudmundsson hafwer collationerat afskriften med det äldre handskrefne exemplaret af Sturlæsons historia och verterat 68 gamla visor i Konung Olof Tryggvasons saga samt 105 wisor i Konung Oluf haraldssons den heligas saga och således förrättat den vacerande Translatoris tiänsten.\"}, {\"bbox\": [497, 882, 1539, 1216], \"category\": \"Text\", \"text\": \"Ritaren Thomas Holm hafwer stadigt warit sysselsatter med de kladdar och Ritningars aftagande och renritning, som efter handen i trä uthskäras; dessuthom reest med Secreteraren i hela maji månad samt uthi Julio och Augusto warit stadigt i Upsala, där han i Domkyrkian afritat en hop monumenter, grifter och Epitaphier; sedermera renritat några Kyrkiekladder och gamla Sigiller, med hwilkas continuation J. von Bergen sosom en extraordinarius också upwachtat hafwer.\"}, {\"bbox\": [501, 1213, 1539, 1339], \"category\": \"Text\", \"text\": \"Antiquariens Amanuensis von Börger hafwer afcopierat en dehl af de nedersände brefwen och dessuthom alt stadigt renskrifwit Latinske concepterna til Sturlæsons wärk, som gifwits på trycket.\"}, {\"bbox\": [501, 1338, 1543, 1547], \"category\": \"Text\", \"text\": \"Elias Salin, som åthniutit Kongl. May:tz allernådigste prolongation på sin extraordinarie tiänst wid Antiquitets wärket, hafwer continuerat och fullfölgt sit arbete med registrerande af Placaterne ifrån Konung Carl den 9:des tid til Konung Gustaf Adolphs regements tid, warandes der med kommen til åhr 1625.\"}, {\"bbox\": [605, 1557, 1408, 1640], \"category\": \"Text\", \"text\": \"hwilket uppå Kongl. Antiquitets Archivi wägnar\\ni underdånighet berättar\"}, {\"bbox\": [503, 1658, 817, 1700], \"category\": \"Text\", \"text\": \"Stockholm d. 7 Jan.\"}, {\"bbox\": [1175, 1655, 1475, 1700], \"category\": \"Text\", \"text\": \"Johan Peringskiöld\"}, {\"bbox\": [573, 1700, 1424, 1743], \"category\": \"Text\", \"text\": \"Anno 1697.» (R. A. Kanslikoll. Inkomna skrivelser sign. E IV. 8)\"}, {\"bbox\": [506, 1782, 556, 1820], \"category\": \"Page-footer\", \"text\": \"66\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    825,
+    229,
+    1197,
+    265
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    493,
+    300,
+    1534,
+    462
+   ],
+   "category": "Text",
+   "text": "Sexennium, som framledne Widikindi upsatt; men Hr. Brenner Continuerar med Swenska myntens och Medaillernes aftagande och beskrifning, hopsökandes ochså de uthländska göthers mynt, som i en särskilt Tractat af honom beskrifne warda."
+  },
+  {
+   "bbox": [
+    529,
+    467,
+    1337,
+    509
+   ],
+   "category": "Text",
+   "text": "Translator Lingvæ Antiquæ är ännu ey ankommen."
+  },
+  {
+   "bbox": [
+    493,
+    507,
+    1536,
+    674
+   ],
+   "category": "Text",
+   "text": "Amanuensis Petter Stenhagen hafwer 1:0) afskrifwit Lunds Domkyrkias bref, som efter Kongl. Cantzlie Collegii befallning nedersändes til General Majoren Otto Wellingk 2:do) för Assessor Werwing renskrifwit Widikinds Sexennium til Gustavi Adolphi Historia."
+  },
+  {
+   "bbox": [
+    493,
+    674,
+    1536,
+    883
+   ],
+   "category": "Text",
+   "text": "Amanuensis Islandus Gudmund Gudmundsson hafwer collationerat afskriften med det äldre handskrefne exemplaret af Sturlæsons historia och verterat 68 gamla visor i Konung Olof Tryggvasons saga samt 105 wisor i Konung Oluf haraldssons den heligas saga och således förrättat den vacerande Translatoris tiänsten."
+  },
+  {
+   "bbox": [
+    497,
+    882,
+    1539,
+    1216
+   ],
+   "category": "Text",
+   "text": "Ritaren Thomas Holm hafwer stadigt warit sysselsatter med de kladdar och Ritningars aftagande och renritning, som efter handen i trä uthskäras; dessuthom reest med Secreteraren i hela maji månad samt uthi Julio och Augusto warit stadigt i Upsala, där han i Domkyrkian afritat en hop monumenter, grifter och Epitaphier; sedermera renritat några Kyrkiekladder och gamla Sigiller, med hwilkas continuation J. von Bergen sosom en extraordinarius också upwachtat hafwer."
+  },
+  {
+   "bbox": [
+    501,
+    1213,
+    1539,
+    1339
+   ],
+   "category": "Text",
+   "text": "Antiquariens Amanuensis von Börger hafwer afcopierat en dehl af de nedersände brefwen och dessuthom alt stadigt renskrifwit Latinske concepterna til Sturlæsons wärk, som gifwits på trycket."
+  },
+  {
+   "bbox": [
+    501,
+    1338,
+    1543,
+    1547
+   ],
+   "category": "Text",
+   "text": "Elias Salin, som åthniutit Kongl. May:tz allernådigste prolongation på sin extraordinarie tiänst wid Antiquitets wärket, hafwer continuerat och fullfölgt sit arbete med registrerande af Placaterne ifrån Konung Carl den 9:des tid til Konung Gustaf Adolphs regements tid, warandes der med kommen til åhr 1625."
+  },
+  {
+   "bbox": [
+    605,
+    1557,
+    1408,
+    1640
+   ],
+   "category": "Text",
+   "text": "hwilket uppå Kongl. Antiquitets Archivi wägnar\ni underdånighet berättar"
+  },
+  {
+   "bbox": [
+    503,
+    1658,
+    817,
+    1700
+   ],
+   "category": "Text",
+   "text": "Stockholm d. 7 Jan."
+  },
+  {
+   "bbox": [
+    1175,
+    1655,
+    1475,
+    1700
+   ],
+   "category": "Text",
+   "text": "Johan Peringskiöld"
+  },
+  {
+   "bbox": [
+    573,
+    1700,
+    1424,
+    1743
+   ],
+   "category": "Text",
+   "text": "Anno 1697.» (R. A. Kanslikoll. Inkomna skrivelser sign. E IV. 8)"
+  },
+  {
+   "bbox": [
+    506,
+    1782,
+    556,
+    1820
+   ],
+   "category": "Page-footer",
+   "text": "66"
+  }
+ ]
+}

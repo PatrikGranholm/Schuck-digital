@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 177,
+ "seconds": 28.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [825, 232, 1197, 267], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [491, 303, 1534, 595], \"category\": \"Text\", \"text\": \"linge, Börje och andra närliggande socknar, »så stiga the til myckenheten wida öfwer tusende». Och vid kyrkan, prästgården och Myrby »hafwer jag tilsammans räknat något öfwer tre hundrade Åttehögar samt i gamla Vpsala storbyn wid pass 180 Hedniska gravbackar, förvtan the många som tid efter annan blifwit nedan för bemälte orter antingen til Åker vppkastade och förlagde eller genom förwetne Personer vpgräfne och beröfwade».\"}, {\"bbox\": [491, 595, 1534, 927], \"category\": \"Text\", \"text\": \"Därefter kommer han till »Gamla Upsala by». »Bystaden lärer förmodeligen hafwa warit tämeligen stor och med hus tätt bygder, at landsens inwånare och Herredagsmän, som fordom ankommit til Vpsala almänna Blod-Offer och Möten, kunnat thär lämpeligen hysas och herbergeras — — — Then gamle Bystaden är nu förlagder til tolf förmögne Cronogårdar af otta Öresland hwarthera, hwilke hwar och en i synnerhet gifwa til åhrlig ränta 28 daler 16 öre Sölfwer-Mynt.»\"}, {\"bbox\": [491, 927, 1534, 1127], \"category\": \"Text\", \"text\": \"Utom de nu nämnda ättebackarna är intet annat monument här bevarat, men »et litet stycke norr om byn på gärdet wid Samnan är något merkwärdigt at i achttaga», nämligen en ansenlig gammal runsten; en annan står på Hambringe gärde, en tredje vid Ekeby, vilka avbildas och tolkas.\"}, {\"bbox\": [491, 1133, 1534, 1548], \"category\": \"Text\", \"text\": \"Från Gamla Uppsala socken övergår han till Vaksala. Här, »på thet gamla än så kallade Tingsberget hafwer fordom warit vnder baran Himmel hållit Ting såsom i then nedersta Rätt. Här finnes ännu tre stora Stenar satte, thär wid Domare och Nämdemän sutit — — — Här på gamla Tingzberget och ofwan för then än så kallade Tingzkällan finnas också en hop Hedniska Åttegrifter, hwilka wår Christna Almoge af sielfswåld nu tijd efter annan sköfla och afskära, bortförandes jorden med the dödas been och aska til fylning på landzwägarne. O hwad omildt sköflande på the dödas grafwar, them the Hedniske doch skont.»\"}, {\"bbox\": [491, 1548, 1534, 1756], \"category\": \"Text\", \"text\": \"Huvudintresset ägnar han här naturligtvis åt kyrkan, som noggrant beskrives, två i kyrkan inmurade runstenar och alla likstenarna. Därefter uppräknas — med biografiska notiser — alla kyrkoherdarne och redogöres för tre i »bogårdsmuren» inmurade runstenar och alla — ett tiotal — för övrigt i socknen befintliga.\"}, {\"bbox\": [495, 1784, 568, 1823], \"category\": \"Page-footer\", \"text\": \"166\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    825,
+    232,
+    1197,
+    267
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    491,
+    303,
+    1534,
+    595
+   ],
+   "category": "Text",
+   "text": "linge, Börje och andra närliggande socknar, »så stiga the til myckenheten wida öfwer tusende». Och vid kyrkan, prästgården och Myrby »hafwer jag tilsammans räknat något öfwer tre hundrade Åttehögar samt i gamla Vpsala storbyn wid pass 180 Hedniska gravbackar, förvtan the många som tid efter annan blifwit nedan för bemälte orter antingen til Åker vppkastade och förlagde eller genom förwetne Personer vpgräfne och beröfwade»."
+  },
+  {
+   "bbox": [
+    491,
+    595,
+    1534,
+    927
+   ],
+   "category": "Text",
+   "text": "Därefter kommer han till »Gamla Upsala by». »Bystaden lärer förmodeligen hafwa warit tämeligen stor och med hus tätt bygder, at landsens inwånare och Herredagsmän, som fordom ankommit til Vpsala almänna Blod-Offer och Möten, kunnat thär lämpeligen hysas och herbergeras — — — Then gamle Bystaden är nu förlagder til tolf förmögne Cronogårdar af otta Öresland hwarthera, hwilke hwar och en i synnerhet gifwa til åhrlig ränta 28 daler 16 öre Sölfwer-Mynt.»"
+  },
+  {
+   "bbox": [
+    491,
+    927,
+    1534,
+    1127
+   ],
+   "category": "Text",
+   "text": "Utom de nu nämnda ättebackarna är intet annat monument här bevarat, men »et litet stycke norr om byn på gärdet wid Samnan är något merkwärdigt at i achttaga», nämligen en ansenlig gammal runsten; en annan står på Hambringe gärde, en tredje vid Ekeby, vilka avbildas och tolkas."
+  },
+  {
+   "bbox": [
+    491,
+    1133,
+    1534,
+    1548
+   ],
+   "category": "Text",
+   "text": "Från Gamla Uppsala socken övergår han till Vaksala. Här, »på thet gamla än så kallade Tingsberget hafwer fordom warit vnder baran Himmel hållit Ting såsom i then nedersta Rätt. Här finnes ännu tre stora Stenar satte, thär wid Domare och Nämdemän sutit — — — Här på gamla Tingzberget och ofwan för then än så kallade Tingzkällan finnas också en hop Hedniska Åttegrifter, hwilka wår Christna Almoge af sielfswåld nu tijd efter annan sköfla och afskära, bortförandes jorden med the dödas been och aska til fylning på landzwägarne. O hwad omildt sköflande på the dödas grafwar, them the Hedniske doch skont.»"
+  },
+  {
+   "bbox": [
+    491,
+    1548,
+    1534,
+    1756
+   ],
+   "category": "Text",
+   "text": "Huvudintresset ägnar han här naturligtvis åt kyrkan, som noggrant beskrives, två i kyrkan inmurade runstenar och alla likstenarna. Därefter uppräknas — med biografiska notiser — alla kyrkoherdarne och redogöres för tre i »bogårdsmuren» inmurade runstenar och alla — ett tiotal — för övrigt i socknen befintliga."
+  },
+  {
+   "bbox": [
+    495,
+    1784,
+    568,
+    1823
+   ],
+   "category": "Page-footer",
+   "text": "166"
+  }
+ ]
+}

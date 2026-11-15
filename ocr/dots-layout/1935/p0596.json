@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 596,
+ "seconds": 35.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [575, 227, 762, 262], \"category\": \"Section-header\", \"text\": \"Helins tid\"}, {\"bbox\": [137, 296, 1192, 1626], \"category\": \"Text\", \"text\": \"Den största bokauktionen under Helins tid var den efter överste Gyllengrip, över vars bibliotek en katalog trycktes redan 1736; auktionen hölls först året därpå.¹ Men den, som riktade uppmärksamheten på denna, var icke Helin, utan Gustaf Bonde: »Hans Excellence grefve Bonde berättade, att ibland framledne Öfwersten Gyllengrips efterlämnade Böcker och Manuscripter skola finnas åtskillige gamla och nyare originaler, som till äfwentyrs icke torde wara uti bägge archiverne, men förtiäna att där giömmas, förmente för den skull, att Secreteraren Helin och actuarien Stiernman igenom utdrag ur Protocollet anbefallas kunde att igenom wederbörande af Stärbhuset söka få tillgång till desse Böcker och Manuscripter, då de dem kunde igenomse samt författa och i Collegio ingifwa en förteckning på det, som de funno curieust och förtiäna förwaras uti archiverne. Hans Excellence grefwe Bondes proposition bifölls och Resolverades, att ett protocolls Extract härom upsättes och utfärdas» (Kanslikoll. prot. 18 aug. 1736). Vid kollegiets sammanträde den 7 september 1736 meddelade då Helin och Stiernman, att de hade »besedt de manuscripter och skrefne handlingar, som nu för tiden finnas uti framl. Gyllengrips Stärbhus och däribland utsökt och utmärkt dem, som man förment wara nödige och wärde af publico att inlösas och däraf författat en förteckning, som hosfölljande utwisar. Ibland den öfrige myckenheten af handskrefne handlingar kunde wäl ett och annat smått ännu wara, som förtiente att inlösas, men som sådane befunnits wara några få piecer med nyare hand skrefne och med en stor hop andra doubletter och andre mindre nödwändige ihopblandade och inbundne, har man tänkt lämna dem till den publique auctionen, då man will tillse antingen att få dem för något drägeligt pris eller betinga med dem, som sådana inlösa, att få taga deraf wissa afskrifter.» — — — »Som bland de tryckta Böckerne skola befinnas twänne helt rare, som är Vita S. Brynolphi och Linkiöpings Biskops Crönika, så torde dessa sidstnämde, då det kommer med wederbörande H:rar\"}, {\"bbox\": [1203, 306, 1324, 365], \"category\": \"Text\", \"text\": \"Gyllengrips\\nauktion\"}, {\"bbox\": [137, 1650, 1182, 1744], \"category\": \"Footnote\", \"text\": \"¹ Enligt katalogen skulle auktionen hållas den 25 februari 1737, men efter vad det vill synas blev den — åtminstone försäljningen av handskrifterna — i följd av underhandlingar med kanslikollegiet uppskjuten.\"}, {\"bbox\": [161, 1795, 266, 1821], \"category\": \"Page-footer\", \"text\": \"37—34672.\"}, {\"bbox\": [1104, 1793, 1174, 1831], \"category\": \"Page-footer\", \"text\": \"577\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    575,
+    227,
+    762,
+    262
+   ],
+   "category": "Section-header",
+   "text": "Helins tid"
+  },
+  {
+   "bbox": [
+    137,
+    296,
+    1192,
+    1626
+   ],
+   "category": "Text",
+   "text": "Den största bokauktionen under Helins tid var den efter överste Gyllengrip, över vars bibliotek en katalog trycktes redan 1736; auktionen hölls först året därpå.¹ Men den, som riktade uppmärksamheten på denna, var icke Helin, utan Gustaf Bonde: »Hans Excellence grefve Bonde berättade, att ibland framledne Öfwersten Gyllengrips efterlämnade Böcker och Manuscripter skola finnas åtskillige gamla och nyare originaler, som till äfwentyrs icke torde wara uti bägge archiverne, men förtiäna att där giömmas, förmente för den skull, att Secreteraren Helin och actuarien Stiernman igenom utdrag ur Protocollet anbefallas kunde att igenom wederbörande af Stärbhuset söka få tillgång till desse Böcker och Manuscripter, då de dem kunde igenomse samt författa och i Collegio ingifwa en förteckning på det, som de funno curieust och förtiäna förwaras uti archiverne. Hans Excellence grefwe Bondes proposition bifölls och Resolverades, att ett protocolls Extract härom upsättes och utfärdas» (Kanslikoll. prot. 18 aug. 1736). Vid kollegiets sammanträde den 7 september 1736 meddelade då Helin och Stiernman, att de hade »besedt de manuscripter och skrefne handlingar, som nu för tiden finnas uti framl. Gyllengrips Stärbhus och däribland utsökt och utmärkt dem, som man förment wara nödige och wärde af publico att inlösas och däraf författat en förteckning, som hosfölljande utwisar. Ibland den öfrige myckenheten af handskrefne handlingar kunde wäl ett och annat smått ännu wara, som förtiente att inlösas, men som sådane befunnits wara några få piecer med nyare hand skrefne och med en stor hop andra doubletter och andre mindre nödwändige ihopblandade och inbundne, har man tänkt lämna dem till den publique auctionen, då man will tillse antingen att få dem för något drägeligt pris eller betinga med dem, som sådana inlösa, att få taga deraf wissa afskrifter.» — — — »Som bland de tryckta Böckerne skola befinnas twänne helt rare, som är Vita S. Brynolphi och Linkiöpings Biskops Crönika, så torde dessa sidstnämde, då det kommer med wederbörande H:rar"
+  },
+  {
+   "bbox": [
+    1203,
+    306,
+    1324,
+    365
+   ],
+   "category": "Text",
+   "text": "Gyllengrips\nauktion"
+  },
+  {
+   "bbox": [
+    137,
+    1650,
+    1182,
+    1744
+   ],
+   "category": "Footnote",
+   "text": "¹ Enligt katalogen skulle auktionen hållas den 25 februari 1737, men efter vad det vill synas blev den — åtminstone försäljningen av handskrifterna — i följd av underhandlingar med kanslikollegiet uppskjuten."
+  },
+  {
+   "bbox": [
+    161,
+    1795,
+    266,
+    1821
+   ],
+   "category": "Page-footer",
+   "text": "37—34672."
+  },
+  {
+   "bbox": [
+    1104,
+    1793,
+    1174,
+    1831
+   ],
+   "category": "Page-footer",
+   "text": "577"
+  }
+ ]
+}

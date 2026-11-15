@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 611,
+ "seconds": 28.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [783, 227, 1159, 262], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [445, 296, 1497, 839], \"category\": \"Text\", \"text\": \"i Lärda Tidningar för 1754 lämnade en redogörelse för innehållet i de olika kapitlen. Om värdet av detta arbete ger Warmholtz (n:r 610) en kort, men mycket saftig kritik: »Lycka var, at Döden ryckte pennan ur handen på Författaren, eljest hade Kronan blifvit belastad med ännu mera Maculatur». Detta är nog riktigt, men kanske väl strängt. De vackra kopparsticken hava ett visst värde, och även om de antikvariska notiserna både äro få och nedskrivna av en man, som saknade alla förutsättningar för ett antikvariskt författarskap, förefalla han uppgifter om det samtida Halland äga ett visst intresse, ty för jordbruk, ekonomi, handel och dylikt ägde han såsom Linnés samtida vida större intresse än för fornminnen. Hans Hallandia är därför en ortbeskrivning mera i 1700-talets än i den karolinska tidens stil, visserligen också såsom sådan ganska klen.\"}, {\"bbox\": [443, 838, 1494, 1544], \"category\": \"Text\", \"text\": \"För de arkeologiska fynden — om man undantager mynten — voro Helin och hans kolleger måttligt intresserade, och några studier i den riktningen drevo de veterligen icke. Men även här utgjorde Biörner ett undantag, och det enda arbete, som häri utgavs av arkivet, var hans Nordisk Hjälta Prydnad af Gullringar, en med många avbildningar av de gjorda fynden försedd avhandling, som onekligen för sin tid var ett ganska gott specimen. Andra arkeologiska skrifter, som han författat, förblevo liggande i manuskript. I början av 1730 inskickade han till Bonde en förteckning på sina skrifter (Säfstaholmsamlingen n:r 119 [55]), där han först uppräknar de sagor, som han uttolkat och ur vilka han gjort utdrag, men som slutar med »Färdige skrifter til trycks», bland vilka han upptager en av arkeologiskt innehåll: Sepultura veterum Sveo-Gothorum i 12 ark. En annan bibliografi, som han 1741 inlämnade till Sekreta utskottet, upptager också några arkeologiska skrifter: »Underteknad har förutan fem redan tryckta skrifter äfwen fölgjande til trycks förfärdigat:\"}, {\"bbox\": [441, 1542, 1490, 1745], \"category\": \"Text\", \"text\": \"1) Specimen Historiæ Criticæ Scriptorum Septemtrionalium däri Sturlessons Edda och Heims Kringla, Erici Olavi, Johannis och Olavi Magnorum samt Messenii Historiæ Suio-Gothicæ warda til deras grund, särdeles äldre Kongatahl pragmatice undersökte och förklarade.\"}, {\"bbox\": [305, 844, 439, 906], \"category\": \"Text\", \"text\": \"Arkeologiska skrifter\"}, {\"bbox\": [445, 1789, 520, 1836], \"category\": \"Page-footer\", \"text\": \"592\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    783,
+    227,
+    1159,
+    262
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    445,
+    296,
+    1497,
+    839
+   ],
+   "category": "Text",
+   "text": "i Lärda Tidningar för 1754 lämnade en redogörelse för innehållet i de olika kapitlen. Om värdet av detta arbete ger Warmholtz (n:r 610) en kort, men mycket saftig kritik: »Lycka var, at Döden ryckte pennan ur handen på Författaren, eljest hade Kronan blifvit belastad med ännu mera Maculatur». Detta är nog riktigt, men kanske väl strängt. De vackra kopparsticken hava ett visst värde, och även om de antikvariska notiserna både äro få och nedskrivna av en man, som saknade alla förutsättningar för ett antikvariskt författarskap, förefalla han uppgifter om det samtida Halland äga ett visst intresse, ty för jordbruk, ekonomi, handel och dylikt ägde han såsom Linnés samtida vida större intresse än för fornminnen. Hans Hallandia är därför en ortbeskrivning mera i 1700-talets än i den karolinska tidens stil, visserligen också såsom sådan ganska klen."
+  },
+  {
+   "bbox": [
+    443,
+    838,
+    1494,
+    1544
+   ],
+   "category": "Text",
+   "text": "För de arkeologiska fynden — om man undantager mynten — voro Helin och hans kolleger måttligt intresserade, och några studier i den riktningen drevo de veterligen icke. Men även här utgjorde Biörner ett undantag, och det enda arbete, som häri utgavs av arkivet, var hans Nordisk Hjälta Prydnad af Gullringar, en med många avbildningar av de gjorda fynden försedd avhandling, som onekligen för sin tid var ett ganska gott specimen. Andra arkeologiska skrifter, som han författat, förblevo liggande i manuskript. I början av 1730 inskickade han till Bonde en förteckning på sina skrifter (Säfstaholmsamlingen n:r 119 [55]), där han först uppräknar de sagor, som han uttolkat och ur vilka han gjort utdrag, men som slutar med »Färdige skrifter til trycks», bland vilka han upptager en av arkeologiskt innehåll: Sepultura veterum Sveo-Gothorum i 12 ark. En annan bibliografi, som han 1741 inlämnade till Sekreta utskottet, upptager också några arkeologiska skrifter: »Underteknad har förutan fem redan tryckta skrifter äfwen fölgjande til trycks förfärdigat:"
+  },
+  {
+   "bbox": [
+    441,
+    1542,
+    1490,
+    1745
+   ],
+   "category": "Text",
+   "text": "1) Specimen Historiæ Criticæ Scriptorum Septemtrionalium däri Sturlessons Edda och Heims Kringla, Erici Olavi, Johannis och Olavi Magnorum samt Messenii Historiæ Suio-Gothicæ warda til deras grund, särdeles äldre Kongatahl pragmatice undersökte och förklarade."
+  },
+  {
+   "bbox": [
+    305,
+    844,
+    439,
+    906
+   ],
+   "category": "Text",
+   "text": "Arkeologiska skrifter"
+  },
+  {
+   "bbox": [
+    445,
+    1789,
+    520,
+    1836
+   ],
+   "category": "Page-footer",
+   "text": "592"
+  }
+ ]
+}

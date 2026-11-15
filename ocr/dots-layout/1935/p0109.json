@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 109,
+ "seconds": 29.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [821, 234, 1194, 270], \"category\": \"Section-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [485, 304, 1529, 475], \"category\": \"Text\", \"text\": \"och Closterbrefwen sampt andre Documenter, som der i stoor myckenheet qwarlegat, alt sedan Antiquitets Collegium hijt transporterades, hafwer Cantzliebookhållaren Hr. Peder Christersson lefwererat der till Resepenningar af förledne åhrs Besparing, nembl.\"}, {\"bbox\": [487, 479, 1524, 702], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>Till en Giästgifwarehäst för migh ifrån Stockholm till Upsala</td><td>Dr. 6.22</td></tr><tr><td>Item till en häst för mig tillbakars från Upsala till Stockholm</td><td>6.6.</td></tr><tr><td>Sampt till 2 par hästar för twenne skrindor att hijtföra bem:te Documenter</td><td>24.24</td></tr><tr><td>Noch till Bräfoder och andre små Expenser</td><td>12.</td></tr><tr><td></td><td>D. 49.20</td></tr></tbody></table>\"}, {\"bbox\": [558, 713, 1529, 802], \"category\": \"Text\", \"text\": \"Hwilka fyratijo och Nije dal. 20 öre koppm:t här medh wederbörligen quitteras. Stockholm d. 19 Januarii 1694.»\"}, {\"bbox\": [490, 819, 1531, 908], \"category\": \"Text\", \"text\": \"Allt kom emellertid då ej med, och den 12 februari 1694 inlämnade Peringskiöld en ny räkning:\"}, {\"bbox\": [492, 908, 1533, 1125], \"category\": \"Text\", \"text\": \"»Såsom wed de andra Antiquitets handlingarnes hijtförande från Upsala qwarlemnades ett stoort skåp, fult med åthskillige skrifter och gambla askar, hwilka en Bonde nu sedermehra hijtfört; altså wille Hr. Bookhållaren till dess foorlöhn lefwerera sex dahler kopparmynt. Stockholm d. 12 Febr. 1694.»\"}, {\"bbox\": [342, 1149, 484, 1212], \"category\": \"Text\", \"text\": \"Arkivrummen på slottet\"}, {\"bbox\": [492, 1134, 1536, 1763], \"category\": \"Text\", \"text\": \"Därmed hade även denna samling införlivats med antikvitetsarkivets övriga — tack vare Leijonmarcks ingripande. En annan följd av detta var det inventarium, som nu upprättades över antikvitetsarkivets »böcker, skrifter och saker». Till att verkställa denna inventering förordnades den 15 september 1693 av kanslikollegiet (kanslikoll. registratur) Peringer, Leijonmarck, kanslisekreteraren Bergenhielm och Schmedeman med biträde av den yngste Hadorph. Inventariet, som finnes i Kungl. biblioteket, är, ur vår tids synpunkt, mycket bristfälligt, då titlarna äro ytterst ofullständiga. Men de giva oss dock någon ledning för identifieringen och det hjälper oss att bestämma förlusterna vid slottsbranden. Även giva de oss en antydan om uppställningen. För att förstå denna, är det emellertid nödvändigt att erinra sig lokalförhållandena i slottet, och i det syftet har förut, II, sid. 99, meddelats en plankarta över slottet. I de byggnader, som betecknas med numren 37 och 38 voro de\"}, {\"bbox\": [502, 1800, 574, 1829], \"category\": \"Page-footer\", \"text\": \"100\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    821,
+    234,
+    1194,
+    270
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    485,
+    304,
+    1529,
+    475
+   ],
+   "category": "Text",
+   "text": "och Closterbrefwen sampt andre Documenter, som der i stoor myckenheet qwarlegat, alt sedan Antiquitets Collegium hijt transporterades, hafwer Cantzliebookhållaren Hr. Peder Christersson lefwererat der till Resepenningar af förledne åhrs Besparing, nembl."
+  },
+  {
+   "bbox": [
+    487,
+    479,
+    1524,
+    702
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>Till en Giästgifwarehäst för migh ifrån Stockholm till Upsala</td><td>Dr. 6.22</td></tr><tr><td>Item till en häst för mig tillbakars från Upsala till Stockholm</td><td>6.6.</td></tr><tr><td>Sampt till 2 par hästar för twenne skrindor att hijtföra bem:te Documenter</td><td>24.24</td></tr><tr><td>Noch till Bräfoder och andre små Expenser</td><td>12.</td></tr><tr><td></td><td>D. 49.20</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    558,
+    713,
+    1529,
+    802
+   ],
+   "category": "Text",
+   "text": "Hwilka fyratijo och Nije dal. 20 öre koppm:t här medh wederbörligen quitteras. Stockholm d. 19 Januarii 1694.»"
+  },
+  {
+   "bbox": [
+    490,
+    819,
+    1531,
+    908
+   ],
+   "category": "Text",
+   "text": "Allt kom emellertid då ej med, och den 12 februari 1694 inlämnade Peringskiöld en ny räkning:"
+  },
+  {
+   "bbox": [
+    492,
+    908,
+    1533,
+    1125
+   ],
+   "category": "Text",
+   "text": "»Såsom wed de andra Antiquitets handlingarnes hijtförande från Upsala qwarlemnades ett stoort skåp, fult med åthskillige skrifter och gambla askar, hwilka en Bonde nu sedermehra hijtfört; altså wille Hr. Bookhållaren till dess foorlöhn lefwerera sex dahler kopparmynt. Stockholm d. 12 Febr. 1694.»"
+  },
+  {
+   "bbox": [
+    342,
+    1149,
+    484,
+    1212
+   ],
+   "category": "Text",
+   "text": "Arkivrummen på slottet"
+  },
+  {
+   "bbox": [
+    492,
+    1134,
+    1536,
+    1763
+   ],
+   "category": "Text",
+   "text": "Därmed hade även denna samling införlivats med antikvitetsarkivets övriga — tack vare Leijonmarcks ingripande. En annan följd av detta var det inventarium, som nu upprättades över antikvitetsarkivets »böcker, skrifter och saker». Till att verkställa denna inventering förordnades den 15 september 1693 av kanslikollegiet (kanslikoll. registratur) Peringer, Leijonmarck, kanslisekreteraren Bergenhielm och Schmedeman med biträde av den yngste Hadorph. Inventariet, som finnes i Kungl. biblioteket, är, ur vår tids synpunkt, mycket bristfälligt, då titlarna äro ytterst ofullständiga. Men de giva oss dock någon ledning för identifieringen och det hjälper oss att bestämma förlusterna vid slottsbranden. Även giva de oss en antydan om uppställningen. För att förstå denna, är det emellertid nödvändigt att erinra sig lokalförhållandena i slottet, och i det syftet har förut, II, sid. 99, meddelats en plankarta över slottet. I de byggnader, som betecknas med numren 37 och 38 voro de"
+  },
+  {
+   "bbox": [
+    502,
+    1800,
+    574,
+    1829
+   ],
+   "category": "Page-footer",
+   "text": "100"
+  }
+ ]
+}

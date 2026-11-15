@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 150,
+ "seconds": 31.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [390, 226, 903, 270], \"category\": \"Section-header\", \"text\": \"Den äldre Peringskiölds tid\"}, {\"bbox\": [122, 297, 1163, 465], \"category\": \"Text\", \"text\": \"Skål; här kokas och siudes, Oden wyrdas, Thor blotas, Frey åkallas och Freya älskas, med många andra hiälp-löse Skurgudar, hwilka med Oxe och Menniskio kött spisas, ja alla Gudarnas skålar och offerbullar fyllas.»\"}, {\"bbox\": [115, 465, 1163, 1505], \"category\": \"Text\", \"text\": \"Samtidigt som han var sysselsatt med Heimskringla, arbetade han på en upplaga av Vilkinasagan, för vars föregående historia redan (III, sid. 45—60) redogjorts. Ockå här gjorde han föga mer än översatte texten på latin. I ett memorial av den 20 december 1698 uppgiver han, att han »förfärdigat en stor dehl af Latinska versionen til Wilkina Sagan, — — — hwar af allareda twenne alphabet uplagde äre, som bifogade prof uthwisar» (R. A. Handl. ang. antikvitetskoll. I). Detsamma upprepar han i det i januari 1699 skrivna företalet till Vita Theodorici, där han uppräknar de arbeten, som han utgivit, Hialmars saga, som ännu »sub prelo sudat», Sturluson, »itemque Historia Vilkini, vulgo dicta Theodorici Veronensis Regis, cujus ultra duo jam excusa sunt alphabeta, testis erit non supervacanei laboris». Då voro således två alfabet tryckta. 1703 förelåg enligt hans uppgift det hela färdigt, ty i memorialet den 28 november detta år (R. A. Biografica. Peringskiöld) upptages arbetet såsom redan tryckt:¹ »Wilkina Sagan eller Historien om Kong Thidrek af Bern och Niflungerne, innehållandes Göthernas bedrifter i Ryssland, Polen, Italien, Burgundien och Spanien på gamla språket med en svensk och latinisk vthtydning, en foliant af 6 Abc».² Att arbetet enligt Peringskiölds egen uppgift var färdigt redan 1703, kan således ej förnekas. Men det är ganska säkert, att det då ej blev utgivet. I det 1707 utgivna häftet av van der Hardts Holmia literata uppgives om Vilkinasagan: »edi capta [= cœpta] est in Fol». Varpå dröjsmålet kan hava berott, är svårt att säga, möjligen därpå att han tänkte bifoga några addenda och noter, som ej blevo färdiga; nu\"}, {\"bbox\": [1171, 473, 1307, 505], \"category\": \"Text\", \"text\": \"Vilkinasagan\"}, {\"bbox\": [112, 1514, 1157, 1664], \"category\": \"Footnote\", \"text\": \"¹ Förut hade i den katalog, han där ger på sina arbeten, upptagits Heimskringla, som kom ut 1697 och 1700, Vita Theodorici, som hade tryckts 1699, och efter Vilkinasagan uppföres Hialmars saga, som trycktes 1701, och Messenius' Scondia, vars första del kommit ut 1700. Om den andra delen, som trycktes 1703—1705, skriver han, att den »har jag ännu på trycket vti särskilda tomer och lära de iemwäl stiga til en stor foliant».\"}, {\"bbox\": [112, 1664, 1157, 1756], \"category\": \"Footnote\", \"text\": \"² Antingen är detta en felskrivning, ty boken innehåller blott något över tre alfabet, eller ock har Peringskiöld räknat alfabetet på ett annat sätt. Den sista arksignaturen i boken är Bbbb. Enligt hans ovan citerade uppgift var i varje fall en tredjedel av boken färdig 1698.\"}, {\"bbox\": [1081, 1794, 1147, 1831], \"category\": \"Page-footer\", \"text\": \"141\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    390,
+    226,
+    903,
+    270
+   ],
+   "category": "Section-header",
+   "text": "Den äldre Peringskiölds tid"
+  },
+  {
+   "bbox": [
+    122,
+    297,
+    1163,
+    465
+   ],
+   "category": "Text",
+   "text": "Skål; här kokas och siudes, Oden wyrdas, Thor blotas, Frey åkallas och Freya älskas, med många andra hiälp-löse Skurgudar, hwilka med Oxe och Menniskio kött spisas, ja alla Gudarnas skålar och offerbullar fyllas.»"
+  },
+  {
+   "bbox": [
+    115,
+    465,
+    1163,
+    1505
+   ],
+   "category": "Text",
+   "text": "Samtidigt som han var sysselsatt med Heimskringla, arbetade han på en upplaga av Vilkinasagan, för vars föregående historia redan (III, sid. 45—60) redogjorts. Ockå här gjorde han föga mer än översatte texten på latin. I ett memorial av den 20 december 1698 uppgiver han, att han »förfärdigat en stor dehl af Latinska versionen til Wilkina Sagan, — — — hwar af allareda twenne alphabet uplagde äre, som bifogade prof uthwisar» (R. A. Handl. ang. antikvitetskoll. I). Detsamma upprepar han i det i januari 1699 skrivna företalet till Vita Theodorici, där han uppräknar de arbeten, som han utgivit, Hialmars saga, som ännu »sub prelo sudat», Sturluson, »itemque Historia Vilkini, vulgo dicta Theodorici Veronensis Regis, cujus ultra duo jam excusa sunt alphabeta, testis erit non supervacanei laboris». Då voro således två alfabet tryckta. 1703 förelåg enligt hans uppgift det hela färdigt, ty i memorialet den 28 november detta år (R. A. Biografica. Peringskiöld) upptages arbetet såsom redan tryckt:¹ »Wilkina Sagan eller Historien om Kong Thidrek af Bern och Niflungerne, innehållandes Göthernas bedrifter i Ryssland, Polen, Italien, Burgundien och Spanien på gamla språket med en svensk och latinisk vthtydning, en foliant af 6 Abc».² Att arbetet enligt Peringskiölds egen uppgift var färdigt redan 1703, kan således ej förnekas. Men det är ganska säkert, att det då ej blev utgivet. I det 1707 utgivna häftet av van der Hardts Holmia literata uppgives om Vilkinasagan: »edi capta [= cœpta] est in Fol». Varpå dröjsmålet kan hava berott, är svårt att säga, möjligen därpå att han tänkte bifoga några addenda och noter, som ej blevo färdiga; nu"
+  },
+  {
+   "bbox": [
+    1171,
+    473,
+    1307,
+    505
+   ],
+   "category": "Text",
+   "text": "Vilkinasagan"
+  },
+  {
+   "bbox": [
+    112,
+    1514,
+    1157,
+    1664
+   ],
+   "category": "Footnote",
+   "text": "¹ Förut hade i den katalog, han där ger på sina arbeten, upptagits Heimskringla, som kom ut 1697 och 1700, Vita Theodorici, som hade tryckts 1699, och efter Vilkinasagan uppföres Hialmars saga, som trycktes 1701, och Messenius' Scondia, vars första del kommit ut 1700. Om den andra delen, som trycktes 1703—1705, skriver han, att den »har jag ännu på trycket vti särskilda tomer och lära de iemwäl stiga til en stor foliant»."
+  },
+  {
+   "bbox": [
+    112,
+    1664,
+    1157,
+    1756
+   ],
+   "category": "Footnote",
+   "text": "² Antingen är detta en felskrivning, ty boken innehåller blott något över tre alfabet, eller ock har Peringskiöld räknat alfabetet på ett annat sätt. Den sista arksignaturen i boken är Bbbb. Enligt hans ovan citerade uppgift var i varje fall en tredjedel av boken färdig 1698."
+  },
+  {
+   "bbox": [
+    1081,
+    1794,
+    1147,
+    1831
+   ],
+   "category": "Page-footer",
+   "text": "141"
+  }
+ ]
+}

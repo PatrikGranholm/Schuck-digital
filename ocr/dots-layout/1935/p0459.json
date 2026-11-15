@@ -1,0 +1,172 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 459,
+ "seconds": 31.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [817, 233, 1188, 269], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [485, 302, 1519, 386], \"category\": \"Text\", \"text\": \"11) En stilus att skrifwa och planera med, funnen i en ättebacke wid Widskiöfle herregård\"}, {\"bbox\": [485, 387, 1519, 471], \"category\": \"Text\", \"text\": \"12) 2:ne stora messingsringar, som kunna öpnas, fundne i en torfgraf för några år sedan wid södra Hwedinge i Harjager härad.\"}, {\"bbox\": [485, 470, 1519, 552], \"category\": \"Text\", \"text\": \"13) En metal ring, funnen i en ättebacke wid wästra Karleby i Harjagers härad.\"}, {\"bbox\": [523, 552, 1438, 595], \"category\": \"Text\", \"text\": \"14) En metal knif, funnen i en ättebacke ey långt från åhus.\"}, {\"bbox\": [485, 595, 1519, 671], \"category\": \"Text\", \"text\": \"15) En gammalmodig nyckel af metal, funnen i en ättebacke wid Ölsiö straxt wid Christianstad.\"}, {\"bbox\": [523, 676, 1480, 716], \"category\": \"Text\", \"text\": \"16) En Dito funnen i en ättebacka wid Annelöf i Onsiö härad.\"}, {\"bbox\": [523, 718, 1096, 760], \"category\": \"Text\", \"text\": \"17) Ett af horn giordt drickes kärl.\"}, {\"bbox\": [523, 760, 1110, 802], \"category\": \"Text\", \"text\": \"18) En i Skåne fordom bruklig sko.\"}, {\"bbox\": [523, 802, 1156, 844], \"category\": \"Text\", \"text\": \"19) Ett kopparmynt med vespasiani bild.\"}, {\"bbox\": [485, 844, 1519, 1002], \"category\": \"Text\", \"text\": \"20) Ett ÄrkieBiskops mynt af Lund med konungens å den ena och ÄrkieBiskopens bild å den andra sidan, af silfwer, hwaröfwer archiater Stobæus skrifwit i sin dissertation de nummis et sigillis Lundensibus.»\"}, {\"bbox\": [485, 1009, 1519, 1291], \"category\": \"Text\", \"text\": \"Dessa saker — heter det i protokollet — »besågos och sedan skickades efter Cancellisten Hagelberg, som dem mottog».¹ Men någon ersättning för dessa antikviteter ansåg man sig tydligen ej skyldig att giva Wessman, och räkenskaperna innehålla intet om någon utbetalning till honom. Belöningen kom först långt efteråt, då han 1750 utnämndes till translator, ehuru visserligen till en början utan lön.\"}, {\"bbox\": [329, 1301, 473, 1357], \"category\": \"Text\", \"text\": \"Vetenskapliga remisser\"}, {\"bbox\": [481, 1299, 1519, 1716], \"category\": \"Text\", \"text\": \"Resorna, som på Hadorphs och Peringskiölds tid varit antikvitetsarkivets huvuduppgift, lågo således under Helins, praktiskt taget, nere. Med några remisser i vetenskapliga frågor blev arkivet också mycket sällan besvärat. De få, som fordrade något vetenskapligt svar, äro ej flere än att de här kunna anföras. I ett memorial, ingivet till 1734 års riksdag, hade översten friherre Conrad Sparre överklagat en dom, som fällts av kvarnkommissionen och vilken dom stödde sig på Helgeandsbeslutet 1282 — som bekant en förfalskning från Johan III:s tid. Av Cammar Œconomie- och Commerce-deputationen remitterades frågan om Helgeandsbeslutets äkthet till kanslikollegiet,\"}, {\"bbox\": [514, 1725, 937, 1759], \"category\": \"Footnote\", \"text\": \"¹ Specifikationen är bilagd protokollet.\"}, {\"bbox\": [481, 1793, 558, 1831], \"category\": \"Page-footer\", \"text\": \"440\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    817,
+    233,
+    1188,
+    269
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    485,
+    302,
+    1519,
+    386
+   ],
+   "category": "Text",
+   "text": "11) En stilus att skrifwa och planera med, funnen i en ättebacke wid Widskiöfle herregård"
+  },
+  {
+   "bbox": [
+    485,
+    387,
+    1519,
+    471
+   ],
+   "category": "Text",
+   "text": "12) 2:ne stora messingsringar, som kunna öpnas, fundne i en torfgraf för några år sedan wid södra Hwedinge i Harjager härad."
+  },
+  {
+   "bbox": [
+    485,
+    470,
+    1519,
+    552
+   ],
+   "category": "Text",
+   "text": "13) En metal ring, funnen i en ättebacke wid wästra Karleby i Harjagers härad."
+  },
+  {
+   "bbox": [
+    523,
+    552,
+    1438,
+    595
+   ],
+   "category": "Text",
+   "text": "14) En metal knif, funnen i en ättebacke ey långt från åhus."
+  },
+  {
+   "bbox": [
+    485,
+    595,
+    1519,
+    671
+   ],
+   "category": "Text",
+   "text": "15) En gammalmodig nyckel af metal, funnen i en ättebacke wid Ölsiö straxt wid Christianstad."
+  },
+  {
+   "bbox": [
+    523,
+    676,
+    1480,
+    716
+   ],
+   "category": "Text",
+   "text": "16) En Dito funnen i en ättebacka wid Annelöf i Onsiö härad."
+  },
+  {
+   "bbox": [
+    523,
+    718,
+    1096,
+    760
+   ],
+   "category": "Text",
+   "text": "17) Ett af horn giordt drickes kärl."
+  },
+  {
+   "bbox": [
+    523,
+    760,
+    1110,
+    802
+   ],
+   "category": "Text",
+   "text": "18) En i Skåne fordom bruklig sko."
+  },
+  {
+   "bbox": [
+    523,
+    802,
+    1156,
+    844
+   ],
+   "category": "Text",
+   "text": "19) Ett kopparmynt med vespasiani bild."
+  },
+  {
+   "bbox": [
+    485,
+    844,
+    1519,
+    1002
+   ],
+   "category": "Text",
+   "text": "20) Ett ÄrkieBiskops mynt af Lund med konungens å den ena och ÄrkieBiskopens bild å den andra sidan, af silfwer, hwaröfwer archiater Stobæus skrifwit i sin dissertation de nummis et sigillis Lundensibus.»"
+  },
+  {
+   "bbox": [
+    485,
+    1009,
+    1519,
+    1291
+   ],
+   "category": "Text",
+   "text": "Dessa saker — heter det i protokollet — »besågos och sedan skickades efter Cancellisten Hagelberg, som dem mottog».¹ Men någon ersättning för dessa antikviteter ansåg man sig tydligen ej skyldig att giva Wessman, och räkenskaperna innehålla intet om någon utbetalning till honom. Belöningen kom först långt efteråt, då han 1750 utnämndes till translator, ehuru visserligen till en början utan lön."
+  },
+  {
+   "bbox": [
+    329,
+    1301,
+    473,
+    1357
+   ],
+   "category": "Text",
+   "text": "Vetenskapliga remisser"
+  },
+  {
+   "bbox": [
+    481,
+    1299,
+    1519,
+    1716
+   ],
+   "category": "Text",
+   "text": "Resorna, som på Hadorphs och Peringskiölds tid varit antikvitetsarkivets huvuduppgift, lågo således under Helins, praktiskt taget, nere. Med några remisser i vetenskapliga frågor blev arkivet också mycket sällan besvärat. De få, som fordrade något vetenskapligt svar, äro ej flere än att de här kunna anföras. I ett memorial, ingivet till 1734 års riksdag, hade översten friherre Conrad Sparre överklagat en dom, som fällts av kvarnkommissionen och vilken dom stödde sig på Helgeandsbeslutet 1282 — som bekant en förfalskning från Johan III:s tid. Av Cammar Œconomie- och Commerce-deputationen remitterades frågan om Helgeandsbeslutets äkthet till kanslikollegiet,"
+  },
+  {
+   "bbox": [
+    514,
+    1725,
+    937,
+    1759
+   ],
+   "category": "Footnote",
+   "text": "¹ Specifikationen är bilagd protokollet."
+  },
+  {
+   "bbox": [
+    481,
+    1793,
+    558,
+    1831
+   ],
+   "category": "Page-footer",
+   "text": "440"
+  }
+ ]
+}

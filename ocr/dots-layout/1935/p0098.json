@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 98,
+ "seconds": 27.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [398, 223, 910, 268], \"category\": \"Section-header\", \"text\": \"Den äldre Peringskiölds tid\"}, {\"bbox\": [627, 296, 671, 330], \"category\": \"Section-header\", \"text\": \"II.\"}, {\"bbox\": [125, 347, 1168, 1465], \"category\": \"Text\", \"text\": \"Sammaledes hände A:o 1668, då Sahl. H. Hadorphius erhölt Kgl. Maij:tz nådigzte ordres af d. 15 Julij till Sahl. Palmschiöld at han emoot een skrifftelig revers uppå anfordran skulle till Collegium Antiqvitatum i Upsala extradera utur Rijksens Archivo sådane skriffter och Acta, som till Antiqvitetens illustration kunde tiäna, doch skulle sådant först wijsas H:r Rijkz Cancellern eller den hans ställe förträdde, vide Lit. D. Derpå blef een stoor myckenheet af gamble i K. Gustaf den Förstes tijdh ifrån kyrkior och Clöster sammansamkade Pergamentz Bref och andra handlingar åter uthur Rijksens Archivo uthlånte, men om sådant skedt emoot skrifftelig revers, som orderne lyda, det kan man eij weta, emedan ingen sådan revers är at igenfinna, allenast finnes Sal. H:r Palmskiöldz egen antekning på een hooper till Collegium Antiqvitatum uthlånte handlingar, som här Copialiter Sub. Lit. E. hoos föllier; hwar wid iag icke annars än på mit Samwete nödgas gifwa tillkänna, at månge wakre, rare och ädle skriffter äro genom hwariehanda occasioner utur Rijksens Archivo brachte, hwilka till een stoor deel nu finnes uti privatorum händer, och det som mehra beklagandes ähr, förmedelst Eldzwåder och andra tillfällen torde wara helt förkomne. Synes fördensskull detta och meritera at blifwa Eders Hög-grefl. Excell:r Excell:r och det Kongl. Collegio uptäckt, med ödmiukt hemställande, om icke nödigt wore sådane till Antiqvitets Collegium uthlånte och länge nog af Historiographis och Antiqvariis brukade handlingar till deras rätta rum uti Rijksens Archivo at igenfordra, eller åthminstone fråga effter, huru med dhem är beskaffat och hwad af dhem ännu hoos Antiqvarierne eller Antiqvitetz Collegio må finnas i behåld eller icke.\"}, {\"bbox\": [619, 1489, 680, 1523], \"category\": \"Section-header\", \"text\": \"III.\"}, {\"bbox\": [125, 1540, 1166, 1753], \"category\": \"Text\", \"text\": \"Dett hände sig och A:o 1689 d. 25 Maij, at Hans Kongl. Maij:tt icke allenast munteligen nådigzt befallt mig at emoottaga och förwara dhe gambla brefwen, hwilka ifrån Skåne och Capitlet i Lund hijt opför skickadhe blefwo, utan och månde Hans Kgl. Maij:tt samma dag låta afgå dess nådigste Bref till Eders Hög-grefl. Excell:\"}, {\"bbox\": [1118, 1782, 1164, 1828], \"category\": \"Page-footer\", \"text\": \"89\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    398,
+    223,
+    910,
+    268
+   ],
+   "category": "Section-header",
+   "text": "Den äldre Peringskiölds tid"
+  },
+  {
+   "bbox": [
+    627,
+    296,
+    671,
+    330
+   ],
+   "category": "Section-header",
+   "text": "II."
+  },
+  {
+   "bbox": [
+    125,
+    347,
+    1168,
+    1465
+   ],
+   "category": "Text",
+   "text": "Sammaledes hände A:o 1668, då Sahl. H. Hadorphius erhölt Kgl. Maij:tz nådigzte ordres af d. 15 Julij till Sahl. Palmschiöld at han emoot een skrifftelig revers uppå anfordran skulle till Collegium Antiqvitatum i Upsala extradera utur Rijksens Archivo sådane skriffter och Acta, som till Antiqvitetens illustration kunde tiäna, doch skulle sådant först wijsas H:r Rijkz Cancellern eller den hans ställe förträdde, vide Lit. D. Derpå blef een stoor myckenheet af gamble i K. Gustaf den Förstes tijdh ifrån kyrkior och Clöster sammansamkade Pergamentz Bref och andra handlingar åter uthur Rijksens Archivo uthlånte, men om sådant skedt emoot skrifftelig revers, som orderne lyda, det kan man eij weta, emedan ingen sådan revers är at igenfinna, allenast finnes Sal. H:r Palmskiöldz egen antekning på een hooper till Collegium Antiqvitatum uthlånte handlingar, som här Copialiter Sub. Lit. E. hoos föllier; hwar wid iag icke annars än på mit Samwete nödgas gifwa tillkänna, at månge wakre, rare och ädle skriffter äro genom hwariehanda occasioner utur Rijksens Archivo brachte, hwilka till een stoor deel nu finnes uti privatorum händer, och det som mehra beklagandes ähr, förmedelst Eldzwåder och andra tillfällen torde wara helt förkomne. Synes fördensskull detta och meritera at blifwa Eders Hög-grefl. Excell:r Excell:r och det Kongl. Collegio uptäckt, med ödmiukt hemställande, om icke nödigt wore sådane till Antiqvitets Collegium uthlånte och länge nog af Historiographis och Antiqvariis brukade handlingar till deras rätta rum uti Rijksens Archivo at igenfordra, eller åthminstone fråga effter, huru med dhem är beskaffat och hwad af dhem ännu hoos Antiqvarierne eller Antiqvitetz Collegio må finnas i behåld eller icke."
+  },
+  {
+   "bbox": [
+    619,
+    1489,
+    680,
+    1523
+   ],
+   "category": "Section-header",
+   "text": "III."
+  },
+  {
+   "bbox": [
+    125,
+    1540,
+    1166,
+    1753
+   ],
+   "category": "Text",
+   "text": "Dett hände sig och A:o 1689 d. 25 Maij, at Hans Kongl. Maij:tt icke allenast munteligen nådigzt befallt mig at emoottaga och förwara dhe gambla brefwen, hwilka ifrån Skåne och Capitlet i Lund hijt opför skickadhe blefwo, utan och månde Hans Kgl. Maij:tt samma dag låta afgå dess nådigste Bref till Eders Hög-grefl. Excell:"
+  },
+  {
+   "bbox": [
+    1118,
+    1782,
+    1164,
+    1828
+   ],
+   "category": "Page-footer",
+   "text": "89"
+  }
+ ]
+}

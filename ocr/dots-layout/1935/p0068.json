@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 68,
+ "seconds": 28.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [407, 227, 922, 270], \"category\": \"Section-header\", \"text\": \"Den äldre Peringskiölds tid\"}, {\"bbox\": [142, 299, 1188, 385], \"category\": \"Text\", \"text\": \"men över huvud tyckas — väl i anledning av penningnöden — beställningarna på kopparstick och träsnitt hava upphört.\"}, {\"bbox\": [139, 383, 1190, 1008], \"category\": \"Text\", \"text\": \"Vi vända oss nu till arbetet inom arkivet. Redan i den instruktion, som De la Gardie den 20 november 1667 utfärdade för antikvitetskollegiet ålades detta, i den tionde paragrafen, att vart nyår insända en »fullkommeligh relation om alt thet hoos them kan wara förelupit, på thet Kgl. M:tt således må om thetsamma blifwa underrättat och isynnerhet förnimma, huru wida med arbetet lida och en eller annan sin flijt giöra kan». Med anledning härav insändes också under de första åren de s. k. Consignationer, som meddelats III, 3 ff. Men den sista är av 1675 och sedan upphörde de alldeles. Fråga var emellertid, om icke denna punkt i instruktionen fortfarande kunde anses gällande, och när ungefär ett år gått efter omorganisationen, avlät kanslikollegiet den 15 mars 1693 ett så lydande brev till antikvitetsarkivet: »Till antiquitz wärketz assessorer att inkomma med berättelse, hwad wärk hwar och en af dem har hafft under händer sedan d. 27 april 1692.\"}, {\"bbox\": [1194, 390, 1323, 446], \"category\": \"Text\", \"text\": \"Consignatio-ner\"}, {\"bbox\": [140, 1007, 1187, 1091], \"category\": \"Text\", \"text\": \"Edle och wälb. samt Ehreborne och wälbetrodde H. Secreterare och samptel. antiquitz wärketz assessorer.\"}, {\"bbox\": [138, 1090, 1189, 1756], \"category\": \"Text\", \"text\": \"Emedan Kongl. May:tt förmedelst des nådige bref till den af K. M:tt förordnade Commissionen öfwer antiquitz archivi Staat dat. d. 23 april 1692 aldranådigst förklarat hafwer, att antiquitz wärketz betiente skole höra under Kongl. Cantzelij Collegium; Ty kunne wij eij underlåta att här med infordra af Eder samtel. en behörig underrättelse, hwad arbete sedan den tijden är wordet af Eder förrättat och hwad hwar och en nu under händer hafwer. Det hafwer för detta warit brukeligit, att den äldsta assessoren skulle draga omsorg om hela wärketz skiötzell och hafwa dagligit inseende på de andras arbete; detsamma will och Kongl. M:tt, att Eder, Hr. Secret:re och Antiquarien Hadorph, åligga skall, på det I mågen kunna giöra Cantzlij Collegio besked derom, men nu denne gången till en begynnelsse will Kongl. Cantzlij Collegium, att hwar och en må sielf jempte Hr. Secreteraren framkomma med sitt arbete och wijsa proff af sin flijt och capacitet. — — — Stockholm den 15 Martius A:o 1693» (Kanslikoll. registratur).\"}, {\"bbox\": [1136, 1793, 1183, 1832], \"category\": \"Page-footer\", \"text\": \"59\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    407,
+    227,
+    922,
+    270
+   ],
+   "category": "Section-header",
+   "text": "Den äldre Peringskiölds tid"
+  },
+  {
+   "bbox": [
+    142,
+    299,
+    1188,
+    385
+   ],
+   "category": "Text",
+   "text": "men över huvud tyckas — väl i anledning av penningnöden — beställningarna på kopparstick och träsnitt hava upphört."
+  },
+  {
+   "bbox": [
+    139,
+    383,
+    1190,
+    1008
+   ],
+   "category": "Text",
+   "text": "Vi vända oss nu till arbetet inom arkivet. Redan i den instruktion, som De la Gardie den 20 november 1667 utfärdade för antikvitetskollegiet ålades detta, i den tionde paragrafen, att vart nyår insända en »fullkommeligh relation om alt thet hoos them kan wara förelupit, på thet Kgl. M:tt således må om thetsamma blifwa underrättat och isynnerhet förnimma, huru wida med arbetet lida och en eller annan sin flijt giöra kan». Med anledning härav insändes också under de första åren de s. k. Consignationer, som meddelats III, 3 ff. Men den sista är av 1675 och sedan upphörde de alldeles. Fråga var emellertid, om icke denna punkt i instruktionen fortfarande kunde anses gällande, och när ungefär ett år gått efter omorganisationen, avlät kanslikollegiet den 15 mars 1693 ett så lydande brev till antikvitetsarkivet: »Till antiquitz wärketz assessorer att inkomma med berättelse, hwad wärk hwar och en af dem har hafft under händer sedan d. 27 april 1692."
+  },
+  {
+   "bbox": [
+    1194,
+    390,
+    1323,
+    446
+   ],
+   "category": "Text",
+   "text": "Consignatio-ner"
+  },
+  {
+   "bbox": [
+    140,
+    1007,
+    1187,
+    1091
+   ],
+   "category": "Text",
+   "text": "Edle och wälb. samt Ehreborne och wälbetrodde H. Secreterare och samptel. antiquitz wärketz assessorer."
+  },
+  {
+   "bbox": [
+    138,
+    1090,
+    1189,
+    1756
+   ],
+   "category": "Text",
+   "text": "Emedan Kongl. May:tt förmedelst des nådige bref till den af K. M:tt förordnade Commissionen öfwer antiquitz archivi Staat dat. d. 23 april 1692 aldranådigst förklarat hafwer, att antiquitz wärketz betiente skole höra under Kongl. Cantzelij Collegium; Ty kunne wij eij underlåta att här med infordra af Eder samtel. en behörig underrättelse, hwad arbete sedan den tijden är wordet af Eder förrättat och hwad hwar och en nu under händer hafwer. Det hafwer för detta warit brukeligit, att den äldsta assessoren skulle draga omsorg om hela wärketz skiötzell och hafwa dagligit inseende på de andras arbete; detsamma will och Kongl. M:tt, att Eder, Hr. Secret:re och Antiquarien Hadorph, åligga skall, på det I mågen kunna giöra Cantzlij Collegio besked derom, men nu denne gången till en begynnelsse will Kongl. Cantzlij Collegium, att hwar och en må sielf jempte Hr. Secreteraren framkomma med sitt arbete och wijsa proff af sin flijt och capacitet. — — — Stockholm den 15 Martius A:o 1693» (Kanslikoll. registratur)."
+  },
+  {
+   "bbox": [
+    1136,
+    1793,
+    1183,
+    1832
+   ],
+   "category": "Page-footer",
+   "text": "59"
+  }
+ ]
+}

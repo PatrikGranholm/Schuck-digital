@@ -1,0 +1,122 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 612,
+ "seconds": 30.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [582, 229, 769, 264], \"category\": \"Page-header\", \"text\": \"Helins tid\"}, {\"bbox\": [152, 299, 1196, 425], \"category\": \"Text\", \"text\": \"2) Examen runicum, i hwilket de äldsta och märkwärdigste Runeskriffter på stenar och stafwar warda förklarade och från hwarjehanda förtydningar befriade.\"}, {\"bbox\": [152, 425, 1196, 543], \"category\": \"Text\", \"text\": \"3) Swearikes mynt och penningehäfd, där man och med åtskilliga förr obekanta äldsta penningar förökar sal. assess. Brenners Thesaurum Numorum Suio Goth.\"}, {\"bbox\": [152, 549, 1196, 626], \"category\": \"Text\", \"text\": \"4) Descriptio Scandiæ Historico Geographica, särdeles angående Swea Länder i äldre tider.\"}, {\"bbox\": [148, 632, 1196, 717], \"category\": \"Text\", \"text\": \"5) Nordiska Begrafningars i Stenkumlar, högar, dysior och kasor jämte Bränne och höga åldrens nogaste beskrifning.\"}, {\"bbox\": [152, 717, 1196, 799], \"category\": \"Text\", \"text\": \"6) Aborigines Scandiæ Forniotidæ el. Boreades, dem man också wisar wara de samma med grækiska urfäder.\"}, {\"bbox\": [148, 799, 1196, 1088], \"category\": \"Text\", \"text\": \"7) Örbyhus och dannemora heraders monumenter med företal om nordiska länders första indelning i härader, hundari och folkländer; desslikes i jordamål, sädland, marka- öre- och örtugstahl, jämte Konga-, lagmän och heradshöfdinge beställningars inrättning och forna tilhörigheter, hwilket företal redan är färdigt, men en del af monumenterna håller man på at til slut förklara» (Sekr. utskottets handl. 1741, vol. 9).\"}, {\"bbox\": [148, 1090, 1196, 1754], \"category\": \"Text\", \"text\": \"Biörner var, som man härav finner, en mycket flitig man, vilken rört sig på de flesta områden, som från början bestämts för antikvitetsarkivet. Men sitt egentliga intresse ägnade han åt den verksamhet, som för den karolinska tiden varit fornforskningens främsta: att för samtiden bekantgöra den isländska sagolitteraturen. Hadorph hade ju införskaffat en mängd isländska handskrifter till Sverige samt anställt en hel följd av islänningar i svensk tjänst, vilka användes dels att avskriva de isländska codices, som funnos i antikvitetsarkivet, dels att översätta den isländska texten till svenska och latin. Men den siste av dessa var Guðmundur Guðmundsson, som avled 1697, och sedan kom ingen islänning hit förr än 1733, då Thorvaldur Brochmann på Gustaf Bondes initiativ antogs till kanslist i arkivet. Såsom vi sett fortsattes likväl under Peringskiöldarnes tid det isländska utgivningsarbetet, och likaså fortsattes ett annat arbete, som synes ha haft till syfte att få till stånd, vad man kunde kalla ett lexikon för götiska antikviteter. Ur de codices, som funnos i ar-\"}, {\"bbox\": [1205, 1101, 1343, 1131], \"category\": \"Text\", \"text\": \"Sagoeditioner\"}, {\"bbox\": [174, 1793, 279, 1822], \"category\": \"Page-footer\", \"text\": \"38-34672.\"}, {\"bbox\": [1119, 1793, 1189, 1832], \"category\": \"Page-footer\", \"text\": \"593\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    582,
+    229,
+    769,
+    264
+   ],
+   "category": "Page-header",
+   "text": "Helins tid"
+  },
+  {
+   "bbox": [
+    152,
+    299,
+    1196,
+    425
+   ],
+   "category": "Text",
+   "text": "2) Examen runicum, i hwilket de äldsta och märkwärdigste Runeskriffter på stenar och stafwar warda förklarade och från hwarjehanda förtydningar befriade."
+  },
+  {
+   "bbox": [
+    152,
+    425,
+    1196,
+    543
+   ],
+   "category": "Text",
+   "text": "3) Swearikes mynt och penningehäfd, där man och med åtskilliga förr obekanta äldsta penningar förökar sal. assess. Brenners Thesaurum Numorum Suio Goth."
+  },
+  {
+   "bbox": [
+    152,
+    549,
+    1196,
+    626
+   ],
+   "category": "Text",
+   "text": "4) Descriptio Scandiæ Historico Geographica, särdeles angående Swea Länder i äldre tider."
+  },
+  {
+   "bbox": [
+    148,
+    632,
+    1196,
+    717
+   ],
+   "category": "Text",
+   "text": "5) Nordiska Begrafningars i Stenkumlar, högar, dysior och kasor jämte Bränne och höga åldrens nogaste beskrifning."
+  },
+  {
+   "bbox": [
+    152,
+    717,
+    1196,
+    799
+   ],
+   "category": "Text",
+   "text": "6) Aborigines Scandiæ Forniotidæ el. Boreades, dem man också wisar wara de samma med grækiska urfäder."
+  },
+  {
+   "bbox": [
+    148,
+    799,
+    1196,
+    1088
+   ],
+   "category": "Text",
+   "text": "7) Örbyhus och dannemora heraders monumenter med företal om nordiska länders första indelning i härader, hundari och folkländer; desslikes i jordamål, sädland, marka- öre- och örtugstahl, jämte Konga-, lagmän och heradshöfdinge beställningars inrättning och forna tilhörigheter, hwilket företal redan är färdigt, men en del af monumenterna håller man på at til slut förklara» (Sekr. utskottets handl. 1741, vol. 9)."
+  },
+  {
+   "bbox": [
+    148,
+    1090,
+    1196,
+    1754
+   ],
+   "category": "Text",
+   "text": "Biörner var, som man härav finner, en mycket flitig man, vilken rört sig på de flesta områden, som från början bestämts för antikvitetsarkivet. Men sitt egentliga intresse ägnade han åt den verksamhet, som för den karolinska tiden varit fornforskningens främsta: att för samtiden bekantgöra den isländska sagolitteraturen. Hadorph hade ju införskaffat en mängd isländska handskrifter till Sverige samt anställt en hel följd av islänningar i svensk tjänst, vilka användes dels att avskriva de isländska codices, som funnos i antikvitetsarkivet, dels att översätta den isländska texten till svenska och latin. Men den siste av dessa var Guðmundur Guðmundsson, som avled 1697, och sedan kom ingen islänning hit förr än 1733, då Thorvaldur Brochmann på Gustaf Bondes initiativ antogs till kanslist i arkivet. Såsom vi sett fortsattes likväl under Peringskiöldarnes tid det isländska utgivningsarbetet, och likaså fortsattes ett annat arbete, som synes ha haft till syfte att få till stånd, vad man kunde kalla ett lexikon för götiska antikviteter. Ur de codices, som funnos i ar-"
+  },
+  {
+   "bbox": [
+    1205,
+    1101,
+    1343,
+    1131
+   ],
+   "category": "Text",
+   "text": "Sagoeditioner"
+  },
+  {
+   "bbox": [
+    174,
+    1793,
+    279,
+    1822
+   ],
+   "category": "Page-footer",
+   "text": "38-34672."
+  },
+  {
+   "bbox": [
+    1119,
+    1793,
+    1189,
+    1832
+   ],
+   "category": "Page-footer",
+   "text": "593"
+  }
+ ]
+}

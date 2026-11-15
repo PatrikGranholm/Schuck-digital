@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 87,
+ "seconds": 19.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [806, 227, 1179, 262], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [472, 298, 1512, 625], \"category\": \"Text\", \"text\": \"kvariens skrivare, 150 daler, vilket 1713 strukits, har nu lagts till antikvariens lön. Translatorns, amanuensernas och drängens löner ha satts till de förra beloppen, likaså anslaget till expenser, resor och böckers inköp. Det extra tryckanslaget å 600 daler har strukits, och något anslag till en extra ritare och en extra skrivare förekommer ej. Genom ett särskilt brev av den 20 juni fick dock Johan Fredric Peringskiöld behålla sin gamla translatorslön, 600 daler smt.\"}, {\"bbox\": [322, 632, 1516, 1753], \"category\": \"Text\", \"text\": \"Penningkrisen Dessa stater ha dock mera ett teoretiskt intresse än ett praktiskt. Ty redan vid krigets början hade statsfinanserna alldeles råkat i oordning, och de i staterna uppförda anslagen utföllo endast till en ytterst ringa del. Redan 1702 inlämnade Peringskiöld en petition för antikvariens skrivare, Elias Stadius, om var »stadd i stoor nöd och olägenhet medelst brist på kläder och nödtorfftigt uppehälle». Hans lön var 150 daler, och av denna hade han endast fått uppbära hälften, under det att kanslidrängarna fått tre kvartal. Peringskiöld bad nu, att även Stadius skulle få tredje kvartalet för detta och föregående år, vilket tillsammans ju blott utgjort 75 daler. Året därpå skrev han en liknande inlaga för ritaren Ehrenhof, som ej heller fått ut mer än halva lönen för 1701 och 1702. Sedan tyckes ett kvartal ha blivit det vanliga, och till sist icke ens det. Peringskiölds nyss anförda brev till Westenhielm slutar: »De på staten behåldne betiente måste nöija sig med Löningz zedlar, hwilka ingen ännu welat inlösa». En överläggning i kanslikollegiet den 1 december 1711 ger oss en ganska åskådlig bild av den ekonomiska situationen. Man överlade om möjliga indragningar i den tillämnade nya staten: »Wid Antiquitets Collegii Stat tycktes endast wara något, som skulle kunna indragas, såsom med amanuensi Historiographi och Translators tiensten af gamla språken. Item resepenningar, till papper och tryck samt böckers inkiöp. Hans Excellence Præsidenten hölt ey olikt, att ju desse poster nu under denna krigstiden kunde besparas, helst efter som de uti Antiquitets Collegio ändå intet så stort af löhnen [utbekommit] och fördensskull icke mycket lära arbeta; så kunde ock det, som för kopparstickningen upföres, dragas inn; hwad swaret till Rådet widkommer, så mente\"}, {\"bbox\": [484, 1782, 532, 1828], \"category\": \"Page-footer\", \"text\": \"78\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    806,
+    227,
+    1179,
+    262
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    472,
+    298,
+    1512,
+    625
+   ],
+   "category": "Text",
+   "text": "kvariens skrivare, 150 daler, vilket 1713 strukits, har nu lagts till antikvariens lön. Translatorns, amanuensernas och drängens löner ha satts till de förra beloppen, likaså anslaget till expenser, resor och böckers inköp. Det extra tryckanslaget å 600 daler har strukits, och något anslag till en extra ritare och en extra skrivare förekommer ej. Genom ett särskilt brev av den 20 juni fick dock Johan Fredric Peringskiöld behålla sin gamla translatorslön, 600 daler smt."
+  },
+  {
+   "bbox": [
+    322,
+    632,
+    1516,
+    1753
+   ],
+   "category": "Text",
+   "text": "Penningkrisen Dessa stater ha dock mera ett teoretiskt intresse än ett praktiskt. Ty redan vid krigets början hade statsfinanserna alldeles råkat i oordning, och de i staterna uppförda anslagen utföllo endast till en ytterst ringa del. Redan 1702 inlämnade Peringskiöld en petition för antikvariens skrivare, Elias Stadius, om var »stadd i stoor nöd och olägenhet medelst brist på kläder och nödtorfftigt uppehälle». Hans lön var 150 daler, och av denna hade han endast fått uppbära hälften, under det att kanslidrängarna fått tre kvartal. Peringskiöld bad nu, att även Stadius skulle få tredje kvartalet för detta och föregående år, vilket tillsammans ju blott utgjort 75 daler. Året därpå skrev han en liknande inlaga för ritaren Ehrenhof, som ej heller fått ut mer än halva lönen för 1701 och 1702. Sedan tyckes ett kvartal ha blivit det vanliga, och till sist icke ens det. Peringskiölds nyss anförda brev till Westenhielm slutar: »De på staten behåldne betiente måste nöija sig med Löningz zedlar, hwilka ingen ännu welat inlösa». En överläggning i kanslikollegiet den 1 december 1711 ger oss en ganska åskådlig bild av den ekonomiska situationen. Man överlade om möjliga indragningar i den tillämnade nya staten: »Wid Antiquitets Collegii Stat tycktes endast wara något, som skulle kunna indragas, såsom med amanuensi Historiographi och Translators tiensten af gamla språken. Item resepenningar, till papper och tryck samt böckers inkiöp. Hans Excellence Præsidenten hölt ey olikt, att ju desse poster nu under denna krigstiden kunde besparas, helst efter som de uti Antiquitets Collegio ändå intet så stort af löhnen [utbekommit] och fördensskull icke mycket lära arbeta; så kunde ock det, som för kopparstickningen upföres, dragas inn; hwad swaret till Rådet widkommer, så mente"
+  },
+  {
+   "bbox": [
+    484,
+    1782,
+    532,
+    1828
+   ],
+   "category": "Page-footer",
+   "text": "78"
+  }
+ ]
+}

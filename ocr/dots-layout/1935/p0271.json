@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 271,
+ "seconds": 27.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [835, 222, 1207, 259], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [498, 291, 1540, 583], \"category\": \"Text\", \"text\": \"forna antikvitetskollegiets verksamhet och hade 1708 utgivit Vastovius' Vitis Aquilonia, 1709 Monumenta Historica vetera ecclesiæ Sveogothicæ och 1721 Diarium Vadstenense. Societeten kunde således med full rätt anse sig hava återupptagit den sunda riktning inom fornforskningen, för vilken Schefferus varit banbrytare, men som avbrutits genom rudbeckianismen, som nu i Biörner hade sin representant inom antikvitetsarkivet.\"}, {\"bbox\": [491, 583, 1538, 1582], \"category\": \"Text\", \"text\": \"Den av Societeten utgivna tidskriften, Acta litteraria, hade ett mycket omfattande antikvariskt innehåll och innehöll utförliga recensioner över all antikvarisk litteratur, som under dessa år utkommit i Sverige — recensioner, som dock i enlighet med den tidens uppfattning av en bokanmälan blott redogjorde för innehållet utan någon kritisk värdesättning, som kunnat såra författaren. Där anmäldes den äldre Peringskiölds Monumenta Ullerakerensia och Ättartal, den yngre Peringskiölds Sagobrott, Hialmters och Olvers saga, Asmund kappabanes saga, Fragmentum-Runico-Papisticum och hans Jordanesöversättning, där infördes en nekrolog över den äldre Peringskiöld, där anmäldes Dals Specimen biograficum, Stiernmans Anonymorum Centuria prima och secunda, Benzelius' Diarium Vadstenense m. m. Benzelius skrev där en uppsats om de Rubbingska guldringarna, och von Schantz' relation om utgrävningen av ättehögen i Orkesta meddelades där i latinsk översättning. Tarrika brev från medeltiden avtrycktes, alla nyutkomna ortbeskrivningar recenserades, även myntkataloger infördes, men viktigast voro kanske tidskriftens runuppsatser, Anders Celsius' Cippi Runici in Medelpadia och Olof Celsius' Monumenta quædam Sveo-Gothica, som gick igenom flera nummer och nog var både den utförligaste och mest vetenskapliga runundersökning, som dittills publicerats i vårt land. Vid sidan av den nästan fullkomliga overksamheten inom Helins antikvitetsarkiv hade således societeten full rätt att betrakta sig såsom den svenska fornforskningens livaktigaste representant.\"}, {\"bbox\": [489, 1577, 1529, 1747], \"category\": \"Text\", \"text\": \"Efter Benzelius' utnämning till biskop i Göteborg hade Anders Celsius blivit societens sekreterare, och nu invalides en mängd nya medlemmar utanför Uppsala, bland dem Helin och Keder. I brev av den 27 november 1729 tackade den förre »för then heder\"}, {\"bbox\": [491, 1780, 564, 1818], \"category\": \"Page-footer\", \"text\": \"252\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    835,
+    222,
+    1207,
+    259
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    498,
+    291,
+    1540,
+    583
+   ],
+   "category": "Text",
+   "text": "forna antikvitetskollegiets verksamhet och hade 1708 utgivit Vastovius' Vitis Aquilonia, 1709 Monumenta Historica vetera ecclesiæ Sveogothicæ och 1721 Diarium Vadstenense. Societeten kunde således med full rätt anse sig hava återupptagit den sunda riktning inom fornforskningen, för vilken Schefferus varit banbrytare, men som avbrutits genom rudbeckianismen, som nu i Biörner hade sin representant inom antikvitetsarkivet."
+  },
+  {
+   "bbox": [
+    491,
+    583,
+    1538,
+    1582
+   ],
+   "category": "Text",
+   "text": "Den av Societeten utgivna tidskriften, Acta litteraria, hade ett mycket omfattande antikvariskt innehåll och innehöll utförliga recensioner över all antikvarisk litteratur, som under dessa år utkommit i Sverige — recensioner, som dock i enlighet med den tidens uppfattning av en bokanmälan blott redogjorde för innehållet utan någon kritisk värdesättning, som kunnat såra författaren. Där anmäldes den äldre Peringskiölds Monumenta Ullerakerensia och Ättartal, den yngre Peringskiölds Sagobrott, Hialmters och Olvers saga, Asmund kappabanes saga, Fragmentum-Runico-Papisticum och hans Jordanesöversättning, där infördes en nekrolog över den äldre Peringskiöld, där anmäldes Dals Specimen biograficum, Stiernmans Anonymorum Centuria prima och secunda, Benzelius' Diarium Vadstenense m. m. Benzelius skrev där en uppsats om de Rubbingska guldringarna, och von Schantz' relation om utgrävningen av ättehögen i Orkesta meddelades där i latinsk översättning. Tarrika brev från medeltiden avtrycktes, alla nyutkomna ortbeskrivningar recenserades, även myntkataloger infördes, men viktigast voro kanske tidskriftens runuppsatser, Anders Celsius' Cippi Runici in Medelpadia och Olof Celsius' Monumenta quædam Sveo-Gothica, som gick igenom flera nummer och nog var både den utförligaste och mest vetenskapliga runundersökning, som dittills publicerats i vårt land. Vid sidan av den nästan fullkomliga overksamheten inom Helins antikvitetsarkiv hade således societeten full rätt att betrakta sig såsom den svenska fornforskningens livaktigaste representant."
+  },
+  {
+   "bbox": [
+    489,
+    1577,
+    1529,
+    1747
+   ],
+   "category": "Text",
+   "text": "Efter Benzelius' utnämning till biskop i Göteborg hade Anders Celsius blivit societens sekreterare, och nu invalides en mängd nya medlemmar utanför Uppsala, bland dem Helin och Keder. I brev av den 27 november 1729 tackade den förre »för then heder"
+  },
+  {
+   "bbox": [
+    491,
+    1780,
+    564,
+    1818
+   ],
+   "category": "Page-footer",
+   "text": "252"
+  }
+ ]
+}

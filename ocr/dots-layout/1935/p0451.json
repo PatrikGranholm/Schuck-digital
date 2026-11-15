@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 451,
+ "seconds": 27.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [815, 224, 1187, 259], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [475, 295, 1519, 419], \"category\": \"Text\", \"text\": \"skulle giva sig ut på en naturvetenskaplig forskningsresa i Skåne, inskärpte han vikten av att uppsamla sägner och traditioner (Svenska Linnésällskapets årsskr. 1932).\"}, {\"bbox\": [470, 419, 1518, 1533], \"category\": \"Text\", \"text\": \"Under hans tid blev Nils Wessman (1729) student i Lund, där han 1733 disputerade på en historisk avhandling, och ehuru han därom ingenting nämner i sina meritförteckningar, lider det näppeligen något tvivel, att han varit en bland Stobæus' lärjungar. Efter disputationen fick han plats såsom informator först hos baron Ungern von Sternberg, sedan hos baron Jöran Rosenhane (meritförteckn. i kanslikoll. Inkomna skrivelser sign. E IV. 14), och tydligen fortsatte han under denna tid sina antikvariska iakttagelser ute på landsbygden. 1739 återvände han till Lund, där han studerade juridik för professor Nehrman, men kom 1741 till Stockholm, där han blev informator hos baron Fredrik Sparre. De antikvariska intressena förde honom då tillsammans med Biörner, och troligen var det på hans inrådan, som han den 26 februari 1741 till kanslikollegiet inlämnade en ansökan (R. A. Kanslikoll. Inkomna skrivelser sign. E IV. 14) att bliva antagen såsom e. o. kanslist i antikvitetsarkivet: »Huru jag med all åhoga mig applicerat till Studium antiquitatum Patriæ under den tiden jag warit wid academien, har dock medellösheten hindrat mig sådant med något efftertryck i wärket at ställa, widare änn hwad jag wid ett och annat tillfälle samt utan stor omkostnad kunnat upspana, hwaraf jag några röön härjämte underdån-ödmiukeligen insinuerar, och likaledes anhåller, det Eders Excellencier samt Kongl. May:ts och Riksens höglofl. Cancellie Collegium mitt härutinnan påbegynte upsåt täcktes nådigt anse och till widare fortsätjande deraf låta mig blifwa antagen till extraordinarius wid Kongl. antiquitets archivum.» De »rön», som han här omtalar och bifogade ansökningen, bära titeln: Kort Berättelse om någre monumenter, som äro fundne i Skåne:\"}, {\"bbox\": [470, 1539, 1511, 1750], \"category\": \"Text\", \"text\": \"»Så snart jag genom herr Assessor Biærners skrifwelse fick förnimma, huru kärt dett skulle wara Kongl. Antiquitets Collegium, om någon på Skånske orterne wille med flit effterse de minnesmärken, som bemälte Lands forna inwånare sig till åminnelse qvarlämnat, har jag wid lediga stunder sökt en sådan gunstig wilja och\"}, {\"bbox\": [470, 1786, 547, 1824], \"category\": \"Page-footer\", \"text\": \"432\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    815,
+    224,
+    1187,
+    259
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    475,
+    295,
+    1519,
+    419
+   ],
+   "category": "Text",
+   "text": "skulle giva sig ut på en naturvetenskaplig forskningsresa i Skåne, inskärpte han vikten av att uppsamla sägner och traditioner (Svenska Linnésällskapets årsskr. 1932)."
+  },
+  {
+   "bbox": [
+    470,
+    419,
+    1518,
+    1533
+   ],
+   "category": "Text",
+   "text": "Under hans tid blev Nils Wessman (1729) student i Lund, där han 1733 disputerade på en historisk avhandling, och ehuru han därom ingenting nämner i sina meritförteckningar, lider det näppeligen något tvivel, att han varit en bland Stobæus' lärjungar. Efter disputationen fick han plats såsom informator först hos baron Ungern von Sternberg, sedan hos baron Jöran Rosenhane (meritförteckn. i kanslikoll. Inkomna skrivelser sign. E IV. 14), och tydligen fortsatte han under denna tid sina antikvariska iakttagelser ute på landsbygden. 1739 återvände han till Lund, där han studerade juridik för professor Nehrman, men kom 1741 till Stockholm, där han blev informator hos baron Fredrik Sparre. De antikvariska intressena förde honom då tillsammans med Biörner, och troligen var det på hans inrådan, som han den 26 februari 1741 till kanslikollegiet inlämnade en ansökan (R. A. Kanslikoll. Inkomna skrivelser sign. E IV. 14) att bliva antagen såsom e. o. kanslist i antikvitetsarkivet: »Huru jag med all åhoga mig applicerat till Studium antiquitatum Patriæ under den tiden jag warit wid academien, har dock medellösheten hindrat mig sådant med något efftertryck i wärket at ställa, widare änn hwad jag wid ett och annat tillfälle samt utan stor omkostnad kunnat upspana, hwaraf jag några röön härjämte underdån-ödmiukeligen insinuerar, och likaledes anhåller, det Eders Excellencier samt Kongl. May:ts och Riksens höglofl. Cancellie Collegium mitt härutinnan påbegynte upsåt täcktes nådigt anse och till widare fortsätjande deraf låta mig blifwa antagen till extraordinarius wid Kongl. antiquitets archivum.» De »rön», som han här omtalar och bifogade ansökningen, bära titeln: Kort Berättelse om någre monumenter, som äro fundne i Skåne:"
+  },
+  {
+   "bbox": [
+    470,
+    1539,
+    1511,
+    1750
+   ],
+   "category": "Text",
+   "text": "»Så snart jag genom herr Assessor Biærners skrifwelse fick förnimma, huru kärt dett skulle wara Kongl. Antiquitets Collegium, om någon på Skånske orterne wille med flit effterse de minnesmärken, som bemälte Lands forna inwånare sig till åminnelse qvarlämnat, har jag wid lediga stunder sökt en sådan gunstig wilja och"
+  },
+  {
+   "bbox": [
+    470,
+    1786,
+    547,
+    1824
+   ],
+   "category": "Page-footer",
+   "text": "432"
+  }
+ ]
+}

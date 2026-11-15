@@ -1,0 +1,122 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 74,
+ "seconds": 29.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [393, 224, 904, 269], \"category\": \"Section-header\", \"text\": \"Den äldre Peringskiölds tid\"}, {\"bbox\": [192, 295, 1164, 504], \"category\": \"Text\", \"text\": \"Gudmund Olssons Concept til Lexicon Gothium af Lit. S, afsomnandes d. 20 Dec. om morgonen A:0 695 effter ett halfft åhrs siukdom, hwarigenom det wärket också nu stannar, så framt icke någon annan i dess ställe mot samma underhåldh får antagas.\"}, {\"bbox\": [405, 504, 1162, 589], \"category\": \"Text\", \"text\": \"hwilket uppå Kongl. Antiquitets Archivi wägnar i underdånighet bewitnar\"}, {\"bbox\": [123, 598, 561, 642], \"category\": \"Text\", \"text\": \"Stockholm d. 11 Jan. 1696.\"}, {\"bbox\": [807, 601, 1128, 645], \"category\": \"Text\", \"text\": \"Johan Peringskiöld.»\"}, {\"bbox\": [158, 657, 1157, 704], \"category\": \"Text\", \"text\": \"Likaså inlämnade han den 7 januari 1697 en dylik redogörelse.\"}, {\"bbox\": [158, 711, 1160, 796], \"category\": \"Text\", \"text\": \"»Vnderdånigst Berättelse om Kongl. Antiquitets Archivi förrättade tiänster uthi framledne åhr 1696.\"}, {\"bbox\": [117, 796, 1158, 1671], \"category\": \"Text\", \"text\": \"Secreteraren och Antiquarien Johan Peringskiöld hafwer continuerat sine under händer tagne arbeten efter förr ingifne Memorialer, sosom förnembligast 1:0) med Monumenternes uthtydning och afritningar, hwilka både i koppar och trä efter handen uthstickas, der hoos 2:do) giordt några resor uthi Upland, där han föruthan de gamla Runeritningarna til sin första Toms zirligare fullkomlighet låtit aftaga åthskillige Kongl. och Ridderlige Personers grifter och Epitaphier samt kyrkior och wapnar etc., til hwilkas förrättande icke allenast den ordinarie Ritaren uthan och en extraordinarius på resan in Majo samt Julio och Augusto underhållne äre med kost och Resepenningar 3:0) Begynt sammenskrifwa de gamla Swea och göthiske Konungarnas och Drottningars i lifztiden brukade Titlar och Sigiller, som til conservation för posteriteten nödwändigt borde accurat afritas. 4:to) Sammansökt en förteckning på de forna Jarlar, regerande förstar och Riksens föreståndare med deras wapn och Sigiller. 5:to) förfärdigat den swenska och Latinska versionen til Sturlesons wärk och dragit försorg om dess uppläggning och correction på trycket tillika med correctoren Jonas Bröms, som efter Kongl. Resolutionen åthniuter 16 öre silfwermynt för arket, warandes i åhr aftryckte 78 ark til pag. 441, hwilka med de förra 32 arken giöra 5 Abc eller så när 5 böker papper tilsamans.\"}, {\"bbox\": [117, 1668, 1151, 1755], \"category\": \"Text\", \"text\": \"Assessores Antiquitatum giöra sit arbete hemma i sine hus, hafwandes Hr. Werwing under händerne Konung Gustavi Adolphi\"}, {\"bbox\": [141, 1793, 232, 1817], \"category\": \"Page-footer\", \"text\": \"5—34672.\"}, {\"bbox\": [1101, 1783, 1147, 1830], \"category\": \"Page-footer\", \"text\": \"65\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    393,
+    224,
+    904,
+    269
+   ],
+   "category": "Section-header",
+   "text": "Den äldre Peringskiölds tid"
+  },
+  {
+   "bbox": [
+    192,
+    295,
+    1164,
+    504
+   ],
+   "category": "Text",
+   "text": "Gudmund Olssons Concept til Lexicon Gothium af Lit. S, afsomnandes d. 20 Dec. om morgonen A:0 695 effter ett halfft åhrs siukdom, hwarigenom det wärket också nu stannar, så framt icke någon annan i dess ställe mot samma underhåldh får antagas."
+  },
+  {
+   "bbox": [
+    405,
+    504,
+    1162,
+    589
+   ],
+   "category": "Text",
+   "text": "hwilket uppå Kongl. Antiquitets Archivi wägnar i underdånighet bewitnar"
+  },
+  {
+   "bbox": [
+    123,
+    598,
+    561,
+    642
+   ],
+   "category": "Text",
+   "text": "Stockholm d. 11 Jan. 1696."
+  },
+  {
+   "bbox": [
+    807,
+    601,
+    1128,
+    645
+   ],
+   "category": "Text",
+   "text": "Johan Peringskiöld.»"
+  },
+  {
+   "bbox": [
+    158,
+    657,
+    1157,
+    704
+   ],
+   "category": "Text",
+   "text": "Likaså inlämnade han den 7 januari 1697 en dylik redogörelse."
+  },
+  {
+   "bbox": [
+    158,
+    711,
+    1160,
+    796
+   ],
+   "category": "Text",
+   "text": "»Vnderdånigst Berättelse om Kongl. Antiquitets Archivi förrättade tiänster uthi framledne åhr 1696."
+  },
+  {
+   "bbox": [
+    117,
+    796,
+    1158,
+    1671
+   ],
+   "category": "Text",
+   "text": "Secreteraren och Antiquarien Johan Peringskiöld hafwer continuerat sine under händer tagne arbeten efter förr ingifne Memorialer, sosom förnembligast 1:0) med Monumenternes uthtydning och afritningar, hwilka både i koppar och trä efter handen uthstickas, der hoos 2:do) giordt några resor uthi Upland, där han föruthan de gamla Runeritningarna til sin första Toms zirligare fullkomlighet låtit aftaga åthskillige Kongl. och Ridderlige Personers grifter och Epitaphier samt kyrkior och wapnar etc., til hwilkas förrättande icke allenast den ordinarie Ritaren uthan och en extraordinarius på resan in Majo samt Julio och Augusto underhållne äre med kost och Resepenningar 3:0) Begynt sammenskrifwa de gamla Swea och göthiske Konungarnas och Drottningars i lifztiden brukade Titlar och Sigiller, som til conservation för posteriteten nödwändigt borde accurat afritas. 4:to) Sammansökt en förteckning på de forna Jarlar, regerande förstar och Riksens föreståndare med deras wapn och Sigiller. 5:to) förfärdigat den swenska och Latinska versionen til Sturlesons wärk och dragit försorg om dess uppläggning och correction på trycket tillika med correctoren Jonas Bröms, som efter Kongl. Resolutionen åthniuter 16 öre silfwermynt för arket, warandes i åhr aftryckte 78 ark til pag. 441, hwilka med de förra 32 arken giöra 5 Abc eller så när 5 böker papper tilsamans."
+  },
+  {
+   "bbox": [
+    117,
+    1668,
+    1151,
+    1755
+   ],
+   "category": "Text",
+   "text": "Assessores Antiquitatum giöra sit arbete hemma i sine hus, hafwandes Hr. Werwing under händerne Konung Gustavi Adolphi"
+  },
+  {
+   "bbox": [
+    141,
+    1793,
+    232,
+    1817
+   ],
+   "category": "Page-footer",
+   "text": "5—34672."
+  },
+  {
+   "bbox": [
+    1101,
+    1783,
+    1147,
+    1830
+   ],
+   "category": "Page-footer",
+   "text": "65"
+  }
+ ]
+}

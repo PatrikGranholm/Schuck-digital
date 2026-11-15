@@ -1,0 +1,132 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 265,
+ "seconds": 30.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [843, 221, 1217, 257], \"category\": \"Page-header\", \"text\": \"Antikvitetsarkivet I\"}, {\"bbox\": [505, 289, 1552, 750], \"category\": \"Text\", \"text\": \"hörde han redan kanslikollegiets ämbetsmannakår, vilket Dahlstedt ej gjorde, och 1719 hade Helin blivit förbigången, då han sökt att bliva sekreterare i riksarkivet. Förmodligen ville man nu såsom soulagement giva honom denna mindre maktpåliggande tjänst. Men egendomligt nog höll planen på att stranda i följd av konungens motstånd. Den 3 april 1725 föredrogs ärendet inför honom (R. A. Kabinettsprotokoll för inrikes civil expeditionen), och därvid gjorde han flera mycket förståndiga erinringar. »H:r Statz Secreteraren Bark upläste Cancellie Collegio förslag af d. 11 Martii innewarande åhr til Secreterare bestälningen wid Antiquitets Archivum effter framl:ne Peringschiöld, hwartil bem:te Collegium nämdt\"}, {\"bbox\": [543, 749, 1262, 786], \"category\": \"Text\", \"text\": \"1: Assessoren dersammastädes Niclas Keder.\"}, {\"bbox\": [543, 790, 1338, 828], \"category\": \"Text\", \"text\": \"2: Assessoren derstädes Carl Ludw. von Schantz.\"}, {\"bbox\": [543, 831, 1272, 875], \"category\": \"Text\", \"text\": \"3: Actuarien i Cancellie Archivo Joh. Helin.\"}, {\"bbox\": [505, 873, 1549, 1120], \"category\": \"Text\", \"text\": \"Berättande Collegium derhoos, att i fall Kongl. Maij:tt skulle behaga updraga denne bestälning åth någon annan af dem, än åth Assessoren Keder, det Collegium på sådan händelse sonderat dem, som jemte honom föreslagne blifwit, att til honom, Keder, uti dess lifztid afstå 4:de delen af lönen, likasom Peringschiöld det giordt.\"}, {\"bbox\": [505, 1121, 1545, 1205], \"category\": \"Text\", \"text\": \"Hans Maij:t sade, den gl. Keder är en wälmeriterad man, som härmed ihugkommas bör.\"}, {\"bbox\": [505, 1205, 1545, 1321], \"category\": \"Text\", \"text\": \"H:r Statz Secreteraren yttrade sig, att han fruchtade, det Keder ingalunda är i det tilstånd, att han denne bestälningen behörigen förwalta kan.\"}, {\"bbox\": [505, 1327, 1545, 1453], \"category\": \"Text\", \"text\": \"Hans Maij:t swarade: Jag kan intet gierna gå förbij Keder; om han nu får denne bestälning, så må han sedan afstå den samma, om han eij wil blifwa därwid.\"}, {\"bbox\": [505, 1453, 1545, 1580], \"category\": \"Text\", \"text\": \"H:r Grefwe Welling berättade tienstens angelägenhet och huru nödigt det wore, at den 3:tio loco föreslagne Helin därtil komme för de skiäl skull, som för honom blifwit af Collegio anförde.\"}, {\"bbox\": [505, 1577, 1545, 1748], \"category\": \"Text\", \"text\": \"H:r Rikz Rådet Baron Cederhielm berättade, att Hans Excell:ce H:r Grefwe Horn recommenderat Helin til berörde bestälning framför de andre, emedan hwad Assessor Keder angår, ehuruwäl han långt mera meriterad är, han likwäl denne tiensten eij åstunda skall,\"}, {\"bbox\": [505, 1771, 576, 1816], \"category\": \"Page-footer\", \"text\": \"246\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    843,
+    221,
+    1217,
+    257
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetsarkivet I"
+  },
+  {
+   "bbox": [
+    505,
+    289,
+    1552,
+    750
+   ],
+   "category": "Text",
+   "text": "hörde han redan kanslikollegiets ämbetsmannakår, vilket Dahlstedt ej gjorde, och 1719 hade Helin blivit förbigången, då han sökt att bliva sekreterare i riksarkivet. Förmodligen ville man nu såsom soulagement giva honom denna mindre maktpåliggande tjänst. Men egendomligt nog höll planen på att stranda i följd av konungens motstånd. Den 3 april 1725 föredrogs ärendet inför honom (R. A. Kabinettsprotokoll för inrikes civil expeditionen), och därvid gjorde han flera mycket förståndiga erinringar. »H:r Statz Secreteraren Bark upläste Cancellie Collegio förslag af d. 11 Martii innewarande åhr til Secreterare bestälningen wid Antiquitets Archivum effter framl:ne Peringschiöld, hwartil bem:te Collegium nämdt"
+  },
+  {
+   "bbox": [
+    543,
+    749,
+    1262,
+    786
+   ],
+   "category": "Text",
+   "text": "1: Assessoren dersammastädes Niclas Keder."
+  },
+  {
+   "bbox": [
+    543,
+    790,
+    1338,
+    828
+   ],
+   "category": "Text",
+   "text": "2: Assessoren derstädes Carl Ludw. von Schantz."
+  },
+  {
+   "bbox": [
+    543,
+    831,
+    1272,
+    875
+   ],
+   "category": "Text",
+   "text": "3: Actuarien i Cancellie Archivo Joh. Helin."
+  },
+  {
+   "bbox": [
+    505,
+    873,
+    1549,
+    1120
+   ],
+   "category": "Text",
+   "text": "Berättande Collegium derhoos, att i fall Kongl. Maij:tt skulle behaga updraga denne bestälning åth någon annan af dem, än åth Assessoren Keder, det Collegium på sådan händelse sonderat dem, som jemte honom föreslagne blifwit, att til honom, Keder, uti dess lifztid afstå 4:de delen af lönen, likasom Peringschiöld det giordt."
+  },
+  {
+   "bbox": [
+    505,
+    1121,
+    1545,
+    1205
+   ],
+   "category": "Text",
+   "text": "Hans Maij:t sade, den gl. Keder är en wälmeriterad man, som härmed ihugkommas bör."
+  },
+  {
+   "bbox": [
+    505,
+    1205,
+    1545,
+    1321
+   ],
+   "category": "Text",
+   "text": "H:r Statz Secreteraren yttrade sig, att han fruchtade, det Keder ingalunda är i det tilstånd, att han denne bestälningen behörigen förwalta kan."
+  },
+  {
+   "bbox": [
+    505,
+    1327,
+    1545,
+    1453
+   ],
+   "category": "Text",
+   "text": "Hans Maij:t swarade: Jag kan intet gierna gå förbij Keder; om han nu får denne bestälning, så må han sedan afstå den samma, om han eij wil blifwa därwid."
+  },
+  {
+   "bbox": [
+    505,
+    1453,
+    1545,
+    1580
+   ],
+   "category": "Text",
+   "text": "H:r Grefwe Welling berättade tienstens angelägenhet och huru nödigt det wore, at den 3:tio loco föreslagne Helin därtil komme för de skiäl skull, som för honom blifwit af Collegio anförde."
+  },
+  {
+   "bbox": [
+    505,
+    1577,
+    1545,
+    1748
+   ],
+   "category": "Text",
+   "text": "H:r Rikz Rådet Baron Cederhielm berättade, att Hans Excell:ce H:r Grefwe Horn recommenderat Helin til berörde bestälning framför de andre, emedan hwad Assessor Keder angår, ehuruwäl han långt mera meriterad är, han likwäl denne tiensten eij åstunda skall,"
+  },
+  {
+   "bbox": [
+    505,
+    1771,
+    576,
+    1816
+   ],
+   "category": "Page-footer",
+   "text": "246"
+  }
+ ]
+}

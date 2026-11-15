@@ -1,0 +1,122 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1935",
+ "index": 266,
+ "seconds": 29.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [365, 215, 879, 261], \"category\": \"Page-header\", \"text\": \"Den yngre Peringskiölds tid\"}, {\"bbox\": [95, 283, 1139, 376], \"category\": \"Text\", \"text\": \"utan är nögd med de wilckohr, som han wid sin nu hafwande bestälning niuter.\"}, {\"bbox\": [95, 367, 1142, 577], \"category\": \"Text\", \"text\": \"Hans Maij:t sade: Man har berättat mig, att Keder wore nögd till att emottaga secretariatet; och som iag desse dagar fådt weta, att Cancellie Collegium satt honom på dess förslag ibland de andre 2:ne, så har iag för honom engagerat min parole, den iag gierna sauvera will.\"}, {\"bbox\": [99, 574, 1145, 831], \"category\": \"Text\", \"text\": \"Deras Excell:r så wäl som H:r Stats Secreteraren swarade: Det de trodde, att Keder wore bättre belåten att förblifwa wid sitt assessorat, allenast så hädan effter som härtils honom continueras det augment til assessors löhnen, hwilcket han af Secretariatet hafft, det honom jämbwäl nu tilsäijes af den, som ibland de bägge jemte honom föreslagne får bem:te Secreterare bestälning.\"}, {\"bbox\": [102, 825, 1145, 912], \"category\": \"Text\", \"text\": \"Hans Maij:tt sade: Om han sielf afsäger sig bestälningen, sedan han den fådt, så kan det då wara tilfälle att befordra Helin.\"}, {\"bbox\": [102, 907, 1147, 1039], \"category\": \"Text\", \"text\": \"Deras Excell:r förestälte i underdånighet de meriter och den Capacité, som Cancellie Collegium i des förslag tillagdt Helin och understälte sådant Kongl. Maij:ts nådige reflexion.\"}, {\"bbox\": [102, 1032, 1151, 1283], \"category\": \"Text\", \"text\": \"Hans Maij:tt sade: Jag känner dem ingendera widare, än hwad iag nu om dem hördt. Elliest har en wid nampn Dahlstedt hoos mig ingifwit en Supplique och begiärdt få succedera någondera af dem, som till Secretariatet föreslagne äro och det samma bekommandes worde, och gaf därpå samma supplique åth H:r Statz Secreteraren.\"}, {\"bbox\": [106, 1281, 1151, 1407], \"category\": \"Text\", \"text\": \"H:r Statz Secreteraren sade, att det tilkommer Cancellie Collegium at gifwa förslag på sådan ledig blifwande bestälning, frågandes, huru nu med Secretariatet blifwa skulle.\"}, {\"bbox\": [106, 1405, 1153, 1581], \"category\": \"Text\", \"text\": \"Hans Maij:tt sade, att Keder får fulmakt på det samma, så framt han det hafwa will, men om [han] det eij accepterar, så blir Helin Secreterare, hwarom Statz Secreteraren fick K. Maij:tts befalning at giöra sig underrättat af Keder.\"}, {\"bbox\": [109, 1572, 1155, 1705], \"category\": \"Text\", \"text\": \"Härjemte befalte Hans Maij:tt, att som han giärna seer Dahlstedt hulpen uti sin ansökning, så blir hans supplique remitterad till Cancellie Collegium att tagas i behörig consideration.\"}, {\"bbox\": [1081, 1775, 1153, 1814], \"category\": \"Page-footer\", \"text\": \"247\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    365,
+    215,
+    879,
+    261
+   ],
+   "category": "Page-header",
+   "text": "Den yngre Peringskiölds tid"
+  },
+  {
+   "bbox": [
+    95,
+    283,
+    1139,
+    376
+   ],
+   "category": "Text",
+   "text": "utan är nögd med de wilckohr, som han wid sin nu hafwande bestälning niuter."
+  },
+  {
+   "bbox": [
+    95,
+    367,
+    1142,
+    577
+   ],
+   "category": "Text",
+   "text": "Hans Maij:t sade: Man har berättat mig, att Keder wore nögd till att emottaga secretariatet; och som iag desse dagar fådt weta, att Cancellie Collegium satt honom på dess förslag ibland de andre 2:ne, så har iag för honom engagerat min parole, den iag gierna sauvera will."
+  },
+  {
+   "bbox": [
+    99,
+    574,
+    1145,
+    831
+   ],
+   "category": "Text",
+   "text": "Deras Excell:r så wäl som H:r Stats Secreteraren swarade: Det de trodde, att Keder wore bättre belåten att förblifwa wid sitt assessorat, allenast så hädan effter som härtils honom continueras det augment til assessors löhnen, hwilcket han af Secretariatet hafft, det honom jämbwäl nu tilsäijes af den, som ibland de bägge jemte honom föreslagne får bem:te Secreterare bestälning."
+  },
+  {
+   "bbox": [
+    102,
+    825,
+    1145,
+    912
+   ],
+   "category": "Text",
+   "text": "Hans Maij:tt sade: Om han sielf afsäger sig bestälningen, sedan han den fådt, så kan det då wara tilfälle att befordra Helin."
+  },
+  {
+   "bbox": [
+    102,
+    907,
+    1147,
+    1039
+   ],
+   "category": "Text",
+   "text": "Deras Excell:r förestälte i underdånighet de meriter och den Capacité, som Cancellie Collegium i des förslag tillagdt Helin och understälte sådant Kongl. Maij:ts nådige reflexion."
+  },
+  {
+   "bbox": [
+    102,
+    1032,
+    1151,
+    1283
+   ],
+   "category": "Text",
+   "text": "Hans Maij:tt sade: Jag känner dem ingendera widare, än hwad iag nu om dem hördt. Elliest har en wid nampn Dahlstedt hoos mig ingifwit en Supplique och begiärdt få succedera någondera af dem, som till Secretariatet föreslagne äro och det samma bekommandes worde, och gaf därpå samma supplique åth H:r Statz Secreteraren."
+  },
+  {
+   "bbox": [
+    106,
+    1281,
+    1151,
+    1407
+   ],
+   "category": "Text",
+   "text": "H:r Statz Secreteraren sade, att det tilkommer Cancellie Collegium at gifwa förslag på sådan ledig blifwande bestälning, frågandes, huru nu med Secretariatet blifwa skulle."
+  },
+  {
+   "bbox": [
+    106,
+    1405,
+    1153,
+    1581
+   ],
+   "category": "Text",
+   "text": "Hans Maij:tt sade, att Keder får fulmakt på det samma, så framt han det hafwa will, men om [han] det eij accepterar, så blir Helin Secreterare, hwarom Statz Secreteraren fick K. Maij:tts befalning at giöra sig underrättat af Keder."
+  },
+  {
+   "bbox": [
+    109,
+    1572,
+    1155,
+    1705
+   ],
+   "category": "Text",
+   "text": "Härjemte befalte Hans Maij:tt, att som han giärna seer Dahlstedt hulpen uti sin ansökning, så blir hans supplique remitterad till Cancellie Collegium att tagas i behörig consideration."
+  },
+  {
+   "bbox": [
+    1081,
+    1775,
+    1153,
+    1814
+   ],
+   "category": "Page-footer",
+   "text": "247"
+  }
+ ]
+}
