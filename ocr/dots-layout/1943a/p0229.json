@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 229,
+ "seconds": 26.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [775, 234, 1205, 276], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [467, 304, 1506, 802], \"category\": \"Text\", \"text\": \"Sedan dröjde det en tid, innan arvingarna, som förmodligen icke\\nvoro latinkunnige, läto höra av sig, men vid sammanträdet den 13 no-\\nvember anmäldes i akademien, »att Grosshandlaren Pomps arfvingar,\\npå hvilkas begäran en latinsk inskription öfver dess graf af academien\\nblifvit faststäld och i Protocollet för den 6 febr. nästl. intagen, vid\\nnärmare eftersinnande trott en på Svenska författad påskrift vara\\nlämpeligare och i sådant afseende meddelt ett förslag, som till innehål-\\nlet med den ovannämnda Latinska var i det mesta lika, hvilken Herr\\nCantzli Rådet v.stein emottog och lofvade att deröfver med-\\ndela academien sitt yttrande». Med sedvanlig välvilja tillmötesgick\\nakademien nu arvingarnas önskan, upphöjde »handelsmannen» till\\n»grosshandlare» och meddelade dem en svensk inskrift:\"}, {\"bbox\": [687, 811, 1288, 1300], \"category\": \"Text\", \"text\": \"»Här nedanföre\\nförwaras\\nDe Jordiska öfwerlefwor\\naf\\nEn wälsinnad och redelig Medborgare\\nGrosshandlaren i Stockholm\\nPetter Pomp\\nFödd i fahlun d. 5 Nov. 1720\\nDöd i Stockholm d. 19 Julii 1786\\nGenom wälgörande\\nHar han lämnat efter sig hos många\\nEn öm åminnelse.»\"}, {\"bbox\": [469, 1334, 1506, 1750], \"category\": \"Text\", \"text\": \"Vida svårare var en annan uppgift, som akademien dock ansåg sig\\nskyldig att lösa, nämligen »en påskrift på en minnessten öfver köp-\\nmannen Lundgren i Philipstad». Vid sammanträdet den 12 juni 1787\\nåtog sig Engeström att med ledning av de lämnade uppgifterna till\\nnästa sammanträde inkomma med ett förslag. Till sammanträdet\\nden 18 juli hade verkligen Engeström ett yttrande färdigt, som bör\\nha kostat honom åtskilligt huvudbry, ty för det första var det ej\\nrätt klart, om arvingarna önskat en minnesvård eller tre. I det\\nförra fallet tyckes icke ens en jättelik bautasten ha räckt till för\\nalla de uppgifter, som på den skulle rymmas. Ty på denna skulle\"}, {\"bbox\": [476, 1786, 545, 1814], \"category\": \"Page-footer\", \"text\": \"212\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    775,
+    234,
+    1205,
+    276
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    467,
+    304,
+    1506,
+    802
+   ],
+   "category": "Text",
+   "text": "Sedan dröjde det en tid, innan arvingarna, som förmodligen icke\nvoro latinkunnige, läto höra av sig, men vid sammanträdet den 13 no-\nvember anmäldes i akademien, »att Grosshandlaren Pomps arfvingar,\npå hvilkas begäran en latinsk inskription öfver dess graf af academien\nblifvit faststäld och i Protocollet för den 6 febr. nästl. intagen, vid\nnärmare eftersinnande trott en på Svenska författad påskrift vara\nlämpeligare och i sådant afseende meddelt ett förslag, som till innehål-\nlet med den ovannämnda Latinska var i det mesta lika, hvilken Herr\nCantzli Rådet v.stein emottog och lofvade att deröfver med-\ndela academien sitt yttrande». Med sedvanlig välvilja tillmötesgick\nakademien nu arvingarnas önskan, upphöjde »handelsmannen» till\n»grosshandlare» och meddelade dem en svensk inskrift:"
+  },
+  {
+   "bbox": [
+    687,
+    811,
+    1288,
+    1300
+   ],
+   "category": "Text",
+   "text": "»Här nedanföre\nförwaras\nDe Jordiska öfwerlefwor\naf\nEn wälsinnad och redelig Medborgare\nGrosshandlaren i Stockholm\nPetter Pomp\nFödd i fahlun d. 5 Nov. 1720\nDöd i Stockholm d. 19 Julii 1786\nGenom wälgörande\nHar han lämnat efter sig hos många\nEn öm åminnelse.»"
+  },
+  {
+   "bbox": [
+    469,
+    1334,
+    1506,
+    1750
+   ],
+   "category": "Text",
+   "text": "Vida svårare var en annan uppgift, som akademien dock ansåg sig\nskyldig att lösa, nämligen »en påskrift på en minnessten öfver köp-\nmannen Lundgren i Philipstad». Vid sammanträdet den 12 juni 1787\nåtog sig Engeström att med ledning av de lämnade uppgifterna till\nnästa sammanträde inkomma med ett förslag. Till sammanträdet\nden 18 juli hade verkligen Engeström ett yttrande färdigt, som bör\nha kostat honom åtskilligt huvudbry, ty för det första var det ej\nrätt klart, om arvingarna önskat en minnesvård eller tre. I det\nförra fallet tyckes icke ens en jättelik bautasten ha räckt till för\nalla de uppgifter, som på den skulle rymmas. Ty på denna skulle"
+  },
+  {
+   "bbox": [
+    476,
+    1786,
+    545,
+    1814
+   ],
+   "category": "Page-footer",
+   "text": "212"
+  }
+ ]
+}

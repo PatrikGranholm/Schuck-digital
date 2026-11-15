@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 16,
+ "seconds": 27.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [407, 486, 850, 523], \"category\": \"Section-header\", \"text\": \"STATUTER OCH STAT\"}, {\"bbox\": [111, 598, 1154, 1176], \"category\": \"Text\", \"text\": \"Vitterhets Historie och Antikvitetsakademiens historia från stiftelseåret 1786 fram till våra dagar sönderfaller i två bestämt skilda perioder: svaghetstiden från 1786 till 1837 och den följande 100-årsperioden, som inledes genom Bror Emil Hildebrands utnämning till riksantikvarie och som fylles av en alltjämt stegrad livskraft. Från en »medaljakademi» utvecklades nu Lovisa Ulricas och Gustav III:s skapelse till ett verksamt arkeologiskt forskningsinstitut, som upptog det gamla Antikvitetsarkivets traditioner för att till sist övergå till en allmänt humanistisk vetenskapsakademi. Men även de första 50 åren av akademiens verksamhet kunna uppdelas i mindre avdelningar, som i viss mån fått sin karaktär av de olika sekreterarnes insatser eller — kanske rättare — deras något olika brist på insatser. Vi vända oss först till Adlerbeths tid, då Antikvitetsarkivet och Vitterhetsakademien omorganiserades till Vitterhets Historie och Antikvitetsakademien.\"}, {\"bbox\": [111, 1176, 1154, 1465], \"category\": \"Text\", \"text\": \"Den första delen av den nya akademiens Handlingar inledes med ett meddelande om själva stiftelseförfarandet: »Den 20 Martii eller 33 år sedan Högstsalig Konung Adolph Fredric låtit utfärda Academiens första Lagar, täcktes Hans Kongl. Maj:t begifva Sig i Des Råd-Kammare och de in pleno församlade Herrar Riksens-Råd tilkännagifva Sit nådiga beslut, låta upläsa de nya Statuterne samt den Donations Skrift Hans Kongl. Maj:t för Academien låtit författa.»\"}, {\"bbox\": [111, 1465, 1154, 1755], \"category\": \"Text\", \"text\": \"De statuter, som nu upplästes, hade antagligen — liksom Svenska akademiens samtidigt utfärdade — efter konungens direktiv avfattats av Schröderheim, som följt med konungen på dennes resa i mars till Uppsala, och de hade nog ej varit alldeles lätta att formulera, ty å ena sidan gällde det att låta Lovisa Ulricas akademi upphöra såsom en för svensk vitterhet och svenskt språk verkande smakdomstol för att såsom sådan efterträdas av Gustav III:s egen nyskapelse, under det att\"}, {\"bbox\": [111, 1794, 200, 1818], \"category\": \"Page-footer\", \"text\": \"I-42108.\"}, {\"bbox\": [1127, 1792, 1142, 1818], \"category\": \"Page-footer\", \"text\": \"I\"}, {\"bbox\": [1154, 603, 1252, 636], \"category\": \"Page-header\", \"text\": \"Inledning\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    407,
+    486,
+    850,
+    523
+   ],
+   "category": "Section-header",
+   "text": "STATUTER OCH STAT"
+  },
+  {
+   "bbox": [
+    111,
+    598,
+    1154,
+    1176
+   ],
+   "category": "Text",
+   "text": "Vitterhets Historie och Antikvitetsakademiens historia från stiftelseåret 1786 fram till våra dagar sönderfaller i två bestämt skilda perioder: svaghetstiden från 1786 till 1837 och den följande 100-årsperioden, som inledes genom Bror Emil Hildebrands utnämning till riksantikvarie och som fylles av en alltjämt stegrad livskraft. Från en »medaljakademi» utvecklades nu Lovisa Ulricas och Gustav III:s skapelse till ett verksamt arkeologiskt forskningsinstitut, som upptog det gamla Antikvitetsarkivets traditioner för att till sist övergå till en allmänt humanistisk vetenskapsakademi. Men även de första 50 åren av akademiens verksamhet kunna uppdelas i mindre avdelningar, som i viss mån fått sin karaktär av de olika sekreterarnes insatser eller — kanske rättare — deras något olika brist på insatser. Vi vända oss först till Adlerbeths tid, då Antikvitetsarkivet och Vitterhetsakademien omorganiserades till Vitterhets Historie och Antikvitetsakademien."
+  },
+  {
+   "bbox": [
+    111,
+    1176,
+    1154,
+    1465
+   ],
+   "category": "Text",
+   "text": "Den första delen av den nya akademiens Handlingar inledes med ett meddelande om själva stiftelseförfarandet: »Den 20 Martii eller 33 år sedan Högstsalig Konung Adolph Fredric låtit utfärda Academiens första Lagar, täcktes Hans Kongl. Maj:t begifva Sig i Des Råd-Kammare och de in pleno församlade Herrar Riksens-Råd tilkännagifva Sit nådiga beslut, låta upläsa de nya Statuterne samt den Donations Skrift Hans Kongl. Maj:t för Academien låtit författa.»"
+  },
+  {
+   "bbox": [
+    111,
+    1465,
+    1154,
+    1755
+   ],
+   "category": "Text",
+   "text": "De statuter, som nu upplästes, hade antagligen — liksom Svenska akademiens samtidigt utfärdade — efter konungens direktiv avfattats av Schröderheim, som följt med konungen på dennes resa i mars till Uppsala, och de hade nog ej varit alldeles lätta att formulera, ty å ena sidan gällde det att låta Lovisa Ulricas akademi upphöra såsom en för svensk vitterhet och svenskt språk verkande smakdomstol för att såsom sådan efterträdas av Gustav III:s egen nyskapelse, under det att"
+  },
+  {
+   "bbox": [
+    111,
+    1794,
+    200,
+    1818
+   ],
+   "category": "Page-footer",
+   "text": "I-42108."
+  },
+  {
+   "bbox": [
+    1127,
+    1792,
+    1142,
+    1818
+   ],
+   "category": "Page-footer",
+   "text": "I"
+  },
+  {
+   "bbox": [
+    1154,
+    603,
+    1252,
+    636
+   ],
+   "category": "Page-header",
+   "text": "Inledning"
+  }
+ ]
+}

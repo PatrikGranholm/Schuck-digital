@@ -1,0 +1,142 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 406,
+ "seconds": 31.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [243, 229, 1018, 272], \"category\": \"Section-header\", \"text\": \"Den tilltänkta katalogen över kufiska mynt\"}, {\"bbox\": [158, 299, 1145, 376], \"category\": \"Text\", \"text\": \"7) En annotation hörande til någotdera af de 7 paqueterne i blad in 8:0.\"}, {\"bbox\": [114, 388, 1145, 469], \"category\": \"Text\", \"text\": \"Stockholm den 12 Nov. 87. Pehr Malmström.» (Kongl. Myntkab. Cufiska Saml.)\"}, {\"bbox\": [111, 494, 1147, 826], \"category\": \"Text\", \"text\": \"Utom dessa här nämnda papper fick Malmström tillgång till en av Aurivillius påbörjad katalog över innehållet i de olika kuvert, i vilka mynten voro inlagda. Den prydligt renskrivna katalogen upptager blott fyra kuvert med i dem inlagda mynt, men torde beträffande dessa innehålla de i en katalog nödvändiga uppgifterna: om myntorten, där denna finnes angiven, kalifens namn och titel samt präglingsåret enligt såväl muhammedansk som kristen tidräkning. Katalogen börjar:\"}, {\"bbox\": [324, 829, 930, 968], \"category\": \"Text\", \"text\": \"»I Convolut No. 1\\nhvari funnos 101 stycken penningar,\\näro 5 hörande till arabiska Chalipher eller\\nMuhammeds Efterträdare\"}, {\"bbox\": [113, 976, 1142, 1086], \"category\": \"Text\", \"text\": \"Den förste\\npräglad med Chaliphen Motaouvakkel al Allah Abou abd Allah år Hedg. 243. Chr. 857. Präglingsortens namn är icke utsatt.\"}, {\"bbox\": [113, 1088, 1142, 1163], \"category\": \"Text\", \"text\": \"Den andre\\nunder Chaliphen Moctafi billah, präglad i Sermoenrâi år H. 290. Chr. 902.\"}, {\"bbox\": [111, 1165, 1145, 1452], \"category\": \"Text\", \"text\": \"Den tredie\\nunder Chaliphen Moktadar billah Aboulabbâs ben Emirelmuminîna, präglad i Bagdad (Medinet essalâm) år H. 313, Chr. 925. Aboulabbâs betyder, att Chaliphen var af abbasidiska stammen. Emirelmuminîna, *furste för de rättrogna*, är en titel, som Chalipherna först antogo, men hvilken de mägtigare arabiske Regenter ej allenast i Asien utan ock i Africa, Spanien och andra orter sedermera sig gemensamt tillvällade. Ben Emirelmuminîna vill således säga, att Moktadars fader äfven varit Chaliph.»\"}, {\"bbox\": [111, 1490, 1145, 1698], \"category\": \"Text\", \"text\": \"Med dessa förarbeten förefaller ej heller en ny katalog vara ett företag, som kunde anses överstiga Malmströms krafter, och den 27 maj 1788 anmäldes, att katalogen nu var färdig; den 2 juni förelades den för akademien, då Malmström även erhöll det blygsamma honoraret, 33 rdr 16 sk. Katalogen är uppställd i följande kolumner:\"}, {\"bbox\": [115, 1702, 1145, 1746], \"category\": \"Text\", \"text\": \"1) Nummer i samlingen (1—391) 2) Präglingsåret enligt muhame-\"}, {\"bbox\": [1158, 1501, 1282, 1562], \"category\": \"Text\", \"text\": \"Malmströms katalog\"}, {\"bbox\": [113, 1786, 211, 1810], \"category\": \"Page-footer\", \"text\": \"25-42108.\"}, {\"bbox\": [1073, 1776, 1139, 1820], \"category\": \"Page-footer\", \"text\": \"385\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    243,
+    229,
+    1018,
+    272
+   ],
+   "category": "Section-header",
+   "text": "Den tilltänkta katalogen över kufiska mynt"
+  },
+  {
+   "bbox": [
+    158,
+    299,
+    1145,
+    376
+   ],
+   "category": "Text",
+   "text": "7) En annotation hörande til någotdera af de 7 paqueterne i blad in 8:0."
+  },
+  {
+   "bbox": [
+    114,
+    388,
+    1145,
+    469
+   ],
+   "category": "Text",
+   "text": "Stockholm den 12 Nov. 87. Pehr Malmström.» (Kongl. Myntkab. Cufiska Saml.)"
+  },
+  {
+   "bbox": [
+    111,
+    494,
+    1147,
+    826
+   ],
+   "category": "Text",
+   "text": "Utom dessa här nämnda papper fick Malmström tillgång till en av Aurivillius påbörjad katalog över innehållet i de olika kuvert, i vilka mynten voro inlagda. Den prydligt renskrivna katalogen upptager blott fyra kuvert med i dem inlagda mynt, men torde beträffande dessa innehålla de i en katalog nödvändiga uppgifterna: om myntorten, där denna finnes angiven, kalifens namn och titel samt präglingsåret enligt såväl muhammedansk som kristen tidräkning. Katalogen börjar:"
+  },
+  {
+   "bbox": [
+    324,
+    829,
+    930,
+    968
+   ],
+   "category": "Text",
+   "text": "»I Convolut No. 1\nhvari funnos 101 stycken penningar,\näro 5 hörande till arabiska Chalipher eller\nMuhammeds Efterträdare"
+  },
+  {
+   "bbox": [
+    113,
+    976,
+    1142,
+    1086
+   ],
+   "category": "Text",
+   "text": "Den förste\npräglad med Chaliphen Motaouvakkel al Allah Abou abd Allah år Hedg. 243. Chr. 857. Präglingsortens namn är icke utsatt."
+  },
+  {
+   "bbox": [
+    113,
+    1088,
+    1142,
+    1163
+   ],
+   "category": "Text",
+   "text": "Den andre\nunder Chaliphen Moctafi billah, präglad i Sermoenrâi år H. 290. Chr. 902."
+  },
+  {
+   "bbox": [
+    111,
+    1165,
+    1145,
+    1452
+   ],
+   "category": "Text",
+   "text": "Den tredie\nunder Chaliphen Moktadar billah Aboulabbâs ben Emirelmuminîna, präglad i Bagdad (Medinet essalâm) år H. 313, Chr. 925. Aboulabbâs betyder, att Chaliphen var af abbasidiska stammen. Emirelmuminîna, *furste för de rättrogna*, är en titel, som Chalipherna först antogo, men hvilken de mägtigare arabiske Regenter ej allenast i Asien utan ock i Africa, Spanien och andra orter sedermera sig gemensamt tillvällade. Ben Emirelmuminîna vill således säga, att Moktadars fader äfven varit Chaliph.»"
+  },
+  {
+   "bbox": [
+    111,
+    1490,
+    1145,
+    1698
+   ],
+   "category": "Text",
+   "text": "Med dessa förarbeten förefaller ej heller en ny katalog vara ett företag, som kunde anses överstiga Malmströms krafter, och den 27 maj 1788 anmäldes, att katalogen nu var färdig; den 2 juni förelades den för akademien, då Malmström även erhöll det blygsamma honoraret, 33 rdr 16 sk. Katalogen är uppställd i följande kolumner:"
+  },
+  {
+   "bbox": [
+    115,
+    1702,
+    1145,
+    1746
+   ],
+   "category": "Text",
+   "text": "1) Nummer i samlingen (1—391) 2) Präglingsåret enligt muhame-"
+  },
+  {
+   "bbox": [
+    1158,
+    1501,
+    1282,
+    1562
+   ],
+   "category": "Text",
+   "text": "Malmströms katalog"
+  },
+  {
+   "bbox": [
+    113,
+    1786,
+    211,
+    1810
+   ],
+   "category": "Page-footer",
+   "text": "25-42108."
+  },
+  {
+   "bbox": [
+    1073,
+    1776,
+    1139,
+    1820
+   ],
+   "category": "Page-footer",
+   "text": "385"
+  }
+ ]
+}

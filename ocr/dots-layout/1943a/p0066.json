@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 66,
+ "seconds": 21.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [454, 235, 756, 269], \"category\": \"Section-header\", \"text\": \"Statuter och stat\"}, {\"bbox\": [88, 304, 1126, 388], \"category\": \"Text\", \"text\": \"ur denna fond erhöll ett reseanslag à 150 rdr — något, som dock ej omtalas i protokollen.\"}, {\"bbox\": [88, 388, 1128, 719], \"category\": \"Text\", \"text\": \"Pensioner till ledamöter i de båda akademierna utdelades för första gången den 24 januari 1787 och omtalas i Svenska akademiens protokoll för den 27 januari »Directeuren anmälte, at han uppå Nådig befallning infunnit sig hos Konungen, då Hans M:t öfverlemnat honom et papper med dess Höga underskrift, som innehöll, at Hans M:t den 24 Januarii på Haga utnämt följande Ledamöter af denna och Kongl. Vitterhets Academien at undfå hvar sin af de på Academiens Stat upförde 8 pensioner, neml.\"}, {\"bbox\": [212, 728, 1019, 937], \"category\": \"Table\", \"text\": \"<table><tr><td>Herr Adlerbeth</td><td>150 Rdr.</td></tr><tr><td>Herr Nordin</td><td>100 d:o</td></tr><tr><td>Herr Leopoldt</td><td>100 d:o</td></tr><tr><td>Herr Ristell</td><td>100 d:o</td></tr><tr><td>Herr Hallenberg</td><td>100 d:o</td></tr></table>\"}, {\"bbox\": [88, 965, 1128, 1048], \"category\": \"Text\", \"text\": \"Academien updrog Directeuren at häröfver betyga dess underd. erkänsla, hvilket ock verkstäldes, då Konungen kort derefter inkom.»\"}, {\"bbox\": [88, 1048, 1128, 1292], \"category\": \"Text\", \"text\": \"Av de disponibla åtta pensionerna återstodo således blott två å 100 och en å 150 rdr, vilken senare blev innestående till 1790, då Leopold fick utbyta den mindre pensionen mot den större. Av de nyss nämnda pensionärerna hörde två, Adlerbeth och Nordin, till bägge akademierna, Leopold blott till den Svenska samt två, Hallenberg och Ristell, blott till Vitterhets Historie och Antikvitetsakademien.\"}, {\"bbox\": [88, 1294, 1128, 1751], \"category\": \"Text\", \"text\": \"Tre dagar senare, den 30 januari, tillkännagavs denna utnämning även i Vitterhets Historie och Antikvitetsakademien, men på ett högst besynnerligt sätt: »Secreteraren anmälte, det Hans Maj:t befalt honom gifva academien tillkänna, att Hans Maj:t af den ynnest, hvarmed Konungen omfattar och upmuntrar vetenskaper och vitterhet, behagat å Dess höga födelsedag tillägga 2:ne Ledamöter af Witterhets academien en årl. pension af 100 Rdr. Specie hvardera; men att hvad personerna beträffar, som böra komma till åtnjutande af samma Kongl. nåd, Hans Maj:t vid annat tillfälle ville meddela academien sitt beslut. Academien ärkände med underdånig wördnad detta förnyade vedermäle af Sin Höga Beskyddares nåd och önskade\"}, {\"bbox\": [1077, 1788, 1121, 1827], \"category\": \"Page-footer\", \"text\": \"51\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    454,
+    235,
+    756,
+    269
+   ],
+   "category": "Section-header",
+   "text": "Statuter och stat"
+  },
+  {
+   "bbox": [
+    88,
+    304,
+    1126,
+    388
+   ],
+   "category": "Text",
+   "text": "ur denna fond erhöll ett reseanslag à 150 rdr — något, som dock ej omtalas i protokollen."
+  },
+  {
+   "bbox": [
+    88,
+    388,
+    1128,
+    719
+   ],
+   "category": "Text",
+   "text": "Pensioner till ledamöter i de båda akademierna utdelades för första gången den 24 januari 1787 och omtalas i Svenska akademiens protokoll för den 27 januari »Directeuren anmälte, at han uppå Nådig befallning infunnit sig hos Konungen, då Hans M:t öfverlemnat honom et papper med dess Höga underskrift, som innehöll, at Hans M:t den 24 Januarii på Haga utnämt följande Ledamöter af denna och Kongl. Vitterhets Academien at undfå hvar sin af de på Academiens Stat upförde 8 pensioner, neml."
+  },
+  {
+   "bbox": [
+    212,
+    728,
+    1019,
+    937
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>Herr Adlerbeth</td><td>150 Rdr.</td></tr><tr><td>Herr Nordin</td><td>100 d:o</td></tr><tr><td>Herr Leopoldt</td><td>100 d:o</td></tr><tr><td>Herr Ristell</td><td>100 d:o</td></tr><tr><td>Herr Hallenberg</td><td>100 d:o</td></tr></table>"
+  },
+  {
+   "bbox": [
+    88,
+    965,
+    1128,
+    1048
+   ],
+   "category": "Text",
+   "text": "Academien updrog Directeuren at häröfver betyga dess underd. erkänsla, hvilket ock verkstäldes, då Konungen kort derefter inkom.»"
+  },
+  {
+   "bbox": [
+    88,
+    1048,
+    1128,
+    1292
+   ],
+   "category": "Text",
+   "text": "Av de disponibla åtta pensionerna återstodo således blott två å 100 och en å 150 rdr, vilken senare blev innestående till 1790, då Leopold fick utbyta den mindre pensionen mot den större. Av de nyss nämnda pensionärerna hörde två, Adlerbeth och Nordin, till bägge akademierna, Leopold blott till den Svenska samt två, Hallenberg och Ristell, blott till Vitterhets Historie och Antikvitetsakademien."
+  },
+  {
+   "bbox": [
+    88,
+    1294,
+    1128,
+    1751
+   ],
+   "category": "Text",
+   "text": "Tre dagar senare, den 30 januari, tillkännagavs denna utnämning även i Vitterhets Historie och Antikvitetsakademien, men på ett högst besynnerligt sätt: »Secreteraren anmälte, det Hans Maj:t befalt honom gifva academien tillkänna, att Hans Maj:t af den ynnest, hvarmed Konungen omfattar och upmuntrar vetenskaper och vitterhet, behagat å Dess höga födelsedag tillägga 2:ne Ledamöter af Witterhets academien en årl. pension af 100 Rdr. Specie hvardera; men att hvad personerna beträffar, som böra komma till åtnjutande af samma Kongl. nåd, Hans Maj:t vid annat tillfälle ville meddela academien sitt beslut. Academien ärkände med underdånig wördnad detta förnyade vedermäle af Sin Höga Beskyddares nåd och önskade"
+  },
+  {
+   "bbox": [
+    1077,
+    1788,
+    1121,
+    1827
+   ],
+   "category": "Page-footer",
+   "text": "51"
+  }
+ ]
+}

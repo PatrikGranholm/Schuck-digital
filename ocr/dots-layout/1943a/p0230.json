@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 230,
+ "seconds": 24.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [357, 237, 966, 282], \"category\": \"Section-header\", \"text\": \"Övriga medaljer och inskriptioner\"}, {\"bbox\": [141, 309, 1180, 840], \"category\": \"Text\", \"text\": \"nämnas icke mindre än 29 personer med angivande av födelse och (i de flesta fall) dödsår. Engeström tyckes emellertid ha tänkt sig, att enda möjligheten vore att fördela dessa uppgifter på tre minnesstenar, den första över Johan Lundgren själv, den andra över hans hustru Lisa Bjuggren, hennes tolv barn och fyra mågar, och en tredje sten över Lisa Bjuggrens morfar Magnus Ternell och dennes avkomlingar. Det syntes likväl akademien — skrives i protokollet — möta mycken svårighet att kunna föreslå en någorlunda dräglig inskrift. »Dock sökte Kongl. academien, så mycket möjligt war, lämpa sig efter wederbörandes tankar, och af de twänne ingifna Förslag hade Herr Cancelli Rådet von Engeström författat trenne minnesvårdar, hvilka Kongl. academien fastställde af följande beskaffenhet.»\"}, {\"bbox\": [145, 845, 1174, 922], \"category\": \"Text\", \"text\": \"Den första, öfver Johan Lundgren själv, är den kortaste och kan därför här anföras:\"}, {\"bbox\": [282, 935, 1046, 1718], \"category\": \"Text\", \"text\": \"»Minne\\naf\\nBrukspatronen och Handelsmannen\\nJohan Lundgren\\nFödd på Torpa wid Lidköping d. 2 Febr. 1705\\nGift med Lisa Bjuggren D. 17 Junii 1740.\\nDess redlighet, omtänksamhet och Drift\\nRönte Guds wälsignelse.\\nOm Dess goda hjärta wittnar\\nDet Capital af 5000 Riksdal. Han anslagit\\nTill ständigt underhåll\\nFör Fyratio torftige Bergmäns Barn.\\nMätt af ålder\\nLämnade han Tiden D....\\nLäsare\\nKan Dess hedrande wandel af Dig följas\\nBlifwer äfwen Din Lott\\nAtt såsom god Medborgare, Anhörig, Wälgörare\\nHögaktas, Älskas, saknas, begråtas.»\"}, {\"bbox\": [1106, 1790, 1171, 1827], \"category\": \"Page-footer\", \"text\": \"213\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    357,
+    237,
+    966,
+    282
+   ],
+   "category": "Section-header",
+   "text": "Övriga medaljer och inskriptioner"
+  },
+  {
+   "bbox": [
+    141,
+    309,
+    1180,
+    840
+   ],
+   "category": "Text",
+   "text": "nämnas icke mindre än 29 personer med angivande av födelse och (i de flesta fall) dödsår. Engeström tyckes emellertid ha tänkt sig, att enda möjligheten vore att fördela dessa uppgifter på tre minnesstenar, den första över Johan Lundgren själv, den andra över hans hustru Lisa Bjuggren, hennes tolv barn och fyra mågar, och en tredje sten över Lisa Bjuggrens morfar Magnus Ternell och dennes avkomlingar. Det syntes likväl akademien — skrives i protokollet — möta mycken svårighet att kunna föreslå en någorlunda dräglig inskrift. »Dock sökte Kongl. academien, så mycket möjligt war, lämpa sig efter wederbörandes tankar, och af de twänne ingifna Förslag hade Herr Cancelli Rådet von Engeström författat trenne minnesvårdar, hvilka Kongl. academien fastställde af följande beskaffenhet.»"
+  },
+  {
+   "bbox": [
+    145,
+    845,
+    1174,
+    922
+   ],
+   "category": "Text",
+   "text": "Den första, öfver Johan Lundgren själv, är den kortaste och kan därför här anföras:"
+  },
+  {
+   "bbox": [
+    282,
+    935,
+    1046,
+    1718
+   ],
+   "category": "Text",
+   "text": "»Minne\naf\nBrukspatronen och Handelsmannen\nJohan Lundgren\nFödd på Torpa wid Lidköping d. 2 Febr. 1705\nGift med Lisa Bjuggren D. 17 Junii 1740.\nDess redlighet, omtänksamhet och Drift\nRönte Guds wälsignelse.\nOm Dess goda hjärta wittnar\nDet Capital af 5000 Riksdal. Han anslagit\nTill ständigt underhåll\nFör Fyratio torftige Bergmäns Barn.\nMätt af ålder\nLämnade han Tiden D....\nLäsare\nKan Dess hedrande wandel af Dig följas\nBlifwer äfwen Din Lott\nAtt såsom god Medborgare, Anhörig, Wälgörare\nHögaktas, Älskas, saknas, begråtas.»"
+  },
+  {
+   "bbox": [
+    1106,
+    1790,
+    1171,
+    1827
+   ],
+   "category": "Page-footer",
+   "text": "213"
+  }
+ ]
+}

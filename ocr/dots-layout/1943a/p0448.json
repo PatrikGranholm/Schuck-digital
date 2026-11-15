@@ -1,0 +1,132 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 448,
+ "seconds": 33.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [390, 235, 923, 271], \"category\": \"Section-header\", \"text\": \"Adlerbeths sista sekreterarår\"}, {\"bbox\": [137, 303, 929, 381], \"category\": \"List-item\", \"text\": \"1°/ Ett Cabinett med Svenska Skådepenningar, mynt och Portraiter i Metall, bestående af:\"}, {\"bbox\": [191, 381, 1169, 631], \"category\": \"Table\", \"text\": \"<table><thead><tr><th></th><th>stycken</th><th>stycken</th></tr></thead><tbody><tr><td>I guld</td><td>146</td><td></td></tr><tr><td>I Silfwer</td><td>2314</td><td></td></tr><tr><td>I Koppar och Sämre metaller, inberäknadt 6 näfwerpoletter, 2 Gipsaftryck och 2ne Portraiter i Elfenben</td><td>457</td><td>2917</td></tr><tr><td>Och till samma Cabinett hörande miniature Portraiter, mer och mindre dyrbart infattade, 16 st., samt 2 graverade i Perlemor.</td><td></td><td></td></tr></tbody></table>\"}, {\"bbox\": [135, 634, 927, 708], \"category\": \"List-item\", \"text\": \"2°/ Det så kallade Cronstedtska Cabinettet af antiqua penningar, nämligen:\"}, {\"bbox\": [188, 708, 1166, 1000], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>Romerska famillers medailler</td><td>382</td><td></td></tr><tr><td>Romerska Kejsares</td><td>2864</td><td></td></tr><tr><td>Andra forntida konungars och folkslags</td><td>404</td><td></td></tr><tr><td>Nyare eftergorda</td><td>195</td><td></td></tr><tr><td>Göthiske och Barbariske samt Parthiske</td><td>43</td><td></td></tr><tr><td>Asses Librales</td><td>41</td><td></td></tr><tr><td>Anglo Saxoniska samt gamla Irländske mynt</td><td>552</td><td>4481</td></tr><tr><td>Transport</td><td></td><td>7398</td></tr></tbody></table>\"}, {\"bbox\": [131, 1025, 927, 1063], \"category\": \"Text\", \"text\": \"[Ny sida] Transport\"}, {\"bbox\": [188, 1060, 1164, 1271], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>NB hvaraf I Guld</td><td>41</td><td></td></tr><tr><td>I Silfwer</td><td>1973</td><td></td></tr><tr><td>I Koppar och någre i bly</td><td>2467</td><td>4481</td></tr><tr><td>och hvartil räknas 24 skurna stenar samt 48 antiqua Romerska Minnesmärken, mest af Bronze.</td><td></td><td></td></tr></tbody></table>\"}, {\"bbox\": [131, 1272, 925, 1381], \"category\": \"List-item\", \"text\": \"3°/ En myntsuite af gamla Tyska penningar, nämligen gamla Ducater af guld eller så kallade Gold Gülden Silfwerpenningar\"}, {\"bbox\": [131, 1383, 1162, 1494], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>Arabiska mynt 1 af guld, 523 af Silfwer 1 af Koppar Dubletter af Silfwer</td><td>525</td><td>522</td></tr><tr><td>Ostindiske mynt 4 af guld, 4 af Silfwer 7 af Koppar</td><td>258</td><td></td></tr><tr><td></td><td>15</td><td>798</td></tr></tbody></table>\"}, {\"bbox\": [131, 1495, 925, 1675], \"category\": \"List-item\", \"text\": \"5°/ Det så kallade Numophylacium Berchianum eller Skådepenningar öfwer utländske Particuliere Personer, i Guld i Silfwer, bronze och til någon del tenn och bly 38 Franske Kongl. och 3 Preussiske\"}, {\"bbox\": [131, 1677, 1162, 1751], \"category\": \"Table\", \"text\": \"<table><tbody><tr><td>Det så kallade Sköldebrandska antiqua Cabinettet bestående af Guldmedailler</td><td>146</td><td>1690</td></tr></tbody></table>\"}, {\"bbox\": [1091, 1790, 1161, 1827], \"category\": \"Page-footer\", \"text\": \"427\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    390,
+    235,
+    923,
+    271
+   ],
+   "category": "Section-header",
+   "text": "Adlerbeths sista sekreterarår"
+  },
+  {
+   "bbox": [
+    137,
+    303,
+    929,
+    381
+   ],
+   "category": "List-item",
+   "text": "1°/ Ett Cabinett med Svenska Skådepenningar, mynt och Portraiter i Metall, bestående af:"
+  },
+  {
+   "bbox": [
+    191,
+    381,
+    1169,
+    631
+   ],
+   "category": "Table",
+   "text": "<table><thead><tr><th></th><th>stycken</th><th>stycken</th></tr></thead><tbody><tr><td>I guld</td><td>146</td><td></td></tr><tr><td>I Silfwer</td><td>2314</td><td></td></tr><tr><td>I Koppar och Sämre metaller, inberäknadt 6 näfwerpoletter, 2 Gipsaftryck och 2ne Portraiter i Elfenben</td><td>457</td><td>2917</td></tr><tr><td>Och till samma Cabinett hörande miniature Portraiter, mer och mindre dyrbart infattade, 16 st., samt 2 graverade i Perlemor.</td><td></td><td></td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    135,
+    634,
+    927,
+    708
+   ],
+   "category": "List-item",
+   "text": "2°/ Det så kallade Cronstedtska Cabinettet af antiqua penningar, nämligen:"
+  },
+  {
+   "bbox": [
+    188,
+    708,
+    1166,
+    1000
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>Romerska famillers medailler</td><td>382</td><td></td></tr><tr><td>Romerska Kejsares</td><td>2864</td><td></td></tr><tr><td>Andra forntida konungars och folkslags</td><td>404</td><td></td></tr><tr><td>Nyare eftergorda</td><td>195</td><td></td></tr><tr><td>Göthiske och Barbariske samt Parthiske</td><td>43</td><td></td></tr><tr><td>Asses Librales</td><td>41</td><td></td></tr><tr><td>Anglo Saxoniska samt gamla Irländske mynt</td><td>552</td><td>4481</td></tr><tr><td>Transport</td><td></td><td>7398</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    131,
+    1025,
+    927,
+    1063
+   ],
+   "category": "Text",
+   "text": "[Ny sida] Transport"
+  },
+  {
+   "bbox": [
+    188,
+    1060,
+    1164,
+    1271
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>NB hvaraf I Guld</td><td>41</td><td></td></tr><tr><td>I Silfwer</td><td>1973</td><td></td></tr><tr><td>I Koppar och någre i bly</td><td>2467</td><td>4481</td></tr><tr><td>och hvartil räknas 24 skurna stenar samt 48 antiqua Romerska Minnesmärken, mest af Bronze.</td><td></td><td></td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    131,
+    1272,
+    925,
+    1381
+   ],
+   "category": "List-item",
+   "text": "3°/ En myntsuite af gamla Tyska penningar, nämligen gamla Ducater af guld eller så kallade Gold Gülden Silfwerpenningar"
+  },
+  {
+   "bbox": [
+    131,
+    1383,
+    1162,
+    1494
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>Arabiska mynt 1 af guld, 523 af Silfwer 1 af Koppar Dubletter af Silfwer</td><td>525</td><td>522</td></tr><tr><td>Ostindiske mynt 4 af guld, 4 af Silfwer 7 af Koppar</td><td>258</td><td></td></tr><tr><td></td><td>15</td><td>798</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    131,
+    1495,
+    925,
+    1675
+   ],
+   "category": "List-item",
+   "text": "5°/ Det så kallade Numophylacium Berchianum eller Skådepenningar öfwer utländske Particuliere Personer, i Guld i Silfwer, bronze och til någon del tenn och bly 38 Franske Kongl. och 3 Preussiske"
+  },
+  {
+   "bbox": [
+    131,
+    1677,
+    1162,
+    1751
+   ],
+   "category": "Table",
+   "text": "<table><tbody><tr><td>Det så kallade Sköldebrandska antiqua Cabinettet bestående af Guldmedailler</td><td>146</td><td>1690</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    1091,
+    1790,
+    1161,
+    1827
+   ],
+   "category": "Page-footer",
+   "text": "427"
+  }
+ ]
+}

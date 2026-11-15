@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 200,
+ "seconds": 28.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [311, 232, 921, 277], \"category\": \"Section-header\", \"text\": \"Övriga medaljer och inskriptioner\"}, {\"bbox\": [96, 303, 1137, 676], \"category\": \"Text\", \"text\": \"ålägger icke dessa samhällen och enskilda att anlita akademien. Samma dag, den 20 mars 1786, som statuterna meddelades akademien, utfärdades emellertid ett kungabrev — till vilket vi sedan skola återkomma, då det huvudsakligen avser inskrifter på byggnader, minnesstenar o. d., men även nämner skådepenningar och jettoner — och av brevets början ser det ut, som om alla inskriptioner skulle »uppvisas, granskas och gillas» av akademien. Men av brevets fortsättning får man intrycket, att den enskilde, blott om han så ville, behövde vända sig till akademien.\"}, {\"bbox\": [96, 675, 1137, 1378], \"category\": \"Text\", \"text\": \"Den 13 november 1787 fick akademien anledning att själv försöka tolka detta kungabrevs innebörd. Sekreteraren anmälde, »att Graveuren Enhörning nyligen för honom upvist ett honom till verkställande meddelt förslag till en minnespenning, den Götheborgska nationen i Lund ärnade låta prägla öfver dess Inspector Medicinæ Professoren Eberhard Rosenblad. Detta förslag, som icke undergått academiens granskning, hade Secreteraren fördensskull af Enhörning begiärt till föredragande i academien. Och aflämnades det nu till Herr Probsten Nordin, som åtog sig att till nästa Sammankomst om tisdag däröfver meddela academien sina tankar. Till förekommande att academien icke måtte blifva förbigången utan enligt kongl. Maj:ts nådiga stadgar altid sättas i stånd att werkställa den henne ålagde granskning af inscriptioner och minnespenningar ville academien till nästa sammankomst vara betänkt på nödiga utvägars fastställande, och hvarförinnan Secreteraren fick befallning att anskaffa det circulaire, som i anledning af acad:ns instiftelse då genast till vederbörande på Kgl. Maj:ts befallning utfärdades.»\"}, {\"bbox\": [96, 1377, 1137, 1750], \"category\": \"Text\", \"text\": \"Då det nyss omnämnda kungabrevet vid nästa sammanträde, den 20 november, upplästes, och då akademien därigenom fann, att Kungl. Maj:t i detta prövat gott »icke att ålägga, utan allenast att tillåta enskildta personer och samhällen, som dylika minnesmärken vilja upresa eller förfärdiga, att deröfver åtnjuta academiens råd och granskning, så inhämtade academien deraf nogsamt, det hon icke heller var bunden till något ansvar för sådana minnesmärken, som i enskildt namn utan hennes rådförande kunde verkställas. Hvarjämte academien likväl updrog Secreteraren att i underdånighet hos Hans Maj:t hemställa,\"}, {\"bbox\": [1063, 1778, 1130, 1823], \"category\": \"Page-footer\", \"text\": \"183\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    311,
+    232,
+    921,
+    277
+   ],
+   "category": "Section-header",
+   "text": "Övriga medaljer och inskriptioner"
+  },
+  {
+   "bbox": [
+    96,
+    303,
+    1137,
+    676
+   ],
+   "category": "Text",
+   "text": "ålägger icke dessa samhällen och enskilda att anlita akademien. Samma dag, den 20 mars 1786, som statuterna meddelades akademien, utfärdades emellertid ett kungabrev — till vilket vi sedan skola återkomma, då det huvudsakligen avser inskrifter på byggnader, minnesstenar o. d., men även nämner skådepenningar och jettoner — och av brevets början ser det ut, som om alla inskriptioner skulle »uppvisas, granskas och gillas» av akademien. Men av brevets fortsättning får man intrycket, att den enskilde, blott om han så ville, behövde vända sig till akademien."
+  },
+  {
+   "bbox": [
+    96,
+    675,
+    1137,
+    1378
+   ],
+   "category": "Text",
+   "text": "Den 13 november 1787 fick akademien anledning att själv försöka tolka detta kungabrevs innebörd. Sekreteraren anmälde, »att Graveuren Enhörning nyligen för honom upvist ett honom till verkställande meddelt förslag till en minnespenning, den Götheborgska nationen i Lund ärnade låta prägla öfver dess Inspector Medicinæ Professoren Eberhard Rosenblad. Detta förslag, som icke undergått academiens granskning, hade Secreteraren fördensskull af Enhörning begiärt till föredragande i academien. Och aflämnades det nu till Herr Probsten Nordin, som åtog sig att till nästa Sammankomst om tisdag däröfver meddela academien sina tankar. Till förekommande att academien icke måtte blifva förbigången utan enligt kongl. Maj:ts nådiga stadgar altid sättas i stånd att werkställa den henne ålagde granskning af inscriptioner och minnespenningar ville academien till nästa sammankomst vara betänkt på nödiga utvägars fastställande, och hvarförinnan Secreteraren fick befallning att anskaffa det circulaire, som i anledning af acad:ns instiftelse då genast till vederbörande på Kgl. Maj:ts befallning utfärdades.»"
+  },
+  {
+   "bbox": [
+    96,
+    1377,
+    1137,
+    1750
+   ],
+   "category": "Text",
+   "text": "Då det nyss omnämnda kungabrevet vid nästa sammanträde, den 20 november, upplästes, och då akademien därigenom fann, att Kungl. Maj:t i detta prövat gott »icke att ålägga, utan allenast att tillåta enskildta personer och samhällen, som dylika minnesmärken vilja upresa eller förfärdiga, att deröfver åtnjuta academiens råd och granskning, så inhämtade academien deraf nogsamt, det hon icke heller var bunden till något ansvar för sådana minnesmärken, som i enskildt namn utan hennes rådförande kunde verkställas. Hvarjämte academien likväl updrog Secreteraren att i underdånighet hos Hans Maj:t hemställa,"
+  },
+  {
+   "bbox": [
+    1063,
+    1778,
+    1130,
+    1823
+   ],
+   "category": "Page-footer",
+   "text": "183"
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 455,
+ "seconds": 9.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [0, 2125, 27, 2153], \"category\": \"Page-footer\", \"text\": \"1\"}, {\"bbox\": [84, 27, 1652, 2267], \"category\": \"Picture\"}, {\"bbox\": [27, 2125, 84, 2153], \"category\": \"Page-footer\", \"text\": \"2\"}, {\"bbox\": [1635, 2125, 1652, 2153], \"category\": \"Page-footer\", \"text\": \"3\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    0,
+    2125,
+    27,
+    2153
+   ],
+   "category": "Page-footer",
+   "text": "1"
+  },
+  {
+   "bbox": [
+    84,
+    27,
+    1652,
+    2267
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    27,
+    2125,
+    84,
+    2153
+   ],
+   "category": "Page-footer",
+   "text": "2"
+  },
+  {
+   "bbox": [
+    1635,
+    2125,
+    1652,
+    2153
+   ],
+   "category": "Page-footer",
+   "text": "3"
+  }
+ ]
+}

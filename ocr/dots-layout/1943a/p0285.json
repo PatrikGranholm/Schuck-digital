@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 285,
+ "seconds": 28.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [805, 240, 1239, 281], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [504, 309, 1540, 431], \"category\": \"Text\", \"text\": \"nerligen måtte inflyta, som blifvit hållne af Ledamöter, hvilka genast efter dess förnyelse till dess förstärkning af Hans Maj:t blefvo i nåder utnämde». Därefter bestämdes innehållet i den första delen.\"}, {\"bbox\": [504, 433, 1542, 849], \"category\": \"Text\", \"text\": \"Det nya kontraktet med fru Fougt avslöts den 22 april 1788, och i § 4 av detta infördes en bestämmelse, som sedan fick en viss betydelse: »att i händelse Fru Fougt förr eller sednare skulle vilja skilja sig vid förlaget eller Exemplaren af berörde handlingars första del, de samma ej må kunna öfverlåtas till någon annan, innan de förut blifvit academien hembudne till 6 runstycken arket, förbehållande sig academien såsom ett uttryckeligt willkor denna lösningsrättighet samt att uplagan icke ifrån början till någon academiens framtida skada eller förlust måtte tilltagas större än hvad man skäligen kan wänta att afsätta eller aldra högst 1000 Exemplar.»\"}, {\"bbox\": [504, 846, 1547, 1757], \"category\": \"Text\", \"text\": \"Den 18 november 1788 meddelade sekreteraren, att fru Fougt på nyåret sagt sig kunna bliva färdig med första delen och att man därför borde vara betänkt på att då i manuskript ha en andra del att lämna till tryckeriet. De under den gångna tiden hållna talen, prisskrifterna m. m. befunnos likväl »vara så många, att de icke kunna beqwämligen inrymmas i en del, i händelse academien icke ville vida öfverskrida det mått och ark-tal, som hittills blifwit i akt tagit och academien fant skäligt bibehålla så i anseende till enlikheten tomerna emellan som till lättande af försälgningen i en tid, då drygare verk sakna afsättning. Academien utstakade därföre nu, hvilka af dessa ofvanbemälte stycken i den andra delen böra inflyta, hvarvid academien enkannerligen hade afseende så väl på den chronologiske ordning, hvaruti de inkommit, såsom ock, hvad ordningen i sjelfva Tomen beträffar, på hvad 13. § i statuterna föreskrifver. Och som därstädes ingen ting stadgas om de tal, som hållas på academiens högtidsdag den 24 Julii eller om dem, som academiens Presidenter vid afträdandet hålla, så blef nu ett ämne till öfverläggning, hvaräst i Tomen dessa lämpeligast må få sitt ställe, stadnandes academien i det beslut att högtidstalen den 24 Julii må följa näst efter prisskrifterna och således stå främst ibland talen samt genast däruppå Presidenternes tal, enär de sådana hållit, hvarefter vidare Ledamöters inträdes-tal i ordning efter tiden intaga sina rum.» Preliminärt uppgjordes här-\"}, {\"bbox\": [514, 1784, 585, 1830], \"category\": \"Page-footer\", \"text\": \"264\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    805,
+    240,
+    1239,
+    281
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    504,
+    309,
+    1540,
+    431
+   ],
+   "category": "Text",
+   "text": "nerligen måtte inflyta, som blifvit hållne af Ledamöter, hvilka genast efter dess förnyelse till dess förstärkning af Hans Maj:t blefvo i nåder utnämde». Därefter bestämdes innehållet i den första delen."
+  },
+  {
+   "bbox": [
+    504,
+    433,
+    1542,
+    849
+   ],
+   "category": "Text",
+   "text": "Det nya kontraktet med fru Fougt avslöts den 22 april 1788, och i § 4 av detta infördes en bestämmelse, som sedan fick en viss betydelse: »att i händelse Fru Fougt förr eller sednare skulle vilja skilja sig vid förlaget eller Exemplaren af berörde handlingars första del, de samma ej må kunna öfverlåtas till någon annan, innan de förut blifvit academien hembudne till 6 runstycken arket, förbehållande sig academien såsom ett uttryckeligt willkor denna lösningsrättighet samt att uplagan icke ifrån början till någon academiens framtida skada eller förlust måtte tilltagas större än hvad man skäligen kan wänta att afsätta eller aldra högst 1000 Exemplar.»"
+  },
+  {
+   "bbox": [
+    504,
+    846,
+    1547,
+    1757
+   ],
+   "category": "Text",
+   "text": "Den 18 november 1788 meddelade sekreteraren, att fru Fougt på nyåret sagt sig kunna bliva färdig med första delen och att man därför borde vara betänkt på att då i manuskript ha en andra del att lämna till tryckeriet. De under den gångna tiden hållna talen, prisskrifterna m. m. befunnos likväl »vara så många, att de icke kunna beqwämligen inrymmas i en del, i händelse academien icke ville vida öfverskrida det mått och ark-tal, som hittills blifwit i akt tagit och academien fant skäligt bibehålla så i anseende till enlikheten tomerna emellan som till lättande af försälgningen i en tid, då drygare verk sakna afsättning. Academien utstakade därföre nu, hvilka af dessa ofvanbemälte stycken i den andra delen böra inflyta, hvarvid academien enkannerligen hade afseende så väl på den chronologiske ordning, hvaruti de inkommit, såsom ock, hvad ordningen i sjelfva Tomen beträffar, på hvad 13. § i statuterna föreskrifver. Och som därstädes ingen ting stadgas om de tal, som hållas på academiens högtidsdag den 24 Julii eller om dem, som academiens Presidenter vid afträdandet hålla, så blef nu ett ämne till öfverläggning, hvaräst i Tomen dessa lämpeligast må få sitt ställe, stadnandes academien i det beslut att högtidstalen den 24 Julii må följa näst efter prisskrifterna och således stå främst ibland talen samt genast däruppå Presidenternes tal, enär de sådana hållit, hvarefter vidare Ledamöters inträdes-tal i ordning efter tiden intaga sina rum.» Preliminärt uppgjordes här-"
+  },
+  {
+   "bbox": [
+    514,
+    1784,
+    585,
+    1830
+   ],
+   "category": "Page-footer",
+   "text": "264"
+  }
+ ]
+}

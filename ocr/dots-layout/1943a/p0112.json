@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 112,
+ "seconds": 27.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [505, 518, 744, 554], \"category\": \"Section-header\", \"text\": \"TÄVLINGAR\"}, {\"bbox\": [106, 629, 1147, 1040], \"category\": \"Text\", \"text\": \"Därmed har jag redogjort för de inval, som företogos under Adler-beths sekreterartid. Till inträdestalen och levnadsbeskrivningarna under denna tid skall jag i ett annat sammanhang återkomma på tal om akademiens vetenskapliga insatser. I stället övergår jag nu till tävlingarna. Visserligen tilldrogo sig dessa på långt när ej samma uppmärksamhet som Svenska akademiens, men för den allmänna uppfattningen på 1700-talet tedde sig nog — näst medaljerna — bedömandet av tävlingsskrifterna såsom Vitterhets Historie och Antikvitetsakademiens viktigaste uppgift, och såsom belysande akademiens karaktär under denna tid ha de ett visst intresse.\"}, {\"bbox\": [1160, 642, 1287, 700], \"category\": \"Text\", \"text\": \"Tävlingar i historia\"}, {\"bbox\": [104, 1042, 1144, 1458], \"category\": \"Text\", \"text\": \"Dessa tävlingar voro, som vi minnas, fyra: i historia, i vältalighet och skaldekonst på utländskt språk, i antikviteter och i inskriftskonst. Minst lockande av dessa tävlingar voro de vetenskapliga, i historia och i antikviteter, och mest lockande den minst vetenskapliga, den i inskriftskonst, och denna smak röjer bäst arten av det intresse, som samtiden hyste för akademien. Både för Gustav III och för den stora allmänheten var akademien i främsta rummet en »medaljakademi», och det livliga intresset för inskriftstävlingarna är därför förklarligt. Tydligast framgår denna karaktär hos akademien, om vi taga varje grupp för sig. Vi börja därför med tävlingarna i historia.\"}, {\"bbox\": [102, 1455, 1142, 1748], \"category\": \"Text\", \"text\": \"Vid sammanträdet den 1 april 1786 utsattes — såsom redan anförts — tävlingsämnen för det kommande året. Efter någon överläggning — skrives i protokollet — »faststäldes» ämnet i historia: »Afhandling om Hanse Städernas handel med Sverige, de förbund de med detta Rike ingådt, den verkan deras magt och hug at blanda sig i Rikets företaganden haft på dess öden och välstånd samt när denna verkan aldeles upphört.»\"}, {\"bbox\": [1188, 1471, 1246, 1503], \"category\": \"Text\", \"text\": \"1787\"}, {\"bbox\": [106, 1786, 192, 1810], \"category\": \"Page-footer\", \"text\": \"7-42108.\"}, {\"bbox\": [1089, 1788, 1135, 1826], \"category\": \"Page-footer\", \"text\": \"97\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    505,
+    518,
+    744,
+    554
+   ],
+   "category": "Section-header",
+   "text": "TÄVLINGAR"
+  },
+  {
+   "bbox": [
+    106,
+    629,
+    1147,
+    1040
+   ],
+   "category": "Text",
+   "text": "Därmed har jag redogjort för de inval, som företogos under Adler-beths sekreterartid. Till inträdestalen och levnadsbeskrivningarna under denna tid skall jag i ett annat sammanhang återkomma på tal om akademiens vetenskapliga insatser. I stället övergår jag nu till tävlingarna. Visserligen tilldrogo sig dessa på långt när ej samma uppmärksamhet som Svenska akademiens, men för den allmänna uppfattningen på 1700-talet tedde sig nog — näst medaljerna — bedömandet av tävlingsskrifterna såsom Vitterhets Historie och Antikvitetsakademiens viktigaste uppgift, och såsom belysande akademiens karaktär under denna tid ha de ett visst intresse."
+  },
+  {
+   "bbox": [
+    1160,
+    642,
+    1287,
+    700
+   ],
+   "category": "Text",
+   "text": "Tävlingar i historia"
+  },
+  {
+   "bbox": [
+    104,
+    1042,
+    1144,
+    1458
+   ],
+   "category": "Text",
+   "text": "Dessa tävlingar voro, som vi minnas, fyra: i historia, i vältalighet och skaldekonst på utländskt språk, i antikviteter och i inskriftskonst. Minst lockande av dessa tävlingar voro de vetenskapliga, i historia och i antikviteter, och mest lockande den minst vetenskapliga, den i inskriftskonst, och denna smak röjer bäst arten av det intresse, som samtiden hyste för akademien. Både för Gustav III och för den stora allmänheten var akademien i främsta rummet en »medaljakademi», och det livliga intresset för inskriftstävlingarna är därför förklarligt. Tydligast framgår denna karaktär hos akademien, om vi taga varje grupp för sig. Vi börja därför med tävlingarna i historia."
+  },
+  {
+   "bbox": [
+    102,
+    1455,
+    1142,
+    1748
+   ],
+   "category": "Text",
+   "text": "Vid sammanträdet den 1 april 1786 utsattes — såsom redan anförts — tävlingsämnen för det kommande året. Efter någon överläggning — skrives i protokollet — »faststäldes» ämnet i historia: »Afhandling om Hanse Städernas handel med Sverige, de förbund de med detta Rike ingådt, den verkan deras magt och hug at blanda sig i Rikets företaganden haft på dess öden och välstånd samt när denna verkan aldeles upphört.»"
+  },
+  {
+   "bbox": [
+    1188,
+    1471,
+    1246,
+    1503
+   ],
+   "category": "Text",
+   "text": "1787"
+  },
+  {
+   "bbox": [
+    106,
+    1786,
+    192,
+    1810
+   ],
+   "category": "Page-footer",
+   "text": "7-42108."
+  },
+  {
+   "bbox": [
+    1089,
+    1788,
+    1135,
+    1826
+   ],
+   "category": "Page-footer",
+   "text": "97"
+  }
+ ]
+}

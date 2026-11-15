@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 115,
+ "seconds": 29.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [800, 242, 1234, 283], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [498, 310, 1535, 438], \"category\": \"Text\", \"text\": \"mottog priset ur den förnämste hedersledamoten Höpkens hand. Avhandlingen trycktes — sedan anmärkningarna iakttagits — i andra bandet av akademiens Handlingar, som kom ut 1791.\"}, {\"bbox\": [498, 436, 1537, 894], \"category\": \"Text\", \"text\": \"Om sitt arbete yttrade sig Flintenberg mycket blygsamt. Han erkänner, att han icke haft tillfälle att begagna otryckta handlingar och att han för äldre tider följt Lagerbring och Dalin. Till att rätt motsvara akademiens krav — skriver han — »fordrades en vidsträckt och noggran forskning, som icke tröttas af en misslyckad undersökning. Det fordrades et gransynt och säkert öga att afväga driffjäddarne till Rikets händelser för hela tre Secler — ett företagande vida öfverstigande mina insigter. Detta oaktadt har jag dock häldre velat göra ett misslyckadt försök än vara kall för de upmuntringar, hvarigenom Kungl. Academien vill väcka hug och lust för alfvarsamma och nyttiga bemödanden.»\"}, {\"bbox\": [426, 890, 1537, 1011], \"category\": \"Text\", \"text\": \"1788 Samma dag som den första delen av hans arbete upplästes i akademien, framlade denna statutenligt tre förslag till prisämnen för 1788 års tävlan:\"}, {\"bbox\": [501, 1011, 1537, 1143], \"category\": \"Text\", \"text\": \"»1) Afhandling om Svenska krigsmagtens och krigskonstens tillstånd ifrån K. Gustaf I s död till K. Gustaf Adolphs anträde till Regeringen.\"}, {\"bbox\": [501, 1135, 1537, 1221], \"category\": \"Text\", \"text\": \"2) Afhandling om Svenska Bärgverkens tillstånd och öden ifrån äldsta tider intill K. Gustaf Adolphs anträde till regeringen.\"}, {\"bbox\": [501, 1217, 1537, 1304], \"category\": \"Text\", \"text\": \"3) Afhandling om sederna och lefnadssättet i Sverige från K. Gustaf I s död till K. Gustaf Adolphs anträde till regeringen.»\"}, {\"bbox\": [501, 1300, 1541, 1759], \"category\": \"Text\", \"text\": \"Af dessa bestämde sig konungen för det första. Men ej heller detta prisämne lockade flera tävlande än det förra. Även 1788 hade till den 20 januari blott en enda avhandling inkommit, som för granskning remitterades till Hallenberg, Nordin och Botin. Den 12 februari upplästes avhandlingen, varjämte Hallenberg föredrog sina skriftliga anmärkningar, som dock ej fogats till protokollet. Vid nästa sammanträde, den 19 februari, avgav Nordin sitt yttrande, och för sekreteraren hade den frånvarande Botin förklarat, »att han för sin del aldeles åtnöjdes med bemälte tvänne Herrar Ledamöters yttrade tankar». De sakkunniga voro således ense, och på deras auktoritet tilldömdes författaren priset, även denna gång med förbehåll,\"}, {\"bbox\": [511, 1796, 581, 1826], \"category\": \"Page-footer\", \"text\": \"100\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    800,
+    242,
+    1234,
+    283
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    498,
+    310,
+    1535,
+    438
+   ],
+   "category": "Text",
+   "text": "mottog priset ur den förnämste hedersledamoten Höpkens hand. Avhandlingen trycktes — sedan anmärkningarna iakttagits — i andra bandet av akademiens Handlingar, som kom ut 1791."
+  },
+  {
+   "bbox": [
+    498,
+    436,
+    1537,
+    894
+   ],
+   "category": "Text",
+   "text": "Om sitt arbete yttrade sig Flintenberg mycket blygsamt. Han erkänner, att han icke haft tillfälle att begagna otryckta handlingar och att han för äldre tider följt Lagerbring och Dalin. Till att rätt motsvara akademiens krav — skriver han — »fordrades en vidsträckt och noggran forskning, som icke tröttas af en misslyckad undersökning. Det fordrades et gransynt och säkert öga att afväga driffjäddarne till Rikets händelser för hela tre Secler — ett företagande vida öfverstigande mina insigter. Detta oaktadt har jag dock häldre velat göra ett misslyckadt försök än vara kall för de upmuntringar, hvarigenom Kungl. Academien vill väcka hug och lust för alfvarsamma och nyttiga bemödanden.»"
+  },
+  {
+   "bbox": [
+    426,
+    890,
+    1537,
+    1011
+   ],
+   "category": "Text",
+   "text": "1788 Samma dag som den första delen av hans arbete upplästes i akademien, framlade denna statutenligt tre förslag till prisämnen för 1788 års tävlan:"
+  },
+  {
+   "bbox": [
+    501,
+    1011,
+    1537,
+    1143
+   ],
+   "category": "Text",
+   "text": "»1) Afhandling om Svenska krigsmagtens och krigskonstens tillstånd ifrån K. Gustaf I s död till K. Gustaf Adolphs anträde till Regeringen."
+  },
+  {
+   "bbox": [
+    501,
+    1135,
+    1537,
+    1221
+   ],
+   "category": "Text",
+   "text": "2) Afhandling om Svenska Bärgverkens tillstånd och öden ifrån äldsta tider intill K. Gustaf Adolphs anträde till regeringen."
+  },
+  {
+   "bbox": [
+    501,
+    1217,
+    1537,
+    1304
+   ],
+   "category": "Text",
+   "text": "3) Afhandling om sederna och lefnadssättet i Sverige från K. Gustaf I s död till K. Gustaf Adolphs anträde till regeringen.»"
+  },
+  {
+   "bbox": [
+    501,
+    1300,
+    1541,
+    1759
+   ],
+   "category": "Text",
+   "text": "Af dessa bestämde sig konungen för det första. Men ej heller detta prisämne lockade flera tävlande än det förra. Även 1788 hade till den 20 januari blott en enda avhandling inkommit, som för granskning remitterades till Hallenberg, Nordin och Botin. Den 12 februari upplästes avhandlingen, varjämte Hallenberg föredrog sina skriftliga anmärkningar, som dock ej fogats till protokollet. Vid nästa sammanträde, den 19 februari, avgav Nordin sitt yttrande, och för sekreteraren hade den frånvarande Botin förklarat, »att han för sin del aldeles åtnöjdes med bemälte tvänne Herrar Ledamöters yttrade tankar». De sakkunniga voro således ense, och på deras auktoritet tilldömdes författaren priset, även denna gång med förbehåll,"
+  },
+  {
+   "bbox": [
+    511,
+    1796,
+    581,
+    1826
+   ],
+   "category": "Page-footer",
+   "text": "100"
+  }
+ ]
+}

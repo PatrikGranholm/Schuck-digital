@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 319,
+ "seconds": 29.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [810, 242, 1244, 283], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [506, 312, 1547, 396], \"category\": \"Text\", \"text\": \"då Hans Maij:t äfven täcktes besöka och nedstiga i förenämde källare och därstädes Egenhändigt teckna sitt höga namn. — — —\"}, {\"bbox\": [906, 413, 1140, 447], \"category\": \"Text\", \"text\": \"And. Svedelius\"}, {\"bbox\": [508, 479, 882, 520], \"category\": \"Text\", \"text\": \"Mora d. 19 oct. 1788.»\"}, {\"bbox\": [506, 554, 1549, 1049], \"category\": \"Text\", \"text\": \"Den 18 november, då Adlerbeth kommit tillbaka, föredrog Hallenberg ånyo ärendet i akademien: »Herr Kongl. Secreteraren annälte, att det fynd af gamla penningar ifrån Dalarne, hvaraf han den 17 nästl. Septemb. i academien inlämnat 6 stycken såsom prof, nu jämte en berättelse, som innehöll omständigheterne af sjelfva fyndet, kommit honom till handa och blifvit Herr Cantzli Rådet von Engeström till genomseende tillstäldt, hvilken äfven till sig tagit 5 af de ofvanomrörde till academien ingifna profpenningar. Den enda återstående, som ännu var under Secreterarens vård, fants vara arabisk och beslöts därföre, att den nu genast skulle meddelas Mag. Malmström¹, på det att densamma i händelse den ej redan vore känd, måtte kunna få sitt rum i den beskrifning han har under händer.»\"}, {\"bbox\": [506, 1049, 1549, 1585], \"category\": \"Text\", \"text\": \"Den 13 januari 1789 var Engeström färdig med sin undersökning: »Herr Cantzlie Rådet återstälte det honom till genomseende meddeldta och förledet år i Dalarne giorda fynd af gamla silfverpenningar, bland hvilka Herr Cantzli Rådet utsökt de, som för acad:ns räkning förtjänte behållas, hvaremot de öfriga, som als ingen nytta eller uplysning syntes kunna medföra, ansågos böra upsmältas och i penningar förwandlas. Jämte betygande af den erkänsla acad:n fann sig Herr Cantzli Rådet skyldig för sin i detta ämne benäget använda möda, beslöt academien att detta fynd sig tillösa på sätt att efter föregången wärdering på myntet de behållna penningarne betalas ägaren med 1/4 [skall vara 1/8] dels förhöjning efter vanligheten och de andra efter blotta halten och vigten, enligt hvilken de ock genast såsom onödiga på Kongl. myntet få föryttras.»\"}, {\"bbox\": [510, 1584, 1547, 1668], \"category\": \"Text\", \"text\": \"I Kanslikollegiet hade detta ärende aldrig behandlats, men icke dess mindre togs dess medverkan i anspråk, då betalningen skulle\"}, {\"bbox\": [510, 1695, 1547, 1754], \"category\": \"Footnote\", \"text\": \"¹ Malmström var då sysselsatt med utarbetande av den katalog över kufiska mynt, som förut omnämnts och till vilken vi skola återkomma.\"}, {\"bbox\": [513, 1786, 581, 1831], \"category\": \"Page-footer\", \"text\": \"298\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    810,
+    242,
+    1244,
+    283
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    506,
+    312,
+    1547,
+    396
+   ],
+   "category": "Text",
+   "text": "då Hans Maij:t äfven täcktes besöka och nedstiga i förenämde källare och därstädes Egenhändigt teckna sitt höga namn. — — —"
+  },
+  {
+   "bbox": [
+    906,
+    413,
+    1140,
+    447
+   ],
+   "category": "Text",
+   "text": "And. Svedelius"
+  },
+  {
+   "bbox": [
+    508,
+    479,
+    882,
+    520
+   ],
+   "category": "Text",
+   "text": "Mora d. 19 oct. 1788.»"
+  },
+  {
+   "bbox": [
+    506,
+    554,
+    1549,
+    1049
+   ],
+   "category": "Text",
+   "text": "Den 18 november, då Adlerbeth kommit tillbaka, föredrog Hallenberg ånyo ärendet i akademien: »Herr Kongl. Secreteraren annälte, att det fynd af gamla penningar ifrån Dalarne, hvaraf han den 17 nästl. Septemb. i academien inlämnat 6 stycken såsom prof, nu jämte en berättelse, som innehöll omständigheterne af sjelfva fyndet, kommit honom till handa och blifvit Herr Cantzli Rådet von Engeström till genomseende tillstäldt, hvilken äfven till sig tagit 5 af de ofvanomrörde till academien ingifna profpenningar. Den enda återstående, som ännu var under Secreterarens vård, fants vara arabisk och beslöts därföre, att den nu genast skulle meddelas Mag. Malmström¹, på det att densamma i händelse den ej redan vore känd, måtte kunna få sitt rum i den beskrifning han har under händer.»"
+  },
+  {
+   "bbox": [
+    506,
+    1049,
+    1549,
+    1585
+   ],
+   "category": "Text",
+   "text": "Den 13 januari 1789 var Engeström färdig med sin undersökning: »Herr Cantzlie Rådet återstälte det honom till genomseende meddeldta och förledet år i Dalarne giorda fynd af gamla silfverpenningar, bland hvilka Herr Cantzli Rådet utsökt de, som för acad:ns räkning förtjänte behållas, hvaremot de öfriga, som als ingen nytta eller uplysning syntes kunna medföra, ansågos böra upsmältas och i penningar förwandlas. Jämte betygande af den erkänsla acad:n fann sig Herr Cantzli Rådet skyldig för sin i detta ämne benäget använda möda, beslöt academien att detta fynd sig tillösa på sätt att efter föregången wärdering på myntet de behållna penningarne betalas ägaren med 1/4 [skall vara 1/8] dels förhöjning efter vanligheten och de andra efter blotta halten och vigten, enligt hvilken de ock genast såsom onödiga på Kongl. myntet få föryttras.»"
+  },
+  {
+   "bbox": [
+    510,
+    1584,
+    1547,
+    1668
+   ],
+   "category": "Text",
+   "text": "I Kanslikollegiet hade detta ärende aldrig behandlats, men icke dess mindre togs dess medverkan i anspråk, då betalningen skulle"
+  },
+  {
+   "bbox": [
+    510,
+    1695,
+    1547,
+    1754
+   ],
+   "category": "Footnote",
+   "text": "¹ Malmström var då sysselsatt med utarbetande av den katalog över kufiska mynt, som förut omnämnts och till vilken vi skola återkomma."
+  },
+  {
+   "bbox": [
+    513,
+    1786,
+    581,
+    1831
+   ],
+   "category": "Page-footer",
+   "text": "298"
+  }
+ ]
+}

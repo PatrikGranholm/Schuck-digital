@@ -1,0 +1,132 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 25,
+ "seconds": 31.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [773, 233, 1204, 276], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [468, 302, 1507, 761], \"category\": \"Text\", \"text\": \"Vitterhetsakademiens Handlingar, 1789 första delen av den nya akademiens, 1791 den andra, 1793 den tredje och 1795 (efter Adler-beths tid) den fjärde, och innehållet var det föreskrivna, likaså tiden. Gustav III följde här praxis inom den gamla akademien, som också utgivit Handlingar, den första delen 1755, ehuru några Handlingar med detta innehåll icke omtalats i dess statuter. Då dessa skrevos förefaller det, som om Lovisa Ulrica tänkt sig, att akademien i stället för att utgiva Handlingar, innehållande redogörelser för vad inom akademien förekommit, skulle utgiva en »litterär journal», väl något i samma stil som de Lärda tidningar, som samtidigt utgåvos i Stockholm. Cap. II. §. 1 i den gamla akademiens statuter lyder nämligen:\"}, {\"bbox\": [468, 767, 1507, 1017], \"category\": \"Text\", \"text\": \"»Vi updrage Academien, at årligen eller på kårtare tid under namn af Handlingar, Journaux eller Dag-Böcker utgifva sit yttrande och omdöme öfver de utkomne Svenska och främmande Skrifter, hvarvid sjelfva saken skärskådas och granskas med den anständighet, som vederbör och kan tjena til rättelse och icke til förargelse. Dock är vår mening icke, at Academiens anmärkningar skola sträcka sig til Théologiska och Politiska Skrifter, utan endast til dem, som under Litteratur höra och räknas kunna.»\"}, {\"bbox\": [468, 1040, 1505, 1167], \"category\": \"Text\", \"text\": \"Som vi skola se kom även tanken på en dylik journal upp både i Svenska akademien och i Vitterhets Historie och Antikvitetsakademiens, men förslaget härom ledde icke till någon påföljd.\"}, {\"bbox\": [503, 1165, 1144, 1207], \"category\": \"Text\", \"text\": \"§§. 14 och 15 i de nya statuterna lyda:\"}, {\"bbox\": [317, 1238, 467, 1301], \"category\": \"Text\", \"text\": \"Sammanträden §§ 14–15\"}, {\"bbox\": [951, 1235, 1022, 1270], \"category\": \"Section-header\", \"text\": \"§ 14.\"}, {\"bbox\": [468, 1275, 1505, 1483], \"category\": \"Text\", \"text\": \"»Alla öfverläggningar böra ske med den anständighet, det fog och den höflighet, som anstår et så vittert samqväm, och då något tvisteämne upkommer, böra skälen mot och med utföras med den fogelighet, som endast kan bidraga til gemensam uplysning, och med den aktning, som hvar och en sig enskildt är skyldig och som äskas af vördnad för det Rum, der Academien är samlad.»\"}, {\"bbox\": [957, 1495, 1029, 1531], \"category\": \"Section-header\", \"text\": \"§ 15.\"}, {\"bbox\": [468, 1534, 1503, 1608], \"category\": \"Text\", \"text\": \"»Academien sammankommer hvarje vecka minst en gång, och bör hvarje samling åtminstone vara i tvänne timar.»\"}, {\"bbox\": [468, 1624, 1503, 1747], \"category\": \"Text\", \"text\": \"§. 14 saknar motsvarighet i de äldre statuterna och var väl tämligen överflödig. §. 15 återfinnes däremot i de gamla statuternas Cap. III §. 1:\"}, {\"bbox\": [472, 1785, 519, 1813], \"category\": \"Page-footer\", \"text\": \"10\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    773,
+    233,
+    1204,
+    276
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    468,
+    302,
+    1507,
+    761
+   ],
+   "category": "Text",
+   "text": "Vitterhetsakademiens Handlingar, 1789 första delen av den nya akademiens, 1791 den andra, 1793 den tredje och 1795 (efter Adler-beths tid) den fjärde, och innehållet var det föreskrivna, likaså tiden. Gustav III följde här praxis inom den gamla akademien, som också utgivit Handlingar, den första delen 1755, ehuru några Handlingar med detta innehåll icke omtalats i dess statuter. Då dessa skrevos förefaller det, som om Lovisa Ulrica tänkt sig, att akademien i stället för att utgiva Handlingar, innehållande redogörelser för vad inom akademien förekommit, skulle utgiva en »litterär journal», väl något i samma stil som de Lärda tidningar, som samtidigt utgåvos i Stockholm. Cap. II. §. 1 i den gamla akademiens statuter lyder nämligen:"
+  },
+  {
+   "bbox": [
+    468,
+    767,
+    1507,
+    1017
+   ],
+   "category": "Text",
+   "text": "»Vi updrage Academien, at årligen eller på kårtare tid under namn af Handlingar, Journaux eller Dag-Böcker utgifva sit yttrande och omdöme öfver de utkomne Svenska och främmande Skrifter, hvarvid sjelfva saken skärskådas och granskas med den anständighet, som vederbör och kan tjena til rättelse och icke til förargelse. Dock är vår mening icke, at Academiens anmärkningar skola sträcka sig til Théologiska och Politiska Skrifter, utan endast til dem, som under Litteratur höra och räknas kunna.»"
+  },
+  {
+   "bbox": [
+    468,
+    1040,
+    1505,
+    1167
+   ],
+   "category": "Text",
+   "text": "Som vi skola se kom även tanken på en dylik journal upp både i Svenska akademien och i Vitterhets Historie och Antikvitetsakademiens, men förslaget härom ledde icke till någon påföljd."
+  },
+  {
+   "bbox": [
+    503,
+    1165,
+    1144,
+    1207
+   ],
+   "category": "Text",
+   "text": "§§. 14 och 15 i de nya statuterna lyda:"
+  },
+  {
+   "bbox": [
+    317,
+    1238,
+    467,
+    1301
+   ],
+   "category": "Text",
+   "text": "Sammanträden §§ 14–15"
+  },
+  {
+   "bbox": [
+    951,
+    1235,
+    1022,
+    1270
+   ],
+   "category": "Section-header",
+   "text": "§ 14."
+  },
+  {
+   "bbox": [
+    468,
+    1275,
+    1505,
+    1483
+   ],
+   "category": "Text",
+   "text": "»Alla öfverläggningar böra ske med den anständighet, det fog och den höflighet, som anstår et så vittert samqväm, och då något tvisteämne upkommer, böra skälen mot och med utföras med den fogelighet, som endast kan bidraga til gemensam uplysning, och med den aktning, som hvar och en sig enskildt är skyldig och som äskas af vördnad för det Rum, der Academien är samlad.»"
+  },
+  {
+   "bbox": [
+    957,
+    1495,
+    1029,
+    1531
+   ],
+   "category": "Section-header",
+   "text": "§ 15."
+  },
+  {
+   "bbox": [
+    468,
+    1534,
+    1503,
+    1608
+   ],
+   "category": "Text",
+   "text": "»Academien sammankommer hvarje vecka minst en gång, och bör hvarje samling åtminstone vara i tvänne timar.»"
+  },
+  {
+   "bbox": [
+    468,
+    1624,
+    1503,
+    1747
+   ],
+   "category": "Text",
+   "text": "§. 14 saknar motsvarighet i de äldre statuterna och var väl tämligen överflödig. §. 15 återfinnes däremot i de gamla statuternas Cap. III §. 1:"
+  },
+  {
+   "bbox": [
+    472,
+    1785,
+    519,
+    1813
+   ],
+   "category": "Page-footer",
+   "text": "10"
+  }
+ ]
+}

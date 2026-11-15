@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 341,
+ "seconds": 28.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [815, 235, 1247, 276], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [513, 304, 1554, 475], \"category\": \"Text\", \"text\": \"mycken trohet. Hans Majst. täcktes i nåder till alla delar gilla bemälte academiens underdåniga hemställan, kommandes hon i föllje deraf at äfvenledes wara betänckt på förslag till den faststäldta ärepenningen.\"}, {\"bbox\": [613, 475, 1448, 521], \"category\": \"Text\", \"text\": \"Expedieras. Stockholms Slott den 22 December 1786\"}, {\"bbox\": [967, 529, 1088, 564], \"category\": \"Text\", \"text\": \"Gustaf.»\"}, {\"bbox\": [513, 593, 1555, 1208], \"category\": \"Text\", \"text\": \"Här torde man först observera, att detta anslag till fornminnesvård — det första i akademiens historia — icke togs från akademiens expensanslag utan på akademiens framställning af Kungl. Maj:t utanordnades från extra utgiftsmedlen. Detta var ett prejudikat, som för den närmaste framtiden blev normgivande och som var fullt berättigadt. Det obetydliga expensanslaget kunde ju ej bestrida dylika utgifter, och enligt akademiens stat var expensanslaget blott avsett till »Præmier (d. v. s. pris), Ljus och Skrifmaterialier». Man torde vidare observera, att akademiens förslag och konungens beslut mynnade ut i en riktning, som fullkomligt stämde med en »medaljakademis» uppfattning av fornminnesvårdens främsta uppgift. Frågans följande behandling kom nämligen att röra sig om en minnessten, en inskription och en medalj, vilka alla skulle ha till syfte att hugfästa icke blott Gustav Vasas minne utan ock Gustav III:s.\"}, {\"bbox\": [513, 1210, 1555, 1747], \"category\": \"Text\", \"text\": \"Protokollet över föredragningen inför konungen upplästes för akademien den 2 januari 1787, då secreteraren tillika androg, »att Konungen i nåder förklarat Sig bäst finna, det den påskrift, hvarmed Isala Ladan kommer att utmärkas, må ristas icke på någon plåt, hvilken lätteligen kunde borttagas och förloras, utan i en därtill afterad huggen sten af simpel cubisk figur, liknande ett antikt altare, och att påskriften måtte blifva mycket simpel, innehållande en blott påminnelse om den förelupna märkeliga händelsen samt om tiden, när åtanken deraf blifvit uplifvad.» Den 9 januari »anmältes 2ne inkomna projecter till påskrift på stenen vid Isala Ladan och ett till påskrift på den penning, hvilken Konungen tillåtit, att Hans Janson i samma by må bära såsom ättling af den trogna Sven Nilsson. Lämnades till Håfmarskalken Baron Manderström, som efter öfverlägg-\"}, {\"bbox\": [523, 1787, 592, 1825], \"category\": \"Page-footer\", \"text\": \"320\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    815,
+    235,
+    1247,
+    276
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    513,
+    304,
+    1554,
+    475
+   ],
+   "category": "Text",
+   "text": "mycken trohet. Hans Majst. täcktes i nåder till alla delar gilla bemälte academiens underdåniga hemställan, kommandes hon i föllje deraf at äfvenledes wara betänckt på förslag till den faststäldta ärepenningen."
+  },
+  {
+   "bbox": [
+    613,
+    475,
+    1448,
+    521
+   ],
+   "category": "Text",
+   "text": "Expedieras. Stockholms Slott den 22 December 1786"
+  },
+  {
+   "bbox": [
+    967,
+    529,
+    1088,
+    564
+   ],
+   "category": "Text",
+   "text": "Gustaf.»"
+  },
+  {
+   "bbox": [
+    513,
+    593,
+    1555,
+    1208
+   ],
+   "category": "Text",
+   "text": "Här torde man först observera, att detta anslag till fornminnesvård — det första i akademiens historia — icke togs från akademiens expensanslag utan på akademiens framställning af Kungl. Maj:t utanordnades från extra utgiftsmedlen. Detta var ett prejudikat, som för den närmaste framtiden blev normgivande och som var fullt berättigadt. Det obetydliga expensanslaget kunde ju ej bestrida dylika utgifter, och enligt akademiens stat var expensanslaget blott avsett till »Præmier (d. v. s. pris), Ljus och Skrifmaterialier». Man torde vidare observera, att akademiens förslag och konungens beslut mynnade ut i en riktning, som fullkomligt stämde med en »medaljakademis» uppfattning av fornminnesvårdens främsta uppgift. Frågans följande behandling kom nämligen att röra sig om en minnessten, en inskription och en medalj, vilka alla skulle ha till syfte att hugfästa icke blott Gustav Vasas minne utan ock Gustav III:s."
+  },
+  {
+   "bbox": [
+    513,
+    1210,
+    1555,
+    1747
+   ],
+   "category": "Text",
+   "text": "Protokollet över föredragningen inför konungen upplästes för akademien den 2 januari 1787, då secreteraren tillika androg, »att Konungen i nåder förklarat Sig bäst finna, det den påskrift, hvarmed Isala Ladan kommer att utmärkas, må ristas icke på någon plåt, hvilken lätteligen kunde borttagas och förloras, utan i en därtill afterad huggen sten af simpel cubisk figur, liknande ett antikt altare, och att påskriften måtte blifva mycket simpel, innehållande en blott påminnelse om den förelupna märkeliga händelsen samt om tiden, när åtanken deraf blifvit uplifvad.» Den 9 januari »anmältes 2ne inkomna projecter till påskrift på stenen vid Isala Ladan och ett till påskrift på den penning, hvilken Konungen tillåtit, att Hans Janson i samma by må bära såsom ättling af den trogna Sven Nilsson. Lämnades till Håfmarskalken Baron Manderström, som efter öfverlägg-"
+  },
+  {
+   "bbox": [
+    523,
+    1787,
+    592,
+    1825
+   ],
+   "category": "Page-footer",
+   "text": "320"
+  }
+ ]
+}

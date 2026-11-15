@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 171,
+ "seconds": 29.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [787, 235, 1224, 277], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [483, 305, 1525, 721], \"category\": \"Text\", \"text\": \"begäran och anmodan, att Kgl. Witterhetsacademien ville vara betänkt uppå upgifter till tvänne af Riksens Ständer faststäldta Skådepenningar, den ena till Hertigens af Södermanland heder öfver den under Dess befäl vundna ärefulla Seger vid Hogland den 17 Julii 1788, den andra öfver Hans Kgl. Höghets KronPrinsens med allmänt bifall och till allmän fägnad vid förhöret den 29 Martii sistl. å daga lagda sällsynta framsteg i bokliga konster. Likaledes anmälte Secreteraren, det han erhållit konungens befallning att infordra academiens upgifter till tvänne jettoner, ärnade att såsom belöningar utdelas, den ena åt tappra Soldater och den andra åt tappra sjömän.\"}, {\"bbox\": [483, 719, 1525, 1048], \"category\": \"Text\", \"text\": \"Till ofvannämde både skåde- och belöningspenningar upteddes projecter, hvilka academien lät sig föredragas och efter något Samtal därom beslöt att öfwerlämna till Herr Cantzli Rådet von Engeströms, Herr Kongl. Secreteraren Hallenbergs och Secreterarens granskning och afgörande med samma verkan och kraft, som hade academien samhälligt deröfver fattat sitt beslut, kommandes de upgifter, som af bemälte Ledamöter stadgade blifvit, genast att på sina vederbörliga ställen af Secreteraren aflämnas och i Academiens minnesbok intagas.»\"}, {\"bbox\": [483, 1048, 1525, 1461], \"category\": \"Text\", \"text\": \"Vid nästa sammanträde, den 12 maj, hade emellertid blott en enda ledamot, Nordin, infunnit sig. »I anseende till brist af närvarande Ledamöter kunde således ingen öfwerläggning företagas. Men som de Ledamöter, hvilka granskningen updragen blifvit af de i nästledne Sammankomst upgifne förslag till minnes- och belöningspenningar därmed inkommit och dessa således granskade förslag, på sätt samma dags protocoll innehåller, äga samma giltighet, som voro de af academien sjelf samfält faststälda, så hade Secreteraren redan å academiens vägnar dem hvart till sitt ställe expedierat, och komma de följagteligen i academiens Dagbok härstädes att intagas, nämligen:\"}, {\"bbox\": [483, 1459, 1525, 1543], \"category\": \"Text\", \"text\": \"Öfver H. K. H. KronPrinsens Examen den 29 Martii 1789 i närvaro af Riksens Ständers Deputerade:\"}, {\"bbox\": [520, 1543, 1322, 1583], \"category\": \"Text\", \"text\": \"Första sidan: Konungens bröstbild, namn och titel.\"}, {\"bbox\": [483, 1583, 1525, 1744], \"category\": \"Text\", \"text\": \"Andra sidan: Samma figurer som på den för tre år sedan öfver lika ämne slagne skådepenning eller Minerva, som framförer och föreställer den unga Prinsen för Sverige i en qvinnas liknelse med sin trekrönta sköld i handen. Men till öfverskrift: *Laetitia iterum* och\"}, {\"bbox\": [487, 1786, 559, 1825], \"category\": \"Page-footer\", \"text\": \"154\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    787,
+    235,
+    1224,
+    277
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    483,
+    305,
+    1525,
+    721
+   ],
+   "category": "Text",
+   "text": "begäran och anmodan, att Kgl. Witterhetsacademien ville vara betänkt uppå upgifter till tvänne af Riksens Ständer faststäldta Skådepenningar, den ena till Hertigens af Södermanland heder öfver den under Dess befäl vundna ärefulla Seger vid Hogland den 17 Julii 1788, den andra öfver Hans Kgl. Höghets KronPrinsens med allmänt bifall och till allmän fägnad vid förhöret den 29 Martii sistl. å daga lagda sällsynta framsteg i bokliga konster. Likaledes anmälte Secreteraren, det han erhållit konungens befallning att infordra academiens upgifter till tvänne jettoner, ärnade att såsom belöningar utdelas, den ena åt tappra Soldater och den andra åt tappra sjömän."
+  },
+  {
+   "bbox": [
+    483,
+    719,
+    1525,
+    1048
+   ],
+   "category": "Text",
+   "text": "Till ofvannämde både skåde- och belöningspenningar upteddes projecter, hvilka academien lät sig föredragas och efter något Samtal därom beslöt att öfwerlämna till Herr Cantzli Rådet von Engeströms, Herr Kongl. Secreteraren Hallenbergs och Secreterarens granskning och afgörande med samma verkan och kraft, som hade academien samhälligt deröfver fattat sitt beslut, kommandes de upgifter, som af bemälte Ledamöter stadgade blifvit, genast att på sina vederbörliga ställen af Secreteraren aflämnas och i Academiens minnesbok intagas.»"
+  },
+  {
+   "bbox": [
+    483,
+    1048,
+    1525,
+    1461
+   ],
+   "category": "Text",
+   "text": "Vid nästa sammanträde, den 12 maj, hade emellertid blott en enda ledamot, Nordin, infunnit sig. »I anseende till brist af närvarande Ledamöter kunde således ingen öfwerläggning företagas. Men som de Ledamöter, hvilka granskningen updragen blifvit af de i nästledne Sammankomst upgifne förslag till minnes- och belöningspenningar därmed inkommit och dessa således granskade förslag, på sätt samma dags protocoll innehåller, äga samma giltighet, som voro de af academien sjelf samfält faststälda, så hade Secreteraren redan å academiens vägnar dem hvart till sitt ställe expedierat, och komma de följagteligen i academiens Dagbok härstädes att intagas, nämligen:"
+  },
+  {
+   "bbox": [
+    483,
+    1459,
+    1525,
+    1543
+   ],
+   "category": "Text",
+   "text": "Öfver H. K. H. KronPrinsens Examen den 29 Martii 1789 i närvaro af Riksens Ständers Deputerade:"
+  },
+  {
+   "bbox": [
+    520,
+    1543,
+    1322,
+    1583
+   ],
+   "category": "Text",
+   "text": "Första sidan: Konungens bröstbild, namn och titel."
+  },
+  {
+   "bbox": [
+    483,
+    1583,
+    1525,
+    1744
+   ],
+   "category": "Text",
+   "text": "Andra sidan: Samma figurer som på den för tre år sedan öfver lika ämne slagne skådepenning eller Minerva, som framförer och föreställer den unga Prinsen för Sverige i en qvinnas liknelse med sin trekrönta sköld i handen. Men till öfverskrift: *Laetitia iterum* och"
+  },
+  {
+   "bbox": [
+    487,
+    1786,
+    559,
+    1825
+   ],
+   "category": "Page-footer",
+   "text": "154"
+  }
+ ]
+}

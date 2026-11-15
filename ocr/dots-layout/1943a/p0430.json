@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 430,
+ "seconds": 25.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [286, 525, 1018, 563], \"category\": \"Section-header\", \"text\": \"ADLERBETHS SISTA SEKRETERARÅR\"}, {\"bbox\": [130, 644, 1169, 1309], \"category\": \"Text\", \"text\": \"Vill man av de utgivna Handlingarna såsom värdemätare jämföra de insatser, som de bägge av Gustav III stiftade akademierna under hans regering gjort, utfaller jämförelsen snarast till Vitterhets Historie och Antikvitetsakademiens fördel. Dess Handlingar innehålla flera för sin tid verkligen goda avhandlingar av Adlerbeth, Engeström, Porthan, Neikter och, kanske främst, av Murberg samt även några goda »levnadsbeskrivningar», under det att inträdestalen och minnesteckningarna i Svenska akademien från vår tids synpunkt måste betecknas såsom ganska innehållslösa och falskt retoriska. Men å andra sidan var ingen av de båda akademierna i stånd att fylla de uppgifter, som Gustav III satt såsom deras främsta: för Svenska akademien en ordbok och en grammatik, för Vitterhets Historie och Antikvitetsakademien de båda medaljhistorierna. De prisbelönta skrifterna voro i bägge fallen ungefär lika värdelösa, och icke förr än vid Sången över Creutz fick Svenska akademien tillfälle att bedöma någon verklig skald.\"}, {\"bbox\": [132, 1305, 1170, 1763], \"category\": \"Text\", \"text\": \"Men onekligen föll det mera glans över Svenska akademien. Denna räknade bland sina ledamöter Sveriges då högst uppskattade poeter, Kellgren, Leopold, Oxenstierna och Gyllenborg, och det var dessa, som inför allmänheten satte sin prägel på akademien, ty för den gustavianska tiden stod diktkonsten vida över vetenskapen, man föredrog »äreminnet», som var Svenska akademiens specialitet, framför »lefvernesbeskrifningen», man lyssnade hellre till de granna inträdestalen i Svenska akademien än till Adlerbeths tal om arabiska mynt eller Hallenbergs om historisk metod, och genom allmänhetens brist på intresse för Vitterhets Historie och Antikvitetsakademiens uppgifter kom denna att föra en tämligen obemärkt tillvaro.\"}, {\"bbox\": [1178, 650, 1314, 742], \"category\": \"Text\", \"text\": \"Akademien och förmyn-darregeringen\"}, {\"bbox\": [1095, 1794, 1165, 1832], \"category\": \"Page-footer\", \"text\": \"409\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    286,
+    525,
+    1018,
+    563
+   ],
+   "category": "Section-header",
+   "text": "ADLERBETHS SISTA SEKRETERARÅR"
+  },
+  {
+   "bbox": [
+    130,
+    644,
+    1169,
+    1309
+   ],
+   "category": "Text",
+   "text": "Vill man av de utgivna Handlingarna såsom värdemätare jämföra de insatser, som de bägge av Gustav III stiftade akademierna under hans regering gjort, utfaller jämförelsen snarast till Vitterhets Historie och Antikvitetsakademiens fördel. Dess Handlingar innehålla flera för sin tid verkligen goda avhandlingar av Adlerbeth, Engeström, Porthan, Neikter och, kanske främst, av Murberg samt även några goda »levnadsbeskrivningar», under det att inträdestalen och minnesteckningarna i Svenska akademien från vår tids synpunkt måste betecknas såsom ganska innehållslösa och falskt retoriska. Men å andra sidan var ingen av de båda akademierna i stånd att fylla de uppgifter, som Gustav III satt såsom deras främsta: för Svenska akademien en ordbok och en grammatik, för Vitterhets Historie och Antikvitetsakademien de båda medaljhistorierna. De prisbelönta skrifterna voro i bägge fallen ungefär lika värdelösa, och icke förr än vid Sången över Creutz fick Svenska akademien tillfälle att bedöma någon verklig skald."
+  },
+  {
+   "bbox": [
+    132,
+    1305,
+    1170,
+    1763
+   ],
+   "category": "Text",
+   "text": "Men onekligen föll det mera glans över Svenska akademien. Denna räknade bland sina ledamöter Sveriges då högst uppskattade poeter, Kellgren, Leopold, Oxenstierna och Gyllenborg, och det var dessa, som inför allmänheten satte sin prägel på akademien, ty för den gustavianska tiden stod diktkonsten vida över vetenskapen, man föredrog »äreminnet», som var Svenska akademiens specialitet, framför »lefvernesbeskrifningen», man lyssnade hellre till de granna inträdestalen i Svenska akademien än till Adlerbeths tal om arabiska mynt eller Hallenbergs om historisk metod, och genom allmänhetens brist på intresse för Vitterhets Historie och Antikvitetsakademiens uppgifter kom denna att föra en tämligen obemärkt tillvaro."
+  },
+  {
+   "bbox": [
+    1178,
+    650,
+    1314,
+    742
+   ],
+   "category": "Text",
+   "text": "Akademien och förmyn-darregeringen"
+  },
+  {
+   "bbox": [
+    1095,
+    1794,
+    1165,
+    1832
+   ],
+   "category": "Page-footer",
+   "text": "409"
+  }
+ ]
+}

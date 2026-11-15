@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 12,
+ "seconds": 26.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [111, 302, 1214, 595], \"category\": \"Title\", \"text\": \"KGL. VITTERHETS\\nHISTORIE OCH ANTIKVITETS\\nAKADEMIEN\"}, {\"bbox\": [288, 664, 1045, 818], \"category\": \"Title\", \"text\": \"Dess\\nFörhistoria och Historia\"}, {\"bbox\": [433, 868, 896, 1007], \"category\": \"Text\", \"text\": \"På akademiens uppdrag\\nförfattade\\nav\"}, {\"bbox\": [431, 1045, 894, 1105], \"category\": \"Text\", \"text\": \"HENRIK SCHÜCK\"}, {\"bbox\": [471, 1187, 857, 1362], \"category\": \"Text\", \"text\": \"VI\\nADLERBETHS TID\\n1786–1793\"}, {\"bbox\": [420, 1693, 913, 1745], \"category\": \"Text\", \"text\": \"Stockholm 1943\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    111,
+    302,
+    1214,
+    595
+   ],
+   "category": "Title",
+   "text": "KGL. VITTERHETS\nHISTORIE OCH ANTIKVITETS\nAKADEMIEN"
+  },
+  {
+   "bbox": [
+    288,
+    664,
+    1045,
+    818
+   ],
+   "category": "Title",
+   "text": "Dess\nFörhistoria och Historia"
+  },
+  {
+   "bbox": [
+    433,
+    868,
+    896,
+    1007
+   ],
+   "category": "Text",
+   "text": "På akademiens uppdrag\nförfattade\nav"
+  },
+  {
+   "bbox": [
+    431,
+    1045,
+    894,
+    1105
+   ],
+   "category": "Text",
+   "text": "HENRIK SCHÜCK"
+  },
+  {
+   "bbox": [
+    471,
+    1187,
+    857,
+    1362
+   ],
+   "category": "Text",
+   "text": "VI\nADLERBETHS TID\n1786–1793"
+  },
+  {
+   "bbox": [
+    420,
+    1693,
+    913,
+    1745
+   ],
+   "category": "Text",
+   "text": "Stockholm 1943"
+  }
+ ]
+}

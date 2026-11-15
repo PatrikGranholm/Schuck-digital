@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 70,
+ "seconds": 21.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [467, 228, 773, 264], \"category\": \"Page-header\", \"text\": \"Statuter och stat\"}, {\"bbox\": [100, 297, 1138, 587], \"category\": \"Text\", \"text\": \"Det har i synnerhet varit GUSTAVERS sälla Lot at bland oss grundlägga, stadga och befordra nyttiga konster och Wettenskaper. Hvad kunne wi då icke hoppas under denna Kongl. Academiens Höge Stiftares — under en Konungs Regering, som från sin ungdom altid älskat och skyddat Lärdom och Witterhet samt Sjelf förklarat Sig anse för en af Sine mäst hedrande omsorger at dem på alt sätt befrämja.\"}, {\"bbox\": [100, 587, 1138, 794], \"category\": \"Text\", \"text\": \"Måtte närvarande lyckliga dag, utmärkt af Den Bäste Konungs Födelse, så vist ofta ännu återkomma, som den åt glade och tacksamme Undersåtare skall lika ofta medföra förnyade anledningar till glädje och frögd samt tillika för denna Kongl. Academien förnyade ämnen till fägnad och ärkänsla.\"}, {\"bbox\": [135, 804, 1068, 850], \"category\": \"Text\", \"text\": \"Dicterat från Sjuksängen i Norrköping d. 24 Januarii 1791.\"}, {\"bbox\": [896, 865, 1101, 908], \"category\": \"Text\", \"text\": \"J. H. Lidén.»\"}, {\"bbox\": [100, 945, 1136, 1022], \"category\": \"Text\", \"text\": \"Även ett annat brev, till Adlerbeth den 21 februari 1788, förtjänar att läsas:\"}, {\"bbox\": [132, 1051, 792, 1089], \"category\": \"Text\", \"text\": \"»Välborne Herr CantzliRåd och Riddare.\"}, {\"bbox\": [95, 1122, 1138, 1619], \"category\": \"Text\", \"text\": \"Ja — visserligen en altför länge afbruten wänskapsförbindelse! Döm häraf, Bäste Herr CantzliRåd, hvilken högtidsdag det för mitt hjerta varit at i dag emottaga det angenäma bref, hvarmed Herr Cantzli-Rådet behagat mig hedra. Under en snart Sjuttonårig Sjukdom har jag förlorat alt hvad som förloras kan undantagande Ståndaktighet och ett muntert sinne samt en fägnesam hugkomst af mina wänner. Jag anser för en ej ringa heder at däribland få räkna Herr Cantzli-Rådet. Mer än en gång har jag på min Smärtefulla Sjuksäng tänckt på wåra fordna oskyldiga nöjen. Så ofta tillfälle gifvits har jag äfven med glädje underrättat mig om Herr CantzliRådets wälgång, hvarmed Hans Excellence Herr Baron Ramel mig senast fägnade, då Han vid genomresan gladde mig med sitt kära besök.\"}, {\"bbox\": [98, 1618, 1136, 1746], \"category\": \"Text\", \"text\": \"För den öfversände Jetton [över Dahlberg] öfver en af wåra gamle, kanske urmodige Hjeltar tackar jag ödmjukeligen. Det är nöjsamt att se Dem åter lefva up, åtminstone på Medailler. Wi skola hop-\"}, {\"bbox\": [1087, 1782, 1132, 1819], \"category\": \"Page-footer\", \"text\": \"55\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    467,
+    228,
+    773,
+    264
+   ],
+   "category": "Page-header",
+   "text": "Statuter och stat"
+  },
+  {
+   "bbox": [
+    100,
+    297,
+    1138,
+    587
+   ],
+   "category": "Text",
+   "text": "Det har i synnerhet varit GUSTAVERS sälla Lot at bland oss grundlägga, stadga och befordra nyttiga konster och Wettenskaper. Hvad kunne wi då icke hoppas under denna Kongl. Academiens Höge Stiftares — under en Konungs Regering, som från sin ungdom altid älskat och skyddat Lärdom och Witterhet samt Sjelf förklarat Sig anse för en af Sine mäst hedrande omsorger at dem på alt sätt befrämja."
+  },
+  {
+   "bbox": [
+    100,
+    587,
+    1138,
+    794
+   ],
+   "category": "Text",
+   "text": "Måtte närvarande lyckliga dag, utmärkt af Den Bäste Konungs Födelse, så vist ofta ännu återkomma, som den åt glade och tacksamme Undersåtare skall lika ofta medföra förnyade anledningar till glädje och frögd samt tillika för denna Kongl. Academien förnyade ämnen till fägnad och ärkänsla."
+  },
+  {
+   "bbox": [
+    135,
+    804,
+    1068,
+    850
+   ],
+   "category": "Text",
+   "text": "Dicterat från Sjuksängen i Norrköping d. 24 Januarii 1791."
+  },
+  {
+   "bbox": [
+    896,
+    865,
+    1101,
+    908
+   ],
+   "category": "Text",
+   "text": "J. H. Lidén.»"
+  },
+  {
+   "bbox": [
+    100,
+    945,
+    1136,
+    1022
+   ],
+   "category": "Text",
+   "text": "Även ett annat brev, till Adlerbeth den 21 februari 1788, förtjänar att läsas:"
+  },
+  {
+   "bbox": [
+    132,
+    1051,
+    792,
+    1089
+   ],
+   "category": "Text",
+   "text": "»Välborne Herr CantzliRåd och Riddare."
+  },
+  {
+   "bbox": [
+    95,
+    1122,
+    1138,
+    1619
+   ],
+   "category": "Text",
+   "text": "Ja — visserligen en altför länge afbruten wänskapsförbindelse! Döm häraf, Bäste Herr CantzliRåd, hvilken högtidsdag det för mitt hjerta varit at i dag emottaga det angenäma bref, hvarmed Herr Cantzli-Rådet behagat mig hedra. Under en snart Sjuttonårig Sjukdom har jag förlorat alt hvad som förloras kan undantagande Ståndaktighet och ett muntert sinne samt en fägnesam hugkomst af mina wänner. Jag anser för en ej ringa heder at däribland få räkna Herr Cantzli-Rådet. Mer än en gång har jag på min Smärtefulla Sjuksäng tänckt på wåra fordna oskyldiga nöjen. Så ofta tillfälle gifvits har jag äfven med glädje underrättat mig om Herr CantzliRådets wälgång, hvarmed Hans Excellence Herr Baron Ramel mig senast fägnade, då Han vid genomresan gladde mig med sitt kära besök."
+  },
+  {
+   "bbox": [
+    98,
+    1618,
+    1136,
+    1746
+   ],
+   "category": "Text",
+   "text": "För den öfversände Jetton [över Dahlberg] öfver en af wåra gamle, kanske urmodige Hjeltar tackar jag ödmjukeligen. Det är nöjsamt att se Dem åter lefva up, åtminstone på Medailler. Wi skola hop-"
+  },
+  {
+   "bbox": [
+    1087,
+    1782,
+    1132,
+    1819
+   ],
+   "category": "Page-footer",
+   "text": "55"
+  }
+ ]
+}

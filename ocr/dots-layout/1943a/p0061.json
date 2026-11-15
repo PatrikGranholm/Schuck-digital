@@ -1,0 +1,182 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 61,
+ "seconds": 32.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [797, 236, 1231, 280], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [983, 307, 1055, 345], \"category\": \"Section-header\", \"text\": \"§ 36.\"}, {\"bbox\": [495, 347, 1535, 637], \"category\": \"Text\", \"text\": \"På det Academiens angelägenheter desto mera kunna befrämjas och til et teckn af det synnerliga hägn, med hvilket Konungen vil dem omfatta, äger Secreteraren hos Konungen föredraga Academiens angelägenheter och anmäler sig dertil hos den Vakthafvande Öfverste Kammarjunkaren at undfå den tima Konungen vil utsätta til Academiens ärenders föredragning; och äro Stats-Expeditionerne pliktige, at genast expediera och utfärda de Resolutioner, som Konungen beslutit, då Secreteraren dem til Stats-Expeditionerne öfverlemnar försedde med Konungens egenhändiga påskrift.\"}, {\"bbox\": [983, 656, 1055, 694], \"category\": \"Section-header\", \"text\": \"§ 37.\"}, {\"bbox\": [495, 696, 1535, 940], \"category\": \"Text\", \"text\": \"Academien skal nyttja tvänne Secret, et mindre och et större, på hvilket är stuckit den Sinnebild Drottning Lovisa Ulrica faststält för Academien, med des Devise: CERTAMEN LITERAR. CONSTITUTUM, och i-kring läses: VITTERHETS, HISTORIE OCH ANTIQUITETS ACADEMIENS SIGILL. INSTICKTAD AF DROTTNING LOVISA ULRICA MDCCLIII. STADFÄSTAD AF GUSTAF III. MDCCLXXX-VI.\"}, {\"bbox\": [983, 945, 1055, 983], \"category\": \"Section-header\", \"text\": \"§ 38.\"}, {\"bbox\": [495, 985, 1531, 1060], \"category\": \"Text\", \"text\": \"Detta Secret förvaras, af Vice Præses det större, och af Præses det mindre, som tjenar at sättas på de Skrifter, som den 12. §. stadgar om.\"}, {\"bbox\": [983, 1080, 1055, 1118], \"category\": \"Section-header\", \"text\": \"§ 39.\"}, {\"bbox\": [495, 1120, 1531, 1223], \"category\": \"Text\", \"text\": \"Det stora Secretet brukas til de Diplomer, som utfärdas för de Utländske Ledamöter och på sådana Acter, der Academiens Quittence för penningar eller andra inkomster fordras.\"}, {\"bbox\": [495, 1225, 1531, 1334], \"category\": \"Text\", \"text\": \"Til Yttermera visso hafva Vi detta med vår Egen hand underskrifvit och med Vårt Stora Konungsliga Sigill bekräfta låtit. Stockholms Slott den 20 Mars 1786.\"}, {\"bbox\": [937, 1332, 1087, 1364], \"category\": \"Text\", \"text\": \"GUSTAF.\"}, {\"bbox\": [1237, 1368, 1497, 1400], \"category\": \"Text\", \"text\": \"E. Schröderheim.»\"}, {\"bbox\": [934, 1405, 1089, 1429], \"category\": \"Text\", \"text\": \"* *\"}, {\"bbox\": [1002, 1447, 1024, 1469], \"category\": \"Text\", \"text\": \"*\"}, {\"bbox\": [415, 1510, 1531, 1636], \"category\": \"List-item\", \"text\": \"Staten Sedan dessa statuter på förmiddagen den 20 mars 1786 föredragits för riksrådet, upplästes »den donations Skrift Hans Kongl. Maj:t för Academien låtit författa«, vilken var av följande lydelse:\"}, {\"bbox\": [495, 1642, 1531, 1755], \"category\": \"Text\", \"text\": \"»Vi Gustaf, med Guds Nåde, Sveriges, Göthes och Vendes Konung etc. etc. etc. Arfvinge till Norrige samt Hertig til Schlesvig-Holstein etc. etc. Göre veterligt: att sedan Vi, af kärlek för Lärdom och Vitterhet, åter uplifvat\"}, {\"bbox\": [499, 1781, 548, 1827], \"category\": \"Page-footer\", \"text\": \"46\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    797,
+    236,
+    1231,
+    280
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    983,
+    307,
+    1055,
+    345
+   ],
+   "category": "Section-header",
+   "text": "§ 36."
+  },
+  {
+   "bbox": [
+    495,
+    347,
+    1535,
+    637
+   ],
+   "category": "Text",
+   "text": "På det Academiens angelägenheter desto mera kunna befrämjas och til et teckn af det synnerliga hägn, med hvilket Konungen vil dem omfatta, äger Secreteraren hos Konungen föredraga Academiens angelägenheter och anmäler sig dertil hos den Vakthafvande Öfverste Kammarjunkaren at undfå den tima Konungen vil utsätta til Academiens ärenders föredragning; och äro Stats-Expeditionerne pliktige, at genast expediera och utfärda de Resolutioner, som Konungen beslutit, då Secreteraren dem til Stats-Expeditionerne öfverlemnar försedde med Konungens egenhändiga påskrift."
+  },
+  {
+   "bbox": [
+    983,
+    656,
+    1055,
+    694
+   ],
+   "category": "Section-header",
+   "text": "§ 37."
+  },
+  {
+   "bbox": [
+    495,
+    696,
+    1535,
+    940
+   ],
+   "category": "Text",
+   "text": "Academien skal nyttja tvänne Secret, et mindre och et större, på hvilket är stuckit den Sinnebild Drottning Lovisa Ulrica faststält för Academien, med des Devise: CERTAMEN LITERAR. CONSTITUTUM, och i-kring läses: VITTERHETS, HISTORIE OCH ANTIQUITETS ACADEMIENS SIGILL. INSTICKTAD AF DROTTNING LOVISA ULRICA MDCCLIII. STADFÄSTAD AF GUSTAF III. MDCCLXXX-VI."
+  },
+  {
+   "bbox": [
+    983,
+    945,
+    1055,
+    983
+   ],
+   "category": "Section-header",
+   "text": "§ 38."
+  },
+  {
+   "bbox": [
+    495,
+    985,
+    1531,
+    1060
+   ],
+   "category": "Text",
+   "text": "Detta Secret förvaras, af Vice Præses det större, och af Præses det mindre, som tjenar at sättas på de Skrifter, som den 12. §. stadgar om."
+  },
+  {
+   "bbox": [
+    983,
+    1080,
+    1055,
+    1118
+   ],
+   "category": "Section-header",
+   "text": "§ 39."
+  },
+  {
+   "bbox": [
+    495,
+    1120,
+    1531,
+    1223
+   ],
+   "category": "Text",
+   "text": "Det stora Secretet brukas til de Diplomer, som utfärdas för de Utländske Ledamöter och på sådana Acter, der Academiens Quittence för penningar eller andra inkomster fordras."
+  },
+  {
+   "bbox": [
+    495,
+    1225,
+    1531,
+    1334
+   ],
+   "category": "Text",
+   "text": "Til Yttermera visso hafva Vi detta med vår Egen hand underskrifvit och med Vårt Stora Konungsliga Sigill bekräfta låtit. Stockholms Slott den 20 Mars 1786."
+  },
+  {
+   "bbox": [
+    937,
+    1332,
+    1087,
+    1364
+   ],
+   "category": "Text",
+   "text": "GUSTAF."
+  },
+  {
+   "bbox": [
+    1237,
+    1368,
+    1497,
+    1400
+   ],
+   "category": "Text",
+   "text": "E. Schröderheim.»"
+  },
+  {
+   "bbox": [
+    934,
+    1405,
+    1089,
+    1429
+   ],
+   "category": "Text",
+   "text": "* *"
+  },
+  {
+   "bbox": [
+    1002,
+    1447,
+    1024,
+    1469
+   ],
+   "category": "Text",
+   "text": "*"
+  },
+  {
+   "bbox": [
+    415,
+    1510,
+    1531,
+    1636
+   ],
+   "category": "List-item",
+   "text": "Staten Sedan dessa statuter på förmiddagen den 20 mars 1786 föredragits för riksrådet, upplästes »den donations Skrift Hans Kongl. Maj:t för Academien låtit författa«, vilken var av följande lydelse:"
+  },
+  {
+   "bbox": [
+    495,
+    1642,
+    1531,
+    1755
+   ],
+   "category": "Text",
+   "text": "»Vi Gustaf, med Guds Nåde, Sveriges, Göthes och Vendes Konung etc. etc. etc. Arfvinge till Norrige samt Hertig til Schlesvig-Holstein etc. etc. Göre veterligt: att sedan Vi, af kärlek för Lärdom och Vitterhet, åter uplifvat"
+  },
+  {
+   "bbox": [
+    499,
+    1781,
+    548,
+    1827
+   ],
+   "category": "Page-footer",
+   "text": "46"
+  }
+ ]
+}

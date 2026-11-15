@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 227,
+ "seconds": 26.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [812, 233, 1249, 275], \"category\": \"Section-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [754, 303, 1302, 676], \"category\": \"Text\", \"text\": \"Gustaf Adolph\\nSvea Kron Prins\\nKom första gången\\nTill Upsala Län\\nDen 22 Octob. 1786.\\nHans Fader förde honom\\nTill Nordens äldsta Lärdoms Säte.\\nHans tillkommande Follk\\nSåg det och gladdes.\"}, {\"bbox\": [763, 716, 1269, 834], \"category\": \"Text\", \"text\": \"—\\nElis Schröderheim\\nSt. Secr. och vice Lhdg. i Ups.\\nreste Stenen.»\"}, {\"bbox\": [505, 869, 1553, 1200], \"category\": \"Text\", \"text\": \"En annan samtidig minnessten, som landshövdingen greve Ekeblad fick rest på gränsen mellan Skaraborgs och Örebro län, gör snarast intryck av ett plagiat av Schröderheims idé — eller kanske det var tvärtom — ty Ekeblads minnessten restes för att hugfästa den dag, den 17 juli 1786, då den sexårige Kronprinsen passerat gränsen mellan de bägge länen. Inskriften (prot. 23 jan. 1787) slutade mycket vackert: »Westgötharnes fägnad fölgde honom genom deras landskap. Där Saknaden börjades, Förvaras åminnelsen.»\"}, {\"bbox\": [505, 1204, 1553, 1494], \"category\": \"Text\", \"text\": \"Alldeles samtidigt hade en bergmästare Bergensköld kommit på en liknande idé — visserligen icke en hyllning åt den lilla kronprinsen utan åt Gustav III själv. 1768 hade denne såsom kronprins besökt Lerbergs gruva i Nora bergslag, och den 19 december 1786 ingav Bergensköld till akademien ett förslag till en inskription å en minnessten öfver denna märkliga händelse. Den 2 januari skred akademien till behandling av ärendet:\"}, {\"bbox\": [505, 1499, 1553, 1749], \"category\": \"Text\", \"text\": \"»Secreteraren hade trott någon förkorrtning därvid äga rum såsom mera passande till naturen af en stenskrift, hälst en omständelig berättelse af alt, som till en händelses kännedom fordras, enkannerligen tillkommer Historien att förvara. I anledning af Secreterarens tillstyrkande och hvad ytterligare af academiens Ledamöter därwid annärktes, faststäldes följande påskrift.\"}, {\"bbox\": [508, 1785, 578, 1813], \"category\": \"Page-footer\", \"text\": \"210\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    812,
+    233,
+    1249,
+    275
+   ],
+   "category": "Section-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    754,
+    303,
+    1302,
+    676
+   ],
+   "category": "Text",
+   "text": "Gustaf Adolph\nSvea Kron Prins\nKom första gången\nTill Upsala Län\nDen 22 Octob. 1786.\nHans Fader förde honom\nTill Nordens äldsta Lärdoms Säte.\nHans tillkommande Follk\nSåg det och gladdes."
+  },
+  {
+   "bbox": [
+    763,
+    716,
+    1269,
+    834
+   ],
+   "category": "Text",
+   "text": "—\nElis Schröderheim\nSt. Secr. och vice Lhdg. i Ups.\nreste Stenen.»"
+  },
+  {
+   "bbox": [
+    505,
+    869,
+    1553,
+    1200
+   ],
+   "category": "Text",
+   "text": "En annan samtidig minnessten, som landshövdingen greve Ekeblad fick rest på gränsen mellan Skaraborgs och Örebro län, gör snarast intryck av ett plagiat av Schröderheims idé — eller kanske det var tvärtom — ty Ekeblads minnessten restes för att hugfästa den dag, den 17 juli 1786, då den sexårige Kronprinsen passerat gränsen mellan de bägge länen. Inskriften (prot. 23 jan. 1787) slutade mycket vackert: »Westgötharnes fägnad fölgde honom genom deras landskap. Där Saknaden börjades, Förvaras åminnelsen.»"
+  },
+  {
+   "bbox": [
+    505,
+    1204,
+    1553,
+    1494
+   ],
+   "category": "Text",
+   "text": "Alldeles samtidigt hade en bergmästare Bergensköld kommit på en liknande idé — visserligen icke en hyllning åt den lilla kronprinsen utan åt Gustav III själv. 1768 hade denne såsom kronprins besökt Lerbergs gruva i Nora bergslag, och den 19 december 1786 ingav Bergensköld till akademien ett förslag till en inskription å en minnessten öfver denna märkliga händelse. Den 2 januari skred akademien till behandling av ärendet:"
+  },
+  {
+   "bbox": [
+    505,
+    1499,
+    1553,
+    1749
+   ],
+   "category": "Text",
+   "text": "»Secreteraren hade trott någon förkorrtning därvid äga rum såsom mera passande till naturen af en stenskrift, hälst en omständelig berättelse af alt, som till en händelses kännedom fordras, enkannerligen tillkommer Historien att förvara. I anledning af Secreterarens tillstyrkande och hvad ytterligare af academiens Ledamöter därwid annärktes, faststäldes följande påskrift."
+  },
+  {
+   "bbox": [
+    508,
+    1785,
+    578,
+    1813
+   ],
+   "category": "Page-footer",
+   "text": "210"
+  }
+ ]
+}

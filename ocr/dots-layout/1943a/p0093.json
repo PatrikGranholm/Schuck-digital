@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 93,
+ "seconds": 28.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [793, 231, 1226, 271], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [487, 299, 1531, 552], \"category\": \"Text\", \"text\": \"hagade Hennes Majestät »anmoda Riksrådet m. m. Herr Grefve von Höpken at densamma sig åtaga och hvartil Hans Excellens äfven täckts samtycka». På denna plats stannade han ända till den 23 maj 1786, och hade således i verkligheten över 20 år varit akademiens direktör ehuru visserligen direktör för en akademi, som under största delen av dessa 33 år legat nere.\"}, {\"bbox\": [487, 547, 1531, 1580], \"category\": \"Text\", \"text\": \"Höpkens avskedstal till akademien — liksom Adlerbeths alltför korta och för officiella svar — finnes tryckt i akademiens Handlingar, och av detta får man ett intryck av, att det var med ett visst vemod, som den gamle statsmannen nedlade sin befattning såsom akademiens »styresman». Han var då 74 år och hade endast tre år kvar av livet. Hans tal blev därför åldringens farväl till den tid, som icke längre var hans egen. Han hade tydligen fäst sig både vid akademien och vid dess stiftarinna, och den karakteristik, han i sitt tal ger av henne, äger både värme och sanning. Stryker man de starka färgerna, som tillhörde 1700-talets retorik, då en undersåte talade till eller om en medlem av kungahuset, så är karakteristiken träffande, ty trots alla hennes förvillelser, hennes häftiga lynne och hennes härsklystnad fanns det dock i Lovisa Ulricas personlighet en viss storslagenhet och en icke ringa fond av godhet. Få ha betytt mera än hon för en verklig kultur i umgängeslivet, icke blott för en yttre förfining, utan ock för en moralisk kultur, som står i en bestämd motsats till den gustavianska tidens. För vetenskapen hyste hon ett verkligt intresse, Linné, Klingenstierna, Berch stodo henne personligen nära, den främste vittre författaren under hennes tid, Dalin, kan nästan sägas ha varit hennes vän, om Tessin kan detta ock sägas, innan politiken skilde deras banor åt, som samlare hade hon få likar, och hennes konstgalleri, myntsamling och naturaliekabinett voro de förnämligaste, som sedan Kristinas tid funnits i Sverige. Allt detta antydes i Höpkens tal, som därför blev icke blott en hyllning åt den gamla Vitterhetsakademiens stiftarinna utan ock det bästa gravtalet över hennes skapelse.\"}, {\"bbox\": [487, 1577, 1531, 1746], \"category\": \"Text\", \"text\": \"Omedelbart efter Höpkens tal skred akademien till val av »president» — som det nu hette. Enligt den egendomliga valprocedur, som Gustav III föreskrivit, skulle de båda klasserna, den honoraira och den arbetande, visserligen rösta tillsammans, men på röstsedeln\"}, {\"bbox\": [491, 1776, 538, 1821], \"category\": \"Page-footer\", \"text\": \"78\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    793,
+    231,
+    1226,
+    271
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    487,
+    299,
+    1531,
+    552
+   ],
+   "category": "Text",
+   "text": "hagade Hennes Majestät »anmoda Riksrådet m. m. Herr Grefve von Höpken at densamma sig åtaga och hvartil Hans Excellens äfven täckts samtycka». På denna plats stannade han ända till den 23 maj 1786, och hade således i verkligheten över 20 år varit akademiens direktör ehuru visserligen direktör för en akademi, som under största delen av dessa 33 år legat nere."
+  },
+  {
+   "bbox": [
+    487,
+    547,
+    1531,
+    1580
+   ],
+   "category": "Text",
+   "text": "Höpkens avskedstal till akademien — liksom Adlerbeths alltför korta och för officiella svar — finnes tryckt i akademiens Handlingar, och av detta får man ett intryck av, att det var med ett visst vemod, som den gamle statsmannen nedlade sin befattning såsom akademiens »styresman». Han var då 74 år och hade endast tre år kvar av livet. Hans tal blev därför åldringens farväl till den tid, som icke längre var hans egen. Han hade tydligen fäst sig både vid akademien och vid dess stiftarinna, och den karakteristik, han i sitt tal ger av henne, äger både värme och sanning. Stryker man de starka färgerna, som tillhörde 1700-talets retorik, då en undersåte talade till eller om en medlem av kungahuset, så är karakteristiken träffande, ty trots alla hennes förvillelser, hennes häftiga lynne och hennes härsklystnad fanns det dock i Lovisa Ulricas personlighet en viss storslagenhet och en icke ringa fond av godhet. Få ha betytt mera än hon för en verklig kultur i umgängeslivet, icke blott för en yttre förfining, utan ock för en moralisk kultur, som står i en bestämd motsats till den gustavianska tidens. För vetenskapen hyste hon ett verkligt intresse, Linné, Klingenstierna, Berch stodo henne personligen nära, den främste vittre författaren under hennes tid, Dalin, kan nästan sägas ha varit hennes vän, om Tessin kan detta ock sägas, innan politiken skilde deras banor åt, som samlare hade hon få likar, och hennes konstgalleri, myntsamling och naturaliekabinett voro de förnämligaste, som sedan Kristinas tid funnits i Sverige. Allt detta antydes i Höpkens tal, som därför blev icke blott en hyllning åt den gamla Vitterhetsakademiens stiftarinna utan ock det bästa gravtalet över hennes skapelse."
+  },
+  {
+   "bbox": [
+    487,
+    1577,
+    1531,
+    1746
+   ],
+   "category": "Text",
+   "text": "Omedelbart efter Höpkens tal skred akademien till val av »president» — som det nu hette. Enligt den egendomliga valprocedur, som Gustav III föreskrivit, skulle de båda klasserna, den honoraira och den arbetande, visserligen rösta tillsammans, men på röstsedeln"
+  },
+  {
+   "bbox": [
+    491,
+    1776,
+    538,
+    1821
+   ],
+   "category": "Page-footer",
+   "text": "78"
+  }
+ ]
+}

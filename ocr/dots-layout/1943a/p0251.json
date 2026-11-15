@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 251,
+ "seconds": 28.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [793, 238, 1227, 279], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [488, 307, 1528, 765], \"category\": \"Text\", \"text\": \"för »det franska spektaklet» även haft en viss beröring med dramati-ken. Vad han nu ville behandla var beröringspunkterna mellan skal-dens och den bildande konstnärens verksamhet. Några märkliga nya synpunkter framlägger han icke. Både skalden och konstnären måste äga »medfödt genie och god smak», och till det fulländade konst-verket måste bägge, snillet och smaken, samverka — en sats, som ju på 1700-talet var den allmänt gällande. Adelcrantz sysselsätter sig ej heller med att utreda själva begreppen, utan söker att med exempel visa bådas nödvändighet. Smaken saknas ofta hos så stora skalder som Dante och Tasso, Shakespeare och Milton, och samma iaktta-gelse kunna vi göra på konstens område:\"}, {\"bbox\": [488, 761, 1528, 1546], \"category\": \"Text\", \"text\": \"»Yttersta domen, målad af Michaël Angelo uti Sixti Capell i Rom, är förundransvärd i anseende til des rika sammansättning, ferma tekning och starka expressioner; detta oaktadt väcker samma målning hos åskådaren mera häpenhet än nöje, emedan smak vid urvalet af ämnen, ordning och redighet uti föreställandet fela. Polidors för-träffeliga tafla öfver Lazari upståndelse kan oaktadt alla des skönheter icke anses utan en slags vämjelse för det osmakeliga infallet Mästaren haft at låta en del af de närvarande vid detta underverket, i stället för at synas intagne af förundran och vördnad, hålla sig för näsan at dymedelst betekna det Lazarus verkeligen varit död.» — — — »Huru mycket blifva icke deremot själ och sinnen betagne af Raphaëls gudomeliga tafla öfver Christi förklaring och den icke mindre namn-kunniga Hieronymi sista communion af Dominiquain, hvilka utom andra fullkomligheter af höga tankar och nästan öfvernaturliga ex-pressioner jemväl utmärka sig genom den urskillningsgåfva och goda smak desse bägge store Männer visat at til händelsernas föreställande nyttja et så lagom stort antal personer och tillika så sysselsätta hvar och en af dem, at ögat och eftertankan strax finna, det ingen sak-nas och ingen kan umbäras.»\"}, {\"bbox\": [488, 1543, 1528, 1753], \"category\": \"Text\", \"text\": \"Som brist på smak räknar han även konstnärens brott mot den historiska tidskostymen: Ingen ursäktar »Tintoretti och Paolo Veronese, så stora mästare de ock äro, at den förre uti des målning, som föreställer Israels Barn, de der hemtade manna i öknena, gifver en del af folket skjutgevär i händren; och at den senare på bröllopet i\"}, {\"bbox\": [492, 1789, 563, 1828], \"category\": \"Page-footer\", \"text\": \"232\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    793,
+    238,
+    1227,
+    279
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    488,
+    307,
+    1528,
+    765
+   ],
+   "category": "Text",
+   "text": "för »det franska spektaklet» även haft en viss beröring med dramati-ken. Vad han nu ville behandla var beröringspunkterna mellan skal-dens och den bildande konstnärens verksamhet. Några märkliga nya synpunkter framlägger han icke. Både skalden och konstnären måste äga »medfödt genie och god smak», och till det fulländade konst-verket måste bägge, snillet och smaken, samverka — en sats, som ju på 1700-talet var den allmänt gällande. Adelcrantz sysselsätter sig ej heller med att utreda själva begreppen, utan söker att med exempel visa bådas nödvändighet. Smaken saknas ofta hos så stora skalder som Dante och Tasso, Shakespeare och Milton, och samma iaktta-gelse kunna vi göra på konstens område:"
+  },
+  {
+   "bbox": [
+    488,
+    761,
+    1528,
+    1546
+   ],
+   "category": "Text",
+   "text": "»Yttersta domen, målad af Michaël Angelo uti Sixti Capell i Rom, är förundransvärd i anseende til des rika sammansättning, ferma tekning och starka expressioner; detta oaktadt väcker samma målning hos åskådaren mera häpenhet än nöje, emedan smak vid urvalet af ämnen, ordning och redighet uti föreställandet fela. Polidors för-träffeliga tafla öfver Lazari upståndelse kan oaktadt alla des skönheter icke anses utan en slags vämjelse för det osmakeliga infallet Mästaren haft at låta en del af de närvarande vid detta underverket, i stället för at synas intagne af förundran och vördnad, hålla sig för näsan at dymedelst betekna det Lazarus verkeligen varit död.» — — — »Huru mycket blifva icke deremot själ och sinnen betagne af Raphaëls gudomeliga tafla öfver Christi förklaring och den icke mindre namn-kunniga Hieronymi sista communion af Dominiquain, hvilka utom andra fullkomligheter af höga tankar och nästan öfvernaturliga ex-pressioner jemväl utmärka sig genom den urskillningsgåfva och goda smak desse bägge store Männer visat at til händelsernas föreställande nyttja et så lagom stort antal personer och tillika så sysselsätta hvar och en af dem, at ögat och eftertankan strax finna, det ingen sak-nas och ingen kan umbäras.»"
+  },
+  {
+   "bbox": [
+    488,
+    1543,
+    1528,
+    1753
+   ],
+   "category": "Text",
+   "text": "Som brist på smak räknar han även konstnärens brott mot den historiska tidskostymen: Ingen ursäktar »Tintoretti och Paolo Veronese, så stora mästare de ock äro, at den förre uti des målning, som föreställer Israels Barn, de der hemtade manna i öknena, gifver en del af folket skjutgevär i händren; och at den senare på bröllopet i"
+  },
+  {
+   "bbox": [
+    492,
+    1789,
+    563,
+    1828
+   ],
+   "category": "Page-footer",
+   "text": "232"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 293,
+ "seconds": 26.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [822, 235, 1252, 277], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [518, 305, 1558, 555], \"category\": \"Text\", \"text\": \"stämt — men för att Ristell skulle komma i fullt åtnjutande av »hedern», borde journalen utgivas i hans namn (och på hans risk — varom försiktigtvis intet nämndes). Vad akademiens medverkan beträffade, inskränkte denna sig till en förhoppning, att troligtvis ingen av akademiens ledamöter skulle undandraga sig att biträda honom i den mån och så vidt lämpligt är.\"}, {\"bbox\": [518, 553, 1558, 679], \"category\": \"Text\", \"text\": \"Därmed var förslaget under de mest lojala former avlivat och frågan kom ej vidare före i akademien. Vad journalen beträffar, kom den naturligtvis aldrig ut.\"}, {\"bbox\": [518, 677, 1558, 1585], \"category\": \"Text\", \"text\": \"Den fick likväl ett efterspel. Sedan Ristell 1789 rymt ur landet, hade han lyckats att få anställning i en fransk tidskrift, L'esprit des journaux françois et étrangers, och i brev till Rosenberg berättade Ristell, att han med utgivaren träffat den överenskommelsen, att denne i tidskriften skulle införa »ej allenast de öfversättningar och utdrag, som honom tillsändes utan äfven academiens kungörelser. — — — Hvad som öfversändes til bemälde Redacteur tryckes utan all kostnad». Härpå tog Rosenberg fasta. Som vi minnas var akademien skyldig att i utländska tidningar införa annonser om de årliga tävlingar, som akademien utlyst, och dessa annonser, som icke hade haft någon nämnvärd effekt, hade varit ganska dyrbara och betungande för den fattiga akademiens kassa. Den 9 november 1790 föredrog Rosenberg Ristells brev i akademien »med hemställan, om icke Witterhets academien kunde häraf göra sig nytta vid införandet i franska papperen af sina prisämnen, hvilket hittils kostat dryg betalning till 80 à 90 livres, [hvilket] i det stället genom anförda utwäg kunde ske alldeles utan all afgift. Samtelige de närvarande Ledamöter funno sådant förmånligt och för den skull bäst att nästa gång något för academiens räkning kommer att införas i franska blad den nu upgifna address må warda nyttjad.» Stor blev fördelen likväl icke, ty i följd av den franska revolutionen upphörde tidskriften kort därefter att utkomma.\"}, {\"bbox\": [527, 1786, 595, 1825], \"category\": \"Page-footer\", \"text\": \"272\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    822,
+    235,
+    1252,
+    277
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    518,
+    305,
+    1558,
+    555
+   ],
+   "category": "Text",
+   "text": "stämt — men för att Ristell skulle komma i fullt åtnjutande av »hedern», borde journalen utgivas i hans namn (och på hans risk — varom försiktigtvis intet nämndes). Vad akademiens medverkan beträffade, inskränkte denna sig till en förhoppning, att troligtvis ingen av akademiens ledamöter skulle undandraga sig att biträda honom i den mån och så vidt lämpligt är."
+  },
+  {
+   "bbox": [
+    518,
+    553,
+    1558,
+    679
+   ],
+   "category": "Text",
+   "text": "Därmed var förslaget under de mest lojala former avlivat och frågan kom ej vidare före i akademien. Vad journalen beträffar, kom den naturligtvis aldrig ut."
+  },
+  {
+   "bbox": [
+    518,
+    677,
+    1558,
+    1585
+   ],
+   "category": "Text",
+   "text": "Den fick likväl ett efterspel. Sedan Ristell 1789 rymt ur landet, hade han lyckats att få anställning i en fransk tidskrift, L'esprit des journaux françois et étrangers, och i brev till Rosenberg berättade Ristell, att han med utgivaren träffat den överenskommelsen, att denne i tidskriften skulle införa »ej allenast de öfversättningar och utdrag, som honom tillsändes utan äfven academiens kungörelser. — — — Hvad som öfversändes til bemälde Redacteur tryckes utan all kostnad». Härpå tog Rosenberg fasta. Som vi minnas var akademien skyldig att i utländska tidningar införa annonser om de årliga tävlingar, som akademien utlyst, och dessa annonser, som icke hade haft någon nämnvärd effekt, hade varit ganska dyrbara och betungande för den fattiga akademiens kassa. Den 9 november 1790 föredrog Rosenberg Ristells brev i akademien »med hemställan, om icke Witterhets academien kunde häraf göra sig nytta vid införandet i franska papperen af sina prisämnen, hvilket hittils kostat dryg betalning till 80 à 90 livres, [hvilket] i det stället genom anförda utwäg kunde ske alldeles utan all afgift. Samtelige de närvarande Ledamöter funno sådant förmånligt och för den skull bäst att nästa gång något för academiens räkning kommer att införas i franska blad den nu upgifna address må warda nyttjad.» Stor blev fördelen likväl icke, ty i följd av den franska revolutionen upphörde tidskriften kort därefter att utkomma."
+  },
+  {
+   "bbox": [
+    527,
+    1786,
+    595,
+    1825
+   ],
+   "category": "Page-footer",
+   "text": "272"
+  }
+ ]
+}

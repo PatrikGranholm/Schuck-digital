@@ -1,0 +1,232 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 220,
+ "seconds": 39.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [308, 237, 924, 282], \"category\": \"Section-header\", \"text\": \"Övriga medaljer och inskriptioner\"}, {\"bbox\": [92, 308, 1136, 931], \"category\": \"Text\", \"text\": \"Det första offentliga sjukhuset i Stockholm, Serafimerlasarettet, öppnades så sent som 1752 och hade då blott åtta sjuksängar. Men under Gustav III:s regering förbättrades och utvidgades anstalten högst betydligt, så att antalet sjuksängar vid slutet av hans regering stigit till närmare hundra. Den 5 juni 1787 ingav Fredrik Sparre till akademiens granskning förslag till en inskription, som skulle sättas på byggningen. Förslaget överlämnades då till genomseende åt Engeström och den 15 augusti även till Botin. Då han den 12 september var färdig med sitt yttrande, fann akademien likväl »nödwändigt att inhemta närmare underrättelse om några därtill hörande Historiska omständigheter» och med anledning därav »befalltes Hallenberg till nästa sammankomst göra sig därom underrättad, på det samma Inscription då kunde fastställas». Efter dessa ju ganska grundliga förberedelser, fastställde akademien slutligen den 10 oktober denna inskription:\"}, {\"bbox\": [494, 929, 733, 971], \"category\": \"Text\", \"text\": \"»Detta Sjukhus\"}, {\"bbox\": [556, 971, 671, 1003], \"category\": \"Text\", \"text\": \"Stiftadt\"}, {\"bbox\": [352, 1010, 878, 1053], \"category\": \"Text\", \"text\": \"Under Kon. Fredrik I:s Regering\"}, {\"bbox\": [546, 1053, 681, 1094], \"category\": \"Text\", \"text\": \"Inköptes\"}, {\"bbox\": [577, 1096, 651, 1129], \"category\": \"Text\", \"text\": \"1749\"}, {\"bbox\": [455, 1157, 769, 1201], \"category\": \"Text\", \"text\": \"Öppnades för Sjuka\"}, {\"bbox\": [577, 1201, 651, 1234], \"category\": \"Text\", \"text\": \"1752\"}, {\"bbox\": [483, 1264, 743, 1299], \"category\": \"Text\", \"text\": \"Kon. Gustaf III\"}, {\"bbox\": [418, 1306, 806, 1347], \"category\": \"Text\", \"text\": \"Förbättrade Inrättningen\"}, {\"bbox\": [558, 1348, 665, 1388], \"category\": \"Text\", \"text\": \"Anslog\"}, {\"bbox\": [447, 1389, 776, 1430], \"category\": \"Text\", \"text\": \"En ny årlig Inkomst\"}, {\"bbox\": [575, 1432, 647, 1468], \"category\": \"Text\", \"text\": \"1781\"}, {\"bbox\": [429, 1500, 798, 1542], \"category\": \"Text\", \"text\": \"Byggnaden Utwidgades\"}, {\"bbox\": [575, 1543, 647, 1581], \"category\": \"Text\", \"text\": \"1785\"}, {\"bbox\": [512, 1612, 708, 1646], \"category\": \"Text\", \"text\": \"Fullbordades\"}, {\"bbox\": [565, 1655, 671, 1693], \"category\": \"Text\", \"text\": \"178..\"}, {\"bbox\": [200, 1706, 1022, 1789], \"category\": \"Text\", \"text\": \"Då styresmän af Seraphimer Ordens Riddare woro\\nGrefve Axel Fersen\\nRiks Råd m. m.\\nFriherre Fredr. Sparre\\nRiks Råd m. m.»\"}, {\"bbox\": [272, 1791, 438, 1815], \"category\": \"Text\", \"text\": \"Riks Råd m. m.\"}, {\"bbox\": [764, 1791, 936, 1815], \"category\": \"Text\", \"text\": \"Riks Råd m. m.»\"}, {\"bbox\": [1059, 1791, 1127, 1828], \"category\": \"Page-footer\", \"text\": \"203\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    308,
+    237,
+    924,
+    282
+   ],
+   "category": "Section-header",
+   "text": "Övriga medaljer och inskriptioner"
+  },
+  {
+   "bbox": [
+    92,
+    308,
+    1136,
+    931
+   ],
+   "category": "Text",
+   "text": "Det första offentliga sjukhuset i Stockholm, Serafimerlasarettet, öppnades så sent som 1752 och hade då blott åtta sjuksängar. Men under Gustav III:s regering förbättrades och utvidgades anstalten högst betydligt, så att antalet sjuksängar vid slutet av hans regering stigit till närmare hundra. Den 5 juni 1787 ingav Fredrik Sparre till akademiens granskning förslag till en inskription, som skulle sättas på byggningen. Förslaget överlämnades då till genomseende åt Engeström och den 15 augusti även till Botin. Då han den 12 september var färdig med sitt yttrande, fann akademien likväl »nödwändigt att inhemta närmare underrättelse om några därtill hörande Historiska omständigheter» och med anledning därav »befalltes Hallenberg till nästa sammankomst göra sig därom underrättad, på det samma Inscription då kunde fastställas». Efter dessa ju ganska grundliga förberedelser, fastställde akademien slutligen den 10 oktober denna inskription:"
+  },
+  {
+   "bbox": [
+    494,
+    929,
+    733,
+    971
+   ],
+   "category": "Text",
+   "text": "»Detta Sjukhus"
+  },
+  {
+   "bbox": [
+    556,
+    971,
+    671,
+    1003
+   ],
+   "category": "Text",
+   "text": "Stiftadt"
+  },
+  {
+   "bbox": [
+    352,
+    1010,
+    878,
+    1053
+   ],
+   "category": "Text",
+   "text": "Under Kon. Fredrik I:s Regering"
+  },
+  {
+   "bbox": [
+    546,
+    1053,
+    681,
+    1094
+   ],
+   "category": "Text",
+   "text": "Inköptes"
+  },
+  {
+   "bbox": [
+    577,
+    1096,
+    651,
+    1129
+   ],
+   "category": "Text",
+   "text": "1749"
+  },
+  {
+   "bbox": [
+    455,
+    1157,
+    769,
+    1201
+   ],
+   "category": "Text",
+   "text": "Öppnades för Sjuka"
+  },
+  {
+   "bbox": [
+    577,
+    1201,
+    651,
+    1234
+   ],
+   "category": "Text",
+   "text": "1752"
+  },
+  {
+   "bbox": [
+    483,
+    1264,
+    743,
+    1299
+   ],
+   "category": "Text",
+   "text": "Kon. Gustaf III"
+  },
+  {
+   "bbox": [
+    418,
+    1306,
+    806,
+    1347
+   ],
+   "category": "Text",
+   "text": "Förbättrade Inrättningen"
+  },
+  {
+   "bbox": [
+    558,
+    1348,
+    665,
+    1388
+   ],
+   "category": "Text",
+   "text": "Anslog"
+  },
+  {
+   "bbox": [
+    447,
+    1389,
+    776,
+    1430
+   ],
+   "category": "Text",
+   "text": "En ny årlig Inkomst"
+  },
+  {
+   "bbox": [
+    575,
+    1432,
+    647,
+    1468
+   ],
+   "category": "Text",
+   "text": "1781"
+  },
+  {
+   "bbox": [
+    429,
+    1500,
+    798,
+    1542
+   ],
+   "category": "Text",
+   "text": "Byggnaden Utwidgades"
+  },
+  {
+   "bbox": [
+    575,
+    1543,
+    647,
+    1581
+   ],
+   "category": "Text",
+   "text": "1785"
+  },
+  {
+   "bbox": [
+    512,
+    1612,
+    708,
+    1646
+   ],
+   "category": "Text",
+   "text": "Fullbordades"
+  },
+  {
+   "bbox": [
+    565,
+    1655,
+    671,
+    1693
+   ],
+   "category": "Text",
+   "text": "178.."
+  },
+  {
+   "bbox": [
+    200,
+    1706,
+    1022,
+    1789
+   ],
+   "category": "Text",
+   "text": "Då styresmän af Seraphimer Ordens Riddare woro\nGrefve Axel Fersen\nRiks Råd m. m.\nFriherre Fredr. Sparre\nRiks Råd m. m.»"
+  },
+  {
+   "bbox": [
+    272,
+    1791,
+    438,
+    1815
+   ],
+   "category": "Text",
+   "text": "Riks Råd m. m."
+  },
+  {
+   "bbox": [
+    764,
+    1791,
+    936,
+    1815
+   ],
+   "category": "Text",
+   "text": "Riks Råd m. m.»"
+  },
+  {
+   "bbox": [
+    1059,
+    1791,
+    1127,
+    1828
+   ],
+   "category": "Page-footer",
+   "text": "203"
+  }
+ ]
+}

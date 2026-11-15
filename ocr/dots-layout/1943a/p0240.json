@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 240,
+ "seconds": 29.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [153, 230, 1101, 273], \"category\": \"Section-header\", \"text\": \"Levernesbeskrivningar, inträdestal och avhandlingar\"}, {\"bbox\": [104, 301, 1142, 550], \"category\": \"Text\", \"text\": \"en förlust på uplysningens vägnar, at ansenliga jordskatter, dels strax de uptäcktes til andra behof blifvit upsmälte, dels ock såsom sönderbrutne eller nötta och illa medfarna genast efter angifvandet förkastade och ägarne återstälde. En fölgd af observationer, sorgfälligt med hvarannan jemförda, är utan tvifvel bästa medlet at en gång skingra det mörker närvarande ämne omgifver.»\"}, {\"bbox\": [104, 550, 1142, 880], \"category\": \"Text\", \"text\": \"Vad fyndorten beträffar, ha arabiska mynt väl påträffats i flera svenska landskap, men de flesta i de landskap, som ligga vid Östersjön, och särskilt talrika äro fynden på Gotland och Öland. Vidare är det tydligt, att de med flit blivit dolda; »Ölandsfyndet 1779, der man tydeligen såg penningarne i form af rulle nedsatte samt med sten betäckte, bestyrker sådant oemotsägeligen». För det tredje ha de arabiska mynten oftast haft sällskap i jorden med andra mynt, tyska, engelska och byzantinska, och dessa ha varit från samma tid.\"}, {\"bbox\": [102, 880, 1142, 1748], \"category\": \"Text\", \"text\": \"Man bör ytterligare ta hänsyn till Sveriges historia under denna tid, särskilt under det samaniska rikets tid (875—999), och här riktar han uppmärksamheten på den ryska Nestorskrönikans bekanta uppgift om grundandet av det varjagiska riket i Ryssland omkr. 860 samt på byzantinska (och även de nordiska sagornas) notiser om väringagardet i Byzantz. En svensk förbindelse på 900-talet med det grekiska kejsardömet kan således icke bestridas, och icke heller, att handelsvägarna då voro de stora floder, som genomkorsa Ryssland. Man behöver — skriver han med anspelning på äldre tiders fantastiska runtolkningar — »icke fly til runstenarnes mörka och tvetydiga vitnesbörder för at öfertygas om våra förfäders resor till Grekeland». Och att de arabiska mynten kommit hit, »bör snarare tillskrifvas en österut drifven handel än någon annan orsak». Av flera skäl är detta troligt: »1) At de (mynten) ymnigast uphemtas kring Östersjökusterna, der sjöfart enkannerligen blifvit idkad, i stället Wäringar och Jerusalems farare, såsom icke altid boende vid hafvet, tyckas hafva bordt fördela dem i något jemnare förhållande på de inra landskaper. 2) At i Sveriges västra provincer och vid Väster Hafvet Arabiska fynd varit mycket sällsynta, så at man äfven kan gissa, at de få dylika penningar der funnits, händelsevis från Östersjön blifvit ditförda. 3) At Grekiske penningar, hvilka efter all liknelse af Wä-\"}, {\"bbox\": [1065, 1783, 1132, 1819], \"category\": \"Page-footer\", \"text\": \"223\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    153,
+    230,
+    1101,
+    273
+   ],
+   "category": "Section-header",
+   "text": "Levernesbeskrivningar, inträdestal och avhandlingar"
+  },
+  {
+   "bbox": [
+    104,
+    301,
+    1142,
+    550
+   ],
+   "category": "Text",
+   "text": "en förlust på uplysningens vägnar, at ansenliga jordskatter, dels strax de uptäcktes til andra behof blifvit upsmälte, dels ock såsom sönderbrutne eller nötta och illa medfarna genast efter angifvandet förkastade och ägarne återstälde. En fölgd af observationer, sorgfälligt med hvarannan jemförda, är utan tvifvel bästa medlet at en gång skingra det mörker närvarande ämne omgifver.»"
+  },
+  {
+   "bbox": [
+    104,
+    550,
+    1142,
+    880
+   ],
+   "category": "Text",
+   "text": "Vad fyndorten beträffar, ha arabiska mynt väl påträffats i flera svenska landskap, men de flesta i de landskap, som ligga vid Östersjön, och särskilt talrika äro fynden på Gotland och Öland. Vidare är det tydligt, att de med flit blivit dolda; »Ölandsfyndet 1779, der man tydeligen såg penningarne i form af rulle nedsatte samt med sten betäckte, bestyrker sådant oemotsägeligen». För det tredje ha de arabiska mynten oftast haft sällskap i jorden med andra mynt, tyska, engelska och byzantinska, och dessa ha varit från samma tid."
+  },
+  {
+   "bbox": [
+    102,
+    880,
+    1142,
+    1748
+   ],
+   "category": "Text",
+   "text": "Man bör ytterligare ta hänsyn till Sveriges historia under denna tid, särskilt under det samaniska rikets tid (875—999), och här riktar han uppmärksamheten på den ryska Nestorskrönikans bekanta uppgift om grundandet av det varjagiska riket i Ryssland omkr. 860 samt på byzantinska (och även de nordiska sagornas) notiser om väringagardet i Byzantz. En svensk förbindelse på 900-talet med det grekiska kejsardömet kan således icke bestridas, och icke heller, att handelsvägarna då voro de stora floder, som genomkorsa Ryssland. Man behöver — skriver han med anspelning på äldre tiders fantastiska runtolkningar — »icke fly til runstenarnes mörka och tvetydiga vitnesbörder för at öfertygas om våra förfäders resor till Grekeland». Och att de arabiska mynten kommit hit, »bör snarare tillskrifvas en österut drifven handel än någon annan orsak». Av flera skäl är detta troligt: »1) At de (mynten) ymnigast uphemtas kring Östersjökusterna, der sjöfart enkannerligen blifvit idkad, i stället Wäringar och Jerusalems farare, såsom icke altid boende vid hafvet, tyckas hafva bordt fördela dem i något jemnare förhållande på de inra landskaper. 2) At i Sveriges västra provincer och vid Väster Hafvet Arabiska fynd varit mycket sällsynta, så at man äfven kan gissa, at de få dylika penningar der funnits, händelsevis från Östersjön blifvit ditförda. 3) At Grekiske penningar, hvilka efter all liknelse af Wä-"
+  },
+  {
+   "bbox": [
+    1065,
+    1783,
+    1132,
+    1819
+   ],
+   "category": "Page-footer",
+   "text": "223"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 194,
+ "seconds": 28.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [464, 240, 785, 282], \"category\": \"Section-header\", \"text\": \"Medaljhistorierna\"}, {\"bbox\": [99, 310, 1147, 849], \"category\": \"Text\", \"text\": \"som öfver Inscriptionen förklarade sitt fullkomliga nöye, anmodade vice Secreteraren betyga academien dess erkänsla för mödan med en Inscription, icke mindre värdig academien än ämnet, som den föranlåtit. Herr Biskopen beklagade derjemte, det hans opasslighet nekade honom den hedern att personligen infinna sig för att betyga academien både sin tacksamhet och vördnad och utbad alt framgent få vara uti academiens ynnestfulla åtanka innesluten. Efter sammankomstens slut och till följe af academiens tagne beslut inhämtade vice sekreteraren Herr Grefve Gyllenborgs, Herr Cantzli Rådet von Rosensteins och Herr Kongl. Secreteraren Hallenbergs munteliga yttranden, och som de till alla delar instämde uti hvad academien faststält om Inscriptionen till ovannämnda Medaille, så blef den till Herr Medailleuren Fehrman expedierad.»\"}, {\"bbox\": [99, 851, 1147, 1722], \"category\": \"Text\", \"text\": \"Ännu en medalj över Gustav III kom visserligen under diskussion i akademien, men blev — förmodligen i följd av konungens död — aldrig präglad. Den rörde i viss mån en viktig episod i årens krigshistoria, nämligen konungens besök i Dalarna 1788, genom vilket den allmänna modlösheten i landet förbyttes till en varm försvarsvilja. Ur den synpunkten borde nog medaljen ha erinrat om hans tal till Morakarlarna, i hvilket han liksom förut Gustav Vasa vädjat till deras hjälp att rädda Sveriges frihet. Ty detta tal blev själva utgångspunkten för hela den följande rörelsen. Men Morakarlarne hade nog ingen tanke på att genom en medalj föreviga detta historiska ögonblick. I stället togs tanken upp — ehuru i en betydligt sämre form — av delägarne i Falu gruva. Under sin resa i Dalabygderna 1788 hade konungen besett och nedstigit i Falu gruva, och detta hade han en gång tidigare, 1768, såsom kronprins gjort. Över detta första besök hade det då slagits en medalj och målats en oljefärgstavla. Nu ville man prägla en ny medalj över Gustav III:s andra nedstigande i gruvan. Vid akademiens sammanträde den 7 december 1790 »annälte Secreteraren, det fahlu Bergslag ärnade genom en Skådepenning bevara minnet af den märkeliga dag 1788, då konungen nedsteg i fahlu grufwa, jämt 20 år sedan han 1768 dit nedergått. Ett i sådant afseende framlämnadt project lämnades till academiens pröfning,\"}, {\"bbox\": [107, 1773, 208, 1794], \"category\": \"Page-footer\", \"text\": \"12—42108.\"}, {\"bbox\": [1075, 1792, 1141, 1831], \"category\": \"Page-footer\", \"text\": \"177\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    464,
+    240,
+    785,
+    282
+   ],
+   "category": "Section-header",
+   "text": "Medaljhistorierna"
+  },
+  {
+   "bbox": [
+    99,
+    310,
+    1147,
+    849
+   ],
+   "category": "Text",
+   "text": "som öfver Inscriptionen förklarade sitt fullkomliga nöye, anmodade vice Secreteraren betyga academien dess erkänsla för mödan med en Inscription, icke mindre värdig academien än ämnet, som den föranlåtit. Herr Biskopen beklagade derjemte, det hans opasslighet nekade honom den hedern att personligen infinna sig för att betyga academien både sin tacksamhet och vördnad och utbad alt framgent få vara uti academiens ynnestfulla åtanka innesluten. Efter sammankomstens slut och till följe af academiens tagne beslut inhämtade vice sekreteraren Herr Grefve Gyllenborgs, Herr Cantzli Rådet von Rosensteins och Herr Kongl. Secreteraren Hallenbergs munteliga yttranden, och som de till alla delar instämde uti hvad academien faststält om Inscriptionen till ovannämnda Medaille, så blef den till Herr Medailleuren Fehrman expedierad.»"
+  },
+  {
+   "bbox": [
+    99,
+    851,
+    1147,
+    1722
+   ],
+   "category": "Text",
+   "text": "Ännu en medalj över Gustav III kom visserligen under diskussion i akademien, men blev — förmodligen i följd av konungens död — aldrig präglad. Den rörde i viss mån en viktig episod i årens krigshistoria, nämligen konungens besök i Dalarna 1788, genom vilket den allmänna modlösheten i landet förbyttes till en varm försvarsvilja. Ur den synpunkten borde nog medaljen ha erinrat om hans tal till Morakarlarna, i hvilket han liksom förut Gustav Vasa vädjat till deras hjälp att rädda Sveriges frihet. Ty detta tal blev själva utgångspunkten för hela den följande rörelsen. Men Morakarlarne hade nog ingen tanke på att genom en medalj föreviga detta historiska ögonblick. I stället togs tanken upp — ehuru i en betydligt sämre form — av delägarne i Falu gruva. Under sin resa i Dalabygderna 1788 hade konungen besett och nedstigit i Falu gruva, och detta hade han en gång tidigare, 1768, såsom kronprins gjort. Över detta första besök hade det då slagits en medalj och målats en oljefärgstavla. Nu ville man prägla en ny medalj över Gustav III:s andra nedstigande i gruvan. Vid akademiens sammanträde den 7 december 1790 »annälte Secreteraren, det fahlu Bergslag ärnade genom en Skådepenning bevara minnet af den märkeliga dag 1788, då konungen nedsteg i fahlu grufwa, jämt 20 år sedan han 1768 dit nedergått. Ett i sådant afseende framlämnadt project lämnades till academiens pröfning,"
+  },
+  {
+   "bbox": [
+    107,
+    1773,
+    208,
+    1794
+   ],
+   "category": "Page-footer",
+   "text": "12—42108."
+  },
+  {
+   "bbox": [
+    1075,
+    1792,
+    1141,
+    1831
+   ],
+   "category": "Page-footer",
+   "text": "177"
+  }
+ ]
+}

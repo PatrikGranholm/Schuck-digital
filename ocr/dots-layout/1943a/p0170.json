@@ -1,0 +1,132 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 170,
+ "seconds": 29.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [477, 234, 802, 277], \"category\": \"Section-header\", \"text\": \"Medaljhistorierna\"}, {\"bbox\": [117, 305, 1160, 597], \"category\": \"Text\", \"text\": \"hufvudet, sittande uppå en sten af cubisk skapnad, håller i högra handen en lantz och i den wenstra ett skeppsroder; bakom en sköld märkt med Götheborgs stadswapen. Framföre henne synes en bewäpnad hjelte med framräckt lants i högra handen och hållande i den wenstra handen framför qvinnan en sköld, hvaruppå läses Konungens chiffre. Öfverskrift: *Augusti praesidio tuta*. inunder *Civitas Gothoburg. MDCCCXXXVIII*.\"}, {\"bbox\": [155, 606, 804, 647], \"category\": \"Text\", \"text\": \"Nr. 2.¹ första sidan, lika som föregående.\"}, {\"bbox\": [266, 648, 979, 690], \"category\": \"Text\", \"text\": \"andra sidan. Påskrift på fältet av penningen:\"}, {\"bbox\": [424, 690, 856, 930], \"category\": \"Text\", \"text\": \"In\\nMemoriam\\nCompressi hostium Conatus\\nAugusti\\nPraesidio Consilio Animo\\nMDCCLXXXVIII\"}, {\"bbox\": [501, 977, 773, 1019], \"category\": \"Text\", \"text\": \"Cives Gothoburg.\"}, {\"bbox\": [117, 1042, 1159, 1167], \"category\": \"Text\", \"text\": \"hvilka projecter jämte ofvannämde erinran skulle Herr Cantzli Rådet Elers meddelas, som härom varit anmodad att föranstalta och som lärer täckas detta acad:s utlåtande till Stadens kunskap komma låta.»\"}, {\"bbox\": [154, 1167, 1156, 1208], \"category\": \"Text\", \"text\": \"Staden valde det dyrbarare och svårare förslaget nr 1 (Hildebrand nr 72).\"}, {\"bbox\": [115, 1208, 1158, 1579], \"category\": \"Text\", \"text\": \"Efter Göteborg följde rikets ständer vid riksdagen 1789. Vid kronprinsens dop 1778 hade ständerna stått fadder, och vid riksdagen 1786 hade de inbjudits att bevittna den examen, som då hölls med deras fadderbarn. Såsom vi nyss sett, beslöto de då att till konungens och den unge prinsens ära slå en medalj. Under riksdagen 1789 undergick tronföljaren en ny examen, till vilken ständerna likaledes inbjudits, och även denna gång läto de häröver prägla en minnespenning. Därjämte beslöto de att slå en annan över sjöslaget vid Hogland. Den 5 maj 1789 mottog akademien underrättelse härom.\"}, {\"bbox\": [117, 1579, 1158, 1703], \"category\": \"Text\", \"text\": \"Akademiens hedersledamot, skalden Gyllenborg, som då var akademiens president och tillika bankofullmäktiges ordförande, anförde då, »att han å Bancofullmägtiges wägnar åtagit sig framföra deras\"}, {\"bbox\": [153, 1720, 631, 1753], \"category\": \"Footnote\", \"text\": \"¹ Väl felskrivning för Nr. 3 (se sid. 152).\"}, {\"bbox\": [1085, 1787, 1151, 1825], \"category\": \"Page-footer\", \"text\": \"153\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    477,
+    234,
+    802,
+    277
+   ],
+   "category": "Section-header",
+   "text": "Medaljhistorierna"
+  },
+  {
+   "bbox": [
+    117,
+    305,
+    1160,
+    597
+   ],
+   "category": "Text",
+   "text": "hufvudet, sittande uppå en sten af cubisk skapnad, håller i högra handen en lantz och i den wenstra ett skeppsroder; bakom en sköld märkt med Götheborgs stadswapen. Framföre henne synes en bewäpnad hjelte med framräckt lants i högra handen och hållande i den wenstra handen framför qvinnan en sköld, hvaruppå läses Konungens chiffre. Öfverskrift: *Augusti praesidio tuta*. inunder *Civitas Gothoburg. MDCCCXXXVIII*."
+  },
+  {
+   "bbox": [
+    155,
+    606,
+    804,
+    647
+   ],
+   "category": "Text",
+   "text": "Nr. 2.¹ första sidan, lika som föregående."
+  },
+  {
+   "bbox": [
+    266,
+    648,
+    979,
+    690
+   ],
+   "category": "Text",
+   "text": "andra sidan. Påskrift på fältet av penningen:"
+  },
+  {
+   "bbox": [
+    424,
+    690,
+    856,
+    930
+   ],
+   "category": "Text",
+   "text": "In\nMemoriam\nCompressi hostium Conatus\nAugusti\nPraesidio Consilio Animo\nMDCCLXXXVIII"
+  },
+  {
+   "bbox": [
+    501,
+    977,
+    773,
+    1019
+   ],
+   "category": "Text",
+   "text": "Cives Gothoburg."
+  },
+  {
+   "bbox": [
+    117,
+    1042,
+    1159,
+    1167
+   ],
+   "category": "Text",
+   "text": "hvilka projecter jämte ofvannämde erinran skulle Herr Cantzli Rådet Elers meddelas, som härom varit anmodad att föranstalta och som lärer täckas detta acad:s utlåtande till Stadens kunskap komma låta.»"
+  },
+  {
+   "bbox": [
+    154,
+    1167,
+    1156,
+    1208
+   ],
+   "category": "Text",
+   "text": "Staden valde det dyrbarare och svårare förslaget nr 1 (Hildebrand nr 72)."
+  },
+  {
+   "bbox": [
+    115,
+    1208,
+    1158,
+    1579
+   ],
+   "category": "Text",
+   "text": "Efter Göteborg följde rikets ständer vid riksdagen 1789. Vid kronprinsens dop 1778 hade ständerna stått fadder, och vid riksdagen 1786 hade de inbjudits att bevittna den examen, som då hölls med deras fadderbarn. Såsom vi nyss sett, beslöto de då att till konungens och den unge prinsens ära slå en medalj. Under riksdagen 1789 undergick tronföljaren en ny examen, till vilken ständerna likaledes inbjudits, och även denna gång läto de häröver prägla en minnespenning. Därjämte beslöto de att slå en annan över sjöslaget vid Hogland. Den 5 maj 1789 mottog akademien underrättelse härom."
+  },
+  {
+   "bbox": [
+    117,
+    1579,
+    1158,
+    1703
+   ],
+   "category": "Text",
+   "text": "Akademiens hedersledamot, skalden Gyllenborg, som då var akademiens president och tillika bankofullmäktiges ordförande, anförde då, »att han å Bancofullmägtiges wägnar åtagit sig framföra deras"
+  },
+  {
+   "bbox": [
+    153,
+    1720,
+    631,
+    1753
+   ],
+   "category": "Footnote",
+   "text": "¹ Väl felskrivning för Nr. 3 (se sid. 152)."
+  },
+  {
+   "bbox": [
+    1085,
+    1787,
+    1151,
+    1825
+   ],
+   "category": "Page-footer",
+   "text": "153"
+  }
+ ]
+}

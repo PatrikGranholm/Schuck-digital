@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 238,
+ "seconds": 27.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [146, 229, 1100, 273], \"category\": \"Section-header\", \"text\": \"Levernesbeskrivningar, inträdestal och avhandlingar\"}, {\"bbox\": [98, 299, 1284, 963], \"category\": \"Text\", \"text\": \"Från levernesbeskrivningarna under denna tid vända vi oss till *Inträdestalen* inträdestalen, som också voro ett arv från den gamla akademien. Om den karaktär, som dessa tal borde ha — om de skulle vara vältalighetsprov eller vetenskapliga undersökningar — nämnes visserligen i Vitterhetsakademiens statuter intet, blott att den nyvalde ledamotens inträdestal skulle först lämnas direktören till genomläsning. Men redan från början tyckes uppfattningen ha varit stadgad och framgår av de i andra bandet av Vitterhetsakademiens Handlingar tryckta talen. Det första av dem, av Liliestråle, handlade om skaldekonstens öden i Sverige, och om vitterheten ur en eller annan synpunkt handla även de följande — alla med en infogad hyllning åt Lovisa Ulrica, den svenska vitterhetens höga beskyddarinna. Då nu akademien 1786 ombildades från en blott vitter till en allmänt humanistisk, särskilt historisk akademi, utvidgades också området för inträdestalen och de fingo även — hos de bättre akademikerna — en mera vetenskaplig karaktär.\"}, {\"bbox\": [98, 961, 1261, 1334], \"category\": \"Text\", \"text\": \"Den, som här gick i spetsen, var Adlerbeth, och han gjorde det med en avhandling, vilken — så vitt jag vågar döma — torde böra räknas såsom den första verkligen vetenskapliga och metodiska lösning av ett problem inom svensk fornforskning, en avhandling, vars huvudresultat därför stått sig genom tiderna. Inträdestalet — det första i den ombildade akademien — hölls redan den 2 april 1786 och handlade om Sveriges forna österländska handel i anledning av arabiska penningar funna i svensk jord. Avhandlingens värde motiverar ett någorlunda utförligt referat av huvudpunkterna.\"}, {\"bbox\": [98, 1332, 1146, 1748], \"category\": \"Text\", \"text\": \"Han börjar med att redogöra för alla i äldre litteratur omtalade fynd av arabiska mynt, funna i svensk jord, anför därefter de uppgifter om dylika fynd, som funnos i Antikvitetsarkivets fyndberättelser, och slutar denna del av undersökningen med orden: »Denna korta Historia öfver Svenska jordfynd af Arabiska Penningar, som kunde blifva långt fullständigare, torde likväl göra tilfyllest at bevisa, hvad ymnigt förråd af dem vårt fädernesland i sit förvar emotagit. Jemföres hvad i detta ämne hos oss hänt med hvad hos våra grannar sig tildragit, så inhemtas, at sådane äfvenledes tid efter annan blifvit fundne på Jutland, på Bornholm, i Liffland, i Preussen,\"}, {\"bbox\": [1072, 1782, 1137, 1810], \"category\": \"Page-footer\", \"text\": \"221\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    146,
+    229,
+    1100,
+    273
+   ],
+   "category": "Section-header",
+   "text": "Levernesbeskrivningar, inträdestal och avhandlingar"
+  },
+  {
+   "bbox": [
+    98,
+    299,
+    1284,
+    963
+   ],
+   "category": "Text",
+   "text": "Från levernesbeskrivningarna under denna tid vända vi oss till *Inträdestalen* inträdestalen, som också voro ett arv från den gamla akademien. Om den karaktär, som dessa tal borde ha — om de skulle vara vältalighetsprov eller vetenskapliga undersökningar — nämnes visserligen i Vitterhetsakademiens statuter intet, blott att den nyvalde ledamotens inträdestal skulle först lämnas direktören till genomläsning. Men redan från början tyckes uppfattningen ha varit stadgad och framgår av de i andra bandet av Vitterhetsakademiens Handlingar tryckta talen. Det första av dem, av Liliestråle, handlade om skaldekonstens öden i Sverige, och om vitterheten ur en eller annan synpunkt handla även de följande — alla med en infogad hyllning åt Lovisa Ulrica, den svenska vitterhetens höga beskyddarinna. Då nu akademien 1786 ombildades från en blott vitter till en allmänt humanistisk, särskilt historisk akademi, utvidgades också området för inträdestalen och de fingo även — hos de bättre akademikerna — en mera vetenskaplig karaktär."
+  },
+  {
+   "bbox": [
+    98,
+    961,
+    1261,
+    1334
+   ],
+   "category": "Text",
+   "text": "Den, som här gick i spetsen, var Adlerbeth, och han gjorde det med en avhandling, vilken — så vitt jag vågar döma — torde böra räknas såsom den första verkligen vetenskapliga och metodiska lösning av ett problem inom svensk fornforskning, en avhandling, vars huvudresultat därför stått sig genom tiderna. Inträdestalet — det första i den ombildade akademien — hölls redan den 2 april 1786 och handlade om Sveriges forna österländska handel i anledning av arabiska penningar funna i svensk jord. Avhandlingens värde motiverar ett någorlunda utförligt referat av huvudpunkterna."
+  },
+  {
+   "bbox": [
+    98,
+    1332,
+    1146,
+    1748
+   ],
+   "category": "Text",
+   "text": "Han börjar med att redogöra för alla i äldre litteratur omtalade fynd av arabiska mynt, funna i svensk jord, anför därefter de uppgifter om dylika fynd, som funnos i Antikvitetsarkivets fyndberättelser, och slutar denna del av undersökningen med orden: »Denna korta Historia öfver Svenska jordfynd af Arabiska Penningar, som kunde blifva långt fullständigare, torde likväl göra tilfyllest at bevisa, hvad ymnigt förråd af dem vårt fädernesland i sit förvar emotagit. Jemföres hvad i detta ämne hos oss hänt med hvad hos våra grannar sig tildragit, så inhemtas, at sådane äfvenledes tid efter annan blifvit fundne på Jutland, på Bornholm, i Liffland, i Preussen,"
+  },
+  {
+   "bbox": [
+    1072,
+    1782,
+    1137,
+    1810
+   ],
+   "category": "Page-footer",
+   "text": "221"
+  }
+ ]
+}

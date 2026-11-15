@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 452,
+ "seconds": 178.3,
+ "finish": "stop",
+ "retried": true,
+ "raw": "[{\"bbox\": [516, 529, 806, 575], \"category\": \"Section-header\", \"text\": \"INNEHÅLL.\"}, {\"bbox\": [143, 654, 1166, 692], \"category\": \"Section-header\", \"text\": \"Statuter och Stat 1\"}, {\"bbox\": [222, 702, 1092, 941], \"category\": \"Text\", \"text\": \"Inledning 1. Akademiens namn och syfte 2. Ledamöternas årliga avhandlingar 4. Akademiens korrespondenter 6. Medaljer och inskriptioner 6. Ledamöternas skrifter 9. Handlingarna 9. Sammanträden 10. Ferier och minnestalet över Lovisa Ulrica 12. Jettoner 13. Tävlingar och pris 21. Högtidsdagarna 24. Ledamöter 27. Utländska ledamöter 28. Utländska korrespondenter 39. Val av ledamöter 41. Ämbetsmännen 44. Statuternas avslutning 45. Staten 46. Tillägget i Svenska Akademiens stat 49. Litterära pensioner 49. Vice sekreteraren 53. Lidéns donation 54.\"}, {\"bbox\": [141, 967, 1166, 1014], \"category\": \"Section-header\", \"text\": \"De första månaderna 57\"}, {\"bbox\": [219, 1015, 1089, 1196], \"category\": \"Text\", \"text\": \"Akademiens ledamöter 57. Tävlingsskrifter i svensk skaldekonst bedömas 58. Årliga minnespenningar beslutas 60. Tävlingsskrifter i vältalighet bedömas 64. Tävlingsskrifter i historia bedömas 66. Nya prisämnen 69. Rundeln i Kungshuset 69. Det tillämnade porträttgalleriet 71. Det första offentliga sammanträdet 73. Ledamöterna hålla sina inträdestal 75. Akademiens nyval 75. Vitterhetsakademiens sista direktör avträder 77. Adlerbeth tillträder sekreterarplatsen 79.\"}, {\"bbox\": [139, 1221, 1162, 1268], \"category\": \"Section-header\", \"text\": \"Ledamöterna 83\"}, {\"bbox\": [217, 1269, 1088, 1508], \"category\": \"Text\", \"text\": \"Den arbetande klassen 83. Lindblom, Broman och Masreliez 85. Dödsfallen inom den honoraira klassen. Scheffer 87. Celsius vald efter Scheffer 88. Höpkens och Leijonhufvuds död 88. Gyldenstolpe och Schröderheim väljas 89. Dübens död, Celsing väljes 89. Benzelstiernas död. Lars von Engeström väljes 90. Dödsfallen inom den arbetande klassen. Lagerbrings död. Porthan väljes 91. Manderströms död. Eberhardt väljes 92. Floderus' död, Wilde väljes 93. Botins död. Rosenhane väljes 94. Lidéns död, Björnstjerna väljes 94. Tengström, Fant, Älf och Fredenheim väljas 95.\"}, {\"bbox\": [135, 1533, 1162, 1578], \"category\": \"Section-header\", \"text\": \"Tävlingar 97\"}, {\"bbox\": [215, 1580, 1084, 1733], \"category\": \"Text\", \"text\": \"Tävlingar i historia 97. 1787 97. 1788 100. 1789—1792 101, 1793 105. Tävlingar på främmande språk. 1787 107. 1788 108. 1789 110. 1790 111. 1791 och 1792 112. 1793 113. Tävlingar i antikviteter 113. 1787 114. 1788 114. 1789—1793 115. Tävlingar i inskriftskonst. 1787 117. 1788 119. 1789 120. 1790 121. 1791 123. 1792 och 1793 124.\"}, {\"bbox\": [1092, 1771, 1159, 1807], \"category\": \"Page-footer\", \"text\": \"431\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    516,
+    529,
+    806,
+    575
+   ],
+   "category": "Section-header",
+   "text": "INNEHÅLL."
+  },
+  {
+   "bbox": [
+    143,
+    654,
+    1166,
+    692
+   ],
+   "category": "Section-header",
+   "text": "Statuter och Stat 1"
+  },
+  {
+   "bbox": [
+    222,
+    702,
+    1092,
+    941
+   ],
+   "category": "Text",
+   "text": "Inledning 1. Akademiens namn och syfte 2. Ledamöternas årliga avhandlingar 4. Akademiens korrespondenter 6. Medaljer och inskriptioner 6. Ledamöternas skrifter 9. Handlingarna 9. Sammanträden 10. Ferier och minnestalet över Lovisa Ulrica 12. Jettoner 13. Tävlingar och pris 21. Högtidsdagarna 24. Ledamöter 27. Utländska ledamöter 28. Utländska korrespondenter 39. Val av ledamöter 41. Ämbetsmännen 44. Statuternas avslutning 45. Staten 46. Tillägget i Svenska Akademiens stat 49. Litterära pensioner 49. Vice sekreteraren 53. Lidéns donation 54."
+  },
+  {
+   "bbox": [
+    141,
+    967,
+    1166,
+    1014
+   ],
+   "category": "Section-header",
+   "text": "De första månaderna 57"
+  },
+  {
+   "bbox": [
+    219,
+    1015,
+    1089,
+    1196
+   ],
+   "category": "Text",
+   "text": "Akademiens ledamöter 57. Tävlingsskrifter i svensk skaldekonst bedömas 58. Årliga minnespenningar beslutas 60. Tävlingsskrifter i vältalighet bedömas 64. Tävlingsskrifter i historia bedömas 66. Nya prisämnen 69. Rundeln i Kungshuset 69. Det tillämnade porträttgalleriet 71. Det första offentliga sammanträdet 73. Ledamöterna hålla sina inträdestal 75. Akademiens nyval 75. Vitterhetsakademiens sista direktör avträder 77. Adlerbeth tillträder sekreterarplatsen 79."
+  },
+  {
+   "bbox": [
+    139,
+    1221,
+    1162,
+    1268
+   ],
+   "category": "Section-header",
+   "text": "Ledamöterna 83"
+  },
+  {
+   "bbox": [
+    217,
+    1269,
+    1088,
+    1508
+   ],
+   "category": "Text",
+   "text": "Den arbetande klassen 83. Lindblom, Broman och Masreliez 85. Dödsfallen inom den honoraira klassen. Scheffer 87. Celsius vald efter Scheffer 88. Höpkens och Leijonhufvuds död 88. Gyldenstolpe och Schröderheim väljas 89. Dübens död, Celsing väljes 89. Benzelstiernas död. Lars von Engeström väljes 90. Dödsfallen inom den arbetande klassen. Lagerbrings död. Porthan väljes 91. Manderströms död. Eberhardt väljes 92. Floderus' död, Wilde väljes 93. Botins död. Rosenhane väljes 94. Lidéns död, Björnstjerna väljes 94. Tengström, Fant, Älf och Fredenheim väljas 95."
+  },
+  {
+   "bbox": [
+    135,
+    1533,
+    1162,
+    1578
+   ],
+   "category": "Section-header",
+   "text": "Tävlingar 97"
+  },
+  {
+   "bbox": [
+    215,
+    1580,
+    1084,
+    1733
+   ],
+   "category": "Text",
+   "text": "Tävlingar i historia 97. 1787 97. 1788 100. 1789—1792 101, 1793 105. Tävlingar på främmande språk. 1787 107. 1788 108. 1789 110. 1790 111. 1791 och 1792 112. 1793 113. Tävlingar i antikviteter 113. 1787 114. 1788 114. 1789—1793 115. Tävlingar i inskriftskonst. 1787 117. 1788 119. 1789 120. 1790 121. 1791 123. 1792 och 1793 124."
+  },
+  {
+   "bbox": [
+    1092,
+    1771,
+    1159,
+    1807
+   ],
+   "category": "Page-footer",
+   "text": "431"
+  }
+ ]
+}

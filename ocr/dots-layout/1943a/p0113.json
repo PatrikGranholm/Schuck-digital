@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 113,
+ "seconds": 28.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [795, 235, 1230, 276], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [494, 303, 1535, 844], \"category\": \"Text\", \"text\": \"Egentligen hade akademien enligt § 23 blott rätt att föreslå tre ämnen, av vilka konungen skulle välja ett. Men då Gustav III vid sammanträdet var närvarande, får man väl anse, att han av flera framlagda förslag godkänt detta. Skrifterna skulle vara inlämnade före den 20 januari 1787, och vid sammanträdet den 23 januari anmäldes, att en enda tävlingsskrift med det historiska ämnet inkommit, men »att auctoren, som icke medhunnit att det samma efter önskan utföra, begärt att det måtte honom återställas på någon korrt tid till sluteligt utarbetande, hvarpå han det i så god tid ville inlämna till academien, att det ändå kunde pröfvas inom den 20 Martii. Academien fant så mycket mindre betänkligt att sådant bifalla, som auctoren till bemälte Svar icke hade någon concurrent, hvars rätt genom academiens willfarande till hans begäran kunde förspillas.»\"}, {\"bbox\": [496, 841, 1538, 1545], \"category\": \"Text\", \"text\": \"Vid sammanträdet den 27 februari meddelades, att skriften nu åter inlämnats, varefter avhandlingens första del upplästes; den senare avdelningen skulle vid ett följande sammanträde föredragas. På akademien hade uppläsningen av den förra delen tydligen gjort ett mycket gott intryck, och under påverkan av detta intryck fattade man samma dag, den 27 februari, ett beslut, som man sedan kom att åtminstone till hälften ångra. Samma dag tog man sig nämligen före att föreslå nya prisämnen för 1788 års tävlan. Ehuru statuterna därom ingenting nämna, tyckes man ha utgått från principen, att samma ämne borde för det följande året ånyo utsättas, så vida ingen skrift vid årets tävlan kunnat prisbelönas. Vad nu den kommande tävlingen i historia beträffade, beslöt man sig för att välja ett nytt prisämne, då »academien af hvad redan uppläst blifvit af den inkomna historiska afhandlingen, ägde alt skäl att hoppas, det hon till dess författare kunde få utdela den utfästa belöningen». Som vi skola se innebar denna förhoppning ett oförsiktigt löfte, som man sedan ansåg sig skyldig att infria.\"}, {\"bbox\": [500, 1541, 1539, 1751], \"category\": \"Text\", \"text\": \"Vid nästa sammanträde, den 6 mars, upplästes avhandlingens senare avdelning, varefter akademien åt de tre historikerna Nordin, Hallenberg och Botin uppdrog att närmare granska tävlingsskriften i fråga. Den 13 mars föredrog emellertid Engeström, som icke blivit utsedd till granskare, ett mycket utförligt yttrande, som vidfogats\"}, {\"bbox\": [506, 1780, 554, 1826], \"category\": \"Page-footer\", \"text\": \"98\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    795,
+    235,
+    1230,
+    276
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    494,
+    303,
+    1535,
+    844
+   ],
+   "category": "Text",
+   "text": "Egentligen hade akademien enligt § 23 blott rätt att föreslå tre ämnen, av vilka konungen skulle välja ett. Men då Gustav III vid sammanträdet var närvarande, får man väl anse, att han av flera framlagda förslag godkänt detta. Skrifterna skulle vara inlämnade före den 20 januari 1787, och vid sammanträdet den 23 januari anmäldes, att en enda tävlingsskrift med det historiska ämnet inkommit, men »att auctoren, som icke medhunnit att det samma efter önskan utföra, begärt att det måtte honom återställas på någon korrt tid till sluteligt utarbetande, hvarpå han det i så god tid ville inlämna till academien, att det ändå kunde pröfvas inom den 20 Martii. Academien fant så mycket mindre betänkligt att sådant bifalla, som auctoren till bemälte Svar icke hade någon concurrent, hvars rätt genom academiens willfarande till hans begäran kunde förspillas.»"
+  },
+  {
+   "bbox": [
+    496,
+    841,
+    1538,
+    1545
+   ],
+   "category": "Text",
+   "text": "Vid sammanträdet den 27 februari meddelades, att skriften nu åter inlämnats, varefter avhandlingens första del upplästes; den senare avdelningen skulle vid ett följande sammanträde föredragas. På akademien hade uppläsningen av den förra delen tydligen gjort ett mycket gott intryck, och under påverkan av detta intryck fattade man samma dag, den 27 februari, ett beslut, som man sedan kom att åtminstone till hälften ångra. Samma dag tog man sig nämligen före att föreslå nya prisämnen för 1788 års tävlan. Ehuru statuterna därom ingenting nämna, tyckes man ha utgått från principen, att samma ämne borde för det följande året ånyo utsättas, så vida ingen skrift vid årets tävlan kunnat prisbelönas. Vad nu den kommande tävlingen i historia beträffade, beslöt man sig för att välja ett nytt prisämne, då »academien af hvad redan uppläst blifvit af den inkomna historiska afhandlingen, ägde alt skäl att hoppas, det hon till dess författare kunde få utdela den utfästa belöningen». Som vi skola se innebar denna förhoppning ett oförsiktigt löfte, som man sedan ansåg sig skyldig att infria."
+  },
+  {
+   "bbox": [
+    500,
+    1541,
+    1539,
+    1751
+   ],
+   "category": "Text",
+   "text": "Vid nästa sammanträde, den 6 mars, upplästes avhandlingens senare avdelning, varefter akademien åt de tre historikerna Nordin, Hallenberg och Botin uppdrog att närmare granska tävlingsskriften i fråga. Den 13 mars föredrog emellertid Engeström, som icke blivit utsedd till granskare, ett mycket utförligt yttrande, som vidfogats"
+  },
+  {
+   "bbox": [
+    506,
+    1780,
+    554,
+    1826
+   ],
+   "category": "Page-footer",
+   "text": "98"
+  }
+ ]
+}

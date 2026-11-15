@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 77,
+ "seconds": 35.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [801, 231, 1237, 274], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [496, 302, 1538, 964], \"category\": \"Text\", \"text\": \"en post på 22 rdr 32 sk.: »Till en jetton, som slås hvarje år på Svenska academiens bekostnad öfver någon stor Svensk man i forna tider, hvilken Svenska academien utväljer och, sedan Vitterhetsacademien uppgifvit emblemen, låter utdela till båda academiernas ledamöter af 1/3 rdr hvar jetton, till Svenska academien 18 och till Vitterhets-academien 50, tillsammans 68.» I september var det således ännu blott fråga om en medalj. Men några månader senare hade planen vidare utvecklats, och vid Svenska akademiens sammanträde den 16 december »gaf Secreteraren vid handen, at Konungen för alla tider faststält, det en kort Lefvernes Beskrifning borde upsättas och [på] Högtidsdagen uplysas öfver den person, hvars jetton Academien låtit prägla, och at Herr Nordin denna gången fått Konungens serskilte befallning at författa Grefve Dahlbergs Lefverne, hvilket sedermera äfven som de följande borde af Kongl. Witterhets Historie och Antikvitets Academien öfversättas på Latin och Fransyska samt på alla tre språken af trycket utgå».\"}, {\"bbox\": [492, 962, 1535, 1662], \"category\": \"Text\", \"text\": \"Det sista förefaller onekligen blott såsom en förflugen idé, som konungen vid närmare eftertanke borde ha övergivit, så mycket mer som Vitterhets Historie och Antikvitetsakademien, som därom ej fått något meddelande, icke låtsade om hela saken. Men egendomligt nog höll konungen i sig. Vid sammanträdet den 16 mars 1790 berättade sekreteraren: »det Kongl Maj:t befalt, att till academiens utländske Ledamöter exemplar af de dem ännu icke meddelta Svenska acad:ns jettoner med första skulle tillsändas samt att om werkställighet af denna årliga anstalt altid påminnelse bör göras i enskildta sammankomsten näst före den 20 Martii. Likaledes hade konungen befalt, att öfversättningar på Latin af de Svenska Lefvernesbeskrivningar, som blifvit författade öfver de personer, hvilka på nämde minnespenningar äro ihågkomna, oförtöfvadt måtte af academien påtänkas. I anledning hvaraf academien beslöt att till nästa sammankomst vara betänkt uppå den, en slik öfversättning må kunna updragas.» Endast så till vida hade konungen således modifierat sin plan, att han uteslutit öfversättningen till franska och blott vidhöll den latinska.\"}, {\"bbox\": [494, 1662, 1531, 1748], \"category\": \"Text\", \"text\": \"Den 20 april återkom man till ärendet: »Hwad Hans Maj:t anbefalt ang:de de förledna tvänne år i Swenska acad:ns namn slagne jettoners\"}, {\"bbox\": [494, 1773, 540, 1811], \"category\": \"Page-footer\", \"text\": \"62\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    801,
+    231,
+    1237,
+    274
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    496,
+    302,
+    1538,
+    964
+   ],
+   "category": "Text",
+   "text": "en post på 22 rdr 32 sk.: »Till en jetton, som slås hvarje år på Svenska academiens bekostnad öfver någon stor Svensk man i forna tider, hvilken Svenska academien utväljer och, sedan Vitterhetsacademien uppgifvit emblemen, låter utdela till båda academiernas ledamöter af 1/3 rdr hvar jetton, till Svenska academien 18 och till Vitterhets-academien 50, tillsammans 68.» I september var det således ännu blott fråga om en medalj. Men några månader senare hade planen vidare utvecklats, och vid Svenska akademiens sammanträde den 16 december »gaf Secreteraren vid handen, at Konungen för alla tider faststält, det en kort Lefvernes Beskrifning borde upsättas och [på] Högtidsdagen uplysas öfver den person, hvars jetton Academien låtit prägla, och at Herr Nordin denna gången fått Konungens serskilte befallning at författa Grefve Dahlbergs Lefverne, hvilket sedermera äfven som de följande borde af Kongl. Witterhets Historie och Antikvitets Academien öfversättas på Latin och Fransyska samt på alla tre språken af trycket utgå»."
+  },
+  {
+   "bbox": [
+    492,
+    962,
+    1535,
+    1662
+   ],
+   "category": "Text",
+   "text": "Det sista förefaller onekligen blott såsom en förflugen idé, som konungen vid närmare eftertanke borde ha övergivit, så mycket mer som Vitterhets Historie och Antikvitetsakademien, som därom ej fått något meddelande, icke låtsade om hela saken. Men egendomligt nog höll konungen i sig. Vid sammanträdet den 16 mars 1790 berättade sekreteraren: »det Kongl Maj:t befalt, att till academiens utländske Ledamöter exemplar af de dem ännu icke meddelta Svenska acad:ns jettoner med första skulle tillsändas samt att om werkställighet af denna årliga anstalt altid påminnelse bör göras i enskildta sammankomsten näst före den 20 Martii. Likaledes hade konungen befalt, att öfversättningar på Latin af de Svenska Lefvernesbeskrivningar, som blifvit författade öfver de personer, hvilka på nämde minnespenningar äro ihågkomna, oförtöfvadt måtte af academien påtänkas. I anledning hvaraf academien beslöt att till nästa sammankomst vara betänkt uppå den, en slik öfversättning må kunna updragas.» Endast så till vida hade konungen således modifierat sin plan, att han uteslutit öfversättningen till franska och blott vidhöll den latinska."
+  },
+  {
+   "bbox": [
+    494,
+    1662,
+    1531,
+    1748
+   ],
+   "category": "Text",
+   "text": "Den 20 april återkom man till ärendet: »Hwad Hans Maj:t anbefalt ang:de de förledna tvänne år i Swenska acad:ns namn slagne jettoners"
+  },
+  {
+   "bbox": [
+    494,
+    1773,
+    540,
+    1811
+   ],
+   "category": "Page-footer",
+   "text": "62"
+  }
+ ]
+}

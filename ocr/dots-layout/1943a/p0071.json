@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 71,
+ "seconds": 14.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [805, 233, 1238, 274], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [500, 299, 1538, 387], \"category\": \"Text\", \"text\": \"pas, at deras Likar någon gång tilldanas och emedlertid bedja Gud, at vårt fädernesland icke snart måtte behöfva dylika handasta män.\"}, {\"bbox\": [500, 385, 1540, 638], \"category\": \"Text\", \"text\": \"För at äfven nämna något om mig Sjelf, som eljest är det sämsta Skrifämnet, så ligger jag här redan i mang(!) år, fästad vid Sjuksängen som en usel krympling, till alla leder aldeles orörlig. Både för andra och mig Sjelf är det en fast förunderlig obegriplighet, at tålamodet och det muntra Sinnet ännu mig icke öfvergifvit, oacktat så många och långvariga plågor. Ware Guds namn därföre ärat!\"}, {\"bbox\": [500, 631, 1540, 796], \"category\": \"Text\", \"text\": \"Jag vet väl icke huru länge min pröfvotid ännu bör räcka, men det wet jag med all wisshet, at jag med uprigtig och oföränderlig högacktning, wänskap och tillgifvenhet äfven mina återstående dagar framhärdar\"}, {\"bbox\": [1241, 795, 1503, 892], \"category\": \"Text\", \"text\": \"Ödmjuka tjenare\\nJ. H. Lidén»\"}, {\"bbox\": [516, 1781, 563, 1828], \"category\": \"Page-footer\", \"text\": \"56\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    805,
+    233,
+    1238,
+    274
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    500,
+    299,
+    1538,
+    387
+   ],
+   "category": "Text",
+   "text": "pas, at deras Likar någon gång tilldanas och emedlertid bedja Gud, at vårt fädernesland icke snart måtte behöfva dylika handasta män."
+  },
+  {
+   "bbox": [
+    500,
+    385,
+    1540,
+    638
+   ],
+   "category": "Text",
+   "text": "För at äfven nämna något om mig Sjelf, som eljest är det sämsta Skrifämnet, så ligger jag här redan i mang(!) år, fästad vid Sjuksängen som en usel krympling, till alla leder aldeles orörlig. Både för andra och mig Sjelf är det en fast förunderlig obegriplighet, at tålamodet och det muntra Sinnet ännu mig icke öfvergifvit, oacktat så många och långvariga plågor. Ware Guds namn därföre ärat!"
+  },
+  {
+   "bbox": [
+    500,
+    631,
+    1540,
+    796
+   ],
+   "category": "Text",
+   "text": "Jag vet väl icke huru länge min pröfvotid ännu bör räcka, men det wet jag med all wisshet, at jag med uprigtig och oföränderlig högacktning, wänskap och tillgifvenhet äfven mina återstående dagar framhärdar"
+  },
+  {
+   "bbox": [
+    1241,
+    795,
+    1503,
+    892
+   ],
+   "category": "Text",
+   "text": "Ödmjuka tjenare\nJ. H. Lidén»"
+  },
+  {
+   "bbox": [
+    516,
+    1781,
+    563,
+    1828
+   ],
+   "category": "Page-footer",
+   "text": "56"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 343,
+ "seconds": 24.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [828, 237, 1262, 280], \"category\": \"Text\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [763, 307, 1317, 352], \"category\": \"Text\", \"text\": \"På ärepenningar för Hans Jansson:\"}, {\"bbox\": [902, 366, 1191, 881], \"category\": \"Text\", \"text\": \"Till\\nSven — sons\\nHeder\\nSom frälste\\nGamle K. Gustaf\\nBär dess afkomma\\ni Isala by\\nDenne penning\\nGifven af\\nGustaf III\\n1787.\"}, {\"bbox\": [528, 920, 1564, 1087], \"category\": \"Text\", \"text\": \"Till denna sistnämda påskrift hade Konungen sjelf täckts författa utkastet och gaf nådigt tillstånd att det samma må ibland academiens acter förvaras såsom ett dyrbart vittnesbörd om det höga hägn, hvarmed hon omfattas.\"}, {\"bbox\": [527, 1091, 1566, 1753], \"category\": \"Text\", \"text\": \"Sedan Hans Maj:t således icke allenast tillåtit Dess Witterhets Historie och Antiquitets Academie att i underdånighet nyttja tillfället af Sin Höga Beskyddares närvaro till fullgörande af Hans Maj:ts nådiga befallning om förslags afgifvande till de inscriptioner, Hans Maj:t i afseende på minnets bevarande af K. Gustaf I⁸ märkvärdiga räddning wid Isala i Dalarne funnit nödiga, utan Hans Maj:t äfven däröfver täckts mundteligen meddela academien Sitt beslut och Samma inscriptioner i nåder fastställa, Behagade Hans Maj:t ock, hvad verkställigheten beträffar, förordna, det stenen wid Isala Ladan, som enligt Hans Maj:ts befallning af den 22 sistledne Decemb. bör blifva helt Simpel och föreställa ett antikt altare, må i sjelfva Dale-orten tillhuggas af Svensk granit eller gråsten efter den ritning Hans Maj:t nu genast därtill låter författa af Professor Masrelier och hvarefter Hans Maj:t vill låta foga anstalt om någon skicklig stenhuggares ditsändande härifrån Stockholm, som kan rista påskrifterna. Rörande vidare ärepenningen för Hans Jansson i Isala\"}, {\"bbox\": [533, 1788, 601, 1826], \"category\": \"Page-footer\", \"text\": \"322\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    828,
+    237,
+    1262,
+    280
+   ],
+   "category": "Text",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    763,
+    307,
+    1317,
+    352
+   ],
+   "category": "Text",
+   "text": "På ärepenningar för Hans Jansson:"
+  },
+  {
+   "bbox": [
+    902,
+    366,
+    1191,
+    881
+   ],
+   "category": "Text",
+   "text": "Till\nSven — sons\nHeder\nSom frälste\nGamle K. Gustaf\nBär dess afkomma\ni Isala by\nDenne penning\nGifven af\nGustaf III\n1787."
+  },
+  {
+   "bbox": [
+    528,
+    920,
+    1564,
+    1087
+   ],
+   "category": "Text",
+   "text": "Till denna sistnämda påskrift hade Konungen sjelf täckts författa utkastet och gaf nådigt tillstånd att det samma må ibland academiens acter förvaras såsom ett dyrbart vittnesbörd om det höga hägn, hvarmed hon omfattas."
+  },
+  {
+   "bbox": [
+    527,
+    1091,
+    1566,
+    1753
+   ],
+   "category": "Text",
+   "text": "Sedan Hans Maj:t således icke allenast tillåtit Dess Witterhets Historie och Antiquitets Academie att i underdånighet nyttja tillfället af Sin Höga Beskyddares närvaro till fullgörande af Hans Maj:ts nådiga befallning om förslags afgifvande till de inscriptioner, Hans Maj:t i afseende på minnets bevarande af K. Gustaf I⁸ märkvärdiga räddning wid Isala i Dalarne funnit nödiga, utan Hans Maj:t äfven däröfver täckts mundteligen meddela academien Sitt beslut och Samma inscriptioner i nåder fastställa, Behagade Hans Maj:t ock, hvad verkställigheten beträffar, förordna, det stenen wid Isala Ladan, som enligt Hans Maj:ts befallning af den 22 sistledne Decemb. bör blifva helt Simpel och föreställa ett antikt altare, må i sjelfva Dale-orten tillhuggas af Svensk granit eller gråsten efter den ritning Hans Maj:t nu genast därtill låter författa af Professor Masrelier och hvarefter Hans Maj:t vill låta foga anstalt om någon skicklig stenhuggares ditsändande härifrån Stockholm, som kan rista påskrifterna. Rörande vidare ärepenningen för Hans Jansson i Isala"
+  },
+  {
+   "bbox": [
+    533,
+    1788,
+    601,
+    1826
+   ],
+   "category": "Page-footer",
+   "text": "322"
+  }
+ ]
+}

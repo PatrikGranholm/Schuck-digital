@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 142,
+ "seconds": 28.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [456, 225, 777, 267], \"category\": \"Section-header\", \"text\": \"Medaljhistorierna\"}, {\"bbox\": [95, 295, 1134, 380], \"category\": \"Text\", \"text\": \"omtanke til de äldre tiderna, föreslår skådepenningar öfver dem och uplyser dem med historiska afhandlingar.\"}, {\"bbox\": [95, 383, 1134, 757], \"category\": \"Text\", \"text\": \"2°) At til tidens vinnande och emedan et arbete af den vidd som den i fråga varande medaillehistorien är mer än en mans höfva, arbetet emellan flere Ledamöter af academien på det sätt må fördelas, at en tager en viss Konungs historia på sin lott, en annan en annans och så vidare; Hvarpå hvarje författare först kunde förfärdiga en Sciographie eller förtekning på de märkvärdigheter, han enkannerligen finner förtjänta af Skådepenningar i den period, för hvilken han åtagit sig at föreslå medailler, hvilken Sciographie kunde i academien upvisas och där granskning underkastas.\"}, {\"bbox\": [95, 761, 1134, 1258], \"category\": \"Text\", \"text\": \"3°) At emedan en medaille-historia och en annan vanlig historia derutinnan skilja sig, at den förra endast uppehåller sig vid sådana vigtiga händelser, som kunnat blifva ämnen för en allmän åminnelse, då däremot den sednare fordrar en fullständigare detail och nogare utredning af mindre omständigheter; Ty synes noga böra i akt tagas, at på den ena sidan inga väsendtliga märkvärdigheter lämnas utan skådepenningar, men at ock å den andra arbetet ej drifves til en onödig vidlyftighet genom det at obetydliga ämnen sättas i fråga. Det är til vinnande af et slikt afpassadt förhållande så väl som at ock den ena författaren icke inlåter sig i vidlyftigare plan än den andra, som de i föregående moment nämde Sciographier synas böra i academien pröfvas.\"}, {\"bbox\": [95, 1261, 1134, 1511], \"category\": \"Text\", \"text\": \"4°) At sådana medailler, hvilka redan öfver vissa händelser i de framfarne Konungarnas regeringstid blifvit slagne, må få et rum i denna medaille-historia samt at, när dessa skådepenningar äro goda, inga nya öfver samma händelser behöfva föreslås, men at enär de gifne medaillerna mindre lyckligen upfylla ändamålet, nya i deras ställen må påtänkas.\"}, {\"bbox\": [95, 1514, 1134, 1722], \"category\": \"Text\", \"text\": \"5°) At vid upgifvandet af sjelfva Skådepenningarne hvarje författare bör stå fritt at välja den form eller art af medaille han sjelf finner bäst passande, vare sig inscription, devise, embleme eller hvad invention som häldst, hvarmedelst ändamålet med bibehållande af god smak vinnas kan, hvarvid likväl den antika Romerska och Gre-\"}, {\"bbox\": [1060, 1777, 1128, 1815], \"category\": \"Page-footer\", \"text\": \"127\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    456,
+    225,
+    777,
+    267
+   ],
+   "category": "Section-header",
+   "text": "Medaljhistorierna"
+  },
+  {
+   "bbox": [
+    95,
+    295,
+    1134,
+    380
+   ],
+   "category": "Text",
+   "text": "omtanke til de äldre tiderna, föreslår skådepenningar öfver dem och uplyser dem med historiska afhandlingar."
+  },
+  {
+   "bbox": [
+    95,
+    383,
+    1134,
+    757
+   ],
+   "category": "Text",
+   "text": "2°) At til tidens vinnande och emedan et arbete af den vidd som den i fråga varande medaillehistorien är mer än en mans höfva, arbetet emellan flere Ledamöter af academien på det sätt må fördelas, at en tager en viss Konungs historia på sin lott, en annan en annans och så vidare; Hvarpå hvarje författare först kunde förfärdiga en Sciographie eller förtekning på de märkvärdigheter, han enkannerligen finner förtjänta af Skådepenningar i den period, för hvilken han åtagit sig at föreslå medailler, hvilken Sciographie kunde i academien upvisas och där granskning underkastas."
+  },
+  {
+   "bbox": [
+    95,
+    761,
+    1134,
+    1258
+   ],
+   "category": "Text",
+   "text": "3°) At emedan en medaille-historia och en annan vanlig historia derutinnan skilja sig, at den förra endast uppehåller sig vid sådana vigtiga händelser, som kunnat blifva ämnen för en allmän åminnelse, då däremot den sednare fordrar en fullständigare detail och nogare utredning af mindre omständigheter; Ty synes noga böra i akt tagas, at på den ena sidan inga väsendtliga märkvärdigheter lämnas utan skådepenningar, men at ock å den andra arbetet ej drifves til en onödig vidlyftighet genom det at obetydliga ämnen sättas i fråga. Det är til vinnande af et slikt afpassadt förhållande så väl som at ock den ena författaren icke inlåter sig i vidlyftigare plan än den andra, som de i föregående moment nämde Sciographier synas böra i academien pröfvas."
+  },
+  {
+   "bbox": [
+    95,
+    1261,
+    1134,
+    1511
+   ],
+   "category": "Text",
+   "text": "4°) At sådana medailler, hvilka redan öfver vissa händelser i de framfarne Konungarnas regeringstid blifvit slagne, må få et rum i denna medaille-historia samt at, när dessa skådepenningar äro goda, inga nya öfver samma händelser behöfva föreslås, men at enär de gifne medaillerna mindre lyckligen upfylla ändamålet, nya i deras ställen må påtänkas."
+  },
+  {
+   "bbox": [
+    95,
+    1514,
+    1134,
+    1722
+   ],
+   "category": "Text",
+   "text": "5°) At vid upgifvandet af sjelfva Skådepenningarne hvarje författare bör stå fritt at välja den form eller art af medaille han sjelf finner bäst passande, vare sig inscription, devise, embleme eller hvad invention som häldst, hvarmedelst ändamålet med bibehållande af god smak vinnas kan, hvarvid likväl den antika Romerska och Gre-"
+  },
+  {
+   "bbox": [
+    1060,
+    1777,
+    1128,
+    1815
+   ],
+   "category": "Page-footer",
+   "text": "127"
+  }
+ ]
+}

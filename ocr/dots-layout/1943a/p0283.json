@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 283,
+ "seconds": 26.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [748, 522, 1305, 557], \"category\": \"Section-header\", \"text\": \"AKADEMIENS HANDLINGAR\"}, {\"bbox\": [365, 648, 513, 769], \"category\": \"Text\", \"text\": \"Sista delen av\\nVitterhets-\\nakademiens\\nHandlingar\"}, {\"bbox\": [511, 640, 1552, 1467], \"category\": \"Text\", \"text\": \"De avhandlingar, som akademiens arbetande ledamöter enligt § 4 voro skyldiga att årligen ingiva till akademien, skulle enligt § 13 tryckas i Handlingarna, vilka dessutom skulle innehålla alla belönade prisskrifter, inträdestalen och levernesbeskrivningarna. Dessa Handlingar skulle utgivas av trycket »hvart annat eller minst hvart tredje år». Möjligen var det denna tidslatitud, som gjorde, att det dröjde tämligen länge, innan första delen utkom — ända till 1789. Att frågan över huvud kom upp, berodde nog på traditionen från den gamla Vitterhetsakademien, och vi skola här erinra oss, att Svenska akademien först 1801 började med en ordentlig serie av Handlingar; förut hade blott fristående häften utgivits, vilka 1801 omtrycktes till en serie i fem band, »Svenska Akademiens Handlingar ifrån år 1786» och en annan från 1796. Den gamla Vitterhetsakademien hade däremot redan utgivit fyra band »Handlingar», ett band (1755) under den första perioden av akademiens verksamhet, två (1776 och 1780) under den andra och ett (1783) strax efter Lovisa Ulricas död. Då nu Gustav III strängt höll på, att Vitterhets Historie och Antikvitetsakademien blott var en fortsättning av moderns akademi, ville han också, att detta skulle framgå av den fortsatta serien av Handlingar.\"}, {\"bbox\": [368, 1474, 517, 1537], \"category\": \"Text\", \"text\": \"Kontrakten\\nmed fru Fougt\"}, {\"bbox\": [515, 1464, 1554, 1756], \"category\": \"Text\", \"text\": \"Frågan togs, i konungens närvaro, upp av den gamla akademiens siste sekreterare, Rosenberg, och med anledning av hans förslag företog akademien den 9 januari 1787 en »öfwerläggning om tryckningen af sina äldre handlingar eller de skrifter, som utan att ännu hafva sett dagsljuset, höra till hennes förra inrättning, innan den af Konungen förbättrades den 20 mars förl. år. Academien fant så mycket angelägnare, att skyndesam anstalt härom fogas, som dessa äldre\"}, {\"bbox\": [523, 1785, 591, 1823], \"category\": \"Page-footer\", \"text\": \"262\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    748,
+    522,
+    1305,
+    557
+   ],
+   "category": "Section-header",
+   "text": "AKADEMIENS HANDLINGAR"
+  },
+  {
+   "bbox": [
+    365,
+    648,
+    513,
+    769
+   ],
+   "category": "Text",
+   "text": "Sista delen av\nVitterhets-\nakademiens\nHandlingar"
+  },
+  {
+   "bbox": [
+    511,
+    640,
+    1552,
+    1467
+   ],
+   "category": "Text",
+   "text": "De avhandlingar, som akademiens arbetande ledamöter enligt § 4 voro skyldiga att årligen ingiva till akademien, skulle enligt § 13 tryckas i Handlingarna, vilka dessutom skulle innehålla alla belönade prisskrifter, inträdestalen och levernesbeskrivningarna. Dessa Handlingar skulle utgivas av trycket »hvart annat eller minst hvart tredje år». Möjligen var det denna tidslatitud, som gjorde, att det dröjde tämligen länge, innan första delen utkom — ända till 1789. Att frågan över huvud kom upp, berodde nog på traditionen från den gamla Vitterhetsakademien, och vi skola här erinra oss, att Svenska akademien först 1801 började med en ordentlig serie av Handlingar; förut hade blott fristående häften utgivits, vilka 1801 omtrycktes till en serie i fem band, »Svenska Akademiens Handlingar ifrån år 1786» och en annan från 1796. Den gamla Vitterhetsakademien hade däremot redan utgivit fyra band »Handlingar», ett band (1755) under den första perioden av akademiens verksamhet, två (1776 och 1780) under den andra och ett (1783) strax efter Lovisa Ulricas död. Då nu Gustav III strängt höll på, att Vitterhets Historie och Antikvitetsakademien blott var en fortsättning av moderns akademi, ville han också, att detta skulle framgå av den fortsatta serien av Handlingar."
+  },
+  {
+   "bbox": [
+    368,
+    1474,
+    517,
+    1537
+   ],
+   "category": "Text",
+   "text": "Kontrakten\nmed fru Fougt"
+  },
+  {
+   "bbox": [
+    515,
+    1464,
+    1554,
+    1756
+   ],
+   "category": "Text",
+   "text": "Frågan togs, i konungens närvaro, upp av den gamla akademiens siste sekreterare, Rosenberg, och med anledning av hans förslag företog akademien den 9 januari 1787 en »öfwerläggning om tryckningen af sina äldre handlingar eller de skrifter, som utan att ännu hafva sett dagsljuset, höra till hennes förra inrättning, innan den af Konungen förbättrades den 20 mars förl. år. Academien fant så mycket angelägnare, att skyndesam anstalt härom fogas, som dessa äldre"
+  },
+  {
+   "bbox": [
+    523,
+    1785,
+    591,
+    1823
+   ],
+   "category": "Page-footer",
+   "text": "262"
+  }
+ ]
+}

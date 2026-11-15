@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 396,
+ "seconds": 14.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [368, 239, 905, 281], \"category\": \"Section-header\", \"text\": \"Fornvård och korrespondenter\"}, {\"bbox\": [407, 309, 861, 433], \"category\": \"Text\", \"text\": \"Wid desse Stenar\\nWaldes och Hyllades fordom\\nSvea Rikes Konungar\"}, {\"bbox\": [117, 450, 1133, 494], \"category\": \"Text\", \"text\": \"och utanpå huset öfwer ingången en annan med så lydande påskrift:\"}, {\"bbox\": [440, 504, 831, 835], \"category\": \"Text\", \"text\": \"Till\\nMora Stenars förwarande\\nI Stånd sattes\\nDetta hus\\nPå\\nGustaf IIIs\\nbefallning\\n179-»\"}, {\"bbox\": [117, 857, 1155, 1182], \"category\": \"Text\", \"text\": \"Under ärendets behandling avled Gustav III, och den 8 maj 1792 fick akademien underrättelse om, att Öfverintendentsämbetet fått Kungl. Maj:ts uppdrag att inkomma med projekt till nybyggnad över Mora Stenar och Uppsala universitets kanslersämbete — icke akademien — »att eftersöka i gamla handlingar, hvarest berörda stenar af ålder warit belägne». Men varken 1792 eller 1803, då ärendet återupptogs, gjordes något åt saken, och skyddshuset fick fortfarande förfalla.\"}, {\"bbox\": [1084, 1789, 1151, 1826], \"category\": \"Page-footer\", \"text\": \"375\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    368,
+    239,
+    905,
+    281
+   ],
+   "category": "Section-header",
+   "text": "Fornvård och korrespondenter"
+  },
+  {
+   "bbox": [
+    407,
+    309,
+    861,
+    433
+   ],
+   "category": "Text",
+   "text": "Wid desse Stenar\nWaldes och Hyllades fordom\nSvea Rikes Konungar"
+  },
+  {
+   "bbox": [
+    117,
+    450,
+    1133,
+    494
+   ],
+   "category": "Text",
+   "text": "och utanpå huset öfwer ingången en annan med så lydande påskrift:"
+  },
+  {
+   "bbox": [
+    440,
+    504,
+    831,
+    835
+   ],
+   "category": "Text",
+   "text": "Till\nMora Stenars förwarande\nI Stånd sattes\nDetta hus\nPå\nGustaf IIIs\nbefallning\n179-»"
+  },
+  {
+   "bbox": [
+    117,
+    857,
+    1155,
+    1182
+   ],
+   "category": "Text",
+   "text": "Under ärendets behandling avled Gustav III, och den 8 maj 1792 fick akademien underrättelse om, att Öfverintendentsämbetet fått Kungl. Maj:ts uppdrag att inkomma med projekt till nybyggnad över Mora Stenar och Uppsala universitets kanslersämbete — icke akademien — »att eftersöka i gamla handlingar, hvarest berörda stenar af ålder warit belägne». Men varken 1792 eller 1803, då ärendet återupptogs, gjordes något åt saken, och skyddshuset fick fortfarande förfalla."
+  },
+  {
+   "bbox": [
+    1084,
+    1789,
+    1151,
+    1826
+   ],
+   "category": "Page-footer",
+   "text": "375"
+  }
+ ]
+}

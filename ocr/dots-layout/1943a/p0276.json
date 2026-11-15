@@ -1,0 +1,128 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 276,
+ "seconds": 14.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [108, 318, 623, 951], \"category\": \"Picture\"}, {\"bbox\": [135, 965, 602, 1005], \"category\": \"Caption\", \"text\": \"JAKOB VON ENGESTRÖM\"}, {\"bbox\": [207, 1008, 526, 1070], \"category\": \"Text\", \"text\": \"Oljemålning av Elias Martin\\n(Grönsö, foto S. P. A.).\"}, {\"bbox\": [699, 321, 1208, 954], \"category\": \"Picture\"}, {\"bbox\": [818, 968, 1094, 1007], \"category\": \"Caption\", \"text\": \"JOHAN ELERS\"}, {\"bbox\": [808, 1010, 1103, 1073], \"category\": \"Text\", \"text\": \"Gouache av okänd konstnär\\n(foto S. P. A.).\"}, {\"bbox\": [89, 1094, 594, 1760], \"category\": \"Picture\"}, {\"bbox\": [228, 1790, 456, 1830], \"category\": \"Caption\", \"text\": \"J. H. LIDÉN\"}, {\"bbox\": [152, 1834, 532, 1896], \"category\": \"Text\", \"text\": \"Oljemålning, trol. av M. Hallman\\n(Östergötlands museum, Linköping).\"}, {\"bbox\": [685, 1096, 1218, 1765], \"category\": \"Picture\"}, {\"bbox\": [813, 1793, 1082, 1832], \"category\": \"Caption\", \"text\": \"J. F. NEIKTER\"}, {\"bbox\": [753, 1836, 1140, 1898], \"category\": \"Text\", \"text\": \"Oljemålning av Lorenz Pasch d. y.\\n(Uppsala universitet).\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    108,
+    318,
+    623,
+    951
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    135,
+    965,
+    602,
+    1005
+   ],
+   "category": "Caption",
+   "text": "JAKOB VON ENGESTRÖM"
+  },
+  {
+   "bbox": [
+    207,
+    1008,
+    526,
+    1070
+   ],
+   "category": "Text",
+   "text": "Oljemålning av Elias Martin\n(Grönsö, foto S. P. A.)."
+  },
+  {
+   "bbox": [
+    699,
+    321,
+    1208,
+    954
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    818,
+    968,
+    1094,
+    1007
+   ],
+   "category": "Caption",
+   "text": "JOHAN ELERS"
+  },
+  {
+   "bbox": [
+    808,
+    1010,
+    1103,
+    1073
+   ],
+   "category": "Text",
+   "text": "Gouache av okänd konstnär\n(foto S. P. A.)."
+  },
+  {
+   "bbox": [
+    89,
+    1094,
+    594,
+    1760
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    228,
+    1790,
+    456,
+    1830
+   ],
+   "category": "Caption",
+   "text": "J. H. LIDÉN"
+  },
+  {
+   "bbox": [
+    152,
+    1834,
+    532,
+    1896
+   ],
+   "category": "Text",
+   "text": "Oljemålning, trol. av M. Hallman\n(Östergötlands museum, Linköping)."
+  },
+  {
+   "bbox": [
+    685,
+    1096,
+    1218,
+    1765
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    813,
+    1793,
+    1082,
+    1832
+   ],
+   "category": "Caption",
+   "text": "J. F. NEIKTER"
+  },
+  {
+   "bbox": [
+    753,
+    1836,
+    1140,
+    1898
+   ],
+   "category": "Text",
+   "text": "Oljemålning av Lorenz Pasch d. y.\n(Uppsala universitet)."
+  }
+ ]
+}

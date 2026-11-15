@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 228,
+ "seconds": 24.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [323, 228, 932, 275], \"category\": \"Section-header\", \"text\": \"Övriga medaljer och inskriptioner\"}, {\"bbox\": [323, 301, 932, 545], \"category\": \"Text\", \"text\": \"År 1768\\nBesökte Swea Rikes KronPrins\\nNora Bärgslag\\nBewandrade Stora Lerbärgs Järngrufva\\nBesåg Bärgsmannens arbete\\nMuntrade hans Sinne.\"}, {\"bbox\": [341, 578, 915, 869], \"category\": \"Text\", \"text\": \"—\\nGustaf war då Fäderneslandets hopp\\nMen hade länge warit dess Sällhet\\nNär denne Sten restes\\naf\\nErik Bergenskiöld\\nBärgmästare\\når 178..»\"}, {\"bbox\": [104, 891, 1287, 1016], \"category\": \"Text\", \"text\": \"Exemplen torde visa karaktären hos denna mycket talrika grupp. *Gravskrifter*\\nAv den tredje gruppen — gravskrifter över enskilde — torde två\\nexempel vara till fylles.\"}, {\"bbox\": [102, 1016, 1143, 1309], \"category\": \"Text\", \"text\": \"Den 13 juli 1786 hade en handelsman i Stockholm, Petter Pomp, avlidit. Han efterlämnade inga barn, men hans arvingar vände sig den 30 januari 1787 till akademien med anhållan om en gravskrift över den avlidne. Till att giva förslag till denna utsåg akademien Manderström och Murberg. Sedan akademien den 6 februari »tagit detta ämne under nytt öfvervägande och dervid nyttjat de anledningar bemälte Ledamöter henne meddelat, faststältes följande inscription:\"}, {\"bbox\": [175, 1316, 1000, 1765], \"category\": \"Text\", \"text\": \"Hac tumba quiescit\\nIndustrius Mercator Stockholmensis\\nPetrus Pomp\\nIncorruptae Libertatis amans\\nNatus Falunae A. MDCCXX\\ndie XIII Novemb.\\nDenatus Caelebs Stockholmiae A. MDCCLXXXVII\\ndie XIII Julii\\nMerendo\\nAlios Sui memores\\nfecit.»\"}, {\"bbox\": [1066, 1788, 1133, 1816], \"category\": \"Page-footer\", \"text\": \"211\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    323,
+    228,
+    932,
+    275
+   ],
+   "category": "Section-header",
+   "text": "Övriga medaljer och inskriptioner"
+  },
+  {
+   "bbox": [
+    323,
+    301,
+    932,
+    545
+   ],
+   "category": "Text",
+   "text": "År 1768\nBesökte Swea Rikes KronPrins\nNora Bärgslag\nBewandrade Stora Lerbärgs Järngrufva\nBesåg Bärgsmannens arbete\nMuntrade hans Sinne."
+  },
+  {
+   "bbox": [
+    341,
+    578,
+    915,
+    869
+   ],
+   "category": "Text",
+   "text": "—\nGustaf war då Fäderneslandets hopp\nMen hade länge warit dess Sällhet\nNär denne Sten restes\naf\nErik Bergenskiöld\nBärgmästare\når 178..»"
+  },
+  {
+   "bbox": [
+    104,
+    891,
+    1287,
+    1016
+   ],
+   "category": "Text",
+   "text": "Exemplen torde visa karaktären hos denna mycket talrika grupp. *Gravskrifter*\nAv den tredje gruppen — gravskrifter över enskilde — torde två\nexempel vara till fylles."
+  },
+  {
+   "bbox": [
+    102,
+    1016,
+    1143,
+    1309
+   ],
+   "category": "Text",
+   "text": "Den 13 juli 1786 hade en handelsman i Stockholm, Petter Pomp, avlidit. Han efterlämnade inga barn, men hans arvingar vände sig den 30 januari 1787 till akademien med anhållan om en gravskrift över den avlidne. Till att giva förslag till denna utsåg akademien Manderström och Murberg. Sedan akademien den 6 februari »tagit detta ämne under nytt öfvervägande och dervid nyttjat de anledningar bemälte Ledamöter henne meddelat, faststältes följande inscription:"
+  },
+  {
+   "bbox": [
+    175,
+    1316,
+    1000,
+    1765
+   ],
+   "category": "Text",
+   "text": "Hac tumba quiescit\nIndustrius Mercator Stockholmensis\nPetrus Pomp\nIncorruptae Libertatis amans\nNatus Falunae A. MDCCXX\ndie XIII Novemb.\nDenatus Caelebs Stockholmiae A. MDCCLXXXVII\ndie XIII Julii\nMerendo\nAlios Sui memores\nfecit.»"
+  },
+  {
+   "bbox": [
+    1066,
+    1788,
+    1133,
+    1816
+   ],
+   "category": "Page-footer",
+   "text": "211"
+  }
+ ]
+}

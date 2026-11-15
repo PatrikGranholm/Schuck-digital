@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 457,
+ "seconds": 11.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [935, 905, 1111, 955], \"category\": \"Text\", \"text\": \"A\"}, {\"bbox\": [747, 975, 1333, 1013], \"category\": \"Text\", \"text\": \"BIBLIOGRAPHICAL NOTICES\"}, {\"bbox\": [993, 1033, 1081, 1073], \"category\": \"Text\", \"text\": \"V\"}, {\"bbox\": [1011, 1097, 1067, 1183], \"category\": \"Text\", \"text\": \"IX\"}, {\"bbox\": [468, 2022, 495, 2047], \"category\": \"Text\", \"text\": \"2\"}, {\"bbox\": [973, 2138, 988, 2153], \"category\": \"Text\", \"text\": \"3\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    935,
+    905,
+    1111,
+    955
+   ],
+   "category": "Text",
+   "text": "A"
+  },
+  {
+   "bbox": [
+    747,
+    975,
+    1333,
+    1013
+   ],
+   "category": "Text",
+   "text": "BIBLIOGRAPHICAL NOTICES"
+  },
+  {
+   "bbox": [
+    993,
+    1033,
+    1081,
+    1073
+   ],
+   "category": "Text",
+   "text": "V"
+  },
+  {
+   "bbox": [
+    1011,
+    1097,
+    1067,
+    1183
+   ],
+   "category": "Text",
+   "text": "IX"
+  },
+  {
+   "bbox": [
+    468,
+    2022,
+    495,
+    2047
+   ],
+   "category": "Text",
+   "text": "2"
+  },
+  {
+   "bbox": [
+    973,
+    2138,
+    988,
+    2153
+   ],
+   "category": "Text",
+   "text": "3"
+  }
+ ]
+}

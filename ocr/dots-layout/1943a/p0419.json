@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 419,
+ "seconds": 27.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [777, 227, 1206, 270], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [472, 296, 1509, 703], \"category\": \"Text\", \"text\": \"ledamotskap i en akademi den åtrådda utmärkelsen — ordnar hade ännu ej kommit på modet — och för en dylik utmärkelse tyckes Tychsen icke ha varit känslolös. Han blev också — om än icke formellt, så dock reellt — den förste utlänning, som *invalides* i Vitterhets Historie och Antikvitetsakademien. De fem första hade icke *valts* av akademien utan insatts av Gustav III själv, den sjätte, hertiginnan di Giovane, av hertigen-regenten, den sjunde, greve Bernsdorff, hade väl formellt valts av akademien, men på kunglig befallning. Den förste verkligen valde blev Tychsen, som 1793 erhöll denna utmärkelse.\"}, {\"bbox\": [468, 709, 1507, 1698], \"category\": \"Text\", \"text\": \"Den 4 december skrev Ödmann ett nytt brev, vilket nu är förlorat, men som refereras i protokollet för den 16 december 1788: »Secreteraren föredrog ytterligare ett bref af d. 4 hujus från Herr Samuel Ödmann, hvarvid å Dess Correspondents Herr Håfrådet Tychsens vägnar till academiens tjenst voro bifogade [fyra arbeten om arabiska mynt och böcker]. Herr Ödman låfvar ock att insända en i Sommars uti Messina funnen Cufisk inscription samt förmäler, att för några år sedan vid en reparation på S. Stephans monument på Norrala kyrkogård i Helsingeland fants i en springa en brun sammetspung med några silfvermynt, som Herr Ödmann vid undersökning fann vara bracteater. Academien befalte Secreteraren skrifteligen gifva Herr Ödmann tillkänna det synerliga nöje, hvarmed hon emottagit de henne meddelte vackra afhandlingar och att hon önskade, det han äfven ville låta Herr Tychsen förstå, att academien satte mycket värde på hans lärda och flitiga bemödande. Academien väntade med längtan den underrättelse, Herr Ödmann låfvat angde den Cufiska Inscriptionen i Messina, och hvad angår de sist omnämde bracteater, så i händelse han af dem voro ägare, önskade academien att han ville dem till låns insända, på det att de med vederbörlig noggranhet måtte kunna skärskådas och undersökas. Likaledes fants godt, att de inlämnade stycken af Gelehrte Beyträge skulle meddelas Mag. Malmström, på det att han däraf kunde göra nödigt bruk, i händelse de innehöllo uplysningar, hvaraf han i sitt arbete kunde draga nytta.»\"}, {\"bbox\": [504, 1696, 1504, 1743], \"category\": \"Text\", \"text\": \"På Adlerbeths brev svarade Ödmann den 17 februari 1789: »Att\"}, {\"bbox\": [472, 1768, 541, 1814], \"category\": \"Page-footer\", \"text\": \"398\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    777,
+    227,
+    1206,
+    270
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    472,
+    296,
+    1509,
+    703
+   ],
+   "category": "Text",
+   "text": "ledamotskap i en akademi den åtrådda utmärkelsen — ordnar hade ännu ej kommit på modet — och för en dylik utmärkelse tyckes Tychsen icke ha varit känslolös. Han blev också — om än icke formellt, så dock reellt — den förste utlänning, som *invalides* i Vitterhets Historie och Antikvitetsakademien. De fem första hade icke *valts* av akademien utan insatts av Gustav III själv, den sjätte, hertiginnan di Giovane, av hertigen-regenten, den sjunde, greve Bernsdorff, hade väl formellt valts av akademien, men på kunglig befallning. Den förste verkligen valde blev Tychsen, som 1793 erhöll denna utmärkelse."
+  },
+  {
+   "bbox": [
+    468,
+    709,
+    1507,
+    1698
+   ],
+   "category": "Text",
+   "text": "Den 4 december skrev Ödmann ett nytt brev, vilket nu är förlorat, men som refereras i protokollet för den 16 december 1788: »Secreteraren föredrog ytterligare ett bref af d. 4 hujus från Herr Samuel Ödmann, hvarvid å Dess Correspondents Herr Håfrådet Tychsens vägnar till academiens tjenst voro bifogade [fyra arbeten om arabiska mynt och böcker]. Herr Ödman låfvar ock att insända en i Sommars uti Messina funnen Cufisk inscription samt förmäler, att för några år sedan vid en reparation på S. Stephans monument på Norrala kyrkogård i Helsingeland fants i en springa en brun sammetspung med några silfvermynt, som Herr Ödmann vid undersökning fann vara bracteater. Academien befalte Secreteraren skrifteligen gifva Herr Ödmann tillkänna det synerliga nöje, hvarmed hon emottagit de henne meddelte vackra afhandlingar och att hon önskade, det han äfven ville låta Herr Tychsen förstå, att academien satte mycket värde på hans lärda och flitiga bemödande. Academien väntade med längtan den underrättelse, Herr Ödmann låfvat angde den Cufiska Inscriptionen i Messina, och hvad angår de sist omnämde bracteater, så i händelse han af dem voro ägare, önskade academien att han ville dem till låns insända, på det att de med vederbörlig noggranhet måtte kunna skärskådas och undersökas. Likaledes fants godt, att de inlämnade stycken af Gelehrte Beyträge skulle meddelas Mag. Malmström, på det att han däraf kunde göra nödigt bruk, i händelse de innehöllo uplysningar, hvaraf han i sitt arbete kunde draga nytta.»"
+  },
+  {
+   "bbox": [
+    504,
+    1696,
+    1504,
+    1743
+   ],
+   "category": "Text",
+   "text": "På Adlerbeths brev svarade Ödmann den 17 februari 1789: »Att"
+  },
+  {
+   "bbox": [
+    472,
+    1768,
+    541,
+    1814
+   ],
+   "category": "Page-footer",
+   "text": "398"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 426,
+ "seconds": 28.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [188, 248, 1082, 292], \"category\": \"Page-header\", \"text\": \"Vetenskaplig korrespondens och planerade arbeten\"}, {\"bbox\": [115, 318, 1155, 642], \"category\": \"Text\", \"text\": \"Herr Cantzli Rådet fördenskull anmodat Biskopen Doctor Benzelstierna att söka göra sig underrättad om den i fråga varande omständigheten, hvilket Herr Biskopen äfven benäget åtagit sig och genom hvilken utväg academien framdeles äger att vänta en pålitelig kundskap, hvad hopp hon kan göra sig om merbemälte Dagboks till rätta skaffande. Academien mottog denna berättelse med den ärkänsla, hon var skyldig Herr Cantzli Rådet för hans i detta mål använda möda.»\"}, {\"bbox\": [115, 648, 1151, 733], \"category\": \"Text\", \"text\": \"Därvid förblev det, och Hermelins dagbok är fortfarande — om den överhuvud finnes kvar — för forskningen okänd.\"}, {\"bbox\": [115, 733, 1153, 1186], \"category\": \"Text\", \"text\": \"Ett liknande uppslag gavs av Engeström. En bland de mest betydande gestalterna i 1600-talets svenska lärdomshistoria var Laurentius Normannus. I sin universitetshistoria skriver Annerstedt om honom: »En nutida ung filolog utan historisk skolning skulle kanske utan vidare förklara, att som han icke var någon filolog i modern mening, förtjänar han heller icke någon särskild uppmärksamhet. Hans samtid dömde dock annorlunda, och det är efter måttstocken af sin tids filogiska ståndpunkt han skall bedömas.» 1787 gjorde Engeström ett försök att rädda vad som räddas kunde av Normannus litterära kvarlåtenskap. Den 15 augusti föredrog han nämligen för akademien följande memorial:\"}, {\"bbox\": [1168, 743, 1289, 800], \"category\": \"Text\", \"text\": \"Normannus' Lexikon\"}, {\"bbox\": [110, 1186, 1153, 1766], \"category\": \"Text\", \"text\": \"»Under mitt wistande i Upsala för några år sedan anwände jag några lediga stunder till min ro på academiens Bibliothek därstädes. Jag såg där den lärde Biskop Norrmans med mycken möda författade tillökningar till den berömde Henrici Stephani större Grækiska OrdBok. Jag behöfver icke mer än nämna Norrman för att strax ådraga detta Dess arbete academiens uppmärksamhet, förmodar således äfwen, att academien med mig instämmer i den önskan att af samma arbete måtte någon nytta dragas. Det är af författaren skrifwit på små Papperslappar, förmodligen i afsigt att wid hufwudregleringen så mycket lättare kunna sättas i ordning, men Norrman afled innan detta hann wärkställas. Papperen, inlaggde i Lådor, hafwa i Upsala academies hus blifwit insatte och snart råkat uti förgätenhet, om icke en förbättring af byggnaden gifwit anledning att flytta dem ifrån ett fuktigt rum, der de någon skada börjat taga. Man\"}, {\"bbox\": [1073, 1802, 1142, 1841], \"category\": \"Page-footer\", \"text\": \"405\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    188,
+    248,
+    1082,
+    292
+   ],
+   "category": "Page-header",
+   "text": "Vetenskaplig korrespondens och planerade arbeten"
+  },
+  {
+   "bbox": [
+    115,
+    318,
+    1155,
+    642
+   ],
+   "category": "Text",
+   "text": "Herr Cantzli Rådet fördenskull anmodat Biskopen Doctor Benzelstierna att söka göra sig underrättad om den i fråga varande omständigheten, hvilket Herr Biskopen äfven benäget åtagit sig och genom hvilken utväg academien framdeles äger att vänta en pålitelig kundskap, hvad hopp hon kan göra sig om merbemälte Dagboks till rätta skaffande. Academien mottog denna berättelse med den ärkänsla, hon var skyldig Herr Cantzli Rådet för hans i detta mål använda möda.»"
+  },
+  {
+   "bbox": [
+    115,
+    648,
+    1151,
+    733
+   ],
+   "category": "Text",
+   "text": "Därvid förblev det, och Hermelins dagbok är fortfarande — om den överhuvud finnes kvar — för forskningen okänd."
+  },
+  {
+   "bbox": [
+    115,
+    733,
+    1153,
+    1186
+   ],
+   "category": "Text",
+   "text": "Ett liknande uppslag gavs av Engeström. En bland de mest betydande gestalterna i 1600-talets svenska lärdomshistoria var Laurentius Normannus. I sin universitetshistoria skriver Annerstedt om honom: »En nutida ung filolog utan historisk skolning skulle kanske utan vidare förklara, att som han icke var någon filolog i modern mening, förtjänar han heller icke någon särskild uppmärksamhet. Hans samtid dömde dock annorlunda, och det är efter måttstocken af sin tids filogiska ståndpunkt han skall bedömas.» 1787 gjorde Engeström ett försök att rädda vad som räddas kunde av Normannus litterära kvarlåtenskap. Den 15 augusti föredrog han nämligen för akademien följande memorial:"
+  },
+  {
+   "bbox": [
+    1168,
+    743,
+    1289,
+    800
+   ],
+   "category": "Text",
+   "text": "Normannus' Lexikon"
+  },
+  {
+   "bbox": [
+    110,
+    1186,
+    1153,
+    1766
+   ],
+   "category": "Text",
+   "text": "»Under mitt wistande i Upsala för några år sedan anwände jag några lediga stunder till min ro på academiens Bibliothek därstädes. Jag såg där den lärde Biskop Norrmans med mycken möda författade tillökningar till den berömde Henrici Stephani större Grækiska OrdBok. Jag behöfver icke mer än nämna Norrman för att strax ådraga detta Dess arbete academiens uppmärksamhet, förmodar således äfwen, att academien med mig instämmer i den önskan att af samma arbete måtte någon nytta dragas. Det är af författaren skrifwit på små Papperslappar, förmodligen i afsigt att wid hufwudregleringen så mycket lättare kunna sättas i ordning, men Norrman afled innan detta hann wärkställas. Papperen, inlaggde i Lådor, hafwa i Upsala academies hus blifwit insatte och snart råkat uti förgätenhet, om icke en förbättring af byggnaden gifwit anledning att flytta dem ifrån ett fuktigt rum, der de någon skada börjat taga. Man"
+  },
+  {
+   "bbox": [
+    1073,
+    1802,
+    1142,
+    1841
+   ],
+   "category": "Page-footer",
+   "text": "405"
+  }
+ ]
+}

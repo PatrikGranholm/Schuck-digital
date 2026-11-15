@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 357,
+ "seconds": 29.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [824, 237, 1256, 280], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [519, 307, 1557, 473], \"category\": \"Text\", \"text\": \"han för redighet och trygghet måste renskrifva och upsända, må förvaras i Landsorternas merendels i Domkyrkorna inrättade Stiftsbibliotheker, hvarest således, i händelse af våda i Stockholm, någon ersättning kan fås.\"}, {\"bbox\": [519, 473, 1557, 721], \"category\": \"Text\", \"text\": \"8° Synes den resande fornforskaren böra auctoriseras med en sådan fullmakt el. Document, hvarigenom han sitt värf och rättighet till vederbörandes villfarighet kan legitimera. Och ehuru det blir en sådan mans största och enda önskade belöning att kunna svara mot ac:ns afsigt, så skulle det lända till hans upmuntran, om han med någon slags tillökning i beräknande af tjänstår kunde hugnas.»\"}, {\"bbox\": [519, 721, 1557, 926], \"category\": \"Text\", \"text\": \"Det mest betydande yttrandet avgavs — som man kunnat vänta — av Wallqvist: »Jag anser egenteligen tvänne frågor vara mig till besvarande förestälde: huru Monumenter af hvad slag som häldst aldralättast må kunna upsökas, samlas, beskrifvas och afritas, och huru desamma må uprättas och från ett hotande förfall bewaras.\"}, {\"bbox\": [391, 727, 503, 788], \"category\": \"Text\", \"text\": \"Wallqvists yttrande\"}, {\"bbox\": [519, 926, 1557, 1709], \"category\": \"Text\", \"text\": \"På den förra frågan utbeder jag mig få inskränka mitt svar inom det, som nyttigast synes i Wexiö Stift och först anmäla de hinder där möta samt sedan de enda medel jag kunnat utfinna, som till ändamålet leda. All håg för Antiquitetsstudium synes här vara förfallet. Jag har redan vid slutet af förra året infordrat förteckning på monumenter, permebref etc., som äro vid kyrkorna, och fått till svar, att inga sådana finnas, oaktadt jag noga känner ett och annat ställe, där de icke saknas. I orten vet jag ingen, som dylikt samlat eller samlar. Därmed har hittils hvarken heder eller lön eller hopp varit förenade. I så beskaffade omständigheter fruktar jag, att, om här kunde upsökas eller annorstädes ifrån förordnas en person med alla nödiga och goda egenskaper, torde densamme likwäl föga uträtta, då hans ämne ej är älskadt, då han sjelf ej äger tillfälligt anseende att gifva det ett värde och aldra synnerligast därföre att han skulle sakna de anvisningar, utom hvilka en resande samlare blott hittar en och annan märkvärdighet. Jag fruktar min tanke vara sann och inser de svårigheter deraf följa. Dock böra de aldrig vinna på en god sak. Min håg att befrämja den inleder mig att upgifva ett förslag, som har sitt enda värde af bristen på något bättre.\"}, {\"bbox\": [554, 1709, 1557, 1752], \"category\": \"Text\", \"text\": \"Med denna Sommar och så snart jag i underdånighet upwaktat\"}, {\"bbox\": [525, 1780, 593, 1826], \"category\": \"Page-footer\", \"text\": \"336\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    824,
+    237,
+    1256,
+    280
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    519,
+    307,
+    1557,
+    473
+   ],
+   "category": "Text",
+   "text": "han för redighet och trygghet måste renskrifva och upsända, må förvaras i Landsorternas merendels i Domkyrkorna inrättade Stiftsbibliotheker, hvarest således, i händelse af våda i Stockholm, någon ersättning kan fås."
+  },
+  {
+   "bbox": [
+    519,
+    473,
+    1557,
+    721
+   ],
+   "category": "Text",
+   "text": "8° Synes den resande fornforskaren böra auctoriseras med en sådan fullmakt el. Document, hvarigenom han sitt värf och rättighet till vederbörandes villfarighet kan legitimera. Och ehuru det blir en sådan mans största och enda önskade belöning att kunna svara mot ac:ns afsigt, så skulle det lända till hans upmuntran, om han med någon slags tillökning i beräknande af tjänstår kunde hugnas.»"
+  },
+  {
+   "bbox": [
+    519,
+    721,
+    1557,
+    926
+   ],
+   "category": "Text",
+   "text": "Det mest betydande yttrandet avgavs — som man kunnat vänta — av Wallqvist: »Jag anser egenteligen tvänne frågor vara mig till besvarande förestälde: huru Monumenter af hvad slag som häldst aldralättast må kunna upsökas, samlas, beskrifvas och afritas, och huru desamma må uprättas och från ett hotande förfall bewaras."
+  },
+  {
+   "bbox": [
+    391,
+    727,
+    503,
+    788
+   ],
+   "category": "Text",
+   "text": "Wallqvists yttrande"
+  },
+  {
+   "bbox": [
+    519,
+    926,
+    1557,
+    1709
+   ],
+   "category": "Text",
+   "text": "På den förra frågan utbeder jag mig få inskränka mitt svar inom det, som nyttigast synes i Wexiö Stift och först anmäla de hinder där möta samt sedan de enda medel jag kunnat utfinna, som till ändamålet leda. All håg för Antiquitetsstudium synes här vara förfallet. Jag har redan vid slutet af förra året infordrat förteckning på monumenter, permebref etc., som äro vid kyrkorna, och fått till svar, att inga sådana finnas, oaktadt jag noga känner ett och annat ställe, där de icke saknas. I orten vet jag ingen, som dylikt samlat eller samlar. Därmed har hittils hvarken heder eller lön eller hopp varit förenade. I så beskaffade omständigheter fruktar jag, att, om här kunde upsökas eller annorstädes ifrån förordnas en person med alla nödiga och goda egenskaper, torde densamme likwäl föga uträtta, då hans ämne ej är älskadt, då han sjelf ej äger tillfälligt anseende att gifva det ett värde och aldra synnerligast därföre att han skulle sakna de anvisningar, utom hvilka en resande samlare blott hittar en och annan märkvärdighet. Jag fruktar min tanke vara sann och inser de svårigheter deraf följa. Dock böra de aldrig vinna på en god sak. Min håg att befrämja den inleder mig att upgifva ett förslag, som har sitt enda värde af bristen på något bättre."
+  },
+  {
+   "bbox": [
+    554,
+    1709,
+    1557,
+    1752
+   ],
+   "category": "Text",
+   "text": "Med denna Sommar och så snart jag i underdånighet upwaktat"
+  },
+  {
+   "bbox": [
+    525,
+    1780,
+    593,
+    1826
+   ],
+   "category": "Page-footer",
+   "text": "336"
+  }
+ ]
+}

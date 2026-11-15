@@ -1,0 +1,41 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 13,
+ "seconds": 9.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [683, 816, 1282, 905], \"category\": \"Text\", \"text\": \"ARBETET UTGIVES MED ANSLAG UR\\nHUMANISTISKA FONDEN\"}, {\"bbox\": [820, 1163, 955, 1317], \"category\": \"Picture\"}, {\"bbox\": [821, 1325, 954, 1371], \"category\": \"Text\", \"text\": \"CENTRAL-\\nBIBLIOTEKET\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    683,
+    816,
+    1282,
+    905
+   ],
+   "category": "Text",
+   "text": "ARBETET UTGIVES MED ANSLAG UR\nHUMANISTISKA FONDEN"
+  },
+  {
+   "bbox": [
+    820,
+    1163,
+    955,
+    1317
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    821,
+    1325,
+    954,
+    1371
+   ],
+   "category": "Text",
+   "text": "CENTRAL-\nBIBLIOTEKET"
+  }
+ ]
+}

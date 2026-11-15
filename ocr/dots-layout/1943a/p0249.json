@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 249,
+ "seconds": 28.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [794, 238, 1230, 280], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [492, 308, 1536, 887], \"category\": \"Text\", \"text\": \"Strand därefter övergår att tala om Aristoteles, tycker man sig höra ramisten Laurentius Paulinus' utfall mot filosofen från Stagira. Denne hade varit Platos lärjunge »men Mästaren fick anledning at beklaga sig öfver Lärjungens otacksamhet och befant Aristotelis snille så danadt, at han ej kunde anförtro honom Academiens styrelse, hvilket ock så förtröt denne, at han lemnade Athen, for omkring och blef Alexander den Stores Läremästare samt beskylles at hafva spillt sin höga Lärjunges tid med nyttjande af alla en förnuftig och i synnerhet fri tankekrafts plågoredskap, sin Logica, sin Dialectica och sin Rhetorica. Öfverhopad ändock af nåd vid Macedoniska hofvet, återkom han til Athen och öpnade der sit Lycæum bredevid den Platoniska Academien. Född son af en qvacksalfvare i Macedonien, idkade han ock i början denna konst; han har lemnat den åt efterverlden under namn af naturkunnighet och rön deruti.»\"}, {\"bbox\": [492, 886, 1536, 1340], \"category\": \"Text\", \"text\": \"Det var denna filosofi, som segrade över den platonska: »Alt detta var ock redan fullbordadt samt Kejsaresätet flyttadt före Nicæniska Mötet, efter vår tideräkning år 325, då visst ingen Göthe, Norrman eller Tysk var född ibland alla dem, som först emellan 100 och 150 år derefter utspridde sig uti Italien och Frankrike; skulle jag ock erkänna en Prudentius och en Augustinus såsom ättlingar af den gamle vitterhets-stammen, så voro dock desse länge döde, förr än någon enda lemnade sin Nordiska bergskrefva eller rökhydda för at söka ny bolstad i väster och söder. Jag kan således vid alt detta icke finna, huru våre förfäder måga anföras såsom uphofsmän til et ondt, som var stigit til sin höjd, långt förr än de föddes.»\"}, {\"bbox\": [492, 1339, 1536, 1752], \"category\": \"Text\", \"text\": \"Men talet är icke *blott* löjeväckande, utan har ock en viss litteraturhistorisk betydelse. Strand var nämligen en gengångare såväl av Laurentius Paulinus som av Biörner och de gamla Rudbeckianerna, en »förromantiker», om man kan använda en så litterär beteckning på en så illitterat person som Strand. I varje fall vittnar hans inträdestal om den aldrig helt avbrutna förbindelsen mellan Olof Rudbecks tid och den götiska rörelsen vid 1800-talets början. Sedan han, på sätt som citatet visar, redogjort för den aristoteliska filosofiens fördärvbringande inflytande på den antika kulturen, följer i talet en ny avdelning, vilken i viss mån ligger utanför det ämne, som titeln angiver.\"}, {\"bbox\": [498, 1789, 569, 1827], \"category\": \"Page-footer\", \"text\": \"230\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    794,
+    238,
+    1230,
+    280
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    492,
+    308,
+    1536,
+    887
+   ],
+   "category": "Text",
+   "text": "Strand därefter övergår att tala om Aristoteles, tycker man sig höra ramisten Laurentius Paulinus' utfall mot filosofen från Stagira. Denne hade varit Platos lärjunge »men Mästaren fick anledning at beklaga sig öfver Lärjungens otacksamhet och befant Aristotelis snille så danadt, at han ej kunde anförtro honom Academiens styrelse, hvilket ock så förtröt denne, at han lemnade Athen, for omkring och blef Alexander den Stores Läremästare samt beskylles at hafva spillt sin höga Lärjunges tid med nyttjande af alla en förnuftig och i synnerhet fri tankekrafts plågoredskap, sin Logica, sin Dialectica och sin Rhetorica. Öfverhopad ändock af nåd vid Macedoniska hofvet, återkom han til Athen och öpnade der sit Lycæum bredevid den Platoniska Academien. Född son af en qvacksalfvare i Macedonien, idkade han ock i början denna konst; han har lemnat den åt efterverlden under namn af naturkunnighet och rön deruti.»"
+  },
+  {
+   "bbox": [
+    492,
+    886,
+    1536,
+    1340
+   ],
+   "category": "Text",
+   "text": "Det var denna filosofi, som segrade över den platonska: »Alt detta var ock redan fullbordadt samt Kejsaresätet flyttadt före Nicæniska Mötet, efter vår tideräkning år 325, då visst ingen Göthe, Norrman eller Tysk var född ibland alla dem, som först emellan 100 och 150 år derefter utspridde sig uti Italien och Frankrike; skulle jag ock erkänna en Prudentius och en Augustinus såsom ättlingar af den gamle vitterhets-stammen, så voro dock desse länge döde, förr än någon enda lemnade sin Nordiska bergskrefva eller rökhydda för at söka ny bolstad i väster och söder. Jag kan således vid alt detta icke finna, huru våre förfäder måga anföras såsom uphofsmän til et ondt, som var stigit til sin höjd, långt förr än de föddes.»"
+  },
+  {
+   "bbox": [
+    492,
+    1339,
+    1536,
+    1752
+   ],
+   "category": "Text",
+   "text": "Men talet är icke *blott* löjeväckande, utan har ock en viss litteraturhistorisk betydelse. Strand var nämligen en gengångare såväl av Laurentius Paulinus som av Biörner och de gamla Rudbeckianerna, en »förromantiker», om man kan använda en så litterär beteckning på en så illitterat person som Strand. I varje fall vittnar hans inträdestal om den aldrig helt avbrutna förbindelsen mellan Olof Rudbecks tid och den götiska rörelsen vid 1800-talets början. Sedan han, på sätt som citatet visar, redogjort för den aristoteliska filosofiens fördärvbringande inflytande på den antika kulturen, följer i talet en ny avdelning, vilken i viss mån ligger utanför det ämne, som titeln angiver."
+  },
+  {
+   "bbox": [
+    498,
+    1789,
+    569,
+    1827
+   ],
+   "category": "Page-footer",
+   "text": "230"
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 334,
+ "seconds": 11.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [287, 241, 961, 283], \"category\": \"Section-header\", \"text\": \"Fynden, akademien och kanslikollegiet\"}, {\"bbox\": [104, 311, 1142, 603], \"category\": \"Text\", \"text\": \"ha gjorts på akademiens årliga expensanslag, 438 rd r, ty det andra\\nanslaget, till löner, hade helt gått åt. Under de åtta åren 1786—\\n1793 ha expensanslagen direkt till akademien tillsammans utgjort\\n3,504 rd. Därtill kan blott läggas en enda donation, Lidéns å\\n1,000 rd. Men att av 4,504 rd bespara 2,600 eller mer än hälften,\\nvar dock ett ekonomiskt konststycke, som varit möjligt blott genom\\nicke utdelade pris.\"}, {\"bbox\": [1060, 1794, 1131, 1832], \"category\": \"Page-footer\", \"text\": \"313\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    287,
+    241,
+    961,
+    283
+   ],
+   "category": "Section-header",
+   "text": "Fynden, akademien och kanslikollegiet"
+  },
+  {
+   "bbox": [
+    104,
+    311,
+    1142,
+    603
+   ],
+   "category": "Text",
+   "text": "ha gjorts på akademiens årliga expensanslag, 438 rd r, ty det andra\nanslaget, till löner, hade helt gått åt. Under de åtta åren 1786—\n1793 ha expensanslagen direkt till akademien tillsammans utgjort\n3,504 rd. Därtill kan blott läggas en enda donation, Lidéns å\n1,000 rd. Men att av 4,504 rd bespara 2,600 eller mer än hälften,\nvar dock ett ekonomiskt konststycke, som varit möjligt blott genom\nicke utdelade pris."
+  },
+  {
+   "bbox": [
+    1060,
+    1794,
+    1131,
+    1832
+   ],
+   "category": "Page-footer",
+   "text": "313"
+  }
+ ]
+}

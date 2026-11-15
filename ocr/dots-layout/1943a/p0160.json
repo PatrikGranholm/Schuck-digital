@@ -1,0 +1,109 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 160,
+ "seconds": 15.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [392, 528, 673, 813], \"category\": \"Picture\"}, {\"bbox\": [717, 528, 993, 811], \"category\": \"Picture\"}, {\"bbox\": [668, 813, 736, 839], \"category\": \"Text\", \"text\": \"1786.\"}, {\"bbox\": [396, 863, 1000, 936], \"category\": \"Section-header\", \"text\": \"WITTERHETS HISTORIE OCH ANTI.\\nQVITETS ACADEMIEN UPLIFVAD\"}, {\"bbox\": [398, 958, 942, 1000], \"category\": \"Text\", \"text\": \"1s. Sid. Konungens Bröltbild, Namn och Titel.\"}, {\"bbox\": [402, 1009, 996, 1156], \"category\": \"Text\", \"text\": \"2s. Sid. Ett bord, prydt med en lyra och en Mercurii staf, sådant som föreställes på Skådepenningen öfver denna Academiens första inrättning 1753, men uppå hvilket ligga lyra Krantsar i stället för tre til utmärkande af de nu fästställda lyra serikildta Tällings ämnen.\"}, {\"bbox\": [425, 1153, 972, 1185], \"category\": \"Text\", \"text\": \"Ofvanföre: Witter täflan i en lycklig stund uplifvad.\"}, {\"bbox\": [425, 1180, 972, 1234], \"category\": \"Text\", \"text\": \"Nedanföre: Witterhets Academiens förfedd med nya Statuter\\nden 20 Martii 1786.\"}, {\"bbox\": [442, 1246, 973, 1665], \"category\": \"Picture\"}, {\"bbox\": [187, 1834, 1200, 1912], \"category\": \"Text\", \"text\": \"En sida ur »Skåde-penningar öfver de Förnämsta Händelser som tillhöra Konung Gustaf III:s Historia». Den här avbildade medaljen kom aldrig till utförande.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    392,
+    528,
+    673,
+    813
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    717,
+    528,
+    993,
+    811
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    668,
+    813,
+    736,
+    839
+   ],
+   "category": "Text",
+   "text": "1786."
+  },
+  {
+   "bbox": [
+    396,
+    863,
+    1000,
+    936
+   ],
+   "category": "Section-header",
+   "text": "WITTERHETS HISTORIE OCH ANTI.\nQVITETS ACADEMIEN UPLIFVAD"
+  },
+  {
+   "bbox": [
+    398,
+    958,
+    942,
+    1000
+   ],
+   "category": "Text",
+   "text": "1s. Sid. Konungens Bröltbild, Namn och Titel."
+  },
+  {
+   "bbox": [
+    402,
+    1009,
+    996,
+    1156
+   ],
+   "category": "Text",
+   "text": "2s. Sid. Ett bord, prydt med en lyra och en Mercurii staf, sådant som föreställes på Skådepenningen öfver denna Academiens första inrättning 1753, men uppå hvilket ligga lyra Krantsar i stället för tre til utmärkande af de nu fästställda lyra serikildta Tällings ämnen."
+  },
+  {
+   "bbox": [
+    425,
+    1153,
+    972,
+    1185
+   ],
+   "category": "Text",
+   "text": "Ofvanföre: Witter täflan i en lycklig stund uplifvad."
+  },
+  {
+   "bbox": [
+    425,
+    1180,
+    972,
+    1234
+   ],
+   "category": "Text",
+   "text": "Nedanföre: Witterhets Academiens förfedd med nya Statuter\nden 20 Martii 1786."
+  },
+  {
+   "bbox": [
+    442,
+    1246,
+    973,
+    1665
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    187,
+    1834,
+    1200,
+    1912
+   ],
+   "category": "Text",
+   "text": "En sida ur »Skåde-penningar öfver de Förnämsta Händelser som tillhöra Konung Gustaf III:s Historia». Den här avbildade medaljen kom aldrig till utförande."
+  }
+ ]
+}

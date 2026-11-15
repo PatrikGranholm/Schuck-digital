@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 202,
+ "seconds": 29.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [315, 233, 927, 278], \"category\": \"Section-header\", \"text\": \"Övriga medaljer och inskriptioner\"}, {\"bbox\": [97, 304, 1141, 390], \"category\": \"Text\", \"text\": \"som vanligt vid denna årstid var frånvarande och då Lindblom fungerade som sekreterare:\"}, {\"bbox\": [97, 388, 1144, 1091], \"category\": \"Text\", \"text\": \"»Anmälte Vice Secreteraren, det acteuren vid Kongl. Operan och Dramatiske Theatern Debrouen till honom inlemnat project till en medaille, som Debrouen till något vedermäle af sin erkänsla för en älskad och vördad styresman vore sinnad på egen bekostnad låta slå öfver Öfverste CammarJunkaren m. m. Herr Baron Armfelt med anhållan, det academien täcktes öfver detta project meddela dess yttrande och deruti göra de ändringar academien fant nödige. Medaillen, till hvilken Debrouen upgifvit project och som nu understäldes academiens ompröfvande, förestälde på den ena sidan Herr Öfverste CammarJunkarens och Baron[ens] Buste med öfverskrift Gust. Maur. Armfelt Kongl. Dramatiske Theaterns Beskyddare. På andra sidan föreställas Apollinis Harpa, en Cithra, ett Walthorn och en Notbok, emblemer af Musiqven; vidare synas en Masqve och en Orm, som betäckna Comedien, samt en Dolk och en Kedja, som utmärka Tragedien. Öfverst synes en molnstod, hvarmed skall förstås publiqven eller åskådarne, med öfverskrift Flit och Erkänsla, som skulle blifva Theaterns valspråk. Nederst står D. 17 Maji 1788.\"}, {\"bbox\": [101, 1091, 1144, 1249], \"category\": \"Text\", \"text\": \"Academien fant Debrouens project mera stridande emot alla vedertagne regler och den granlagenhet, academien som en lag föresatt sig att iagttaga, än att det kunde gillas och antagas. Härom skulle Debrouen underrättas.»\"}, {\"bbox\": [101, 1254, 1144, 1379], \"category\": \"Text\", \"text\": \"Möjligen berodde akademiens hårda dom på en privat påstötning från Armfelt, som nog ej kände sig smickrad av den tillämnade hyllningen.\"}, {\"bbox\": [101, 1379, 1144, 1627], \"category\": \"Text\", \"text\": \"En särställning i detta avseende intogs av Svenska akademien. De ledande inom de bägge akademierna voro ju desamma: Stein, Adlerbeth och Nordin, och av dem var Adlerbeth »medaljakademiens» sekreterare. En redogörelse för det sätt, på vilket de för bägge akademierna gemensamma medaljärendena behandlades, torde därför här vara på sin plats.\"}, {\"bbox\": [101, 1627, 1144, 1747], \"category\": \"Text\", \"text\": \"Svenska akademien var, som bekant, skyldig att varje år prägla en jetton över någon berömd svensk man. Enligt staten skulle mannen utses av Svenska akademien, men Vitterhets Historie och Antikvitets-\"}, {\"bbox\": [1163, 1390, 1280, 1509], \"category\": \"Text\", \"text\": \"Svenska akademiens minnespenningar\"}, {\"bbox\": [1078, 1781, 1142, 1825], \"category\": \"Page-footer\", \"text\": \"185\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    315,
+    233,
+    927,
+    278
+   ],
+   "category": "Section-header",
+   "text": "Övriga medaljer och inskriptioner"
+  },
+  {
+   "bbox": [
+    97,
+    304,
+    1141,
+    390
+   ],
+   "category": "Text",
+   "text": "som vanligt vid denna årstid var frånvarande och då Lindblom fungerade som sekreterare:"
+  },
+  {
+   "bbox": [
+    97,
+    388,
+    1144,
+    1091
+   ],
+   "category": "Text",
+   "text": "»Anmälte Vice Secreteraren, det acteuren vid Kongl. Operan och Dramatiske Theatern Debrouen till honom inlemnat project till en medaille, som Debrouen till något vedermäle af sin erkänsla för en älskad och vördad styresman vore sinnad på egen bekostnad låta slå öfver Öfverste CammarJunkaren m. m. Herr Baron Armfelt med anhållan, det academien täcktes öfver detta project meddela dess yttrande och deruti göra de ändringar academien fant nödige. Medaillen, till hvilken Debrouen upgifvit project och som nu understäldes academiens ompröfvande, förestälde på den ena sidan Herr Öfverste CammarJunkarens och Baron[ens] Buste med öfverskrift Gust. Maur. Armfelt Kongl. Dramatiske Theaterns Beskyddare. På andra sidan föreställas Apollinis Harpa, en Cithra, ett Walthorn och en Notbok, emblemer af Musiqven; vidare synas en Masqve och en Orm, som betäckna Comedien, samt en Dolk och en Kedja, som utmärka Tragedien. Öfverst synes en molnstod, hvarmed skall förstås publiqven eller åskådarne, med öfverskrift Flit och Erkänsla, som skulle blifva Theaterns valspråk. Nederst står D. 17 Maji 1788."
+  },
+  {
+   "bbox": [
+    101,
+    1091,
+    1144,
+    1249
+   ],
+   "category": "Text",
+   "text": "Academien fant Debrouens project mera stridande emot alla vedertagne regler och den granlagenhet, academien som en lag föresatt sig att iagttaga, än att det kunde gillas och antagas. Härom skulle Debrouen underrättas.»"
+  },
+  {
+   "bbox": [
+    101,
+    1254,
+    1144,
+    1379
+   ],
+   "category": "Text",
+   "text": "Möjligen berodde akademiens hårda dom på en privat påstötning från Armfelt, som nog ej kände sig smickrad av den tillämnade hyllningen."
+  },
+  {
+   "bbox": [
+    101,
+    1379,
+    1144,
+    1627
+   ],
+   "category": "Text",
+   "text": "En särställning i detta avseende intogs av Svenska akademien. De ledande inom de bägge akademierna voro ju desamma: Stein, Adlerbeth och Nordin, och av dem var Adlerbeth »medaljakademiens» sekreterare. En redogörelse för det sätt, på vilket de för bägge akademierna gemensamma medaljärendena behandlades, torde därför här vara på sin plats."
+  },
+  {
+   "bbox": [
+    101,
+    1627,
+    1144,
+    1747
+   ],
+   "category": "Text",
+   "text": "Svenska akademien var, som bekant, skyldig att varje år prägla en jetton över någon berömd svensk man. Enligt staten skulle mannen utses av Svenska akademien, men Vitterhets Historie och Antikvitets-"
+  },
+  {
+   "bbox": [
+    1163,
+    1390,
+    1280,
+    1509
+   ],
+   "category": "Text",
+   "text": "Svenska akademiens minnespenningar"
+  },
+  {
+   "bbox": [
+    1078,
+    1781,
+    1142,
+    1825
+   ],
+   "category": "Page-footer",
+   "text": "185"
+  }
+ ]
+}

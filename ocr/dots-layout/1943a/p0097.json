@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 97,
+ "seconds": 23.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [804, 232, 1235, 273], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [504, 301, 1539, 389], \"category\": \"Text\", \"text\": \"utnämning. Han kunde nu lättare än förut tillbringa halva året på Ramsjöholm — vilket han också gjorde.\"}, {\"bbox\": [504, 383, 1539, 506], \"category\": \"Text\", \"text\": \"Med sammanträdet den 28 maj 1786 kan Lovisa Ulricas Vitterhetsakademi sägas fullständigt ha förvandlats till Gustav III:s Vitterhets Historie och Antikvitetsakademi.\"}, {\"bbox\": [504, 506, 1541, 1171], \"category\": \"Text\", \"text\": \"Såsom redan namnet angiver stammade denna från två ättefäder, från Lovisa Ulricas Vitterhetsakademi och från det gamla Antikvitetsarkivet. Arven från den senare institutionen göra sig i början endast svagt gällande, och först genom Bror Emil Hildebrands insats utvecklades akademien till en väsentligen antikvarisk och historisk forskningsanstalt. Före hans tid överväger däremot det andra arvet. »Vitterheten» hade ännu icke helt överlämnats till Svenska akademien. Äreminnet odlades fortfarande, vittra tävlingar utlystes alltjämt, och det, som framför allt satte sin stämpel på den omorganiserade akademien, intresset för inskriptioner, medaljer och deviser, går tillbaka till Berchs Vitterhetsakademi. Under den första tiden var Vitterhets Historie och Antikvitetsakademien väsentligen en »medaljakademi», en svensk motsvarighet till »Académie des inscriptions». Vi vända oss först till akademien såsom en arvtagare till Lovisa Ulricas Vitterhetsakademi samt skola sedermera övergå till dess historia såsom Antikvitetsarkivets fortsättning.\"}, {\"bbox\": [513, 1786, 558, 1823], \"category\": \"Page-footer\", \"text\": \"82\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    804,
+    232,
+    1235,
+    273
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    504,
+    301,
+    1539,
+    389
+   ],
+   "category": "Text",
+   "text": "utnämning. Han kunde nu lättare än förut tillbringa halva året på Ramsjöholm — vilket han också gjorde."
+  },
+  {
+   "bbox": [
+    504,
+    383,
+    1539,
+    506
+   ],
+   "category": "Text",
+   "text": "Med sammanträdet den 28 maj 1786 kan Lovisa Ulricas Vitterhetsakademi sägas fullständigt ha förvandlats till Gustav III:s Vitterhets Historie och Antikvitetsakademi."
+  },
+  {
+   "bbox": [
+    504,
+    506,
+    1541,
+    1171
+   ],
+   "category": "Text",
+   "text": "Såsom redan namnet angiver stammade denna från två ättefäder, från Lovisa Ulricas Vitterhetsakademi och från det gamla Antikvitetsarkivet. Arven från den senare institutionen göra sig i början endast svagt gällande, och först genom Bror Emil Hildebrands insats utvecklades akademien till en väsentligen antikvarisk och historisk forskningsanstalt. Före hans tid överväger däremot det andra arvet. »Vitterheten» hade ännu icke helt överlämnats till Svenska akademien. Äreminnet odlades fortfarande, vittra tävlingar utlystes alltjämt, och det, som framför allt satte sin stämpel på den omorganiserade akademien, intresset för inskriptioner, medaljer och deviser, går tillbaka till Berchs Vitterhetsakademi. Under den första tiden var Vitterhets Historie och Antikvitetsakademien väsentligen en »medaljakademi», en svensk motsvarighet till »Académie des inscriptions». Vi vända oss först till akademien såsom en arvtagare till Lovisa Ulricas Vitterhetsakademi samt skola sedermera övergå till dess historia såsom Antikvitetsarkivets fortsättning."
+  },
+  {
+   "bbox": [
+    513,
+    1786,
+    558,
+    1823
+   ],
+   "category": "Page-footer",
+   "text": "82"
+  }
+ ]
+}

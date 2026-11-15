@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 417,
+ "seconds": 25.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [475, 470, 1509, 557], \"category\": \"Section-header\", \"text\": \"VETENSKAPLIG KORRESPONDENS OCH PLANERADE ARBETEN\"}, {\"bbox\": [336, 635, 464, 730], \"category\": \"Text\", \"text\": \"Samuel Öd-\\nmann och\\nTychsen\"}, {\"bbox\": [467, 631, 1509, 1407], \"category\": \"Text\", \"text\": \"Genom sitt intresse för den arabiska myntkatalogen hade akademien kommit i en lärd brevväxling med en av ledamöterna i akademien, Porthan. Av samma anledning fick akademien även en annan korrespondent, som visserligen ännu ej var ledamot av akademien — i vilken han först 1820 invalides — men som tillhörde en helt annan klass än hovkvartermästaren Gedda och dennes confratres. Det var Samuel Ödmann — då visserligen inom icke vetenskapliga kretsar ännu blott en obemärkt prästman på Värmdön, men redan 1784 invalid i Vetenskapsakademien. Denne obemärkte prästman och skollärare var emellertid den Gustavianska tidens nog främste polyhistor med en fruktansvärd beläsenhet i naturvetenskap, där han var en av den åldrige Linnés siste lärjungar, vidare en lärd även i teologi, i geografi — utan att själv ha rest — i klassiska språk, som han studerat för Floderus, i orientaliska språk, där Aurivillius varit hans lärare. Såsom präst på Värmdön gjorde sig Ödmann först bemärkt genom sina till Vetenskapsakademien insända iakttagelser om skärgårdens fauna, men hade vid sidan härav redan börjat en brevväxling med Tysklands främste orientalister, särskilt med Tychsen i Rostock.\"}, {\"bbox\": [465, 1413, 1505, 1752], \"category\": \"Text\", \"text\": \"När Ödmann nu fick höra, att akademien ville utgiva en arabisk myntkatalog, trodde han sig härav finna, att orientalisk historia och filologi även ansågos falla inom akademiens verksamhetsområde, och till akademiens sekreterare tillät han sig då att skicka två av Tychsens avhandlingar, av vilka den ena handlade om en föregiven S. Petri Cathedra, som i verkligheten var ett arabiskt arbete. Den 11 augusti 1788 skrev han till Adlerbeth: »Till högwälborne Herr Cantzlie Rådet och Riddaren tager jag mig den frihet att i djupaste\"}, {\"bbox\": [469, 1773, 539, 1819], \"category\": \"Page-footer\", \"text\": \"396\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    475,
+    470,
+    1509,
+    557
+   ],
+   "category": "Section-header",
+   "text": "VETENSKAPLIG KORRESPONDENS OCH PLANERADE ARBETEN"
+  },
+  {
+   "bbox": [
+    336,
+    635,
+    464,
+    730
+   ],
+   "category": "Text",
+   "text": "Samuel Öd-\nmann och\nTychsen"
+  },
+  {
+   "bbox": [
+    467,
+    631,
+    1509,
+    1407
+   ],
+   "category": "Text",
+   "text": "Genom sitt intresse för den arabiska myntkatalogen hade akademien kommit i en lärd brevväxling med en av ledamöterna i akademien, Porthan. Av samma anledning fick akademien även en annan korrespondent, som visserligen ännu ej var ledamot av akademien — i vilken han först 1820 invalides — men som tillhörde en helt annan klass än hovkvartermästaren Gedda och dennes confratres. Det var Samuel Ödmann — då visserligen inom icke vetenskapliga kretsar ännu blott en obemärkt prästman på Värmdön, men redan 1784 invalid i Vetenskapsakademien. Denne obemärkte prästman och skollärare var emellertid den Gustavianska tidens nog främste polyhistor med en fruktansvärd beläsenhet i naturvetenskap, där han var en av den åldrige Linnés siste lärjungar, vidare en lärd även i teologi, i geografi — utan att själv ha rest — i klassiska språk, som han studerat för Floderus, i orientaliska språk, där Aurivillius varit hans lärare. Såsom präst på Värmdön gjorde sig Ödmann först bemärkt genom sina till Vetenskapsakademien insända iakttagelser om skärgårdens fauna, men hade vid sidan härav redan börjat en brevväxling med Tysklands främste orientalister, särskilt med Tychsen i Rostock."
+  },
+  {
+   "bbox": [
+    465,
+    1413,
+    1505,
+    1752
+   ],
+   "category": "Text",
+   "text": "När Ödmann nu fick höra, att akademien ville utgiva en arabisk myntkatalog, trodde han sig härav finna, att orientalisk historia och filologi även ansågos falla inom akademiens verksamhetsområde, och till akademiens sekreterare tillät han sig då att skicka två av Tychsens avhandlingar, av vilka den ena handlade om en föregiven S. Petri Cathedra, som i verkligheten var ett arabiskt arbete. Den 11 augusti 1788 skrev han till Adlerbeth: »Till högwälborne Herr Cantzlie Rådet och Riddaren tager jag mig den frihet att i djupaste"
+  },
+  {
+   "bbox": [
+    469,
+    1773,
+    539,
+    1819
+   ],
+   "category": "Page-footer",
+   "text": "396"
+  }
+ ]
+}

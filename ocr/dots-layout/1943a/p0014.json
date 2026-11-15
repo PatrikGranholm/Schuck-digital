@@ -1,0 +1,41 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 14,
+ "seconds": 17.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [225, 304, 1165, 1651], \"category\": \"Picture\"}, {\"bbox\": [415, 1686, 991, 1722], \"category\": \"Caption\", \"text\": \"DROTTNING LOVISA ULRIKA\"}, {\"bbox\": [225, 1735, 1157, 1771], \"category\": \"Text\", \"text\": \"Marmorbyst av J. T. Sergel i Vitterhets Historie och Antikvitets Akademiens sessionssal.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    225,
+    304,
+    1165,
+    1651
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    415,
+    1686,
+    991,
+    1722
+   ],
+   "category": "Caption",
+   "text": "DROTTNING LOVISA ULRIKA"
+  },
+  {
+   "bbox": [
+    225,
+    1735,
+    1157,
+    1771
+   ],
+   "category": "Text",
+   "text": "Marmorbyst av J. T. Sergel i Vitterhets Historie och Antikvitets Akademiens sessionssal."
+  }
+ ]
+}

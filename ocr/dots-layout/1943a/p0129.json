@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 129,
+ "seconds": 28.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [802, 224, 1238, 267], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [498, 295, 1537, 543], \"category\": \"Text\", \"text\": \"den gustavianska tiden intresserade man sig mycket litet för dylika frågor, och de blevo därför oftast obesvarade. Uppgifterna avsågo visserligen aldrig rent arkeologiska spörsmål, utan blott medeltida antikviteter, men ej heller dessa lockade många tävlande — prisbeloppet var ju också mindre än för en dikt på latin eller franska, blott 15 dukater.\"}, {\"bbox\": [427, 543, 1537, 1655], \"category\": \"Text\", \"text\": \"1787 Den vetenskap, som stod det rena antikvitetsstudiet närmast, var numismatiken. För denna voro flera av akademiens ledamöter, särskilt Engeström och Adlerbeth, intresserade, och myntkunskapen hade här anor; i Vitterhetsakademien hade ju numismatikern Berch varit en bland de ledande. Det första prisämne, som den omorganiserade akademien utsatte i antikviteter, blev också numismatiskt: »Afhandling om de äldsta Svenska mynt ifrån Rikets ursprung til slutet af Tolfhundrade Talet, hvilka af dem, som för Svenska anses, verkeligen äro det eller från utrikes orter inkommit.» Meningen var tydligen att framkalla en skarp kritik av den föregående tidens tilltro till rena falsarier och en utmönstring av dessa. Men i januari 1787 hade blott en enda skrift inkommit, över vilken Nordin och Engeström avgåvo ett yttrande. »Academien instämde fullkomligen med dem i den mening, att författaren hvarken med den redighet uptagit, med den sorgfällighet granskat eller med den grundlighet afgiort den framsatta frågan, som academiens ändamål fordrat. Till dess nöjaktiga besvarande hade han bordt undersöka hvar och en af de tvifvelaktiga penningarne särskildt, föregående auctorers skäl att räkna dem för Svenska, pröfva dessa grunder och i anledning däraf antingen styrka eller vederlägga slika meningar samt, när möjligt varit, hänföra de oriktiga befundna mynten till deras rätta hembygd. Däremot har den okände författaren åtnöjt sig att endast lösligen och i så allmänna ordasätt vidröra sitt ämne, att man efter afhandlingens genomläsande icke finner ämnet mera uplyst än det förut varit. Och som academien således icke fann bemälte författare i någon måtto hafva upfylt academiens önskan, så kunde han icke heller anses berättigad till den för afhandlingen utsatta belöning.»\"}, {\"bbox\": [427, 1655, 1534, 1739], \"category\": \"Text\", \"text\": \"1788 Ämnet utsattes därför på nytt till 1788 års tävlan. Även då fick akademien mottaga blott en enda skrift, som Nordin och Engeström\"}, {\"bbox\": [503, 1775, 572, 1810], \"category\": \"Page-footer\", \"text\": \"114\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    802,
+    224,
+    1238,
+    267
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    498,
+    295,
+    1537,
+    543
+   ],
+   "category": "Text",
+   "text": "den gustavianska tiden intresserade man sig mycket litet för dylika frågor, och de blevo därför oftast obesvarade. Uppgifterna avsågo visserligen aldrig rent arkeologiska spörsmål, utan blott medeltida antikviteter, men ej heller dessa lockade många tävlande — prisbeloppet var ju också mindre än för en dikt på latin eller franska, blott 15 dukater."
+  },
+  {
+   "bbox": [
+    427,
+    543,
+    1537,
+    1655
+   ],
+   "category": "Text",
+   "text": "1787 Den vetenskap, som stod det rena antikvitetsstudiet närmast, var numismatiken. För denna voro flera av akademiens ledamöter, särskilt Engeström och Adlerbeth, intresserade, och myntkunskapen hade här anor; i Vitterhetsakademien hade ju numismatikern Berch varit en bland de ledande. Det första prisämne, som den omorganiserade akademien utsatte i antikviteter, blev också numismatiskt: »Afhandling om de äldsta Svenska mynt ifrån Rikets ursprung til slutet af Tolfhundrade Talet, hvilka af dem, som för Svenska anses, verkeligen äro det eller från utrikes orter inkommit.» Meningen var tydligen att framkalla en skarp kritik av den föregående tidens tilltro till rena falsarier och en utmönstring av dessa. Men i januari 1787 hade blott en enda skrift inkommit, över vilken Nordin och Engeström avgåvo ett yttrande. »Academien instämde fullkomligen med dem i den mening, att författaren hvarken med den redighet uptagit, med den sorgfällighet granskat eller med den grundlighet afgiort den framsatta frågan, som academiens ändamål fordrat. Till dess nöjaktiga besvarande hade han bordt undersöka hvar och en af de tvifvelaktiga penningarne särskildt, föregående auctorers skäl att räkna dem för Svenska, pröfva dessa grunder och i anledning däraf antingen styrka eller vederlägga slika meningar samt, när möjligt varit, hänföra de oriktiga befundna mynten till deras rätta hembygd. Däremot har den okände författaren åtnöjt sig att endast lösligen och i så allmänna ordasätt vidröra sitt ämne, att man efter afhandlingens genomläsande icke finner ämnet mera uplyst än det förut varit. Och som academien således icke fann bemälte författare i någon måtto hafva upfylt academiens önskan, så kunde han icke heller anses berättigad till den för afhandlingen utsatta belöning.»"
+  },
+  {
+   "bbox": [
+    427,
+    1655,
+    1534,
+    1739
+   ],
+   "category": "Text",
+   "text": "1788 Ämnet utsattes därför på nytt till 1788 års tävlan. Även då fick akademien mottaga blott en enda skrift, som Nordin och Engeström"
+  },
+  {
+   "bbox": [
+    503,
+    1775,
+    572,
+    1810
+   ],
+   "category": "Page-footer",
+   "text": "114"
+  }
+ ]
+}

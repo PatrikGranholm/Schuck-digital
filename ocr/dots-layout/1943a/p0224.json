@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 224,
+ "seconds": 27.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [327, 231, 935, 279], \"category\": \"Section-header\", \"text\": \"Övriga medaljer och inskriptioner\"}, {\"bbox\": [108, 304, 1150, 636], \"category\": \"Text\", \"text\": \"som den nu företedde med tillkännagifvande, att Kongl. M:ts Nådiga vilje vore, att Dess Vitterhets Historie och Antiquitets Akademie upgåfve Förslag till en Latinsk och en Svensk Inscription att sättas på tvenne Marmor-skifvor, som komma att stå på tvenne motsvarande sidor af piedestalen. Till underdånigste åtlydnad af Konungens Nådiga befallning öfverenskommo Ledamöterne att till nästa sammankomst upgifva sina förslag för att till Kongl. M:ts Nådiga ompröfvande och vahl i underdånighet öfverlemna.»\"}, {\"bbox\": [108, 635, 1147, 1088], \"category\": \"Text\", \"text\": \"Dåstein vid nästa sammanträde, den 13 oktober, berättade, att han för konungen anmält akademiens beslut, hade konungen »i Nåder gillat hvad academien beslutat, men dels i anseende till någon mögelig ändring med sjelfva obelisqven, dels i anseende till Dess föresats att snart hedra academien med sin Nådiga närvaro förklarat sig önska, det academien med verkställigheten ännu något dröyde; till underdånigste åtlydnad häraf blef detta ärende till vidare upskutit, och de Ledamöter, som vid förra sammankomsten ej varit närvarande anmodade att äfven inkomma med förslag till Inscriptionen. Tillika anmälte Herr Cantzli Rådet von Dänemark, att endast tvenne förslag blifvit honom ännu tilstälde.»\"}, {\"bbox\": [106, 1087, 1143, 1463], \"category\": \"Text\", \"text\": \"Ärendet uppsköts således, men ej heller vid sammanträdet den 30 november hade konungen tillfälle att infinna sig. Det oaktat tog akademien »under öfvervägande de förslag till Inscriptioner, hvilka efterhand inkommit att nyttjas på piedestallen under den obelisk, som K. M. beslutat låta resa till åminnelse af Stockholms Borgerskaps nit och trohet under kriget och öfver hvilka enkannerligen Herr Cantzli Rådet Wilde, Herr Probsten Nordin och Herr Rector Murberg warit updraget att sig utlåta. Efter någon öfverläggning fäste sig academien egenteligen vid följande project på Latin:\"}, {\"bbox\": [412, 1465, 834, 1790], \"category\": \"Text\", \"text\": \"Gustavus III\\nExemplum fidei exhibitae\\na civibus Stockholmensibus\\nBello triennali\\nCustodiam urbis agentibus\\nPosteris tradi voluit\\nPace restituta\\nA. MDCCXC\"}, {\"bbox\": [1067, 1787, 1136, 1825], \"category\": \"Page-footer\", \"text\": \"207\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    327,
+    231,
+    935,
+    279
+   ],
+   "category": "Section-header",
+   "text": "Övriga medaljer och inskriptioner"
+  },
+  {
+   "bbox": [
+    108,
+    304,
+    1150,
+    636
+   ],
+   "category": "Text",
+   "text": "som den nu företedde med tillkännagifvande, att Kongl. M:ts Nådiga vilje vore, att Dess Vitterhets Historie och Antiquitets Akademie upgåfve Förslag till en Latinsk och en Svensk Inscription att sättas på tvenne Marmor-skifvor, som komma att stå på tvenne motsvarande sidor af piedestalen. Till underdånigste åtlydnad af Konungens Nådiga befallning öfverenskommo Ledamöterne att till nästa sammankomst upgifva sina förslag för att till Kongl. M:ts Nådiga ompröfvande och vahl i underdånighet öfverlemna.»"
+  },
+  {
+   "bbox": [
+    108,
+    635,
+    1147,
+    1088
+   ],
+   "category": "Text",
+   "text": "Dåstein vid nästa sammanträde, den 13 oktober, berättade, att han för konungen anmält akademiens beslut, hade konungen »i Nåder gillat hvad academien beslutat, men dels i anseende till någon mögelig ändring med sjelfva obelisqven, dels i anseende till Dess föresats att snart hedra academien med sin Nådiga närvaro förklarat sig önska, det academien med verkställigheten ännu något dröyde; till underdånigste åtlydnad häraf blef detta ärende till vidare upskutit, och de Ledamöter, som vid förra sammankomsten ej varit närvarande anmodade att äfven inkomma med förslag till Inscriptionen. Tillika anmälte Herr Cantzli Rådet von Dänemark, att endast tvenne förslag blifvit honom ännu tilstälde.»"
+  },
+  {
+   "bbox": [
+    106,
+    1087,
+    1143,
+    1463
+   ],
+   "category": "Text",
+   "text": "Ärendet uppsköts således, men ej heller vid sammanträdet den 30 november hade konungen tillfälle att infinna sig. Det oaktat tog akademien »under öfvervägande de förslag till Inscriptioner, hvilka efterhand inkommit att nyttjas på piedestallen under den obelisk, som K. M. beslutat låta resa till åminnelse af Stockholms Borgerskaps nit och trohet under kriget och öfver hvilka enkannerligen Herr Cantzli Rådet Wilde, Herr Probsten Nordin och Herr Rector Murberg warit updraget att sig utlåta. Efter någon öfverläggning fäste sig academien egenteligen vid följande project på Latin:"
+  },
+  {
+   "bbox": [
+    412,
+    1465,
+    834,
+    1790
+   ],
+   "category": "Text",
+   "text": "Gustavus III\nExemplum fidei exhibitae\na civibus Stockholmensibus\nBello triennali\nCustodiam urbis agentibus\nPosteris tradi voluit\nPace restituta\nA. MDCCXC"
+  },
+  {
+   "bbox": [
+    1067,
+    1787,
+    1136,
+    1825
+   ],
+   "category": "Page-footer",
+   "text": "207"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 156,
+ "seconds": 27.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [472, 237, 795, 279], \"category\": \"Section-header\", \"text\": \"Medaljhistorierna\"}, {\"bbox\": [109, 307, 1151, 516], \"category\": \"Text\", \"text\": \"Sluteligen hvad angår Historiske berättelsernes öfversättning på främmande språk, så anse Wi med Eder en enda och den på det fransyska språket blifva tillräckelig, hwarom I äfven genom någon skickelig man mågen besörja. Wi befalle (etc.). Stockholms Slott d. 30 Januarii 1782.»\"}, {\"bbox\": [145, 526, 704, 569], \"category\": \"Text\", \"text\": \"Det kungliga brevet åtföljdes av en\"}, {\"bbox\": [109, 591, 1149, 757], \"category\": \"Text\", \"text\": \"»Förteckning uppå de Medailler, som enligt Kongl. Maj:ts nådiga beslut komma att slås öfver märkvärdigare händelser uti dess historia till fullkomnande af den samling, som wid flere dylika tillfällen förut blifvit slagen.\"}, {\"bbox\": [109, 762, 1145, 1754], \"category\": \"Table\", \"text\": \"<table><tr><td>För år 1768</td><td>Kronprinsens resa till Bergslagen M<br/>Kronprinsens nit för fäderneslandet S</td></tr><tr><td>1770</td><td>Kronprinsens utrikes resa M</td></tr><tr><td>1771</td><td>Konungens återkomst S</td></tr><tr><td>1772</td><td>Konungens sorgfällighet att förena partierna S<br/>Wasaorden insticktad M<br/>Trenne öfver Regementsförändringen d. 19 augusti S<br/>Pinliga fängelser afskaffade M<br/>Öfverflödiga helgedagar indragne M<br/>Konungens Eriksgaturesa S</td></tr><tr><td>1773</td><td>Nödlidande landsorter understödde M<br/>Arbetshusets i Stockholm inrättning M<br/>Penningerörelsen befrämjad M</td></tr><tr><td>1774</td><td>Tryckfriheten S<br/>Fri Spanmålsutförsel M<br/>Grönländske Sjöfarten M</td></tr><tr><td>1775</td><td>Marstrand inrättad till fri hamn M<br/>Konungens resa till Finland S</td></tr><tr><td>1776</td><td>Guld- och silfvermynts gångbarhet S<br/>Policen förbättrad i Stockholm M</td></tr><tr><td>1777</td><td>Konungens möte med Kejsarinnan i Ryssland S<br/>Konungens mildhet S</td></tr><tr><td>1778</td><td>Penningelönernes förbättring S<br/>Nationel klädedrägt anlagd S</td></tr></table>\"}, {\"bbox\": [1075, 1791, 1138, 1828], \"category\": \"Page-footer\", \"text\": \"141\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    472,
+    237,
+    795,
+    279
+   ],
+   "category": "Section-header",
+   "text": "Medaljhistorierna"
+  },
+  {
+   "bbox": [
+    109,
+    307,
+    1151,
+    516
+   ],
+   "category": "Text",
+   "text": "Sluteligen hvad angår Historiske berättelsernes öfversättning på främmande språk, så anse Wi med Eder en enda och den på det fransyska språket blifva tillräckelig, hwarom I äfven genom någon skickelig man mågen besörja. Wi befalle (etc.). Stockholms Slott d. 30 Januarii 1782.»"
+  },
+  {
+   "bbox": [
+    145,
+    526,
+    704,
+    569
+   ],
+   "category": "Text",
+   "text": "Det kungliga brevet åtföljdes av en"
+  },
+  {
+   "bbox": [
+    109,
+    591,
+    1149,
+    757
+   ],
+   "category": "Text",
+   "text": "»Förteckning uppå de Medailler, som enligt Kongl. Maj:ts nådiga beslut komma att slås öfver märkvärdigare händelser uti dess historia till fullkomnande af den samling, som wid flere dylika tillfällen förut blifvit slagen."
+  },
+  {
+   "bbox": [
+    109,
+    762,
+    1145,
+    1754
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>För år 1768</td><td>Kronprinsens resa till Bergslagen M<br/>Kronprinsens nit för fäderneslandet S</td></tr><tr><td>1770</td><td>Kronprinsens utrikes resa M</td></tr><tr><td>1771</td><td>Konungens återkomst S</td></tr><tr><td>1772</td><td>Konungens sorgfällighet att förena partierna S<br/>Wasaorden insticktad M<br/>Trenne öfver Regementsförändringen d. 19 augusti S<br/>Pinliga fängelser afskaffade M<br/>Öfverflödiga helgedagar indragne M<br/>Konungens Eriksgaturesa S</td></tr><tr><td>1773</td><td>Nödlidande landsorter understödde M<br/>Arbetshusets i Stockholm inrättning M<br/>Penningerörelsen befrämjad M</td></tr><tr><td>1774</td><td>Tryckfriheten S<br/>Fri Spanmålsutförsel M<br/>Grönländske Sjöfarten M</td></tr><tr><td>1775</td><td>Marstrand inrättad till fri hamn M<br/>Konungens resa till Finland S</td></tr><tr><td>1776</td><td>Guld- och silfvermynts gångbarhet S<br/>Policen förbättrad i Stockholm M</td></tr><tr><td>1777</td><td>Konungens möte med Kejsarinnan i Ryssland S<br/>Konungens mildhet S</td></tr><tr><td>1778</td><td>Penningelönernes förbättring S<br/>Nationel klädedrägt anlagd S</td></tr></table>"
+  },
+  {
+   "bbox": [
+    1075,
+    1791,
+    1138,
+    1828
+   ],
+   "category": "Page-footer",
+   "text": "141"
+  }
+ ]
+}

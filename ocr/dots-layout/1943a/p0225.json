@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 225,
+ "seconds": 24.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [792, 234, 1227, 275], \"category\": \"Section-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [825, 305, 1196, 813], \"category\": \"Text\", \"text\": \"och på Svenska\\nAf\\nGustaf III\\nEfter Slutad fred\\når 1790\\nuprest\\nTill minne\\naf\\nStockholms Borgerskaps\\nTrohet och nit\\nunder\\ntreårig wakthållning\"}, {\"bbox\": [492, 846, 1538, 1385], \"category\": \"Text\", \"text\": \"Men som Herr Probsten Nordin giorde den erinran, att den omförmälta wakthållningen syntes något inskränka det lof-ord för trohet och nit, hvilket nyss ofvanföre Borgerskapet tillägges, liksom skulle de icke uti annan måtto hafva vist sig än genom samma wakthållning, och hvilket ej heller fanns öfverensstämma med den nådiga förklaring Hans Maj:t Sjelf på Rådhuset till Borgerskapet behagat afgifwa, hvarutinnan Dess höga nöje yttras öfver Den trohet och nit det wisat i all widd af dessa ords bemärkelse; Så befaltes Secreteraren att i underdånighet förfråga sig hos Konungen, hvilket Hans Maj:t behagligast fölle, antingen att Inscriptionen omförmälte Borgerskapets *trohet och nit* under *treårig wakthållning* eller *under kriget* och i anledning hvaraf båda Inscriptionerna, så den på Swenska som den Latinska wederbörligen komma att inrättas.»\"}, {\"bbox\": [495, 1387, 1538, 1681], \"category\": \"Text\", \"text\": \"Vid sammanträdet den 7 december mottog akademien konungens svar: »Hans Maj:t hade i Nåder förklarat det senare ordasättet instämma med sin wilja, till följe hvaraf så wäl den Svenska Inscriptionen nu kommer att inrättas såsom ock den Latinska att behörigen ändras och jämkas. Då academien däröfver genast företog öfwerläggning, fastställdes efter något samtal förslagen, hvilka till Hans Maj:t komma att upgifwas på följande sätt:\"}, {\"bbox\": [502, 1781, 572, 1817], \"category\": \"Page-footer\", \"text\": \"208\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    792,
+    234,
+    1227,
+    275
+   ],
+   "category": "Section-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    825,
+    305,
+    1196,
+    813
+   ],
+   "category": "Text",
+   "text": "och på Svenska\nAf\nGustaf III\nEfter Slutad fred\når 1790\nuprest\nTill minne\naf\nStockholms Borgerskaps\nTrohet och nit\nunder\ntreårig wakthållning"
+  },
+  {
+   "bbox": [
+    492,
+    846,
+    1538,
+    1385
+   ],
+   "category": "Text",
+   "text": "Men som Herr Probsten Nordin giorde den erinran, att den omförmälta wakthållningen syntes något inskränka det lof-ord för trohet och nit, hvilket nyss ofvanföre Borgerskapet tillägges, liksom skulle de icke uti annan måtto hafva vist sig än genom samma wakthållning, och hvilket ej heller fanns öfverensstämma med den nådiga förklaring Hans Maj:t Sjelf på Rådhuset till Borgerskapet behagat afgifwa, hvarutinnan Dess höga nöje yttras öfver Den trohet och nit det wisat i all widd af dessa ords bemärkelse; Så befaltes Secreteraren att i underdånighet förfråga sig hos Konungen, hvilket Hans Maj:t behagligast fölle, antingen att Inscriptionen omförmälte Borgerskapets *trohet och nit* under *treårig wakthållning* eller *under kriget* och i anledning hvaraf båda Inscriptionerna, så den på Swenska som den Latinska wederbörligen komma att inrättas.»"
+  },
+  {
+   "bbox": [
+    495,
+    1387,
+    1538,
+    1681
+   ],
+   "category": "Text",
+   "text": "Vid sammanträdet den 7 december mottog akademien konungens svar: »Hans Maj:t hade i Nåder förklarat det senare ordasättet instämma med sin wilja, till följe hvaraf så wäl den Svenska Inscriptionen nu kommer att inrättas såsom ock den Latinska att behörigen ändras och jämkas. Då academien däröfver genast företog öfwerläggning, fastställdes efter något samtal förslagen, hvilka till Hans Maj:t komma att upgifwas på följande sätt:"
+  },
+  {
+   "bbox": [
+    502,
+    1781,
+    572,
+    1817
+   ],
+   "category": "Page-footer",
+   "text": "208"
+  }
+ ]
+}

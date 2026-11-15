@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 429,
+ "seconds": 27.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [795, 246, 1229, 289], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [492, 317, 1531, 401], \"category\": \"Text\", \"text\": \"och utrönas, i hwad tillstånd dessa Norrmanska anteckningar nu be-\\nfunnos samt på hwad sätt de fördelaktigast skulle kunna anwändas.»\"}, {\"bbox\": [488, 400, 1531, 1184], \"category\": \"Text\", \"text\": \"Konsistoriets svar föredrogs den 15 januari 1788: »Academiens vice President Herr Cantzli Rådet v. Rosenberg uptedde på Hans Kongl. Höghets Cron Prinsens befallning Consistorii academici i Upsala till nyssnämde sin höga Cantzler ingifna utlåtande rörande den ifrån Kongl. Witterhets academien förl. sommar genom protocollsutdrag meddelte erinran beträffande framl. Biskop Norrmans giorda anmärkningar vid Henrici Stephani Grekiska Lexicon, som vid Upsala Bibliothek i handskrift förvaras och förmodats kunna till uplysning tjäna i bemälte språks kännedom. Consistorii utlåtande går deruppå ut, att berörde Norrmanske anteckningar äro skrifna till större delen på en mängd små pappersrimsor, hwilkas behöriga samlande och sammanfattning skulle bli ett mycket vidlyftigt arbete, det ingen utan särskildt wedergällning kunde sig åtaga och hvartill Consistorium icke kan upgifwa något förslag. Consistorium hemställer därföre, om icke för det närvarande allenast de större papperslapparne i denna orda-samling kunde skiljas ifrån de små och mindre betydande, med hvilka de äro förblandade, och särskildt till en framtid förvaras, då utväg torde gifvas att vedergälla en i Grekiska litteraturen kunnig man, som ville åtaga sig någon åtgiärd därvid.\"}, {\"bbox\": [488, 1183, 1529, 1512], \"category\": \"Text\", \"text\": \"I anledning af Hans Kongl. Höghets befallning till academien att härvid meddela de påminnelser, hon kunde finna tjänliga, instämde academiens ledamöter i underdånig tacksägelses förklarande för den del H. K. H. velat academien af ofvanuptagne utlåtande förunna och förklarade, att då penningetillgång för det närvarande icke fants till bestridande af den åtgiärd, Norrmanska samlingarnes i ordning bringande kunde fordra, vågade academien icke att gifva anledning till någon ändring i hvad Consistorium academicum hemstält.»\"}, {\"bbox\": [488, 1511, 1527, 1596], \"category\": \"Text\", \"text\": \"Därmed förföll ärendet, och manuskriptlådan, som ännu 1830 fanns kvar i Biblioteket, är nu spårlöst försvunnen (Annerstedt I, 2, sid. 286).\"}, {\"bbox\": [490, 1788, 564, 1833], \"category\": \"Page-footer\", \"text\": \"408\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    795,
+    246,
+    1229,
+    289
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    492,
+    317,
+    1531,
+    401
+   ],
+   "category": "Text",
+   "text": "och utrönas, i hwad tillstånd dessa Norrmanska anteckningar nu be-\nfunnos samt på hwad sätt de fördelaktigast skulle kunna anwändas.»"
+  },
+  {
+   "bbox": [
+    488,
+    400,
+    1531,
+    1184
+   ],
+   "category": "Text",
+   "text": "Konsistoriets svar föredrogs den 15 januari 1788: »Academiens vice President Herr Cantzli Rådet v. Rosenberg uptedde på Hans Kongl. Höghets Cron Prinsens befallning Consistorii academici i Upsala till nyssnämde sin höga Cantzler ingifna utlåtande rörande den ifrån Kongl. Witterhets academien förl. sommar genom protocollsutdrag meddelte erinran beträffande framl. Biskop Norrmans giorda anmärkningar vid Henrici Stephani Grekiska Lexicon, som vid Upsala Bibliothek i handskrift förvaras och förmodats kunna till uplysning tjäna i bemälte språks kännedom. Consistorii utlåtande går deruppå ut, att berörde Norrmanske anteckningar äro skrifna till större delen på en mängd små pappersrimsor, hwilkas behöriga samlande och sammanfattning skulle bli ett mycket vidlyftigt arbete, det ingen utan särskildt wedergällning kunde sig åtaga och hvartill Consistorium icke kan upgifwa något förslag. Consistorium hemställer därföre, om icke för det närvarande allenast de större papperslapparne i denna orda-samling kunde skiljas ifrån de små och mindre betydande, med hvilka de äro förblandade, och särskildt till en framtid förvaras, då utväg torde gifvas att vedergälla en i Grekiska litteraturen kunnig man, som ville åtaga sig någon åtgiärd därvid."
+  },
+  {
+   "bbox": [
+    488,
+    1183,
+    1529,
+    1512
+   ],
+   "category": "Text",
+   "text": "I anledning af Hans Kongl. Höghets befallning till academien att härvid meddela de påminnelser, hon kunde finna tjänliga, instämde academiens ledamöter i underdånig tacksägelses förklarande för den del H. K. H. velat academien af ofvanuptagne utlåtande förunna och förklarade, att då penningetillgång för det närvarande icke fants till bestridande af den åtgiärd, Norrmanska samlingarnes i ordning bringande kunde fordra, vågade academien icke att gifva anledning till någon ändring i hvad Consistorium academicum hemstält.»"
+  },
+  {
+   "bbox": [
+    488,
+    1511,
+    1527,
+    1596
+   ],
+   "category": "Text",
+   "text": "Därmed förföll ärendet, och manuskriptlådan, som ännu 1830 fanns kvar i Biblioteket, är nu spårlöst försvunnen (Annerstedt I, 2, sid. 286)."
+  },
+  {
+   "bbox": [
+    490,
+    1788,
+    564,
+    1833
+   ],
+   "category": "Page-footer",
+   "text": "408"
+  }
+ ]
+}

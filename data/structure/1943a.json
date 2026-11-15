@@ -1,0 +1,34 @@
+{
+  "vol": "1943a",
+  "part": "VI",
+  "title": "Kgl. Vitterhets historie och antikvitets akademien. Dess förhistoria och historia",
+  "volume_title": "Adlerbeths tid 1786–1793",
+  "note": "Chapters from the table of contents (images 452-454, pp. 431-433, text layer; the first four entries have no page numbers there) and the chapter headings recognised by dots.mocr. Images 1-4: digitisation notice (Göteborgs universitetsbibliotek), binding and front endpapers; 5-7, 9, 11, 15: blank leaves; 8: the original printed wrapper (Stockholm 1943), bound in; 10: half-title; 12: title page; 13: title-page verso (Humanistiska fonden); 14: frontispiece, marble bust of Lovisa Ulrika by Sergel. Unpaginated plates, each with a blank verso: 160/161 (between pp. 144 and 145), 242/243 (224/225), 276/277 (256/257). Image 65 (p. 50, a table of pensions) loops in dots.mocr and comes from the text layer. 455, 457-458, 460-462 blank leaves; 456: colophon (Uppsala 1943), no errata list; 459: the printed back wrapper; 463-465: back endpapers and binding.",
+  "chapters": [
+    {"title": "Statuter och stat", "page": 1},
+    {"title": "De första månaderna", "page": 57},
+    {"title": "Ledamöterna", "page": 83},
+    {"title": "Tävlingar", "page": 97},
+    {"title": "Medaljhistorierna", "page": 126},
+    {"title": "Övriga medaljer och inskriptioner", "page": 182},
+    {"title": "Levernesbeskrivningar, inträdestal och avhandlingar", "page": 216},
+    {"title": "Akademiens Handlingar", "page": 262},
+    {"title": "Fynden, Akademien och Kanslikollegiet", "page": 273},
+    {"title": "Fornvård och korrespondenter", "page": 314},
+    {"title": "Den tilltänkta katalogen över kufiska mynt", "page": 376},
+    {"title": "Vetenskaplig korrespondens och planerade arbeten", "page": 396},
+    {"title": "Adlerbeths sista sekreterarår", "page": 409}
+  ],
+  "front": {
+    "binding": [1, 2, 3, 4, 8],
+    "halftitle": [10],
+    "titlepage": [12],
+    "frontispiece": [14]
+  },
+  "back": {
+    "contents": [452, 453, 454],
+    "colophon_errata": [456],
+    "binding": [459, 463, 464, 465]
+  },
+  "errata": []
+}

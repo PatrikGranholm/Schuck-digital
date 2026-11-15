@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 186,
+ "seconds": 28.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [471, 242, 794, 284], \"category\": \"Page-header\", \"text\": \"Medaljhistorierna\"}, {\"bbox\": [109, 313, 1146, 397], \"category\": \"Text\", \"text\": \"Den 27 mars — två dagar före Gustaf III:s död — var akademien färdig med sitt project.\"}, {\"bbox\": [105, 395, 1149, 1057], \"category\": \"Text\", \"text\": \"»Secreteraren upgaf dess med Herr Lector Murberg och Herr Probsten Nordin communicerade utkast till minnespenning öfwer Svensksundssegren på följande sätt. Första Sidan: Konungens bröstbild med hjelm, namn och titel: *Gustavus III D. G. Rex Sueciae*. Andra sidan: Sverige, förestäldt såsom en quinna, stödd med vänstra handen på sin trekrönta sköld, hvaröfver hon sträcker en lagerkrans och med den högra fästande en Clypeus votivus, märkt med IX, X. Jul. MDCCXC på en Columna rostralis eller pelare med därifrån åt sidorna utstående skepsstammar, sådan som de Romare plägade upresa i anledning af sjösegrar och på deras monumenter och penningar plägar förekomma. Öfverskrift: *Debellatori Hostium Augusto*. Nedanskrift: *Pace parta. Ordd. R. in Comitijs MDCCXCII*. Bifölls och gifwes jämte detta project Herrar Bancofullmägtige tillika wid handen, att den största storlek, hwartill skådepenningar under Hans nu regerande M:ts regering blifvit slagne, är den 19:de eller sådan som Kröningsmedaillen.»\"}, {\"bbox\": [107, 1056, 1146, 1140], \"category\": \"Text\", \"text\": \"Mot detta förslag gjorde emellertid Hertig Karl en, som det synes, ganska berättigad anmärkning, som den 24 april föredrogs i akademien:\"}, {\"bbox\": [102, 1139, 1146, 1759], \"category\": \"Text\", \"text\": \"»Sedan den sammankomst, som den 17 denna månad bort äga rum genom brist på göremål blifwit instäld, anmälte nu Herr Cantzli Rådet Grefwe Gyllenborg, att då han såsom den förste bland Bancofullmägtige upwaktat H. K. H. Hertigen af Södermanland med det project academien afgifwit till skådepenning öfwer Svensksundssegren 1790, hade H. K. H. låtit förstå, att lämpeligare syntes wara, det Hans Högstsal. Maj:ts buste på penningen förestäldes med lagerkrönt hjässa än med casque, hvaröfwer likwäl academiens utlåtande borde inhämtas. Academien, som tog detta ämne under öfwerwägande, fann all anledning wara att tillstyrka denna förändring, hälst Lagerkransen på ett mera uttryckande sätt afbildar en Segerwinnare än casquen och hvilken senare blott blifwit wald i afseende på Högstsal. Hans Maj:ts kända laggranhet att ej under sina ögon låta prunkande ärebetygelser framkomma — ett skäl, som efter denne store konungs död nu mera icke borde gälla framför Sanningens och förtjänstens röst. Det under\"}, {\"bbox\": [1074, 1786, 1141, 1832], \"category\": \"Page-footer\", \"text\": \"169\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    471,
+    242,
+    794,
+    284
+   ],
+   "category": "Page-header",
+   "text": "Medaljhistorierna"
+  },
+  {
+   "bbox": [
+    109,
+    313,
+    1146,
+    397
+   ],
+   "category": "Text",
+   "text": "Den 27 mars — två dagar före Gustaf III:s död — var akademien färdig med sitt project."
+  },
+  {
+   "bbox": [
+    105,
+    395,
+    1149,
+    1057
+   ],
+   "category": "Text",
+   "text": "»Secreteraren upgaf dess med Herr Lector Murberg och Herr Probsten Nordin communicerade utkast till minnespenning öfwer Svensksundssegren på följande sätt. Första Sidan: Konungens bröstbild med hjelm, namn och titel: *Gustavus III D. G. Rex Sueciae*. Andra sidan: Sverige, förestäldt såsom en quinna, stödd med vänstra handen på sin trekrönta sköld, hvaröfver hon sträcker en lagerkrans och med den högra fästande en Clypeus votivus, märkt med IX, X. Jul. MDCCXC på en Columna rostralis eller pelare med därifrån åt sidorna utstående skepsstammar, sådan som de Romare plägade upresa i anledning af sjösegrar och på deras monumenter och penningar plägar förekomma. Öfverskrift: *Debellatori Hostium Augusto*. Nedanskrift: *Pace parta. Ordd. R. in Comitijs MDCCXCII*. Bifölls och gifwes jämte detta project Herrar Bancofullmägtige tillika wid handen, att den största storlek, hwartill skådepenningar under Hans nu regerande M:ts regering blifvit slagne, är den 19:de eller sådan som Kröningsmedaillen.»"
+  },
+  {
+   "bbox": [
+    107,
+    1056,
+    1146,
+    1140
+   ],
+   "category": "Text",
+   "text": "Mot detta förslag gjorde emellertid Hertig Karl en, som det synes, ganska berättigad anmärkning, som den 24 april föredrogs i akademien:"
+  },
+  {
+   "bbox": [
+    102,
+    1139,
+    1146,
+    1759
+   ],
+   "category": "Text",
+   "text": "»Sedan den sammankomst, som den 17 denna månad bort äga rum genom brist på göremål blifwit instäld, anmälte nu Herr Cantzli Rådet Grefwe Gyllenborg, att då han såsom den förste bland Bancofullmägtige upwaktat H. K. H. Hertigen af Södermanland med det project academien afgifwit till skådepenning öfwer Svensksundssegren 1790, hade H. K. H. låtit förstå, att lämpeligare syntes wara, det Hans Högstsal. Maj:ts buste på penningen förestäldes med lagerkrönt hjässa än med casque, hvaröfwer likwäl academiens utlåtande borde inhämtas. Academien, som tog detta ämne under öfwerwägande, fann all anledning wara att tillstyrka denna förändring, hälst Lagerkransen på ett mera uttryckande sätt afbildar en Segerwinnare än casquen och hvilken senare blott blifwit wald i afseende på Högstsal. Hans Maj:ts kända laggranhet att ej under sina ögon låta prunkande ärebetygelser framkomma — ett skäl, som efter denne store konungs död nu mera icke borde gälla framför Sanningens och förtjänstens röst. Det under"
+  },
+  {
+   "bbox": [
+    1074,
+    1786,
+    1141,
+    1832
+   ],
+   "category": "Page-footer",
+   "text": "169"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 198,
+ "seconds": 12.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [450, 242, 772, 285], \"category\": \"Section-header\", \"text\": \"Medaljhistorierna\"}, {\"bbox\": [124, 312, 978, 355], \"category\": \"Text\", \"text\": \"Nedanskrift: Dödsdagen XXIX Martii MDCCXXCII.\"}, {\"bbox\": [124, 353, 424, 397], \"category\": \"Text\", \"text\": \"Storleken den 19de\"}, {\"bbox\": [88, 419, 1132, 537], \"category\": \"Text\", \"text\": \"Författaren Herr Lector Murberg emottog academiens wälförtjänta tacksägelser och lyckönskan till en så hedrande upgift. Academien åtskildes.»\"}, {\"bbox\": [89, 543, 1132, 627], \"category\": \"Text\", \"text\": \"Dessa båda medaljer voro akademiens sista bidrag till Gustav III:s medaljhistoria.\"}, {\"bbox\": [1058, 1790, 1124, 1827], \"category\": \"Page-footer\", \"text\": \"181\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    450,
+    242,
+    772,
+    285
+   ],
+   "category": "Section-header",
+   "text": "Medaljhistorierna"
+  },
+  {
+   "bbox": [
+    124,
+    312,
+    978,
+    355
+   ],
+   "category": "Text",
+   "text": "Nedanskrift: Dödsdagen XXIX Martii MDCCXXCII."
+  },
+  {
+   "bbox": [
+    124,
+    353,
+    424,
+    397
+   ],
+   "category": "Text",
+   "text": "Storleken den 19de"
+  },
+  {
+   "bbox": [
+    88,
+    419,
+    1132,
+    537
+   ],
+   "category": "Text",
+   "text": "Författaren Herr Lector Murberg emottog academiens wälförtjänta tacksägelser och lyckönskan till en så hedrande upgift. Academien åtskildes.»"
+  },
+  {
+   "bbox": [
+    89,
+    543,
+    1132,
+    627
+   ],
+   "category": "Text",
+   "text": "Dessa båda medaljer voro akademiens sista bidrag till Gustav III:s medaljhistoria."
+  },
+  {
+   "bbox": [
+    1058,
+    1790,
+    1124,
+    1827
+   ],
+   "category": "Page-footer",
+   "text": "181"
+  }
+ ]
+}

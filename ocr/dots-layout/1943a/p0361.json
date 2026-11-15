@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 361,
+ "seconds": 29.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [823, 228, 1255, 271], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [522, 299, 1558, 376], \"category\": \"Text\", \"text\": \"ner emot visst antingen redan betingadt eller framdeles till betingande arfwode.\"}, {\"bbox\": [522, 381, 1558, 507], \"category\": \"Text\", \"text\": \"Detta är så mycket naturligare som en slik person föga lärer kunna utan belöning åtaga sig ett mödosamt arbete och ännu mindre sjelf tillsätta penningar uppå de till dess förättande nödiga resor.\"}, {\"bbox\": [522, 506, 1558, 1001], \"category\": \"Text\", \"text\": \"Sådant trodde sig Kongl. Witterhets Historie och Antiquitets Academien äfven förutse, då den samma i sitt underdåniga hemställande till Konungen af den 4 Dec. 1787 vågade tillstyrka, att en enda Ritare måtte få antagas till academiens tjänst, hvilken försedd med nödig lön och resepenningar kunde fara riket omkring att afteckna och beskrifwa hvad han på hvart ställe funne nödwändigt eller märkvärdigt samt af academien vore anbefald att upsöka. Det är just uppå det samma som ock Herr Biskop Celsius i sitt yttrande syftar. Han föreslår, att en Ritare för Svea och en för Götha Rike måtte antagas, och till den sednare förrättningen upgifves Herr Hilfeling, hvars skicklighet i anseende till det honom gifna witsord academien icke kan draga tvifvel.\"}, {\"bbox\": [522, 1000, 1558, 1331], \"category\": \"Text\", \"text\": \"Academien understod sig väl icke att widare yrka på hvad hon i sitt ofvan åberopade hemställande till Hans Maj:t i underdånighet andragit rörande nyttan och nödvändigheten af en enda ritare, men trodde sig likväl vara tillåtit att skilja emellan tvänne frågor. Då nämligen Hans Maj:t i nåder pröfvat nyttigt, att Rikets minnesmärken må aftecknas och beskrifvas, lärer Hans Maj:ts nådiga behag vara att antingen till detta ändamål penningar må anslås eller ock att det samma på annat vis utan utgift må efter möjeligheten befrämjas.\"}, {\"bbox\": [522, 1330, 1558, 1695], \"category\": \"Text\", \"text\": \"I förra händelsen vågade academien först tro, att det blefve mindre kostsamt, om en enda Ritare för academiens räkning antoges och lönades, än om en för hwar Landsort därtill med särskildt arfwode förordnades. Men därnäst och isynnerhet att arbetet, förrättadt af en enda, skulle blifva mycket påliteligare än af flera och utom dess äga det företräde till likhet af plan, smak, stil, som fåfängt sökes af flera, svårligen lika skickliga händer. Academien kunde för sin del därföre icke annat än finna betänkligt att dela denna befattning på sätt de inkomna svaren föranleda.\"}, {\"bbox\": [560, 1700, 1558, 1743], \"category\": \"Text\", \"text\": \"I sednare händelsen åter eller om Hans Maj:t i nåder finner till-\"}, {\"bbox\": [529, 1781, 598, 1819], \"category\": \"Page-footer\", \"text\": \"340\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    823,
+    228,
+    1255,
+    271
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    522,
+    299,
+    1558,
+    376
+   ],
+   "category": "Text",
+   "text": "ner emot visst antingen redan betingadt eller framdeles till betingande arfwode."
+  },
+  {
+   "bbox": [
+    522,
+    381,
+    1558,
+    507
+   ],
+   "category": "Text",
+   "text": "Detta är så mycket naturligare som en slik person föga lärer kunna utan belöning åtaga sig ett mödosamt arbete och ännu mindre sjelf tillsätta penningar uppå de till dess förättande nödiga resor."
+  },
+  {
+   "bbox": [
+    522,
+    506,
+    1558,
+    1001
+   ],
+   "category": "Text",
+   "text": "Sådant trodde sig Kongl. Witterhets Historie och Antiquitets Academien äfven förutse, då den samma i sitt underdåniga hemställande till Konungen af den 4 Dec. 1787 vågade tillstyrka, att en enda Ritare måtte få antagas till academiens tjänst, hvilken försedd med nödig lön och resepenningar kunde fara riket omkring att afteckna och beskrifwa hvad han på hvart ställe funne nödwändigt eller märkvärdigt samt af academien vore anbefald att upsöka. Det är just uppå det samma som ock Herr Biskop Celsius i sitt yttrande syftar. Han föreslår, att en Ritare för Svea och en för Götha Rike måtte antagas, och till den sednare förrättningen upgifves Herr Hilfeling, hvars skicklighet i anseende till det honom gifna witsord academien icke kan draga tvifvel."
+  },
+  {
+   "bbox": [
+    522,
+    1000,
+    1558,
+    1331
+   ],
+   "category": "Text",
+   "text": "Academien understod sig väl icke att widare yrka på hvad hon i sitt ofvan åberopade hemställande till Hans Maj:t i underdånighet andragit rörande nyttan och nödvändigheten af en enda ritare, men trodde sig likväl vara tillåtit att skilja emellan tvänne frågor. Då nämligen Hans Maj:t i nåder pröfvat nyttigt, att Rikets minnesmärken må aftecknas och beskrifvas, lärer Hans Maj:ts nådiga behag vara att antingen till detta ändamål penningar må anslås eller ock att det samma på annat vis utan utgift må efter möjeligheten befrämjas."
+  },
+  {
+   "bbox": [
+    522,
+    1330,
+    1558,
+    1695
+   ],
+   "category": "Text",
+   "text": "I förra händelsen vågade academien först tro, att det blefve mindre kostsamt, om en enda Ritare för academiens räkning antoges och lönades, än om en för hwar Landsort därtill med särskildt arfwode förordnades. Men därnäst och isynnerhet att arbetet, förrättadt af en enda, skulle blifva mycket påliteligare än af flera och utom dess äga det företräde till likhet af plan, smak, stil, som fåfängt sökes af flera, svårligen lika skickliga händer. Academien kunde för sin del därföre icke annat än finna betänkligt att dela denna befattning på sätt de inkomna svaren föranleda."
+  },
+  {
+   "bbox": [
+    560,
+    1700,
+    1558,
+    1743
+   ],
+   "category": "Text",
+   "text": "I sednare händelsen åter eller om Hans Maj:t i nåder finner till-"
+  },
+  {
+   "bbox": [
+    529,
+    1781,
+    598,
+    1819
+   ],
+   "category": "Page-footer",
+   "text": "340"
+  }
+ ]
+}

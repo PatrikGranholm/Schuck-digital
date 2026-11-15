@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 401,
+ "seconds": 29.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [792, 243, 1223, 286], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [486, 311, 1526, 809], \"category\": \"Text\", \"text\": \"sig därtill nu företedde, i det en Herr Åkerland¹ voro färdig att både med ritningen och kopparstickningen tillhanda gå samt trodde sig kunna hinna fullborda detta arbete till midsommar, inom hvilken tid Magister Malmström, hvars tillsyn härvid voro oumbärlig, icke heller ärnade lämna Stockholm. Denna af Herr Åkerland utsatta termin grundade sig på den supposition, hvilken Herr Magister Malmström äfven till grund lagt, att inga andra mynt skulle afritas och graveras än de, som företedde hufvudsakeliga variationer, det är: som skilde [sig] till andra omständigheter än blotta år-tal. Antalet af sådana till graverande penningar kunde i slikt fall gå till 96, och hade Herr Åkerlund därföre, inbegripna sjelfva kopparplåtarna, begärt ett arfvode af trettio Rdr. specie i ett för allt.\"}, {\"bbox\": [480, 808, 1523, 1469], \"category\": \"Text\", \"text\": \"Academien fant vid öfvervägande häraf instämmande med ett billigt nit för vitterhetens utbredande i gemen och i synnerhet för befrämjandet af det, som i in- och utländska kännares ögon kan vittna om kunskapers blomstrande i vårt fädernesland, att den Kongl. Samlingen af arabiska mynt, förmodeligen den största i werlden, må i koppar stickas och drog därföre icke i betänkande att fastställa och gilla, hvad i ofvanstående måtto hemstäldt blifvit, till följe hvaraf Åkerland tillåtes att under Magister Malmströms tillsyn afrita och i koppar sticka de i fråga varande arabiska penningar och därföre har att efter fulländadt arbete samt de graverade kopparplåtarnes aflefwerering till academien af antiquitets archivets medel bekomma trettio Rdr. Specie, dock så, att Herr Magister Malmström för samteliga penningarne emedlertid blir ansvarig och vid Midsommartiden emot återbekommande af dess i academiens vård varande förskrifningar dem, behörigen i ordning lagde samt hvar för sig i omslag af papper med antecknad numer efter Cataloguen, ifrån sig lämnar.»\"}, {\"bbox\": [478, 1465, 1517, 1677], \"category\": \"Text\", \"text\": \"Egendomligt nog nämnes i protokollet intet om tryckningen av själva katalogen; möjligen ansågs det självklart, att en tryckt text skulle åtfölja kopparsticken. I varje fall togs frågan upp vid sammanträdet den 20 augusti. »På flere academiens Ledamöters yttrade åstundan, att den af Herr Mag. Malmström författade catalogue öf-\"}, {\"bbox\": [478, 1694, 1512, 1755], \"category\": \"Footnote\", \"text\": \"¹ I protokollen skrives nästan alltid Åkerland. Mannen hette Åkerlund; så skrev han själv sitt namn. Likaså skrives här *voro* i stället för *vore*.\"}, {\"bbox\": [332, 1472, 478, 1563], \"category\": \"Text\", \"text\": \"Planen utvidgas ytterligare\"}, {\"bbox\": [480, 1783, 553, 1828], \"category\": \"Page-footer\", \"text\": \"380\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    792,
+    243,
+    1223,
+    286
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    486,
+    311,
+    1526,
+    809
+   ],
+   "category": "Text",
+   "text": "sig därtill nu företedde, i det en Herr Åkerland¹ voro färdig att både med ritningen och kopparstickningen tillhanda gå samt trodde sig kunna hinna fullborda detta arbete till midsommar, inom hvilken tid Magister Malmström, hvars tillsyn härvid voro oumbärlig, icke heller ärnade lämna Stockholm. Denna af Herr Åkerland utsatta termin grundade sig på den supposition, hvilken Herr Magister Malmström äfven till grund lagt, att inga andra mynt skulle afritas och graveras än de, som företedde hufvudsakeliga variationer, det är: som skilde [sig] till andra omständigheter än blotta år-tal. Antalet af sådana till graverande penningar kunde i slikt fall gå till 96, och hade Herr Åkerlund därföre, inbegripna sjelfva kopparplåtarna, begärt ett arfvode af trettio Rdr. specie i ett för allt."
+  },
+  {
+   "bbox": [
+    480,
+    808,
+    1523,
+    1469
+   ],
+   "category": "Text",
+   "text": "Academien fant vid öfvervägande häraf instämmande med ett billigt nit för vitterhetens utbredande i gemen och i synnerhet för befrämjandet af det, som i in- och utländska kännares ögon kan vittna om kunskapers blomstrande i vårt fädernesland, att den Kongl. Samlingen af arabiska mynt, förmodeligen den största i werlden, må i koppar stickas och drog därföre icke i betänkande att fastställa och gilla, hvad i ofvanstående måtto hemstäldt blifvit, till följe hvaraf Åkerland tillåtes att under Magister Malmströms tillsyn afrita och i koppar sticka de i fråga varande arabiska penningar och därföre har att efter fulländadt arbete samt de graverade kopparplåtarnes aflefwerering till academien af antiquitets archivets medel bekomma trettio Rdr. Specie, dock så, att Herr Magister Malmström för samteliga penningarne emedlertid blir ansvarig och vid Midsommartiden emot återbekommande af dess i academiens vård varande förskrifningar dem, behörigen i ordning lagde samt hvar för sig i omslag af papper med antecknad numer efter Cataloguen, ifrån sig lämnar.»"
+  },
+  {
+   "bbox": [
+    478,
+    1465,
+    1517,
+    1677
+   ],
+   "category": "Text",
+   "text": "Egendomligt nog nämnes i protokollet intet om tryckningen av själva katalogen; möjligen ansågs det självklart, att en tryckt text skulle åtfölja kopparsticken. I varje fall togs frågan upp vid sammanträdet den 20 augusti. »På flere academiens Ledamöters yttrade åstundan, att den af Herr Mag. Malmström författade catalogue öf-"
+  },
+  {
+   "bbox": [
+    478,
+    1694,
+    1512,
+    1755
+   ],
+   "category": "Footnote",
+   "text": "¹ I protokollen skrives nästan alltid Åkerland. Mannen hette Åkerlund; så skrev han själv sitt namn. Likaså skrives här *voro* i stället för *vore*."
+  },
+  {
+   "bbox": [
+    332,
+    1472,
+    478,
+    1563
+   ],
+   "category": "Text",
+   "text": "Planen utvidgas ytterligare"
+  },
+  {
+   "bbox": [
+    480,
+    1783,
+    553,
+    1828
+   ],
+   "category": "Page-footer",
+   "text": "380"
+  }
+ ]
+}

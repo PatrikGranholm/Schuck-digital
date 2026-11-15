@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 397,
+ "seconds": 26.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [547, 482, 1499, 575], \"category\": \"Section-header\", \"text\": \"DEN TILLTÄNKTA KATALOGEN ÖVER KUFISKA MYNT\"}, {\"bbox\": [357, 644, 496, 765], \"category\": \"Text\", \"text\": \"Beslut att ordna den kufiska myntsamlingen\"}, {\"bbox\": [502, 637, 1538, 848], \"category\": \"Text\", \"text\": \"Utom de här nämnda korrespondenterna hade akademien några andra, vilka bilda en grupp för sig i samband med ett av akademien planlagt arbete om arabiska mynt — ett ämne, för vilket flera av akademiens ledamöter särskilt intresserade sig; Adlerbeths inträdestal hade ju handlat om arabiska mynt, funna i Sverige.\"}, {\"bbox\": [499, 845, 1536, 1175], \"category\": \"Text\", \"text\": \"Uppslaget kom vid akademiens behandling av Pelkenäfyndet. Vid sammanträdet den 15 augusti 1787 inlämnade Engeström »sju större och smärre bitar af arabiska mynt, dem han funnit ibland den myntsamling, hwilken nyligen blifwit till Kungl. academien insänd ifrån Finland, och befallte Kungl. academien Den, som Secreterarens ställe företrädde, öfwersända samma myntstycken till Professoren Hageman i Upsala med begäran, att han om dem wille meddela academien sin beskrifning.»\"}, {\"bbox\": [497, 1173, 1534, 1545], \"category\": \"Text\", \"text\": \"Johan Niclas Hageman hade 1786 utnämnts till professor i orientaliska språk vid Uppsala universitet, ehuru hans yngre medtävlare, Tingstadius, som sedan, 1789, blef hans efterträdare, ansågs vara honom vetenskapligt överlägsen. Men även Hageman lär ha varit en kunnig orientalist, och akademiens val var således fullt berättigat. Redan den 6 november var Hageman färdig med sitt svar. Då detta föredrogs, fick väl ärendet en större räckvidd än akademien förut tänkt, men avsåg ännu blott att »ordna» akademiens samling av arabiska mynt:\"}, {\"bbox\": [496, 1549, 1532, 1763], \"category\": \"Text\", \"text\": \"»Secreteraren föredrog Professoren Hagmans (!) förklaring öfver åtskilliga till honom afsända bitar af arabiska mynt, fundna nyligen i Finland, hvilka Professoren tillika återstält. Academien befalte, att bemälte uttydning skulle förwaras bland handlingarne och updrog Secreteraren att därföre skrifteligen betyga Professoren hennes nöje.\"}, {\"bbox\": [499, 1778, 569, 1825], \"category\": \"Page-footer\", \"text\": \"376\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    547,
+    482,
+    1499,
+    575
+   ],
+   "category": "Section-header",
+   "text": "DEN TILLTÄNKTA KATALOGEN ÖVER KUFISKA MYNT"
+  },
+  {
+   "bbox": [
+    357,
+    644,
+    496,
+    765
+   ],
+   "category": "Text",
+   "text": "Beslut att ordna den kufiska myntsamlingen"
+  },
+  {
+   "bbox": [
+    502,
+    637,
+    1538,
+    848
+   ],
+   "category": "Text",
+   "text": "Utom de här nämnda korrespondenterna hade akademien några andra, vilka bilda en grupp för sig i samband med ett av akademien planlagt arbete om arabiska mynt — ett ämne, för vilket flera av akademiens ledamöter särskilt intresserade sig; Adlerbeths inträdestal hade ju handlat om arabiska mynt, funna i Sverige."
+  },
+  {
+   "bbox": [
+    499,
+    845,
+    1536,
+    1175
+   ],
+   "category": "Text",
+   "text": "Uppslaget kom vid akademiens behandling av Pelkenäfyndet. Vid sammanträdet den 15 augusti 1787 inlämnade Engeström »sju större och smärre bitar af arabiska mynt, dem han funnit ibland den myntsamling, hwilken nyligen blifwit till Kungl. academien insänd ifrån Finland, och befallte Kungl. academien Den, som Secreterarens ställe företrädde, öfwersända samma myntstycken till Professoren Hageman i Upsala med begäran, att han om dem wille meddela academien sin beskrifning.»"
+  },
+  {
+   "bbox": [
+    497,
+    1173,
+    1534,
+    1545
+   ],
+   "category": "Text",
+   "text": "Johan Niclas Hageman hade 1786 utnämnts till professor i orientaliska språk vid Uppsala universitet, ehuru hans yngre medtävlare, Tingstadius, som sedan, 1789, blef hans efterträdare, ansågs vara honom vetenskapligt överlägsen. Men även Hageman lär ha varit en kunnig orientalist, och akademiens val var således fullt berättigat. Redan den 6 november var Hageman färdig med sitt svar. Då detta föredrogs, fick väl ärendet en större räckvidd än akademien förut tänkt, men avsåg ännu blott att »ordna» akademiens samling av arabiska mynt:"
+  },
+  {
+   "bbox": [
+    496,
+    1549,
+    1532,
+    1763
+   ],
+   "category": "Text",
+   "text": "»Secreteraren föredrog Professoren Hagmans (!) förklaring öfver åtskilliga till honom afsända bitar af arabiska mynt, fundna nyligen i Finland, hvilka Professoren tillika återstält. Academien befalte, att bemälte uttydning skulle förwaras bland handlingarne och updrog Secreteraren att därföre skrifteligen betyga Professoren hennes nöje."
+  },
+  {
+   "bbox": [
+    499,
+    1778,
+    569,
+    1825
+   ],
+   "category": "Page-footer",
+   "text": "376"
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 219,
+ "seconds": 24.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [788, 235, 1219, 277], \"category\": \"Section-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [486, 304, 1521, 433], \"category\": \"Text\", \"text\": \"Vid nästa sammanträde, den 6 maj, var Adlerbeth färdig med sitt inskriptionsförslag, och »efter någon öfverläggning» förenade akademien sig om följande inskrift:\"}, {\"bbox\": [746, 435, 1264, 1259], \"category\": \"Text\", \"text\": \"»År 1762\\nDå\\nK. Adolph Fredric\\ngenom\\nDen Högstes wälsignelse\\noch\\nLoka helso-watten\\nÅterstäldes till önskelig Wälmåga\\nTäcktes Hans Maj:t\\nJämte\\nDess Gemål och Kgl. Barn\\nLägga hand\\nwid\\nDenna trägårds tilldanande.\\nWare den\\nen Beständig Sinnebild\\nAf den ädelmodiges nöje\\nAtt upoffra sin möda\\nTill\\nEfterverldens hugnad och gagn.\"}, {\"bbox\": [806, 1288, 1220, 1413], \"category\": \"Text\", \"text\": \"—\\nStenen restes 1788\\naf\\n... Stjerncreutz Lagman.»¹\"}, {\"bbox\": [343, 1434, 488, 1525], \"category\": \"Text\", \"text\": \"En grupp\\nmera betydan-\\nde inskrifter\"}, {\"bbox\": [491, 1428, 1529, 1679], \"category\": \"Text\", \"text\": \"Det torde vara överflödigt att i kronologisk ordning meddela alla de övriga ärenden av denna art, som akademien fick behandla, ty variationerna äro icke stora. För vår tids sätt att se hade de flesta inskrifter, som akademien måste författa eller godkänna, just ingen raison d'être, och endast några få beröra händelser, som kunna anses värda att minnas. Ett par av dem kunna här anföras.\"}, {\"bbox\": [494, 1693, 1528, 1758], \"category\": \"Footnote\", \"text\": \"¹ Minnesstenen blev då likväl icke rest, och förslag till en ny behandlades i akademien 1824 (d. 30 nov.) och 1825 (d. 8 mars).\"}, {\"bbox\": [496, 1788, 565, 1816], \"category\": \"Page-footer\", \"text\": \"202\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    788,
+    235,
+    1219,
+    277
+   ],
+   "category": "Section-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    486,
+    304,
+    1521,
+    433
+   ],
+   "category": "Text",
+   "text": "Vid nästa sammanträde, den 6 maj, var Adlerbeth färdig med sitt inskriptionsförslag, och »efter någon öfverläggning» förenade akademien sig om följande inskrift:"
+  },
+  {
+   "bbox": [
+    746,
+    435,
+    1264,
+    1259
+   ],
+   "category": "Text",
+   "text": "»År 1762\nDå\nK. Adolph Fredric\ngenom\nDen Högstes wälsignelse\noch\nLoka helso-watten\nÅterstäldes till önskelig Wälmåga\nTäcktes Hans Maj:t\nJämte\nDess Gemål och Kgl. Barn\nLägga hand\nwid\nDenna trägårds tilldanande.\nWare den\nen Beständig Sinnebild\nAf den ädelmodiges nöje\nAtt upoffra sin möda\nTill\nEfterverldens hugnad och gagn."
+  },
+  {
+   "bbox": [
+    806,
+    1288,
+    1220,
+    1413
+   ],
+   "category": "Text",
+   "text": "—\nStenen restes 1788\naf\n... Stjerncreutz Lagman.»¹"
+  },
+  {
+   "bbox": [
+    343,
+    1434,
+    488,
+    1525
+   ],
+   "category": "Text",
+   "text": "En grupp\nmera betydan-\nde inskrifter"
+  },
+  {
+   "bbox": [
+    491,
+    1428,
+    1529,
+    1679
+   ],
+   "category": "Text",
+   "text": "Det torde vara överflödigt att i kronologisk ordning meddela alla de övriga ärenden av denna art, som akademien fick behandla, ty variationerna äro icke stora. För vår tids sätt att se hade de flesta inskrifter, som akademien måste författa eller godkänna, just ingen raison d'être, och endast några få beröra händelser, som kunna anses värda att minnas. Ett par av dem kunna här anföras."
+  },
+  {
+   "bbox": [
+    494,
+    1693,
+    1528,
+    1758
+   ],
+   "category": "Footnote",
+   "text": "¹ Minnesstenen blev då likväl icke rest, och förslag till en ny behandlades i akademien 1824 (d. 30 nov.) och 1825 (d. 8 mars)."
+  },
+  {
+   "bbox": [
+    496,
+    1788,
+    565,
+    1816
+   ],
+   "category": "Page-footer",
+   "text": "202"
+  }
+ ]
+}

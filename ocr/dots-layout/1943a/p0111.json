@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 111,
+ "seconds": 12.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [782, 236, 1214, 277], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [478, 305, 1515, 427], \"category\": \"Text\", \"text\": \"äfwen till arbetande Ledamot vald». Sex föreslagna hade erhållit ett lägre röstetal än 4, bland dem den då redan brutne Kellgren, som fick en röst.\"}, {\"bbox\": [480, 428, 1517, 719], \"category\": \"Text\", \"text\": \"Av de valda tog Fant först — den 16 juli 1794 — sitt inträde med ett tal om »Svårigheten att i Historien finna Sanningen». Den 15 juli året därpå höll Tengström sitt inträdestal »Om de fordna Finnars Sällskaps-Nöjen och Tidsfördrif» och Fredenheim den 15 december 1795 om den grävning, som han anställt på Forum Romanum. Domprosten Älf kom sig däremot aldrig för att hålla något inträdestal, ehuru han levde ännu i sex år efter invalet.\"}, {\"bbox\": [486, 1782, 536, 1830], \"category\": \"Page-footer\", \"text\": \"96\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    782,
+    236,
+    1214,
+    277
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    478,
+    305,
+    1515,
+    427
+   ],
+   "category": "Text",
+   "text": "äfwen till arbetande Ledamot vald». Sex föreslagna hade erhållit ett lägre röstetal än 4, bland dem den då redan brutne Kellgren, som fick en röst."
+  },
+  {
+   "bbox": [
+    480,
+    428,
+    1517,
+    719
+   ],
+   "category": "Text",
+   "text": "Av de valda tog Fant först — den 16 juli 1794 — sitt inträde med ett tal om »Svårigheten att i Historien finna Sanningen». Den 15 juli året därpå höll Tengström sitt inträdestal »Om de fordna Finnars Sällskaps-Nöjen och Tidsfördrif» och Fredenheim den 15 december 1795 om den grävning, som han anställt på Forum Romanum. Domprosten Älf kom sig däremot aldrig för att hålla något inträdestal, ehuru han levde ännu i sex år efter invalet."
+  },
+  {
+   "bbox": [
+    486,
+    1782,
+    536,
+    1830
+   ],
+   "category": "Page-footer",
+   "text": "96"
+  }
+ ]
+}

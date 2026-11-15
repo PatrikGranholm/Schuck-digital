@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 30,
+ "seconds": 28.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [484, 246, 790, 281], \"category\": \"Page-header\", \"text\": \"Statuter och stat\"}, {\"bbox\": [116, 315, 1155, 434], \"category\": \"Text\", \"text\": \"om dessa blott voro två? Eller om endast en kommit? Om så icke varit, besparades de för nästa sammanträde, och utdelades då 100 till de tillstädeskomna? Om allt detta veta vi intet.\"}, {\"bbox\": [114, 439, 1155, 853], \"category\": \"Text\", \"text\": \"Att en jettonutdelning förekommit, är dock tydligt och antydes även av en passus i ett brev från Adlerbeth till Rosenberg den 5 september 1789: »Du gör ganska väl att tranquillisera Lindblom öfver det miserabla grälet om jettonerna, i hvilka jag bett honom framgent taga del och skylla på mig» (U. U. B.). Lindblom var — såsom vi skola se — vice sekreterare och hade förmodligen verkställt fördelningen av jettonerna efter Adlerbeths order. »Grälet» hade väl rört sig om frågan, huruvida vice sekreteraren, som icke var ledamot av akademien, skulle få vara med om delningen. Ordning i dessa frågor fick man först 1793.\"}, {\"bbox\": [114, 853, 1152, 1266], \"category\": \"Text\", \"text\": \"Hur det än kan ha varit med jettonutdelningen under feriemånaderna, förekom ingen alls under de åtta arbetsmånaderna, då akademien sammanträdde varje vecka, och de flesta av akademiens ledamöter fingo därför aldrig någon jetton. Ledamöterna, av vilka flera tillhörde Svenska akademien och voro med om den rikliga jettonutdelningen i denna, tyckas emellertid ha varit ganska missbelåtna med denna njugghet i medaljakademien, och strax efter Gustav III:s död skedde också en förändring, varigenom jettoner kommo att utdelas även vid veckosammanträdena under arbetsmånaderna. Härom förmäler protokollet för den 11 juli 1792.\"}, {\"bbox\": [110, 1266, 1148, 1763], \"category\": \"Text\", \"text\": \"»Herr StatsSecreteraren Schröderheim öfverlemnade Kongl. Maj:ts nådiga skrifvelse af denne dag af innehåll det Konungen vore omtänkt att på alt mögeligt sätt betyga Dess agtning för Dess Högstsal. Herr FarFaders, Fru FarModers och Herr Faders minne och äfven förklara Dess Nådiga välbehag öfver academiens arbeten samt vill med så mycket större nöye fullfölja det beslut Högstsal. Hans Kongl. M:t redan i lifstiden fattadt, att anslå en fond för Jetoner till utdelning emellan academiens Ledamöter vid sammankomsterne och till den ändan anbefalt Dess Seraphimer Ordens Gille att till academien årligen anordna (400) Fyrahundrade Rixdaler, neml. (100) Ett Hundrade i qvartalet. Kongl. M:t jemte förständigandet häraf vill äfven i Nåder anbefalla academiens Ledamöter att upgifva underdånigt förslag, huru\"}, {\"bbox\": [1097, 1798, 1139, 1837], \"category\": \"Page-footer\", \"text\": \"15\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    484,
+    246,
+    790,
+    281
+   ],
+   "category": "Page-header",
+   "text": "Statuter och stat"
+  },
+  {
+   "bbox": [
+    116,
+    315,
+    1155,
+    434
+   ],
+   "category": "Text",
+   "text": "om dessa blott voro två? Eller om endast en kommit? Om så icke varit, besparades de för nästa sammanträde, och utdelades då 100 till de tillstädeskomna? Om allt detta veta vi intet."
+  },
+  {
+   "bbox": [
+    114,
+    439,
+    1155,
+    853
+   ],
+   "category": "Text",
+   "text": "Att en jettonutdelning förekommit, är dock tydligt och antydes även av en passus i ett brev från Adlerbeth till Rosenberg den 5 september 1789: »Du gör ganska väl att tranquillisera Lindblom öfver det miserabla grälet om jettonerna, i hvilka jag bett honom framgent taga del och skylla på mig» (U. U. B.). Lindblom var — såsom vi skola se — vice sekreterare och hade förmodligen verkställt fördelningen av jettonerna efter Adlerbeths order. »Grälet» hade väl rört sig om frågan, huruvida vice sekreteraren, som icke var ledamot av akademien, skulle få vara med om delningen. Ordning i dessa frågor fick man först 1793."
+  },
+  {
+   "bbox": [
+    114,
+    853,
+    1152,
+    1266
+   ],
+   "category": "Text",
+   "text": "Hur det än kan ha varit med jettonutdelningen under feriemånaderna, förekom ingen alls under de åtta arbetsmånaderna, då akademien sammanträdde varje vecka, och de flesta av akademiens ledamöter fingo därför aldrig någon jetton. Ledamöterna, av vilka flera tillhörde Svenska akademien och voro med om den rikliga jettonutdelningen i denna, tyckas emellertid ha varit ganska missbelåtna med denna njugghet i medaljakademien, och strax efter Gustav III:s död skedde också en förändring, varigenom jettoner kommo att utdelas även vid veckosammanträdena under arbetsmånaderna. Härom förmäler protokollet för den 11 juli 1792."
+  },
+  {
+   "bbox": [
+    110,
+    1266,
+    1148,
+    1763
+   ],
+   "category": "Text",
+   "text": "»Herr StatsSecreteraren Schröderheim öfverlemnade Kongl. Maj:ts nådiga skrifvelse af denne dag af innehåll det Konungen vore omtänkt att på alt mögeligt sätt betyga Dess agtning för Dess Högstsal. Herr FarFaders, Fru FarModers och Herr Faders minne och äfven förklara Dess Nådiga välbehag öfver academiens arbeten samt vill med så mycket större nöye fullfölja det beslut Högstsal. Hans Kongl. M:t redan i lifstiden fattadt, att anslå en fond för Jetoner till utdelning emellan academiens Ledamöter vid sammankomsterne och till den ändan anbefalt Dess Seraphimer Ordens Gille att till academien årligen anordna (400) Fyrahundrade Rixdaler, neml. (100) Ett Hundrade i qvartalet. Kongl. M:t jemte förständigandet häraf vill äfven i Nåder anbefalla academiens Ledamöter att upgifva underdånigt förslag, huru"
+  },
+  {
+   "bbox": [
+    1097,
+    1798,
+    1139,
+    1837
+   ],
+   "category": "Page-footer",
+   "text": "15"
+  }
+ ]
+}

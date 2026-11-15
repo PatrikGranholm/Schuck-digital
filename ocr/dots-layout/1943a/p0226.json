@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 226,
+ "seconds": 24.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [308, 227, 923, 274], \"category\": \"Section-header\", \"text\": \"Övriga medaljer och inskriptioner\"}, {\"bbox\": [421, 300, 808, 625], \"category\": \"Text\", \"text\": \"Gustavus III\\nfidem\\ncivium Stockholmensium\\nflagrante bello\\nProbatam\\nPosteris tradi voluit\\nPace restituta\\nA. MDCCLXXXX\"}, {\"bbox\": [428, 666, 802, 1132], \"category\": \"Text\", \"text\": \"Den Swenska\\nAf\\nGustaf III\\nuprest\\nEfter slutad fred\\n1790\\nTill Minne\\naf\\nStockholms Borgerskaps\\nTrohet och Nit\\nunder kriget.»\"}, {\"bbox\": [90, 1166, 1134, 1739], \"category\": \"Text\", \"text\": \"En annan stor grupp förevigar händelser av vida mindre betydelse, och vid dem har man ofta svårt att undertrycka en misstanke, att förslagsställarens syfte snarast varit att genom en undersåtlig uppmärksamhet ställa sig in hos konungen. Den, som här måhända gick i spetsen, var Elis Schröderheim, hvilken 1787 tjänstgjorde såsom t. f. landshövding i Uppsala. Han hade — efter vad akademiens protokoll för den 16 januari 1787 förmäler — »till academiens President yttrat, det han vore sinnad att vid Flötsunds färja, hvaräst Upsala Län gränsar mot Stockholms, låta upsätta en minnesvård till åminnelse af den 22 Oct. sist., då Kron Prinsen, stadd på resan till Upsala, första gången ditkom. Academien tog under öfvervägande tvänne till påskrift på samma tillärnade minnesvård nu äfven upgifna förslag, utan namn, och faststälde i anledning däraf följande, som Herr StatsSecreteraren af academiens Secreterare till Svar meddelas:\"}, {\"bbox\": [1140, 1177, 1276, 1294], \"category\": \"Text\", \"text\": \"Inskrifter på minnesstenar resta av enskilda\"}, {\"bbox\": [96, 1786, 191, 1808], \"category\": \"Page-footer\", \"text\": \"14-42108.\"}, {\"bbox\": [1060, 1785, 1129, 1823], \"category\": \"Page-footer\", \"text\": \"209\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    308,
+    227,
+    923,
+    274
+   ],
+   "category": "Section-header",
+   "text": "Övriga medaljer och inskriptioner"
+  },
+  {
+   "bbox": [
+    421,
+    300,
+    808,
+    625
+   ],
+   "category": "Text",
+   "text": "Gustavus III\nfidem\ncivium Stockholmensium\nflagrante bello\nProbatam\nPosteris tradi voluit\nPace restituta\nA. MDCCLXXXX"
+  },
+  {
+   "bbox": [
+    428,
+    666,
+    802,
+    1132
+   ],
+   "category": "Text",
+   "text": "Den Swenska\nAf\nGustaf III\nuprest\nEfter slutad fred\n1790\nTill Minne\naf\nStockholms Borgerskaps\nTrohet och Nit\nunder kriget.»"
+  },
+  {
+   "bbox": [
+    90,
+    1166,
+    1134,
+    1739
+   ],
+   "category": "Text",
+   "text": "En annan stor grupp förevigar händelser av vida mindre betydelse, och vid dem har man ofta svårt att undertrycka en misstanke, att förslagsställarens syfte snarast varit att genom en undersåtlig uppmärksamhet ställa sig in hos konungen. Den, som här måhända gick i spetsen, var Elis Schröderheim, hvilken 1787 tjänstgjorde såsom t. f. landshövding i Uppsala. Han hade — efter vad akademiens protokoll för den 16 januari 1787 förmäler — »till academiens President yttrat, det han vore sinnad att vid Flötsunds färja, hvaräst Upsala Län gränsar mot Stockholms, låta upsätta en minnesvård till åminnelse af den 22 Oct. sist., då Kron Prinsen, stadd på resan till Upsala, första gången ditkom. Academien tog under öfvervägande tvänne till påskrift på samma tillärnade minnesvård nu äfven upgifna förslag, utan namn, och faststälde i anledning däraf följande, som Herr StatsSecreteraren af academiens Secreterare till Svar meddelas:"
+  },
+  {
+   "bbox": [
+    1140,
+    1177,
+    1276,
+    1294
+   ],
+   "category": "Text",
+   "text": "Inskrifter på minnesstenar resta av enskilda"
+  },
+  {
+   "bbox": [
+    96,
+    1786,
+    191,
+    1808
+   ],
+   "category": "Page-footer",
+   "text": "14-42108."
+  },
+  {
+   "bbox": [
+    1060,
+    1785,
+    1129,
+    1823
+   ],
+   "category": "Page-footer",
+   "text": "209"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 350,
+ "seconds": 28.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [357, 231, 896, 274], \"category\": \"Section-header\", \"text\": \"Fornvård och korrespondenter\"}, {\"bbox\": [105, 302, 1142, 499], \"category\": \"Text\", \"text\": \"som gör dem värdiga att för acad:ns räkning tryckas, väl måga få befordras till dagsljuset, men icke intagas i academiens egna handlingar, som endast böra bestridas af academiens Ledamöter, utan särskildt i ett bihang få sina ställen med utsättande af författarnes namn.»\"}, {\"bbox\": [102, 507, 1142, 880], \"category\": \"Text\", \"text\": \"Två dagar senare tryckes kungörelsen i Inrikes Tidningen. Denna är alldeles lika Adlerbeths förslag, med undantag av att ättebackar strukits och att punkten »vill academien med nöje lämna ett rum i sina framdeles utkommande handlingar med utsättande av författarnes namn» ersatts med »wil Academien med nöje låta befordra til trycket såsom Bihang til Academiens framdeles utkommande Handlingar med utsättande af Författarnes namn.» Någon större betydelse fick kungörelsen icke, ehuru — som vi skola se — icke så få korrespondenter anmälde sig.\"}, {\"bbox\": [100, 880, 1140, 1169], \"category\": \"Text\", \"text\": \"Kungörelsen var likväl ickę det enda steg, som akademien tog till en anknytning till det gamla Antikvitetskollegiet såsom fornvårdande myndighet. Vid sammanträdet den 4 december 1787 — således något mer än ett halvår efter kungörelsens utfärdande — mottog akademien en »berättelse» från den i Skara födde doktor Næzén, vilken ehuru provinsialläkare i Umeå bibehållit sitt intresse för födelsestadens minnen. Protokollet härom lyder:\"}, {\"bbox\": [1153, 890, 1282, 979], \"category\": \"Text\", \"text\": \"Soopska grafven och fornvården\"}, {\"bbox\": [95, 1168, 1139, 1749], \"category\": \"Text\", \"text\": \"»Hans Maj:t Konungen benådade academien med Sin Höga Närvaro och tillät sig föreläsas Assessorens och Provincial Medici i Umeå Næzéns till acad:n inlämnade berättelse om Soopiska Grafven i Skara Domkyrka. Secreteraren erhöll befallning att därföre skriftel. betyga assessoren academiens tacksägelse. Och som af bemälte beskrifning fants, att ofvannämde Graf, hvilken med skäl kan anses för en af vårt fäderneslands prydligare, begynner förfalla, hvilket beklageligen händer med flera dylika minnesvårdar i Svenska kyrkor, som icke mindre på konstens wägnar än för de personer där njuta sina hvilorum förtjäna att vidmagthållas, så utbad sig academien att häröfver hos Hans Maj:t få skrifteligen föreställa sitt bekymmer samt att till Hans Maj:ts skärskådande få öfwerlämna sina tankar om nödvändigheten af någon public anstalt till dylika minnesmärkens bättre vidmagthållande och förwarande, hälst arfvingarne efter de perso-\"}, {\"bbox\": [1059, 1787, 1128, 1825], \"category\": \"Page-footer\", \"text\": \"329\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    357,
+    231,
+    896,
+    274
+   ],
+   "category": "Section-header",
+   "text": "Fornvård och korrespondenter"
+  },
+  {
+   "bbox": [
+    105,
+    302,
+    1142,
+    499
+   ],
+   "category": "Text",
+   "text": "som gör dem värdiga att för acad:ns räkning tryckas, väl måga få befordras till dagsljuset, men icke intagas i academiens egna handlingar, som endast böra bestridas af academiens Ledamöter, utan särskildt i ett bihang få sina ställen med utsättande af författarnes namn.»"
+  },
+  {
+   "bbox": [
+    102,
+    507,
+    1142,
+    880
+   ],
+   "category": "Text",
+   "text": "Två dagar senare tryckes kungörelsen i Inrikes Tidningen. Denna är alldeles lika Adlerbeths förslag, med undantag av att ättebackar strukits och att punkten »vill academien med nöje lämna ett rum i sina framdeles utkommande handlingar med utsättande av författarnes namn» ersatts med »wil Academien med nöje låta befordra til trycket såsom Bihang til Academiens framdeles utkommande Handlingar med utsättande af Författarnes namn.» Någon större betydelse fick kungörelsen icke, ehuru — som vi skola se — icke så få korrespondenter anmälde sig."
+  },
+  {
+   "bbox": [
+    100,
+    880,
+    1140,
+    1169
+   ],
+   "category": "Text",
+   "text": "Kungörelsen var likväl ickę det enda steg, som akademien tog till en anknytning till det gamla Antikvitetskollegiet såsom fornvårdande myndighet. Vid sammanträdet den 4 december 1787 — således något mer än ett halvår efter kungörelsens utfärdande — mottog akademien en »berättelse» från den i Skara födde doktor Næzén, vilken ehuru provinsialläkare i Umeå bibehållit sitt intresse för födelsestadens minnen. Protokollet härom lyder:"
+  },
+  {
+   "bbox": [
+    1153,
+    890,
+    1282,
+    979
+   ],
+   "category": "Text",
+   "text": "Soopska grafven och fornvården"
+  },
+  {
+   "bbox": [
+    95,
+    1168,
+    1139,
+    1749
+   ],
+   "category": "Text",
+   "text": "»Hans Maj:t Konungen benådade academien med Sin Höga Närvaro och tillät sig föreläsas Assessorens och Provincial Medici i Umeå Næzéns till acad:n inlämnade berättelse om Soopiska Grafven i Skara Domkyrka. Secreteraren erhöll befallning att därföre skriftel. betyga assessoren academiens tacksägelse. Och som af bemälte beskrifning fants, att ofvannämde Graf, hvilken med skäl kan anses för en af vårt fäderneslands prydligare, begynner förfalla, hvilket beklageligen händer med flera dylika minnesvårdar i Svenska kyrkor, som icke mindre på konstens wägnar än för de personer där njuta sina hvilorum förtjäna att vidmagthållas, så utbad sig academien att häröfver hos Hans Maj:t få skrifteligen föreställa sitt bekymmer samt att till Hans Maj:ts skärskådande få öfwerlämna sina tankar om nödvändigheten af någon public anstalt till dylika minnesmärkens bättre vidmagthållande och förwarande, hälst arfvingarne efter de perso-"
+  },
+  {
+   "bbox": [
+    1059,
+    1787,
+    1128,
+    1825
+   ],
+   "category": "Page-footer",
+   "text": "329"
+  }
+ ]
+}

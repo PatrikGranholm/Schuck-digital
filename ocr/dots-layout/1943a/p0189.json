@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 189,
+ "seconds": 26.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [788, 239, 1220, 280], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [484, 307, 1524, 561], \"category\": \"Text\", \"text\": \"tankar sedan genom vice Secreteraren meddelas så månge, som Statuterne föreskrifva för att äga kraft af academiens Laggiltige beslut. Sedan jämnförelse blifvit gjord emellan de Serskildte inkomne förslag till Konungens Medaille och efter öfverläggning och jämnkning gillades och antogs följande project, som skulle Hans M:t i underdånighet föredragas.\"}, {\"bbox\": [487, 560, 1521, 651], \"category\": \"Text\", \"text\": \"*Första sidan:* Konungens bröstbild, namn och titel med Lagrad Casque och på Casqven en Sphinx.\"}, {\"bbox\": [521, 657, 1215, 982], \"category\": \"Text\", \"text\": \"*Andra sidan:*\\nCivi principi\\nHeroi Sospitatori\\nDie III Aug. MDCCXCI\\nEx Aquisgrano Reduci\\nFracta in armis Valetudine\\nRedintegrata\\nOvantes\\nCives Stockholmenses.\"}, {\"bbox\": [488, 1006, 1532, 1755], \"category\": \"Text\", \"text\": \"Academien, som sålunda fastställt och i underdånighet föreslår Konungens Medaille, har trott sig böra utelämna de af Herr Underståthållaren upgifne och bifogade emblemer af Svensksundsmedaillen och värjan såsom aldeles stridande emot de Numimatiska Reglerne och ett antagit allmänt bruk. Ur lika skäl tror academien sig föranlåten att på Reversen föra in *Civi Principi*, som de numismatiska Reglerne ej medgifva enl. det ingifna förslaget att sätta öfver Bröstbilden, hvilken fordrar namn och titel. Ordet *Heroi* är i academiens tanka så mycket tjenligare, som det är närmast passande till den casqverade Bröstbilden. Orden *Libertatis Publicæ ac Privatæ Vindici Conservatori* anser academien kunna uteslutas såsom redan ofta på Medailler brukade, och den ena Medaillen ej bör vara lik med den andra, hvarjemte academien äfven trott, att då Konungen på aversen föreställes som krigshjelte, de epitheta vore de tjenligaste, som utmärka Konungens bedrifter i krig. Hade Bilden varit krönt med en *Corona civica*, så hade de föreslagne ord varit tjenlige. Alt det öfrige utom förändringen af ett och annat ord har academien bibehållit. Academiens gillade och faststäldte förslag till Konungens\"}, {\"bbox\": [498, 1793, 566, 1831], \"category\": \"Page-footer\", \"text\": \"172\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    788,
+    239,
+    1220,
+    280
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    484,
+    307,
+    1524,
+    561
+   ],
+   "category": "Text",
+   "text": "tankar sedan genom vice Secreteraren meddelas så månge, som Statuterne föreskrifva för att äga kraft af academiens Laggiltige beslut. Sedan jämnförelse blifvit gjord emellan de Serskildte inkomne förslag till Konungens Medaille och efter öfverläggning och jämnkning gillades och antogs följande project, som skulle Hans M:t i underdånighet föredragas."
+  },
+  {
+   "bbox": [
+    487,
+    560,
+    1521,
+    651
+   ],
+   "category": "Text",
+   "text": "*Första sidan:* Konungens bröstbild, namn och titel med Lagrad Casque och på Casqven en Sphinx."
+  },
+  {
+   "bbox": [
+    521,
+    657,
+    1215,
+    982
+   ],
+   "category": "Text",
+   "text": "*Andra sidan:*\nCivi principi\nHeroi Sospitatori\nDie III Aug. MDCCXCI\nEx Aquisgrano Reduci\nFracta in armis Valetudine\nRedintegrata\nOvantes\nCives Stockholmenses."
+  },
+  {
+   "bbox": [
+    488,
+    1006,
+    1532,
+    1755
+   ],
+   "category": "Text",
+   "text": "Academien, som sålunda fastställt och i underdånighet föreslår Konungens Medaille, har trott sig böra utelämna de af Herr Underståthållaren upgifne och bifogade emblemer af Svensksundsmedaillen och värjan såsom aldeles stridande emot de Numimatiska Reglerne och ett antagit allmänt bruk. Ur lika skäl tror academien sig föranlåten att på Reversen föra in *Civi Principi*, som de numismatiska Reglerne ej medgifva enl. det ingifna förslaget att sätta öfver Bröstbilden, hvilken fordrar namn och titel. Ordet *Heroi* är i academiens tanka så mycket tjenligare, som det är närmast passande till den casqverade Bröstbilden. Orden *Libertatis Publicæ ac Privatæ Vindici Conservatori* anser academien kunna uteslutas såsom redan ofta på Medailler brukade, och den ena Medaillen ej bör vara lik med den andra, hvarjemte academien äfven trott, att då Konungen på aversen föreställes som krigshjelte, de epitheta vore de tjenligaste, som utmärka Konungens bedrifter i krig. Hade Bilden varit krönt med en *Corona civica*, så hade de föreslagne ord varit tjenlige. Alt det öfrige utom förändringen af ett och annat ord har academien bibehållit. Academiens gillade och faststäldte förslag till Konungens"
+  },
+  {
+   "bbox": [
+    498,
+    1793,
+    566,
+    1831
+   ],
+   "category": "Page-footer",
+   "text": "172"
+  }
+ ]
+}

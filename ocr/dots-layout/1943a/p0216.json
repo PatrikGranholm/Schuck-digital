@@ -1,0 +1,122 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 216,
+ "seconds": 26.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [297, 235, 904, 282], \"category\": \"Section-header\", \"text\": \"## Övriga medaljer och inskriptioner\"}, {\"bbox\": [350, 308, 855, 474], \"category\": \"Text\", \"text\": \"Ombyggd och utvidgad\\nuti det sextonde\\nKonung Gustaf 3 Regerings år\\n1786.»\"}, {\"bbox\": [80, 496, 1120, 572], \"category\": \"Text\", \"text\": \"Samtidigt begärdes inskrifter för två kyrkklockor i Okome i Haland:\"}, {\"bbox\": [80, 579, 1120, 660], \"category\": \"Text\", \"text\": \"»Academien fant med den enfald, som den goda smaken föreskrifver, närmast öfverensstämmande at å den större klockan rista:\"}, {\"bbox\": [348, 668, 855, 1124], \"category\": \"Text\", \"text\": \"Omguten i Jönköping\\nuti det sextonde\\nKonung Gustaf III Regeringsår\\n1786\\nDå\\nFriherre Gustaf Wrangel\\nvar Landshöfdinge\\nDoctor Johan Vingård\\nBiskop\\nJohan Lindman\\nKyrkoherde.\"}, {\"bbox\": [117, 1144, 1017, 1189], \"category\": \"Text\", \"text\": \"På den mindre klockan åter syntes göra tillfyllest at sätta:\"}, {\"bbox\": [501, 1193, 694, 1352], \"category\": \"Text\", \"text\": \"Guten 1786\\ni Jönköping\\naf\\nN. N.\"}, {\"bbox\": [80, 1379, 1120, 1671], \"category\": \"Text\", \"text\": \"Til dessa Inskrifter kunde enligt Academiens tanka äfven läggas något Skriftenes språk, som lemnades til Kyrkoherdens eget wal. Hwad bruket af verser beträffar, fant Academien nödigt at anmärka, at sådana, om de på inskriften skola blifva andragne, böra wara korte och sinrike, och wille Academien i den händelse Kyrkoherden önskar at werser måtte blifwa på klockan inskrifne, draga försorg om sådanes författande, som kunna upfylla ändamålet.»\"}, {\"bbox\": [115, 1669, 974, 1713], \"category\": \"Text\", \"text\": \"Det tredje ärendet berodde på en order från konungen:\"}, {\"bbox\": [115, 1711, 1117, 1755], \"category\": \"Text\", \"text\": \"»Anmältes, det konungen anbefalt en Inscription för den hörnsten\"}, {\"bbox\": [1043, 1791, 1113, 1831], \"category\": \"Page-footer\", \"text\": \"199\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    297,
+    235,
+    904,
+    282
+   ],
+   "category": "Section-header",
+   "text": "## Övriga medaljer och inskriptioner"
+  },
+  {
+   "bbox": [
+    350,
+    308,
+    855,
+    474
+   ],
+   "category": "Text",
+   "text": "Ombyggd och utvidgad\nuti det sextonde\nKonung Gustaf 3 Regerings år\n1786.»"
+  },
+  {
+   "bbox": [
+    80,
+    496,
+    1120,
+    572
+   ],
+   "category": "Text",
+   "text": "Samtidigt begärdes inskrifter för två kyrkklockor i Okome i Haland:"
+  },
+  {
+   "bbox": [
+    80,
+    579,
+    1120,
+    660
+   ],
+   "category": "Text",
+   "text": "»Academien fant med den enfald, som den goda smaken föreskrifver, närmast öfverensstämmande at å den större klockan rista:"
+  },
+  {
+   "bbox": [
+    348,
+    668,
+    855,
+    1124
+   ],
+   "category": "Text",
+   "text": "Omguten i Jönköping\nuti det sextonde\nKonung Gustaf III Regeringsår\n1786\nDå\nFriherre Gustaf Wrangel\nvar Landshöfdinge\nDoctor Johan Vingård\nBiskop\nJohan Lindman\nKyrkoherde."
+  },
+  {
+   "bbox": [
+    117,
+    1144,
+    1017,
+    1189
+   ],
+   "category": "Text",
+   "text": "På den mindre klockan åter syntes göra tillfyllest at sätta:"
+  },
+  {
+   "bbox": [
+    501,
+    1193,
+    694,
+    1352
+   ],
+   "category": "Text",
+   "text": "Guten 1786\ni Jönköping\naf\nN. N."
+  },
+  {
+   "bbox": [
+    80,
+    1379,
+    1120,
+    1671
+   ],
+   "category": "Text",
+   "text": "Til dessa Inskrifter kunde enligt Academiens tanka äfven läggas något Skriftenes språk, som lemnades til Kyrkoherdens eget wal. Hwad bruket af verser beträffar, fant Academien nödigt at anmärka, at sådana, om de på inskriften skola blifva andragne, böra wara korte och sinrike, och wille Academien i den händelse Kyrkoherden önskar at werser måtte blifwa på klockan inskrifne, draga försorg om sådanes författande, som kunna upfylla ändamålet.»"
+  },
+  {
+   "bbox": [
+    115,
+    1669,
+    974,
+    1713
+   ],
+   "category": "Text",
+   "text": "Det tredje ärendet berodde på en order från konungen:"
+  },
+  {
+   "bbox": [
+    115,
+    1711,
+    1117,
+    1755
+   ],
+   "category": "Text",
+   "text": "»Anmältes, det konungen anbefalt en Inscription för den hörnsten"
+  },
+  {
+   "bbox": [
+    1043,
+    1791,
+    1113,
+    1831
+   ],
+   "category": "Page-footer",
+   "text": "199"
+  }
+ ]
+}

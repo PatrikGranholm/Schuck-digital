@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 123,
+ "seconds": 29.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [787, 238, 1218, 280], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [483, 307, 1523, 805], \"category\": \"Text\", \"text\": \"en upmärksam läsare icke undfalla, att författaren mera vinlagt sig om ett konstladt och med öfverflödig prydnad belastadt ordaprång än om den manliga styrka i tankar, den ädla enfald i uttryck, som altid säkrast behaga och utmärka en äkta smak. Academien kunde väl ej frångå, att flera ställen i denna skrift förtjänte bifall, men emedan hon trodde både sin skyldighet och sin heder fordra, att icke meddela priset för ett ofullkomligt arbete, hälst då af skrifarten all anledning var att förmoda, det författaren var utlänning och i hvilken händelse det skäl af upmuntran, som emot Landsmän kan utverka ett mindre strängt omdöme, icke ägde rum. Ty stadnade academien i det gemensamma beslut, att denne okände författare icke kunde blifva delaktig af den utfästa belöningen.»\"}, {\"bbox\": [483, 808, 1525, 1635], \"category\": \"Text\", \"text\": \"1788 Med konungens tillstånd utsattes därför samma tävlingsämne till 1788 — så till vida med bättre framgång, att i januari detta år icke mindre än sju skrifter ingivits, tre på latin och fyra på franska. Till granskare över de senare utsågos Ramel, Oxenstierna och Düben. De tre latinska lämnades till Nordin, Hallenberg och Manderström.¹ Man började med behandlingen av de latinska prisskrifterna, och Hallenbergs yttrande om dem, i vilket Nordin instämt, saknar ej sina roliga poänger. Några utdrag kunna därför här göras: »Nr. 1 såsom endast bestående af 9 Disticha [är] förmodligen alltför korrt att kunna komma i åtanke till någon belöning. Men annars äro dessa verser ostridigt wäl skrifna och förtjänte tryckas, om K. academien oaktad deras korthet behagade belöna dem med ett accessit.» Nr 3 hade åtskilliga prosodiska fel och även sakliga; »att Linné war född på en liten Landtgård, som heter Småland, är ett för groft fel emot Geographien äfwen i ett Latinskt Poeme». Nr 6 led väl ej av samma fel som nr 1: att vara för kort, »ty det består af mer än 1.500 verser, det är ock utmärkt af en tämlig god versification, men jag fruktar, att här förekommer allt för mycket, som strider emot god smak. — Uti 115 verser låter Poeten Naturens Herre hålla ett långt Tal till Linné, där han berättar, att han ensam hade skapat och uppehåller allting,\"}, {\"bbox\": [483, 1662, 1523, 1754], \"category\": \"Footnote\", \"text\": \"¹ Alla tre finnas kvar i arkivet. Nr 1, som tilldrog sig den största uppmärksamheten, var författad av en italienare, läkare i Cività Vecchia, nr 3 av en tysk filosofie och juris doktor, nr 6 av en ungersk medicine kandidat i Wien.\"}, {\"bbox\": [493, 1783, 562, 1819], \"category\": \"Page-footer\", \"text\": \"108\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    787,
+    238,
+    1218,
+    280
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    483,
+    307,
+    1523,
+    805
+   ],
+   "category": "Text",
+   "text": "en upmärksam läsare icke undfalla, att författaren mera vinlagt sig om ett konstladt och med öfverflödig prydnad belastadt ordaprång än om den manliga styrka i tankar, den ädla enfald i uttryck, som altid säkrast behaga och utmärka en äkta smak. Academien kunde väl ej frångå, att flera ställen i denna skrift förtjänte bifall, men emedan hon trodde både sin skyldighet och sin heder fordra, att icke meddela priset för ett ofullkomligt arbete, hälst då af skrifarten all anledning var att förmoda, det författaren var utlänning och i hvilken händelse det skäl af upmuntran, som emot Landsmän kan utverka ett mindre strängt omdöme, icke ägde rum. Ty stadnade academien i det gemensamma beslut, att denne okände författare icke kunde blifva delaktig af den utfästa belöningen.»"
+  },
+  {
+   "bbox": [
+    483,
+    808,
+    1525,
+    1635
+   ],
+   "category": "Text",
+   "text": "1788 Med konungens tillstånd utsattes därför samma tävlingsämne till 1788 — så till vida med bättre framgång, att i januari detta år icke mindre än sju skrifter ingivits, tre på latin och fyra på franska. Till granskare över de senare utsågos Ramel, Oxenstierna och Düben. De tre latinska lämnades till Nordin, Hallenberg och Manderström.¹ Man började med behandlingen av de latinska prisskrifterna, och Hallenbergs yttrande om dem, i vilket Nordin instämt, saknar ej sina roliga poänger. Några utdrag kunna därför här göras: »Nr. 1 såsom endast bestående af 9 Disticha [är] förmodligen alltför korrt att kunna komma i åtanke till någon belöning. Men annars äro dessa verser ostridigt wäl skrifna och förtjänte tryckas, om K. academien oaktad deras korthet behagade belöna dem med ett accessit.» Nr 3 hade åtskilliga prosodiska fel och även sakliga; »att Linné war född på en liten Landtgård, som heter Småland, är ett för groft fel emot Geographien äfwen i ett Latinskt Poeme». Nr 6 led väl ej av samma fel som nr 1: att vara för kort, »ty det består af mer än 1.500 verser, det är ock utmärkt af en tämlig god versification, men jag fruktar, att här förekommer allt för mycket, som strider emot god smak. — Uti 115 verser låter Poeten Naturens Herre hålla ett långt Tal till Linné, där han berättar, att han ensam hade skapat och uppehåller allting,"
+  },
+  {
+   "bbox": [
+    483,
+    1662,
+    1523,
+    1754
+   ],
+   "category": "Footnote",
+   "text": "¹ Alla tre finnas kvar i arkivet. Nr 1, som tilldrog sig den största uppmärksamheten, var författad av en italienare, läkare i Cività Vecchia, nr 3 av en tysk filosofie och juris doktor, nr 6 av en ungersk medicine kandidat i Wien."
+  },
+  {
+   "bbox": [
+    493,
+    1783,
+    562,
+    1819
+   ],
+   "category": "Page-footer",
+   "text": "108"
+  }
+ ]
+}

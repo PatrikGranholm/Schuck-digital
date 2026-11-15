@@ -2,7 +2,8 @@
 
   python scripts/pagemap.py --vol all     -> data/pagemap/<vol>.json
 
-The printed number is the short numeric token on the last or first body line.
+The printed number is the short numeric token on the last body line (the foot of the page;
+the first line only ever gave false numbers, e.g. a stray mark on a frontispiece, vol. VI image 14).
 Oldstyle figures are often misread (i5 = 15, l = 1, o/O = 0, s/S = 5), so tokens
 are folded first. Anchors = the longest chain of read numbers that increases with
 the image index and never advances faster than it (plates add unnumbered images).
@@ -35,7 +36,7 @@ def line_texts(path):
 
 
 def read_number(lines):
-    for ln in (lines[-1:] + lines[:1]) if lines else []:
+    for ln in lines[-1:]:
         for tok in ln.split():
             if 1 <= len(tok) <= 4:
                 f = tok.translate(FOLD)

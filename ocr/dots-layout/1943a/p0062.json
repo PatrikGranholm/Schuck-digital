@@ -1,0 +1,132 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 62,
+ "seconds": 33.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [470, 234, 773, 268], \"category\": \"Section-header\", \"text\": \"Statuter och stat\"}, {\"bbox\": [104, 296, 1140, 471], \"category\": \"Text\", \"text\": \"den af Vår Högst-Saliga Fru Moder, Hennes Kongl. Maj:t Enkedrottningen, år 1753 inrättade Vitterhets-Academie, hafva Vi i nåder velat uplåta och förära densamma någon Fond till löner och öfriga utgifter, Äfven som Vi härmed och i kraft af detta Vårt öpna Bref, nådeligen uplåte, förunne och föräre denna Vår Vitterhets-Academie:\"}, {\"bbox\": [104, 473, 1140, 618], \"category\": \"Text\", \"text\": \"Iº) Till Lön för dess Secreterare de Trehundrade Riksdaler specie, hvilka å Vårt Canzli-Collegii Stat hittils varit upförde för Secreteraren uti vårt Antiquitets Archivo; men nu och hädanefter anordnas uppå Academiens Stat, sedan Vi godt funnit at dessa bägge Beställningar uti en Person förena;\"}, {\"bbox\": [104, 616, 1140, 724], \"category\": \"Text\", \"text\": \"IIº) Den Lön för Amanuensen af Etthundrade Riksdaler Specie, som hittils varit på Antiquitets Archivi Stat upförd, blifver nu på lika sätt med Secreterarens förflyttad.\"}, {\"bbox\": [104, 722, 1140, 796], \"category\": \"Text\", \"text\": \"IIIº) Utaf Arrendet för Torneå Regale Lax Fiske Fyrahundrade Trettio Åtta Riksdaler Specie till besörjande af Prémier, Ljus och Skrifmaterialier.\"}, {\"bbox\": [104, 794, 1140, 965], \"category\": \"Text\", \"text\": \"Hvilket alt Academien till evärdelig ägo uplåtes med det uttryckeliga vilkor och alfvarliga förbehåll, att dessa medel aldrig måga till något annat användes, än hvad här ofvanföre stadgat är, Men till Rikets Stat åter hemfalla, så snart de af Oss för Academien i nåder utfärdade Statuter uti någon måtto förändras.\"}, {\"bbox\": [104, 968, 1140, 1431], \"category\": \"Text\", \"text\": \"Utaf de här ofvan nämnde Fyrahundrade Trettio Åtta Riksdaler anslås till de årliga Priser, som blifva: Tvänne stora Guld-Medailer af Tjugu sex Ducater hvardera, tilsammans Femtio Två och uti Riksdaler Specie ungefärligen Etthundrade Fyra Riksdaler: en mindre af Femton Ducater, Trettio Riksdaler, en mindre af Tolf ducater, Tjugofyra Riksdaler; Till Femtio Jettoner af Silfver, som utdelas på de fyra Academiens Sommar-Sessioner till de närvarande Ledamöterne, af en half Riksdaler hvar Jetton, tilsammans Tvåhundrade stycken, gör Etthundrade Riksdaler; Till Ljus, Papper och öfriga vid Academiens Sammankomster förefallande utgifter Ett-hundrade Riksdaler: Till Lön för Vaktmästaren, som tillika bestyrer om Rummens städning och renhållning, Åttatio Riksdaler. Han undfår derjämte Hennes Maj:ts Enke Drottningens Livrée, hvilket honom bestås på lika tid med Vetenskaps-Academiens Vaktmästare.\"}, {\"bbox\": [104, 1429, 1140, 1538], \"category\": \"Text\", \"text\": \"Alla dessa Löner tillhöra så Academien, att de ej, för hvad orsak det vara må, kunna derifrån skiljas, utan kommer deras Innehafvare att dem mista, så snart de lämna förvaltningen af den Sysla, för hvilken de dem innehafva.\"}, {\"bbox\": [104, 1536, 1140, 1681], \"category\": \"Text\", \"text\": \"Det alla, som vederbör, hafva sig hörsammeligen att efterrätta. Till yttermera visso hafva Vi detta med Egen hand underskrifvit, och med Vårt Stora Kongl. Sigill bekräfta låtit. Stockholms Slott den Tjugonde Martii År Ettusende och Sjuhundrade Åttatio-Sex,\"}, {\"bbox\": [572, 1689, 671, 1722], \"category\": \"Text\", \"text\": \"Gustaf.\"}, {\"bbox\": [848, 1725, 1106, 1758], \"category\": \"Text\", \"text\": \"E. Schröderheim.»\"}, {\"bbox\": [1090, 1783, 1137, 1820], \"category\": \"Page-footer\", \"text\": \"47\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    470,
+    234,
+    773,
+    268
+   ],
+   "category": "Section-header",
+   "text": "Statuter och stat"
+  },
+  {
+   "bbox": [
+    104,
+    296,
+    1140,
+    471
+   ],
+   "category": "Text",
+   "text": "den af Vår Högst-Saliga Fru Moder, Hennes Kongl. Maj:t Enkedrottningen, år 1753 inrättade Vitterhets-Academie, hafva Vi i nåder velat uplåta och förära densamma någon Fond till löner och öfriga utgifter, Äfven som Vi härmed och i kraft af detta Vårt öpna Bref, nådeligen uplåte, förunne och föräre denna Vår Vitterhets-Academie:"
+  },
+  {
+   "bbox": [
+    104,
+    473,
+    1140,
+    618
+   ],
+   "category": "Text",
+   "text": "Iº) Till Lön för dess Secreterare de Trehundrade Riksdaler specie, hvilka å Vårt Canzli-Collegii Stat hittils varit upförde för Secreteraren uti vårt Antiquitets Archivo; men nu och hädanefter anordnas uppå Academiens Stat, sedan Vi godt funnit at dessa bägge Beställningar uti en Person förena;"
+  },
+  {
+   "bbox": [
+    104,
+    616,
+    1140,
+    724
+   ],
+   "category": "Text",
+   "text": "IIº) Den Lön för Amanuensen af Etthundrade Riksdaler Specie, som hittils varit på Antiquitets Archivi Stat upförd, blifver nu på lika sätt med Secreterarens förflyttad."
+  },
+  {
+   "bbox": [
+    104,
+    722,
+    1140,
+    796
+   ],
+   "category": "Text",
+   "text": "IIIº) Utaf Arrendet för Torneå Regale Lax Fiske Fyrahundrade Trettio Åtta Riksdaler Specie till besörjande af Prémier, Ljus och Skrifmaterialier."
+  },
+  {
+   "bbox": [
+    104,
+    794,
+    1140,
+    965
+   ],
+   "category": "Text",
+   "text": "Hvilket alt Academien till evärdelig ägo uplåtes med det uttryckeliga vilkor och alfvarliga förbehåll, att dessa medel aldrig måga till något annat användes, än hvad här ofvanföre stadgat är, Men till Rikets Stat åter hemfalla, så snart de af Oss för Academien i nåder utfärdade Statuter uti någon måtto förändras."
+  },
+  {
+   "bbox": [
+    104,
+    968,
+    1140,
+    1431
+   ],
+   "category": "Text",
+   "text": "Utaf de här ofvan nämnde Fyrahundrade Trettio Åtta Riksdaler anslås till de årliga Priser, som blifva: Tvänne stora Guld-Medailer af Tjugu sex Ducater hvardera, tilsammans Femtio Två och uti Riksdaler Specie ungefärligen Etthundrade Fyra Riksdaler: en mindre af Femton Ducater, Trettio Riksdaler, en mindre af Tolf ducater, Tjugofyra Riksdaler; Till Femtio Jettoner af Silfver, som utdelas på de fyra Academiens Sommar-Sessioner till de närvarande Ledamöterne, af en half Riksdaler hvar Jetton, tilsammans Tvåhundrade stycken, gör Etthundrade Riksdaler; Till Ljus, Papper och öfriga vid Academiens Sammankomster förefallande utgifter Ett-hundrade Riksdaler: Till Lön för Vaktmästaren, som tillika bestyrer om Rummens städning och renhållning, Åttatio Riksdaler. Han undfår derjämte Hennes Maj:ts Enke Drottningens Livrée, hvilket honom bestås på lika tid med Vetenskaps-Academiens Vaktmästare."
+  },
+  {
+   "bbox": [
+    104,
+    1429,
+    1140,
+    1538
+   ],
+   "category": "Text",
+   "text": "Alla dessa Löner tillhöra så Academien, att de ej, för hvad orsak det vara må, kunna derifrån skiljas, utan kommer deras Innehafvare att dem mista, så snart de lämna förvaltningen af den Sysla, för hvilken de dem innehafva."
+  },
+  {
+   "bbox": [
+    104,
+    1536,
+    1140,
+    1681
+   ],
+   "category": "Text",
+   "text": "Det alla, som vederbör, hafva sig hörsammeligen att efterrätta. Till yttermera visso hafva Vi detta med Egen hand underskrifvit, och med Vårt Stora Kongl. Sigill bekräfta låtit. Stockholms Slott den Tjugonde Martii År Ettusende och Sjuhundrade Åttatio-Sex,"
+  },
+  {
+   "bbox": [
+    572,
+    1689,
+    671,
+    1722
+   ],
+   "category": "Text",
+   "text": "Gustaf."
+  },
+  {
+   "bbox": [
+    848,
+    1725,
+    1106,
+    1758
+   ],
+   "category": "Text",
+   "text": "E. Schröderheim.»"
+  },
+  {
+   "bbox": [
+    1090,
+    1783,
+    1137,
+    1820
+   ],
+   "category": "Page-footer",
+   "text": "47"
+  }
+ ]
+}

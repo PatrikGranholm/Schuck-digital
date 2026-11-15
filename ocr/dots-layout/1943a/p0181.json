@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 181,
+ "seconds": 29.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [804, 243, 1239, 284], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [497, 311, 1537, 393], \"category\": \"Text\", \"text\": \"et ignes. Nedanföre: *Classes felici ausu e sinu Wiborg. reduces III Jul. MDCCXC.*\"}, {\"bbox\": [497, 394, 1539, 682], \"category\": \"Text\", \"text\": \"III) Öfwer Segren wid Svensksund. första sidan: Konungens bröstbild, namn och titel. Andra sidan: Swerige, bewäpnad och igenkänd af Sin trekrönta Sköld, Sitter på en sjöstrand med en Victoriola i ena handen och Neptuni treudd i den andra, Utanföre i hafwet synas wrak af förstörda skepp. Ofwanföre: *Debetis ornata triumphis*. Nedanföre: *Deleta classe actuariar. hostium IX, X Jul. MDCCXC.*\"}, {\"bbox\": [497, 682, 1540, 937], \"category\": \"Text\", \"text\": \"IV) Öfwer freden wid Werelä. första sidan: Konungens bröstbild, namn och titel. Andra sidan: Konungen och Käjsarinnan gifwa hwarandra handen öfwer ett altare, märkt med twå sammanslagna händer, som hålla en Caducée samt omgifwit med oljequistar. Ofwanföre: *Saluti populorum*. Nedanföre: *Pax Sueciam inter et Russ. XIV aug. MDCCXC.*\"}, {\"bbox\": [497, 931, 1543, 1387], \"category\": \"Text\", \"text\": \"Med projektet till Svensksundsmedaljen var Gustav III emellertid ej fullt belåten, och den 19 april 1791 gav Fredrik Sparre »academien vid handen, att Hans Maj:t till fullständighets vinnande funnit godt, det nedanskriften å den af acad:n den 7 Dec. förl. år tillstyrkta skådepenningen öfwer segren uti Svensksund den 9 och 10 Jul. 1790 på följande sätt blifvit förändrad och tillökt: *Rege duce deleta classe actuariar. host. in freto Svensks. IX.X Jul. MDCCXC* samt att Hans Maj:t öfver samma seger ärnade låta slå tvänne andra medailler af olika storlek, men lika stämpel, föreställande å första sidan konungens bröstbild, namn och titel och å den andra: *En skeppskrona samt däröfver blott datum IX,X Jul. MDCCXC.*\"}, {\"bbox\": [497, 1383, 1543, 1759], \"category\": \"Text\", \"text\": \"Redan förut, den 1 februari 1791, hade akademien fått i uppdrag att inkomma med projekt till icke mindre än tio andra medaljer öfver de skickelsedigra händelserna under de nu gångna åren: »H. E. Herr R. R. Fredric Sparre meddelte academien Hans Maj:ts Nådiga befallning att till fyllnad af Hans Maj:ts påbegynte medaille suite följande skådepenningar komma att af academien föreslås: 1. Öfwer konungens besök i Danmark 1787. 2. Krigets utbrott 1788. 3. Sjösegren vid Hogland. 4. försvaret av Rikets westra gräns. 5. förenings- och säkerhetsacten 1789. 6. Segren wid Parkumäki. 7. Action vid\"}, {\"bbox\": [508, 1788, 577, 1833], \"category\": \"Page-footer\", \"text\": \"164\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    804,
+    243,
+    1239,
+    284
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    497,
+    311,
+    1537,
+    393
+   ],
+   "category": "Text",
+   "text": "et ignes. Nedanföre: *Classes felici ausu e sinu Wiborg. reduces III Jul. MDCCXC.*"
+  },
+  {
+   "bbox": [
+    497,
+    394,
+    1539,
+    682
+   ],
+   "category": "Text",
+   "text": "III) Öfwer Segren wid Svensksund. första sidan: Konungens bröstbild, namn och titel. Andra sidan: Swerige, bewäpnad och igenkänd af Sin trekrönta Sköld, Sitter på en sjöstrand med en Victoriola i ena handen och Neptuni treudd i den andra, Utanföre i hafwet synas wrak af förstörda skepp. Ofwanföre: *Debetis ornata triumphis*. Nedanföre: *Deleta classe actuariar. hostium IX, X Jul. MDCCXC.*"
+  },
+  {
+   "bbox": [
+    497,
+    682,
+    1540,
+    937
+   ],
+   "category": "Text",
+   "text": "IV) Öfwer freden wid Werelä. första sidan: Konungens bröstbild, namn och titel. Andra sidan: Konungen och Käjsarinnan gifwa hwarandra handen öfwer ett altare, märkt med twå sammanslagna händer, som hålla en Caducée samt omgifwit med oljequistar. Ofwanföre: *Saluti populorum*. Nedanföre: *Pax Sueciam inter et Russ. XIV aug. MDCCXC.*"
+  },
+  {
+   "bbox": [
+    497,
+    931,
+    1543,
+    1387
+   ],
+   "category": "Text",
+   "text": "Med projektet till Svensksundsmedaljen var Gustav III emellertid ej fullt belåten, och den 19 april 1791 gav Fredrik Sparre »academien vid handen, att Hans Maj:t till fullständighets vinnande funnit godt, det nedanskriften å den af acad:n den 7 Dec. förl. år tillstyrkta skådepenningen öfwer segren uti Svensksund den 9 och 10 Jul. 1790 på följande sätt blifvit förändrad och tillökt: *Rege duce deleta classe actuariar. host. in freto Svensks. IX.X Jul. MDCCXC* samt att Hans Maj:t öfver samma seger ärnade låta slå tvänne andra medailler af olika storlek, men lika stämpel, föreställande å första sidan konungens bröstbild, namn och titel och å den andra: *En skeppskrona samt däröfver blott datum IX,X Jul. MDCCXC.*"
+  },
+  {
+   "bbox": [
+    497,
+    1383,
+    1543,
+    1759
+   ],
+   "category": "Text",
+   "text": "Redan förut, den 1 februari 1791, hade akademien fått i uppdrag att inkomma med projekt till icke mindre än tio andra medaljer öfver de skickelsedigra händelserna under de nu gångna åren: »H. E. Herr R. R. Fredric Sparre meddelte academien Hans Maj:ts Nådiga befallning att till fyllnad af Hans Maj:ts påbegynte medaille suite följande skådepenningar komma att af academien föreslås: 1. Öfwer konungens besök i Danmark 1787. 2. Krigets utbrott 1788. 3. Sjösegren vid Hogland. 4. försvaret av Rikets westra gräns. 5. förenings- och säkerhetsacten 1789. 6. Segren wid Parkumäki. 7. Action vid"
+  },
+  {
+   "bbox": [
+    508,
+    1788,
+    577,
+    1833
+   ],
+   "category": "Page-footer",
+   "text": "164"
+  }
+ ]
+}

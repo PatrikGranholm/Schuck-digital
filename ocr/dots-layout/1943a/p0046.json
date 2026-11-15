@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 46,
+ "seconds": 27.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [482, 230, 785, 264], \"category\": \"Section-header\", \"text\": \"Statuter och stat\"}, {\"bbox\": [117, 299, 1149, 376], \"category\": \"Text\", \"text\": \"uppmärksammad personlighet, som likväl bör ha passat bättre vid det Wienska hovet än i en historisk-antikvarisk akademi.\"}, {\"bbox\": [115, 382, 1151, 1036], \"category\": \"Text\", \"text\": \"Utnämningen visar, att konungen fortfarande ansågs äga rätt att insätta dessa utlänningar i akademien, och den antyder ock, huru man betraktade dem. Av Gustav III räknades de tydligen snarare till den »honoraira» klassen än till den arbetande. Den elegante världsmannen och diplomaten kardinal de Bernis hade Gustav III lärt känna i Rom, där Bernis nästan kan sägas ha varit hans värd. Hertigen av Nivernois, som han lärt känna i Paris, var ledare för »hertigpartiet» inom Franska akademien, Hertzberg var Preussens mest betydande statsman och därjämte en högt aktad författare i politiska ämnen, och den tyskfödde Professor Pallas i Petersburg var en av Europas mest berömde naturforskare, redan ledamot av den svenska Vetenskapsakademien, där han passade vida bättre än i en historisk-antikvarisk akademi. Den ende, som kunde sägas höra samman med en dylik, var den danske historikern Peter Frederik Suhm, men såsom kammarherre — i Danmark en hög titel — kunde även han sägas tillhöra den honoraira klassen.\"}, {\"bbox\": [115, 1042, 1149, 1745], \"category\": \"Text\", \"text\": \"Emellertid var det tack vare Reuterholms ingrepp i akademiens valrätt, som frågan om de utländska ledamöterna åter kom upp. Från en annan synpunkt än valrättens hade den berörts, redan innan akademien mottagit det Kungl. brevet om hertiginnan di Giovane. Man hade fäst sig vid det ringa antalet arbetande ledamöter i förhållande till de många utländska rummen, och den 27 november 1792 — således blott några månader efter Gustav III:s död — väckte Rosenberg ett förslag att på bekostnad av de utländska ledamöternas antal öka de arbetandes: »Herr Cantzli Rådet von Rosenberg såsom acad:ns President anmälte till acad:ns närmare öfvervägande ett ämne, som han ansåg för dess bästa och tillwäxt vara af betydande, nämligen att till vinnande af mera drift uti academiens arbeten anhålla om Konungens nådiga tillåtelse, det de till 20 faststälde arbetande Ledamöter måtte få ökas till 24 och de utländska inskränkas till 12. I anledning af hr. CRådets egen tillstyrkan upsköts dock öfverläggningen till en annan gång, på det att skälen mot och med detta förslag måtte imedlertid i desto mognare betänkande kunna tagas.»\"}, {\"bbox\": [1099, 1782, 1140, 1819], \"category\": \"Page-footer\", \"text\": \"31\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    482,
+    230,
+    785,
+    264
+   ],
+   "category": "Section-header",
+   "text": "Statuter och stat"
+  },
+  {
+   "bbox": [
+    117,
+    299,
+    1149,
+    376
+   ],
+   "category": "Text",
+   "text": "uppmärksammad personlighet, som likväl bör ha passat bättre vid det Wienska hovet än i en historisk-antikvarisk akademi."
+  },
+  {
+   "bbox": [
+    115,
+    382,
+    1151,
+    1036
+   ],
+   "category": "Text",
+   "text": "Utnämningen visar, att konungen fortfarande ansågs äga rätt att insätta dessa utlänningar i akademien, och den antyder ock, huru man betraktade dem. Av Gustav III räknades de tydligen snarare till den »honoraira» klassen än till den arbetande. Den elegante världsmannen och diplomaten kardinal de Bernis hade Gustav III lärt känna i Rom, där Bernis nästan kan sägas ha varit hans värd. Hertigen av Nivernois, som han lärt känna i Paris, var ledare för »hertigpartiet» inom Franska akademien, Hertzberg var Preussens mest betydande statsman och därjämte en högt aktad författare i politiska ämnen, och den tyskfödde Professor Pallas i Petersburg var en av Europas mest berömde naturforskare, redan ledamot av den svenska Vetenskapsakademien, där han passade vida bättre än i en historisk-antikvarisk akademi. Den ende, som kunde sägas höra samman med en dylik, var den danske historikern Peter Frederik Suhm, men såsom kammarherre — i Danmark en hög titel — kunde även han sägas tillhöra den honoraira klassen."
+  },
+  {
+   "bbox": [
+    115,
+    1042,
+    1149,
+    1745
+   ],
+   "category": "Text",
+   "text": "Emellertid var det tack vare Reuterholms ingrepp i akademiens valrätt, som frågan om de utländska ledamöterna åter kom upp. Från en annan synpunkt än valrättens hade den berörts, redan innan akademien mottagit det Kungl. brevet om hertiginnan di Giovane. Man hade fäst sig vid det ringa antalet arbetande ledamöter i förhållande till de många utländska rummen, och den 27 november 1792 — således blott några månader efter Gustav III:s död — väckte Rosenberg ett förslag att på bekostnad av de utländska ledamöternas antal öka de arbetandes: »Herr Cantzli Rådet von Rosenberg såsom acad:ns President anmälte till acad:ns närmare öfvervägande ett ämne, som han ansåg för dess bästa och tillwäxt vara af betydande, nämligen att till vinnande af mera drift uti academiens arbeten anhålla om Konungens nådiga tillåtelse, det de till 20 faststälde arbetande Ledamöter måtte få ökas till 24 och de utländska inskränkas till 12. I anledning af hr. CRådets egen tillstyrkan upsköts dock öfverläggningen till en annan gång, på det att skälen mot och med detta förslag måtte imedlertid i desto mognare betänkande kunna tagas.»"
+  },
+  {
+   "bbox": [
+    1099,
+    1782,
+    1140,
+    1819
+   ],
+   "category": "Page-footer",
+   "text": "31"
+  }
+ ]
+}

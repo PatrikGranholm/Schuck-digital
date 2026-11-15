@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 292,
+ "seconds": 27.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [408, 235, 825, 278], \"category\": \"Page-header\", \"text\": \"Akademiens handlingar\"}, {\"bbox\": [96, 304, 1136, 1462], \"category\": \"Text\", \"text\": \"i det tredje de til Wetenskaps Academien, Patriotiska sällskapet och andra Lärda Gillen hörande ämnen, i det fjerde det, som Målare-academien och fria konsterna i vårt fädernesland tilkommer, och ändteligen i det femte hvad vid Skådespelen förtjänar upmärksamhet. Hans Excellence hemstälte äfven, huruvida det icke kunde blifva betänkligt at ingå en så dryg förbindelse som den, at hvarje quartal åstadkomma ett band af 300 sidor. För öfrigt anmodades Herr Bibliothekarien Ristell at i et och annat mindre betydande anmärkningsämne vid den föreslagne Journalen med Academiens Ledamot Cantzli Rådetstein öfverlägga. Academien fant alt skäl at så väl betyga Bibliothekarien Ristell sin erkänsla för den beredvillighet, hvarmed han tilbudit sig at besörja et arbete, hvilket Konungen förklarat vara sig om hjertat som ock för de wärda Ledamöter, hvilka med deras uplysta anmärkningar vid Bibliothekariens Prospectus Academiens önskan upfylt. Då academien för sin del å ena sidan ansåg den upgifna planen med iakttagande af hvad således anmärkt blifvit för ganska nöjaktig, trodde hon å den andra sig icke vara tilständigt at betaga Bibliothekarien den heder honom tilkomma borde såsom auctor til samma arbete. Hon kunde således ej annorlunda än rådslagsvis derom meddela Bibliothekarien sina tankar; äfven som sakens beskaffenhet och all billighet kräfde, det Journalen utfärdades i Bibliothekariens, men ej [i] academiens namn. Academien gjorde sig försäkrad, at ingen af dess Ledamöter för öfrigt lärer undandraga sig at i sin mån och så vidt lämpeligt är, dertil göra Bibliothecarien biträde, hvarförutan det endast på honom sjelf ankommer at förena sig med de personer, antingen inom eller utom academien, hvilka finnas hugade at til arbetets befrämjande med honom bidraga.»\"}, {\"bbox\": [96, 1460, 1134, 1751], \"category\": \"Text\", \"text\": \"Yttrandet är utan tvivel ett litet mästerstycke. Av hänsyn till konungen undertryckte man naturligtvis alla anmärkningar mot Ristells person och tidskriftsplan, uttalade sig tvärtom mycket berömmande om bägge, men slutade med, att man icke ville beröva Ristell »hedern» av ett så nyttigt och berömvärdt företag. Man tillstyrkte därför både *att* en dylik tidskrift skulle utgivas och *att* Ristell skulle bliva dess redaktör — således vad konungen redan be-\"}, {\"bbox\": [1058, 1787, 1126, 1825], \"category\": \"Page-footer\", \"text\": \"271\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    408,
+    235,
+    825,
+    278
+   ],
+   "category": "Page-header",
+   "text": "Akademiens handlingar"
+  },
+  {
+   "bbox": [
+    96,
+    304,
+    1136,
+    1462
+   ],
+   "category": "Text",
+   "text": "i det tredje de til Wetenskaps Academien, Patriotiska sällskapet och andra Lärda Gillen hörande ämnen, i det fjerde det, som Målare-academien och fria konsterna i vårt fädernesland tilkommer, och ändteligen i det femte hvad vid Skådespelen förtjänar upmärksamhet. Hans Excellence hemstälte äfven, huruvida det icke kunde blifva betänkligt at ingå en så dryg förbindelse som den, at hvarje quartal åstadkomma ett band af 300 sidor. För öfrigt anmodades Herr Bibliothekarien Ristell at i et och annat mindre betydande anmärkningsämne vid den föreslagne Journalen med Academiens Ledamot Cantzli Rådetstein öfverlägga. Academien fant alt skäl at så väl betyga Bibliothekarien Ristell sin erkänsla för den beredvillighet, hvarmed han tilbudit sig at besörja et arbete, hvilket Konungen förklarat vara sig om hjertat som ock för de wärda Ledamöter, hvilka med deras uplysta anmärkningar vid Bibliothekariens Prospectus Academiens önskan upfylt. Då academien för sin del å ena sidan ansåg den upgifna planen med iakttagande af hvad således anmärkt blifvit för ganska nöjaktig, trodde hon å den andra sig icke vara tilständigt at betaga Bibliothekarien den heder honom tilkomma borde såsom auctor til samma arbete. Hon kunde således ej annorlunda än rådslagsvis derom meddela Bibliothekarien sina tankar; äfven som sakens beskaffenhet och all billighet kräfde, det Journalen utfärdades i Bibliothekariens, men ej [i] academiens namn. Academien gjorde sig försäkrad, at ingen af dess Ledamöter för öfrigt lärer undandraga sig at i sin mån och så vidt lämpeligt är, dertil göra Bibliothecarien biträde, hvarförutan det endast på honom sjelf ankommer at förena sig med de personer, antingen inom eller utom academien, hvilka finnas hugade at til arbetets befrämjande med honom bidraga.»"
+  },
+  {
+   "bbox": [
+    96,
+    1460,
+    1134,
+    1751
+   ],
+   "category": "Text",
+   "text": "Yttrandet är utan tvivel ett litet mästerstycke. Av hänsyn till konungen undertryckte man naturligtvis alla anmärkningar mot Ristells person och tidskriftsplan, uttalade sig tvärtom mycket berömmande om bägge, men slutade med, att man icke ville beröva Ristell »hedern» av ett så nyttigt och berömvärdt företag. Man tillstyrkte därför både *att* en dylik tidskrift skulle utgivas och *att* Ristell skulle bliva dess redaktör — således vad konungen redan be-"
+  },
+  {
+   "bbox": [
+    1058,
+    1787,
+    1126,
+    1825
+   ],
+   "category": "Page-footer",
+   "text": "271"
+  }
+ ]
+}

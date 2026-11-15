@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 192,
+ "seconds": 25.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [458, 228, 777, 270], \"category\": \"Section-header\", \"text\": \"Medaljhistorierna\"}, {\"bbox\": [94, 298, 1137, 756], \"category\": \"Text\", \"text\": \"Även projektet till en annan medalj blev utarbetad av akademien och utan motstånd antaget. Den 9 november 1790 anmälde Adlerbeth, »det Cantzli Rådet von Rosenberg till honom lämnat ett bref från DomProbsten i Lund Doctor Petrus Munk, hwaruti jämte bifogade Protokolls Utdrag af den 25 och 27 i sistl. månad, hållna wid Skånska och Blekingska Prästerskapets Committerades Sammanträde i Consistorio Ecclesiastico, som utvisa, att Clerus beslutit utmärka sin vördnad för Kongl. Maj:t och glädje öfwer freden med en skådepenning till 30 Ducaters wigt; tillika anhålles om Witterhets Academiens utlåtande öfwer det till den ändan insände project. Samma project lydde, som följer:\"}, {\"bbox\": [133, 765, 888, 1088], \"category\": \"Text\", \"text\": \"första sidan:\\nOptimo Regi\\nGustavo III\\nEx bello Reduci\\nTriumphatori\\nAb Exteris non pendentis Imperii\\nVindici\\nGloriosae pacis\\nInstauratori\"}, {\"bbox\": [133, 1107, 845, 1348], \"category\": \"Text\", \"text\": \"andra sidan:\\nHunc Nummum\\nNon fucatae fidelitatis\\nTesseram\\nSubjectissime Sacrat\\nClerus Scaniae et Blekingiae.\\nAnno MDCCXC\"}, {\"bbox\": [96, 1377, 1136, 1751], \"category\": \"Text\", \"text\": \"Wid öfvervägande häraf funno academiens närvarande Ledamöter någon betänklighet vid en penning, som på ömse sidor blott ägde inscriptioner. Ett både med bruket och det ombyte, som mera behagar ögat, instämmande sätt att utmärka Prästerskapets åsyftade önskan syntes vara att på ena sidan föreställa Konungens bröstbild, namn och titel *Gustavus III D. G. Rex Sueciae* och på den andra sidan en Inscription, som i kortare ordalag kunde utrycka samma mening som de föreslagna twänne. Academiens närvarande Ledamöter funno följande därtill lämpeligast:\"}, {\"bbox\": [1064, 1779, 1130, 1817], \"category\": \"Page-footer\", \"text\": \"175\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    458,
+    228,
+    777,
+    270
+   ],
+   "category": "Section-header",
+   "text": "Medaljhistorierna"
+  },
+  {
+   "bbox": [
+    94,
+    298,
+    1137,
+    756
+   ],
+   "category": "Text",
+   "text": "Även projektet till en annan medalj blev utarbetad av akademien och utan motstånd antaget. Den 9 november 1790 anmälde Adlerbeth, »det Cantzli Rådet von Rosenberg till honom lämnat ett bref från DomProbsten i Lund Doctor Petrus Munk, hwaruti jämte bifogade Protokolls Utdrag af den 25 och 27 i sistl. månad, hållna wid Skånska och Blekingska Prästerskapets Committerades Sammanträde i Consistorio Ecclesiastico, som utvisa, att Clerus beslutit utmärka sin vördnad för Kongl. Maj:t och glädje öfwer freden med en skådepenning till 30 Ducaters wigt; tillika anhålles om Witterhets Academiens utlåtande öfwer det till den ändan insände project. Samma project lydde, som följer:"
+  },
+  {
+   "bbox": [
+    133,
+    765,
+    888,
+    1088
+   ],
+   "category": "Text",
+   "text": "första sidan:\nOptimo Regi\nGustavo III\nEx bello Reduci\nTriumphatori\nAb Exteris non pendentis Imperii\nVindici\nGloriosae pacis\nInstauratori"
+  },
+  {
+   "bbox": [
+    133,
+    1107,
+    845,
+    1348
+   ],
+   "category": "Text",
+   "text": "andra sidan:\nHunc Nummum\nNon fucatae fidelitatis\nTesseram\nSubjectissime Sacrat\nClerus Scaniae et Blekingiae.\nAnno MDCCXC"
+  },
+  {
+   "bbox": [
+    96,
+    1377,
+    1136,
+    1751
+   ],
+   "category": "Text",
+   "text": "Wid öfvervägande häraf funno academiens närvarande Ledamöter någon betänklighet vid en penning, som på ömse sidor blott ägde inscriptioner. Ett både med bruket och det ombyte, som mera behagar ögat, instämmande sätt att utmärka Prästerskapets åsyftade önskan syntes vara att på ena sidan föreställa Konungens bröstbild, namn och titel *Gustavus III D. G. Rex Sueciae* och på den andra sidan en Inscription, som i kortare ordalag kunde utrycka samma mening som de föreslagna twänne. Academiens närvarande Ledamöter funno följande därtill lämpeligast:"
+  },
+  {
+   "bbox": [
+    1064,
+    1779,
+    1130,
+    1817
+   ],
+   "category": "Page-footer",
+   "text": "175"
+  }
+ ]
+}

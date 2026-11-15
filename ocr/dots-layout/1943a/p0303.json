@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 303,
+ "seconds": 30.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [760, 234, 1193, 276], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [457, 304, 1496, 678], \"category\": \"Text\", \"text\": \"känna gifvit. Desse medel, tilsammans 109 Rd. 12 sk., som utgöra betalningen för hela fyndets vigt, 7 marker 30 Lod, sedan 6 Lod däraf blifvit afdragne för de därmed åtföljande småstenar och ler, som blifvit aftvättat, skulle Landshöfdingen anmodas at fyndets ägare tilställa. Uppå Herr Cantzli Rådet och Riddaren von Engeströms anmälan, at uti Kongl. Witterhets Historie och Antiquietets academien blifvit beslutit, det en del af ofvanberörde gamle silfvermynt skulle inlösas för bemelte Academies myntcabinett, så befaltes at följande Protocolls utdrag skulle utfärdas til Cantzli-Bokhållaren.\"}, {\"bbox\": [457, 676, 1498, 925], \"category\": \"Text\", \"text\": \"S. D. Som utaf et ifrån Landshöfdinge Ämbetet i Östergöthlands och Wadstena Län til Kongl. Collegium insändt fynd af gamle silfver mynt, en del kommer at för Kongl. Witterhets Historie och Antiquietets academien inlösas, så befaltes, at Cantzli Bokhållaren skulle till lösen deraf aflemna 22 Rd. 45 sk. specie. hvarom Protocolls utdrag til honom skulle utfärdas.»\"}, {\"bbox\": [457, 923, 1498, 1133], \"category\": \"Text\", \"text\": \"Vi skola nu skärskåda de olika punkterna. Det från Linköping inskickade myntbeståndet uppgives till 7 marker och 30 lod, d. v. s. (då 32 lod gå på marken) till 254 lod — eller med avdrag av 6 lod — 248 lod. Av dessa hade Kronan inlöst 12 lod, och det övriga uppgives till 236 lod. Detta stämmer.\"}, {\"bbox\": [457, 1130, 1500, 1378], \"category\": \"Text\", \"text\": \"Vidare uppgives, att hela det inlösta fyndet betalades med 109 rd r 12 sk., och denna uppgift är med säkerhet riktig, ty den styrkes av hittarnes kvitto. Därjämte uppgives, att 12 lod betalats med 24 sk. per lod, d. v. s. med 6 rd r och att 236 lod med 21 sk. per lod, d. v. s. 4,956 sk. eller 103 rd r 12 sk. Lägger man ihop dessa bägge summor får man 109 rd r 12 sk. Detta är således riktigt.\"}, {\"bbox\": [462, 1376, 1502, 1619], \"category\": \"Text\", \"text\": \"Men så stannar man inför en betydelsefull motsägelse. Först skrives, att Kronan för 6 rd r inlöst 12 lod, men sedan att Kronan betalat 22 rd r 45 sk. för inlösen av fyndet. Den senare uppgiften är alldeles riktig, ty den styrkes av Kanslikollegiets räkenskaper. Kronan har således av fyndet inlöst betydligt mera än de uppgivna 12 loden.\"}, {\"bbox\": [462, 1622, 1502, 1750], \"category\": \"Text\", \"text\": \"Frågan är då, om Kronan betalat, vad den enligt lag var skyldig att betala. Sedan de 6 rd r dragits från 109 rd r 12 sk. återstod 103 rd r 12 sk. eller 4,956 sk. Dela vi denna summa med 21, går divi-\"}, {\"bbox\": [471, 1779, 541, 1815], \"category\": \"Page-footer\", \"text\": \"282\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    760,
+    234,
+    1193,
+    276
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    457,
+    304,
+    1496,
+    678
+   ],
+   "category": "Text",
+   "text": "känna gifvit. Desse medel, tilsammans 109 Rd. 12 sk., som utgöra betalningen för hela fyndets vigt, 7 marker 30 Lod, sedan 6 Lod däraf blifvit afdragne för de därmed åtföljande småstenar och ler, som blifvit aftvättat, skulle Landshöfdingen anmodas at fyndets ägare tilställa. Uppå Herr Cantzli Rådet och Riddaren von Engeströms anmälan, at uti Kongl. Witterhets Historie och Antiquietets academien blifvit beslutit, det en del af ofvanberörde gamle silfvermynt skulle inlösas för bemelte Academies myntcabinett, så befaltes at följande Protocolls utdrag skulle utfärdas til Cantzli-Bokhållaren."
+  },
+  {
+   "bbox": [
+    457,
+    676,
+    1498,
+    925
+   ],
+   "category": "Text",
+   "text": "S. D. Som utaf et ifrån Landshöfdinge Ämbetet i Östergöthlands och Wadstena Län til Kongl. Collegium insändt fynd af gamle silfver mynt, en del kommer at för Kongl. Witterhets Historie och Antiquietets academien inlösas, så befaltes, at Cantzli Bokhållaren skulle till lösen deraf aflemna 22 Rd. 45 sk. specie. hvarom Protocolls utdrag til honom skulle utfärdas.»"
+  },
+  {
+   "bbox": [
+    457,
+    923,
+    1498,
+    1133
+   ],
+   "category": "Text",
+   "text": "Vi skola nu skärskåda de olika punkterna. Det från Linköping inskickade myntbeståndet uppgives till 7 marker och 30 lod, d. v. s. (då 32 lod gå på marken) till 254 lod — eller med avdrag av 6 lod — 248 lod. Av dessa hade Kronan inlöst 12 lod, och det övriga uppgives till 236 lod. Detta stämmer."
+  },
+  {
+   "bbox": [
+    457,
+    1130,
+    1500,
+    1378
+   ],
+   "category": "Text",
+   "text": "Vidare uppgives, att hela det inlösta fyndet betalades med 109 rd r 12 sk., och denna uppgift är med säkerhet riktig, ty den styrkes av hittarnes kvitto. Därjämte uppgives, att 12 lod betalats med 24 sk. per lod, d. v. s. med 6 rd r och att 236 lod med 21 sk. per lod, d. v. s. 4,956 sk. eller 103 rd r 12 sk. Lägger man ihop dessa bägge summor får man 109 rd r 12 sk. Detta är således riktigt."
+  },
+  {
+   "bbox": [
+    462,
+    1376,
+    1502,
+    1619
+   ],
+   "category": "Text",
+   "text": "Men så stannar man inför en betydelsefull motsägelse. Först skrives, att Kronan för 6 rd r inlöst 12 lod, men sedan att Kronan betalat 22 rd r 45 sk. för inlösen av fyndet. Den senare uppgiften är alldeles riktig, ty den styrkes av Kanslikollegiets räkenskaper. Kronan har således av fyndet inlöst betydligt mera än de uppgivna 12 loden."
+  },
+  {
+   "bbox": [
+    462,
+    1622,
+    1502,
+    1750
+   ],
+   "category": "Text",
+   "text": "Frågan är då, om Kronan betalat, vad den enligt lag var skyldig att betala. Sedan de 6 rd r dragits från 109 rd r 12 sk. återstod 103 rd r 12 sk. eller 4,956 sk. Dela vi denna summa med 21, går divi-"
+  },
+  {
+   "bbox": [
+    471,
+    1779,
+    541,
+    1815
+   ],
+   "category": "Page-footer",
+   "text": "282"
+  }
+ ]
+}

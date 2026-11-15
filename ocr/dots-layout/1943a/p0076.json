@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 76,
+ "seconds": 20.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [423, 229, 803, 272], \"category\": \"Section-header\", \"text\": \"De första månaderna\"}, {\"bbox\": [90, 299, 1130, 460], \"category\": \"Text\", \"text\": \"nu ej var närvarande — att författa en levnadsbeskrivning över akademiens avlidne ledamot, greve Rudenschöld, och åt Rosenstein att författa en levnadsbeskrivning över en annan bortgången ledamot, bibliotekarien Frondin.\"}, {\"bbox\": [90, 463, 1134, 1539], \"category\": \"Text\", \"text\": \"Av de tre utländska ledamöter, som tillhört Lovisa Ulricas akademi och vilka alla nu voro döda, ansåg Gustav III, att två så betydande författare som d'Alembert och Voltaire också borde hedras med äreminnen och utsåg Rosenstein att författa det över d'Alembert. Om lämpligheten av att på samma sätt hedra också Voltaire uppstod en — som det förefaller — livlig diskussion, vilken fick ganska vittgående följder, ehuru egendomligt nog icke för Vitterhets, Historie och Antikvitetsakademien utan för Svenska akademien: »Rörande det äreminne, som öfver Voltaire borde upresas, blef mycken tvekan. Academien erinrade, huru svårt det blefve at innefatta i en skrift alle et så widsträkt snilles, en så rik författares förtienster och arbeten, huru månge minnen öfver honom redan blifvit skrifne, och hade derför warit sinnad at igenom et skaldequäde, hvars författande Grefve Gyllenborg wille åtaga sig, wisa sin saknad öfver en Ledamots förlust, som hedrat ej allenast de sällskap och inrättningar, som fådt tilägna sig dess namn, utan äfven hela sitt Tidehvarf; men då Grefve Gyllenborg sielf wäkte den betänklighet, at äfven i bunden stil flere Lofoffer blifvit gifne Voltaires minne, föreslog Expeditions Secreteraren Elers såsom något nytt och tienande at utmärka academien från deras, som redan hedrat Voltaires minne, at öfver honom slå en skådepenning, hvartil Hans Mt. i nåder behagade lemna Bifall och updraga academiens Ledamöter at upfinna en sådan medaille, som Hans Mt. å Dess bekostnad wille låta slå. Densamma skulle den 24 nästkommande Julii på academiens offentlige sammankomst blifva allmänheten kundgjord i stället för det äreminne, som i annat fall bort upläsas.»\"}, {\"bbox\": [96, 1538, 1134, 1746], \"category\": \"Text\", \"text\": \"I akademiens statuter hade intet nämnts om några minnespenningar, som akademien borde slå, och i staten fanns intet anslag till dylika. I Svenska akademiens statuter finns heller intet om dem. Men tanken måtte ha tilltalat Gustav III, då han på hösten 1786 bestämde Svenska akademiens stat, ty i denna upptog han, såsom sagt,\"}, {\"bbox\": [1081, 1773, 1128, 1808], \"category\": \"Page-footer\", \"text\": \"61\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    423,
+    229,
+    803,
+    272
+   ],
+   "category": "Section-header",
+   "text": "De första månaderna"
+  },
+  {
+   "bbox": [
+    90,
+    299,
+    1130,
+    460
+   ],
+   "category": "Text",
+   "text": "nu ej var närvarande — att författa en levnadsbeskrivning över akademiens avlidne ledamot, greve Rudenschöld, och åt Rosenstein att författa en levnadsbeskrivning över en annan bortgången ledamot, bibliotekarien Frondin."
+  },
+  {
+   "bbox": [
+    90,
+    463,
+    1134,
+    1539
+   ],
+   "category": "Text",
+   "text": "Av de tre utländska ledamöter, som tillhört Lovisa Ulricas akademi och vilka alla nu voro döda, ansåg Gustav III, att två så betydande författare som d'Alembert och Voltaire också borde hedras med äreminnen och utsåg Rosenstein att författa det över d'Alembert. Om lämpligheten av att på samma sätt hedra också Voltaire uppstod en — som det förefaller — livlig diskussion, vilken fick ganska vittgående följder, ehuru egendomligt nog icke för Vitterhets, Historie och Antikvitetsakademien utan för Svenska akademien: »Rörande det äreminne, som öfver Voltaire borde upresas, blef mycken tvekan. Academien erinrade, huru svårt det blefve at innefatta i en skrift alle et så widsträkt snilles, en så rik författares förtienster och arbeten, huru månge minnen öfver honom redan blifvit skrifne, och hade derför warit sinnad at igenom et skaldequäde, hvars författande Grefve Gyllenborg wille åtaga sig, wisa sin saknad öfver en Ledamots förlust, som hedrat ej allenast de sällskap och inrättningar, som fådt tilägna sig dess namn, utan äfven hela sitt Tidehvarf; men då Grefve Gyllenborg sielf wäkte den betänklighet, at äfven i bunden stil flere Lofoffer blifvit gifne Voltaires minne, föreslog Expeditions Secreteraren Elers såsom något nytt och tienande at utmärka academien från deras, som redan hedrat Voltaires minne, at öfver honom slå en skådepenning, hvartil Hans Mt. i nåder behagade lemna Bifall och updraga academiens Ledamöter at upfinna en sådan medaille, som Hans Mt. å Dess bekostnad wille låta slå. Densamma skulle den 24 nästkommande Julii på academiens offentlige sammankomst blifva allmänheten kundgjord i stället för det äreminne, som i annat fall bort upläsas.»"
+  },
+  {
+   "bbox": [
+    96,
+    1538,
+    1134,
+    1746
+   ],
+   "category": "Text",
+   "text": "I akademiens statuter hade intet nämnts om några minnespenningar, som akademien borde slå, och i staten fanns intet anslag till dylika. I Svenska akademiens statuter finns heller intet om dem. Men tanken måtte ha tilltalat Gustav III, då han på hösten 1786 bestämde Svenska akademiens stat, ty i denna upptog han, såsom sagt,"
+  },
+  {
+   "bbox": [
+    1081,
+    1773,
+    1128,
+    1808
+   ],
+   "category": "Page-footer",
+   "text": "61"
+  }
+ ]
+}

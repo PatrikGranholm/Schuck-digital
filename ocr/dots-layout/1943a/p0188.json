@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 188,
+ "seconds": 25.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [468, 240, 794, 282], \"category\": \"Section-header\", \"text\": \"Medaljhistorierna\"}, {\"bbox\": [108, 310, 1146, 396], \"category\": \"Text\", \"text\": \"till åminnelse af Segren vid Svensksund d. 9 Julii 1790, bredvid hvilken var en värja med öfverskrift *Civis Princeps*\"}, {\"bbox\": [108, 398, 834, 765], \"category\": \"Text\", \"text\": \"Andra sidan:\\nGustavo III\\nLibertatis\\nPublicæ ac Privatæ\\nVindici Conservatori\\nEx Aquisgrano\\nIn Patriam\\nReduci\\nd. III Aug. MDCCXCI.\\nCives Stockholmenses\"}, {\"bbox\": [595, 778, 663, 812], \"category\": \"Text\", \"text\": \"eller\"}, {\"bbox\": [418, 824, 836, 1189], \"category\": \"Text\", \"text\": \"Gustavo III\\nLibertatis\\nPublicæ ac Privatæ\\nVindici Conservatori\\nEx Aquisgrano in Patriam\\nFirmata Valetudine\\nReduci\\nDie III Aug. MDCCXCI\\nCives Stockholmenses.\"}, {\"bbox\": [104, 1218, 1146, 1508], \"category\": \"Text\", \"text\": \"Desse af Herr Underståthållaren inlemnade upgifter blefvo de närvarande academiens Herrar Ledamöter förelagde, men som någon skiljaktighet i meningarne förekom, beslöts en Extraordinarie Sammankomst till Lördagen d. 17 nästkommande, då academien sluteligen ville lemna Sitt yttrande, under hvilken tid Herr Prosten Nordin och Herr Cantzli Rådet Vilde åtogo sig att granska projectet och upsätta nya i anledning af de discourser, som förefallit.»\"}, {\"bbox\": [104, 1507, 1146, 1631], \"category\": \"Text\", \"text\": \"Vid detta extraordinarie sammanträde hade emellertid blott fyra ledamöter — Engeström, Rosenberg, Nordin och Wilde — infunnit sig, under det att de mera försagda uteblivit.\"}, {\"bbox\": [104, 1631, 1146, 1756], \"category\": \"Text\", \"text\": \"»Academiens närvarande Herrar Ledamöter, ehuru ej till antalet så månge, som Lagarne fordra till ett med dem likmätigt beslut, företog detta ämne till sluteligt afgörande, och skulle de närvarandes\"}, {\"bbox\": [1076, 1794, 1138, 1832], \"category\": \"Page-footer\", \"text\": \"171\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    468,
+    240,
+    794,
+    282
+   ],
+   "category": "Section-header",
+   "text": "Medaljhistorierna"
+  },
+  {
+   "bbox": [
+    108,
+    310,
+    1146,
+    396
+   ],
+   "category": "Text",
+   "text": "till åminnelse af Segren vid Svensksund d. 9 Julii 1790, bredvid hvilken var en värja med öfverskrift *Civis Princeps*"
+  },
+  {
+   "bbox": [
+    108,
+    398,
+    834,
+    765
+   ],
+   "category": "Text",
+   "text": "Andra sidan:\nGustavo III\nLibertatis\nPublicæ ac Privatæ\nVindici Conservatori\nEx Aquisgrano\nIn Patriam\nReduci\nd. III Aug. MDCCXCI.\nCives Stockholmenses"
+  },
+  {
+   "bbox": [
+    595,
+    778,
+    663,
+    812
+   ],
+   "category": "Text",
+   "text": "eller"
+  },
+  {
+   "bbox": [
+    418,
+    824,
+    836,
+    1189
+   ],
+   "category": "Text",
+   "text": "Gustavo III\nLibertatis\nPublicæ ac Privatæ\nVindici Conservatori\nEx Aquisgrano in Patriam\nFirmata Valetudine\nReduci\nDie III Aug. MDCCXCI\nCives Stockholmenses."
+  },
+  {
+   "bbox": [
+    104,
+    1218,
+    1146,
+    1508
+   ],
+   "category": "Text",
+   "text": "Desse af Herr Underståthållaren inlemnade upgifter blefvo de närvarande academiens Herrar Ledamöter förelagde, men som någon skiljaktighet i meningarne förekom, beslöts en Extraordinarie Sammankomst till Lördagen d. 17 nästkommande, då academien sluteligen ville lemna Sitt yttrande, under hvilken tid Herr Prosten Nordin och Herr Cantzli Rådet Vilde åtogo sig att granska projectet och upsätta nya i anledning af de discourser, som förefallit.»"
+  },
+  {
+   "bbox": [
+    104,
+    1507,
+    1146,
+    1631
+   ],
+   "category": "Text",
+   "text": "Vid detta extraordinarie sammanträde hade emellertid blott fyra ledamöter — Engeström, Rosenberg, Nordin och Wilde — infunnit sig, under det att de mera försagda uteblivit."
+  },
+  {
+   "bbox": [
+    104,
+    1631,
+    1146,
+    1756
+   ],
+   "category": "Text",
+   "text": "»Academiens närvarande Herrar Ledamöter, ehuru ej till antalet så månge, som Lagarne fordra till ett med dem likmätigt beslut, företog detta ämne till sluteligt afgörande, och skulle de närvarandes"
+  },
+  {
+   "bbox": [
+    1076,
+    1794,
+    1138,
+    1832
+   ],
+   "category": "Page-footer",
+   "text": "171"
+  }
+ ]
+}

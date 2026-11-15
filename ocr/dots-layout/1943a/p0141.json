@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 141,
+ "seconds": 26.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [788, 473, 1222, 516], \"category\": \"Section-header\", \"text\": \"MEDALJHISTORIERNA\"}, {\"bbox\": [337, 584, 1530, 1165], \"category\": \"Text\", \"text\": \"Den förgusta-vianska tidens medaljhistoria Den nyss behandlade årliga tävlingen i sinnebildskonst kunde i viss mån betraktas såsom ett förarbete till denna medaljhistoria. De prisbelönta förslagen skulle antagligen tillerkännas hedern av att upptagas i denna, och genom tävlingarna förskaffade akademien sig medhjälpare i det arbete, som egentligen blott ålåg akademiens egna ledamöter. Så hade akademien genom dessa tävlingar äskat förslag till skådepenningar över märkliga personer och händelser under folkungatiden (1788 och 1789), under tiden från drottning Margareta till Gustav Vasa (1792 och 1793), under Gustav Adolf och Kristina (1786), under Karl Gustav (1787) och under Karl XI (1790 och 1791). Här var man således på god väg till en svensk medaljhistoria — tack vare allmänhetens medverkan. Sämre gick det med den insats, som akademien själv skulle göra, och här kom man icke längre än till ett snart bortglömt uppslag.\"}, {\"bbox\": [487, 1163, 1530, 1493], \"category\": \"Text\", \"text\": \"Vid ett av akademiens tidigaste sammanträden, den 30 maj 1786, tog man plikskyldigast upp frågan: »Då academien i kraft af 7 § i Dess förnyade Stadgar åligger at vara betänkt på en fullständig medaille historia öfver de förnämsta händelser, som utmärka fäderneslandets häfder, ifrån Monarchiens början til Konung Adolph Fredrics död, ansåg academien nödigt at öfverväga, hvad plan med et så vidsträckt arbete följas bör. I anledning af de samtal, som öfver detta ämne föreföllo, stadgade academien sina tankar derutinnan:\"}, {\"bbox\": [487, 1492, 1530, 1742], \"category\": \"Text\", \"text\": \"1°) At begynnelsen med detta arbete lämpeligast kunde göras ifrån K. Gustaf I:s tid, hvarifrån Sveriges sjelfständighet, et ordentligare regeringssätt, ett verksammare inflytande i Europa draga sin upprinnelse; Dock så, at academien, enär Svenska Konungarnas historia ifrån nyssnämde Stora Konung til K. Adolph Fredric hunnit färdig blifva, likmätigt ofvannämde § i stadgarne, sedermera sträcker sin\"}, {\"bbox\": [494, 1771, 563, 1808], \"category\": \"Page-footer\", \"text\": \"126\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    788,
+    473,
+    1222,
+    516
+   ],
+   "category": "Section-header",
+   "text": "MEDALJHISTORIERNA"
+  },
+  {
+   "bbox": [
+    337,
+    584,
+    1530,
+    1165
+   ],
+   "category": "Text",
+   "text": "Den förgusta-vianska tidens medaljhistoria Den nyss behandlade årliga tävlingen i sinnebildskonst kunde i viss mån betraktas såsom ett förarbete till denna medaljhistoria. De prisbelönta förslagen skulle antagligen tillerkännas hedern av att upptagas i denna, och genom tävlingarna förskaffade akademien sig medhjälpare i det arbete, som egentligen blott ålåg akademiens egna ledamöter. Så hade akademien genom dessa tävlingar äskat förslag till skådepenningar över märkliga personer och händelser under folkungatiden (1788 och 1789), under tiden från drottning Margareta till Gustav Vasa (1792 och 1793), under Gustav Adolf och Kristina (1786), under Karl Gustav (1787) och under Karl XI (1790 och 1791). Här var man således på god väg till en svensk medaljhistoria — tack vare allmänhetens medverkan. Sämre gick det med den insats, som akademien själv skulle göra, och här kom man icke längre än till ett snart bortglömt uppslag."
+  },
+  {
+   "bbox": [
+    487,
+    1163,
+    1530,
+    1493
+   ],
+   "category": "Text",
+   "text": "Vid ett av akademiens tidigaste sammanträden, den 30 maj 1786, tog man plikskyldigast upp frågan: »Då academien i kraft af 7 § i Dess förnyade Stadgar åligger at vara betänkt på en fullständig medaille historia öfver de förnämsta händelser, som utmärka fäderneslandets häfder, ifrån Monarchiens början til Konung Adolph Fredrics död, ansåg academien nödigt at öfverväga, hvad plan med et så vidsträckt arbete följas bör. I anledning af de samtal, som öfver detta ämne föreföllo, stadgade academien sina tankar derutinnan:"
+  },
+  {
+   "bbox": [
+    487,
+    1492,
+    1530,
+    1742
+   ],
+   "category": "Text",
+   "text": "1°) At begynnelsen med detta arbete lämpeligast kunde göras ifrån K. Gustaf I:s tid, hvarifrån Sveriges sjelfständighet, et ordentligare regeringssätt, ett verksammare inflytande i Europa draga sin upprinnelse; Dock så, at academien, enär Svenska Konungarnas historia ifrån nyssnämde Stora Konung til K. Adolph Fredric hunnit färdig blifva, likmätigt ofvannämde § i stadgarne, sedermera sträcker sin"
+  },
+  {
+   "bbox": [
+    494,
+    1771,
+    563,
+    1808
+   ],
+   "category": "Page-footer",
+   "text": "126"
+  }
+ ]
+}

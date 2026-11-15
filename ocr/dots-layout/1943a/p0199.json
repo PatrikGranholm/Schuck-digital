@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 199,
+ "seconds": 26.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [620, 494, 1448, 538], \"category\": \"Section-header\", \"text\": \"ÖVRIGA MEDALJER OCH INSKRIPTIONER\"}, {\"bbox\": [373, 615, 505, 700], \"category\": \"Text\", \"text\": \"Akademiens\\ngransknings-\\nrätt\"}, {\"bbox\": [511, 607, 1557, 1594], \"category\": \"Text\", \"text\": \"Vida mindre upptogs akademiens tid med granskning av andra medaljer. Före akademiens instiftelse var det Kanslikollegiet, som i detta fall anlitades, men efter den 20 mars 1786 skulle enligt Gustav III:s plan den nya akademien träda i kollegiets ställe såsom den högsta instansen i alla medaljfrågor. Medaljören Enhörning, som 1786 påbörjade en medaljsvit över svenska konungar från och med Gustav Vasa, vände sig den 9 mars 1786 — således några få dagar före akademiens instiftelse — till Kanslikollegiet med ett project till en jetton över Gustav Vasa och bad »om K. Collii tillstånd til dess afpräglande. K. Coll:m, som häremot ej hade något at erinra, befalte, at vederbörande vid K. Myntet därom skulle efterrättelse genom detta Prot. Utdrag förständigas.» Den 16 maj samma år — eller omkring två månader efter akademiens tillkomst — kom han med en ny begäran, om godkännandet av en jetton över konung Sigismund. Kollegiet biföll ansökningen, men »härvid gjordes tillika den anmärkning, at hädanefter medailleuren Enhörning hafver at med sviten af dessa jettoner vända sig til Kungl. Vitterhets Historie och Antiquitets akademien, som enligt Kongl. Maj:ts nådigst utfärdade kungörelse hädanefter kommer at alla dylika skådepenningar öfverse och till utgifvande i allmänheten gilla». Enhörning ställde sig denna anvisning till efterrättelse, och den 16 augusti ingav han till akademien en i bly utförd jetton över drottning Kristina samt begärde akademiens tillstånd att få prägla densamma, vilket beviljades — det första dylika tillstånd, som akademien utfärdat.\"}, {\"bbox\": [516, 1596, 1557, 1763], \"category\": \"Text\", \"text\": \"Emellertid var akademiens rätt att granska de skådepenningar, som privatpersoner önskade prägla, ingalunda klar och ostridig. § 16 i statuterna ålade visserligen akademien att på begäran av ett samhälle eller en enskild medborgare stå dem till tjänst med inskriptioner, men\"}, {\"bbox\": [522, 1792, 588, 1830], \"category\": \"Page-footer\", \"text\": \"182\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    620,
+    494,
+    1448,
+    538
+   ],
+   "category": "Section-header",
+   "text": "ÖVRIGA MEDALJER OCH INSKRIPTIONER"
+  },
+  {
+   "bbox": [
+    373,
+    615,
+    505,
+    700
+   ],
+   "category": "Text",
+   "text": "Akademiens\ngransknings-\nrätt"
+  },
+  {
+   "bbox": [
+    511,
+    607,
+    1557,
+    1594
+   ],
+   "category": "Text",
+   "text": "Vida mindre upptogs akademiens tid med granskning av andra medaljer. Före akademiens instiftelse var det Kanslikollegiet, som i detta fall anlitades, men efter den 20 mars 1786 skulle enligt Gustav III:s plan den nya akademien träda i kollegiets ställe såsom den högsta instansen i alla medaljfrågor. Medaljören Enhörning, som 1786 påbörjade en medaljsvit över svenska konungar från och med Gustav Vasa, vände sig den 9 mars 1786 — således några få dagar före akademiens instiftelse — till Kanslikollegiet med ett project till en jetton över Gustav Vasa och bad »om K. Collii tillstånd til dess afpräglande. K. Coll:m, som häremot ej hade något at erinra, befalte, at vederbörande vid K. Myntet därom skulle efterrättelse genom detta Prot. Utdrag förständigas.» Den 16 maj samma år — eller omkring två månader efter akademiens tillkomst — kom han med en ny begäran, om godkännandet av en jetton över konung Sigismund. Kollegiet biföll ansökningen, men »härvid gjordes tillika den anmärkning, at hädanefter medailleuren Enhörning hafver at med sviten af dessa jettoner vända sig til Kungl. Vitterhets Historie och Antiquitets akademien, som enligt Kongl. Maj:ts nådigst utfärdade kungörelse hädanefter kommer at alla dylika skådepenningar öfverse och till utgifvande i allmänheten gilla». Enhörning ställde sig denna anvisning till efterrättelse, och den 16 augusti ingav han till akademien en i bly utförd jetton över drottning Kristina samt begärde akademiens tillstånd att få prägla densamma, vilket beviljades — det första dylika tillstånd, som akademien utfärdat."
+  },
+  {
+   "bbox": [
+    516,
+    1596,
+    1557,
+    1763
+   ],
+   "category": "Text",
+   "text": "Emellertid var akademiens rätt att granska de skådepenningar, som privatpersoner önskade prägla, ingalunda klar och ostridig. § 16 i statuterna ålade visserligen akademien att på begäran av ett samhälle eller en enskild medborgare stå dem till tjänst med inskriptioner, men"
+  },
+  {
+   "bbox": [
+    522,
+    1792,
+    588,
+    1830
+   ],
+   "category": "Page-footer",
+   "text": "182"
+  }
+ ]
+}

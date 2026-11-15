@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 120,
+ "seconds": 30.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [538, 239, 720, 282], \"category\": \"Section-header\", \"text\": \"Tävlingar\"}, {\"bbox\": [105, 309, 1147, 394], \"category\": \"Text\", \"text\": \"vince Lagarna gifwa till kännedom af Nationens tillstånd, och kommer nytt förslag till ämne för historiska priset nästa år att upsättas.»\"}, {\"bbox\": [105, 393, 1147, 1006], \"category\": \"Text\", \"text\": \"Omedelbart därefter meddelade Adlerbeth, att författaren nu givit sig tillkänna och var Magister Docens i Uppsala Fale Burman. Året förut hade han vunnit Svenska akademiens stora pris för en jämförelse mellan Axel Oxenstierna och Richelieu och var således en icke alldeles obekant författare. Hans avhandling trycktes i sjätte delen av akademiens Handlingar, som kom ut 1800, och det är tydligt, att den senare delen blivit mycket grundligt omarbetad och utvidgad. Trots den verkligt betydande beläsenhet, som författaren ådagalägger, har han dock knappt kunnat tillfredsställande besvara den första delen av prisfrågan, om landskapslagarnas ålder, och ehuru lärjunge till Ihre, har han icke kunnat tillägna sig dennes kritiska skärpa vid bedömandet av det historiska värdet av de isländska författarnas uppgifter om vårt land. Hans avhandling torde dock vara det mest betydande vetenskapliga specimen, som akademien under Adlerbeths tid fick bedöma.\"}, {\"bbox\": [105, 1011, 1221, 1137], \"category\": \"Text\", \"text\": \"De belöningar, som den 20 mars 1792 skulle utdelas, voro således klara, och den 28 februari upprättade akademien sitt förslag till nya prisämnen för 1793 års tävlan: 1793\"}, {\"bbox\": [105, 1135, 1144, 1212], \"category\": \"Text\", \"text\": \"»1) Afhandling om svenska bergverkens tillstånd och öden från älsta tider till K. Gustaf I^s.\"}, {\"bbox\": [143, 1217, 1040, 1258], \"category\": \"Text\", \"text\": \"2) Försök till Historia om Skånska sillfisket i medeltiden.\"}, {\"bbox\": [143, 1258, 1098, 1302], \"category\": \"Text\", \"text\": \"3) Afhandling om mynt och warors wärde i K. Gustaf I^s tid.»\"}, {\"bbox\": [105, 1302, 1144, 1384], \"category\": \"Text\", \"text\": \"Den 13 mars — således tre dagar före den ödesdigra operamaskeraden — meddelades, att konungen valt det första av dessa prisämnen.\"}, {\"bbox\": [105, 1384, 1144, 1756], \"category\": \"Text\", \"text\": \"Den 20 januari 1793 hade som vanligt blott en enda skrift inkommit om det i historia utsatta tävlingsämnet, och vid sammanträdet två dagar senare överlämnades den till Hallenbergs och Wildes granskning. Den 5 februari upplästes den för akademien, och efteråt föredrogos Hallenbergs anmärkningar: »Herr Kongl. Secreteraren Hallenberg anförde, det författaren icke kunde bestridas den förtjenst att hafva gjort åtskilliga undersökningar i sitt ämne och jämwäl nyttjat åtskilligt af det, som berömde författare därutinnan redan utarbetat, i synnerhet den berömde Langebeck. Men nödgades till-\"}, {\"bbox\": [1073, 1791, 1139, 1829], \"category\": \"Page-footer\", \"text\": \"105\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    538,
+    239,
+    720,
+    282
+   ],
+   "category": "Section-header",
+   "text": "Tävlingar"
+  },
+  {
+   "bbox": [
+    105,
+    309,
+    1147,
+    394
+   ],
+   "category": "Text",
+   "text": "vince Lagarna gifwa till kännedom af Nationens tillstånd, och kommer nytt förslag till ämne för historiska priset nästa år att upsättas.»"
+  },
+  {
+   "bbox": [
+    105,
+    393,
+    1147,
+    1006
+   ],
+   "category": "Text",
+   "text": "Omedelbart därefter meddelade Adlerbeth, att författaren nu givit sig tillkänna och var Magister Docens i Uppsala Fale Burman. Året förut hade han vunnit Svenska akademiens stora pris för en jämförelse mellan Axel Oxenstierna och Richelieu och var således en icke alldeles obekant författare. Hans avhandling trycktes i sjätte delen av akademiens Handlingar, som kom ut 1800, och det är tydligt, att den senare delen blivit mycket grundligt omarbetad och utvidgad. Trots den verkligt betydande beläsenhet, som författaren ådagalägger, har han dock knappt kunnat tillfredsställande besvara den första delen av prisfrågan, om landskapslagarnas ålder, och ehuru lärjunge till Ihre, har han icke kunnat tillägna sig dennes kritiska skärpa vid bedömandet av det historiska värdet av de isländska författarnas uppgifter om vårt land. Hans avhandling torde dock vara det mest betydande vetenskapliga specimen, som akademien under Adlerbeths tid fick bedöma."
+  },
+  {
+   "bbox": [
+    105,
+    1011,
+    1221,
+    1137
+   ],
+   "category": "Text",
+   "text": "De belöningar, som den 20 mars 1792 skulle utdelas, voro således klara, och den 28 februari upprättade akademien sitt förslag till nya prisämnen för 1793 års tävlan: 1793"
+  },
+  {
+   "bbox": [
+    105,
+    1135,
+    1144,
+    1212
+   ],
+   "category": "Text",
+   "text": "»1) Afhandling om svenska bergverkens tillstånd och öden från älsta tider till K. Gustaf I^s."
+  },
+  {
+   "bbox": [
+    143,
+    1217,
+    1040,
+    1258
+   ],
+   "category": "Text",
+   "text": "2) Försök till Historia om Skånska sillfisket i medeltiden."
+  },
+  {
+   "bbox": [
+    143,
+    1258,
+    1098,
+    1302
+   ],
+   "category": "Text",
+   "text": "3) Afhandling om mynt och warors wärde i K. Gustaf I^s tid.»"
+  },
+  {
+   "bbox": [
+    105,
+    1302,
+    1144,
+    1384
+   ],
+   "category": "Text",
+   "text": "Den 13 mars — således tre dagar före den ödesdigra operamaskeraden — meddelades, att konungen valt det första av dessa prisämnen."
+  },
+  {
+   "bbox": [
+    105,
+    1384,
+    1144,
+    1756
+   ],
+   "category": "Text",
+   "text": "Den 20 januari 1793 hade som vanligt blott en enda skrift inkommit om det i historia utsatta tävlingsämnet, och vid sammanträdet två dagar senare överlämnades den till Hallenbergs och Wildes granskning. Den 5 februari upplästes den för akademien, och efteråt föredrogos Hallenbergs anmärkningar: »Herr Kongl. Secreteraren Hallenberg anförde, det författaren icke kunde bestridas den förtjenst att hafva gjort åtskilliga undersökningar i sitt ämne och jämwäl nyttjat åtskilligt af det, som berömde författare därutinnan redan utarbetat, i synnerhet den berömde Langebeck. Men nödgades till-"
+  },
+  {
+   "bbox": [
+    1073,
+    1791,
+    1139,
+    1829
+   ],
+   "category": "Page-footer",
+   "text": "105"
+  }
+ ]
+}

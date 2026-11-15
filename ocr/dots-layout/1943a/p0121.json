@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 121,
+ "seconds": 28.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [785, 238, 1216, 280], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [481, 308, 1520, 1134], \"category\": \"Text\", \"text\": \"lika påminna, att sådant icke wore nog fullständigt att utgöra en nöjaktig afhandling. Han hade för den äldsta tidens eller Svenska bergverkens tillstånd före Christendomens införande nyttjat en onödig widlyftighet för att upgifva det man föga eller intet med visshet vet, uppehållit sig wid ämnen, som ej egentligen hörde till saken och hämtat stöd af flere sagor, för hvilkas trowärdighet man ej kan gå i borgen. Hwaremot författaren i sina undersökningar för den senare och vissare tiden varit ofullständig och stympad, icke tillräckligen samlat hvad hos våre kände Häfdateknare, en Langebeck, en Lagerbring m. fl. stått att finna, icke nog sorgfälligt fölgt publiqua Handlingar och författningar till ådagaläggande af Bergwerkens skick och tilltagande tid efter annan. I allmänhet saknades den method, som medför redighet, genom ämnenas afbrott och sammanblandning. Hvarförutom sjelfva skrifarten var så wårdslösad, att all mening flerestädes saknades och nästan öfveralt städning och renhet. Af sådan anledning trodde Herr Kongl. Secreteraren den okände författaren icke kunna belönas. Herr Cantzli Rådet Wilde ansåg åter dess nedlagda möda förtjäna något wedermäle af academiens wälbehag, hälst både skrifarten kunde hjelpas och fullständighet vinnas, där den saknades, om academien till den ändan meddelte anmärkningar.\"}, {\"bbox\": [484, 1134, 1520, 1422], \"category\": \"Text\", \"text\": \"De öfrige närvarande Ledamöter funno dock betänkligt att meddela någon belöning åt ett arbete med så många brister och det så mycket mera, som enligt Herr Cantzli Rådet von Rosensteins anmärkning i Historiska försök icke något sådant skäl af upmuntran borde äga rum som i skalde- och wältalighets-Stycken, där Snillet hämtar det mästa af sitt eget förråd, hvaremot i de förra författarens beläsenhet, flit, sunda omdöme och granskning försäkra honom att lyckas.\"}, {\"bbox\": [484, 1422, 1520, 1754], \"category\": \"Text\", \"text\": \"Dock på det att författaren till den skärskådade afhandlingen ej måtte sakna tillfälle att förbättra den samma, beslöts enhälligt, det academien skulle anhålla om Konungens tillstånd att för ingående år upgifva samma ämne, då Secreteraren efter giord intimation i Dagbladen att erhålla författarens address, kunde underrätta honom i afpassade ordalag om de erinringar, academien vid hans försök funnit nödigt att göra samt att han med dess iakttagande kunde göra sig hopp om en lyckligare utgång nästa år.»\"}, {\"bbox\": [492, 1782, 562, 1819], \"category\": \"Page-footer\", \"text\": \"106\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    785,
+    238,
+    1216,
+    280
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    481,
+    308,
+    1520,
+    1134
+   ],
+   "category": "Text",
+   "text": "lika påminna, att sådant icke wore nog fullständigt att utgöra en nöjaktig afhandling. Han hade för den äldsta tidens eller Svenska bergverkens tillstånd före Christendomens införande nyttjat en onödig widlyftighet för att upgifva det man föga eller intet med visshet vet, uppehållit sig wid ämnen, som ej egentligen hörde till saken och hämtat stöd af flere sagor, för hvilkas trowärdighet man ej kan gå i borgen. Hwaremot författaren i sina undersökningar för den senare och vissare tiden varit ofullständig och stympad, icke tillräckligen samlat hvad hos våre kände Häfdateknare, en Langebeck, en Lagerbring m. fl. stått att finna, icke nog sorgfälligt fölgt publiqua Handlingar och författningar till ådagaläggande af Bergwerkens skick och tilltagande tid efter annan. I allmänhet saknades den method, som medför redighet, genom ämnenas afbrott och sammanblandning. Hvarförutom sjelfva skrifarten var så wårdslösad, att all mening flerestädes saknades och nästan öfveralt städning och renhet. Af sådan anledning trodde Herr Kongl. Secreteraren den okände författaren icke kunna belönas. Herr Cantzli Rådet Wilde ansåg åter dess nedlagda möda förtjäna något wedermäle af academiens wälbehag, hälst både skrifarten kunde hjelpas och fullständighet vinnas, där den saknades, om academien till den ändan meddelte anmärkningar."
+  },
+  {
+   "bbox": [
+    484,
+    1134,
+    1520,
+    1422
+   ],
+   "category": "Text",
+   "text": "De öfrige närvarande Ledamöter funno dock betänkligt att meddela någon belöning åt ett arbete med så många brister och det så mycket mera, som enligt Herr Cantzli Rådet von Rosensteins anmärkning i Historiska försök icke något sådant skäl af upmuntran borde äga rum som i skalde- och wältalighets-Stycken, där Snillet hämtar det mästa af sitt eget förråd, hvaremot i de förra författarens beläsenhet, flit, sunda omdöme och granskning försäkra honom att lyckas."
+  },
+  {
+   "bbox": [
+    484,
+    1422,
+    1520,
+    1754
+   ],
+   "category": "Text",
+   "text": "Dock på det att författaren till den skärskådade afhandlingen ej måtte sakna tillfälle att förbättra den samma, beslöts enhälligt, det academien skulle anhålla om Konungens tillstånd att för ingående år upgifva samma ämne, då Secreteraren efter giord intimation i Dagbladen att erhålla författarens address, kunde underrätta honom i afpassade ordalag om de erinringar, academien vid hans försök funnit nödigt att göra samt att han med dess iakttagande kunde göra sig hopp om en lyckligare utgång nästa år.»"
+  },
+  {
+   "bbox": [
+    492,
+    1782,
+    562,
+    1819
+   ],
+   "category": "Page-footer",
+   "text": "106"
+  }
+ ]
+}

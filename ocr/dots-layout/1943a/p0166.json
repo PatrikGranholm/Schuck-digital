@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 166,
+ "seconds": 29.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [461, 242, 780, 285], \"category\": \"Section-header\", \"text\": \"Medaljhistorierna\"}, {\"bbox\": [100, 313, 1136, 479], \"category\": \"Text\", \"text\": \"känna.» Men chefsplatsen i ämbetet stod vakant från Fredenheims död till 1805, då Edelcrantz utnämndes till överintendent, och det är väl därför sannolikt, att arbetet på medaljhistorien fullständigt upphört med Fredenheims bortgång.\"}, {\"bbox\": [98, 479, 1136, 1387], \"category\": \"Text\", \"text\": \"Handlingarna — Adlerbeths Beskrifningar m. m. — och de färdiga gravyrerna förblevo sedan liggande i Överintendentsämbetet, och 1855 gjorde G. E. Klemming upp en katalog på de då bevarade planscherna, som till större delen förskingrats. Av titelbladet och de sju första planscherna funnos omkring 1,000 avtryck kvar, av nr 8 ungefär 500, men av de närmast följande oftast blott enstaka blad, ibland inga alls, och av alla nummer efter nr 8 förelågo endast sju i över 100 avtryck. Lyckligtvis funnos kopparplåtarna till gravyrerna kvar i Riksarkivet, och 1840 överlämnades de till Vitterhets Historie och Antikvitetsakademien. 1847 fick akademien från Överintendentsämbetet mottaga det återstående pappersförrådet, och akademien ansåg sig då »böra utsöka några fullständiga exemplar af de redan färdigtryckta plancherna samt, där sådana saknats, låta af de befintliga plåtarne afdraga ett motsvarande antal exemplar för att således kunna låta detta kostbara, ehuru fragmentariska verk utgå i en liten upplaga». Denna, utgiven av B. E. Hildebrand, utkom 1858. Den serie, som planerades på Gustav III:s tid, är i denna upplaga fullständig t. o. m. nr 78 (karusellen på Drottningholm 1785). Men av de tillämnade, följande numren saknas många, som aldrig blivit graverade eller till vilka plåtar och avtryck förkommit. Redan mellan nr 78 och 98 saknas flera, och efter nr 91 finnas endast tre kvar — den sista är nr 110 (konungens död 1792).\"}, {\"bbox\": [98, 1387, 1134, 1634], \"category\": \"Text\", \"text\": \"Officiellt hade akademien ingenting att skaffa med medaljhistorien — den hade ju planerats och satts i gång före akademiens stiftelseår. Men redan i början av sin verksamhet måste akademien yttra sig om alla de nya skådepenningar, som skulle präglas för att ingå i detta praktverk. Medaljhistorien blev därför ett bland de ämnen, som mest kom att upptaga akademiens tid.\"}, {\"bbox\": [98, 1634, 1132, 1707], \"category\": \"Text\", \"text\": \"Redan den 16 augusti 1786 fick akademien behandla ett dylikt ärende:\"}, {\"bbox\": [130, 1716, 1132, 1759], \"category\": \"Text\", \"text\": \"»Sedan Herrar Banco Fullmägtige af academien begärt upgift til\"}, {\"bbox\": [1136, 1396, 1279, 1512], \"category\": \"Text\", \"text\": \"Akademien och Gustav III:s medalj-historia\"}, {\"bbox\": [1060, 1796, 1129, 1834], \"category\": \"Page-footer\", \"text\": \"149\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    461,
+    242,
+    780,
+    285
+   ],
+   "category": "Section-header",
+   "text": "Medaljhistorierna"
+  },
+  {
+   "bbox": [
+    100,
+    313,
+    1136,
+    479
+   ],
+   "category": "Text",
+   "text": "känna.» Men chefsplatsen i ämbetet stod vakant från Fredenheims död till 1805, då Edelcrantz utnämndes till överintendent, och det är väl därför sannolikt, att arbetet på medaljhistorien fullständigt upphört med Fredenheims bortgång."
+  },
+  {
+   "bbox": [
+    98,
+    479,
+    1136,
+    1387
+   ],
+   "category": "Text",
+   "text": "Handlingarna — Adlerbeths Beskrifningar m. m. — och de färdiga gravyrerna förblevo sedan liggande i Överintendentsämbetet, och 1855 gjorde G. E. Klemming upp en katalog på de då bevarade planscherna, som till större delen förskingrats. Av titelbladet och de sju första planscherna funnos omkring 1,000 avtryck kvar, av nr 8 ungefär 500, men av de närmast följande oftast blott enstaka blad, ibland inga alls, och av alla nummer efter nr 8 förelågo endast sju i över 100 avtryck. Lyckligtvis funnos kopparplåtarna till gravyrerna kvar i Riksarkivet, och 1840 överlämnades de till Vitterhets Historie och Antikvitetsakademien. 1847 fick akademien från Överintendentsämbetet mottaga det återstående pappersförrådet, och akademien ansåg sig då »böra utsöka några fullständiga exemplar af de redan färdigtryckta plancherna samt, där sådana saknats, låta af de befintliga plåtarne afdraga ett motsvarande antal exemplar för att således kunna låta detta kostbara, ehuru fragmentariska verk utgå i en liten upplaga». Denna, utgiven av B. E. Hildebrand, utkom 1858. Den serie, som planerades på Gustav III:s tid, är i denna upplaga fullständig t. o. m. nr 78 (karusellen på Drottningholm 1785). Men av de tillämnade, följande numren saknas många, som aldrig blivit graverade eller till vilka plåtar och avtryck förkommit. Redan mellan nr 78 och 98 saknas flera, och efter nr 91 finnas endast tre kvar — den sista är nr 110 (konungens död 1792)."
+  },
+  {
+   "bbox": [
+    98,
+    1387,
+    1134,
+    1634
+   ],
+   "category": "Text",
+   "text": "Officiellt hade akademien ingenting att skaffa med medaljhistorien — den hade ju planerats och satts i gång före akademiens stiftelseår. Men redan i början av sin verksamhet måste akademien yttra sig om alla de nya skådepenningar, som skulle präglas för att ingå i detta praktverk. Medaljhistorien blev därför ett bland de ämnen, som mest kom att upptaga akademiens tid."
+  },
+  {
+   "bbox": [
+    98,
+    1634,
+    1132,
+    1707
+   ],
+   "category": "Text",
+   "text": "Redan den 16 augusti 1786 fick akademien behandla ett dylikt ärende:"
+  },
+  {
+   "bbox": [
+    130,
+    1716,
+    1132,
+    1759
+   ],
+   "category": "Text",
+   "text": "»Sedan Herrar Banco Fullmägtige af academien begärt upgift til"
+  },
+  {
+   "bbox": [
+    1136,
+    1396,
+    1279,
+    1512
+   ],
+   "category": "Text",
+   "text": "Akademien och Gustav III:s medalj-historia"
+  },
+  {
+   "bbox": [
+    1060,
+    1796,
+    1129,
+    1834
+   ],
+   "category": "Page-footer",
+   "text": "149"
+  }
+ ]
+}

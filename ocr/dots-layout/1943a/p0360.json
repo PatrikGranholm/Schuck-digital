@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 360,
+ "seconds": 28.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [337, 231, 875, 274], \"category\": \"Section-header\", \"text\": \"Fornvård och korrespondenter\"}, {\"bbox\": [82, 301, 1124, 757], \"category\": \"Text\", \"text\": \"Den 2 juni 1788 skrev Schröderheim till Adlerbeth: »Sedan Kongl. Maij:t i anledning af Dess Vitterhets Antiquitets och Historie academies underd. hemställan ang[åen]de de i orterne befintelige minnesvårdar och monumenter anbefalt mig att i detta ämne med vederörande Correspondera, har jag tillskrifvit någre Herrar Landshöfdingar och Biskopar på sätt min i afskrift bilagda skrifvelse utvisar, och får jag nu tillika öfverlämna de ankomna bref, då de återstående skola följa, så snart jag dem erhåller.» Adlerbeth gjorde då ett transsumt av de till Schröderheim översända breven och svarade Schröderheim i ett långt brev, som finnes kvar dels i koncept, dels i akademiens protokoll för den 2 juni 1788:\"}, {\"bbox\": [80, 757, 1121, 1086], \"category\": \"Text\", \"text\": \"»Secreteraren upläste ett till honom ankommit ämbetsbref ifrån Herr Statssecreteraren och Commendeuren Schröderheim af denna dag, hvarjämte Herr Statssecreteraren bifogat de Svar, som ifrån Herrar Landshöfdingar och Biskopar inkommit å de till dem afgångna bref med anmodan att inkomma med förslag till bästa utvägarne att erhålla ritningar och beskrifningar öfver de i Riket befindeliga monumenter. Ägandes academien tillfälle att härvid yttra sina tankar.\"}, {\"bbox\": [117, 1086, 595, 1127], \"category\": \"Text\", \"text\": \"De omnämda brefven uplästes.\"}, {\"bbox\": [80, 1127, 1119, 1251], \"category\": \"Text\", \"text\": \"I anledning häraf stadnade academien i följande mening, hvilken Secreteraren befaltes att i academiens namn genom svar till Herr StatsSecreteraren Schröderheim skrifteligen anmäla.\"}, {\"bbox\": [77, 1251, 1119, 1749], \"category\": \"Text\", \"text\": \"I de vidtagne anstalter till Konungens Befallningshafvandes och Biskoparnes hörande öfver ett ämne, som i anledning af den academien i nåder updragna befattning varit henne ömt om hjertat, igenkände academien med underdånig wördnad Konungens nådiga wård om witterheten i dess Rike och ansåg likaledes med fullkomligaste erkänsla det tillstånd henne blifvit förunnadt att i anledning af de inkomna svar få till Herr StatsSecreteraren yttra Sina tankar. Med undantag af Herr Biskop Wallqwists utlåtande och af de Herrar Landshöfdingars, som als ingen person kunnat inom sina län föreslå till de äskade beskrifningars och ritningars werkställande, gå alla de öfriga inkomna swar däruppå ut, att till detta arbetes bestridande upgifva några wissa i hvarje Landsort för skickliga ansedde perso-\"}, {\"bbox\": [1042, 1786, 1112, 1824], \"category\": \"Page-footer\", \"text\": \"339\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    337,
+    231,
+    875,
+    274
+   ],
+   "category": "Section-header",
+   "text": "Fornvård och korrespondenter"
+  },
+  {
+   "bbox": [
+    82,
+    301,
+    1124,
+    757
+   ],
+   "category": "Text",
+   "text": "Den 2 juni 1788 skrev Schröderheim till Adlerbeth: »Sedan Kongl. Maij:t i anledning af Dess Vitterhets Antiquitets och Historie academies underd. hemställan ang[åen]de de i orterne befintelige minnesvårdar och monumenter anbefalt mig att i detta ämne med vederörande Correspondera, har jag tillskrifvit någre Herrar Landshöfdingar och Biskopar på sätt min i afskrift bilagda skrifvelse utvisar, och får jag nu tillika öfverlämna de ankomna bref, då de återstående skola följa, så snart jag dem erhåller.» Adlerbeth gjorde då ett transsumt av de till Schröderheim översända breven och svarade Schröderheim i ett långt brev, som finnes kvar dels i koncept, dels i akademiens protokoll för den 2 juni 1788:"
+  },
+  {
+   "bbox": [
+    80,
+    757,
+    1121,
+    1086
+   ],
+   "category": "Text",
+   "text": "»Secreteraren upläste ett till honom ankommit ämbetsbref ifrån Herr Statssecreteraren och Commendeuren Schröderheim af denna dag, hvarjämte Herr Statssecreteraren bifogat de Svar, som ifrån Herrar Landshöfdingar och Biskopar inkommit å de till dem afgångna bref med anmodan att inkomma med förslag till bästa utvägarne att erhålla ritningar och beskrifningar öfver de i Riket befindeliga monumenter. Ägandes academien tillfälle att härvid yttra sina tankar."
+  },
+  {
+   "bbox": [
+    117,
+    1086,
+    595,
+    1127
+   ],
+   "category": "Text",
+   "text": "De omnämda brefven uplästes."
+  },
+  {
+   "bbox": [
+    80,
+    1127,
+    1119,
+    1251
+   ],
+   "category": "Text",
+   "text": "I anledning häraf stadnade academien i följande mening, hvilken Secreteraren befaltes att i academiens namn genom svar till Herr StatsSecreteraren Schröderheim skrifteligen anmäla."
+  },
+  {
+   "bbox": [
+    77,
+    1251,
+    1119,
+    1749
+   ],
+   "category": "Text",
+   "text": "I de vidtagne anstalter till Konungens Befallningshafvandes och Biskoparnes hörande öfver ett ämne, som i anledning af den academien i nåder updragna befattning varit henne ömt om hjertat, igenkände academien med underdånig wördnad Konungens nådiga wård om witterheten i dess Rike och ansåg likaledes med fullkomligaste erkänsla det tillstånd henne blifvit förunnadt att i anledning af de inkomna svar få till Herr StatsSecreteraren yttra Sina tankar. Med undantag af Herr Biskop Wallqwists utlåtande och af de Herrar Landshöfdingars, som als ingen person kunnat inom sina län föreslå till de äskade beskrifningars och ritningars werkställande, gå alla de öfriga inkomna swar däruppå ut, att till detta arbetes bestridande upgifva några wissa i hvarje Landsort för skickliga ansedde perso-"
+  },
+  {
+   "bbox": [
+    1042,
+    1786,
+    1112,
+    1824
+   ],
+   "category": "Page-footer",
+   "text": "339"
+  }
+ ]
+}

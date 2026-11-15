@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 454,
+ "seconds": 17.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [558, 234, 716, 268], \"category\": \"Section-header\", \"text\": \"Innehåll\"}, {\"bbox\": [119, 304, 1159, 349], \"category\": \"List-item\", \"text\": \"Den tilltänkta katalogen över kufiska mynt 376\"}, {\"bbox\": [199, 352, 1079, 532], \"category\": \"Text\", \"text\": \"Beslut att ordna den kufiska myntsamlingen 376. Malmström får uppdraget 377. Planen utvidgas till en katalog 378. Mynten skola graveras i koppar 379. Planen utvidgas ytterligare 380. Äldre kataloger 384. Malmströms katalog 385. Korrespondens om arabiska mynt i svenska samlingar 386. Malmström skall utgiva även en avhandling om arabiska mynt 391. Malmström blir professor i Åbo 393. Katalogarbetet avstannar 394.\"}, {\"bbox\": [119, 565, 1158, 609], \"category\": \"List-item\", \"text\": \"Vetenskaplig korrespondens och Planerade arbeten 396\"}, {\"bbox\": [199, 611, 1078, 674], \"category\": \"Text\", \"text\": \"Samuel Ödmann och Tychsen 396. Hermelins Dagbok 403. Normannus' Lexikon 405.\"}, {\"bbox\": [119, 707, 1156, 751], \"category\": \"List-item\", \"text\": \"Adlerbeths sista sekreterarår 409\"}, {\"bbox\": [199, 755, 1078, 906], \"category\": \"Text\", \"text\": \"Akademien och förmyndarregeringen 409. Offentliga sammanträden upphöra 410. Samlingarna avsöndras 412. Kungl. Museet och myntsamlingen 414. Adlerbeths avsked 418. Akademiens myntsamling överlåtes till Kungl. Museet 423. De bägge akademierna sammanträda i Kungl. Museet 424. Flintenberg tillträder sekreterarplatsen 425. Inventeringen 1794 426.\"}, {\"bbox\": [118, 1779, 217, 1803], \"category\": \"Page-footer\", \"text\": \"28-42108.\"}, {\"bbox\": [1077, 1790, 1148, 1826], \"category\": \"Page-footer\", \"text\": \"433\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    558,
+    234,
+    716,
+    268
+   ],
+   "category": "Section-header",
+   "text": "Innehåll"
+  },
+  {
+   "bbox": [
+    119,
+    304,
+    1159,
+    349
+   ],
+   "category": "List-item",
+   "text": "Den tilltänkta katalogen över kufiska mynt 376"
+  },
+  {
+   "bbox": [
+    199,
+    352,
+    1079,
+    532
+   ],
+   "category": "Text",
+   "text": "Beslut att ordna den kufiska myntsamlingen 376. Malmström får uppdraget 377. Planen utvidgas till en katalog 378. Mynten skola graveras i koppar 379. Planen utvidgas ytterligare 380. Äldre kataloger 384. Malmströms katalog 385. Korrespondens om arabiska mynt i svenska samlingar 386. Malmström skall utgiva även en avhandling om arabiska mynt 391. Malmström blir professor i Åbo 393. Katalogarbetet avstannar 394."
+  },
+  {
+   "bbox": [
+    119,
+    565,
+    1158,
+    609
+   ],
+   "category": "List-item",
+   "text": "Vetenskaplig korrespondens och Planerade arbeten 396"
+  },
+  {
+   "bbox": [
+    199,
+    611,
+    1078,
+    674
+   ],
+   "category": "Text",
+   "text": "Samuel Ödmann och Tychsen 396. Hermelins Dagbok 403. Normannus' Lexikon 405."
+  },
+  {
+   "bbox": [
+    119,
+    707,
+    1156,
+    751
+   ],
+   "category": "List-item",
+   "text": "Adlerbeths sista sekreterarår 409"
+  },
+  {
+   "bbox": [
+    199,
+    755,
+    1078,
+    906
+   ],
+   "category": "Text",
+   "text": "Akademien och förmyndarregeringen 409. Offentliga sammanträden upphöra 410. Samlingarna avsöndras 412. Kungl. Museet och myntsamlingen 414. Adlerbeths avsked 418. Akademiens myntsamling överlåtes till Kungl. Museet 423. De bägge akademierna sammanträda i Kungl. Museet 424. Flintenberg tillträder sekreterarplatsen 425. Inventeringen 1794 426."
+  },
+  {
+   "bbox": [
+    118,
+    1779,
+    217,
+    1803
+   ],
+   "category": "Page-footer",
+   "text": "28-42108."
+  },
+  {
+   "bbox": [
+    1077,
+    1790,
+    1148,
+    1826
+   ],
+   "category": "Page-footer",
+   "text": "433"
+  }
+ ]
+}

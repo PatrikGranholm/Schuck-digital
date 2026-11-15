@@ -1,0 +1,61 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 6,
+ "seconds": 20.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [307, 262, 1125, 334], \"category\": \"Text\", \"text\": \"HENRIKSGUDD\"}, {\"bbox\": [101, 516, 1383, 852], \"category\": \"Title\", \"text\": \"KGL. VITTERHENS\\nHISTORIE OCH ANTIKUTETS\\nAKADEMIEN\"}, {\"bbox\": [311, 931, 1144, 1176], \"category\": \"Text\", \"text\": \"DESS\\nFÖRHISTORIA OCH HISTORIA\\nVI\"}, {\"bbox\": [586, 1467, 875, 1758], \"category\": \"Picture\"}, {\"bbox\": [455, 1871, 1012, 1927], \"category\": \"Text\", \"text\": \"STOCKHOLM 1943\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    307,
+    262,
+    1125,
+    334
+   ],
+   "category": "Text",
+   "text": "HENRIKSGUDD"
+  },
+  {
+   "bbox": [
+    101,
+    516,
+    1383,
+    852
+   ],
+   "category": "Title",
+   "text": "KGL. VITTERHENS\nHISTORIE OCH ANTIKUTETS\nAKADEMIEN"
+  },
+  {
+   "bbox": [
+    311,
+    931,
+    1144,
+    1176
+   ],
+   "category": "Text",
+   "text": "DESS\nFÖRHISTORIA OCH HISTORIA\nVI"
+  },
+  {
+   "bbox": [
+    586,
+    1467,
+    875,
+    1758
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    455,
+    1871,
+    1012,
+    1927
+   ],
+   "category": "Text",
+   "text": "STOCKHOLM 1943"
+  }
+ ]
+}

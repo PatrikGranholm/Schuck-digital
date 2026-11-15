@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 27,
+ "seconds": 30.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [784, 242, 1213, 284], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [481, 312, 1513, 476], \"category\": \"Text\", \"text\": \"Sammanträdena höllos i regel på tisdagarna. Klockslaget, då de skulle börja, angives icke i statuterna, lika litet som veckodagen, men av några protokollsanteckningar framgår, att de höllos mellan klockan 5 och 7 e. m.\"}, {\"bbox\": [515, 476, 802, 516], \"category\": \"Text\", \"text\": \"§. 16 rör ferierna:\"}, {\"bbox\": [333, 485, 479, 634], \"category\": \"Text\", \"text\": \"Ferier och minnestalet över Lovisa Ulrica § 16\"}, {\"bbox\": [479, 534, 1514, 884], \"category\": \"Text\", \"text\": \"»Academien är samlad från den 1 November til den 1 Julii hvarje år; de öfrige månader taga Academiens Ledamöter sina ferier, undantagande den 24 Julii, Hennes Maj:t Enke-Drottningens Födelse-Dag, då enligt Constitutionernes 11. Cap. 3. §. Academien skal fira sin Insticktelse Dag, men den öfrige ferie-tiden komma endast de i Stockholm vistande Ledamöter at samlas Onsdagen, som är näst före eller näst efter den 15 i hvarje månad, at emottaga de Bref och Skrifter, som kunnat inkomma, och låta dem behörigt inprotocollera, samt då de äro Sju til antalet, Secreteraren inberäknad, öfverväga de ämnen, som kunna vara då lämpelige til deras skärskådande.»\"}, {\"bbox\": [479, 913, 1511, 1038], \"category\": \"Text\", \"text\": \"Oftast måste dock de ytterst fåtaligt besökta feriesammanträdena inställas. Punkten om högtidsdagen den 24 juli är lånad från de gamla statuternas Cap. II §. 3, som lyder:\"}, {\"bbox\": [479, 1047, 1511, 1191], \"category\": \"Text\", \"text\": \"»Utom dessa plikter vele Vi för evärdeliga tider hafva faststält, det på den 24 Julii någon af Ledamöterne igenom et vältalighetsprof uplifvar den underdåniga erkänsamhet, Academien Hennes Kongl. Maj:t Drottningen skyldig är.»\"}, {\"bbox\": [479, 1218, 1511, 1757], \"category\": \"Text\", \"text\": \"Enligt de nya statuternas §. 24 hade Vitterhets Historie och Antikvitetsakademien två högtidsdagar, en den 24 juli och en den 20 mars (stiftelsedagen), och som naturligt var blev den senare mera talrikt besökt än julisammanträdet. Den i de gamla statuterna akademien åliggande skyldigheten att den 24 juli hålla ett lovtal över Lovisa Ulrica iakttogs väl vid den första årsfesten den 24 juli 1786, då drottningens nära vän hovmarskalken Piper uppläste ett (sedan tryckt) äreminne över henne. Men sedan tyckes denna hyllning ha allt mera förtunnats. Redan den 24 juli 1787 ersattes detta äreminne »med ett till denna högtidlighet lämpadt Tal [av v. Engeström] om Witterhetens tillstånd i Swerige ifrån de äldsta till närvarande tider» — en ganska utförlig svensk litteratur- och lärdomshistoria, i vilken först mot slutet och mera flyktigt drottningens förtjänster\"}, {\"bbox\": [484, 1792, 527, 1819], \"category\": \"Page-footer\", \"text\": \"12\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    784,
+    242,
+    1213,
+    284
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    481,
+    312,
+    1513,
+    476
+   ],
+   "category": "Text",
+   "text": "Sammanträdena höllos i regel på tisdagarna. Klockslaget, då de skulle börja, angives icke i statuterna, lika litet som veckodagen, men av några protokollsanteckningar framgår, att de höllos mellan klockan 5 och 7 e. m."
+  },
+  {
+   "bbox": [
+    515,
+    476,
+    802,
+    516
+   ],
+   "category": "Text",
+   "text": "§. 16 rör ferierna:"
+  },
+  {
+   "bbox": [
+    333,
+    485,
+    479,
+    634
+   ],
+   "category": "Text",
+   "text": "Ferier och minnestalet över Lovisa Ulrica § 16"
+  },
+  {
+   "bbox": [
+    479,
+    534,
+    1514,
+    884
+   ],
+   "category": "Text",
+   "text": "»Academien är samlad från den 1 November til den 1 Julii hvarje år; de öfrige månader taga Academiens Ledamöter sina ferier, undantagande den 24 Julii, Hennes Maj:t Enke-Drottningens Födelse-Dag, då enligt Constitutionernes 11. Cap. 3. §. Academien skal fira sin Insticktelse Dag, men den öfrige ferie-tiden komma endast de i Stockholm vistande Ledamöter at samlas Onsdagen, som är näst före eller näst efter den 15 i hvarje månad, at emottaga de Bref och Skrifter, som kunnat inkomma, och låta dem behörigt inprotocollera, samt då de äro Sju til antalet, Secreteraren inberäknad, öfverväga de ämnen, som kunna vara då lämpelige til deras skärskådande.»"
+  },
+  {
+   "bbox": [
+    479,
+    913,
+    1511,
+    1038
+   ],
+   "category": "Text",
+   "text": "Oftast måste dock de ytterst fåtaligt besökta feriesammanträdena inställas. Punkten om högtidsdagen den 24 juli är lånad från de gamla statuternas Cap. II §. 3, som lyder:"
+  },
+  {
+   "bbox": [
+    479,
+    1047,
+    1511,
+    1191
+   ],
+   "category": "Text",
+   "text": "»Utom dessa plikter vele Vi för evärdeliga tider hafva faststält, det på den 24 Julii någon af Ledamöterne igenom et vältalighetsprof uplifvar den underdåniga erkänsamhet, Academien Hennes Kongl. Maj:t Drottningen skyldig är.»"
+  },
+  {
+   "bbox": [
+    479,
+    1218,
+    1511,
+    1757
+   ],
+   "category": "Text",
+   "text": "Enligt de nya statuternas §. 24 hade Vitterhets Historie och Antikvitetsakademien två högtidsdagar, en den 24 juli och en den 20 mars (stiftelsedagen), och som naturligt var blev den senare mera talrikt besökt än julisammanträdet. Den i de gamla statuterna akademien åliggande skyldigheten att den 24 juli hålla ett lovtal över Lovisa Ulrica iakttogs väl vid den första årsfesten den 24 juli 1786, då drottningens nära vän hovmarskalken Piper uppläste ett (sedan tryckt) äreminne över henne. Men sedan tyckes denna hyllning ha allt mera förtunnats. Redan den 24 juli 1787 ersattes detta äreminne »med ett till denna högtidlighet lämpadt Tal [av v. Engeström] om Witterhetens tillstånd i Swerige ifrån de äldsta till närvarande tider» — en ganska utförlig svensk litteratur- och lärdomshistoria, i vilken först mot slutet och mera flyktigt drottningens förtjänster"
+  },
+  {
+   "bbox": [
+    484,
+    1792,
+    527,
+    1819
+   ],
+   "category": "Page-footer",
+   "text": "12"
+  }
+ ]
+}

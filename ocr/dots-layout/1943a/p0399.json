@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 399,
+ "seconds": 27.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [781, 237, 1211, 282], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [478, 306, 1513, 464], \"category\": \"Text\", \"text\": \"cent i praktisk filosofi. Men 1787 hade han presiderat för en av honom själv författad disputation om koranen och tillmättes därför den behövliga sakkunskapen för det uppdrag, som man nu anförtrodde honom.\"}, {\"bbox\": [471, 471, 1513, 1709], \"category\": \"Text\", \"text\": \"Den 13 november redogjordes i akademien för Rosensteins underhandling med honom: »Secreteraren anmälte, det Magister Docens ifrån Upsala Malmström i anledning af Herr Cantzli Rådet Rosensteins proposition erbudit Sin åtgiärd till den i academiens gömo warande arabiska mynt-samlingens i ordning ställande. I stöd af hvad academien vid dess sednaste Sammankomst beslutat, hade Secreteraren fördenskull nyttjat detta hans anbud, och då det därvid nödiga arbetet hvarken nog skyndesamt eller nog beqwämligen syntes kunna bestridas på annat sätt, än att Magister Malmström feck till sig hemtaga hela samlingen, hade Secreteraren icke trott sig fela emot academiens wilja eller afsigt, då han tillåtit bemälte Magister att emottaga den samma emot recepisse, innehållande antalet på samteliga mynten. I lika måtto hade honom vid samma tillfälle och emot recepisse alla de handlingar, register och förklaringar tillstäldta blifvit, som till denna myntsamling höra och till arbetets lättande bidraga kunde. Secreteraren hade tillika anmodat honom att inrätta ordningen af mynten efter tideräkningen samt därefter gifva dem deras tillbörliga numer både i en tilluprättande fullständig Catalog och utanpå små papersomslag kring varje penning, på det att de därefter i lådor ordenteligen må kunna inläggas. Men på det icke heller de uplysningar måtte saknas, som angå fynden af dessa mynt i vårt fäderneslands jord, så hade Secreteraren anmodat Magistren att tillika i anledning af de meddeldta handlingar särskilt anteckna, hvilka och huru många af dessa mynt tillsammans blifvit hittade och hvaräst samt vid hvad tillfälle, då denna myntCatalog syntes på en gång kunna förnöja vettgirigheten både hos en älskare af arabiska Litteraturen samt hos den, som enkannerligen i afseende på Svenska häfder och forntidslämningar åstundar se dessa hos oss nedsatta långwäga myntskatter. Med hvilka Secreterarens anstalter academien förklarade sig wara nögd.»\"}, {\"bbox\": [506, 1709, 1506, 1753], \"category\": \"Text\", \"text\": \"Som man ser hade programmet nu utvidgats därhän, att Malm-\"}, {\"bbox\": [331, 478, 478, 568], \"category\": \"Text\", \"text\": \"Planen utvidgas till en katalog\"}, {\"bbox\": [476, 1779, 545, 1825], \"category\": \"Page-footer\", \"text\": \"378\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    781,
+    237,
+    1211,
+    282
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    478,
+    306,
+    1513,
+    464
+   ],
+   "category": "Text",
+   "text": "cent i praktisk filosofi. Men 1787 hade han presiderat för en av honom själv författad disputation om koranen och tillmättes därför den behövliga sakkunskapen för det uppdrag, som man nu anförtrodde honom."
+  },
+  {
+   "bbox": [
+    471,
+    471,
+    1513,
+    1709
+   ],
+   "category": "Text",
+   "text": "Den 13 november redogjordes i akademien för Rosensteins underhandling med honom: »Secreteraren anmälte, det Magister Docens ifrån Upsala Malmström i anledning af Herr Cantzli Rådet Rosensteins proposition erbudit Sin åtgiärd till den i academiens gömo warande arabiska mynt-samlingens i ordning ställande. I stöd af hvad academien vid dess sednaste Sammankomst beslutat, hade Secreteraren fördenskull nyttjat detta hans anbud, och då det därvid nödiga arbetet hvarken nog skyndesamt eller nog beqwämligen syntes kunna bestridas på annat sätt, än att Magister Malmström feck till sig hemtaga hela samlingen, hade Secreteraren icke trott sig fela emot academiens wilja eller afsigt, då han tillåtit bemälte Magister att emottaga den samma emot recepisse, innehållande antalet på samteliga mynten. I lika måtto hade honom vid samma tillfälle och emot recepisse alla de handlingar, register och förklaringar tillstäldta blifvit, som till denna myntsamling höra och till arbetets lättande bidraga kunde. Secreteraren hade tillika anmodat honom att inrätta ordningen af mynten efter tideräkningen samt därefter gifva dem deras tillbörliga numer både i en tilluprättande fullständig Catalog och utanpå små papersomslag kring varje penning, på det att de därefter i lådor ordenteligen må kunna inläggas. Men på det icke heller de uplysningar måtte saknas, som angå fynden af dessa mynt i vårt fäderneslands jord, så hade Secreteraren anmodat Magistren att tillika i anledning af de meddeldta handlingar särskilt anteckna, hvilka och huru många af dessa mynt tillsammans blifvit hittade och hvaräst samt vid hvad tillfälle, då denna myntCatalog syntes på en gång kunna förnöja vettgirigheten både hos en älskare af arabiska Litteraturen samt hos den, som enkannerligen i afseende på Svenska häfder och forntidslämningar åstundar se dessa hos oss nedsatta långwäga myntskatter. Med hvilka Secreterarens anstalter academien förklarade sig wara nögd.»"
+  },
+  {
+   "bbox": [
+    506,
+    1709,
+    1506,
+    1753
+   ],
+   "category": "Text",
+   "text": "Som man ser hade programmet nu utvidgats därhän, att Malm-"
+  },
+  {
+   "bbox": [
+    331,
+    478,
+    478,
+    568
+   ],
+   "category": "Text",
+   "text": "Planen utvidgas till en katalog"
+  },
+  {
+   "bbox": [
+    476,
+    1779,
+    545,
+    1825
+   ],
+   "category": "Page-footer",
+   "text": "378"
+  }
+ ]
+}

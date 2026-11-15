@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 191,
+ "seconds": 28.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [798, 234, 1234, 276], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [497, 305, 1539, 381], \"category\": \"Text\", \"text\": \"Med en obetydlig förändring fick medaljen (Hildebrand nr 92) detta utseende.\"}, {\"bbox\": [495, 387, 1539, 1042], \"category\": \"Text\", \"text\": \"För en annan också av borgerskapet i Stockholm slagen medalj vände sig staden klokt nog från början till akademien med anhållan om dess »project». Den 29 mars 1790 hade kronprinsen infunnit sig i rådhuset och där på sin faders vägnar betygat staden hans tacksamhet för den vakthållning, som borgerskapet under kriget hållit i Stockholm, och minnet av detta besök ville man nu bevara genom en skådepenning. Den 4 januari 1791 berättade Adlerbeth i akademien, »att Stockholms Stads borgerskap genom Herr Justitiae borgmästaren Eckerman anmält sitt beslut att låta slå en skådepenning till åminnelsens förwarande af det Nådiga besök, hwarmed Hans Kongl. Höghet KronPrinsen förl. år den 29 Martii uppå Dess Herr faders Konungens befallning dem på Rådhuset behedrade. Ett af en bland academiens Ledamöter upsatt project till en slik Minnespenning underkastades ock academiens pröfning och aflämnades till Herr Cantzli Rådet von Engeström, som behagade sig åtaga att till nästa sammankomst däröfwer meddela sina tankar.»\"}, {\"bbox\": [495, 1047, 1538, 1295], \"category\": \"Text\", \"text\": \"Den 11 i samma månad var akademien färdig med sitt förslag: »Herr Cantzli Rådet von Engeström meddelade academien dess tankar öfwer det insände project till skådepenning för Stockholms Borgerskaps räkning öfwer Hans Kongl. Höghet KronPrinsens besök på Rådhuset den 29 Martii nästl. år. I anledning däraf förenade sig academiens närwarande Ledamöter om följande upgift:\"}, {\"bbox\": [495, 1293, 1536, 1373], \"category\": \"Text\", \"text\": \"*första sidan:* Hans kgl. Höghets KronPrinsens bröstbild namn och titel,\"}, {\"bbox\": [495, 1376, 1538, 1659], \"category\": \"Text\", \"text\": \"*andra sidan:* Mercurius (Jupiters Son och budbärare) midt på fältet af penningen, skyndande till Stockholms stad, förestäld såsom en quinna med knutna hår, på sätt som Rom afbildas på en del Romerska mynt, uti en bugande ställning, och försedd med sin wapneskiöld och ett roder. Ofvanföre: *Iam Iove dignus* (Ovid. de Hercule in cu-nis): Nedanföre *Paterna clementiss. jussa deferenti XXIX Martii MDCCXC. Cives Stockh.*»\"}, {\"bbox\": [495, 1664, 1538, 1748], \"category\": \"Text\", \"text\": \"Medaljen (Hildebrand nr 2) fick det utseende, som akademien föreslagit.\"}, {\"bbox\": [499, 1784, 570, 1822], \"category\": \"Page-footer\", \"text\": \"174\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    798,
+    234,
+    1234,
+    276
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    497,
+    305,
+    1539,
+    381
+   ],
+   "category": "Text",
+   "text": "Med en obetydlig förändring fick medaljen (Hildebrand nr 92) detta utseende."
+  },
+  {
+   "bbox": [
+    495,
+    387,
+    1539,
+    1042
+   ],
+   "category": "Text",
+   "text": "För en annan också av borgerskapet i Stockholm slagen medalj vände sig staden klokt nog från början till akademien med anhållan om dess »project». Den 29 mars 1790 hade kronprinsen infunnit sig i rådhuset och där på sin faders vägnar betygat staden hans tacksamhet för den vakthållning, som borgerskapet under kriget hållit i Stockholm, och minnet av detta besök ville man nu bevara genom en skådepenning. Den 4 januari 1791 berättade Adlerbeth i akademien, »att Stockholms Stads borgerskap genom Herr Justitiae borgmästaren Eckerman anmält sitt beslut att låta slå en skådepenning till åminnelsens förwarande af det Nådiga besök, hwarmed Hans Kongl. Höghet KronPrinsen förl. år den 29 Martii uppå Dess Herr faders Konungens befallning dem på Rådhuset behedrade. Ett af en bland academiens Ledamöter upsatt project till en slik Minnespenning underkastades ock academiens pröfning och aflämnades till Herr Cantzli Rådet von Engeström, som behagade sig åtaga att till nästa sammankomst däröfwer meddela sina tankar.»"
+  },
+  {
+   "bbox": [
+    495,
+    1047,
+    1538,
+    1295
+   ],
+   "category": "Text",
+   "text": "Den 11 i samma månad var akademien färdig med sitt förslag: »Herr Cantzli Rådet von Engeström meddelade academien dess tankar öfwer det insände project till skådepenning för Stockholms Borgerskaps räkning öfwer Hans Kongl. Höghet KronPrinsens besök på Rådhuset den 29 Martii nästl. år. I anledning däraf förenade sig academiens närwarande Ledamöter om följande upgift:"
+  },
+  {
+   "bbox": [
+    495,
+    1293,
+    1536,
+    1373
+   ],
+   "category": "Text",
+   "text": "*första sidan:* Hans kgl. Höghets KronPrinsens bröstbild namn och titel,"
+  },
+  {
+   "bbox": [
+    495,
+    1376,
+    1538,
+    1659
+   ],
+   "category": "Text",
+   "text": "*andra sidan:* Mercurius (Jupiters Son och budbärare) midt på fältet af penningen, skyndande till Stockholms stad, förestäld såsom en quinna med knutna hår, på sätt som Rom afbildas på en del Romerska mynt, uti en bugande ställning, och försedd med sin wapneskiöld och ett roder. Ofvanföre: *Iam Iove dignus* (Ovid. de Hercule in cu-nis): Nedanföre *Paterna clementiss. jussa deferenti XXIX Martii MDCCXC. Cives Stockh.*»"
+  },
+  {
+   "bbox": [
+    495,
+    1664,
+    1538,
+    1748
+   ],
+   "category": "Text",
+   "text": "Medaljen (Hildebrand nr 2) fick det utseende, som akademien föreslagit."
+  },
+  {
+   "bbox": [
+    499,
+    1784,
+    570,
+    1822
+   ],
+   "category": "Page-footer",
+   "text": "174"
+  }
+ ]
+}

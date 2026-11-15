@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 416,
+ "seconds": 15.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [272, 232, 1043, 275], \"category\": \"Section-header\", \"text\": \"Den tilltänkta katalogen över kufiska mynt\"}, {\"bbox\": [137, 301, 1175, 1005], \"category\": \"Text\", \"text\": \"fostringssällskapet, som var Handlingarnes förläggare, kommit på obestånd, och samma år överflyttades hela myntsamlingen från akademien till det nybildade Kungl. Museet. Katalogen — om någon dylik skulle utgivas — hade därmed upphört att vara en akademiens angelägenhet och i stället blivit museets. 1798 vände sig verkligen dess chef, Fredenheim, till Malmström med en begäran, att han ville återupptaga arbetet på denna katalog. Härpå svarade Malmström med en relation om den stora vetenskapliga betydelsen en dylik katalog skulle få. Men han slutade emellertid med en förklaring, att *han* icke var i stånd att åtaga sig uppdraget: »Däröfver författades väl redan för 10 år tillbaka en omständelig Beskrifning, hvarjämte äfven de märkvärdigaste mynten till ett antal af åttiofyra blefvo i koppar stuckne, men den har allt hittils ej kunnat lemnas i allmänhetens händer, förmodligen af bristande tillgång på de Böcker och uplysningar, som til fullbordande af detta svåra och granlaga arbete äro oundgänglige.» Resultatet af akademiens samarbete med Malmström blef således det sämsta möjliga.\"}, {\"bbox\": [143, 1002, 1172, 1090], \"category\": \"Text\", \"text\": \"Först 1848 kom en dylik katalog till stånd, Tornbergs stora Numi Cufici regii numophylacii holmiensis.\"}, {\"bbox\": [1105, 1782, 1170, 1820], \"category\": \"Page-footer\", \"text\": \"395\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    272,
+    232,
+    1043,
+    275
+   ],
+   "category": "Section-header",
+   "text": "Den tilltänkta katalogen över kufiska mynt"
+  },
+  {
+   "bbox": [
+    137,
+    301,
+    1175,
+    1005
+   ],
+   "category": "Text",
+   "text": "fostringssällskapet, som var Handlingarnes förläggare, kommit på obestånd, och samma år överflyttades hela myntsamlingen från akademien till det nybildade Kungl. Museet. Katalogen — om någon dylik skulle utgivas — hade därmed upphört att vara en akademiens angelägenhet och i stället blivit museets. 1798 vände sig verkligen dess chef, Fredenheim, till Malmström med en begäran, att han ville återupptaga arbetet på denna katalog. Härpå svarade Malmström med en relation om den stora vetenskapliga betydelsen en dylik katalog skulle få. Men han slutade emellertid med en förklaring, att *han* icke var i stånd att åtaga sig uppdraget: »Däröfver författades väl redan för 10 år tillbaka en omständelig Beskrifning, hvarjämte äfven de märkvärdigaste mynten till ett antal af åttiofyra blefvo i koppar stuckne, men den har allt hittils ej kunnat lemnas i allmänhetens händer, förmodligen af bristande tillgång på de Böcker och uplysningar, som til fullbordande af detta svåra och granlaga arbete äro oundgänglige.» Resultatet af akademiens samarbete med Malmström blef således det sämsta möjliga."
+  },
+  {
+   "bbox": [
+    143,
+    1002,
+    1172,
+    1090
+   ],
+   "category": "Text",
+   "text": "Först 1848 kom en dylik katalog till stånd, Tornbergs stora Numi Cufici regii numophylacii holmiensis."
+  },
+  {
+   "bbox": [
+    1105,
+    1782,
+    1170,
+    1820
+   ],
+   "category": "Page-footer",
+   "text": "395"
+  }
+ ]
+}

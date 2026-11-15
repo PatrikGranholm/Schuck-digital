@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 205,
+ "seconds": 27.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [794, 239, 1226, 281], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [492, 309, 1533, 1095], \"category\": \"Text\", \"text\": \"Förfarandet 1789 är mera dunkelt, då Svenska akademiens protokoll för den 9 maj blott meddelar ett förslag, som »vunnit Kongl. Witterhets Academiens bifall». Men protokollet därstädes för den 5 maj är utförligare: »Secreteraren androg först, att i förledne månad Svenska academien honom updragit att anmoda Witterhetsacademien om biträde med upgift till en minnespenning öfver R. R. och Amiralen Nils Stjernskiöld, känd för tappra bedrifter och en ärefull död i sjöslaget utanför Dantzig 1627, hvilken minnespenning academien till sin högtidsdag den 20 Dec. för innevarande år ärnade låta förfärdiga. Secreteraren hade till en slik penning äfwen bekommit projecter, hvilka han till tidens winnande och på sätt Kgl. academien altid plägar låta förfara öfwerlämnat till tvenne Ledamöter, Herr Cantzli Rådet von Engeströms och Herr Kongl. Secreteraren Hallenbergs utlåtande. De hade ock nu därmed inkommit, så att academien såg sig i stånd att detta ämne till afgörande genast företaga och sedan så wäl förslagen som hvad dervid blifvit anmärkt i öfverwägande kommit, förente sig academien om följande upgift, hvilken genom Secreteraren Svenska academien meddelas.» Härav torde icke någon slutsats kunna dragas.\"}, {\"bbox\": [497, 1099, 1536, 1381], \"category\": \"Text\", \"text\": \"1790 skulle medaljen slås över Ascheberg, och enligt Svenska akademiens protokoll den 17 mars »aflämnade Herr Adlerbeth dess project till jetton öfver grefve Rutger Ascheberg, hvarom han af academien blifvit anmodad och hvilket af Kongl. Witterhets Historie och Antiquitets academien blifvit faststält.» Vitterhets Historie och Antikvitetsakademiens protokoll den 9 mars i detta ärende lyder:\"}, {\"bbox\": [497, 1392, 1538, 1725], \"category\": \"Text\", \"text\": \"»Sedan Herr Cantzli Rådet v. Engeström yttrat sig öfwer det inlämnade förslag till en minnespenning, som Swenska academien innevarande år ärnar låta slå — — — tog academien detta ämne under öfverwägande och faststälde följande upgift.» Men vid justeringen den 16 mars »fann academien sig befogad till följande lilla ändring i den faststälde inscription å reversen af minnespenningen öfver Grefve v. Ascheberg, hvilken vid expedierandet till Svenska academien iaktages:\"}, {\"bbox\": [506, 1782, 574, 1820], \"category\": \"Page-footer\", \"text\": \"188\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    794,
+    239,
+    1226,
+    281
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    492,
+    309,
+    1533,
+    1095
+   ],
+   "category": "Text",
+   "text": "Förfarandet 1789 är mera dunkelt, då Svenska akademiens protokoll för den 9 maj blott meddelar ett förslag, som »vunnit Kongl. Witterhets Academiens bifall». Men protokollet därstädes för den 5 maj är utförligare: »Secreteraren androg först, att i förledne månad Svenska academien honom updragit att anmoda Witterhetsacademien om biträde med upgift till en minnespenning öfver R. R. och Amiralen Nils Stjernskiöld, känd för tappra bedrifter och en ärefull död i sjöslaget utanför Dantzig 1627, hvilken minnespenning academien till sin högtidsdag den 20 Dec. för innevarande år ärnade låta förfärdiga. Secreteraren hade till en slik penning äfwen bekommit projecter, hvilka han till tidens winnande och på sätt Kgl. academien altid plägar låta förfara öfwerlämnat till tvenne Ledamöter, Herr Cantzli Rådet von Engeströms och Herr Kongl. Secreteraren Hallenbergs utlåtande. De hade ock nu därmed inkommit, så att academien såg sig i stånd att detta ämne till afgörande genast företaga och sedan så wäl förslagen som hvad dervid blifvit anmärkt i öfverwägande kommit, förente sig academien om följande upgift, hvilken genom Secreteraren Svenska academien meddelas.» Härav torde icke någon slutsats kunna dragas."
+  },
+  {
+   "bbox": [
+    497,
+    1099,
+    1536,
+    1381
+   ],
+   "category": "Text",
+   "text": "1790 skulle medaljen slås över Ascheberg, och enligt Svenska akademiens protokoll den 17 mars »aflämnade Herr Adlerbeth dess project till jetton öfver grefve Rutger Ascheberg, hvarom han af academien blifvit anmodad och hvilket af Kongl. Witterhets Historie och Antiquitets academien blifvit faststält.» Vitterhets Historie och Antikvitetsakademiens protokoll den 9 mars i detta ärende lyder:"
+  },
+  {
+   "bbox": [
+    497,
+    1392,
+    1538,
+    1725
+   ],
+   "category": "Text",
+   "text": "»Sedan Herr Cantzli Rådet v. Engeström yttrat sig öfwer det inlämnade förslag till en minnespenning, som Swenska academien innevarande år ärnar låta slå — — — tog academien detta ämne under öfverwägande och faststälde följande upgift.» Men vid justeringen den 16 mars »fann academien sig befogad till följande lilla ändring i den faststälde inscription å reversen af minnespenningen öfver Grefve v. Ascheberg, hvilken vid expedierandet till Svenska academien iaktages:"
+  },
+  {
+   "bbox": [
+    506,
+    1782,
+    574,
+    1820
+   ],
+   "category": "Page-footer",
+   "text": "188"
+  }
+ ]
+}

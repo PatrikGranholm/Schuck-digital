@@ -1,0 +1,98 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 242,
+ "seconds": 12.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [101, 291, 627, 911], \"category\": \"Picture\"}, {\"bbox\": [146, 944, 581, 981], \"category\": \"Caption\", \"text\": \"NILS VON ROSENSTEIN\"}, {\"bbox\": [710, 294, 1231, 916], \"category\": \"Picture\"}, {\"bbox\": [839, 947, 1098, 983], \"category\": \"Caption\", \"text\": \"C. G. NORDIN\"}, {\"bbox\": [95, 1065, 624, 1733], \"category\": \"Picture\"}, {\"bbox\": [179, 1767, 537, 1806], \"category\": \"Caption\", \"text\": \"JOHAN MURBERG\"}, {\"bbox\": [704, 1067, 1226, 1736], \"category\": \"Picture\"}, {\"bbox\": [811, 1770, 1114, 1803], \"category\": \"Caption\", \"text\": \"H. G. PORTHAN\"}, {\"bbox\": [144, 1828, 1173, 1862], \"category\": \"Text\", \"text\": \"Oljemålningar av Per Krafft d. ä. i Vitterhets Historie och Antikvitets Akademiens sessionssal.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    101,
+    291,
+    627,
+    911
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    146,
+    944,
+    581,
+    981
+   ],
+   "category": "Caption",
+   "text": "NILS VON ROSENSTEIN"
+  },
+  {
+   "bbox": [
+    710,
+    294,
+    1231,
+    916
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    839,
+    947,
+    1098,
+    983
+   ],
+   "category": "Caption",
+   "text": "C. G. NORDIN"
+  },
+  {
+   "bbox": [
+    95,
+    1065,
+    624,
+    1733
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    179,
+    1767,
+    537,
+    1806
+   ],
+   "category": "Caption",
+   "text": "JOHAN MURBERG"
+  },
+  {
+   "bbox": [
+    704,
+    1067,
+    1226,
+    1736
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    811,
+    1770,
+    1114,
+    1803
+   ],
+   "category": "Caption",
+   "text": "H. G. PORTHAN"
+  },
+  {
+   "bbox": [
+    144,
+    1828,
+    1173,
+    1862
+   ],
+   "category": "Text",
+   "text": "Oljemålningar av Per Krafft d. ä. i Vitterhets Historie och Antikvitets Akademiens sessionssal."
+  }
+ ]
+}

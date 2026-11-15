@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 193,
+ "seconds": 24.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [807, 229, 1243, 271], \"category\": \"Section-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [890, 300, 1156, 582], \"category\": \"Text\", \"text\": \"Optimo Regi\\nEx Bello Reduci\\nTriumphatori\\nPacificatori\\nClerus Scaniae\\net Blek.\\nMDCCXC.»\"}, {\"bbox\": [495, 618, 1547, 1075], \"category\": \"Text\", \"text\": \"Nästa sammanträde, den 16 november, fortsätter protokollet: »Vid justeringen af det vid sista Sammankomsten hållne Protocoll och af hvad däruti rörer det af academiens då närvarande Ledamöter faststäldte project till Inscription å den Medaille, som Lunds stifts Prästerskap ärnar låta slå öfver den sist emellan Sverige och Ryssland slutna freden, anmälte tvenne academiens Ledamöter Herr Rector Murberg och Herr Cantzli Rådet Vilde, hvilke academien updragit att vidare öfverse samma Inscription, det de varit omtänkte på andra förslager. De blefvo de i dag närvarande Ledamöterne förelagde och efter någon öfverläggning och jämnkning blef i anledning af desse förslager följande inscription gillad och antagen:\"}, {\"bbox\": [813, 1090, 1232, 1412], \"category\": \"Text\", \"text\": \"Opt. Principi\\nTerra Marique Victori\\nMajestate Regni Vindicata\\nPacis Auctori\\nE Bello Reduci\\nScan. et Blek.\\nClerus\\nMDCCXC.\"}, {\"bbox\": [495, 1453, 1543, 1579], \"category\": \"Text\", \"text\": \"Öfver denna af academien faststälda Inscription blef vice Secreteraren befald att inhemta några af de frånvarande Herrar Ledamöters yttrande, hvarefter den skulle behörigen expedieras.\"}, {\"bbox\": [495, 1578, 1543, 1745], \"category\": \"Text\", \"text\": \"Under det att academien ännu var samlad, anmodades v. Secreteraren att besöka Herr Biskop Celsius, som nu var i staden och på sitt stifts vägnar hade befattningen med denna Medaille, för att lemna honom del af Inscriptionen och höra dess utlåtande. Herr Biskopen,\"}, {\"bbox\": [502, 1774, 572, 1819], \"category\": \"Page-footer\", \"text\": \"176\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    807,
+    229,
+    1243,
+    271
+   ],
+   "category": "Section-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    890,
+    300,
+    1156,
+    582
+   ],
+   "category": "Text",
+   "text": "Optimo Regi\nEx Bello Reduci\nTriumphatori\nPacificatori\nClerus Scaniae\net Blek.\nMDCCXC.»"
+  },
+  {
+   "bbox": [
+    495,
+    618,
+    1547,
+    1075
+   ],
+   "category": "Text",
+   "text": "Nästa sammanträde, den 16 november, fortsätter protokollet: »Vid justeringen af det vid sista Sammankomsten hållne Protocoll och af hvad däruti rörer det af academiens då närvarande Ledamöter faststäldte project till Inscription å den Medaille, som Lunds stifts Prästerskap ärnar låta slå öfver den sist emellan Sverige och Ryssland slutna freden, anmälte tvenne academiens Ledamöter Herr Rector Murberg och Herr Cantzli Rådet Vilde, hvilke academien updragit att vidare öfverse samma Inscription, det de varit omtänkte på andra förslager. De blefvo de i dag närvarande Ledamöterne förelagde och efter någon öfverläggning och jämnkning blef i anledning af desse förslager följande inscription gillad och antagen:"
+  },
+  {
+   "bbox": [
+    813,
+    1090,
+    1232,
+    1412
+   ],
+   "category": "Text",
+   "text": "Opt. Principi\nTerra Marique Victori\nMajestate Regni Vindicata\nPacis Auctori\nE Bello Reduci\nScan. et Blek.\nClerus\nMDCCXC."
+  },
+  {
+   "bbox": [
+    495,
+    1453,
+    1543,
+    1579
+   ],
+   "category": "Text",
+   "text": "Öfver denna af academien faststälda Inscription blef vice Secreteraren befald att inhemta några af de frånvarande Herrar Ledamöters yttrande, hvarefter den skulle behörigen expedieras."
+  },
+  {
+   "bbox": [
+    495,
+    1578,
+    1543,
+    1745
+   ],
+   "category": "Text",
+   "text": "Under det att academien ännu var samlad, anmodades v. Secreteraren att besöka Herr Biskop Celsius, som nu var i staden och på sitt stifts vägnar hade befattningen med denna Medaille, för att lemna honom del af Inscriptionen och höra dess utlåtande. Herr Biskopen,"
+  },
+  {
+   "bbox": [
+    502,
+    1774,
+    572,
+    1819
+   ],
+   "category": "Page-footer",
+   "text": "176"
+  }
+ ]
+}

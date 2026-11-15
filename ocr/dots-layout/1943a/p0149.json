@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 149,
+ "seconds": 29.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [792, 242, 1225, 283], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [492, 313, 1533, 522], \"category\": \"Text\", \"text\": \"m. m. Den Gustavianska samlingen i Uppsala har däremot (fol. 55) blott den franska texten till medaljhistoriens första del (mer utarbetades icke av denna översättning), under det att Sparres talrika brev till Gustav III (fol. 17 och 18) blott innehålla en, oviktig, notis om medaljhistorien.\"}, {\"bbox\": [492, 520, 1533, 644], \"category\": \"Text\", \"text\": \"Det första brev, som rör medaljhistorien (R. A.-Sparresamlingen), är av Sparre skrivet den 29 januari 1781, och i detta gives en redogörelse för vad som dittills, till utgången av 1780, gjorts i denna sak:\"}, {\"bbox\": [492, 644, 1535, 1058], \"category\": \"Text\", \"text\": \"»Då Eders Kongl. May:tt nådigast welat tillstädja, att dess högstupplysta granskning underkastas må i ett sammanhang alt hwad bäst befrämja kan wärckställigheten af det samtycke, Eders Kongl. May:tt i nåder lämnat, det måtte minnet af dess sälla Regering få hos sednaste efterwerld fortplantas genom utgifwande i Kopparstick af dels redan slagne, dels ännu till slående Medailler öfwer de märckwärdigare händelser, som giordt och giöra Eders Kongl. May:tts Regemente öfwer ett tacksamt folck icke mindre ärorikt än wälsignat, så har jag till underdånigsta åtlydnad härmedelst till Eders Kongl. May:tts fötter nedlägga bordt:\"}, {\"bbox\": [492, 1055, 1538, 1634], \"category\": \"Text\", \"text\": \"En af mig Rangerad Suite af samma Medailler (Litt. A) från Eders Kongl. May:tts födelse till innevarande stund, sådan som den synts mig i naturligaste ordning wara att uppställa. 22 st. deribland, dels Medailler, dels jettoner finnas redan slagne, och till de öfriga 32 stycken komma stämplar att förfärdigas efter sådane projecter dertill, som Secreteraren i Eders Kongl. May:tts Antiqvitets Archivo Adlerbeth uppgifwit i underd. Memorial, härhos bifogat [saknas]. I Bihanget, som widhäftas [saknas], har jag anfördt det särskilta Project till Medaille öfwer Regerings Förändringen d. 19 augusti 1772, som af en annan hand ingifwit redan wunnit Kongl. May:tts höga gillande, och äfwenwäl ett annat till Medaillen öfwer antagne Nationelle klädedrägten 1778, hwars förfärdigande allaredan af Professor Ljungberger är påbegynnt och i waxet medhunnen samt för Eders Kongl. May:tt i underd. uppwist.\"}, {\"bbox\": [496, 1631, 1538, 1758], \"category\": \"Text\", \"text\": \"Om desse Projecter till Complettering af den fullständiga Medaille Suiten blifwa af Eders Kongl. May:tt i nåder godkände, torde ock, i den ordning min giorde uppställning framteer, Kongl. Secreteraren\"}, {\"bbox\": [502, 1794, 571, 1832], \"category\": \"Page-footer\", \"text\": \"134\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    792,
+    242,
+    1225,
+    283
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    492,
+    313,
+    1533,
+    522
+   ],
+   "category": "Text",
+   "text": "m. m. Den Gustavianska samlingen i Uppsala har däremot (fol. 55) blott den franska texten till medaljhistoriens första del (mer utarbetades icke av denna översättning), under det att Sparres talrika brev till Gustav III (fol. 17 och 18) blott innehålla en, oviktig, notis om medaljhistorien."
+  },
+  {
+   "bbox": [
+    492,
+    520,
+    1533,
+    644
+   ],
+   "category": "Text",
+   "text": "Det första brev, som rör medaljhistorien (R. A.-Sparresamlingen), är av Sparre skrivet den 29 januari 1781, och i detta gives en redogörelse för vad som dittills, till utgången av 1780, gjorts i denna sak:"
+  },
+  {
+   "bbox": [
+    492,
+    644,
+    1535,
+    1058
+   ],
+   "category": "Text",
+   "text": "»Då Eders Kongl. May:tt nådigast welat tillstädja, att dess högstupplysta granskning underkastas må i ett sammanhang alt hwad bäst befrämja kan wärckställigheten af det samtycke, Eders Kongl. May:tt i nåder lämnat, det måtte minnet af dess sälla Regering få hos sednaste efterwerld fortplantas genom utgifwande i Kopparstick af dels redan slagne, dels ännu till slående Medailler öfwer de märckwärdigare händelser, som giordt och giöra Eders Kongl. May:tts Regemente öfwer ett tacksamt folck icke mindre ärorikt än wälsignat, så har jag till underdånigsta åtlydnad härmedelst till Eders Kongl. May:tts fötter nedlägga bordt:"
+  },
+  {
+   "bbox": [
+    492,
+    1055,
+    1538,
+    1634
+   ],
+   "category": "Text",
+   "text": "En af mig Rangerad Suite af samma Medailler (Litt. A) från Eders Kongl. May:tts födelse till innevarande stund, sådan som den synts mig i naturligaste ordning wara att uppställa. 22 st. deribland, dels Medailler, dels jettoner finnas redan slagne, och till de öfriga 32 stycken komma stämplar att förfärdigas efter sådane projecter dertill, som Secreteraren i Eders Kongl. May:tts Antiqvitets Archivo Adlerbeth uppgifwit i underd. Memorial, härhos bifogat [saknas]. I Bihanget, som widhäftas [saknas], har jag anfördt det särskilta Project till Medaille öfwer Regerings Förändringen d. 19 augusti 1772, som af en annan hand ingifwit redan wunnit Kongl. May:tts höga gillande, och äfwenwäl ett annat till Medaillen öfwer antagne Nationelle klädedrägten 1778, hwars förfärdigande allaredan af Professor Ljungberger är påbegynnt och i waxet medhunnen samt för Eders Kongl. May:tt i underd. uppwist."
+  },
+  {
+   "bbox": [
+    496,
+    1631,
+    1538,
+    1758
+   ],
+   "category": "Text",
+   "text": "Om desse Projecter till Complettering af den fullständiga Medaille Suiten blifwa af Eders Kongl. May:tt i nåder godkände, torde ock, i den ordning min giorde uppställning framteer, Kongl. Secreteraren"
+  },
+  {
+   "bbox": [
+    502,
+    1794,
+    571,
+    1832
+   ],
+   "category": "Page-footer",
+   "text": "134"
+  }
+ ]
+}

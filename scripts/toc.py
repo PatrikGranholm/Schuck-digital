@@ -94,7 +94,9 @@ def tei_notes(vol):
         if el.tag == f"{{{NS['t']}}}pb" and el.get("n"):
             page = int(el.get("n"))
         elif el.tag == f"{{{NS['t']}}}note" and el.get("place") == "margin":
-            notes.append({"text": "".join(el.itertext()).strip(), "page": page})
+            # a trailing reference to the statutes ("Jettoner § 17", "Ledamöter §§ 25—28", vol. VI) is not in the TOC
+            text = re.sub(r"[.,]?\s*§§?\s*[\d\s–—-]+\.?$", "", "".join(el.itertext()).strip())
+            notes.append({"text": text, "page": page})
         elif el.tag == f"{{{NS['t']}}}p" and page:
             # body text per page (approximate: whole paragraph credited to its pages)
             body.setdefault(page, []).append("".join(x for x in el.itertext()))

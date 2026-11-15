@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 116,
+ "seconds": 30.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [526, 235, 707, 277], \"category\": \"Section-header\", \"text\": \"Tävlingar\"}, {\"bbox\": [94, 305, 1136, 473], \"category\": \"Text\", \"text\": \"att han före tryckningen tillgodogjorde sig granskarnas anmärk-\\nningar. Då namnsedeln bröts, befanns författaren vara registratorn i\\nRiksarkivet Carl Adlersparre, vars skrift sedan trycktes i Handlingar-\\nnas tredje band (1793).\"}, {\"bbox\": [94, 471, 1283, 555], \"category\": \"Text\", \"text\": \"Den 4 mars 1788 upprättade akademien förslag till nytt prisämne 1789—1792 för följande års tävlan:\"}, {\"bbox\": [94, 553, 1134, 636], \"category\": \"Text\", \"text\": \"»1) Afhandling om Svenska Bergverkens tillstånd och öden från äldsta tider till K. Gustaf I⁵ anträde till regeringen.\"}, {\"bbox\": [132, 636, 999, 678], \"category\": \"Text\", \"text\": \"2) Försök till historia om Sveriges 5 höga Riksämbeten.\"}, {\"bbox\": [94, 676, 1134, 761], \"category\": \"Text\", \"text\": \"3) Afhandling om Svenska krigsväsendets förändring och skick i K. Gustaf Adolphs tid.»\"}, {\"bbox\": [94, 759, 1136, 1256], \"category\": \"Text\", \"text\": \"Av dessa valde Gustav III det sista. Men den 20 januari 1789 hade ingen enda historisk tävlingsskrift inkommit, och med konungens tillstånd utsattes därför ämnet på nytt. På högtidsdagen 1789 tillkännagavs detta med följande ord: »En afhandling på Svenska¹ rörande krigsväsendets ändring och skick i Swerige under K. Gustaf Adolphs regering, till hvars fullständigare utarbetning såsom ganska widlyftigt, såsom ock till en kraftigare upmuntran för skickeliga författare academien will lämna tvänne års tid och rådrum, så att de med sina försök äga tillfälle att inkomma ända till den 20 januari 1791, på det att de må kunna pröfvas till den 20 Martii samma år, då den författare, som finnes värdig belöning, undfår dubbelt pris eller tvänne guldmedailler, hvarje om 26 ducater.»\"}, {\"bbox\": [94, 1254, 1136, 1710], \"category\": \"Text\", \"text\": \"1790 förekom således ingen tävlan i historia, och den 20 januari 1791 hade, trots det fördubblade priset, heller ingen tävlingsskrift om det utsatta ämnet inkommit. Den 1 februari tog därför akademien frågan i övervägande: »Ehuru af denna erfarenhet en skälig fruktan syntes böra upkomma, att academien å denna sin fråga föga hade något svar att förvänta, Likväl och då Secreteraren anmälte, det han af en viss Ledamot inhämtat den uplysning, att werkeligen en Skicklig författare skall för det närvarande wara sysselsatt med utarbetande af en afhandling i detta ämne, den andra göremål icke ännu tillåtit honom fullborda, och academien därjämte icke annat kunde än högeligen önska, att ett så betydande arbete i wår historia\"}, {\"bbox\": [136, 1720, 689, 1753], \"category\": \"Footnote\", \"text\": \"¹ Här kursiverat, då det för det följande är av vikt.\"}, {\"bbox\": [1066, 1788, 1129, 1815], \"category\": \"Page-footer\", \"text\": \"101\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    526,
+    235,
+    707,
+    277
+   ],
+   "category": "Section-header",
+   "text": "Tävlingar"
+  },
+  {
+   "bbox": [
+    94,
+    305,
+    1136,
+    473
+   ],
+   "category": "Text",
+   "text": "att han före tryckningen tillgodogjorde sig granskarnas anmärk-\nningar. Då namnsedeln bröts, befanns författaren vara registratorn i\nRiksarkivet Carl Adlersparre, vars skrift sedan trycktes i Handlingar-\nnas tredje band (1793)."
+  },
+  {
+   "bbox": [
+    94,
+    471,
+    1283,
+    555
+   ],
+   "category": "Text",
+   "text": "Den 4 mars 1788 upprättade akademien förslag till nytt prisämne 1789—1792 för följande års tävlan:"
+  },
+  {
+   "bbox": [
+    94,
+    553,
+    1134,
+    636
+   ],
+   "category": "Text",
+   "text": "»1) Afhandling om Svenska Bergverkens tillstånd och öden från äldsta tider till K. Gustaf I⁵ anträde till regeringen."
+  },
+  {
+   "bbox": [
+    132,
+    636,
+    999,
+    678
+   ],
+   "category": "Text",
+   "text": "2) Försök till historia om Sveriges 5 höga Riksämbeten."
+  },
+  {
+   "bbox": [
+    94,
+    676,
+    1134,
+    761
+   ],
+   "category": "Text",
+   "text": "3) Afhandling om Svenska krigsväsendets förändring och skick i K. Gustaf Adolphs tid.»"
+  },
+  {
+   "bbox": [
+    94,
+    759,
+    1136,
+    1256
+   ],
+   "category": "Text",
+   "text": "Av dessa valde Gustav III det sista. Men den 20 januari 1789 hade ingen enda historisk tävlingsskrift inkommit, och med konungens tillstånd utsattes därför ämnet på nytt. På högtidsdagen 1789 tillkännagavs detta med följande ord: »En afhandling på Svenska¹ rörande krigsväsendets ändring och skick i Swerige under K. Gustaf Adolphs regering, till hvars fullständigare utarbetning såsom ganska widlyftigt, såsom ock till en kraftigare upmuntran för skickeliga författare academien will lämna tvänne års tid och rådrum, så att de med sina försök äga tillfälle att inkomma ända till den 20 januari 1791, på det att de må kunna pröfvas till den 20 Martii samma år, då den författare, som finnes värdig belöning, undfår dubbelt pris eller tvänne guldmedailler, hvarje om 26 ducater.»"
+  },
+  {
+   "bbox": [
+    94,
+    1254,
+    1136,
+    1710
+   ],
+   "category": "Text",
+   "text": "1790 förekom således ingen tävlan i historia, och den 20 januari 1791 hade, trots det fördubblade priset, heller ingen tävlingsskrift om det utsatta ämnet inkommit. Den 1 februari tog därför akademien frågan i övervägande: »Ehuru af denna erfarenhet en skälig fruktan syntes böra upkomma, att academien å denna sin fråga föga hade något svar att förvänta, Likväl och då Secreteraren anmälte, det han af en viss Ledamot inhämtat den uplysning, att werkeligen en Skicklig författare skall för det närvarande wara sysselsatt med utarbetande af en afhandling i detta ämne, den andra göremål icke ännu tillåtit honom fullborda, och academien därjämte icke annat kunde än högeligen önska, att ett så betydande arbete i wår historia"
+  },
+  {
+   "bbox": [
+    136,
+    1720,
+    689,
+    1753
+   ],
+   "category": "Footnote",
+   "text": "¹ Här kursiverat, då det för det följande är av vikt."
+  },
+  {
+   "bbox": [
+    1066,
+    1788,
+    1129,
+    1815
+   ],
+   "category": "Page-footer",
+   "text": "101"
+  }
+ ]
+}

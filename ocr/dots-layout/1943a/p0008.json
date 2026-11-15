@@ -1,0 +1,61 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 8,
+ "seconds": 36.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [283, 241, 1106, 327], \"category\": \"Text\", \"text\": \"HENRIK SCHÜCK\"}, {\"bbox\": [45, 513, 1358, 846], \"category\": \"Title\", \"text\": \"KGL. VITTERHETS\\nHISTORIE OCH ANTIKVITETS\\nAKADEMIEN\"}, {\"bbox\": [293, 926, 1124, 1171], \"category\": \"Text\", \"text\": \"DESS\\nFÖRHISTORIA OCH HISTORIA\\nVI\"}, {\"bbox\": [571, 1465, 858, 1751], \"category\": \"Picture\"}, {\"bbox\": [442, 1867, 991, 1923], \"category\": \"Text\", \"text\": \"STOCKHOLM 1943\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    283,
+    241,
+    1106,
+    327
+   ],
+   "category": "Text",
+   "text": "HENRIK SCHÜCK"
+  },
+  {
+   "bbox": [
+    45,
+    513,
+    1358,
+    846
+   ],
+   "category": "Title",
+   "text": "KGL. VITTERHETS\nHISTORIE OCH ANTIKVITETS\nAKADEMIEN"
+  },
+  {
+   "bbox": [
+    293,
+    926,
+    1124,
+    1171
+   ],
+   "category": "Text",
+   "text": "DESS\nFÖRHISTORIA OCH HISTORIA\nVI"
+  },
+  {
+   "bbox": [
+    571,
+    1465,
+    858,
+    1751
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    442,
+    1867,
+    991,
+    1923
+   ],
+   "category": "Text",
+   "text": "STOCKHOLM 1943"
+  }
+ ]
+}

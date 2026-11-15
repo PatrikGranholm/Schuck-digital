@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 179,
+ "seconds": 27.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [804, 228, 1239, 271], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [537, 301, 692, 335], \"category\": \"Text\", \"text\": \"et l'autre:\"}, {\"bbox\": [761, 340, 1279, 590], \"category\": \"Text\", \"text\": \"Fyratio Fartyg\\nden 15 Maji\\noch\\nFemtio Tre\\nd. 9 Julii 1790\\naf Fienden tagne (eller eröfrade)\"}, {\"bbox\": [502, 612, 1545, 780], \"category\": \"Text\", \"text\": \"Le premier seroit pour ceux qui n'ont été qu'à la première Bataille et l'autre pour ceux qui ont été au deux. Il faudroit pour les officiers superieurs emailler en rouge le vaisseau même et blasonner le Pavillon; pour les autres les laisser simplement en or en blasonant les Pavillons.\"}, {\"bbox\": [500, 778, 1545, 1397], \"category\": \"Text\", \"text\": \"Till underdånigste följe af denna Konungens befallning anmodade academien Professor Masrelier att göra en ritning, som förestälte såväl den figure, hvilken kommer att utgöra emblemen, som formen och storleken af sjelfva penningen, hvilken ritning Cantzli Rådet v.stein till Konungen i underdånighet öfversänder. Vid samma tillfälle anmodade academien Cantzli Rådet att föredraga den tanka, som hos henne upkommit, huruvida icke, då anledning vore att förmoda, det flere officerare, som bevistat Bataillen vid Svensksund icke varit med vid Fredrichshamn, äfven en tredje prägel blifver nödig, som ensamt återkallar minnet af den förstnämde Segern. Äfven vågade academien föreslå någon ändring i sjelfva Inscriptionen. De orden neml. af fienden tagne eller eröfrade tycktes medföra någon tvetydighet: antingen de eröfrade Fartyg blifvit af och från Fienden tagne eller af honom från oss eröfrade. Detta undvikes och meningen blefve fullkomlig tydelig, om Inskrifterne blefve som följer:\"}, {\"bbox\": [539, 1406, 871, 1448], \"category\": \"Text\", \"text\": \"På den förra Prägeln\"}, {\"bbox\": [724, 1453, 1316, 1538], \"category\": \"Text\", \"text\": \"Fyratio Fientelige eller Ryska Fartyg\\nEröfrade d. 15 Maji 1790.\"}, {\"bbox\": [539, 1548, 894, 1590], \"category\": \"Text\", \"text\": \"På den andra Prägeln:\"}, {\"bbox\": [724, 1595, 1316, 1762], \"category\": \"Text\", \"text\": \"Fyratio Fienteliga eller Ryska Fartyg\\nEröfrade d. 15 Maji 1790\\noch\\nFemtio Tre d. 9 Julii 1790.»\"}, {\"bbox\": [508, 1773, 576, 1809], \"category\": \"Page-footer\", \"text\": \"162\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    804,
+    228,
+    1239,
+    271
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    537,
+    301,
+    692,
+    335
+   ],
+   "category": "Text",
+   "text": "et l'autre:"
+  },
+  {
+   "bbox": [
+    761,
+    340,
+    1279,
+    590
+   ],
+   "category": "Text",
+   "text": "Fyratio Fartyg\nden 15 Maji\noch\nFemtio Tre\nd. 9 Julii 1790\naf Fienden tagne (eller eröfrade)"
+  },
+  {
+   "bbox": [
+    502,
+    612,
+    1545,
+    780
+   ],
+   "category": "Text",
+   "text": "Le premier seroit pour ceux qui n'ont été qu'à la première Bataille et l'autre pour ceux qui ont été au deux. Il faudroit pour les officiers superieurs emailler en rouge le vaisseau même et blasonner le Pavillon; pour les autres les laisser simplement en or en blasonant les Pavillons."
+  },
+  {
+   "bbox": [
+    500,
+    778,
+    1545,
+    1397
+   ],
+   "category": "Text",
+   "text": "Till underdånigste följe af denna Konungens befallning anmodade academien Professor Masrelier att göra en ritning, som förestälte såväl den figure, hvilken kommer att utgöra emblemen, som formen och storleken af sjelfva penningen, hvilken ritning Cantzli Rådet v.stein till Konungen i underdånighet öfversänder. Vid samma tillfälle anmodade academien Cantzli Rådet att föredraga den tanka, som hos henne upkommit, huruvida icke, då anledning vore att förmoda, det flere officerare, som bevistat Bataillen vid Svensksund icke varit med vid Fredrichshamn, äfven en tredje prägel blifver nödig, som ensamt återkallar minnet af den förstnämde Segern. Äfven vågade academien föreslå någon ändring i sjelfva Inscriptionen. De orden neml. af fienden tagne eller eröfrade tycktes medföra någon tvetydighet: antingen de eröfrade Fartyg blifvit af och från Fienden tagne eller af honom från oss eröfrade. Detta undvikes och meningen blefve fullkomlig tydelig, om Inskrifterne blefve som följer:"
+  },
+  {
+   "bbox": [
+    539,
+    1406,
+    871,
+    1448
+   ],
+   "category": "Text",
+   "text": "På den förra Prägeln"
+  },
+  {
+   "bbox": [
+    724,
+    1453,
+    1316,
+    1538
+   ],
+   "category": "Text",
+   "text": "Fyratio Fientelige eller Ryska Fartyg\nEröfrade d. 15 Maji 1790."
+  },
+  {
+   "bbox": [
+    539,
+    1548,
+    894,
+    1590
+   ],
+   "category": "Text",
+   "text": "På den andra Prägeln:"
+  },
+  {
+   "bbox": [
+    724,
+    1595,
+    1316,
+    1762
+   ],
+   "category": "Text",
+   "text": "Fyratio Fienteliga eller Ryska Fartyg\nEröfrade d. 15 Maji 1790\noch\nFemtio Tre d. 9 Julii 1790.»"
+  },
+  {
+   "bbox": [
+    508,
+    1773,
+    576,
+    1809
+   ],
+   "category": "Page-footer",
+   "text": "162"
+  }
+ ]
+}

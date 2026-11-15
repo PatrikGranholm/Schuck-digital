@@ -1,0 +1,41 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 461,
+ "seconds": 10.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [988, 895, 1049, 983], \"category\": \"Picture\"}, {\"bbox\": [804, 997, 1242, 1123], \"category\": \"Text\", \"text\": \"ANALYSE DE WERKSTATTEN\\nDE SPÄTSPÄRZER\"}, {\"bbox\": [992, 1134, 1049, 1163], \"category\": \"Text\", \"text\": \"1901\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    988,
+    895,
+    1049,
+    983
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    804,
+    997,
+    1242,
+    1123
+   ],
+   "category": "Text",
+   "text": "ANALYSE DE WERKSTATTEN\nDE SPÄTSPÄRZER"
+  },
+  {
+   "bbox": [
+    992,
+    1134,
+    1049,
+    1163
+   ],
+   "category": "Text",
+   "text": "1901"
+  }
+ ]
+}

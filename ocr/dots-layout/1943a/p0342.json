@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 342,
+ "seconds": 24.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [328, 236, 864, 280], \"category\": \"Section-header\", \"text\": \"Fornvård och korrespondenter\"}, {\"bbox\": [75, 306, 1119, 682], \"category\": \"Text\", \"text\": \"ning härom med herr Cantzli Rådet von Engeström till nästa Sam-\\nmankomst lärer täckas meddela academien Sitt yttrande.» Den 16\\njanuari föredrogos de inkomna förslagen: »Academien inhämtade af\\nSina Ledamöter Hrr Håfmarskalken Baron Manderström och Cantzli\\nRådet von Engeström de utlåtanden, hvilka blifvit dem updraget att\\naflämna vid de inkomna förslag till påskrifter på Stenen wid Isala\\nLadan och på den penning Konungen tillåtit, att Hans Jansson i\\nIsala må bära. Sedan academien härom öfverlagt, underkastades\\nHans Maj:ts nådiga pröfning och ärhölls Dess bifall till följande:\"}, {\"bbox\": [382, 714, 815, 750], \"category\": \"Section-header\", \"text\": \"På stenen wid Isala Ladan:\"}, {\"bbox\": [387, 773, 803, 1233], \"category\": \"Text\", \"text\": \"Här tröskade\\nGustaf Ericsson\\nFörföljd af Rikets fiender,\\nAf försynen utsedd\\nTill\\nFäderneslandets räddning.\\nHans\\nÄttling i Sjette led\\nGustaf III\\nLät resa minnes märket.\"}, {\"bbox\": [75, 1278, 1112, 1404], \"category\": \"Text\", \"text\": \"Hvarjämte Hans Maj:t äfven i nåder godt fant, att till förvarande\\naf Dess författning om årligt understöd till Ladans widmagthållande\\nföljande påskrift måtte ristas på en annan sida af Stenen:\"}, {\"bbox\": [384, 1426, 805, 1746], \"category\": \"Text\", \"text\": \"År 1786\\nden 22 December\\nAnslog Konungen\\nEn Tunna Krono-Spanmål\\nårligen\\naf Svärdsjö Socken\\nTill Ladans underhåll.\"}, {\"bbox\": [73, 1792, 171, 1814], \"category\": \"Page-footer\", \"text\": \"21-42108.\"}, {\"bbox\": [1038, 1790, 1103, 1827], \"category\": \"Page-footer\", \"text\": \"321\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    328,
+    236,
+    864,
+    280
+   ],
+   "category": "Section-header",
+   "text": "Fornvård och korrespondenter"
+  },
+  {
+   "bbox": [
+    75,
+    306,
+    1119,
+    682
+   ],
+   "category": "Text",
+   "text": "ning härom med herr Cantzli Rådet von Engeström till nästa Sam-\nmankomst lärer täckas meddela academien Sitt yttrande.» Den 16\njanuari föredrogos de inkomna förslagen: »Academien inhämtade af\nSina Ledamöter Hrr Håfmarskalken Baron Manderström och Cantzli\nRådet von Engeström de utlåtanden, hvilka blifvit dem updraget att\naflämna vid de inkomna förslag till påskrifter på Stenen wid Isala\nLadan och på den penning Konungen tillåtit, att Hans Jansson i\nIsala må bära. Sedan academien härom öfverlagt, underkastades\nHans Maj:ts nådiga pröfning och ärhölls Dess bifall till följande:"
+  },
+  {
+   "bbox": [
+    382,
+    714,
+    815,
+    750
+   ],
+   "category": "Section-header",
+   "text": "På stenen wid Isala Ladan:"
+  },
+  {
+   "bbox": [
+    387,
+    773,
+    803,
+    1233
+   ],
+   "category": "Text",
+   "text": "Här tröskade\nGustaf Ericsson\nFörföljd af Rikets fiender,\nAf försynen utsedd\nTill\nFäderneslandets räddning.\nHans\nÄttling i Sjette led\nGustaf III\nLät resa minnes märket."
+  },
+  {
+   "bbox": [
+    75,
+    1278,
+    1112,
+    1404
+   ],
+   "category": "Text",
+   "text": "Hvarjämte Hans Maj:t äfven i nåder godt fant, att till förvarande\naf Dess författning om årligt understöd till Ladans widmagthållande\nföljande påskrift måtte ristas på en annan sida af Stenen:"
+  },
+  {
+   "bbox": [
+    384,
+    1426,
+    805,
+    1746
+   ],
+   "category": "Text",
+   "text": "År 1786\nden 22 December\nAnslog Konungen\nEn Tunna Krono-Spanmål\nårligen\naf Svärdsjö Socken\nTill Ladans underhåll."
+  },
+  {
+   "bbox": [
+    73,
+    1792,
+    171,
+    1814
+   ],
+   "category": "Page-footer",
+   "text": "21-42108."
+  },
+  {
+   "bbox": [
+    1038,
+    1790,
+    1103,
+    1827
+   ],
+   "category": "Page-footer",
+   "text": "321"
+  }
+ ]
+}

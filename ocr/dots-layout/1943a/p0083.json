@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 83,
+ "seconds": 28.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [812, 230, 1243, 272], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [510, 301, 1540, 385], \"category\": \"Text\", \"text\": \"Hofmarskalken Baron Manderström tyckte nr 3 förtiena Belöning såsom wäl skrifven och innehållande nöjaktiga uplysningar.\"}, {\"bbox\": [510, 384, 1543, 758], \"category\": \"Text\", \"text\": \"Cammar Rådet Botin instämde med Cantzli Rådet Rosenberg, Grefve Gyllenborg med Baron Manderström. Men efter någon vidare öfverläggning samtykte äfven Cam. R. Botin och Cantzli Rådet Rosenberg för deras del, at skriften måtte belönas med det af Rosenberg gjorde förbehåll, hvilken tanka äfven blef H. Excellence Höpkens och vant Konungens nådiga Bifall, som der uppå sielf öpnade namnsedeln, och fants författaren wara Kongl. Secreteraren Fredric Conrad Broman, som således skulle undfå det utfästa stora priset.»\"}, {\"bbox\": [510, 755, 1543, 1205], \"category\": \"Text\", \"text\": \"Gustav III var synbarligen mycket intresserad av denna diskussion, och med all sannolikhet hyste han den meningen, att ett eller par fel mot historien ej betydde så mycket, blott stilen var god, och för några ledsamma detaljundersökningar hade han intet sinne. Vid sammanträdets slut tog han därför upp principfrågan: »Hans Kongl. Mt. sade sig under öfverläggningen om den Historiske Belöningen hafwa förmärkt någon skiljaktighet i Ledamöternas sätt at tänka om de Historiske prisskrifters beskaffenhet och wille derföre, at Academien i dess näste enskilte Sammankomst skulle deröfver stadga sine tankar och sedermera meddela allmänheten en underrättelse, huru de skrifter, som inkomma öfver Historiske ämnen, böra wara författade.»\"}, {\"bbox\": [510, 1207, 1543, 1745], \"category\": \"Text\", \"text\": \"Naturligtvis ställde sig akademien denna befallning till efterrättelse och fattade vid sammanträdet den 11 april — innan konungen anlänt — detta beslut: »Efter någon öfverläggning trodde academien, at de Historiske prisämnen kunde wara af tveggehanda beskaffenhet och at denna skillnad i sielfva ämnet medförde en skilnad i hwad academien af författarene borde fordra. Sålunda när academien til prisämne upgofve någon fråga, som ännu icke af Häfdetecknarne wore fullkomligen utredd, blefve det en naturlig följd, at de inkommande skrifter böra afhandla ämnet i all dess widd och meddela de uplysningar, som hittils saknats. Då åter academien upgifver något ämne, som wäl redan af wåre Historiske författare är afhandlat, men för at rätt blifva kännt behöfver ur de flere ställen, där det finnes kringströdt, sammandragas och särskilt från de öfrige Historiske händelser utarbetas, så bör ej\"}, {\"bbox\": [514, 1775, 561, 1811], \"category\": \"Page-footer\", \"text\": \"68\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    812,
+    230,
+    1243,
+    272
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    510,
+    301,
+    1540,
+    385
+   ],
+   "category": "Text",
+   "text": "Hofmarskalken Baron Manderström tyckte nr 3 förtiena Belöning såsom wäl skrifven och innehållande nöjaktiga uplysningar."
+  },
+  {
+   "bbox": [
+    510,
+    384,
+    1543,
+    758
+   ],
+   "category": "Text",
+   "text": "Cammar Rådet Botin instämde med Cantzli Rådet Rosenberg, Grefve Gyllenborg med Baron Manderström. Men efter någon vidare öfverläggning samtykte äfven Cam. R. Botin och Cantzli Rådet Rosenberg för deras del, at skriften måtte belönas med det af Rosenberg gjorde förbehåll, hvilken tanka äfven blef H. Excellence Höpkens och vant Konungens nådiga Bifall, som der uppå sielf öpnade namnsedeln, och fants författaren wara Kongl. Secreteraren Fredric Conrad Broman, som således skulle undfå det utfästa stora priset.»"
+  },
+  {
+   "bbox": [
+    510,
+    755,
+    1543,
+    1205
+   ],
+   "category": "Text",
+   "text": "Gustav III var synbarligen mycket intresserad av denna diskussion, och med all sannolikhet hyste han den meningen, att ett eller par fel mot historien ej betydde så mycket, blott stilen var god, och för några ledsamma detaljundersökningar hade han intet sinne. Vid sammanträdets slut tog han därför upp principfrågan: »Hans Kongl. Mt. sade sig under öfverläggningen om den Historiske Belöningen hafwa förmärkt någon skiljaktighet i Ledamöternas sätt at tänka om de Historiske prisskrifters beskaffenhet och wille derföre, at Academien i dess näste enskilte Sammankomst skulle deröfver stadga sine tankar och sedermera meddela allmänheten en underrättelse, huru de skrifter, som inkomma öfver Historiske ämnen, böra wara författade.»"
+  },
+  {
+   "bbox": [
+    510,
+    1207,
+    1543,
+    1745
+   ],
+   "category": "Text",
+   "text": "Naturligtvis ställde sig akademien denna befallning till efterrättelse och fattade vid sammanträdet den 11 april — innan konungen anlänt — detta beslut: »Efter någon öfverläggning trodde academien, at de Historiske prisämnen kunde wara af tveggehanda beskaffenhet och at denna skillnad i sielfva ämnet medförde en skilnad i hwad academien af författarene borde fordra. Sålunda när academien til prisämne upgofve någon fråga, som ännu icke af Häfdetecknarne wore fullkomligen utredd, blefve det en naturlig följd, at de inkommande skrifter böra afhandla ämnet i all dess widd och meddela de uplysningar, som hittils saknats. Då åter academien upgifver något ämne, som wäl redan af wåre Historiske författare är afhandlat, men för at rätt blifva kännt behöfver ur de flere ställen, där det finnes kringströdt, sammandragas och särskilt från de öfrige Historiske händelser utarbetas, så bör ej"
+  },
+  {
+   "bbox": [
+    514,
+    1775,
+    561,
+    1811
+   ],
+   "category": "Page-footer",
+   "text": "68"
+  }
+ ]
+}

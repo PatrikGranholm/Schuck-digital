@@ -1,0 +1,172 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 50,
+ "seconds": 30.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [474, 239, 779, 273], \"category\": \"Section-header\", \"text\": \"Statuter och stat\"}, {\"bbox\": [107, 309, 1145, 434], \"category\": \"Text\", \"text\": \"Ledamöterna inom nästa sammankomst behagade upgifva hvar sina förslag enl. Statuterna med minst 2:ne Candidater för hvar ledighet och förslagen behörigen undertecknade samt förseglade.»\"}, {\"bbox\": [105, 438, 1145, 1143], \"category\": \"Text\", \"text\": \"Protokollet för den 23 april fortsätter: »Sedan acad:ns underdåniga hemställan att få besätta några lediga rum bland dess utländska Ledamöter wunnit Nådigt bifall af H. K. H. Regenten och academien af sådan anledning öfverenskommit att vid denna dagens sammankomst vara därtill betänkt på behöriga förslag, så androg Secreteraren, att Herr Justitiæ Cantzleren Liljestråle till den ändan såsom frånvarande Ledamot insänt dess förslag äfwen som Herr Cantzli Rådet Wilde ett sådant upsatt och lika såsom det förra nu öpet aflemnade. I anledning häraf och då academiens öfriga närvarande Ledamöter således fingo tillfälle att känna, hvilka utländske personer af nämnde Herrar blifvit på förslag upförde, funno de sig efter någon öfverläggning böjde att med tilläggning af en eller annan witter man å meranämnde förslag gemensamt därtutinnan instämma. Och då fördensskull ingen af Ledamöterna åstundade begagna sig af den i Statuterna dem förunda rättighet att enskildt och under försegling sitt förslag afgifwa, öfverenskommo de att föreslå följande, som på en därtill inrättad Lista upfördes:\"}, {\"bbox\": [142, 1158, 846, 1194], \"category\": \"Text\", \"text\": \"Danske Statsministern Herr Grefve Bernstorff\"}, {\"bbox\": [142, 1200, 823, 1241], \"category\": \"Text\", \"text\": \"Skottske Historiographen Doctor Robertson\"}, {\"bbox\": [142, 1241, 320, 1275], \"category\": \"Text\", \"text\": \"Sir Gibbon\"}, {\"bbox\": [142, 1281, 779, 1323], \"category\": \"Text\", \"text\": \"ÖfwerConsistorialRådet Doctor Büsching\"}, {\"bbox\": [142, 1323, 642, 1364], \"category\": \"Text\", \"text\": \"Professor Schlötzer i Göttingen\"}, {\"bbox\": [142, 1364, 395, 1405], \"category\": \"Text\", \"text\": \"Hofrådet Heyne\"}, {\"bbox\": [142, 1405, 424, 1440], \"category\": \"Text\", \"text\": \"Professor Gatterer\"}, {\"bbox\": [142, 1446, 432, 1487], \"category\": \"Text\", \"text\": \"Professor Tychsen,\"}, {\"bbox\": [142, 1487, 608, 1528], \"category\": \"Text\", \"text\": \"Käjserl. Hofrådet Birkenstock\"}, {\"bbox\": [142, 1528, 608, 1563], \"category\": \"Text\", \"text\": \"Professor Möller i Greifswald\"}, {\"bbox\": [142, 1569, 628, 1613], \"category\": \"Text\", \"text\": \"Professor Baden i Köpenhamn.\"}, {\"bbox\": [107, 1652, 1142, 1738], \"category\": \"Text\", \"text\": \"Och skulle Herr Baron Rosenhane såsom acad:ns vice President anmodas att samma Lista under Hans Kongl. Höghets ögon lägga\"}, {\"bbox\": [1093, 1792, 1137, 1830], \"category\": \"Page-footer\", \"text\": \"35\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    474,
+    239,
+    779,
+    273
+   ],
+   "category": "Section-header",
+   "text": "Statuter och stat"
+  },
+  {
+   "bbox": [
+    107,
+    309,
+    1145,
+    434
+   ],
+   "category": "Text",
+   "text": "Ledamöterna inom nästa sammankomst behagade upgifva hvar sina förslag enl. Statuterna med minst 2:ne Candidater för hvar ledighet och förslagen behörigen undertecknade samt förseglade.»"
+  },
+  {
+   "bbox": [
+    105,
+    438,
+    1145,
+    1143
+   ],
+   "category": "Text",
+   "text": "Protokollet för den 23 april fortsätter: »Sedan acad:ns underdåniga hemställan att få besätta några lediga rum bland dess utländska Ledamöter wunnit Nådigt bifall af H. K. H. Regenten och academien af sådan anledning öfverenskommit att vid denna dagens sammankomst vara därtill betänkt på behöriga förslag, så androg Secreteraren, att Herr Justitiæ Cantzleren Liljestråle till den ändan såsom frånvarande Ledamot insänt dess förslag äfwen som Herr Cantzli Rådet Wilde ett sådant upsatt och lika såsom det förra nu öpet aflemnade. I anledning häraf och då academiens öfriga närvarande Ledamöter således fingo tillfälle att känna, hvilka utländske personer af nämnde Herrar blifvit på förslag upförde, funno de sig efter någon öfverläggning böjde att med tilläggning af en eller annan witter man å meranämnde förslag gemensamt därtutinnan instämma. Och då fördensskull ingen af Ledamöterna åstundade begagna sig af den i Statuterna dem förunda rättighet att enskildt och under försegling sitt förslag afgifwa, öfverenskommo de att föreslå följande, som på en därtill inrättad Lista upfördes:"
+  },
+  {
+   "bbox": [
+    142,
+    1158,
+    846,
+    1194
+   ],
+   "category": "Text",
+   "text": "Danske Statsministern Herr Grefve Bernstorff"
+  },
+  {
+   "bbox": [
+    142,
+    1200,
+    823,
+    1241
+   ],
+   "category": "Text",
+   "text": "Skottske Historiographen Doctor Robertson"
+  },
+  {
+   "bbox": [
+    142,
+    1241,
+    320,
+    1275
+   ],
+   "category": "Text",
+   "text": "Sir Gibbon"
+  },
+  {
+   "bbox": [
+    142,
+    1281,
+    779,
+    1323
+   ],
+   "category": "Text",
+   "text": "ÖfwerConsistorialRådet Doctor Büsching"
+  },
+  {
+   "bbox": [
+    142,
+    1323,
+    642,
+    1364
+   ],
+   "category": "Text",
+   "text": "Professor Schlötzer i Göttingen"
+  },
+  {
+   "bbox": [
+    142,
+    1364,
+    395,
+    1405
+   ],
+   "category": "Text",
+   "text": "Hofrådet Heyne"
+  },
+  {
+   "bbox": [
+    142,
+    1405,
+    424,
+    1440
+   ],
+   "category": "Text",
+   "text": "Professor Gatterer"
+  },
+  {
+   "bbox": [
+    142,
+    1446,
+    432,
+    1487
+   ],
+   "category": "Text",
+   "text": "Professor Tychsen,"
+  },
+  {
+   "bbox": [
+    142,
+    1487,
+    608,
+    1528
+   ],
+   "category": "Text",
+   "text": "Käjserl. Hofrådet Birkenstock"
+  },
+  {
+   "bbox": [
+    142,
+    1528,
+    608,
+    1563
+   ],
+   "category": "Text",
+   "text": "Professor Möller i Greifswald"
+  },
+  {
+   "bbox": [
+    142,
+    1569,
+    628,
+    1613
+   ],
+   "category": "Text",
+   "text": "Professor Baden i Köpenhamn."
+  },
+  {
+   "bbox": [
+    107,
+    1652,
+    1142,
+    1738
+   ],
+   "category": "Text",
+   "text": "Och skulle Herr Baron Rosenhane såsom acad:ns vice President anmodas att samma Lista under Hans Kongl. Höghets ögon lägga"
+  },
+  {
+   "bbox": [
+    1093,
+    1792,
+    1137,
+    1830
+   ],
+   "category": "Page-footer",
+   "text": "35"
+  }
+ ]
+}

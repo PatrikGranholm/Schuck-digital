@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 69,
+ "seconds": 22.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [797, 233, 1232, 276], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [494, 302, 1533, 466], \"category\": \"Text\", \"text\": \"för den nu tillskapade tjänsten berörde icke akademiens stat, ty Lindblom fick — för att begagna protokollets diskreta omskrivning — »i stället för lön» nöja sig »med den pension, som Hans Maj:t honom särskildt täckts anslå».\"}, {\"bbox\": [494, 467, 1533, 755], \"category\": \"Text\", \"text\": \"Detta var ganska välbetänkt, ty akademiens knappa stat tålde ej vid några nya utgifter, och i motsats till Svenska akademien fick den inga privata donationer — utom en. Men denna är dess mera rörande. Den kom från den lärde och älskvärde, av sjukdom redan brutne J. H. Lidén, som avled den 23 april 1793, men som redan den 24 januari 1791 — Gustav III:s födelsedag — sände akademien detta brev:\"}, {\"bbox\": [392, 479, 481, 538], \"category\": \"Text\", \"text\": \"Lidéns\\ndonation\"}, {\"bbox\": [497, 757, 1536, 1091], \"category\": \"Text\", \"text\": \"»Den korta afhandling på ett enda blad, som jag tager mig den friheten at här innelykt till Kongl. Academiens öfversända, är wäl hvarken Vitter eller Historisk, än mindre Antiquarisk, men torde ändå med ynnest och välbehag emottagas som ett, ehuru ringa prof af Insändarens vördnad för Kongl. Academien samt bevis på Dess välmening och uprigtiga önskan at åtminstone på något sätt bidraga till det Lysande Samfunds förmån och nytta, dit Konungens nåd, icke Dess egen förtjenst, kallat honom till Ledamot.\"}, {\"bbox\": [497, 1086, 1536, 1338], \"category\": \"Text\", \"text\": \"Fästad nu i långa tjugu år vid en smärtande sjuksäng, är jag af många och svåra plågor aldeles ur stånd satt at fullgöra de skyldigheter, som en Academiens arbetande Ledamot åligga; men som det icke dess mindre är en ovilkorlig pligt för hvarje Samfunds Ledamot at vara nyttig på hvad sätt som hälst, har jag ock i tillämpning på mig sjelf funnit billigt at ur pungen ärsätta det som brister i Snillet.\"}, {\"bbox\": [497, 1334, 1538, 1627], \"category\": \"Text\", \"text\": \"Jag anser öfverflödigt at föreslå något sätt till desse Ett Tusende Riksdaler Specie användande, öfvertygad, at Kongl. Academien Sjelf dertill lärer utfinna den bästa och nyttigaste utväg. Min avsigt är vunnen, då penningarne användas till befordran af de Wettenskaper, som utgöra Kongl. Academiens hufvudyrken. Det enda förbehåll torde mig tillåtas: at ingen ting om denna gåfva må under min lifstid i Trykta papper införas.\"}, {\"bbox\": [501, 1622, 1538, 1751], \"category\": \"Text\", \"text\": \"Härtill bifogar jag sluteligen de uprigtigaste önskningar för Kongl. Academiens beständiga välgång, som med Wettenskapernes trefnad i detta land äger så nära gemenskap.\"}, {\"bbox\": [507, 1788, 554, 1826], \"category\": \"Page-footer\", \"text\": \"54\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    797,
+    233,
+    1232,
+    276
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    494,
+    302,
+    1533,
+    466
+   ],
+   "category": "Text",
+   "text": "för den nu tillskapade tjänsten berörde icke akademiens stat, ty Lindblom fick — för att begagna protokollets diskreta omskrivning — »i stället för lön» nöja sig »med den pension, som Hans Maj:t honom särskildt täckts anslå»."
+  },
+  {
+   "bbox": [
+    494,
+    467,
+    1533,
+    755
+   ],
+   "category": "Text",
+   "text": "Detta var ganska välbetänkt, ty akademiens knappa stat tålde ej vid några nya utgifter, och i motsats till Svenska akademien fick den inga privata donationer — utom en. Men denna är dess mera rörande. Den kom från den lärde och älskvärde, av sjukdom redan brutne J. H. Lidén, som avled den 23 april 1793, men som redan den 24 januari 1791 — Gustav III:s födelsedag — sände akademien detta brev:"
+  },
+  {
+   "bbox": [
+    392,
+    479,
+    481,
+    538
+   ],
+   "category": "Text",
+   "text": "Lidéns\ndonation"
+  },
+  {
+   "bbox": [
+    497,
+    757,
+    1536,
+    1091
+   ],
+   "category": "Text",
+   "text": "»Den korta afhandling på ett enda blad, som jag tager mig den friheten at här innelykt till Kongl. Academiens öfversända, är wäl hvarken Vitter eller Historisk, än mindre Antiquarisk, men torde ändå med ynnest och välbehag emottagas som ett, ehuru ringa prof af Insändarens vördnad för Kongl. Academien samt bevis på Dess välmening och uprigtiga önskan at åtminstone på något sätt bidraga till det Lysande Samfunds förmån och nytta, dit Konungens nåd, icke Dess egen förtjenst, kallat honom till Ledamot."
+  },
+  {
+   "bbox": [
+    497,
+    1086,
+    1536,
+    1338
+   ],
+   "category": "Text",
+   "text": "Fästad nu i långa tjugu år vid en smärtande sjuksäng, är jag af många och svåra plågor aldeles ur stånd satt at fullgöra de skyldigheter, som en Academiens arbetande Ledamot åligga; men som det icke dess mindre är en ovilkorlig pligt för hvarje Samfunds Ledamot at vara nyttig på hvad sätt som hälst, har jag ock i tillämpning på mig sjelf funnit billigt at ur pungen ärsätta det som brister i Snillet."
+  },
+  {
+   "bbox": [
+    497,
+    1334,
+    1538,
+    1627
+   ],
+   "category": "Text",
+   "text": "Jag anser öfverflödigt at föreslå något sätt till desse Ett Tusende Riksdaler Specie användande, öfvertygad, at Kongl. Academien Sjelf dertill lärer utfinna den bästa och nyttigaste utväg. Min avsigt är vunnen, då penningarne användas till befordran af de Wettenskaper, som utgöra Kongl. Academiens hufvudyrken. Det enda förbehåll torde mig tillåtas: at ingen ting om denna gåfva må under min lifstid i Trykta papper införas."
+  },
+  {
+   "bbox": [
+    501,
+    1622,
+    1538,
+    1751
+   ],
+   "category": "Text",
+   "text": "Härtill bifogar jag sluteligen de uprigtigaste önskningar för Kongl. Academiens beständiga välgång, som med Wettenskapernes trefnad i detta land äger så nära gemenskap."
+  },
+  {
+   "bbox": [
+    507,
+    1788,
+    554,
+    1826
+   ],
+   "category": "Page-footer",
+   "text": "54"
+  }
+ ]
+}

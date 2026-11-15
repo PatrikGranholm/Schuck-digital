@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 89,
+ "seconds": 27.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [792, 235, 1225, 277], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [488, 305, 1530, 1421], \"category\": \"Text\", \"text\": \"vetenskapligt ämne. Det han valt var om Sveriges forna österländska handel i anledning af arabiska penningar funna i svensk jord — ett för sin tid betydande vetenskapligt specimen, till vilket vi skola återkomma. Därefter följde den från 1782 uppskjutna prisutdelningen, som inleddes med en av Rosenberg föredragen hyllning åt Lovisa Ulrica och Gustav III: »Academien har ej i dag behöft återkalla minnet af Drottning Lovisa Ulricas vård om wetenskaper och deras Idkare, icke tolka den sorg, den känt wid hennes Graf, icke frambära de tacksamhets offer, den är sin stiftarinna skyldig. Om någon förgätenhet wore möjelig, skulle den Bild wi hafwe för wåra ögon snart väcka en kraftig förebråelse. Af Drottningens ära har denna academie genom sit förnyade skick blifvit et waraktigt wittne och Dess Ledamöter föresätta sig at på samma dag, som sedt denna Stora Drottning födas, för allmänheten förklara sin saknad öfver hennes bortgång. Det närvarande tilfället hade snarare fordrat, at Academien upgifvit alle de anledningar til tröst och upmuntran den sedermera erhållit, at den sökt i sin rätta dag framställa de prof den erfarit af Dess Nye Beskyddares omwårdnad, så framt icke academien warit tilbakahållen af det Band, som så ofta förwandlat förtiente loford i en tyst tacksamhet. Alt talar dessutom i Academiens ställe, de Stadgar, som blifvit föreläsne, de belöningar som utsättas, sielfva det rum, i hvilket wi äro församlade. Det ena, som tillåtes mig at tillägga, är, at academien genom Konungens frikostighet ser sig i stånd at fullgöra en förbindelse, densamma med allmänheten ingådt. Innan Hennes Maj:t Drottning Lovisa Ulricas högst beklageliga frånfälle woro ämnen upgifvne, til hvilkas belönande Konungen nu gifvit Academien tilgång.»\"}, {\"bbox\": [492, 1418, 1532, 1751], \"category\": \"Text\", \"text\": \"Därefter tillkännagavs, att den stora guldmedaljen i skaldekonst tilldelats kopisten Nils Lorentz Sjöberg för hans lovkväde över Kristina Gyllenstierna, att den stora guldmedaljen i vältalighet tillfallit den för akademien ännu okände författare (den avlidne lagman Mozelius) för hans målning av Karl Gustafs egenskaper, att vidare kanslisten Claes Gartz erhållit accessit för ett äreminne över Johan Skytte och slutligen att kungl. sekreteraren Fredric Conrad Bromans historiska avhandling belönats med stora guldmedaljen.\"}, {\"bbox\": [499, 1788, 548, 1826], \"category\": \"Page-footer\", \"text\": \"74\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    792,
+    235,
+    1225,
+    277
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    488,
+    305,
+    1530,
+    1421
+   ],
+   "category": "Text",
+   "text": "vetenskapligt ämne. Det han valt var om Sveriges forna österländska handel i anledning af arabiska penningar funna i svensk jord — ett för sin tid betydande vetenskapligt specimen, till vilket vi skola återkomma. Därefter följde den från 1782 uppskjutna prisutdelningen, som inleddes med en av Rosenberg föredragen hyllning åt Lovisa Ulrica och Gustav III: »Academien har ej i dag behöft återkalla minnet af Drottning Lovisa Ulricas vård om wetenskaper och deras Idkare, icke tolka den sorg, den känt wid hennes Graf, icke frambära de tacksamhets offer, den är sin stiftarinna skyldig. Om någon förgätenhet wore möjelig, skulle den Bild wi hafwe för wåra ögon snart väcka en kraftig förebråelse. Af Drottningens ära har denna academie genom sit förnyade skick blifvit et waraktigt wittne och Dess Ledamöter föresätta sig at på samma dag, som sedt denna Stora Drottning födas, för allmänheten förklara sin saknad öfver hennes bortgång. Det närvarande tilfället hade snarare fordrat, at Academien upgifvit alle de anledningar til tröst och upmuntran den sedermera erhållit, at den sökt i sin rätta dag framställa de prof den erfarit af Dess Nye Beskyddares omwårdnad, så framt icke academien warit tilbakahållen af det Band, som så ofta förwandlat förtiente loford i en tyst tacksamhet. Alt talar dessutom i Academiens ställe, de Stadgar, som blifvit föreläsne, de belöningar som utsättas, sielfva det rum, i hvilket wi äro församlade. Det ena, som tillåtes mig at tillägga, är, at academien genom Konungens frikostighet ser sig i stånd at fullgöra en förbindelse, densamma med allmänheten ingådt. Innan Hennes Maj:t Drottning Lovisa Ulricas högst beklageliga frånfälle woro ämnen upgifvne, til hvilkas belönande Konungen nu gifvit Academien tilgång.»"
+  },
+  {
+   "bbox": [
+    492,
+    1418,
+    1532,
+    1751
+   ],
+   "category": "Text",
+   "text": "Därefter tillkännagavs, att den stora guldmedaljen i skaldekonst tilldelats kopisten Nils Lorentz Sjöberg för hans lovkväde över Kristina Gyllenstierna, att den stora guldmedaljen i vältalighet tillfallit den för akademien ännu okände författare (den avlidne lagman Mozelius) för hans målning av Karl Gustafs egenskaper, att vidare kanslisten Claes Gartz erhållit accessit för ett äreminne över Johan Skytte och slutligen att kungl. sekreteraren Fredric Conrad Bromans historiska avhandling belönats med stora guldmedaljen."
+  },
+  {
+   "bbox": [
+    499,
+    1788,
+    548,
+    1826
+   ],
+   "category": "Page-footer",
+   "text": "74"
+  }
+ ]
+}

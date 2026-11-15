@@ -1,0 +1,42 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 140,
+ "seconds": 11.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [546, 225, 728, 268], \"category\": \"Section-header\", \"text\": \"Tävlingar\"}, {\"bbox\": [115, 295, 1155, 587], \"category\": \"Text\", \"text\": \"citera denna paragraf: »§ 7. Academien åligger at författa en fullständig Medaille-Historia öfver de förnämsta Händelser, som utmärka Fäderneslandets Häfder ifrån Monarchiens början til Konung Adolph Friedrichs död, utsöka Emblêmer för Medaillerne, Inscriptioner lämpeliga til hvar händelse och uplysa dessa Mynt med tjenliga Historiska Beskrifningar, författade på prydelig Svenska, Latin och Fransyska.»\"}, {\"bbox\": [1083, 1779, 1149, 1817], \"category\": \"Page-footer\", \"text\": \"125\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    546,
+    225,
+    728,
+    268
+   ],
+   "category": "Section-header",
+   "text": "Tävlingar"
+  },
+  {
+   "bbox": [
+    115,
+    295,
+    1155,
+    587
+   ],
+   "category": "Text",
+   "text": "citera denna paragraf: »§ 7. Academien åligger at författa en fullständig Medaille-Historia öfver de förnämsta Händelser, som utmärka Fäderneslandets Häfder ifrån Monarchiens början til Konung Adolph Friedrichs död, utsöka Emblêmer för Medaillerne, Inscriptioner lämpeliga til hvar händelse och uplysa dessa Mynt med tjenliga Historiska Beskrifningar, författade på prydelig Svenska, Latin och Fransyska.»"
+  },
+  {
+   "bbox": [
+    1083,
+    1779,
+    1149,
+    1817
+   ],
+   "category": "Page-footer",
+   "text": "125"
+  }
+ ]
+}

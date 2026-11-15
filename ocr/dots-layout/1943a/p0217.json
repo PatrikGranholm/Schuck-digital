@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 217,
+ "seconds": 27.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [803, 241, 1236, 282], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [501, 309, 1542, 728], \"category\": \"Text\", \"text\": \"Hans Maj:t nästkommande 19 med egen Hög hand wore sinnad at lägga til grundwal för den nya byggnaden vid Haga. Tvenne förslag wore wäl ingifne, men ehuru i sig sielf ganska wackre, funnos de icke öfwerensstämma med Konungens afsigt, och åtog sig friherre Manderström uppå Akademiens anmodan at upsätta denna Inscription på Latin i den mening, som Konungen nu täcktes föreskrifwa.» Då inskriften skulle vara klar och inhuggen på hörnstenen tre dagar senare, revolutionsdagen den 19 augusti, kunde den ej vid något följande sammanträde behandlas i akademien och meddelas icke i dess protokoll.\"}, {\"bbox\": [501, 721, 1547, 1716], \"category\": \"Text\", \"text\": \"Det fjärde ärendet var mera konstigt. En organist Biörkman i Ovansjö hade vänt sig till akademien med anhållan »om en Inscription för en sten, den han ämnade upresa til åminnelse af den lycka honom vederfarits, at vår nu Regerande allernådigste Konung år 1768 såsom KronPrints under dess Bergslags resa spisat middag vid dess hem. Academien trodde, at til denna Inscription ej annat behöfdes, än at omnämna händelsen, men då Biörkman äfven begärt, at de personers namn måtte intagas, som hade den nåden wara Konungen följaktige, täcktes Hans Maj:t» — konungen var vid sammanträdet närvarande — »ej allenast dertill lemna nådigt bifall utan lofvade äfven at sielf nådigst erinra sig och Academien tillkännagifwa, hwilka desse personer warit.» Gustav III höll verkligen detta löfte, och vid sammanträdet den 16 oktober, då han ock var närvarande, täcktes han förklara, att han erinrat sig, »hvilka som haft den nåden vara i dess suite, då Hans M:t under dess Bergslags Resa 1768 åt middag på det ställe i Ofvansiö socken, hvarest organisten Biörkman ämnade upresa en minnes-sten. Desse personer voro dåvarande Landshöfdingen i Gefle m. m. friherre Carl Sparre, Landshöfdingen friherre Daniel Tilas, Cammarherrarne hos Hans M:t, dåvarande KronPrints, friherre Adolph Örnfelt och friherre Gustaf Ehrensvärd, Cammar Herren hos då regerande Drottningen friherre Fredric Nolcken. Hvilket skulle iagttagas i det förslag til Inscription, som kommer at upsättas och Biörkman meddelas.» Tyvärr har den inskription, som skulle föreviga denna minnesvärda tilldragelse, icke intagits i protokollet.\"}, {\"bbox\": [542, 1711, 1545, 1756], \"category\": \"Text\", \"text\": \"Det femte ärendet rörde inskriften på en minnessten, genom vilken\"}, {\"bbox\": [510, 1795, 580, 1824], \"category\": \"Page-footer\", \"text\": \"200\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    803,
+    241,
+    1236,
+    282
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    501,
+    309,
+    1542,
+    728
+   ],
+   "category": "Text",
+   "text": "Hans Maj:t nästkommande 19 med egen Hög hand wore sinnad at lägga til grundwal för den nya byggnaden vid Haga. Tvenne förslag wore wäl ingifne, men ehuru i sig sielf ganska wackre, funnos de icke öfwerensstämma med Konungens afsigt, och åtog sig friherre Manderström uppå Akademiens anmodan at upsätta denna Inscription på Latin i den mening, som Konungen nu täcktes föreskrifwa.» Då inskriften skulle vara klar och inhuggen på hörnstenen tre dagar senare, revolutionsdagen den 19 augusti, kunde den ej vid något följande sammanträde behandlas i akademien och meddelas icke i dess protokoll."
+  },
+  {
+   "bbox": [
+    501,
+    721,
+    1547,
+    1716
+   ],
+   "category": "Text",
+   "text": "Det fjärde ärendet var mera konstigt. En organist Biörkman i Ovansjö hade vänt sig till akademien med anhållan »om en Inscription för en sten, den han ämnade upresa til åminnelse af den lycka honom vederfarits, at vår nu Regerande allernådigste Konung år 1768 såsom KronPrints under dess Bergslags resa spisat middag vid dess hem. Academien trodde, at til denna Inscription ej annat behöfdes, än at omnämna händelsen, men då Biörkman äfven begärt, at de personers namn måtte intagas, som hade den nåden wara Konungen följaktige, täcktes Hans Maj:t» — konungen var vid sammanträdet närvarande — »ej allenast dertill lemna nådigt bifall utan lofvade äfven at sielf nådigst erinra sig och Academien tillkännagifwa, hwilka desse personer warit.» Gustav III höll verkligen detta löfte, och vid sammanträdet den 16 oktober, då han ock var närvarande, täcktes han förklara, att han erinrat sig, »hvilka som haft den nåden vara i dess suite, då Hans M:t under dess Bergslags Resa 1768 åt middag på det ställe i Ofvansiö socken, hvarest organisten Biörkman ämnade upresa en minnes-sten. Desse personer voro dåvarande Landshöfdingen i Gefle m. m. friherre Carl Sparre, Landshöfdingen friherre Daniel Tilas, Cammarherrarne hos Hans M:t, dåvarande KronPrints, friherre Adolph Örnfelt och friherre Gustaf Ehrensvärd, Cammar Herren hos då regerande Drottningen friherre Fredric Nolcken. Hvilket skulle iagttagas i det förslag til Inscription, som kommer at upsättas och Biörkman meddelas.» Tyvärr har den inskription, som skulle föreviga denna minnesvärda tilldragelse, icke intagits i protokollet."
+  },
+  {
+   "bbox": [
+    542,
+    1711,
+    1545,
+    1756
+   ],
+   "category": "Text",
+   "text": "Det femte ärendet rörde inskriften på en minnessten, genom vilken"
+  },
+  {
+   "bbox": [
+    510,
+    1795,
+    580,
+    1824
+   ],
+   "category": "Page-footer",
+   "text": "200"
+  }
+ ]
+}

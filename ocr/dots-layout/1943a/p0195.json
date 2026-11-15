@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 195,
+ "seconds": 29.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [794, 242, 1229, 283], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [490, 305, 1530, 404], \"category\": \"Text\", \"text\": \"hvilken förente sig att däröfver utbedja sig Herr Cantzli Rådet von Engeströms utlåtande till nästa sammankomst om 8 dagar.»\"}, {\"bbox\": [492, 388, 1541, 982], \"category\": \"Text\", \"text\": \"Sedan fortsätter protokollet för den 14 december: »Efter öfverläggning med Herr Professor Masrelier och Herr Medailleuren Fehrman [hade] dessa Herrar artister förklarat, det den af fahlu Bergslags Deputerade till Corps af deras Medaille föreslagne tafla i oljefärg, föreställande konungens besök i orten Rådsalen af fahlu grufwa, kunde med god effect uti stämpel exequeras, allenast sjelfva den därvid nyttjade point de vue förändrades och till oredighets undvikande några af de därstädes förekommande mindre hufvudsakeliga figurer uteslötos. De närvarande Herrar Ledamöter funno bäst, att Secreteraren genom bref till Bergshauptmannen Herr Berndtson inhämtade dess utlåtande, huruvida icke dessa förändringar kunde förenas med Bergslagets önskan, hvarefter man genast på nyåret och så fort ett sådant svar hunnit inkomma, finge vara betänkt på en lämpelig Inscription.»\"}, {\"bbox\": [535, 966, 1473, 1021], \"category\": \"Text\", \"text\": \"Den 11 januari 1791 var akademien färdig med sitt projekt:\"}, {\"bbox\": [502, 1005, 1552, 1513], \"category\": \"Text\", \"text\": \"»I anledning af hwad i academien tillförne anmält och öfwerlagdt blifwit rörande en af Stora Kopparbergslaget äskad upgift till Skådepenning öfwer Hans Kongl. Maj:ts Höga besök i fahlu grufwa, och ehuruwäl intet swar ännu inkommit på det bref Secreteraren den 16 nästl. Decemb. till Bergshauptmannen Berndtson affärdat rörande någon af Herr Professor Masrelier och Herr Medalleuren Fehrman lämpelig funnen förändring vid den tafla, föreställande orten Rådsalen i bemälta grufwa, hwilken önskades tjäna till efterfölgd å Skådepenningen, trodde academiens närvarande Ledamöter sig kunna under sluteligt öfwervägande taga det till meranämde penning framlämnade project, hwaröfwer flere Herrar Ledamöter sig ock redan yttrat. Till den ändan fastställdes följande upgift:\"}, {\"bbox\": [537, 1503, 1326, 1558], \"category\": \"Text\", \"text\": \"första sidan: Konungens bröstbild, namn och titel.\"}, {\"bbox\": [511, 1542, 1557, 1761], \"category\": \"Text\", \"text\": \"andra sidan: Orten Rådsalen i fahlu grufwa, hvarest Konungen klädd i grufwedrägt, som Hans M:t werkeligen bar, inskrifwer sitt namn i Grufweboken. Ofvanföre *Dat nova nomina fastis* (Luc. Phars. L.V.). Nederst: *In memor[riam] iter[atae] lustrationis XX Sept. MDCCLXXXVIII Soc[ietas] Cuprim[ontis] fahlun[ensis]*. På\"}, {\"bbox\": [520, 1792, 587, 1839], \"category\": \"Page-footer\", \"text\": \"178\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    794,
+    242,
+    1229,
+    283
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    490,
+    305,
+    1530,
+    404
+   ],
+   "category": "Text",
+   "text": "hvilken förente sig att däröfver utbedja sig Herr Cantzli Rådet von Engeströms utlåtande till nästa sammankomst om 8 dagar.»"
+  },
+  {
+   "bbox": [
+    492,
+    388,
+    1541,
+    982
+   ],
+   "category": "Text",
+   "text": "Sedan fortsätter protokollet för den 14 december: »Efter öfverläggning med Herr Professor Masrelier och Herr Medailleuren Fehrman [hade] dessa Herrar artister förklarat, det den af fahlu Bergslags Deputerade till Corps af deras Medaille föreslagne tafla i oljefärg, föreställande konungens besök i orten Rådsalen af fahlu grufwa, kunde med god effect uti stämpel exequeras, allenast sjelfva den därvid nyttjade point de vue förändrades och till oredighets undvikande några af de därstädes förekommande mindre hufvudsakeliga figurer uteslötos. De närvarande Herrar Ledamöter funno bäst, att Secreteraren genom bref till Bergshauptmannen Herr Berndtson inhämtade dess utlåtande, huruvida icke dessa förändringar kunde förenas med Bergslagets önskan, hvarefter man genast på nyåret och så fort ett sådant svar hunnit inkomma, finge vara betänkt på en lämpelig Inscription.»"
+  },
+  {
+   "bbox": [
+    535,
+    966,
+    1473,
+    1021
+   ],
+   "category": "Text",
+   "text": "Den 11 januari 1791 var akademien färdig med sitt projekt:"
+  },
+  {
+   "bbox": [
+    502,
+    1005,
+    1552,
+    1513
+   ],
+   "category": "Text",
+   "text": "»I anledning af hwad i academien tillförne anmält och öfwerlagdt blifwit rörande en af Stora Kopparbergslaget äskad upgift till Skådepenning öfwer Hans Kongl. Maj:ts Höga besök i fahlu grufwa, och ehuruwäl intet swar ännu inkommit på det bref Secreteraren den 16 nästl. Decemb. till Bergshauptmannen Berndtson affärdat rörande någon af Herr Professor Masrelier och Herr Medalleuren Fehrman lämpelig funnen förändring vid den tafla, föreställande orten Rådsalen i bemälta grufwa, hwilken önskades tjäna till efterfölgd å Skådepenningen, trodde academiens närvarande Ledamöter sig kunna under sluteligt öfwervägande taga det till meranämde penning framlämnade project, hwaröfwer flere Herrar Ledamöter sig ock redan yttrat. Till den ändan fastställdes följande upgift:"
+  },
+  {
+   "bbox": [
+    537,
+    1503,
+    1326,
+    1558
+   ],
+   "category": "Text",
+   "text": "första sidan: Konungens bröstbild, namn och titel."
+  },
+  {
+   "bbox": [
+    511,
+    1542,
+    1557,
+    1761
+   ],
+   "category": "Text",
+   "text": "andra sidan: Orten Rådsalen i fahlu grufwa, hvarest Konungen klädd i grufwedrägt, som Hans M:t werkeligen bar, inskrifwer sitt namn i Grufweboken. Ofvanföre *Dat nova nomina fastis* (Luc. Phars. L.V.). Nederst: *In memor[riam] iter[atae] lustrationis XX Sept. MDCCLXXXVIII Soc[ietas] Cuprim[ontis] fahlun[ensis]*. På"
+  },
+  {
+   "bbox": [
+    520,
+    1792,
+    587,
+    1839
+   ],
+   "category": "Page-footer",
+   "text": "178"
+  }
+ ]
+}

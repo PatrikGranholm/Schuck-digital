@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 211,
+ "seconds": 28.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [800, 236, 1234, 278], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [500, 305, 1536, 559], \"category\": \"Text\", \"text\": \"Förslagen framlades vid nästa sammanträde den 12 juni och godkändes tydligen av Vetenskapsakademien, ty medaljerna ha det föreslagna utseendet. För de medaljer, som slogos av Svenska akademien och Vetenskapsakademien, betraktades, att döma härav, Vitterhets Historie och Antikvitetsakademien endast såsom en rådgivande myndighet.\"}, {\"bbox\": [502, 553, 1541, 1129], \"category\": \"Text\", \"text\": \"Av övriga medaljer, som präglades under denna tid, har jag ur akademiens protokoll antecknat följande. Tre hederstecken, på vilka regeringen begärde förslag, voro mycket enkla ärenden: till tappra soldater och sjömän (den 9 juni 1789), till barnaomvårdnad (den 15 mars 1791) och till belöning för kadetter på Karlberg (den 28 maj 1792). Svårare var en annan uppgift. 1787 tillträdde prinsessan Sofia Albertina platsen som abbedissa över stiftet Quedlinburg, och i anledning därav fick akademien befallning att uppgiva project till en skådepenning. Vid sammanträdet den 12 juni hade tre ledamöter, Manderström, Engeström och Hallenberg inlämnat var sitt förslag, »hvilka akademien fann vara så beskaffade, att de alla kunde underkastas Hans Maj:ts eget höga wal». Ett av dem (Hildebrand nr 4) godtogs av konungen, men vilket i ordningen uppgives icke i protokollet.\"}, {\"bbox\": [507, 1128, 1543, 1423], \"category\": \"Text\", \"text\": \"Den 20 juli 1791 inlämnade K. Patriotiska sällskapet ett förslag till en skådepenning över brukspatron Johan Hisinger, mot vilket akademien förklarade sig icke ha något att invända. Mer att göra fick akademien med den medalj, som Stockholms stad beslutit slå över överståthållaren friherre Carl Sparre, ty detta ärende behandlades vid icke mindre än tre sammankomster (den 14 september, den 19 oktober och den 16 november 1791).\"}, {\"bbox\": [510, 1417, 1547, 1754], \"category\": \"Text\", \"text\": \"En fjärde medalj var den, som Uppsala universitet ville slå över den nye kansleren hertig Karl. Överläggningen härom började den 19 juni och fortsatte den 11 juli 1792: »Under öfverläggningen förekom skiljaktighet i meningarne emellan Herrar Ledamöterne, som funno ett och annat af de upgifne projecter mer och mindre lämpelige, af hvilke ett i synnerhet var af Consistorio academico bifallit med önskan att det äfven måtte af kongl. Vitterhets Historie och Antiquitets Academien gillas och antagas, så lydande:\"}, {\"bbox\": [395, 565, 488, 630], \"category\": \"Text\", \"text\": \"Övriga medaljer\"}, {\"bbox\": [521, 1790, 588, 1829], \"category\": \"Page-footer\", \"text\": \"194\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    800,
+    236,
+    1234,
+    278
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    500,
+    305,
+    1536,
+    559
+   ],
+   "category": "Text",
+   "text": "Förslagen framlades vid nästa sammanträde den 12 juni och godkändes tydligen av Vetenskapsakademien, ty medaljerna ha det föreslagna utseendet. För de medaljer, som slogos av Svenska akademien och Vetenskapsakademien, betraktades, att döma härav, Vitterhets Historie och Antikvitetsakademien endast såsom en rådgivande myndighet."
+  },
+  {
+   "bbox": [
+    502,
+    553,
+    1541,
+    1129
+   ],
+   "category": "Text",
+   "text": "Av övriga medaljer, som präglades under denna tid, har jag ur akademiens protokoll antecknat följande. Tre hederstecken, på vilka regeringen begärde förslag, voro mycket enkla ärenden: till tappra soldater och sjömän (den 9 juni 1789), till barnaomvårdnad (den 15 mars 1791) och till belöning för kadetter på Karlberg (den 28 maj 1792). Svårare var en annan uppgift. 1787 tillträdde prinsessan Sofia Albertina platsen som abbedissa över stiftet Quedlinburg, och i anledning därav fick akademien befallning att uppgiva project till en skådepenning. Vid sammanträdet den 12 juni hade tre ledamöter, Manderström, Engeström och Hallenberg inlämnat var sitt förslag, »hvilka akademien fann vara så beskaffade, att de alla kunde underkastas Hans Maj:ts eget höga wal». Ett av dem (Hildebrand nr 4) godtogs av konungen, men vilket i ordningen uppgives icke i protokollet."
+  },
+  {
+   "bbox": [
+    507,
+    1128,
+    1543,
+    1423
+   ],
+   "category": "Text",
+   "text": "Den 20 juli 1791 inlämnade K. Patriotiska sällskapet ett förslag till en skådepenning över brukspatron Johan Hisinger, mot vilket akademien förklarade sig icke ha något att invända. Mer att göra fick akademien med den medalj, som Stockholms stad beslutit slå över överståthållaren friherre Carl Sparre, ty detta ärende behandlades vid icke mindre än tre sammankomster (den 14 september, den 19 oktober och den 16 november 1791)."
+  },
+  {
+   "bbox": [
+    510,
+    1417,
+    1547,
+    1754
+   ],
+   "category": "Text",
+   "text": "En fjärde medalj var den, som Uppsala universitet ville slå över den nye kansleren hertig Karl. Överläggningen härom började den 19 juni och fortsatte den 11 juli 1792: »Under öfverläggningen förekom skiljaktighet i meningarne emellan Herrar Ledamöterne, som funno ett och annat af de upgifne projecter mer och mindre lämpelige, af hvilke ett i synnerhet var af Consistorio academico bifallit med önskan att det äfven måtte af kongl. Vitterhets Historie och Antiquitets Academien gillas och antagas, så lydande:"
+  },
+  {
+   "bbox": [
+    395,
+    565,
+    488,
+    630
+   ],
+   "category": "Text",
+   "text": "Övriga medaljer"
+  },
+  {
+   "bbox": [
+    521,
+    1790,
+    588,
+    1829
+   ],
+   "category": "Page-footer",
+   "text": "194"
+  }
+ ]
+}

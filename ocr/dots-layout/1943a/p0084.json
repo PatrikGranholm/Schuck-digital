@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 84,
+ "seconds": 29.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [410, 237, 791, 280], \"category\": \"Section-header\", \"text\": \"De första månaderna\"}, {\"bbox\": [76, 308, 1117, 433], \"category\": \"Text\", \"text\": \"egenteligen af författarene fordras något nytt utan skrifterne anses hafva upfyllt ändamålet, då de äro utförlige och med ordning och redighet författade.\"}, {\"bbox\": [76, 433, 1117, 515], \"category\": \"Text\", \"text\": \"Konungen inkom, intog sin stol och sedan den förfallna öfverläggning blifvit anmäld, gillade academiens Beslut.»\"}, {\"bbox\": [76, 515, 1117, 1093], \"category\": \"Text\", \"text\": \"Vid sammanträdet den 1 april hade akademien — nu för första gången såsom Vitterhets Historie och Antikvitetsakademi — också bestämt prisämnen för det kommande årets tävlingar, således icke längre i vältalighet och skaldekonst på svenskt språk utan i de fyra vitterhetsgrupper, som angivits i de nya statuterna. I historia skulle priset tilldelas den bästa, på svenska författade avhandlingen om Hansestädernas handel med Sverige. I vältalighet eller skaldekonst var ämnet Carl von Linné. Den tävlande fick välja, om han ville behandla detta ämne i en dikt eller i ett äreminne. Språket skulle icke vara svenska, utan latin, franska eller italienska. I antikviteterna önskade man en avhandling om svenska mynt ifrån rikets ursprung till slutet av 1200-talet, »Hvilka af dem för svenska anses verkeligen äro det eller från utrikes orter inkommit.» Utförligast var man om medaljpriset. Till de många ämnena skola vi sedan återkomma.\"}, {\"bbox\": [1131, 528, 1230, 583], \"category\": \"Text\", \"text\": \"Nya prisämnen\"}, {\"bbox\": [76, 1093, 1117, 1217], \"category\": \"Text\", \"text\": \"Utsättandet av dessa tävlingsämnen var det första steget till övergången från den gamla akademien till den omorganiserade. Det nästa togs dagen därpå.\"}, {\"bbox\": [76, 1217, 1117, 1753], \"category\": \"Text\", \"text\": \"Lovisa Ulricas akademi hade icke haft några offentliga sammankomster, ty alla sammanträden höllos i drottningens privata rum, och till dem ägde allmänheten naturligtvis icke tillträde. En egen lokal fick akademien först av Gustav III. Redan den 20 mars hade han avlåtit detta brev till riksgäldsdirektionen: »Som Wi i nåder upplåtit Wår Witterhetsacademi till sina sammankomster den så kallade Rundeln i Gamla Kungshuset, hwarest I någon tid lärer hållit Edra sammankomster. Så är till Eder härmed Wår Nådiga befallning, att I samma rum genast utrymmen och mågen I deremot församla Eder i det Rum, som fordom warit RådsSalen, men nu tillika med de dervid närmast belägne blifvit Eder upplåtit.» I viss mån var den lokal, akademien nu fått, förnämligare — i varje fall rymligare — än den, som Svenska akademien samtidigt fick sig anvisad i det nya slottets\"}, {\"bbox\": [1131, 1225, 1248, 1285], \"category\": \"Text\", \"text\": \"Rundeln i Kungshuset\"}, {\"bbox\": [1062, 1782, 1109, 1829], \"category\": \"Page-footer\", \"text\": \"69\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    410,
+    237,
+    791,
+    280
+   ],
+   "category": "Section-header",
+   "text": "De första månaderna"
+  },
+  {
+   "bbox": [
+    76,
+    308,
+    1117,
+    433
+   ],
+   "category": "Text",
+   "text": "egenteligen af författarene fordras något nytt utan skrifterne anses hafva upfyllt ändamålet, då de äro utförlige och med ordning och redighet författade."
+  },
+  {
+   "bbox": [
+    76,
+    433,
+    1117,
+    515
+   ],
+   "category": "Text",
+   "text": "Konungen inkom, intog sin stol och sedan den förfallna öfverläggning blifvit anmäld, gillade academiens Beslut.»"
+  },
+  {
+   "bbox": [
+    76,
+    515,
+    1117,
+    1093
+   ],
+   "category": "Text",
+   "text": "Vid sammanträdet den 1 april hade akademien — nu för första gången såsom Vitterhets Historie och Antikvitetsakademi — också bestämt prisämnen för det kommande årets tävlingar, således icke längre i vältalighet och skaldekonst på svenskt språk utan i de fyra vitterhetsgrupper, som angivits i de nya statuterna. I historia skulle priset tilldelas den bästa, på svenska författade avhandlingen om Hansestädernas handel med Sverige. I vältalighet eller skaldekonst var ämnet Carl von Linné. Den tävlande fick välja, om han ville behandla detta ämne i en dikt eller i ett äreminne. Språket skulle icke vara svenska, utan latin, franska eller italienska. I antikviteterna önskade man en avhandling om svenska mynt ifrån rikets ursprung till slutet av 1200-talet, »Hvilka af dem för svenska anses verkeligen äro det eller från utrikes orter inkommit.» Utförligast var man om medaljpriset. Till de många ämnena skola vi sedan återkomma."
+  },
+  {
+   "bbox": [
+    1131,
+    528,
+    1230,
+    583
+   ],
+   "category": "Text",
+   "text": "Nya prisämnen"
+  },
+  {
+   "bbox": [
+    76,
+    1093,
+    1117,
+    1217
+   ],
+   "category": "Text",
+   "text": "Utsättandet av dessa tävlingsämnen var det första steget till övergången från den gamla akademien till den omorganiserade. Det nästa togs dagen därpå."
+  },
+  {
+   "bbox": [
+    76,
+    1217,
+    1117,
+    1753
+   ],
+   "category": "Text",
+   "text": "Lovisa Ulricas akademi hade icke haft några offentliga sammankomster, ty alla sammanträden höllos i drottningens privata rum, och till dem ägde allmänheten naturligtvis icke tillträde. En egen lokal fick akademien först av Gustav III. Redan den 20 mars hade han avlåtit detta brev till riksgäldsdirektionen: »Som Wi i nåder upplåtit Wår Witterhetsacademi till sina sammankomster den så kallade Rundeln i Gamla Kungshuset, hwarest I någon tid lärer hållit Edra sammankomster. Så är till Eder härmed Wår Nådiga befallning, att I samma rum genast utrymmen och mågen I deremot församla Eder i det Rum, som fordom warit RådsSalen, men nu tillika med de dervid närmast belägne blifvit Eder upplåtit.» I viss mån var den lokal, akademien nu fått, förnämligare — i varje fall rymligare — än den, som Svenska akademien samtidigt fick sig anvisad i det nya slottets"
+  },
+  {
+   "bbox": [
+    1131,
+    1225,
+    1248,
+    1285
+   ],
+   "category": "Text",
+   "text": "Rundeln i Kungshuset"
+  },
+  {
+   "bbox": [
+    1062,
+    1782,
+    1109,
+    1829
+   ],
+   "category": "Page-footer",
+   "text": "69"
+  }
+ ]
+}

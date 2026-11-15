@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 222,
+ "seconds": 25.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [308, 235, 923, 281], \"category\": \"Section-header\", \"text\": \"Övriga medaljer och inskriptioner\"}, {\"bbox\": [89, 307, 1134, 558], \"category\": \"Text\", \"text\": \"»Kongl. academien i Upsala hade begärt denna academiens granskning af en Inscription öfwer det af Hans Maj:t Konungen år 1767, såsom då warande samma academies höge Canceller, dit skänkte Bibliothek af en utwald samling utaf Swenska Böcker, och i anledning af de inlämnade förslag till samma Inscription fastställdes den af följande innehåll både på Latin och Swenska:\"}, {\"bbox\": [421, 561, 807, 1099], \"category\": \"Text\", \"text\": \"Primitiae Liberalitatis\\nGustavi III\\nIn\\nAcademiam Upsaliensem\\nMDCCLXVII\\n—\\nFörstlingen\\naf\\nGustaf IIIs\\nFrikostighet\\nEmot\\nUpsala Academie\\n1767.»\"}, {\"bbox\": [89, 1126, 1132, 1458], \"category\": \"Text\", \"text\": \"Ännu två andra inskriptioner av denna art kunna här nämnas. 1786 hade akademien till täylan bl. a. utsatt en inskription på Ehrensvärds grav på Sveaborg. Flera förslag hade då inkommit, men alla — efter vad det uppgavs — under all kritik. Gustav III tyckes då själv ha försökt sig på att lösa uppgiften, och i varje fall blev den lösning, som ärendet nu fick, förträfflig. Den 27 maj 1788 kom saken före i akademien, och sedan Adlerbeth redogjort för själva gravvårdens utseende, mått o. s. v. fortsätter protokollet:\"}, {\"bbox\": [89, 1458, 1132, 1624], \"category\": \"Text\", \"text\": \"»I anledning af de utkast, som voro upgifna, och med i akt tagande af de nyss anförda omständigheter skred academien till öfwerläggning om sjelfwa minnesskriften, hvilken slutligen faststäldtes på sätt, som följer:\"}, {\"bbox\": [385, 1628, 834, 1753], \"category\": \"Text\", \"text\": \"Till första sidan eller N. 1.\\nHär hwilar\\nGrefve Augustin Ehrensvärd\"}, {\"bbox\": [1057, 1790, 1126, 1828], \"category\": \"Page-footer\", \"text\": \"205\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    308,
+    235,
+    923,
+    281
+   ],
+   "category": "Section-header",
+   "text": "Övriga medaljer och inskriptioner"
+  },
+  {
+   "bbox": [
+    89,
+    307,
+    1134,
+    558
+   ],
+   "category": "Text",
+   "text": "»Kongl. academien i Upsala hade begärt denna academiens granskning af en Inscription öfwer det af Hans Maj:t Konungen år 1767, såsom då warande samma academies höge Canceller, dit skänkte Bibliothek af en utwald samling utaf Swenska Böcker, och i anledning af de inlämnade förslag till samma Inscription fastställdes den af följande innehåll både på Latin och Swenska:"
+  },
+  {
+   "bbox": [
+    421,
+    561,
+    807,
+    1099
+   ],
+   "category": "Text",
+   "text": "Primitiae Liberalitatis\nGustavi III\nIn\nAcademiam Upsaliensem\nMDCCLXVII\n—\nFörstlingen\naf\nGustaf IIIs\nFrikostighet\nEmot\nUpsala Academie\n1767.»"
+  },
+  {
+   "bbox": [
+    89,
+    1126,
+    1132,
+    1458
+   ],
+   "category": "Text",
+   "text": "Ännu två andra inskriptioner av denna art kunna här nämnas. 1786 hade akademien till täylan bl. a. utsatt en inskription på Ehrensvärds grav på Sveaborg. Flera förslag hade då inkommit, men alla — efter vad det uppgavs — under all kritik. Gustav III tyckes då själv ha försökt sig på att lösa uppgiften, och i varje fall blev den lösning, som ärendet nu fick, förträfflig. Den 27 maj 1788 kom saken före i akademien, och sedan Adlerbeth redogjort för själva gravvårdens utseende, mått o. s. v. fortsätter protokollet:"
+  },
+  {
+   "bbox": [
+    89,
+    1458,
+    1132,
+    1624
+   ],
+   "category": "Text",
+   "text": "»I anledning af de utkast, som voro upgifna, och med i akt tagande af de nyss anförda omständigheter skred academien till öfwerläggning om sjelfwa minnesskriften, hvilken slutligen faststäldtes på sätt, som följer:"
+  },
+  {
+   "bbox": [
+    385,
+    1628,
+    834,
+    1753
+   ],
+   "category": "Text",
+   "text": "Till första sidan eller N. 1.\nHär hwilar\nGrefve Augustin Ehrensvärd"
+  },
+  {
+   "bbox": [
+    1057,
+    1790,
+    1126,
+    1828
+   ],
+   "category": "Page-footer",
+   "text": "205"
+  }
+ ]
+}

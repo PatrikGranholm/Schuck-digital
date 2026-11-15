@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 190,
+ "seconds": 26.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [462, 236, 782, 278], \"category\": \"Section-header\", \"text\": \"Medaljhistorierna\"}, {\"bbox\": [102, 306, 1139, 432], \"category\": \"Text\", \"text\": \"Medaille skall någre Ledamöter meddelas, och så vida deras tanke instämmer med de närvarandes, skall det såsom academiens enhälliga beslut Hans Kungl. M:t i underdånighet öfverlämnas.»\"}, {\"bbox\": [102, 431, 1139, 1253], \"category\": \"Text\", \"text\": \"Men konungen ville trots denna kritik icke ge med sig. Han var visserligen med om att stryka den tekniskt omöjliga Svensksunds-medaljen och gick in på att hans i Aachen återvunna hälsa omnämndes, hvilket alternativt föreslagits också av Ahlman, men däremot höll han på att hyllas såsom »Libertatis publicæ ac privatæ Vindex Conservator» — en på säkerhetsakten anspelande titel, som särskilt Jacob von Engeström nog ej var villig att tilldela honom. Om sin mission till konungen berättade�stein den 19 oktober: »Herr Cantzli Rådet v.�stein anmälte, det han i underdånighet till Konungen öfverlämnat det af academien lika underdånigt upgifne och gillade förslag till den öfver Hans M:t af Stockholms Borgerskap tillärnade Medaille. Konungen hade vid academiens förslag icke haft något att påminna, men i Nåder förklarat sig hafva förut sett ett annat, som Hans M:t mera omtyckt. Det var det samma, som Underståthållaren Ahlman till academien låtit ingifva. På C. R. v.�steins underdåniga föreställning hade doch Hans M:t tillåtit, att anledningen till Dess helsas försvagande, hvars anförande academien ansett för en ganska hufvudsakelig omständighet, på denna Medaille måtte införas, och hade således följande, som äfven redan enl. Konungens befallning till verkställande är aflemnad, blifvit faststäld:\"}, {\"bbox\": [102, 1261, 1137, 1346], \"category\": \"Text\", \"text\": \"På ena sidan: Konungens Bröstbild med lagrad Casque och på Casquen en Sphinx med öfverskrift: *Civis Princeps*\"}, {\"bbox\": [138, 1350, 939, 1757], \"category\": \"Text\", \"text\": \"På andra sidan:\\n* Heroi Sospitatori\\n* Gustavo III\\n* Publicæ ac Privatæ\\n* Libertatis\\n* Conservatori Vindici.\\n* Patriae d. III Aug. MDCCXCI Reddito\\n* Fracta in armis valetudine\\n* Aquisgrani Redintegrata\\n* Ovantes\\n* Cives Stockholmenses.»\"}, {\"bbox\": [1065, 1787, 1132, 1825], \"category\": \"Page-footer\", \"text\": \"173\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    462,
+    236,
+    782,
+    278
+   ],
+   "category": "Section-header",
+   "text": "Medaljhistorierna"
+  },
+  {
+   "bbox": [
+    102,
+    306,
+    1139,
+    432
+   ],
+   "category": "Text",
+   "text": "Medaille skall någre Ledamöter meddelas, och så vida deras tanke instämmer med de närvarandes, skall det såsom academiens enhälliga beslut Hans Kungl. M:t i underdånighet öfverlämnas.»"
+  },
+  {
+   "bbox": [
+    102,
+    431,
+    1139,
+    1253
+   ],
+   "category": "Text",
+   "text": "Men konungen ville trots denna kritik icke ge med sig. Han var visserligen med om att stryka den tekniskt omöjliga Svensksunds-medaljen och gick in på att hans i Aachen återvunna hälsa omnämndes, hvilket alternativt föreslagits också av Ahlman, men däremot höll han på att hyllas såsom »Libertatis publicæ ac privatæ Vindex Conservator» — en på säkerhetsakten anspelande titel, som särskilt Jacob von Engeström nog ej var villig att tilldela honom. Om sin mission till konungen berättade�stein den 19 oktober: »Herr Cantzli Rådet v.�stein anmälte, det han i underdånighet till Konungen öfverlämnat det af academien lika underdånigt upgifne och gillade förslag till den öfver Hans M:t af Stockholms Borgerskap tillärnade Medaille. Konungen hade vid academiens förslag icke haft något att påminna, men i Nåder förklarat sig hafva förut sett ett annat, som Hans M:t mera omtyckt. Det var det samma, som Underståthållaren Ahlman till academien låtit ingifva. På C. R. v.�steins underdåniga föreställning hade doch Hans M:t tillåtit, att anledningen till Dess helsas försvagande, hvars anförande academien ansett för en ganska hufvudsakelig omständighet, på denna Medaille måtte införas, och hade således följande, som äfven redan enl. Konungens befallning till verkställande är aflemnad, blifvit faststäld:"
+  },
+  {
+   "bbox": [
+    102,
+    1261,
+    1137,
+    1346
+   ],
+   "category": "Text",
+   "text": "På ena sidan: Konungens Bröstbild med lagrad Casque och på Casquen en Sphinx med öfverskrift: *Civis Princeps*"
+  },
+  {
+   "bbox": [
+    138,
+    1350,
+    939,
+    1757
+   ],
+   "category": "Text",
+   "text": "På andra sidan:\n* Heroi Sospitatori\n* Gustavo III\n* Publicæ ac Privatæ\n* Libertatis\n* Conservatori Vindici.\n* Patriae d. III Aug. MDCCXCI Reddito\n* Fracta in armis valetudine\n* Aquisgrani Redintegrata\n* Ovantes\n* Cives Stockholmenses.»"
+  },
+  {
+   "bbox": [
+    1065,
+    1787,
+    1132,
+    1825
+   ],
+   "category": "Page-footer",
+   "text": "173"
+  }
+ ]
+}

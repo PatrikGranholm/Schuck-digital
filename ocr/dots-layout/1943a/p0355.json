@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 355,
+ "seconds": 29.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [821, 234, 1255, 275], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [520, 304, 1558, 587], \"category\": \"Text\", \"text\": \"heims brev. De flesta av de återstående nöjde sig med att svara, att någon dylik person icke fanns i deras län eller stift. Mera gifvande svar avgåvos endast av tre biskopar, Celsius i Lund, Lindblom i Linköping och Wallqvist i Wäxiö. Celsius anslöt sig snarast till akademiens förslag om en ritare för hela riket, icke ritare för varje län eller stift; han föreslog nämligen en ritare för Svea och en för Göta rike.\"}, {\"bbox\": [520, 593, 1558, 1047], \"category\": \"Text\", \"text\": \"Lindblom visade sig också förstående för frågans vikt: »Mitt underdåniga nit i detta på förvarandet ej mindre af fäderneslandets märkvärdigheter än [af] Kgl. M:ts egen lysande Regering syftande ämne hade redan hos mig sjelf väckt den omtankan att på mina skeende visitationer i Stiftet söka framdraga och förvara de fornlämningar, som kunde möta, men då kgl. academien härutinnan tänker vidtaga en kraftigare utväg, har jag trott mig bäst kunna upfylla dess afsigt i valet af Comminister Pehr Kylander i Wadstena, som med någorlunda historisk kundskap förenar en nu mera ej så allmän skicklighet att läsa och utreda den gamla munkestilen, Egenskaper, som i förrberörde afseende skulle kunna blifva mycket nyttiga.\"}, {\"bbox\": [520, 1047, 1558, 1336], \"category\": \"Text\", \"text\": \"Willig å ena sidan att i sin krets gagna, men å andra varsam att ej åtaga sig hvad som kunde öfvergå hans styrka, önskar han närmare få känna acad:ns åstundan, på hvad sätt och öfver hvilka ämnen egenteligen den anbefalda forskningen må anställas, och därnäst inom hvad tid arbetet befalles vara färdigt. Ytterligare och som tilllika mig anbefaldt är att upgifva, hvad jag förmenar i öfrigt kunna befrämja ändamålet, så har följande förekommit i detta afseende nödigt.\"}, {\"bbox\": [520, 1336, 1558, 1666], \"category\": \"Text\", \"text\": \"1° Lärer ac:n finna angeläget upsätta en till ändamålet lämpelig Instruction, som utvisar egentl. ämnet och gränsorna af ac:ns kraf, hälst forskningarna därigenom kunna öfveralt ske likformigt både i anseende till innehåll och fullständighet äfven som de till forskningen valda personer däraf närmare må pröfva sin skicklighet och möjelighet att till vederbörl. nöje åtaga sig arbetet, ty ett olika begrep om ac:dns i allmänna termer upgifna fordringar skulle eljest hindra dem att upriktigt pröfva quid valeant humeri, quid ferre recusent.\"}, {\"bbox\": [520, 1666, 1558, 1749], \"category\": \"Text\", \"text\": \"2° De, som till detta ändamål väljas och tillika innehafva publiqua syslor, böra väl under forskningstiden och sina resor hafva vi-\"}, {\"bbox\": [392, 605, 500, 665], \"category\": \"Text\", \"text\": \"Lindbloms yttrande\"}, {\"bbox\": [528, 1786, 596, 1823], \"category\": \"Page-footer\", \"text\": \"334\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    821,
+    234,
+    1255,
+    275
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    520,
+    304,
+    1558,
+    587
+   ],
+   "category": "Text",
+   "text": "heims brev. De flesta av de återstående nöjde sig med att svara, att någon dylik person icke fanns i deras län eller stift. Mera gifvande svar avgåvos endast av tre biskopar, Celsius i Lund, Lindblom i Linköping och Wallqvist i Wäxiö. Celsius anslöt sig snarast till akademiens förslag om en ritare för hela riket, icke ritare för varje län eller stift; han föreslog nämligen en ritare för Svea och en för Göta rike."
+  },
+  {
+   "bbox": [
+    520,
+    593,
+    1558,
+    1047
+   ],
+   "category": "Text",
+   "text": "Lindblom visade sig också förstående för frågans vikt: »Mitt underdåniga nit i detta på förvarandet ej mindre af fäderneslandets märkvärdigheter än [af] Kgl. M:ts egen lysande Regering syftande ämne hade redan hos mig sjelf väckt den omtankan att på mina skeende visitationer i Stiftet söka framdraga och förvara de fornlämningar, som kunde möta, men då kgl. academien härutinnan tänker vidtaga en kraftigare utväg, har jag trott mig bäst kunna upfylla dess afsigt i valet af Comminister Pehr Kylander i Wadstena, som med någorlunda historisk kundskap förenar en nu mera ej så allmän skicklighet att läsa och utreda den gamla munkestilen, Egenskaper, som i förrberörde afseende skulle kunna blifva mycket nyttiga."
+  },
+  {
+   "bbox": [
+    520,
+    1047,
+    1558,
+    1336
+   ],
+   "category": "Text",
+   "text": "Willig å ena sidan att i sin krets gagna, men å andra varsam att ej åtaga sig hvad som kunde öfvergå hans styrka, önskar han närmare få känna acad:ns åstundan, på hvad sätt och öfver hvilka ämnen egenteligen den anbefalda forskningen må anställas, och därnäst inom hvad tid arbetet befalles vara färdigt. Ytterligare och som tilllika mig anbefaldt är att upgifva, hvad jag förmenar i öfrigt kunna befrämja ändamålet, så har följande förekommit i detta afseende nödigt."
+  },
+  {
+   "bbox": [
+    520,
+    1336,
+    1558,
+    1666
+   ],
+   "category": "Text",
+   "text": "1° Lärer ac:n finna angeläget upsätta en till ändamålet lämpelig Instruction, som utvisar egentl. ämnet och gränsorna af ac:ns kraf, hälst forskningarna därigenom kunna öfveralt ske likformigt både i anseende till innehåll och fullständighet äfven som de till forskningen valda personer däraf närmare må pröfva sin skicklighet och möjelighet att till vederbörl. nöje åtaga sig arbetet, ty ett olika begrep om ac:dns i allmänna termer upgifna fordringar skulle eljest hindra dem att upriktigt pröfva quid valeant humeri, quid ferre recusent."
+  },
+  {
+   "bbox": [
+    520,
+    1666,
+    1558,
+    1749
+   ],
+   "category": "Text",
+   "text": "2° De, som till detta ändamål väljas och tillika innehafva publiqua syslor, böra väl under forskningstiden och sina resor hafva vi-"
+  },
+  {
+   "bbox": [
+    392,
+    605,
+    500,
+    665
+   ],
+   "category": "Text",
+   "text": "Lindbloms yttrande"
+  },
+  {
+   "bbox": [
+    528,
+    1786,
+    596,
+    1823
+   ],
+   "category": "Page-footer",
+   "text": "334"
+  }
+ ]
+}

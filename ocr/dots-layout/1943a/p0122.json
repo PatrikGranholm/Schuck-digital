@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 122,
+ "seconds": 31.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [533, 238, 712, 280], \"category\": \"Section-header\", \"text\": \"Tävlingar\"}, {\"bbox\": [102, 308, 1142, 558], \"category\": \"Text\", \"text\": \"Visserligen voro blott sex ledamöter närvarande vid sammanträdet, och detta var således ej beslutmässigt, men då man sedan inhämtade den frånvarande Rosenhanes instämmande votum, ansågs domen slutgiltig, och med hertigen-regentens samtycke utsattes samma prisämnen för 1794 års tävling. Då var emellertid Adlerbeth sedan den 7 december 1793 ej längre akademiens sekreterare.\"}, {\"bbox\": [102, 557, 1142, 805], \"category\": \"Text\", \"text\": \"Under de åtta år, som hans sekreterartid varat, hade den mest vetenskapliga tävlan, som akademien utsatt, i historia, slagit mycket illa ut. Om intet prisämne hade mer än en enda skrift inkommit, ibland ingen alls, blott tre gånger hade de 26 dukaterna kunnat utdelas, och i alla dessa fall ha de belönade skrifterna först efter en stark omarbetning kunnat tryckas i Handlingarna.\"}, {\"bbox\": [102, 804, 1142, 888], \"category\": \"Text\", \"text\": \"Ännu sämre blev resultatet av den mindre vetenskapliga tävlingen, den i skaldekonst och vältalighet på ett främmande språk.\"}, {\"bbox\": [1142, 817, 1292, 909], \"category\": \"Text\", \"text\": \"Tävlingar på främmande språk\"}, {\"bbox\": [102, 887, 1142, 1383], \"category\": \"Text\", \"text\": \"Vid sammanträdet den 1 april 1786 hade såsom prisämne för det följande årets tävling utsatts: »Äreminne öfver den namnkunnige Svenska Lärde Archiatren Herr Carl von Linné. Detta äreminne, som äfven kommer at upgifvas til utlänningars täflan, kan efter författarenes behag skrifvas på Latin, fransyska eller Italienska, i obunden eller bunden stil, med frihet at i sednare fallet nyttia Ode, Sång eller hvad annat skaldeslag de åstunda.» Genom Kanslikollegiet ålades våra beskickningar i Paris, Haag, Petersburg, London, Köpenhamn och Rom att om denna tävlan införa annons i vederbörande lands tidningar, och omkostnaden för denna annonsering översteg förmodligen prisbeloppet. 1787 insände vår ambassadör i Paris en räkning på 87 livres för annonser i Journal de Paris.\"}, {\"bbox\": [102, 1382, 1142, 1714], \"category\": \"Text\", \"text\": \"I januari 1787 hade likväl blott ett enda — på franska avfattat — äreminne över Linné inkommit¹, vilket för granskning överlämnades tillstein. Den 27 februari avgav han sitt yttrande, att skriften »hvarken på ämnets eller skrifartens vägnar upfyllde academiens önskan. I det förra afseendet var denna Lofskrift full med oriktigheter och fel mot historiska sanningen, utmärkande tillika, att författaren icke varit tillräckeligen underrättad antingen om Archiatern v. Linnés lefnadslopp, förtjänster eller caracter. I det sednare kunde\"}, {\"bbox\": [1158, 1391, 1215, 1423], \"category\": \"Text\", \"text\": \"1787\"}, {\"bbox\": [142, 1723, 877, 1755], \"category\": \"Footnote\", \"text\": \"¹ Skriften, som inkom den 19 december 1786, finnes kvar i arkivet.\"}, {\"bbox\": [1071, 1791, 1137, 1829], \"category\": \"Page-footer\", \"text\": \"107\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    533,
+    238,
+    712,
+    280
+   ],
+   "category": "Section-header",
+   "text": "Tävlingar"
+  },
+  {
+   "bbox": [
+    102,
+    308,
+    1142,
+    558
+   ],
+   "category": "Text",
+   "text": "Visserligen voro blott sex ledamöter närvarande vid sammanträdet, och detta var således ej beslutmässigt, men då man sedan inhämtade den frånvarande Rosenhanes instämmande votum, ansågs domen slutgiltig, och med hertigen-regentens samtycke utsattes samma prisämnen för 1794 års tävling. Då var emellertid Adlerbeth sedan den 7 december 1793 ej längre akademiens sekreterare."
+  },
+  {
+   "bbox": [
+    102,
+    557,
+    1142,
+    805
+   ],
+   "category": "Text",
+   "text": "Under de åtta år, som hans sekreterartid varat, hade den mest vetenskapliga tävlan, som akademien utsatt, i historia, slagit mycket illa ut. Om intet prisämne hade mer än en enda skrift inkommit, ibland ingen alls, blott tre gånger hade de 26 dukaterna kunnat utdelas, och i alla dessa fall ha de belönade skrifterna först efter en stark omarbetning kunnat tryckas i Handlingarna."
+  },
+  {
+   "bbox": [
+    102,
+    804,
+    1142,
+    888
+   ],
+   "category": "Text",
+   "text": "Ännu sämre blev resultatet av den mindre vetenskapliga tävlingen, den i skaldekonst och vältalighet på ett främmande språk."
+  },
+  {
+   "bbox": [
+    1142,
+    817,
+    1292,
+    909
+   ],
+   "category": "Text",
+   "text": "Tävlingar på främmande språk"
+  },
+  {
+   "bbox": [
+    102,
+    887,
+    1142,
+    1383
+   ],
+   "category": "Text",
+   "text": "Vid sammanträdet den 1 april 1786 hade såsom prisämne för det följande årets tävling utsatts: »Äreminne öfver den namnkunnige Svenska Lärde Archiatren Herr Carl von Linné. Detta äreminne, som äfven kommer at upgifvas til utlänningars täflan, kan efter författarenes behag skrifvas på Latin, fransyska eller Italienska, i obunden eller bunden stil, med frihet at i sednare fallet nyttia Ode, Sång eller hvad annat skaldeslag de åstunda.» Genom Kanslikollegiet ålades våra beskickningar i Paris, Haag, Petersburg, London, Köpenhamn och Rom att om denna tävlan införa annons i vederbörande lands tidningar, och omkostnaden för denna annonsering översteg förmodligen prisbeloppet. 1787 insände vår ambassadör i Paris en räkning på 87 livres för annonser i Journal de Paris."
+  },
+  {
+   "bbox": [
+    102,
+    1382,
+    1142,
+    1714
+   ],
+   "category": "Text",
+   "text": "I januari 1787 hade likväl blott ett enda — på franska avfattat — äreminne över Linné inkommit¹, vilket för granskning överlämnades tillstein. Den 27 februari avgav han sitt yttrande, att skriften »hvarken på ämnets eller skrifartens vägnar upfyllde academiens önskan. I det förra afseendet var denna Lofskrift full med oriktigheter och fel mot historiska sanningen, utmärkande tillika, att författaren icke varit tillräckeligen underrättad antingen om Archiatern v. Linnés lefnadslopp, förtjänster eller caracter. I det sednare kunde"
+  },
+  {
+   "bbox": [
+    1158,
+    1391,
+    1215,
+    1423
+   ],
+   "category": "Text",
+   "text": "1787"
+  },
+  {
+   "bbox": [
+    142,
+    1723,
+    877,
+    1755
+   ],
+   "category": "Footnote",
+   "text": "¹ Skriften, som inkom den 19 december 1786, finnes kvar i arkivet."
+  },
+  {
+   "bbox": [
+    1071,
+    1791,
+    1137,
+    1829
+   ],
+   "category": "Page-footer",
+   "text": "107"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 253,
+ "seconds": 28.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [788, 238, 1223, 279], \"category\": \"Page-header\", \"text\": \"Akademien 1786—1793\"}, {\"bbox\": [483, 307, 1529, 923], \"category\": \"Text\", \"text\": \"nu läser talet, får man närmast intrycket av en litteraturhistoria »för barn och ungdom», och man har svårt att på annat sätt förklara detta fenomen, än att Floderus hyst en oberättigat låg uppskattning av auditoriets bildningsgrad. I början av sitt tal yttrar den helt visst uppriktigt blygsamme mannen: »Upfödd uti en liten mörk vrå och endast van at tala i små Lärohus för et ringa och obetydeligt folk, märker jag nu brist både på frimodighet at tala inför et så uplyst och vittert Samhälle och på värdiga ord at uttrycka min underdåniga erkänsla.» Förmodligen hade han fått för sig, att han skulle tala icke blott till akademiens ledamöter utan ock till en allmän Stockholmspublik, som var så gott som obekant med den grekiska litteraturens historia — talet hölls ju vid ett offentligt sammanträde — och att det därför var hans skyldighet att vara så populär som möjligt. Talet blev därför ett knapphändigt kompendium, i vilket t. ex. Platos namn icke ens nämnes.\"}, {\"bbox\": [487, 927, 1529, 1622], \"category\": \"Text\", \"text\": \"Därmed hade alla de av Gustav III utsedda ledamöterna, utom Ribbing och Lidén, tagit inträde i akademien, och nu kommo de av akademien själv invalda, först bland dem Hallenberg. Det skedde den 7 januari 1787 med en undersökning, huruvida forntidens historiska arbeten kunna nu för tiden tjäna häfdatecknare till eftersyn — en diger avhandling på nära 200 sidor, vilken nog torde vara en av de märkligaste, som då ännu upplästs i akademien. Till formen är den ett inlägg mot den — enligt Hallenbergs mening — överdrivna beundran för antikens historieskrivare, som då ännu i vida kretsar levde kvar från den gamla humanismen; särskilt riktar sig polemiken mot abbé de Mably. Men avhandlingens syfte är därjämte att framlägga historieskrivningens metodik, och detta gör Hallenberg med en märklig klarhet. Då man skall bedöma Vitterhets Historie och Antikvitetsakademien, är denna avhandling av största betydelse, och ett referat av dess huvudpunkter skall därför här givas — naturligtvis med uteslutande av den utförliga detaljkritiken av antikens historiska arbeten.\"}, {\"bbox\": [490, 1625, 1529, 1753], \"category\": \"Text\", \"text\": \"Den bibliska historieskrivningen anser han sig kunna förbigå och sammanställer den, utan namns nämnande, med orientalisk historieskrivning i allmänhet: »Då man talar om Forntidens Häfdeteknare,\"}, {\"bbox\": [350, 939, 475, 997], \"category\": \"Text\", \"text\": \"Hallenbergs inträdestal\"}, {\"bbox\": [495, 1790, 566, 1828], \"category\": \"Page-footer\", \"text\": \"234\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    788,
+    238,
+    1223,
+    279
+   ],
+   "category": "Page-header",
+   "text": "Akademien 1786—1793"
+  },
+  {
+   "bbox": [
+    483,
+    307,
+    1529,
+    923
+   ],
+   "category": "Text",
+   "text": "nu läser talet, får man närmast intrycket av en litteraturhistoria »för barn och ungdom», och man har svårt att på annat sätt förklara detta fenomen, än att Floderus hyst en oberättigat låg uppskattning av auditoriets bildningsgrad. I början av sitt tal yttrar den helt visst uppriktigt blygsamme mannen: »Upfödd uti en liten mörk vrå och endast van at tala i små Lärohus för et ringa och obetydeligt folk, märker jag nu brist både på frimodighet at tala inför et så uplyst och vittert Samhälle och på värdiga ord at uttrycka min underdåniga erkänsla.» Förmodligen hade han fått för sig, att han skulle tala icke blott till akademiens ledamöter utan ock till en allmän Stockholmspublik, som var så gott som obekant med den grekiska litteraturens historia — talet hölls ju vid ett offentligt sammanträde — och att det därför var hans skyldighet att vara så populär som möjligt. Talet blev därför ett knapphändigt kompendium, i vilket t. ex. Platos namn icke ens nämnes."
+  },
+  {
+   "bbox": [
+    487,
+    927,
+    1529,
+    1622
+   ],
+   "category": "Text",
+   "text": "Därmed hade alla de av Gustav III utsedda ledamöterna, utom Ribbing och Lidén, tagit inträde i akademien, och nu kommo de av akademien själv invalda, först bland dem Hallenberg. Det skedde den 7 januari 1787 med en undersökning, huruvida forntidens historiska arbeten kunna nu för tiden tjäna häfdatecknare till eftersyn — en diger avhandling på nära 200 sidor, vilken nog torde vara en av de märkligaste, som då ännu upplästs i akademien. Till formen är den ett inlägg mot den — enligt Hallenbergs mening — överdrivna beundran för antikens historieskrivare, som då ännu i vida kretsar levde kvar från den gamla humanismen; särskilt riktar sig polemiken mot abbé de Mably. Men avhandlingens syfte är därjämte att framlägga historieskrivningens metodik, och detta gör Hallenberg med en märklig klarhet. Då man skall bedöma Vitterhets Historie och Antikvitetsakademien, är denna avhandling av största betydelse, och ett referat av dess huvudpunkter skall därför här givas — naturligtvis med uteslutande av den utförliga detaljkritiken av antikens historiska arbeten."
+  },
+  {
+   "bbox": [
+    490,
+    1625,
+    1529,
+    1753
+   ],
+   "category": "Text",
+   "text": "Den bibliska historieskrivningen anser han sig kunna förbigå och sammanställer den, utan namns nämnande, med orientalisk historieskrivning i allmänhet: »Då man talar om Forntidens Häfdeteknare,"
+  },
+  {
+   "bbox": [
+    350,
+    939,
+    475,
+    997
+   ],
+   "category": "Text",
+   "text": "Hallenbergs inträdestal"
+  },
+  {
+   "bbox": [
+    495,
+    1790,
+    566,
+    1828
+   ],
+   "category": "Page-footer",
+   "text": "234"
+  }
+ ]
+}

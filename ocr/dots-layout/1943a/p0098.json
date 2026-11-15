@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943a",
+ "index": 98,
+ "seconds": 26.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [472, 485, 779, 520], \"category\": \"Section-header\", \"text\": \"LEDAMÖTERNA\"}, {\"bbox\": [105, 597, 1145, 1052], \"category\": \"Text\", \"text\": \"Vitterhets Historie och Antikvitetsakademien och Svenska Akademien stiftades på samma dag och hade ett i viss mån likartat syfte. Svenska akademien skulle bliva ett organ för den egentliga vitterheten, för skönlitteraturen, systerakademien för den humanistiska forskningen i allmänhet. Men det är lätt att se, vilken av de båda var styvbarnet. Inom Svenska akademien voro alla ledamöterna likställda. Icke så i den andra akademien, där det fanns tre skilda klasser: utländska ledamöter med kardinal de Bernis i spetsen, honoraire ledamöter, excellenser, hovmän och en kyrklig dignitär (den kort därefter till ärkebiskop utnämnda Troil) och slutligen arbetande ledamöter, professorer och deras vederlikar.\"}, {\"bbox\": [1152, 607, 1287, 667], \"category\": \"Text\", \"text\": \"Den arbetande klassen\"}, {\"bbox\": [105, 1052, 1142, 1664], \"category\": \"Text\", \"text\": \"För akademiens verksamhet hade endast den arbetande klassen någon betydelse, och stor blev icke ens de arbetande ledamöternas insats. De flesta av denna klass, vilka övertagits från Lovisa Ulricas akademi, medförde knappt någon förstärkning. Några av dem — Liliestråle, Elers och Manderström — hade av Lovisa Ulrica insatts såsom representanter för frihetstidens på 1780-talet föråldrade diktning, och av de tre betydande historiker, Lagerbring, Botin och Schönberg, som varit ledamöter i den gamla akademien, gingo de båda första snart bort, Lagerbring 1787, Botin 1790, och Schönberg, som vistades på landet, blev aldrig någon mera verksam ledamot i den nya akademien. Av hela den äldre uppsättningen av arbetande ledamöter kom endast per Stein att på ett mera effektivt sätt deltaga i själva arbetet, och ej ens han hade ägnat sig åt de — historiska och antikvariska — vetenskaper, som företrädesvis lågo inom akademiens verksamhetsområde.\"}, {\"bbox\": [105, 1669, 1139, 1755], \"category\": \"Text\", \"text\": \"Det val av nya ledamöter, som Gustav III gjorde, avsåg tydligen att förstärka den humanistiska vetenskapsklassen. Men valet kan\"}, {\"bbox\": [1090, 1784, 1136, 1830], \"category\": \"Page-footer\", \"text\": \"83\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    472,
+    485,
+    779,
+    520
+   ],
+   "category": "Section-header",
+   "text": "LEDAMÖTERNA"
+  },
+  {
+   "bbox": [
+    105,
+    597,
+    1145,
+    1052
+   ],
+   "category": "Text",
+   "text": "Vitterhets Historie och Antikvitetsakademien och Svenska Akademien stiftades på samma dag och hade ett i viss mån likartat syfte. Svenska akademien skulle bliva ett organ för den egentliga vitterheten, för skönlitteraturen, systerakademien för den humanistiska forskningen i allmänhet. Men det är lätt att se, vilken av de båda var styvbarnet. Inom Svenska akademien voro alla ledamöterna likställda. Icke så i den andra akademien, där det fanns tre skilda klasser: utländska ledamöter med kardinal de Bernis i spetsen, honoraire ledamöter, excellenser, hovmän och en kyrklig dignitär (den kort därefter till ärkebiskop utnämnda Troil) och slutligen arbetande ledamöter, professorer och deras vederlikar."
+  },
+  {
+   "bbox": [
+    1152,
+    607,
+    1287,
+    667
+   ],
+   "category": "Text",
+   "text": "Den arbetande klassen"
+  },
+  {
+   "bbox": [
+    105,
+    1052,
+    1142,
+    1664
+   ],
+   "category": "Text",
+   "text": "För akademiens verksamhet hade endast den arbetande klassen någon betydelse, och stor blev icke ens de arbetande ledamöternas insats. De flesta av denna klass, vilka övertagits från Lovisa Ulricas akademi, medförde knappt någon förstärkning. Några av dem — Liliestråle, Elers och Manderström — hade av Lovisa Ulrica insatts såsom representanter för frihetstidens på 1780-talet föråldrade diktning, och av de tre betydande historiker, Lagerbring, Botin och Schönberg, som varit ledamöter i den gamla akademien, gingo de båda första snart bort, Lagerbring 1787, Botin 1790, och Schönberg, som vistades på landet, blev aldrig någon mera verksam ledamot i den nya akademien. Av hela den äldre uppsättningen av arbetande ledamöter kom endast per Stein att på ett mera effektivt sätt deltaga i själva arbetet, och ej ens han hade ägnat sig åt de — historiska och antikvariska — vetenskaper, som företrädesvis lågo inom akademiens verksamhetsområde."
+  },
+  {
+   "bbox": [
+    105,
+    1669,
+    1139,
+    1755
+   ],
+   "category": "Text",
+   "text": "Det val av nya ledamöter, som Gustav III gjorde, avsåg tydligen att förstärka den humanistiska vetenskapsklassen. Men valet kan"
+  },
+  {
+   "bbox": [
+    1090,
+    1784,
+    1136,
+    1830
+   ],
+   "category": "Page-footer",
+   "text": "83"
+  }
+ ]
+}
