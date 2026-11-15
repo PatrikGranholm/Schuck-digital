@@ -56,7 +56,7 @@ MANUSCRIPTA = ROOT.parent / "manuscripta" / "id" / "person"
 PREFIX = re.compile(r"(?i)^(?:Wij|Wi|Vi|Hertigh?(?:en)?|Drottning(?:en)?|Konung(?:en)?|Kung|Doctor|Doct\.|Dr\.?|D:r|"
                     r"Mag\.|Magister|M\.|Herr|Her|H:r|Hr\.?|Prof\.?|Professor|Biskop(?:en)?|Ärkebiskop(?:en)?|"
                     r"Mäster|Monsieur|Mons\.|Mr\.?|Fru|[Ss]ahl\.|Sal\.|Kgl\.|Kongl\.|Edel|Wälbördigh?|Welbördigh?|Grefve|Greve|Riks\w+)\s+")
-REJECT = re.compile(r"^(?:Gud[hzs]?|Guds|Gudhs|Herren|Herr|EDERS|Eders|Edert)$|\b(?:May|Maij?|Maij?:t\w*|Majest\w*|Excellen\w*|Saga|Sogur|Codex|Annales|Chronicon|"
+REJECT = re.compile(r"^(?:Gud[hzs]?|Guds|Gudhs|Herren|Herr|Hans|EDERS|Eders|Edert|Edre|Edra)$|\b(?:May|Maij?|Maij?:t\w*|Majest\w*|Excellen\w*|Saga|Sogur|Codex|Annales|Chronicon|"
                     r"Cantz\w*|Cammar\w*|Cronones|Colleg\w*|Kansli\w*|ALMQVIST|WIKSELL\w*)\b|&")
 FORENAMES = [  # Latin and Swedish forms of one forename; used only to cluster entries of the same surname
     "Johannes Johan Joan Johannis Johanne Jahan Jöns Hans", "Laurentius Lars Lorentz Laurentio", "Olaus Olof Olavus Olaf Olao Olaum Olai",
