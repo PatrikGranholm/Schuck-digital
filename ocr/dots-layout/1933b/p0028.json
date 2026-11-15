@@ -1,0 +1,132 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 28,
+ "seconds": 30.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [392, 246, 924, 292], \"category\": \"Section-header\", \"text\": \"## Consignationer och kataloger\"}, {\"bbox\": [132, 316, 1172, 435], \"category\": \"Text\", \"text\": \"åhretz förlopp j dagsliusett, som Kongl. May:tt länge är om worden förtröstatt och åthminstone af hwar persson af Assessoribus Collegij een Book. Såsom\"}, {\"bbox\": [130, 449, 1172, 922], \"category\": \"Table\", \"text\": \"<table><tr><td>H. Stiernhielm</td><td>Lexicon Anticluverius</td><td>tryckes i Stockholm.</td></tr><tr><td>H. Axehielm</td><td>Wilcina Sagha, item dess Barlamus och några opuscula wijdare, tryckes i Ubsala.</td><td></td></tr><tr><td>H. Loccenius</td><td>Leges på latin tryckes j Stockholm.</td><td></td></tr><tr><td>H. Scheffer</td><td>Historia Lapponum, tryckes i franckfurt¹.</td><td></td></tr><tr><td>H. Werelius</td><td>S. Erichs Historia</td><td>j Ubsala.</td></tr><tr><td></td><td>Herrewara Saghan</td><td>i Ubsala².</td></tr><tr><td></td><td>S. Oloffz Saghan</td><td></td></tr><tr><td>H. Ahrenius</td><td>Emanuelis Tessauri Book, tryckes j Stockholm.</td><td></td></tr><tr><td>H. Celsius</td><td>De Fastis j Ubsala.</td><td></td></tr><tr><td>H. Hadorphius</td><td>DaleLagh. Richzchrönika³.</td><td></td></tr><tr><td>Mons. Rougman</td><td>Oloff Tryggesons Sagha, tryckes i Stockholm.</td><td></td></tr></table>\"}, {\"bbox\": [132, 935, 1168, 1020], \"category\": \"Text\", \"text\": \"hwilka skrifter icke för papper äre wordit tilldelt, de skola nu papper bekomma af det, som j wåhr införskrifwit är».\"}, {\"bbox\": [132, 1059, 1306, 1142], \"category\": \"Text\", \"text\": \"Den 15 januari 1672 insändes nästa »Consignatio». Som man ser *Consignationen 1672* saknas Stiernhielm, vilken då ännu levde, och även Celsius:\"}, {\"bbox\": [132, 1161, 1168, 1323], \"category\": \"Text\", \"text\": \"»Consignatio scriptorum, quæ singula Membra et Adsessores Collegii Antiquitatum hactenus in Annum MDLXXII (= Annum MDCLXXII). a. d. XV. Januarii elaborarunt et in posterum, Deo volente et auxiliante, elaboraturi sunt.\"}, {\"bbox\": [132, 1327, 1168, 1493], \"category\": \"Text\", \"text\": \"Jahannes Axehiälm in elaboranda et perficienda Historia VILCINI etc. sicut etiam BARLAAMI cum necessarijs indicibus adhuc moratur. Jnfra brevi tamen (volente Deo) absoluta Historia Vilcini in lucem prodibit.\"}, {\"bbox\": [132, 1493, 1168, 1660], \"category\": \"Text\", \"text\": \"Johannes Loccenius ex Suecica lingua in Latinam traduxit totum Codicem Legum Sueo-Gothicarum, nimirum præter Leges Provinciales et civiles, quæ iam sub prælo sunt, Legum Vplandicarum, Westro- et Ostro-gothicarum, Westmannicarum, Sudermannicarum\"}, {\"bbox\": [165, 1681, 1114, 1717], \"category\": \"Footnote\", \"text\": \"¹ Med De la Gardies egen hand tillagdt: föruthan Chronicj Episcoporum Ubsaliens.\"}, {\"bbox\": [165, 1712, 742, 1744], \"category\": \"Footnote\", \"text\": \"² Med De la Gardies egen hand tillagdt: Runica.\"}, {\"bbox\": [165, 1742, 832, 1776], \"category\": \"Footnote\", \"text\": \"³ Skrivet med De la Gardies egen hand: [Svecia?] literat.\"}, {\"bbox\": [1122, 1815, 1162, 1852], \"category\": \"Page-footer\", \"text\": \"15\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    392,
+    246,
+    924,
+    292
+   ],
+   "category": "Section-header",
+   "text": "## Consignationer och kataloger"
+  },
+  {
+   "bbox": [
+    132,
+    316,
+    1172,
+    435
+   ],
+   "category": "Text",
+   "text": "åhretz förlopp j dagsliusett, som Kongl. May:tt länge är om worden förtröstatt och åthminstone af hwar persson af Assessoribus Collegij een Book. Såsom"
+  },
+  {
+   "bbox": [
+    130,
+    449,
+    1172,
+    922
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>H. Stiernhielm</td><td>Lexicon Anticluverius</td><td>tryckes i Stockholm.</td></tr><tr><td>H. Axehielm</td><td>Wilcina Sagha, item dess Barlamus och några opuscula wijdare, tryckes i Ubsala.</td><td></td></tr><tr><td>H. Loccenius</td><td>Leges på latin tryckes j Stockholm.</td><td></td></tr><tr><td>H. Scheffer</td><td>Historia Lapponum, tryckes i franckfurt¹.</td><td></td></tr><tr><td>H. Werelius</td><td>S. Erichs Historia</td><td>j Ubsala.</td></tr><tr><td></td><td>Herrewara Saghan</td><td>i Ubsala².</td></tr><tr><td></td><td>S. Oloffz Saghan</td><td></td></tr><tr><td>H. Ahrenius</td><td>Emanuelis Tessauri Book, tryckes j Stockholm.</td><td></td></tr><tr><td>H. Celsius</td><td>De Fastis j Ubsala.</td><td></td></tr><tr><td>H. Hadorphius</td><td>DaleLagh. Richzchrönika³.</td><td></td></tr><tr><td>Mons. Rougman</td><td>Oloff Tryggesons Sagha, tryckes i Stockholm.</td><td></td></tr></table>"
+  },
+  {
+   "bbox": [
+    132,
+    935,
+    1168,
+    1020
+   ],
+   "category": "Text",
+   "text": "hwilka skrifter icke för papper äre wordit tilldelt, de skola nu papper bekomma af det, som j wåhr införskrifwit är»."
+  },
+  {
+   "bbox": [
+    132,
+    1059,
+    1306,
+    1142
+   ],
+   "category": "Text",
+   "text": "Den 15 januari 1672 insändes nästa »Consignatio». Som man ser *Consignationen 1672* saknas Stiernhielm, vilken då ännu levde, och även Celsius:"
+  },
+  {
+   "bbox": [
+    132,
+    1161,
+    1168,
+    1323
+   ],
+   "category": "Text",
+   "text": "»Consignatio scriptorum, quæ singula Membra et Adsessores Collegii Antiquitatum hactenus in Annum MDLXXII (= Annum MDCLXXII). a. d. XV. Januarii elaborarunt et in posterum, Deo volente et auxiliante, elaboraturi sunt."
+  },
+  {
+   "bbox": [
+    132,
+    1327,
+    1168,
+    1493
+   ],
+   "category": "Text",
+   "text": "Jahannes Axehiälm in elaboranda et perficienda Historia VILCINI etc. sicut etiam BARLAAMI cum necessarijs indicibus adhuc moratur. Jnfra brevi tamen (volente Deo) absoluta Historia Vilcini in lucem prodibit."
+  },
+  {
+   "bbox": [
+    132,
+    1493,
+    1168,
+    1660
+   ],
+   "category": "Text",
+   "text": "Johannes Loccenius ex Suecica lingua in Latinam traduxit totum Codicem Legum Sueo-Gothicarum, nimirum præter Leges Provinciales et civiles, quæ iam sub prælo sunt, Legum Vplandicarum, Westro- et Ostro-gothicarum, Westmannicarum, Sudermannicarum"
+  },
+  {
+   "bbox": [
+    165,
+    1681,
+    1114,
+    1717
+   ],
+   "category": "Footnote",
+   "text": "¹ Med De la Gardies egen hand tillagdt: föruthan Chronicj Episcoporum Ubsaliens."
+  },
+  {
+   "bbox": [
+    165,
+    1712,
+    742,
+    1744
+   ],
+   "category": "Footnote",
+   "text": "² Med De la Gardies egen hand tillagdt: Runica."
+  },
+  {
+   "bbox": [
+    165,
+    1742,
+    832,
+    1776
+   ],
+   "category": "Footnote",
+   "text": "³ Skrivet med De la Gardies egen hand: [Svecia?] literat."
+  },
+  {
+   "bbox": [
+    1122,
+    1815,
+    1162,
+    1852
+   ],
+   "category": "Page-footer",
+   "text": "15"
+  }
+ ]
+}

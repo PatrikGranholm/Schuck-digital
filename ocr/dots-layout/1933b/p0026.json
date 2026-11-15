@@ -1,0 +1,342 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 26,
+ "seconds": 43.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [400, 246, 929, 294], \"category\": \"Section-header\", \"text\": \"## Consignationer och kataloger\"}, {\"bbox\": [178, 316, 951, 360], \"category\": \"Text\", \"text\": \"Fördelas således af hans högh Greffl. Excell. sielf.\"}, {\"bbox\": [144, 374, 1186, 484], \"category\": \"List-item\", \"text\": \"1) Till H. Verelius . . . . . 180 N. B. Cum distinctione att 60 äre till dess Herwarar saga och 120 till S. Olofz.\"}, {\"bbox\": [142, 482, 689, 521], \"category\": \"List-item\", \"text\": \"2) Till H. Celsius . . . . . 40\"}, {\"bbox\": [142, 520, 689, 557], \"category\": \"List-item\", \"text\": \"3) Till H. Axehielm . . . . . 60\"}, {\"bbox\": [142, 556, 689, 593], \"category\": \"List-item\", \"text\": \"4) Till H. Scheffer . . . . . 40\"}, {\"bbox\": [142, 592, 689, 629], \"category\": \"List-item\", \"text\": \"5) Till Hadorphium . . . . . 50\"}, {\"bbox\": [142, 628, 689, 665], \"category\": \"List-item\", \"text\": \"6) Till Island. Rugmans arbete 30\"}, {\"bbox\": [142, 664, 1130, 705], \"category\": \"List-item\", \"text\": \"7) Till H. Loccenium . . . . 80 till Swenske Lagarne på Latin.\"}, {\"bbox\": [142, 700, 689, 735], \"category\": \"List-item\", \"text\": \"8) Olaus och Laurentius Petri . 60\"}, {\"bbox\": [142, 735, 689, 774], \"category\": \"List-item\", \"text\": \"9) Dahlelagen . . . . . . . 40\"}, {\"bbox\": [629, 777, 1182, 854], \"category\": \"Text\", \"text\": \"580 N. B. hwad reda är lefwererat måste här afdragas.\"}, {\"bbox\": [218, 865, 391, 897], \"category\": \"Section-header\", \"text\": \"### Rester ännu\"}, {\"bbox\": [142, 906, 984, 947], \"category\": \"Text\", \"text\": \"Nr. 6 som till Rugman anordnade äre . . . . . 30 Rijs\"}, {\"bbox\": [142, 943, 984, 1026], \"category\": \"Text\", \"text\": \"Nr. 8 till Olai och Laurentii Petri Chronica . . 60 Rijs facit 90».\"}, {\"bbox\": [142, 1049, 1180, 1218], \"category\": \"Text\", \"text\": \"I samma fascikel ligger en annan förteckning, som antagligen av kollegiet 1671 inskickats till De la Gardie. Den innehåller dels uppgift på tryckta och tryckfärdiga arbeten, dels ett förslag på arbeten för den närmast följande tiden:\"}, {\"bbox\": [178, 1233, 508, 1271], \"category\": \"Text\", \"text\": \"### »Anno 1669 och 1670\"}, {\"bbox\": [218, 1275, 409, 1313], \"category\": \"Text\", \"text\": \"Reda tryckte.\"}, {\"bbox\": [937, 1286, 1029, 1315], \"category\": \"Text\", \"text\": \"I Stock.\"}, {\"bbox\": [1101, 1286, 1177, 1319], \"category\": \"Text\", \"text\": \"I Ups.\"}, {\"bbox\": [142, 1316, 984, 1355], \"category\": \"Text\", \"text\": \"H. Scheffers Konungastyrelsen . . . . . . . . . . . I\"}, {\"bbox\": [142, 1352, 984, 1391], \"category\": \"Text\", \"text\": \"Widikinnj bellum Moscowiticum på swenska och latin . I\"}, {\"bbox\": [142, 1388, 984, 1427], \"category\": \"Text\", \"text\": \"H. Stiernhielms Ulphilas . . . . . . . . . . . I\"}, {\"bbox\": [142, 1424, 984, 1463], \"category\": \"Text\", \"text\": \"Konungh Gustavi 1:mi Historia och Konungh Erichs . I\"}, {\"bbox\": [201, 1477, 361, 1514], \"category\": \"Text\", \"text\": \"### Anno 1671\"}, {\"bbox\": [218, 1518, 426, 1551], \"category\": \"Text\", \"text\": \"Under händer.\"}, {\"bbox\": [142, 1559, 1138, 1598], \"category\": \"Text\", \"text\": \"H. Werelij Herrewara Sagha . . . . . . . . . . . I\"}, {\"bbox\": [142, 1595, 1138, 1634], \"category\": \"Text\", \"text\": \"Dito S. Olofs Chrönika . . . . . . . . . . . I\"}, {\"bbox\": [142, 1631, 1138, 1670], \"category\": \"Text\", \"text\": \"H. Scheffers Exempla illustria Suecorum in Germania I\"}, {\"bbox\": [142, 1667, 1138, 1706], \"category\": \"Text\", \"text\": \"Dito Chronicon Episcoporum . . . . . . . . . . . I\"}, {\"bbox\": [142, 1703, 1138, 1742], \"category\": \"Text\", \"text\": \"Loccenii alla Swenska Lagar på Latin Thom 1 . . . . I\"}, {\"bbox\": [142, 1739, 1138, 1778], \"category\": \"Text\", \"text\": \"Hadorphi Rijmkrönika och flere opuscula . . . . I\"}, {\"bbox\": [1128, 1820, 1168, 1857], \"category\": \"Page-footer\", \"text\": \"13\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    400,
+    246,
+    929,
+    294
+   ],
+   "category": "Section-header",
+   "text": "## Consignationer och kataloger"
+  },
+  {
+   "bbox": [
+    178,
+    316,
+    951,
+    360
+   ],
+   "category": "Text",
+   "text": "Fördelas således af hans högh Greffl. Excell. sielf."
+  },
+  {
+   "bbox": [
+    144,
+    374,
+    1186,
+    484
+   ],
+   "category": "List-item",
+   "text": "1) Till H. Verelius . . . . . 180 N. B. Cum distinctione att 60 äre till dess Herwarar saga och 120 till S. Olofz."
+  },
+  {
+   "bbox": [
+    142,
+    482,
+    689,
+    521
+   ],
+   "category": "List-item",
+   "text": "2) Till H. Celsius . . . . . 40"
+  },
+  {
+   "bbox": [
+    142,
+    520,
+    689,
+    557
+   ],
+   "category": "List-item",
+   "text": "3) Till H. Axehielm . . . . . 60"
+  },
+  {
+   "bbox": [
+    142,
+    556,
+    689,
+    593
+   ],
+   "category": "List-item",
+   "text": "4) Till H. Scheffer . . . . . 40"
+  },
+  {
+   "bbox": [
+    142,
+    592,
+    689,
+    629
+   ],
+   "category": "List-item",
+   "text": "5) Till Hadorphium . . . . . 50"
+  },
+  {
+   "bbox": [
+    142,
+    628,
+    689,
+    665
+   ],
+   "category": "List-item",
+   "text": "6) Till Island. Rugmans arbete 30"
+  },
+  {
+   "bbox": [
+    142,
+    664,
+    1130,
+    705
+   ],
+   "category": "List-item",
+   "text": "7) Till H. Loccenium . . . . 80 till Swenske Lagarne på Latin."
+  },
+  {
+   "bbox": [
+    142,
+    700,
+    689,
+    735
+   ],
+   "category": "List-item",
+   "text": "8) Olaus och Laurentius Petri . 60"
+  },
+  {
+   "bbox": [
+    142,
+    735,
+    689,
+    774
+   ],
+   "category": "List-item",
+   "text": "9) Dahlelagen . . . . . . . 40"
+  },
+  {
+   "bbox": [
+    629,
+    777,
+    1182,
+    854
+   ],
+   "category": "Text",
+   "text": "580 N. B. hwad reda är lefwererat måste här afdragas."
+  },
+  {
+   "bbox": [
+    218,
+    865,
+    391,
+    897
+   ],
+   "category": "Section-header",
+   "text": "### Rester ännu"
+  },
+  {
+   "bbox": [
+    142,
+    906,
+    984,
+    947
+   ],
+   "category": "Text",
+   "text": "Nr. 6 som till Rugman anordnade äre . . . . . 30 Rijs"
+  },
+  {
+   "bbox": [
+    142,
+    943,
+    984,
+    1026
+   ],
+   "category": "Text",
+   "text": "Nr. 8 till Olai och Laurentii Petri Chronica . . 60 Rijs facit 90»."
+  },
+  {
+   "bbox": [
+    142,
+    1049,
+    1180,
+    1218
+   ],
+   "category": "Text",
+   "text": "I samma fascikel ligger en annan förteckning, som antagligen av kollegiet 1671 inskickats till De la Gardie. Den innehåller dels uppgift på tryckta och tryckfärdiga arbeten, dels ett förslag på arbeten för den närmast följande tiden:"
+  },
+  {
+   "bbox": [
+    178,
+    1233,
+    508,
+    1271
+   ],
+   "category": "Text",
+   "text": "### »Anno 1669 och 1670"
+  },
+  {
+   "bbox": [
+    218,
+    1275,
+    409,
+    1313
+   ],
+   "category": "Text",
+   "text": "Reda tryckte."
+  },
+  {
+   "bbox": [
+    937,
+    1286,
+    1029,
+    1315
+   ],
+   "category": "Text",
+   "text": "I Stock."
+  },
+  {
+   "bbox": [
+    1101,
+    1286,
+    1177,
+    1319
+   ],
+   "category": "Text",
+   "text": "I Ups."
+  },
+  {
+   "bbox": [
+    142,
+    1316,
+    984,
+    1355
+   ],
+   "category": "Text",
+   "text": "H. Scheffers Konungastyrelsen . . . . . . . . . . . I"
+  },
+  {
+   "bbox": [
+    142,
+    1352,
+    984,
+    1391
+   ],
+   "category": "Text",
+   "text": "Widikinnj bellum Moscowiticum på swenska och latin . I"
+  },
+  {
+   "bbox": [
+    142,
+    1388,
+    984,
+    1427
+   ],
+   "category": "Text",
+   "text": "H. Stiernhielms Ulphilas . . . . . . . . . . . I"
+  },
+  {
+   "bbox": [
+    142,
+    1424,
+    984,
+    1463
+   ],
+   "category": "Text",
+   "text": "Konungh Gustavi 1:mi Historia och Konungh Erichs . I"
+  },
+  {
+   "bbox": [
+    201,
+    1477,
+    361,
+    1514
+   ],
+   "category": "Text",
+   "text": "### Anno 1671"
+  },
+  {
+   "bbox": [
+    218,
+    1518,
+    426,
+    1551
+   ],
+   "category": "Text",
+   "text": "Under händer."
+  },
+  {
+   "bbox": [
+    142,
+    1559,
+    1138,
+    1598
+   ],
+   "category": "Text",
+   "text": "H. Werelij Herrewara Sagha . . . . . . . . . . . I"
+  },
+  {
+   "bbox": [
+    142,
+    1595,
+    1138,
+    1634
+   ],
+   "category": "Text",
+   "text": "Dito S. Olofs Chrönika . . . . . . . . . . . I"
+  },
+  {
+   "bbox": [
+    142,
+    1631,
+    1138,
+    1670
+   ],
+   "category": "Text",
+   "text": "H. Scheffers Exempla illustria Suecorum in Germania I"
+  },
+  {
+   "bbox": [
+    142,
+    1667,
+    1138,
+    1706
+   ],
+   "category": "Text",
+   "text": "Dito Chronicon Episcoporum . . . . . . . . . . . I"
+  },
+  {
+   "bbox": [
+    142,
+    1703,
+    1138,
+    1742
+   ],
+   "category": "Text",
+   "text": "Loccenii alla Swenska Lagar på Latin Thom 1 . . . . I"
+  },
+  {
+   "bbox": [
+    142,
+    1739,
+    1138,
+    1778
+   ],
+   "category": "Text",
+   "text": "Hadorphi Rijmkrönika och flere opuscula . . . . I"
+  },
+  {
+   "bbox": [
+    1128,
+    1820,
+    1168,
+    1857
+   ],
+   "category": "Page-footer",
+   "text": "13"
+  }
+ ]
+}

@@ -1,0 +1,182 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 50,
+ "seconds": 32.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [373, 250, 896, 293], \"category\": \"Section-header\", \"text\": \"## Consignationer och kataloger\"}, {\"bbox\": [112, 318, 1152, 753], \"category\": \"Text\", \"text\": \"Har å nyo beskrifwit K. Gustafs den Förstes Historia, mycket widlyfftigare än för detta skiedt är, och nu aldeles färdig till trycket, innehållandes icke allenast det, som Erick Jöransson Tegel och andra flere utgå låtit, utan och mycket annat, som uti samma Konungs Regements-Tijd sig tilldragit hafwer, såwäl den Evangeliske Lärans Tillstånd som det förfallne och till Undergång lutande Regementet angående, hwilket strax igenom mer högstbemälte Konungz Försichtighet och höga Förstånd igen oprättat och fast stält blef. Och är detta Wärket fördelt i tolf Böcker med hwar Bokz särskilte Capitel, hwilkas innehåll för hwar Bok korteligen uttryckies; såsom och effter Slutet af sielfwe Wärket högstbemälte Konungz åtskillige utgångne Placater och Handlingar, hwilka uti sielfwe Historien blifwa ihugkomne, hwar uppå och äntligen föllier ett utförligit Register.\"}, {\"bbox\": [1157, 330, 1303, 385], \"category\": \"Text\", \"text\": \"Tobias Westenhielm.\"}, {\"bbox\": [112, 779, 1149, 863], \"category\": \"Text\", \"text\": \"Dhe Wärk, som än nu äre under Händerne och till en Dehl förfärdigade:\"}, {\"bbox\": [112, 872, 1149, 948], \"category\": \"Text\", \"text\": \"Sweriges Biskopars och Clerkers Historia och hwad der wid märkwärdigt förlupit; mehr än halffärdig.\"}, {\"bbox\": [1157, 881, 1279, 937], \"category\": \"Text\", \"text\": \"Claud. Örnhielms.\"}, {\"bbox\": [112, 949, 1148, 1019], \"category\": \"Text\", \"text\": \"Alla Klosters i Swerige, Götharike och Finland Historia; är ännu under Händerne.\"}, {\"bbox\": [112, 1026, 1148, 1102], \"category\": \"Text\", \"text\": \"Alla Swenska Christna Konungars rätta Lefwernes och Regements Tijd, ett Chronologiskt Werk; likaså.\"}, {\"bbox\": [112, 1104, 1148, 1215], \"category\": \"Text\", \"text\": \"Ett fullkomlig Chronologiskt Wärk med rader uthi Flåckar af hundrade, femtijo och Tijo Åhr fördelt, författandes mäst alla Swea och Götha-Rijkes och dess tillhörige Landskapers förnämsta Handlingar; halfgiordt.\"}, {\"bbox\": [112, 1217, 1148, 1323], \"category\": \"Text\", \"text\": \"Sweriges Rikes Konungars och förnäme Familiers Slächt-Register, hwar hoos och dhe familier finnas, som i näst omliggiande Rijken och Länder dem medh Börd eller Giftermål anförwante warit; lika så.\"}, {\"bbox\": [112, 1330, 1149, 1512], \"category\": \"Text\", \"text\": \"Then gambla Swea Konungars Crönika, som uplades af Johan Messenio Åhr 1615., nu på nyo af en gammal Pergaments Book mycket rättare och fullkomligare uthskrifwen, hwar till nu är giord en Latinsk Uthtolkning och några Anmärkelser på Latin af andra Historier, hwilken nu är öfwer halfparten färdig till tryck.\"}, {\"bbox\": [1157, 1338, 1303, 1369], \"category\": \"Text\", \"text\": \"Joh. Hadorph.\"}, {\"bbox\": [112, 1514, 1149, 1725], \"category\": \"Text\", \"text\": \"En fullkomlig Orda-Lista och Försambling uthur alla Sweriges och Göthernes gambla Lagar, Recesser, allmänne Stadgar och Rijks-Besluter, stält efter A b c, således att man där af kan hafwa en sann Wetskap om alla dhe Ord och Mål, som i förberörde Böcker och Stadgar förhandlade warda och anten fordom warit i Bruk eller ännu äre nödige wid Domstolarne att weta.\"}, {\"bbox\": [1157, 1521, 1264, 1552], \"category\": \"Text\", \"text\": \"Joh. Had:\"}, {\"bbox\": [154, 1733, 1149, 1774], \"category\": \"Text\", \"text\": \"Kongl. May:tz Resas Beskrifning Åhr 1673., hwar uthi anförde blifwa\"}, {\"bbox\": [1157, 1740, 1264, 1771], \"category\": \"Text\", \"text\": \"Joh. Had:\"}, {\"bbox\": [1097, 1808, 1143, 1847], \"category\": \"Page-footer\", \"text\": \"37\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    373,
+    250,
+    896,
+    293
+   ],
+   "category": "Section-header",
+   "text": "## Consignationer och kataloger"
+  },
+  {
+   "bbox": [
+    112,
+    318,
+    1152,
+    753
+   ],
+   "category": "Text",
+   "text": "Har å nyo beskrifwit K. Gustafs den Förstes Historia, mycket widlyfftigare än för detta skiedt är, och nu aldeles färdig till trycket, innehållandes icke allenast det, som Erick Jöransson Tegel och andra flere utgå låtit, utan och mycket annat, som uti samma Konungs Regements-Tijd sig tilldragit hafwer, såwäl den Evangeliske Lärans Tillstånd som det förfallne och till Undergång lutande Regementet angående, hwilket strax igenom mer högstbemälte Konungz Försichtighet och höga Förstånd igen oprättat och fast stält blef. Och är detta Wärket fördelt i tolf Böcker med hwar Bokz särskilte Capitel, hwilkas innehåll för hwar Bok korteligen uttryckies; såsom och effter Slutet af sielfwe Wärket högstbemälte Konungz åtskillige utgångne Placater och Handlingar, hwilka uti sielfwe Historien blifwa ihugkomne, hwar uppå och äntligen föllier ett utförligit Register."
+  },
+  {
+   "bbox": [
+    1157,
+    330,
+    1303,
+    385
+   ],
+   "category": "Text",
+   "text": "Tobias Westenhielm."
+  },
+  {
+   "bbox": [
+    112,
+    779,
+    1149,
+    863
+   ],
+   "category": "Text",
+   "text": "Dhe Wärk, som än nu äre under Händerne och till en Dehl förfärdigade:"
+  },
+  {
+   "bbox": [
+    112,
+    872,
+    1149,
+    948
+   ],
+   "category": "Text",
+   "text": "Sweriges Biskopars och Clerkers Historia och hwad der wid märkwärdigt förlupit; mehr än halffärdig."
+  },
+  {
+   "bbox": [
+    1157,
+    881,
+    1279,
+    937
+   ],
+   "category": "Text",
+   "text": "Claud. Örnhielms."
+  },
+  {
+   "bbox": [
+    112,
+    949,
+    1148,
+    1019
+   ],
+   "category": "Text",
+   "text": "Alla Klosters i Swerige, Götharike och Finland Historia; är ännu under Händerne."
+  },
+  {
+   "bbox": [
+    112,
+    1026,
+    1148,
+    1102
+   ],
+   "category": "Text",
+   "text": "Alla Swenska Christna Konungars rätta Lefwernes och Regements Tijd, ett Chronologiskt Werk; likaså."
+  },
+  {
+   "bbox": [
+    112,
+    1104,
+    1148,
+    1215
+   ],
+   "category": "Text",
+   "text": "Ett fullkomlig Chronologiskt Wärk med rader uthi Flåckar af hundrade, femtijo och Tijo Åhr fördelt, författandes mäst alla Swea och Götha-Rijkes och dess tillhörige Landskapers förnämsta Handlingar; halfgiordt."
+  },
+  {
+   "bbox": [
+    112,
+    1217,
+    1148,
+    1323
+   ],
+   "category": "Text",
+   "text": "Sweriges Rikes Konungars och förnäme Familiers Slächt-Register, hwar hoos och dhe familier finnas, som i näst omliggiande Rijken och Länder dem medh Börd eller Giftermål anförwante warit; lika så."
+  },
+  {
+   "bbox": [
+    112,
+    1330,
+    1149,
+    1512
+   ],
+   "category": "Text",
+   "text": "Then gambla Swea Konungars Crönika, som uplades af Johan Messenio Åhr 1615., nu på nyo af en gammal Pergaments Book mycket rättare och fullkomligare uthskrifwen, hwar till nu är giord en Latinsk Uthtolkning och några Anmärkelser på Latin af andra Historier, hwilken nu är öfwer halfparten färdig till tryck."
+  },
+  {
+   "bbox": [
+    1157,
+    1338,
+    1303,
+    1369
+   ],
+   "category": "Text",
+   "text": "Joh. Hadorph."
+  },
+  {
+   "bbox": [
+    112,
+    1514,
+    1149,
+    1725
+   ],
+   "category": "Text",
+   "text": "En fullkomlig Orda-Lista och Försambling uthur alla Sweriges och Göthernes gambla Lagar, Recesser, allmänne Stadgar och Rijks-Besluter, stält efter A b c, således att man där af kan hafwa en sann Wetskap om alla dhe Ord och Mål, som i förberörde Böcker och Stadgar förhandlade warda och anten fordom warit i Bruk eller ännu äre nödige wid Domstolarne att weta."
+  },
+  {
+   "bbox": [
+    1157,
+    1521,
+    1264,
+    1552
+   ],
+   "category": "Text",
+   "text": "Joh. Had:"
+  },
+  {
+   "bbox": [
+    154,
+    1733,
+    1149,
+    1774
+   ],
+   "category": "Text",
+   "text": "Kongl. May:tz Resas Beskrifning Åhr 1673., hwar uthi anförde blifwa"
+  },
+  {
+   "bbox": [
+    1157,
+    1740,
+    1264,
+    1771
+   ],
+   "category": "Text",
+   "text": "Joh. Had:"
+  },
+  {
+   "bbox": [
+    1097,
+    1808,
+    1143,
+    1847
+   ],
+   "category": "Page-footer",
+   "text": "37"
+  }
+ ]
+}

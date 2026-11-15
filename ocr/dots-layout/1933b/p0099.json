@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 99,
+ "seconds": 25.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [831, 241, 1248, 283], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [522, 312, 1542, 478], \"category\": \"Text\", \"text\": \"dore et huic seculo et posteritati antiquitatis utut incultæinsereretur amor ac æstimatio, jure meritoque genibus Majestatis Tuæ advolvitur, devotionis profitendæ plenissimus.» Arbetet var åledes officiellt utgivet av kollegiet.\"}, {\"bbox\": [520, 478, 1542, 1723], \"category\": \"Text\", \"text\": \"Syftet med den svenska upplagan var tydligen att ha den lärda världen inskärpa, att man här hade det svenska språkets äldsta minnesmärke. Junius hade utgivit såväl den gotiska som den angelsachsiska bibelöversättningen, de båda äldsta på germanskt språk. Stiernhielm gav en fyrspaltig text: gotiska, isländska, nysvenska och latin, av vilka de tre första väl skulle åskådiggöra det »götiska» språkets utveckling genom tiderna. Men för den gotiska texten och för editionsarbete i allmänhet hade en fantsimänniska som Stiernhielm mycket ringa intresse, däremot ett des större för den språkhistoriska inledning, med vilken han tänkt: förse sin upplaga och som skulle skilja denna upplaga från den i Holland utgivna. Hans uppfattning av vad som var viktigt och ike viktigt, framgår bäst av hans i juli 1668 inlämnade »consignatio» (se förut sid. 4 och 6). När han talar om sina egna sysselsättningar, rämner han ej ett ord om Ulfilas, utan blott om sina forskningar i jämförande språkvetenskap. Först, då han kommit till amanuenser Tornæus, skriver han: »Abr. Tornæo, præterquam quod varia Directoris opera describit, cura et correctura Editionis Novi Testamenti Ulphilæ commissa est». För Stiernhielm var textutgivningen väsentligen ett korrekturarbete, som han därför uppdrog ut sin amanuens. Vad den latinska, isländska och nysvenska texten beträffar — efter tryckta böcker — var så alldeles obestridligt fillet. Men detsamma gäller om den gotiska texten, ty här fick Tornæus begagna Junius' upplaga, i vilken Stiernhielm endast gjorde några smärre ändringar. Mera intresserade han sig för glossariet, men även detta är väsentligen Junius' arbete, vilket också angars i titeln: »Glossarium Ulphila-Gothicum, linguis affinibus per Fr. Junium, nunc etiam Sveo-Gothica auctum et illustratum per Georgium Stiernhielm» — d. v. s. till den latinska översättningen av de gotiska orden har han fogat en svensk.\"}, {\"bbox\": [557, 1723, 1538, 1766], \"category\": \"Text\", \"text\": \"Den fyrspaltiga texten var färdig 1669, och då graveades också\"}, {\"bbox\": [526, 1793, 573, 1831], \"category\": \"Page-footer\", \"text\": \"86\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    831,
+    241,
+    1248,
+    283
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    522,
+    312,
+    1542,
+    478
+   ],
+   "category": "Text",
+   "text": "dore et huic seculo et posteritati antiquitatis utut incultæinsereretur amor ac æstimatio, jure meritoque genibus Majestatis Tuæ advolvitur, devotionis profitendæ plenissimus.» Arbetet var åledes officiellt utgivet av kollegiet."
+  },
+  {
+   "bbox": [
+    520,
+    478,
+    1542,
+    1723
+   ],
+   "category": "Text",
+   "text": "Syftet med den svenska upplagan var tydligen att ha den lärda världen inskärpa, att man här hade det svenska språkets äldsta minnesmärke. Junius hade utgivit såväl den gotiska som den angelsachsiska bibelöversättningen, de båda äldsta på germanskt språk. Stiernhielm gav en fyrspaltig text: gotiska, isländska, nysvenska och latin, av vilka de tre första väl skulle åskådiggöra det »götiska» språkets utveckling genom tiderna. Men för den gotiska texten och för editionsarbete i allmänhet hade en fantsimänniska som Stiernhielm mycket ringa intresse, däremot ett des större för den språkhistoriska inledning, med vilken han tänkt: förse sin upplaga och som skulle skilja denna upplaga från den i Holland utgivna. Hans uppfattning av vad som var viktigt och ike viktigt, framgår bäst av hans i juli 1668 inlämnade »consignatio» (se förut sid. 4 och 6). När han talar om sina egna sysselsättningar, rämner han ej ett ord om Ulfilas, utan blott om sina forskningar i jämförande språkvetenskap. Först, då han kommit till amanuenser Tornæus, skriver han: »Abr. Tornæo, præterquam quod varia Directoris opera describit, cura et correctura Editionis Novi Testamenti Ulphilæ commissa est». För Stiernhielm var textutgivningen väsentligen ett korrekturarbete, som han därför uppdrog ut sin amanuens. Vad den latinska, isländska och nysvenska texten beträffar — efter tryckta böcker — var så alldeles obestridligt fillet. Men detsamma gäller om den gotiska texten, ty här fick Tornæus begagna Junius' upplaga, i vilken Stiernhielm endast gjorde några smärre ändringar. Mera intresserade han sig för glossariet, men även detta är väsentligen Junius' arbete, vilket också angars i titeln: »Glossarium Ulphila-Gothicum, linguis affinibus per Fr. Junium, nunc etiam Sveo-Gothica auctum et illustratum per Georgium Stiernhielm» — d. v. s. till den latinska översättningen av de gotiska orden har han fogat en svensk."
+  },
+  {
+   "bbox": [
+    557,
+    1723,
+    1538,
+    1766
+   ],
+   "category": "Text",
+   "text": "Den fyrspaltiga texten var färdig 1669, och då graveades också"
+  },
+  {
+   "bbox": [
+    526,
+    1793,
+    573,
+    1831
+   ],
+   "category": "Page-footer",
+   "text": "86"
+  }
+ ]
+}

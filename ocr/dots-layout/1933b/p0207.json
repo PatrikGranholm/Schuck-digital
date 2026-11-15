@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 207,
+ "seconds": 25.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [777, 242, 1195, 285], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [536, 311, 1506, 565], \"category\": \"Text\", \"text\": \"förklarat de gambla ord, som finnas i Skånelagen, uptecknade på 12 ark in 4:to, dem han sedan begynt omskrifwa på 3 ark, men sedermera effter ABC. twå gånger renskrifwit på 3 ark in 4:to, sosom de wid den af Secret. Hadorph uthgifne Skånelagen tryckte finnas. Sammaledes hafwer Vennæsius upsatt och förfärdigat Registret på Böckerne och Capitlen i Skånelagen på 3 ark in 4:to. Sosom och corrigerat samma wärk på trycket och giort en lista öfwer tryckfeelen.\"}, {\"bbox\": [478, 563, 1505, 743], \"category\": \"List-item\", \"text\": \"11) hafwer Vennesius sammandragit och uthtydt de gambla ord, som finnas i Dalelagen, concipierade på 2 ark in 4:to, sedan renskrefne på 2 ark, hwilka sahl. secret. Had. med sin hand reviderat, dem Vennæsius sedan ordine Alphabetico på 2 ark sammanfört och nu wid bemelte Dala lag genom trycket antecknade finnas.\"}, {\"bbox\": [478, 741, 1505, 885], \"category\": \"List-item\", \"text\": \"12) Finnes Biärköa Rätten effter det gamla Ms:tet afcopierad med Wennæsii hand och tillsatte marginalibus på 6 ark med compress styl afskrifwen och på trycket utgifwen med Sahl. Secr. Hadorphii där til gjorde förtal.\"}, {\"bbox\": [478, 883, 1505, 1134], \"category\": \"List-item\", \"text\": \"13) GottLandz Stadz Rätten hafwer Wennæsius sammaledes effter det gambla Platt Tyska Pergamentz Exemplaret afcopierat uppå 36 1/2 ark in folio, doch så att halfwa columnen warit lemnad blancque för swenska versionen, hwilken Translatoren Gudmund Olson A:o 1682 och 1683 så wähl effter göthiska som platt Tyska originalet dicterade för sahl. secret. Hadorph, som det sedan med sitt förtal på trycket A. 1687 utgifwit.\"}, {\"bbox\": [475, 1132, 1504, 1235], \"category\": \"List-item\", \"text\": \"14) Men af Wennes. är jämwähl Gottlandz Landslagen effter gamla platt Tyska Exemplaret afskrifwen på 24 ark in folio, men den ena sijdan blanklemnader.»\"}, {\"bbox\": [461, 1261, 1503, 1429], \"category\": \"Text\", \"text\": \"Det sanna i dessa uppgifter besticker sig väl blott därtill, att Hadorph använt Wennæsius såsom amanuens, låtit honom skriva rent, upprätta register o. d. Men därifrån är steget långt till den slutsats, som Peringer synes vilja draga.\"}, {\"bbox\": [463, 1794, 534, 1833], \"category\": \"Page-footer\", \"text\": \"186\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    777,
+    242,
+    1195,
+    285
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    536,
+    311,
+    1506,
+    565
+   ],
+   "category": "Text",
+   "text": "förklarat de gambla ord, som finnas i Skånelagen, uptecknade på 12 ark in 4:to, dem han sedan begynt omskrifwa på 3 ark, men sedermera effter ABC. twå gånger renskrifwit på 3 ark in 4:to, sosom de wid den af Secret. Hadorph uthgifne Skånelagen tryckte finnas. Sammaledes hafwer Vennæsius upsatt och förfärdigat Registret på Böckerne och Capitlen i Skånelagen på 3 ark in 4:to. Sosom och corrigerat samma wärk på trycket och giort en lista öfwer tryckfeelen."
+  },
+  {
+   "bbox": [
+    478,
+    563,
+    1505,
+    743
+   ],
+   "category": "List-item",
+   "text": "11) hafwer Vennesius sammandragit och uthtydt de gambla ord, som finnas i Dalelagen, concipierade på 2 ark in 4:to, sedan renskrefne på 2 ark, hwilka sahl. secret. Had. med sin hand reviderat, dem Vennæsius sedan ordine Alphabetico på 2 ark sammanfört och nu wid bemelte Dala lag genom trycket antecknade finnas."
+  },
+  {
+   "bbox": [
+    478,
+    741,
+    1505,
+    885
+   ],
+   "category": "List-item",
+   "text": "12) Finnes Biärköa Rätten effter det gamla Ms:tet afcopierad med Wennæsii hand och tillsatte marginalibus på 6 ark med compress styl afskrifwen och på trycket utgifwen med Sahl. Secr. Hadorphii där til gjorde förtal."
+  },
+  {
+   "bbox": [
+    478,
+    883,
+    1505,
+    1134
+   ],
+   "category": "List-item",
+   "text": "13) GottLandz Stadz Rätten hafwer Wennæsius sammaledes effter det gambla Platt Tyska Pergamentz Exemplaret afcopierat uppå 36 1/2 ark in folio, doch så att halfwa columnen warit lemnad blancque för swenska versionen, hwilken Translatoren Gudmund Olson A:o 1682 och 1683 så wähl effter göthiska som platt Tyska originalet dicterade för sahl. secret. Hadorph, som det sedan med sitt förtal på trycket A. 1687 utgifwit."
+  },
+  {
+   "bbox": [
+    475,
+    1132,
+    1504,
+    1235
+   ],
+   "category": "List-item",
+   "text": "14) Men af Wennes. är jämwähl Gottlandz Landslagen effter gamla platt Tyska Exemplaret afskrifwen på 24 ark in folio, men den ena sijdan blanklemnader.»"
+  },
+  {
+   "bbox": [
+    461,
+    1261,
+    1503,
+    1429
+   ],
+   "category": "Text",
+   "text": "Det sanna i dessa uppgifter besticker sig väl blott därtill, att Hadorph använt Wennæsius såsom amanuens, låtit honom skriva rent, upprätta register o. d. Men därifrån är steget långt till den slutsats, som Peringer synes vilja draga."
+  },
+  {
+   "bbox": [
+    463,
+    1794,
+    534,
+    1833
+   ],
+   "category": "Page-footer",
+   "text": "186"
+  }
+ ]
+}

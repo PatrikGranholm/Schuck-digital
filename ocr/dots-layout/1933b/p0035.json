@@ -1,0 +1,172 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 35,
+ "seconds": 30.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [788, 246, 1203, 289], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [478, 315, 1519, 644], \"category\": \"Table\", \"text\": \"<table><tr><td></td><td>Herwarar Saga</td><td>1672</td></tr><tr><td></td><td>Runographia Scandica</td><td>1674</td></tr><tr><td>H. Celsii</td><td>Computus Ecclesiasticus</td><td>1673</td></tr><tr><td>H. Videchinni</td><td>Bellum Muschoviticum Latine et Suet.</td><td>1673</td></tr><tr><td>H. Hadorphii</td><td>Rijm Crönikorne med Ind. och notis marg.</td><td>1673</td></tr><tr><td></td><td>Acta publica der til hörande</td><td>1674</td></tr><tr><td></td><td>Dahle</td><td rowspan=\\\"3\\\">1674</td></tr><tr><td></td><td>Skåne</td></tr><tr><td></td><td>Gotlandz</td></tr><tr><td></td><td>Lagarne</td><td></td></tr></table>\"}, {\"bbox\": [621, 652, 1129, 695], \"category\": \"Section-header\", \"text\": \"Noch färdige af gamble arbeten:\"}, {\"bbox\": [481, 695, 866, 769], \"category\": \"Text\", \"text\": \"Gustavi I\\nErici XIV\\nHistoria Girsii.\"}, {\"bbox\": [481, 763, 1472, 876], \"category\": \"Text\", \"text\": \"Epitome historiæ Gustavi I a Christophoro L. Grubb. Ejusdem adagia et proverbia antiqua Sueo Gothica. H. Rålambz Quæstiones Juris.\"}, {\"bbox\": [621, 884, 1153, 927], \"category\": \"Section-header\", \"text\": \"Aliorum Scripta adhuc imprimenda:\"}, {\"bbox\": [481, 929, 1201, 1005], \"category\": \"Text\", \"text\": \"Joh. Magnus cum Iconibus Regum Sue. Ejusdem Historia Metropolitana.\"}, {\"bbox\": [481, 1002, 1079, 1042], \"category\": \"Text\", \"text\": \"Historia Regis Johannis III per Girsium.\"}, {\"bbox\": [481, 1040, 901, 1114], \"category\": \"Text\", \"text\": \"Olai Petri\\nLaur. Petri\\nHistoria Sueciæ.\"}, {\"bbox\": [481, 1108, 1226, 1184], \"category\": \"Text\", \"text\": \"Boecleri bellum Sueo Danicum anni 1643 et 1644. Messenii varia opuscula uno volumine.\"}, {\"bbox\": [621, 1191, 1236, 1236], \"category\": \"Section-header\", \"text\": \"Än färdige till Tryck och under arbete:\"}, {\"bbox\": [481, 1238, 935, 1273], \"category\": \"Text\", \"text\": \"H. Stiernhielms AntiCluverius.\"}, {\"bbox\": [481, 1271, 1524, 1490], \"category\": \"Text\", \"text\": \"Doct. Loccenii färdige till tryck\\nVersio Latina in leges Uplandicas, Westro- et OGothicas, Sudro- et Westmannicas et Dalicas, Lexicon Juris Sueo Gothici auctius et emendatius. Typographia Regni Sueciæ cum tabulis æneis Dahlbergz. under tryck\\nHistoria Suecica et Antiquitates SueoGothicæ auctiores et emendatiores.\"}, {\"bbox\": [481, 1486, 1526, 1631], \"category\": \"Text\", \"text\": \"H. Axehielm Absolutis et perfectis historiis Vilcini nec non Barlaami historiam vere antiquam de bello Trojano (alias Trojomanna Saga) veteri Gothica lingua concinnatam in modernam linguam Sueticam transferre conabitur.\"}, {\"bbox\": [481, 1627, 1526, 1776], \"category\": \"Text\", \"text\": \"H. Schefferi ferdige till tryck\\nVita S. Erici ab Israele Erlandi conscripta cum notis. Orationes habitæ coram Carolo, Carolo Gustavo et Christina Regibus. De Scriptoribus et scriptis gentis Sueticæ.\"}, {\"bbox\": [494, 1814, 542, 1843], \"category\": \"Page-footer\", \"text\": \"22\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    788,
+    246,
+    1203,
+    289
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    478,
+    315,
+    1519,
+    644
+   ],
+   "category": "Table",
+   "text": "<table><tr><td></td><td>Herwarar Saga</td><td>1672</td></tr><tr><td></td><td>Runographia Scandica</td><td>1674</td></tr><tr><td>H. Celsii</td><td>Computus Ecclesiasticus</td><td>1673</td></tr><tr><td>H. Videchinni</td><td>Bellum Muschoviticum Latine et Suet.</td><td>1673</td></tr><tr><td>H. Hadorphii</td><td>Rijm Crönikorne med Ind. och notis marg.</td><td>1673</td></tr><tr><td></td><td>Acta publica der til hörande</td><td>1674</td></tr><tr><td></td><td>Dahle</td><td rowspan=\"3\">1674</td></tr><tr><td></td><td>Skåne</td></tr><tr><td></td><td>Gotlandz</td></tr><tr><td></td><td>Lagarne</td><td></td></tr></table>"
+  },
+  {
+   "bbox": [
+    621,
+    652,
+    1129,
+    695
+   ],
+   "category": "Section-header",
+   "text": "Noch färdige af gamble arbeten:"
+  },
+  {
+   "bbox": [
+    481,
+    695,
+    866,
+    769
+   ],
+   "category": "Text",
+   "text": "Gustavi I\nErici XIV\nHistoria Girsii."
+  },
+  {
+   "bbox": [
+    481,
+    763,
+    1472,
+    876
+   ],
+   "category": "Text",
+   "text": "Epitome historiæ Gustavi I a Christophoro L. Grubb. Ejusdem adagia et proverbia antiqua Sueo Gothica. H. Rålambz Quæstiones Juris."
+  },
+  {
+   "bbox": [
+    621,
+    884,
+    1153,
+    927
+   ],
+   "category": "Section-header",
+   "text": "Aliorum Scripta adhuc imprimenda:"
+  },
+  {
+   "bbox": [
+    481,
+    929,
+    1201,
+    1005
+   ],
+   "category": "Text",
+   "text": "Joh. Magnus cum Iconibus Regum Sue. Ejusdem Historia Metropolitana."
+  },
+  {
+   "bbox": [
+    481,
+    1002,
+    1079,
+    1042
+   ],
+   "category": "Text",
+   "text": "Historia Regis Johannis III per Girsium."
+  },
+  {
+   "bbox": [
+    481,
+    1040,
+    901,
+    1114
+   ],
+   "category": "Text",
+   "text": "Olai Petri\nLaur. Petri\nHistoria Sueciæ."
+  },
+  {
+   "bbox": [
+    481,
+    1108,
+    1226,
+    1184
+   ],
+   "category": "Text",
+   "text": "Boecleri bellum Sueo Danicum anni 1643 et 1644. Messenii varia opuscula uno volumine."
+  },
+  {
+   "bbox": [
+    621,
+    1191,
+    1236,
+    1236
+   ],
+   "category": "Section-header",
+   "text": "Än färdige till Tryck och under arbete:"
+  },
+  {
+   "bbox": [
+    481,
+    1238,
+    935,
+    1273
+   ],
+   "category": "Text",
+   "text": "H. Stiernhielms AntiCluverius."
+  },
+  {
+   "bbox": [
+    481,
+    1271,
+    1524,
+    1490
+   ],
+   "category": "Text",
+   "text": "Doct. Loccenii färdige till tryck\nVersio Latina in leges Uplandicas, Westro- et OGothicas, Sudro- et Westmannicas et Dalicas, Lexicon Juris Sueo Gothici auctius et emendatius. Typographia Regni Sueciæ cum tabulis æneis Dahlbergz. under tryck\nHistoria Suecica et Antiquitates SueoGothicæ auctiores et emendatiores."
+  },
+  {
+   "bbox": [
+    481,
+    1486,
+    1526,
+    1631
+   ],
+   "category": "Text",
+   "text": "H. Axehielm Absolutis et perfectis historiis Vilcini nec non Barlaami historiam vere antiquam de bello Trojano (alias Trojomanna Saga) veteri Gothica lingua concinnatam in modernam linguam Sueticam transferre conabitur."
+  },
+  {
+   "bbox": [
+    481,
+    1627,
+    1526,
+    1776
+   ],
+   "category": "Text",
+   "text": "H. Schefferi ferdige till tryck\nVita S. Erici ab Israele Erlandi conscripta cum notis. Orationes habitæ coram Carolo, Carolo Gustavo et Christina Regibus. De Scriptoribus et scriptis gentis Sueticæ."
+  },
+  {
+   "bbox": [
+    494,
+    1814,
+    542,
+    1843
+   ],
+   "category": "Page-footer",
+   "text": "22"
+  }
+ ]
+}

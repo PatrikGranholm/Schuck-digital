@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 52,
+ "seconds": 30.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [379, 250, 911, 294], \"category\": \"Section-header\", \"text\": \"## Consignationer och kataloger\"}, {\"bbox\": [120, 319, 1165, 502], \"category\": \"Text\", \"text\": \"Bedrifter, ifrån Christendomens första Begynnelse här i Rijket in till närwarande Tijd upsökte och med hwar och en Persons Wapen, Ätt och Härkomst antecknade; tillika med Register så wäl effter A. B. C. på Kongl. Råds-Personerne som särskilt på framledne Drottzar, Marskalkar och Cancellerer samt Biskopar, som fordom Kongl. Rådz Embetet beklädt hafwa.\"}, {\"bbox\": [120, 508, 1310, 658], \"category\": \"Text\", \"text\": \"4. Höfwidzmän och Ståthållare öfwer Swea och Götha Rijketz underliggiande Lähn och Höfdingedömen, Städer och Slott uthi den Ordning, som de uthi några förledne hundrade Åhr hwarandra i Embetet effterfölgt hafwa, korteligen upräknade. Johan Pering.\"}, {\"bbox\": [120, 658, 1310, 769], \"category\": \"Text\", \"text\": \"5. Lagmän och Häradshöfdingar uthi Swea och Götha-Rijketz underliggiande Landskapar och Härader, effter sina Åhrtahl, Ätt och Bedrifter wid deras särskilte Domstolar korteligen beskrefne. Johan Pering.\"}, {\"bbox\": [120, 776, 1310, 961], \"category\": \"Text\", \"text\": \"6. Slächtebook och Register öfwer Swea och Götha Rijkens Konglige och Råds-Personer, Ridderskap och Adel, med en kort Beskrifning om hwar och en Slächts Ålder och Upkomst sampt märckelige giorde Tiänster, uthaf uhrgambla Breef och Handlingar samt afritade Signeter och nu brukelige Wapner stadfäst och till närwarande Tijd uthförd. Johan Pering.\"}, {\"bbox\": [120, 965, 1310, 1043], \"category\": \"Text\", \"text\": \"7. Borgmestare och Råd i Städerne med några hundrade Åhrs Tijde-Räkning och åthskillige Märkeligheter antecknade. Johan Pering.\"}, {\"bbox\": [120, 1043, 1310, 1263], \"category\": \"Text\", \"text\": \"8. Giöthiske afskrefne och mehrendels förswenskade Sagor eller Historier, såsom I. Trojomanna Sagan uthaf Orm Snorressons gambla och med afkortade Stafwelser Handskrefne Pergamentsbook. II. Hialmters Ingesons, Mannaheims eller Sweriges Konungs, och des Fosterbroders Ölwers Herödssons Jarlens Saga. III. Attils Upsala Konungs och Rolfs Kraku Dana Konungs Saga, uthaf gambla Islenske skrifne Böker uthsökte. Johan Pering.\"}, {\"bbox\": [120, 1269, 1315, 1775], \"category\": \"Text\", \"text\": \"Alla Collegii Handlingar hafwer under sin wårdnat, hwar på han nödige Register giordt och än giör, både öfwer dess gambla skrifne Pergaments Böcker, som ära först andelige, sedan desse 3 Nordiske Rijkens Lagar och Historiæ Böcker sampt många andra insamblade Böcker, som angå Fäderneslandsens gambla Saker, hwilka åhrlig så mycket förökade äro, att dhe till ett tämmeligit Bibliothec upwuxne äro. Näst dem föllia åthskillige gambla Konungabref och Testamenten på Pergament, hwar till många förnäme Herre-Mäns Bref om åtskillige Saker föllia på Pergament, som till ett stort Taal äro och effter sine Åhr lagde och sammanhäfftade och en deel hoos oss här i Stockholm och en deel i Upsala förwaras. Der hoos föllia många andra gambla Saker uthi en rum Tijd församblade, såsom först wår gambla Göthiske Tijde-Räkning på Runska, skuren dels oppå Kiäppar, dels oppå andra kortare Trää af åthskillige Lijknelser. Sedan några helige Sölf Kiäril och Tyg, fundne i Östergötland, fordom brukade\"}, {\"bbox\": [1111, 1808, 1159, 1847], \"category\": \"Page-footer\", \"text\": \"39\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    379,
+    250,
+    911,
+    294
+   ],
+   "category": "Section-header",
+   "text": "## Consignationer och kataloger"
+  },
+  {
+   "bbox": [
+    120,
+    319,
+    1165,
+    502
+   ],
+   "category": "Text",
+   "text": "Bedrifter, ifrån Christendomens första Begynnelse här i Rijket in till närwarande Tijd upsökte och med hwar och en Persons Wapen, Ätt och Härkomst antecknade; tillika med Register så wäl effter A. B. C. på Kongl. Råds-Personerne som särskilt på framledne Drottzar, Marskalkar och Cancellerer samt Biskopar, som fordom Kongl. Rådz Embetet beklädt hafwa."
+  },
+  {
+   "bbox": [
+    120,
+    508,
+    1310,
+    658
+   ],
+   "category": "Text",
+   "text": "4. Höfwidzmän och Ståthållare öfwer Swea och Götha Rijketz underliggiande Lähn och Höfdingedömen, Städer och Slott uthi den Ordning, som de uthi några förledne hundrade Åhr hwarandra i Embetet effterfölgt hafwa, korteligen upräknade. Johan Pering."
+  },
+  {
+   "bbox": [
+    120,
+    658,
+    1310,
+    769
+   ],
+   "category": "Text",
+   "text": "5. Lagmän och Häradshöfdingar uthi Swea och Götha-Rijketz underliggiande Landskapar och Härader, effter sina Åhrtahl, Ätt och Bedrifter wid deras särskilte Domstolar korteligen beskrefne. Johan Pering."
+  },
+  {
+   "bbox": [
+    120,
+    776,
+    1310,
+    961
+   ],
+   "category": "Text",
+   "text": "6. Slächtebook och Register öfwer Swea och Götha Rijkens Konglige och Råds-Personer, Ridderskap och Adel, med en kort Beskrifning om hwar och en Slächts Ålder och Upkomst sampt märckelige giorde Tiänster, uthaf uhrgambla Breef och Handlingar samt afritade Signeter och nu brukelige Wapner stadfäst och till närwarande Tijd uthförd. Johan Pering."
+  },
+  {
+   "bbox": [
+    120,
+    965,
+    1310,
+    1043
+   ],
+   "category": "Text",
+   "text": "7. Borgmestare och Råd i Städerne med några hundrade Åhrs Tijde-Räkning och åthskillige Märkeligheter antecknade. Johan Pering."
+  },
+  {
+   "bbox": [
+    120,
+    1043,
+    1310,
+    1263
+   ],
+   "category": "Text",
+   "text": "8. Giöthiske afskrefne och mehrendels förswenskade Sagor eller Historier, såsom I. Trojomanna Sagan uthaf Orm Snorressons gambla och med afkortade Stafwelser Handskrefne Pergamentsbook. II. Hialmters Ingesons, Mannaheims eller Sweriges Konungs, och des Fosterbroders Ölwers Herödssons Jarlens Saga. III. Attils Upsala Konungs och Rolfs Kraku Dana Konungs Saga, uthaf gambla Islenske skrifne Böker uthsökte. Johan Pering."
+  },
+  {
+   "bbox": [
+    120,
+    1269,
+    1315,
+    1775
+   ],
+   "category": "Text",
+   "text": "Alla Collegii Handlingar hafwer under sin wårdnat, hwar på han nödige Register giordt och än giör, både öfwer dess gambla skrifne Pergaments Böcker, som ära först andelige, sedan desse 3 Nordiske Rijkens Lagar och Historiæ Böcker sampt många andra insamblade Böcker, som angå Fäderneslandsens gambla Saker, hwilka åhrlig så mycket förökade äro, att dhe till ett tämmeligit Bibliothec upwuxne äro. Näst dem föllia åthskillige gambla Konungabref och Testamenten på Pergament, hwar till många förnäme Herre-Mäns Bref om åtskillige Saker föllia på Pergament, som till ett stort Taal äro och effter sine Åhr lagde och sammanhäfftade och en deel hoos oss här i Stockholm och en deel i Upsala förwaras. Der hoos föllia många andra gambla Saker uthi en rum Tijd församblade, såsom först wår gambla Göthiske Tijde-Räkning på Runska, skuren dels oppå Kiäppar, dels oppå andra kortare Trää af åthskillige Lijknelser. Sedan några helige Sölf Kiäril och Tyg, fundne i Östergötland, fordom brukade"
+  },
+  {
+   "bbox": [
+    1111,
+    1808,
+    1159,
+    1847
+   ],
+   "category": "Page-footer",
+   "text": "39"
+  }
+ ]
+}

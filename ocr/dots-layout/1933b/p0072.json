@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 72,
+ "seconds": 25.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [437, 261, 834, 304], \"category\": \"Section-header\", \"text\": \"De götiska skrifterna\"}, {\"bbox\": [108, 331, 1162, 1373], \"category\": \"Text\", \"text\": \"Burgundien och Spanien (sedan samma titel på latin). I företalet yttrar han om föregångarna: »Anbelangande Wilkina Sagans Öfwersättning på vårt nu brukeliga Språk, så hafwer Kongl. Secreteraren och Antiquarien Johannes Buræus, såsom han första Ms. af sielfwa Pergamentz boken funnit, til en del förswenskat, förärandes det A:o 1652 til Hennes Majestäts Drottning Christinæ tienst, som Krigs-Rådet och Præsidenten öfwer Antiquitets werket Hr. Georg Stiernhielm genom sit qwitto bref har betygat. Hr. Johan Axehielm, Assessor och Vice Præsident wid Antiquitets wercket som jämwäl vti denna Wilkina Sagans öfwersättning något arbetat, i samma mening med sin Swärfader Buræo, att Historien woro handlande om fem inländska Sweriges Konungar, bekom derföre A:o 1672 efter Hans Excell. Kongl. Drottzens Gref Magni Gabriel De la Gardies fördelning 60 Rijs fijnt Skrifpapper til Wilkina Sagans vpläggning, men stannade af infallande orsaker. Omsider företog sig Actuarien Johan Hadorph then yngre at låta omskrifwa wercket af Wilkina Sagans Swenska öfwersättning, ärnandes det til tryck, men stannade åter igenom hans tidiga frånfälle. Theras arbete har jag sedermera ord ifrån ord emot gamla Språket i bägge exemplaren jämfört och förbättrat samt med en Latinsk version för the vthländskas skul förökat. Til samma Historia har jag ock så yttermera öfwersatt Niflunga Sagan, som är ett anhörigt sammanhang til förbemälte Werck och aldrig för thetta warit öfwersatt på något thera språket i Swenska eller Latin, så att the nu bägge följas åt i et lagom band.»\"}, {\"bbox\": [113, 1403, 1162, 1782], \"category\": \"Text\", \"text\": \"Detta företal är i flera punkter vilseledande. Han överdriver omfattningen av Bureus' insats och förringar högst betydligt Axehiälms, och han har orätt i, att niflungapartiet ej förut varit översatt. Själv har han ej gjort stort mera än verkställt den latinska översättningen, ty den isländska texten är Guðmundur Ólafssons och den svenska översättningen den yngre Hadorphs med någon mindre rättelse. Och niflungapartiet, som icke fanns hos Hadorph, har han själv icke översatt utan lånat från den så ringaktade Axehiälm. Man jämföre t. ex. följande stycken i början:\"}, {\"bbox\": [1109, 1822, 1157, 1860], \"category\": \"Page-footer\", \"text\": \"59\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    437,
+    261,
+    834,
+    304
+   ],
+   "category": "Section-header",
+   "text": "De götiska skrifterna"
+  },
+  {
+   "bbox": [
+    108,
+    331,
+    1162,
+    1373
+   ],
+   "category": "Text",
+   "text": "Burgundien och Spanien (sedan samma titel på latin). I företalet yttrar han om föregångarna: »Anbelangande Wilkina Sagans Öfwersättning på vårt nu brukeliga Språk, så hafwer Kongl. Secreteraren och Antiquarien Johannes Buræus, såsom han första Ms. af sielfwa Pergamentz boken funnit, til en del förswenskat, förärandes det A:o 1652 til Hennes Majestäts Drottning Christinæ tienst, som Krigs-Rådet och Præsidenten öfwer Antiquitets werket Hr. Georg Stiernhielm genom sit qwitto bref har betygat. Hr. Johan Axehielm, Assessor och Vice Præsident wid Antiquitets wercket som jämwäl vti denna Wilkina Sagans öfwersättning något arbetat, i samma mening med sin Swärfader Buræo, att Historien woro handlande om fem inländska Sweriges Konungar, bekom derföre A:o 1672 efter Hans Excell. Kongl. Drottzens Gref Magni Gabriel De la Gardies fördelning 60 Rijs fijnt Skrifpapper til Wilkina Sagans vpläggning, men stannade af infallande orsaker. Omsider företog sig Actuarien Johan Hadorph then yngre at låta omskrifwa wercket af Wilkina Sagans Swenska öfwersättning, ärnandes det til tryck, men stannade åter igenom hans tidiga frånfälle. Theras arbete har jag sedermera ord ifrån ord emot gamla Språket i bägge exemplaren jämfört och förbättrat samt med en Latinsk version för the vthländskas skul förökat. Til samma Historia har jag ock så yttermera öfwersatt Niflunga Sagan, som är ett anhörigt sammanhang til förbemälte Werck och aldrig för thetta warit öfwersatt på något thera språket i Swenska eller Latin, så att the nu bägge följas åt i et lagom band.»"
+  },
+  {
+   "bbox": [
+    113,
+    1403,
+    1162,
+    1782
+   ],
+   "category": "Text",
+   "text": "Detta företal är i flera punkter vilseledande. Han överdriver omfattningen av Bureus' insats och förringar högst betydligt Axehiälms, och han har orätt i, att niflungapartiet ej förut varit översatt. Själv har han ej gjort stort mera än verkställt den latinska översättningen, ty den isländska texten är Guðmundur Ólafssons och den svenska översättningen den yngre Hadorphs med någon mindre rättelse. Och niflungapartiet, som icke fanns hos Hadorph, har han själv icke översatt utan lånat från den så ringaktade Axehiälm. Man jämföre t. ex. följande stycken i början:"
+  },
+  {
+   "bbox": [
+    1109,
+    1822,
+    1157,
+    1860
+   ],
+   "category": "Page-footer",
+   "text": "59"
+  }
+ ]
+}

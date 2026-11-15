@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 139,
+ "seconds": 19.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [817, 239, 1236, 283], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [496, 307, 1543, 1720], \"category\": \"Text\", \"text\": \"Nästan alla de här nämnda handskrifterna finnas kvar i Kungl. biblioteket, som ju blivit antikvitetskollegiets arvtagare, och i sin avhandling har Swartling efter de olika ämnena förtecknat dem. De tidsuppgifter, som Stiernhielm själv påtecknat de olika häftena, torde dock icke vara i alla fall tillförlitliga. Han angav ofta, när han börjat ett arbete. Men så kunde han avbryta det och skriva ned fortsättningen först flera år efteråt. Såsom det äldsta upptages vanligen det av Hadorph nämnda: Lexicon Gothicum Philologicum a G. Lilia Sveo-Montano coeptum Anno 1626 12 Julij (K. B. sign. F d. 10). Men huruvida detta arbete finnes kvar i den ursprungliga formen, synes mycket tvivelaktigt, ty på samma blad, å vilket denna titel skrivits, möta vi också en annan med en ny tidsuppgift: Georgii Stiernhielm Adelruna seu Sibylla Celto-Gothica, Præsentata Illustrissimo Dn. Cancellario Regni Orebrogiæ die 5 Martij et retentum usque ad merid. diei 7 Anno 1639. Vilken titel och vilken tidsuppgift är den riktiga, är således svårt att gissa, men »Sibylla» passar onekligen bättre än »Lexicon», ty åtminstone början utgöres av en samling tämligen oordnade etymologier, vilande på ett i hög grad tvivelaktigt språkmaterial. Så har han åtskilligt att förmäla om etruskiskan, rörande vilket språk han hade sitt vetande från den ökände förfalskaren Anicius Viterbensis. De etruskiska orden stamma naturligtvis från svenskan, så Lucumon från det svenska Lagaman. Vidare kommer han in på frygiskan. Gudinnan Cybeles präster kallades »galli» (de kastrerade), och detta sammanställer han med det svenska »gälla» = kastrera; i Faunus ser han det svenska »Fan» o. s. v. Från dessa mera oordnade anteckningar övergår han till ett etymologiskt lexikon med svenska uppslagsord. I samma volym följer därefter Vocabula prisca et obsoleta legum Suecorum Gothorumque explicata a Georgio Lilia Supremi trium Provinciarum Livoniæ Careliæ et Ingrii Assessore et Diocoeseos Dorpatensis Judice Terrestri Dorpati Anno 1631 — såsom titeln angiver ett lexikon över vissa ord i våra gamla lagar. Det nästa daterade arbetet, Philologus Celto-Gothicus, Coeptum 1 nov. Anno 1636, är endast ett tunt häfte på några blad, som innehåller början till ett lexikon.\"}, {\"bbox\": [531, 1720, 1529, 1763], \"category\": \"Text\", \"text\": \"Större fart tyckas Stiernhielms språkstudier hava fått efter åter-\"}, {\"bbox\": [500, 1788, 572, 1826], \"category\": \"Page-footer\", \"text\": \"126\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    817,
+    239,
+    1236,
+    283
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    496,
+    307,
+    1543,
+    1720
+   ],
+   "category": "Text",
+   "text": "Nästan alla de här nämnda handskrifterna finnas kvar i Kungl. biblioteket, som ju blivit antikvitetskollegiets arvtagare, och i sin avhandling har Swartling efter de olika ämnena förtecknat dem. De tidsuppgifter, som Stiernhielm själv påtecknat de olika häftena, torde dock icke vara i alla fall tillförlitliga. Han angav ofta, när han börjat ett arbete. Men så kunde han avbryta det och skriva ned fortsättningen först flera år efteråt. Såsom det äldsta upptages vanligen det av Hadorph nämnda: Lexicon Gothicum Philologicum a G. Lilia Sveo-Montano coeptum Anno 1626 12 Julij (K. B. sign. F d. 10). Men huruvida detta arbete finnes kvar i den ursprungliga formen, synes mycket tvivelaktigt, ty på samma blad, å vilket denna titel skrivits, möta vi också en annan med en ny tidsuppgift: Georgii Stiernhielm Adelruna seu Sibylla Celto-Gothica, Præsentata Illustrissimo Dn. Cancellario Regni Orebrogiæ die 5 Martij et retentum usque ad merid. diei 7 Anno 1639. Vilken titel och vilken tidsuppgift är den riktiga, är således svårt att gissa, men »Sibylla» passar onekligen bättre än »Lexicon», ty åtminstone början utgöres av en samling tämligen oordnade etymologier, vilande på ett i hög grad tvivelaktigt språkmaterial. Så har han åtskilligt att förmäla om etruskiskan, rörande vilket språk han hade sitt vetande från den ökände förfalskaren Anicius Viterbensis. De etruskiska orden stamma naturligtvis från svenskan, så Lucumon från det svenska Lagaman. Vidare kommer han in på frygiskan. Gudinnan Cybeles präster kallades »galli» (de kastrerade), och detta sammanställer han med det svenska »gälla» = kastrera; i Faunus ser han det svenska »Fan» o. s. v. Från dessa mera oordnade anteckningar övergår han till ett etymologiskt lexikon med svenska uppslagsord. I samma volym följer därefter Vocabula prisca et obsoleta legum Suecorum Gothorumque explicata a Georgio Lilia Supremi trium Provinciarum Livoniæ Careliæ et Ingrii Assessore et Diocoeseos Dorpatensis Judice Terrestri Dorpati Anno 1631 — såsom titeln angiver ett lexikon över vissa ord i våra gamla lagar. Det nästa daterade arbetet, Philologus Celto-Gothicus, Coeptum 1 nov. Anno 1636, är endast ett tunt häfte på några blad, som innehåller början till ett lexikon."
+  },
+  {
+   "bbox": [
+    531,
+    1720,
+    1529,
+    1763
+   ],
+   "category": "Text",
+   "text": "Större fart tyckas Stiernhielms språkstudier hava fått efter åter-"
+  },
+  {
+   "bbox": [
+    500,
+    1788,
+    572,
+    1826
+   ],
+   "category": "Page-footer",
+   "text": "126"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 41,
+ "seconds": 26.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [765, 248, 1181, 292], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [523, 321, 789, 363], \"category\": \"Text\", \"text\": \"»Benägne Läsare.\"}, {\"bbox\": [453, 366, 1497, 1615], \"category\": \"Text\", \"text\": \"Antiquiteter och Historier att läsa hafwa alla Tijder så Konungar och Furstar älskat, som elliest alla wittra Menniskior, hwilka ett sundt Förnuft någon Tijd har kunnat underwijsa, huru liufligit och nödigt det är att af theras Skrifter såsom i en Spegel sine Förfäders Bedrifter beskåda och det effterföllia, som wijsliga och lyksamliga giordt är, men åter fly och undwijka det, som otillbörliga handlat och en olyckelig Uthgång tagit. Här uthaf är skiedt, att ifrån Werldenes Begynnelse och strax effter Syndafloden äro alle Konungars och förnäme Mäns Historier noga beskrifne och fullfölgde in till desse Tijder, Hwarföre och stora Kostnader äro af Konungar och Furstar anwände på dem, som kunnat Historier rätt beskrifwa och sådana gambla Handlingar upsökia, som till Förfädernes Ähra och Beröm länder. Exempel om detta äro kring hela Werlden otalige. Men hoos oss Swenske och Giöther hafwa slike Förfädernes Manlige Bedrifter mycket blifwit befordrade igenom wår aldranådigste Konung K. CARL den Ellfte, som i hela sin Regements-Tijd hafwer anlagt en stor Flijt, huruledes det Swenske och Göthiske Folckets namnkuninge Bedrifter kunde anten genom nya Böcker beskrifwas eller gambla beskrifne Historier uthaf förfarne Män upsökias och till Rijksens heder af Trycket uthgå, sparandes wår Nådigste Konung inga Medel att anwända på dem, som Hans Kongl. May:tt der till brukat hafwer, Hwar igenom är händt, att mycket flera Historier och Antiquiteter äre uthi denne wår Nådigste Konungs Tijd tryckte och till Tryck förfärdigade, än i många förriga Konungars Tijder skiedt, som nu döde äro. Och på thet allom må wara kunnigt, att thetta är sant talt, så låta wij nu den Lista, som för fem Åhr sedan trycktes, på nyo fullkomligare effter sine Åhr uthgå, hwar af wåra Förmän och andra Antiquitets Älskare må see, hwad här till är förfärdigat af Collegii Antiquitatum Assessorer och wij ännu i detta närwarandes och näst\"}, {\"bbox\": [457, 1621, 1498, 1776], \"category\": \"Text\", \"text\": \"parati, vel adhuc summa cura elaborantur ab Assessoribus Collegii Antiquitatum. Thet är En kort Upsatt på dhe Böcker som uthi Swenska Historien och Antiquiteterne uplagde äro uthi Wår aldranådigste Konungs Kon. Carls den Ellfftes Regementz Tijd, Eller nu äro färdige att uthgå; eller och dagelig under Händerne att förfärdigas af Collegii Antiquitatum Assessorer. Tryckt på Latin och Swenska, J Stockholm hoos Johan Georg Eberdt, Åhr 1690.\"}, {\"bbox\": [463, 1802, 512, 1839], \"category\": \"Page-footer\", \"text\": \"28\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    765,
+    248,
+    1181,
+    292
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    523,
+    321,
+    789,
+    363
+   ],
+   "category": "Text",
+   "text": "»Benägne Läsare."
+  },
+  {
+   "bbox": [
+    453,
+    366,
+    1497,
+    1615
+   ],
+   "category": "Text",
+   "text": "Antiquiteter och Historier att läsa hafwa alla Tijder så Konungar och Furstar älskat, som elliest alla wittra Menniskior, hwilka ett sundt Förnuft någon Tijd har kunnat underwijsa, huru liufligit och nödigt det är att af theras Skrifter såsom i en Spegel sine Förfäders Bedrifter beskåda och det effterföllia, som wijsliga och lyksamliga giordt är, men åter fly och undwijka det, som otillbörliga handlat och en olyckelig Uthgång tagit. Här uthaf är skiedt, att ifrån Werldenes Begynnelse och strax effter Syndafloden äro alle Konungars och förnäme Mäns Historier noga beskrifne och fullfölgde in till desse Tijder, Hwarföre och stora Kostnader äro af Konungar och Furstar anwände på dem, som kunnat Historier rätt beskrifwa och sådana gambla Handlingar upsökia, som till Förfädernes Ähra och Beröm länder. Exempel om detta äro kring hela Werlden otalige. Men hoos oss Swenske och Giöther hafwa slike Förfädernes Manlige Bedrifter mycket blifwit befordrade igenom wår aldranådigste Konung K. CARL den Ellfte, som i hela sin Regements-Tijd hafwer anlagt en stor Flijt, huruledes det Swenske och Göthiske Folckets namnkuninge Bedrifter kunde anten genom nya Böcker beskrifwas eller gambla beskrifne Historier uthaf förfarne Män upsökias och till Rijksens heder af Trycket uthgå, sparandes wår Nådigste Konung inga Medel att anwända på dem, som Hans Kongl. May:tt der till brukat hafwer, Hwar igenom är händt, att mycket flera Historier och Antiquiteter äre uthi denne wår Nådigste Konungs Tijd tryckte och till Tryck förfärdigade, än i många förriga Konungars Tijder skiedt, som nu döde äro. Och på thet allom må wara kunnigt, att thetta är sant talt, så låta wij nu den Lista, som för fem Åhr sedan trycktes, på nyo fullkomligare effter sine Åhr uthgå, hwar af wåra Förmän och andra Antiquitets Älskare må see, hwad här till är förfärdigat af Collegii Antiquitatum Assessorer och wij ännu i detta närwarandes och näst"
+  },
+  {
+   "bbox": [
+    457,
+    1621,
+    1498,
+    1776
+   ],
+   "category": "Text",
+   "text": "parati, vel adhuc summa cura elaborantur ab Assessoribus Collegii Antiquitatum. Thet är En kort Upsatt på dhe Böcker som uthi Swenska Historien och Antiquiteterne uplagde äro uthi Wår aldranådigste Konungs Kon. Carls den Ellfftes Regementz Tijd, Eller nu äro färdige att uthgå; eller och dagelig under Händerne att förfärdigas af Collegii Antiquitatum Assessorer. Tryckt på Latin och Swenska, J Stockholm hoos Johan Georg Eberdt, Åhr 1690."
+  },
+  {
+   "bbox": [
+    463,
+    1802,
+    512,
+    1839
+   ],
+   "category": "Page-footer",
+   "text": "28"
+  }
+ ]
+}

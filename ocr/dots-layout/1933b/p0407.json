@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 407,
+ "seconds": 26.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [822, 233, 1240, 278], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [502, 303, 1553, 389], \"category\": \"Text\", \"text\": \"vil läsat, uthan dät allenast hört, att Consistorium wil först hafva deras underskrift af Coll. antiquitatum».\"}, {\"bbox\": [502, 387, 1553, 511], \"category\": \"Text\", \"text\": \"Strax därefter skickade De la Gardie sitt förslag till svar på kollegiets brev, och som man kunnat vänta blev Rudbeck överförtjust (L. B. De la Gardies brevsamling, den 14 juni):\"}, {\"bbox\": [496, 511, 1553, 1760], \"category\": \"Text\", \"text\": \"»E. H. Excellens tackar iagh på dät ödmiukesta för den nådige communication af E. H. Ex. svar til Col. Antiqt. ok sosom iagh för så många bestelningar inthet hafver ännu kunnat opsättia dät iagh i mit senaste bref lofvade vidh handen gifva denna saak angående, likvel emedan E. H. Exellens Expre kommen är, vil iagh i hastighet giörat så mycket iagh kan ok fölia E. H. Excell. swar ok deras brefz förnemsta puncter åt i ordningh. 1) att hela Coll. Ant. intet wet där af, bekreftas där af att iagh den 12 junij råkade Presid. i Coll. H. Axelhielm ok frågade honom i Bondkiy[r]kie Caplans H. Anders närvaro om han wiste af dätt bref Coll. Antiqvitatis skrivit til Consistorium. Nej, svarade han, ok intet wil iagh wetta af deras bestelningar, ok mente han att en hinkande pest (post?) lär komma efter medh hela Collegij syslor, Hvar af iagh kunde hemta, att han nogot wiste af att en Commission motte vara satt för dess handteringar. 2) at iagh beskylles sosom den hoosz E. H. Excellens denigrerat Coll. Antiqc. eller nogon desz personer, där emot är E. G. Excell. för alla, som iagh framdraga kan, bästa witnet, ty först veet E. H. Excellens, huru iagh recommenderade Werel. S. til professionem Antiq. ok gaf förslagh på et lite Collegium här, recommenderade så H. Hadorphium där til medh, för dätt han sankat alla gamla recesser ok mera sådant, sedan att han motte resa til England ok der upsökia antiq[vi]teter., sedan Jean Pering til samma Collegium, Rugman saligh ok flera. H. Hadorfius weet, att iagh nyligen lät här utskiära 12 stycken runstenar, de han ville at han, Formsnidaren, skulle giöra för 2 d. stycket, men iagh moste gifva honom 48 d. på dätt H. Hadorfius skulle utryckeligen see mit hierta mot sigh ok antiq[vi]teterna ok H. Hadorfius gaf mig igen 24 d. E. H. Excell. hafver hört, att iagh altidh sökt, att Runstenarna skulle komma i liuset ok att iblandh dem finnas, som otroliga saker skola visa til Sveriges heder. E. H. Ex. påminner sigh ok, att när iagh intet\"}, {\"bbox\": [502, 1784, 576, 1830], \"category\": \"Page-footer\", \"text\": \"384\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    822,
+    233,
+    1240,
+    278
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    502,
+    303,
+    1553,
+    389
+   ],
+   "category": "Text",
+   "text": "vil läsat, uthan dät allenast hört, att Consistorium wil först hafva deras underskrift af Coll. antiquitatum»."
+  },
+  {
+   "bbox": [
+    502,
+    387,
+    1553,
+    511
+   ],
+   "category": "Text",
+   "text": "Strax därefter skickade De la Gardie sitt förslag till svar på kollegiets brev, och som man kunnat vänta blev Rudbeck överförtjust (L. B. De la Gardies brevsamling, den 14 juni):"
+  },
+  {
+   "bbox": [
+    496,
+    511,
+    1553,
+    1760
+   ],
+   "category": "Text",
+   "text": "»E. H. Excellens tackar iagh på dät ödmiukesta för den nådige communication af E. H. Ex. svar til Col. Antiqt. ok sosom iagh för så många bestelningar inthet hafver ännu kunnat opsättia dät iagh i mit senaste bref lofvade vidh handen gifva denna saak angående, likvel emedan E. H. Exellens Expre kommen är, vil iagh i hastighet giörat så mycket iagh kan ok fölia E. H. Excell. swar ok deras brefz förnemsta puncter åt i ordningh. 1) att hela Coll. Ant. intet wet där af, bekreftas där af att iagh den 12 junij råkade Presid. i Coll. H. Axelhielm ok frågade honom i Bondkiy[r]kie Caplans H. Anders närvaro om han wiste af dätt bref Coll. Antiqvitatis skrivit til Consistorium. Nej, svarade han, ok intet wil iagh wetta af deras bestelningar, ok mente han att en hinkande pest (post?) lär komma efter medh hela Collegij syslor, Hvar af iagh kunde hemta, att han nogot wiste af att en Commission motte vara satt för dess handteringar. 2) at iagh beskylles sosom den hoosz E. H. Excellens denigrerat Coll. Antiqc. eller nogon desz personer, där emot är E. G. Excell. för alla, som iagh framdraga kan, bästa witnet, ty först veet E. H. Excellens, huru iagh recommenderade Werel. S. til professionem Antiq. ok gaf förslagh på et lite Collegium här, recommenderade så H. Hadorphium där til medh, för dätt han sankat alla gamla recesser ok mera sådant, sedan att han motte resa til England ok der upsökia antiq[vi]teter., sedan Jean Pering til samma Collegium, Rugman saligh ok flera. H. Hadorfius weet, att iagh nyligen lät här utskiära 12 stycken runstenar, de han ville at han, Formsnidaren, skulle giöra för 2 d. stycket, men iagh moste gifva honom 48 d. på dätt H. Hadorfius skulle utryckeligen see mit hierta mot sigh ok antiq[vi]teterna ok H. Hadorfius gaf mig igen 24 d. E. H. Excell. hafver hört, att iagh altidh sökt, att Runstenarna skulle komma i liuset ok att iblandh dem finnas, som otroliga saker skola visa til Sveriges heder. E. H. Ex. påminner sigh ok, att när iagh intet"
+  },
+  {
+   "bbox": [
+    502,
+    1784,
+    576,
+    1830
+   ],
+   "category": "Page-footer",
+   "text": "384"
+  }
+ ]
+}

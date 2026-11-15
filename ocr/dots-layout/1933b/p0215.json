@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 215,
+ "seconds": 25.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [788, 231, 1206, 275], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [473, 301, 1519, 587], \"category\": \"Text\", \"text\": \"upsökte och antecknade, Dy will K. M. hafwa her medh befallat des Secreterare uthj samma Collegier sampt wederbörande utj Consistorio och Stockholms Stadh, att dhe tillijka med bem:te Hadorfio deras acta medh flijt jgenom löpa, excerperandes dhe Resolutioner och Stadgar, som till samma ända kunna wara tienliga och nyttige, dem sedan K. M. will, sedan dhe öfwersedde äro, till publicationen befordra och komma låta».\"}, {\"bbox\": [355, 596, 467, 658], \"category\": \"Text\", \"text\": \"Betänkligheter\"}, {\"bbox\": [465, 592, 1517, 1758], \"category\": \"Text\", \"text\": \"I vad mån vederbörande ställde sig denna anmaning till efterrättelse, är ej bekant, men emellertid fortsatte Hadorph sitt arbete. Under detta synes han dock i ett par viktiga fall hava blivit tveksam: för det första om den historiska synpunkt, han anlagt, icke skulle förefalla hinderlig för den praktiska användningen, för det andra om icke vissa äldre beslut på regeringshåll kunde anses rent av farliga att publicera. Dessa betänkligheter komma särskilt fram i en längre redogörelse för arbetet, som han inlämnade den 16 oktober 1672 (R. A. Handl. rörande Antikvitetskoll. I), där han bl. a. skriver: »Kan iag fuller nogsamt efftertänkia, att detta wärket lärer icke skattas af alla lijka fullkommeligit eller altförmycket tillgiort, serdeles efter iag under een titul flere resolutioner under ett måhl haf:r infört, 2:do kan skie och några resolverade måhl indraget, som för ringa och onödige synnas uthi ett sådant wärk infatta (såsom besynnerl. uthi någre Collegiorum resolutioner finnas), men så haf:r medh detta icke intentionen varit, att alla dhe skulle dragas till praxin forensem, utan att giöra ett richtigt utslag på alla dheras general resolutioner, att dhe sielfva måtte däraf hafva nytta och i hast vetta, hvad hoos dhem generaliter determinerat finnes, elliest kan och något finnas hoos dem, som domstolarne (utan Collegierna) nyttigt är, och haf:r iag altså heller velat peccera in excessu än defectu med detta, emedan det hoos E. Kongl. May:t ståår att igenom dhem, som till wärkets censur förordnas, anten optänkia något bättre sätt ett sådant värk att sammanfatta eller behålla af detta, hvad som behageligit finnes; iag må bekänna, att hvad det hade ståt uthi min villia, så hade iag behållit alla gambla och in till denna tijd fundamental rijksens stadgar, placater och ordningar och velat, att dhe effter Stockholms och Norkiöpingz beslut skulle alla blifva tryckte;\"}, {\"bbox\": [473, 1791, 544, 1830], \"category\": \"Page-footer\", \"text\": \"194\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    788,
+    231,
+    1206,
+    275
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    473,
+    301,
+    1519,
+    587
+   ],
+   "category": "Text",
+   "text": "upsökte och antecknade, Dy will K. M. hafwa her medh befallat des Secreterare uthj samma Collegier sampt wederbörande utj Consistorio och Stockholms Stadh, att dhe tillijka med bem:te Hadorfio deras acta medh flijt jgenom löpa, excerperandes dhe Resolutioner och Stadgar, som till samma ända kunna wara tienliga och nyttige, dem sedan K. M. will, sedan dhe öfwersedde äro, till publicationen befordra och komma låta»."
+  },
+  {
+   "bbox": [
+    355,
+    596,
+    467,
+    658
+   ],
+   "category": "Text",
+   "text": "Betänkligheter"
+  },
+  {
+   "bbox": [
+    465,
+    592,
+    1517,
+    1758
+   ],
+   "category": "Text",
+   "text": "I vad mån vederbörande ställde sig denna anmaning till efterrättelse, är ej bekant, men emellertid fortsatte Hadorph sitt arbete. Under detta synes han dock i ett par viktiga fall hava blivit tveksam: för det första om den historiska synpunkt, han anlagt, icke skulle förefalla hinderlig för den praktiska användningen, för det andra om icke vissa äldre beslut på regeringshåll kunde anses rent av farliga att publicera. Dessa betänkligheter komma särskilt fram i en längre redogörelse för arbetet, som han inlämnade den 16 oktober 1672 (R. A. Handl. rörande Antikvitetskoll. I), där han bl. a. skriver: »Kan iag fuller nogsamt efftertänkia, att detta wärket lärer icke skattas af alla lijka fullkommeligit eller altförmycket tillgiort, serdeles efter iag under een titul flere resolutioner under ett måhl haf:r infört, 2:do kan skie och några resolverade måhl indraget, som för ringa och onödige synnas uthi ett sådant wärk infatta (såsom besynnerl. uthi någre Collegiorum resolutioner finnas), men så haf:r medh detta icke intentionen varit, att alla dhe skulle dragas till praxin forensem, utan att giöra ett richtigt utslag på alla dheras general resolutioner, att dhe sielfva måtte däraf hafva nytta och i hast vetta, hvad hoos dhem generaliter determinerat finnes, elliest kan och något finnas hoos dem, som domstolarne (utan Collegierna) nyttigt är, och haf:r iag altså heller velat peccera in excessu än defectu med detta, emedan det hoos E. Kongl. May:t ståår att igenom dhem, som till wärkets censur förordnas, anten optänkia något bättre sätt ett sådant värk att sammanfatta eller behålla af detta, hvad som behageligit finnes; iag må bekänna, att hvad det hade ståt uthi min villia, så hade iag behållit alla gambla och in till denna tijd fundamental rijksens stadgar, placater och ordningar och velat, att dhe effter Stockholms och Norkiöpingz beslut skulle alla blifva tryckte;"
+  },
+  {
+   "bbox": [
+    473,
+    1791,
+    544,
+    1830
+   ],
+   "category": "Page-footer",
+   "text": "194"
+  }
+ ]
+}

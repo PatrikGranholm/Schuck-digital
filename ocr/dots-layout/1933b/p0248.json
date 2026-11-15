@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 248,
+ "seconds": 24.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [308, 500, 956, 539], \"category\": \"Section-header\", \"text\": \"SVENSKA MEDELTIDSSKRIFTER.\"}, {\"bbox\": [102, 601, 1156, 1769], \"category\": \"Text\", \"text\": \"Nära utgivandet av verkliga urkunder ligger utgivandet av historiska och andra arbeten från vår medeltid, och även här inlade antikvitetskollegiet stora förtjänster. Visserligen hade kollegiet här föregångare i Bureus och Messenius, men deras uppslag fullföljdes nu av Hadorph, Arrhenius och Schefferus. Vi vända oss först till Hadorph. Redan 1667 var han i full gång med flera dylika utgivningsarbeten och skrev då, den 19 november, till De la Gardie (R. A. Skrivelser till De la Gardie. Ser. C 1): »Hoos Ers höghGrefl. Excell. hade min ödmiukeste plicht fodrat, att iag förr i sommar eller höst hade bordt mig instella och afläggia någon berättelse, hwad iag har kunnat i åhr förrätta uthi Antiquiteterne, på dhet iag icke måtte finnas den, som Kongl. nåde och beneficio för desse studier onytteligen brukar. — — — Först hafwer iag efter Ers höghGrefl. Excell. förste behagh och godtfinnande reviderat och medh åtskillige Codicibus confererat dhe twenne gamble Chronica, som Johan Messenius till en deel 1615 och 1616 uplade, hwilka efter dhe ähre dhe endaste öfwerlefwor in historia Patriæ, som på swenska till oss ähra kompne af forna tijder, och dhe nyare historici mäst sin grund af dhem taga, ty desideras dhe af många menniskior, efter dhe äldre Messenij exemplaren alla ähre sin koos, hwarföre iag dhem medh varijs Lectionibus och indice förfärdigast hafwer; item Tomum secundum af Rim Chrönikan tillagdt, som Messenius aldrig hinte publicera. Till detta hafwer iag brukat sex mssta, nembl. 3:ne Archivi, Ett skiönt hr. Claas Rålambz, Ett Oxenstiernornes och ett, som hörer en bonde till. Sedan hafwer iag ärnat läggia någre andre gamble swenska scripta här till, såsom den gambla Schara Biskopars Rimchrönika, ett wackert scriptum, item S. Oluffz chrönika på Rim, K. Christierns Klippingz Chrönika, K. Valdemars Danmarkz\"}, {\"bbox\": [1164, 613, 1266, 674], \"category\": \"Text\", \"text\": \"Hadorphs editioner\"}, {\"bbox\": [1073, 1804, 1146, 1844], \"category\": \"Page-footer\", \"text\": \"227\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    308,
+    500,
+    956,
+    539
+   ],
+   "category": "Section-header",
+   "text": "SVENSKA MEDELTIDSSKRIFTER."
+  },
+  {
+   "bbox": [
+    102,
+    601,
+    1156,
+    1769
+   ],
+   "category": "Text",
+   "text": "Nära utgivandet av verkliga urkunder ligger utgivandet av historiska och andra arbeten från vår medeltid, och även här inlade antikvitetskollegiet stora förtjänster. Visserligen hade kollegiet här föregångare i Bureus och Messenius, men deras uppslag fullföljdes nu av Hadorph, Arrhenius och Schefferus. Vi vända oss först till Hadorph. Redan 1667 var han i full gång med flera dylika utgivningsarbeten och skrev då, den 19 november, till De la Gardie (R. A. Skrivelser till De la Gardie. Ser. C 1): »Hoos Ers höghGrefl. Excell. hade min ödmiukeste plicht fodrat, att iag förr i sommar eller höst hade bordt mig instella och afläggia någon berättelse, hwad iag har kunnat i åhr förrätta uthi Antiquiteterne, på dhet iag icke måtte finnas den, som Kongl. nåde och beneficio för desse studier onytteligen brukar. — — — Först hafwer iag efter Ers höghGrefl. Excell. förste behagh och godtfinnande reviderat och medh åtskillige Codicibus confererat dhe twenne gamble Chronica, som Johan Messenius till en deel 1615 och 1616 uplade, hwilka efter dhe ähre dhe endaste öfwerlefwor in historia Patriæ, som på swenska till oss ähra kompne af forna tijder, och dhe nyare historici mäst sin grund af dhem taga, ty desideras dhe af många menniskior, efter dhe äldre Messenij exemplaren alla ähre sin koos, hwarföre iag dhem medh varijs Lectionibus och indice förfärdigast hafwer; item Tomum secundum af Rim Chrönikan tillagdt, som Messenius aldrig hinte publicera. Till detta hafwer iag brukat sex mssta, nembl. 3:ne Archivi, Ett skiönt hr. Claas Rålambz, Ett Oxenstiernornes och ett, som hörer en bonde till. Sedan hafwer iag ärnat läggia någre andre gamble swenska scripta här till, såsom den gambla Schara Biskopars Rimchrönika, ett wackert scriptum, item S. Oluffz chrönika på Rim, K. Christierns Klippingz Chrönika, K. Valdemars Danmarkz"
+  },
+  {
+   "bbox": [
+    1164,
+    613,
+    1266,
+    674
+   ],
+   "category": "Text",
+   "text": "Hadorphs editioner"
+  },
+  {
+   "bbox": [
+    1073,
+    1804,
+    1146,
+    1844
+   ],
+   "category": "Page-footer",
+   "text": "227"
+  }
+ ]
+}

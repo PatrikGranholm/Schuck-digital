@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 169,
+ "seconds": 28.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [784, 248, 1199, 292], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [463, 318, 1512, 696], \"category\": \"Text\", \"text\": \"liggiande är, afsagd i Vpsala den 1 juni A:o 1672. Effter noga öfwerwägande finner Collegium billigt, att det här af Mons. Hartling nu inlefwererade arbete, alt tillhopa, till ett helt åhrs arbete swara kan, och således för ett helt åhrs lön, efftersom med honom contraherat är, beräknas och betalas, wälförståendes att det, som ännu i Cladden ofärdigt är, af honom renrijtas och fullbordas under samma åhrs lön, hwilket honom pålägges till nästkommande Michaelis tijdh att förfärdiga. Resepeningarne för i fiol bestås honom och så, efftersom dhe nödwändigt kunna pröfwas utlagde wara. Actum ut supra.\"}, {\"bbox\": [564, 711, 886, 786], \"category\": \"Text\", \"text\": \"Johannes Loccenius\\nAntiquitatum Collegii Præses\"}, {\"bbox\": [570, 795, 879, 831], \"category\": \"Text\", \"text\": \"Claudius Arrhenius\"}, {\"bbox\": [1158, 711, 1402, 755], \"category\": \"Text\", \"text\": \"Joh. Schefferus\"}, {\"bbox\": [1146, 795, 1413, 838], \"category\": \"Text\", \"text\": \"Magnus Celsius».\"}, {\"bbox\": [463, 859, 1512, 1399], \"category\": \"Text\", \"text\": \"Hos kansleren klagade Hartling, men Hadorph svarade: »Förnimmer jag, att Hartling hafwer supplicerat till Ers högGr. Excell. senast här i Upsala om sin åhrslöön för 1671. Men som han för 1670 århs lön intet fullgiorde, den han då fullkombl. bekom, ty nödgades iag låta om hans arbete i Collegio döma, och att det han här gjordt hafwer blef ährkendt för itt åhrs arbete, det han intet alt ännu fullbordat hafwer. Dherföre hafwer iag dhe 150 Dr. smt., som honom för löön åhr 1671 blifwa skulle, anwent efter Ers. högGr. Excell. godtfinnande på myntens afrijtande, som Ers högGrefl. Excell. wel lärer i nåde sig påminna. Dherföre har han efter lagen intet att fordra, uthan han efter detta arbetet skulle till mera brukas» (V. H. A. A. Antikvitetskoll. handl. VI, sid. 140. Den 4 mars 1673). Efter 1672 tyckes han icke ha varit i tjänst.\"}, {\"bbox\": [463, 1399, 1512, 1774], \"category\": \"Text\", \"text\": \"Detta år antog Hadorph i stället en annan ritare, Giert Friderich, som den 17 maj 1672 underskrev detta kontrakt (V. H. A. A. Lägre tjänstemän): »Bekänner jag mig Vndertächnad att hafwa föraccorderat med Secret. Johan Hadorphio att afrijta för Kongl. May:tt allehanda swenskt Mynt, som i Swerige fordom eller nu brukeligit är, för hwilket han hafwer mig lofwat i förstonne stycketals betala, efftersom Mynten äre af större eller mindre arbete. Nu emedan det skeer till Hs. K. M:ttz tienst, lofwar jag med denna min skrifft att wilja häruthinnan trogen och flitig ware och all ting i bästa måtton, som lijkast\"}, {\"bbox\": [325, 1406, 457, 1466], \"category\": \"Text\", \"text\": \"Giert Fride-\\nrich\"}, {\"bbox\": [468, 1802, 540, 1847], \"category\": \"Page-footer\", \"text\": \"148\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    784,
+    248,
+    1199,
+    292
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    463,
+    318,
+    1512,
+    696
+   ],
+   "category": "Text",
+   "text": "liggiande är, afsagd i Vpsala den 1 juni A:o 1672. Effter noga öfwerwägande finner Collegium billigt, att det här af Mons. Hartling nu inlefwererade arbete, alt tillhopa, till ett helt åhrs arbete swara kan, och således för ett helt åhrs lön, efftersom med honom contraherat är, beräknas och betalas, wälförståendes att det, som ännu i Cladden ofärdigt är, af honom renrijtas och fullbordas under samma åhrs lön, hwilket honom pålägges till nästkommande Michaelis tijdh att förfärdiga. Resepeningarne för i fiol bestås honom och så, efftersom dhe nödwändigt kunna pröfwas utlagde wara. Actum ut supra."
+  },
+  {
+   "bbox": [
+    564,
+    711,
+    886,
+    786
+   ],
+   "category": "Text",
+   "text": "Johannes Loccenius\nAntiquitatum Collegii Præses"
+  },
+  {
+   "bbox": [
+    570,
+    795,
+    879,
+    831
+   ],
+   "category": "Text",
+   "text": "Claudius Arrhenius"
+  },
+  {
+   "bbox": [
+    1158,
+    711,
+    1402,
+    755
+   ],
+   "category": "Text",
+   "text": "Joh. Schefferus"
+  },
+  {
+   "bbox": [
+    1146,
+    795,
+    1413,
+    838
+   ],
+   "category": "Text",
+   "text": "Magnus Celsius»."
+  },
+  {
+   "bbox": [
+    463,
+    859,
+    1512,
+    1399
+   ],
+   "category": "Text",
+   "text": "Hos kansleren klagade Hartling, men Hadorph svarade: »Förnimmer jag, att Hartling hafwer supplicerat till Ers högGr. Excell. senast här i Upsala om sin åhrslöön för 1671. Men som han för 1670 århs lön intet fullgiorde, den han då fullkombl. bekom, ty nödgades iag låta om hans arbete i Collegio döma, och att det han här gjordt hafwer blef ährkendt för itt åhrs arbete, det han intet alt ännu fullbordat hafwer. Dherföre hafwer iag dhe 150 Dr. smt., som honom för löön åhr 1671 blifwa skulle, anwent efter Ers. högGr. Excell. godtfinnande på myntens afrijtande, som Ers högGrefl. Excell. wel lärer i nåde sig påminna. Dherföre har han efter lagen intet att fordra, uthan han efter detta arbetet skulle till mera brukas» (V. H. A. A. Antikvitetskoll. handl. VI, sid. 140. Den 4 mars 1673). Efter 1672 tyckes han icke ha varit i tjänst."
+  },
+  {
+   "bbox": [
+    463,
+    1399,
+    1512,
+    1774
+   ],
+   "category": "Text",
+   "text": "Detta år antog Hadorph i stället en annan ritare, Giert Friderich, som den 17 maj 1672 underskrev detta kontrakt (V. H. A. A. Lägre tjänstemän): »Bekänner jag mig Vndertächnad att hafwa föraccorderat med Secret. Johan Hadorphio att afrijta för Kongl. May:tt allehanda swenskt Mynt, som i Swerige fordom eller nu brukeligit är, för hwilket han hafwer mig lofwat i förstonne stycketals betala, efftersom Mynten äre af större eller mindre arbete. Nu emedan det skeer till Hs. K. M:ttz tienst, lofwar jag med denna min skrifft att wilja häruthinnan trogen och flitig ware och all ting i bästa måtton, som lijkast"
+  },
+  {
+   "bbox": [
+    325,
+    1406,
+    457,
+    1466
+   ],
+   "category": "Text",
+   "text": "Giert Fride-\nrich"
+  },
+  {
+   "bbox": [
+    468,
+    1802,
+    540,
+    1847
+   ],
+   "category": "Page-footer",
+   "text": "148"
+  }
+ ]
+}

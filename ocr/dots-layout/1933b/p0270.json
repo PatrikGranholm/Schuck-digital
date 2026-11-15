@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 270,
+ "seconds": 24.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [410, 528, 890, 566], \"category\": \"Section-header\", \"text\": \"HISTORISKA SKRIFTER.\"}, {\"bbox\": [117, 641, 1173, 1641], \"category\": \"Text\", \"text\": \"Som man märkt, var det endast urkunder från vår medeltid, som insamlats av antikvitetskollegiet. Tiden från och med Gustav Vasa ansågs ligga utanför dess verksamhetsområde. Samma synpunkt gällde även för bearbetningen av detta material, och i 1667 års instruktion nämnes intet om något, som kunde sägas hava avseende på »historia moderna». Kollegiet var en antikvitetsakademi och hade såsom sådan blott att syssla med forntid och medeltid. För historia moderna hade man däremot rikshistoriograferna, vilka ända från 1640-talet stodo på kansliets stat sida vid sida om antikvarierna och som utarbetat olika partier av Sveriges historia från Gustav Vasa. Av Tegel, som visserligen ej var historiograf, men som hade ett i sak lika offentligt uppdrag, hade man Gustav Vasas och Erik XIV:s krönikor, av Ægidius Girs, som var »historicus regni», Gustav Vasas, Erik XIV:s och Johan III:s krönikor, historiografen Bogislav Philipp von Chemnitz hade skrivit det trettioåriga krigets historia, historiografen Arnold Johan Messenius Sigismunds och Karl IX:s, historiografen Johannes Vidikindi Gustav Adolfs, historiografen Boeclerus det danska krigets, och historiografen Pufendorf hade fått i uppdrag att skriva Karl Gustavs. Den sistnämnde tillhörde visserligen antikvitetskollegiet, men ser man på hans utnämningsbrev (förut II sid. 79), finner man lätt, att assessorsplatsen tillagts honom endast såsom en löneförbättring. Det samma gäller Wester och Werving, och av diskussionen vid kollegiets omorganisation framgår, att de icke egentligen såsom forskare ansågos tillhöra detta.\"}, {\"bbox\": [117, 1638, 1166, 1765], \"category\": \"Text\", \"text\": \"De antiquitates, med vilka kollegiet skulle syssla, voro av olika slag. En grupp var den, som då kallades »antiquitates externæ», d. v. s. de utländska göternas historia. Denna hade redan förut\"}, {\"bbox\": [1175, 653, 1331, 715], \"category\": \"Text\", \"text\": \"Historiografernas arbeten\"}, {\"bbox\": [1175, 1651, 1305, 1709], \"category\": \"Text\", \"text\": \"Antiquitates externæ\"}, {\"bbox\": [1088, 1804, 1161, 1843], \"category\": \"Page-footer\", \"text\": \"249\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    410,
+    528,
+    890,
+    566
+   ],
+   "category": "Section-header",
+   "text": "HISTORISKA SKRIFTER."
+  },
+  {
+   "bbox": [
+    117,
+    641,
+    1173,
+    1641
+   ],
+   "category": "Text",
+   "text": "Som man märkt, var det endast urkunder från vår medeltid, som insamlats av antikvitetskollegiet. Tiden från och med Gustav Vasa ansågs ligga utanför dess verksamhetsområde. Samma synpunkt gällde även för bearbetningen av detta material, och i 1667 års instruktion nämnes intet om något, som kunde sägas hava avseende på »historia moderna». Kollegiet var en antikvitetsakademi och hade såsom sådan blott att syssla med forntid och medeltid. För historia moderna hade man däremot rikshistoriograferna, vilka ända från 1640-talet stodo på kansliets stat sida vid sida om antikvarierna och som utarbetat olika partier av Sveriges historia från Gustav Vasa. Av Tegel, som visserligen ej var historiograf, men som hade ett i sak lika offentligt uppdrag, hade man Gustav Vasas och Erik XIV:s krönikor, av Ægidius Girs, som var »historicus regni», Gustav Vasas, Erik XIV:s och Johan III:s krönikor, historiografen Bogislav Philipp von Chemnitz hade skrivit det trettioåriga krigets historia, historiografen Arnold Johan Messenius Sigismunds och Karl IX:s, historiografen Johannes Vidikindi Gustav Adolfs, historiografen Boeclerus det danska krigets, och historiografen Pufendorf hade fått i uppdrag att skriva Karl Gustavs. Den sistnämnde tillhörde visserligen antikvitetskollegiet, men ser man på hans utnämningsbrev (förut II sid. 79), finner man lätt, att assessorsplatsen tillagts honom endast såsom en löneförbättring. Det samma gäller Wester och Werving, och av diskussionen vid kollegiets omorganisation framgår, att de icke egentligen såsom forskare ansågos tillhöra detta."
+  },
+  {
+   "bbox": [
+    117,
+    1638,
+    1166,
+    1765
+   ],
+   "category": "Text",
+   "text": "De antiquitates, med vilka kollegiet skulle syssla, voro av olika slag. En grupp var den, som då kallades »antiquitates externæ», d. v. s. de utländska göternas historia. Denna hade redan förut"
+  },
+  {
+   "bbox": [
+    1175,
+    653,
+    1331,
+    715
+   ],
+   "category": "Text",
+   "text": "Historiografernas arbeten"
+  },
+  {
+   "bbox": [
+    1175,
+    1651,
+    1305,
+    1709
+   ],
+   "category": "Text",
+   "text": "Antiquitates externæ"
+  },
+  {
+   "bbox": [
+    1088,
+    1804,
+    1161,
+    1843
+   ],
+   "category": "Page-footer",
+   "text": "249"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 254,
+ "seconds": 26.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [422, 248, 901, 293], \"category\": \"Page-header\", \"text\": \"Svenska Medeltidsskrifter\"}, {\"bbox\": [128, 317, 1184, 1612], \"category\": \"Text\", \"text\": \"skrift, som Hadorph kallar Regius I, är den nuvarande D 2 eller Spegelbergs bok, som innehåller en relativt god avskrift av Erikskrönikan och en yngre av Karlskrönikan, den senare från omkring 1520. Det är samma bok, som Hadorph i sitt brev till De la Gardie den 19 november 1667 kallat Oxenstiernornes, och på handskriften har han antecknat: »Thenne Book hafwer Hans Excell. Grefwe Johan Oxenstierna skenckt till Archivum».¹ Med Regius II avser Hadorph D 3, som tillhört Messenius. Den innehåller blott Erikskrönikan och betecknas av Klemming såsom en särskilt dålig avskrift. Hadorphs Regius III är D 5, som också tillhört Messenius, och den innehåller såväl Erikskrönikan och Karlskrönikan som dess tre fortsättningar. Till grund för sin edition lade Hadorph liksom förut Messenius D 5. Men då Messenius blott hunnit utgiva Erikskrönikan och en del av Karlskrönikan (till 1439), har jag — skriver Hadorph — »i thenna Edition tillagt af Reg. 3 den andre delen aff Rijm Krönikan, som Messenius icke hinte för sin dödh vthgå låta. Och emedan iagh icke haar kunnat bruka den förre editionen at publicera thenne effter, emedan ther i mång feel befunnes, haar iagh måst låta samma Cod. Regium, som Messenius brukat hafwer, ånyo affskrifwa och then bruka för then förnämste, effter then (som ofwan berördt är) mäst fullkomligh befanns, ty then begynner, ther alle andre begynna, och går icke allenast så långt som the, vthan och ther alle stanna, nembl., pag. 442, continuerar han Historien in til pag. 555, som war åhret 1496. The andra fyra Codices [utom Bureanus], som äldre ära, hafwer iagh med thenna Cod. Reg. 3 confererat, taget ther aff warias lectiones, mångestädz vpfylt och tillagt hela Meningar och Raderne bortåth, hwarest thenne haar defect waret, som brede widh Texten klarliga skal igenfinnas». Hadorphs synpunkt vid val av huvudkodex var ej den moderne textutgivarens, och till grund för sin upplaga lade han en yngre handskrift från 1500-talets början, emedan denna var fullständigare än\"}, {\"bbox\": [128, 1623, 1174, 1779], \"category\": \"Footnote\", \"text\": \"¹ I samma brev [se förut sid. 227] omtalar han ett manuskript, som tillhört en bonde. Antingen är detta detsamma, som han sedan kallar Sten Bielkes och som denne i så fall köpt av bonden, eller ock är detta förkommet. Då han i brevet säger sig ha begagnat både tre handskrifter i arkivet och Oxenstiernas, men i företalet, som skrevs sedan Oxenstiernas manuskript skänkts till arkivet, fortfarande blott talar om tre arkivexemplar, står man här onekligen inför en motsägelse.\"}, {\"bbox\": [1098, 1815, 1167, 1854], \"category\": \"Page-footer\", \"text\": \"233\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    422,
+    248,
+    901,
+    293
+   ],
+   "category": "Page-header",
+   "text": "Svenska Medeltidsskrifter"
+  },
+  {
+   "bbox": [
+    128,
+    317,
+    1184,
+    1612
+   ],
+   "category": "Text",
+   "text": "skrift, som Hadorph kallar Regius I, är den nuvarande D 2 eller Spegelbergs bok, som innehåller en relativt god avskrift av Erikskrönikan och en yngre av Karlskrönikan, den senare från omkring 1520. Det är samma bok, som Hadorph i sitt brev till De la Gardie den 19 november 1667 kallat Oxenstiernornes, och på handskriften har han antecknat: »Thenne Book hafwer Hans Excell. Grefwe Johan Oxenstierna skenckt till Archivum».¹ Med Regius II avser Hadorph D 3, som tillhört Messenius. Den innehåller blott Erikskrönikan och betecknas av Klemming såsom en särskilt dålig avskrift. Hadorphs Regius III är D 5, som också tillhört Messenius, och den innehåller såväl Erikskrönikan och Karlskrönikan som dess tre fortsättningar. Till grund för sin edition lade Hadorph liksom förut Messenius D 5. Men då Messenius blott hunnit utgiva Erikskrönikan och en del av Karlskrönikan (till 1439), har jag — skriver Hadorph — »i thenna Edition tillagt af Reg. 3 den andre delen aff Rijm Krönikan, som Messenius icke hinte för sin dödh vthgå låta. Och emedan iagh icke haar kunnat bruka den förre editionen at publicera thenne effter, emedan ther i mång feel befunnes, haar iagh måst låta samma Cod. Regium, som Messenius brukat hafwer, ånyo affskrifwa och then bruka för then förnämste, effter then (som ofwan berördt är) mäst fullkomligh befanns, ty then begynner, ther alle andre begynna, och går icke allenast så långt som the, vthan och ther alle stanna, nembl., pag. 442, continuerar han Historien in til pag. 555, som war åhret 1496. The andra fyra Codices [utom Bureanus], som äldre ära, hafwer iagh med thenna Cod. Reg. 3 confererat, taget ther aff warias lectiones, mångestädz vpfylt och tillagt hela Meningar och Raderne bortåth, hwarest thenne haar defect waret, som brede widh Texten klarliga skal igenfinnas». Hadorphs synpunkt vid val av huvudkodex var ej den moderne textutgivarens, och till grund för sin upplaga lade han en yngre handskrift från 1500-talets början, emedan denna var fullständigare än"
+  },
+  {
+   "bbox": [
+    128,
+    1623,
+    1174,
+    1779
+   ],
+   "category": "Footnote",
+   "text": "¹ I samma brev [se förut sid. 227] omtalar han ett manuskript, som tillhört en bonde. Antingen är detta detsamma, som han sedan kallar Sten Bielkes och som denne i så fall köpt av bonden, eller ock är detta förkommet. Då han i brevet säger sig ha begagnat både tre handskrifter i arkivet och Oxenstiernas, men i företalet, som skrevs sedan Oxenstiernas manuskript skänkts till arkivet, fortfarande blott talar om tre arkivexemplar, står man här onekligen inför en motsägelse."
+  },
+  {
+   "bbox": [
+    1098,
+    1815,
+    1167,
+    1854
+   ],
+   "category": "Page-footer",
+   "text": "233"
+  }
+ ]
+}

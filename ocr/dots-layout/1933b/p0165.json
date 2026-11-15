@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 165,
+ "seconds": 26.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [762, 256, 1181, 300], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [446, 326, 1494, 951], \"category\": \"Text\", \"text\": \"avteckna runstenar. Då själva avteckningarna till den väsentligaste delen berodde på de ritare, som följde med Hadorph på hans resor, torde här vara platsen att redogöra för dessa lägre tjänstemäns verksamhet inom kollegiet. Den förnämsta källan — utom deras bevarade arbeten — till vår kännedom härom är en Förteckning på Ritares, Kopparstickares och formsnidares arbete wid Kongl. Antiquitets Archivum uthi framledne Secreterarens Hr. J. Hadorphii tijd förfärdigat och qwarlemnat (V. H. A. A. Antikvitetskoll. Lägre tjänstemän). Den är uppsatt den 6 maj 1695 och undertecknad av de tre assessorerna Johan Peringer, Jonas Werving och Elias Brenner, men den är icke fullständig, och andra upplysningar kunna hämtas ur kollegiets räkenskapsböcker, ur staterna, Uppsala universitets stipendielistor samt ur Hadorphs brev. Detta material har redan med stor samvetsgrannhet bearbetats av Erik Vennberg i Johan Hadorphs resor (1917).\"}, {\"bbox\": [442, 950, 1492, 1781], \"category\": \"Text\", \"text\": \"Den tidigaste, redan 1667, antagne ritaren, Staphan Boman, som egentligen var lantmätare, »hafwer inthet särdeles arbete effterlemnat, emedan han allenast en kort tijd härwid upwachtade». Enligt Vennberg gjorde han då en uppmätning och en plan av Uppsala domkyrka. Han återgick emellertid redan 1668 till sitt förra yrke, lantmäteriet, och i hans ställe antogs, på våren 1668, studenten Elias Brenner, som var en verkligt betydande konstnär, vilken företrädesvis användes till avbildningar av gravmonument. En fullständig lista på de arbeten, han såsom kollegiets ritare utfört, finnes av honom själv uppsatt: »En Kårt förtekningh angående det arbete, som Elias Brenner ifrån åhr 1668, då Collegium Antiquitatum i Upsala först blef inrättat, in till åhr 1673 effter berörde Collegii ordres sosom en antiquitatum Studiosus uthi rijtande förfärdigat. A:o 1668. 1) Dess första arbete wedh be:te Collegii tienst var S. Erics tafla öfver dess graf i Upsala domkyrka medh dess egentel. färgor, hwaruthi berörde Konungz färnämbste actioner så väl en relief som målningar uthi åttskillige fördelningar finnas afsatte. 2) Äre af honom åtskillige gamble graf och Runestenar i Upsala afrijtade så wäl inn som uthom domkyrkan belägne, ibland huilka är förnämligast Byrie Persons, S. Birgittæ faders, no-\"}, {\"bbox\": [323, 953, 439, 1012], \"category\": \"Text\", \"text\": \"Boman och Brenner\"}, {\"bbox\": [447, 1816, 520, 1853], \"category\": \"Page-footer\", \"text\": \"144\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    762,
+    256,
+    1181,
+    300
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    446,
+    326,
+    1494,
+    951
+   ],
+   "category": "Text",
+   "text": "avteckna runstenar. Då själva avteckningarna till den väsentligaste delen berodde på de ritare, som följde med Hadorph på hans resor, torde här vara platsen att redogöra för dessa lägre tjänstemäns verksamhet inom kollegiet. Den förnämsta källan — utom deras bevarade arbeten — till vår kännedom härom är en Förteckning på Ritares, Kopparstickares och formsnidares arbete wid Kongl. Antiquitets Archivum uthi framledne Secreterarens Hr. J. Hadorphii tijd förfärdigat och qwarlemnat (V. H. A. A. Antikvitetskoll. Lägre tjänstemän). Den är uppsatt den 6 maj 1695 och undertecknad av de tre assessorerna Johan Peringer, Jonas Werving och Elias Brenner, men den är icke fullständig, och andra upplysningar kunna hämtas ur kollegiets räkenskapsböcker, ur staterna, Uppsala universitets stipendielistor samt ur Hadorphs brev. Detta material har redan med stor samvetsgrannhet bearbetats av Erik Vennberg i Johan Hadorphs resor (1917)."
+  },
+  {
+   "bbox": [
+    442,
+    950,
+    1492,
+    1781
+   ],
+   "category": "Text",
+   "text": "Den tidigaste, redan 1667, antagne ritaren, Staphan Boman, som egentligen var lantmätare, »hafwer inthet särdeles arbete effterlemnat, emedan han allenast en kort tijd härwid upwachtade». Enligt Vennberg gjorde han då en uppmätning och en plan av Uppsala domkyrka. Han återgick emellertid redan 1668 till sitt förra yrke, lantmäteriet, och i hans ställe antogs, på våren 1668, studenten Elias Brenner, som var en verkligt betydande konstnär, vilken företrädesvis användes till avbildningar av gravmonument. En fullständig lista på de arbeten, han såsom kollegiets ritare utfört, finnes av honom själv uppsatt: »En Kårt förtekningh angående det arbete, som Elias Brenner ifrån åhr 1668, då Collegium Antiquitatum i Upsala först blef inrättat, in till åhr 1673 effter berörde Collegii ordres sosom en antiquitatum Studiosus uthi rijtande förfärdigat. A:o 1668. 1) Dess första arbete wedh be:te Collegii tienst var S. Erics tafla öfver dess graf i Upsala domkyrka medh dess egentel. färgor, hwaruthi berörde Konungz färnämbste actioner så väl en relief som målningar uthi åttskillige fördelningar finnas afsatte. 2) Äre af honom åtskillige gamble graf och Runestenar i Upsala afrijtade så wäl inn som uthom domkyrkan belägne, ibland huilka är förnämligast Byrie Persons, S. Birgittæ faders, no-"
+  },
+  {
+   "bbox": [
+    323,
+    953,
+    439,
+    1012
+   ],
+   "category": "Text",
+   "text": "Boman och Brenner"
+  },
+  {
+   "bbox": [
+    447,
+    1816,
+    520,
+    1853
+   ],
+   "category": "Page-footer",
+   "text": "144"
+  }
+ ]
+}

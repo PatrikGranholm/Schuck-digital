@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 68,
+ "seconds": 27.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [428, 247, 821, 292], \"category\": \"Section-header\", \"text\": \"De götiska skrifterna\"}, {\"bbox\": [103, 318, 1143, 440], \"category\": \"Text\", \"text\": \"Tyvärr hade Hadorph varit nog oförsiktig att även trycka ett plakat om sina litterära arbeten, vilket plakat han bifogade brevet till Oxenstierna:\"}, {\"bbox\": [103, 447, 1143, 576], \"category\": \"Text\", \"text\": \"»Förteckning uppå någre Wärck, som Johan Johanson Hadorph, för detta Actuarius Collegii Antiquitatum, uthom desz Embetes Plicht deels förfärdigat, dels företagit at beskrifwa.\"}, {\"bbox\": [606, 615, 635, 651], \"category\": \"Section-header\", \"text\": \"I.\"}, {\"bbox\": [103, 673, 1147, 1382], \"category\": \"Text\", \"text\": \"Wilchina Sagan så kallat af Philmer hin Mykle, Swea Konung, hafwer han å nyo uthtolckat på wårt nu brukeliga Språk, hwilken innehåller [Svea konungars bedrifter m. m.], som Ericus Olai och lilla gambla Rim Krönikan först införa, men af dhe sedermehra Scribenter utheslutna [— — —]. Denne Saga är nu myckit rätt och fullkomlig till gambla Språket afskrifwen, först af ett mycket åldrigt Exemplar på Pergament, som här i Kongl. Archivum någre hundrade Åhr har legat förwarat, men mycket Defect, doch nu af ett annat jämnåldrigt Exemplar tillökt, Nembl. Företalet och 18 Capitel i Begynnelsen, Sedan på ett annat ställe 13 cap. Detta Archivi Exemplar är wäl till den lättaste Giötiskan verterat af gamla Antiquarien Johan Buræo, men gambla Språket aldeles orätt afskrifwit i det Exemplar, som hijt lefwererat är. Men nu af bägge Manuscripterne rätt afskrifwit, så ock Företalet med dhe tillökte Capitel verterade på wårt nu öfwelige Språk, tillijka med 47 cap., som woro i gamla Exemplaret lemnade uthan version, effter dhe swårast woro i hela Wilchina Sagan, hwilket af bägge Exemplaren kan finnas».\"}, {\"bbox\": [109, 1380, 1149, 1632], \"category\": \"Text\", \"text\": \"I det följande redogör han utförligt för ett stort verk i 38 kapitel, Scandia Antiqua, som han planlagt och delvis fullbordat.¹ Som man märker, hade han på tal om Wilkinasagan tillåtit sig ett klander av Johan Bureus, och av detta begagnade sig hans fiender. Förhållandet mellan Rudbeck och antikvitetskollegiet hade nästan redan från början varit fientligt, och nu synes Rudbeck hava gaddat\"}, {\"bbox\": [110, 1651, 1149, 1777], \"category\": \"Footnote\", \"text\": \"¹ Plakatet tyckes även ha haft en viss verkan. Genom ett kungabrev den 13 juli 1693 fick den unge Hadorph ett gratiale av 300 dr smt (d. v. s. en gammal assessorslön), »på det han så mycket bettre må kunna hafwa dess subsistance wid de skrifter och handlingars förfärdigande, som han uti wårt Antiquitetz Archivo under händer har att utarbeta».\"}, {\"bbox\": [1101, 1807, 1145, 1846], \"category\": \"Page-footer\", \"text\": \"55\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    428,
+    247,
+    821,
+    292
+   ],
+   "category": "Section-header",
+   "text": "De götiska skrifterna"
+  },
+  {
+   "bbox": [
+    103,
+    318,
+    1143,
+    440
+   ],
+   "category": "Text",
+   "text": "Tyvärr hade Hadorph varit nog oförsiktig att även trycka ett plakat om sina litterära arbeten, vilket plakat han bifogade brevet till Oxenstierna:"
+  },
+  {
+   "bbox": [
+    103,
+    447,
+    1143,
+    576
+   ],
+   "category": "Text",
+   "text": "»Förteckning uppå någre Wärck, som Johan Johanson Hadorph, för detta Actuarius Collegii Antiquitatum, uthom desz Embetes Plicht deels förfärdigat, dels företagit at beskrifwa."
+  },
+  {
+   "bbox": [
+    606,
+    615,
+    635,
+    651
+   ],
+   "category": "Section-header",
+   "text": "I."
+  },
+  {
+   "bbox": [
+    103,
+    673,
+    1147,
+    1382
+   ],
+   "category": "Text",
+   "text": "Wilchina Sagan så kallat af Philmer hin Mykle, Swea Konung, hafwer han å nyo uthtolckat på wårt nu brukeliga Språk, hwilken innehåller [Svea konungars bedrifter m. m.], som Ericus Olai och lilla gambla Rim Krönikan först införa, men af dhe sedermehra Scribenter utheslutna [— — —]. Denne Saga är nu myckit rätt och fullkomlig till gambla Språket afskrifwen, först af ett mycket åldrigt Exemplar på Pergament, som här i Kongl. Archivum någre hundrade Åhr har legat förwarat, men mycket Defect, doch nu af ett annat jämnåldrigt Exemplar tillökt, Nembl. Företalet och 18 Capitel i Begynnelsen, Sedan på ett annat ställe 13 cap. Detta Archivi Exemplar är wäl till den lättaste Giötiskan verterat af gamla Antiquarien Johan Buræo, men gambla Språket aldeles orätt afskrifwit i det Exemplar, som hijt lefwererat är. Men nu af bägge Manuscripterne rätt afskrifwit, så ock Företalet med dhe tillökte Capitel verterade på wårt nu öfwelige Språk, tillijka med 47 cap., som woro i gamla Exemplaret lemnade uthan version, effter dhe swårast woro i hela Wilchina Sagan, hwilket af bägge Exemplaren kan finnas»."
+  },
+  {
+   "bbox": [
+    109,
+    1380,
+    1149,
+    1632
+   ],
+   "category": "Text",
+   "text": "I det följande redogör han utförligt för ett stort verk i 38 kapitel, Scandia Antiqua, som han planlagt och delvis fullbordat.¹ Som man märker, hade han på tal om Wilkinasagan tillåtit sig ett klander av Johan Bureus, och av detta begagnade sig hans fiender. Förhållandet mellan Rudbeck och antikvitetskollegiet hade nästan redan från början varit fientligt, och nu synes Rudbeck hava gaddat"
+  },
+  {
+   "bbox": [
+    110,
+    1651,
+    1149,
+    1777
+   ],
+   "category": "Footnote",
+   "text": "¹ Plakatet tyckes även ha haft en viss verkan. Genom ett kungabrev den 13 juli 1693 fick den unge Hadorph ett gratiale av 300 dr smt (d. v. s. en gammal assessorslön), »på det han så mycket bettre må kunna hafwa dess subsistance wid de skrifter och handlingars förfärdigande, som han uti wårt Antiquitetz Archivo under händer har att utarbeta»."
+  },
+  {
+   "bbox": [
+    1101,
+    1807,
+    1145,
+    1846
+   ],
+   "category": "Page-footer",
+   "text": "55"
+  }
+ ]
+}

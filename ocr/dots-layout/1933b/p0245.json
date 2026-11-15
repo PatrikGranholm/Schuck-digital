@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 245,
+ "seconds": 25.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [778, 238, 1199, 282], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [465, 308, 1514, 645], \"category\": \"Text\", \"text\": \"jämpnföra, at the til ord och stafwlser rätta woro, och sedan i thet skick effter åhr och dag stälte, att thesse vthan feel til Trycket komma måtte. 8) Hafwer iagh stor orsak at berömma then Hederlige Mannen och Archivi gambla Secreteraren Her Erik Runell, som thessa Documenter så trolig hafwer vthi Kongl. Archivo vpsökt, til godh ordning fördt och mig communicerat; ther aff mitt vpsåt så merkeligen är styrkt och befrämiat, at iagh icke vthan hans troo och flijtighet hade kunnat them til then ymnoghet bekomma».\"}, {\"bbox\": [465, 643, 1514, 1723], \"category\": \"Text\", \"text\": \"Denna publikation, som utgavs med privilegium och med Kungl. Maj:ts »nådige behag och kostnadt», är vår första tryckta större urkundssamling och innehåller över tvåhundra medeltidsbrev, det första från 1308, det sista från 1523, samt avslutas med ett person- och ortregister. Denna samling — skriver Emil Hildebrand — »är i mer än ett hänseende märklig. Först och främst var den, såsom redan nämnts, den första i sitt slag. Den sammanhölls vidare av en viss enhet i planen och meddelade aktstycken av verkligt historiskt intresse; slutligen var den till en stor del grundad på original uti Riksarkivet, original, som till det mesta gått förlorade vid den stora slottsbranden 1697. Sistnämnda förhållande gör, att för vissa akter lämna Hadorphs avtryck om icke den enda, åtminstone den bästa texten, och han har på detta sätt bokstavligen räddat dem undan eld och förstöring. Dessa omständigheter göra, att man blir något mildare i den kritik, man eljest kunde vilja fälla över samlingen ur diplomatisk och historisk synpunkt, ty anmärkningar saknas ingalunda. Det synes sålunda ha varit detta tidevarv hart när omöjligt att fullt exakt avskriva och avtrycka en äldre handling. Redan förmågan att tolka enskilda ord svek rätt ofta, och för övrigt smögo sig det den tiden talade språkets former oupphörligt in i stället för det gamla. Diplomatiken låg ännu uti sin linda i Sverige. — — — Bristerna äro sålunda stora nog, men det skulle dröja nära 200 år, innan man på allvar ånyo grep sig an med ett dylikt företag för medeltidshistorien, fortsättande på den väg, som Hadorph först hade öppnat, och samlingen har ännu ej till fullo blivit ersatt av någon annan».\"}, {\"bbox\": [503, 1723, 1514, 1766], \"category\": \"Text\", \"text\": \"Detta var Hadorphs första urkundspublikation. Den andra sam-\"}, {\"bbox\": [472, 1801, 545, 1839], \"category\": \"Page-footer\", \"text\": \"224\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    778,
+    238,
+    1199,
+    282
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    465,
+    308,
+    1514,
+    645
+   ],
+   "category": "Text",
+   "text": "jämpnföra, at the til ord och stafwlser rätta woro, och sedan i thet skick effter åhr och dag stälte, att thesse vthan feel til Trycket komma måtte. 8) Hafwer iagh stor orsak at berömma then Hederlige Mannen och Archivi gambla Secreteraren Her Erik Runell, som thessa Documenter så trolig hafwer vthi Kongl. Archivo vpsökt, til godh ordning fördt och mig communicerat; ther aff mitt vpsåt så merkeligen är styrkt och befrämiat, at iagh icke vthan hans troo och flijtighet hade kunnat them til then ymnoghet bekomma»."
+  },
+  {
+   "bbox": [
+    465,
+    643,
+    1514,
+    1723
+   ],
+   "category": "Text",
+   "text": "Denna publikation, som utgavs med privilegium och med Kungl. Maj:ts »nådige behag och kostnadt», är vår första tryckta större urkundssamling och innehåller över tvåhundra medeltidsbrev, det första från 1308, det sista från 1523, samt avslutas med ett person- och ortregister. Denna samling — skriver Emil Hildebrand — »är i mer än ett hänseende märklig. Först och främst var den, såsom redan nämnts, den första i sitt slag. Den sammanhölls vidare av en viss enhet i planen och meddelade aktstycken av verkligt historiskt intresse; slutligen var den till en stor del grundad på original uti Riksarkivet, original, som till det mesta gått förlorade vid den stora slottsbranden 1697. Sistnämnda förhållande gör, att för vissa akter lämna Hadorphs avtryck om icke den enda, åtminstone den bästa texten, och han har på detta sätt bokstavligen räddat dem undan eld och förstöring. Dessa omständigheter göra, att man blir något mildare i den kritik, man eljest kunde vilja fälla över samlingen ur diplomatisk och historisk synpunkt, ty anmärkningar saknas ingalunda. Det synes sålunda ha varit detta tidevarv hart när omöjligt att fullt exakt avskriva och avtrycka en äldre handling. Redan förmågan att tolka enskilda ord svek rätt ofta, och för övrigt smögo sig det den tiden talade språkets former oupphörligt in i stället för det gamla. Diplomatiken låg ännu uti sin linda i Sverige. — — — Bristerna äro sålunda stora nog, men det skulle dröja nära 200 år, innan man på allvar ånyo grep sig an med ett dylikt företag för medeltidshistorien, fortsättande på den väg, som Hadorph först hade öppnat, och samlingen har ännu ej till fullo blivit ersatt av någon annan»."
+  },
+  {
+   "bbox": [
+    503,
+    1723,
+    1514,
+    1766
+   ],
+   "category": "Text",
+   "text": "Detta var Hadorphs första urkundspublikation. Den andra sam-"
+  },
+  {
+   "bbox": [
+    472,
+    1801,
+    545,
+    1839
+   ],
+   "category": "Page-footer",
+   "text": "224"
+  }
+ ]
+}

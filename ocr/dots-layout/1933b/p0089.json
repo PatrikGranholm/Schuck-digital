@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 89,
+ "seconds": 28.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [810, 251, 1224, 293], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [498, 322, 1525, 489], \"category\": \"Text\", \"text\": \"mindre däremot sagorna. De flesta, han medfört, avstod han till Reenhielm, med vilken han tyckes ha blivit särskilt god vän; då Reenhielm 1669 gifte sig med Anna Böllja, hyllades han av Rugman med ett bröllopskväde (Samlaren 1927).\"}, {\"bbox\": [345, 492, 491, 527], \"category\": \"Text\", \"text\": \"Porsteins saga\"}, {\"bbox\": [498, 488, 1529, 1610], \"category\": \"Text\", \"text\": \"1666 skänkte denne honom handskriften R 716 i U. B., som bl. a.¹ innehöll þorsteinssaga Vikingssonar. Då grälet mellan Hadorph och Reenhielm angående antikvarieplatsen började 1675, ville den senare antagligen genom en specimenskrift styrka sin kompetens och bestämde sig då för att utgiva denna saga. Av någon nu ej känd anledning kom den emellertid ej ut av trycket förr än 1680, men att den var färdig förut, framgår av flera skäl. Så är upplagan försedd med en latinsk hyllningsdikt av Jonas Rugman Islandus: In Historiam Thorstani Vikingi Filii a Nobilissimo Dn. Jacobo Istmen Reenhielm typis adornatam. Men Rugman avled redan 1679. Vidare har här avtryckts en annan dikt av Loccenius: In Historiam Veterem Torstani Vikingi F. a Nobilissimo Dn. Jacobo Istmen Renhielm Ex vetusto Codice Msto editam atque interpretatione et Notis illustratam. Men Loccenius dog 1677. Slutligen finnes där ett rekommendationsbrev från Rudbeck, daterat den 1 februari 1676. Då var arbetet således i manuskript färdigt. Sedan var det Verelius' gode vän Rudbeck, som bekostade tryckningen, vilket Reenhielm ock i företalet tacksamt erkänner: »Gunstigaste Läsare, upptag teckeligen desze få arken, som iag til mitt K. Fäderneslandz tienst förfärdigat hafwer effter mitt ringa rådh och embne, hwilka dock uthi mörkret någon tijdh legat hafwa och än liggiande blijfwit, där icke höglärde Her Professorn Olaus Rudbeck dem med sin omkostnad därifrån förhulpit. Finnes häruthinnan något behageligit, bör och honom, Her Professorn, tacken, som dhet förfodrat till dagzliuset».² Curios upplaga är, även för dennes officin, rent sällsport usel, vanställd av otaliga tryckfel, och titeln är ej fullt korrekt: »Thorstens Vikingssons Saga på gammal Göthska af ett åldrigt Manuscripto afskrif-\"}, {\"bbox\": [501, 1625, 1529, 1687], \"category\": \"Footnote\", \"text\": \"¹ Där — och i R. 715 — finnes ock en av Rugman gjord samling av isländska ordstäv, som nu utgivits av G. Kallstenius i Humanistiska Vetenskaps-Samfundets skrifter 1923.\"}, {\"bbox\": [501, 1685, 1529, 1777], \"category\": \"Footnote\", \"text\": \"² Rudbeck var redan nu den egentlige ägaren av Curios tryckeri. Senare tyckes Reenhielm ha betraktat denna hjälp såsom en förlagsaffär, på vilken han förlorat och Rudbeck förtjänat. Se hans nedan (sid. 99) anförda inlaga till Oxenstierna.\"}, {\"bbox\": [505, 1803, 553, 1851], \"category\": \"Page-footer\", \"text\": \"76\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    810,
+    251,
+    1224,
+    293
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    498,
+    322,
+    1525,
+    489
+   ],
+   "category": "Text",
+   "text": "mindre däremot sagorna. De flesta, han medfört, avstod han till Reenhielm, med vilken han tyckes ha blivit särskilt god vän; då Reenhielm 1669 gifte sig med Anna Böllja, hyllades han av Rugman med ett bröllopskväde (Samlaren 1927)."
+  },
+  {
+   "bbox": [
+    345,
+    492,
+    491,
+    527
+   ],
+   "category": "Text",
+   "text": "Porsteins saga"
+  },
+  {
+   "bbox": [
+    498,
+    488,
+    1529,
+    1610
+   ],
+   "category": "Text",
+   "text": "1666 skänkte denne honom handskriften R 716 i U. B., som bl. a.¹ innehöll þorsteinssaga Vikingssonar. Då grälet mellan Hadorph och Reenhielm angående antikvarieplatsen började 1675, ville den senare antagligen genom en specimenskrift styrka sin kompetens och bestämde sig då för att utgiva denna saga. Av någon nu ej känd anledning kom den emellertid ej ut av trycket förr än 1680, men att den var färdig förut, framgår av flera skäl. Så är upplagan försedd med en latinsk hyllningsdikt av Jonas Rugman Islandus: In Historiam Thorstani Vikingi Filii a Nobilissimo Dn. Jacobo Istmen Reenhielm typis adornatam. Men Rugman avled redan 1679. Vidare har här avtryckts en annan dikt av Loccenius: In Historiam Veterem Torstani Vikingi F. a Nobilissimo Dn. Jacobo Istmen Renhielm Ex vetusto Codice Msto editam atque interpretatione et Notis illustratam. Men Loccenius dog 1677. Slutligen finnes där ett rekommendationsbrev från Rudbeck, daterat den 1 februari 1676. Då var arbetet således i manuskript färdigt. Sedan var det Verelius' gode vän Rudbeck, som bekostade tryckningen, vilket Reenhielm ock i företalet tacksamt erkänner: »Gunstigaste Läsare, upptag teckeligen desze få arken, som iag til mitt K. Fäderneslandz tienst förfärdigat hafwer effter mitt ringa rådh och embne, hwilka dock uthi mörkret någon tijdh legat hafwa och än liggiande blijfwit, där icke höglärde Her Professorn Olaus Rudbeck dem med sin omkostnad därifrån förhulpit. Finnes häruthinnan något behageligit, bör och honom, Her Professorn, tacken, som dhet förfodrat till dagzliuset».² Curios upplaga är, även för dennes officin, rent sällsport usel, vanställd av otaliga tryckfel, och titeln är ej fullt korrekt: »Thorstens Vikingssons Saga på gammal Göthska af ett åldrigt Manuscripto afskrif-"
+  },
+  {
+   "bbox": [
+    501,
+    1625,
+    1529,
+    1687
+   ],
+   "category": "Footnote",
+   "text": "¹ Där — och i R. 715 — finnes ock en av Rugman gjord samling av isländska ordstäv, som nu utgivits av G. Kallstenius i Humanistiska Vetenskaps-Samfundets skrifter 1923."
+  },
+  {
+   "bbox": [
+    501,
+    1685,
+    1529,
+    1777
+   ],
+   "category": "Footnote",
+   "text": "² Rudbeck var redan nu den egentlige ägaren av Curios tryckeri. Senare tyckes Reenhielm ha betraktat denna hjälp såsom en förlagsaffär, på vilken han förlorat och Rudbeck förtjänat. Se hans nedan (sid. 99) anförda inlaga till Oxenstierna."
+  },
+  {
+   "bbox": [
+    505,
+    1803,
+    553,
+    1851
+   ],
+   "category": "Page-footer",
+   "text": "76"
+  }
+ ]
+}

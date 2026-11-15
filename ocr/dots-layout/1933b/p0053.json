@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 53,
+ "seconds": 29.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [795, 251, 1206, 294], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [477, 320, 1517, 1144], \"category\": \"Text\", \"text\": \"på ett Helgons Altare i Linkiöping, hwar ibland finnes twå förgylta Sölfwerarmar, den ena S. Eriks, den andra S. Eskils. Der till med helige Carins Beläte af Sölf, mycket konsteliga utharbetat Uphöyelss Käril. Sammaledes ett förgylt Monstrants, som genom en Plogbill är sönder skurit, och mycket annat Sölf, somt dels illa skadt, dels i små Stycken sönder skurit. Här till komma och några Rökelse Kaar af Malm, som till oss ifrå åthskillige Orter sände äro. Här finnes och gambla Rijksens och Clöster gillens Sigiller, uhrgamble Skiöldemärke och Rijksens Mynt, med hwilka klarlig bewijses, att dhe 3 Cronor ära Sweriges uhrgambla Skiöldemärke ifrån Kon: Amunds den andres och Amunder Slemmes Tijder, som lefde strax uthi tusende Åhren effter Christi Börd. Dess uthan finnes här många flere Mynt, som i desse Åhr församblade ära, hwar ibland några Guld-Stycken ära af stoor Wicht, så och Arabiske uhrgamble Mynt, fordom af dhe gamble Göther införde i Rijket och nu på några Åhr åthskillige städes i Jorden upfundne. Sedan finnes här och åthskillige Ting ifrån Lapparne insamblade, såsom en deras äldsta Afgud uthaf Steen, lijk ett Fogle Hufwud med sin Näbb, sampt några nyare af Trää. Några Lappe Trummor med sina Tillhörigheter, der af en är mycket större och skiönare än dhe andra. Sammaledes en skiön Lappesläde, sådan som dhe bruka att åka öfwer Sniö och Ijs Wintertijd med sina Renar. Här finnes och åthskillige Ting församblade efter dhe gamblas Begrafningar såsom ett Tåre Kiärel medh främmande Bookstäfwer. Sammaledes åthskillige Stridstyg, dels i gambla Ättebackar, dels annorstädes fundne, som alt här i detta Rum med mycket annat förwaras.\"}, {\"bbox\": [477, 1152, 1511, 1618], \"category\": \"Text\", \"text\": \"Wilckina Sagan, det är Philmers hin Myckles Historia, hafwer han under Händerne att uthtolka på vårt nu brukelige Språk, hwilken innehåller sex Swea och Götha Konungars, nembligen Philmers, Nordians, Hernits, Osantrix, Hernits Hernitssons och K. Dietriks Bedrifter och Handlingar, hwar ibland många otrolige Ting införas ibland det, som sant är (såsom dhe gamblas Sedh är), hwilken Saga är nu mycket rätt uthskrifwen af en gammal Book på Pergament öfwer 400. Åhr uthi Kongl. Archivo förwarat, sedan jämförd med twenne senare afskrifne Exemplar, och förökat med alla åtskillnader, som finnas i dhe nyare Exemplar, hwilken Saga han will fordersammast till trycket hafwa färdig. Denne är wäl tillförenne af Antiquarien Johan Buræo och hans Måg Hr. Axehielm wänd på vårt Språk, men i en fast annor Ordning än nu är skiedt, effter sielfwe Tijderne och Sakernes Beskaffenheet fördelt.\"}, {\"bbox\": [477, 1626, 1513, 1775], \"category\": \"Text\", \"text\": \"1. Ett Lexicon eller Orda Tydning öfwer gambla Göthiske Språket hafwer han uthi några Åhr haft under Händerne, der uthi han infördt alla gambla Sueo Gothiske Ord och nu brukelige Isländske efter A B C Ordning med Latinsk och Swensk Uthtolkning och genom bijfogade Exem-\"}, {\"bbox\": [324, 1634, 473, 1783], \"category\": \"Text\", \"text\": \"Gudmund Olofsson Uthtolkare af det äldsta Göthiska Språket.\"}, {\"bbox\": [480, 1808, 533, 1845], \"category\": \"Page-footer\", \"text\": \"40\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    795,
+    251,
+    1206,
+    294
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    477,
+    320,
+    1517,
+    1144
+   ],
+   "category": "Text",
+   "text": "på ett Helgons Altare i Linkiöping, hwar ibland finnes twå förgylta Sölfwerarmar, den ena S. Eriks, den andra S. Eskils. Der till med helige Carins Beläte af Sölf, mycket konsteliga utharbetat Uphöyelss Käril. Sammaledes ett förgylt Monstrants, som genom en Plogbill är sönder skurit, och mycket annat Sölf, somt dels illa skadt, dels i små Stycken sönder skurit. Här till komma och några Rökelse Kaar af Malm, som till oss ifrå åthskillige Orter sände äro. Här finnes och gambla Rijksens och Clöster gillens Sigiller, uhrgamble Skiöldemärke och Rijksens Mynt, med hwilka klarlig bewijses, att dhe 3 Cronor ära Sweriges uhrgambla Skiöldemärke ifrån Kon: Amunds den andres och Amunder Slemmes Tijder, som lefde strax uthi tusende Åhren effter Christi Börd. Dess uthan finnes här många flere Mynt, som i desse Åhr församblade ära, hwar ibland några Guld-Stycken ära af stoor Wicht, så och Arabiske uhrgamble Mynt, fordom af dhe gamble Göther införde i Rijket och nu på några Åhr åthskillige städes i Jorden upfundne. Sedan finnes här och åthskillige Ting ifrån Lapparne insamblade, såsom en deras äldsta Afgud uthaf Steen, lijk ett Fogle Hufwud med sin Näbb, sampt några nyare af Trää. Några Lappe Trummor med sina Tillhörigheter, der af en är mycket större och skiönare än dhe andra. Sammaledes en skiön Lappesläde, sådan som dhe bruka att åka öfwer Sniö och Ijs Wintertijd med sina Renar. Här finnes och åthskillige Ting församblade efter dhe gamblas Begrafningar såsom ett Tåre Kiärel medh främmande Bookstäfwer. Sammaledes åthskillige Stridstyg, dels i gambla Ättebackar, dels annorstädes fundne, som alt här i detta Rum med mycket annat förwaras."
+  },
+  {
+   "bbox": [
+    477,
+    1152,
+    1511,
+    1618
+   ],
+   "category": "Text",
+   "text": "Wilckina Sagan, det är Philmers hin Myckles Historia, hafwer han under Händerne att uthtolka på vårt nu brukelige Språk, hwilken innehåller sex Swea och Götha Konungars, nembligen Philmers, Nordians, Hernits, Osantrix, Hernits Hernitssons och K. Dietriks Bedrifter och Handlingar, hwar ibland många otrolige Ting införas ibland det, som sant är (såsom dhe gamblas Sedh är), hwilken Saga är nu mycket rätt uthskrifwen af en gammal Book på Pergament öfwer 400. Åhr uthi Kongl. Archivo förwarat, sedan jämförd med twenne senare afskrifne Exemplar, och förökat med alla åtskillnader, som finnas i dhe nyare Exemplar, hwilken Saga han will fordersammast till trycket hafwa färdig. Denne är wäl tillförenne af Antiquarien Johan Buræo och hans Måg Hr. Axehielm wänd på vårt Språk, men i en fast annor Ordning än nu är skiedt, effter sielfwe Tijderne och Sakernes Beskaffenheet fördelt."
+  },
+  {
+   "bbox": [
+    477,
+    1626,
+    1513,
+    1775
+   ],
+   "category": "Text",
+   "text": "1. Ett Lexicon eller Orda Tydning öfwer gambla Göthiske Språket hafwer han uthi några Åhr haft under Händerne, der uthi han infördt alla gambla Sueo Gothiske Ord och nu brukelige Isländske efter A B C Ordning med Latinsk och Swensk Uthtolkning och genom bijfogade Exem-"
+  },
+  {
+   "bbox": [
+    324,
+    1634,
+    473,
+    1783
+   ],
+   "category": "Text",
+   "text": "Gudmund Olofsson Uthtolkare af det äldsta Göthiska Språket."
+  },
+  {
+   "bbox": [
+    480,
+    1808,
+    533,
+    1845
+   ],
+   "category": "Page-footer",
+   "text": "40"
+  }
+ ]
+}

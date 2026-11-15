@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 81,
+ "seconds": 26.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [818, 246, 1234, 290], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [501, 317, 1536, 442], \"category\": \"Text\", \"text\": \"Jonas är hijt kommen och wijsorna efter begge exemplaren öfversedde äre, blifva de genast hwar på sitt rum inskrifne» (R. A. Kanslersämbetets handl. Inkomna skrivelser. Den 9 jan. 1669).\"}, {\"bbox\": [501, 453, 1536, 1652], \"category\": \"Text\", \"text\": \"1670 utanordnade De la Gardie icke mindre än 120 ris papper till sagans tryckning. Men trots upprepade påminnelser fick han ej mottaga den efterlängtade boken, och man kan förstå Verelius' motvilja emot det uppdrag han fått. Bureus' isländska text var ytterligt felaktig, och att skriva om den samt sedan utgiva det hela under Bureus' namn tilltalade honom givetvis icke. På försättsbladet av Papp. fol. 24 har han också nedskrivit en kritik av Bureus' isländska: »Denna Copia är Collationerat med originalet, som fins uti Cancellij archivo och rättat där som fel hafva warit. Men skalldvijsorna ära myckit oriktiga och böra allesammans serdeles afskrifwas med sina hendingar och skalldrijm och sättias signaturer i bredden på huart capitel, att de af tryckiaren kunna fogas till sine rum, huar och en, periodi böra och öfver hela boken bättre distingueras, huilket alt med mindre möda kan ske, när correcturen öfwerses och aftryckias. Copisten hafver och emot gambla språketz egenskap altijdh satt terminationem nominativi pluralis pro singulari uti alla de ord, som lyktas på ur, E. G. rikur madur, vir potens, exprimerar han riker mader, huilket in plurali rett skrifves riker men. ∎ finale merker altijdh ur, men aldrig er, E. G. konungr, maldierfr, vitr, spekingr, huilket med fult liud utföres sålunda: konungur, maldierfur, vitur, spekingur et infinita huius modi, derföre hafver iagh allestädes utstruket E in terminatione nominativi singularis¹, dock kan det sommestädes eij så af mig noga observerat wara och bör corrigeras uti trycket. Han hafver och allestädes confunderat det ordet Perri och Pvi, utaf huilket det förra är fœminini generis och det senare neutrius. Och sosom hans Excell. her Rijkz Cancellerens exemplar sommestädes varierar ifrån Cancellietz exemplaret, vore det icke onyttigt, att de lectiones variæ blefve tryckte i brädden eller efterst i boken».\"}, {\"bbox\": [544, 1655, 1534, 1699], \"category\": \"Text\", \"text\": \"Emellertid hade han verkligen satt arbetet i gång. 1669 hade\"}, {\"bbox\": [506, 1708, 1536, 1774], \"category\": \"Footnote\", \"text\": \"¹ Verelius var här beroende av sin nyisländske amanuens Rugman. På fornisländska skrevs konungr, på nyisländska konungur.\"}, {\"bbox\": [510, 1796, 562, 1837], \"category\": \"Page-footer\", \"text\": \"68\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    818,
+    246,
+    1234,
+    290
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    501,
+    317,
+    1536,
+    442
+   ],
+   "category": "Text",
+   "text": "Jonas är hijt kommen och wijsorna efter begge exemplaren öfversedde äre, blifva de genast hwar på sitt rum inskrifne» (R. A. Kanslersämbetets handl. Inkomna skrivelser. Den 9 jan. 1669)."
+  },
+  {
+   "bbox": [
+    501,
+    453,
+    1536,
+    1652
+   ],
+   "category": "Text",
+   "text": "1670 utanordnade De la Gardie icke mindre än 120 ris papper till sagans tryckning. Men trots upprepade påminnelser fick han ej mottaga den efterlängtade boken, och man kan förstå Verelius' motvilja emot det uppdrag han fått. Bureus' isländska text var ytterligt felaktig, och att skriva om den samt sedan utgiva det hela under Bureus' namn tilltalade honom givetvis icke. På försättsbladet av Papp. fol. 24 har han också nedskrivit en kritik av Bureus' isländska: »Denna Copia är Collationerat med originalet, som fins uti Cancellij archivo och rättat där som fel hafva warit. Men skalldvijsorna ära myckit oriktiga och böra allesammans serdeles afskrifwas med sina hendingar och skalldrijm och sättias signaturer i bredden på huart capitel, att de af tryckiaren kunna fogas till sine rum, huar och en, periodi böra och öfver hela boken bättre distingueras, huilket alt med mindre möda kan ske, när correcturen öfwerses och aftryckias. Copisten hafver och emot gambla språketz egenskap altijdh satt terminationem nominativi pluralis pro singulari uti alla de ord, som lyktas på ur, E. G. rikur madur, vir potens, exprimerar han riker mader, huilket in plurali rett skrifves riker men. ∎ finale merker altijdh ur, men aldrig er, E. G. konungr, maldierfr, vitr, spekingr, huilket med fult liud utföres sålunda: konungur, maldierfur, vitur, spekingur et infinita huius modi, derföre hafver iagh allestädes utstruket E in terminatione nominativi singularis¹, dock kan det sommestädes eij så af mig noga observerat wara och bör corrigeras uti trycket. Han hafver och allestädes confunderat det ordet Perri och Pvi, utaf huilket det förra är fœminini generis och det senare neutrius. Och sosom hans Excell. her Rijkz Cancellerens exemplar sommestädes varierar ifrån Cancellietz exemplaret, vore det icke onyttigt, att de lectiones variæ blefve tryckte i brädden eller efterst i boken»."
+  },
+  {
+   "bbox": [
+    544,
+    1655,
+    1534,
+    1699
+   ],
+   "category": "Text",
+   "text": "Emellertid hade han verkligen satt arbetet i gång. 1669 hade"
+  },
+  {
+   "bbox": [
+    506,
+    1708,
+    1536,
+    1774
+   ],
+   "category": "Footnote",
+   "text": "¹ Verelius var här beroende av sin nyisländske amanuens Rugman. På fornisländska skrevs konungr, på nyisländska konungur."
+  },
+  {
+   "bbox": [
+    510,
+    1796,
+    562,
+    1837
+   ],
+   "category": "Page-footer",
+   "text": "68"
+  }
+ ]
+}

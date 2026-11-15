@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 339,
+ "seconds": 21.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [826, 239, 1246, 283], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [511, 310, 1557, 843], \"category\": \"Text\", \"text\": \"res, en tämligen vidlyftig redogörelse för landets indelning i landskap, härad och socknar, och därefter kommer början på Liber II, cap. III, som är en stor Uppsalabeskrivning, nästan lika utförlig som Schefferus' tryckta bok. Han delar här ock — i motsats till Verelius och Rudbeck — dennes mening, att den nuvarande staden är den ursprungliga. Men även detta lägg avbrytes, innan författaren medhunnit beskrivningen av Uppland i övrigt. Ett i slutet av fascikeln liggande — också egenhändigt — koncept rörande kungs- och ladugårdar i olika landskap, torde däremot ej ha hört till detta arbete, utan härröra från Örnhielms verksamhet i reduktionsverket. Att beskrivningen varit fullständigare än de sju kapitlen hos Nettelbladt, är således tydligt, även om Örnhielm ej hunnit med mera än Tomus I.\"}, {\"bbox\": [511, 849, 1555, 1142], \"category\": \"Text\", \"text\": \"Arbetet var således mycket stort anlagt. Den 6 maj 1695 undertecknade han dedikationen till konungen, men redan den 19 i samma månad slutade han sina dagar, och hans arbete blev aldrig utgivet. Sveciaverkets följande historia faller utanför den nu behandlade tiden. Som bekant blevo sedermera Lagerlöf och efter honom Hermelin utsedda till textredaktörer. Men då arbetet slutligen, 1716, utgavs, var det utan någon text.\"}, {\"bbox\": [513, 1791, 586, 1836], \"category\": \"Page-footer\", \"text\": \"318\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    826,
+    239,
+    1246,
+    283
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    511,
+    310,
+    1557,
+    843
+   ],
+   "category": "Text",
+   "text": "res, en tämligen vidlyftig redogörelse för landets indelning i landskap, härad och socknar, och därefter kommer början på Liber II, cap. III, som är en stor Uppsalabeskrivning, nästan lika utförlig som Schefferus' tryckta bok. Han delar här ock — i motsats till Verelius och Rudbeck — dennes mening, att den nuvarande staden är den ursprungliga. Men även detta lägg avbrytes, innan författaren medhunnit beskrivningen av Uppland i övrigt. Ett i slutet av fascikeln liggande — också egenhändigt — koncept rörande kungs- och ladugårdar i olika landskap, torde däremot ej ha hört till detta arbete, utan härröra från Örnhielms verksamhet i reduktionsverket. Att beskrivningen varit fullständigare än de sju kapitlen hos Nettelbladt, är således tydligt, även om Örnhielm ej hunnit med mera än Tomus I."
+  },
+  {
+   "bbox": [
+    511,
+    849,
+    1555,
+    1142
+   ],
+   "category": "Text",
+   "text": "Arbetet var således mycket stort anlagt. Den 6 maj 1695 undertecknade han dedikationen till konungen, men redan den 19 i samma månad slutade han sina dagar, och hans arbete blev aldrig utgivet. Sveciaverkets följande historia faller utanför den nu behandlade tiden. Som bekant blevo sedermera Lagerlöf och efter honom Hermelin utsedda till textredaktörer. Men då arbetet slutligen, 1716, utgavs, var det utan någon text."
+  },
+  {
+   "bbox": [
+    513,
+    1791,
+    586,
+    1836
+   ],
+   "category": "Page-footer",
+   "text": "318"
+  }
+ ]
+}

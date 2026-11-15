@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 76,
+ "seconds": 27.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [435, 225, 829, 270], \"category\": \"Section-header\", \"text\": \"De götiska skrifterna\"}, {\"bbox\": [108, 296, 1151, 416], \"category\": \"Text\", \"text\": \"den gamla legenden liggande, ända till dess att R. Keyser och C. R. Unger 1851 utgåvo den, varvid Stockholmshandskriften användes såsom huvudkodex.\"}, {\"bbox\": [108, 421, 1153, 1168], \"category\": \"Text\", \"text\": \"Den tredje handskrift, som den gamle Bureus 1651 donerat till staten, var den berömda Orm Snorrasons bok (se I sid. 89) eller som den också kallades Trojumanna Saga. Även denna handskrift hade till en början ungefär samma öden som de båda andra, begagnades först av Laurentius Bureus för dennes ordboksarbete, lånades 1666 ut åt Verelius, som 1668 gav den åt Axehiälm, vilken åtog sig att vertera den. Det är möjligt, att Axehiälm verkligen börjat med arbetet, ty bland Kungl. bibliotekets handskrifter (Papp. 4:0 nr 29) finnes en påbörjad utskrift av den isländska texten samt även början till en svensk översättning. Gödel anser pikturen vara Harald Wij-sings. För min del finner jag ej likheten så stor med stilen i fol. 28 och 49, att jag anser attributionen säker. Men i varje fall skrev Axehiälm i consignationen 1675, att han nu skulle börja med Troju-mannasaga. Hans syn blev emellertid allt sämre — liksom ock kollegiets ekonomi — och han uppgav därför företaget. Så fick han 1679 en påminnelse från De la Gardie om både Barlaam och denna saga, och härpå svarade han i brev av den 4 februari (R. A. Skrivelser till M. J. De la Gardie. Ser. C. 1. Axehiälm):\"}, {\"bbox\": [1159, 425, 1297, 483], \"category\": \"Text\", \"text\": \"Orm Snorra-sons bok\"}, {\"bbox\": [108, 1174, 1153, 1757], \"category\": \"Text\", \"text\": \"»Ers högGrefl. Excell:z Breef af den 31 passato är j går medh Professoren Hr. Celsio wäl wordet mig till handa stält, där vthinnan Ers högGrefl. Excell:z giör påminnelsse om Troia manna Sagas versions sampt Barlaami vitæ versions communication medh Collegio Antiquitatum etc. Och sedhan öfwersändandhe till Stockholm till Ers högGrefl. Excell:z at der låta tryckiass. Till ödmiukt och vnderdånigt swar, at iag wäl war sinnat taga j hop medh be:te Troiamanna saga, som är en stoor Regal foliant på pergament och medh såå gammal, grann och olässligh styl, där till och nästan hwart annat ordh medh abbreviationibus, dess föruthan många bladh så söliga och olässlige, så att om en Œdipus komme där öfwer, skulle han nogh hafua där mädh att giöra; alt för dy om iag wille hafua min syyn behållen (emedan iag är öfwer mijna 70 åhr) måtte iag där medh afstå. Och om Ers Excell:z behagadhe sielfwer detta erfara och\"}, {\"bbox\": [1099, 1777, 1146, 1825], \"category\": \"Page-footer\", \"text\": \"63\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    435,
+    225,
+    829,
+    270
+   ],
+   "category": "Section-header",
+   "text": "De götiska skrifterna"
+  },
+  {
+   "bbox": [
+    108,
+    296,
+    1151,
+    416
+   ],
+   "category": "Text",
+   "text": "den gamla legenden liggande, ända till dess att R. Keyser och C. R. Unger 1851 utgåvo den, varvid Stockholmshandskriften användes såsom huvudkodex."
+  },
+  {
+   "bbox": [
+    108,
+    421,
+    1153,
+    1168
+   ],
+   "category": "Text",
+   "text": "Den tredje handskrift, som den gamle Bureus 1651 donerat till staten, var den berömda Orm Snorrasons bok (se I sid. 89) eller som den också kallades Trojumanna Saga. Även denna handskrift hade till en början ungefär samma öden som de båda andra, begagnades först av Laurentius Bureus för dennes ordboksarbete, lånades 1666 ut åt Verelius, som 1668 gav den åt Axehiälm, vilken åtog sig att vertera den. Det är möjligt, att Axehiälm verkligen börjat med arbetet, ty bland Kungl. bibliotekets handskrifter (Papp. 4:0 nr 29) finnes en påbörjad utskrift av den isländska texten samt även början till en svensk översättning. Gödel anser pikturen vara Harald Wij-sings. För min del finner jag ej likheten så stor med stilen i fol. 28 och 49, att jag anser attributionen säker. Men i varje fall skrev Axehiälm i consignationen 1675, att han nu skulle börja med Troju-mannasaga. Hans syn blev emellertid allt sämre — liksom ock kollegiets ekonomi — och han uppgav därför företaget. Så fick han 1679 en påminnelse från De la Gardie om både Barlaam och denna saga, och härpå svarade han i brev av den 4 februari (R. A. Skrivelser till M. J. De la Gardie. Ser. C. 1. Axehiälm):"
+  },
+  {
+   "bbox": [
+    1159,
+    425,
+    1297,
+    483
+   ],
+   "category": "Text",
+   "text": "Orm Snorra-sons bok"
+  },
+  {
+   "bbox": [
+    108,
+    1174,
+    1153,
+    1757
+   ],
+   "category": "Text",
+   "text": "»Ers högGrefl. Excell:z Breef af den 31 passato är j går medh Professoren Hr. Celsio wäl wordet mig till handa stält, där vthinnan Ers högGrefl. Excell:z giör påminnelsse om Troia manna Sagas versions sampt Barlaami vitæ versions communication medh Collegio Antiquitatum etc. Och sedhan öfwersändandhe till Stockholm till Ers högGrefl. Excell:z at der låta tryckiass. Till ödmiukt och vnderdånigt swar, at iag wäl war sinnat taga j hop medh be:te Troiamanna saga, som är en stoor Regal foliant på pergament och medh såå gammal, grann och olässligh styl, där till och nästan hwart annat ordh medh abbreviationibus, dess föruthan många bladh så söliga och olässlige, så att om en Œdipus komme där öfwer, skulle han nogh hafua där mädh att giöra; alt för dy om iag wille hafua min syyn behållen (emedan iag är öfwer mijna 70 åhr) måtte iag där medh afstå. Och om Ers Excell:z behagadhe sielfwer detta erfara och"
+  },
+  {
+   "bbox": [
+    1099,
+    1777,
+    1146,
+    1825
+   ],
+   "category": "Page-footer",
+   "text": "63"
+  }
+ ]
+}

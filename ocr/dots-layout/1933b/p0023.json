@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 23,
+ "seconds": 26.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [762, 251, 1182, 293], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [447, 321, 1495, 444], \"category\": \"Text\", \"text\": \"latam et absolutam Sereniss. Regiæ M:ti et amplissimo Regni Senatui, per secretarium Frankenium, ante semestre, submisse offerri curavit.\"}, {\"bbox\": [449, 446, 1496, 574], \"category\": \"Text\", \"text\": \"Translationi Historiæ Vilcini adhuc immoratur, eam tamen, si adiuvari Amanuensis opera poterit, in brevi absolvere sperat, quamvis imbecillitas oculorum ipsi in his ut alijs sæpe remoram faciat.\"}, {\"bbox\": [983, 588, 1459, 632], \"category\": \"Text\", \"text\": \"Jahannes Axehiälm manu propria.\"}, {\"bbox\": [447, 672, 1500, 1093], \"category\": \"Text\", \"text\": \"Johannes Loccenius, post recognitum Opus Historicum, novæ editioni destinatum, Antiquitates suas Sueo-Gothicas nunc pro tempore ad desiderium Bibliopolæ prælo subiecit, donec una cum Historia Sueciæ in maiori et luculentiori forma edantur. Synopsin Juris ad Leges Sueticas accommodatam cum Jure maritimo Sueciæ Latine a se verso et tribus Libris de Jure maritimo antea a se concinnatis et nunc cum Jure maritimo Suetico collatis editioni paravit. Hoc tempore vero occupatus est in Latine vertendis Legibus Sueticis; et Juris provincialis versione ad finem ferme perducta, in posterum aggredietur Jus Civitatum in Latinam linguam transferendum.\"}, {\"bbox\": [452, 1093, 1500, 1298], \"category\": \"Text\", \"text\": \"Joannes Schefferus, editioni paratum habet Anonymum veterem de Archiepiscopis et Episcopis Vpsaliensibus. Librum Exemplorum memorabilium gentis Sueticæ nouis accessionibus quotidie reddit auctiorem. Coepit quoque meditari Obseruationes copiosiores in Adami Bremensis Scandinauiam.\"}, {\"bbox\": [452, 1305, 1500, 1435], \"category\": \"Text\", \"text\": \"Olaus Verelius St. Olafs saga, iussu Jlustrissimi Dn. Cancellarij, in latinam lingvam vertet, et si tempus permittet, dissertationem de Runographia veteri Scandica consignabit.\"}, {\"bbox\": [452, 1435, 1500, 1525], \"category\": \"Text\", \"text\": \"Magnus Celsius Fastos Sveogothicos editioni paravit; jam vero in exponendis Mythologijs Eddicis occupatur.\"}, {\"bbox\": [452, 1525, 1502, 1780], \"category\": \"Text\", \"text\": \"Johannes Hadorphius Chronicon Vetus Regum Sueciæ et utrumque Rhytmicum pridem editioni paravit. Sumptus tantum quibus excudantur desiderat. Hoc anno, si deus vitam dederit, in colligendis antiquis illustrium virorum monumentis et inscriptionibus Sepulchralibus occupabitur. Eos etiam, qui in antiqua patriæ Historia memorantur, quorum originem ignoramus et tamen ob vir-\"}, {\"bbox\": [457, 1818, 507, 1846], \"category\": \"Page-footer\", \"text\": \"10\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    762,
+    251,
+    1182,
+    293
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    447,
+    321,
+    1495,
+    444
+   ],
+   "category": "Text",
+   "text": "latam et absolutam Sereniss. Regiæ M:ti et amplissimo Regni Senatui, per secretarium Frankenium, ante semestre, submisse offerri curavit."
+  },
+  {
+   "bbox": [
+    449,
+    446,
+    1496,
+    574
+   ],
+   "category": "Text",
+   "text": "Translationi Historiæ Vilcini adhuc immoratur, eam tamen, si adiuvari Amanuensis opera poterit, in brevi absolvere sperat, quamvis imbecillitas oculorum ipsi in his ut alijs sæpe remoram faciat."
+  },
+  {
+   "bbox": [
+    983,
+    588,
+    1459,
+    632
+   ],
+   "category": "Text",
+   "text": "Jahannes Axehiälm manu propria."
+  },
+  {
+   "bbox": [
+    447,
+    672,
+    1500,
+    1093
+   ],
+   "category": "Text",
+   "text": "Johannes Loccenius, post recognitum Opus Historicum, novæ editioni destinatum, Antiquitates suas Sueo-Gothicas nunc pro tempore ad desiderium Bibliopolæ prælo subiecit, donec una cum Historia Sueciæ in maiori et luculentiori forma edantur. Synopsin Juris ad Leges Sueticas accommodatam cum Jure maritimo Sueciæ Latine a se verso et tribus Libris de Jure maritimo antea a se concinnatis et nunc cum Jure maritimo Suetico collatis editioni paravit. Hoc tempore vero occupatus est in Latine vertendis Legibus Sueticis; et Juris provincialis versione ad finem ferme perducta, in posterum aggredietur Jus Civitatum in Latinam linguam transferendum."
+  },
+  {
+   "bbox": [
+    452,
+    1093,
+    1500,
+    1298
+   ],
+   "category": "Text",
+   "text": "Joannes Schefferus, editioni paratum habet Anonymum veterem de Archiepiscopis et Episcopis Vpsaliensibus. Librum Exemplorum memorabilium gentis Sueticæ nouis accessionibus quotidie reddit auctiorem. Coepit quoque meditari Obseruationes copiosiores in Adami Bremensis Scandinauiam."
+  },
+  {
+   "bbox": [
+    452,
+    1305,
+    1500,
+    1435
+   ],
+   "category": "Text",
+   "text": "Olaus Verelius St. Olafs saga, iussu Jlustrissimi Dn. Cancellarij, in latinam lingvam vertet, et si tempus permittet, dissertationem de Runographia veteri Scandica consignabit."
+  },
+  {
+   "bbox": [
+    452,
+    1435,
+    1500,
+    1525
+   ],
+   "category": "Text",
+   "text": "Magnus Celsius Fastos Sveogothicos editioni paravit; jam vero in exponendis Mythologijs Eddicis occupatur."
+  },
+  {
+   "bbox": [
+    452,
+    1525,
+    1502,
+    1780
+   ],
+   "category": "Text",
+   "text": "Johannes Hadorphius Chronicon Vetus Regum Sueciæ et utrumque Rhytmicum pridem editioni paravit. Sumptus tantum quibus excudantur desiderat. Hoc anno, si deus vitam dederit, in colligendis antiquis illustrium virorum monumentis et inscriptionibus Sepulchralibus occupabitur. Eos etiam, qui in antiqua patriæ Historia memorantur, quorum originem ignoramus et tamen ob vir-"
+  },
+  {
+   "bbox": [
+    457,
+    1818,
+    507,
+    1846
+   ],
+   "category": "Page-footer",
+   "text": "10"
+  }
+ ]
+}

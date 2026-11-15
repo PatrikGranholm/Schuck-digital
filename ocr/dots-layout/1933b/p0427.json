@@ -1,0 +1,132 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 427,
+ "seconds": 22.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [919, 237, 1079, 272], \"category\": \"Section-header\", \"text\": \"Innehåll\"}, {\"bbox\": [476, 305, 1519, 351], \"category\": \"List-item\", \"text\": \"Urkundsutgivning 187\"}, {\"bbox\": [556, 354, 1439, 506], \"category\": \"Text\", \"text\": \"Recesserna och landslagen 187, Hadorph får uppdrag att samla recesser 188, Practica legum utarbetas 189, Betänkligheter 194, Censuren 195, Frågan om Practica legum återupptages 201, Recessernas slutliga öde 209, Biärköarätten 211, Schmedeman 213, Återstoden av Hadorphs samling 215, Arbete på ett Diplomatarium 217, Tryck av medeltida diplom 221, Örnhielm 225.\"}, {\"bbox\": [476, 538, 1517, 583], \"category\": \"List-item\", \"text\": \"Svenska medeltidsskrifter 227\"}, {\"bbox\": [556, 586, 1439, 736], \"category\": \"Text\", \"text\": \"Hadorphs editioner 227, Alexander Magnus 228, Rimkrönikorna 231, Prosaiska krönikan 235, Olofskrönikor 235, Biskopskrönikor 236, Olavus och Laurentius Petris krönikor 236, Schefferus' editioner 238, Konungastyrelsen 239, Incerti Scriptoris chronicon 242, Vita et Miracula S. Erici 245, Arrhenius Vita Anscharii 245, Svecia Sancta 246.\"}, {\"bbox\": [476, 769, 1514, 814], \"category\": \"List-item\", \"text\": \"Historiska skrifter 249\"}, {\"bbox\": [556, 817, 1436, 908], \"category\": \"Text\", \"text\": \"Historiografernas arbeten 249, Antiquitates externæ 249, Saavedra 250, Emanuel Thesaurus 251, Anticluverius 261, Verelius 262, Loccenius 263, Schefferus 265, Historia Ecclesiastica 266, Svecia litterata 271.\"}, {\"bbox\": [476, 941, 1509, 986], \"category\": \"List-item\", \"text\": \"Arkeologiska skrifter, folk- och ortbeskrivningar 273\"}, {\"bbox\": [556, 989, 1436, 1112], \"category\": \"Text\", \"text\": \"De Sveciæ Insignibus 273, De orbibus tribus aureis 278, Hadorphs Myntebok 280, De Sepultura veterum 281, Hadorphs antikvariska beskrivning av Sverige 282, Schefferus' Upsalia 283, Schefferus' Lapponia 284, Svecia-verket 286, Loccenius' text 287, Sveciaverket och Antikvitetskollegiet 305, Örnhielms text 309.\"}, {\"bbox\": [476, 1143, 1511, 1188], \"category\": \"List-item\", \"text\": \"Litterära strider 319\"}, {\"bbox\": [556, 1191, 1436, 1373], \"category\": \"Text\", \"text\": \"Stridsanledningar 319, De Hyperboreis 320, Rudbeck 320, Schefferus' Upsalia 322, Hervararsagan 325, Incerti Scriptoris Chronicon 327, Auctarium 331, Epistola defensoria 340, Förbud mot stridens fortsättning 344, Biskop Karls annotationer 351, Schefferus' motskrift 357, Verelius' Notæ 363, Kungabrevet 1681 364, Anfallet på Atlantican 1685 366, Beslaget på tryckeriet 371, Brevet till konsistoriet 375, Brevet till De la Gardie 379, De la Gardies svar 390, Rudbecks seger 399.\"}, {\"bbox\": [472, 1798, 549, 1835], \"category\": \"Page-footer\", \"text\": \"404\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    919,
+    237,
+    1079,
+    272
+   ],
+   "category": "Section-header",
+   "text": "Innehåll"
+  },
+  {
+   "bbox": [
+    476,
+    305,
+    1519,
+    351
+   ],
+   "category": "List-item",
+   "text": "Urkundsutgivning 187"
+  },
+  {
+   "bbox": [
+    556,
+    354,
+    1439,
+    506
+   ],
+   "category": "Text",
+   "text": "Recesserna och landslagen 187, Hadorph får uppdrag att samla recesser 188, Practica legum utarbetas 189, Betänkligheter 194, Censuren 195, Frågan om Practica legum återupptages 201, Recessernas slutliga öde 209, Biärköarätten 211, Schmedeman 213, Återstoden av Hadorphs samling 215, Arbete på ett Diplomatarium 217, Tryck av medeltida diplom 221, Örnhielm 225."
+  },
+  {
+   "bbox": [
+    476,
+    538,
+    1517,
+    583
+   ],
+   "category": "List-item",
+   "text": "Svenska medeltidsskrifter 227"
+  },
+  {
+   "bbox": [
+    556,
+    586,
+    1439,
+    736
+   ],
+   "category": "Text",
+   "text": "Hadorphs editioner 227, Alexander Magnus 228, Rimkrönikorna 231, Prosaiska krönikan 235, Olofskrönikor 235, Biskopskrönikor 236, Olavus och Laurentius Petris krönikor 236, Schefferus' editioner 238, Konungastyrelsen 239, Incerti Scriptoris chronicon 242, Vita et Miracula S. Erici 245, Arrhenius Vita Anscharii 245, Svecia Sancta 246."
+  },
+  {
+   "bbox": [
+    476,
+    769,
+    1514,
+    814
+   ],
+   "category": "List-item",
+   "text": "Historiska skrifter 249"
+  },
+  {
+   "bbox": [
+    556,
+    817,
+    1436,
+    908
+   ],
+   "category": "Text",
+   "text": "Historiografernas arbeten 249, Antiquitates externæ 249, Saavedra 250, Emanuel Thesaurus 251, Anticluverius 261, Verelius 262, Loccenius 263, Schefferus 265, Historia Ecclesiastica 266, Svecia litterata 271."
+  },
+  {
+   "bbox": [
+    476,
+    941,
+    1509,
+    986
+   ],
+   "category": "List-item",
+   "text": "Arkeologiska skrifter, folk- och ortbeskrivningar 273"
+  },
+  {
+   "bbox": [
+    556,
+    989,
+    1436,
+    1112
+   ],
+   "category": "Text",
+   "text": "De Sveciæ Insignibus 273, De orbibus tribus aureis 278, Hadorphs Myntebok 280, De Sepultura veterum 281, Hadorphs antikvariska beskrivning av Sverige 282, Schefferus' Upsalia 283, Schefferus' Lapponia 284, Svecia-verket 286, Loccenius' text 287, Sveciaverket och Antikvitetskollegiet 305, Örnhielms text 309."
+  },
+  {
+   "bbox": [
+    476,
+    1143,
+    1511,
+    1188
+   ],
+   "category": "List-item",
+   "text": "Litterära strider 319"
+  },
+  {
+   "bbox": [
+    556,
+    1191,
+    1436,
+    1373
+   ],
+   "category": "Text",
+   "text": "Stridsanledningar 319, De Hyperboreis 320, Rudbeck 320, Schefferus' Upsalia 322, Hervararsagan 325, Incerti Scriptoris Chronicon 327, Auctarium 331, Epistola defensoria 340, Förbud mot stridens fortsättning 344, Biskop Karls annotationer 351, Schefferus' motskrift 357, Verelius' Notæ 363, Kungabrevet 1681 364, Anfallet på Atlantican 1685 366, Beslaget på tryckeriet 371, Brevet till konsistoriet 375, Brevet till De la Gardie 379, De la Gardies svar 390, Rudbecks seger 399."
+  },
+  {
+   "bbox": [
+    472,
+    1798,
+    549,
+    1835
+   ],
+   "category": "Page-footer",
+   "text": "404"
+  }
+ ]
+}

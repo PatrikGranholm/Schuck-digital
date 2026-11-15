@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 413,
+ "seconds": 35.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [808, 240, 1227, 284], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [492, 310, 1539, 435], \"category\": \"Text\", \"text\": \"Atlantica ok likväl hafver H. Hadorfius sagt för B. S. Sten, att han aldrigh henne läst, uthan hafver nu begynt til att wilia läsa henne igenom».\"}, {\"bbox\": [490, 435, 1539, 855], \"category\": \"Text\", \"text\": \"Det är tydligt, att De la Gardie begagnat detta bref i det svar, som han slutligen, den 18 juni, avskickade till antikvitetskollegiet. Då han i detta särskilt anspelar på en person, som alltid förföljt honom, kan han därmed ej mena någon annan än Örnhielm. Han tar här också kraftigt till orda mot dennes gamla, här upprepade beskyllning, att han skulle påverkas av några hemliga rapporter från Rudbeck — en beskyllning, vars befogenhet likväl framgår av dennes egna brev — och Rudbecks förtjänster upphöjas här så kraftigt, att denne ej kunnat skriva fördelaktigare om sig själv. Hans brev, som kan betraktas såsom hans avsked till kollegiet, lyder¹:\"}, {\"bbox\": [488, 856, 1536, 940], \"category\": \"Text\", \"text\": \"»Edle, Ehreborne och höglärde gode herrar Collegii Antiquitatis i Upsala Ledamöter.\"}, {\"bbox\": [484, 940, 1536, 1606], \"category\": \"Text\", \"text\": \"Det inhändigas mig emot all förmodan ett Edert bref, skrifwit i Stockholm d. 4 junii (skall vara d. 3 juni), med hwilket Jag önskat af gode skäl att blifwa förskont. Icke så stort för det förtreet bem:te bref mig förorsakar, som fast mera för den prostitution Edert Collegio händer därigenom, hwars nampn så beklageligen till privat passioners öfwerhöljande brukas. Jag hafwer hoos mig icke uthan bekymmer öfwerlagt, om iag skulle med stillatigande döda denne händelsen, emedan gemenl. så skeer: spreta vilescunt. Men kraftigar[e] skäl aftwinga mig swaret, och det på vårt egit modersmål, så att af allom, om så behöfwes, det må förstås. Jag contesterar altså först och främst, att hwad i detta mitt bref sensibelt finnas torde, icke Länder till det Collegium, för hwilket iag altid een särdeles æstime och trogen omwårdnat conserverat, uthan till een eller annan Persson i Collegio, som så obetänkt som offtast mig med oförtiente subsoner injurierat. Hwad altså det första i det så kallade Collegii Antiquitatum bref widkommer, seer Jag, att Collegium muterat locum och\"}, {\"bbox\": [482, 1613, 1531, 1768], \"category\": \"Footnote\", \"text\": \"¹ Brevet finnes i original V. H. A. A. Ant. koll. Inkomna skrivelser. På brevet har — troligen av Rudbeck — tecknats: »Detta lefwererades mig af hr. Axehielm d. 29 jun. kl. 7 om aftonen». (Jämför sid. 398.) De la Gardie tyckes således hava skickat brevet till Axehielm, som enligt hans mening fortfarande var kollegiets præses. Det var även med avsikt, som han adresserade brevet till »Collegium Antiquitatis i Upsala».\"}, {\"bbox\": [335, 440, 484, 497], \"category\": \"Text\", \"text\": \"De la Gardies svar\"}, {\"bbox\": [485, 1798, 561, 1839], \"category\": \"Page-footer\", \"text\": \"390\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    808,
+    240,
+    1227,
+    284
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    492,
+    310,
+    1539,
+    435
+   ],
+   "category": "Text",
+   "text": "Atlantica ok likväl hafver H. Hadorfius sagt för B. S. Sten, att han aldrigh henne läst, uthan hafver nu begynt til att wilia läsa henne igenom»."
+  },
+  {
+   "bbox": [
+    490,
+    435,
+    1539,
+    855
+   ],
+   "category": "Text",
+   "text": "Det är tydligt, att De la Gardie begagnat detta bref i det svar, som han slutligen, den 18 juni, avskickade till antikvitetskollegiet. Då han i detta särskilt anspelar på en person, som alltid förföljt honom, kan han därmed ej mena någon annan än Örnhielm. Han tar här också kraftigt till orda mot dennes gamla, här upprepade beskyllning, att han skulle påverkas av några hemliga rapporter från Rudbeck — en beskyllning, vars befogenhet likväl framgår av dennes egna brev — och Rudbecks förtjänster upphöjas här så kraftigt, att denne ej kunnat skriva fördelaktigare om sig själv. Hans brev, som kan betraktas såsom hans avsked till kollegiet, lyder¹:"
+  },
+  {
+   "bbox": [
+    488,
+    856,
+    1536,
+    940
+   ],
+   "category": "Text",
+   "text": "»Edle, Ehreborne och höglärde gode herrar Collegii Antiquitatis i Upsala Ledamöter."
+  },
+  {
+   "bbox": [
+    484,
+    940,
+    1536,
+    1606
+   ],
+   "category": "Text",
+   "text": "Det inhändigas mig emot all förmodan ett Edert bref, skrifwit i Stockholm d. 4 junii (skall vara d. 3 juni), med hwilket Jag önskat af gode skäl att blifwa förskont. Icke så stort för det förtreet bem:te bref mig förorsakar, som fast mera för den prostitution Edert Collegio händer därigenom, hwars nampn så beklageligen till privat passioners öfwerhöljande brukas. Jag hafwer hoos mig icke uthan bekymmer öfwerlagt, om iag skulle med stillatigande döda denne händelsen, emedan gemenl. så skeer: spreta vilescunt. Men kraftigar[e] skäl aftwinga mig swaret, och det på vårt egit modersmål, så att af allom, om så behöfwes, det må förstås. Jag contesterar altså först och främst, att hwad i detta mitt bref sensibelt finnas torde, icke Länder till det Collegium, för hwilket iag altid een särdeles æstime och trogen omwårdnat conserverat, uthan till een eller annan Persson i Collegio, som så obetänkt som offtast mig med oförtiente subsoner injurierat. Hwad altså det första i det så kallade Collegii Antiquitatum bref widkommer, seer Jag, att Collegium muterat locum och"
+  },
+  {
+   "bbox": [
+    482,
+    1613,
+    1531,
+    1768
+   ],
+   "category": "Footnote",
+   "text": "¹ Brevet finnes i original V. H. A. A. Ant. koll. Inkomna skrivelser. På brevet har — troligen av Rudbeck — tecknats: »Detta lefwererades mig af hr. Axehielm d. 29 jun. kl. 7 om aftonen». (Jämför sid. 398.) De la Gardie tyckes således hava skickat brevet till Axehielm, som enligt hans mening fortfarande var kollegiets præses. Det var även med avsikt, som han adresserade brevet till »Collegium Antiquitatis i Upsala»."
+  },
+  {
+   "bbox": [
+    335,
+    440,
+    484,
+    497
+   ],
+   "category": "Text",
+   "text": "De la Gardies svar"
+  },
+  {
+   "bbox": [
+    485,
+    1798,
+    561,
+    1839
+   ],
+   "category": "Page-footer",
+   "text": "390"
+  }
+ ]
+}

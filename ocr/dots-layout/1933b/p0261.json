@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 261,
+ "seconds": 24.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [776, 236, 1197, 279], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [464, 306, 1509, 685], \"category\": \"Text\", \"text\": \"De la Gardie: »Nunc a Majestate Tua instituto Patriæ Antiquitatum Upsaliæ Collegio effectum, ut sperare liceat monumentis priscis lumen nominisque Svetici non minorem quam cujusquam etiam laudatissimæ gentis alterius celebritatem. Et en Majestati Tuæ spei ejus argumentum, ut confido, haud spernendum præsens hoc opusculum, quod consilio suasuque meo, cujus moderamini negocia Collegii illius subdidisti, his diebus elaboratum velut primitias fructusque novellos jure meritoque Majestati Tuæ offero gratiæque quantum possum commendo».\"}, {\"bbox\": [464, 681, 1512, 1764], \"category\": \"Text\", \"text\": \"För det avsedda syftet — en edition för utlandets lärda värld — måste Schefferus’ upplaga, som kom att inleda antikvitetskollegiets skriftserie, betecknas såsom synnerligen god. Kommentaren lider ej av det fel, som ofta vidlåder denna tids lärda utredningar — att vara ett oredigt hopande av lärdomsstoff och citat — utan är sakrik och upplysande, och företalet till läsaren är skrivet av en filolog, som var huvudet högre än de samtida svenskarna. Egendomligt nog hade redan nu rests tvivel på Konungastyrelsens äkthet, och dessa tvivel vederlade Schefferus med skäl, som fortfarande äga gällande kraft. Hans argumentering förtjänar därför ännu att läsas: »Opusculi præsentis liquido indicare auctorem, quia ipse nomen suum apponere vel noluit vel neglexit, nobis quidem haud est facile. Id tamen affirmare audemus minime consentientem vero illorum esse sententiam, qui non ita pridem et sub Gustavo Magno demum adseuerant si non ortum, certe interpolatum. Nihil quippe video, quo hanc sententiam vel in speciem valeant probare. Liquet nempe scriptum hoc compositum in gratiam usumque Regis alicujus sive paulo ante ad imperium admoti, sive breviter admovendi. At vero ad Gustavum Magnum diu in imperio jam constitutum auctumque filia perlatum, ut præfatio Buræi monstrat. Sed nec, si in usus ejus scribi debuit, causa reddi potest apta et sufficiens, cur auctor ejus lingva veteri ac obsoleta quam recepta uti maluerit. Non profecto is Gustavus erat, qui doctrinis salutaribus non moveretur, nisi ab antiquitate commendationem et auctoritatem essent mutuatæ. Sed nec scio satis, num ætate illa fuerint, qui hoc obsoleto genere in concinnando tali opere ludos aptos possent facere. De Buræo enim\"}, {\"bbox\": [470, 1799, 543, 1837], \"category\": \"Page-footer\", \"text\": \"240\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    776,
+    236,
+    1197,
+    279
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    464,
+    306,
+    1509,
+    685
+   ],
+   "category": "Text",
+   "text": "De la Gardie: »Nunc a Majestate Tua instituto Patriæ Antiquitatum Upsaliæ Collegio effectum, ut sperare liceat monumentis priscis lumen nominisque Svetici non minorem quam cujusquam etiam laudatissimæ gentis alterius celebritatem. Et en Majestati Tuæ spei ejus argumentum, ut confido, haud spernendum præsens hoc opusculum, quod consilio suasuque meo, cujus moderamini negocia Collegii illius subdidisti, his diebus elaboratum velut primitias fructusque novellos jure meritoque Majestati Tuæ offero gratiæque quantum possum commendo»."
+  },
+  {
+   "bbox": [
+    464,
+    681,
+    1512,
+    1764
+   ],
+   "category": "Text",
+   "text": "För det avsedda syftet — en edition för utlandets lärda värld — måste Schefferus’ upplaga, som kom att inleda antikvitetskollegiets skriftserie, betecknas såsom synnerligen god. Kommentaren lider ej av det fel, som ofta vidlåder denna tids lärda utredningar — att vara ett oredigt hopande av lärdomsstoff och citat — utan är sakrik och upplysande, och företalet till läsaren är skrivet av en filolog, som var huvudet högre än de samtida svenskarna. Egendomligt nog hade redan nu rests tvivel på Konungastyrelsens äkthet, och dessa tvivel vederlade Schefferus med skäl, som fortfarande äga gällande kraft. Hans argumentering förtjänar därför ännu att läsas: »Opusculi præsentis liquido indicare auctorem, quia ipse nomen suum apponere vel noluit vel neglexit, nobis quidem haud est facile. Id tamen affirmare audemus minime consentientem vero illorum esse sententiam, qui non ita pridem et sub Gustavo Magno demum adseuerant si non ortum, certe interpolatum. Nihil quippe video, quo hanc sententiam vel in speciem valeant probare. Liquet nempe scriptum hoc compositum in gratiam usumque Regis alicujus sive paulo ante ad imperium admoti, sive breviter admovendi. At vero ad Gustavum Magnum diu in imperio jam constitutum auctumque filia perlatum, ut præfatio Buræi monstrat. Sed nec, si in usus ejus scribi debuit, causa reddi potest apta et sufficiens, cur auctor ejus lingva veteri ac obsoleta quam recepta uti maluerit. Non profecto is Gustavus erat, qui doctrinis salutaribus non moveretur, nisi ab antiquitate commendationem et auctoritatem essent mutuatæ. Sed nec scio satis, num ætate illa fuerint, qui hoc obsoleto genere in concinnando tali opere ludos aptos possent facere. De Buræo enim"
+  },
+  {
+   "bbox": [
+    470,
+    1799,
+    543,
+    1837
+   ],
+   "category": "Page-footer",
+   "text": "240"
+  }
+ ]
+}

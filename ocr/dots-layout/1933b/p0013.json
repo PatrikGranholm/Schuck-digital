@@ -1,0 +1,31 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 13,
+ "seconds": 8.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [781, 1005, 917, 1163], \"category\": \"Picture\"}, {\"bbox\": [782, 1169, 914, 1217], \"category\": \"Text\", \"text\": \"CENTRAL-\\nBIBLIOTEKET\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    781,
+    1005,
+    917,
+    1163
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    782,
+    1169,
+    914,
+    1217
+   ],
+   "category": "Text",
+   "text": "CENTRAL-\nBIBLIOTEKET"
+  }
+ ]
+}

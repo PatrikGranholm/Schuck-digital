@@ -1,0 +1,172 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 47,
+ "seconds": 32.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [787, 239, 1203, 282], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [475, 309, 1511, 386], \"category\": \"Text\", \"text\": \"Anmärkelser, nu första gång i Swerige med nödige Register uplagd i Stockholm 1677.\"}, {\"bbox\": [321, 386, 1511, 463], \"category\": \"List-item\", \"text\": \"Joan. Scheffer. Om Upsala Nampnet och dess Belägenhet en kort Beskrifning. Tryckt i Stockholm Åhr 1677.\"}, {\"bbox\": [321, 463, 1511, 611], \"category\": \"List-item\", \"text\": \"Joan. Scheffer. Ett nytt Wärk om Sweriges Rikes uhrgamble Skiöldemärke dhe 3 Croner med Kopparstycken, hwar efter och några Påminnelser äro tillagde äfwen med Kopparstycken af Joh. Hadorphio öfwersände. Uplagdt Stockholm 1678.\"}, {\"bbox\": [353, 613, 1232, 654], \"category\": \"List-item\", \"text\": \"Olof. Verel. Anmärkningar af Biskop Carls Skriffter i Westerås.\"}, {\"bbox\": [325, 656, 1068, 695], \"category\": \"List-item\", \"text\": \"Joan. Scheffer. Betänkiande om samma Anmärkningar.\"}, {\"bbox\": [325, 695, 1513, 767], \"category\": \"List-item\", \"text\": \"Joan. Scheffer. En Book om alla lärde Mäns Skrifter i Swerige uplagde. Tryckt i Stockholm Åhr 1680.\"}, {\"bbox\": [325, 771, 1513, 921], \"category\": \"List-item\", \"text\": \"Joh. Hadorph. Giöran Stiernhielms Förswarelse Skrifft emot Philippum Cluverium, som nekar Götharnes Ursprung af Scandia, hwilket dock här med månge Skiäl bewises, så och en kort Underwisning om dhe rätta Hyberboreis eller Namnkunnigste Nordiske Folcket på Scandia, tryckt i Stockholm Åhr 1685.\"}, {\"bbox\": [350, 927, 1515, 1040], \"category\": \"List-item\", \"text\": \"Sam. Pufendorf. Historien om det Tyska Kriget och andra Swenska Saker, ifrån K. Gustaf Adolphs första Uthgang på Tyska Botnen in till Drotning Christinæ Regements Slut. Uplagd i Ytrecht Åhr 1686.\"}, {\"bbox\": [521, 1040, 1203, 1081], \"category\": \"Text\", \"text\": \"Inledning till Swenska Historien. Tryckt 1687.\"}, {\"bbox\": [327, 1081, 1515, 1228], \"category\": \"List-item\", \"text\": \"Joh. Hadorph. Biörköa Rätten, som fordom i den gambla Sweriges Hufwud-Staden Biörckö har brukat warit, på gammal Pergament igen funnen och med någre äldste Stadgar samt en fullkomlig Ordelista. Uplagd i Stockholm Åhr 1687.\"}, {\"bbox\": [369, 1228, 1519, 1378], \"category\": \"List-item\", \"text\": \"Joh. Had. Gotlands ofgambla Lands Lag på Pergament med en gammal Beskrifning efter om Gotlands första Upfinnelse, Besättning af Folck, och huru det under Swea Konung är kommit, uplagd med en ny Uttolkning på vårt nu brukelige Språk och en fullkomlig Ordelista. Stockholm Åhr 1687.\"}, {\"bbox\": [369, 1382, 1519, 1497], \"category\": \"List-item\", \"text\": \"Joh. Had. Wissby gambla Stads-Lag på Pergament och gammal Tyska skrifwen, men nu in på vårt brukelige Swenska Språk wänd och uplagd i bägge Språken med en fullkomlig Ordelista. Stockholm Åhr 1688.\"}, {\"bbox\": [358, 1499, 1521, 1686], \"category\": \"List-item\", \"text\": \"Claud. Örnihielm. Swea och Götharijkes Kyrkio Historiæ första Deel på Latin ifrån Christendomens Begynnelse och intill K. Swerkers den andres Död förfärdigat, uthi hwilken för Sakernes sammanhängiande skull mycket införes, som till det Werldslige Regementets Historier länder, hwar jemte ett nödigt Register är bifogat; Tryckt i Stockholm Åhr 1688. och 1689.\"}, {\"bbox\": [334, 1690, 1523, 1770], \"category\": \"List-item\", \"text\": \"Joh. Hadorph. Wissby Siörätt, then gambla, som fordom hafwer brukat warit på många Orter och på åtskillige Tungomål afsatt, jämförd med gamble Hollandske\"}, {\"bbox\": [491, 1805, 540, 1843], \"category\": \"Page-footer\", \"text\": \"34\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    787,
+    239,
+    1203,
+    282
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    475,
+    309,
+    1511,
+    386
+   ],
+   "category": "Text",
+   "text": "Anmärkelser, nu första gång i Swerige med nödige Register uplagd i Stockholm 1677."
+  },
+  {
+   "bbox": [
+    321,
+    386,
+    1511,
+    463
+   ],
+   "category": "List-item",
+   "text": "Joan. Scheffer. Om Upsala Nampnet och dess Belägenhet en kort Beskrifning. Tryckt i Stockholm Åhr 1677."
+  },
+  {
+   "bbox": [
+    321,
+    463,
+    1511,
+    611
+   ],
+   "category": "List-item",
+   "text": "Joan. Scheffer. Ett nytt Wärk om Sweriges Rikes uhrgamble Skiöldemärke dhe 3 Croner med Kopparstycken, hwar efter och några Påminnelser äro tillagde äfwen med Kopparstycken af Joh. Hadorphio öfwersände. Uplagdt Stockholm 1678."
+  },
+  {
+   "bbox": [
+    353,
+    613,
+    1232,
+    654
+   ],
+   "category": "List-item",
+   "text": "Olof. Verel. Anmärkningar af Biskop Carls Skriffter i Westerås."
+  },
+  {
+   "bbox": [
+    325,
+    656,
+    1068,
+    695
+   ],
+   "category": "List-item",
+   "text": "Joan. Scheffer. Betänkiande om samma Anmärkningar."
+  },
+  {
+   "bbox": [
+    325,
+    695,
+    1513,
+    767
+   ],
+   "category": "List-item",
+   "text": "Joan. Scheffer. En Book om alla lärde Mäns Skrifter i Swerige uplagde. Tryckt i Stockholm Åhr 1680."
+  },
+  {
+   "bbox": [
+    325,
+    771,
+    1513,
+    921
+   ],
+   "category": "List-item",
+   "text": "Joh. Hadorph. Giöran Stiernhielms Förswarelse Skrifft emot Philippum Cluverium, som nekar Götharnes Ursprung af Scandia, hwilket dock här med månge Skiäl bewises, så och en kort Underwisning om dhe rätta Hyberboreis eller Namnkunnigste Nordiske Folcket på Scandia, tryckt i Stockholm Åhr 1685."
+  },
+  {
+   "bbox": [
+    350,
+    927,
+    1515,
+    1040
+   ],
+   "category": "List-item",
+   "text": "Sam. Pufendorf. Historien om det Tyska Kriget och andra Swenska Saker, ifrån K. Gustaf Adolphs första Uthgang på Tyska Botnen in till Drotning Christinæ Regements Slut. Uplagd i Ytrecht Åhr 1686."
+  },
+  {
+   "bbox": [
+    521,
+    1040,
+    1203,
+    1081
+   ],
+   "category": "Text",
+   "text": "Inledning till Swenska Historien. Tryckt 1687."
+  },
+  {
+   "bbox": [
+    327,
+    1081,
+    1515,
+    1228
+   ],
+   "category": "List-item",
+   "text": "Joh. Hadorph. Biörköa Rätten, som fordom i den gambla Sweriges Hufwud-Staden Biörckö har brukat warit, på gammal Pergament igen funnen och med någre äldste Stadgar samt en fullkomlig Ordelista. Uplagd i Stockholm Åhr 1687."
+  },
+  {
+   "bbox": [
+    369,
+    1228,
+    1519,
+    1378
+   ],
+   "category": "List-item",
+   "text": "Joh. Had. Gotlands ofgambla Lands Lag på Pergament med en gammal Beskrifning efter om Gotlands första Upfinnelse, Besättning af Folck, och huru det under Swea Konung är kommit, uplagd med en ny Uttolkning på vårt nu brukelige Språk och en fullkomlig Ordelista. Stockholm Åhr 1687."
+  },
+  {
+   "bbox": [
+    369,
+    1382,
+    1519,
+    1497
+   ],
+   "category": "List-item",
+   "text": "Joh. Had. Wissby gambla Stads-Lag på Pergament och gammal Tyska skrifwen, men nu in på vårt brukelige Swenska Språk wänd och uplagd i bägge Språken med en fullkomlig Ordelista. Stockholm Åhr 1688."
+  },
+  {
+   "bbox": [
+    358,
+    1499,
+    1521,
+    1686
+   ],
+   "category": "List-item",
+   "text": "Claud. Örnihielm. Swea och Götharijkes Kyrkio Historiæ första Deel på Latin ifrån Christendomens Begynnelse och intill K. Swerkers den andres Död förfärdigat, uthi hwilken för Sakernes sammanhängiande skull mycket införes, som till det Werldslige Regementets Historier länder, hwar jemte ett nödigt Register är bifogat; Tryckt i Stockholm Åhr 1688. och 1689."
+  },
+  {
+   "bbox": [
+    334,
+    1690,
+    1523,
+    1770
+   ],
+   "category": "List-item",
+   "text": "Joh. Hadorph. Wissby Siörätt, then gambla, som fordom hafwer brukat warit på många Orter och på åtskillige Tungomål afsatt, jämförd med gamble Hollandske"
+  },
+  {
+   "bbox": [
+    491,
+    1805,
+    540,
+    1843
+   ],
+   "category": "Page-footer",
+   "text": "34"
+  }
+ ]
+}

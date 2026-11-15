@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 27,
+ "seconds": 22.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [771, 250, 1188, 293], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [534, 321, 858, 360], \"category\": \"Text\", \"text\": \"Än att befordras 1671\"}, {\"bbox\": [461, 364, 1304, 440], \"category\": \"Table\", \"text\": \"<table><tr><td>Olaus och Laurentius Petri</td><td>I</td></tr><tr><td>Dahla Lagen</td><td>I</td></tr></table>\"}, {\"bbox\": [496, 452, 1455, 495], \"category\": \"Text\", \"text\": \"Förslagh af hwad förmodas att frambättre kunna förfärdigas\"}, {\"bbox\": [466, 501, 1496, 1581], \"category\": \"Table\", \"text\": \"<table><thead><tr><th>Annis 1672 och 1673</th><th>I Stock.</th><th>I Ups.</th></tr></thead><tbody><tr><td>1) Loccenij Topographia Sueciæ medh Öfwerst. Dahl-bergz Kopparstycken</td><td rowspan=\\\"2\\\">2</td><td></td></tr><tr><td>2) Item Historia Caroli Gustavi medh dito kopparstycken</td><td></td></tr><tr><td>3) Johannes Magni skall vpläggias cum Iconibus Regum Cura [ej utskrivet]</td><td>I</td><td></td></tr><tr><td>4) Hadorphij Runstenar et de sepultura veterum in Suecia</td><td>I</td><td></td></tr><tr><td>5) Celsius de Fastis Suecorum cum Burej Calendario perpetuo</td><td></td><td>I</td></tr><tr><td>6) Såsom och Mythologiæ Eddicæ Eiusdem</td><td></td><td>I</td></tr><tr><td>7) Vilcina, hoc est Dilemerj (= Filemeri) Sagha, Attilæ och Theodoricj</td><td>I</td><td></td></tr><tr><td>8) Barlamj Tragamanna(!) Sagha och några flera</td><td>I</td><td></td></tr><tr><td>9) Schefferj Commentarius in Adamum Bremensem</td><td></td><td>I</td></tr><tr><td>10) Eiusdem opusculum de Scriptis et Scriptoribus Suecorum</td><td>I</td><td></td></tr><tr><td>11) Hadorphij opus de practica legum, Item genealogiæ Illustrium virorum et Nobilitatis, item de Sigillis</td><td></td><td>I</td></tr><tr><td>12) Stiernhökens Historia Iuris Sueticj</td><td></td><td>I</td></tr><tr><td>13) Arhenj Corona Gothica Savedræ et Itali cujusdam Scriptum de Regibus Gothorum på latin och swenska</td><td></td><td>I</td></tr><tr><td>14) Boclerj (= Boecleri) bellum danicum de A:o 1643</td><td></td><td>I</td></tr><tr><td>15) Islandj Rougmans Olof tryggesons sagha och gamble skallderne, item fragmenta legum</td><td>I</td><td></td></tr><tr><td>16) Hadorphius de tribus Coronis</td><td>I</td><td></td></tr><tr><td>17) Idem de re monetaria</td><td>I</td><td></td></tr><tr><td>18) Edda af H. Werelio</td><td></td><td>I</td></tr><tr><td>19) Vita et mores Lapponum</td><td></td><td>I».</td></tr></tbody></table>\"}, {\"bbox\": [466, 1602, 1499, 1720], \"category\": \"Text\", \"text\": \"Men även bilaga 1 torde finnas kvar (R. A. Handl. ang. Antikvitetskoll. II) Ett koncept till stat för 1671 slutar nämligen med följande påminnelse:\"}, {\"bbox\": [499, 1731, 1499, 1769], \"category\": \"Text\", \"text\": \"»Men härmedh moste ofelbart de arbeten komma innom detta\"}, {\"bbox\": [471, 1813, 520, 1849], \"category\": \"Page-footer\", \"text\": \"14\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    771,
+    250,
+    1188,
+    293
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    534,
+    321,
+    858,
+    360
+   ],
+   "category": "Text",
+   "text": "Än att befordras 1671"
+  },
+  {
+   "bbox": [
+    461,
+    364,
+    1304,
+    440
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>Olaus och Laurentius Petri</td><td>I</td></tr><tr><td>Dahla Lagen</td><td>I</td></tr></table>"
+  },
+  {
+   "bbox": [
+    496,
+    452,
+    1455,
+    495
+   ],
+   "category": "Text",
+   "text": "Förslagh af hwad förmodas att frambättre kunna förfärdigas"
+  },
+  {
+   "bbox": [
+    466,
+    501,
+    1496,
+    1581
+   ],
+   "category": "Table",
+   "text": "<table><thead><tr><th>Annis 1672 och 1673</th><th>I Stock.</th><th>I Ups.</th></tr></thead><tbody><tr><td>1) Loccenij Topographia Sueciæ medh Öfwerst. Dahl-bergz Kopparstycken</td><td rowspan=\"2\">2</td><td></td></tr><tr><td>2) Item Historia Caroli Gustavi medh dito kopparstycken</td><td></td></tr><tr><td>3) Johannes Magni skall vpläggias cum Iconibus Regum Cura [ej utskrivet]</td><td>I</td><td></td></tr><tr><td>4) Hadorphij Runstenar et de sepultura veterum in Suecia</td><td>I</td><td></td></tr><tr><td>5) Celsius de Fastis Suecorum cum Burej Calendario perpetuo</td><td></td><td>I</td></tr><tr><td>6) Såsom och Mythologiæ Eddicæ Eiusdem</td><td></td><td>I</td></tr><tr><td>7) Vilcina, hoc est Dilemerj (= Filemeri) Sagha, Attilæ och Theodoricj</td><td>I</td><td></td></tr><tr><td>8) Barlamj Tragamanna(!) Sagha och några flera</td><td>I</td><td></td></tr><tr><td>9) Schefferj Commentarius in Adamum Bremensem</td><td></td><td>I</td></tr><tr><td>10) Eiusdem opusculum de Scriptis et Scriptoribus Suecorum</td><td>I</td><td></td></tr><tr><td>11) Hadorphij opus de practica legum, Item genealogiæ Illustrium virorum et Nobilitatis, item de Sigillis</td><td></td><td>I</td></tr><tr><td>12) Stiernhökens Historia Iuris Sueticj</td><td></td><td>I</td></tr><tr><td>13) Arhenj Corona Gothica Savedræ et Itali cujusdam Scriptum de Regibus Gothorum på latin och swenska</td><td></td><td>I</td></tr><tr><td>14) Boclerj (= Boecleri) bellum danicum de A:o 1643</td><td></td><td>I</td></tr><tr><td>15) Islandj Rougmans Olof tryggesons sagha och gamble skallderne, item fragmenta legum</td><td>I</td><td></td></tr><tr><td>16) Hadorphius de tribus Coronis</td><td>I</td><td></td></tr><tr><td>17) Idem de re monetaria</td><td>I</td><td></td></tr><tr><td>18) Edda af H. Werelio</td><td></td><td>I</td></tr><tr><td>19) Vita et mores Lapponum</td><td></td><td>I».</td></tr></tbody></table>"
+  },
+  {
+   "bbox": [
+    466,
+    1602,
+    1499,
+    1720
+   ],
+   "category": "Text",
+   "text": "Men även bilaga 1 torde finnas kvar (R. A. Handl. ang. Antikvitetskoll. II) Ett koncept till stat för 1671 slutar nämligen med följande påminnelse:"
+  },
+  {
+   "bbox": [
+    499,
+    1731,
+    1499,
+    1769
+   ],
+   "category": "Text",
+   "text": "»Men härmedh moste ofelbart de arbeten komma innom detta"
+  },
+  {
+   "bbox": [
+    471,
+    1813,
+    520,
+    1849
+   ],
+   "category": "Page-footer",
+   "text": "14"
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 237,
+ "seconds": 28.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [790, 242, 1207, 284], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [517, 311, 1412, 351], \"category\": \"List-item\", \"text\": \"3) Domare Reglorne, som effterst i wår Swenske Lagbok finnas.\"}, {\"bbox\": [477, 353, 1522, 462], \"category\": \"List-item\", \"text\": \"1282. K. Magni Ladulåses Stadga dat. Stockh. 1282 § 5. Ingen må komma till Rijkzdagen uthan den, som warder kallader, så frampt han icke hafwer torfftelig fall och kommer å sielfz sins kost.\"}, {\"bbox\": [477, 465, 1522, 647], \"category\": \"List-item\", \"text\": \"1285. K. Magni Ladulåses Bref dat. alnö 1285 § 1. Effter en långlig osedh hafwer warit, att hwar ok en resande will fritt gästa fattiga manna huus uthan betalning och nöta thet upp i en liten stund, som den fattige hafwer arbetat före, ty aflyses sådant och wägfarande män skole sig sielf kost råde för peningar.\"}, {\"bbox\": [570, 644, 1520, 718], \"category\": \"Text\", \"text\": \"N. B. Exceptio om Krigztog, som frij fordenskap denne tijd effter Rijkz Besl. 1649 och 1655 bekomma.\"}, {\"bbox\": [570, 716, 1519, 791], \"category\": \"Text\", \"text\": \"§ 11 Undantages alla Konungzgårda, Biskopa, Riddara och Swena a wapn den plicht att gifwa eller sälja gäster något uthan de wilja.\"}, {\"bbox\": [568, 788, 1518, 897], \"category\": \"Text\", \"text\": \"§ 13 de, som konungen följa med råd och hielp, hafwe mera ähru än andra, alla deras Bryttia ock Landboo ok alle i deras godz äre warde liduge af allan Konungz liken rätt».\"}, {\"bbox\": [471, 935, 1516, 1228], \"category\": \"Text\", \"text\": \"På samma sätt refereras följande paragrafer i Skänningestadgan och därefter följa, år för år, övriga stadgar och förordningar. Det hela var således vad vi skulle säga en samling regesta, och datum hänvisade till den avskrift av själva dokumentet, som fanns i huvudsamlingen. Referaten inskränkte sig dock blott till sådana handlingar, som kunde hava betydelse för domstolarnas rättsskipning, och passade således för den Practica legum, som från början avsetts.\"}, {\"bbox\": [466, 1226, 1514, 1770], \"category\": \"Text\", \"text\": \"Av en annan karaktär är det andra registerbandet (sign. B 272): Ett Kort Register uppå Kongl. Stadgar, Placater och Ordningar sampt Rijks Besluter och Rijks Handlingar etc. som i Sweriges Rijke af forna tijder äre giorde och stadgade vnder wisse Titlar Efter den Ordning, som the uthj Sweriges Lag sitt fundament och grund hafwa, sammandragne af Johanne Hadorphio. Handlingarna äro här ordnade efter innehållet och avse ej blott praxis forensis. Rubrikerna äro ganska många: »Index Titulorum. 1) Regementz Formerna. 2) Arfföreningarne. 3) Försäkringar, Förskrifningar, Föreningar och Förlikningar. 4) ReligionsStadgar, Ordningar och Placater. 5) Gårdzrätterne. 6) Justitiæ handlingar om åtskillige måhl. 7) Rijkdagz Besluter, Bijafskeder och förnämbste Rijkzstadgar om åtskillige måhl. 8) Adels Privilegierne och dem angående handlingar. 9) Om\"}, {\"bbox\": [468, 1793, 541, 1831], \"category\": \"Page-footer\", \"text\": \"216\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    790,
+    242,
+    1207,
+    284
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    517,
+    311,
+    1412,
+    351
+   ],
+   "category": "List-item",
+   "text": "3) Domare Reglorne, som effterst i wår Swenske Lagbok finnas."
+  },
+  {
+   "bbox": [
+    477,
+    353,
+    1522,
+    462
+   ],
+   "category": "List-item",
+   "text": "1282. K. Magni Ladulåses Stadga dat. Stockh. 1282 § 5. Ingen må komma till Rijkzdagen uthan den, som warder kallader, så frampt han icke hafwer torfftelig fall och kommer å sielfz sins kost."
+  },
+  {
+   "bbox": [
+    477,
+    465,
+    1522,
+    647
+   ],
+   "category": "List-item",
+   "text": "1285. K. Magni Ladulåses Bref dat. alnö 1285 § 1. Effter en långlig osedh hafwer warit, att hwar ok en resande will fritt gästa fattiga manna huus uthan betalning och nöta thet upp i en liten stund, som den fattige hafwer arbetat före, ty aflyses sådant och wägfarande män skole sig sielf kost råde för peningar."
+  },
+  {
+   "bbox": [
+    570,
+    644,
+    1520,
+    718
+   ],
+   "category": "Text",
+   "text": "N. B. Exceptio om Krigztog, som frij fordenskap denne tijd effter Rijkz Besl. 1649 och 1655 bekomma."
+  },
+  {
+   "bbox": [
+    570,
+    716,
+    1519,
+    791
+   ],
+   "category": "Text",
+   "text": "§ 11 Undantages alla Konungzgårda, Biskopa, Riddara och Swena a wapn den plicht att gifwa eller sälja gäster något uthan de wilja."
+  },
+  {
+   "bbox": [
+    568,
+    788,
+    1518,
+    897
+   ],
+   "category": "Text",
+   "text": "§ 13 de, som konungen följa med råd och hielp, hafwe mera ähru än andra, alla deras Bryttia ock Landboo ok alle i deras godz äre warde liduge af allan Konungz liken rätt»."
+  },
+  {
+   "bbox": [
+    471,
+    935,
+    1516,
+    1228
+   ],
+   "category": "Text",
+   "text": "På samma sätt refereras följande paragrafer i Skänningestadgan och därefter följa, år för år, övriga stadgar och förordningar. Det hela var således vad vi skulle säga en samling regesta, och datum hänvisade till den avskrift av själva dokumentet, som fanns i huvudsamlingen. Referaten inskränkte sig dock blott till sådana handlingar, som kunde hava betydelse för domstolarnas rättsskipning, och passade således för den Practica legum, som från början avsetts."
+  },
+  {
+   "bbox": [
+    466,
+    1226,
+    1514,
+    1770
+   ],
+   "category": "Text",
+   "text": "Av en annan karaktär är det andra registerbandet (sign. B 272): Ett Kort Register uppå Kongl. Stadgar, Placater och Ordningar sampt Rijks Besluter och Rijks Handlingar etc. som i Sweriges Rijke af forna tijder äre giorde och stadgade vnder wisse Titlar Efter den Ordning, som the uthj Sweriges Lag sitt fundament och grund hafwa, sammandragne af Johanne Hadorphio. Handlingarna äro här ordnade efter innehållet och avse ej blott praxis forensis. Rubrikerna äro ganska många: »Index Titulorum. 1) Regementz Formerna. 2) Arfföreningarne. 3) Försäkringar, Förskrifningar, Föreningar och Förlikningar. 4) ReligionsStadgar, Ordningar och Placater. 5) Gårdzrätterne. 6) Justitiæ handlingar om åtskillige måhl. 7) Rijkdagz Besluter, Bijafskeder och förnämbste Rijkzstadgar om åtskillige måhl. 8) Adels Privilegierne och dem angående handlingar. 9) Om"
+  },
+  {
+   "bbox": [
+    468,
+    1793,
+    541,
+    1831
+   ],
+   "category": "Page-footer",
+   "text": "216"
+  }
+ ]
+}

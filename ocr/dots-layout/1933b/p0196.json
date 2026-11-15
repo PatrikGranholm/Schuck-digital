@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 196,
+ "seconds": 23.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [495, 532, 820, 568], \"category\": \"Section-header\", \"text\": \"## LAGEDITIONER.\"}, {\"bbox\": [131, 644, 1186, 1770], \"category\": \"Text\", \"text\": \"Inom den isländska filologien och runforskningen hade antikvitetskollegiet således uträttat ej så litet under den korta tid, under vilken det varit i verksamhet. Men till dess arbetsuppgifter hörde också den svenska medeltiden, framför allt dess lagar. Det så att säga antikvariska intresset för dem var nästan lika gammalt som intresset för runorna och kommer fram redan i Karl IX:s stadfästelsebrev till landslagen 1608. Konungen skriver där: »Och såsom Upplands och Östgöta laghböker äre alredhe efter wår nådighe befalning af Trycket vthgångne och the andre, som äre Sudhermanna, Wästgöta, Wäsmanna och Helsinge laghböker medh thet första skole blifwa förferdighede, Så äre wij och tillsinnes til at late tryckia Ölands, Smålands, Wermelands, Närikis och Finlands och flere landsändars Laghböker, så snart wij kunne af them någhre wisse och trowärdighe exemplaria öfwerkomma. Begäre förthenskuld af idher, trogne vndersåter, at såsom thetta ländar wårt heele Fädhernesland och thes Inbyggiare til myckin efterrättelse, ähro och berömelse, At j sådane exemplaria, så månge som j hafwe, wele lata komma oss til handa, om någhre sådane Laghböker hoos idher kunne finnas». Tre dylika landskapslagar utgåvos ock av trycket, Upplands och Östgöta 1607, Hälsinge 1609. Frånsett nya upplagor av dessa dröjde det sedan ända till 1663, innan en ny landskapslag utgavs, Stiernhielms förut omtalade edition av Västgötalagen, 1666 följd av Claudius Åkermans upplagor av Västmanna och Södermanna-lagarna. När sedan året därpå instruktionen för antikvitetskollegiet utfärdades, uppmärksammades också laghistorien, och bland kollegiets uppgifter sattes en »Historia Juris, bestående uthi alle gamble Lagar och stadgar, att man utaff dem uthsöker, på huadh sätt som\"}, {\"bbox\": [1193, 651, 1304, 713], \"category\": \"Text\", \"text\": \"Äldre lag-\\neditioner\"}, {\"bbox\": [1107, 1803, 1175, 1844], \"category\": \"Page-footer\", \"text\": \"175\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    495,
+    532,
+    820,
+    568
+   ],
+   "category": "Section-header",
+   "text": "## LAGEDITIONER."
+  },
+  {
+   "bbox": [
+    131,
+    644,
+    1186,
+    1770
+   ],
+   "category": "Text",
+   "text": "Inom den isländska filologien och runforskningen hade antikvitetskollegiet således uträttat ej så litet under den korta tid, under vilken det varit i verksamhet. Men till dess arbetsuppgifter hörde också den svenska medeltiden, framför allt dess lagar. Det så att säga antikvariska intresset för dem var nästan lika gammalt som intresset för runorna och kommer fram redan i Karl IX:s stadfästelsebrev till landslagen 1608. Konungen skriver där: »Och såsom Upplands och Östgöta laghböker äre alredhe efter wår nådighe befalning af Trycket vthgångne och the andre, som äre Sudhermanna, Wästgöta, Wäsmanna och Helsinge laghböker medh thet första skole blifwa förferdighede, Så äre wij och tillsinnes til at late tryckia Ölands, Smålands, Wermelands, Närikis och Finlands och flere landsändars Laghböker, så snart wij kunne af them någhre wisse och trowärdighe exemplaria öfwerkomma. Begäre förthenskuld af idher, trogne vndersåter, at såsom thetta ländar wårt heele Fädhernesland och thes Inbyggiare til myckin efterrättelse, ähro och berömelse, At j sådane exemplaria, så månge som j hafwe, wele lata komma oss til handa, om någhre sådane Laghböker hoos idher kunne finnas». Tre dylika landskapslagar utgåvos ock av trycket, Upplands och Östgöta 1607, Hälsinge 1609. Frånsett nya upplagor av dessa dröjde det sedan ända till 1663, innan en ny landskapslag utgavs, Stiernhielms förut omtalade edition av Västgötalagen, 1666 följd av Claudius Åkermans upplagor av Västmanna och Södermanna-lagarna. När sedan året därpå instruktionen för antikvitetskollegiet utfärdades, uppmärksammades också laghistorien, och bland kollegiets uppgifter sattes en »Historia Juris, bestående uthi alle gamble Lagar och stadgar, att man utaff dem uthsöker, på huadh sätt som"
+  },
+  {
+   "bbox": [
+    1193,
+    651,
+    1304,
+    713
+   ],
+   "category": "Text",
+   "text": "Äldre lag-\neditioner"
+  },
+  {
+   "bbox": [
+    1107,
+    1803,
+    1175,
+    1844
+   ],
+   "category": "Page-footer",
+   "text": "175"
+  }
+ ]
+}

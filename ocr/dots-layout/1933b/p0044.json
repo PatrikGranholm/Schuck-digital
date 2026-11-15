@@ -1,0 +1,122 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 44,
+ "seconds": 30.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [378, 246, 912, 290], \"category\": \"Section-header\", \"text\": \"## Consignationer och kataloger\"}, {\"bbox\": [118, 315, 1168, 392], \"category\": \"Text\", \"text\": \"de Anmärkelser och Uthtydning på dhe gambla Ord i samma Lagh finnes. Tryckt i Upsala Åhr 1666.\"}, {\"bbox\": [118, 398, 1306, 475], \"category\": \"Text\", \"text\": \"Några sammanhämptade Stycken af dhe gambla Nordiske Rijkens Lagar och Historier tryckte på gambla Giöthiskan. Upsala in 8:vo. 1677. *Jona Rugm:*\"}, {\"bbox\": [118, 482, 1331, 665], \"category\": \"Text\", \"text\": \"Gambla Konunga Styrelsen fordom på gambla Swenska Språket skrifwen, uplagd med Latinsk uthtolkning och Anmärkelser der under sampt twenne Register, det ena på dhe gambla Orden, det andra på alla märkelige Ting, som i bemelte Book förhandlas, af Joh. Buræo giordt. En Gyllene Book. Tryckt i Stockholm medh sahl. Kongl. Drotzens vårdnat. *Joan. Scheffer:*\"}, {\"bbox\": [118, 672, 1322, 855], \"category\": \"Text\", \"text\": \"Beskrifning om dhe Swenske och Göthers första Ursprung och Rijketz första Besättning, Styrelse, Seder och Rätter sampt mycket annat, som till dhe Swenskes och Göthers beröm länder. Tridie gång uplagd med Ordalista på dhe förnämste Ting, som uthi bemelte Book beskrifwas. Upsala Åhr 1670. *Joan. Loccen:*\"}, {\"bbox\": [118, 862, 1306, 1046], \"category\": \"Text\", \"text\": \"Gambla Norske Konunga Sagurne, som fordom ära beskrifne på Göthiske Språket, begynnandes af Kon: Harald Hårfager, men hafwer för sig Tiugu och Otto Swenska Konungars korta Beskrifning ifrån Odens Tijd intill Ifwar Widfarnes Död, med Grotii Företaal om Giöternes rätta Ursprung: uthtolkat på Swenska och uplagd på Wisingsborg Åhr 1670. *Jona Rugm:*\"}, {\"bbox\": [118, 1052, 1314, 1305], \"category\": \"Text\", \"text\": \"Ulphila, dhe gamble uthlänske Giöthers Biskop i Mœsia och Thracia, Uthtolkning öfwer dhe 4. Ewangelister wid Åhr 360. uplagd iämpte vårt brukelige Swenske eller Göthiske sampt Isländske och Latinske Språken med ett Företaal af Hr. Georg Stiernhielm giordt om alla Tungomåls uphof och en Ordatydning på det gambla Språket som Ulphila brukar, hwilket nu bemelte Stiernhielm med Swensk och Giöthisk Språk har förökat och förbättrat. Stockholm 1670. 4:to. *Georg Stiernhielm:*\"}, {\"bbox\": [118, 1313, 1334, 1426], \"category\": \"Text\", \"text\": \"Några serdeles märkelige Ting och Handlingar af Swenske Män giorde och förrättade sampt efter det sätt beskrifne, som fordom Valerius Maximus sina märckelige Saker beskrifwit. Tryckt i Hamborg 1671. *Joan. Scheffer:*\"}, {\"bbox\": [118, 1433, 1304, 1686], \"category\": \"Text\", \"text\": \"Sweriges Rijkes Landz- och Stadz-Lagh afsatt på Latin medh några hoos fogade Anmärkelser, hwar jämpte föllier Rättegångs Ordinantien giord i Örebro 1614. Rättegångs Processen för Hof Rätterne 1615. Kongl: Mandat om Revision af Justitiæ Sakerne Anno 1662. Domare Reglorne, hwar efter en rättsinnig Domare sig rätta bör, och några andra Regler af Lagen uthdragne sampt med korta Anmärkelser förökat. Uplagd i Stockholm Åhr 1672. *Joh. Loccen:*\"}, {\"bbox\": [118, 1693, 1297, 1770], \"category\": \"Text\", \"text\": \"Herwarars Saga, hwar uthi mycket fins om dhe gambla Kiämpars och Stridsmäns Bedrifter i Swerige och Götharijket. En skiön Historia, *Olai Verel:*\"}, {\"bbox\": [1119, 1804, 1164, 1843], \"category\": \"Page-footer\", \"text\": \"31\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    378,
+    246,
+    912,
+    290
+   ],
+   "category": "Section-header",
+   "text": "## Consignationer och kataloger"
+  },
+  {
+   "bbox": [
+    118,
+    315,
+    1168,
+    392
+   ],
+   "category": "Text",
+   "text": "de Anmärkelser och Uthtydning på dhe gambla Ord i samma Lagh finnes. Tryckt i Upsala Åhr 1666."
+  },
+  {
+   "bbox": [
+    118,
+    398,
+    1306,
+    475
+   ],
+   "category": "Text",
+   "text": "Några sammanhämptade Stycken af dhe gambla Nordiske Rijkens Lagar och Historier tryckte på gambla Giöthiskan. Upsala in 8:vo. 1677. *Jona Rugm:*"
+  },
+  {
+   "bbox": [
+    118,
+    482,
+    1331,
+    665
+   ],
+   "category": "Text",
+   "text": "Gambla Konunga Styrelsen fordom på gambla Swenska Språket skrifwen, uplagd med Latinsk uthtolkning och Anmärkelser der under sampt twenne Register, det ena på dhe gambla Orden, det andra på alla märkelige Ting, som i bemelte Book förhandlas, af Joh. Buræo giordt. En Gyllene Book. Tryckt i Stockholm medh sahl. Kongl. Drotzens vårdnat. *Joan. Scheffer:*"
+  },
+  {
+   "bbox": [
+    118,
+    672,
+    1322,
+    855
+   ],
+   "category": "Text",
+   "text": "Beskrifning om dhe Swenske och Göthers första Ursprung och Rijketz första Besättning, Styrelse, Seder och Rätter sampt mycket annat, som till dhe Swenskes och Göthers beröm länder. Tridie gång uplagd med Ordalista på dhe förnämste Ting, som uthi bemelte Book beskrifwas. Upsala Åhr 1670. *Joan. Loccen:*"
+  },
+  {
+   "bbox": [
+    118,
+    862,
+    1306,
+    1046
+   ],
+   "category": "Text",
+   "text": "Gambla Norske Konunga Sagurne, som fordom ära beskrifne på Göthiske Språket, begynnandes af Kon: Harald Hårfager, men hafwer för sig Tiugu och Otto Swenska Konungars korta Beskrifning ifrån Odens Tijd intill Ifwar Widfarnes Död, med Grotii Företaal om Giöternes rätta Ursprung: uthtolkat på Swenska och uplagd på Wisingsborg Åhr 1670. *Jona Rugm:*"
+  },
+  {
+   "bbox": [
+    118,
+    1052,
+    1314,
+    1305
+   ],
+   "category": "Text",
+   "text": "Ulphila, dhe gamble uthlänske Giöthers Biskop i Mœsia och Thracia, Uthtolkning öfwer dhe 4. Ewangelister wid Åhr 360. uplagd iämpte vårt brukelige Swenske eller Göthiske sampt Isländske och Latinske Språken med ett Företaal af Hr. Georg Stiernhielm giordt om alla Tungomåls uphof och en Ordatydning på det gambla Språket som Ulphila brukar, hwilket nu bemelte Stiernhielm med Swensk och Giöthisk Språk har förökat och förbättrat. Stockholm 1670. 4:to. *Georg Stiernhielm:*"
+  },
+  {
+   "bbox": [
+    118,
+    1313,
+    1334,
+    1426
+   ],
+   "category": "Text",
+   "text": "Några serdeles märkelige Ting och Handlingar af Swenske Män giorde och förrättade sampt efter det sätt beskrifne, som fordom Valerius Maximus sina märckelige Saker beskrifwit. Tryckt i Hamborg 1671. *Joan. Scheffer:*"
+  },
+  {
+   "bbox": [
+    118,
+    1433,
+    1304,
+    1686
+   ],
+   "category": "Text",
+   "text": "Sweriges Rijkes Landz- och Stadz-Lagh afsatt på Latin medh några hoos fogade Anmärkelser, hwar jämpte föllier Rättegångs Ordinantien giord i Örebro 1614. Rättegångs Processen för Hof Rätterne 1615. Kongl: Mandat om Revision af Justitiæ Sakerne Anno 1662. Domare Reglorne, hwar efter en rättsinnig Domare sig rätta bör, och några andra Regler af Lagen uthdragne sampt med korta Anmärkelser förökat. Uplagd i Stockholm Åhr 1672. *Joh. Loccen:*"
+  },
+  {
+   "bbox": [
+    118,
+    1693,
+    1297,
+    1770
+   ],
+   "category": "Text",
+   "text": "Herwarars Saga, hwar uthi mycket fins om dhe gambla Kiämpars och Stridsmäns Bedrifter i Swerige och Götharijket. En skiön Historia, *Olai Verel:*"
+  },
+  {
+   "bbox": [
+    1119,
+    1804,
+    1164,
+    1843
+   ],
+   "category": "Page-footer",
+   "text": "31"
+  }
+ ]
+}

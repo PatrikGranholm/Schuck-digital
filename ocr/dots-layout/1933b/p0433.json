@@ -1,0 +1,41 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 433,
+ "seconds": 9.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [957, 902, 1019, 993], \"category\": \"Picture\"}, {\"bbox\": [767, 1015, 1204, 1176], \"category\": \"Text\", \"text\": \"ALCOOTER & WIEBEL\\nBISTAPERS\\nBEBEL\"}, {\"bbox\": [957, 1146, 1019, 1176], \"category\": \"Text\", \"text\": \"1911\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    957,
+    902,
+    1019,
+    993
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    767,
+    1015,
+    1204,
+    1176
+   ],
+   "category": "Text",
+   "text": "ALCOOTER & WIEBEL\nBISTAPERS\nBEBEL"
+  },
+  {
+   "bbox": [
+    957,
+    1146,
+    1019,
+    1176
+   ],
+   "category": "Text",
+   "text": "1911"
+  }
+ ]
+}

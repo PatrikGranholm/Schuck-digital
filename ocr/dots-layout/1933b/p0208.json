@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 208,
+ "seconds": 23.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [437, 533, 882, 569], \"category\": \"Section-header\", \"text\": \"URKUNDSUTGIVNING.\"}, {\"bbox\": [133, 645, 1185, 1773], \"category\": \"Text\", \"text\": \"Hadorph var icke blott utgivare av våra gamla lagar — han må nu därvid hava haft hur mycken hjälp som helst av andra — utan han gjorde även en annan viktig insats av rättshistorisk betydelse. Landslagen var väl utgiven, men genom Kungl. förordningar och riksdagsbeslut hade mycket ändrats och mycket nytt tillkommit. Det var därför i högsta grad av behovet påkallat att få dessa beslut samlade och ordnade, och detta hade även vid upprepade tillfällen erkänts både av regering och riksdag. Så lyder den sjunde punkten i 1602 års riksdagsbeslut: »Efter vthi wår Swenske Lagbook myken oreede finnes, som behöfwer förbättring, så hafwe wij alle samptlige för godt och nyttigt anseedt, att han måtte af någre förståndige Män öfwersees, corrigeres, förbättres och efter thenne tijdz och landz lägenheet rättes och sedhan sampt medh Rijksens nyttige och wedertagne Recesser, Mandater och Stadgar tryckes. Doch skal hon sedhan hon således öfwersedd är, för än hon tryckes, icke allenast opå en Almennelig Rijkzdagh först opläses, vthan och vthi hwar Landzände förkunnes.» Beslutet hade visserligen den påföljden, att landslagen trycktes, men icke recesserna, och vid 1650 års riksdag kom därför frågan om dem ånyo upp. Efter Ridderskapet och Adelen — heter det i Kungl. Maj:ts förklaring — »klaga, att een stoor brist finnes på förre håldne Rikzdagz Besluuth och andre wichtige Rikzafhandlingar, hållandes nödigt att slijka Besluuth och afhandlingar, hwilke Ständerne i Rijket kunne hafwa til godh efterrättelse, måge blifwa oplagde och af trycket publicerade. Så emedan denne påminnelse kan hafwa sine skähl, så will Kongl. M:tt låta alla Besluuth och Rijkzafskeder öfwersii och sedan af trycket vthgå, hwad som tienar att publiceras och hwadh Ridderskapet och Adelen sampt\"}, {\"bbox\": [1188, 651, 1337, 715], \"category\": \"Text\", \"text\": \"Recesserna och landslagen\"}, {\"bbox\": [1108, 1796, 1179, 1843], \"category\": \"Page-footer\", \"text\": \"187\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    437,
+    533,
+    882,
+    569
+   ],
+   "category": "Section-header",
+   "text": "URKUNDSUTGIVNING."
+  },
+  {
+   "bbox": [
+    133,
+    645,
+    1185,
+    1773
+   ],
+   "category": "Text",
+   "text": "Hadorph var icke blott utgivare av våra gamla lagar — han må nu därvid hava haft hur mycken hjälp som helst av andra — utan han gjorde även en annan viktig insats av rättshistorisk betydelse. Landslagen var väl utgiven, men genom Kungl. förordningar och riksdagsbeslut hade mycket ändrats och mycket nytt tillkommit. Det var därför i högsta grad av behovet påkallat att få dessa beslut samlade och ordnade, och detta hade även vid upprepade tillfällen erkänts både av regering och riksdag. Så lyder den sjunde punkten i 1602 års riksdagsbeslut: »Efter vthi wår Swenske Lagbook myken oreede finnes, som behöfwer förbättring, så hafwe wij alle samptlige för godt och nyttigt anseedt, att han måtte af någre förståndige Män öfwersees, corrigeres, förbättres och efter thenne tijdz och landz lägenheet rättes och sedhan sampt medh Rijksens nyttige och wedertagne Recesser, Mandater och Stadgar tryckes. Doch skal hon sedhan hon således öfwersedd är, för än hon tryckes, icke allenast opå en Almennelig Rijkzdagh först opläses, vthan och vthi hwar Landzände förkunnes.» Beslutet hade visserligen den påföljden, att landslagen trycktes, men icke recesserna, och vid 1650 års riksdag kom därför frågan om dem ånyo upp. Efter Ridderskapet och Adelen — heter det i Kungl. Maj:ts förklaring — »klaga, att een stoor brist finnes på förre håldne Rikzdagz Besluuth och andre wichtige Rikzafhandlingar, hållandes nödigt att slijka Besluuth och afhandlingar, hwilke Ständerne i Rijket kunne hafwa til godh efterrättelse, måge blifwa oplagde och af trycket publicerade. Så emedan denne påminnelse kan hafwa sine skähl, så will Kongl. M:tt låta alla Besluuth och Rijkzafskeder öfwersii och sedan af trycket vthgå, hwad som tienar att publiceras och hwadh Ridderskapet och Adelen sampt"
+  },
+  {
+   "bbox": [
+    1188,
+    651,
+    1337,
+    715
+   ],
+   "category": "Text",
+   "text": "Recesserna och landslagen"
+  },
+  {
+   "bbox": [
+    1108,
+    1796,
+    1179,
+    1843
+   ],
+   "category": "Page-footer",
+   "text": "187"
+  }
+ ]
+}

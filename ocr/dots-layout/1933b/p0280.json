@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 280,
+ "seconds": 27.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [481, 242, 829, 288], \"category\": \"Page-header\", \"text\": \"Historiska skrifter\"}, {\"bbox\": [128, 311, 1181, 441], \"category\": \"Text\", \"text\": \"H. Excell. gr. Gyldenstolpe. Effter Plåtarne nu äre uthi Örnhielms Conthor, behöfwer man ey wara bekymbrad därom, hwem dee skohla tillställas, män huru äre dee dijt komne?\"}, {\"bbox\": [125, 436, 1181, 768], \"category\": \"Text\", \"text\": \"Secret. Åkerhielm: Örnhielm lärer twifwels uthan haf:a warit där-hoos, när Plåtarne af SlotzCantzliets Betiente äre wordne uthtagne, och har däm straxt låtit upbära uthi sitt Conthor. Een Plåt skall ännu feelas, män man måste ännu wijdare låta sökia effter dän-samma ibland Keysers saaker. Om mehrbenämbde Plåtar äre för-färdigade mädh Örnhielms egen bekostnad, måste dee wähl blif:a Enkian betahlte och hon niuta sin sahl. mans omkostningar och flijt till goda.»\"}, {\"bbox\": [118, 768, 1174, 1516], \"category\": \"Text\", \"text\": \"Det var således ej nog, att Örnhielm ej fått ett kopparöres ersätt-ning för det arbete, som han på offentligt uppdrag åtagit sig. Han höll även på att mista de kopparplåtar, som han på egen bekostnad låtit gravera. Den 13 juli 1695 kom denna sak före i kanslikolle-gium: »Actuarien Schmedeman berättade däreffter, dät i föllie af D:ras Excell:iers och K. Collegij befallning han hade warit uthi framledne Secret. och Censorens Örnhielms Conthor här på Slottet och uthi dee tillordnades närwaro (hafwandes där på Hs. Excell. gr. Dahlbergz wägnar warit Profess. Lagerlööff) öfwersedt dee där warande skrifter och saakerne, hwaribland mäst har funnits sådant, som hans ämbete har angåt, nämbl. åthskillige materier, som haf:a warit färdiga at tryckas, män först skulle censeras, sedan een stoor deel af observationerne öfwer Clöstergodzen och een hoop Clöster-och Jordeböcker uthur Antiquitetz och Cammar-archiverne. Däss-uthan haf:r och uthi bem:te Conthor legat 69 Koppar Plåtar, som hööra till dät wärcket och dän translationen af Emanuele Thesauro, som Örnhielm har förfärdigat, hwilka Koppar-Plåtar sohnen begärte at få uthtaga. — — —\"}, {\"bbox\": [118, 1516, 1165, 1632], \"category\": \"Text\", \"text\": \"Actuarien Schmedeman frågade sedan, om dät wore D:ras Excell:ier behageligit, at bem:te KopparPlåtar skulle extraderas till Örnhielms Enkia?\"}, {\"bbox\": [118, 1638, 1164, 1724], \"category\": \"Text\", \"text\": \"Hs. Excell. gr. Gyldenstolpe: månne dät ey finnes, at Hs. M:t har där till gif:it någre medel?\"}, {\"bbox\": [153, 1723, 1164, 1772], \"category\": \"Text\", \"text\": \"Hs. Excell. gr. B. Oxenstierna: Jag tror intet, at K. May:t har\"}, {\"bbox\": [1088, 1808, 1161, 1849], \"category\": \"Page-footer\", \"text\": \"259\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    481,
+    242,
+    829,
+    288
+   ],
+   "category": "Page-header",
+   "text": "Historiska skrifter"
+  },
+  {
+   "bbox": [
+    128,
+    311,
+    1181,
+    441
+   ],
+   "category": "Text",
+   "text": "H. Excell. gr. Gyldenstolpe. Effter Plåtarne nu äre uthi Örnhielms Conthor, behöfwer man ey wara bekymbrad därom, hwem dee skohla tillställas, män huru äre dee dijt komne?"
+  },
+  {
+   "bbox": [
+    125,
+    436,
+    1181,
+    768
+   ],
+   "category": "Text",
+   "text": "Secret. Åkerhielm: Örnhielm lärer twifwels uthan haf:a warit där-hoos, när Plåtarne af SlotzCantzliets Betiente äre wordne uthtagne, och har däm straxt låtit upbära uthi sitt Conthor. Een Plåt skall ännu feelas, män man måste ännu wijdare låta sökia effter dän-samma ibland Keysers saaker. Om mehrbenämbde Plåtar äre för-färdigade mädh Örnhielms egen bekostnad, måste dee wähl blif:a Enkian betahlte och hon niuta sin sahl. mans omkostningar och flijt till goda.»"
+  },
+  {
+   "bbox": [
+    118,
+    768,
+    1174,
+    1516
+   ],
+   "category": "Text",
+   "text": "Det var således ej nog, att Örnhielm ej fått ett kopparöres ersätt-ning för det arbete, som han på offentligt uppdrag åtagit sig. Han höll även på att mista de kopparplåtar, som han på egen bekostnad låtit gravera. Den 13 juli 1695 kom denna sak före i kanslikolle-gium: »Actuarien Schmedeman berättade däreffter, dät i föllie af D:ras Excell:iers och K. Collegij befallning han hade warit uthi framledne Secret. och Censorens Örnhielms Conthor här på Slottet och uthi dee tillordnades närwaro (hafwandes där på Hs. Excell. gr. Dahlbergz wägnar warit Profess. Lagerlööff) öfwersedt dee där warande skrifter och saakerne, hwaribland mäst har funnits sådant, som hans ämbete har angåt, nämbl. åthskillige materier, som haf:a warit färdiga at tryckas, män först skulle censeras, sedan een stoor deel af observationerne öfwer Clöstergodzen och een hoop Clöster-och Jordeböcker uthur Antiquitetz och Cammar-archiverne. Däss-uthan haf:r och uthi bem:te Conthor legat 69 Koppar Plåtar, som hööra till dät wärcket och dän translationen af Emanuele Thesauro, som Örnhielm har förfärdigat, hwilka Koppar-Plåtar sohnen begärte at få uthtaga. — — —"
+  },
+  {
+   "bbox": [
+    118,
+    1516,
+    1165,
+    1632
+   ],
+   "category": "Text",
+   "text": "Actuarien Schmedeman frågade sedan, om dät wore D:ras Excell:ier behageligit, at bem:te KopparPlåtar skulle extraderas till Örnhielms Enkia?"
+  },
+  {
+   "bbox": [
+    118,
+    1638,
+    1164,
+    1724
+   ],
+   "category": "Text",
+   "text": "Hs. Excell. gr. Gyldenstolpe: månne dät ey finnes, at Hs. M:t har där till gif:it någre medel?"
+  },
+  {
+   "bbox": [
+    153,
+    1723,
+    1164,
+    1772
+   ],
+   "category": "Text",
+   "text": "Hs. Excell. gr. B. Oxenstierna: Jag tror intet, at K. May:t har"
+  },
+  {
+   "bbox": [
+    1088,
+    1808,
+    1161,
+    1849
+   ],
+   "category": "Page-footer",
+   "text": "259"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 174,
+ "seconds": 27.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [563, 251, 769, 286], \"category\": \"Section-header\", \"text\": \"Runarbeten\"}, {\"bbox\": [145, 320, 1188, 395], \"category\": \"List-item\", \"text\": \"7) A:o 1686 i Novembris månad afritat 4 st. Ekerö och Lofö Runstenar med dess kyrkior och monumenter.\"}, {\"bbox\": [145, 392, 1188, 503], \"category\": \"List-item\", \"text\": \"8) Uthi en quartbok nr. 8 på resan A:o 1687 åfwan Tornö i Westerbotten, Medpad och Jämpteland afritat de befintlige 13 Monumenter, Item sedermera Ett Runemonument wid Bogesund».\"}, {\"bbox\": [140, 517, 1189, 1766], \"category\": \"Text\", \"text\": \"Så fingo Birkenius och Leitz avsked i maj 1683, och i deras ställe antog kollegiet två studenter Johannes Lithenius och Petrus Helgonius. Den förre nämnes ej alls i Förteckningen, men stod under många år kvar på stipendiatlistan, utan att man vet, vad han gjort. Dess flitigare var Petrus Helgonius, av vilken kollegiet hade följande arbeten: »1) En kladd på 22 blad in 4:to af Wändels, Olands och Frösåkers häradz Runstenar. 2) Dito på 74 blad med afritningar på Eedz, Waltuna, Skånella, Lagga och flere sochnars Runstenar. 3) Dito af 40 blad och andra 11 tilfäste Runeritningar i Fresta, Simtuna, Biörksta sochnar och Upsala domkyrkios Runstenar. 4) Dito med 65 afritade hehla eller sönderslagne Runestenar j Broo och Lisslena etc. sochnar. 5) Dito på 18 hehla och 8 sönderslagne Runstenar i Söderby, Lenna, Malstad, Skädrij och flere sochnar. 6) Dito på 33 blad och monumenter j Wester och Österhaninge samt Ösmo sochnar. 7) En bok in folio sign. Lit. D. uthi Turkiskt Papper inbunden med 74 reenritade kyrkior och i dem befintlige wapner. 8) Några sammanhäftade ark sub Lit. E in folio, på hwilka 8 blad äro uthmålade med wapner til sine färgor. 9) En kladd in 4:to med några kyrkomålningar». Själv ingav han 1687 en annan lista på sina arbeten (V. H. A. A. Lägre tjänstemän): »En lijten upsatz på dhet arbete, som iag gordt och förfärdigat dhen tijd iag wart brukat wijdh Collegium Antiquitatum: 1) 6 Runstensböcker, 4 som iag själf med Hr. Secret. rest och originaliter afrijtat och dhem tillijka med dhe 2 öfrige, som Joha[n] Leytz gordt in originali afcopierat och renrijtadt. 2) En Book in folio, som alla kiörckor, wapner, ättehögar etc., som uthi et band fattade så många iag den tijden gord, ner iag för Rijtare mig bruka låtte i Collegio. 3) En hoop munkestenar etc. 4) Extract af en hoop gambla wapner uthur åthskillige kiörk- och wapne böcker dragne. 5) Et stort slächte Register af wapner med twenne små och annat, som iag intet kan ährhindra\"}, {\"bbox\": [1194, 523, 1336, 585], \"category\": \"Text\", \"text\": \"Lithenius och\\nHelgonius\"}, {\"bbox\": [1112, 1813, 1182, 1851], \"category\": \"Page-footer\", \"text\": \"153\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    563,
+    251,
+    769,
+    286
+   ],
+   "category": "Section-header",
+   "text": "Runarbeten"
+  },
+  {
+   "bbox": [
+    145,
+    320,
+    1188,
+    395
+   ],
+   "category": "List-item",
+   "text": "7) A:o 1686 i Novembris månad afritat 4 st. Ekerö och Lofö Runstenar med dess kyrkior och monumenter."
+  },
+  {
+   "bbox": [
+    145,
+    392,
+    1188,
+    503
+   ],
+   "category": "List-item",
+   "text": "8) Uthi en quartbok nr. 8 på resan A:o 1687 åfwan Tornö i Westerbotten, Medpad och Jämpteland afritat de befintlige 13 Monumenter, Item sedermera Ett Runemonument wid Bogesund»."
+  },
+  {
+   "bbox": [
+    140,
+    517,
+    1189,
+    1766
+   ],
+   "category": "Text",
+   "text": "Så fingo Birkenius och Leitz avsked i maj 1683, och i deras ställe antog kollegiet två studenter Johannes Lithenius och Petrus Helgonius. Den förre nämnes ej alls i Förteckningen, men stod under många år kvar på stipendiatlistan, utan att man vet, vad han gjort. Dess flitigare var Petrus Helgonius, av vilken kollegiet hade följande arbeten: »1) En kladd på 22 blad in 4:to af Wändels, Olands och Frösåkers häradz Runstenar. 2) Dito på 74 blad med afritningar på Eedz, Waltuna, Skånella, Lagga och flere sochnars Runstenar. 3) Dito af 40 blad och andra 11 tilfäste Runeritningar i Fresta, Simtuna, Biörksta sochnar och Upsala domkyrkios Runstenar. 4) Dito med 65 afritade hehla eller sönderslagne Runestenar j Broo och Lisslena etc. sochnar. 5) Dito på 18 hehla och 8 sönderslagne Runstenar i Söderby, Lenna, Malstad, Skädrij och flere sochnar. 6) Dito på 33 blad och monumenter j Wester och Österhaninge samt Ösmo sochnar. 7) En bok in folio sign. Lit. D. uthi Turkiskt Papper inbunden med 74 reenritade kyrkior och i dem befintlige wapner. 8) Några sammanhäftade ark sub Lit. E in folio, på hwilka 8 blad äro uthmålade med wapner til sine färgor. 9) En kladd in 4:to med några kyrkomålningar». Själv ingav han 1687 en annan lista på sina arbeten (V. H. A. A. Lägre tjänstemän): »En lijten upsatz på dhet arbete, som iag gordt och förfärdigat dhen tijd iag wart brukat wijdh Collegium Antiquitatum: 1) 6 Runstensböcker, 4 som iag själf med Hr. Secret. rest och originaliter afrijtat och dhem tillijka med dhe 2 öfrige, som Joha[n] Leytz gordt in originali afcopierat och renrijtadt. 2) En Book in folio, som alla kiörckor, wapner, ättehögar etc., som uthi et band fattade så många iag den tijden gord, ner iag för Rijtare mig bruka låtte i Collegio. 3) En hoop munkestenar etc. 4) Extract af en hoop gambla wapner uthur åthskillige kiörk- och wapne böcker dragne. 5) Et stort slächte Register af wapner med twenne små och annat, som iag intet kan ährhindra"
+  },
+  {
+   "bbox": [
+    1194,
+    523,
+    1336,
+    585
+   ],
+   "category": "Text",
+   "text": "Lithenius och\nHelgonius"
+  },
+  {
+   "bbox": [
+    1112,
+    1813,
+    1182,
+    1851
+   ],
+   "category": "Page-footer",
+   "text": "153"
+  }
+ ]
+}

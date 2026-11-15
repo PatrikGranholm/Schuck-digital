@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 67,
+ "seconds": 25.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [802, 262, 1215, 305], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [488, 333, 1519, 417], \"category\": \"Text\", \"text\": \"i gambla språket, att han det uthan min och andras hielp kan läsa och förstå. Stockholm d. 1 Martij A:o 1692.\"}, {\"bbox\": [1079, 440, 1485, 474], \"category\": \"Text\", \"text\": \"Gudmund Gudmundsson».\"}, {\"bbox\": [488, 528, 1521, 1692], \"category\": \"Text\", \"text\": \"Av ett särskilt intresse är Guðmundur Ólafssons intyg, då det ger några upplysningar om den unge Hadorphs studier: »Såsom af migh begiärer Actuarien Mons. Johan Hadorph en Attest, huru wijda jagh hafwer honom betient uthi hans Wilkine sagas version, alldenstund han beklagar sigh olyckelig af någon omild menniskia, som skulle uthspridt, det han brukat Jsländarne till att vertera samma saga och den för sitt debiterar, så kan jagh icke annars än sanningen i det måål säija, som jagh medh Eedh på min saligheet betygar, att han aldrig har brukat migh till then Bokens version. Men i förstone, tå han begynte läggia sigh på Lecturam af det språket och dess förstånd för 4 åhr sedan, igenomgick jagh medh honom den Jsländska Lagboken, den han och sielf till en deel för öfning skull verterade, in till dess han blef språket mächtig, men sedan har han kunnat uthreda sigh sielf, så att jagh icke till thet ringeste uthi Wilkina saga har honom betient, undantagandes medh Assessor Pering hennes reviderande eller censerande, och om han någon gång har discurrerat medh migh om något ord eller mening, som mörk hafwer warit, som jagh och andra plägar giöra, så att jagh i sanning kan betyga, att han har en tijdh warit helt flijtigh i det Studio, och reda är så wijda inkommen i det gambla språket, att han kan föra sigh sielf uthan min eller någor annars tillhielp, undantagandes någre uhrgamble ord sampt dhe mörke wijsor och skaldedichter, som och icke sal. Verelius eller någon annan i Swerige eller Danmark förstått för min ankomst. Hwilket jagh medh denne min skrifft, namn och Sigill betygar. Hwem annorlunda om honom tyder, synes giöra honom ther uthi stoor orätt; det han och sielf lärer i sielfwa wärket bewijsa, om han blifwer der uthinnan förhörd. Datum Stockholm d. 1 Martij A:o 1692.\"}, {\"bbox\": [1165, 1707, 1484, 1749], \"category\": \"Text\", \"text\": \"Gudmundus Olajus».\"}, {\"bbox\": [497, 1826, 543, 1861], \"category\": \"Page-footer\", \"text\": \"54\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    802,
+    262,
+    1215,
+    305
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    488,
+    333,
+    1519,
+    417
+   ],
+   "category": "Text",
+   "text": "i gambla språket, att han det uthan min och andras hielp kan läsa och förstå. Stockholm d. 1 Martij A:o 1692."
+  },
+  {
+   "bbox": [
+    1079,
+    440,
+    1485,
+    474
+   ],
+   "category": "Text",
+   "text": "Gudmund Gudmundsson»."
+  },
+  {
+   "bbox": [
+    488,
+    528,
+    1521,
+    1692
+   ],
+   "category": "Text",
+   "text": "Av ett särskilt intresse är Guðmundur Ólafssons intyg, då det ger några upplysningar om den unge Hadorphs studier: »Såsom af migh begiärer Actuarien Mons. Johan Hadorph en Attest, huru wijda jagh hafwer honom betient uthi hans Wilkine sagas version, alldenstund han beklagar sigh olyckelig af någon omild menniskia, som skulle uthspridt, det han brukat Jsländarne till att vertera samma saga och den för sitt debiterar, så kan jagh icke annars än sanningen i det måål säija, som jagh medh Eedh på min saligheet betygar, att han aldrig har brukat migh till then Bokens version. Men i förstone, tå han begynte läggia sigh på Lecturam af det språket och dess förstånd för 4 åhr sedan, igenomgick jagh medh honom den Jsländska Lagboken, den han och sielf till en deel för öfning skull verterade, in till dess han blef språket mächtig, men sedan har han kunnat uthreda sigh sielf, så att jagh icke till thet ringeste uthi Wilkina saga har honom betient, undantagandes medh Assessor Pering hennes reviderande eller censerande, och om han någon gång har discurrerat medh migh om något ord eller mening, som mörk hafwer warit, som jagh och andra plägar giöra, så att jagh i sanning kan betyga, att han har en tijdh warit helt flijtigh i det Studio, och reda är så wijda inkommen i det gambla språket, att han kan föra sigh sielf uthan min eller någor annars tillhielp, undantagandes någre uhrgamble ord sampt dhe mörke wijsor och skaldedichter, som och icke sal. Verelius eller någon annan i Swerige eller Danmark förstått för min ankomst. Hwilket jagh medh denne min skrifft, namn och Sigill betygar. Hwem annorlunda om honom tyder, synes giöra honom ther uthi stoor orätt; det han och sielf lärer i sielfwa wärket bewijsa, om han blifwer der uthinnan förhörd. Datum Stockholm d. 1 Martij A:o 1692."
+  },
+  {
+   "bbox": [
+    1165,
+    1707,
+    1484,
+    1749
+   ],
+   "category": "Text",
+   "text": "Gudmundus Olajus»."
+  },
+  {
+   "bbox": [
+    497,
+    1826,
+    543,
+    1861
+   ],
+   "category": "Page-footer",
+   "text": "54"
+  }
+ ]
+}

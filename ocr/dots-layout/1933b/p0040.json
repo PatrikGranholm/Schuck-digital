@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 40,
+ "seconds": 30.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [407, 245, 932, 288], \"category\": \"Section-header\", \"text\": \"## Consignationer och kataloger\"}, {\"bbox\": [210, 314, 1189, 390], \"category\": \"List-item\", \"text\": \"och Giötha Rijkes och dhes tilhörige Landskapers förnämbste handlingar.\"}, {\"bbox\": [150, 386, 1189, 490], \"category\": \"List-item\", \"text\": \"12) S. Rijkes Konungars och förnähme Familiers Slächteregister, hwar hoos och dhe Familier finnas, som i näst omliggiande Rijken och Länder dhem medh börd eller Gifftermåål anförvandte warit.\"}, {\"bbox\": [855, 505, 1146, 537], \"category\": \"Text\", \"text\": \"Claudius Arrhenius».\"}, {\"bbox\": [147, 571, 1191, 1396], \"category\": \"Text\", \"text\": \"Utom till De la Gardie vände sig Hadorph direkt till konungen, och i allmänhet hade han framgång. 1678 reste han till Halmstad, där konungen då befann sig, »opwijsandes och i samma supplication en hoop arbeten, som äro färdiga till tryck»; likaså begav han sig 1680 till Kungsör i samma ärende, »vpwijsandes H:s Kongl. M:t en deel af dhe arbeten, jag har fullkompnat», och vid bägge tillfällena fick han, vad han begärde (se förut II sid. 148, 151). 1685 gav han ut en tryckt »Förtekning på the Böcker och wärck, som angå Swenske Historien, Lag- och Antiquiteterne, hwilke vti wår Allernådigste Konungz och Herres H. Carls XI tijd aff Trycket vthgångne äre».¹ Anledningen till denna publikation var förmodligen dubbel, dels kollegiets tvist med Rudbeck, dels det 1685 började angreppet på kollegiets innehav av tryckeritunnan. Till försvar i bägge fallen ville Hadorph visa, vad som åstadkommits inom fornforskningen. Denna gång hade han emellertid mindre framgång, och så kom det kritiska året 1690, då hela kollegiets ekonomi stod på spel. För att framhålla den insats, som antikvitetskollegiet gjort, lät Hadorph då trycka en utförlig Catalogus librorum med uppgift på alla de arbeten, som kollegiets medlemmar utarbetat. Trots sin längd förtjänar denna att här meddelas²:\"}, {\"bbox\": [1196, 577, 1322, 639], \"category\": \"Text\", \"text\": \"Hadorphs\\nbibliografier\"}, {\"bbox\": [147, 1412, 1189, 1682], \"category\": \"Footnote\", \"text\": \"¹ Denna bibliografi saknar tryckår, och såsom detta har uppgivits 1679. Anledningen här till har varit, att den omfattar arbeten tryckta 1662—1679. Men i den Catalogus Librorum, som utgavs i oktober 1690 och som är en utvidgad upplaga av Förtekning, yttrar Hadorph: »Och på thet allom må wara kunnigt, att thetta är sant talt, så låta wij nu den Lista, som för fem Åhr sedan trycktes, på nyo fullkombligare effter sine Åhr uthgå». Antingen är denna 1685 års upplaga alldeles försvunnen eller är den identisk med den odaterade Förtekningen. Det är dock icke otänkbart, att två dylika förteckningar blivit tryckta, en 1680 och en 1685, av vilka den senare gått förlorad. Även 1680 var kritiskt år. Det var då, som Hadorph återupptog striden om tunnan. En äldre upplaga av katalogen 1680 eller 1685 trycktes 1672.\"}, {\"bbox\": [147, 1680, 1189, 1773], \"category\": \"Footnote\", \"text\": \"² Den är tryckt både på latin och svenska, latin på ena sidan, svenska på den andra. Här meddelas blott den svenska texten. Titeln är: Catalogus Librorum Qui in Historia & Antiquitatibus Patriæ sub Imperio Clementissimi Regis Nostri Dn. Caroli XI publicati sunt, Et, vel jam Editioni\"}, {\"bbox\": [1137, 1807, 1185, 1845], \"category\": \"Page-footer\", \"text\": \"27\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    407,
+    245,
+    932,
+    288
+   ],
+   "category": "Section-header",
+   "text": "## Consignationer och kataloger"
+  },
+  {
+   "bbox": [
+    210,
+    314,
+    1189,
+    390
+   ],
+   "category": "List-item",
+   "text": "och Giötha Rijkes och dhes tilhörige Landskapers förnämbste handlingar."
+  },
+  {
+   "bbox": [
+    150,
+    386,
+    1189,
+    490
+   ],
+   "category": "List-item",
+   "text": "12) S. Rijkes Konungars och förnähme Familiers Slächteregister, hwar hoos och dhe Familier finnas, som i näst omliggiande Rijken och Länder dhem medh börd eller Gifftermåål anförvandte warit."
+  },
+  {
+   "bbox": [
+    855,
+    505,
+    1146,
+    537
+   ],
+   "category": "Text",
+   "text": "Claudius Arrhenius»."
+  },
+  {
+   "bbox": [
+    147,
+    571,
+    1191,
+    1396
+   ],
+   "category": "Text",
+   "text": "Utom till De la Gardie vände sig Hadorph direkt till konungen, och i allmänhet hade han framgång. 1678 reste han till Halmstad, där konungen då befann sig, »opwijsandes och i samma supplication en hoop arbeten, som äro färdiga till tryck»; likaså begav han sig 1680 till Kungsör i samma ärende, »vpwijsandes H:s Kongl. M:t en deel af dhe arbeten, jag har fullkompnat», och vid bägge tillfällena fick han, vad han begärde (se förut II sid. 148, 151). 1685 gav han ut en tryckt »Förtekning på the Böcker och wärck, som angå Swenske Historien, Lag- och Antiquiteterne, hwilke vti wår Allernådigste Konungz och Herres H. Carls XI tijd aff Trycket vthgångne äre».¹ Anledningen till denna publikation var förmodligen dubbel, dels kollegiets tvist med Rudbeck, dels det 1685 började angreppet på kollegiets innehav av tryckeritunnan. Till försvar i bägge fallen ville Hadorph visa, vad som åstadkommits inom fornforskningen. Denna gång hade han emellertid mindre framgång, och så kom det kritiska året 1690, då hela kollegiets ekonomi stod på spel. För att framhålla den insats, som antikvitetskollegiet gjort, lät Hadorph då trycka en utförlig Catalogus librorum med uppgift på alla de arbeten, som kollegiets medlemmar utarbetat. Trots sin längd förtjänar denna att här meddelas²:"
+  },
+  {
+   "bbox": [
+    1196,
+    577,
+    1322,
+    639
+   ],
+   "category": "Text",
+   "text": "Hadorphs\nbibliografier"
+  },
+  {
+   "bbox": [
+    147,
+    1412,
+    1189,
+    1682
+   ],
+   "category": "Footnote",
+   "text": "¹ Denna bibliografi saknar tryckår, och såsom detta har uppgivits 1679. Anledningen här till har varit, att den omfattar arbeten tryckta 1662—1679. Men i den Catalogus Librorum, som utgavs i oktober 1690 och som är en utvidgad upplaga av Förtekning, yttrar Hadorph: »Och på thet allom må wara kunnigt, att thetta är sant talt, så låta wij nu den Lista, som för fem Åhr sedan trycktes, på nyo fullkombligare effter sine Åhr uthgå». Antingen är denna 1685 års upplaga alldeles försvunnen eller är den identisk med den odaterade Förtekningen. Det är dock icke otänkbart, att två dylika förteckningar blivit tryckta, en 1680 och en 1685, av vilka den senare gått förlorad. Även 1680 var kritiskt år. Det var då, som Hadorph återupptog striden om tunnan. En äldre upplaga av katalogen 1680 eller 1685 trycktes 1672."
+  },
+  {
+   "bbox": [
+    147,
+    1680,
+    1189,
+    1773
+   ],
+   "category": "Footnote",
+   "text": "² Den är tryckt både på latin och svenska, latin på ena sidan, svenska på den andra. Här meddelas blott den svenska texten. Titeln är: Catalogus Librorum Qui in Historia & Antiquitatibus Patriæ sub Imperio Clementissimi Regis Nostri Dn. Caroli XI publicati sunt, Et, vel jam Editioni"
+  },
+  {
+   "bbox": [
+    1137,
+    1807,
+    1185,
+    1845
+   ],
+   "category": "Page-footer",
+   "text": "27"
+  }
+ ]
+}

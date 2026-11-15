@@ -1,0 +1,172 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 21,
+ "seconds": 30.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [776, 248, 1189, 291], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [501, 319, 1312, 362], \"category\": \"Text\", \"text\": \"Eiusdem Antiquitates Sueo-Gothicæ editioni paratæ.\"}, {\"bbox\": [501, 362, 1356, 401], \"category\": \"Text\", \"text\": \"Eiusdem Historia Suetica confecta in mundum redigitur.\"}, {\"bbox\": [465, 402, 1498, 480], \"category\": \"Text\", \"text\": \"Joannis Schefferi Liber de Memorabilibus gentis Sueticæ Exemplis virtutum.\"}, {\"bbox\": [501, 485, 1442, 528], \"category\": \"Text\", \"text\": \"Ejusdem Versio Latina et Annotationes in Konunga Styrelse.\"}, {\"bbox\": [465, 528, 1498, 687], \"category\": \"Text\", \"text\": \"Ejusdem Auctor Anonymus Latinus ante trecentos annos scriptus de Episcopis, Archiepiscopis et Sacerdotibus Vpsaliensibus, cum prolixis Annotationibus, in quibus monumenta pluscula, nunquam hactenus edita.\"}, {\"bbox\": [465, 693, 1498, 771], \"category\": \"Text\", \"text\": \"Olaus Verelius Hervarar Saga cum versione et notis editioni paratam habet.\"}, {\"bbox\": [465, 776, 1498, 902], \"category\": \"Text\", \"text\": \"Magnus Celsius Fastos Sveogothicos elaboravit, quos tamen in lucem emittere minus consultum ducit, antequam documenta (quorum hic magna est penuria) idonea nactus fuerit.\"}, {\"bbox\": [465, 902, 1498, 1027], \"category\": \"Text\", \"text\": \"Johan Hadorphius Chronicon Vetus, (quod antea indicavit) Regum Suetiæ, a Johanne Messenio A:o 1615 Editum, denuo ex varijs Codicibus recensuit, addita versione latina.\"}, {\"bbox\": [465, 1027, 1498, 1110], \"category\": \"Text\", \"text\": \"Chronicon item Rhytmicum Minus et Maius, addito tomo 2:do nunquam antea publicato, paratum habet.\"}, {\"bbox\": [501, 1110, 1278, 1152], \"category\": \"Text\", \"text\": \"Sic Epitomen Chronici S. Olai Rhytmice scripta»¹.\"}, {\"bbox\": [329, 1208, 459, 1269], \"category\": \"Text\", \"text\": \"Consignatio- nen 1670\"}, {\"bbox\": [465, 1197, 1498, 1278], \"category\": \"Text\", \"text\": \"Nästa år, den 8 februari 1670, skrev kollegiet till De la Gardie (R. A. Antikvitetskollegiet till M. G. De la Gardie):\"}, {\"bbox\": [465, 1285, 1498, 1660], \"category\": \"Text\", \"text\": \"»Eftersom Kongl. May:ttz Instruction för vårt Collegio förmäler, att wij åhrlig uthj begynnelsen skole till Ers högGrefl. Excell. wåra Memorialer communicera, hwad wij på förflutne åhr hafwe arbetat och än på dhet följande tänkia till göra, ty underlåta wij icke uthj störste underdånigheet samma Kongl. May:tz ordre att effterlefwa, härjempte Ers höghGrefl. Excell. ödmiukeligst insinuerandes ett upsatt på dhet wij hafwe ferdigt och än i närwarandes åhr tänkie under händerne hafwa med den ödmiukaste böön och tillförsicht, att Ers höghGrefl. Excell. all ting i ett nådigt behag upta-\"}, {\"bbox\": [465, 1682, 1498, 1771], \"category\": \"Footnote\", \"text\": \"¹ Både brev och redogörelse äro förut tryckta i Handl. rörande Skand. Hist. XX, likaså redogörelserna för 1670, 1672 och 1674. Originalen finnas R. A. Antikvitetskollegiet till M. G. De la Gardie.\"}, {\"bbox\": [472, 1803, 494, 1840], \"category\": \"Page-footer\", \"text\": \"8\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    776,
+    248,
+    1189,
+    291
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    501,
+    319,
+    1312,
+    362
+   ],
+   "category": "Text",
+   "text": "Eiusdem Antiquitates Sueo-Gothicæ editioni paratæ."
+  },
+  {
+   "bbox": [
+    501,
+    362,
+    1356,
+    401
+   ],
+   "category": "Text",
+   "text": "Eiusdem Historia Suetica confecta in mundum redigitur."
+  },
+  {
+   "bbox": [
+    465,
+    402,
+    1498,
+    480
+   ],
+   "category": "Text",
+   "text": "Joannis Schefferi Liber de Memorabilibus gentis Sueticæ Exemplis virtutum."
+  },
+  {
+   "bbox": [
+    501,
+    485,
+    1442,
+    528
+   ],
+   "category": "Text",
+   "text": "Ejusdem Versio Latina et Annotationes in Konunga Styrelse."
+  },
+  {
+   "bbox": [
+    465,
+    528,
+    1498,
+    687
+   ],
+   "category": "Text",
+   "text": "Ejusdem Auctor Anonymus Latinus ante trecentos annos scriptus de Episcopis, Archiepiscopis et Sacerdotibus Vpsaliensibus, cum prolixis Annotationibus, in quibus monumenta pluscula, nunquam hactenus edita."
+  },
+  {
+   "bbox": [
+    465,
+    693,
+    1498,
+    771
+   ],
+   "category": "Text",
+   "text": "Olaus Verelius Hervarar Saga cum versione et notis editioni paratam habet."
+  },
+  {
+   "bbox": [
+    465,
+    776,
+    1498,
+    902
+   ],
+   "category": "Text",
+   "text": "Magnus Celsius Fastos Sveogothicos elaboravit, quos tamen in lucem emittere minus consultum ducit, antequam documenta (quorum hic magna est penuria) idonea nactus fuerit."
+  },
+  {
+   "bbox": [
+    465,
+    902,
+    1498,
+    1027
+   ],
+   "category": "Text",
+   "text": "Johan Hadorphius Chronicon Vetus, (quod antea indicavit) Regum Suetiæ, a Johanne Messenio A:o 1615 Editum, denuo ex varijs Codicibus recensuit, addita versione latina."
+  },
+  {
+   "bbox": [
+    465,
+    1027,
+    1498,
+    1110
+   ],
+   "category": "Text",
+   "text": "Chronicon item Rhytmicum Minus et Maius, addito tomo 2:do nunquam antea publicato, paratum habet."
+  },
+  {
+   "bbox": [
+    501,
+    1110,
+    1278,
+    1152
+   ],
+   "category": "Text",
+   "text": "Sic Epitomen Chronici S. Olai Rhytmice scripta»¹."
+  },
+  {
+   "bbox": [
+    329,
+    1208,
+    459,
+    1269
+   ],
+   "category": "Text",
+   "text": "Consignatio- nen 1670"
+  },
+  {
+   "bbox": [
+    465,
+    1197,
+    1498,
+    1278
+   ],
+   "category": "Text",
+   "text": "Nästa år, den 8 februari 1670, skrev kollegiet till De la Gardie (R. A. Antikvitetskollegiet till M. G. De la Gardie):"
+  },
+  {
+   "bbox": [
+    465,
+    1285,
+    1498,
+    1660
+   ],
+   "category": "Text",
+   "text": "»Eftersom Kongl. May:ttz Instruction för vårt Collegio förmäler, att wij åhrlig uthj begynnelsen skole till Ers högGrefl. Excell. wåra Memorialer communicera, hwad wij på förflutne åhr hafwe arbetat och än på dhet följande tänkia till göra, ty underlåta wij icke uthj störste underdånigheet samma Kongl. May:tz ordre att effterlefwa, härjempte Ers höghGrefl. Excell. ödmiukeligst insinuerandes ett upsatt på dhet wij hafwe ferdigt och än i närwarandes åhr tänkie under händerne hafwa med den ödmiukaste böön och tillförsicht, att Ers höghGrefl. Excell. all ting i ett nådigt behag upta-"
+  },
+  {
+   "bbox": [
+    465,
+    1682,
+    1498,
+    1771
+   ],
+   "category": "Footnote",
+   "text": "¹ Både brev och redogörelse äro förut tryckta i Handl. rörande Skand. Hist. XX, likaså redogörelserna för 1670, 1672 och 1674. Originalen finnas R. A. Antikvitetskollegiet till M. G. De la Gardie."
+  },
+  {
+   "bbox": [
+    472,
+    1803,
+    494,
+    1840
+   ],
+   "category": "Page-footer",
+   "text": "8"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 4,
+ "seconds": 8.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [0, 57, 1584, 2335], \"category\": \"Picture\"}, {\"bbox\": [276, 121, 955, 323], \"category\": \"Picture\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    0,
+    57,
+    1584,
+    2335
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    276,
+    121,
+    955,
+    323
+   ],
+   "category": "Picture"
+  }
+ ]
+}

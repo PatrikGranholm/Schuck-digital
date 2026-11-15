@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 294,
+ "seconds": 24.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [155, 516, 1129, 604], \"category\": \"Section-header\", \"text\": \"ARKEOLOGISKA SKRIFTER, FOLK- OCH ORTBE-SKRIVNINGAR.\"}, {\"bbox\": [105, 670, 1162, 1760], \"category\": \"Text\", \"text\": \"På gränsen mellan arkeologi och historia står ett annat arbete av Schefferus — kanske hans bäst skrivna, om än dess resultat ej stått sig inför den senare tidens kritik (Hans Hildebrand: Det svenska riksvapnet. Antiqvarisk Tidskr. VII). Jag avser De antiquis verisque regni Sveciæ insignibus, i vilket han behandlade den gamla stridsfrågan om Sveriges riksvapen. Frågan hade ju ända sedan den första vasatiden varit brännande, enär det danska riksvapnet även efter unionens upplösning hade bibehållit de tre kronorna, och den intresserade fortfarande Karl XI:s förmyndarregering. Av denna fick kanslirådet Henrik Georg von Falkenberg i uppdrag att verkställa en utredning, vilken han inlämnade den 12 september 1668: Kort Relation om Sweriges Rijkes wapen Three Cronor och huru dhermedh alt ifrån hedenhööss in till thenna dagh har hållit warit (i avskrift U. B. N. fol. 73). Denna är klart och redigt skriven, men sysselsätter sig icke med »hedenhööss», utan behandlar egentligen blott unionstiden och vasatiden. Förmodligen ansågs utredningen ej tillfredsställande, och den 15 september 1673 fick Schefferus, antikvitetskollegiets främste stilist och lärdaste ledamot, mottaga detta kungabrev (U. B. Gahm sign. U 112): »Carl etc. Såsom Wij hålla, troo Vndersåte och Professor, ibland andre Rijksens antiquiteter, som nu å denna tijdh vtharbetas kunna, för ett mycket nyttigt och nödigt ting, att någon sigh företogo till att skrifwa och i liuset vthgå låta om Sweriges Rijkes gamble Skiöldemärke, tree Chronor, huru långt man finner them tillbaka af framfarne Konungars Sigiller, mynt och andra gambla Documenter wara brukade sampt om icke och huru länge Sweriges gambla Konungar hafwa fördt tillijka medh\"}, {\"bbox\": [1170, 691, 1287, 753], \"category\": \"Text\", \"text\": \"De Sveciæ Insignibus\"}, {\"bbox\": [134, 1795, 281, 1824], \"category\": \"Page-footer\", \"text\": \"18—33139. III.\"}, {\"bbox\": [1077, 1797, 1145, 1836], \"category\": \"Page-footer\", \"text\": \"273\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    155,
+    516,
+    1129,
+    604
+   ],
+   "category": "Section-header",
+   "text": "ARKEOLOGISKA SKRIFTER, FOLK- OCH ORTBE-SKRIVNINGAR."
+  },
+  {
+   "bbox": [
+    105,
+    670,
+    1162,
+    1760
+   ],
+   "category": "Text",
+   "text": "På gränsen mellan arkeologi och historia står ett annat arbete av Schefferus — kanske hans bäst skrivna, om än dess resultat ej stått sig inför den senare tidens kritik (Hans Hildebrand: Det svenska riksvapnet. Antiqvarisk Tidskr. VII). Jag avser De antiquis verisque regni Sveciæ insignibus, i vilket han behandlade den gamla stridsfrågan om Sveriges riksvapen. Frågan hade ju ända sedan den första vasatiden varit brännande, enär det danska riksvapnet även efter unionens upplösning hade bibehållit de tre kronorna, och den intresserade fortfarande Karl XI:s förmyndarregering. Av denna fick kanslirådet Henrik Georg von Falkenberg i uppdrag att verkställa en utredning, vilken han inlämnade den 12 september 1668: Kort Relation om Sweriges Rijkes wapen Three Cronor och huru dhermedh alt ifrån hedenhööss in till thenna dagh har hållit warit (i avskrift U. B. N. fol. 73). Denna är klart och redigt skriven, men sysselsätter sig icke med »hedenhööss», utan behandlar egentligen blott unionstiden och vasatiden. Förmodligen ansågs utredningen ej tillfredsställande, och den 15 september 1673 fick Schefferus, antikvitetskollegiets främste stilist och lärdaste ledamot, mottaga detta kungabrev (U. B. Gahm sign. U 112): »Carl etc. Såsom Wij hålla, troo Vndersåte och Professor, ibland andre Rijksens antiquiteter, som nu å denna tijdh vtharbetas kunna, för ett mycket nyttigt och nödigt ting, att någon sigh företogo till att skrifwa och i liuset vthgå låta om Sweriges Rijkes gamble Skiöldemärke, tree Chronor, huru långt man finner them tillbaka af framfarne Konungars Sigiller, mynt och andra gambla Documenter wara brukade sampt om icke och huru länge Sweriges gambla Konungar hafwa fördt tillijka medh"
+  },
+  {
+   "bbox": [
+    1170,
+    691,
+    1287,
+    753
+   ],
+   "category": "Text",
+   "text": "De Sveciæ Insignibus"
+  },
+  {
+   "bbox": [
+    134,
+    1795,
+    281,
+    1824
+   ],
+   "category": "Page-footer",
+   "text": "18—33139. III."
+  },
+  {
+   "bbox": [
+    1077,
+    1797,
+    1145,
+    1836
+   ],
+   "category": "Page-footer",
+   "text": "273"
+  }
+ ]
+}

@@ -1,0 +1,242 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 162,
+ "seconds": 39.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [604, 255, 729, 290], \"category\": \"Section-header\", \"text\": \"Lexika\"}, {\"bbox\": [211, 323, 1193, 467], \"category\": \"List-item\", \"text\": \"Etyma eadem habentes inseruntur, Quod Hafniæ primum ab illo inchoatum ac deinde jussu Excellentissimi Regni Sveciæ Thesaurarij Dni Stenonis Bielke, quod angustia temporum permiserit, elaboratum — 18 Tomis in folio.\"}, {\"bbox\": [167, 468, 795, 507], \"category\": \"List-item\", \"text\": \"2) Aliud Lexicon latino Gothico Islandicum.\"}, {\"bbox\": [167, 503, 1193, 609], \"category\": \"List-item\", \"text\": \"3) Alla gambla Fornskallda wijsor, som finss uthj Snorre Sturluson på swenska och Latin uthsatte och effter sin rätta grundh och meningh uthtolkade.\"}, {\"bbox\": [167, 609, 1193, 717], \"category\": \"List-item\", \"text\": \"4) Alla andra fornskallda wijsor och Rijm, som i the gambla gothico Islandiska Mss. finnas på samma sätt uthtydde och till sin uhrsprung hemledda.\"}, {\"bbox\": [167, 717, 1193, 795], \"category\": \"List-item\", \"text\": \"5) Dictionarium Poeticum seu index omnium vocabulorum et phrasium, quæ in priscis Aquilonis poetis occurrunt cum interpretatione latina.\"}, {\"bbox\": [167, 791, 874, 830], \"category\": \"List-item\", \"text\": \"6) De poesi gothica veteri et Islandica moderna.\"}, {\"bbox\": [167, 827, 530, 864], \"category\": \"List-item\", \"text\": \"7) Grammatica Islandica.\"}, {\"bbox\": [167, 860, 1193, 899], \"category\": \"List-item\", \"text\": \"8) Gottlandz LandzLagen medh Secret. Hadorph på swenska verterad.\"}, {\"bbox\": [167, 896, 1193, 973], \"category\": \"List-item\", \"text\": \"9) Gottlandz Stadzlagen aff gammall Tyska medh bem:te Secret. och så på Swenska uthtollkad.\"}, {\"bbox\": [154, 967, 1193, 1074], \"category\": \"List-item\", \"text\": \"10) Thiricks aff Bern Historia, som elliest kallas Wilkina Sagha, af åthskillige Mss. sammandragen och distingverat, till att uthsättiass på Swenska.\"}, {\"bbox\": [154, 1074, 1193, 1150], \"category\": \"List-item\", \"text\": \"11) Snorre Sturlasoni Swenska version tillijka medh dhe gambla poeters Rijm och notis.\"}, {\"bbox\": [154, 1146, 1193, 1257], \"category\": \"List-item\", \"text\": \"12) Alla dhe Antiquiteter och Historier, som bifogat Register innehåller, distingverade och reent afskrifne till att effter tijdhens medgifwande på swenska uthställas.\"}, {\"bbox\": [154, 1253, 1193, 1328], \"category\": \"List-item\", \"text\": \"13) Änn tå andra particulair historier och Antiquiteter öfwer 200 att afskrifwa låta och sedan på Swänska eller Latin uthsättia.\"}, {\"bbox\": [154, 1324, 1193, 1363], \"category\": \"List-item\", \"text\": \"14) Thesaurus adagiorum linguæ Septemptrionalis Antiquæ et modernæ.\"}, {\"bbox\": [154, 1359, 1193, 1431], \"category\": \"List-item\", \"text\": \"15) Register öfwer alla gambla danska Lagh och Antiquiteter, som i Archivo finnas.\"}, {\"bbox\": [154, 1431, 705, 1470], \"category\": \"List-item\", \"text\": \"16) Raritates sive Mirandæ Islandicæ.\"}, {\"bbox\": [154, 1466, 1082, 1505], \"category\": \"List-item\", \"text\": \"17) Om nordländernas afgudar och dheras tienst i gambla dagar.\"}, {\"bbox\": [154, 1501, 1193, 1573], \"category\": \"List-item\", \"text\": \"18) Edda Snorronis af åthskilliga Mss. complet sammandragen och distingverat.\"}, {\"bbox\": [154, 1573, 898, 1612], \"category\": \"List-item\", \"text\": \"19) Edda Sæmundicum versione Latina et Suecica.\"}, {\"bbox\": [154, 1608, 1193, 1686], \"category\": \"List-item\", \"text\": \"20) Issländingarnes Landhnamme book, huruledes och af hwad Nationer Islandh blef först bebygdt.\"}, {\"bbox\": [822, 1692, 1128, 1769], \"category\": \"Text\", \"text\": \"Gudmundus Olaius\\nIslandus».\"}, {\"bbox\": [1125, 1813, 1193, 1848], \"category\": \"Page-footer\", \"text\": \"141\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    604,
+    255,
+    729,
+    290
+   ],
+   "category": "Section-header",
+   "text": "Lexika"
+  },
+  {
+   "bbox": [
+    211,
+    323,
+    1193,
+    467
+   ],
+   "category": "List-item",
+   "text": "Etyma eadem habentes inseruntur, Quod Hafniæ primum ab illo inchoatum ac deinde jussu Excellentissimi Regni Sveciæ Thesaurarij Dni Stenonis Bielke, quod angustia temporum permiserit, elaboratum — 18 Tomis in folio."
+  },
+  {
+   "bbox": [
+    167,
+    468,
+    795,
+    507
+   ],
+   "category": "List-item",
+   "text": "2) Aliud Lexicon latino Gothico Islandicum."
+  },
+  {
+   "bbox": [
+    167,
+    503,
+    1193,
+    609
+   ],
+   "category": "List-item",
+   "text": "3) Alla gambla Fornskallda wijsor, som finss uthj Snorre Sturluson på swenska och Latin uthsatte och effter sin rätta grundh och meningh uthtolkade."
+  },
+  {
+   "bbox": [
+    167,
+    609,
+    1193,
+    717
+   ],
+   "category": "List-item",
+   "text": "4) Alla andra fornskallda wijsor och Rijm, som i the gambla gothico Islandiska Mss. finnas på samma sätt uthtydde och till sin uhrsprung hemledda."
+  },
+  {
+   "bbox": [
+    167,
+    717,
+    1193,
+    795
+   ],
+   "category": "List-item",
+   "text": "5) Dictionarium Poeticum seu index omnium vocabulorum et phrasium, quæ in priscis Aquilonis poetis occurrunt cum interpretatione latina."
+  },
+  {
+   "bbox": [
+    167,
+    791,
+    874,
+    830
+   ],
+   "category": "List-item",
+   "text": "6) De poesi gothica veteri et Islandica moderna."
+  },
+  {
+   "bbox": [
+    167,
+    827,
+    530,
+    864
+   ],
+   "category": "List-item",
+   "text": "7) Grammatica Islandica."
+  },
+  {
+   "bbox": [
+    167,
+    860,
+    1193,
+    899
+   ],
+   "category": "List-item",
+   "text": "8) Gottlandz LandzLagen medh Secret. Hadorph på swenska verterad."
+  },
+  {
+   "bbox": [
+    167,
+    896,
+    1193,
+    973
+   ],
+   "category": "List-item",
+   "text": "9) Gottlandz Stadzlagen aff gammall Tyska medh bem:te Secret. och så på Swenska uthtollkad."
+  },
+  {
+   "bbox": [
+    154,
+    967,
+    1193,
+    1074
+   ],
+   "category": "List-item",
+   "text": "10) Thiricks aff Bern Historia, som elliest kallas Wilkina Sagha, af åthskillige Mss. sammandragen och distingverat, till att uthsättiass på Swenska."
+  },
+  {
+   "bbox": [
+    154,
+    1074,
+    1193,
+    1150
+   ],
+   "category": "List-item",
+   "text": "11) Snorre Sturlasoni Swenska version tillijka medh dhe gambla poeters Rijm och notis."
+  },
+  {
+   "bbox": [
+    154,
+    1146,
+    1193,
+    1257
+   ],
+   "category": "List-item",
+   "text": "12) Alla dhe Antiquiteter och Historier, som bifogat Register innehåller, distingverade och reent afskrifne till att effter tijdhens medgifwande på swenska uthställas."
+  },
+  {
+   "bbox": [
+    154,
+    1253,
+    1193,
+    1328
+   ],
+   "category": "List-item",
+   "text": "13) Änn tå andra particulair historier och Antiquiteter öfwer 200 att afskrifwa låta och sedan på Swänska eller Latin uthsättia."
+  },
+  {
+   "bbox": [
+    154,
+    1324,
+    1193,
+    1363
+   ],
+   "category": "List-item",
+   "text": "14) Thesaurus adagiorum linguæ Septemptrionalis Antiquæ et modernæ."
+  },
+  {
+   "bbox": [
+    154,
+    1359,
+    1193,
+    1431
+   ],
+   "category": "List-item",
+   "text": "15) Register öfwer alla gambla danska Lagh och Antiquiteter, som i Archivo finnas."
+  },
+  {
+   "bbox": [
+    154,
+    1431,
+    705,
+    1470
+   ],
+   "category": "List-item",
+   "text": "16) Raritates sive Mirandæ Islandicæ."
+  },
+  {
+   "bbox": [
+    154,
+    1466,
+    1082,
+    1505
+   ],
+   "category": "List-item",
+   "text": "17) Om nordländernas afgudar och dheras tienst i gambla dagar."
+  },
+  {
+   "bbox": [
+    154,
+    1501,
+    1193,
+    1573
+   ],
+   "category": "List-item",
+   "text": "18) Edda Snorronis af åthskilliga Mss. complet sammandragen och distingverat."
+  },
+  {
+   "bbox": [
+    154,
+    1573,
+    898,
+    1612
+   ],
+   "category": "List-item",
+   "text": "19) Edda Sæmundicum versione Latina et Suecica."
+  },
+  {
+   "bbox": [
+    154,
+    1608,
+    1193,
+    1686
+   ],
+   "category": "List-item",
+   "text": "20) Issländingarnes Landhnamme book, huruledes och af hwad Nationer Islandh blef först bebygdt."
+  },
+  {
+   "bbox": [
+    822,
+    1692,
+    1128,
+    1769
+   ],
+   "category": "Text",
+   "text": "Gudmundus Olaius\nIslandus»."
+  },
+  {
+   "bbox": [
+    1125,
+    1813,
+    1193,
+    1848
+   ],
+   "category": "Page-footer",
+   "text": "141"
+  }
+ ]
+}

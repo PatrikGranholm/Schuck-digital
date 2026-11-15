@@ -1,0 +1,30 @@
+{
+  "vol": "1933b",
+  "part": "III",
+  "title": "Kgl. Vitterhets historie och antikvitets akademien. Dess förhistoria och historia",
+  "volume_title": "Antikvitetskollegiet II",
+  "note": "Chapters from the table of contents (images 426-427, text layer; dots.mocr loops on p0426) and the chapter headings recognised by dots.mocr. Images 1-4: digitisation notice (Göteborgs universitetsbibliotek), cover and front endpapers; 5-7, 9, 11, 13: blank leaves; 8: series title, 10: half-title, 12: title page. Images 142-149, between pp. 128 and 129: a facsimile of Stiernhielm's annotated Runa Suethica (142-145) and a typeset reprint of it (146-149), unpaginated. Image 425 (p. 402) is blank; 428: colophon (Uppsala 1933), no errata list; 429-434 blank leaves; 435-437 back endpapers and cover.",
+  "chapters": [
+    {"title": "Consignationer och kataloger", "page": 1},
+    {"title": "De götiska skrifterna", "page": 45},
+    {"title": "Lexika", "page": 119},
+    {"title": "Runarbeten", "page": 142},
+    {"title": "Lageditioner", "page": 175},
+    {"title": "Urkundsutgivning", "page": 187},
+    {"title": "Svenska medeltidsskrifter", "page": 227},
+    {"title": "Historiska skrifter", "page": 249},
+    {"title": "Arkeologiska skrifter, folk- och ortbeskrivningar", "page": 273},
+    {"title": "Litterära strider", "page": 319}
+  ],
+  "front": {
+    "binding": [1, 2, 3, 4],
+    "halftitle": [8, 10],
+    "titlepage": [12]
+  },
+  "back": {
+    "contents": [426, 427],
+    "colophon_errata": [428],
+    "binding": [435, 436, 437]
+  },
+  "errata": []
+}

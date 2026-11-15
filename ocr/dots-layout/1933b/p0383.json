@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 383,
+ "seconds": 25.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [824, 237, 1242, 281], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [507, 307, 1557, 765], \"category\": \"Text\", \"text\": \"storiska upplysningarna i excerpten. Och ej heller biskopens son, den för all fornforskning så intresserade Olof Rudbeck, har förr än just nu uppmärksammat detta märkliga blad. »Quare cum hæc ita sese habeant, quis compellet me, ut sincera atque genuina credam divulgata Excerpta. Vero videtur auctorem eorum, quisquis denique sit, voluisse ludos facere ac tentare quam in fingenda vetustate esset felix possetque facile vel difficulter invenire, qui inventis ejuscemodi tribuerent fidem. Per me ergo credat genuina, quisquis volet, animumque suum satiet pulchro hoc Antiquitatis monumento. Me nemo facile induxerit ad probandum id, quod tot argumenta improbant».\"}, {\"bbox\": [502, 764, 1555, 1304], \"category\": \"Text\", \"text\": \"Denna kritik var onekligen så förkrossande som möjligt, och ehuru man i rudbeckianska kretsar fortfarande bibehöll tron på excerptens äkthet, synas Rudbeck och Verelius själva hava blivit tveksamma. Såsom Annerstedt anmärkt, åberopar Rudbeck aldrig i sin Atlantica dessa anteckningar, och i sina talrika brev berör han icke med ett ord hela denna sak, ehuru han vida mer än Verelius var misstänkt. Detta tyder onekligen på, att han helst ville begrava hela inlägget i tystnad. Den mera hetsige och mindre skarpsinnige Verelius, som fått det ifrågavarande bladet från Rudbeck, bibehöll väl sin tro på dokumentets äkthet, men han förberedde icke någon motskrift mot Schefferus' bevisning, utan försvarade sig blott mot beskyllningen att hava begått något falsarium. Så skrev han den 30 juni 1678 till hovkansleren (U. B. sign. S 142):\"}, {\"bbox\": [502, 1307, 1552, 1767], \"category\": \"Text\", \"text\": \"»Emädan Professor her Scheffer hafver sitt iudicium de Excerptis Annotationibus ex scriptis Caroli Episcopi Arosiensis publicerat och det hans höggrefl. Excell. RijkzCancelleren sampt alle Kongl. Cancellie och hofråden dedicerat, huaruti han öfver mig tillvitte otijdighet sig högeligen beklagar, sökiandes medh all konst att föra mig uti höga öfverhetenes ogunst sampt hoos dess höge och förnäme ministros uti ett elakt omdöme, utropandes derhoos det gambla Manuscriptum iagh hafver låtit utgå för spurio och adulterino, som arte veteratoria et imposturis sammandiktat wore, sedan mitt auctarium 1677 trycktes, hwilket alt han emot sitt eget samweet och af ijdel arghet emot mig utsprijder, mig icke till ringa förfång och för-\"}, {\"bbox\": [505, 1785, 581, 1832], \"category\": \"Page-footer\", \"text\": \"360\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    824,
+    237,
+    1242,
+    281
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    507,
+    307,
+    1557,
+    765
+   ],
+   "category": "Text",
+   "text": "storiska upplysningarna i excerpten. Och ej heller biskopens son, den för all fornforskning så intresserade Olof Rudbeck, har förr än just nu uppmärksammat detta märkliga blad. »Quare cum hæc ita sese habeant, quis compellet me, ut sincera atque genuina credam divulgata Excerpta. Vero videtur auctorem eorum, quisquis denique sit, voluisse ludos facere ac tentare quam in fingenda vetustate esset felix possetque facile vel difficulter invenire, qui inventis ejuscemodi tribuerent fidem. Per me ergo credat genuina, quisquis volet, animumque suum satiet pulchro hoc Antiquitatis monumento. Me nemo facile induxerit ad probandum id, quod tot argumenta improbant»."
+  },
+  {
+   "bbox": [
+    502,
+    764,
+    1555,
+    1304
+   ],
+   "category": "Text",
+   "text": "Denna kritik var onekligen så förkrossande som möjligt, och ehuru man i rudbeckianska kretsar fortfarande bibehöll tron på excerptens äkthet, synas Rudbeck och Verelius själva hava blivit tveksamma. Såsom Annerstedt anmärkt, åberopar Rudbeck aldrig i sin Atlantica dessa anteckningar, och i sina talrika brev berör han icke med ett ord hela denna sak, ehuru han vida mer än Verelius var misstänkt. Detta tyder onekligen på, att han helst ville begrava hela inlägget i tystnad. Den mera hetsige och mindre skarpsinnige Verelius, som fått det ifrågavarande bladet från Rudbeck, bibehöll väl sin tro på dokumentets äkthet, men han förberedde icke någon motskrift mot Schefferus' bevisning, utan försvarade sig blott mot beskyllningen att hava begått något falsarium. Så skrev han den 30 juni 1678 till hovkansleren (U. B. sign. S 142):"
+  },
+  {
+   "bbox": [
+    502,
+    1307,
+    1552,
+    1767
+   ],
+   "category": "Text",
+   "text": "»Emädan Professor her Scheffer hafver sitt iudicium de Excerptis Annotationibus ex scriptis Caroli Episcopi Arosiensis publicerat och det hans höggrefl. Excell. RijkzCancelleren sampt alle Kongl. Cancellie och hofråden dedicerat, huaruti han öfver mig tillvitte otijdighet sig högeligen beklagar, sökiandes medh all konst att föra mig uti höga öfverhetenes ogunst sampt hoos dess höge och förnäme ministros uti ett elakt omdöme, utropandes derhoos det gambla Manuscriptum iagh hafver låtit utgå för spurio och adulterino, som arte veteratoria et imposturis sammandiktat wore, sedan mitt auctarium 1677 trycktes, hwilket alt han emot sitt eget samweet och af ijdel arghet emot mig utsprijder, mig icke till ringa förfång och för-"
+  },
+  {
+   "bbox": [
+    505,
+    1785,
+    581,
+    1832
+   ],
+   "category": "Page-footer",
+   "text": "360"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 101,
+ "seconds": 27.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [822, 246, 1237, 289], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [507, 316, 1533, 1025], \"category\": \"Text\", \"text\": \"ett nytt, då daterat titelblad.¹ Arbetet blev således alls icke vad De la Gardie väntat, och de »notæ», som Stiernhielm i Västgötalagen ställt i utsikt, blevo aldrig färdiga. Vad Stiernhielms gotiska text angår — yttra Grape och von Friesen — »följer han in i detalj Junius och detta så troget med dennes felläsningar och olästa luckor, att man måste anse, att Stiernhielms upplaga i realiteten är en utgåva av Junii text, icke av Codex Argenteus'. Några framsteg i Codex Argenteus' läsning bjuder den knappast, och avvikelserna från Junius — såväl oavsiktliga tryckfel som avsedda förbättringar — äro lika många försämringar. Stiernhielm synes att döma av de talrika inadvertenserna och felen i texten som i glossariet icke ha i vidare mån arbetat sig in i gotiskan». Kollegiets förstlingsarbete var således knappast någon vetenskaplig bragd, och likväl var denna insats den enda, som Stiernhielm gjorde såsom kollegiets direktor. Hans styrka låg på ett annat område, i den diktsamling, Musæ Suethizantes, som utgavs 1668 och som kanske bäst uttrycker den tanke, som låg bakom De la Gardies skapelse.\"}, {\"bbox\": [360, 1030, 502, 1060], \"category\": \"Text\", \"text\": \"Snorres Edda\"}, {\"bbox\": [502, 1023, 1530, 1727], \"category\": \"Text\", \"text\": \"De viktigaste av de isländska handskrifterna i De la Gardies samling voro Snorres Edda, Heimskringla, Styrmers Olof den heliges saga, Grettis saga och det fragment av Olof Tryggvasons saga, som redan 1665 utgivits av Verelius och som förut omtalats. För Eddan var De la Gardie särskilt intresserad. Såsom redan påpekats (I 245) lämnade han den till Laurentius Bureus, som gjorde en avskrift, vilken nu är förlorad, men som tydligen var ytterst felaktig. Sedermera fick Verelius låna den (1662) och gjorde en ny avskrift (K. B. Papp. fol. nr. 16). Meningen var väl, att han skulle utgiva den, och då De la Gardie 1668 trodde, att hans Edda var förkommen, skrev han till kollegiet, att man kunde betjäna sig av »dhe affskriffter, som däraf tagne ähre», och låta bemälte Edda utgå av trycket samt »icke dess mindre beropa sigh på mitt original». Härpå svarade kollegiet: »Att Ers höghGrefl. Excell. Edda så hastigt är bortkommen uthur Ers höghGrefl. Excell. Bibliothek är mycket till beklagandes och gifwer starcke præsumptioner att wara af någon dädan uthbracht, som den till främmande orter öfwerfördt hafwer; icke\"}, {\"bbox\": [536, 1740, 1379, 1774], \"category\": \"Footnote\", \"text\": \"¹ Att gången av tryckningen varit den nu nämnda, framgår av arksignaturerna.\"}, {\"bbox\": [506, 1798, 553, 1836], \"category\": \"Page-footer\", \"text\": \"88\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    822,
+    246,
+    1237,
+    289
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    507,
+    316,
+    1533,
+    1025
+   ],
+   "category": "Text",
+   "text": "ett nytt, då daterat titelblad.¹ Arbetet blev således alls icke vad De la Gardie väntat, och de »notæ», som Stiernhielm i Västgötalagen ställt i utsikt, blevo aldrig färdiga. Vad Stiernhielms gotiska text angår — yttra Grape och von Friesen — »följer han in i detalj Junius och detta så troget med dennes felläsningar och olästa luckor, att man måste anse, att Stiernhielms upplaga i realiteten är en utgåva av Junii text, icke av Codex Argenteus'. Några framsteg i Codex Argenteus' läsning bjuder den knappast, och avvikelserna från Junius — såväl oavsiktliga tryckfel som avsedda förbättringar — äro lika många försämringar. Stiernhielm synes att döma av de talrika inadvertenserna och felen i texten som i glossariet icke ha i vidare mån arbetat sig in i gotiskan». Kollegiets förstlingsarbete var således knappast någon vetenskaplig bragd, och likväl var denna insats den enda, som Stiernhielm gjorde såsom kollegiets direktor. Hans styrka låg på ett annat område, i den diktsamling, Musæ Suethizantes, som utgavs 1668 och som kanske bäst uttrycker den tanke, som låg bakom De la Gardies skapelse."
+  },
+  {
+   "bbox": [
+    360,
+    1030,
+    502,
+    1060
+   ],
+   "category": "Text",
+   "text": "Snorres Edda"
+  },
+  {
+   "bbox": [
+    502,
+    1023,
+    1530,
+    1727
+   ],
+   "category": "Text",
+   "text": "De viktigaste av de isländska handskrifterna i De la Gardies samling voro Snorres Edda, Heimskringla, Styrmers Olof den heliges saga, Grettis saga och det fragment av Olof Tryggvasons saga, som redan 1665 utgivits av Verelius och som förut omtalats. För Eddan var De la Gardie särskilt intresserad. Såsom redan påpekats (I 245) lämnade han den till Laurentius Bureus, som gjorde en avskrift, vilken nu är förlorad, men som tydligen var ytterst felaktig. Sedermera fick Verelius låna den (1662) och gjorde en ny avskrift (K. B. Papp. fol. nr. 16). Meningen var väl, att han skulle utgiva den, och då De la Gardie 1668 trodde, att hans Edda var förkommen, skrev han till kollegiet, att man kunde betjäna sig av »dhe affskriffter, som däraf tagne ähre», och låta bemälte Edda utgå av trycket samt »icke dess mindre beropa sigh på mitt original». Härpå svarade kollegiet: »Att Ers höghGrefl. Excell. Edda så hastigt är bortkommen uthur Ers höghGrefl. Excell. Bibliothek är mycket till beklagandes och gifwer starcke præsumptioner att wara af någon dädan uthbracht, som den till främmande orter öfwerfördt hafwer; icke"
+  },
+  {
+   "bbox": [
+    536,
+    1740,
+    1379,
+    1774
+   ],
+   "category": "Footnote",
+   "text": "¹ Att gången av tryckningen varit den nu nämnda, framgår av arksignaturerna."
+  },
+  {
+   "bbox": [
+    506,
+    1798,
+    553,
+    1836
+   ],
+   "category": "Page-footer",
+   "text": "88"
+  }
+ ]
+}

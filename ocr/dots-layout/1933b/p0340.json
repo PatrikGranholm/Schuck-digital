@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 340,
+ "seconds": 23.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [406, 491, 849, 526], \"category\": \"Section-header\", \"text\": \"LITTERÄRA STRIDER.\"}, {\"bbox\": [98, 591, 1152, 1756], \"category\": \"Text\", \"text\": \"I föregående dels första kapitel har jag redogjort för de misshälligheter, som redan efter ett par år uppstodo mellan kollegiets medlemmar. Dessa berodde till en väsentlig del på rent personliga motiv, och stridspunkter saknades icke. Den bråkigaste tyckes onekligen ha varit Verelius. Han var visserligen en stor hedersman, men hans omdömesförmåga var ganska trång. Då han ej erhöll någon lön såsom assessor, gjorde han Hadorph och ej De la Gardie ansvarig därför och fattade ett ursinnigt hat till den förre. Såsom trofast vän till Rudbeck tog han alldeles dennes parti i tvisten med Curio och kom därigenom på stridsfot med även Schefferus, Celsius och Arrhenius. Hur häftig förbittringen mellan de båda partierna varit, framgår av flera redan förut anförda brev, och här skall blott anföras ett nytt. Efter vad det förefaller voro den tidens professorer ganska försumliga i sin undervisning, och en bland dem, som i detta fall mest förbrutit sig, var Rudbeck, ehuru han å den andra sidan hos kansleren angav, när de andra inställde sina föreläsningar (Annerstedt: Bref af Olof Rudbeck. Inledning s. 119). På en dylik historia syftar en liten biljett från Celsius till Arrhenius (K. B. Örnhielmiana): »Jag tackar HHl. fautori för den vårdnad han af gott hierta drager om min honeur och conservation, den iag med skyldig wyrdnat skal afftiena. I Söndagz intimerade iag att läsa som i dag och satt fördenskuld på resande foot att komma in i staden. När iag läser mina ordinarie Timmar, frågar iag mina Missgynnare inthet, om iag dess emellan är här eller annorstädes, det iag dem suo tempore vijsa skal. Den, som hafwer antaget den professionem at bewaka andra, han har aldrig läsit på sex eller 8 åhr, och sin publicam lectionem slööt han der med, att han afmålade particulatim på tafflan arcana muliebris pudendi. Habeat illa sibi cum Amicissimo dn. Vale. d. 4 Aprilis 1679».\"}, {\"bbox\": [1156, 597, 1284, 658], \"category\": \"Text\", \"text\": \"Stridsanledningar\"}, {\"bbox\": [1075, 1790, 1145, 1829], \"category\": \"Page-footer\", \"text\": \"319\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    406,
+    491,
+    849,
+    526
+   ],
+   "category": "Section-header",
+   "text": "LITTERÄRA STRIDER."
+  },
+  {
+   "bbox": [
+    98,
+    591,
+    1152,
+    1756
+   ],
+   "category": "Text",
+   "text": "I föregående dels första kapitel har jag redogjort för de misshälligheter, som redan efter ett par år uppstodo mellan kollegiets medlemmar. Dessa berodde till en väsentlig del på rent personliga motiv, och stridspunkter saknades icke. Den bråkigaste tyckes onekligen ha varit Verelius. Han var visserligen en stor hedersman, men hans omdömesförmåga var ganska trång. Då han ej erhöll någon lön såsom assessor, gjorde han Hadorph och ej De la Gardie ansvarig därför och fattade ett ursinnigt hat till den förre. Såsom trofast vän till Rudbeck tog han alldeles dennes parti i tvisten med Curio och kom därigenom på stridsfot med även Schefferus, Celsius och Arrhenius. Hur häftig förbittringen mellan de båda partierna varit, framgår av flera redan förut anförda brev, och här skall blott anföras ett nytt. Efter vad det förefaller voro den tidens professorer ganska försumliga i sin undervisning, och en bland dem, som i detta fall mest förbrutit sig, var Rudbeck, ehuru han å den andra sidan hos kansleren angav, när de andra inställde sina föreläsningar (Annerstedt: Bref af Olof Rudbeck. Inledning s. 119). På en dylik historia syftar en liten biljett från Celsius till Arrhenius (K. B. Örnhielmiana): »Jag tackar HHl. fautori för den vårdnad han af gott hierta drager om min honeur och conservation, den iag med skyldig wyrdnat skal afftiena. I Söndagz intimerade iag att läsa som i dag och satt fördenskuld på resande foot att komma in i staden. När iag läser mina ordinarie Timmar, frågar iag mina Missgynnare inthet, om iag dess emellan är här eller annorstädes, det iag dem suo tempore vijsa skal. Den, som hafwer antaget den professionem at bewaka andra, han har aldrig läsit på sex eller 8 åhr, och sin publicam lectionem slööt han der med, att han afmålade particulatim på tafflan arcana muliebris pudendi. Habeat illa sibi cum Amicissimo dn. Vale. d. 4 Aprilis 1679»."
+  },
+  {
+   "bbox": [
+    1156,
+    597,
+    1284,
+    658
+   ],
+   "category": "Text",
+   "text": "Stridsanledningar"
+  },
+  {
+   "bbox": [
+    1075,
+    1790,
+    1145,
+    1829
+   ],
+   "category": "Page-footer",
+   "text": "319"
+  }
+ ]
+}

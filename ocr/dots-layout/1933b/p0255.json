@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 255,
+ "seconds": 18.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [775, 245, 1192, 288], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [464, 315, 1503, 610], \"category\": \"Text\", \"text\": \"de äldre manuskripten, och de variantläsningar från dessa, som han upptagit i margen, äro varken synnerligen många eller betydande. Men så föga tillfredsställande hans edition än är enligt vår tids krav, har den dock en förtjänst. Bureus och Messenius hade vid sina editioner blott begagnat ett manuskript. Hadorph är den förste, som åtminstone försöker att genom användandet av flere restituera den ursprungliga texten. Och detta var onekligen ett framsteg.\"}, {\"bbox\": [464, 608, 1509, 1732], \"category\": \"Text\", \"text\": \"I början av sin upplaga har han avtryckt en yngre redaktion av lilla rimkrönikan från den nyss omtalade Codex Bureanus, och vidare En lustig Lijnelse om Swerige och Konung Albrecht. Denna dikt finnes numera blott i en enda handskrift, D 4, ehuru där ej fullständig. Den hade emellertid förut efter en fullständig, nu förlorad, text utgivits av Messenius i Then Gamle Rijm Krönikas Första Deel, och Hadorph har helt enkelt följt denna text utan att, så vitt man kan se, anlita någon handskrift. I företalet skriver han ock, att han »bijfogat the Swenske Rijm om Kon. Albrechtz wäsende i Rijket, som Messenius i sin præfation infördt hafwer». Därefter följer lilla rimkrönikan, där han likaledes begagnat Messenius' text, ehuru han i margen anfört läsarter från D 3. Vid stora rimkrönikan, som här efter följer, hade han, som sagt, lagt D 5 till grund. När han hunnit till slutet av Karlskrönikan, anmärker han: »Så långt räckia the twå äldste Exemplaren (codex Regius 1 och Ralambian.), hwad som effter föllier fins vthi Cod. Reg. 3 allena, den och Messenius ifrån begynnelsen in til ändan effterfolgdt hafwer». Varianterna i den nu följande avdelningen äro införda från Codex Bureanus och äro relativt många. Vid slutet av den tredje Sturekrönikan antecknar han: »Här lycktar Codex Reg 3 och altså ände på the Gamla Rijm Krönikorne. Fölliande supplementum är aff Sahl. Assessorens Johannis Buræi Codice tillagdt, hwilkens Author vthi Herr Steen Stures then yngres och Konung Christierns Klippingz tijdh lefwat hafwer». Sista delen av detta Supplementum — Konung Christiernz Klippingz krönika — är dock »vthskrifwin aff Manuscr. Reg 1 och variæ lect. tagne aff Cod. Bur., hwarest hon och fins». Upplagan avslutas med ett utförligt register.\"}, {\"bbox\": [475, 1809, 550, 1848], \"category\": \"Page-footer\", \"text\": \"234\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    775,
+    245,
+    1192,
+    288
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    464,
+    315,
+    1503,
+    610
+   ],
+   "category": "Text",
+   "text": "de äldre manuskripten, och de variantläsningar från dessa, som han upptagit i margen, äro varken synnerligen många eller betydande. Men så föga tillfredsställande hans edition än är enligt vår tids krav, har den dock en förtjänst. Bureus och Messenius hade vid sina editioner blott begagnat ett manuskript. Hadorph är den förste, som åtminstone försöker att genom användandet av flere restituera den ursprungliga texten. Och detta var onekligen ett framsteg."
+  },
+  {
+   "bbox": [
+    464,
+    608,
+    1509,
+    1732
+   ],
+   "category": "Text",
+   "text": "I början av sin upplaga har han avtryckt en yngre redaktion av lilla rimkrönikan från den nyss omtalade Codex Bureanus, och vidare En lustig Lijnelse om Swerige och Konung Albrecht. Denna dikt finnes numera blott i en enda handskrift, D 4, ehuru där ej fullständig. Den hade emellertid förut efter en fullständig, nu förlorad, text utgivits av Messenius i Then Gamle Rijm Krönikas Första Deel, och Hadorph har helt enkelt följt denna text utan att, så vitt man kan se, anlita någon handskrift. I företalet skriver han ock, att han »bijfogat the Swenske Rijm om Kon. Albrechtz wäsende i Rijket, som Messenius i sin præfation infördt hafwer». Därefter följer lilla rimkrönikan, där han likaledes begagnat Messenius' text, ehuru han i margen anfört läsarter från D 3. Vid stora rimkrönikan, som här efter följer, hade han, som sagt, lagt D 5 till grund. När han hunnit till slutet av Karlskrönikan, anmärker han: »Så långt räckia the twå äldste Exemplaren (codex Regius 1 och Ralambian.), hwad som effter föllier fins vthi Cod. Reg. 3 allena, den och Messenius ifrån begynnelsen in til ändan effterfolgdt hafwer». Varianterna i den nu följande avdelningen äro införda från Codex Bureanus och äro relativt många. Vid slutet av den tredje Sturekrönikan antecknar han: »Här lycktar Codex Reg 3 och altså ände på the Gamla Rijm Krönikorne. Fölliande supplementum är aff Sahl. Assessorens Johannis Buræi Codice tillagdt, hwilkens Author vthi Herr Steen Stures then yngres och Konung Christierns Klippingz tijdh lefwat hafwer». Sista delen av detta Supplementum — Konung Christiernz Klippingz krönika — är dock »vthskrifwin aff Manuscr. Reg 1 och variæ lect. tagne aff Cod. Bur., hwarest hon och fins». Upplagan avslutas med ett utförligt register."
+  },
+  {
+   "bbox": [
+    475,
+    1809,
+    550,
+    1848
+   ],
+   "category": "Page-footer",
+   "text": "234"
+  }
+ ]
+}

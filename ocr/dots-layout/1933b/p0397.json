@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 397,
+ "seconds": 26.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [818, 244, 1238, 289], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [501, 315, 1550, 608], \"category\": \"Text\", \"text\": \"skulle (dok medh rätta) spillas på andras åkrar ok då ei så ymnigt såås i ens mans haga; hvilken tistel ok törn förqväfia all annan godh fruckt ok redeligit upsåt, men sådant ogräss, som nu medh sommarwärmen bör iu för mycket stickia sigh up öfwer kornbrådden, lärer kanske nogot för skördetiden blifua uprykt af några redelige ok förnehma åkermen, som sigh allereda medh misznöie på tisteltaggarna stungit hafva'.\"}, {\"bbox\": [501, 607, 1549, 774], \"category\": \"Text\", \"text\": \"Af dessa orden synnes nogot gåt wara på färde, emedan ok säies här i staden, att Prof. Arenius skal ok resa dijt ok giöra rekenskap för sina penningar. Men dett är skada, att kopparstickaren Truls intet är tilstädes, ty han hade mycket att tala».\"}, {\"bbox\": [496, 772, 1548, 1771], \"category\": \"Text\", \"text\": \"De la Gardie gjorde nu Rudbecks sak till sin egen, skrev till Kungl. Maj:t, och med hjälp av den mäktige Lindschöld utfärdades den 13 maj ett »Swar till H. drotzen om hans påminnelser widh dhet uthgångne Placatet om böckers censurerande, huru wijda dhet böhr förståås» (Registraturet), vars avslutning tydligen riktar sig mot Schütz' inkompetens att censurera en forskare av Rudbecks betydelse: »Wår synnerlige ynnest etc. Wij hafwe medh nåder upptagit edher underdånige påminnelse widh dhet Placat, som för någre åhr sedan blef publicerat om dhe böcker och skrifter, som een och annan utharbetar, att dhe böre först censureras, innan dhe i trycket uthgå, och alldenstundh sådant har sin gode grund och serdehles nytta med sigh, på dhet icke något förargeligit och förkleenligit må så lätt uthsprijdas och genom trycket giöras allmänt, ty låte wij och der widh beroo, serdehles huadh Theologiske skrifter äro och dhe som i någon måtta röra wår och Rijkzens Lagh och Rätter, recesser och statuter, men som ofta händer, att annat wackert och sinnrijkt arbethe frambringas i dagzliuset till fäderneslandetz lustre och mångens förnöijelsse, som inte äfwen behöfwer eller beqwämbligen kan här i landet ställas under censur, hwaribland I uthi synnerheet nämbne Professorens Olaj Rudbeckj Opus Bothanicum och hans Atlantica, föruthan andre lärde mäns skrifter flere, som i serskilte rare materier medh godt beröm och förståndh skrifwet hafwa. Dy förklarom wij här medh, att sådane skrifter, som icke rätt wähl kunna här censureras och som intet innebära någon skadeligh novitet eller ändring i wår reena och\"}, {\"bbox\": [499, 1803, 575, 1842], \"category\": \"Page-footer\", \"text\": \"374\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    818,
+    244,
+    1238,
+    289
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    501,
+    315,
+    1550,
+    608
+   ],
+   "category": "Text",
+   "text": "skulle (dok medh rätta) spillas på andras åkrar ok då ei så ymnigt såås i ens mans haga; hvilken tistel ok törn förqväfia all annan godh fruckt ok redeligit upsåt, men sådant ogräss, som nu medh sommarwärmen bör iu för mycket stickia sigh up öfwer kornbrådden, lärer kanske nogot för skördetiden blifua uprykt af några redelige ok förnehma åkermen, som sigh allereda medh misznöie på tisteltaggarna stungit hafva'."
+  },
+  {
+   "bbox": [
+    501,
+    607,
+    1549,
+    774
+   ],
+   "category": "Text",
+   "text": "Af dessa orden synnes nogot gåt wara på färde, emedan ok säies här i staden, att Prof. Arenius skal ok resa dijt ok giöra rekenskap för sina penningar. Men dett är skada, att kopparstickaren Truls intet är tilstädes, ty han hade mycket att tala»."
+  },
+  {
+   "bbox": [
+    496,
+    772,
+    1548,
+    1771
+   ],
+   "category": "Text",
+   "text": "De la Gardie gjorde nu Rudbecks sak till sin egen, skrev till Kungl. Maj:t, och med hjälp av den mäktige Lindschöld utfärdades den 13 maj ett »Swar till H. drotzen om hans påminnelser widh dhet uthgångne Placatet om böckers censurerande, huru wijda dhet böhr förståås» (Registraturet), vars avslutning tydligen riktar sig mot Schütz' inkompetens att censurera en forskare av Rudbecks betydelse: »Wår synnerlige ynnest etc. Wij hafwe medh nåder upptagit edher underdånige påminnelse widh dhet Placat, som för någre åhr sedan blef publicerat om dhe böcker och skrifter, som een och annan utharbetar, att dhe böre först censureras, innan dhe i trycket uthgå, och alldenstundh sådant har sin gode grund och serdehles nytta med sigh, på dhet icke något förargeligit och förkleenligit må så lätt uthsprijdas och genom trycket giöras allmänt, ty låte wij och der widh beroo, serdehles huadh Theologiske skrifter äro och dhe som i någon måtta röra wår och Rijkzens Lagh och Rätter, recesser och statuter, men som ofta händer, att annat wackert och sinnrijkt arbethe frambringas i dagzliuset till fäderneslandetz lustre och mångens förnöijelsse, som inte äfwen behöfwer eller beqwämbligen kan här i landet ställas under censur, hwaribland I uthi synnerheet nämbne Professorens Olaj Rudbeckj Opus Bothanicum och hans Atlantica, föruthan andre lärde mäns skrifter flere, som i serskilte rare materier medh godt beröm och förståndh skrifwet hafwa. Dy förklarom wij här medh, att sådane skrifter, som icke rätt wähl kunna här censureras och som intet innebära någon skadeligh novitet eller ändring i wår reena och"
+  },
+  {
+   "bbox": [
+    499,
+    1803,
+    575,
+    1842
+   ],
+   "category": "Page-footer",
+   "text": "374"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 87,
+ "seconds": 26.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [805, 254, 1217, 297], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [495, 325, 1518, 411], \"category\": \"Text\", \"text\": \"Verelius' isländska text skiljer sig ganska litet från Munchs och Ungers 1853.\"}, {\"bbox\": [396, 411, 1525, 1779], \"category\": \"Text\", \"text\": \"Rugmans arbeten\\n\\nAlla de isländsk-norska handskrifter, som funnits här sedan medeltiden, hade således bearbetats av antikvitetskollegiet och gjorts färdiga till tryckning. Den andra gruppen — Rugmans handskrifter — hade delvis redan utgivits före kollegiets tillkomst, Gautrek och Hrólf 1664, Herrauds och Bosa saga 1666. Vid editionen av dessa sagor hade Rugman ganska säkert på ett verksamt sätt biträtt Verelius; likaså hade han nog hjälpt Axehiälm. De egna skrifter, han gav ut i tryck, voro däremot ytterst obetydliga: ett litet till De la Gardie dedicerat häfte, Greinir or þeim Gaumlu Laugum (1667), som innehåller utdrag ur lagböcker och sagor rörande äldre nordisk rätt, samt Monosyllaba Is-landica (1676), en samling enstaviga ord med latinsk översättning på tillhopa 32 små oktavsidor. Något större var ett tredje arbete, som han tänkte utgiva, men som aldrig blev tryckt (K. B. Papp. fol. 109): Lygara Liod Syra Gudmundar Erlandsonar thet ähr Een dict om Lögnare, huilken giort hafr. Hr. Gudmund Erlandson, förswänskat af Jona Rugman. Detta häfte — nyisländsk text med svensk översättning — var tryckfärdigt den 1 april 1674, då företalet undertecknades. Den svenska översättningen är miserabel, men företalet till den Gunstige Läsaren har ett visst intresse: »Förmedelst hans höggrefl. Excellentzes gref Magni gabrielis Delagardie, S. R. Cantzelers etc. bref och befallning till mig af Dato Wenegarn den 29 Jan. A:o 1671, att iag iämpte annat, som der förmäles, skulle göra min flijt med the gamble Skalder, Them i liuset framdraga och till trycket förfärdiga, hafver iag så wäll the Eldre som the yngre Skalder sammanhämtat och fört them vnder sine wisse Titulos, dem vttolkat, störste deelen, och på andra Sprok öfversatt, alla thet gambla sproketz elskare till större effterrättelse om dess ägentelige förstånd, huilka gamble Skalder, fast än the wänta mehre fölge med sig, nu bijda effter omkostnad till trycket. Dessemellan hafver iag låtet vtgå denne merkeliga diktten, delz derföre att han ähr af en lijten tunga, delz derföre att mig syndes tijden och orten, den iag lefver och ähr i, och på horom fordra och af mig kräfia, delz och derföre att mehrebe:te dikt icke\"}, {\"bbox\": [504, 1818, 554, 1855], \"category\": \"Page-footer\", \"text\": \"74\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    805,
+    254,
+    1217,
+    297
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    495,
+    325,
+    1518,
+    411
+   ],
+   "category": "Text",
+   "text": "Verelius' isländska text skiljer sig ganska litet från Munchs och Ungers 1853."
+  },
+  {
+   "bbox": [
+    396,
+    411,
+    1525,
+    1779
+   ],
+   "category": "Text",
+   "text": "Rugmans arbeten\n\nAlla de isländsk-norska handskrifter, som funnits här sedan medeltiden, hade således bearbetats av antikvitetskollegiet och gjorts färdiga till tryckning. Den andra gruppen — Rugmans handskrifter — hade delvis redan utgivits före kollegiets tillkomst, Gautrek och Hrólf 1664, Herrauds och Bosa saga 1666. Vid editionen av dessa sagor hade Rugman ganska säkert på ett verksamt sätt biträtt Verelius; likaså hade han nog hjälpt Axehiälm. De egna skrifter, han gav ut i tryck, voro däremot ytterst obetydliga: ett litet till De la Gardie dedicerat häfte, Greinir or þeim Gaumlu Laugum (1667), som innehåller utdrag ur lagböcker och sagor rörande äldre nordisk rätt, samt Monosyllaba Is-landica (1676), en samling enstaviga ord med latinsk översättning på tillhopa 32 små oktavsidor. Något större var ett tredje arbete, som han tänkte utgiva, men som aldrig blev tryckt (K. B. Papp. fol. 109): Lygara Liod Syra Gudmundar Erlandsonar thet ähr Een dict om Lögnare, huilken giort hafr. Hr. Gudmund Erlandson, förswänskat af Jona Rugman. Detta häfte — nyisländsk text med svensk översättning — var tryckfärdigt den 1 april 1674, då företalet undertecknades. Den svenska översättningen är miserabel, men företalet till den Gunstige Läsaren har ett visst intresse: »Förmedelst hans höggrefl. Excellentzes gref Magni gabrielis Delagardie, S. R. Cantzelers etc. bref och befallning till mig af Dato Wenegarn den 29 Jan. A:o 1671, att iag iämpte annat, som der förmäles, skulle göra min flijt med the gamble Skalder, Them i liuset framdraga och till trycket förfärdiga, hafver iag så wäll the Eldre som the yngre Skalder sammanhämtat och fört them vnder sine wisse Titulos, dem vttolkat, störste deelen, och på andra Sprok öfversatt, alla thet gambla sproketz elskare till större effterrättelse om dess ägentelige förstånd, huilka gamble Skalder, fast än the wänta mehre fölge med sig, nu bijda effter omkostnad till trycket. Dessemellan hafver iag låtet vtgå denne merkeliga diktten, delz derföre att han ähr af en lijten tunga, delz derföre att mig syndes tijden och orten, den iag lefver och ähr i, och på horom fordra och af mig kräfia, delz och derföre att mehrebe:te dikt icke"
+  },
+  {
+   "bbox": [
+    504,
+    1818,
+    554,
+    1855
+   ],
+   "category": "Page-footer",
+   "text": "74"
+  }
+ ]
+}

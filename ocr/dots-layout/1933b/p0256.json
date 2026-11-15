@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 256,
+ "seconds": 33.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [425, 247, 900, 291], \"category\": \"Page-header\", \"text\": \"Svenska Medeltidsskrifter\"}, {\"bbox\": [136, 317, 1185, 1109], \"category\": \"Text\", \"text\": \"Han hade även tänkt att utgiva en ny upplaga av den prosaiska krönikan, som Messenius 1615 publicerat, samt förse denna med en latinsk översättning och en lärd kommentar. I sin förut citerade inlaga den 20 juli 1670 hade han skrivit: »Der till hafwer jag en versionem Latinam och notas tillagdt effter bem:te Chronicon åthskillige saker innehafwer, som behöfwa illustration». Han hade således tänkt sig en upplaga af samma karaktär som Verelius' av de isländska sagorna. Men denna latinska översättning och denna lärda kommentar blevo aldrig tryckta, ehuru de delvis blevo skrivna. I Kungl. bibliotekets handskrift sign. F f. 2 finnes nämligen en påbörjad latinsk översättning av prosaiska krönikan jämte en ganska vidlyftig latinsk kommentar. Men arbetet blev icke slutfört och upptages 1690 i Catalogus bland »Dhe wärk, som än nu äre under Händerne och till en Dehl förfärdigade: Dhen gambla Swea Konungars Crönika, som uplades af Johan Messenio Åhr 1615 nu på nyo av en gammal Pergamentz Book mycket rättare och fullkomligare uthskrifwen, hwar till nu är giord en Latinsk Uthtolkning och några Anmärkelser på Latin af andra Historier, hwilken och är öfwer halfparten färdig till tryck».\"}, {\"bbox\": [1194, 326, 1297, 383], \"category\": \"Text\", \"text\": \"Prosaiska krönikan\"}, {\"bbox\": [134, 1108, 1181, 1774], \"category\": \"Text\", \"text\": \"Rimkrönikorna utgåvos, som sagt, 1674. Året efter följde den redan 1667 bebådade Sanct Olaffs Saga på Swenske Rim, som dedicerades till den nitiske handskriftssamlaren, friherre Claes Rålamb, i vars bibliotek på Länna gård han påträffat ett manuskript av dikten — samma manuskript, som innehöll rimkrönikan. Ett annat (i Spegelbergs bok sign. D 2) hade han förut upptäckt i riksarkivet och avskrivit, och då han nu utgav detta senare, hade han tack vare det äldre och bättre Rålambska exemplaret mycket kunnat förbättra texten. Tilläggas kan, att Hadorphs bittre fiende Reenhielm nedskrev en ganska amper kritik av denna edition. Den vänder sig dock egentligen mot den medeltida författaren till Olofskrönikan och sysselsätter sig nästan helt och håller med de historiska misstag denne begått. En dylik krönika borde — skriver Reenhielm — för alltid hava fått förbli outgiven. Först mot slutet får Hadorph själv kläda skott. Han skulle ha rättat alla dessa misstag, och av de två manuskript, som funnos, hade han valt det sämsta för sin edition.\"}, {\"bbox\": [1188, 1115, 1338, 1149], \"category\": \"Text\", \"text\": \"Olofskrönikan\"}, {\"bbox\": [1102, 1811, 1172, 1850], \"category\": \"Page-footer\", \"text\": \"235\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    425,
+    247,
+    900,
+    291
+   ],
+   "category": "Page-header",
+   "text": "Svenska Medeltidsskrifter"
+  },
+  {
+   "bbox": [
+    136,
+    317,
+    1185,
+    1109
+   ],
+   "category": "Text",
+   "text": "Han hade även tänkt att utgiva en ny upplaga av den prosaiska krönikan, som Messenius 1615 publicerat, samt förse denna med en latinsk översättning och en lärd kommentar. I sin förut citerade inlaga den 20 juli 1670 hade han skrivit: »Der till hafwer jag en versionem Latinam och notas tillagdt effter bem:te Chronicon åthskillige saker innehafwer, som behöfwa illustration». Han hade således tänkt sig en upplaga af samma karaktär som Verelius' av de isländska sagorna. Men denna latinska översättning och denna lärda kommentar blevo aldrig tryckta, ehuru de delvis blevo skrivna. I Kungl. bibliotekets handskrift sign. F f. 2 finnes nämligen en påbörjad latinsk översättning av prosaiska krönikan jämte en ganska vidlyftig latinsk kommentar. Men arbetet blev icke slutfört och upptages 1690 i Catalogus bland »Dhe wärk, som än nu äre under Händerne och till en Dehl förfärdigade: Dhen gambla Swea Konungars Crönika, som uplades af Johan Messenio Åhr 1615 nu på nyo av en gammal Pergamentz Book mycket rättare och fullkomligare uthskrifwen, hwar till nu är giord en Latinsk Uthtolkning och några Anmärkelser på Latin af andra Historier, hwilken och är öfwer halfparten färdig till tryck»."
+  },
+  {
+   "bbox": [
+    1194,
+    326,
+    1297,
+    383
+   ],
+   "category": "Text",
+   "text": "Prosaiska krönikan"
+  },
+  {
+   "bbox": [
+    134,
+    1108,
+    1181,
+    1774
+   ],
+   "category": "Text",
+   "text": "Rimkrönikorna utgåvos, som sagt, 1674. Året efter följde den redan 1667 bebådade Sanct Olaffs Saga på Swenske Rim, som dedicerades till den nitiske handskriftssamlaren, friherre Claes Rålamb, i vars bibliotek på Länna gård han påträffat ett manuskript av dikten — samma manuskript, som innehöll rimkrönikan. Ett annat (i Spegelbergs bok sign. D 2) hade han förut upptäckt i riksarkivet och avskrivit, och då han nu utgav detta senare, hade han tack vare det äldre och bättre Rålambska exemplaret mycket kunnat förbättra texten. Tilläggas kan, att Hadorphs bittre fiende Reenhielm nedskrev en ganska amper kritik av denna edition. Den vänder sig dock egentligen mot den medeltida författaren till Olofskrönikan och sysselsätter sig nästan helt och håller med de historiska misstag denne begått. En dylik krönika borde — skriver Reenhielm — för alltid hava fått förbli outgiven. Först mot slutet får Hadorph själv kläda skott. Han skulle ha rättat alla dessa misstag, och av de två manuskript, som funnos, hade han valt det sämsta för sin edition."
+  },
+  {
+   "bbox": [
+    1188,
+    1115,
+    1338,
+    1149
+   ],
+   "category": "Text",
+   "text": "Olofskrönikan"
+  },
+  {
+   "bbox": [
+    1102,
+    1811,
+    1172,
+    1850
+   ],
+   "category": "Page-footer",
+   "text": "235"
+  }
+ ]
+}

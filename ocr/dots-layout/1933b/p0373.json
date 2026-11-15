@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 373,
+ "seconds": 26.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [814, 237, 1234, 281], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [495, 307, 1550, 643], \"category\": \"Text\", \"text\": \"i vilka Schefferus ej nämnes. Hans vänner måtte emellertid ha övertygat honom om det farliga i företalet, och han lät därför omtrycka skriften utan detta företal, blott med noterna och de tyska officerarnes intyg, samt — utan kommentar — några utdrag ur skrifter, som styrkte hans förut lämnade uppgifter (bl. a. om »ána Fýri»). Till yttermera visso lät han sina kolleger — professorerna Rudbeck, Gartman och Norcopensis — vidimera avtryckets riktighet.¹ Efter biskop Karls Annotationes läses nämligen:\"}, {\"bbox\": [495, 647, 1547, 723], \"category\": \"Text\", \"text\": \"»Cum Manuscripto vetusto membraneo in omnibus concordare vidimus.\"}, {\"bbox\": [495, 729, 1545, 815], \"category\": \"Text\", \"text\": \"Johannes Gartman Prof. Juris ord. Andreas Norcopensis Prof. Eloquentiæ ord.».\"}, {\"bbox\": [491, 841, 1547, 1715], \"category\": \"Text\", \"text\": \"När på året 1678 dessa Annotationes utgåvos, är ej rätt klart, men i varje fall hade det skett före den 7 maj, ty då skrev Hadorph till De la Gardie: »... Thet andra ärende, som E:rs högGrefl. Excell. omrörer, angående hr. Werelij och hr. Schefferi nya twist, emädan E:rs högGrefl. Excell. låter sig förmärkia icke än weta sammanhanget dher af, will iag i ödmiukheet berätta, så mycket migh är kunnigt wordet på några wekor jag här opasslig wistas hafwer. Sedan hr. Verelius i fiol blef förbudin att publicera sitt Auctarium i den hårdheet, som det nu befans emoot Schefferum, sägz han i Consistorio framdragit dhet samma skriftelig medh. Loccenij hand här och dher i brädden noterat, beropandes sig och på Olivekrantzes censur och, som någre professorer berätta, Ers högGrefl. Excell:tz medh, dher om han skall itt Olai Rudbeckij testimonium framdragit, men efter alles åståndande tillbaka tagit. Dher efter skall hr. Rudbeck påfunnit en gammal skrifwen munkebook på pergament, dher baak före itt bladh skall liggia löst, hwar på dhe af hr. Verelio nu publicerade annotationes chronologicæ skole stå skrefne. Dhem hafwer hr. Rudbeck allom förborgat, communicerat Verelio allena, till widare hämd uthan twifwel uppå Schefferum, för dhet han sig i fiol emot Verelij Auctarium förswarade. Dessa annotationes läät Verelius först uthgåå medh en Epistola och notis efteråth, som här\"}, {\"bbox\": [525, 1728, 1194, 1763], \"category\": \"Footnote\", \"text\": \"¹ I den tryckta upplagan har Rudbeck såsom vittne uteslutits.\"}, {\"bbox\": [495, 1795, 566, 1834], \"category\": \"Page-footer\", \"text\": \"352\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    814,
+    237,
+    1234,
+    281
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    495,
+    307,
+    1550,
+    643
+   ],
+   "category": "Text",
+   "text": "i vilka Schefferus ej nämnes. Hans vänner måtte emellertid ha övertygat honom om det farliga i företalet, och han lät därför omtrycka skriften utan detta företal, blott med noterna och de tyska officerarnes intyg, samt — utan kommentar — några utdrag ur skrifter, som styrkte hans förut lämnade uppgifter (bl. a. om »ána Fýri»). Till yttermera visso lät han sina kolleger — professorerna Rudbeck, Gartman och Norcopensis — vidimera avtryckets riktighet.¹ Efter biskop Karls Annotationes läses nämligen:"
+  },
+  {
+   "bbox": [
+    495,
+    647,
+    1547,
+    723
+   ],
+   "category": "Text",
+   "text": "»Cum Manuscripto vetusto membraneo in omnibus concordare vidimus."
+  },
+  {
+   "bbox": [
+    495,
+    729,
+    1545,
+    815
+   ],
+   "category": "Text",
+   "text": "Johannes Gartman Prof. Juris ord. Andreas Norcopensis Prof. Eloquentiæ ord.»."
+  },
+  {
+   "bbox": [
+    491,
+    841,
+    1547,
+    1715
+   ],
+   "category": "Text",
+   "text": "När på året 1678 dessa Annotationes utgåvos, är ej rätt klart, men i varje fall hade det skett före den 7 maj, ty då skrev Hadorph till De la Gardie: »... Thet andra ärende, som E:rs högGrefl. Excell. omrörer, angående hr. Werelij och hr. Schefferi nya twist, emädan E:rs högGrefl. Excell. låter sig förmärkia icke än weta sammanhanget dher af, will iag i ödmiukheet berätta, så mycket migh är kunnigt wordet på några wekor jag här opasslig wistas hafwer. Sedan hr. Verelius i fiol blef förbudin att publicera sitt Auctarium i den hårdheet, som det nu befans emoot Schefferum, sägz han i Consistorio framdragit dhet samma skriftelig medh. Loccenij hand här och dher i brädden noterat, beropandes sig och på Olivekrantzes censur och, som någre professorer berätta, Ers högGrefl. Excell:tz medh, dher om han skall itt Olai Rudbeckij testimonium framdragit, men efter alles åståndande tillbaka tagit. Dher efter skall hr. Rudbeck påfunnit en gammal skrifwen munkebook på pergament, dher baak före itt bladh skall liggia löst, hwar på dhe af hr. Verelio nu publicerade annotationes chronologicæ skole stå skrefne. Dhem hafwer hr. Rudbeck allom förborgat, communicerat Verelio allena, till widare hämd uthan twifwel uppå Schefferum, för dhet han sig i fiol emot Verelij Auctarium förswarade. Dessa annotationes läät Verelius först uthgåå medh en Epistola och notis efteråth, som här"
+  },
+  {
+   "bbox": [
+    525,
+    1728,
+    1194,
+    1763
+   ],
+   "category": "Footnote",
+   "text": "¹ I den tryckta upplagan har Rudbeck såsom vittne uteslutits."
+  },
+  {
+   "bbox": [
+    495,
+    1795,
+    566,
+    1834
+   ],
+   "category": "Page-footer",
+   "text": "352"
+  }
+ ]
+}

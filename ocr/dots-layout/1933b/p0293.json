@@ -1,0 +1,42 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 293,
+ "seconds": 13.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [788, 236, 1207, 279], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [474, 306, 1529, 1060], \"category\": \"Text\", \"text\": \"suos aut ad publicum aliquod venisset munus, sed quid prodedisset literis et publicasset typis. Hinc ut sæpe juniores præponantur senioribus et privati aut in tenui officio constituti positis in magnis dignitatibus». Som man ser ligger i dessa tankar ett uppslag till den litteratur*historia*, som sedan skulle följa på förstlingsarbetet. Såsom arbetet nu föreligger, måste man beundra dess fullständighet och säkerhet i uppgifterna, och man kan knappt förstå, huru det varit Schefferus ens möjligt att med den tidens hjälpmedel åstadkomma ett dylikt verk. Det — praktiskt taget — enda offentliga biblioteket, det i Uppsala, saknade nästan svensk litteratur, och Schefferus var därför så gott som uteslutande hänvisad till enskilda samlares bibliotek. I företalet uppräknar han några av dessa: professor Brunnerus, kyrkoherdarna Tybelius, Johannes och Olaus Sparman, underståthållaren på Uppsala slott Samuel Steen, som tyckes hava haft ett förnämligt svenskt bibliotek, och till sist kollegiets flitige amanuens Erik Wennæsius, som efter Schefferus' död utgav det postuma arbetet (1680). Dess behövlighet framgår därav, att en ny upplaga 1698 trycktes i Hamburg.\"}, {\"bbox\": [488, 1799, 561, 1839], \"category\": \"Page-footer\", \"text\": \"272\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    788,
+    236,
+    1207,
+    279
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    474,
+    306,
+    1529,
+    1060
+   ],
+   "category": "Text",
+   "text": "suos aut ad publicum aliquod venisset munus, sed quid prodedisset literis et publicasset typis. Hinc ut sæpe juniores præponantur senioribus et privati aut in tenui officio constituti positis in magnis dignitatibus». Som man ser ligger i dessa tankar ett uppslag till den litteratur*historia*, som sedan skulle följa på förstlingsarbetet. Såsom arbetet nu föreligger, måste man beundra dess fullständighet och säkerhet i uppgifterna, och man kan knappt förstå, huru det varit Schefferus ens möjligt att med den tidens hjälpmedel åstadkomma ett dylikt verk. Det — praktiskt taget — enda offentliga biblioteket, det i Uppsala, saknade nästan svensk litteratur, och Schefferus var därför så gott som uteslutande hänvisad till enskilda samlares bibliotek. I företalet uppräknar han några av dessa: professor Brunnerus, kyrkoherdarna Tybelius, Johannes och Olaus Sparman, underståthållaren på Uppsala slott Samuel Steen, som tyckes hava haft ett förnämligt svenskt bibliotek, och till sist kollegiets flitige amanuens Erik Wennæsius, som efter Schefferus' död utgav det postuma arbetet (1680). Dess behövlighet framgår därav, att en ny upplaga 1698 trycktes i Hamburg."
+  },
+  {
+   "bbox": [
+    488,
+    1799,
+    561,
+    1839
+   ],
+   "category": "Page-footer",
+   "text": "272"
+  }
+ ]
+}

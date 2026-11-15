@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 271,
+ "seconds": 25.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [777, 243, 1195, 286], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [463, 312, 1516, 1596], \"category\": \"Text\", \"text\": \"behandlats av Johannes Magni, och även i utlandet hade några arbeten härom utkommit. Det mest uppmärksammade av dessa hade skrivits av en av samtidens mest berömda författare, den store rättsfilosofen Hugo Grotius, vilken från 1634 till sin död 1645 stod i svensk tjänst såsom vår diplomatiske agent i Paris. Bland hans efterlämnade papper fanns en Historia Gothorum, Vandalorum et Langobardorum, som 1655 trycktes av Elzevir i Amsterdam och naturligtvis tilldrog sig stor uppmärksamhet i Sverige. Grotius' Prolegomena till detta arbete översattes ock på svenska och trycktes i den upplaga av Norlandz Chrönika, som Per Brahe 1670 lät utgiva från Visingsborgs tryckeri. I företalet yttrar sig utgivaren, Daniel Gyldenstålpe, också om andra arbeten rörande göternas historia, såsom »een Book in Folio, stält på det Italienska Språket aff een förnähm Italiensk Herre och Grefwe wid Nampn Emanuel Tesaurus med Abbotens Herr Valeriani Castiglionis annotationer, tryckt vthi Thourin åhr 1664. Hwilcken förmedelst Swea och Götha Rijkes situation och Belägenheet vthförligen beskrifwes och ther jämpte ett wäl affattat Landkort framställes sampt Inwånarnes och Landetz Seder och Natur affmåhles, jämwäl och tilkiänna gifwes, huru the gamble mächtige Swenskar och Göther sina Heemwist hafwa öfwergifwit och sig til främmande Länder förfogat med theras Konungars i Ordning fullkomliga Historia, hwilckas Skarpsinnigheet, Tapperheet, Wälde och Manligheet med berömligit Lofford förmähles; Så äro och alla Konungars Skapnader vppå Kopparstycken ther hoos och een Vnderrättelse på Kopparstyckenen, hwadan hwarthera wardt tagit. Sampt een annan Boock på det Hispaniske Tungomålet, sammanfattad aff een Spanier, benämbd Didac Savedra, som wardt een myndig Ambassadeur på then Westfaliske Tracktaten vthi Münster åhr 1648. Then ther i lijka måtto berömligen Götharnas Vthåg och Nampnkunniga Förhållande i främmande Länder beskrifwer».\"}, {\"bbox\": [364, 1596, 1516, 1772], \"category\": \"Text\", \"text\": \"Saavedra Bägge dessa arbeten hade uppmärksammats av De la Gardie. Det senare, Corona gothica, castellana y austriaca, som behandlar de spanska visigotiska konungarnes historia, hade skrivits av den spanske diplomaten Don Diego Saavedra y Fajardo (f. 1584, d.\"}, {\"bbox\": [476, 1806, 551, 1845], \"category\": \"Page-footer\", \"text\": \"250\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    777,
+    243,
+    1195,
+    286
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    463,
+    312,
+    1516,
+    1596
+   ],
+   "category": "Text",
+   "text": "behandlats av Johannes Magni, och även i utlandet hade några arbeten härom utkommit. Det mest uppmärksammade av dessa hade skrivits av en av samtidens mest berömda författare, den store rättsfilosofen Hugo Grotius, vilken från 1634 till sin död 1645 stod i svensk tjänst såsom vår diplomatiske agent i Paris. Bland hans efterlämnade papper fanns en Historia Gothorum, Vandalorum et Langobardorum, som 1655 trycktes av Elzevir i Amsterdam och naturligtvis tilldrog sig stor uppmärksamhet i Sverige. Grotius' Prolegomena till detta arbete översattes ock på svenska och trycktes i den upplaga av Norlandz Chrönika, som Per Brahe 1670 lät utgiva från Visingsborgs tryckeri. I företalet yttrar sig utgivaren, Daniel Gyldenstålpe, också om andra arbeten rörande göternas historia, såsom »een Book in Folio, stält på det Italienska Språket aff een förnähm Italiensk Herre och Grefwe wid Nampn Emanuel Tesaurus med Abbotens Herr Valeriani Castiglionis annotationer, tryckt vthi Thourin åhr 1664. Hwilcken förmedelst Swea och Götha Rijkes situation och Belägenheet vthförligen beskrifwes och ther jämpte ett wäl affattat Landkort framställes sampt Inwånarnes och Landetz Seder och Natur affmåhles, jämwäl och tilkiänna gifwes, huru the gamble mächtige Swenskar och Göther sina Heemwist hafwa öfwergifwit och sig til främmande Länder förfogat med theras Konungars i Ordning fullkomliga Historia, hwilckas Skarpsinnigheet, Tapperheet, Wälde och Manligheet med berömligit Lofford förmähles; Så äro och alla Konungars Skapnader vppå Kopparstycken ther hoos och een Vnderrättelse på Kopparstyckenen, hwadan hwarthera wardt tagit. Sampt een annan Boock på det Hispaniske Tungomålet, sammanfattad aff een Spanier, benämbd Didac Savedra, som wardt een myndig Ambassadeur på then Westfaliske Tracktaten vthi Münster åhr 1648. Then ther i lijka måtto berömligen Götharnas Vthåg och Nampnkunniga Förhållande i främmande Länder beskrifwer»."
+  },
+  {
+   "bbox": [
+    364,
+    1596,
+    1516,
+    1772
+   ],
+   "category": "Text",
+   "text": "Saavedra Bägge dessa arbeten hade uppmärksammats av De la Gardie. Det senare, Corona gothica, castellana y austriaca, som behandlar de spanska visigotiska konungarnes historia, hade skrivits av den spanske diplomaten Don Diego Saavedra y Fajardo (f. 1584, d."
+  },
+  {
+   "bbox": [
+    476,
+    1806,
+    551,
+    1845
+   ],
+   "category": "Page-footer",
+   "text": "250"
+  }
+ ]
+}

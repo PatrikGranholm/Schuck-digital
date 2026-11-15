@@ -1,0 +1,261 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 374,
+ "seconds": 45.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [1235, 168, 1281, 203], \"category\": \"Page-header\", \"text\": \"Bo.\"}, {\"bbox\": [198, 225, 458, 308], \"category\": \"Text\", \"text\": \"Copia Lit. B.\"}, {\"bbox\": [204, 332, 1052, 406], \"category\": \"Text\", \"text\": \"Annotationes ex scripty Karoli Epistri Prospensij excerptæ.\"}, {\"bbox\": [92, 406, 746, 475], \"category\": \"Text\", \"text\": \"MCXXX. Nicolay Upher Episcops Upsits\"}, {\"bbox\": [94, 471, 1257, 605], \"category\": \"Text\", \"text\": \"MCXXXIIX. Sverchr A. iccit fudaeta tepli Cathedralis Upsalk et cùm opere vetústo III. Deorùm payanico ab yggeu po igne púrificato et sanctificato coniúnxit.\"}, {\"bbox\": [94, 605, 631, 665], \"category\": \"Text\", \"text\": \"MCXII. Suco Kolle Episps Upsls\"}, {\"bbox\": [99, 646, 1247, 750], \"category\": \"Text\", \"text\": \"MCL. B. Ericus tept cattle perfect. Et Hinricus Episps illud B. U. Mariam ---- asigústi die ascensiois consecravit.\"}, {\"bbox\": [104, 733, 974, 792], \"category\": \"Text\", \"text\": \"MCLIII. B. Ericus in medio tepli B. U. Mariam Upsalb sepúltus\"}, {\"bbox\": [125, 776, 1216, 853], \"category\": \"Text\", \"text\": \"CLV. Stepsamý Monachý Episps Upsats ao MCLXIII. Archi Episps creatus\"}, {\"bbox\": [104, 849, 658, 923], \"category\": \"Text\", \"text\": \"MCLXXXVIII. Johæs Arps Upsatss\"}, {\"bbox\": [135, 914, 599, 978], \"category\": \"Text\", \"text\": \"CLXXXIX. Petruj Arps Upsts\"}, {\"bbox\": [129, 970, 577, 1034], \"category\": \"Text\", \"text\": \"C XCVIII. Olafar Arps Upsatts\"}, {\"bbox\": [128, 1030, 577, 1096], \"category\": \"Text\", \"text\": \"CCII. Valleriúj Arps Upsts\"}, {\"bbox\": [86, 1073, 1223, 1197], \"category\": \"Text\", \"text\": \"MCCX. templùm ad Eístraaroos et Úlratàr extructùm à Sverchero II. S. P. hínx. confeertu\"}, {\"bbox\": [122, 1174, 794, 1241], \"category\": \"Text\", \"text\": \"CCXIX. Olafar Bassatamúr Archps Upsats\"}, {\"bbox\": [83, 1224, 544, 1289], \"category\": \"Text\", \"text\": \"MCCXXXVII. Jarl aps ups.\"}, {\"bbox\": [83, 1273, 1202, 1375], \"category\": \"Text\", \"text\": \"MCLVIII. impetratùm a ppa Alexandro pro translatione Eccleſiis Upsalensij ad Eístraaroos.\"}, {\"bbox\": [81, 1357, 1232, 1444], \"category\": \"Text\", \"text\": \"MCCLX. súb Baldemaro iacta súnt fundamenta tepli Cathedrali Eístraaroos et ad tectùm eductùm.\"}, {\"bbox\": [89, 1446, 655, 1510], \"category\": \"Text\", \"text\": \"MCCLXI. Lauriúj Arps Upsts\"}, {\"bbox\": [86, 1506, 1200, 1608], \"category\": \"Text\", \"text\": \"MCCLXXI. Nos impleviniúj madatùm S. ppa pro translatione Eccleſiis Upsatis ad Eístraaroos.\"}, {\"bbox\": [128, 1602, 1200, 1663], \"category\": \"Text\", \"text\": \"cum Manuscripto vetusto membraneo in omnibus concordare vidimus\"}, {\"bbox\": [290, 1656, 626, 1721], \"category\": \"Text\", \"text\": \"Naius Ried buk\"}, {\"bbox\": [141, 1705, 582, 1790], \"category\": \"Text\", \"text\": \"Johannes Bartman.\"}, {\"bbox\": [740, 1656, 1092, 1732], \"category\": \"Text\", \"text\": \"Andreas Xorcopenis\"}, {\"bbox\": [1065, 1675, 1136, 1744], \"category\": \"Picture\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    1235,
+    168,
+    1281,
+    203
+   ],
+   "category": "Page-header",
+   "text": "Bo."
+  },
+  {
+   "bbox": [
+    198,
+    225,
+    458,
+    308
+   ],
+   "category": "Text",
+   "text": "Copia Lit. B."
+  },
+  {
+   "bbox": [
+    204,
+    332,
+    1052,
+    406
+   ],
+   "category": "Text",
+   "text": "Annotationes ex scripty Karoli Epistri Prospensij excerptæ."
+  },
+  {
+   "bbox": [
+    92,
+    406,
+    746,
+    475
+   ],
+   "category": "Text",
+   "text": "MCXXX. Nicolay Upher Episcops Upsits"
+  },
+  {
+   "bbox": [
+    94,
+    471,
+    1257,
+    605
+   ],
+   "category": "Text",
+   "text": "MCXXXIIX. Sverchr A. iccit fudaeta tepli Cathedralis Upsalk et cùm opere vetústo III. Deorùm payanico ab yggeu po igne púrificato et sanctificato coniúnxit."
+  },
+  {
+   "bbox": [
+    94,
+    605,
+    631,
+    665
+   ],
+   "category": "Text",
+   "text": "MCXII. Suco Kolle Episps Upsls"
+  },
+  {
+   "bbox": [
+    99,
+    646,
+    1247,
+    750
+   ],
+   "category": "Text",
+   "text": "MCL. B. Ericus tept cattle perfect. Et Hinricus Episps illud B. U. Mariam ---- asigústi die ascensiois consecravit."
+  },
+  {
+   "bbox": [
+    104,
+    733,
+    974,
+    792
+   ],
+   "category": "Text",
+   "text": "MCLIII. B. Ericus in medio tepli B. U. Mariam Upsalb sepúltus"
+  },
+  {
+   "bbox": [
+    125,
+    776,
+    1216,
+    853
+   ],
+   "category": "Text",
+   "text": "CLV. Stepsamý Monachý Episps Upsats ao MCLXIII. Archi Episps creatus"
+  },
+  {
+   "bbox": [
+    104,
+    849,
+    658,
+    923
+   ],
+   "category": "Text",
+   "text": "MCLXXXVIII. Johæs Arps Upsatss"
+  },
+  {
+   "bbox": [
+    135,
+    914,
+    599,
+    978
+   ],
+   "category": "Text",
+   "text": "CLXXXIX. Petruj Arps Upsts"
+  },
+  {
+   "bbox": [
+    129,
+    970,
+    577,
+    1034
+   ],
+   "category": "Text",
+   "text": "C XCVIII. Olafar Arps Upsatts"
+  },
+  {
+   "bbox": [
+    128,
+    1030,
+    577,
+    1096
+   ],
+   "category": "Text",
+   "text": "CCII. Valleriúj Arps Upsts"
+  },
+  {
+   "bbox": [
+    86,
+    1073,
+    1223,
+    1197
+   ],
+   "category": "Text",
+   "text": "MCCX. templùm ad Eístraaroos et Úlratàr extructùm à Sverchero II. S. P. hínx. confeertu"
+  },
+  {
+   "bbox": [
+    122,
+    1174,
+    794,
+    1241
+   ],
+   "category": "Text",
+   "text": "CCXIX. Olafar Bassatamúr Archps Upsats"
+  },
+  {
+   "bbox": [
+    83,
+    1224,
+    544,
+    1289
+   ],
+   "category": "Text",
+   "text": "MCCXXXVII. Jarl aps ups."
+  },
+  {
+   "bbox": [
+    83,
+    1273,
+    1202,
+    1375
+   ],
+   "category": "Text",
+   "text": "MCLVIII. impetratùm a ppa Alexandro pro translatione Eccleſiis Upsalensij ad Eístraaroos."
+  },
+  {
+   "bbox": [
+    81,
+    1357,
+    1232,
+    1444
+   ],
+   "category": "Text",
+   "text": "MCCLX. súb Baldemaro iacta súnt fundamenta tepli Cathedrali Eístraaroos et ad tectùm eductùm."
+  },
+  {
+   "bbox": [
+    89,
+    1446,
+    655,
+    1510
+   ],
+   "category": "Text",
+   "text": "MCCLXI. Lauriúj Arps Upsts"
+  },
+  {
+   "bbox": [
+    86,
+    1506,
+    1200,
+    1608
+   ],
+   "category": "Text",
+   "text": "MCCLXXI. Nos impleviniúj madatùm S. ppa pro translatione Eccleſiis Upsatis ad Eístraaroos."
+  },
+  {
+   "bbox": [
+    128,
+    1602,
+    1200,
+    1663
+   ],
+   "category": "Text",
+   "text": "cum Manuscripto vetusto membraneo in omnibus concordare vidimus"
+  },
+  {
+   "bbox": [
+    290,
+    1656,
+    626,
+    1721
+   ],
+   "category": "Text",
+   "text": "Naius Ried buk"
+  },
+  {
+   "bbox": [
+    141,
+    1705,
+    582,
+    1790
+   ],
+   "category": "Text",
+   "text": "Johannes Bartman."
+  },
+  {
+   "bbox": [
+    740,
+    1656,
+    1092,
+    1732
+   ],
+   "category": "Text",
+   "text": "Andreas Xorcopenis"
+  },
+  {
+   "bbox": [
+    1065,
+    1675,
+    1136,
+    1744
+   ],
+   "category": "Picture"
+  }
+ ]
+}

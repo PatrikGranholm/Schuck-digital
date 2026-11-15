@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 319,
+ "seconds": 26.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [813, 249, 1230, 293], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [500, 320, 1549, 529], \"category\": \"Text\", \"text\": \"at kunna inhempta härom så mycken närmare wissheet, hvilket sedan til underdånigste föllie af Hans Kongl. May:tz nådige befalningh Her Öfwersten skal communiceradt warda» (K. B. sign. M 11, 1). Papperen blevo också återfunna, åtminstone en del, och befinna sig nu i Kungl. biblioteket (sign. M 11, 4).\"}, {\"bbox\": [500, 529, 1551, 1319], \"category\": \"Text\", \"text\": \"Samlingen består av lösa lägg, aderton till antalet, mycket ordentligt renskrivna. Men åtminstone början synes vara defekt. Som vi sett skulle arbetet inledas med en general- och universalbeskrivning av Sverige, som beräknades upptaga en hel del. Men av denna finnas endast, i det första lägget, sju sidor, som mycket kortfattat redogöra för Upplands, Södermanlands och Västmanlands indelning, varefter renskriften avbrytes.¹ Det kan icke lida något tvivel, att Loccenius skrivit mera på denna allmänna del. Å den andra sidan är det också tydligt, att denna »descriptio Sueciæ» varit vida mera knapphändig, än Dahlberg önskat. Med det andra lägget börja notiserna om de olika orterna. Dessa äro här ordnade alfabetiskt, börjande med Almerstääk, Arbogia, Askersundh och fortgående till Örebro i det femtonde lägget. Men det tyckes hava funnits också en annan, kortare serie. Det adertonde lägget börjar med Angermannia och går till Carlstad, det sextonde med Lyna fram till Öregrund och Östhammar. De flesta orterna äro väl från de tre Mälarlandskapen, men även från andra provinser, också från Finland. Notiserna äro i allmänhet ganska korta och intetsägande, och som exempel kunna vi taga seriens början:\"}, {\"bbox\": [504, 1321, 1551, 1698], \"category\": \"Text\", \"text\": \"»Almerstääk, vulgo Stäket. Prisca olim Arx fuit in insula Meleri tribus milliaribus Stockholmia et quinque milliaribus Upsalia distans. De prima ejus fundatione certo non constat, exstructum tamen antiquissimis temporibus esse contra Finnorum, Esthonum aliorumque incursiones, qui Sigtoniam vel Upsaliam devastare cupiebant, certo constat. Olim a Regibus Svecicis defensa, postea vero quum Archiepiscopalis sedes facta est ab Archiepiscopis custodita. Hoc enim ex historia Svetica cognitum habemus, quod A. C. MCLXXXVII Archiepiscopus Johannes ab Estonibus hic interemp-\"}, {\"bbox\": [504, 1712, 1553, 1777], \"category\": \"Footnote\", \"text\": \"¹ Mera finnes ej heller i Stiernmans avskrift (U. B. S. 1) av Johannis Loccenii Descriptio Regni Sueciæ Geographico Historica facta jussu Gloriosissimæ memoriæ Regis Caroli XI:mi.\"}, {\"bbox\": [510, 1803, 582, 1850], \"category\": \"Page-footer\", \"text\": \"298\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    813,
+    249,
+    1230,
+    293
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    500,
+    320,
+    1549,
+    529
+   ],
+   "category": "Text",
+   "text": "at kunna inhempta härom så mycken närmare wissheet, hvilket sedan til underdånigste föllie af Hans Kongl. May:tz nådige befalningh Her Öfwersten skal communiceradt warda» (K. B. sign. M 11, 1). Papperen blevo också återfunna, åtminstone en del, och befinna sig nu i Kungl. biblioteket (sign. M 11, 4)."
+  },
+  {
+   "bbox": [
+    500,
+    529,
+    1551,
+    1319
+   ],
+   "category": "Text",
+   "text": "Samlingen består av lösa lägg, aderton till antalet, mycket ordentligt renskrivna. Men åtminstone början synes vara defekt. Som vi sett skulle arbetet inledas med en general- och universalbeskrivning av Sverige, som beräknades upptaga en hel del. Men av denna finnas endast, i det första lägget, sju sidor, som mycket kortfattat redogöra för Upplands, Södermanlands och Västmanlands indelning, varefter renskriften avbrytes.¹ Det kan icke lida något tvivel, att Loccenius skrivit mera på denna allmänna del. Å den andra sidan är det också tydligt, att denna »descriptio Sueciæ» varit vida mera knapphändig, än Dahlberg önskat. Med det andra lägget börja notiserna om de olika orterna. Dessa äro här ordnade alfabetiskt, börjande med Almerstääk, Arbogia, Askersundh och fortgående till Örebro i det femtonde lägget. Men det tyckes hava funnits också en annan, kortare serie. Det adertonde lägget börjar med Angermannia och går till Carlstad, det sextonde med Lyna fram till Öregrund och Östhammar. De flesta orterna äro väl från de tre Mälarlandskapen, men även från andra provinser, också från Finland. Notiserna äro i allmänhet ganska korta och intetsägande, och som exempel kunna vi taga seriens början:"
+  },
+  {
+   "bbox": [
+    504,
+    1321,
+    1551,
+    1698
+   ],
+   "category": "Text",
+   "text": "»Almerstääk, vulgo Stäket. Prisca olim Arx fuit in insula Meleri tribus milliaribus Stockholmia et quinque milliaribus Upsalia distans. De prima ejus fundatione certo non constat, exstructum tamen antiquissimis temporibus esse contra Finnorum, Esthonum aliorumque incursiones, qui Sigtoniam vel Upsaliam devastare cupiebant, certo constat. Olim a Regibus Svecicis defensa, postea vero quum Archiepiscopalis sedes facta est ab Archiepiscopis custodita. Hoc enim ex historia Svetica cognitum habemus, quod A. C. MCLXXXVII Archiepiscopus Johannes ab Estonibus hic interemp-"
+  },
+  {
+   "bbox": [
+    504,
+    1712,
+    1553,
+    1777
+   ],
+   "category": "Footnote",
+   "text": "¹ Mera finnes ej heller i Stiernmans avskrift (U. B. S. 1) av Johannis Loccenii Descriptio Regni Sueciæ Geographico Historica facta jussu Gloriosissimæ memoriæ Regis Caroli XI:mi."
+  },
+  {
+   "bbox": [
+    510,
+    1803,
+    582,
+    1850
+   ],
+   "category": "Page-footer",
+   "text": "298"
+  }
+ ]
+}

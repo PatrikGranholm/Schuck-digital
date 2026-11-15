@@ -1,0 +1,162 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 238,
+ "seconds": 31.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [495, 245, 821, 288], \"category\": \"Section-header\", \"text\": \"Urkundsutgivning\"}, {\"bbox\": [127, 315, 1172, 941], \"category\": \"Text\", \"text\": \"furstarne i Rijket. 10) Prästerskapetz Privilegierne sampt Kongl. Placater och förordningar om deras uppbörd, Tijonde och annat. 11) Krigzhandlingar. 12) Siöartiklar. 13) Tawernare ordningar. 14) Påstordningar. 15) Pardon för bortrymde Rijksens vndersåther och Soldater etc. 16) Förbud på jachter och diurefång. 17) Fougde handlingar. 18) Kläde- och bröllopz ordningar. 19) Kongl. Stadgar och Bref om Landzens Cultur. 20) Mynte ordningar. 21) Banco-handlingar. 22) Tull-ordningar. 23) Kongl. Placater och Stadgar om handeln och seglation i Rijket. 24) Kåpparhandelen. 25) Salt-handelen. 26) Tobbaks-handelen. 27) Tiärehandelen. 28) Bärgz-handlingar. 29) Kongl. Historiske Placater och handlingar». Under varje rubrik upptages titlarne på de hithörande handlingarna, och genom det angivna datum kan själva handlingen återfinnas i den stora samlingen — t. ex. den första »titeln»: »Arfföreningarne.\"}, {\"bbox\": [127, 944, 1172, 1020], \"category\": \"Text\", \"text\": \"Arfförening giord uppå K. Magnus Erichsson och hans söner, dat. Warberg åhr 1343.\"}, {\"bbox\": [127, 1016, 1172, 1091], \"category\": \"Text\", \"text\": \"Arfförening, den förste, som giordes uppå K. Gustaf och hans lijfz arfherrar till Rijket. Örebro 4 Jan. 1540.\"}, {\"bbox\": [127, 1087, 1172, 1162], \"category\": \"Text\", \"text\": \"Samptlig Rijkz Ständers arfförening på Konung Gustaff och hans söner till Swerigis Rijke. Dat. Westerås den 13 Jan. 1544.\"}, {\"bbox\": [127, 1158, 1172, 1270], \"category\": \"Text\", \"text\": \"Wiss afskrifft utaf arfföreningen och hyllningen på K. Sigismundum och hans manlige brystarfwingar etc., giord på Rijkzdagen i Stockholm den 7 Martij 1590.\"}, {\"bbox\": [127, 1266, 1133, 1305], \"category\": \"Text\", \"text\": \"Arfföreningen af samtlige Rijkzständer, daterat den 22 Martij 1604.\"}, {\"bbox\": [127, 1301, 1172, 1375], \"category\": \"Text\", \"text\": \"Rijkz ständers Förklaring öfwer hert. Carl Gustafs Succession till Sweriges Crono, daterat Stockholm d. 10 Martii 1649.»\"}, {\"bbox\": [127, 1391, 1097, 1433], \"category\": \"Text\", \"text\": \"På samma sätt kunna vi taga början av »Tawernare-ordning»:\"}, {\"bbox\": [127, 1437, 1172, 1512], \"category\": \"Text\", \"text\": \"»K. Magni Ladulås Landz Stadga och Tawernarelagh sampt frikallelse på frijgästningar och skiutzningar etc. dat. Alne 1285.\"}, {\"bbox\": [127, 1508, 1172, 1583], \"category\": \"Text\", \"text\": \"K. Erichz af Pommerens bref till Sudermanneland om Krogars uprättande och wägfarande mans befordring etc. dat. Stockh. Dominica Palm. 1430».\"}, {\"bbox\": [127, 1605, 1172, 1689], \"category\": \"Text\", \"text\": \"Med ledning av dessa register skulle man således kunna rekonstruera Hadorphs Practica legum.\"}, {\"bbox\": [127, 1687, 1172, 1774], \"category\": \"Text\", \"text\": \"De aldra flesta handlingarna i denna tillhöra tiden efter 1520-talet. Men Hadorph gav även uppslaget till vad vi nu kalla Svenskt\"}, {\"bbox\": [1179, 1694, 1322, 1782], \"category\": \"Text\", \"text\": \"Arbete på ett Diplomatarium\"}, {\"bbox\": [1095, 1808, 1165, 1847], \"category\": \"Page-footer\", \"text\": \"217\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    495,
+    245,
+    821,
+    288
+   ],
+   "category": "Section-header",
+   "text": "Urkundsutgivning"
+  },
+  {
+   "bbox": [
+    127,
+    315,
+    1172,
+    941
+   ],
+   "category": "Text",
+   "text": "furstarne i Rijket. 10) Prästerskapetz Privilegierne sampt Kongl. Placater och förordningar om deras uppbörd, Tijonde och annat. 11) Krigzhandlingar. 12) Siöartiklar. 13) Tawernare ordningar. 14) Påstordningar. 15) Pardon för bortrymde Rijksens vndersåther och Soldater etc. 16) Förbud på jachter och diurefång. 17) Fougde handlingar. 18) Kläde- och bröllopz ordningar. 19) Kongl. Stadgar och Bref om Landzens Cultur. 20) Mynte ordningar. 21) Banco-handlingar. 22) Tull-ordningar. 23) Kongl. Placater och Stadgar om handeln och seglation i Rijket. 24) Kåpparhandelen. 25) Salt-handelen. 26) Tobbaks-handelen. 27) Tiärehandelen. 28) Bärgz-handlingar. 29) Kongl. Historiske Placater och handlingar». Under varje rubrik upptages titlarne på de hithörande handlingarna, och genom det angivna datum kan själva handlingen återfinnas i den stora samlingen — t. ex. den första »titeln»: »Arfföreningarne."
+  },
+  {
+   "bbox": [
+    127,
+    944,
+    1172,
+    1020
+   ],
+   "category": "Text",
+   "text": "Arfförening giord uppå K. Magnus Erichsson och hans söner, dat. Warberg åhr 1343."
+  },
+  {
+   "bbox": [
+    127,
+    1016,
+    1172,
+    1091
+   ],
+   "category": "Text",
+   "text": "Arfförening, den förste, som giordes uppå K. Gustaf och hans lijfz arfherrar till Rijket. Örebro 4 Jan. 1540."
+  },
+  {
+   "bbox": [
+    127,
+    1087,
+    1172,
+    1162
+   ],
+   "category": "Text",
+   "text": "Samptlig Rijkz Ständers arfförening på Konung Gustaff och hans söner till Swerigis Rijke. Dat. Westerås den 13 Jan. 1544."
+  },
+  {
+   "bbox": [
+    127,
+    1158,
+    1172,
+    1270
+   ],
+   "category": "Text",
+   "text": "Wiss afskrifft utaf arfföreningen och hyllningen på K. Sigismundum och hans manlige brystarfwingar etc., giord på Rijkzdagen i Stockholm den 7 Martij 1590."
+  },
+  {
+   "bbox": [
+    127,
+    1266,
+    1133,
+    1305
+   ],
+   "category": "Text",
+   "text": "Arfföreningen af samtlige Rijkzständer, daterat den 22 Martij 1604."
+  },
+  {
+   "bbox": [
+    127,
+    1301,
+    1172,
+    1375
+   ],
+   "category": "Text",
+   "text": "Rijkz ständers Förklaring öfwer hert. Carl Gustafs Succession till Sweriges Crono, daterat Stockholm d. 10 Martii 1649.»"
+  },
+  {
+   "bbox": [
+    127,
+    1391,
+    1097,
+    1433
+   ],
+   "category": "Text",
+   "text": "På samma sätt kunna vi taga början av »Tawernare-ordning»:"
+  },
+  {
+   "bbox": [
+    127,
+    1437,
+    1172,
+    1512
+   ],
+   "category": "Text",
+   "text": "»K. Magni Ladulås Landz Stadga och Tawernarelagh sampt frikallelse på frijgästningar och skiutzningar etc. dat. Alne 1285."
+  },
+  {
+   "bbox": [
+    127,
+    1508,
+    1172,
+    1583
+   ],
+   "category": "Text",
+   "text": "K. Erichz af Pommerens bref till Sudermanneland om Krogars uprättande och wägfarande mans befordring etc. dat. Stockh. Dominica Palm. 1430»."
+  },
+  {
+   "bbox": [
+    127,
+    1605,
+    1172,
+    1689
+   ],
+   "category": "Text",
+   "text": "Med ledning av dessa register skulle man således kunna rekonstruera Hadorphs Practica legum."
+  },
+  {
+   "bbox": [
+    127,
+    1687,
+    1172,
+    1774
+   ],
+   "category": "Text",
+   "text": "De aldra flesta handlingarna i denna tillhöra tiden efter 1520-talet. Men Hadorph gav även uppslaget till vad vi nu kalla Svenskt"
+  },
+  {
+   "bbox": [
+    1179,
+    1694,
+    1322,
+    1782
+   ],
+   "category": "Text",
+   "text": "Arbete på ett Diplomatarium"
+  },
+  {
+   "bbox": [
+    1095,
+    1808,
+    1165,
+    1847
+   ],
+   "category": "Page-footer",
+   "text": "217"
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 30,
+ "seconds": 27.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [394, 240, 925, 287], \"category\": \"Section-header\", \"text\": \"Consignationer och kataloger\"}, {\"bbox\": [133, 309, 1178, 396], \"category\": \"Text\", \"text\": \"hans arbete, om hwilke ingen twifwel war, sielf uthstruket». Den insändes således utan hans uppgift:\"}, {\"bbox\": [135, 399, 1179, 484], \"category\": \"Text\", \"text\": \"»Consignatio Operum vel inchoatorum vel elaborandorum a Regii Antiquitatum Collegii omnibus et singulis membris.\"}, {\"bbox\": [133, 482, 1179, 653], \"category\": \"Text\", \"text\": \"Johannes Loccenius, Regii Collegii Antiquitatum Præses, præter reliquas Sueo-Gothicas Leges Latine versas et Historiam Suecanam recognitam editioni paravit Lexicon Iuris Suecici et Orationes ac Poemata cum Elogiis Regum, Procerum ac Senatorum Regni Sueciæ.\"}, {\"bbox\": [133, 648, 1176, 899], \"category\": \"Text\", \"text\": \"Johannes Axehiälm in revidendis et conferendis descriptionibus Historiarum Barlaami et Vilcini etc. nec non in Perficiendis earum Indicibus adhuc occupatus est. Sed cum per triennium ne obolum quidem in multis et magnis suis angustijs salarij loco nactus sit, ob hoc mærore et suspirijs conqueritur, sed consolatur dicterio Stiernhiälmij in Parnasso Triumphante:\"}, {\"bbox\": [344, 909, 971, 993], \"category\": \"Text\", \"text\": \"hand hand tvättar, Stehn Stehn glättar\\nEen god löhn tungt arbete lättar.\"}, {\"bbox\": [133, 1014, 1173, 1306], \"category\": \"Text\", \"text\": \"Jo. Schefferus Lapponiæ descriptionem absoluit et ad typographum dimisit Francofurtum. Ex Chronico Archiepiscoporum Vpsaliensium, pridem prælo parato, præter quaterniones quatuor a Curione impetrare non potuit spatio duorum annorum, Cui si reliquum absoluet et efficiet, vt tandem omnia in lucem veniant, tum dabitur opera, vt Adami Bremensis Scandinavia et quæ alia plura sub manibus habet perficiantur.\"}, {\"bbox\": [133, 1305, 1171, 1512], \"category\": \"Text\", \"text\": \"Claudius Arrhenius. Emanuelis Thesauri Italico opere de Gothorum Longobardorumque rebus in Italia gestis absoluto, quod sperat gemina versione et uberioribus notis editioni paratum se exhibiturum, propediem alium sibi injunctum laborem mox, si Deus volet, aggreditur.\"}, {\"bbox\": [133, 1512, 1170, 1602], \"category\": \"Text\", \"text\": \"Johan Hadorphius in edendis Legibus Daliæ et Scaniæ ut et reliquis opusculis suis perficiendis, hoc anno, bono cum deo, occupabitur.\"}, {\"bbox\": [133, 1596, 1169, 1763], \"category\": \"Text\", \"text\": \"Magnus Celsius. Præter alia, in quibus elaborandis occupatur, ea quæ spectant ad geodæsiam populorum septentrionalium illustrandam colligere cœpit. Dissertationem quamque de Runis Helsingicis brevi volente Deo publicabit».\"}, {\"bbox\": [157, 1809, 296, 1832], \"category\": \"Page-footer\", \"text\": \"2-33139. III.\"}, {\"bbox\": [1123, 1807, 1165, 1844], \"category\": \"Page-footer\", \"text\": \"17\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    394,
+    240,
+    925,
+    287
+   ],
+   "category": "Section-header",
+   "text": "Consignationer och kataloger"
+  },
+  {
+   "bbox": [
+    133,
+    309,
+    1178,
+    396
+   ],
+   "category": "Text",
+   "text": "hans arbete, om hwilke ingen twifwel war, sielf uthstruket». Den insändes således utan hans uppgift:"
+  },
+  {
+   "bbox": [
+    135,
+    399,
+    1179,
+    484
+   ],
+   "category": "Text",
+   "text": "»Consignatio Operum vel inchoatorum vel elaborandorum a Regii Antiquitatum Collegii omnibus et singulis membris."
+  },
+  {
+   "bbox": [
+    133,
+    482,
+    1179,
+    653
+   ],
+   "category": "Text",
+   "text": "Johannes Loccenius, Regii Collegii Antiquitatum Præses, præter reliquas Sueo-Gothicas Leges Latine versas et Historiam Suecanam recognitam editioni paravit Lexicon Iuris Suecici et Orationes ac Poemata cum Elogiis Regum, Procerum ac Senatorum Regni Sueciæ."
+  },
+  {
+   "bbox": [
+    133,
+    648,
+    1176,
+    899
+   ],
+   "category": "Text",
+   "text": "Johannes Axehiälm in revidendis et conferendis descriptionibus Historiarum Barlaami et Vilcini etc. nec non in Perficiendis earum Indicibus adhuc occupatus est. Sed cum per triennium ne obolum quidem in multis et magnis suis angustijs salarij loco nactus sit, ob hoc mærore et suspirijs conqueritur, sed consolatur dicterio Stiernhiälmij in Parnasso Triumphante:"
+  },
+  {
+   "bbox": [
+    344,
+    909,
+    971,
+    993
+   ],
+   "category": "Text",
+   "text": "hand hand tvättar, Stehn Stehn glättar\nEen god löhn tungt arbete lättar."
+  },
+  {
+   "bbox": [
+    133,
+    1014,
+    1173,
+    1306
+   ],
+   "category": "Text",
+   "text": "Jo. Schefferus Lapponiæ descriptionem absoluit et ad typographum dimisit Francofurtum. Ex Chronico Archiepiscoporum Vpsaliensium, pridem prælo parato, præter quaterniones quatuor a Curione impetrare non potuit spatio duorum annorum, Cui si reliquum absoluet et efficiet, vt tandem omnia in lucem veniant, tum dabitur opera, vt Adami Bremensis Scandinavia et quæ alia plura sub manibus habet perficiantur."
+  },
+  {
+   "bbox": [
+    133,
+    1305,
+    1171,
+    1512
+   ],
+   "category": "Text",
+   "text": "Claudius Arrhenius. Emanuelis Thesauri Italico opere de Gothorum Longobardorumque rebus in Italia gestis absoluto, quod sperat gemina versione et uberioribus notis editioni paratum se exhibiturum, propediem alium sibi injunctum laborem mox, si Deus volet, aggreditur."
+  },
+  {
+   "bbox": [
+    133,
+    1512,
+    1170,
+    1602
+   ],
+   "category": "Text",
+   "text": "Johan Hadorphius in edendis Legibus Daliæ et Scaniæ ut et reliquis opusculis suis perficiendis, hoc anno, bono cum deo, occupabitur."
+  },
+  {
+   "bbox": [
+    133,
+    1596,
+    1169,
+    1763
+   ],
+   "category": "Text",
+   "text": "Magnus Celsius. Præter alia, in quibus elaborandis occupatur, ea quæ spectant ad geodæsiam populorum septentrionalium illustrandam colligere cœpit. Dissertationem quamque de Runis Helsingicis brevi volente Deo publicabit»."
+  },
+  {
+   "bbox": [
+    157,
+    1809,
+    296,
+    1832
+   ],
+   "category": "Page-footer",
+   "text": "2-33139. III."
+  },
+  {
+   "bbox": [
+    1123,
+    1807,
+    1165,
+    1844
+   ],
+   "category": "Page-footer",
+   "text": "17"
+  }
+ ]
+}

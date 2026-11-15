@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 163,
+ "seconds": 16.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [820, 555, 1105, 591], \"category\": \"Section-header\", \"text\": \"RUNARBETEN.\"}, {\"bbox\": [570, 631, 1354, 667], \"category\": \"Section-header\", \"text\": \"RITARE, KOPPARSTICKARE OCH FORMSKÄRARE.\"}, {\"bbox\": [312, 744, 432, 806], \"category\": \"Text\", \"text\": \"Runarbetets\\nfördelning\"}, {\"bbox\": [432, 735, 1487, 1781], \"category\": \"Text\", \"text\": \"För De la Gardies tid var nog ederandet av götiska handskrifter den viktigaste antikvariska uppgiften. För tiden närmast förut hade runorna varit det. Då antikvitetskollegiet stiftades, fanns emellertid icke någon egentlig runolog, och ehuru Instruktionen inskärper vikten av runstenarnas avbildande, så kommer denna uppgift endast svagt fram vid antikvitetsarbetets fördelning mellan de olika assessorerna: »Professoren Magnus Celsius kunde och uthleta sigh något wist arbete såsom Runastenarnes affrijtning och Theologiam veterum eller annat slijkt». Att döma av consignationerna tyckes Celsius dock ha föredragit att syssla med andra uppgifter. Först 1673 nämner han, att han förberedde en traktat om hälsingerunorna, och 1674 gjorde han ock i det syftet en antikvarisk resa till Hälsingland. Men någon betydande insats i själva insamlandet av rikets runmaterial gjorde han icke. Den, som i detta fall kom att ersätta honom, var Hadorph. I sitt förslag till den instruktion, som De la Gardie sedermera utfärdade, hade han om sig själv yttrat, att han »någon wettskap inhemptat uthi Runeskriften», och som vi sett hade han redan som student gjort runundersökningar på Öland. Sedermera, 1664, hade han avtecknat flera runstenar i Östergötland, och året därpå hade han hos Kungl. Maj:t anhållit om fritt tillträde till arkivet, »emädan een deel aff Runastenarne finnas i gambla Cantzliet uthi koppar afstuckne, een deel åther i Upsala, derföre begärar iag ödmiukelig att få afcopiera låta dee Runastenar här i Cantzliet finnes, på det om iagh effter handen sådane afrijtar i landet, må icke onödigt the samma afrijta, som allareda färdige äro, uthan allena dee iagh\"}, {\"bbox\": [438, 1810, 511, 1846], \"category\": \"Page-footer\", \"text\": \"142\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    820,
+    555,
+    1105,
+    591
+   ],
+   "category": "Section-header",
+   "text": "RUNARBETEN."
+  },
+  {
+   "bbox": [
+    570,
+    631,
+    1354,
+    667
+   ],
+   "category": "Section-header",
+   "text": "RITARE, KOPPARSTICKARE OCH FORMSKÄRARE."
+  },
+  {
+   "bbox": [
+    312,
+    744,
+    432,
+    806
+   ],
+   "category": "Text",
+   "text": "Runarbetets\nfördelning"
+  },
+  {
+   "bbox": [
+    432,
+    735,
+    1487,
+    1781
+   ],
+   "category": "Text",
+   "text": "För De la Gardies tid var nog ederandet av götiska handskrifter den viktigaste antikvariska uppgiften. För tiden närmast förut hade runorna varit det. Då antikvitetskollegiet stiftades, fanns emellertid icke någon egentlig runolog, och ehuru Instruktionen inskärper vikten av runstenarnas avbildande, så kommer denna uppgift endast svagt fram vid antikvitetsarbetets fördelning mellan de olika assessorerna: »Professoren Magnus Celsius kunde och uthleta sigh något wist arbete såsom Runastenarnes affrijtning och Theologiam veterum eller annat slijkt». Att döma av consignationerna tyckes Celsius dock ha föredragit att syssla med andra uppgifter. Först 1673 nämner han, att han förberedde en traktat om hälsingerunorna, och 1674 gjorde han ock i det syftet en antikvarisk resa till Hälsingland. Men någon betydande insats i själva insamlandet av rikets runmaterial gjorde han icke. Den, som i detta fall kom att ersätta honom, var Hadorph. I sitt förslag till den instruktion, som De la Gardie sedermera utfärdade, hade han om sig själv yttrat, att han »någon wettskap inhemptat uthi Runeskriften», och som vi sett hade han redan som student gjort runundersökningar på Öland. Sedermera, 1664, hade han avtecknat flera runstenar i Östergötland, och året därpå hade han hos Kungl. Maj:t anhållit om fritt tillträde till arkivet, »emädan een deel aff Runastenarne finnas i gambla Cantzliet uthi koppar afstuckne, een deel åther i Upsala, derföre begärar iag ödmiukelig att få afcopiera låta dee Runastenar här i Cantzliet finnes, på det om iagh effter handen sådane afrijtar i landet, må icke onödigt the samma afrijta, som allareda färdige äro, uthan allena dee iagh"
+  },
+  {
+   "bbox": [
+    438,
+    1810,
+    511,
+    1846
+   ],
+   "category": "Page-footer",
+   "text": "142"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 14,
+ "seconds": 24.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [288, 541, 1035, 586], \"category\": \"Section-header\", \"text\": \"CONSIGNATIONER OCH KATALOGER.\"}, {\"bbox\": [131, 652, 1171, 1528], \"category\": \"Text\", \"text\": \"Antikvitetskollegiet var ämnat att bliva en antikvarisk akademi, däremot icke egentligen en historisk-antikvarisk. Anledningen här- till kan hava varit, att det vid denna tid knappast fanns någon verklig historiker inom landet. Messenierna och Girs tillhörde den föregå- ende tiden och hade icke fått några svenska efterföljare. Den ende, Johan Videkindi — som dock ej var vidare betydande — hade väl 1665 blivit rikshistoriograf, men han synes aldrig hava varit ifråga- satt såsom assessor i kollegiet. Den huvudsakliga anledningen till be- gränsningen av kollegiets ämneskrets var dock nog den kraftiga gö- tiska strömningen, i följd av vilken man lade huvudvikten på forn- historien. Naturligtvis hade man även intresse för den senare tidens händelser, vilka man ville se framställda i en för den svenska national- äran fördelaktig dager, men i regeln överlämnades detta uppdrag åt utlänningar, åt Chemnitz, Boeclerus och Pufendorf. I början av 1680-talet ser det väl ut, som om man tänkt giva kollegiet en mera historisk karaktär, i det att man i stället för de avlidna assessorerna insatte historikerna Wester, Pufendorf och Werving. Men det är tvivelaktigt, om någon medveten plan låg bakom dessa utnämningar, som troligen blott avsågo lönerna, och i varje fall var man kort där- efter, då frågan om kollegiets omorganisation ventilerades, allmänt ense därom, att »historia moderna» borde uteslutas.\"}, {\"bbox\": [1182, 678, 1308, 772], \"category\": \"Text\", \"text\": \"Antikvitets- kollegiets uppgifter\"}, {\"bbox\": [129, 1525, 1163, 1781], \"category\": \"Text\", \"text\": \"Instruktionen 1667 ger medlemmarna endast antikvariska arbets- uppgifter, ehuru »antikviteterna» här fattas i en ganska vidsträckt be- märkelse. I spetsen ställde De la Gardie »ett fullkomligt dictiona- rium» — icke över samtidens ordförråd — utan över »wårt gamble Swenske och Giöthiske Språk», och det är ganska tydligt, att han här ej skilde på fornsvenska och isländska; såsom vi sett behandlade också\"}, {\"bbox\": [154, 1824, 285, 1847], \"category\": \"Page-footer\", \"text\": \"I—33139. III.\"}, {\"bbox\": [1135, 1828, 1153, 1853], \"category\": \"Page-footer\", \"text\": \"I\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    288,
+    541,
+    1035,
+    586
+   ],
+   "category": "Section-header",
+   "text": "CONSIGNATIONER OCH KATALOGER."
+  },
+  {
+   "bbox": [
+    131,
+    652,
+    1171,
+    1528
+   ],
+   "category": "Text",
+   "text": "Antikvitetskollegiet var ämnat att bliva en antikvarisk akademi, däremot icke egentligen en historisk-antikvarisk. Anledningen här- till kan hava varit, att det vid denna tid knappast fanns någon verklig historiker inom landet. Messenierna och Girs tillhörde den föregå- ende tiden och hade icke fått några svenska efterföljare. Den ende, Johan Videkindi — som dock ej var vidare betydande — hade väl 1665 blivit rikshistoriograf, men han synes aldrig hava varit ifråga- satt såsom assessor i kollegiet. Den huvudsakliga anledningen till be- gränsningen av kollegiets ämneskrets var dock nog den kraftiga gö- tiska strömningen, i följd av vilken man lade huvudvikten på forn- historien. Naturligtvis hade man även intresse för den senare tidens händelser, vilka man ville se framställda i en för den svenska national- äran fördelaktig dager, men i regeln överlämnades detta uppdrag åt utlänningar, åt Chemnitz, Boeclerus och Pufendorf. I början av 1680-talet ser det väl ut, som om man tänkt giva kollegiet en mera historisk karaktär, i det att man i stället för de avlidna assessorerna insatte historikerna Wester, Pufendorf och Werving. Men det är tvivelaktigt, om någon medveten plan låg bakom dessa utnämningar, som troligen blott avsågo lönerna, och i varje fall var man kort där- efter, då frågan om kollegiets omorganisation ventilerades, allmänt ense därom, att »historia moderna» borde uteslutas."
+  },
+  {
+   "bbox": [
+    1182,
+    678,
+    1308,
+    772
+   ],
+   "category": "Text",
+   "text": "Antikvitets- kollegiets uppgifter"
+  },
+  {
+   "bbox": [
+    129,
+    1525,
+    1163,
+    1781
+   ],
+   "category": "Text",
+   "text": "Instruktionen 1667 ger medlemmarna endast antikvariska arbets- uppgifter, ehuru »antikviteterna» här fattas i en ganska vidsträckt be- märkelse. I spetsen ställde De la Gardie »ett fullkomligt dictiona- rium» — icke över samtidens ordförråd — utan över »wårt gamble Swenske och Giöthiske Språk», och det är ganska tydligt, att han här ej skilde på fornsvenska och isländska; såsom vi sett behandlade också"
+  },
+  {
+   "bbox": [
+    154,
+    1824,
+    285,
+    1847
+   ],
+   "category": "Page-footer",
+   "text": "I—33139. III."
+  },
+  {
+   "bbox": [
+    1135,
+    1828,
+    1153,
+    1853
+   ],
+   "category": "Page-footer",
+   "text": "I"
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 45,
+ "seconds": 30.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [787, 243, 1203, 286], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [475, 313, 1513, 389], \"category\": \"Text\", \"text\": \"skrifwen på gammal Göthiska, men på vårt nu brukelige Språk wänd och med lärde Anmärkelser på Latin skrifne och tryckt i Upsala Åhr 1672. fol.\"}, {\"bbox\": [318, 396, 1515, 543], \"category\": \"List-item\", \"text\": \"Joh. Hadorph. Beskrifning om Kongl. Drotzens Grefwe Magni de la Gardies Testamente på en hoop skiöna MS:ter och Böcker, som angå desse Nordiske Rijkens Historier och Antiquiteter, hwilka till Upsala Academia skiänkte äro. Tryckt i Stockholm Åhr 1672. fol.\"}, {\"bbox\": [340, 550, 1517, 805], \"category\": \"List-item\", \"text\": \"Joh. Loccen: En kort Underwisning om den allmänne Lag och hwars och ens i synnerheet, lämpat till Sweriges Lag. Hwar hoos föllia någre Lagsens Frågor till den dagelige Öfningen nödige och tillika medh dem några nyttige Frågor till denne Dagen, äfwen wid Domstolarne nödige. Hwar jempte föllier på Latin afsatt Kongl. May:tz Placat om Interesser, Åhr 1671. utgifwit, och några nödige Reglor om Interessen. Uplagd på Latin i Giötheborg Åhr 1678.\"}, {\"bbox\": [320, 807, 1517, 953], \"category\": \"List-item\", \"text\": \"Joan. Scheffer. Lapplands och dess Folcks Beskrifning till sitt Uhrsprung, Widskiepelser, Lefwerne, Matt, Kläder, Näring, Diurs skiutande, fångande, Fiskerij och alt annat hwad som till deras Wäsende lända kan. Tryckt Francof. Åhr 1673.\"}, {\"bbox\": [320, 955, 1517, 1137], \"category\": \"List-item\", \"text\": \"Joan. Scheffer. En kort Latinisk Crönika om första Upsala Biskopar, Archebiskopar och flere af dess förnämbste Prästestånd Embete och Lefwerne, uttagen af en gammal Upsala Domkyrkio-Book, som fordom dijt hördt, hwilken med några Anmärkelser och nödige Register förfärdigat och uplagd är i Upsala Åhr 1674.\"}, {\"bbox\": [359, 1139, 1517, 1321], \"category\": \"List-item\", \"text\": \"Olai Verel: En Tillökning på Herwarars Sagas Anmärkelser, uplagd i Upsala Åhr 1674., så och en kort Underwisning om det Ordet Fanin, att thet fordom icke hafwer warit brukat om den onde Andan, men om then rätte gode Guden, hwilket med många Skiäl af Ulfila och flere Skrifter han bewisa söker. Tryckt i Upsala Åhr 1674.\"}, {\"bbox\": [346, 1321, 1517, 1468], \"category\": \"List-item\", \"text\": \"Joh. Loccen: Sweriges Rikes Siö Lag af wår nådigste Konung stadgat Åhr 1667. wänd på Latin. Här jempte fins tryckt bemelte Doct. Loccenii Wärk om SiöRätt i gemeen, som jämföres med Sweriges och andra Folcks Rätter. Tryckt i Stockholm Åhr 1674. 8:vo.\"}, {\"bbox\": [479, 1470, 1517, 1581], \"category\": \"Text\", \"text\": \"Bemelte Loccenii Uthtydning på gambla Ord i Lagen, förbättrat och tridie gång uplagd med en Tillökning oppå några Ord, som uptänckte äro att bruka om Förläningsrätter. Stockholm tryckt 1674. 8:vo.\"}, {\"bbox\": [324, 1583, 1519, 1766], \"category\": \"List-item\", \"text\": \"Joh. Hadorph. Twenne gambla Rim-Crönikor, den förra kort, som innehåller Sextio twå Swea och Götha Konungar, then andra widelyftigare och beskrifwer tiugu twå Konungars Lefwerne och Bedrifter, begynnandes af K. Erick Läspe: uplagde med sina korta Meningar i Brädden, åthskillnader och fullkomblige Register. Stockholm Åhr 1674.\"}, {\"bbox\": [482, 1801, 531, 1840], \"category\": \"Page-footer\", \"text\": \"32\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    787,
+    243,
+    1203,
+    286
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    475,
+    313,
+    1513,
+    389
+   ],
+   "category": "Text",
+   "text": "skrifwen på gammal Göthiska, men på vårt nu brukelige Språk wänd och med lärde Anmärkelser på Latin skrifne och tryckt i Upsala Åhr 1672. fol."
+  },
+  {
+   "bbox": [
+    318,
+    396,
+    1515,
+    543
+   ],
+   "category": "List-item",
+   "text": "Joh. Hadorph. Beskrifning om Kongl. Drotzens Grefwe Magni de la Gardies Testamente på en hoop skiöna MS:ter och Böcker, som angå desse Nordiske Rijkens Historier och Antiquiteter, hwilka till Upsala Academia skiänkte äro. Tryckt i Stockholm Åhr 1672. fol."
+  },
+  {
+   "bbox": [
+    340,
+    550,
+    1517,
+    805
+   ],
+   "category": "List-item",
+   "text": "Joh. Loccen: En kort Underwisning om den allmänne Lag och hwars och ens i synnerheet, lämpat till Sweriges Lag. Hwar hoos föllia någre Lagsens Frågor till den dagelige Öfningen nödige och tillika medh dem några nyttige Frågor till denne Dagen, äfwen wid Domstolarne nödige. Hwar jempte föllier på Latin afsatt Kongl. May:tz Placat om Interesser, Åhr 1671. utgifwit, och några nödige Reglor om Interessen. Uplagd på Latin i Giötheborg Åhr 1678."
+  },
+  {
+   "bbox": [
+    320,
+    807,
+    1517,
+    953
+   ],
+   "category": "List-item",
+   "text": "Joan. Scheffer. Lapplands och dess Folcks Beskrifning till sitt Uhrsprung, Widskiepelser, Lefwerne, Matt, Kläder, Näring, Diurs skiutande, fångande, Fiskerij och alt annat hwad som till deras Wäsende lända kan. Tryckt Francof. Åhr 1673."
+  },
+  {
+   "bbox": [
+    320,
+    955,
+    1517,
+    1137
+   ],
+   "category": "List-item",
+   "text": "Joan. Scheffer. En kort Latinisk Crönika om första Upsala Biskopar, Archebiskopar och flere af dess förnämbste Prästestånd Embete och Lefwerne, uttagen af en gammal Upsala Domkyrkio-Book, som fordom dijt hördt, hwilken med några Anmärkelser och nödige Register förfärdigat och uplagd är i Upsala Åhr 1674."
+  },
+  {
+   "bbox": [
+    359,
+    1139,
+    1517,
+    1321
+   ],
+   "category": "List-item",
+   "text": "Olai Verel: En Tillökning på Herwarars Sagas Anmärkelser, uplagd i Upsala Åhr 1674., så och en kort Underwisning om det Ordet Fanin, att thet fordom icke hafwer warit brukat om den onde Andan, men om then rätte gode Guden, hwilket med många Skiäl af Ulfila och flere Skrifter han bewisa söker. Tryckt i Upsala Åhr 1674."
+  },
+  {
+   "bbox": [
+    346,
+    1321,
+    1517,
+    1468
+   ],
+   "category": "List-item",
+   "text": "Joh. Loccen: Sweriges Rikes Siö Lag af wår nådigste Konung stadgat Åhr 1667. wänd på Latin. Här jempte fins tryckt bemelte Doct. Loccenii Wärk om SiöRätt i gemeen, som jämföres med Sweriges och andra Folcks Rätter. Tryckt i Stockholm Åhr 1674. 8:vo."
+  },
+  {
+   "bbox": [
+    479,
+    1470,
+    1517,
+    1581
+   ],
+   "category": "Text",
+   "text": "Bemelte Loccenii Uthtydning på gambla Ord i Lagen, förbättrat och tridie gång uplagd med en Tillökning oppå några Ord, som uptänckte äro att bruka om Förläningsrätter. Stockholm tryckt 1674. 8:vo."
+  },
+  {
+   "bbox": [
+    324,
+    1583,
+    1519,
+    1766
+   ],
+   "category": "List-item",
+   "text": "Joh. Hadorph. Twenne gambla Rim-Crönikor, den förra kort, som innehåller Sextio twå Swea och Götha Konungar, then andra widelyftigare och beskrifwer tiugu twå Konungars Lefwerne och Bedrifter, begynnandes af K. Erick Läspe: uplagde med sina korta Meningar i Brädden, åthskillnader och fullkomblige Register. Stockholm Åhr 1674."
+  },
+  {
+   "bbox": [
+    482,
+    1801,
+    531,
+    1840
+   ],
+   "category": "Page-footer",
+   "text": "32"
+  }
+ ]
+}

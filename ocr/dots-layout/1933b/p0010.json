@@ -1,0 +1,42 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 10,
+ "seconds": 10.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [225, 761, 1038, 983], \"category\": \"Text\", \"text\": \"KGL. VITTERHETS\\nHISTORIE OCH ANTIKVITETS\\nAKADEMIEN\"}, {\"bbox\": [351, 1055, 907, 1171], \"category\": \"Text\", \"text\": \"Dess\\nFörhistoria och Historia\"}, {\"bbox\": [597, 1237, 655, 1272], \"category\": \"Text\", \"text\": \"III\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    225,
+    761,
+    1038,
+    983
+   ],
+   "category": "Text",
+   "text": "KGL. VITTERHETS\nHISTORIE OCH ANTIKVITETS\nAKADEMIEN"
+  },
+  {
+   "bbox": [
+    351,
+    1055,
+    907,
+    1171
+   ],
+   "category": "Text",
+   "text": "Dess\nFörhistoria och Historia"
+  },
+  {
+   "bbox": [
+    597,
+    1237,
+    655,
+    1272
+   ],
+   "category": "Text",
+   "text": "III"
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 49,
+ "seconds": 30.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [800, 243, 1212, 286], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [488, 312, 1523, 427], \"category\": \"Text\", \"text\": \"hwar uti mycket af wår gambla Historia igen finnes och Historie Scribenternes sanne Berättelser styrkias, men dhe osanne tillbaka drifwas. Ett stort och widlyftigt Wärk, är några Åhr sedan färdigt.\"}, {\"bbox\": [490, 431, 1522, 510], \"category\": \"Text\", \"text\": \"Swea ock Giöta Rikes Helgons ock fordom Patroners Lefwernes gamble Beskrifningar och Historier för några Åhr sedan förfärdigade.\"}, {\"bbox\": [357, 514, 1523, 630], \"category\": \"List-item\", \"text\": \"Sam. Pufendorf. Höglofl. K. Carl Gustafs Historia beskrefwen på Latin, hwilken är färdiggjord till trycket för bemelte Secreterares uthresa till Tyskland, med nödige Kopparstycken.\"}, {\"bbox\": [335, 628, 1523, 742], \"category\": \"List-item\", \"text\": \"Joh. Hadorph. Alla gambla Konungs Stadgar ifrån K. Magno Ladulås, Recesser, Gårdsrätter, Besluter och mera sådant, som fordom hafwa jemte Sweriges Lag brukelige warit, församblade i någre Band in till desse Tijder.\"}, {\"bbox\": [375, 740, 1523, 925], \"category\": \"List-item\", \"text\": \"Joh. Had: Uthtog af samma Stadgar &c. på alla dhe Mål, som till Lagskipan wid Domstolarne synas nödige, förfärdigat efter sina Förmäns Befallning in till Åhr 1674., betienandes nu många, som dem jemte Sweriges Lag willia weta och see, hwad fordom stadgat och nu genom sedermera Kongl. Påbud förandrade och nödige ära att weta.\"}, {\"bbox\": [375, 925, 1523, 1111], \"category\": \"List-item\", \"text\": \"Joh. Had: Runernas i Swea och Götha qwarlefwar i Stenar och Berg, nu på många Åhr uthi största delen af Rijket med Kongl. May:tz Bekostnad församblade och uthskurne att upläggias, jemte en Beskrifning och Utholkning öfwer dem, hwilka ära till reds att tryckias, så snart ett bestält Runetryck blifwer förferdigat detta Åhr.\"}, {\"bbox\": [375, 1108, 1526, 1507], \"category\": \"List-item\", \"text\": \"Joh. Had: En gammal Wästgiöte Lag på Pergament nylig igenfunnen och till tryck förfärdigat, efter som then mycket fullkomligare är och i mång Stycke annorlunda än thet Exemplar, som Hr. Stiernhielm lät uthgå Åhr 1663., hwar uthi och den Beskrifning fins på Råmerken emillan Wästgiöthland och Småland sampt dhe fordom ifrån Götharijcket afhände Land genom Amunder Slemmä, nembl. Halland, Bleking och Skåne, hwilken Beskrifning aldeles öfwerens stämmer med den, som Hr. Georg Stiernhielm af ett annat Exemplar lät tryckia wid Wästgiöte Lagen, hwilka Råmärken och finnas med gambla Runske Bookstäfwer fordom skrifne i en mycket gammal Frostatings Lagbook, som i Krigs-Tijden ifrån Norige många Åhr sedan till Swerige är kommen.\"}, {\"bbox\": [381, 1505, 1526, 1655], \"category\": \"List-item\", \"text\": \"Joh. Had. Till en sann Kundskap om Sweriges gambla Mynt, dess Bruk och wärde rätt att förstå, som i Lagen eller gambla Bref ofta förekomma, äro alla, som på finnas kunde ifrån K. Amunds Tijd, hwilken lefde 1020., in till desse Tijder med stor Flijt afritade.\"}, {\"bbox\": [494, 1654, 1526, 1769], \"category\": \"Text\", \"text\": \"Linkiöpings och Schara Biskopars korta Rim Crönikor med några deras Stadgar angående Kyrkio wäsendet och deras Räntor, förlängst till trycket beredde.\"}, {\"bbox\": [498, 1795, 547, 1842], \"category\": \"Page-footer\", \"text\": \"36\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    800,
+    243,
+    1212,
+    286
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    488,
+    312,
+    1523,
+    427
+   ],
+   "category": "Text",
+   "text": "hwar uti mycket af wår gambla Historia igen finnes och Historie Scribenternes sanne Berättelser styrkias, men dhe osanne tillbaka drifwas. Ett stort och widlyftigt Wärk, är några Åhr sedan färdigt."
+  },
+  {
+   "bbox": [
+    490,
+    431,
+    1522,
+    510
+   ],
+   "category": "Text",
+   "text": "Swea ock Giöta Rikes Helgons ock fordom Patroners Lefwernes gamble Beskrifningar och Historier för några Åhr sedan förfärdigade."
+  },
+  {
+   "bbox": [
+    357,
+    514,
+    1523,
+    630
+   ],
+   "category": "List-item",
+   "text": "Sam. Pufendorf. Höglofl. K. Carl Gustafs Historia beskrefwen på Latin, hwilken är färdiggjord till trycket för bemelte Secreterares uthresa till Tyskland, med nödige Kopparstycken."
+  },
+  {
+   "bbox": [
+    335,
+    628,
+    1523,
+    742
+   ],
+   "category": "List-item",
+   "text": "Joh. Hadorph. Alla gambla Konungs Stadgar ifrån K. Magno Ladulås, Recesser, Gårdsrätter, Besluter och mera sådant, som fordom hafwa jemte Sweriges Lag brukelige warit, församblade i någre Band in till desse Tijder."
+  },
+  {
+   "bbox": [
+    375,
+    740,
+    1523,
+    925
+   ],
+   "category": "List-item",
+   "text": "Joh. Had: Uthtog af samma Stadgar &c. på alla dhe Mål, som till Lagskipan wid Domstolarne synas nödige, förfärdigat efter sina Förmäns Befallning in till Åhr 1674., betienandes nu många, som dem jemte Sweriges Lag willia weta och see, hwad fordom stadgat och nu genom sedermera Kongl. Påbud förandrade och nödige ära att weta."
+  },
+  {
+   "bbox": [
+    375,
+    925,
+    1523,
+    1111
+   ],
+   "category": "List-item",
+   "text": "Joh. Had: Runernas i Swea och Götha qwarlefwar i Stenar och Berg, nu på många Åhr uthi största delen af Rijket med Kongl. May:tz Bekostnad församblade och uthskurne att upläggias, jemte en Beskrifning och Utholkning öfwer dem, hwilka ära till reds att tryckias, så snart ett bestält Runetryck blifwer förferdigat detta Åhr."
+  },
+  {
+   "bbox": [
+    375,
+    1108,
+    1526,
+    1507
+   ],
+   "category": "List-item",
+   "text": "Joh. Had: En gammal Wästgiöte Lag på Pergament nylig igenfunnen och till tryck förfärdigat, efter som then mycket fullkomligare är och i mång Stycke annorlunda än thet Exemplar, som Hr. Stiernhielm lät uthgå Åhr 1663., hwar uthi och den Beskrifning fins på Råmerken emillan Wästgiöthland och Småland sampt dhe fordom ifrån Götharijcket afhände Land genom Amunder Slemmä, nembl. Halland, Bleking och Skåne, hwilken Beskrifning aldeles öfwerens stämmer med den, som Hr. Georg Stiernhielm af ett annat Exemplar lät tryckia wid Wästgiöte Lagen, hwilka Råmärken och finnas med gambla Runske Bookstäfwer fordom skrifne i en mycket gammal Frostatings Lagbook, som i Krigs-Tijden ifrån Norige många Åhr sedan till Swerige är kommen."
+  },
+  {
+   "bbox": [
+    381,
+    1505,
+    1526,
+    1655
+   ],
+   "category": "List-item",
+   "text": "Joh. Had. Till en sann Kundskap om Sweriges gambla Mynt, dess Bruk och wärde rätt att förstå, som i Lagen eller gambla Bref ofta förekomma, äro alla, som på finnas kunde ifrån K. Amunds Tijd, hwilken lefde 1020., in till desse Tijder med stor Flijt afritade."
+  },
+  {
+   "bbox": [
+    494,
+    1654,
+    1526,
+    1769
+   ],
+   "category": "Text",
+   "text": "Linkiöpings och Schara Biskopars korta Rim Crönikor med några deras Stadgar angående Kyrkio wäsendet och deras Räntor, förlängst till trycket beredde."
+  },
+  {
+   "bbox": [
+    498,
+    1795,
+    547,
+    1842
+   ],
+   "category": "Page-footer",
+   "text": "36"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 61,
+ "seconds": 26.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [795, 239, 1211, 282], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [483, 310, 1518, 770], \"category\": \"Text\", \"text\": \"»Att så wäl dhet gambla exemplaret Vilcina sagu som dhess Version på nu öfligh Swänska ähr af mig rätt affskriffuit, består iagh medh egen hands Vnderskrifft. Datum Ubsala dhen 21 Juni Åhr 1672. Harald Wijsingh». Detsamma framgår ock av Axehiälms anteckning i det förut (II sid. 182) citerade brevet av den 11 juli 1680: »Min för detta amanuensis Haraldus Wising, som hafuer skrifuit rent Barlaami och Vilcina Saghur, som ähra tuänne stora folianter, hafuer åhr 1673 den 29 Martii bekommit effter hans höghgrefuligh Ex:s Riks Cantzelerens order utaff Secreteraren Hr. Lideman 33 ducater 3 dr. 28 öre kmt., huilket iagh på Visings wägnar wälbe:te Secreterare quitterat och han, Vising, åter migh quitterat».\"}, {\"bbox\": [483, 768, 1521, 1764], \"category\": \"Text\", \"text\": \"Både det fornnorska originalet samt Axehiälms text och översättning (Papp. fol. 28) inlämnades enligt Hadorphs kvitto i juni 1682 till arkivet. Att den fornnorska texten icke kan ha plagierats från Bureus, är klart, ty denne hade blott avskrivit fyra kapitel — som icke finnas hos Axehiälm —, likaså att Axehiälm ej kan hava begagnat Bureus' översättning för mera än på sin höjd de kapitel, som denne översatt. Men det har han icke gjort. I den norska handskriften föreligger nämligen Vilkinasagan i två olika redaktioner, den ena i början av boken, den andra blad 76 och följande, vilka båda redaktioner avtryckts av Unger (sid. 22 ff.). Bureus har översatt den förra, Axehiälm den senare. Deras översättningar äro därför ganska olika. Vi kunna på måfå taga ett exempel, konung Attilas frieri (Unger sid. 46 och 48). Bureus' översättning lyder: »Dädh är ett sinne att Attila konunger kallar til sijn sin frende Osidh ågh säger, at han wil sendan i Vilkinaland til Osantrix konung at bedas dotter hans konungenom til handa. Åg hans färd vart tilbörliga vtrustadh, åg ridha mz hånom XX riddare, de höfveskeste voro vti hofvet. Nu rida de i Vilkinaland medh mykit ståt och hitta Osantrix konung. Konungen tager wäl vidh sändemännen Attila konungs, ändogh at han war icke hans wän». Axehiälms norska text var en annan och i följd därav också hans översättning: »Thet är en gång att konung Attila kallar till sigh sin frände Osid och säger, att han will sända honom nordan i Vilkinaland att finna Konung Osantrix [i] dhetta ährendet att bidia konung Attila till hans dotter Erka, och till denna reesan\"}, {\"bbox\": [491, 1793, 542, 1839], \"category\": \"Page-footer\", \"text\": \"48\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    795,
+    239,
+    1211,
+    282
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    483,
+    310,
+    1518,
+    770
+   ],
+   "category": "Text",
+   "text": "»Att så wäl dhet gambla exemplaret Vilcina sagu som dhess Version på nu öfligh Swänska ähr af mig rätt affskriffuit, består iagh medh egen hands Vnderskrifft. Datum Ubsala dhen 21 Juni Åhr 1672. Harald Wijsingh». Detsamma framgår ock av Axehiälms anteckning i det förut (II sid. 182) citerade brevet av den 11 juli 1680: »Min för detta amanuensis Haraldus Wising, som hafuer skrifuit rent Barlaami och Vilcina Saghur, som ähra tuänne stora folianter, hafuer åhr 1673 den 29 Martii bekommit effter hans höghgrefuligh Ex:s Riks Cantzelerens order utaff Secreteraren Hr. Lideman 33 ducater 3 dr. 28 öre kmt., huilket iagh på Visings wägnar wälbe:te Secreterare quitterat och han, Vising, åter migh quitterat»."
+  },
+  {
+   "bbox": [
+    483,
+    768,
+    1521,
+    1764
+   ],
+   "category": "Text",
+   "text": "Både det fornnorska originalet samt Axehiälms text och översättning (Papp. fol. 28) inlämnades enligt Hadorphs kvitto i juni 1682 till arkivet. Att den fornnorska texten icke kan ha plagierats från Bureus, är klart, ty denne hade blott avskrivit fyra kapitel — som icke finnas hos Axehiälm —, likaså att Axehiälm ej kan hava begagnat Bureus' översättning för mera än på sin höjd de kapitel, som denne översatt. Men det har han icke gjort. I den norska handskriften föreligger nämligen Vilkinasagan i två olika redaktioner, den ena i början av boken, den andra blad 76 och följande, vilka båda redaktioner avtryckts av Unger (sid. 22 ff.). Bureus har översatt den förra, Axehiälm den senare. Deras översättningar äro därför ganska olika. Vi kunna på måfå taga ett exempel, konung Attilas frieri (Unger sid. 46 och 48). Bureus' översättning lyder: »Dädh är ett sinne att Attila konunger kallar til sijn sin frende Osidh ågh säger, at han wil sendan i Vilkinaland til Osantrix konung at bedas dotter hans konungenom til handa. Åg hans färd vart tilbörliga vtrustadh, åg ridha mz hånom XX riddare, de höfveskeste voro vti hofvet. Nu rida de i Vilkinaland medh mykit ståt och hitta Osantrix konung. Konungen tager wäl vidh sändemännen Attila konungs, ändogh at han war icke hans wän». Axehiälms norska text var en annan och i följd därav också hans översättning: »Thet är en gång att konung Attila kallar till sigh sin frände Osid och säger, att han will sända honom nordan i Vilkinaland att finna Konung Osantrix [i] dhetta ährendet att bidia konung Attila till hans dotter Erka, och till denna reesan"
+  },
+  {
+   "bbox": [
+    491,
+    1793,
+    542,
+    1839
+   ],
+   "category": "Page-footer",
+   "text": "48"
+  }
+ ]
+}

@@ -1,0 +1,162 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 32,
+ "seconds": 36.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [382, 248, 908, 294], \"category\": \"Section-header\", \"text\": \"Consignationer och kataloger\"}, {\"bbox\": [118, 318, 1162, 447], \"category\": \"Text\", \"text\": \"antiquum Episcoporum Lincopensium et Scharensium Rhytmice conscriptum ex antiquis manuscriptis publicabit. Perget porro in opere Genealogico, Historia Monasteriorum et cæteris opusculis suis.\"}, {\"bbox\": [118, 444, 1162, 603], \"category\": \"Text\", \"text\": \"Magnus Celsius tractatum, qui seu Oreades Helsingicæ redivivæ inscribitur, typis paratum habet; Fastos itemque Sveo-Gothicos, suppletis per ferias Natalitias lacunis, quæ editionem eorum hactenus sunt remoratæ.\"}, {\"bbox\": [118, 608, 1162, 777], \"category\": \"Text\", \"text\": \"Opus vero de Mythologijs Eddicis urget, nec non aliud de Geodæsia Septentrionalium. Quæ de laudibus et patria Hyperboreorum per auctores sparsa inveniuntur, in fasciculum colligit; unde justum tractatum, quantum per labores ordinarios licet, conabitur adornare».\"}, {\"bbox\": [118, 804, 1162, 931], \"category\": \"Text\", \"text\": \"Den sista årsredogörelsen inlämnades den 8 januari 1675 — utan någon uppgift från den ej vidare nitiske Celsius, för vilken plats i inlagan lämnats öppen:\"}, {\"bbox\": [1170, 817, 1298, 882], \"category\": \"Text\", \"text\": \"Consignatio- nen 1675\"}, {\"bbox\": [114, 940, 1162, 1111], \"category\": \"Text\", \"text\": \"»Consignatio operum ab Antiquitatum Collegio hactenus elaboratorum et in posterum elaborandorum, scripta A. 1675 a. d. 8 Januarii: Johannis Loccenii Historia Regum Sueciæ cum Antiquitatibus Sueo-Gothicis auctior et emendatior in Germania prælo tradenda, in fol.\"}, {\"bbox\": [188, 1107, 1159, 1191], \"category\": \"Text\", \"text\": \"Eiusdem Lexicon Juris Sueo-Gothici multo locupletius Holmiæ typis Henrici Keysers edendum.\"}, {\"bbox\": [114, 1190, 1157, 1353], \"category\": \"Text\", \"text\": \"Eiusdem Orationes et Poemata propediem in lucem edenda. Jahannes Axehiälm absoluta versione Historiæ Troianæ (seu Troiamanna Saga) aggredietur Translationem Variorum fragmentorum ex vetustissimis Historiis diversarum Gentium.\"}, {\"bbox\": [114, 1354, 1157, 1481], \"category\": \"Text\", \"text\": \"Joannes Schefferus post editum diebus hisce Israelem Erlandi de vita et miraculis S. Erici, prælo paratum habet nunc opusculum de priscis Regni Insignibus.\"}, {\"bbox\": [188, 1480, 1157, 1606], \"category\": \"Text\", \"text\": \"Idem habet sub manibus, et quantum valetudo nimis afflicta permittet, absoluere conabitur Disquisitionem de Orbibus tribus aureis, nuper in Scania repertis.\"}, {\"bbox\": [188, 1605, 1157, 1680], \"category\": \"Text\", \"text\": \"Et commentarium prolixum in Adami Bremensis Scandinaviam.\"}, {\"bbox\": [223, 1686, 1001, 1731], \"category\": \"Text\", \"text\": \"Item librum de Scriptis et Scriptoribus Suecorum.\"}, {\"bbox\": [120, 1728, 1154, 1776], \"category\": \"Text\", \"text\": \"Olaus Verelius requirentibus elaborata exhibere potest Auctarium\"}, {\"bbox\": [1104, 1813, 1152, 1852], \"category\": \"Page-footer\", \"text\": \"19\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    382,
+    248,
+    908,
+    294
+   ],
+   "category": "Section-header",
+   "text": "Consignationer och kataloger"
+  },
+  {
+   "bbox": [
+    118,
+    318,
+    1162,
+    447
+   ],
+   "category": "Text",
+   "text": "antiquum Episcoporum Lincopensium et Scharensium Rhytmice conscriptum ex antiquis manuscriptis publicabit. Perget porro in opere Genealogico, Historia Monasteriorum et cæteris opusculis suis."
+  },
+  {
+   "bbox": [
+    118,
+    444,
+    1162,
+    603
+   ],
+   "category": "Text",
+   "text": "Magnus Celsius tractatum, qui seu Oreades Helsingicæ redivivæ inscribitur, typis paratum habet; Fastos itemque Sveo-Gothicos, suppletis per ferias Natalitias lacunis, quæ editionem eorum hactenus sunt remoratæ."
+  },
+  {
+   "bbox": [
+    118,
+    608,
+    1162,
+    777
+   ],
+   "category": "Text",
+   "text": "Opus vero de Mythologijs Eddicis urget, nec non aliud de Geodæsia Septentrionalium. Quæ de laudibus et patria Hyperboreorum per auctores sparsa inveniuntur, in fasciculum colligit; unde justum tractatum, quantum per labores ordinarios licet, conabitur adornare»."
+  },
+  {
+   "bbox": [
+    118,
+    804,
+    1162,
+    931
+   ],
+   "category": "Text",
+   "text": "Den sista årsredogörelsen inlämnades den 8 januari 1675 — utan någon uppgift från den ej vidare nitiske Celsius, för vilken plats i inlagan lämnats öppen:"
+  },
+  {
+   "bbox": [
+    1170,
+    817,
+    1298,
+    882
+   ],
+   "category": "Text",
+   "text": "Consignatio- nen 1675"
+  },
+  {
+   "bbox": [
+    114,
+    940,
+    1162,
+    1111
+   ],
+   "category": "Text",
+   "text": "»Consignatio operum ab Antiquitatum Collegio hactenus elaboratorum et in posterum elaborandorum, scripta A. 1675 a. d. 8 Januarii: Johannis Loccenii Historia Regum Sueciæ cum Antiquitatibus Sueo-Gothicis auctior et emendatior in Germania prælo tradenda, in fol."
+  },
+  {
+   "bbox": [
+    188,
+    1107,
+    1159,
+    1191
+   ],
+   "category": "Text",
+   "text": "Eiusdem Lexicon Juris Sueo-Gothici multo locupletius Holmiæ typis Henrici Keysers edendum."
+  },
+  {
+   "bbox": [
+    114,
+    1190,
+    1157,
+    1353
+   ],
+   "category": "Text",
+   "text": "Eiusdem Orationes et Poemata propediem in lucem edenda. Jahannes Axehiälm absoluta versione Historiæ Troianæ (seu Troiamanna Saga) aggredietur Translationem Variorum fragmentorum ex vetustissimis Historiis diversarum Gentium."
+  },
+  {
+   "bbox": [
+    114,
+    1354,
+    1157,
+    1481
+   ],
+   "category": "Text",
+   "text": "Joannes Schefferus post editum diebus hisce Israelem Erlandi de vita et miraculis S. Erici, prælo paratum habet nunc opusculum de priscis Regni Insignibus."
+  },
+  {
+   "bbox": [
+    188,
+    1480,
+    1157,
+    1606
+   ],
+   "category": "Text",
+   "text": "Idem habet sub manibus, et quantum valetudo nimis afflicta permittet, absoluere conabitur Disquisitionem de Orbibus tribus aureis, nuper in Scania repertis."
+  },
+  {
+   "bbox": [
+    188,
+    1605,
+    1157,
+    1680
+   ],
+   "category": "Text",
+   "text": "Et commentarium prolixum in Adami Bremensis Scandinaviam."
+  },
+  {
+   "bbox": [
+    223,
+    1686,
+    1001,
+    1731
+   ],
+   "category": "Text",
+   "text": "Item librum de Scriptis et Scriptoribus Suecorum."
+  },
+  {
+   "bbox": [
+    120,
+    1728,
+    1154,
+    1776
+   ],
+   "category": "Text",
+   "text": "Olaus Verelius requirentibus elaborata exhibere potest Auctarium"
+  },
+  {
+   "bbox": [
+    1104,
+    1813,
+    1152,
+    1852
+   ],
+   "category": "Page-footer",
+   "text": "19"
+  }
+ ]
+}

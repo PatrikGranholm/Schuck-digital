@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 51,
+ "seconds": 29.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [788, 252, 1205, 296], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [475, 323, 1513, 471], \"category\": \"Text\", \"text\": \"alla dhe Antiquiteter och märkeliga Ting, som man anten i samma Resa har påfunnit eller elliest af Historierne funnit på dhe Orter skiedde, som Resan framgick. Begynnandes af Stockholms Slotts och Stads första Börian så och på dhe samma lychtandes.\"}, {\"bbox\": [360, 477, 1513, 624], \"category\": \"List-item\", \"text\": \"Joh. Had. Om the gambla Swenskes och Göthers Begrafningar med några Konungars och förnäme Mäns Grafwårdar och Monumenter, efter det sätt i Ordning stält, såsom Johan Messenius i sina Tumbis har brukat, hwilket i detta och tillkommande Åhr ärnas till trycket.\"}, {\"bbox\": [360, 631, 1513, 744], \"category\": \"List-item\", \"text\": \"Joh. Had. Chronicon Jacobi Gislonis, som nu mycket föllies uthi Tijderäkningar, öfwer alla Konungars Lefwerne och andra märkelige Händelser, nu på nyo mycket förökat och efter hand beredes till omtryckiande.\"}, {\"bbox\": [322, 750, 1513, 964], \"category\": \"List-item\", \"text\": \"Tobias Westenhielm. Hafwer för Tijden under Händerne Konung Erikz den Fiortondes Historia att beskrifwa, hwar uti han med större Flijt, än för detta skedt är, anförer alt hwad af bemälte Konung lyckeligen eller olyckeligen In- och Uthrijkes förrättat är, hwar uthaf skal bewisas, att wij bemelte Konungz Åminnelse icke så ringa achta böre, som många för detta hafwa sig uthan all Grund inbillat.\"}, {\"bbox\": [347, 970, 1513, 1432], \"category\": \"List-item\", \"text\": \"Jonas Werwing. K. Sigismundi och K. Carl den Niondes Historier dem han för någon Tijd sedan har begynt sammanskrifwa, förmodar han sig innom tillstundande 1691. Åhrs Förlopp kunna fullborda, fördelandes Wärket uti fyra Böcker, således att den Första innehåller K. Carls Lefwerne och Bedrifter ifrån dess Födelse in till K. Johans dödelige Afgång. Den Andra författar, hwad som strax der efter emillan bägge desse närförwandte Potentater sig tilldrog in till K. Sigismundi Kröning. Den Tridie inbegriper deras actioner och Handlingar in till Åhr 1600., då samptlige Rijksens Ständer till ewerdelig Tijd afsade K. Sigismund sampt dess efterkommande Barn och Arfwingar ifrån Sweriges Crona, och i den Fierde beskrifwes Rijksens Styrelse och Regering under mehrhögstbemelte K. Carl in till des Lefwernes ändalycht och högstpriselig i Åminnelse sahl. K. Gustaf Adolphs Regementes begynnelse.\"}, {\"bbox\": [328, 1438, 1513, 1586], \"category\": \"List-item\", \"text\": \"Johan Pering. 1. Swea och Götha Rijkes Konungar och Drottningar beskrifne uthi någre Latinske Werser, jämte en Swensk Förklaring med trowärdige Bilder, tagne uthaf åthskillige Kongl. Afmålningar, Signeter och andra gambla Ritningar.\"}, {\"bbox\": [328, 1586, 1513, 1732], \"category\": \"List-item\", \"text\": \"Johan Pering. 2. Hans Kongl. Maytz wår allernådigste Konungs och den Durchleuchtigste Pfaltzgrefwe Slächtens Stamträ och Förplantning såsom och deras Mayesteters wære allernådigste Drottningars höga Kongl. Förfäder och Ahnherrar, uthi twenne stora Taflor sammansatte.\"}, {\"bbox\": [328, 1734, 1513, 1777], \"category\": \"List-item\", \"text\": \"Johan Pering. 3. Konglige Råds och förnäme Riddersmäns förwaltade Tiänster och\"}, {\"bbox\": [478, 1804, 528, 1850], \"category\": \"Page-footer\", \"text\": \"38\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    788,
+    252,
+    1205,
+    296
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    475,
+    323,
+    1513,
+    471
+   ],
+   "category": "Text",
+   "text": "alla dhe Antiquiteter och märkeliga Ting, som man anten i samma Resa har påfunnit eller elliest af Historierne funnit på dhe Orter skiedde, som Resan framgick. Begynnandes af Stockholms Slotts och Stads första Börian så och på dhe samma lychtandes."
+  },
+  {
+   "bbox": [
+    360,
+    477,
+    1513,
+    624
+   ],
+   "category": "List-item",
+   "text": "Joh. Had. Om the gambla Swenskes och Göthers Begrafningar med några Konungars och förnäme Mäns Grafwårdar och Monumenter, efter det sätt i Ordning stält, såsom Johan Messenius i sina Tumbis har brukat, hwilket i detta och tillkommande Åhr ärnas till trycket."
+  },
+  {
+   "bbox": [
+    360,
+    631,
+    1513,
+    744
+   ],
+   "category": "List-item",
+   "text": "Joh. Had. Chronicon Jacobi Gislonis, som nu mycket föllies uthi Tijderäkningar, öfwer alla Konungars Lefwerne och andra märkelige Händelser, nu på nyo mycket förökat och efter hand beredes till omtryckiande."
+  },
+  {
+   "bbox": [
+    322,
+    750,
+    1513,
+    964
+   ],
+   "category": "List-item",
+   "text": "Tobias Westenhielm. Hafwer för Tijden under Händerne Konung Erikz den Fiortondes Historia att beskrifwa, hwar uti han med större Flijt, än för detta skedt är, anförer alt hwad af bemälte Konung lyckeligen eller olyckeligen In- och Uthrijkes förrättat är, hwar uthaf skal bewisas, att wij bemelte Konungz Åminnelse icke så ringa achta böre, som många för detta hafwa sig uthan all Grund inbillat."
+  },
+  {
+   "bbox": [
+    347,
+    970,
+    1513,
+    1432
+   ],
+   "category": "List-item",
+   "text": "Jonas Werwing. K. Sigismundi och K. Carl den Niondes Historier dem han för någon Tijd sedan har begynt sammanskrifwa, förmodar han sig innom tillstundande 1691. Åhrs Förlopp kunna fullborda, fördelandes Wärket uti fyra Böcker, således att den Första innehåller K. Carls Lefwerne och Bedrifter ifrån dess Födelse in till K. Johans dödelige Afgång. Den Andra författar, hwad som strax der efter emillan bägge desse närförwandte Potentater sig tilldrog in till K. Sigismundi Kröning. Den Tridie inbegriper deras actioner och Handlingar in till Åhr 1600., då samptlige Rijksens Ständer till ewerdelig Tijd afsade K. Sigismund sampt dess efterkommande Barn och Arfwingar ifrån Sweriges Crona, och i den Fierde beskrifwes Rijksens Styrelse och Regering under mehrhögstbemelte K. Carl in till des Lefwernes ändalycht och högstpriselig i Åminnelse sahl. K. Gustaf Adolphs Regementes begynnelse."
+  },
+  {
+   "bbox": [
+    328,
+    1438,
+    1513,
+    1586
+   ],
+   "category": "List-item",
+   "text": "Johan Pering. 1. Swea och Götha Rijkes Konungar och Drottningar beskrifne uthi någre Latinske Werser, jämte en Swensk Förklaring med trowärdige Bilder, tagne uthaf åthskillige Kongl. Afmålningar, Signeter och andra gambla Ritningar."
+  },
+  {
+   "bbox": [
+    328,
+    1586,
+    1513,
+    1732
+   ],
+   "category": "List-item",
+   "text": "Johan Pering. 2. Hans Kongl. Maytz wår allernådigste Konungs och den Durchleuchtigste Pfaltzgrefwe Slächtens Stamträ och Förplantning såsom och deras Mayesteters wære allernådigste Drottningars höga Kongl. Förfäder och Ahnherrar, uthi twenne stora Taflor sammansatte."
+  },
+  {
+   "bbox": [
+    328,
+    1734,
+    1513,
+    1777
+   ],
+   "category": "List-item",
+   "text": "Johan Pering. 3. Konglige Råds och förnäme Riddersmäns förwaltade Tiänster och"
+  },
+  {
+   "bbox": [
+    478,
+    1804,
+    528,
+    1850
+   ],
+   "category": "Page-footer",
+   "text": "38"
+  }
+ ]
+}

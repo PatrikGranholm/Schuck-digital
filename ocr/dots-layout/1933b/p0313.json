@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 313,
+ "seconds": 25.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [821, 240, 1241, 283], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [508, 311, 1556, 521], \"category\": \"Text\", \"text\": \"selbe nach einander folgen vorgenommen werden, derer Grentze vnt ander Steten zu beschreiben vndt aldrweill vnmuglich ist das solches alles auf einmahl verfertiget vndt ins licht gebracht werden kan, so habe ich Vpplandt vndt Sudermanlandt vors Erste zur handt genommen» (Koncept i K. B. sign. M 11, 2).\"}, {\"bbox\": [506, 519, 1556, 1640], \"category\": \"Text\", \"text\": \"Likheten mellan de här angivna uppgifterna och antikvitetskollegiets senare framgår ock av den fortsatta brevväxlingen mellan Dahlberg och Loccenius. Av denna finner man, att huvudvikten för Loccenius låg på insamlandet av det antikvariska materialet. Det, som stod att hämta ur tillgängliga litterära källor, behärskade han redan, och detta hade han förut begagnat för sin Historia och sina Antiquitates. Men däremot kände han icke de olika orternas forminnen och traditioner — desamma, som kollegiet sedermera genom rannsakningarna sökte insamla — och det var dessa, som Dahlberg nu borde införskaffa, ty själv var Loccenius stationär i Uppsala. Emellertid började han genast sitt arbete, och den 13 augusti 1661 skrev han till Dahlberg: »Wass meine arbeit anlanget, so habe ich so viel schon collegieret vnd extrahiret, alss man in den swedischen Scribenten vnd Zeilero hat vnd wass ich selbst habe observiren können. Aber weil mein hochgeehrter Herr durch die occasion, dass Er im lande herumb reiset vnd bey denen, welche einige wissenschaft dergleichen sachen haben, seiner gegebenen fullmacht nach, mit fleiss erforschet, kan Er mehr in particulari erfahren, welches wan Er mit mir communiciren wird, wil ich solches vnverseumlich auf Latein ubersetzen vnd mit dem, was ich haben kan, in gute Ordning auch nach anleitung meines hochgeehrten Herrns Tabellen und Delineation zusammen führen. Diese unsre Stadt Vpsal hat mein Schwiegerson Johannes Schefferus mit allen Jhren Antiquiteten und Monumenten wol beschrieben, den Abriss aber der Stadt hat ein Professor mit nahmen Olaus Rudbeckius delineiret(!), welches, wen meinem hochgeehrten Herrn einmahl geliebte anhero zu kommen zubesichtigen præsentiret werden soll» (K. B. sign. M 11, 1).\"}, {\"bbox\": [508, 1638, 1556, 1764], \"category\": \"Text\", \"text\": \"I december året därpå kunde han meddela Dahlberg, att han nu avslutat den inledande, allmänna delen: »In dehme ich biss dato wass nun vbergesandt ist vnd noch weiter kan observiret werden,\"}, {\"bbox\": [512, 1799, 585, 1840], \"category\": \"Page-footer\", \"text\": \"292\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    821,
+    240,
+    1241,
+    283
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    508,
+    311,
+    1556,
+    521
+   ],
+   "category": "Text",
+   "text": "selbe nach einander folgen vorgenommen werden, derer Grentze vnt ander Steten zu beschreiben vndt aldrweill vnmuglich ist das solches alles auf einmahl verfertiget vndt ins licht gebracht werden kan, so habe ich Vpplandt vndt Sudermanlandt vors Erste zur handt genommen» (Koncept i K. B. sign. M 11, 2)."
+  },
+  {
+   "bbox": [
+    506,
+    519,
+    1556,
+    1640
+   ],
+   "category": "Text",
+   "text": "Likheten mellan de här angivna uppgifterna och antikvitetskollegiets senare framgår ock av den fortsatta brevväxlingen mellan Dahlberg och Loccenius. Av denna finner man, att huvudvikten för Loccenius låg på insamlandet av det antikvariska materialet. Det, som stod att hämta ur tillgängliga litterära källor, behärskade han redan, och detta hade han förut begagnat för sin Historia och sina Antiquitates. Men däremot kände han icke de olika orternas forminnen och traditioner — desamma, som kollegiet sedermera genom rannsakningarna sökte insamla — och det var dessa, som Dahlberg nu borde införskaffa, ty själv var Loccenius stationär i Uppsala. Emellertid började han genast sitt arbete, och den 13 augusti 1661 skrev han till Dahlberg: »Wass meine arbeit anlanget, so habe ich so viel schon collegieret vnd extrahiret, alss man in den swedischen Scribenten vnd Zeilero hat vnd wass ich selbst habe observiren können. Aber weil mein hochgeehrter Herr durch die occasion, dass Er im lande herumb reiset vnd bey denen, welche einige wissenschaft dergleichen sachen haben, seiner gegebenen fullmacht nach, mit fleiss erforschet, kan Er mehr in particulari erfahren, welches wan Er mit mir communiciren wird, wil ich solches vnverseumlich auf Latein ubersetzen vnd mit dem, was ich haben kan, in gute Ordning auch nach anleitung meines hochgeehrten Herrns Tabellen und Delineation zusammen führen. Diese unsre Stadt Vpsal hat mein Schwiegerson Johannes Schefferus mit allen Jhren Antiquiteten und Monumenten wol beschrieben, den Abriss aber der Stadt hat ein Professor mit nahmen Olaus Rudbeckius delineiret(!), welches, wen meinem hochgeehrten Herrn einmahl geliebte anhero zu kommen zubesichtigen præsentiret werden soll» (K. B. sign. M 11, 1)."
+  },
+  {
+   "bbox": [
+    508,
+    1638,
+    1556,
+    1764
+   ],
+   "category": "Text",
+   "text": "I december året därpå kunde han meddela Dahlberg, att han nu avslutat den inledande, allmänna delen: »In dehme ich biss dato wass nun vbergesandt ist vnd noch weiter kan observiret werden,"
+  },
+  {
+   "bbox": [
+    512,
+    1799,
+    585,
+    1840
+   ],
+   "category": "Page-footer",
+   "text": "292"
+  }
+ ]
+}

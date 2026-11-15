@@ -1,0 +1,142 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 143,
+ "seconds": 21.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [383, 255, 672, 456], \"category\": \"Text\", \"text\": \"v. Salma. p. 403.\\nV. una Aduerſaria\\nPima. & Græcos\\nmulta re ſapientia\\n& lingua Barbaram\"}, {\"bbox\": [615, 251, 1552, 520], \"category\": \"List-item\", \"text\": \"8. Ex hiſce profectos primos Populos, primamq; Linguam Græciæ, quam aliàs dictam Barbaram cultu novo politam, minimè vero extirpatam, poſterioribus temporibus demùm Hellenicam, & Græcam nuncupaverunt.\"}, {\"bbox\": [383, 516, 615, 682], \"category\": \"Text\", \"text\": \"Salma. p. 400. &\\nVofs. Idol. l. 2.\\np. 623.\"}, {\"bbox\": [611, 514, 1550, 627], \"category\": \"List-item\", \"text\": \"9. Græcos cultum, elegantias, poëſin, Muſas, ſacra, Deoſque ex Thracia habuiſſe.\"}, {\"bbox\": [378, 674, 657, 989], \"category\": \"Text\", \"text\": \"Varnacum Diſſur\\nvīnus Plistor.\\nMars, Mercuris, &\\nquò ſo orientos p.\\ndicabat (hi Oden\\nnot) Bedris. Ex nſ\\nDra Magua, Rhe I.\"}, {\"bbox\": [615, 621, 1552, 890], \"category\": \"List-item\", \"text\": \"10. Scytharum præpaginem præterea eſſe Europæos; Germanos, Gallos, Iberos, Britannos, Aborigines, ſive Umbros, primos Italiæ Incolas. Hiſce omnibus unam Linguam fuiſſe Scythicam, in varias Dialectos poſt modum ſciſſam.\"}, {\"bbox\": [611, 884, 1552, 1205], \"category\": \"List-item\", \"text\": \"11. Germaniæ Caput & Principium, olim fuiſſe, Scythiam Europæam Minorem, Peninſulam nimirùm Scandiam; quam & Scanziam & Scandinaviam, antiquiſimi verò Scriptores Balthiam, Basiliam, Abalum, Bannomannam, &c. & Hyperboreorum Inſulam indigitarunt.\"}, {\"bbox\": [611, 1199, 1550, 1409], \"category\": \"List-item\", \"text\": \"12. Ex hac Inſula (reverà Peninſula) derivatos in Germaniam, & diverſas Orbis Terrarum Regiones, non ſolùm multos Populos; ſed etiam Sacra, Ritus, & Deos.\"}, {\"bbox\": [611, 1407, 1550, 1574], \"category\": \"List-item\", \"text\": \"13. Peninſulæ ejuſdem, & Hyperboreorum Gentem Principem fuiſſe Sueonas, ſive Suezios, quos hodie Suethos, Suecos, & Suedos vocitant.\"}, {\"bbox\": [607, 1563, 1550, 1842], \"category\": \"List-item\", \"text\": \"14. Græcis cum Hyperboreis ab antiquiſsimis uſque temporibus, communionem fuiſſe Sacrorum, Amicitiæ, & mutuæ Necessitudinis; & quod magis eſt, Græcos, Deos, coluiſſe inter Maximos, apud Hyperboreos natos.\"}, {\"bbox\": [395, 1603, 657, 1926], \"category\": \"Text\", \"text\": \"Probat re Dio,\\nDoro Fieule.\\nTo aliis ſt qvota\\neis popuitis\\nSunt quin re Hy,\\n& bursie Delos miſas ſcribunt.\"}, {\"bbox\": [657, 1829, 1550, 1926], \"category\": \"Text\", \"text\": \"• aſſcrivunt & Ego com.\\n15. Sue-\"}, {\"bbox\": [427, 1932, 1291, 2021], \"category\": \"Text\", \"text\": \"De Oden (Wodan) vider Cluv. Ant. Ger. p. 185.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    383,
+    255,
+    672,
+    456
+   ],
+   "category": "Text",
+   "text": "v. Salma. p. 403.\nV. una Aduerſaria\nPima. & Græcos\nmulta re ſapientia\n& lingua Barbaram"
+  },
+  {
+   "bbox": [
+    615,
+    251,
+    1552,
+    520
+   ],
+   "category": "List-item",
+   "text": "8. Ex hiſce profectos primos Populos, primamq; Linguam Græciæ, quam aliàs dictam Barbaram cultu novo politam, minimè vero extirpatam, poſterioribus temporibus demùm Hellenicam, & Græcam nuncupaverunt."
+  },
+  {
+   "bbox": [
+    383,
+    516,
+    615,
+    682
+   ],
+   "category": "Text",
+   "text": "Salma. p. 400. &\nVofs. Idol. l. 2.\np. 623."
+  },
+  {
+   "bbox": [
+    611,
+    514,
+    1550,
+    627
+   ],
+   "category": "List-item",
+   "text": "9. Græcos cultum, elegantias, poëſin, Muſas, ſacra, Deoſque ex Thracia habuiſſe."
+  },
+  {
+   "bbox": [
+    378,
+    674,
+    657,
+    989
+   ],
+   "category": "Text",
+   "text": "Varnacum Diſſur\nvīnus Plistor.\nMars, Mercuris, &\nquò ſo orientos p.\ndicabat (hi Oden\nnot) Bedris. Ex nſ\nDra Magua, Rhe I."
+  },
+  {
+   "bbox": [
+    615,
+    621,
+    1552,
+    890
+   ],
+   "category": "List-item",
+   "text": "10. Scytharum præpaginem præterea eſſe Europæos; Germanos, Gallos, Iberos, Britannos, Aborigines, ſive Umbros, primos Italiæ Incolas. Hiſce omnibus unam Linguam fuiſſe Scythicam, in varias Dialectos poſt modum ſciſſam."
+  },
+  {
+   "bbox": [
+    611,
+    884,
+    1552,
+    1205
+   ],
+   "category": "List-item",
+   "text": "11. Germaniæ Caput & Principium, olim fuiſſe, Scythiam Europæam Minorem, Peninſulam nimirùm Scandiam; quam & Scanziam & Scandinaviam, antiquiſimi verò Scriptores Balthiam, Basiliam, Abalum, Bannomannam, &c. & Hyperboreorum Inſulam indigitarunt."
+  },
+  {
+   "bbox": [
+    611,
+    1199,
+    1550,
+    1409
+   ],
+   "category": "List-item",
+   "text": "12. Ex hac Inſula (reverà Peninſula) derivatos in Germaniam, & diverſas Orbis Terrarum Regiones, non ſolùm multos Populos; ſed etiam Sacra, Ritus, & Deos."
+  },
+  {
+   "bbox": [
+    611,
+    1407,
+    1550,
+    1574
+   ],
+   "category": "List-item",
+   "text": "13. Peninſulæ ejuſdem, & Hyperboreorum Gentem Principem fuiſſe Sueonas, ſive Suezios, quos hodie Suethos, Suecos, & Suedos vocitant."
+  },
+  {
+   "bbox": [
+    607,
+    1563,
+    1550,
+    1842
+   ],
+   "category": "List-item",
+   "text": "14. Græcis cum Hyperboreis ab antiquiſsimis uſque temporibus, communionem fuiſſe Sacrorum, Amicitiæ, & mutuæ Necessitudinis; & quod magis eſt, Græcos, Deos, coluiſſe inter Maximos, apud Hyperboreos natos."
+  },
+  {
+   "bbox": [
+    395,
+    1603,
+    657,
+    1926
+   ],
+   "category": "Text",
+   "text": "Probat re Dio,\nDoro Fieule.\nTo aliis ſt qvota\neis popuitis\nSunt quin re Hy,\n& bursie Delos miſas ſcribunt."
+  },
+  {
+   "bbox": [
+    657,
+    1829,
+    1550,
+    1926
+   ],
+   "category": "Text",
+   "text": "• aſſcrivunt & Ego com.\n15. Sue-"
+  },
+  {
+   "bbox": [
+    427,
+    1932,
+    1291,
+    2021
+   ],
+   "category": "Text",
+   "text": "De Oden (Wodan) vider Cluv. Ant. Ger. p. 185."
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 54,
+ "seconds": 30.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [384, 250, 912, 293], \"category\": \"Section-header\", \"text\": \"## Consignationer och kataloger\"}, {\"bbox\": [124, 319, 1167, 538], \"category\": \"Text\", \"text\": \"pel af Sueo-Gothiske och Isländske Skrifter och Historier, dess bemärkelse förklarat och stadfäst, hwar uthinnan och uppå sine rum införde blifwa dhe Orde former, Taal, Ord och Skalde-sätt, som antingen i Heims-Kringlu, det är Sturläsonii Crönika, eller i andra Nordiske Historier finnas, och det med utförlig Uthtydelse. Ett Wärk, som fullkomligare blifwer än alla andra i det Scandiske Språket, om det någon Tijd till ände bringas kan.\"}, {\"bbox\": [124, 546, 1292, 867], \"category\": \"Text\", \"text\": \"2. Snorre Sturlessons Nordlänske Historier har han begynt att uthtolka af det gambla Språket in på nu brukelige Swenskan, tilläggiandes och en Uthtydning, så att han med dhe gamble Poëtiske Wisor, som uthi samma Book finnas och af den Danske Uthtolkaren för dess Mörkheet skull uthlåtne äro, har och nu så wida kommit, at åthskillige Swenske Konungars och fem Norskes, nembl. Halfdan Swartes, Harald Hårfagers, Erik Blodöxes, Håken Adalstens Fostras, Harald Gråfeldz, och en Dehl af Olof Trygwassons Historier fullbordade äre, ärnandes hwad återstår utharbeta efter handen, så wida Krafterna tillåta. Sammaledes\"}, {\"bbox\": [124, 878, 1260, 1061], \"category\": \"Text\", \"text\": \"3. Sämunders hin Wises Edda angående dhe förnämste och äldste Norländske Antiquiteter så i Språket som Religionen, tillika med Odens och Thores och desz Föllieslagares såsom Sigurd Ormdråpares, Brynhilds, Giuckungars och andra uthlänska Göthers Bedrifter, har han uthi Latin öfwersatt, som ingen tillförenne wågat har. Sammal:\"}, {\"bbox\": [124, 1068, 1258, 1215], \"category\": \"Text\", \"text\": \"4. Sturlessons Edda, som Resenius i Kiöpenhampn låtit uthgå, har han med en uhrgammal skrifwen Pergamentsbook, som hörer Academien i Upsala till, jämförd, förökat och i bättre skick satt efter sielfwa Uphofsmansens Förordning uthi Begynnelsen af bemälte Book. Sammal:\"}, {\"bbox\": [124, 1217, 1259, 1363], \"category\": \"Text\", \"text\": \"5. Dictionarium eller Orda Lista öfwer alla dhe Poëtiske Ordelag, som i Sturlesson och andra gambla Nordiske och Giöthiske Historier finnas, är allareda förfärdigat till en Deel, hwar uthur man Wijsornas Art och Uthtydning see kan. Sammal:\"}, {\"bbox\": [124, 1366, 1257, 1477], \"category\": \"Text\", \"text\": \"6. Lista på dhe Ordspråk, som i Nordiske Historierne och i gambla Språket finnas, som antingen ännu brukas eller tillförenne öflige warit, är och mäste parten färdig. Sammal:\"}, {\"bbox\": [124, 1479, 1257, 1546], \"category\": \"Text\", \"text\": \"7. Sturlögers then arbetsammes, Swenske Kiämpens, Historia på Swenska öfwersatt. Sammal:\"}, {\"bbox\": [124, 1555, 1312, 1665], \"category\": \"Text\", \"text\": \"En kort Tractat om Cancelliens och Cantzeleres äldsta Ursprung, Bruk och Nödigheet sammanfattat af åthskillige Uth- och Inländske Scribenter, hwilken i tillkommande Åhr ärnas till trycket. Daniel J. Hadorph.\"}, {\"bbox\": [124, 1664, 1320, 1775], \"category\": \"Text\", \"text\": \"Har under sina Händer att widare sammanhämta alla dhe Mål och Ord, som höra til den Ordaboks fullbordan, hwilken Secreteraren Johan Hadorphius hafwer förr begynt af Sweriges Lagar, Stadgar och Recesser att Elias O. Salin.\"}, {\"bbox\": [1110, 1811, 1158, 1847], \"category\": \"Page-footer\", \"text\": \"41\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    384,
+    250,
+    912,
+    293
+   ],
+   "category": "Section-header",
+   "text": "## Consignationer och kataloger"
+  },
+  {
+   "bbox": [
+    124,
+    319,
+    1167,
+    538
+   ],
+   "category": "Text",
+   "text": "pel af Sueo-Gothiske och Isländske Skrifter och Historier, dess bemärkelse förklarat och stadfäst, hwar uthinnan och uppå sine rum införde blifwa dhe Orde former, Taal, Ord och Skalde-sätt, som antingen i Heims-Kringlu, det är Sturläsonii Crönika, eller i andra Nordiske Historier finnas, och det med utförlig Uthtydelse. Ett Wärk, som fullkomligare blifwer än alla andra i det Scandiske Språket, om det någon Tijd till ände bringas kan."
+  },
+  {
+   "bbox": [
+    124,
+    546,
+    1292,
+    867
+   ],
+   "category": "Text",
+   "text": "2. Snorre Sturlessons Nordlänske Historier har han begynt att uthtolka af det gambla Språket in på nu brukelige Swenskan, tilläggiandes och en Uthtydning, så att han med dhe gamble Poëtiske Wisor, som uthi samma Book finnas och af den Danske Uthtolkaren för dess Mörkheet skull uthlåtne äro, har och nu så wida kommit, at åthskillige Swenske Konungars och fem Norskes, nembl. Halfdan Swartes, Harald Hårfagers, Erik Blodöxes, Håken Adalstens Fostras, Harald Gråfeldz, och en Dehl af Olof Trygwassons Historier fullbordade äre, ärnandes hwad återstår utharbeta efter handen, så wida Krafterna tillåta. Sammaledes"
+  },
+  {
+   "bbox": [
+    124,
+    878,
+    1260,
+    1061
+   ],
+   "category": "Text",
+   "text": "3. Sämunders hin Wises Edda angående dhe förnämste och äldste Norländske Antiquiteter så i Språket som Religionen, tillika med Odens och Thores och desz Föllieslagares såsom Sigurd Ormdråpares, Brynhilds, Giuckungars och andra uthlänska Göthers Bedrifter, har han uthi Latin öfwersatt, som ingen tillförenne wågat har. Sammal:"
+  },
+  {
+   "bbox": [
+    124,
+    1068,
+    1258,
+    1215
+   ],
+   "category": "Text",
+   "text": "4. Sturlessons Edda, som Resenius i Kiöpenhampn låtit uthgå, har han med en uhrgammal skrifwen Pergamentsbook, som hörer Academien i Upsala till, jämförd, förökat och i bättre skick satt efter sielfwa Uphofsmansens Förordning uthi Begynnelsen af bemälte Book. Sammal:"
+  },
+  {
+   "bbox": [
+    124,
+    1217,
+    1259,
+    1363
+   ],
+   "category": "Text",
+   "text": "5. Dictionarium eller Orda Lista öfwer alla dhe Poëtiske Ordelag, som i Sturlesson och andra gambla Nordiske och Giöthiske Historier finnas, är allareda förfärdigat till en Deel, hwar uthur man Wijsornas Art och Uthtydning see kan. Sammal:"
+  },
+  {
+   "bbox": [
+    124,
+    1366,
+    1257,
+    1477
+   ],
+   "category": "Text",
+   "text": "6. Lista på dhe Ordspråk, som i Nordiske Historierne och i gambla Språket finnas, som antingen ännu brukas eller tillförenne öflige warit, är och mäste parten färdig. Sammal:"
+  },
+  {
+   "bbox": [
+    124,
+    1479,
+    1257,
+    1546
+   ],
+   "category": "Text",
+   "text": "7. Sturlögers then arbetsammes, Swenske Kiämpens, Historia på Swenska öfwersatt. Sammal:"
+  },
+  {
+   "bbox": [
+    124,
+    1555,
+    1312,
+    1665
+   ],
+   "category": "Text",
+   "text": "En kort Tractat om Cancelliens och Cantzeleres äldsta Ursprung, Bruk och Nödigheet sammanfattat af åthskillige Uth- och Inländske Scribenter, hwilken i tillkommande Åhr ärnas till trycket. Daniel J. Hadorph."
+  },
+  {
+   "bbox": [
+    124,
+    1664,
+    1320,
+    1775
+   ],
+   "category": "Text",
+   "text": "Har under sina Händer att widare sammanhämta alla dhe Mål och Ord, som höra til den Ordaboks fullbordan, hwilken Secreteraren Johan Hadorphius hafwer förr begynt af Sweriges Lagar, Stadgar och Recesser att Elias O. Salin."
+  },
+  {
+   "bbox": [
+    1110,
+    1811,
+    1158,
+    1847
+   ],
+   "category": "Page-footer",
+   "text": "41"
+  }
+ ]
+}

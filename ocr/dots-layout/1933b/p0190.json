@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 190,
+ "seconds": 25.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [554, 256, 766, 291], \"category\": \"Section-header\", \"text\": \"Runarbeten\"}, {\"bbox\": [137, 326, 1191, 1243], \"category\": \"Text\", \"text\": \"frihet från fantasteri. Det första kapitlet har överskriften De Antiquitate Linguæ et Literarum Gothicarum. Här ställer sig Hadorph på den gamla bibliska ståndpunkten: att mänskligheten äldst haft ett enda språk, hebreiskan, och att flera tungomål uppstått först vid den babyloniska förbstringen. Hans patriotism kommer blott så till vida fram, att han är böjd att betrakta gotiskan som det äldsta av dessa nya språk och goternas skrivtecken, runorna, som de äldsta näst de hebreiska samt ingalunda uppfunna först av Ulfilas. Det andra kapitlet — Runicas Literas proprie Gothicas appellari, varijs testimoniis probatur — avser blott att, mot Wormius, hävda, att runorna med rätta böra kallas gotiska och ej danska. I det tredje kapitlet sysselsätter han sig med de i Eddan omtalade magiska tecknen, segerrunor, ölrunor etc., vilka enligt hans mening ej voro verkliga runor. I det fjärde kapitlet — Literarum Runicarum diversitas — sysselsätter han sig med den olika form, som runtecknen hade i olika landskap och på olika stenar. Det femte kapitlet handlar om runor på rimstavar, trä- och vaxtavlor samt pergament. Sedan han här talat om rimstavarna, kommer han med en notis, som onekligen är högst överraskande och som egendomligt nog ej observerats, nämligen om en runbok. Ehuru han i fortsättningen även nämner Huppaps falsarium, synes den här omtalade runboken verkligen hava varit äkta, och jag anför därför notisen med hans egna ord:\"}, {\"bbox\": [140, 1252, 1192, 1629], \"category\": \"Text\", \"text\": \"»Antiquissimis temporibus, cum adhuc res gestæ maiorum in cera scriberentur, apud nos idem mos inprimis observatus est, ex quibus ligneum adhuc servatum habemus librum quinque folijs constantem in templo Söderby OstroGothico, cuius folia cera viridi erant obducta, eique res nonnullæ inscriptæ, sed cera ipsa maxima parte iniquis manibus destructa, ut præter septem literas residuas videre non licuerit, nempe ṪDTh₁ ṬH, adeo iniqua erat posteritas in deruendis istis literis, ut nisi hunc unum libellum haberemus residuum, nil de eiusmodi libris loqui potuissemus.»\"}, {\"bbox\": [140, 1655, 1192, 1783], \"category\": \"Text\", \"text\": \"I det sjätte kapitlet — Quid potissimum contineat Runica nostra scriptura in Rupibus et lapidibus incisa — behandlar han innehållet i runinskriptionerna. De flesta meddela blott, att de av en far, en\"}, {\"bbox\": [1118, 1808, 1191, 1857], \"category\": \"Page-footer\", \"text\": \"169\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    554,
+    256,
+    766,
+    291
+   ],
+   "category": "Section-header",
+   "text": "Runarbeten"
+  },
+  {
+   "bbox": [
+    137,
+    326,
+    1191,
+    1243
+   ],
+   "category": "Text",
+   "text": "frihet från fantasteri. Det första kapitlet har överskriften De Antiquitate Linguæ et Literarum Gothicarum. Här ställer sig Hadorph på den gamla bibliska ståndpunkten: att mänskligheten äldst haft ett enda språk, hebreiskan, och att flera tungomål uppstått först vid den babyloniska förbstringen. Hans patriotism kommer blott så till vida fram, att han är böjd att betrakta gotiskan som det äldsta av dessa nya språk och goternas skrivtecken, runorna, som de äldsta näst de hebreiska samt ingalunda uppfunna först av Ulfilas. Det andra kapitlet — Runicas Literas proprie Gothicas appellari, varijs testimoniis probatur — avser blott att, mot Wormius, hävda, att runorna med rätta böra kallas gotiska och ej danska. I det tredje kapitlet sysselsätter han sig med de i Eddan omtalade magiska tecknen, segerrunor, ölrunor etc., vilka enligt hans mening ej voro verkliga runor. I det fjärde kapitlet — Literarum Runicarum diversitas — sysselsätter han sig med den olika form, som runtecknen hade i olika landskap och på olika stenar. Det femte kapitlet handlar om runor på rimstavar, trä- och vaxtavlor samt pergament. Sedan han här talat om rimstavarna, kommer han med en notis, som onekligen är högst överraskande och som egendomligt nog ej observerats, nämligen om en runbok. Ehuru han i fortsättningen även nämner Huppaps falsarium, synes den här omtalade runboken verkligen hava varit äkta, och jag anför därför notisen med hans egna ord:"
+  },
+  {
+   "bbox": [
+    140,
+    1252,
+    1192,
+    1629
+   ],
+   "category": "Text",
+   "text": "»Antiquissimis temporibus, cum adhuc res gestæ maiorum in cera scriberentur, apud nos idem mos inprimis observatus est, ex quibus ligneum adhuc servatum habemus librum quinque folijs constantem in templo Söderby OstroGothico, cuius folia cera viridi erant obducta, eique res nonnullæ inscriptæ, sed cera ipsa maxima parte iniquis manibus destructa, ut præter septem literas residuas videre non licuerit, nempe ṪDTh₁ ṬH, adeo iniqua erat posteritas in deruendis istis literis, ut nisi hunc unum libellum haberemus residuum, nil de eiusmodi libris loqui potuissemus.»"
+  },
+  {
+   "bbox": [
+    140,
+    1655,
+    1192,
+    1783
+   ],
+   "category": "Text",
+   "text": "I det sjätte kapitlet — Quid potissimum contineat Runica nostra scriptura in Rupibus et lapidibus incisa — behandlar han innehållet i runinskriptionerna. De flesta meddela blott, att de av en far, en"
+  },
+  {
+   "bbox": [
+    1118,
+    1808,
+    1191,
+    1857
+   ],
+   "category": "Page-footer",
+   "text": "169"
+  }
+ ]
+}

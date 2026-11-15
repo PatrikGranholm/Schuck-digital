@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 18,
+ "seconds": 26.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [400, 247, 930, 294], \"category\": \"Section-header\", \"text\": \"Consignationer och kataloger\"}, {\"bbox\": [139, 317, 1187, 402], \"category\": \"Text\", \"text\": \"lingua in hodie usitatam (Deo volente) transferre sub manibus habet, dimidia parte absoluta.\"}, {\"bbox\": [139, 402, 1187, 1025], \"category\": \"Text\", \"text\": \"Joh. Loccenius Historiam Suecicam multo auctiorem dabit et emendatiorem, addito Indice. Eiusdem Antiquitatum Sueo-Gothicarum Libri III auctiores cum Historia Suecica conjunctim edendi, Topographia Regni Sueciæ et ei subiectarum Provinciarum, Urbium et Palatiorum, nunc in antecessum Uplandiæ et Sudermanniæ etc. ab Erico Dahlberg delineata a I. Loccenio latine expressa. Joh. Loccenij Synopsis Iuris ad Leges Suethicas accommodata cum subjectis Quæstionibus Practicis. Eiusdem Exercitationes Iuris cum Legibus Suethicis collatæ. Eiusdem de Iure Maritimo Libri III cum Legibus Maritimis Regni Sueciæ collati. Eiusdem Lexicon Iuris Sueo-Gothici seu de verborum Significatione. Omnia locupletiora et editioni parata. Hæc, si Deus vitam et vires dederit, suo tempore subsequentur. Glossarium vel Index Rerum universi Iuris Sueo-Gothici tam veteris quam hodie usitati. Item Legum Sueo-Gothicarum usu receptarum Latina versio.\"}, {\"bbox\": [135, 1025, 1183, 1442], \"category\": \"Text\", \"text\": \"I. Schefferus præter ea, quorum catalogum ante aliquot hebdomadas submisse exhibuit Illustrissimo Domino Cancellario, eiusdem Illustrissimi Cancellarij mandato habet nunc sub manibus brevique absolvet chronicon Episcoporum, Archiepiscoporum, Præpositorum, Decanorum, canonicorum et Vicariorum Ecclesiæ Upsalensis, conscriptum ab anonymo ante annos 344 cum necessarijs annotationibus ex Archivo Regis. Eidem Chronico addet Chronicon breve Archiepiscoporum Lundensium ante annos 281 conscriptum a Domino Nicolao Johannis Archiepiscopo Lundensi ex Bibliotheca Illustrissimi Cancellarij.\"}, {\"bbox\": [135, 1442, 1174, 1517], \"category\": \"Text\", \"text\": \"Olaus Verelius Hervarar Saga cum Versione et Notis propediem absolutam edere constituit.\"}, {\"bbox\": [135, 1523, 1174, 1608], \"category\": \"Text\", \"text\": \"Magnus Celsius editioni parat tractatum de Fastis Sueo-Gothicis, cui subjunget, juvante Deo, alium de Geodæsia veterum Suecorum.\"}, {\"bbox\": [135, 1608, 1174, 1779], \"category\": \"Text\", \"text\": \"Joh. Hadorphius Chronicon vetus Regum Sueciæ, quod a Joh. Messenio Anno 1615 cum Chronico Rhytmico breviori editum de novo ex varijs codicibus recensuit, additis varijs lectionibus et Indice. 2:0 Chronicon deinde Rhythmicum maius (cuius partem primam Mes-\"}, {\"bbox\": [1151, 1818, 1170, 1855], \"category\": \"Page-footer\", \"text\": \"5\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    400,
+    247,
+    930,
+    294
+   ],
+   "category": "Section-header",
+   "text": "Consignationer och kataloger"
+  },
+  {
+   "bbox": [
+    139,
+    317,
+    1187,
+    402
+   ],
+   "category": "Text",
+   "text": "lingua in hodie usitatam (Deo volente) transferre sub manibus habet, dimidia parte absoluta."
+  },
+  {
+   "bbox": [
+    139,
+    402,
+    1187,
+    1025
+   ],
+   "category": "Text",
+   "text": "Joh. Loccenius Historiam Suecicam multo auctiorem dabit et emendatiorem, addito Indice. Eiusdem Antiquitatum Sueo-Gothicarum Libri III auctiores cum Historia Suecica conjunctim edendi, Topographia Regni Sueciæ et ei subiectarum Provinciarum, Urbium et Palatiorum, nunc in antecessum Uplandiæ et Sudermanniæ etc. ab Erico Dahlberg delineata a I. Loccenio latine expressa. Joh. Loccenij Synopsis Iuris ad Leges Suethicas accommodata cum subjectis Quæstionibus Practicis. Eiusdem Exercitationes Iuris cum Legibus Suethicis collatæ. Eiusdem de Iure Maritimo Libri III cum Legibus Maritimis Regni Sueciæ collati. Eiusdem Lexicon Iuris Sueo-Gothici seu de verborum Significatione. Omnia locupletiora et editioni parata. Hæc, si Deus vitam et vires dederit, suo tempore subsequentur. Glossarium vel Index Rerum universi Iuris Sueo-Gothici tam veteris quam hodie usitati. Item Legum Sueo-Gothicarum usu receptarum Latina versio."
+  },
+  {
+   "bbox": [
+    135,
+    1025,
+    1183,
+    1442
+   ],
+   "category": "Text",
+   "text": "I. Schefferus præter ea, quorum catalogum ante aliquot hebdomadas submisse exhibuit Illustrissimo Domino Cancellario, eiusdem Illustrissimi Cancellarij mandato habet nunc sub manibus brevique absolvet chronicon Episcoporum, Archiepiscoporum, Præpositorum, Decanorum, canonicorum et Vicariorum Ecclesiæ Upsalensis, conscriptum ab anonymo ante annos 344 cum necessarijs annotationibus ex Archivo Regis. Eidem Chronico addet Chronicon breve Archiepiscoporum Lundensium ante annos 281 conscriptum a Domino Nicolao Johannis Archiepiscopo Lundensi ex Bibliotheca Illustrissimi Cancellarij."
+  },
+  {
+   "bbox": [
+    135,
+    1442,
+    1174,
+    1517
+   ],
+   "category": "Text",
+   "text": "Olaus Verelius Hervarar Saga cum Versione et Notis propediem absolutam edere constituit."
+  },
+  {
+   "bbox": [
+    135,
+    1523,
+    1174,
+    1608
+   ],
+   "category": "Text",
+   "text": "Magnus Celsius editioni parat tractatum de Fastis Sueo-Gothicis, cui subjunget, juvante Deo, alium de Geodæsia veterum Suecorum."
+  },
+  {
+   "bbox": [
+    135,
+    1608,
+    1174,
+    1779
+   ],
+   "category": "Text",
+   "text": "Joh. Hadorphius Chronicon vetus Regum Sueciæ, quod a Joh. Messenio Anno 1615 cum Chronico Rhytmico breviori editum de novo ex varijs codicibus recensuit, additis varijs lectionibus et Indice. 2:0 Chronicon deinde Rhythmicum maius (cuius partem primam Mes-"
+  },
+  {
+   "bbox": [
+    1151,
+    1818,
+    1170,
+    1855
+   ],
+   "category": "Page-footer",
+   "text": "5"
+  }
+ ]
+}

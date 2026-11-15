@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 348,
+ "seconds": 26.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [455, 238, 771, 273], \"category\": \"Section-header\", \"text\": \"Litterära strider\"}, {\"bbox\": [88, 306, 1138, 932], \"category\": \"Text\", \"text\": \"till kollegiets disposition, och det är ej uteslutet, att Hadorph riktat Verelius' uppmärksamhet på detta viktiga dokument. Påven säger sig här av ärkebiskopen och kapitlet i Uppsala hava förnummit, »quod eorum ecclesia est in vili et despecto loco posita, ita quod propter quamplurimas incommoditates et in præcipuis festivitatibus Upsalensis Ecclesiæ vix inveniuntur aliqui, quibus Archiepiscopus prædicet verbum Dei. Quare fuit nobis ex parte ipsorum humiliter supplicatum, ut quod dictam Ecclesiam, *retento sibi suo antiquo nomine*, transferre ad alium locum eis magis idoneum possint, ipsis concedere de benignitate sedis Apostolicæ curaremus». Därefter fortsatte Västeråsbiskopen: »Nos vero mandatum Apostolicum omni devotione adimplentes dictis, Capitulo Upsalensi, eorundem Ecclesiam tranferendi *Ostraarus* concedimus auctoritate Apostolica liberam facultatem». H., episcopus Lincopensis, och F., episcopus Strengnensis, vidimera brevet.\"}, {\"bbox\": [92, 935, 1138, 1270], \"category\": \"Text\", \"text\": \"Sedan Verelius anfört detta bevis, fortsätter han: »Nomen Arosiensis Episcopi ex diplomatis initiali litera, monachali ruditate exarata, colligere non potui. Episcopatum tamen tunc tenuit Israel». Såsom källa härför citerar han Messenius' Chronicon episcoporum — som vi strax skola se en mycket farlig auktoritet att åberopa. Men han anser, med rätta, brevet vara avgörande för stridsfrågan: namnet Uppsala tillkom Gamla Uppsala, staden hette då Östraros och fick först efter domkyrkans flyttning namnet Uppsala.\"}, {\"bbox\": [92, 1268, 1141, 1646], \"category\": \"Text\", \"text\": \"Men Schefferus ville ej giva med sig. Redan i consignationen 1668 hade han uppgivit sig vara sysselsatt med utgivandet av den i Registrum Upsaliense intagna biskopslängden: Incerti Scriptoris — — chronicon de archiepiscopis, som 1673 kom ut av trycket. I noterna till detta arbete (sid. 24 ff.) har han upptagit diskussionen om Uppsalas namn och läge — fortfarande utan att nämna Verelius' namn eller hans inlägg i frågan.¹ Till synes diskuterar han blott innebörden av Västeråsbiskopens brev. Om dess äkthet kan han ej undertrycka vissa tvivelsmål. Den initial, som Verelius ej kunnat\"}, {\"bbox\": [1146, 1271, 1295, 1358], \"category\": \"Text\", \"text\": \"Incerti Scriptoris Chronicon\"}, {\"bbox\": [96, 1668, 1142, 1765], \"category\": \"Footnote\", \"text\": \"¹ Det ark i början av Chronicon, där detta stod, hade tryckts redan på sommaren 1671 (se förut II sid. 47), innan ännu Hervararsagan kommit ut. Men muntligen hade han nog i kollegiet diskuterat frågan med Verelius.\"}, {\"bbox\": [1068, 1794, 1139, 1833], \"category\": \"Page-footer\", \"text\": \"327\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    455,
+    238,
+    771,
+    273
+   ],
+   "category": "Section-header",
+   "text": "Litterära strider"
+  },
+  {
+   "bbox": [
+    88,
+    306,
+    1138,
+    932
+   ],
+   "category": "Text",
+   "text": "till kollegiets disposition, och det är ej uteslutet, att Hadorph riktat Verelius' uppmärksamhet på detta viktiga dokument. Påven säger sig här av ärkebiskopen och kapitlet i Uppsala hava förnummit, »quod eorum ecclesia est in vili et despecto loco posita, ita quod propter quamplurimas incommoditates et in præcipuis festivitatibus Upsalensis Ecclesiæ vix inveniuntur aliqui, quibus Archiepiscopus prædicet verbum Dei. Quare fuit nobis ex parte ipsorum humiliter supplicatum, ut quod dictam Ecclesiam, *retento sibi suo antiquo nomine*, transferre ad alium locum eis magis idoneum possint, ipsis concedere de benignitate sedis Apostolicæ curaremus». Därefter fortsatte Västeråsbiskopen: »Nos vero mandatum Apostolicum omni devotione adimplentes dictis, Capitulo Upsalensi, eorundem Ecclesiam tranferendi *Ostraarus* concedimus auctoritate Apostolica liberam facultatem». H., episcopus Lincopensis, och F., episcopus Strengnensis, vidimera brevet."
+  },
+  {
+   "bbox": [
+    92,
+    935,
+    1138,
+    1270
+   ],
+   "category": "Text",
+   "text": "Sedan Verelius anfört detta bevis, fortsätter han: »Nomen Arosiensis Episcopi ex diplomatis initiali litera, monachali ruditate exarata, colligere non potui. Episcopatum tamen tunc tenuit Israel». Såsom källa härför citerar han Messenius' Chronicon episcoporum — som vi strax skola se en mycket farlig auktoritet att åberopa. Men han anser, med rätta, brevet vara avgörande för stridsfrågan: namnet Uppsala tillkom Gamla Uppsala, staden hette då Östraros och fick först efter domkyrkans flyttning namnet Uppsala."
+  },
+  {
+   "bbox": [
+    92,
+    1268,
+    1141,
+    1646
+   ],
+   "category": "Text",
+   "text": "Men Schefferus ville ej giva med sig. Redan i consignationen 1668 hade han uppgivit sig vara sysselsatt med utgivandet av den i Registrum Upsaliense intagna biskopslängden: Incerti Scriptoris — — chronicon de archiepiscopis, som 1673 kom ut av trycket. I noterna till detta arbete (sid. 24 ff.) har han upptagit diskussionen om Uppsalas namn och läge — fortfarande utan att nämna Verelius' namn eller hans inlägg i frågan.¹ Till synes diskuterar han blott innebörden av Västeråsbiskopens brev. Om dess äkthet kan han ej undertrycka vissa tvivelsmål. Den initial, som Verelius ej kunnat"
+  },
+  {
+   "bbox": [
+    1146,
+    1271,
+    1295,
+    1358
+   ],
+   "category": "Text",
+   "text": "Incerti Scriptoris Chronicon"
+  },
+  {
+   "bbox": [
+    96,
+    1668,
+    1142,
+    1765
+   ],
+   "category": "Footnote",
+   "text": "¹ Det ark i början av Chronicon, där detta stod, hade tryckts redan på sommaren 1671 (se förut II sid. 47), innan ännu Hervararsagan kommit ut. Men muntligen hade han nog i kollegiet diskuterat frågan med Verelius."
+  },
+  {
+   "bbox": [
+    1068,
+    1794,
+    1139,
+    1833
+   ],
+   "category": "Page-footer",
+   "text": "327"
+  }
+ ]
+}

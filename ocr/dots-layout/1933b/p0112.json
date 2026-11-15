@@ -1,0 +1,142 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 112,
+ "seconds": 36.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [404, 244, 804, 288], \"category\": \"Section-header\", \"text\": \"De götiska skrifterna\"}, {\"bbox\": [75, 314, 1126, 856], \"category\": \"Text\", \"text\": \"hade Verelius' styvson Reenhielm helt naturligt slutit sig, vidare Rudbecks frände Petrus Salan, som var dotterson till Rudbecks syster, och övriga mindre bemärkta rudbeckianer, Lundius, Goeding m. fl. Och sedan 1685 hade Rudbeck i Uppsala ett eget antikvitetstryckeri, som förestods av den såsom akademiboktryckare avsatte Curio. Guðmundur Ólafsson, som icke var vidare belåten med Hadorphs stränga regemente, tyckes hava slutit sig till dem, och i varje fall sålde han särskilt till Reenhielm åtskilliga avskrifter av isländska sagor. Reenhielms samling, som förut blott bestod av de Rugmanska manuskripten, blev därigenom åtskilligt rikare, och det vänskapliga förhållandet dem emellan antydes därav, att Guðmundur skrev en isländsk hyllningsdikt i Reenhielms edition av Olofssagan.\"}, {\"bbox\": [75, 855, 1124, 1107], \"category\": \"Text\", \"text\": \"Kort förut, 1687, hade Reenhielm och Hadorph haft en häftig sammanstötning, som till en del berörde Guðmundur Ólafssons ställning till bägge. Reenhielm hade sökt att få tillträde till antikvitetskollegiets samlingar, och detta hade av Hadorph förvägrats honom. Till kanslipresidenten Oxenstierna ingav Reenhielm då en klagoskrift, till vilken han som bilaga fogade en lista på sina arbeten:\"}, {\"bbox\": [112, 1115, 541, 1159], \"category\": \"Text\", \"text\": \"»Ifrån A:o 1675 hafver jag\"}, {\"bbox\": [80, 1162, 1123, 1308], \"category\": \"List-item\", \"text\": \"1) Verterat och skrifvit Notas öfver Thorsteens Saga, och ehuruväl hans högGrefl. Excellentie sahl. drotzen sig tillböd att villia låtha tryckia hänne, kom dock inthet dhärtill, uthan moste jag låtha Hr. Rudbeckius få arbetet, huar mädh min möda var för mig fruchtlööst borta.\"}, {\"bbox\": [78, 1305, 1123, 1373], \"category\": \"List-item\", \"text\": \"2) Verterat Olof Tryggvasons saga och skrijfvit Notas öfver, som nu i ödmiukheet framtees.\"}, {\"bbox\": [78, 1375, 1123, 1451], \"category\": \"List-item\", \"text\": \"3) Verterat Fridþiofs saga och skrijfvit Notas öfver, till huilkas reentskrifvande papperet felar.\"}, {\"bbox\": [78, 1448, 1121, 1522], \"category\": \"List-item\", \"text\": \"4) Verterat Sturlaug Starfvesammas saga, huartill och skola komma Notæ, då jag får papper att arbeta på.\"}, {\"bbox\": [78, 1519, 1123, 1592], \"category\": \"List-item\", \"text\": \"5) afskrifvit Grettlan af gambla Manuscripto, giordt dher öfver ett glossarium och verterat 44 capitel.\"}, {\"bbox\": [78, 1589, 1121, 1664], \"category\": \"List-item\", \"text\": \"6) hafver under händerna en Tractat de Cruce lapidibus Runicis insculpta, huaruthi de Religione veterum septentrionalium.\"}, {\"bbox\": [78, 1661, 1123, 1735], \"category\": \"List-item\", \"text\": \"7) Collationerat mädh sahl. Rugmann, förra Islendaren, Eddan och afskrijfvit sampt begynt vertera.\"}, {\"bbox\": [78, 1732, 1121, 1771], \"category\": \"List-item\", \"text\": \"8) Reviderat till en deel sahl. Verelij Historiam Patriæ, efter som hann\"}, {\"bbox\": [1068, 1807, 1119, 1846], \"category\": \"Page-footer\", \"text\": \"99\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    404,
+    244,
+    804,
+    288
+   ],
+   "category": "Section-header",
+   "text": "De götiska skrifterna"
+  },
+  {
+   "bbox": [
+    75,
+    314,
+    1126,
+    856
+   ],
+   "category": "Text",
+   "text": "hade Verelius' styvson Reenhielm helt naturligt slutit sig, vidare Rudbecks frände Petrus Salan, som var dotterson till Rudbecks syster, och övriga mindre bemärkta rudbeckianer, Lundius, Goeding m. fl. Och sedan 1685 hade Rudbeck i Uppsala ett eget antikvitetstryckeri, som förestods av den såsom akademiboktryckare avsatte Curio. Guðmundur Ólafsson, som icke var vidare belåten med Hadorphs stränga regemente, tyckes hava slutit sig till dem, och i varje fall sålde han särskilt till Reenhielm åtskilliga avskrifter av isländska sagor. Reenhielms samling, som förut blott bestod av de Rugmanska manuskripten, blev därigenom åtskilligt rikare, och det vänskapliga förhållandet dem emellan antydes därav, att Guðmundur skrev en isländsk hyllningsdikt i Reenhielms edition av Olofssagan."
+  },
+  {
+   "bbox": [
+    75,
+    855,
+    1124,
+    1107
+   ],
+   "category": "Text",
+   "text": "Kort förut, 1687, hade Reenhielm och Hadorph haft en häftig sammanstötning, som till en del berörde Guðmundur Ólafssons ställning till bägge. Reenhielm hade sökt att få tillträde till antikvitetskollegiets samlingar, och detta hade av Hadorph förvägrats honom. Till kanslipresidenten Oxenstierna ingav Reenhielm då en klagoskrift, till vilken han som bilaga fogade en lista på sina arbeten:"
+  },
+  {
+   "bbox": [
+    112,
+    1115,
+    541,
+    1159
+   ],
+   "category": "Text",
+   "text": "»Ifrån A:o 1675 hafver jag"
+  },
+  {
+   "bbox": [
+    80,
+    1162,
+    1123,
+    1308
+   ],
+   "category": "List-item",
+   "text": "1) Verterat och skrifvit Notas öfver Thorsteens Saga, och ehuruväl hans högGrefl. Excellentie sahl. drotzen sig tillböd att villia låtha tryckia hänne, kom dock inthet dhärtill, uthan moste jag låtha Hr. Rudbeckius få arbetet, huar mädh min möda var för mig fruchtlööst borta."
+  },
+  {
+   "bbox": [
+    78,
+    1305,
+    1123,
+    1373
+   ],
+   "category": "List-item",
+   "text": "2) Verterat Olof Tryggvasons saga och skrijfvit Notas öfver, som nu i ödmiukheet framtees."
+  },
+  {
+   "bbox": [
+    78,
+    1375,
+    1123,
+    1451
+   ],
+   "category": "List-item",
+   "text": "3) Verterat Fridþiofs saga och skrijfvit Notas öfver, till huilkas reentskrifvande papperet felar."
+  },
+  {
+   "bbox": [
+    78,
+    1448,
+    1121,
+    1522
+   ],
+   "category": "List-item",
+   "text": "4) Verterat Sturlaug Starfvesammas saga, huartill och skola komma Notæ, då jag får papper att arbeta på."
+  },
+  {
+   "bbox": [
+    78,
+    1519,
+    1123,
+    1592
+   ],
+   "category": "List-item",
+   "text": "5) afskrifvit Grettlan af gambla Manuscripto, giordt dher öfver ett glossarium och verterat 44 capitel."
+  },
+  {
+   "bbox": [
+    78,
+    1589,
+    1121,
+    1664
+   ],
+   "category": "List-item",
+   "text": "6) hafver under händerna en Tractat de Cruce lapidibus Runicis insculpta, huaruthi de Religione veterum septentrionalium."
+  },
+  {
+   "bbox": [
+    78,
+    1661,
+    1123,
+    1735
+   ],
+   "category": "List-item",
+   "text": "7) Collationerat mädh sahl. Rugmann, förra Islendaren, Eddan och afskrijfvit sampt begynt vertera."
+  },
+  {
+   "bbox": [
+    78,
+    1732,
+    1121,
+    1771
+   ],
+   "category": "List-item",
+   "text": "8) Reviderat till en deel sahl. Verelij Historiam Patriæ, efter som hann"
+  },
+  {
+   "bbox": [
+    1068,
+    1807,
+    1119,
+    1846
+   ],
+   "category": "Page-footer",
+   "text": "99"
+  }
+ ]
+}

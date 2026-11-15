@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 58,
+ "seconds": 24.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [377, 533, 915, 569], \"category\": \"Section-header\", \"text\": \"DE GÖTISKA SKRIFTERNA.\"}, {\"bbox\": [124, 646, 1164, 1098], \"category\": \"Text\", \"text\": \"Själva uppslaget till kollegiet var nog de förvärv, som man kort förut gjort av isländska handskrifter. Dem, som det till en början blev fråga om att utgiva, kan man från en viss synpunkt dela i tre grupper: de norska, som funnits här sedan medeltiden och av vilka de flesta 1651 av Johannes Bureus överlämnats till riksarkivet, Stephanius' handskrifter, som av De la Gardie 1669 donerats till Uppsala, och de handskrifter, som medförts av Rugman. Av dessa intresserade sig Bureus' måg Axehiälm särskilt för den första gruppen, De la Gardie helt naturligt för den andra och Verelius för den tredje. Denna sympati blev ock i det hela bestämmande för arbetet med dem. Vi vända oss först till Bureus' handskrifter.\"}, {\"bbox\": [1171, 651, 1315, 711], \"category\": \"Text\", \"text\": \"Bureus' handskrifter\"}, {\"bbox\": [124, 1103, 1164, 1769], \"category\": \"Text\", \"text\": \"Den, som här tilldrog sig det största intresset, var den ännu bevarade pergamentshandskriften av Didrikssagan (K. B. Perg. fol. 4), som nedskrivits under senare delen av 1200-talet, troligen i Bergen. Tyvärr var den ganska defekt, hela början — de tjugo första kapitlen i Ungers upplaga — saknas, likaså ganska många lägg och blad i det följande. Men för 1600-talets fornforskning var denna handskrift av ett oskattbart värde, ty man återfann här källan till den prosaiska krönikans kortfattade uppgifter om de svenska konungarna i Vilkinaland, d. v. s. Sverige. Ehuru detta parti blott utgör en relativt obetydlig del av Didrikssagan, var det för Bureus det förnämsta, och han döpte därför hela sagan, som i den defekta handskriften saknar titel, till Vilkina saga. I donationsbrevet 1651 skänkte han nämligen till drottningen: »Wilcina Saghu om 5 Suerighes Konungar in fol. på Pergament i lika måtta på rätt gammal Suänska, Den och aff migh ähr verterat på nu brukelighit Suänskt måhl». Det var också blott med detta Vilkinaparti han sysselsatte sig, och det var endast\"}, {\"bbox\": [1173, 1107, 1311, 1139], \"category\": \"Text\", \"text\": \"Didrikssagan\"}, {\"bbox\": [1110, 1806, 1159, 1843], \"category\": \"Page-footer\", \"text\": \"45\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    377,
+    533,
+    915,
+    569
+   ],
+   "category": "Section-header",
+   "text": "DE GÖTISKA SKRIFTERNA."
+  },
+  {
+   "bbox": [
+    124,
+    646,
+    1164,
+    1098
+   ],
+   "category": "Text",
+   "text": "Själva uppslaget till kollegiet var nog de förvärv, som man kort förut gjort av isländska handskrifter. Dem, som det till en början blev fråga om att utgiva, kan man från en viss synpunkt dela i tre grupper: de norska, som funnits här sedan medeltiden och av vilka de flesta 1651 av Johannes Bureus överlämnats till riksarkivet, Stephanius' handskrifter, som av De la Gardie 1669 donerats till Uppsala, och de handskrifter, som medförts av Rugman. Av dessa intresserade sig Bureus' måg Axehiälm särskilt för den första gruppen, De la Gardie helt naturligt för den andra och Verelius för den tredje. Denna sympati blev ock i det hela bestämmande för arbetet med dem. Vi vända oss först till Bureus' handskrifter."
+  },
+  {
+   "bbox": [
+    1171,
+    651,
+    1315,
+    711
+   ],
+   "category": "Text",
+   "text": "Bureus' handskrifter"
+  },
+  {
+   "bbox": [
+    124,
+    1103,
+    1164,
+    1769
+   ],
+   "category": "Text",
+   "text": "Den, som här tilldrog sig det största intresset, var den ännu bevarade pergamentshandskriften av Didrikssagan (K. B. Perg. fol. 4), som nedskrivits under senare delen av 1200-talet, troligen i Bergen. Tyvärr var den ganska defekt, hela början — de tjugo första kapitlen i Ungers upplaga — saknas, likaså ganska många lägg och blad i det följande. Men för 1600-talets fornforskning var denna handskrift av ett oskattbart värde, ty man återfann här källan till den prosaiska krönikans kortfattade uppgifter om de svenska konungarna i Vilkinaland, d. v. s. Sverige. Ehuru detta parti blott utgör en relativt obetydlig del av Didrikssagan, var det för Bureus det förnämsta, och han döpte därför hela sagan, som i den defekta handskriften saknar titel, till Vilkina saga. I donationsbrevet 1651 skänkte han nämligen till drottningen: »Wilcina Saghu om 5 Suerighes Konungar in fol. på Pergament i lika måtta på rätt gammal Suänska, Den och aff migh ähr verterat på nu brukelighit Suänskt måhl». Det var också blott med detta Vilkinaparti han sysselsatte sig, och det var endast"
+  },
+  {
+   "bbox": [
+    1173,
+    1107,
+    1311,
+    1139
+   ],
+   "category": "Text",
+   "text": "Didrikssagan"
+  },
+  {
+   "bbox": [
+    1110,
+    1806,
+    1159,
+    1843
+   ],
+   "category": "Page-footer",
+   "text": "45"
+  }
+ ]
+}

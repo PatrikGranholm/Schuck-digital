@@ -1,0 +1,41 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 5,
+ "seconds": 10.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [256, 120, 416, 163], \"category\": \"Text\", \"text\": \"Coll. Cat.\"}, {\"bbox\": [240, 2224, 324, 2349], \"category\": \"Picture\"}, {\"bbox\": [245, 2277, 319, 2345], \"category\": \"Text\", \"text\": \"GUST. HEDBERG HÖBOL BILDARE STOCKHOLM\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    256,
+    120,
+    416,
+    163
+   ],
+   "category": "Text",
+   "text": "Coll. Cat."
+  },
+  {
+   "bbox": [
+    240,
+    2224,
+    324,
+    2349
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    245,
+    2277,
+    319,
+    2345
+   ],
+   "category": "Text",
+   "text": "GUST. HEDBERG HÖBOL BILDARE STOCKHOLM"
+  }
+ ]
+}

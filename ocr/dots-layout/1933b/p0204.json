@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 204,
+ "seconds": 26.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [536, 240, 772, 283], \"category\": \"Section-header\", \"text\": \"Lageditioner\"}, {\"bbox\": [128, 309, 1175, 1427], \"category\": \"Text\", \"text\": \"mig berättat, der the funnit någon påminnelse hafwa behöftz, så at iag har giordt här wid alt hwad mig hafwer bordt at få des gambla mening i Liuset rätt öfwersatt». Utom huvudhandskriften, som vi »fått till oss ifrån Wisby Rådhuus», uppgiver han sig också hava begagnat »ett annat gammalt Exemplar på Pergament, som är en rätt afskrift af denne förste, som nämd war, hwilken strax i Kon. Magni Eriksons tijd har skrifwin warit, efter som uti den icke finnes dhe sedermera tilökningar, som i then äldsta Rådhuusboken ära tilsatta». På tal om den i Kungl. biblioteket bevarade pappersavskriften sign. B 67 yttrar Schlyter om Hadorphs nyss citerade uppgift: »Man finner genast, att denna beskrifning ej passar in på den nu omtalade afskriften och däraf skulle då tydligen följa, att Hadorph talar om en annan, som sedermera skulle hafva gått förlorad». Schlyter tror emellertid, att Hadorph misstagit sig och ur minnet gjort sin beskrivning, som i följd härav ej passar in, och han antager därför, att Hadorph avsett sign. B. 67. Hadorph skulle i så fall hava misstagit sig både om innehållet och om handskriftens material (pergament i st. f. papper). Det har han dock knappast gjort. Enligt antikvitetskollegiets inventarium 1693 ägde kollegiet verkligen två pergamentshandskrifter av Visby stadsrätt, av vilka den ena ej återfinnes i senare inventarier och därför antagligen gått förlorad vid slottsbranden 1697: »En gammal Lagbook på Nederländska angående Wijsby och Gottland. Ms. memb. in 4:to majore» och »Wijsby Rätten på Nederländska Ms. membr. in 4:to». Det är således all anledning att antaga, att Hadorphs uppgift är riktig och att han för sin upplaga anlitat två pergamentshandskrifter, av vilka den ena är förlorad.\"}, {\"bbox\": [130, 1430, 1175, 1767], \"category\": \"Text\", \"text\": \"I samband härmed utgav han Then Gambla Wijsby Siö-Rätt (1689), dock icke efter något manuskript. Thenne Siörätt — skriver han i företalet — »fins nu icke igen på sitt äldsta Göthiska Modersspråk såsom Gotlandz Lagen, men som förberördt är på andra Språk afsatt, och thet äldsta, som nu förhanden är, finnes på gammal Tyska tryckt i Kiöpenhamn åhr 1505, hwilken iag straxt togh mig före at afsättia på wårt Språk, men tå iag moot Slutet befann någon oricktigheet i bemälte Exemplar, företog iag ett annat, nembl.\"}, {\"bbox\": [1184, 1439, 1321, 1474], \"category\": \"Text\", \"text\": \"Visby sjörätt\"}, {\"bbox\": [1103, 1792, 1169, 1838], \"category\": \"Page-footer\", \"text\": \"183\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    536,
+    240,
+    772,
+    283
+   ],
+   "category": "Section-header",
+   "text": "Lageditioner"
+  },
+  {
+   "bbox": [
+    128,
+    309,
+    1175,
+    1427
+   ],
+   "category": "Text",
+   "text": "mig berättat, der the funnit någon påminnelse hafwa behöftz, så at iag har giordt här wid alt hwad mig hafwer bordt at få des gambla mening i Liuset rätt öfwersatt». Utom huvudhandskriften, som vi »fått till oss ifrån Wisby Rådhuus», uppgiver han sig också hava begagnat »ett annat gammalt Exemplar på Pergament, som är en rätt afskrift af denne förste, som nämd war, hwilken strax i Kon. Magni Eriksons tijd har skrifwin warit, efter som uti den icke finnes dhe sedermera tilökningar, som i then äldsta Rådhuusboken ära tilsatta». På tal om den i Kungl. biblioteket bevarade pappersavskriften sign. B 67 yttrar Schlyter om Hadorphs nyss citerade uppgift: »Man finner genast, att denna beskrifning ej passar in på den nu omtalade afskriften och däraf skulle då tydligen följa, att Hadorph talar om en annan, som sedermera skulle hafva gått förlorad». Schlyter tror emellertid, att Hadorph misstagit sig och ur minnet gjort sin beskrivning, som i följd härav ej passar in, och han antager därför, att Hadorph avsett sign. B. 67. Hadorph skulle i så fall hava misstagit sig både om innehållet och om handskriftens material (pergament i st. f. papper). Det har han dock knappast gjort. Enligt antikvitetskollegiets inventarium 1693 ägde kollegiet verkligen två pergamentshandskrifter av Visby stadsrätt, av vilka den ena ej återfinnes i senare inventarier och därför antagligen gått förlorad vid slottsbranden 1697: »En gammal Lagbook på Nederländska angående Wijsby och Gottland. Ms. memb. in 4:to majore» och »Wijsby Rätten på Nederländska Ms. membr. in 4:to». Det är således all anledning att antaga, att Hadorphs uppgift är riktig och att han för sin upplaga anlitat två pergamentshandskrifter, av vilka den ena är förlorad."
+  },
+  {
+   "bbox": [
+    130,
+    1430,
+    1175,
+    1767
+   ],
+   "category": "Text",
+   "text": "I samband härmed utgav han Then Gambla Wijsby Siö-Rätt (1689), dock icke efter något manuskript. Thenne Siörätt — skriver han i företalet — »fins nu icke igen på sitt äldsta Göthiska Modersspråk såsom Gotlandz Lagen, men som förberördt är på andra Språk afsatt, och thet äldsta, som nu förhanden är, finnes på gammal Tyska tryckt i Kiöpenhamn åhr 1505, hwilken iag straxt togh mig före at afsättia på wårt Språk, men tå iag moot Slutet befann någon oricktigheet i bemälte Exemplar, företog iag ett annat, nembl."
+  },
+  {
+   "bbox": [
+    1184,
+    1439,
+    1321,
+    1474
+   ],
+   "category": "Text",
+   "text": "Visby sjörätt"
+  },
+  {
+   "bbox": [
+    1103,
+    1792,
+    1169,
+    1838
+   ],
+   "category": "Page-footer",
+   "text": "183"
+  }
+ ]
+}

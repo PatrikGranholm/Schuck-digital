@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 132,
+ "seconds": 24.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [520, 489, 680, 524], \"category\": \"Section-header\", \"text\": \"LEXIKA.\"}, {\"bbox\": [76, 596, 1116, 1510], \"category\": \"Text\", \"text\": \"Det isländska editionsarbetet var emellertid på långt när ej kollegiets enda vetenskapliga insats. I spetsen för de uppgifter, som i instruktionen 1667 ställdes för kollegiet, var en ordbok över »wårt gamble Swenske och Göthiske språk», och med anledning därav förordnades, att »dhe, som bästa förståndet på det gambla språket hafwa, företaga sig så Etymologice som elliest af alla gamble Swenske Skrifter och Lagar till att sammanfatta ett fullkomligt dictionarium öfwer dhe gamble ord och deras åthskillige Significationer». En särskild vikt bör här nog läggas på adjektivet »gamble», ty det, som man avsåg, var det »gambla språket» och »dhe gamble ord», och här gjorde man knappt någon skillnad på svenska och isländska, som ju ansågs vara en bättre bevarad munart av »wårt gamble Swenske och Göthiske språk». Av kollegiets medlemmar var det två, som i instruktionen ansågos lämpliga för detta arbete: Stiernhielm, som »är en mycket lärd och förståndig man på det gambla språket och dess uhrsprung, hwarföre han ett Lexicon Etymologicum länge sedan begynt hafwer», samt Verelius, som ålades att förfärdiga »ett dictionarium öfwer alla gamble swenska ordh, som både i dhe gambla laghar och andra gambla skrifter fins». I intetdera fallet var det således frågan om ett nysvenskt lexikon, och så vitt man avsåg någon arbetsfördelning skulle Verelius författa en fornsvensk-isländsk ordbok, Stiernhielm en etymologisk.\"}, {\"bbox\": [1121, 601, 1269, 665], \"category\": \"Text\", \"text\": \"Ordboksarbetets fördelning\"}, {\"bbox\": [80, 1510, 1118, 1762], \"category\": \"Text\", \"text\": \"Alldeles utan ordböcker var man väl ej förut, men dessa voro blott avsedda för skolans behov. Variarum rerum vocabula, en latinsk ordbok med svensk översättning av de latinska orden, hade tryckts redan 1538. Den första glosboken med svenska uppslagsord samt latinsk och grekisk översättning var Elaus Petri Helsingius' Synonymorum libellus (1587), även denna blott en skolbok, som\"}, {\"bbox\": [1125, 1511, 1236, 1570], \"category\": \"Text\", \"text\": \"Äldre ordböcker\"}, {\"bbox\": [1043, 1794, 1114, 1833], \"category\": \"Page-footer\", \"text\": \"119\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    520,
+    489,
+    680,
+    524
+   ],
+   "category": "Section-header",
+   "text": "LEXIKA."
+  },
+  {
+   "bbox": [
+    76,
+    596,
+    1116,
+    1510
+   ],
+   "category": "Text",
+   "text": "Det isländska editionsarbetet var emellertid på långt när ej kollegiets enda vetenskapliga insats. I spetsen för de uppgifter, som i instruktionen 1667 ställdes för kollegiet, var en ordbok över »wårt gamble Swenske och Göthiske språk», och med anledning därav förordnades, att »dhe, som bästa förståndet på det gambla språket hafwa, företaga sig så Etymologice som elliest af alla gamble Swenske Skrifter och Lagar till att sammanfatta ett fullkomligt dictionarium öfwer dhe gamble ord och deras åthskillige Significationer». En särskild vikt bör här nog läggas på adjektivet »gamble», ty det, som man avsåg, var det »gambla språket» och »dhe gamble ord», och här gjorde man knappt någon skillnad på svenska och isländska, som ju ansågs vara en bättre bevarad munart av »wårt gamble Swenske och Göthiske språk». Av kollegiets medlemmar var det två, som i instruktionen ansågos lämpliga för detta arbete: Stiernhielm, som »är en mycket lärd och förståndig man på det gambla språket och dess uhrsprung, hwarföre han ett Lexicon Etymologicum länge sedan begynt hafwer», samt Verelius, som ålades att förfärdiga »ett dictionarium öfwer alla gamble swenska ordh, som både i dhe gambla laghar och andra gambla skrifter fins». I intetdera fallet var det således frågan om ett nysvenskt lexikon, och så vitt man avsåg någon arbetsfördelning skulle Verelius författa en fornsvensk-isländsk ordbok, Stiernhielm en etymologisk."
+  },
+  {
+   "bbox": [
+    1121,
+    601,
+    1269,
+    665
+   ],
+   "category": "Text",
+   "text": "Ordboksarbetets fördelning"
+  },
+  {
+   "bbox": [
+    80,
+    1510,
+    1118,
+    1762
+   ],
+   "category": "Text",
+   "text": "Alldeles utan ordböcker var man väl ej förut, men dessa voro blott avsedda för skolans behov. Variarum rerum vocabula, en latinsk ordbok med svensk översättning av de latinska orden, hade tryckts redan 1538. Den första glosboken med svenska uppslagsord samt latinsk och grekisk översättning var Elaus Petri Helsingius' Synonymorum libellus (1587), även denna blott en skolbok, som"
+  },
+  {
+   "bbox": [
+    1125,
+    1511,
+    1236,
+    1570
+   ],
+   "category": "Text",
+   "text": "Äldre ordböcker"
+  },
+  {
+   "bbox": [
+    1043,
+    1794,
+    1114,
+    1833
+   ],
+   "category": "Page-footer",
+   "text": "119"
+  }
+ ]
+}

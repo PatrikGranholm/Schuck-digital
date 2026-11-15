@@ -1,0 +1,132 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 39,
+ "seconds": 30.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [776, 243, 1194, 286], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [482, 312, 1504, 425], \"category\": \"List-item\", \"text\": \"2) S. Anscharii lefwerne, hwar vti innehålles Historien om Sweriges Rijkes första omwändelse til Christendomen, på Latin och Swänska med anmärkningar och Register. Tryckt An. 1677.\"}, {\"bbox\": [482, 420, 1504, 746], \"category\": \"List-item\", \"text\": \"3) Emanuelis Thesauri Historia om Giöthernes och Långobardernes Kongarijke vti Italien, på Italienska, Latin och Swenska med fullkomligare än vti Italienskan finnes anmärckningar och Register. Så och Keyser Carl Magni Lefwernes beskrifning, hwilken ibland wår Allernådigste Herres och Konungz, Konung Carl den Ellofftes Höga förfäder vthi vpstijgande linien på Swärdzsijdan är dhen trättionde, fordom af desz Cantzler Eginhardo skrifwen på Latin, til hwilkens oförandrade Text nu kommer den Swänske vthtolkningen och särdeles anmärckningar. Till hoopa ett stort Wärck in folio.\"}, {\"bbox\": [482, 741, 1504, 854], \"category\": \"List-item\", \"text\": \"4) Swea- och Giötha-Rijkes Kyrckio Historia, vthi hwilken för sakernes sammanhängiande skull mycket införes civile Regementets Historien anhörigt.\"}, {\"bbox\": [482, 848, 1504, 926], \"category\": \"List-item\", \"text\": \"5) Sweriges Biskopars och Klerkers Historia och hwad dher wid märckwärdigt förelupit.\"}, {\"bbox\": [482, 920, 1504, 1031], \"category\": \"List-item\", \"text\": \"6) Swea och Giötha Rijkes Helgons och fordom Patroners lefwernes gamble beskrifningar och Historier, så månge man der af öfwerkomma kunnat, med deras bijfogade Canonizations-acter.\"}, {\"bbox\": [482, 1026, 1330, 1068], \"category\": \"List-item\", \"text\": \"7) Alla Klosters i Swerige, Giötha Rijke och Finland Hist.\"}, {\"bbox\": [482, 1062, 1504, 1139], \"category\": \"List-item\", \"text\": \"8) Alla Swänska Christna Konungars rätta lefwernes och Regementz tijd, ett Chronologiskt Wärck.\"}, {\"bbox\": [482, 1133, 1504, 1422], \"category\": \"List-item\", \"text\": \"9) Ett Romerskt Swea och Giötha Rijker anrörande Bullarium eller Påfwa brefz hoopa samblade Wärck efter Åhre talen i ordning bracht, så många man hafwer finna kunnat, Sweriges Rijkes konungar, Furstar, Råd, Ständer, Archiebispar, Bispar, Abboter, Kloster etc. tilskrifne alt ifrån Christendomens första begynnelse här i Rijket in til närwarandes tijdh, hwar vthi myckit aff wår gambla Historie igenfinnes och Historieskribenternes sanna berättelser styrckias och dhe osanne tilbaka drifwas. Itt stort och wijdlyfftigt Wärck.\"}, {\"bbox\": [472, 1417, 1504, 1673], \"category\": \"List-item\", \"text\": \"10) Vpsala Academies första begynnelses Historia medh sanfärdig berättelse om orsakerne, hwarföre Swäriges Rijke så seent och först för 204 Åhr sedan, nämbl. Anno 1476[!] Academia fått hafwer, stält i en Orations form och offentligen hållen vthi Vpsala Academie den 17 Decemb. 1679, tå vthi Facultate Philosophica 26 vnge Magistri sin grad och ähretitel fingo, hwar til och fogade äre dhe andre samma solennitet tillhörige acter.\"}, {\"bbox\": [472, 1667, 1504, 1745], \"category\": \"List-item\", \"text\": \"11) Ett fulkombligit Chronologiskt Wärck med raader vthi Flåckar aff Hundrade, Fembtijo och tijo Åhr fördelt, författandes mäst alle Swea\"}, {\"bbox\": [475, 1796, 524, 1836], \"category\": \"Page-footer\", \"text\": \"26\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    776,
+    243,
+    1194,
+    286
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    482,
+    312,
+    1504,
+    425
+   ],
+   "category": "List-item",
+   "text": "2) S. Anscharii lefwerne, hwar vti innehålles Historien om Sweriges Rijkes första omwändelse til Christendomen, på Latin och Swänska med anmärkningar och Register. Tryckt An. 1677."
+  },
+  {
+   "bbox": [
+    482,
+    420,
+    1504,
+    746
+   ],
+   "category": "List-item",
+   "text": "3) Emanuelis Thesauri Historia om Giöthernes och Långobardernes Kongarijke vti Italien, på Italienska, Latin och Swenska med fullkomligare än vti Italienskan finnes anmärckningar och Register. Så och Keyser Carl Magni Lefwernes beskrifning, hwilken ibland wår Allernådigste Herres och Konungz, Konung Carl den Ellofftes Höga förfäder vthi vpstijgande linien på Swärdzsijdan är dhen trättionde, fordom af desz Cantzler Eginhardo skrifwen på Latin, til hwilkens oförandrade Text nu kommer den Swänske vthtolkningen och särdeles anmärckningar. Till hoopa ett stort Wärck in folio."
+  },
+  {
+   "bbox": [
+    482,
+    741,
+    1504,
+    854
+   ],
+   "category": "List-item",
+   "text": "4) Swea- och Giötha-Rijkes Kyrckio Historia, vthi hwilken för sakernes sammanhängiande skull mycket införes civile Regementets Historien anhörigt."
+  },
+  {
+   "bbox": [
+    482,
+    848,
+    1504,
+    926
+   ],
+   "category": "List-item",
+   "text": "5) Sweriges Biskopars och Klerkers Historia och hwad dher wid märckwärdigt förelupit."
+  },
+  {
+   "bbox": [
+    482,
+    920,
+    1504,
+    1031
+   ],
+   "category": "List-item",
+   "text": "6) Swea och Giötha Rijkes Helgons och fordom Patroners lefwernes gamble beskrifningar och Historier, så månge man der af öfwerkomma kunnat, med deras bijfogade Canonizations-acter."
+  },
+  {
+   "bbox": [
+    482,
+    1026,
+    1330,
+    1068
+   ],
+   "category": "List-item",
+   "text": "7) Alla Klosters i Swerige, Giötha Rijke och Finland Hist."
+  },
+  {
+   "bbox": [
+    482,
+    1062,
+    1504,
+    1139
+   ],
+   "category": "List-item",
+   "text": "8) Alla Swänska Christna Konungars rätta lefwernes och Regementz tijd, ett Chronologiskt Wärck."
+  },
+  {
+   "bbox": [
+    482,
+    1133,
+    1504,
+    1422
+   ],
+   "category": "List-item",
+   "text": "9) Ett Romerskt Swea och Giötha Rijker anrörande Bullarium eller Påfwa brefz hoopa samblade Wärck efter Åhre talen i ordning bracht, så många man hafwer finna kunnat, Sweriges Rijkes konungar, Furstar, Råd, Ständer, Archiebispar, Bispar, Abboter, Kloster etc. tilskrifne alt ifrån Christendomens första begynnelse här i Rijket in til närwarandes tijdh, hwar vthi myckit aff wår gambla Historie igenfinnes och Historieskribenternes sanna berättelser styrckias och dhe osanne tilbaka drifwas. Itt stort och wijdlyfftigt Wärck."
+  },
+  {
+   "bbox": [
+    472,
+    1417,
+    1504,
+    1673
+   ],
+   "category": "List-item",
+   "text": "10) Vpsala Academies första begynnelses Historia medh sanfärdig berättelse om orsakerne, hwarföre Swäriges Rijke så seent och först för 204 Åhr sedan, nämbl. Anno 1476[!] Academia fått hafwer, stält i en Orations form och offentligen hållen vthi Vpsala Academie den 17 Decemb. 1679, tå vthi Facultate Philosophica 26 vnge Magistri sin grad och ähretitel fingo, hwar til och fogade äre dhe andre samma solennitet tillhörige acter."
+  },
+  {
+   "bbox": [
+    472,
+    1667,
+    1504,
+    1745
+   ],
+   "category": "List-item",
+   "text": "11) Ett fulkombligit Chronologiskt Wärck med raader vthi Flåckar aff Hundrade, Fembtijo och tijo Åhr fördelt, författandes mäst alle Swea"
+  },
+  {
+   "bbox": [
+    475,
+    1796,
+    524,
+    1836
+   ],
+   "category": "Page-footer",
+   "text": "26"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 276,
+ "seconds": 26.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [475, 236, 825, 280], \"category\": \"Section-header\", \"text\": \"Historiska skrifter\"}, {\"bbox\": [124, 307, 1171, 849], \"category\": \"Text\", \"text\": \"welat icke allenast meddehla honom, Professoren och Historiographen Örnhielm, Wårt Privilegium desse förberörde Wärck att uppläggia och i Trycket uthgå låta och sedan utan någons hinder och intrång genom sine förläggiare föryttra, på hwad ort han hälst will öfwer hela Wårt Rijke och dess underliggiande Provincier, utan ock dher jämte honom eller dem, som till Tryckeriet giöra förlag, krafftel. försäkra samt alle andre sträng- och alfwarligen förbiuda, att ingen Booktryckiare eller någon annan, ehoo den ock wara må, skall få utan föregången afhandling med mehrbem:te Professore och Historiographo Örnhielm eller dess arfwingar på femton åhrs tijdh ifrån underskrefne dato samma wärck att uppläggia och efftertryckia eller efftertryckt innom Wårt Rijke att inhämta, med wijte Ettusende dr. smt och förlust af alla Exemplaren».\"}, {\"bbox\": [121, 852, 1169, 1645], \"category\": \"Text\", \"text\": \"Arrhenius hade då redan gjort upp med boktryckaren Keyser om att denne på egen bekostnad skulle utgiva boken, och den 14 december 1685 utfärdade Keyser kvitto på de 69 i kvittot uppräknade kopparplåtar, som han mottagit från honom. Men efter någon tid ryggade Keyser avtalet — enligt Arrhenius av ekonomiska skäl. Huruvida sättningen likväl börjat, är emellertid ovisst. Kvar finnes blott ett ovanligt vackert kopparstick till den tillämnade upplagans titelblad, och av detta framgår, att det graverats före den 17 september 1684, då Arrhenius utbytte detta namn mot det adliga Örnhielm.¹ Men arbetet förblev fortfarande liggande. Den 1 oktober 1690 vände sig Örnhielm då i en ny inlaga till Kungl. Maj:t (R. A. Handl. rörande Antikvitetskoll. I): »— — — — Förökar och icke litet min stora medellöshet, att jag af de för dätta nutne löningar en ganska stor deel anwändt på mina utarbetade wärck mäd handskrifwares och kopparstickares underhållande i många åhr, utan att nutit där till någonsin dän ringaste sublevation ex publico, och haf:r i någre år hafft färdigt liggiandes Emanuelis Thesauri italienska wärck om wåra gamble Giöthiske och Longobardiske konungars regemente uti Italien mäd allas deras Kgl. portraits till 70 plåtar, öf:r måttan\"}, {\"bbox\": [120, 1669, 1166, 1764], \"category\": \"Footnote\", \"text\": \"¹ Han kallas här »Claudius Arrhenius, Regius Historiographus (vilket han blev 1679) ac in Acad. Regia Upsaliensi Histor. Prof. publ. ac ordin.» (vilket han upphörde att vara 1687, då han blev bibliotekarie). Tryckåret är ej angivet, men väl tryckorten: Holmiæ sveonum.\"}, {\"bbox\": [1091, 1798, 1162, 1837], \"category\": \"Page-footer\", \"text\": \"255\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    475,
+    236,
+    825,
+    280
+   ],
+   "category": "Section-header",
+   "text": "Historiska skrifter"
+  },
+  {
+   "bbox": [
+    124,
+    307,
+    1171,
+    849
+   ],
+   "category": "Text",
+   "text": "welat icke allenast meddehla honom, Professoren och Historiographen Örnhielm, Wårt Privilegium desse förberörde Wärck att uppläggia och i Trycket uthgå låta och sedan utan någons hinder och intrång genom sine förläggiare föryttra, på hwad ort han hälst will öfwer hela Wårt Rijke och dess underliggiande Provincier, utan ock dher jämte honom eller dem, som till Tryckeriet giöra förlag, krafftel. försäkra samt alle andre sträng- och alfwarligen förbiuda, att ingen Booktryckiare eller någon annan, ehoo den ock wara må, skall få utan föregången afhandling med mehrbem:te Professore och Historiographo Örnhielm eller dess arfwingar på femton åhrs tijdh ifrån underskrefne dato samma wärck att uppläggia och efftertryckia eller efftertryckt innom Wårt Rijke att inhämta, med wijte Ettusende dr. smt och förlust af alla Exemplaren»."
+  },
+  {
+   "bbox": [
+    121,
+    852,
+    1169,
+    1645
+   ],
+   "category": "Text",
+   "text": "Arrhenius hade då redan gjort upp med boktryckaren Keyser om att denne på egen bekostnad skulle utgiva boken, och den 14 december 1685 utfärdade Keyser kvitto på de 69 i kvittot uppräknade kopparplåtar, som han mottagit från honom. Men efter någon tid ryggade Keyser avtalet — enligt Arrhenius av ekonomiska skäl. Huruvida sättningen likväl börjat, är emellertid ovisst. Kvar finnes blott ett ovanligt vackert kopparstick till den tillämnade upplagans titelblad, och av detta framgår, att det graverats före den 17 september 1684, då Arrhenius utbytte detta namn mot det adliga Örnhielm.¹ Men arbetet förblev fortfarande liggande. Den 1 oktober 1690 vände sig Örnhielm då i en ny inlaga till Kungl. Maj:t (R. A. Handl. rörande Antikvitetskoll. I): »— — — — Förökar och icke litet min stora medellöshet, att jag af de för dätta nutne löningar en ganska stor deel anwändt på mina utarbetade wärck mäd handskrifwares och kopparstickares underhållande i många åhr, utan att nutit där till någonsin dän ringaste sublevation ex publico, och haf:r i någre år hafft färdigt liggiandes Emanuelis Thesauri italienska wärck om wåra gamble Giöthiske och Longobardiske konungars regemente uti Italien mäd allas deras Kgl. portraits till 70 plåtar, öf:r måttan"
+  },
+  {
+   "bbox": [
+    120,
+    1669,
+    1166,
+    1764
+   ],
+   "category": "Footnote",
+   "text": "¹ Han kallas här »Claudius Arrhenius, Regius Historiographus (vilket han blev 1679) ac in Acad. Regia Upsaliensi Histor. Prof. publ. ac ordin.» (vilket han upphörde att vara 1687, då han blev bibliotekarie). Tryckåret är ej angivet, men väl tryckorten: Holmiæ sveonum."
+  },
+  {
+   "bbox": [
+    1091,
+    1798,
+    1162,
+    1837
+   ],
+   "category": "Page-footer",
+   "text": "255"
+  }
+ ]
+}

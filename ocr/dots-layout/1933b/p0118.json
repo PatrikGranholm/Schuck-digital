@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 118,
+ "seconds": 26.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [427, 244, 821, 288], \"category\": \"Section-header\", \"text\": \"De götiska skrifterna\"}, {\"bbox\": [100, 314, 1143, 1064], \"category\": \"Text\", \"text\": \"Läsningen av den isländska texten är synnerligen dålig, och den utsattes också för en sträng kritik av den främste samtida auktoriteten, Arne Magnusson. 1699 sökte denne inleda en lärd brevväxling med Peringskiöld. I sitt brev (R. A. Handl. rör. Antikvitetskoll. I) yttrade han sig mycket erkännsamt om de svenska insatserna i fornforskningen och erbjöd sin hjälp vid fortsättningen. Han hade ju stora samlingar »og gierne contribuerede til saadanne sagers rigtighed alt det mig var mueligt, helst efterdi ieg seer (at ieg aabenhiertig skal udlade mig for min herre) at det som hos dennem tryckes icke er altid med det correcteste, hvor af et stort specimen er Eigils og Asmunds saga, hvilken saaledis er depraveret, at en indfödd Islænder skall have umage ved at forstaa den». T. o. m. Biörner ansåg sig sedermera i sina Kämpadater (sid. 31) böra påpeka de många felen: »Ejgil och Asmunds Saga med lika arbete utgifwen af Petrus Salan genom Rudbecks försårg åhr 1693. Doch är Götiska hufwudspråket mägta felachtigt i brist af bättre afskrift, däröfwer Salan själf klagar, ty torde denna Saga af en bättre och fullkomligare Antiqq. Archivi bok warda någon gång återtryckter».\"}, {\"bbox\": [100, 1062, 1143, 1768], \"category\": \"Text\", \"text\": \"Därefter började Salan, såsom vi sett, med Ulf Uggasons saga, men hann ej att före sin död utgiva den. Förmodligen hade Rudbeck tänkt på honom som redaktör för ett stort företag, som han satt i gång kort före Petter Salans frånfälle — i viss mån nog såsom en opposition mot antikvitetsarkivet. Han tänkte tydligen trycka ett stort Corpus av isländska sagor med latinsk översättning, avsedd för utlandets lärda värld. Tryckningen började 1696 och var troligen ej avslutad 1702, då hela upplagan brann. Enstaka partier hade Rudbeck väl förut lämnat ut till vänner, men även dessa äro till ytterlighet sällsynta, och något gemensamt titelblad finnes ej. Endast den första sagan i Kungl. bibliotekets volym har ett dylikt: »Kätilli Hængii et Grimonis Hirsutigenæ Patris et Filii Historia seu Res Gestæ ex antiqua lingva norvagica in latinum translatæ per Islefum Thorlevium Islandum. Opera et Studio Olavi Rudbeckii. Publici juris factæ. Upsalæ Anno MDCXCVII». De bevarade sagorna äro fem, men att även andra voro påtänkta framgår bl. a. av ett brev från Rudbeck 1696 till Oxenstierna (Grape s. 112).\"}, {\"bbox\": [1147, 1069, 1245, 1128], \"category\": \"Text\", \"text\": \"Rudbecks editioner\"}, {\"bbox\": [1067, 1805, 1135, 1844], \"category\": \"Page-footer\", \"text\": \"105\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    427,
+    244,
+    821,
+    288
+   ],
+   "category": "Section-header",
+   "text": "De götiska skrifterna"
+  },
+  {
+   "bbox": [
+    100,
+    314,
+    1143,
+    1064
+   ],
+   "category": "Text",
+   "text": "Läsningen av den isländska texten är synnerligen dålig, och den utsattes också för en sträng kritik av den främste samtida auktoriteten, Arne Magnusson. 1699 sökte denne inleda en lärd brevväxling med Peringskiöld. I sitt brev (R. A. Handl. rör. Antikvitetskoll. I) yttrade han sig mycket erkännsamt om de svenska insatserna i fornforskningen och erbjöd sin hjälp vid fortsättningen. Han hade ju stora samlingar »og gierne contribuerede til saadanne sagers rigtighed alt det mig var mueligt, helst efterdi ieg seer (at ieg aabenhiertig skal udlade mig for min herre) at det som hos dennem tryckes icke er altid med det correcteste, hvor af et stort specimen er Eigils og Asmunds saga, hvilken saaledis er depraveret, at en indfödd Islænder skall have umage ved at forstaa den». T. o. m. Biörner ansåg sig sedermera i sina Kämpadater (sid. 31) böra påpeka de många felen: »Ejgil och Asmunds Saga med lika arbete utgifwen af Petrus Salan genom Rudbecks försårg åhr 1693. Doch är Götiska hufwudspråket mägta felachtigt i brist af bättre afskrift, däröfwer Salan själf klagar, ty torde denna Saga af en bättre och fullkomligare Antiqq. Archivi bok warda någon gång återtryckter»."
+  },
+  {
+   "bbox": [
+    100,
+    1062,
+    1143,
+    1768
+   ],
+   "category": "Text",
+   "text": "Därefter började Salan, såsom vi sett, med Ulf Uggasons saga, men hann ej att före sin död utgiva den. Förmodligen hade Rudbeck tänkt på honom som redaktör för ett stort företag, som han satt i gång kort före Petter Salans frånfälle — i viss mån nog såsom en opposition mot antikvitetsarkivet. Han tänkte tydligen trycka ett stort Corpus av isländska sagor med latinsk översättning, avsedd för utlandets lärda värld. Tryckningen började 1696 och var troligen ej avslutad 1702, då hela upplagan brann. Enstaka partier hade Rudbeck väl förut lämnat ut till vänner, men även dessa äro till ytterlighet sällsynta, och något gemensamt titelblad finnes ej. Endast den första sagan i Kungl. bibliotekets volym har ett dylikt: »Kätilli Hængii et Grimonis Hirsutigenæ Patris et Filii Historia seu Res Gestæ ex antiqua lingva norvagica in latinum translatæ per Islefum Thorlevium Islandum. Opera et Studio Olavi Rudbeckii. Publici juris factæ. Upsalæ Anno MDCXCVII». De bevarade sagorna äro fem, men att även andra voro påtänkta framgår bl. a. av ett brev från Rudbeck 1696 till Oxenstierna (Grape s. 112)."
+  },
+  {
+   "bbox": [
+    1147,
+    1069,
+    1245,
+    1128
+   ],
+   "category": "Text",
+   "text": "Rudbecks editioner"
+  },
+  {
+   "bbox": [
+    1067,
+    1805,
+    1135,
+    1844
+   ],
+   "category": "Page-footer",
+   "text": "105"
+  }
+ ]
+}

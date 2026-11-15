@@ -1,0 +1,132 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 19,
+ "seconds": 27.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [766, 248, 1185, 292], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [455, 318, 1500, 651], \"category\": \"Text\", \"text\": \"senius Anno 1616 edidit) Tomo Secundo nunquam antehac publicato ex vetustioribus Archivi et Illustrissimi Claudij Ralambs Manuscriptis auxit, additis itidem varijs lectionibus et Indice. 3:tio Chronicon Rythmicum S. Olavi ex uno Archivi et Illustrissimi Cl. Rålambs Manuscripto typis paravit. 4:to Historiam Alexandri Magni ex latino olim in nostram Rhytmice per Illustrissimum olim Regni Archidapiferum Boo Joensson ante annos 300 translatam describi curavit.\"}, {\"bbox\": [459, 652, 1499, 734], \"category\": \"Text\", \"text\": \"Studiosi huic Collegio adiuncti hos labores seorsim sibi in manus sumserunt.\"}, {\"bbox\": [459, 736, 1500, 905], \"category\": \"Text\", \"text\": \"Samuel Columbus artem Poesis Suethicæ, ut nunc coli cæpta est, conscribendam suscepit. Radicibus præterea communibus omnium linguarum cum suis derivatis jampridem a Directore investigatis nunc demum ordine dirigendis occupatur.\"}, {\"bbox\": [462, 902, 1500, 987], \"category\": \"Text\", \"text\": \"Abr. Tornæo, præterquam quod varia Directoris opera describit, cura et correctura Editionis Novi Testamenti Ulphilæ commissa est.\"}, {\"bbox\": [462, 985, 1500, 1115], \"category\": \"Text\", \"text\": \"Jonas Rugman Islandus Poesi Scaldricæ Veteri Borealium regnorum elucidandæ et Poematibus eiusmodi in Vetustis codicibus repertis explicatione et paraphrasi latina interpretandis invigilat.\"}, {\"bbox\": [466, 1110, 1500, 1200], \"category\": \"Text\", \"text\": \"Illustrissimo Domino Cancellario Regni Submisse exhibita die 19 Julij Anno 1668 a Directore\"}, {\"bbox\": [1208, 1192, 1465, 1227], \"category\": \"Text\", \"text\": \"G. Stiernhielm».\"}, {\"bbox\": [327, 1280, 1502, 1404], \"category\": \"Text\", \"text\": \"Den 26 januari 1669 följde en ny redogörelse, till vilken Stiernhielm dock ej lämnat någon uppgift. Denna dag skrev kollegiet till De la Gardie:\"}, {\"bbox\": [531, 1422, 1502, 1517], \"category\": \"Text\", \"text\": \"»Högvälborne Grefwe Hr Rijkz-Cantzler, Nådige Herre och Mächtige Patron!\"}, {\"bbox\": [464, 1523, 1504, 1781], \"category\": \"Text\", \"text\": \"Såsom Kongl. Maij:tz Instruction för Collegio Antiquitatum förmäler i den 10 punct, att Collegium hwart Ny-åhr skal till Kongl. Maij:tt och E:rs högGrefl. Excell. i underdånigheet communicera dhe arbeten hwar och en hafwer uthj förflutne åhr under händerne hafft, och huru wijda med dem är kommet; Alltså hafwe wij till hörsampt föllje uppsatt dhe arbeten wij på förledne åhr under händerne\"}, {\"bbox\": [469, 1807, 494, 1846], \"category\": \"Page-footer\", \"text\": \"6\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    766,
+    248,
+    1185,
+    292
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    455,
+    318,
+    1500,
+    651
+   ],
+   "category": "Text",
+   "text": "senius Anno 1616 edidit) Tomo Secundo nunquam antehac publicato ex vetustioribus Archivi et Illustrissimi Claudij Ralambs Manuscriptis auxit, additis itidem varijs lectionibus et Indice. 3:tio Chronicon Rythmicum S. Olavi ex uno Archivi et Illustrissimi Cl. Rålambs Manuscripto typis paravit. 4:to Historiam Alexandri Magni ex latino olim in nostram Rhytmice per Illustrissimum olim Regni Archidapiferum Boo Joensson ante annos 300 translatam describi curavit."
+  },
+  {
+   "bbox": [
+    459,
+    652,
+    1499,
+    734
+   ],
+   "category": "Text",
+   "text": "Studiosi huic Collegio adiuncti hos labores seorsim sibi in manus sumserunt."
+  },
+  {
+   "bbox": [
+    459,
+    736,
+    1500,
+    905
+   ],
+   "category": "Text",
+   "text": "Samuel Columbus artem Poesis Suethicæ, ut nunc coli cæpta est, conscribendam suscepit. Radicibus præterea communibus omnium linguarum cum suis derivatis jampridem a Directore investigatis nunc demum ordine dirigendis occupatur."
+  },
+  {
+   "bbox": [
+    462,
+    902,
+    1500,
+    987
+   ],
+   "category": "Text",
+   "text": "Abr. Tornæo, præterquam quod varia Directoris opera describit, cura et correctura Editionis Novi Testamenti Ulphilæ commissa est."
+  },
+  {
+   "bbox": [
+    462,
+    985,
+    1500,
+    1115
+   ],
+   "category": "Text",
+   "text": "Jonas Rugman Islandus Poesi Scaldricæ Veteri Borealium regnorum elucidandæ et Poematibus eiusmodi in Vetustis codicibus repertis explicatione et paraphrasi latina interpretandis invigilat."
+  },
+  {
+   "bbox": [
+    466,
+    1110,
+    1500,
+    1200
+   ],
+   "category": "Text",
+   "text": "Illustrissimo Domino Cancellario Regni Submisse exhibita die 19 Julij Anno 1668 a Directore"
+  },
+  {
+   "bbox": [
+    1208,
+    1192,
+    1465,
+    1227
+   ],
+   "category": "Text",
+   "text": "G. Stiernhielm»."
+  },
+  {
+   "bbox": [
+    327,
+    1280,
+    1502,
+    1404
+   ],
+   "category": "Text",
+   "text": "Den 26 januari 1669 följde en ny redogörelse, till vilken Stiernhielm dock ej lämnat någon uppgift. Denna dag skrev kollegiet till De la Gardie:"
+  },
+  {
+   "bbox": [
+    531,
+    1422,
+    1502,
+    1517
+   ],
+   "category": "Text",
+   "text": "»Högvälborne Grefwe Hr Rijkz-Cantzler, Nådige Herre och Mächtige Patron!"
+  },
+  {
+   "bbox": [
+    464,
+    1523,
+    1504,
+    1781
+   ],
+   "category": "Text",
+   "text": "Såsom Kongl. Maij:tz Instruction för Collegio Antiquitatum förmäler i den 10 punct, att Collegium hwart Ny-åhr skal till Kongl. Maij:tt och E:rs högGrefl. Excell. i underdånigheet communicera dhe arbeten hwar och en hafwer uthj förflutne åhr under händerne hafft, och huru wijda med dem är kommet; Alltså hafwe wij till hörsampt föllje uppsatt dhe arbeten wij på förledne åhr under händerne"
+  },
+  {
+   "bbox": [
+    469,
+    1807,
+    494,
+    1846
+   ],
+   "category": "Page-footer",
+   "text": "6"
+  }
+ ]
+}

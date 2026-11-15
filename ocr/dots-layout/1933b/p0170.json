@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 170,
+ "seconds": 27.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [550, 248, 756, 283], \"category\": \"Section-header\", \"text\": \"Runarbeten\"}, {\"bbox\": [128, 316, 1177, 446], \"category\": \"Text\", \"text\": \"och rättast skee kan, effter originalen afrijta och mig ombeflita, att der uppå intet lyte eller feel blifwa må, hwilket jag med min handz vnderskrifft och signete bekräfftar. Stockh. 17 Maij 1672.\"}, {\"bbox\": [866, 453, 1140, 488], \"category\": \"Text\", \"text\": \"Gerdt Friderich».\"}, {\"bbox\": [132, 525, 1177, 655], \"category\": \"Text\", \"text\": \"Såsom kontraktet anger, användes han endast såsom myntritare och betalades styckevis. Men enligt Rächningar arbetade han ännu 1674 för kollegiet.\"}, {\"bbox\": [132, 650, 1184, 1736], \"category\": \"Text\", \"text\": \"1671 antogos två ritare Petter Lang och Johan Leitz. Om den förre uppgiver Förteckningen, att han »1) afritat En hoop Sigiller tillijka med Leitz till S. Clara Closters afcopierade bref 2) Reest ifrån gefle til Östergötland och Westergötland, afritandes gambla monumenterna tillijka med Leitz uthi Secret. Hadorphs närwaro Anno 1672 och fölliande åhr 3) afritat större dehlen af munkestenarne i Upsala Domkyrkio Anno 1673. 4) uthi Helsingeland med Prof. Celsius A:0 1674 fölliachtig, afritat 5 st. Runestenar, dem Professoren alla till sig tagit». Hans sista kvitto är utfärdat i mars 1675 och avser föregående år, med vilket hans tjänstgöring synes hava upphört.¹ Längre stannade den samtidigt antagne konterfejaren Johan Leitz, som trots Hadorphs alla klagomål efterlämnat de flesta ritningarna av såväl runstenar som kyrkor, gravar, vapen och sigill. Delvis berodde detta dock på längden av hans tjänstetid; han blev nämligen avskedad först 1683. Enligt Förteckningen hade han »lemnat effter sig i A. Collegio fölliande Ritningar: 1) En bok in quarto Sign. N. 1 af 97 blad och Runestenar i Knifsta, Onsala, Wassunda och flere Sochnar Anno 1682 afritade. 2) Dito N. 2 af 47 blad med Runestenars afritningar i Soltuna och Danderydz Skepzlag, gjorde 1682 3) En kladd i 4:0 Nr. 3 af 23 blad med 46 st. Runestenar i Rasbo och Norrunda härad. 4) En kladd N. 4 af 51 blad samt en liten Renritning på en hoper Ulleråkers och Waxala häradz Runestenar 5) En liten tunn kladd på 18 blad med Swartsiö Landetz Runestenar 6) En liten tunn kladd N. 6 med 9 st. Runeritningar i Rasbo och Norrunda 7) En kladd och Renritning på 50 blad med Lagunda och Åsunda häradz Runestenar Anno\"}, {\"bbox\": [1187, 653, 1285, 712], \"category\": \"Text\", \"text\": \"Lang och Leitz\"}, {\"bbox\": [173, 1742, 1184, 1775], \"category\": \"Footnote\", \"text\": \"¹ Om honom se: Efraim Lundmark i Personhistorisk tidskrift 1925 (Målarsläkten Lang).\"}, {\"bbox\": [1108, 1808, 1179, 1848], \"category\": \"Page-footer\", \"text\": \"149\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    550,
+    248,
+    756,
+    283
+   ],
+   "category": "Section-header",
+   "text": "Runarbeten"
+  },
+  {
+   "bbox": [
+    128,
+    316,
+    1177,
+    446
+   ],
+   "category": "Text",
+   "text": "och rättast skee kan, effter originalen afrijta och mig ombeflita, att der uppå intet lyte eller feel blifwa må, hwilket jag med min handz vnderskrifft och signete bekräfftar. Stockh. 17 Maij 1672."
+  },
+  {
+   "bbox": [
+    866,
+    453,
+    1140,
+    488
+   ],
+   "category": "Text",
+   "text": "Gerdt Friderich»."
+  },
+  {
+   "bbox": [
+    132,
+    525,
+    1177,
+    655
+   ],
+   "category": "Text",
+   "text": "Såsom kontraktet anger, användes han endast såsom myntritare och betalades styckevis. Men enligt Rächningar arbetade han ännu 1674 för kollegiet."
+  },
+  {
+   "bbox": [
+    132,
+    650,
+    1184,
+    1736
+   ],
+   "category": "Text",
+   "text": "1671 antogos två ritare Petter Lang och Johan Leitz. Om den förre uppgiver Förteckningen, att han »1) afritat En hoop Sigiller tillijka med Leitz till S. Clara Closters afcopierade bref 2) Reest ifrån gefle til Östergötland och Westergötland, afritandes gambla monumenterna tillijka med Leitz uthi Secret. Hadorphs närwaro Anno 1672 och fölliande åhr 3) afritat större dehlen af munkestenarne i Upsala Domkyrkio Anno 1673. 4) uthi Helsingeland med Prof. Celsius A:0 1674 fölliachtig, afritat 5 st. Runestenar, dem Professoren alla till sig tagit». Hans sista kvitto är utfärdat i mars 1675 och avser föregående år, med vilket hans tjänstgöring synes hava upphört.¹ Längre stannade den samtidigt antagne konterfejaren Johan Leitz, som trots Hadorphs alla klagomål efterlämnat de flesta ritningarna av såväl runstenar som kyrkor, gravar, vapen och sigill. Delvis berodde detta dock på längden av hans tjänstetid; han blev nämligen avskedad först 1683. Enligt Förteckningen hade han »lemnat effter sig i A. Collegio fölliande Ritningar: 1) En bok in quarto Sign. N. 1 af 97 blad och Runestenar i Knifsta, Onsala, Wassunda och flere Sochnar Anno 1682 afritade. 2) Dito N. 2 af 47 blad med Runestenars afritningar i Soltuna och Danderydz Skepzlag, gjorde 1682 3) En kladd i 4:0 Nr. 3 af 23 blad med 46 st. Runestenar i Rasbo och Norrunda härad. 4) En kladd N. 4 af 51 blad samt en liten Renritning på en hoper Ulleråkers och Waxala häradz Runestenar 5) En liten tunn kladd på 18 blad med Swartsiö Landetz Runestenar 6) En liten tunn kladd N. 6 med 9 st. Runeritningar i Rasbo och Norrunda 7) En kladd och Renritning på 50 blad med Lagunda och Åsunda häradz Runestenar Anno"
+  },
+  {
+   "bbox": [
+    1187,
+    653,
+    1285,
+    712
+   ],
+   "category": "Text",
+   "text": "Lang och Leitz"
+  },
+  {
+   "bbox": [
+    173,
+    1742,
+    1184,
+    1775
+   ],
+   "category": "Footnote",
+   "text": "¹ Om honom se: Efraim Lundmark i Personhistorisk tidskrift 1925 (Målarsläkten Lang)."
+  },
+  {
+   "bbox": [
+    1108,
+    1808,
+    1179,
+    1848
+   ],
+   "category": "Page-footer",
+   "text": "149"
+  }
+ ]
+}

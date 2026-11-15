@@ -1,0 +1,142 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 57,
+ "seconds": 30.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [782, 248, 1196, 291], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [330, 322, 467, 415], \"category\": \"Text\", \"text\": \"Car. Lundii,\\nJur. Prof. i\\nUpsala.\"}, {\"bbox\": [472, 318, 1505, 430], \"category\": \"Text\", \"text\": \"Zamolxis, den första Göternes Lagstifftare, uti en Academisk Dissertation framstälter, däruti mycket införes, som Swenske och Giöthe-Antiquiteter angår. Tryckt i Upsala Åhr 1687.\"}, {\"bbox\": [315, 435, 467, 463], \"category\": \"Text\", \"text\": \"Olaus Rudbeck.\"}, {\"bbox\": [470, 426, 1505, 823], \"category\": \"Text\", \"text\": \"Atlands eller Manheims andre Deel, hwaruthinnan Solens, Månens och Jordens Dyrkan beskrifwes och dess första Uprinnelse, den Norda Sweriges Deel oppe uthi Kimi, tillägnas, tädan ifrån samma Afgudadyrkan till dhe andra Werldenes Delar är uthspridd worden, och alt detta, såwäl uthaf Främmande som Inländske Scribenters, men i synnerheet af wære Göthers, som för detta aldrig warit förklarade, Uthläggning och sammanstämmande bekräfftat. Hijt komma och oryggelige Skiäl, hwarigenom bewijses, att Solens och Månens Omlopp hoos intet Folck på Jordenne warit nogare uthräknat i dhe gambla Tijderne än som hoos wære Förfäder, desse Nordiske Folcken, föruthan mycket annat, som in till denne Dag legat förborgat.\"}, {\"bbox\": [315, 827, 467, 914], \"category\": \"Text\", \"text\": \"M. Håkon Spegel Biskop i Skara.\"}, {\"bbox\": [470, 819, 1505, 995], \"category\": \"Text\", \"text\": \"Om Gotlands qwarlåtne Monumenter, så och om dess gambla Inbyggiare, Förmögenheet, Fästningar, Lagar, Krig och många stora Skadestånd &c. Hwilka äre af åthskillige Historiske Qwarlefwor och wida kringspridde insamblade gambla Pergaments-Skrifter författat och sammanskrifwen.\"}, {\"bbox\": [338, 1022, 467, 1050], \"category\": \"Text\", \"text\": \"Sammaledes.\"}, {\"bbox\": [472, 1014, 1505, 1088], \"category\": \"Text\", \"text\": \"Ett Wärck om det gambla Kyrkio-Wäsendet i Westergöthland och många andra Handlingar, som i det Landet befinnes fordom skedde.\"}, {\"bbox\": [315, 1093, 467, 1180], \"category\": \"Text\", \"text\": \"M. Olof Graan Kyrkioherde i Piteå.\"}, {\"bbox\": [472, 1086, 1505, 1196], \"category\": \"Text\", \"text\": \"Historisk Beskrifning om Lapparnes Uhrsprung, Tungomål, Trolofningar och Giftermål, Föda och Kläder, widskiepelige GudstienstzÖfning, Warur och Handel, Skiuterij, Fiskerij med hwad mera som tänckwärdigt är».\"}, {\"bbox\": [470, 1228, 1505, 1687], \"category\": \"Text\", \"text\": \"När man betänker, att kollegiet 1690 var föga mer än tjugo år gammalt, måste man medgifva, att denna katalog är högst imponerande, särskilt om man tar hänsyn till den samtida litterära produktionen utanför kollegiet, ty frånser man Stiernhöök och Rudbeck, funnos knappt några produktiva författare i landet. Katalogen redogör väl även för den litterära verksamheten utanför kollegiet, och en del av de här uppräknade arbetena hade tillkommit före 1667. Men i alla fall var själva kollegiets insats högst betydande, särskilt om man tar hänsyn till de många arbeten, som delvis utfördes, men aldrig blevo tryckta, och vi skola nu skärskåda de olika grupper av arbeten, som utgåvos och planerades.\"}, {\"bbox\": [474, 1814, 524, 1849], \"category\": \"Page-footer\", \"text\": \"44\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    782,
+    248,
+    1196,
+    291
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    330,
+    322,
+    467,
+    415
+   ],
+   "category": "Text",
+   "text": "Car. Lundii,\nJur. Prof. i\nUpsala."
+  },
+  {
+   "bbox": [
+    472,
+    318,
+    1505,
+    430
+   ],
+   "category": "Text",
+   "text": "Zamolxis, den första Göternes Lagstifftare, uti en Academisk Dissertation framstälter, däruti mycket införes, som Swenske och Giöthe-Antiquiteter angår. Tryckt i Upsala Åhr 1687."
+  },
+  {
+   "bbox": [
+    315,
+    435,
+    467,
+    463
+   ],
+   "category": "Text",
+   "text": "Olaus Rudbeck."
+  },
+  {
+   "bbox": [
+    470,
+    426,
+    1505,
+    823
+   ],
+   "category": "Text",
+   "text": "Atlands eller Manheims andre Deel, hwaruthinnan Solens, Månens och Jordens Dyrkan beskrifwes och dess första Uprinnelse, den Norda Sweriges Deel oppe uthi Kimi, tillägnas, tädan ifrån samma Afgudadyrkan till dhe andra Werldenes Delar är uthspridd worden, och alt detta, såwäl uthaf Främmande som Inländske Scribenters, men i synnerheet af wære Göthers, som för detta aldrig warit förklarade, Uthläggning och sammanstämmande bekräfftat. Hijt komma och oryggelige Skiäl, hwarigenom bewijses, att Solens och Månens Omlopp hoos intet Folck på Jordenne warit nogare uthräknat i dhe gambla Tijderne än som hoos wære Förfäder, desse Nordiske Folcken, föruthan mycket annat, som in till denne Dag legat förborgat."
+  },
+  {
+   "bbox": [
+    315,
+    827,
+    467,
+    914
+   ],
+   "category": "Text",
+   "text": "M. Håkon Spegel Biskop i Skara."
+  },
+  {
+   "bbox": [
+    470,
+    819,
+    1505,
+    995
+   ],
+   "category": "Text",
+   "text": "Om Gotlands qwarlåtne Monumenter, så och om dess gambla Inbyggiare, Förmögenheet, Fästningar, Lagar, Krig och många stora Skadestånd &c. Hwilka äre af åthskillige Historiske Qwarlefwor och wida kringspridde insamblade gambla Pergaments-Skrifter författat och sammanskrifwen."
+  },
+  {
+   "bbox": [
+    338,
+    1022,
+    467,
+    1050
+   ],
+   "category": "Text",
+   "text": "Sammaledes."
+  },
+  {
+   "bbox": [
+    472,
+    1014,
+    1505,
+    1088
+   ],
+   "category": "Text",
+   "text": "Ett Wärck om det gambla Kyrkio-Wäsendet i Westergöthland och många andra Handlingar, som i det Landet befinnes fordom skedde."
+  },
+  {
+   "bbox": [
+    315,
+    1093,
+    467,
+    1180
+   ],
+   "category": "Text",
+   "text": "M. Olof Graan Kyrkioherde i Piteå."
+  },
+  {
+   "bbox": [
+    472,
+    1086,
+    1505,
+    1196
+   ],
+   "category": "Text",
+   "text": "Historisk Beskrifning om Lapparnes Uhrsprung, Tungomål, Trolofningar och Giftermål, Föda och Kläder, widskiepelige GudstienstzÖfning, Warur och Handel, Skiuterij, Fiskerij med hwad mera som tänckwärdigt är»."
+  },
+  {
+   "bbox": [
+    470,
+    1228,
+    1505,
+    1687
+   ],
+   "category": "Text",
+   "text": "När man betänker, att kollegiet 1690 var föga mer än tjugo år gammalt, måste man medgifva, att denna katalog är högst imponerande, särskilt om man tar hänsyn till den samtida litterära produktionen utanför kollegiet, ty frånser man Stiernhöök och Rudbeck, funnos knappt några produktiva författare i landet. Katalogen redogör väl även för den litterära verksamheten utanför kollegiet, och en del av de här uppräknade arbetena hade tillkommit före 1667. Men i alla fall var själva kollegiets insats högst betydande, särskilt om man tar hänsyn till de många arbeten, som delvis utfördes, men aldrig blevo tryckta, och vi skola nu skärskåda de olika grupper av arbeten, som utgåvos och planerades."
+  },
+  {
+   "bbox": [
+    474,
+    1814,
+    524,
+    1849
+   ],
+   "category": "Page-footer",
+   "text": "44"
+  }
+ ]
+}

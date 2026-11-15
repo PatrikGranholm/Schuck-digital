@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 29,
+ "seconds": 26.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [778, 252, 1196, 296], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [466, 323, 1504, 408], \"category\": \"Text\", \"text\": \"et Helsingicarum, quibus Versionem Legum Dalicarum hactenus ineditarum, ex MS:to descriptarum, volente Deo, addet.\"}, {\"bbox\": [466, 407, 1504, 699], \"category\": \"Text\", \"text\": \"Joannes Schefferus sub prælo habet Chronicon Vetus Archiepiscoporum Vpsaliensium, quod poterat pridem vidisse lucem, si typographus fecisset officium suum. Historiam gentis regionisque Lapponicæ partem bonam absoluit, cætera quæ desiderantur, addet tempore sequenti, si vitam et valetudinem Deus dabit. Publicare quoque cogitet Jsraelem Erlandi de vita et miraculis S. Erici, scriptorem trecentorum annorum, qui hactenus nemini fuit notus.\"}, {\"bbox\": [466, 698, 1504, 908], \"category\": \"Text\", \"text\": \"Olaus Verelius Hervarar Saga cum notis auctis et emendatis prælo subiecit; Tractatum itidem de Runographia veteri Scandica maiori ex parte elaboravit. Versioni autem Olafs Sagu ab Illustrissimo Dn. Cancellario ipsi iniunctæ et aliquousque perductæ se accinget, ut quamprimum fieri possit, absolvatur.\"}, {\"bbox\": [466, 906, 1504, 1157], \"category\": \"Text\", \"text\": \"Claudius Arrhenius ex mandato Illustrissimi Dn. Cancellarii Italicum rerum a Gothis et Longobardis in Italia gestarum Scriptorem Emanuelem Thesaurum gemina versione Latina et Svecica, auctioribusque quam antehac notis adornatum, quam poterit primum editioni parabit, Indicemque latinum præcipuarum in historia et annotatis rerum adjiciet.\"}, {\"bbox\": [466, 1155, 1504, 1323], \"category\": \"Text\", \"text\": \"Johan Hadorphius Leges Daliæ et Scaniæ ex antiquis Manuscriptis hoc anno publicare decrevit. Continuabit etiam in Genealogicis, et cæteris a Sereniss. R:gia Maiestate et illustrissimo Cancellario demandatis operibus».\"}, {\"bbox\": [333, 1361, 1507, 1780], \"category\": \"Text\", \"text\": \"Den odaterade redogörelsen för 1673 börjar med Loccenius, som efter Stiernhielms död 1672 blivit præses. Alla assessorerna äro med — utom Verelius, som redan nu stod på stridsfot med sina kolleger. Plats i papperet har lämnats öppen för honom, men av denna har han ej begagnat sig. I det gemensamma brev, som de övriga assessorerna skickade De la Gardie (se förut II sid. 59), skriva de härom: »Och när nu icke länge sedan effter E. HGr. Exc. begäran ett Vpsattz har blifwet giordt på dhe arbeten, som Adsessores hafwa förfärdigat eller förfärdiga tänkt, hafwer han en gång intet welat stå på papperet med oss andre, utan förtekningen, som uppsatt war på\"}, {\"bbox\": [477, 1807, 524, 1845], \"category\": \"Page-footer\", \"text\": \"16\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    778,
+    252,
+    1196,
+    296
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    466,
+    323,
+    1504,
+    408
+   ],
+   "category": "Text",
+   "text": "et Helsingicarum, quibus Versionem Legum Dalicarum hactenus ineditarum, ex MS:to descriptarum, volente Deo, addet."
+  },
+  {
+   "bbox": [
+    466,
+    407,
+    1504,
+    699
+   ],
+   "category": "Text",
+   "text": "Joannes Schefferus sub prælo habet Chronicon Vetus Archiepiscoporum Vpsaliensium, quod poterat pridem vidisse lucem, si typographus fecisset officium suum. Historiam gentis regionisque Lapponicæ partem bonam absoluit, cætera quæ desiderantur, addet tempore sequenti, si vitam et valetudinem Deus dabit. Publicare quoque cogitet Jsraelem Erlandi de vita et miraculis S. Erici, scriptorem trecentorum annorum, qui hactenus nemini fuit notus."
+  },
+  {
+   "bbox": [
+    466,
+    698,
+    1504,
+    908
+   ],
+   "category": "Text",
+   "text": "Olaus Verelius Hervarar Saga cum notis auctis et emendatis prælo subiecit; Tractatum itidem de Runographia veteri Scandica maiori ex parte elaboravit. Versioni autem Olafs Sagu ab Illustrissimo Dn. Cancellario ipsi iniunctæ et aliquousque perductæ se accinget, ut quamprimum fieri possit, absolvatur."
+  },
+  {
+   "bbox": [
+    466,
+    906,
+    1504,
+    1157
+   ],
+   "category": "Text",
+   "text": "Claudius Arrhenius ex mandato Illustrissimi Dn. Cancellarii Italicum rerum a Gothis et Longobardis in Italia gestarum Scriptorem Emanuelem Thesaurum gemina versione Latina et Svecica, auctioribusque quam antehac notis adornatum, quam poterit primum editioni parabit, Indicemque latinum præcipuarum in historia et annotatis rerum adjiciet."
+  },
+  {
+   "bbox": [
+    466,
+    1155,
+    1504,
+    1323
+   ],
+   "category": "Text",
+   "text": "Johan Hadorphius Leges Daliæ et Scaniæ ex antiquis Manuscriptis hoc anno publicare decrevit. Continuabit etiam in Genealogicis, et cæteris a Sereniss. R:gia Maiestate et illustrissimo Cancellario demandatis operibus»."
+  },
+  {
+   "bbox": [
+    333,
+    1361,
+    1507,
+    1780
+   ],
+   "category": "Text",
+   "text": "Den odaterade redogörelsen för 1673 börjar med Loccenius, som efter Stiernhielms död 1672 blivit præses. Alla assessorerna äro med — utom Verelius, som redan nu stod på stridsfot med sina kolleger. Plats i papperet har lämnats öppen för honom, men av denna har han ej begagnat sig. I det gemensamma brev, som de övriga assessorerna skickade De la Gardie (se förut II sid. 59), skriva de härom: »Och när nu icke länge sedan effter E. HGr. Exc. begäran ett Vpsattz har blifwet giordt på dhe arbeten, som Adsessores hafwa förfärdigat eller förfärdiga tänkt, hafwer han en gång intet welat stå på papperet med oss andre, utan förtekningen, som uppsatt war på"
+  },
+  {
+   "bbox": [
+    477,
+    1807,
+    524,
+    1845
+   ],
+   "category": "Page-footer",
+   "text": "16"
+  }
+ ]
+}

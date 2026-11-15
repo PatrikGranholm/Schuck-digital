@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 401,
+ "seconds": 26.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [815, 245, 1234, 289], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [496, 315, 1546, 857], \"category\": \"Text\", \"text\": \"Vid konsistoriets sammanträde den 4 juni, som var tämligen fåtaligt besökt — endast Schütz, Lundius, Aurivillius, Spole, Peringer och Norrman voro närvarande — framlämnade prorektor Schütz »ett bref daterat Stockholm d. 3 jun. sistl. ankommit under Collegii Antiquitatis Sigill och med dhes underskrifft, men dock icke någons af Assessorernes nampn tillagt, hwarföre twijkade Consistorium i förstonne, om dhet skulle upläsas, effter dhet wore uthan något nampn; omsider lijka wähl effter något betänckande uplästes dhet angående dhe gratulationer och Epistlar, som H. Prof. Ol. Rudbeck låtit trycka till sin Atlantica och i synnerheet eens kyrckeherdes ifrån Östergiötland Sitelii, hwilken, om dhet elliest är hans, uthlåtit sigh så in laudes Rudbeckii, så att han Collegio Antiq. dher igenom eij ringa præjudicerat.\"}, {\"bbox\": [496, 856, 1541, 1106], \"category\": \"Text\", \"text\": \"Och slöt Consistorium, att bref afgår till Collegiumet, dhet fuller ett bref är opläst under Collegii Antiq. Sigill, men uthan nampn, men Consistorium desidererar, dhet dhe uthj Collegio ville sine nampn underskrifwa till föllie af Kongl. May:tz allernådigste befallning, som och alltijd elliest vanl. är, att Consistorium kan så mycket mehr giöra sigh försäkrad, om dhet ifrån Collegio är kommit.\"}, {\"bbox\": [494, 1105, 1541, 1429], \"category\": \"Text\", \"text\": \"H. Norman begärtte få föra ad acta: Såsom igenom Hans Kongl. May:tz wår allernådigste Herres och Konungz åthskillige konungzlige bref och Fullmachter iag blifvit coopterad till een Collegii Antiquitatum ordinarie Assessor så till Löhn som rum, men dock så här uthinnan som dhes uthan blifwit (jag wet icke quo jure, quove auctore) förbijgången och platt ingen partt eller communication af dhetta ärendet hafft, så will iag och medh bem:te ankomne bref intet hafwa att skaffa».\"}, {\"bbox\": [494, 1435, 1541, 1561], \"category\": \"Text\", \"text\": \"Hadorph, som för tillfället befann sig på en antikvarisk resa i Uppland, fick genom Örnhielm underrättelse om ärendets behandling i konsistorium och skrev då den 9 juni till svar (K. B. Örnhielmiana):\"}, {\"bbox\": [494, 1561, 1541, 1769], \"category\": \"Text\", \"text\": \"»Jagh förnimmer, att pr. Lundius har mycket uplagdt sig emoot wårt bref, efter dhet icke war underskrifwit af oss alla medh egna händer och att Consistorium fördenskull skulle bref till oss låta afgå, att dhet icke wore dem till behagh underskrifwit, så tycker mig, om dhe skrifwa Latine, måste wij swara dhem, att dhet sätt till att under-\"}, {\"bbox\": [496, 1796, 569, 1843], \"category\": \"Page-footer\", \"text\": \"378\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    815,
+    245,
+    1234,
+    289
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    496,
+    315,
+    1546,
+    857
+   ],
+   "category": "Text",
+   "text": "Vid konsistoriets sammanträde den 4 juni, som var tämligen fåtaligt besökt — endast Schütz, Lundius, Aurivillius, Spole, Peringer och Norrman voro närvarande — framlämnade prorektor Schütz »ett bref daterat Stockholm d. 3 jun. sistl. ankommit under Collegii Antiquitatis Sigill och med dhes underskrifft, men dock icke någons af Assessorernes nampn tillagt, hwarföre twijkade Consistorium i förstonne, om dhet skulle upläsas, effter dhet wore uthan något nampn; omsider lijka wähl effter något betänckande uplästes dhet angående dhe gratulationer och Epistlar, som H. Prof. Ol. Rudbeck låtit trycka till sin Atlantica och i synnerheet eens kyrckeherdes ifrån Östergiötland Sitelii, hwilken, om dhet elliest är hans, uthlåtit sigh så in laudes Rudbeckii, så att han Collegio Antiq. dher igenom eij ringa præjudicerat."
+  },
+  {
+   "bbox": [
+    496,
+    856,
+    1541,
+    1106
+   ],
+   "category": "Text",
+   "text": "Och slöt Consistorium, att bref afgår till Collegiumet, dhet fuller ett bref är opläst under Collegii Antiq. Sigill, men uthan nampn, men Consistorium desidererar, dhet dhe uthj Collegio ville sine nampn underskrifwa till föllie af Kongl. May:tz allernådigste befallning, som och alltijd elliest vanl. är, att Consistorium kan så mycket mehr giöra sigh försäkrad, om dhet ifrån Collegio är kommit."
+  },
+  {
+   "bbox": [
+    494,
+    1105,
+    1541,
+    1429
+   ],
+   "category": "Text",
+   "text": "H. Norman begärtte få föra ad acta: Såsom igenom Hans Kongl. May:tz wår allernådigste Herres och Konungz åthskillige konungzlige bref och Fullmachter iag blifvit coopterad till een Collegii Antiquitatum ordinarie Assessor så till Löhn som rum, men dock så här uthinnan som dhes uthan blifwit (jag wet icke quo jure, quove auctore) förbijgången och platt ingen partt eller communication af dhetta ärendet hafft, så will iag och medh bem:te ankomne bref intet hafwa att skaffa»."
+  },
+  {
+   "bbox": [
+    494,
+    1435,
+    1541,
+    1561
+   ],
+   "category": "Text",
+   "text": "Hadorph, som för tillfället befann sig på en antikvarisk resa i Uppland, fick genom Örnhielm underrättelse om ärendets behandling i konsistorium och skrev då den 9 juni till svar (K. B. Örnhielmiana):"
+  },
+  {
+   "bbox": [
+    494,
+    1561,
+    1541,
+    1769
+   ],
+   "category": "Text",
+   "text": "»Jagh förnimmer, att pr. Lundius har mycket uplagdt sig emoot wårt bref, efter dhet icke war underskrifwit af oss alla medh egna händer och att Consistorium fördenskull skulle bref till oss låta afgå, att dhet icke wore dem till behagh underskrifwit, så tycker mig, om dhe skrifwa Latine, måste wij swara dhem, att dhet sätt till att under-"
+  },
+  {
+   "bbox": [
+    496,
+    1796,
+    569,
+    1843
+   ],
+   "category": "Page-footer",
+   "text": "378"
+  }
+ ]
+}

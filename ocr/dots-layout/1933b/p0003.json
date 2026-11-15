@@ -1,0 +1,61 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 3,
+ "seconds": 11.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [211, 125, 471, 414], \"category\": \"Picture\"}, {\"bbox\": [265, 448, 420, 471], \"category\": \"Text\", \"text\": \"Centralbiblioteket\"}, {\"bbox\": [300, 481, 351, 512], \"category\": \"Text\", \"text\": \"fol\"}, {\"bbox\": [267, 528, 455, 566], \"category\": \"Text\", \"text\": \"* 84/834 13\"}, {\"bbox\": [765, 1988, 1050, 2107], \"category\": \"Formula\", \"text\": \"* 40.84/25\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    211,
+    125,
+    471,
+    414
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    265,
+    448,
+    420,
+    471
+   ],
+   "category": "Text",
+   "text": "Centralbiblioteket"
+  },
+  {
+   "bbox": [
+    300,
+    481,
+    351,
+    512
+   ],
+   "category": "Text",
+   "text": "fol"
+  },
+  {
+   "bbox": [
+    267,
+    528,
+    455,
+    566
+   ],
+   "category": "Text",
+   "text": "* 84/834 13"
+  },
+  {
+   "bbox": [
+    765,
+    1988,
+    1050,
+    2107
+   ],
+   "category": "Formula",
+   "text": "* 40.84/25"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 400,
+ "seconds": 24.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [468, 245, 786, 281], \"category\": \"Page-header\", \"text\": \"Litterära strider\"}, {\"bbox\": [102, 315, 1159, 1690], \"category\": \"Text\", \"text\": \"barti nescimus cujus epistola de piæ sanctæque memoriæ Scheffero, Collegii nostri socio dum vixit longe optimo, meritorumque magnitudine in rem Regni hujus antiquariam adeoque literariam universam prorsus incluto rem prodere non veretur ab ipsa veritate quam remotissimam his verbis: Grotii prolegomena ad Scriptores Gothicos variis annotatis opplevisse dicitur Schefferus, ubi quæ ex assidua hujus doctrinæ (Rudbeckianæ) meditatione rectiora obvenerunt, emendavit, confodit aut plane rejecit. Pulcherrimum specimen, quid sperari debeat a Rudbeckio post impetratam sine censura quorum convenit quidvis edendi licentiam! Sed de his alias. Nunc ad rem redeamus nostri Collegii. Quæ et quot singuli nostrum in decus patriæ adque testandam fidem in Clementissimum Dominum Regem consignaveramus, etiam non exiguæ nonnunquam molis opera, notius est Majestati Augustissimi Domini Regis, quam ut de eo debeat honestiorum civium quisquam ambigere, etsi graves causæ editionem multorum potiorumque in hunc diem impediverint. Et ne quis de cætero credat deesse nobis facultatem recte vereque et absque omni livore judicandi de iis, quæ Dn. Rudbeckius hactenus emisit in publicum, paratos nos sciant Boni Æquique errorum in opere ejus Atlanticæ adversus veriorem Historiam commissorum (in theologiam admissa expendant viri Theologi) non exiguum dare catalogum, qvem, si culpam non agnoscens, importuna legibusque publicis damnata talium editione porro provocaverit, edituri sumus in publicum. Animus nobis hactenus fuerat, eritque in posterum, nil quicquam moliri, nisi quod cessurum speremus in decus publicum, firmarique possit fide Historica; ultimum, ut convenit, daturi locum fabularum conjecturarumque lubrico. Valete, viri optimi Amplissimique, et ne tacendo defuisse causæ nostræ arguamur, pauca hæc in Actorum publicorum codicem vestrum bona fide referte, nobisque favete, qui vobis omnibus ac singulis, ut professione Veri Rectique ita fide ac officiorum necessitudine esse semper cupimus quam conjunctissimi. Dabamus Holmiæ IV Calen. Junias A:o 1685.\"}, {\"bbox\": [597, 1697, 1124, 1742], \"category\": \"Text\", \"text\": \"Collegium Antiquitatum Patriæ».\"}, {\"bbox\": [1082, 1805, 1156, 1845], \"category\": \"Page-footer\", \"text\": \"377\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    468,
+    245,
+    786,
+    281
+   ],
+   "category": "Page-header",
+   "text": "Litterära strider"
+  },
+  {
+   "bbox": [
+    102,
+    315,
+    1159,
+    1690
+   ],
+   "category": "Text",
+   "text": "barti nescimus cujus epistola de piæ sanctæque memoriæ Scheffero, Collegii nostri socio dum vixit longe optimo, meritorumque magnitudine in rem Regni hujus antiquariam adeoque literariam universam prorsus incluto rem prodere non veretur ab ipsa veritate quam remotissimam his verbis: Grotii prolegomena ad Scriptores Gothicos variis annotatis opplevisse dicitur Schefferus, ubi quæ ex assidua hujus doctrinæ (Rudbeckianæ) meditatione rectiora obvenerunt, emendavit, confodit aut plane rejecit. Pulcherrimum specimen, quid sperari debeat a Rudbeckio post impetratam sine censura quorum convenit quidvis edendi licentiam! Sed de his alias. Nunc ad rem redeamus nostri Collegii. Quæ et quot singuli nostrum in decus patriæ adque testandam fidem in Clementissimum Dominum Regem consignaveramus, etiam non exiguæ nonnunquam molis opera, notius est Majestati Augustissimi Domini Regis, quam ut de eo debeat honestiorum civium quisquam ambigere, etsi graves causæ editionem multorum potiorumque in hunc diem impediverint. Et ne quis de cætero credat deesse nobis facultatem recte vereque et absque omni livore judicandi de iis, quæ Dn. Rudbeckius hactenus emisit in publicum, paratos nos sciant Boni Æquique errorum in opere ejus Atlanticæ adversus veriorem Historiam commissorum (in theologiam admissa expendant viri Theologi) non exiguum dare catalogum, qvem, si culpam non agnoscens, importuna legibusque publicis damnata talium editione porro provocaverit, edituri sumus in publicum. Animus nobis hactenus fuerat, eritque in posterum, nil quicquam moliri, nisi quod cessurum speremus in decus publicum, firmarique possit fide Historica; ultimum, ut convenit, daturi locum fabularum conjecturarumque lubrico. Valete, viri optimi Amplissimique, et ne tacendo defuisse causæ nostræ arguamur, pauca hæc in Actorum publicorum codicem vestrum bona fide referte, nobisque favete, qui vobis omnibus ac singulis, ut professione Veri Rectique ita fide ac officiorum necessitudine esse semper cupimus quam conjunctissimi. Dabamus Holmiæ IV Calen. Junias A:o 1685."
+  },
+  {
+   "bbox": [
+    597,
+    1697,
+    1124,
+    1742
+   ],
+   "category": "Text",
+   "text": "Collegium Antiquitatum Patriæ»."
+  },
+  {
+   "bbox": [
+    1082,
+    1805,
+    1156,
+    1845
+   ],
+   "category": "Page-footer",
+   "text": "377"
+  }
+ ]
+}

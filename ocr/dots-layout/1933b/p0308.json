@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 308,
+ "seconds": 26.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [331, 237, 899, 281], \"category\": \"Section-header\", \"text\": \"Arkeologi och ortbeskrivningar\"}, {\"bbox\": [90, 307, 1135, 640], \"category\": \"Text\", \"text\": \"vinciarum, Accuratius quam unquam antehac editæ (Åbo 1650), som sönderfaller i tio böcker, den första en geografisk beskrivning av Sverige och Finland, den andra om folkets ursprung, den tredje om runorna och språken, den fjärde om sederna, den femte om styrelsesättet, den sjätte om armé, flotta, mynt m. m., den sjunde om rikets städer, den åttonde om högadliga familjer, den nionde upptager en kungalängd ända från Ubbo till Kristina, och den sista handlar om religionen och de olika stiften.\"}, {\"bbox\": [90, 640, 1135, 1380], \"category\": \"Text\", \"text\": \"Det nya arbetet skulle bliva av en i viss mån annan karaktär. Dess syfte var att giva utlandet en föreställning om stormakten Sverige, att i ett praktverk visa upp, att landet ägde både en urgammal kultur samt moderna slott och byggnader, som väl kunde tävla med utlandets, med andra ord: att Karl XI:s Sverige icke var en uppkomling bland folken, utan i börd, makt och rikedom en like till de förnämsta. Detta skulle framför allt åskådliggöras i bild. Uppslaget utgick även från en konstnär, Erik Dahlberg, som då var överstelöjtnant, och huvudvikten skulle läggas på planscherna, som Dahlberg ritade och som sedan skulle stickas i koppar. Till en början var »topografien» — som den ännu kallades — ett privat företag av Dahlberg, och den 28 mars 1661 erhöll han tio års privilegium¹ på sitt arbete. Han började nu att resa kring i landsorten, där han avtecknade slott, herrgårdar, kyrkor m. m. Först var det meningen att dessa skulle graveras i Holland, men efter någon tid bestämde han sig för Paris, dit han reste 1667 och där han stannade ett år. Där graverades också de första sticken av Jean Marot, Adam Perelle m. fl.\"}, {\"bbox\": [90, 1386, 1135, 1722], \"category\": \"Text\", \"text\": \"Men arbetet skulle även hava en text, och denna fick redan från början en halvt officiell karaktär. Samma dag, som privilegiet utfärdades, skickade regeringen ett brev till historiografen Johannes Loccenius, som fick i uppdrag att skriva denna text: »Carl etc. Eftersom, Historiographe, Wår Troo Tiänare och Öfwerstl. Edell och Wälbördig Erich Dahlberg ähr vthj wärket begrepin at publicera och af Trycket vthgå låta Topographiam af heela Sweriges Rijke och dess vnderliggiande provincier medh behörige koppar-\"}, {\"bbox\": [1142, 1394, 1247, 1453], \"category\": \"Text\", \"text\": \"Loccenius'\\ntext\"}, {\"bbox\": [128, 1730, 702, 1764], \"category\": \"Footnote\", \"text\": \"¹ Själva originalet finnes U. B. Gahm sign. U 111.\"}, {\"bbox\": [1062, 1792, 1134, 1838], \"category\": \"Page-footer\", \"text\": \"287\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    331,
+    237,
+    899,
+    281
+   ],
+   "category": "Section-header",
+   "text": "Arkeologi och ortbeskrivningar"
+  },
+  {
+   "bbox": [
+    90,
+    307,
+    1135,
+    640
+   ],
+   "category": "Text",
+   "text": "vinciarum, Accuratius quam unquam antehac editæ (Åbo 1650), som sönderfaller i tio böcker, den första en geografisk beskrivning av Sverige och Finland, den andra om folkets ursprung, den tredje om runorna och språken, den fjärde om sederna, den femte om styrelsesättet, den sjätte om armé, flotta, mynt m. m., den sjunde om rikets städer, den åttonde om högadliga familjer, den nionde upptager en kungalängd ända från Ubbo till Kristina, och den sista handlar om religionen och de olika stiften."
+  },
+  {
+   "bbox": [
+    90,
+    640,
+    1135,
+    1380
+   ],
+   "category": "Text",
+   "text": "Det nya arbetet skulle bliva av en i viss mån annan karaktär. Dess syfte var att giva utlandet en föreställning om stormakten Sverige, att i ett praktverk visa upp, att landet ägde både en urgammal kultur samt moderna slott och byggnader, som väl kunde tävla med utlandets, med andra ord: att Karl XI:s Sverige icke var en uppkomling bland folken, utan i börd, makt och rikedom en like till de förnämsta. Detta skulle framför allt åskådliggöras i bild. Uppslaget utgick även från en konstnär, Erik Dahlberg, som då var överstelöjtnant, och huvudvikten skulle läggas på planscherna, som Dahlberg ritade och som sedan skulle stickas i koppar. Till en början var »topografien» — som den ännu kallades — ett privat företag av Dahlberg, och den 28 mars 1661 erhöll han tio års privilegium¹ på sitt arbete. Han började nu att resa kring i landsorten, där han avtecknade slott, herrgårdar, kyrkor m. m. Först var det meningen att dessa skulle graveras i Holland, men efter någon tid bestämde han sig för Paris, dit han reste 1667 och där han stannade ett år. Där graverades också de första sticken av Jean Marot, Adam Perelle m. fl."
+  },
+  {
+   "bbox": [
+    90,
+    1386,
+    1135,
+    1722
+   ],
+   "category": "Text",
+   "text": "Men arbetet skulle även hava en text, och denna fick redan från början en halvt officiell karaktär. Samma dag, som privilegiet utfärdades, skickade regeringen ett brev till historiografen Johannes Loccenius, som fick i uppdrag att skriva denna text: »Carl etc. Eftersom, Historiographe, Wår Troo Tiänare och Öfwerstl. Edell och Wälbördig Erich Dahlberg ähr vthj wärket begrepin at publicera och af Trycket vthgå låta Topographiam af heela Sweriges Rijke och dess vnderliggiande provincier medh behörige koppar-"
+  },
+  {
+   "bbox": [
+    1142,
+    1394,
+    1247,
+    1453
+   ],
+   "category": "Text",
+   "text": "Loccenius'\ntext"
+  },
+  {
+   "bbox": [
+    128,
+    1730,
+    702,
+    1764
+   ],
+   "category": "Footnote",
+   "text": "¹ Själva originalet finnes U. B. Gahm sign. U 111."
+  },
+  {
+   "bbox": [
+    1062,
+    1792,
+    1134,
+    1838
+   ],
+   "category": "Page-footer",
+   "text": "287"
+  }
+ ]
+}

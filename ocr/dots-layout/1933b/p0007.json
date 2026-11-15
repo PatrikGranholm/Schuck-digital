@@ -1,0 +1,32 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 7,
+ "seconds": 9.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [247, 2303, 324, 2343], \"category\": \"Page-footer\", \"text\": \"HOTBOK\\nHYPHARE\\nSTOCKHOLM\"}, {\"bbox\": [282, 115, 327, 147], \"category\": \"Page-footer\", \"text\": \"06\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    247,
+    2303,
+    324,
+    2343
+   ],
+   "category": "Page-footer",
+   "text": "HOTBOK\nHYPHARE\nSTOCKHOLM"
+  },
+  {
+   "bbox": [
+    282,
+    115,
+    327,
+    147
+   ],
+   "category": "Page-footer",
+   "text": "06"
+  }
+ ]
+}

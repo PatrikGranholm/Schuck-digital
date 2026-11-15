@@ -1,0 +1,172 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 31,
+ "seconds": 29.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [780, 244, 1194, 287], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [329, 327, 461, 390], \"category\": \"Text\", \"text\": \"Consignatio-\\nnen 1674\"}, {\"bbox\": [467, 315, 1503, 405], \"category\": \"Text\", \"text\": \"I redogörelsen för 1674 yttrar sig Verelius så knapphändigt som möjligt:\"}, {\"bbox\": [467, 410, 1503, 496], \"category\": \"Text\", \"text\": \"»Consignatio Operum partim iam elaboratorum, partim, iuvante Deo, elaborandorum a Collegii Antiquitatum membris, Anno 1674.\"}, {\"bbox\": [467, 499, 1505, 667], \"category\": \"Text\", \"text\": \"Iohannes Loccenius, Collegii Antiquitatum Præses, Latine vertit Leges Uplandicas, Westro- et Ostro-Gothicas, Westmannicas, Sudermannicas, Helsingicas et Dalicas, quibus, si Deus volet, propediem accedet Versio Latina Legum Gothlandicarum.\"}, {\"bbox\": [471, 670, 1507, 759], \"category\": \"Text\", \"text\": \"Idem Lexicon universi Juris Sueo-Gothici auctius et emendatius editioni paravit.\"}, {\"bbox\": [471, 754, 1509, 877], \"category\": \"Text\", \"text\": \"Idem Latine transtulit Ius maritimum Sueciæ, quod, cum Tractatu authoris de eodem argumento, iam Holmiæ sub prælo Wankifiano est.\"}, {\"bbox\": [475, 878, 1509, 1001], \"category\": \"Text\", \"text\": \"Eiusdem Historia Suecica et Antiquitates Sueo-Gothicæ auctiores et emendatiores prælo Christiani Wolff, bibliopolæ Francofurtensis, commissæ sunt.\"}, {\"bbox\": [477, 1001, 1511, 1087], \"category\": \"Text\", \"text\": \"Jahannes Axehiälm in revidendis suis translatis Historijs, Barlaami et Vilcini, nec non in earum indicibus perficiendis, adhuc versatur.\"}, {\"bbox\": [477, 1085, 1513, 1209], \"category\": \"Text\", \"text\": \"Joannes Schefferus prælo paratam habet Vitam S. Erici ab Jsraele Erlandi conscriptam, nunquam publicatam hactenus, cum vberioribus in eam annotationibus.\"}, {\"bbox\": [479, 1209, 1513, 1296], \"category\": \"Text\", \"text\": \"Nunc in elaborando opere de Antiquis Regni Sueciæ insignibus et tribus coronis occupatus, quantum vires corporis permittunt.\"}, {\"bbox\": [479, 1296, 1515, 1386], \"category\": \"Text\", \"text\": \"Idem opera Hygini suis emendationibus et notis illustrata habet sub prælo, Hamburgi apud Goth. Schulthen.\"}, {\"bbox\": [479, 1381, 1515, 1467], \"category\": \"Text\", \"text\": \"Olaus Verelius, quæ elaborata habuit, prælo iam excuduntur, in lexico autem linguæ veteris adornando porro occupabitur.\"}, {\"bbox\": [483, 1469, 1520, 1598], \"category\": \"Text\", \"text\": \"Claudius Arrhenius spisso operi Scriptoris Italici de Gothorum Longobardorumque rebus in Italia gestis fere iam absoluto, necessarios adjiciet Indices, quibus confectis, prælo potest subjici.\"}, {\"bbox\": [483, 1598, 1522, 1769], \"category\": \"Text\", \"text\": \"Johan Hadorphius Acta nonnulla publica, quæ Regibus olim Sueciæ cum ordinibus regni intercessere et nunc illustrandæ Historiæ causa legi merentur, ad Rhytmicum Chronicon publicabit. Absolutis vero Daliæ et Schaniæ legibus, quæ sub prælo sunt, Chronicon\"}, {\"bbox\": [491, 1801, 539, 1839], \"category\": \"Page-footer\", \"text\": \"18\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    780,
+    244,
+    1194,
+    287
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    329,
+    327,
+    461,
+    390
+   ],
+   "category": "Text",
+   "text": "Consignatio-\nnen 1674"
+  },
+  {
+   "bbox": [
+    467,
+    315,
+    1503,
+    405
+   ],
+   "category": "Text",
+   "text": "I redogörelsen för 1674 yttrar sig Verelius så knapphändigt som möjligt:"
+  },
+  {
+   "bbox": [
+    467,
+    410,
+    1503,
+    496
+   ],
+   "category": "Text",
+   "text": "»Consignatio Operum partim iam elaboratorum, partim, iuvante Deo, elaborandorum a Collegii Antiquitatum membris, Anno 1674."
+  },
+  {
+   "bbox": [
+    467,
+    499,
+    1505,
+    667
+   ],
+   "category": "Text",
+   "text": "Iohannes Loccenius, Collegii Antiquitatum Præses, Latine vertit Leges Uplandicas, Westro- et Ostro-Gothicas, Westmannicas, Sudermannicas, Helsingicas et Dalicas, quibus, si Deus volet, propediem accedet Versio Latina Legum Gothlandicarum."
+  },
+  {
+   "bbox": [
+    471,
+    670,
+    1507,
+    759
+   ],
+   "category": "Text",
+   "text": "Idem Lexicon universi Juris Sueo-Gothici auctius et emendatius editioni paravit."
+  },
+  {
+   "bbox": [
+    471,
+    754,
+    1509,
+    877
+   ],
+   "category": "Text",
+   "text": "Idem Latine transtulit Ius maritimum Sueciæ, quod, cum Tractatu authoris de eodem argumento, iam Holmiæ sub prælo Wankifiano est."
+  },
+  {
+   "bbox": [
+    475,
+    878,
+    1509,
+    1001
+   ],
+   "category": "Text",
+   "text": "Eiusdem Historia Suecica et Antiquitates Sueo-Gothicæ auctiores et emendatiores prælo Christiani Wolff, bibliopolæ Francofurtensis, commissæ sunt."
+  },
+  {
+   "bbox": [
+    477,
+    1001,
+    1511,
+    1087
+   ],
+   "category": "Text",
+   "text": "Jahannes Axehiälm in revidendis suis translatis Historijs, Barlaami et Vilcini, nec non in earum indicibus perficiendis, adhuc versatur."
+  },
+  {
+   "bbox": [
+    477,
+    1085,
+    1513,
+    1209
+   ],
+   "category": "Text",
+   "text": "Joannes Schefferus prælo paratam habet Vitam S. Erici ab Jsraele Erlandi conscriptam, nunquam publicatam hactenus, cum vberioribus in eam annotationibus."
+  },
+  {
+   "bbox": [
+    479,
+    1209,
+    1513,
+    1296
+   ],
+   "category": "Text",
+   "text": "Nunc in elaborando opere de Antiquis Regni Sueciæ insignibus et tribus coronis occupatus, quantum vires corporis permittunt."
+  },
+  {
+   "bbox": [
+    479,
+    1296,
+    1515,
+    1386
+   ],
+   "category": "Text",
+   "text": "Idem opera Hygini suis emendationibus et notis illustrata habet sub prælo, Hamburgi apud Goth. Schulthen."
+  },
+  {
+   "bbox": [
+    479,
+    1381,
+    1515,
+    1467
+   ],
+   "category": "Text",
+   "text": "Olaus Verelius, quæ elaborata habuit, prælo iam excuduntur, in lexico autem linguæ veteris adornando porro occupabitur."
+  },
+  {
+   "bbox": [
+    483,
+    1469,
+    1520,
+    1598
+   ],
+   "category": "Text",
+   "text": "Claudius Arrhenius spisso operi Scriptoris Italici de Gothorum Longobardorumque rebus in Italia gestis fere iam absoluto, necessarios adjiciet Indices, quibus confectis, prælo potest subjici."
+  },
+  {
+   "bbox": [
+    483,
+    1598,
+    1522,
+    1769
+   ],
+   "category": "Text",
+   "text": "Johan Hadorphius Acta nonnulla publica, quæ Regibus olim Sueciæ cum ordinibus regni intercessere et nunc illustrandæ Historiæ causa legi merentur, ad Rhytmicum Chronicon publicabit. Absolutis vero Daliæ et Schaniæ legibus, quæ sub prælo sunt, Chronicon"
+  },
+  {
+   "bbox": [
+    491,
+    1801,
+    539,
+    1839
+   ],
+   "category": "Page-footer",
+   "text": "18"
+  }
+ ]
+}

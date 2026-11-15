@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 66,
+ "seconds": 25.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [423, 255, 820, 300], \"category\": \"Section-header\", \"text\": \"De götiska skrifterna\"}, {\"bbox\": [99, 326, 1143, 620], \"category\": \"Text\", \"text\": \"ödmiukelig till Examen och förhör öfwer sådant uthi Kongl. Cantz-\\nlie Collegio, både att pröfwas, huru jagh kan gambla Göthiskan\\nläsa och tyda sampt kan migh förklara i alla andra måål, som jagh\\nangifwit willia beskrifwa. Hwarom jagh ödmiukelig anhåller, på det\\nKongl. Collegium må komma till en full kunskap, hwad det skall\\ntroo eller intet troo, fölliandes här hoos Attester af bägge Jsländarne,\\nhuru mycket dhe migh widh desse wärk betient».\"}, {\"bbox\": [102, 658, 1148, 1741], \"category\": \"Text\", \"text\": \"Denna skrivelse åtföljes av tre intyg, först ett av Peringer, som vitsordade, att Hadorphs översättning var en annan än »Hr. Axehielms ingifne version, på hwilken uthi begynnelsen fattas 18 Capitel både Text och version, sedan på ett annat ställe felar 13 Capitels Text och midt uthi Historien åtherstår 47 Capitel, som för detta på swenska aldrig afsatte warit, effter som bem:te 47 Capitel ära dhe swåraste i hela Wilkina sagan». De båda andra intygen voro från islänningarna Guðmundur Guðmundsson och Guðmundur Ólafsson. Den förre skrev: »Effter som Actuarien Hr. Johan Hadorph har begiärat af migh en Attest om hans Wilkine sagas version och huru mycket jagh uthi samma sagas version har arbetat; altså attesterar jagh migh hafwa Actuariens första versions kladd rent skrifwit och aldrig satt min hand till någon version, uthan när han i förstone intet sielf kunde rätt finna sigh uthi några mörka och swåra ordelagh i den gambla Texten, hafwer migh rådfrågat, huru deras genuinus sensus wore, hwilket jagh (som i swenskan intet så mächtig war) honom på Latin uthtydde, men nu sedan han sigh der uthi en tijdh öfwat, behöfde han ingen min hielp. Hwad nu det senare arbetet anlangar, nembl. Scandia Antiqua, så hafwer jagh medh honom igenomläst åthskillige gambla Mss. och hwad han funnit nödigt och tienligit wara, extraherat och inskrifwit uthi hans Excerpt Böcker, hwilka han sedan uthan någon min hielp hafwer verterat på nu brukelig swenska och infördt i sina concepter, som här öfwer kunna bära wittnesbörd. Detta i sanning wara af migh sagdt, bekräfftar jagh nu här skrifftelig och will det, om så behöfdes, Edelig bekräfft, såsom och att han reda är sigh så förekommen\"}, {\"bbox\": [1095, 1818, 1139, 1856], \"category\": \"Page-footer\", \"text\": \"53\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    423,
+    255,
+    820,
+    300
+   ],
+   "category": "Section-header",
+   "text": "De götiska skrifterna"
+  },
+  {
+   "bbox": [
+    99,
+    326,
+    1143,
+    620
+   ],
+   "category": "Text",
+   "text": "ödmiukelig till Examen och förhör öfwer sådant uthi Kongl. Cantz-\nlie Collegio, både att pröfwas, huru jagh kan gambla Göthiskan\nläsa och tyda sampt kan migh förklara i alla andra måål, som jagh\nangifwit willia beskrifwa. Hwarom jagh ödmiukelig anhåller, på det\nKongl. Collegium må komma till en full kunskap, hwad det skall\ntroo eller intet troo, fölliandes här hoos Attester af bägge Jsländarne,\nhuru mycket dhe migh widh desse wärk betient»."
+  },
+  {
+   "bbox": [
+    102,
+    658,
+    1148,
+    1741
+   ],
+   "category": "Text",
+   "text": "Denna skrivelse åtföljes av tre intyg, först ett av Peringer, som vitsordade, att Hadorphs översättning var en annan än »Hr. Axehielms ingifne version, på hwilken uthi begynnelsen fattas 18 Capitel både Text och version, sedan på ett annat ställe felar 13 Capitels Text och midt uthi Historien åtherstår 47 Capitel, som för detta på swenska aldrig afsatte warit, effter som bem:te 47 Capitel ära dhe swåraste i hela Wilkina sagan». De båda andra intygen voro från islänningarna Guðmundur Guðmundsson och Guðmundur Ólafsson. Den förre skrev: »Effter som Actuarien Hr. Johan Hadorph har begiärat af migh en Attest om hans Wilkine sagas version och huru mycket jagh uthi samma sagas version har arbetat; altså attesterar jagh migh hafwa Actuariens första versions kladd rent skrifwit och aldrig satt min hand till någon version, uthan när han i förstone intet sielf kunde rätt finna sigh uthi några mörka och swåra ordelagh i den gambla Texten, hafwer migh rådfrågat, huru deras genuinus sensus wore, hwilket jagh (som i swenskan intet så mächtig war) honom på Latin uthtydde, men nu sedan han sigh der uthi en tijdh öfwat, behöfde han ingen min hielp. Hwad nu det senare arbetet anlangar, nembl. Scandia Antiqua, så hafwer jagh medh honom igenomläst åthskillige gambla Mss. och hwad han funnit nödigt och tienligit wara, extraherat och inskrifwit uthi hans Excerpt Böcker, hwilka han sedan uthan någon min hielp hafwer verterat på nu brukelig swenska och infördt i sina concepter, som här öfwer kunna bära wittnesbörd. Detta i sanning wara af migh sagdt, bekräfftar jagh nu här skrifftelig och will det, om så behöfdes, Edelig bekräfft, såsom och att han reda är sigh så förekommen"
+  },
+  {
+   "bbox": [
+    1095,
+    1818,
+    1139,
+    1856
+   ],
+   "category": "Page-footer",
+   "text": "53"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 25,
+ "seconds": 26.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [765, 250, 1184, 293], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [452, 320, 1500, 987], \"category\": \"Text\", \"text\": \"många Exemplar at låta tryckia, efter afgången och försälljningen plägar wara mächta owiss. At Curio warder iu sin flijt görandes, will Jagh eij twifla, allenast detta recommenderas, at han må bruka så godt tryck som papperet det meriterar. Hr. Axehielms arbete, som färdigt är, wore wäll, at det nu iblandh de första trycktes, sedan det af Collegio reviderat är. Dess Barlamus tyckes migh kunna framdeles komma j liuset medh flera sådanne skrifter tillijka såsom Troyamanna Sagha och andra mehr. Hr. Professoren Celsius gör wäll, om han sitt arbete De Fastis låter tryckia nu, och såge Jagh gierna, det Burej Calendarium perpetuum der till bijfogades vthstucket som sigh bör tillijka medh sahl. gubbens purtroit(!), hwilka begge Jagh Eder medh Curio öfwersänder. Detta och hwadh mehra till lustre och befordringh af Collegio Antiquitatum tienar, recommenderar Jagh flitigt j Eder försorgh såsom och at communicera migh Edra tankar och förslagh öfwer ett och annat, som kan wara af nöden, försäkrandes derhoos det iagh är\"}, {\"bbox\": [948, 996, 1426, 1039], \"category\": \"Text\", \"text\": \"Eder högt ährade gode herrar\"}, {\"bbox\": [459, 1051, 859, 1136], \"category\": \"Text\", \"text\": \"Stockholm d. 6 Februarij\\n1671.\"}, {\"bbox\": [983, 1050, 1462, 1134], \"category\": \"Text\", \"text\": \"Beredwillige\\nMagnus Gabriel De la Gardie.\"}, {\"bbox\": [459, 1174, 1502, 1509], \"category\": \"Text\", \"text\": \"P. S. Skulle Mons. Ahrenius eller någon annan willia skrifwa något de vita et moribus lapponum, sålunda at 1) Quid antiquis fuerit cognitum om dem och det landet vthwijstes 2) Natura Cœli et soli på den ohrten 3) Vita et mores gentis och 4) hwadh Swerige för tienst af dhem in bello eller elliest hafwer at betaga dhem tankan, at Lapparna constituera magnam partem Exercitus Sueticj, der doch een lapp och een Indianer nestan lijka rare äre j Swerige att skåda, tyckes migh det icke wara illa».\"}, {\"bbox\": [462, 1547, 1501, 1676], \"category\": \"Text\", \"text\": \"De här nämnda bilagorna finnas ej längre fogade till brevet. Men i riksarkivet (Antikvitetskoll. till De la Gardie) ligger en avskrift av bilaga 2:\"}, {\"bbox\": [462, 1688, 1502, 1777], \"category\": \"Text\", \"text\": \"»Effter hans högh Grefl. Excell. H. RijkzCantzlers nådige anordning är uthj en Post till åhr 1670 inköpt Papper — 600 Rijs\"}, {\"bbox\": [467, 1815, 515, 1844], \"category\": \"Page-footer\", \"text\": \"12\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    765,
+    250,
+    1184,
+    293
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    452,
+    320,
+    1500,
+    987
+   ],
+   "category": "Text",
+   "text": "många Exemplar at låta tryckia, efter afgången och försälljningen plägar wara mächta owiss. At Curio warder iu sin flijt görandes, will Jagh eij twifla, allenast detta recommenderas, at han må bruka så godt tryck som papperet det meriterar. Hr. Axehielms arbete, som färdigt är, wore wäll, at det nu iblandh de första trycktes, sedan det af Collegio reviderat är. Dess Barlamus tyckes migh kunna framdeles komma j liuset medh flera sådanne skrifter tillijka såsom Troyamanna Sagha och andra mehr. Hr. Professoren Celsius gör wäll, om han sitt arbete De Fastis låter tryckia nu, och såge Jagh gierna, det Burej Calendarium perpetuum der till bijfogades vthstucket som sigh bör tillijka medh sahl. gubbens purtroit(!), hwilka begge Jagh Eder medh Curio öfwersänder. Detta och hwadh mehra till lustre och befordringh af Collegio Antiquitatum tienar, recommenderar Jagh flitigt j Eder försorgh såsom och at communicera migh Edra tankar och förslagh öfwer ett och annat, som kan wara af nöden, försäkrandes derhoos det iagh är"
+  },
+  {
+   "bbox": [
+    948,
+    996,
+    1426,
+    1039
+   ],
+   "category": "Text",
+   "text": "Eder högt ährade gode herrar"
+  },
+  {
+   "bbox": [
+    459,
+    1051,
+    859,
+    1136
+   ],
+   "category": "Text",
+   "text": "Stockholm d. 6 Februarij\n1671."
+  },
+  {
+   "bbox": [
+    983,
+    1050,
+    1462,
+    1134
+   ],
+   "category": "Text",
+   "text": "Beredwillige\nMagnus Gabriel De la Gardie."
+  },
+  {
+   "bbox": [
+    459,
+    1174,
+    1502,
+    1509
+   ],
+   "category": "Text",
+   "text": "P. S. Skulle Mons. Ahrenius eller någon annan willia skrifwa något de vita et moribus lapponum, sålunda at 1) Quid antiquis fuerit cognitum om dem och det landet vthwijstes 2) Natura Cœli et soli på den ohrten 3) Vita et mores gentis och 4) hwadh Swerige för tienst af dhem in bello eller elliest hafwer at betaga dhem tankan, at Lapparna constituera magnam partem Exercitus Sueticj, der doch een lapp och een Indianer nestan lijka rare äre j Swerige att skåda, tyckes migh det icke wara illa»."
+  },
+  {
+   "bbox": [
+    462,
+    1547,
+    1501,
+    1676
+   ],
+   "category": "Text",
+   "text": "De här nämnda bilagorna finnas ej längre fogade till brevet. Men i riksarkivet (Antikvitetskoll. till De la Gardie) ligger en avskrift av bilaga 2:"
+  },
+  {
+   "bbox": [
+    462,
+    1688,
+    1502,
+    1777
+   ],
+   "category": "Text",
+   "text": "»Effter hans högh Grefl. Excell. H. RijkzCantzlers nådige anordning är uthj en Post till åhr 1670 inköpt Papper — 600 Rijs"
+  },
+  {
+   "bbox": [
+    467,
+    1815,
+    515,
+    1844
+   ],
+   "category": "Page-footer",
+   "text": "12"
+  }
+ ]
+}

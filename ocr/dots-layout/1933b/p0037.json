@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 37,
+ "seconds": 20.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [777, 247, 1193, 290], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [466, 318, 581, 349], \"category\": \"Text\", \"text\": \"Summa:\"}, {\"bbox\": [638, 351, 1371, 465], \"category\": \"Table\", \"text\": \"<table><tr><td>Tryckte och under Tryck</td><td>32</td></tr><tr><td>Färdige till Tryck</td><td>10</td></tr><tr><td>Under arbete ännu</td><td>33».</td></tr></table>\"}, {\"bbox\": [365, 487, 461, 551], \"category\": \"Text\", \"text\": \"Följande rapporter\"}, {\"bbox\": [463, 483, 1503, 1554], \"category\": \"Text\", \"text\": \"Sedan han hänvisat till denna bibliografi, fortsatte han i brevet: »Behagar nu Ers höghGrefl. Excell. detta Collegium befordra till wiss åhrslön och andre nödige requisita, som jag uthj ett annat Memorial hafwer upfördt och ödmiukeligast skal sielf insinuera, då lärer Ers höghGrefl. Excell. lempna den åminnelse effter sig, som ingen herre för detta i Swerige giordt hafwer, och kunna ju de nobleste materier ännu uthj Ers höghGrefl. Excell. lifztijd tilwärkas, så att jag är säker der om, att hwar Ers höghGrefl. Excell. följer i detta sine egne förste förslag och mine ödmiukaste rättwiljande rådh, lärer Ers höghGrefl. Excell. öfwer alla måtto nobilitera sin famam hos posteriteten». Som vi sett lyckades Hadorph ock att åt kollegiet utverka bibeltryckstunnan. Denna indrogs likväl efter ett år, och den 11 mars 1676 uppvaktade därför Hadorph De la Gardie med ett nytt, mera personligt »Vpsatt på dhe förnämsta arbeten, jag hafwer desse åhr under händerne hafft och en del till ända fört». Han redogör här ganska utförligt för sin verksamhet både som arkivsekreterare och som assessor i antikvitetskollegiet. Han hade tryckt S. Olofs krönika samt Skåne- och Dalelagarna¹, vidare »hafwer jag låtet afrijta alle gamble swenske Mynt från K. Amunds och till desse tijder att framdeles publiceras med alla Myntordningar och en beskrifning af samma mynt» samt »effterföljande wärk begynt att författa: 1) En Historiam Monasteriorum Regni Sveciæ på swenska. 2) Ett wärk de titulis et variis honorum vocabulis antiquorum. 3) En historia legiferorum Sueciæ. 4) De usu, valore et pondere monetæ antiquæ. 5) Opus Genealogicum illustrium Regni Sueciæ familiarum».\"}, {\"bbox\": [463, 1560, 1503, 1729], \"category\": \"Text\", \"text\": \"I ett brev av den 9 januari 1677 gav han De la Gardie några upplysningar även om de andra assessorernas arbeten: »Nu sedan hafwer jag strax uprest till mitt Embete och hafwer här i Upsala sedan Thomasmässan fördrögt, låtandes i ordning före de gambla bref,\"}, {\"bbox\": [500, 1738, 968, 1771], \"category\": \"Footnote\", \"text\": \"¹ Dessa senare utkommo dock först 1677.\"}, {\"bbox\": [470, 1806, 519, 1842], \"category\": \"Page-footer\", \"text\": \"24\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    777,
+    247,
+    1193,
+    290
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    466,
+    318,
+    581,
+    349
+   ],
+   "category": "Text",
+   "text": "Summa:"
+  },
+  {
+   "bbox": [
+    638,
+    351,
+    1371,
+    465
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>Tryckte och under Tryck</td><td>32</td></tr><tr><td>Färdige till Tryck</td><td>10</td></tr><tr><td>Under arbete ännu</td><td>33».</td></tr></table>"
+  },
+  {
+   "bbox": [
+    365,
+    487,
+    461,
+    551
+   ],
+   "category": "Text",
+   "text": "Följande rapporter"
+  },
+  {
+   "bbox": [
+    463,
+    483,
+    1503,
+    1554
+   ],
+   "category": "Text",
+   "text": "Sedan han hänvisat till denna bibliografi, fortsatte han i brevet: »Behagar nu Ers höghGrefl. Excell. detta Collegium befordra till wiss åhrslön och andre nödige requisita, som jag uthj ett annat Memorial hafwer upfördt och ödmiukeligast skal sielf insinuera, då lärer Ers höghGrefl. Excell. lempna den åminnelse effter sig, som ingen herre för detta i Swerige giordt hafwer, och kunna ju de nobleste materier ännu uthj Ers höghGrefl. Excell. lifztijd tilwärkas, så att jag är säker der om, att hwar Ers höghGrefl. Excell. följer i detta sine egne förste förslag och mine ödmiukaste rättwiljande rådh, lärer Ers höghGrefl. Excell. öfwer alla måtto nobilitera sin famam hos posteriteten». Som vi sett lyckades Hadorph ock att åt kollegiet utverka bibeltryckstunnan. Denna indrogs likväl efter ett år, och den 11 mars 1676 uppvaktade därför Hadorph De la Gardie med ett nytt, mera personligt »Vpsatt på dhe förnämsta arbeten, jag hafwer desse åhr under händerne hafft och en del till ända fört». Han redogör här ganska utförligt för sin verksamhet både som arkivsekreterare och som assessor i antikvitetskollegiet. Han hade tryckt S. Olofs krönika samt Skåne- och Dalelagarna¹, vidare »hafwer jag låtet afrijta alle gamble swenske Mynt från K. Amunds och till desse tijder att framdeles publiceras med alla Myntordningar och en beskrifning af samma mynt» samt »effterföljande wärk begynt att författa: 1) En Historiam Monasteriorum Regni Sveciæ på swenska. 2) Ett wärk de titulis et variis honorum vocabulis antiquorum. 3) En historia legiferorum Sueciæ. 4) De usu, valore et pondere monetæ antiquæ. 5) Opus Genealogicum illustrium Regni Sueciæ familiarum»."
+  },
+  {
+   "bbox": [
+    463,
+    1560,
+    1503,
+    1729
+   ],
+   "category": "Text",
+   "text": "I ett brev av den 9 januari 1677 gav han De la Gardie några upplysningar även om de andra assessorernas arbeten: »Nu sedan hafwer jag strax uprest till mitt Embete och hafwer här i Upsala sedan Thomasmässan fördrögt, låtandes i ordning före de gambla bref,"
+  },
+  {
+   "bbox": [
+    500,
+    1738,
+    968,
+    1771
+   ],
+   "category": "Footnote",
+   "text": "¹ Dessa senare utkommo dock först 1677."
+  },
+  {
+   "bbox": [
+    470,
+    1806,
+    519,
+    1842
+   ],
+   "category": "Page-footer",
+   "text": "24"
+  }
+ ]
+}

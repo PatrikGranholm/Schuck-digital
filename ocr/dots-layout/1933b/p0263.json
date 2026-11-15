@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 263,
+ "seconds": 28.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [792, 242, 1212, 285], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [478, 312, 1527, 608], \"category\": \"Text\", \"text\": \"1280, då Egidius Romanus skrev sin uppfostringslära, som är Konungastyrelsens förnämsta källa. Skriften är avsedd för en ung, omyndig konung, och denne kan ej hava varit någon annan än Magnus Eriksson. Författaren har tydligen varit en klerk, och här gissar han på Upsalakaniken Henrik, som kort därefter blev ärkebiskop¹ samt kommer till det resultatet, att Konungastyrelsen skrivits mellan 1393 och 1398.\"}, {\"bbox\": [480, 602, 1529, 817], \"category\": \"Text\", \"text\": \"I någon mån rättade han i ett senare arbete den orimliga tidsuppgiften. I företalet till detta senare arbete låter han nämligen Konungastyrelsens författare vara samtidig med ärkebiskop Hemming, som var ärkebiskop 1341—1451. Men han ingår där ej vidare på frågan.\"}, {\"bbox\": [482, 810, 1532, 1478], \"category\": \"Text\", \"text\": \"Arbetet i fråga var »Incerti Scriptoris Sveci qvi vixit circa Ann. Christi MCCCXLIV Breve chronicon de Archiepiscopis et Sacerdotibus cæteris Ecclesiæ Upsaliensis numquam antea publicatum. Primus edidit Notisque ac Indice necessariis adornavit Joannes Schefferus Argentoratensis» (1673). Den handskrift, vari denna krönika stod, Registrum Upsaliense (nu åter i riksarkivet, sign. A 17), är en bland våra allra viktigaste medeltidscodices. Den hade upptäckts av Hadorph, som i sin förut (II sid. 28) anförda relation berättar, att han funnit Historiam Episcoporum uti en gammal Upsalabok »upp i ett hwalf här på slottet under gamble maatsalen». Fyndet gjordes redan 1668, och i brev till De la Gardie (R. A. Skrivelser till De la Gardie. Ser. C 1) ger Hadorph en utförlig beskrivning av manuskiptet: »En gammal pergamentzbook in folio, som hafwer fordom hördt Upsala doomkyrckio till och dädan till Archivum tagen, hwilken uppräknar kortelig Episcopos och Archiepiscopos Upsalienses in till Johannem Benedicti de Salista. 2) Archipræpositos, Archi-\"}, {\"bbox\": [486, 1494, 1534, 1771], \"category\": \"Footnote\", \"text\": \"¹ Hans kronologiska misstag äro här, som sagt, rent oförklarliga. Han skriver nämligen följande. Under Magnus Erikssons regering hade på mötet i Varberg 1393 arvsrätt till kronan införts i stället för val. Härmed avser han väl mötet i Varberg 1343, då Håkan utsågs till konung i Norge och Erik i Sverige. Men fortsättningen hindrar oss att här se ett tryckfel. Konungastyrelsen — fortsätter han — måste hava skrivits kort efteråt, före Matts Kettilmundssons död 1398 (han dog 1326) »intra quadriennium, quod est inter annum dictum, quo diem suum Kettilmundus obiit, et Annum MCCCXCIII, quo decretum publicum de regno successivo factum est Warbergæ». Såsom författare gissar han på kaniken Henrik, som kort därefter blev ärkebiskop (detta blev han 1383 och dog 1408). Han har således förlagt Magnus Erikssons regering en femtio år för långt fram i tiden.\"}, {\"bbox\": [325, 824, 475, 883], \"category\": \"Text\", \"text\": \"Incerti Scriptoris chronicon\"}, {\"bbox\": [492, 1807, 564, 1843], \"category\": \"Page-footer\", \"text\": \"242\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    792,
+    242,
+    1212,
+    285
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    478,
+    312,
+    1527,
+    608
+   ],
+   "category": "Text",
+   "text": "1280, då Egidius Romanus skrev sin uppfostringslära, som är Konungastyrelsens förnämsta källa. Skriften är avsedd för en ung, omyndig konung, och denne kan ej hava varit någon annan än Magnus Eriksson. Författaren har tydligen varit en klerk, och här gissar han på Upsalakaniken Henrik, som kort därefter blev ärkebiskop¹ samt kommer till det resultatet, att Konungastyrelsen skrivits mellan 1393 och 1398."
+  },
+  {
+   "bbox": [
+    480,
+    602,
+    1529,
+    817
+   ],
+   "category": "Text",
+   "text": "I någon mån rättade han i ett senare arbete den orimliga tidsuppgiften. I företalet till detta senare arbete låter han nämligen Konungastyrelsens författare vara samtidig med ärkebiskop Hemming, som var ärkebiskop 1341—1451. Men han ingår där ej vidare på frågan."
+  },
+  {
+   "bbox": [
+    482,
+    810,
+    1532,
+    1478
+   ],
+   "category": "Text",
+   "text": "Arbetet i fråga var »Incerti Scriptoris Sveci qvi vixit circa Ann. Christi MCCCXLIV Breve chronicon de Archiepiscopis et Sacerdotibus cæteris Ecclesiæ Upsaliensis numquam antea publicatum. Primus edidit Notisque ac Indice necessariis adornavit Joannes Schefferus Argentoratensis» (1673). Den handskrift, vari denna krönika stod, Registrum Upsaliense (nu åter i riksarkivet, sign. A 17), är en bland våra allra viktigaste medeltidscodices. Den hade upptäckts av Hadorph, som i sin förut (II sid. 28) anförda relation berättar, att han funnit Historiam Episcoporum uti en gammal Upsalabok »upp i ett hwalf här på slottet under gamble maatsalen». Fyndet gjordes redan 1668, och i brev till De la Gardie (R. A. Skrivelser till De la Gardie. Ser. C 1) ger Hadorph en utförlig beskrivning av manuskiptet: »En gammal pergamentzbook in folio, som hafwer fordom hördt Upsala doomkyrckio till och dädan till Archivum tagen, hwilken uppräknar kortelig Episcopos och Archiepiscopos Upsalienses in till Johannem Benedicti de Salista. 2) Archipræpositos, Archi-"
+  },
+  {
+   "bbox": [
+    486,
+    1494,
+    1534,
+    1771
+   ],
+   "category": "Footnote",
+   "text": "¹ Hans kronologiska misstag äro här, som sagt, rent oförklarliga. Han skriver nämligen följande. Under Magnus Erikssons regering hade på mötet i Varberg 1393 arvsrätt till kronan införts i stället för val. Härmed avser han väl mötet i Varberg 1343, då Håkan utsågs till konung i Norge och Erik i Sverige. Men fortsättningen hindrar oss att här se ett tryckfel. Konungastyrelsen — fortsätter han — måste hava skrivits kort efteråt, före Matts Kettilmundssons död 1398 (han dog 1326) »intra quadriennium, quod est inter annum dictum, quo diem suum Kettilmundus obiit, et Annum MCCCXCIII, quo decretum publicum de regno successivo factum est Warbergæ». Såsom författare gissar han på kaniken Henrik, som kort därefter blev ärkebiskop (detta blev han 1383 och dog 1408). Han har således förlagt Magnus Erikssons regering en femtio år för långt fram i tiden."
+  },
+  {
+   "bbox": [
+    325,
+    824,
+    475,
+    883
+   ],
+   "category": "Text",
+   "text": "Incerti Scriptoris chronicon"
+  },
+  {
+   "bbox": [
+    492,
+    1807,
+    564,
+    1843
+   ],
+   "category": "Page-footer",
+   "text": "242"
+  }
+ ]
+}

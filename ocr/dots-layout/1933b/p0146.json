@@ -1,0 +1,162 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 146,
+ "seconds": 18.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [255, 367, 887, 418], \"category\": \"Section-header\", \"text\": \"RVNASVETHICA,\"}, {\"bbox\": [338, 418, 808, 468], \"category\": \"Text\", \"text\": \"Duobus Systematibus comprehensa,\"}, {\"bbox\": [408, 475, 742, 523], \"category\": \"Text\", \"text\": \"Quorum PRIMVM.\"}, {\"bbox\": [282, 519, 855, 601], \"category\": \"Text\", \"text\": \"Exhibet Dissertationem de Linguis, & verso\\nLinguarum Origine.\"}, {\"bbox\": [393, 599, 744, 635], \"category\": \"Text\", \"text\": \"SECUNDUM.\"}, {\"bbox\": [150, 637, 982, 747], \"category\": \"Text\", \"text\": \"Radices Vniversales, & omnibus fere Linguis Communes eruit &\\naperit. Ex iisdemque Rivi eliciuntur in præcipuas, &\\ninde, ex iis ortas LINGVAS.\"}, {\"bbox\": [348, 774, 789, 819], \"category\": \"Text\", \"text\": \"Primi Systematis Capita sunt seqq.\"}, {\"bbox\": [147, 824, 981, 970], \"category\": \"List-item\", \"text\": \"1. Videri, omnes Linguas, quæ in Orbe cognito\\nextiterunt, & hodiè extant, ortas ex una,\\n& ad unam posse reduci.\"}, {\"bbox\": [145, 963, 978, 1060], \"category\": \"List-item\", \"text\": \"2. Naturæ conveniens, imò omninò neceffarium\\nfuisse, ex una Lingua multas oriri.\"}, {\"bbox\": [143, 1056, 977, 1201], \"category\": \"List-item\", \"text\": \"3. Ex confusione Babylonica, nullam novam Lin-\\nguam exortam: & si qua exorta est, momentaneam,\\n& ad breve tempus extitisse.\"}, {\"bbox\": [141, 1195, 978, 1338], \"category\": \"List-item\", \"text\": \"4. Hebræam, Phœniciam, Chaldeam, Syram, Ara-\\nbicam, Ægyptiam, Æthiopicam, Phrygiam, Perſi-\\ncam, Dialectorum, non linguarum esse vocamina.\"}, {\"bbox\": [141, 1334, 977, 1430], \"category\": \"List-item\", \"text\": \"5. Temporum, & Locorum intervallis, Dialectos a-\\nbire in Linguas.\"}, {\"bbox\": [139, 1424, 976, 1523], \"category\": \"List-item\", \"text\": \"6. Ex Scythica ortas Linguas Primas, non minùs O-\\nrientales, quam Septentrionales, & Occidentales;\"}, {\"bbox\": [137, 1519, 732, 1568], \"category\": \"List-item\", \"text\": \"7. Thraces & Getas, fuisse Scythas.\"}, {\"bbox\": [137, 1565, 972, 1661], \"category\": \"List-item\", \"text\": \"8. Ex his profectos primos Populos, primamque\\nA Linguam\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    255,
+    367,
+    887,
+    418
+   ],
+   "category": "Section-header",
+   "text": "RVNASVETHICA,"
+  },
+  {
+   "bbox": [
+    338,
+    418,
+    808,
+    468
+   ],
+   "category": "Text",
+   "text": "Duobus Systematibus comprehensa,"
+  },
+  {
+   "bbox": [
+    408,
+    475,
+    742,
+    523
+   ],
+   "category": "Text",
+   "text": "Quorum PRIMVM."
+  },
+  {
+   "bbox": [
+    282,
+    519,
+    855,
+    601
+   ],
+   "category": "Text",
+   "text": "Exhibet Dissertationem de Linguis, & verso\nLinguarum Origine."
+  },
+  {
+   "bbox": [
+    393,
+    599,
+    744,
+    635
+   ],
+   "category": "Text",
+   "text": "SECUNDUM."
+  },
+  {
+   "bbox": [
+    150,
+    637,
+    982,
+    747
+   ],
+   "category": "Text",
+   "text": "Radices Vniversales, & omnibus fere Linguis Communes eruit &\naperit. Ex iisdemque Rivi eliciuntur in præcipuas, &\ninde, ex iis ortas LINGVAS."
+  },
+  {
+   "bbox": [
+    348,
+    774,
+    789,
+    819
+   ],
+   "category": "Text",
+   "text": "Primi Systematis Capita sunt seqq."
+  },
+  {
+   "bbox": [
+    147,
+    824,
+    981,
+    970
+   ],
+   "category": "List-item",
+   "text": "1. Videri, omnes Linguas, quæ in Orbe cognito\nextiterunt, & hodiè extant, ortas ex una,\n& ad unam posse reduci."
+  },
+  {
+   "bbox": [
+    145,
+    963,
+    978,
+    1060
+   ],
+   "category": "List-item",
+   "text": "2. Naturæ conveniens, imò omninò neceffarium\nfuisse, ex una Lingua multas oriri."
+  },
+  {
+   "bbox": [
+    143,
+    1056,
+    977,
+    1201
+   ],
+   "category": "List-item",
+   "text": "3. Ex confusione Babylonica, nullam novam Lin-\nguam exortam: & si qua exorta est, momentaneam,\n& ad breve tempus extitisse."
+  },
+  {
+   "bbox": [
+    141,
+    1195,
+    978,
+    1338
+   ],
+   "category": "List-item",
+   "text": "4. Hebræam, Phœniciam, Chaldeam, Syram, Ara-\nbicam, Ægyptiam, Æthiopicam, Phrygiam, Perſi-\ncam, Dialectorum, non linguarum esse vocamina."
+  },
+  {
+   "bbox": [
+    141,
+    1334,
+    977,
+    1430
+   ],
+   "category": "List-item",
+   "text": "5. Temporum, & Locorum intervallis, Dialectos a-\nbire in Linguas."
+  },
+  {
+   "bbox": [
+    139,
+    1424,
+    976,
+    1523
+   ],
+   "category": "List-item",
+   "text": "6. Ex Scythica ortas Linguas Primas, non minùs O-\nrientales, quam Septentrionales, & Occidentales;"
+  },
+  {
+   "bbox": [
+    137,
+    1519,
+    732,
+    1568
+   ],
+   "category": "List-item",
+   "text": "7. Thraces & Getas, fuisse Scythas."
+  },
+  {
+   "bbox": [
+    137,
+    1565,
+    972,
+    1661
+   ],
+   "category": "List-item",
+   "text": "8. Ex his profectos primos Populos, primamque\nA Linguam"
+  }
+ ]
+}

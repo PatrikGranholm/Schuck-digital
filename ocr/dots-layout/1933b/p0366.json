@@ -1,0 +1,122 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 366,
+ "seconds": 27.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [475, 243, 793, 277], \"category\": \"Section-header\", \"text\": \"Litterära strider\"}, {\"bbox\": [318, 313, 1157, 431], \"category\": \"Text\", \"text\": \"»Ehrewyrdige, Ehreborne och Höglärde Herrar, Magnifice Rector och Samptel. Professores, Synnerlige gode Wenner.\"}, {\"bbox\": [108, 450, 1157, 948], \"category\": \"Text\", \"text\": \"Såssom Jagh mycket ogärna förnimmer, att för någon varierande mening skull några saaker Professorerne H. Scheffer och H. Verelius till Skriftwäxlingar emot hwar andra kombne ähro, hwilket dher det j tidh icke afstyrt blifwer, j längden een hoop wederwärdigheet och större irring gifwandes warder, som swårare kunde blifwa at remediera; Altså hafwer Jagh nödigt funnet uthaf Eder gode Herrar genom detta Mit Breef wänligen begära, dhet I Eder uthj denne saaken dhem emellan interponere och sökia ofwanbenembde Herrar professorer å begge sidor tienligen remonstrera, hwad inconvenientier och orimligheter slijke skriftwäxlingar uthaf sigh föda, hwilka dhem sielfwe till alzingen heder, men androm till förargelse och olust lända.\"}, {\"bbox\": [105, 949, 1157, 1448], \"category\": \"Text\", \"text\": \"Dhe ähro begge af den Erudition, som hwar och een billigt estimerar, hafwa och här till sådan conduite berömligen fördt, att Jagh wist wil förmoda dhee sigh här under betänckiandes warde och all wederwillia afläggiandes, dher till J gode Herrar dhem animera och förmahna wille och emedlertidh intet tillåta, at af trycket något widare uthgår*, effter som Jagh det icke heller j någon måtto tilstädia kan, som een tingh den Jagh skattar wara iembwel Academien Sielf heelt skadeligt, hwilken dessutan nogh olyckeligh ähr, som oftast at blifwa af slijke wederwerdigheter inquieterat, och moste Jagh bekenna, at Jagh dher wed nu aldeles tröt och ledse blifwer. Förmodar altzå, det J gode Herrar med all flijt Eder heruthinnan employere at bringa en god Enigheet åter till wäga, och förblifwer.\"}, {\"bbox\": [604, 1464, 1079, 1507], \"category\": \"Text\", \"text\": \"Edher Samptel. gode Herrars\"}, {\"bbox\": [107, 1506, 425, 1588], \"category\": \"Text\", \"text\": \"Carlberg d. 17 May\\n1677.\"}, {\"bbox\": [699, 1547, 977, 1589], \"category\": \"Text\", \"text\": \"Tiänst wänwillige\"}, {\"bbox\": [846, 1601, 1104, 1676], \"category\": \"Text\", \"text\": \"Magnus Gabriel\\nDe la Gardie.\"}, {\"bbox\": [811, 1683, 1118, 1716], \"category\": \"Text\", \"text\": \"[egenhändig namnteckning.]\"}, {\"bbox\": [140, 1737, 986, 1771], \"category\": \"Footnote\", \"text\": \"* Som medh animositet skrifwit kan wara j denna Sakh [Egenhändigt tillägg].\"}, {\"bbox\": [1078, 1805, 1149, 1842], \"category\": \"Page-footer\", \"text\": \"345\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    475,
+    243,
+    793,
+    277
+   ],
+   "category": "Section-header",
+   "text": "Litterära strider"
+  },
+  {
+   "bbox": [
+    318,
+    313,
+    1157,
+    431
+   ],
+   "category": "Text",
+   "text": "»Ehrewyrdige, Ehreborne och Höglärde Herrar, Magnifice Rector och Samptel. Professores, Synnerlige gode Wenner."
+  },
+  {
+   "bbox": [
+    108,
+    450,
+    1157,
+    948
+   ],
+   "category": "Text",
+   "text": "Såssom Jagh mycket ogärna förnimmer, att för någon varierande mening skull några saaker Professorerne H. Scheffer och H. Verelius till Skriftwäxlingar emot hwar andra kombne ähro, hwilket dher det j tidh icke afstyrt blifwer, j längden een hoop wederwärdigheet och större irring gifwandes warder, som swårare kunde blifwa at remediera; Altså hafwer Jagh nödigt funnet uthaf Eder gode Herrar genom detta Mit Breef wänligen begära, dhet I Eder uthj denne saaken dhem emellan interponere och sökia ofwanbenembde Herrar professorer å begge sidor tienligen remonstrera, hwad inconvenientier och orimligheter slijke skriftwäxlingar uthaf sigh föda, hwilka dhem sielfwe till alzingen heder, men androm till förargelse och olust lända."
+  },
+  {
+   "bbox": [
+    105,
+    949,
+    1157,
+    1448
+   ],
+   "category": "Text",
+   "text": "Dhe ähro begge af den Erudition, som hwar och een billigt estimerar, hafwa och här till sådan conduite berömligen fördt, att Jagh wist wil förmoda dhee sigh här under betänckiandes warde och all wederwillia afläggiandes, dher till J gode Herrar dhem animera och förmahna wille och emedlertidh intet tillåta, at af trycket något widare uthgår*, effter som Jagh det icke heller j någon måtto tilstädia kan, som een tingh den Jagh skattar wara iembwel Academien Sielf heelt skadeligt, hwilken dessutan nogh olyckeligh ähr, som oftast at blifwa af slijke wederwerdigheter inquieterat, och moste Jagh bekenna, at Jagh dher wed nu aldeles tröt och ledse blifwer. Förmodar altzå, det J gode Herrar med all flijt Eder heruthinnan employere at bringa en god Enigheet åter till wäga, och förblifwer."
+  },
+  {
+   "bbox": [
+    604,
+    1464,
+    1079,
+    1507
+   ],
+   "category": "Text",
+   "text": "Edher Samptel. gode Herrars"
+  },
+  {
+   "bbox": [
+    107,
+    1506,
+    425,
+    1588
+   ],
+   "category": "Text",
+   "text": "Carlberg d. 17 May\n1677."
+  },
+  {
+   "bbox": [
+    699,
+    1547,
+    977,
+    1589
+   ],
+   "category": "Text",
+   "text": "Tiänst wänwillige"
+  },
+  {
+   "bbox": [
+    846,
+    1601,
+    1104,
+    1676
+   ],
+   "category": "Text",
+   "text": "Magnus Gabriel\nDe la Gardie."
+  },
+  {
+   "bbox": [
+    811,
+    1683,
+    1118,
+    1716
+   ],
+   "category": "Text",
+   "text": "[egenhändig namnteckning.]"
+  },
+  {
+   "bbox": [
+    140,
+    1737,
+    986,
+    1771
+   ],
+   "category": "Footnote",
+   "text": "* Som medh animositet skrifwit kan wara j denna Sakh [Egenhändigt tillägg]."
+  },
+  {
+   "bbox": [
+    1078,
+    1805,
+    1149,
+    1842
+   ],
+   "category": "Page-footer",
+   "text": "345"
+  }
+ ]
+}

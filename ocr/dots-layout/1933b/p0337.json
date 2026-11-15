@@ -1,0 +1,262 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 337,
+ "seconds": 32.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [825, 247, 1242, 290], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [533, 316, 1556, 392], \"category\": \"List-item\", \"text\": \"XII) De partium Majorum in minores Divisione, quarum descriptiones peculiares peculiaribus dein libris tradendæ.\"}, {\"bbox\": [651, 389, 1555, 428], \"category\": \"Text\", \"text\": \"Atq. his absolvi poterit liber primus seu pars operis generalis.\"}, {\"bbox\": [962, 455, 1108, 489], \"category\": \"Section-header\", \"text\": \"Liber II.\"}, {\"bbox\": [808, 502, 1259, 544], \"category\": \"Section-header\", \"text\": \"De Regno Sveciæ sigillatim.\"}, {\"bbox\": [574, 548, 1557, 622], \"category\": \"List-item\", \"text\": \"I) De ejus limitibus, coeli soliq. habitu, mari, lacubus, fluviis, montibus, sylvis etc.\"}, {\"bbox\": [560, 620, 1556, 872], \"category\": \"List-item\", \"text\": \"II) De divisione ejus in Sveciam proprie sic dictam et Norlandias. Sveciæ proprie sic dictæ provinciæ sunt Uplandia, Sudermannia, Nericia, Vestmannia, Dalecarlia. Norlandicæ provinciæ sunt Gestricia, Helsingia, Medelpadia, Jemptia, Herdalia, Angermannia et Bothnia, quarum occidentalem cingit ab omni fere parte (quamvis alterius propaginis lingvæq. sint incolæ) Lapponia, quæ antiquitus dicta est Biarmia seu rectius Byarmia.\"}, {\"bbox\": [546, 870, 1556, 973], \"category\": \"List-item\", \"text\": \"III) De Svecicarum provinciarum prima ac principe Uplandia. De ejusdem in tres Folklandias, Tihundriam, Atthundriam et Fiedhundriam Divisione.\"}, {\"bbox\": [615, 977, 1555, 1051], \"category\": \"Text\", \"text\": \"De Tihundriæ in territoria et provincias Divisione et quid in harum singulis eximium. Ubi de Upsalia.\"}, {\"bbox\": [552, 1049, 1555, 1122], \"category\": \"List-item\", \"text\": \"IV) De Atthundriæ territoriis et paroeciis et quid in harum singulisgregium.\"}, {\"bbox\": [564, 1120, 1555, 1187], \"category\": \"List-item\", \"text\": \"V) De urbe Regni hodie primaria inclutorumq. patriæ Regum sede Stockholmia.\"}, {\"bbox\": [550, 1190, 1555, 1258], \"category\": \"List-item\", \"text\": \"VI) De Fiedrhundiæ territoriis et paroeciis et rebus in singulis memorabilibus.\"}, {\"bbox\": [536, 1260, 1555, 1371], \"category\": \"List-item\", \"text\": \"VII) In his Folklandiis celebris Roslagia; quid id vocabuli significet. Quæ veterum Svecorum terra mariq. instituta militaria, quæ nostri temporis.\"}, {\"bbox\": [523, 1368, 835, 1403], \"category\": \"List-item\", \"text\": \"VIII) De Vestmannia\"}, {\"bbox\": [548, 1403, 814, 1438], \"category\": \"List-item\", \"text\": \"IX) De Dalecerlia\"}, {\"bbox\": [562, 1440, 856, 1475], \"category\": \"List-item\", \"text\": \"X) De Sudermannia\"}, {\"bbox\": [548, 1475, 775, 1510], \"category\": \"List-item\", \"text\": \"XI) De Nericia\"}, {\"bbox\": [534, 1510, 811, 1547], \"category\": \"List-item\", \"text\": \"XII) De Helsingia\"}, {\"bbox\": [521, 1547, 800, 1614], \"category\": \"List-item\", \"text\": \"XIII) De Gestricia\\nDe Alandia\"}, {\"bbox\": [525, 1617, 860, 1655], \"category\": \"List-item\", \"text\": \"XIV) De Angermannia\"}, {\"bbox\": [538, 1653, 983, 1691], \"category\": \"List-item\", \"text\": \"XV) De Iemptia et Herredalia\"}, {\"bbox\": [525, 1689, 839, 1727], \"category\": \"List-item\", \"text\": \"XVI) De Medelpadia\"}, {\"bbox\": [512, 1725, 880, 1763], \"category\": \"List-item\", \"text\": \"XVII) De Bothnia utraq.\"}, {\"bbox\": [972, 1762, 1555, 1804], \"category\": \"Text\", \"text\": \"His absolvitur Tomus operis primus.»\"}, {\"bbox\": [512, 1795, 586, 1842], \"category\": \"Page-footer\", \"text\": \"316\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    825,
+    247,
+    1242,
+    290
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    533,
+    316,
+    1556,
+    392
+   ],
+   "category": "List-item",
+   "text": "XII) De partium Majorum in minores Divisione, quarum descriptiones peculiares peculiaribus dein libris tradendæ."
+  },
+  {
+   "bbox": [
+    651,
+    389,
+    1555,
+    428
+   ],
+   "category": "Text",
+   "text": "Atq. his absolvi poterit liber primus seu pars operis generalis."
+  },
+  {
+   "bbox": [
+    962,
+    455,
+    1108,
+    489
+   ],
+   "category": "Section-header",
+   "text": "Liber II."
+  },
+  {
+   "bbox": [
+    808,
+    502,
+    1259,
+    544
+   ],
+   "category": "Section-header",
+   "text": "De Regno Sveciæ sigillatim."
+  },
+  {
+   "bbox": [
+    574,
+    548,
+    1557,
+    622
+   ],
+   "category": "List-item",
+   "text": "I) De ejus limitibus, coeli soliq. habitu, mari, lacubus, fluviis, montibus, sylvis etc."
+  },
+  {
+   "bbox": [
+    560,
+    620,
+    1556,
+    872
+   ],
+   "category": "List-item",
+   "text": "II) De divisione ejus in Sveciam proprie sic dictam et Norlandias. Sveciæ proprie sic dictæ provinciæ sunt Uplandia, Sudermannia, Nericia, Vestmannia, Dalecarlia. Norlandicæ provinciæ sunt Gestricia, Helsingia, Medelpadia, Jemptia, Herdalia, Angermannia et Bothnia, quarum occidentalem cingit ab omni fere parte (quamvis alterius propaginis lingvæq. sint incolæ) Lapponia, quæ antiquitus dicta est Biarmia seu rectius Byarmia."
+  },
+  {
+   "bbox": [
+    546,
+    870,
+    1556,
+    973
+   ],
+   "category": "List-item",
+   "text": "III) De Svecicarum provinciarum prima ac principe Uplandia. De ejusdem in tres Folklandias, Tihundriam, Atthundriam et Fiedhundriam Divisione."
+  },
+  {
+   "bbox": [
+    615,
+    977,
+    1555,
+    1051
+   ],
+   "category": "Text",
+   "text": "De Tihundriæ in territoria et provincias Divisione et quid in harum singulis eximium. Ubi de Upsalia."
+  },
+  {
+   "bbox": [
+    552,
+    1049,
+    1555,
+    1122
+   ],
+   "category": "List-item",
+   "text": "IV) De Atthundriæ territoriis et paroeciis et quid in harum singulisgregium."
+  },
+  {
+   "bbox": [
+    564,
+    1120,
+    1555,
+    1187
+   ],
+   "category": "List-item",
+   "text": "V) De urbe Regni hodie primaria inclutorumq. patriæ Regum sede Stockholmia."
+  },
+  {
+   "bbox": [
+    550,
+    1190,
+    1555,
+    1258
+   ],
+   "category": "List-item",
+   "text": "VI) De Fiedrhundiæ territoriis et paroeciis et rebus in singulis memorabilibus."
+  },
+  {
+   "bbox": [
+    536,
+    1260,
+    1555,
+    1371
+   ],
+   "category": "List-item",
+   "text": "VII) In his Folklandiis celebris Roslagia; quid id vocabuli significet. Quæ veterum Svecorum terra mariq. instituta militaria, quæ nostri temporis."
+  },
+  {
+   "bbox": [
+    523,
+    1368,
+    835,
+    1403
+   ],
+   "category": "List-item",
+   "text": "VIII) De Vestmannia"
+  },
+  {
+   "bbox": [
+    548,
+    1403,
+    814,
+    1438
+   ],
+   "category": "List-item",
+   "text": "IX) De Dalecerlia"
+  },
+  {
+   "bbox": [
+    562,
+    1440,
+    856,
+    1475
+   ],
+   "category": "List-item",
+   "text": "X) De Sudermannia"
+  },
+  {
+   "bbox": [
+    548,
+    1475,
+    775,
+    1510
+   ],
+   "category": "List-item",
+   "text": "XI) De Nericia"
+  },
+  {
+   "bbox": [
+    534,
+    1510,
+    811,
+    1547
+   ],
+   "category": "List-item",
+   "text": "XII) De Helsingia"
+  },
+  {
+   "bbox": [
+    521,
+    1547,
+    800,
+    1614
+   ],
+   "category": "List-item",
+   "text": "XIII) De Gestricia\nDe Alandia"
+  },
+  {
+   "bbox": [
+    525,
+    1617,
+    860,
+    1655
+   ],
+   "category": "List-item",
+   "text": "XIV) De Angermannia"
+  },
+  {
+   "bbox": [
+    538,
+    1653,
+    983,
+    1691
+   ],
+   "category": "List-item",
+   "text": "XV) De Iemptia et Herredalia"
+  },
+  {
+   "bbox": [
+    525,
+    1689,
+    839,
+    1727
+   ],
+   "category": "List-item",
+   "text": "XVI) De Medelpadia"
+  },
+  {
+   "bbox": [
+    512,
+    1725,
+    880,
+    1763
+   ],
+   "category": "List-item",
+   "text": "XVII) De Bothnia utraq."
+  },
+  {
+   "bbox": [
+    972,
+    1762,
+    1555,
+    1804
+   ],
+   "category": "Text",
+   "text": "His absolvitur Tomus operis primus.»"
+  },
+  {
+   "bbox": [
+    512,
+    1795,
+    586,
+    1842
+   ],
+   "category": "Page-footer",
+   "text": "316"
+  }
+ ]
+}

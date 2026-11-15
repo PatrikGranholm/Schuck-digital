@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 240,
+ "seconds": 26.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [488, 246, 819, 290], \"category\": \"Section-header\", \"text\": \"Urkundsutgivning\"}, {\"bbox\": [129, 316, 1173, 569], \"category\": \"Text\", \"text\": \"1) Finnas der en anseenlig hoop gambla Konungars Bref såsom Magni Ladulåses, K. Byrgers, K. Magni Eriksons etc., som hafwa Sigillen med 3 Cronor, Sweriges uhrminnes Wapn, långt för dhe 3 Rijkens förening skrefne och stämplade: argumentum contra Danos, att dhe 3 Cronor äre icke signum unionis, men Sweriges gambla sköldemärke långt tillförenne brukat.\"}, {\"bbox\": [129, 567, 1173, 777], \"category\": \"Text\", \"text\": \"2) Konunga Bref med Sigiller finnas i K. Waldemars, K. Magni Ladulåses, K. Byrges, hert. Erichz och Waldemars, K. Magni Eriksons och Erik Magnisons, K. Albrechtz, K. Erici Pomerani, Engelberti, K. Christophers, K. Christierns, K. Carl Knutsons etc. [tid].\"}, {\"bbox\": [126, 774, 1175, 1399], \"category\": \"Text\", \"text\": \"3) Ibland desse Bref finnas någre Konungars original Testamenten, dhe giordt hafwa såsom K. Magni Ladulåses, K. Byrgers, K. Magni Eriksons och fleres, hwaraf man icke allena finner någre causas historicas, som dem till sådant bewekt hafwa, uthan och man der af [finner], att konungerne mycket i sine Testamenten förordnat hafwa till successorum underwijsning. Och till sådane Testamentens execution hafwa dhe satt någre dhe mächtigaste med Rijkz Rådh. Sedan finnas dhe i sådane Testamente hafwa dispenserat [= disponerat] om orter, hwarest dhe wilja begrafne wara e. g. K. Magnus Ladulås hafwer sielf eligerat sin begrafning in templo Minorum Holmiensium och det med sådane ord: quæ quin ibi fiat, nullus sub interminatione anathematis attemptet impedire, præsertim cum sit hoc nobis libera ex dni Apostolici sedis annue concessa etc.¹ Detta tienar till Monumenta sepulchralia, då man kommer till att mentionera om hans begrafning.\"}, {\"bbox\": [124, 1397, 1173, 1692], \"category\": \"Text\", \"text\": \"4) I bland sådane Konunga bref finnas och någre statuta de decimis, såsom i hast till [näm]na K. Byrgers till helsingarne 1297 om deras Tijonde gifft så af sädh som qwicktijonde och annor frucht. I bland annat fins det notabelt, att sedan Prästen hafwer fått sin tertial är halfparten af residuo slagen till fattigas underhåld och kyrkians. Der finnes och om Påskpgr. och annat, som wärdt är att noteras till hist. Ecclesiasticam. Dito fins än ett K. Byrgers till Vpland\"}, {\"bbox\": [124, 1712, 1170, 1777], \"category\": \"Footnote\", \"text\": \"¹ De sista orden äro av Hadorph — eller Gahm — orätt lästa. De lyda i originalet: »præsertim cum super hoc nobis littera domini apostolici sit concessa».\"}, {\"bbox\": [1096, 1810, 1166, 1849], \"category\": \"Page-footer\", \"text\": \"219\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    488,
+    246,
+    819,
+    290
+   ],
+   "category": "Section-header",
+   "text": "Urkundsutgivning"
+  },
+  {
+   "bbox": [
+    129,
+    316,
+    1173,
+    569
+   ],
+   "category": "Text",
+   "text": "1) Finnas der en anseenlig hoop gambla Konungars Bref såsom Magni Ladulåses, K. Byrgers, K. Magni Eriksons etc., som hafwa Sigillen med 3 Cronor, Sweriges uhrminnes Wapn, långt för dhe 3 Rijkens förening skrefne och stämplade: argumentum contra Danos, att dhe 3 Cronor äre icke signum unionis, men Sweriges gambla sköldemärke långt tillförenne brukat."
+  },
+  {
+   "bbox": [
+    129,
+    567,
+    1173,
+    777
+   ],
+   "category": "Text",
+   "text": "2) Konunga Bref med Sigiller finnas i K. Waldemars, K. Magni Ladulåses, K. Byrges, hert. Erichz och Waldemars, K. Magni Eriksons och Erik Magnisons, K. Albrechtz, K. Erici Pomerani, Engelberti, K. Christophers, K. Christierns, K. Carl Knutsons etc. [tid]."
+  },
+  {
+   "bbox": [
+    126,
+    774,
+    1175,
+    1399
+   ],
+   "category": "Text",
+   "text": "3) Ibland desse Bref finnas någre Konungars original Testamenten, dhe giordt hafwa såsom K. Magni Ladulåses, K. Byrgers, K. Magni Eriksons och fleres, hwaraf man icke allena finner någre causas historicas, som dem till sådant bewekt hafwa, uthan och man der af [finner], att konungerne mycket i sine Testamenten förordnat hafwa till successorum underwijsning. Och till sådane Testamentens execution hafwa dhe satt någre dhe mächtigaste med Rijkz Rådh. Sedan finnas dhe i sådane Testamente hafwa dispenserat [= disponerat] om orter, hwarest dhe wilja begrafne wara e. g. K. Magnus Ladulås hafwer sielf eligerat sin begrafning in templo Minorum Holmiensium och det med sådane ord: quæ quin ibi fiat, nullus sub interminatione anathematis attemptet impedire, præsertim cum sit hoc nobis libera ex dni Apostolici sedis annue concessa etc.¹ Detta tienar till Monumenta sepulchralia, då man kommer till att mentionera om hans begrafning."
+  },
+  {
+   "bbox": [
+    124,
+    1397,
+    1173,
+    1692
+   ],
+   "category": "Text",
+   "text": "4) I bland sådane Konunga bref finnas och någre statuta de decimis, såsom i hast till [näm]na K. Byrgers till helsingarne 1297 om deras Tijonde gifft så af sädh som qwicktijonde och annor frucht. I bland annat fins det notabelt, att sedan Prästen hafwer fått sin tertial är halfparten af residuo slagen till fattigas underhåld och kyrkians. Der finnes och om Påskpgr. och annat, som wärdt är att noteras till hist. Ecclesiasticam. Dito fins än ett K. Byrgers till Vpland"
+  },
+  {
+   "bbox": [
+    124,
+    1712,
+    1170,
+    1777
+   ],
+   "category": "Footnote",
+   "text": "¹ De sista orden äro av Hadorph — eller Gahm — orätt lästa. De lyda i originalet: »præsertim cum super hoc nobis littera domini apostolici sit concessa»."
+  },
+  {
+   "bbox": [
+    1096,
+    1810,
+    1166,
+    1849
+   ],
+   "category": "Page-footer",
+   "text": "219"
+  }
+ ]
+}

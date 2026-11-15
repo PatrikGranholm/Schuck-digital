@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 387,
+ "seconds": 26.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [822, 241, 1241, 284], \"category\": \"Page-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [506, 310, 1553, 560], \"category\": \"Text\", \"text\": \"till någon förfalskning. Själva huvudskriften innehåller knappt något nytt — utom en vederläggning af Schefferus’ oriktiga påståenden om Fyrisån — och omtuggar endast de gamla argumenten. På detta angrepp kunde Schefferus ej längre svara. Men Verelius fick i stället en annan kritiker, som var svårare att bemöta och som gjorde slut på tvisten.\"}, {\"bbox\": [365, 566, 502, 625], \"category\": \"Text\", \"text\": \"Kungabrevet 1681\"}, {\"bbox\": [506, 560, 1553, 1765], \"category\": \"Text\", \"text\": \"Det var Karl XI, som den 27 september 1681 avlät detta kungabrev till konsistoriet i Uppsala: »Kongl. May:t förnimmer fast ogierna, at Professoren Olaus Verelius skall hafwa under trycket i Uppsala itt Scriptum emot Sahl. Professoren Schefferum, hwilket bem:te Verelius warit sinnad en gång, medhan Schefferus lefde, at publicera låta, men intet fått tillstånd der till för någon der uthi befunden otienligheet och den studerande ungdommsens förargelse, och emedan sådant emoth förbud och Kongl. May:tz d. 15 Julii 1662 utgångne placat nu skeer, hade Kongl. May:t foog och orsak sådan förmätenheet med onåde at ansee och medh swårt straff at beläggia, om icke bem:te Professoris Verelii ålder, lärdom och trogne tienster wid academien bewekte Kongl. May:st till mildare tanckar och till denna Resolutionen allenast at aldeles hämma och förbiuda berörde skrifft och dess publication wid confiscation af alla Exemplaren och wid Ettusende d. smtz bööter, om åfta bem:te Verelius antingen fortfar med Tryckandet eller och uthdeelar något Exemplar till någon af det, som tryckt är, hwarigenom Kongl. May:st icke allenast afskiär och betager androm slijkt sielfzwåld och lusta till onödige och onyttige kijff och trätor på den orth, der som mäst Gudz ähras främielse, ungdommens uppbyggelse och förkåfring i studier och seder förnembligen bör sökas, uthan och Kongl. May:st trygger och förswarar en redelig, capabel och wählmeriterad man på dess döda mull, som fast mehra och bättre har förskylt, att man honom alt godt eftertahlar och till hans wählförtiente beröm något skrifwer, ähn at man med smädeordh och förwijtelser griper hans heder ahn och söker at minska dens gode rychte efter hans dödh, som i sin lifztijd har till Rijcksens lustre och det swänska nampnetz ähra och kunnigheet så troget, så flijtigt och så berömbligen och wähl alla både sitt sinnes och sin kroppz krafter\"}, {\"bbox\": [510, 1788, 583, 1835], \"category\": \"Page-footer\", \"text\": \"364\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    822,
+    241,
+    1241,
+    284
+   ],
+   "category": "Page-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    506,
+    310,
+    1553,
+    560
+   ],
+   "category": "Text",
+   "text": "till någon förfalskning. Själva huvudskriften innehåller knappt något nytt — utom en vederläggning af Schefferus’ oriktiga påståenden om Fyrisån — och omtuggar endast de gamla argumenten. På detta angrepp kunde Schefferus ej längre svara. Men Verelius fick i stället en annan kritiker, som var svårare att bemöta och som gjorde slut på tvisten."
+  },
+  {
+   "bbox": [
+    365,
+    566,
+    502,
+    625
+   ],
+   "category": "Text",
+   "text": "Kungabrevet 1681"
+  },
+  {
+   "bbox": [
+    506,
+    560,
+    1553,
+    1765
+   ],
+   "category": "Text",
+   "text": "Det var Karl XI, som den 27 september 1681 avlät detta kungabrev till konsistoriet i Uppsala: »Kongl. May:t förnimmer fast ogierna, at Professoren Olaus Verelius skall hafwa under trycket i Uppsala itt Scriptum emot Sahl. Professoren Schefferum, hwilket bem:te Verelius warit sinnad en gång, medhan Schefferus lefde, at publicera låta, men intet fått tillstånd der till för någon der uthi befunden otienligheet och den studerande ungdommsens förargelse, och emedan sådant emoth förbud och Kongl. May:tz d. 15 Julii 1662 utgångne placat nu skeer, hade Kongl. May:t foog och orsak sådan förmätenheet med onåde at ansee och medh swårt straff at beläggia, om icke bem:te Professoris Verelii ålder, lärdom och trogne tienster wid academien bewekte Kongl. May:st till mildare tanckar och till denna Resolutionen allenast at aldeles hämma och förbiuda berörde skrifft och dess publication wid confiscation af alla Exemplaren och wid Ettusende d. smtz bööter, om åfta bem:te Verelius antingen fortfar med Tryckandet eller och uthdeelar något Exemplar till någon af det, som tryckt är, hwarigenom Kongl. May:st icke allenast afskiär och betager androm slijkt sielfzwåld och lusta till onödige och onyttige kijff och trätor på den orth, der som mäst Gudz ähras främielse, ungdommens uppbyggelse och förkåfring i studier och seder förnembligen bör sökas, uthan och Kongl. May:st trygger och förswarar en redelig, capabel och wählmeriterad man på dess döda mull, som fast mehra och bättre har förskylt, att man honom alt godt eftertahlar och till hans wählförtiente beröm något skrifwer, ähn at man med smädeordh och förwijtelser griper hans heder ahn och söker at minska dens gode rychte efter hans dödh, som i sin lifztijd har till Rijcksens lustre och det swänska nampnetz ähra och kunnigheet så troget, så flijtigt och så berömbligen och wähl alla både sitt sinnes och sin kroppz krafter"
+  },
+  {
+   "bbox": [
+    510,
+    1788,
+    583,
+    1835
+   ],
+   "category": "Page-footer",
+   "text": "364"
+  }
+ ]
+}

@@ -1,0 +1,172 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 22,
+ "seconds": 29.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [406, 246, 929, 292], \"category\": \"Section-header\", \"text\": \"## Consignationer och kataloger\"}, {\"bbox\": [143, 316, 1184, 600], \"category\": \"Text\", \"text\": \"gandes warder, såsom och hoos Kongl. M:tt i bäste måtton uthtyder; dher jämpte Ers höghGrefl. Excell. och i all nåde sig recommenderat hafwa täckes, huru till wære arbetens publication medel kunne försörjas, så att dhe effter handen, och medan lijfztijden warar, måtte under tryck komma. Vthj alt öfriget Ers höghGrefl. Excell. oss och wår Stat på dhet ödmiukeligste recommenderandes. Och stedse förblifwe\"}, {\"bbox\": [145, 646, 595, 691], \"category\": \"Text\", \"text\": \"Upsala d. 8 Febr. A:o 1670.\"}, {\"bbox\": [672, 609, 1036, 652], \"category\": \"Text\", \"text\": \"Ers HöghGrefl. Excell.\"}, {\"bbox\": [738, 652, 1056, 689], \"category\": \"Text\", \"text\": \"Ödmiukeste Tienare\"}, {\"bbox\": [177, 701, 429, 777], \"category\": \"Text\", \"text\": \"Jahan Axehiälm\\nm. prop.\"}, {\"bbox\": [510, 703, 814, 746], \"category\": \"Text\", \"text\": \"Johannes Loccenius\"}, {\"bbox\": [901, 707, 1142, 782], \"category\": \"Text\", \"text\": \"Magnus Celsius\\nm. pr.\"}, {\"bbox\": [285, 791, 530, 834], \"category\": \"Text\", \"text\": \"Joh. Schefferus.\"}, {\"bbox\": [808, 795, 1141, 881], \"category\": \"Text\", \"text\": \"Olaus Verelius\\nJohan Hadorphius».\"}, {\"bbox\": [140, 910, 1177, 1292], \"category\": \"Text\", \"text\": \"Som man ser slutar brevet med en försynt antydan om nödvändigheten att erhålla några medel till de färdiga arbetenas tryckning, och i den supplik, som kort därefter inlämnades till regeringen, tillät sig kollegiet att till sin begäran om anslag bifoga avskrifter av de under åren 1668, 1669 och 1670 inlämnade consignationerna (se förut I sid. 117). Som vi sett erhöll kollegiet nu myntarrendet, och därmed grydde bättre dagar för kollegiets litterära verksamhet, ty ehuru de i staterna utlovade pensionerna mycket ojämnt utföllo, användes dock åtskilligt av myntarrendet till tryck och papper.\"}, {\"bbox\": [174, 1313, 798, 1358], \"category\": \"Text\", \"text\": \"Den 1670 ingivna consignationen lyder:\"}, {\"bbox\": [334, 1380, 1174, 1547], \"category\": \"Text\", \"text\": \"»Consignatio Operum partim confectorum, partim conficiendorum a Collegii Antiquitatum Præside, Vicepræside et Adsessoribus, Anno MDCLXX. 8 Februarij.\"}, {\"bbox\": [137, 1562, 1171, 1734], \"category\": \"Text\", \"text\": \"Georg Stiernhielm Præses, præter Archimedem Practicum iampridem luci paratum, Dissertationem de Origine & affinitatibus Linguarum, eodemque pertinentes cunctis communes Radices, si suppetunt res, vita, viresque, typis committere optat.\"}, {\"bbox\": [171, 1730, 1169, 1777], \"category\": \"Text\", \"text\": \"Historiam Barlaami, ex Suetica veteri, in modernam lingvam trans-\"}, {\"bbox\": [1146, 1819, 1168, 1856], \"category\": \"Page-footer\", \"text\": \"9\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    406,
+    246,
+    929,
+    292
+   ],
+   "category": "Section-header",
+   "text": "## Consignationer och kataloger"
+  },
+  {
+   "bbox": [
+    143,
+    316,
+    1184,
+    600
+   ],
+   "category": "Text",
+   "text": "gandes warder, såsom och hoos Kongl. M:tt i bäste måtton uthtyder; dher jämpte Ers höghGrefl. Excell. och i all nåde sig recommenderat hafwa täckes, huru till wære arbetens publication medel kunne försörjas, så att dhe effter handen, och medan lijfztijden warar, måtte under tryck komma. Vthj alt öfriget Ers höghGrefl. Excell. oss och wår Stat på dhet ödmiukeligste recommenderandes. Och stedse förblifwe"
+  },
+  {
+   "bbox": [
+    145,
+    646,
+    595,
+    691
+   ],
+   "category": "Text",
+   "text": "Upsala d. 8 Febr. A:o 1670."
+  },
+  {
+   "bbox": [
+    672,
+    609,
+    1036,
+    652
+   ],
+   "category": "Text",
+   "text": "Ers HöghGrefl. Excell."
+  },
+  {
+   "bbox": [
+    738,
+    652,
+    1056,
+    689
+   ],
+   "category": "Text",
+   "text": "Ödmiukeste Tienare"
+  },
+  {
+   "bbox": [
+    177,
+    701,
+    429,
+    777
+   ],
+   "category": "Text",
+   "text": "Jahan Axehiälm\nm. prop."
+  },
+  {
+   "bbox": [
+    510,
+    703,
+    814,
+    746
+   ],
+   "category": "Text",
+   "text": "Johannes Loccenius"
+  },
+  {
+   "bbox": [
+    901,
+    707,
+    1142,
+    782
+   ],
+   "category": "Text",
+   "text": "Magnus Celsius\nm. pr."
+  },
+  {
+   "bbox": [
+    285,
+    791,
+    530,
+    834
+   ],
+   "category": "Text",
+   "text": "Joh. Schefferus."
+  },
+  {
+   "bbox": [
+    808,
+    795,
+    1141,
+    881
+   ],
+   "category": "Text",
+   "text": "Olaus Verelius\nJohan Hadorphius»."
+  },
+  {
+   "bbox": [
+    140,
+    910,
+    1177,
+    1292
+   ],
+   "category": "Text",
+   "text": "Som man ser slutar brevet med en försynt antydan om nödvändigheten att erhålla några medel till de färdiga arbetenas tryckning, och i den supplik, som kort därefter inlämnades till regeringen, tillät sig kollegiet att till sin begäran om anslag bifoga avskrifter av de under åren 1668, 1669 och 1670 inlämnade consignationerna (se förut I sid. 117). Som vi sett erhöll kollegiet nu myntarrendet, och därmed grydde bättre dagar för kollegiets litterära verksamhet, ty ehuru de i staterna utlovade pensionerna mycket ojämnt utföllo, användes dock åtskilligt av myntarrendet till tryck och papper."
+  },
+  {
+   "bbox": [
+    174,
+    1313,
+    798,
+    1358
+   ],
+   "category": "Text",
+   "text": "Den 1670 ingivna consignationen lyder:"
+  },
+  {
+   "bbox": [
+    334,
+    1380,
+    1174,
+    1547
+   ],
+   "category": "Text",
+   "text": "»Consignatio Operum partim confectorum, partim conficiendorum a Collegii Antiquitatum Præside, Vicepræside et Adsessoribus, Anno MDCLXX. 8 Februarij."
+  },
+  {
+   "bbox": [
+    137,
+    1562,
+    1171,
+    1734
+   ],
+   "category": "Text",
+   "text": "Georg Stiernhielm Præses, præter Archimedem Practicum iampridem luci paratum, Dissertationem de Origine & affinitatibus Linguarum, eodemque pertinentes cunctis communes Radices, si suppetunt res, vita, viresque, typis committere optat."
+  },
+  {
+   "bbox": [
+    171,
+    1730,
+    1169,
+    1777
+   ],
+   "category": "Text",
+   "text": "Historiam Barlaami, ex Suetica veteri, in modernam lingvam trans-"
+  },
+  {
+   "bbox": [
+    1146,
+    1819,
+    1168,
+    1856
+   ],
+   "category": "Page-footer",
+   "text": "9"
+  }
+ ]
+}

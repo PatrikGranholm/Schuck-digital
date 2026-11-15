@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1933b",
+ "index": 347,
+ "seconds": 25.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [827, 248, 1244, 292], \"category\": \"Section-header\", \"text\": \"Antikvitetskollegiet II\"}, {\"bbox\": [510, 318, 1556, 1019], \"category\": \"Text\", \"text\": \"Upsala dicta, quod antiquissima illa et idololatrica fuerit, indicia haud levia sunt». De viktigaste av dessa bevis voro följande. Den nuvarande staden ligger icke såsom Gamla Uppsala på egen mark, utan på tre olika hemman: Staby, Lassby och Kabo. Vid byn Gamla Uppsala, alldeles bredvid kyrkan, bära två hemman ännu namnet »konungsgården», vilket visar, att konungarna fordom bott där. Vidare ligga kungshögarna där. Slutligen kommer han med ett bevis, som man kan misstänka, att han fått från arkitekten Rudbeck. I kyrkans tornparti ser han nämligen en hednisk hall, i vilken »regni communitas» samlades »ad comitia, ad sacra, ad judicia, ad mercatum». Av kyrkan och av den rekonstruerade hallen gör han ock en ritning, som visar oss en kvadratisk byggnad med två portar på var sida. Men ännu vågar han icke identifiera denna byggnad med det ryktbara Uppsalatemplet: »Non audeo quidem dicere hoc ipsum fuisse templum trium Deorum, quod longe illud splendidius fuisse scriptoribus memoretur et sine dubio a Christianis penitus excisum sit ad abolendam memoriam idololatriæ».\"}, {\"bbox\": [508, 1022, 1554, 1523], \"category\": \"Text\", \"text\": \"Övriga »bevis», som han anför, beröra ej stridsfrågan om den gamla stadens läge, men de anförda äro onekligen ganska goda. Som man finner äro de emellertid av en annan art än de, som Schefferus begagnat. Verelius stödde sig på topografiska och arkeologiska fakta, och han gör ej något försök att vederlägga Schefferus' feltolkning av Olofssagans uppgift, enligt vilken Uppsala och Ulleråker voro två olika orter. Schefferus kommer däremot med uteslutande historiska argument, ty påståendet om de gamla murresterna i Uppsala utför han ej. Historien och arkeologien stodo således emot varandra, och faran för att arkeologien skulle mynna ut i fantasteri skymtar redan fram i det förmodligen av Rudbeck inspirerade hugskottet om tornet i Gamla Uppsala kyrka.\"}, {\"bbox\": [508, 1521, 1552, 1773], \"category\": \"Text\", \"text\": \"Innan Hervararsagan kom ut av trycket, hade Verelius fått ett nytt, kraftfullt argument mot Schefferus, nämligen ett påvebrev av 1258 rörande domkyrkans flyttning, vilket han meddelar i Addenda. Detta — egentligen ett brev av 1271 från Västeråsbiskopen, som här anför påvens skrivelse — hörde till dem, som funnos i Registrum Upsaliense, vilket 1668 genom Hadorphs försorg ställts\"}, {\"bbox\": [510, 1797, 584, 1844], \"category\": \"Page-footer\", \"text\": \"326\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    827,
+    248,
+    1244,
+    292
+   ],
+   "category": "Section-header",
+   "text": "Antikvitetskollegiet II"
+  },
+  {
+   "bbox": [
+    510,
+    318,
+    1556,
+    1019
+   ],
+   "category": "Text",
+   "text": "Upsala dicta, quod antiquissima illa et idololatrica fuerit, indicia haud levia sunt». De viktigaste av dessa bevis voro följande. Den nuvarande staden ligger icke såsom Gamla Uppsala på egen mark, utan på tre olika hemman: Staby, Lassby och Kabo. Vid byn Gamla Uppsala, alldeles bredvid kyrkan, bära två hemman ännu namnet »konungsgården», vilket visar, att konungarna fordom bott där. Vidare ligga kungshögarna där. Slutligen kommer han med ett bevis, som man kan misstänka, att han fått från arkitekten Rudbeck. I kyrkans tornparti ser han nämligen en hednisk hall, i vilken »regni communitas» samlades »ad comitia, ad sacra, ad judicia, ad mercatum». Av kyrkan och av den rekonstruerade hallen gör han ock en ritning, som visar oss en kvadratisk byggnad med två portar på var sida. Men ännu vågar han icke identifiera denna byggnad med det ryktbara Uppsalatemplet: »Non audeo quidem dicere hoc ipsum fuisse templum trium Deorum, quod longe illud splendidius fuisse scriptoribus memoretur et sine dubio a Christianis penitus excisum sit ad abolendam memoriam idololatriæ»."
+  },
+  {
+   "bbox": [
+    508,
+    1022,
+    1554,
+    1523
+   ],
+   "category": "Text",
+   "text": "Övriga »bevis», som han anför, beröra ej stridsfrågan om den gamla stadens läge, men de anförda äro onekligen ganska goda. Som man finner äro de emellertid av en annan art än de, som Schefferus begagnat. Verelius stödde sig på topografiska och arkeologiska fakta, och han gör ej något försök att vederlägga Schefferus' feltolkning av Olofssagans uppgift, enligt vilken Uppsala och Ulleråker voro två olika orter. Schefferus kommer däremot med uteslutande historiska argument, ty påståendet om de gamla murresterna i Uppsala utför han ej. Historien och arkeologien stodo således emot varandra, och faran för att arkeologien skulle mynna ut i fantasteri skymtar redan fram i det förmodligen av Rudbeck inspirerade hugskottet om tornet i Gamla Uppsala kyrka."
+  },
+  {
+   "bbox": [
+    508,
+    1521,
+    1552,
+    1773
+   ],
+   "category": "Text",
+   "text": "Innan Hervararsagan kom ut av trycket, hade Verelius fått ett nytt, kraftfullt argument mot Schefferus, nämligen ett påvebrev av 1258 rörande domkyrkans flyttning, vilket han meddelar i Addenda. Detta — egentligen ett brev av 1271 från Västeråsbiskopen, som här anför påvens skrivelse — hörde till dem, som funnos i Registrum Upsaliense, vilket 1668 genom Hadorphs försorg ställts"
+  },
+  {
+   "bbox": [
+    510,
+    1797,
+    584,
+    1844
+   ],
+   "category": "Page-footer",
+   "text": "326"
+  }
+ ]
+}
