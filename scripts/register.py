@@ -393,7 +393,7 @@ def merge_existing(path, new, vol):
     per volume). This run replaces only its own volume's slice; other volumes' entries stay.
     Top-level forms and counts are the sums over volumes. The Wikidata decision of an existing
     entry is kept, except that one never looked up ("skipped") takes this run's lookup, and a
-    reviewed one (checked / rejected) is never touched."""
+    reviewed one (checked / rejected / merged, set in scripts/ner_review.py) is never touched."""
     old = {e["id"]: e for e in json.loads(path.read_text())} if path.exists() else {}
     for e in old.values():
         if "vols" not in e:
@@ -402,7 +402,7 @@ def merge_existing(path, new, vol):
     for eid in sorted(set(old) | set(new)):
         o, n = old.get(eid), new.get(eid)
         if o is None:
-            e = dict(n)
+            e = dict(n, vols={})
         else:
             e = dict(o)
             e["vols"] = dict(o["vols"])
@@ -412,7 +412,7 @@ def merge_existing(path, new, vol):
                           if k in n})
         if n is not None:
             e["vols"][vol] = {k: n[k] for k in PER_VOL if k in n}
-        if not e.get("vols") and e.get("status") not in ("checked", "rejected"):
+        if not e.get("vols") and e.get("status") not in ("checked", "rejected", "merged"):
             continue
         sl = e["vols"].values()
         e["forms"] = dict(sum((Counter(v.get("forms", {})) for v in sl), Counter()))
