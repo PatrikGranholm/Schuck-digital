@@ -68,7 +68,7 @@ def ask(model, prompt, image, max_tokens, temperature):
 def parse_layout(raw):
     s = raw.strip().removeprefix("```json").removesuffix("```").strip()
     try:
-        obj = json.loads(s)
+        obj = json.loads(s, strict=False)  # replies can hold raw newlines inside strings (1943b p0289)
     except json.JSONDecodeError:
         return None
     if isinstance(obj, dict):  # some replies wrap the list
