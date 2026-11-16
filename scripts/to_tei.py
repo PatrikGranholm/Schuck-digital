@@ -44,9 +44,17 @@ TEI_NS = "http://www.tei-c.org/ns/1.0"
 SCHEMA = Path("/home/patrik/Oxygen XML Editor 28/frameworks/tei/xml/tei/custom/schema/relaxng/tei_all.rng")
 JING = Path("/home/patrik/Oxygen XML Editor 28/lib/html5/lib/jing-20180722VNU.jar")
 
-REPO = (r"K\. ?B\.|R\. ?A\.|U\. ?U\. ?B\.|Ups\. ?univ\.?[- ]?bibl\.|Riksarkivet|Kungl\. ?bibl(?:ioteket|\.)"
-        r"|Vitt\.? ?akad\.|Antikv\.?-?top\.? ?ark(?:ivet|\.)|Skokloster")
-BIBL = re.compile(rf"(?<=[(;] )(?:{REPO})[^();]{{0,160}}|(?<=\()(?:{REPO})[^();]{{0,160}}")
+REPO = (r"K\. ?B\.|R\. ?A\.|U\. ?U\. ?B\.|U\. ?B\.|Ups\. ?univ\.?[- ]?bibl\.|Riksarkivet|Kungl\. ?bibl(?:ioteket|\.)"
+        r"|V\. ?H\. ?A\. ?A\.|Vitt\.? ?akad\.|Antikv\.?-?top\.? ?ark(?:ivet|\.)|Skokloster|Kammararkivet|Slottsarkivet"
+        r"|L\. ?B\.(?= [A-ZÅÄÖ])|Linköpings stifts- och landsbibl")
+# series cited without their holder (scripts/sources.py: about 300 such citations in vols II-V):
+# a <bibl> without <orgName>. "Prot." is a minute book (Kanslikollegium's or the academy's).
+SERIES = (r"[Kk]anslikoll(?:\.|egiets)|Kansli-koll\.|(?:Riks)?[Rr]egistraturet|Kanslersämbetets|Civilexpeditionens"
+          r"|Sekreta utskottets|Mindre sekreta|Utskottshandl\.|Prot\.(?= (?:den |d\. |i |\d))"
+          r"|[Aa]kad(?:emiens|s\.|:s) (?:arkiv|protokoll)|Kungl\. brev\b|Palmsk(?:iöld|\.)(?= (?:vol|sign))|Gahm(?=,? sign)")
+# after "(" or "; ", or at the start of a footnote (footnote=True)
+BIBL = re.compile(rf"(?:(?<=[(;] )|(?<=\())(?:{REPO}|{SERIES})[^();]{{0,160}}")
+BIBL_NOTE = re.compile(rf"^(?:{REPO}|{SERIES})[^();]{{0,160}}")
 SHELF = re.compile(r"sign\.? ?[A-ZÅÄÖ][^,;)]*|vol\. ?\d+[^,;)]*")
 
 # point placeholders (zero-width elements inside paragraph strings): plane-16 private use
@@ -128,9 +136,12 @@ def quote_spans(plain, open_at_start):
     return spans, still_open
 
 
-def bibl_spans(plain):
+def bibl_spans(plain, footnote=False):
     out = []
-    for m in BIBL.finditer(plain):
+    ms = list(BIBL.finditer(plain))
+    if footnote and (m0 := BIBL_NOTE.match(plain)) and not any(m.start() == 0 for m in ms):
+        ms.insert(0, m0)
+    for m in ms:
         a, b = m.start(), m.end()
         txt = m.group(0).rstrip(" .")
         b = a + len(txt)
@@ -303,9 +314,9 @@ def spelling_candidates(vol, idx, texts):
     return out
 
 
-def inline(text, ph, extra_spans=()):
+def inline(text, ph, extra_spans=(), footnote=False):
     plain, spans, points = parse_markup(text)
-    return serialize(plain, spans + list(extra_spans) + bibl_spans(plain) + ner_spans(plain), points, ph)
+    return serialize(plain, spans + list(extra_spans) + bibl_spans(plain, footnote) + ner_spans(plain), points, ph)
 
 
 # ---------------------------------------------------------------- pages
@@ -737,7 +748,7 @@ def build(vol):
             n = m.group(1)
             if n in notes:
                 used.add(n)
-                return ph.add(f'<note place="foot" n="{n}">{inline(notes[n], ph.xml)}</note>')
+                return ph.add(f'<note place="foot" n="{n}">{inline(notes[n], ph.xml, footnote=True)}</note>')
             return m.group(0)
         prepared = {}       # block index -> text with sidenotes and footnotes placed; body: paragraph parts
         for bi in body_blocks:
@@ -824,7 +835,7 @@ def build(vol):
                 continue
             stats["foot_unanchored"] += 1
             el = ph.add(f'<note place="foot"{"" if n == "cont" else f" n={chr(34)}{n}{chr(34)}"} cert="low">'
-                        f'{inline(t, ph.xml)}</note>')
+                        f'{inline(t, ph.xml, footnote=True)}</note>')
             if para is not None:
                 para.append(el)
             else:
