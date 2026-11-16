@@ -1,0 +1,42 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 9,
+ "seconds": 10.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [392, 573, 1737, 923], \"category\": \"Text\", \"text\": \"TO THE HONOR OF THE CHINESE LITERATURE AND THE INTELLIGENCE OF THE CHINESE PEOPLE\"}, {\"bbox\": [654, 1000, 1234, 1163], \"category\": \"Text\", \"text\": \"IN HONOR OF\"}, {\"bbox\": [654, 1184, 1234, 1347], \"category\": \"Text\", \"text\": \"THE CHINESE PEOPLE\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    392,
+    573,
+    1737,
+    923
+   ],
+   "category": "Text",
+   "text": "TO THE HONOR OF THE CHINESE LITERATURE AND THE INTELLIGENCE OF THE CHINESE PEOPLE"
+  },
+  {
+   "bbox": [
+    654,
+    1000,
+    1234,
+    1163
+   ],
+   "category": "Text",
+   "text": "IN HONOR OF"
+  },
+  {
+   "bbox": [
+    654,
+    1184,
+    1234,
+    1347
+   ],
+   "category": "Text",
+   "text": "THE CHINESE PEOPLE"
+  }
+ ]
+}

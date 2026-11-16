@@ -1,0 +1,32 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 14,
+ "seconds": 8.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [163, 875, 1155, 1011], \"category\": \"Title\", \"text\": \"FLINTENBERGS OCH TIHLEMANS TID\\n1794–1802\"}, {\"bbox\": [154, 1859, 239, 1883], \"category\": \"Page-footer\", \"text\": \"I–42758.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    163,
+    875,
+    1155,
+    1011
+   ],
+   "category": "Title",
+   "text": "FLINTENBERGS OCH TIHLEMANS TID\n1794–1802"
+  },
+  {
+   "bbox": [
+    154,
+    1859,
+    239,
+    1883
+   ],
+   "category": "Page-footer",
+   "text": "I–42758."
+  }
+ ]
+}

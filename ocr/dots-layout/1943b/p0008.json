@@ -1,0 +1,91 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 8,
+ "seconds": 29.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [274, 306, 1114, 387], \"category\": \"Text\", \"text\": \"HENRIK SCHÜCK\"}, {\"bbox\": [274, 571, 1124, 656], \"category\": \"Text\", \"text\": \"KGL. VITTERHETS\"}, {\"bbox\": [31, 695, 1368, 905], \"category\": \"Text\", \"text\": \"HISTORIE OCH ANTIKVITETS\\nAKADEMIEN\"}, {\"bbox\": [629, 994, 771, 1051], \"category\": \"Text\", \"text\": \"DESS\"}, {\"bbox\": [285, 1081, 1114, 1141], \"category\": \"Text\", \"text\": \"FÖRHISTORIA OCH HISTORIA\"}, {\"bbox\": [645, 1182, 758, 1242], \"category\": \"Text\", \"text\": \"VII\"}, {\"bbox\": [557, 1526, 851, 1815], \"category\": \"Picture\"}, {\"bbox\": [423, 1936, 982, 1997], \"category\": \"Text\", \"text\": \"STOCKHOLM 1943\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    274,
+    306,
+    1114,
+    387
+   ],
+   "category": "Text",
+   "text": "HENRIK SCHÜCK"
+  },
+  {
+   "bbox": [
+    274,
+    571,
+    1124,
+    656
+   ],
+   "category": "Text",
+   "text": "KGL. VITTERHETS"
+  },
+  {
+   "bbox": [
+    31,
+    695,
+    1368,
+    905
+   ],
+   "category": "Text",
+   "text": "HISTORIE OCH ANTIKVITETS\nAKADEMIEN"
+  },
+  {
+   "bbox": [
+    629,
+    994,
+    771,
+    1051
+   ],
+   "category": "Text",
+   "text": "DESS"
+  },
+  {
+   "bbox": [
+    285,
+    1081,
+    1114,
+    1141
+   ],
+   "category": "Text",
+   "text": "FÖRHISTORIA OCH HISTORIA"
+  },
+  {
+   "bbox": [
+    645,
+    1182,
+    758,
+    1242
+   ],
+   "category": "Text",
+   "text": "VII"
+  },
+  {
+   "bbox": [
+    557,
+    1526,
+    851,
+    1815
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    423,
+    1936,
+    982,
+    1997
+   ],
+   "category": "Text",
+   "text": "STOCKHOLM 1943"
+  }
+ ]
+}

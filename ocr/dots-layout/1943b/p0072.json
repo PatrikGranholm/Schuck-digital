@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 72,
+ "seconds": 28.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [289, 277, 1003, 319], \"category\": \"Section-header\", \"text\": \"Det akademiska arbetet och tävlingarna\"}, {\"bbox\": [125, 347, 1165, 642], \"category\": \"Text\", \"text\": \"det företräde den ena af dessa skrifter ägde framför den andra, så skreds till omröstning, då den större Belöningen tilldömdes Skriften Nr. 3 och den mindre eller accessit skriften Nr. 5 med rättighet till ett rum i academiens Handlingar.» Vid namnsedlarnas öppnande befanns författaren till Skriften Nr. 3 vara »Herr Cras, Juris Professor vid Athenæum i Amsterdam och författaren till Nr. 5 Herr Stoltz, Rector vid Scholan i Helsingborg.»\"}, {\"bbox\": [125, 640, 1167, 1518], \"category\": \"Text\", \"text\": \"Med anledning av denna utgång utsattes ett nytt prisämne till 1797: Äreminne på latin eller fransyska över Samuel Pufendorff. Till tävlingen inkommo denna gång blott två skrifter, båda på latin, över vilka, liksom förut, Liliestråle och Björnstjerna utsågos till granskare. Även denna gång kom Liliestråle med en mycket lång utredning: Nr. 1 var »af en tysk Auctor, som efter mitt tycke skrifver en god latin», men mot innehållet hade han däremot många anmärkningar: »I sådant skick — slutar han — kan jag för min del ej tillstyrka, att denna skrift må anses hafva upfylt Kongl. Academiens ändamål, ehuru i början syntes god liknelse dertil. Men dels i anseende till dess vidlöftighet, som härrör af flera onyttiga digressioner, hvarå kan ses exempel pag. 3, 8, 14 och i synnerhet den in stilo exiliori införda långa berättelsen om Puffendorffs strid med sina fiender vid Lunds Academie, hvartill ock det kommer, att denne Auctor alls intet nämnt till Puffendorffs beröm hans många öfriga mycket ypperliga skrifter såsom Europeiska Staternes Historia m. fl. synes den icke kunna antagas för ett nog värdigt Loford öfver denne ryktbare Man.» Därefter följde en ännu mycket längre utredning både av fel och förtjänster i Nr. 2, vilken utredning dock slutar: »I det hela anser jag denna Pris Skrift så vacker och fullkomlig, att jag gärna tilstyrker, att den må krönas.»\"}, {\"bbox\": [1182, 646, 1240, 678], \"category\": \"Text\", \"text\": \"1797\"}, {\"bbox\": [130, 1515, 1167, 1642], \"category\": \"Text\", \"text\": \"Som vanligt instämde Björnstjerna och denna gång även akademien. Prisvinnaren befanns sedan vara »Herr D. Jenisch, pastor vid St. Nicolai församling i Berlin».\"}, {\"bbox\": [129, 1640, 1167, 1809], \"category\": \"Text\", \"text\": \"Till tävlingsämne för 1798 utsattes: »Undersökning på latin eller fransyska om en historieskrifvares skyldighet att i sine omdömen om store män hafva ett noga afseende på det tidehvarfs lynne och omständigheter, hvari de lefvat, så att han å ena sidan icke fortplantar\"}, {\"bbox\": [1178, 1645, 1313, 1678], \"category\": \"Text\", \"text\": \"1798—1800\"}, {\"bbox\": [1120, 1845, 1164, 1882], \"category\": \"Page-footer\", \"text\": \"57\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    289,
+    277,
+    1003,
+    319
+   ],
+   "category": "Section-header",
+   "text": "Det akademiska arbetet och tävlingarna"
+  },
+  {
+   "bbox": [
+    125,
+    347,
+    1165,
+    642
+   ],
+   "category": "Text",
+   "text": "det företräde den ena af dessa skrifter ägde framför den andra, så skreds till omröstning, då den större Belöningen tilldömdes Skriften Nr. 3 och den mindre eller accessit skriften Nr. 5 med rättighet till ett rum i academiens Handlingar.» Vid namnsedlarnas öppnande befanns författaren till Skriften Nr. 3 vara »Herr Cras, Juris Professor vid Athenæum i Amsterdam och författaren till Nr. 5 Herr Stoltz, Rector vid Scholan i Helsingborg.»"
+  },
+  {
+   "bbox": [
+    125,
+    640,
+    1167,
+    1518
+   ],
+   "category": "Text",
+   "text": "Med anledning av denna utgång utsattes ett nytt prisämne till 1797: Äreminne på latin eller fransyska över Samuel Pufendorff. Till tävlingen inkommo denna gång blott två skrifter, båda på latin, över vilka, liksom förut, Liliestråle och Björnstjerna utsågos till granskare. Även denna gång kom Liliestråle med en mycket lång utredning: Nr. 1 var »af en tysk Auctor, som efter mitt tycke skrifver en god latin», men mot innehållet hade han däremot många anmärkningar: »I sådant skick — slutar han — kan jag för min del ej tillstyrka, att denna skrift må anses hafva upfylt Kongl. Academiens ändamål, ehuru i början syntes god liknelse dertil. Men dels i anseende till dess vidlöftighet, som härrör af flera onyttiga digressioner, hvarå kan ses exempel pag. 3, 8, 14 och i synnerhet den in stilo exiliori införda långa berättelsen om Puffendorffs strid med sina fiender vid Lunds Academie, hvartill ock det kommer, att denne Auctor alls intet nämnt till Puffendorffs beröm hans många öfriga mycket ypperliga skrifter såsom Europeiska Staternes Historia m. fl. synes den icke kunna antagas för ett nog värdigt Loford öfver denne ryktbare Man.» Därefter följde en ännu mycket längre utredning både av fel och förtjänster i Nr. 2, vilken utredning dock slutar: »I det hela anser jag denna Pris Skrift så vacker och fullkomlig, att jag gärna tilstyrker, att den må krönas.»"
+  },
+  {
+   "bbox": [
+    1182,
+    646,
+    1240,
+    678
+   ],
+   "category": "Text",
+   "text": "1797"
+  },
+  {
+   "bbox": [
+    130,
+    1515,
+    1167,
+    1642
+   ],
+   "category": "Text",
+   "text": "Som vanligt instämde Björnstjerna och denna gång även akademien. Prisvinnaren befanns sedan vara »Herr D. Jenisch, pastor vid St. Nicolai församling i Berlin»."
+  },
+  {
+   "bbox": [
+    129,
+    1640,
+    1167,
+    1809
+   ],
+   "category": "Text",
+   "text": "Till tävlingsämne för 1798 utsattes: »Undersökning på latin eller fransyska om en historieskrifvares skyldighet att i sine omdömen om store män hafva ett noga afseende på det tidehvarfs lynne och omständigheter, hvari de lefvat, så att han å ena sidan icke fortplantar"
+  },
+  {
+   "bbox": [
+    1178,
+    1645,
+    1313,
+    1678
+   ],
+   "category": "Text",
+   "text": "1798—1800"
+  },
+  {
+   "bbox": [
+    1120,
+    1845,
+    1164,
+    1882
+   ],
+   "category": "Page-footer",
+   "text": "57"
+  }
+ ]
+}

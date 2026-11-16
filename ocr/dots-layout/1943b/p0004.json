@@ -1,0 +1,50 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 4,
+ "seconds": 10.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [197, 357, 523, 386], \"category\": \"Text\", \"text\": \"GÖTEBORGS UNIVERSITETSBIBLIOTEK\"}, {\"bbox\": [197, 384, 523, 472], \"category\": \"Picture\"}, {\"bbox\": [371, 470, 525, 499], \"category\": \"Text\", \"text\": \"1001049119\"}, {\"bbox\": [538, 357, 571, 415], \"category\": \"Picture\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    197,
+    357,
+    523,
+    386
+   ],
+   "category": "Text",
+   "text": "GÖTEBORGS UNIVERSITETSBIBLIOTEK"
+  },
+  {
+   "bbox": [
+    197,
+    384,
+    523,
+    472
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    371,
+    470,
+    525,
+    499
+   ],
+   "category": "Text",
+   "text": "1001049119"
+  },
+  {
+   "bbox": [
+    538,
+    357,
+    571,
+    415
+   ],
+   "category": "Picture"
+  }
+ ]
+}

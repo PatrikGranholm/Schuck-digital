@@ -1,0 +1,46 @@
+{
+  "vol": "1943b",
+  "part": "VII",
+  "title": "Kgl. Vitterhets historie och antikvitets akademien. Dess förhistoria och historia",
+  "volume_title": "Akademien 1794–1826",
+  "note": "Parts and chapters from the table of contents (images 508-511, pp. 487-490, dots.mocr) and the chapter headings recognised by dots.mocr. Images 1-4: digitisation notice (Göteborgs universitetsbibliotek), binding and front endpapers; 5-7, 9, 11: blank leaves; 8: the original printed wrapper (Stockholm 1943), bound in; 10: half-title; 12: title page; 13: title-page verso (Humanistiska fonden). Part titles, each on an unnumbered leaf with a blank verso: Flintenbergs och Tihlemans tid 1794-1802, image 14 (p. 1); Hallenbergs tid 1803-1810, image 142 (p. 127, after blank p. 126); Hallenbergs tid 1810-1819, image 224 (p. 209); Rutströms tid 1819-1826, image 394 (p. 375, after blank p. 374). Unpaginated plates, each with a blank verso: 46/47 (between pp. 32 and 33, portraits), 240/241 (224/225, portraits), 322/323 (304/305, medals and finds), 420/421 (400/401, portraits). Image 282 (p. 265, a row of dots in a quotation) loops in dots.mocr and comes from the text layer. 507: blank p. 486; 512: colophon (Uppsala 1943), no errata list; 513-514 blank leaves; 515-517 back endpapers and binding.",
+  "parts": [
+    {"title": "Flintenbergs och Tihlemans tid 1794–1802", "chapter": 3, "leaves": [14, 15]},
+    {"title": "Hallenbergs tid 1803–1810", "chapter": 129, "leaves": [141, 142, 143]},
+    {"title": "Hallenbergs tid 1810–1819", "chapter": 211, "leaves": [224, 225]},
+    {"title": "Rutströms tid 1819–1826", "chapter": 377, "leaves": [393, 394, 395]}
+  ],
+  "chapters": [
+    {"title": "Amanuens och sekreterare", "page": 3},
+    {"title": "Ledamöter och korrespondenter", "page": 23},
+    {"title": "Det akademiska arbetet och tävlingarna", "page": 36},
+    {"title": "Enskilda ledamöters avhandlingar", "page": 63},
+    {"title": "Fynden och kanslikollegiet", "page": 93},
+    {"title": "Akademiens samlingar", "page": 114},
+    {"title": "Sekreterare och ledamöter", "page": 129},
+    {"title": "Medaljakademi och examensanstalt", "page": 142},
+    {"title": "Tävlingarna", "page": 153},
+    {"title": "Ledamöternas egna skrifter", "page": 169},
+    {"title": "Fynd och fornvård", "page": 183},
+    {"title": "Sekreterare och ledamöter", "page": 211},
+    {"title": "Inträdestal, levernesbeskrivningar och avhandlingar", "page": 231},
+    {"title": "Medaljer och tävlingar", "page": 262},
+    {"title": "Fynden", "page": 276},
+    {"title": "Fornvård och fornforskning", "page": 319},
+    {"title": "Sekreterare, amanuens, ledamöter och lokal", "page": 377},
+    {"title": "Levernesbeskrivningar, inträdestal och avhandlingar", "page": 408},
+    {"title": "Medalj- och inskriftsärenden. Tävlingar", "page": 427},
+    {"title": "Fynd och fornvård", "page": 452}
+  ],
+  "front": {
+    "binding": [1, 2, 3, 4, 8],
+    "halftitle": [10],
+    "titlepage": [12]
+  },
+  "back": {
+    "contents": [508, 509, 510, 511],
+    "colophon_errata": [512],
+    "binding": [515, 516, 517]
+  },
+  "errata": []
+}

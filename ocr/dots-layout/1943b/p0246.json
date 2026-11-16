@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 246,
+ "seconds": 35.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [423, 268, 885, 304], \"category\": \"Section-header\", \"text\": \"Sekreterare och ledamöter\"}, {\"bbox\": [133, 338, 1175, 802], \"category\": \"Text\", \"text\": \"Valet efter båda förrättades den 20 januari 1818 i två omröstningar, en för varje ledighet. I den första segrade Jacob Adlerbeth med icke mindre än 13 röster av avgivna 14 och blev troligen enhälligt vald, ty den fjortonde rösten tillföll säkerligen av misstag Professor Thyselius. I den andra voteringen var däremot stark röstsplittring. Thyselius, som blev vald, fick blott fem röster, Lundblad tre, Rabenius två, kanslirådet Tannström och Sundel en var — två röstande hade således ej deltagit i det senare valet. Till Jacob Adlerbeths seger medverkade nog faderns popularitet inom akademien. Men valet av Idunas redaktör visar dock, att akademiens majoritet ej längre var fientligt inställd mot den nya götiska rörelsen.\"}, {\"bbox\": [1179, 341, 1326, 429], \"category\": \"Text\", \"text\": \"Jacob Adler-\\nbeth och Thy-\\nselius valda\"}, {\"bbox\": [133, 799, 1175, 1050], \"category\": \"Text\", \"text\": \"Sitt inträdestal — om källorna och utsigterna till en säkrare kännedom om Sveriges forntida tillstånd — höll han den 14 juli 1819, men talet blev icke tryckt i Handlingarne och är veterligen icke bevarat. Ännu senare, den 25 april 1820, tog Thyselius inträde — då med ett tal Om Roms satiriska skalder i förhållande till deras tidehvarf, vilket trycktes i Handlingarnes tolfte band.\"}, {\"bbox\": [133, 1048, 1175, 1802], \"category\": \"Text\", \"text\": \"Ännu ett dödsfall — och ett märkligt — inom den arbetande klassen inträffade under Hallenbergs återstående sekreterartid. Den 7 oktober 1818 slutade nämligen Jacob Adlerbeths far, akademiens förste sekreterare, Gudmund Adlerbeth sitt liv. Vid nästa sammanträde, den 14 oktober, »anmälte acad:s President Hr Landshöfdingen vonstein på anmodan af Hr Expeditions Secreteraren Baron Adlerbeth, att f. d. Stats Rådet m. m. Herr Friherre Adlerbeth d. 7 sistl. october efter få dagars opasslighet hastigt aflidit på sin sätesgård Ramsjöholm. Herr Landshöfdingen tillika med academiens Herrar Ledamöter yttrade dervid enhälligt den kännbara saknad och snart sagdt oersättliga förlust academien genom en af Henne högst förtjent Ledamots bortgång lidit. I anledning af Herr Presidenten Friherre Edelcrantz' gjorde hemställan beslöt academien att till tacksam hogkomst låta slå en minnespenning öfver framlidne Herr Statsrådet Friherre Adlerbeth» — den första minnespenning, som akademien själv slagit över någon av sina ledamöter. Val till Adlerbeths efterträdare förrättades först den 18 maj 1819 — således efter Hallenbergs sekreterartid.\"}, {\"bbox\": [1200, 1051, 1304, 1138], \"category\": \"Text\", \"text\": \"Gudmund\\nAdlerbeth\\ndöd\"}, {\"bbox\": [1103, 1837, 1171, 1875], \"category\": \"Page-footer\", \"text\": \"229\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    423,
+    268,
+    885,
+    304
+   ],
+   "category": "Section-header",
+   "text": "Sekreterare och ledamöter"
+  },
+  {
+   "bbox": [
+    133,
+    338,
+    1175,
+    802
+   ],
+   "category": "Text",
+   "text": "Valet efter båda förrättades den 20 januari 1818 i två omröstningar, en för varje ledighet. I den första segrade Jacob Adlerbeth med icke mindre än 13 röster av avgivna 14 och blev troligen enhälligt vald, ty den fjortonde rösten tillföll säkerligen av misstag Professor Thyselius. I den andra voteringen var däremot stark röstsplittring. Thyselius, som blev vald, fick blott fem röster, Lundblad tre, Rabenius två, kanslirådet Tannström och Sundel en var — två röstande hade således ej deltagit i det senare valet. Till Jacob Adlerbeths seger medverkade nog faderns popularitet inom akademien. Men valet av Idunas redaktör visar dock, att akademiens majoritet ej längre var fientligt inställd mot den nya götiska rörelsen."
+  },
+  {
+   "bbox": [
+    1179,
+    341,
+    1326,
+    429
+   ],
+   "category": "Text",
+   "text": "Jacob Adler-\nbeth och Thy-\nselius valda"
+  },
+  {
+   "bbox": [
+    133,
+    799,
+    1175,
+    1050
+   ],
+   "category": "Text",
+   "text": "Sitt inträdestal — om källorna och utsigterna till en säkrare kännedom om Sveriges forntida tillstånd — höll han den 14 juli 1819, men talet blev icke tryckt i Handlingarne och är veterligen icke bevarat. Ännu senare, den 25 april 1820, tog Thyselius inträde — då med ett tal Om Roms satiriska skalder i förhållande till deras tidehvarf, vilket trycktes i Handlingarnes tolfte band."
+  },
+  {
+   "bbox": [
+    133,
+    1048,
+    1175,
+    1802
+   ],
+   "category": "Text",
+   "text": "Ännu ett dödsfall — och ett märkligt — inom den arbetande klassen inträffade under Hallenbergs återstående sekreterartid. Den 7 oktober 1818 slutade nämligen Jacob Adlerbeths far, akademiens förste sekreterare, Gudmund Adlerbeth sitt liv. Vid nästa sammanträde, den 14 oktober, »anmälte acad:s President Hr Landshöfdingen vonstein på anmodan af Hr Expeditions Secreteraren Baron Adlerbeth, att f. d. Stats Rådet m. m. Herr Friherre Adlerbeth d. 7 sistl. october efter få dagars opasslighet hastigt aflidit på sin sätesgård Ramsjöholm. Herr Landshöfdingen tillika med academiens Herrar Ledamöter yttrade dervid enhälligt den kännbara saknad och snart sagdt oersättliga förlust academien genom en af Henne högst förtjent Ledamots bortgång lidit. I anledning af Herr Presidenten Friherre Edelcrantz' gjorde hemställan beslöt academien att till tacksam hogkomst låta slå en minnespenning öfver framlidne Herr Statsrådet Friherre Adlerbeth» — den första minnespenning, som akademien själv slagit över någon av sina ledamöter. Val till Adlerbeths efterträdare förrättades först den 18 maj 1819 — således efter Hallenbergs sekreterartid."
+  },
+  {
+   "bbox": [
+    1200,
+    1051,
+    1304,
+    1138
+   ],
+   "category": "Text",
+   "text": "Gudmund\nAdlerbeth\ndöd"
+  },
+  {
+   "bbox": [
+    1103,
+    1837,
+    1171,
+    1875
+   ],
+   "category": "Page-footer",
+   "text": "229"
+  }
+ ]
+}

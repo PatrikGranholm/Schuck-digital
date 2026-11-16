@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 278,
+ "seconds": 23.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [181, 276, 1120, 321], \"category\": \"Section-header\", \"text\": \"Inträdestal, levernesbeskrivningar och avhandlingar\"}, {\"bbox\": [129, 347, 1173, 727], \"category\": \"Text\", \"text\": \"blev takten betydligt långsammare. Under den förut behandlade perioden 1803—1810 hade blott ett band, det åttonde, utgivits (1808), således efter sex års uppehåll. Under de nio åren 1810—1819 endast två, det nionde 1811, det tionde 1816, d. v. s. under Hallenbergs hela tid ungefär ett band vart femte år. I det hela låg felet huvudsakligen hos sekreteraren, som icke med nog energi drev på ledamöterna att inlämna sina manuskript. Något initiativ tyckes Hallenberg aldrig ha tagit, utan när frågan om Handlingarna togs upp, var det av Sundel ellerstein.\"}, {\"bbox\": [128, 724, 1174, 1267], \"category\": \"Text\", \"text\": \"Det åttonde bandet hade 1808 tryckts hos Lindh. Då Sundel i slutet av 1810 föreslog utgivandet av ett nionde band, infordrade han anbud från Stockholms olika boktryckare. Lindh, Delén och Nordström fordrade då — utom äganderätt till upplagan — ett tillskott från akademien av 100 dr banko, men Sohm hade här gått ned till 100 dr riksgälds, och hans anbud blev därför antaget. När hans tryckpapper likväl ej kunde godkännas, stannade man med att antaga Nordströms dyrare anbud. Han tryckte nu det nionde bandet, som blev färdigt i oktober 1811. Akademien fick då av honom ett exemplar »till skänks» och inlöste tre, som sedan bundos i röd marokäng och överlämnades till konungen, kronprinsen och hertigen av Södermanland (prins Oscar). På samma villkor tryckte Nordström även det tionde bandet (1816).\"}, {\"bbox\": [1101, 1838, 1166, 1877], \"category\": \"Page-footer\", \"text\": \"261\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    181,
+    276,
+    1120,
+    321
+   ],
+   "category": "Section-header",
+   "text": "Inträdestal, levernesbeskrivningar och avhandlingar"
+  },
+  {
+   "bbox": [
+    129,
+    347,
+    1173,
+    727
+   ],
+   "category": "Text",
+   "text": "blev takten betydligt långsammare. Under den förut behandlade perioden 1803—1810 hade blott ett band, det åttonde, utgivits (1808), således efter sex års uppehåll. Under de nio åren 1810—1819 endast två, det nionde 1811, det tionde 1816, d. v. s. under Hallenbergs hela tid ungefär ett band vart femte år. I det hela låg felet huvudsakligen hos sekreteraren, som icke med nog energi drev på ledamöterna att inlämna sina manuskript. Något initiativ tyckes Hallenberg aldrig ha tagit, utan när frågan om Handlingarna togs upp, var det av Sundel ellerstein."
+  },
+  {
+   "bbox": [
+    128,
+    724,
+    1174,
+    1267
+   ],
+   "category": "Text",
+   "text": "Det åttonde bandet hade 1808 tryckts hos Lindh. Då Sundel i slutet av 1810 föreslog utgivandet av ett nionde band, infordrade han anbud från Stockholms olika boktryckare. Lindh, Delén och Nordström fordrade då — utom äganderätt till upplagan — ett tillskott från akademien av 100 dr banko, men Sohm hade här gått ned till 100 dr riksgälds, och hans anbud blev därför antaget. När hans tryckpapper likväl ej kunde godkännas, stannade man med att antaga Nordströms dyrare anbud. Han tryckte nu det nionde bandet, som blev färdigt i oktober 1811. Akademien fick då av honom ett exemplar »till skänks» och inlöste tre, som sedan bundos i röd marokäng och överlämnades till konungen, kronprinsen och hertigen av Södermanland (prins Oscar). På samma villkor tryckte Nordström även det tionde bandet (1816)."
+  },
+  {
+   "bbox": [
+    1101,
+    1838,
+    1166,
+    1877
+   ],
+   "category": "Page-footer",
+   "text": "261"
+  }
+ ]
+}

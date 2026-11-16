@@ -1,0 +1,31 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 7,
+ "seconds": 9.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [73, 76, 1764, 2422], \"category\": \"Picture\"}, {\"bbox\": [637, 581, 1473, 931], \"category\": \"Text\", \"text\": \"THE\\nMISTAKES\\nOF\\nA\\nMISTAKEN\\nMISTAKER\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    73,
+    76,
+    1764,
+    2422
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    637,
+    581,
+    1473,
+    931
+   ],
+   "category": "Text",
+   "text": "THE\nMISTAKES\nOF\nA\nMISTAKEN\nMISTAKER"
+  }
+ ]
+}

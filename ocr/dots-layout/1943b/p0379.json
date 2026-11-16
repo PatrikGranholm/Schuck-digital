@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 379,
+ "seconds": 27.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [800, 275, 1311, 320], \"category\": \"Page-header\", \"text\": \"Hallenbergs tid 1810—1819\"}, {\"bbox\": [1043, 356, 1071, 382], \"category\": \"Section-header\", \"text\": \"1.\"}, {\"bbox\": [533, 401, 1574, 945], \"category\": \"Text\", \"text\": \"För att bereda tillfälle för Vederbörande att meddela upplysningar om Monumenter, som i anseende till någon särskilt märkvärdighet förtjena att vårdas, äger han att författa en fullständig uppgift på de säkra kännetecken, genom hvilka en Fornlemning kan urskiljas, hvilken uppgift bör af *Witterhets Historie och Antiquitets Academien pröfvas* och underställas Konungen, på hvars Nådiga välbehag det sedan ankommer att dess allmänna kungörande tillåta. Vidare äger Professoren att upprätta Förtekningar, i ordning efter Län, Härader och Socknar, på alla de innom Riket hittills kände och upptäckte Ålderdomsquarlefvor, hvilka böra bibehållas, hvarefter dessa Förtekningar af honom inlemnas till *Witterhets Historie och Antiquitets-academien*, som i anledning deraf vidtager de för ändamålet tjenliga åtgärder.\"}, {\"bbox\": [1043, 964, 1071, 990], \"category\": \"Section-header\", \"text\": \"2.\"}, {\"bbox\": [533, 1008, 1568, 1294], \"category\": \"Text\", \"text\": \"Under sommarmånaderne företager Professoren Resor i Rikets Provinser, och först i dem, hvarest de flesta Enskiften antingen redan blifvit verkställde eller äro under beredande. Han bör dervid använda all flit för att få de förut började Antiquariska Topographier fullständige så väl i afseende på de minnesmärken, hvilka ännu äro i behåll som på dem, hvilka förut funnits, men i mer eller mindre mån blifvit förstörde.\"}, {\"bbox\": [1043, 1322, 1073, 1355], \"category\": \"Section-header\", \"text\": \"3.\"}, {\"bbox\": [533, 1365, 1568, 1693], \"category\": \"Text\", \"text\": \"Professoren åligger att aftekna och beskrifva de tillförne okände eller ej uppgifne minnesmärken, som nu upptäckas, genom anmälan på behörig ort utverka att de, som äro af värde, fridlysas, derest de med afseende på Jordägarens rätt utan hans förfång kunna bibehållas, hvaraf blir en följd, att jordägaren berättigas att med de öfrige såsom honom godt synes förfara. Professoren inlemnar till Landshöfdinge Embetet i hvart och ett Län Förtekning på de derstädes fridlysta Monumenter.\"}, {\"bbox\": [1038, 1721, 1069, 1753], \"category\": \"Section-header\", \"text\": \"4.\"}, {\"bbox\": [569, 1764, 1566, 1807], \"category\": \"Text\", \"text\": \"Han tillser, att, hvar det sig göra låter, de betydligare af Förstörda\"}, {\"bbox\": [536, 1836, 606, 1882], \"category\": \"Page-footer\", \"text\": \"360\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    800,
+    275,
+    1311,
+    320
+   ],
+   "category": "Page-header",
+   "text": "Hallenbergs tid 1810—1819"
+  },
+  {
+   "bbox": [
+    1043,
+    356,
+    1071,
+    382
+   ],
+   "category": "Section-header",
+   "text": "1."
+  },
+  {
+   "bbox": [
+    533,
+    401,
+    1574,
+    945
+   ],
+   "category": "Text",
+   "text": "För att bereda tillfälle för Vederbörande att meddela upplysningar om Monumenter, som i anseende till någon särskilt märkvärdighet förtjena att vårdas, äger han att författa en fullständig uppgift på de säkra kännetecken, genom hvilka en Fornlemning kan urskiljas, hvilken uppgift bör af *Witterhets Historie och Antiquitets Academien pröfvas* och underställas Konungen, på hvars Nådiga välbehag det sedan ankommer att dess allmänna kungörande tillåta. Vidare äger Professoren att upprätta Förtekningar, i ordning efter Län, Härader och Socknar, på alla de innom Riket hittills kände och upptäckte Ålderdomsquarlefvor, hvilka böra bibehållas, hvarefter dessa Förtekningar af honom inlemnas till *Witterhets Historie och Antiquitets-academien*, som i anledning deraf vidtager de för ändamålet tjenliga åtgärder."
+  },
+  {
+   "bbox": [
+    1043,
+    964,
+    1071,
+    990
+   ],
+   "category": "Section-header",
+   "text": "2."
+  },
+  {
+   "bbox": [
+    533,
+    1008,
+    1568,
+    1294
+   ],
+   "category": "Text",
+   "text": "Under sommarmånaderne företager Professoren Resor i Rikets Provinser, och först i dem, hvarest de flesta Enskiften antingen redan blifvit verkställde eller äro under beredande. Han bör dervid använda all flit för att få de förut började Antiquariska Topographier fullständige så väl i afseende på de minnesmärken, hvilka ännu äro i behåll som på dem, hvilka förut funnits, men i mer eller mindre mån blifvit förstörde."
+  },
+  {
+   "bbox": [
+    1043,
+    1322,
+    1073,
+    1355
+   ],
+   "category": "Section-header",
+   "text": "3."
+  },
+  {
+   "bbox": [
+    533,
+    1365,
+    1568,
+    1693
+   ],
+   "category": "Text",
+   "text": "Professoren åligger att aftekna och beskrifva de tillförne okände eller ej uppgifne minnesmärken, som nu upptäckas, genom anmälan på behörig ort utverka att de, som äro af värde, fridlysas, derest de med afseende på Jordägarens rätt utan hans förfång kunna bibehållas, hvaraf blir en följd, att jordägaren berättigas att med de öfrige såsom honom godt synes förfara. Professoren inlemnar till Landshöfdinge Embetet i hvart och ett Län Förtekning på de derstädes fridlysta Monumenter."
+  },
+  {
+   "bbox": [
+    1038,
+    1721,
+    1069,
+    1753
+   ],
+   "category": "Section-header",
+   "text": "4."
+  },
+  {
+   "bbox": [
+    569,
+    1764,
+    1566,
+    1807
+   ],
+   "category": "Text",
+   "text": "Han tillser, att, hvar det sig göra låter, de betydligare af Förstörda"
+  },
+  {
+   "bbox": [
+    536,
+    1836,
+    606,
+    1882
+   ],
+   "category": "Page-footer",
+   "text": "360"
+  }
+ ]
+}

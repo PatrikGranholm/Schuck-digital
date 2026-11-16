@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 338,
+ "seconds": 26.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [311, 523, 1007, 558], \"category\": \"Section-header\", \"text\": \"FORNVÅRD OCH FORNFORSKNING.\"}, {\"bbox\": [139, 636, 1176, 929], \"category\": \"Text\", \"text\": \"Någon fornvård hade akademien av brist på medel icke — lika litet som någon fornforskning — kunnat utöva, och de försök, som akademien i början av sin verksamhet gjort i detta avseende, hade avvisats av Gustav III. Alldeles overksam i sin egenskap av det gamla antikvitetsarkivets arvtagare hade akademien dock ej varit, och även under denna tid förekommo några ärenden, som kunna räknas till fornvården och fornforskningen.\"}, {\"bbox\": [1180, 642, 1326, 703], \"category\": \"Text\", \"text\": \"Hemse kyrkogård\"}, {\"bbox\": [139, 929, 1178, 1764], \"category\": \"Text\", \"text\": \"Ett dylikt ärende förekom redan 1812. Vid sammanträdet den 24 november väckte den antikvariskt intresserade doktor Blad ett förslag att återupptaga ett grävningsarbete, som 1767 gjorts på Hemse kyrkogård på Gotland och för vilket förut i detta arbete redogjorts (V, s. 518—525). Protokollet lyder: »Academiens nu warande President [Dr. Blad] hemställde, om icke Academien skulle wilja anwända någon dess åtgärd till inhemtande af närmare kunskap om ett på Gothland år 1767 wid grävning på Hemse kyrkegård funnet ålderdoms Minnesmärke, hvarom Conrectorn wid Wisby Trivial Schola Magister Åkermann författat en Berättelse, hvilken Biskop Lütkeman år 1774 låtit trycka hos Pfeiffer på ett ark i 8° med titel: Berättelse om ett urminnesmärke, hittat på Gothland och Hemse Kyrkogård år 1767. Berättelsen innehåller, att man wid gräfningen funnit qvarlefvor af murar efter någon forntids byggnad, men som Academien icke hade sig bekant, om något ytterligare blifvit widgjordt på en tid af öfver 40 år, som från samma gräfning förflutit, blefve nödvändigt att erhålla närmare kunskap derom, och sedan kunde Academien efter sig företeende anledningar jämte underdånig berättelse till Hans Majestät Konungen hemställa, huruvida någon ämbetsmanna åtgärd på stället kunde äga rum.»\"}, {\"bbox\": [177, 1764, 1176, 1806], \"category\": \"Text\", \"text\": \"Enligt Åkerman hade man påträffat en underjordisk byggning,\"}, {\"bbox\": [1105, 1842, 1171, 1879], \"category\": \"Page-footer\", \"text\": \"319\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    311,
+    523,
+    1007,
+    558
+   ],
+   "category": "Section-header",
+   "text": "FORNVÅRD OCH FORNFORSKNING."
+  },
+  {
+   "bbox": [
+    139,
+    636,
+    1176,
+    929
+   ],
+   "category": "Text",
+   "text": "Någon fornvård hade akademien av brist på medel icke — lika litet som någon fornforskning — kunnat utöva, och de försök, som akademien i början av sin verksamhet gjort i detta avseende, hade avvisats av Gustav III. Alldeles overksam i sin egenskap av det gamla antikvitetsarkivets arvtagare hade akademien dock ej varit, och även under denna tid förekommo några ärenden, som kunna räknas till fornvården och fornforskningen."
+  },
+  {
+   "bbox": [
+    1180,
+    642,
+    1326,
+    703
+   ],
+   "category": "Text",
+   "text": "Hemse kyrkogård"
+  },
+  {
+   "bbox": [
+    139,
+    929,
+    1178,
+    1764
+   ],
+   "category": "Text",
+   "text": "Ett dylikt ärende förekom redan 1812. Vid sammanträdet den 24 november väckte den antikvariskt intresserade doktor Blad ett förslag att återupptaga ett grävningsarbete, som 1767 gjorts på Hemse kyrkogård på Gotland och för vilket förut i detta arbete redogjorts (V, s. 518—525). Protokollet lyder: »Academiens nu warande President [Dr. Blad] hemställde, om icke Academien skulle wilja anwända någon dess åtgärd till inhemtande af närmare kunskap om ett på Gothland år 1767 wid grävning på Hemse kyrkegård funnet ålderdoms Minnesmärke, hvarom Conrectorn wid Wisby Trivial Schola Magister Åkermann författat en Berättelse, hvilken Biskop Lütkeman år 1774 låtit trycka hos Pfeiffer på ett ark i 8° med titel: Berättelse om ett urminnesmärke, hittat på Gothland och Hemse Kyrkogård år 1767. Berättelsen innehåller, att man wid gräfningen funnit qvarlefvor af murar efter någon forntids byggnad, men som Academien icke hade sig bekant, om något ytterligare blifvit widgjordt på en tid af öfver 40 år, som från samma gräfning förflutit, blefve nödvändigt att erhålla närmare kunskap derom, och sedan kunde Academien efter sig företeende anledningar jämte underdånig berättelse till Hans Majestät Konungen hemställa, huruvida någon ämbetsmanna åtgärd på stället kunde äga rum.»"
+  },
+  {
+   "bbox": [
+    177,
+    1764,
+    1176,
+    1806
+   ],
+   "category": "Text",
+   "text": "Enligt Åkerman hade man påträffat en underjordisk byggning,"
+  },
+  {
+   "bbox": [
+    1105,
+    1842,
+    1171,
+    1879
+   ],
+   "category": "Page-footer",
+   "text": "319"
+  }
+ ]
+}

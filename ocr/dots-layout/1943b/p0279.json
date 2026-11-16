@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 279,
+ "seconds": 26.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [755, 525, 1313, 568], \"category\": \"Section-header\", \"text\": \"MEDALJER OCH TÄVLINGAR.\"}, {\"bbox\": [378, 645, 495, 732], \"category\": \"Text\", \"text\": \"Akademien och kansliexamen\"}, {\"bbox\": [510, 638, 1548, 1092], \"category\": \"Text\", \"text\": \"På Gustav III:s tid hade akademien haft två huvuduppgifter: att giva förslag till medaljer och inskrifter och att bedöma skrifter i de fyra årliga tävlingar, som akademien skulle utsätta. Sedan hade tillkommit ännu en uppgift: att examinera dem, som sökte inträde i Konungens kansli. Denna skyldighet, som redan från början mycket litet intresserat akademien, bestod väl även under denna tid, ända till 1865, men nu började man att icke anteckna dessa examina i protokollet. Prövningen skedde ju icke inför akademien in pleno utan förrättades av en eller två av dess ledamöter, som förmodligen avgåvo rapport direkt till kanslipresidenten, och i det hela var denna examen mera formell än reell.\"}, {\"bbox\": [368, 1105, 503, 1168], \"category\": \"Text\", \"text\": \"Medaljgranskningen\"}, {\"bbox\": [510, 1097, 1547, 1464], \"category\": \"Text\", \"text\": \"Medaljgranskningen däremot var även under denna tid en för akademien ganska tidskrävande uppgift, och ärendena förefalla att vara ungefär lika många som förut, likaså akademiens intresse för dem. Men att här redogöra för dem synes överflödigt, då deras karaktär framgår av den redogörelse, som förut lämnats för dylika ärendens art och behandling. Häri skedde icke någon ändring. Endast ett exempel kan här förtjäna att anföras på den noggrannhet, med vilken akademien fortfarande sökte fullgöra sitt åliggande i dylika fall.\"}, {\"bbox\": [510, 1470, 1547, 1806], \"category\": \"Text\", \"text\": \"Under intrycket av 1809 års revolution, varigenom enväldet avskaffades, hade ridderskapet och adeln beslutat att slå en medalj över lagman Carl Gustaf Gyllencreutz, vilken under Karl XI:s regering avgivit en protest mot enväldets införande och sedermera varit med om att under Karl XII:s tid utarbeta det förslag till ny regeringsform, som i förändrat skick antogs av 1719 års riksdag. Den 27 november 1810 kom ärendet på remiss till akademien, vilken då gav sin ledamot Rutström i uppdrag att till nästa sammanträde in-\"}, {\"bbox\": [516, 1835, 583, 1873], \"category\": \"Page-footer\", \"text\": \"262\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    755,
+    525,
+    1313,
+    568
+   ],
+   "category": "Section-header",
+   "text": "MEDALJER OCH TÄVLINGAR."
+  },
+  {
+   "bbox": [
+    378,
+    645,
+    495,
+    732
+   ],
+   "category": "Text",
+   "text": "Akademien och kansliexamen"
+  },
+  {
+   "bbox": [
+    510,
+    638,
+    1548,
+    1092
+   ],
+   "category": "Text",
+   "text": "På Gustav III:s tid hade akademien haft två huvuduppgifter: att giva förslag till medaljer och inskrifter och att bedöma skrifter i de fyra årliga tävlingar, som akademien skulle utsätta. Sedan hade tillkommit ännu en uppgift: att examinera dem, som sökte inträde i Konungens kansli. Denna skyldighet, som redan från början mycket litet intresserat akademien, bestod väl även under denna tid, ända till 1865, men nu började man att icke anteckna dessa examina i protokollet. Prövningen skedde ju icke inför akademien in pleno utan förrättades av en eller två av dess ledamöter, som förmodligen avgåvo rapport direkt till kanslipresidenten, och i det hela var denna examen mera formell än reell."
+  },
+  {
+   "bbox": [
+    368,
+    1105,
+    503,
+    1168
+   ],
+   "category": "Text",
+   "text": "Medaljgranskningen"
+  },
+  {
+   "bbox": [
+    510,
+    1097,
+    1547,
+    1464
+   ],
+   "category": "Text",
+   "text": "Medaljgranskningen däremot var även under denna tid en för akademien ganska tidskrävande uppgift, och ärendena förefalla att vara ungefär lika många som förut, likaså akademiens intresse för dem. Men att här redogöra för dem synes överflödigt, då deras karaktär framgår av den redogörelse, som förut lämnats för dylika ärendens art och behandling. Häri skedde icke någon ändring. Endast ett exempel kan här förtjäna att anföras på den noggrannhet, med vilken akademien fortfarande sökte fullgöra sitt åliggande i dylika fall."
+  },
+  {
+   "bbox": [
+    510,
+    1470,
+    1547,
+    1806
+   ],
+   "category": "Text",
+   "text": "Under intrycket av 1809 års revolution, varigenom enväldet avskaffades, hade ridderskapet och adeln beslutat att slå en medalj över lagman Carl Gustaf Gyllencreutz, vilken under Karl XI:s regering avgivit en protest mot enväldets införande och sedermera varit med om att under Karl XII:s tid utarbeta det förslag till ny regeringsform, som i förändrat skick antogs av 1719 års riksdag. Den 27 november 1810 kom ärendet på remiss till akademien, vilken då gav sin ledamot Rutström i uppdrag att till nästa sammanträde in-"
+  },
+  {
+   "bbox": [
+    516,
+    1835,
+    583,
+    1873
+   ],
+   "category": "Page-footer",
+   "text": "262"
+  }
+ ]
+}

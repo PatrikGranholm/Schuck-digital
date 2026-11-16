@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 396,
+ "seconds": 26.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [147, 515, 1076, 601], \"category\": \"Section-header\", \"text\": \"SEKRETERARE, AMANUENS, LEDAMÖTER OCH LOKAL.\"}, {\"bbox\": [90, 677, 1129, 1055], \"category\": \"Text\", \"text\": \"Den 6 november 1818 hade Hallenberg inlämnat sin avskedsansökan, vilken bifölls först den 22 april 1819 — således efter en ganska rundlig tid — och med utnämnandet av efterträdare drog det om nästan ett helt år efter avskedet, ända till den 30 mars 1820. Redan detta tyder på, att man haft svårt att finna en lämplig kandidat till den lediga platsen. Lönen, 300 drr banko, var ju ej vidare lockande, och endast en person, som i Stockholm innehade en verkligen avlönad plats eller som ägde privat förmögenhet, kunde tänkas villig att mottaga uppdraget.\"}, {\"bbox\": [1129, 685, 1277, 778], \"category\": \"Text\", \"text\": \"Kandidater till sekreterarplatsen\"}, {\"bbox\": [89, 1055, 1129, 1547], \"category\": \"Text\", \"text\": \"Om underhandlingarna rörande platsens besättande veta vi mycket litet, då de väl huvudsakligen fördes genom muntliga överläggningar. Vi skola vidare erinra oss, att sekreteraren ej valdes av akademien utan utnämndes av Kungl. Maj:t utan akademiens hörande och att den till sekreterare utnämnde ej behövde förut vara ledamot av akademien — varken Flintenberg eller Tihleman hade ju varit det. I akademiens protokoll kan således intet förekomma i denna sak, ehuru man dock kan läsa något mellan raderna. Bergstedts papper (i U. U. B.) innehålla intet härom, och den Engeströmska brevsamlingen (i K. B.) är mycket litet givande, mera då de knapphändiga notiserna i Jacob Adlerbeths Dagbok (handskrift i U. U. B.). Något framgår dock av detta material.\"}, {\"bbox\": [89, 1554, 1127, 1805], \"category\": \"Text\", \"text\": \"För oss förefaller det ha varit det naturligaste, att Sundel, som mer än Hallenberg skött tjänsten, blivit dess innehavare. 1819 var han 55 år gammal, således varken för gammal eller för ung, aktuarie i ett historiskt forskningsinstitut, riksarkivet, vars chef han 1822 blev, visserligen såsom vetenskapsman ej jämförlig med Hallenberg, men betydligt överlägsen Tihleman. Framför allt kunde han åbe-\"}, {\"bbox\": [1165, 1566, 1239, 1593], \"category\": \"Text\", \"text\": \"Sundel\"}, {\"bbox\": [1050, 1844, 1121, 1882], \"category\": \"Page-footer\", \"text\": \"377\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    147,
+    515,
+    1076,
+    601
+   ],
+   "category": "Section-header",
+   "text": "SEKRETERARE, AMANUENS, LEDAMÖTER OCH LOKAL."
+  },
+  {
+   "bbox": [
+    90,
+    677,
+    1129,
+    1055
+   ],
+   "category": "Text",
+   "text": "Den 6 november 1818 hade Hallenberg inlämnat sin avskedsansökan, vilken bifölls först den 22 april 1819 — således efter en ganska rundlig tid — och med utnämnandet av efterträdare drog det om nästan ett helt år efter avskedet, ända till den 30 mars 1820. Redan detta tyder på, att man haft svårt att finna en lämplig kandidat till den lediga platsen. Lönen, 300 drr banko, var ju ej vidare lockande, och endast en person, som i Stockholm innehade en verkligen avlönad plats eller som ägde privat förmögenhet, kunde tänkas villig att mottaga uppdraget."
+  },
+  {
+   "bbox": [
+    1129,
+    685,
+    1277,
+    778
+   ],
+   "category": "Text",
+   "text": "Kandidater till sekreterarplatsen"
+  },
+  {
+   "bbox": [
+    89,
+    1055,
+    1129,
+    1547
+   ],
+   "category": "Text",
+   "text": "Om underhandlingarna rörande platsens besättande veta vi mycket litet, då de väl huvudsakligen fördes genom muntliga överläggningar. Vi skola vidare erinra oss, att sekreteraren ej valdes av akademien utan utnämndes av Kungl. Maj:t utan akademiens hörande och att den till sekreterare utnämnde ej behövde förut vara ledamot av akademien — varken Flintenberg eller Tihleman hade ju varit det. I akademiens protokoll kan således intet förekomma i denna sak, ehuru man dock kan läsa något mellan raderna. Bergstedts papper (i U. U. B.) innehålla intet härom, och den Engeströmska brevsamlingen (i K. B.) är mycket litet givande, mera då de knapphändiga notiserna i Jacob Adlerbeths Dagbok (handskrift i U. U. B.). Något framgår dock av detta material."
+  },
+  {
+   "bbox": [
+    89,
+    1554,
+    1127,
+    1805
+   ],
+   "category": "Text",
+   "text": "För oss förefaller det ha varit det naturligaste, att Sundel, som mer än Hallenberg skött tjänsten, blivit dess innehavare. 1819 var han 55 år gammal, således varken för gammal eller för ung, aktuarie i ett historiskt forskningsinstitut, riksarkivet, vars chef han 1822 blev, visserligen såsom vetenskapsman ej jämförlig med Hallenberg, men betydligt överlägsen Tihleman. Framför allt kunde han åbe-"
+  },
+  {
+   "bbox": [
+    1165,
+    1566,
+    1239,
+    1593
+   ],
+   "category": "Text",
+   "text": "Sundel"
+  },
+  {
+   "bbox": [
+    1050,
+    1844,
+    1121,
+    1882
+   ],
+   "category": "Page-footer",
+   "text": "377"
+  }
+ ]
+}

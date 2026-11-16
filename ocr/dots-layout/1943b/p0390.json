@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 390,
+ "seconds": 28.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [370, 276, 865, 320], \"category\": \"Section-header\", \"text\": \"Fornvård och fornforskning\"}, {\"bbox\": [92, 347, 1137, 474], \"category\": \"Text\", \"text\": \"jag samlat uppgifter för att genom Konungens Befallningshafvande till Fridlysning anmäla Fornlemningar i Kronobergs Län enligt Litt G. och uti Götheborgs och Bohus län enligt Litt. D.\"}, {\"bbox\": [132, 479, 619, 522], \"category\": \"Text\", \"text\": \"Stockholm d. 10 augusti 1818.\"}, {\"bbox\": [890, 521, 1117, 563], \"category\": \"Text\", \"text\": \"N. H. Sjöborg\"}, {\"bbox\": [945, 564, 1055, 592], \"category\": \"Text\", \"text\": \"Professor\"}, {\"bbox\": [875, 601, 1137, 690], \"category\": \"Text\", \"text\": \"och i nåder förordnad att\\nhafva Inseende och vård\\nöfver Rikets antiquiteter.»\"}, {\"bbox\": [96, 723, 1137, 891], \"category\": \"Text\", \"text\": \"Av denna skrivelse framgår, att Sjöborg efter Sveriges och Norges förening, egendomligt nog, tyckes ha ansett, att han hade fått sin inspektion över Sveriges fornlämningar utsträckt även till Norges, ehuru han medgav, att hans åtgärder blivit utan verkan.\"}, {\"bbox\": [96, 891, 1139, 1557], \"category\": \"Text\", \"text\": \"Två dagar senare, den 12 augusti, föredrogs hans skrivelse i akademien: »Anmälte undertecknad [Sundel] att Herr Professoren N. H. Sjöborg till Kongl. Academiens granskning och bedömande inlemnat Redogörelse för dess åtgärder vid fäderneslandets antiquiteter för åren 1815, 1816 och 1817, innehållande icke allenast berättelser om de i Skandinavien varande fornlemningar, hvilka Professoren under denna tid ägt tillfälle att på stället taga i ögonsigte utan ock ritningar öfver de märkvärdigaste fornlemningar, med anhållan att Kongl. Academien på sätt Hon vid ingifvandet af dess första årsberättelse 1816 förfarit, täcktes granska dess upgifter och deröfver meddela honom bevis genom utdrag af Protokollet. För öfrigt hade Herr Professoren anhållit att efter förrättad granskning återfå de nu inlemnade Ritningar för att vid framdeles till äfventyrs skeende utgifvande af trycket begagnas. Kongl. academien updrog Herr Medicinal Rådet Rutström att granska berättelserna och deröfver meddela academien sitt yttrande.»\"}, {\"bbox\": [96, 1557, 1137, 1808], \"category\": \"Text\", \"text\": \"Till sammanträdet den 14 oktober var Rutström färdig med sitt yttrande, som man då icke hann behandla. Detta skedde först den 8 december: »Academien lät sig föredragas Herr Professoren N. H. Sjöborgs afgifna Redogörelse för dess till Svenska antiquiteters bewarande enligt Kongl. Majts Nådiga Instruction af den 27 april 1814 de trenne nästförlidne åren 1815, 16 och 17 anstälde Resor\"}, {\"bbox\": [1064, 1846, 1131, 1884], \"category\": \"Page-footer\", \"text\": \"371\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    370,
+    276,
+    865,
+    320
+   ],
+   "category": "Section-header",
+   "text": "Fornvård och fornforskning"
+  },
+  {
+   "bbox": [
+    92,
+    347,
+    1137,
+    474
+   ],
+   "category": "Text",
+   "text": "jag samlat uppgifter för att genom Konungens Befallningshafvande till Fridlysning anmäla Fornlemningar i Kronobergs Län enligt Litt G. och uti Götheborgs och Bohus län enligt Litt. D."
+  },
+  {
+   "bbox": [
+    132,
+    479,
+    619,
+    522
+   ],
+   "category": "Text",
+   "text": "Stockholm d. 10 augusti 1818."
+  },
+  {
+   "bbox": [
+    890,
+    521,
+    1117,
+    563
+   ],
+   "category": "Text",
+   "text": "N. H. Sjöborg"
+  },
+  {
+   "bbox": [
+    945,
+    564,
+    1055,
+    592
+   ],
+   "category": "Text",
+   "text": "Professor"
+  },
+  {
+   "bbox": [
+    875,
+    601,
+    1137,
+    690
+   ],
+   "category": "Text",
+   "text": "och i nåder förordnad att\nhafva Inseende och vård\nöfver Rikets antiquiteter.»"
+  },
+  {
+   "bbox": [
+    96,
+    723,
+    1137,
+    891
+   ],
+   "category": "Text",
+   "text": "Av denna skrivelse framgår, att Sjöborg efter Sveriges och Norges förening, egendomligt nog, tyckes ha ansett, att han hade fått sin inspektion över Sveriges fornlämningar utsträckt även till Norges, ehuru han medgav, att hans åtgärder blivit utan verkan."
+  },
+  {
+   "bbox": [
+    96,
+    891,
+    1139,
+    1557
+   ],
+   "category": "Text",
+   "text": "Två dagar senare, den 12 augusti, föredrogs hans skrivelse i akademien: »Anmälte undertecknad [Sundel] att Herr Professoren N. H. Sjöborg till Kongl. Academiens granskning och bedömande inlemnat Redogörelse för dess åtgärder vid fäderneslandets antiquiteter för åren 1815, 1816 och 1817, innehållande icke allenast berättelser om de i Skandinavien varande fornlemningar, hvilka Professoren under denna tid ägt tillfälle att på stället taga i ögonsigte utan ock ritningar öfver de märkvärdigaste fornlemningar, med anhållan att Kongl. Academien på sätt Hon vid ingifvandet af dess första årsberättelse 1816 förfarit, täcktes granska dess upgifter och deröfver meddela honom bevis genom utdrag af Protokollet. För öfrigt hade Herr Professoren anhållit att efter förrättad granskning återfå de nu inlemnade Ritningar för att vid framdeles till äfventyrs skeende utgifvande af trycket begagnas. Kongl. academien updrog Herr Medicinal Rådet Rutström att granska berättelserna och deröfver meddela academien sitt yttrande.»"
+  },
+  {
+   "bbox": [
+    96,
+    1557,
+    1137,
+    1808
+   ],
+   "category": "Text",
+   "text": "Till sammanträdet den 14 oktober var Rutström färdig med sitt yttrande, som man då icke hann behandla. Detta skedde först den 8 december: »Academien lät sig föredragas Herr Professoren N. H. Sjöborgs afgifna Redogörelse för dess till Svenska antiquiteters bewarande enligt Kongl. Majts Nådiga Instruction af den 27 april 1814 de trenne nästförlidne åren 1815, 16 och 17 anstälde Resor"
+  },
+  {
+   "bbox": [
+    1064,
+    1846,
+    1131,
+    1884
+   ],
+   "category": "Page-footer",
+   "text": "371"
+  }
+ ]
+}

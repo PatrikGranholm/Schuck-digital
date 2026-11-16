@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 76,
+ "seconds": 34.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [287, 281, 1001, 322], \"category\": \"Section-header\", \"text\": \"Det akademiska arbetet och tävlingarna\"}, {\"bbox\": [123, 351, 1165, 1270], \"category\": \"Text\", \"text\": \"epitheter. Om hans satser ej altid voro sanna, om han i det, som angick Revolutionen i Frankrike, varit något partisk, trodde Academien Sig derföre icke kunna anses böra vara ansvarig. Academien ansåg i öfrigt de betraktelser, hvilka Författaren gjort, i allmänhet grundade. Hon trodde liksom han, att menniskjo-Snillet under loppet af det förflutna i Vitterhet, Vetenskaper och konster gjort betydliga framsteg, att sederna blifvit mildare, men att den styrka i själen, den ihärdighet och drift vid mödosamma företag, som utmärkt det 17de Seklet, i det 18de ofta saknas. Academien dömde af sådana skäl Författaren värd det utsatta Priset. Den namnsedel, som han inlemnat med Valspråk *Infandum Regina jubes renovare dolorem upbröts* af Academiens vice-President Herr Cantzli Rådet Adlerbeth, och Författaren till denna Skrift befanns vara Herr Montyon, f. d. Cantzler hos Grefven af Artois. Herr Landshöfdingstein yttrade, att han kände denne Författare och åtog sig att underrätta honom, att academien tilldömt hans Skrift det utfästa Priset, att han å Författarens vägnar skulle emottaga det och detsamma till honom öfversända. Som denna skrift var af den vidd, att den icke uti Academiens handlingar kunde införas och som afsättningen deraf i Sverige icke kunde blifva betydlig, önskade academien, att författaren sjelf ville genom trycket utgifva densamma, hvaraf Herr Landshöfdingenstein äfven låfvade att lemna författaren del.»\"}, {\"bbox\": [123, 1269, 1164, 1513], \"category\": \"Text\", \"text\": \"Av de av utlänningar författade prisskrifterna blev endast den av Jenisch skrivna införd i akademiens Handlingar, där även den av Stoltz med accessit bedömda skriften intogs. Cras' Laudatio Hugonis Grotii utkom 1796 i Amsterdam, men varken Portalis' eller Montyons prisskrifter tyckas ha blivit tryckta. 1813 invalides Montyon såsom utländsk ledamot i akademien.\"}, {\"bbox\": [126, 1518, 1164, 1812], \"category\": \"Text\", \"text\": \"I jämförelse med tävlingarna i historia och antikviteter hade således tävlingen i vältalighet på främmande språk visat sig betydligt mera lockande. I denna hade det ingen enda gång blivit mässfall, därigenom att ingen tävlande anmält sig. En gång hade fem skrifter ingivits, tre gånger tre, tre gånger två och blott två gånger en enda. Fyra gånger hade pris kunnat utdelas: till en holländare, en tysk och två fransmän, och en gång — till en svensk — ett accessit.\"}, {\"bbox\": [1112, 1840, 1157, 1876], \"category\": \"Page-footer\", \"text\": \"61\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    287,
+    281,
+    1001,
+    322
+   ],
+   "category": "Section-header",
+   "text": "Det akademiska arbetet och tävlingarna"
+  },
+  {
+   "bbox": [
+    123,
+    351,
+    1165,
+    1270
+   ],
+   "category": "Text",
+   "text": "epitheter. Om hans satser ej altid voro sanna, om han i det, som angick Revolutionen i Frankrike, varit något partisk, trodde Academien Sig derföre icke kunna anses böra vara ansvarig. Academien ansåg i öfrigt de betraktelser, hvilka Författaren gjort, i allmänhet grundade. Hon trodde liksom han, att menniskjo-Snillet under loppet af det förflutna i Vitterhet, Vetenskaper och konster gjort betydliga framsteg, att sederna blifvit mildare, men att den styrka i själen, den ihärdighet och drift vid mödosamma företag, som utmärkt det 17de Seklet, i det 18de ofta saknas. Academien dömde af sådana skäl Författaren värd det utsatta Priset. Den namnsedel, som han inlemnat med Valspråk *Infandum Regina jubes renovare dolorem upbröts* af Academiens vice-President Herr Cantzli Rådet Adlerbeth, och Författaren till denna Skrift befanns vara Herr Montyon, f. d. Cantzler hos Grefven af Artois. Herr Landshöfdingstein yttrade, att han kände denne Författare och åtog sig att underrätta honom, att academien tilldömt hans Skrift det utfästa Priset, att han å Författarens vägnar skulle emottaga det och detsamma till honom öfversända. Som denna skrift var af den vidd, att den icke uti Academiens handlingar kunde införas och som afsättningen deraf i Sverige icke kunde blifva betydlig, önskade academien, att författaren sjelf ville genom trycket utgifva densamma, hvaraf Herr Landshöfdingenstein äfven låfvade att lemna författaren del.»"
+  },
+  {
+   "bbox": [
+    123,
+    1269,
+    1164,
+    1513
+   ],
+   "category": "Text",
+   "text": "Av de av utlänningar författade prisskrifterna blev endast den av Jenisch skrivna införd i akademiens Handlingar, där även den av Stoltz med accessit bedömda skriften intogs. Cras' Laudatio Hugonis Grotii utkom 1796 i Amsterdam, men varken Portalis' eller Montyons prisskrifter tyckas ha blivit tryckta. 1813 invalides Montyon såsom utländsk ledamot i akademien."
+  },
+  {
+   "bbox": [
+    126,
+    1518,
+    1164,
+    1812
+   ],
+   "category": "Text",
+   "text": "I jämförelse med tävlingarna i historia och antikviteter hade således tävlingen i vältalighet på främmande språk visat sig betydligt mera lockande. I denna hade det ingen enda gång blivit mässfall, därigenom att ingen tävlande anmält sig. En gång hade fem skrifter ingivits, tre gånger tre, tre gånger två och blott två gånger en enda. Fyra gånger hade pris kunnat utdelas: till en holländare, en tysk och två fransmän, och en gång — till en svensk — ett accessit."
+  },
+  {
+   "bbox": [
+    1112,
+    1840,
+    1157,
+    1876
+   ],
+   "category": "Page-footer",
+   "text": "61"
+  }
+ ]
+}

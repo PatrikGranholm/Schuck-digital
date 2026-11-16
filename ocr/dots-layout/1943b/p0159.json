@@ -1,0 +1,112 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 159,
+ "seconds": 25.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [759, 281, 1284, 325], \"category\": \"Section-header\", \"text\": \"Hallenbergs tid 1803—1810\"}, {\"bbox\": [501, 353, 1539, 440], \"category\": \"Text\", \"text\": \"lemnade nu samma förslag, medelst hvilket nämnde Baron Brynte\\nLilje i ställe för ett av hans fader uppsatt så lydande äreminne:\"}, {\"bbox\": [795, 455, 1238, 789], \"category\": \"Text\", \"text\": \"Riddaren\\nCarl G. Lillje\\nByggde kyrkan 1768,\\nReste sten\\nEfter sin kära hustru\\nGrefvinnan\\nMarg. Stenbock,\\nsom dog d. 27 Febr. 1768¹\"}, {\"bbox\": [500, 812, 1413, 856], \"category\": \"Text\", \"text\": \"ärnade öfver ingången till grafven låta sätta följande Skrift:\"}, {\"bbox\": [598, 867, 1436, 1254], \"category\": \"Text\", \"text\": \"Minne\\nAf Carl Göran Lillje, Major och Riddare,\\nfödd d. 3 Mars 1712, död d. 8 jan. 1782.\\nGift 1 den 11 sept med Grefvinnan Marg. Stenbock\\nFödd d. 7 jan. 1720, död d. 28 Febr 1767\\n2. den 15 Martii 1768 med Eva C. Fock\\nfödd d. 12 Jan 1735 d. 16 jan 1797.\\nTecknadt af Sonen\\nBrynte Lillje.\"}, {\"bbox\": [534, 1275, 1444, 1320], \"category\": \"Text\", \"text\": \"Och dessutom på en särskild sten låta sätta denna påskrift:\"}, {\"bbox\": [801, 1329, 1223, 1664], \"category\": \"Text\", \"text\": \"För\\nHånger och Mårby\\nsammanslagne annex\\nhar Majoren och Riddaren\\nCarl Göran Lillje\\når 1768\\nlåtit uppbygga denna\\nBjurums kyrka.\"}, {\"bbox\": [495, 1685, 1531, 1772], \"category\": \"Text\", \"text\": \"Och ehuru akademien ansåg för en allmänt gällande grundregel,\\nsom icke lätteligen borde öfverskridas, att redan uppsatta minnes-\"}, {\"bbox\": [532, 1780, 803, 1813], \"category\": \"Footnote\", \"text\": \"¹ Felskrivning för 1767.\"}, {\"bbox\": [500, 1850, 567, 1885], \"category\": \"Page-footer\", \"text\": \"144\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    759,
+    281,
+    1284,
+    325
+   ],
+   "category": "Section-header",
+   "text": "Hallenbergs tid 1803—1810"
+  },
+  {
+   "bbox": [
+    501,
+    353,
+    1539,
+    440
+   ],
+   "category": "Text",
+   "text": "lemnade nu samma förslag, medelst hvilket nämnde Baron Brynte\nLilje i ställe för ett av hans fader uppsatt så lydande äreminne:"
+  },
+  {
+   "bbox": [
+    795,
+    455,
+    1238,
+    789
+   ],
+   "category": "Text",
+   "text": "Riddaren\nCarl G. Lillje\nByggde kyrkan 1768,\nReste sten\nEfter sin kära hustru\nGrefvinnan\nMarg. Stenbock,\nsom dog d. 27 Febr. 1768¹"
+  },
+  {
+   "bbox": [
+    500,
+    812,
+    1413,
+    856
+   ],
+   "category": "Text",
+   "text": "ärnade öfver ingången till grafven låta sätta följande Skrift:"
+  },
+  {
+   "bbox": [
+    598,
+    867,
+    1436,
+    1254
+   ],
+   "category": "Text",
+   "text": "Minne\nAf Carl Göran Lillje, Major och Riddare,\nfödd d. 3 Mars 1712, död d. 8 jan. 1782.\nGift 1 den 11 sept med Grefvinnan Marg. Stenbock\nFödd d. 7 jan. 1720, död d. 28 Febr 1767\n2. den 15 Martii 1768 med Eva C. Fock\nfödd d. 12 Jan 1735 d. 16 jan 1797.\nTecknadt af Sonen\nBrynte Lillje."
+  },
+  {
+   "bbox": [
+    534,
+    1275,
+    1444,
+    1320
+   ],
+   "category": "Text",
+   "text": "Och dessutom på en särskild sten låta sätta denna påskrift:"
+  },
+  {
+   "bbox": [
+    801,
+    1329,
+    1223,
+    1664
+   ],
+   "category": "Text",
+   "text": "För\nHånger och Mårby\nsammanslagne annex\nhar Majoren och Riddaren\nCarl Göran Lillje\når 1768\nlåtit uppbygga denna\nBjurums kyrka."
+  },
+  {
+   "bbox": [
+    495,
+    1685,
+    1531,
+    1772
+   ],
+   "category": "Text",
+   "text": "Och ehuru akademien ansåg för en allmänt gällande grundregel,\nsom icke lätteligen borde öfverskridas, att redan uppsatta minnes-"
+  },
+  {
+   "bbox": [
+    532,
+    1780,
+    803,
+    1813
+   ],
+   "category": "Footnote",
+   "text": "¹ Felskrivning för 1767."
+  },
+  {
+   "bbox": [
+    500,
+    1850,
+    567,
+    1885
+   ],
+   "category": "Page-footer",
+   "text": "144"
+  }
+ ]
+}

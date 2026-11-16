@@ -1,0 +1,42 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 183,
+ "seconds": 15.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [754, 274, 1278, 317], \"category\": \"Page-header\", \"text\": \"Hallenbergs tid 1803—1810\"}, {\"bbox\": [492, 345, 1536, 1305], \"category\": \"Text\", \"text\": \"ber 1807 »anmälte Secreteraren en af Cancellie Presidenten Baron Ehrenheim lämnad afhandling om någre Egyptiska Mynt, författad och till Cancellie Presidenten insänd af Chargé d'affaires Palin, hvilken Afhandling till genomläsande mottogs af Cancellirådet Bergstedt». Den 3 november anmälde sedan Bergstedt, att han funnit afhandlingen »vara med mycken kunskap författad». Huruvida detta omdöme meddelades Palin, framgår ej av protokollet, och något omdöme hade han ju ej begärt. En dylik anhållan hade däremot framlagts av en magister Collnér: »Till Kongl. academien hade magister Carl Samuel Collnér inlemnat en af honom gjord öfversättning af Hervarar Saga, öfver hvilket arbete Collnér anhållit att undfå academiens omdöme och yttrande. Academien uppdrog åt Cansli-Rådet Friherre Rosenhane och Expeditions Secreteraren Flintenberg att granska denna skrift och deröfver meddela academien sina tankar» (Prot. 13 juli 1808). Denna granskning utföll tydligen icke till Collnérs fördel, ty då den föredragits i akademien den 22 november, avböjde akademien att uttala sig om översättningen: »Som academien fann, att det enligt hännes Stadgar icke tillhör hänne att öfver dylika försök meddela något utlåtande, beslöt hon, att hvad de nämnda bägge hännes Ledamöter yttrat sig om den inlemnade Öfversättningen af Hervara Sagan kunde särskildt, men icke i Academiens namn såsom råd åt öfversättaren meddelas.» Collnérs översättning blev icke utgiven.\"}, {\"bbox\": [504, 1835, 571, 1871], \"category\": \"Page-footer\", \"text\": \"168\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    754,
+    274,
+    1278,
+    317
+   ],
+   "category": "Page-header",
+   "text": "Hallenbergs tid 1803—1810"
+  },
+  {
+   "bbox": [
+    492,
+    345,
+    1536,
+    1305
+   ],
+   "category": "Text",
+   "text": "ber 1807 »anmälte Secreteraren en af Cancellie Presidenten Baron Ehrenheim lämnad afhandling om någre Egyptiska Mynt, författad och till Cancellie Presidenten insänd af Chargé d'affaires Palin, hvilken Afhandling till genomläsande mottogs af Cancellirådet Bergstedt». Den 3 november anmälde sedan Bergstedt, att han funnit afhandlingen »vara med mycken kunskap författad». Huruvida detta omdöme meddelades Palin, framgår ej av protokollet, och något omdöme hade han ju ej begärt. En dylik anhållan hade däremot framlagts av en magister Collnér: »Till Kongl. academien hade magister Carl Samuel Collnér inlemnat en af honom gjord öfversättning af Hervarar Saga, öfver hvilket arbete Collnér anhållit att undfå academiens omdöme och yttrande. Academien uppdrog åt Cansli-Rådet Friherre Rosenhane och Expeditions Secreteraren Flintenberg att granska denna skrift och deröfver meddela academien sina tankar» (Prot. 13 juli 1808). Denna granskning utföll tydligen icke till Collnérs fördel, ty då den föredragits i akademien den 22 november, avböjde akademien att uttala sig om översättningen: »Som academien fann, att det enligt hännes Stadgar icke tillhör hänne att öfver dylika försök meddela något utlåtande, beslöt hon, att hvad de nämnda bägge hännes Ledamöter yttrat sig om den inlemnade Öfversättningen af Hervara Sagan kunde särskildt, men icke i Academiens namn såsom råd åt öfversättaren meddelas.» Collnérs översättning blev icke utgiven."
+  },
+  {
+   "bbox": [
+    504,
+    1835,
+    571,
+    1871
+   ],
+   "category": "Page-footer",
+   "text": "168"
+  }
+ ]
+}

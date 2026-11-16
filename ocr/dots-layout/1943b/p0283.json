@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 283,
+ "seconds": 19.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [761, 269, 1276, 313], \"category\": \"Page-header\", \"text\": \"Hallenbergs tid 1810—1819\"}, {\"bbox\": [494, 341, 1537, 1592], \"category\": \"Text\", \"text\": \"ges uppbörd och kammarverk under Gustaf I:s regering — hade utsatts redan till 1808 års tävlan, då förgäves, likaså 1809, och hade nu, för 1810, utsatts för tredje gången. Liksom under de föregående två åren inkom också nu blott en enda tävlingsskrift, vilken för granskning överlämnades till Marks von Würtenberg och Rosenhane; Hallenberg var sjuk och kunde därför ej komma ifråga, och i stället utsågs senare även Nordin till granskare. Skriftens uppläsning i akademien började den 20 februari, fortsattes den 27 och avslutades den 6 mars, då Marks von Würtenberg föredrog sitt yttrande. Då emellertid både Rosenhane och Nordin voro frånvarande, uppsköts avgörandet till nästa sammanträde, den 13 mars, då deras yttranden föredrogos (ej bifogade protokollet). Även de övriga vid sammanträdet närvarande ledamöterna yttrade sig: »Hufvudsakligen instämde samtliga utlåtanden deruti, att Skriften, oaktadt några brister, ägde den förtjenst, att hon med högsta priset kunde belönas. Utom förtjensten af ett lätt och behagligt framställningssätt syntes författaren hafva haft all möda ospard att samla till ämnet hörande upplysningar, men deremot ej nog vidsträckt och med fullkomlig redighet i uppfällningen hafva omfattat sitt ämne, hvartill kom dels att han underlåtit anföra nödiga citationer ur de böcker och handskrifter, hvarpå hans bevis sig grunda, dels att han icke med den noggrannhet, som historiska Skrifter fordra, deraf begagnat sig. Då författaren i öfrigt i anseende till en lofvande talent ansågs böra uppmuntras och icke genom för mycken stränghet afskräckas att arbeta i Svenska Historien, blef det academiens enhälliga beslut, att författaren till denna skrift skulle erhålla högsta priset, med villkor att han till dess fullkomnande skulle begagna sig af de rättelser och de erinringar, som Landshöfdingen Rosenstein, Biskop doctor Nordin och StatsSecreteraren Friherre Rosenhane afgåfvo i skriftliga yttranden, hvilka härjämte förvarades.»\"}, {\"bbox\": [494, 1591, 1533, 1801], \"category\": \"Text\", \"text\": \"Prisvinnare var samme Peter Adolph Granberg, som förut, 1807, vunnit akademiens historiska pris. I stället för guldmedaljen utbad han sig nu att få dess värde i penningar, vilket av akademien bifölls (Prot. den 10 april). Han mottog således enligt kvitto i författararvode 83 rdr 37 sk 4 rst. banko, och hans avhandling trycktes i det tionde\"}, {\"bbox\": [499, 1828, 572, 1867], \"category\": \"Page-footer\", \"text\": \"266\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    761,
+    269,
+    1276,
+    313
+   ],
+   "category": "Page-header",
+   "text": "Hallenbergs tid 1810—1819"
+  },
+  {
+   "bbox": [
+    494,
+    341,
+    1537,
+    1592
+   ],
+   "category": "Text",
+   "text": "ges uppbörd och kammarverk under Gustaf I:s regering — hade utsatts redan till 1808 års tävlan, då förgäves, likaså 1809, och hade nu, för 1810, utsatts för tredje gången. Liksom under de föregående två åren inkom också nu blott en enda tävlingsskrift, vilken för granskning överlämnades till Marks von Würtenberg och Rosenhane; Hallenberg var sjuk och kunde därför ej komma ifråga, och i stället utsågs senare även Nordin till granskare. Skriftens uppläsning i akademien började den 20 februari, fortsattes den 27 och avslutades den 6 mars, då Marks von Würtenberg föredrog sitt yttrande. Då emellertid både Rosenhane och Nordin voro frånvarande, uppsköts avgörandet till nästa sammanträde, den 13 mars, då deras yttranden föredrogos (ej bifogade protokollet). Även de övriga vid sammanträdet närvarande ledamöterna yttrade sig: »Hufvudsakligen instämde samtliga utlåtanden deruti, att Skriften, oaktadt några brister, ägde den förtjenst, att hon med högsta priset kunde belönas. Utom förtjensten af ett lätt och behagligt framställningssätt syntes författaren hafva haft all möda ospard att samla till ämnet hörande upplysningar, men deremot ej nog vidsträckt och med fullkomlig redighet i uppfällningen hafva omfattat sitt ämne, hvartill kom dels att han underlåtit anföra nödiga citationer ur de böcker och handskrifter, hvarpå hans bevis sig grunda, dels att han icke med den noggrannhet, som historiska Skrifter fordra, deraf begagnat sig. Då författaren i öfrigt i anseende till en lofvande talent ansågs böra uppmuntras och icke genom för mycken stränghet afskräckas att arbeta i Svenska Historien, blef det academiens enhälliga beslut, att författaren till denna skrift skulle erhålla högsta priset, med villkor att han till dess fullkomnande skulle begagna sig af de rättelser och de erinringar, som Landshöfdingen Rosenstein, Biskop doctor Nordin och StatsSecreteraren Friherre Rosenhane afgåfvo i skriftliga yttranden, hvilka härjämte förvarades.»"
+  },
+  {
+   "bbox": [
+    494,
+    1591,
+    1533,
+    1801
+   ],
+   "category": "Text",
+   "text": "Prisvinnare var samme Peter Adolph Granberg, som förut, 1807, vunnit akademiens historiska pris. I stället för guldmedaljen utbad han sig nu att få dess värde i penningar, vilket av akademien bifölls (Prot. den 10 april). Han mottog således enligt kvitto i författararvode 83 rdr 37 sk 4 rst. banko, och hans avhandling trycktes i det tionde"
+  },
+  {
+   "bbox": [
+    499,
+    1828,
+    572,
+    1867
+   ],
+   "category": "Page-footer",
+   "text": "266"
+  }
+ ]
+}

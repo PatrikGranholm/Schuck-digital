@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 182,
+ "seconds": 35.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [555, 273, 779, 316], \"category\": \"Section-header\", \"text\": \"Tävlingarna\"}, {\"bbox\": [141, 344, 1183, 430], \"category\": \"Text\", \"text\": \"man således året 1803, var det alla de andra åren ren missväxt, och själva inskriftskonsten låg vid denna tid tydligen på dödsbädden.\"}, {\"bbox\": [141, 428, 1186, 1380], \"category\": \"Text\", \"text\": \"Såsom vi från det föregående minnas kunde en utomstående utan att deltaga i tävlingen till akademien insända en avhandling med anhållan om akademiens omdöme om denna. Detta skedde även under dessa år, ehuru mycket sällan. Så berättas i protokollet för den 18 september 1805: »Jemte en i jorden funnen Pil af flintsten hade Carl Fredrik Bengtsson Geijer från Carlstad och Uddeholm till academien insändt Anmärkningar öfver Påskens firande på viss dag, hvilka anmärkningar till Cantzli Rådet Melanderhielms utlåtande remitterades.» Förslaget borde väl egentligen ha inskickats till Vetenskapsakademien, där frågan många gånger varit före, och remissen till astronomen Melanderhjelm var därför nog den riktiga. Hans utlåtande föredrogs den 26 november, och sedan detta upplästs, fick sekreteraren i uppdrag att meddela Geijer, »att enligt Nicenska mötets beslut, hvilket af Christenheten blifvit antaget till efterlefnad, bör Påsk firas på den Söndag, som är näst efter den fullmåne, hvilkens Ny är närmast efter Dagjämningsmomentet, hvaraf följer, att om Ny inträffar en secund minut före dagjämningsmomentet, skall man vänta till nästa Ny och dess fullmånad, innan Påsk får firas Söndagen derefter; men om Ny inträffar en secund efter Dagjämningsmomentet, kommer Påsk att firas en hel månad förr än i det förra fallet». Detta förefaller ju icke vara svar på frågan utan blott ett konstaterande av bruket och dess uppkomst, men något vidare förekom icke i akademien rörande denna sak.\"}, {\"bbox\": [141, 1386, 1186, 1678], \"category\": \"Text\", \"text\": \"Den 15 oktober 1806 mottog akademien ett från en okänd person, »som undertecknat sig med bokstäfverna M. B., till academien insändt Bref, tillika med ett bifogadt manuscript med titel: De Celticæ linguæ cum Gothica convenientia earumque communi origine, hvilket manuskript säges hafva blifvit funnet ibland framlidne Biskop Herweghers Samlingar och nu skänkes till academien. Det befanns wara ett concept med många öfverstrykningar och af intet wärde.»\"}, {\"bbox\": [141, 1678, 1186, 1801], \"category\": \"Text\", \"text\": \"Mera betydande tyckes den avhandling ha varit, som 1807 inskickades från Chargé d'affaires Nils Gustaf Palin, vilken sedermera, 1812, invalides till akademiens arbetande ledamot. Den 14 Okto-\"}, {\"bbox\": [1202, 434, 1284, 494], \"category\": \"Text\", \"text\": \"Insända skrifter\"}, {\"bbox\": [1113, 1832, 1181, 1878], \"category\": \"Page-footer\", \"text\": \"167\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    555,
+    273,
+    779,
+    316
+   ],
+   "category": "Section-header",
+   "text": "Tävlingarna"
+  },
+  {
+   "bbox": [
+    141,
+    344,
+    1183,
+    430
+   ],
+   "category": "Text",
+   "text": "man således året 1803, var det alla de andra åren ren missväxt, och själva inskriftskonsten låg vid denna tid tydligen på dödsbädden."
+  },
+  {
+   "bbox": [
+    141,
+    428,
+    1186,
+    1380
+   ],
+   "category": "Text",
+   "text": "Såsom vi från det föregående minnas kunde en utomstående utan att deltaga i tävlingen till akademien insända en avhandling med anhållan om akademiens omdöme om denna. Detta skedde även under dessa år, ehuru mycket sällan. Så berättas i protokollet för den 18 september 1805: »Jemte en i jorden funnen Pil af flintsten hade Carl Fredrik Bengtsson Geijer från Carlstad och Uddeholm till academien insändt Anmärkningar öfver Påskens firande på viss dag, hvilka anmärkningar till Cantzli Rådet Melanderhielms utlåtande remitterades.» Förslaget borde väl egentligen ha inskickats till Vetenskapsakademien, där frågan många gånger varit före, och remissen till astronomen Melanderhjelm var därför nog den riktiga. Hans utlåtande föredrogs den 26 november, och sedan detta upplästs, fick sekreteraren i uppdrag att meddela Geijer, »att enligt Nicenska mötets beslut, hvilket af Christenheten blifvit antaget till efterlefnad, bör Påsk firas på den Söndag, som är näst efter den fullmåne, hvilkens Ny är närmast efter Dagjämningsmomentet, hvaraf följer, att om Ny inträffar en secund minut före dagjämningsmomentet, skall man vänta till nästa Ny och dess fullmånad, innan Påsk får firas Söndagen derefter; men om Ny inträffar en secund efter Dagjämningsmomentet, kommer Påsk att firas en hel månad förr än i det förra fallet». Detta förefaller ju icke vara svar på frågan utan blott ett konstaterande av bruket och dess uppkomst, men något vidare förekom icke i akademien rörande denna sak."
+  },
+  {
+   "bbox": [
+    141,
+    1386,
+    1186,
+    1678
+   ],
+   "category": "Text",
+   "text": "Den 15 oktober 1806 mottog akademien ett från en okänd person, »som undertecknat sig med bokstäfverna M. B., till academien insändt Bref, tillika med ett bifogadt manuscript med titel: De Celticæ linguæ cum Gothica convenientia earumque communi origine, hvilket manuskript säges hafva blifvit funnet ibland framlidne Biskop Herweghers Samlingar och nu skänkes till academien. Det befanns wara ett concept med många öfverstrykningar och af intet wärde.»"
+  },
+  {
+   "bbox": [
+    141,
+    1678,
+    1186,
+    1801
+   ],
+   "category": "Text",
+   "text": "Mera betydande tyckes den avhandling ha varit, som 1807 inskickades från Chargé d'affaires Nils Gustaf Palin, vilken sedermera, 1812, invalides till akademiens arbetande ledamot. Den 14 Okto-"
+  },
+  {
+   "bbox": [
+    1202,
+    434,
+    1284,
+    494
+   ],
+   "category": "Text",
+   "text": "Insända skrifter"
+  },
+  {
+   "bbox": [
+    1113,
+    1832,
+    1181,
+    1878
+   ],
+   "category": "Page-footer",
+   "text": "167"
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 426,
+ "seconds": 29.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [247, 265, 1017, 304], \"category\": \"Section-header\", \"text\": \"Sekreterare, amanuens, ledamöter och lokal\"}, {\"bbox\": [112, 336, 1147, 420], \"category\": \"Text\", \"text\": \"demiens förtjente Secreterare Herr Medicinal Rådet och Riddaren Rutström den 13 dennes stilla aflidit».\"}, {\"bbox\": [112, 420, 1147, 583], \"category\": \"Text\", \"text\": \"Under hans sekreterartid hade ingen förändring skett med den lokal i Slottets biblioteksflygel, i vilken akademien förut sammanträtt och som, då akademien 1816 återfick Myntkabinettet, utökats med de rum, i vilka detta förvarades.¹\"}, {\"bbox\": [1163, 426, 1288, 482], \"category\": \"Text\", \"text\": \"Akademiens lokal\"}, {\"bbox\": [112, 586, 1151, 1714], \"category\": \"Text\", \"text\": \"En förändring skedde dock med en del av samlingarna, det förut (VI, sid. 71) omtalade porträttgalleriet. Vid akademiens sammanträde den 5 november 1822 anmälde akademiens president Rosenblad »ett förslag, som blifvit honom meddeladt af åtskillige academiens Ledamöter, åsyftande att bereda något bättre utrymme i de 2ne rum i Kongl. Slottet, som intagas af det Kongl. Antiquitets- och mynt Cabinettet, bestående förslaget deruti, att åtskilliga der förvarade oljefärgstaflor, som intaga en hel långvägg af det yttre rummet och nästan en vägg i det inre, finge flyttas till något annat tjenligt ställe i ett af de Kongliga Slotten, och hade ett sådant ställe ansetts vara Gripsholms Slott, der en mängd porträtter af namnkunniga Svenska män redan finnas samlade, och hvilkas antal genom enskiltas frikostighet och verksamma omtanka dagligen ökas. Hans Excellence hemställde sålunda, om icke academien funne tjenligare, att dessa taflor — bestående i ett miniaturporträtt, måladt i vattenfärg och föreställande K. Gustaf Adolf den store, Tio Porträtter i olja, neml. af Margareta Ericsdotter Vasa, Sancta Brita som lik, Joh. Messenius, G. Stiernhielm och Joh. Peringsköld, alla tre knästycken, Loccenius, Joh. Buræus och N. Keder, en Hr Kannenberg och ett litet i vattenfärg af Guldsmeds Gesällen Dyster, som gaf sig ut för K. Carl XII — flyttades till nämde Slott jemte Trenne Landskapsmålningar af Drottning Ulrica Eleonora den äldre, emedan det vore bättre, att Konungen ägde ett större Galerie af dylika taflor på ett ställe än flera små Samlingar på spridda ställen. Det förstods af sig sjelf, att från denna flyttning undantoges de Porträtter, academien förvarar af några bland sina förra och nuvarande Ledamöter. Landshöfdingen Stein medgaf, att ett tjenligare rum för dessa taflor\"}, {\"bbox\": [1165, 593, 1288, 650], \"category\": \"Text\", \"text\": \"Porträttgalleriet\"}, {\"bbox\": [112, 1736, 1147, 1799], \"category\": \"Footnote\", \"text\": \"¹ En utförligare undersökning av lokalförhållandena finnes i Gödels förut citerade arbete: I kungl. slottets biblioteksflygel (1927).\"}, {\"bbox\": [1076, 1835, 1145, 1873], \"category\": \"Page-footer\", \"text\": \"405\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    247,
+    265,
+    1017,
+    304
+   ],
+   "category": "Section-header",
+   "text": "Sekreterare, amanuens, ledamöter och lokal"
+  },
+  {
+   "bbox": [
+    112,
+    336,
+    1147,
+    420
+   ],
+   "category": "Text",
+   "text": "demiens förtjente Secreterare Herr Medicinal Rådet och Riddaren Rutström den 13 dennes stilla aflidit»."
+  },
+  {
+   "bbox": [
+    112,
+    420,
+    1147,
+    583
+   ],
+   "category": "Text",
+   "text": "Under hans sekreterartid hade ingen förändring skett med den lokal i Slottets biblioteksflygel, i vilken akademien förut sammanträtt och som, då akademien 1816 återfick Myntkabinettet, utökats med de rum, i vilka detta förvarades.¹"
+  },
+  {
+   "bbox": [
+    1163,
+    426,
+    1288,
+    482
+   ],
+   "category": "Text",
+   "text": "Akademiens lokal"
+  },
+  {
+   "bbox": [
+    112,
+    586,
+    1151,
+    1714
+   ],
+   "category": "Text",
+   "text": "En förändring skedde dock med en del av samlingarna, det förut (VI, sid. 71) omtalade porträttgalleriet. Vid akademiens sammanträde den 5 november 1822 anmälde akademiens president Rosenblad »ett förslag, som blifvit honom meddeladt af åtskillige academiens Ledamöter, åsyftande att bereda något bättre utrymme i de 2ne rum i Kongl. Slottet, som intagas af det Kongl. Antiquitets- och mynt Cabinettet, bestående förslaget deruti, att åtskilliga der förvarade oljefärgstaflor, som intaga en hel långvägg af det yttre rummet och nästan en vägg i det inre, finge flyttas till något annat tjenligt ställe i ett af de Kongliga Slotten, och hade ett sådant ställe ansetts vara Gripsholms Slott, der en mängd porträtter af namnkunniga Svenska män redan finnas samlade, och hvilkas antal genom enskiltas frikostighet och verksamma omtanka dagligen ökas. Hans Excellence hemställde sålunda, om icke academien funne tjenligare, att dessa taflor — bestående i ett miniaturporträtt, måladt i vattenfärg och föreställande K. Gustaf Adolf den store, Tio Porträtter i olja, neml. af Margareta Ericsdotter Vasa, Sancta Brita som lik, Joh. Messenius, G. Stiernhielm och Joh. Peringsköld, alla tre knästycken, Loccenius, Joh. Buræus och N. Keder, en Hr Kannenberg och ett litet i vattenfärg af Guldsmeds Gesällen Dyster, som gaf sig ut för K. Carl XII — flyttades till nämde Slott jemte Trenne Landskapsmålningar af Drottning Ulrica Eleonora den äldre, emedan det vore bättre, att Konungen ägde ett större Galerie af dylika taflor på ett ställe än flera små Samlingar på spridda ställen. Det förstods af sig sjelf, att från denna flyttning undantoges de Porträtter, academien förvarar af några bland sina förra och nuvarande Ledamöter. Landshöfdingen Stein medgaf, att ett tjenligare rum för dessa taflor"
+  },
+  {
+   "bbox": [
+    1165,
+    593,
+    1288,
+    650
+   ],
+   "category": "Text",
+   "text": "Porträttgalleriet"
+  },
+  {
+   "bbox": [
+    112,
+    1736,
+    1147,
+    1799
+   ],
+   "category": "Footnote",
+   "text": "¹ En utförligare undersökning av lokalförhållandena finnes i Gödels förut citerade arbete: I kungl. slottets biblioteksflygel (1927)."
+  },
+  {
+   "bbox": [
+    1076,
+    1835,
+    1145,
+    1873
+   ],
+   "category": "Page-footer",
+   "text": "405"
+  }
+ ]
+}

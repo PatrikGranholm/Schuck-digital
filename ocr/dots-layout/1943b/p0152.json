@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 152,
+ "seconds": 27.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [437, 278, 903, 314], \"category\": \"Section-header\", \"text\": \"Sekreterare och ledamöter\"}, {\"bbox\": [149, 348, 1193, 768], \"category\": \"Text\", \"text\": \"»Academiens nu warande President Hans Excellens friherre Ramel hade hos Hans Majestät Konungen på academiens vägnar i underdånighet hemställt, om icke academien kunde invälja såsom utländsk Ledamot Legations Secreteraren David Åkerblad i anseende till dess utmärkta lärdomsförtjänster, och af Hans Majestät Konungen erhållit det nådiga svar, hvilket nu af academiens vice President Cantzli Rådet Leopold föredrogs, att academien ägde tillstånd att för det närvarande wälja Åkerblad i ett af de rum, som äro de utländske Ledamöter förbehållne, men att han wid första sig yppande ledighet skulle flyttas ibland academiens inländska arbetande Ledamöter.»\"}, {\"bbox\": [147, 767, 1193, 1684], \"category\": \"Text\", \"text\": \"På uppmaning av enskilda ledamöter eller kanske blott av egen drift, men — så vitt man av protokollet den 28 juni kan se — utan något uppdrag av akademien hade Ramel på akademiens vägnar således vänt sig till konungen och anhållit om tillstånd för akademien, att, då något rum inom den arbetande klassen nu efter Bergstedts inval ej var ledigt, få välja Åkerblad till utländsk ledamot. Och där till hade Gustav Adolf givit sitt tillstånd. Men hade Åkerblad därigenom erhållit ett rum i den utländska klassen? Akademien hade ju blott fått rätt att välja honom, och i det nyss citerade protokollet uppgives icke, att han då blivit vald. Någon diskussion om denna fråga upptages ej i något protokoll. Men enskilt har man tydligen ganska ingående debatterat frågan, som löstes först vid »arbetsmånadernas» början den 1 november och då löstes genom en kompromiss, som knappt hade något stöd vare sig i statuterna eller i konungens tillstånd: »I anledning af Konungens nådiga tillstånd för academien enligt Protocollet för den 13 juli innevarande år att få inwälja Legations Secreteraren Åkerblad till Ledamot beslöt academien, att kallelse Bref för honom att wara arbetande Ledamot i academien borde nu genast utfärdas och han för idag anses wara invalid.» Åkerblad hade således blivit vald till arbetande ledamot, ehuru något rum i klassen ej var ledigt och utan att någon av konungen godkänd vallista förelåg.\"}, {\"bbox\": [151, 1683, 1193, 1810], \"category\": \"Text\", \"text\": \"Den 2 januari 1804 uppläste sekreteraren »ett till Hans Excellens Ramel ställdt bref från Legations Secreteraren Åkerblad, dateradt Paris den 10 december 1803, hwarmedelst Hr Åkerblad betygar sin\"}, {\"bbox\": [1120, 1846, 1188, 1884], \"category\": \"Page-footer\", \"text\": \"137\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    437,
+    278,
+    903,
+    314
+   ],
+   "category": "Section-header",
+   "text": "Sekreterare och ledamöter"
+  },
+  {
+   "bbox": [
+    149,
+    348,
+    1193,
+    768
+   ],
+   "category": "Text",
+   "text": "»Academiens nu warande President Hans Excellens friherre Ramel hade hos Hans Majestät Konungen på academiens vägnar i underdånighet hemställt, om icke academien kunde invälja såsom utländsk Ledamot Legations Secreteraren David Åkerblad i anseende till dess utmärkta lärdomsförtjänster, och af Hans Majestät Konungen erhållit det nådiga svar, hvilket nu af academiens vice President Cantzli Rådet Leopold föredrogs, att academien ägde tillstånd att för det närvarande wälja Åkerblad i ett af de rum, som äro de utländske Ledamöter förbehållne, men att han wid första sig yppande ledighet skulle flyttas ibland academiens inländska arbetande Ledamöter.»"
+  },
+  {
+   "bbox": [
+    147,
+    767,
+    1193,
+    1684
+   ],
+   "category": "Text",
+   "text": "På uppmaning av enskilda ledamöter eller kanske blott av egen drift, men — så vitt man av protokollet den 28 juni kan se — utan något uppdrag av akademien hade Ramel på akademiens vägnar således vänt sig till konungen och anhållit om tillstånd för akademien, att, då något rum inom den arbetande klassen nu efter Bergstedts inval ej var ledigt, få välja Åkerblad till utländsk ledamot. Och där till hade Gustav Adolf givit sitt tillstånd. Men hade Åkerblad därigenom erhållit ett rum i den utländska klassen? Akademien hade ju blott fått rätt att välja honom, och i det nyss citerade protokollet uppgives icke, att han då blivit vald. Någon diskussion om denna fråga upptages ej i något protokoll. Men enskilt har man tydligen ganska ingående debatterat frågan, som löstes först vid »arbetsmånadernas» början den 1 november och då löstes genom en kompromiss, som knappt hade något stöd vare sig i statuterna eller i konungens tillstånd: »I anledning af Konungens nådiga tillstånd för academien enligt Protocollet för den 13 juli innevarande år att få inwälja Legations Secreteraren Åkerblad till Ledamot beslöt academien, att kallelse Bref för honom att wara arbetande Ledamot i academien borde nu genast utfärdas och han för idag anses wara invalid.» Åkerblad hade således blivit vald till arbetande ledamot, ehuru något rum i klassen ej var ledigt och utan att någon av konungen godkänd vallista förelåg."
+  },
+  {
+   "bbox": [
+    151,
+    1683,
+    1193,
+    1810
+   ],
+   "category": "Text",
+   "text": "Den 2 januari 1804 uppläste sekreteraren »ett till Hans Excellens Ramel ställdt bref från Legations Secreteraren Åkerblad, dateradt Paris den 10 december 1803, hwarmedelst Hr Åkerblad betygar sin"
+  },
+  {
+   "bbox": [
+    1120,
+    1846,
+    1188,
+    1884
+   ],
+   "category": "Page-footer",
+   "text": "137"
+  }
+ ]
+}

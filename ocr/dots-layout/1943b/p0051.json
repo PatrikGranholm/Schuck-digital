@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 51,
+ "seconds": 26.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [529, 526, 1524, 564], \"category\": \"Section-header\", \"text\": \"DET AKADEMISKA ARBETET OCH TÄVLINGARNA.\"}, {\"bbox\": [372, 655, 489, 714], \"category\": \"Text\", \"text\": \"Ifrågasatta arbeten\"}, {\"bbox\": [505, 640, 1552, 1225], \"category\": \"Text\", \"text\": \"Akademiens arbetslust, som under Adlerbeths tid icke varit vidare stark, blev under Flintenbergs och Tihlemans ännu svagare, ehuru sammanträdena mindre ofta måste inställas av brist på deltagare. Men man har anledning att misstänka, att de nu mera talrikt besökta sammanträdena sammanhängde med den jettonutdelning, som under förmyndarregeringen kommit till, ty mycket ofta hade de tillstädeskomna just ingenting annat att göra än att justera det föregående protokollet och dela jettonerna. För de arbeten, som skulle vara akademiens förnämsta, de båda medaljhistorierna, gjordes — såsom vi redan förut sett — faktiskt intet, ehuru Gustav III:s egen medaljhistoria fortfarande figurerade på föredragslistan vid en mängd sammanträden, då man såg på de färdiga kopparsticken och läste upp Adlerbeths text. Och på nya samfällda arbeten var man mycket ovillig att inlåta sig.\"}, {\"bbox\": [381, 1238, 484, 1297], \"category\": \"Text\", \"text\": \"Elers' Stockholm\"}, {\"bbox\": [507, 1223, 1552, 1682], \"category\": \"Text\", \"text\": \"Vid sammanträdet den 28 juni 1796 hemställde Elers, »om icke acad:n, som vid sina sammankomster ofta saknade göromål, ville vara betänkt på en Beskrifning öfver Stockholm, hälst ett så nyttigt arbete med lätthet kunde verkställas, om varje Ledamot utarbetade en särskild del deraf och den samma sedermera Kongl. Academiens pröfning underställdes. Academien fann denna hemställan ganska gagnelig, men beslöt att med sitt närmare yttrande deröfver tillsvidare uppskjuta.» Detta »tillsvidare» blev likväl »för alltid», ty frågan togs icke vidare upp, och Elers fick ensam utarbeta sin bekanta bok om Stockholm, som kom ut 1800—1801. Akademien hade med den icke tagit någon befattning.\"}, {\"bbox\": [377, 1690, 493, 1749], \"category\": \"Text\", \"text\": \"Karl XI:s historia\"}, {\"bbox\": [509, 1680, 1552, 1808], \"category\": \"Text\", \"text\": \"Strax därefter, den 12 oktober 1796, väcktes av Liliestråle ett förslag om ett annat av akademien gemensamt utfört arbete. I ett mycket långt memorial utvecklade han Karl XI:s alla förtjänster\"}, {\"bbox\": [512, 1838, 560, 1883], \"category\": \"Page-footer\", \"text\": \"36\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    529,
+    526,
+    1524,
+    564
+   ],
+   "category": "Section-header",
+   "text": "DET AKADEMISKA ARBETET OCH TÄVLINGARNA."
+  },
+  {
+   "bbox": [
+    372,
+    655,
+    489,
+    714
+   ],
+   "category": "Text",
+   "text": "Ifrågasatta arbeten"
+  },
+  {
+   "bbox": [
+    505,
+    640,
+    1552,
+    1225
+   ],
+   "category": "Text",
+   "text": "Akademiens arbetslust, som under Adlerbeths tid icke varit vidare stark, blev under Flintenbergs och Tihlemans ännu svagare, ehuru sammanträdena mindre ofta måste inställas av brist på deltagare. Men man har anledning att misstänka, att de nu mera talrikt besökta sammanträdena sammanhängde med den jettonutdelning, som under förmyndarregeringen kommit till, ty mycket ofta hade de tillstädeskomna just ingenting annat att göra än att justera det föregående protokollet och dela jettonerna. För de arbeten, som skulle vara akademiens förnämsta, de båda medaljhistorierna, gjordes — såsom vi redan förut sett — faktiskt intet, ehuru Gustav III:s egen medaljhistoria fortfarande figurerade på föredragslistan vid en mängd sammanträden, då man såg på de färdiga kopparsticken och läste upp Adlerbeths text. Och på nya samfällda arbeten var man mycket ovillig att inlåta sig."
+  },
+  {
+   "bbox": [
+    381,
+    1238,
+    484,
+    1297
+   ],
+   "category": "Text",
+   "text": "Elers' Stockholm"
+  },
+  {
+   "bbox": [
+    507,
+    1223,
+    1552,
+    1682
+   ],
+   "category": "Text",
+   "text": "Vid sammanträdet den 28 juni 1796 hemställde Elers, »om icke acad:n, som vid sina sammankomster ofta saknade göromål, ville vara betänkt på en Beskrifning öfver Stockholm, hälst ett så nyttigt arbete med lätthet kunde verkställas, om varje Ledamot utarbetade en särskild del deraf och den samma sedermera Kongl. Academiens pröfning underställdes. Academien fann denna hemställan ganska gagnelig, men beslöt att med sitt närmare yttrande deröfver tillsvidare uppskjuta.» Detta »tillsvidare» blev likväl »för alltid», ty frågan togs icke vidare upp, och Elers fick ensam utarbeta sin bekanta bok om Stockholm, som kom ut 1800—1801. Akademien hade med den icke tagit någon befattning."
+  },
+  {
+   "bbox": [
+    377,
+    1690,
+    493,
+    1749
+   ],
+   "category": "Text",
+   "text": "Karl XI:s historia"
+  },
+  {
+   "bbox": [
+    509,
+    1680,
+    1552,
+    1808
+   ],
+   "category": "Text",
+   "text": "Strax därefter, den 12 oktober 1796, väcktes av Liliestråle ett förslag om ett annat av akademien gemensamt utfört arbete. I ett mycket långt memorial utvecklade han Karl XI:s alla förtjänster"
+  },
+  {
+   "bbox": [
+    512,
+    1838,
+    560,
+    1883
+   ],
+   "category": "Page-footer",
+   "text": "36"
+  }
+ ]
+}

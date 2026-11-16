@@ -1,0 +1,101 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 6,
+ "seconds": 30.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [271, 316, 1105, 381], \"category\": \"Text\", \"text\": \"HENRIK SCHÜCK\"}, {\"bbox\": [265, 567, 1117, 654], \"category\": \"Text\", \"text\": \"KGL. VITTERHETS\"}, {\"bbox\": [22, 692, 1362, 779], \"category\": \"Text\", \"text\": \"HISTORIE OCH ANTIKVITETS\"}, {\"bbox\": [405, 817, 975, 902], \"category\": \"Text\", \"text\": \"AKADEMIEN\"}, {\"bbox\": [626, 992, 761, 1045], \"category\": \"Text\", \"text\": \"DESS\"}, {\"bbox\": [278, 1078, 1105, 1136], \"category\": \"Text\", \"text\": \"FÖRHISTORIA OCH HISTORIA\"}, {\"bbox\": [641, 1179, 749, 1236], \"category\": \"Text\", \"text\": \"VII\"}, {\"bbox\": [548, 1522, 840, 1811], \"category\": \"Picture\"}, {\"bbox\": [414, 1932, 975, 1991], \"category\": \"Text\", \"text\": \"STOCKHOLM 1943\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    271,
+    316,
+    1105,
+    381
+   ],
+   "category": "Text",
+   "text": "HENRIK SCHÜCK"
+  },
+  {
+   "bbox": [
+    265,
+    567,
+    1117,
+    654
+   ],
+   "category": "Text",
+   "text": "KGL. VITTERHETS"
+  },
+  {
+   "bbox": [
+    22,
+    692,
+    1362,
+    779
+   ],
+   "category": "Text",
+   "text": "HISTORIE OCH ANTIKVITETS"
+  },
+  {
+   "bbox": [
+    405,
+    817,
+    975,
+    902
+   ],
+   "category": "Text",
+   "text": "AKADEMIEN"
+  },
+  {
+   "bbox": [
+    626,
+    992,
+    761,
+    1045
+   ],
+   "category": "Text",
+   "text": "DESS"
+  },
+  {
+   "bbox": [
+    278,
+    1078,
+    1105,
+    1136
+   ],
+   "category": "Text",
+   "text": "FÖRHISTORIA OCH HISTORIA"
+  },
+  {
+   "bbox": [
+    641,
+    1179,
+    749,
+    1236
+   ],
+   "category": "Text",
+   "text": "VII"
+  },
+  {
+   "bbox": [
+    548,
+    1522,
+    840,
+    1811
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    414,
+    1932,
+    975,
+    1991
+   ],
+   "category": "Text",
+   "text": "STOCKHOLM 1943"
+  }
+ ]
+}

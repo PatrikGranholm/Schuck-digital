@@ -1,0 +1,242 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 56,
+ "seconds": 36.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [289, 273, 1005, 316], \"category\": \"Section-header\", \"text\": \"Det akademiska arbetet och tävlingarna\"}, {\"bbox\": [129, 349, 208, 378], \"category\": \"Text\", \"text\": \"1800.\"}, {\"bbox\": [127, 385, 1165, 459], \"category\": \"List-item\", \"text\": \"28 jan. Akademien befalles att avgiva förslag till kröningsmedalj (forts. 1, 11, 18 och 25 febr.).\"}, {\"bbox\": [127, 458, 1123, 496], \"category\": \"List-item\", \"text\": \"25 febr. Svenska akademiens medalj över Erik Soop (forts. 4 mars).\"}, {\"bbox\": [127, 494, 1165, 533], \"category\": \"List-item\", \"text\": \"22 april. En frimurarloge begär godkännande av en medalj (forts. 29 april).\"}, {\"bbox\": [127, 531, 661, 569], \"category\": \"List-item\", \"text\": \"29 april. Inskription på en gravurna.\"}, {\"bbox\": [146, 566, 1165, 675], \"category\": \"List-item\", \"text\": \"3 juli. Stockholms borgerskaps medalj över konungens och drottningens återkomst till huvudstaden. Rikets ständers medalj över kröningen (forts. 13 aug., 15 okt., 24 febr. 1801).\"}, {\"bbox\": [131, 673, 1165, 783], \"category\": \"List-item\", \"text\": \"16 juli. Inskription på en sten med anledning av konungaparets båtfärd på Motala ström. Ändring å borgmästar Flodins gravsten (förut 14 mars 1797). Gravinskrift över fru Spittdorff.\"}, {\"bbox\": [131, 781, 1165, 855], \"category\": \"List-item\", \"text\": \"13 aug. Minnespenningar över Maclean, Hermelin och Andersson (forts. 17 sept.). Ny tornerspels-jetton.\"}, {\"bbox\": [131, 853, 914, 891], \"category\": \"List-item\", \"text\": \"17 sept. Inskription på Högby kyrka (forts. 15 okt.).\"}, {\"bbox\": [146, 889, 1165, 962], \"category\": \"List-item\", \"text\": \"9 dec. Inskription vid Trollhätte kanal (forts. 13 och 20 jan. samt 10 nov. 1801).\"}, {\"bbox\": [131, 960, 1102, 998], \"category\": \"List-item\", \"text\": \"16 dec. Gravvård över överstelöjtnant Sheldon (forts. 2 jan. 1801).\"}, {\"bbox\": [131, 1018, 208, 1047], \"category\": \"Text\", \"text\": \"1801.\"}, {\"bbox\": [131, 1055, 1165, 1093], \"category\": \"List-item\", \"text\": \"17 febr. Svenska akademiens medalj över Claes Fleming (forts. 24 febr.).\"}, {\"bbox\": [131, 1091, 964, 1129], \"category\": \"List-item\", \"text\": \"24 mars. Medalj över assessor von Aken (forts. 31 mars).\"}, {\"bbox\": [146, 1127, 1165, 1201], \"category\": \"List-item\", \"text\": \"5 maj. Finska Hushållningssällskapets medalj över assessor Ahlman (forts. 12 maj).\"}, {\"bbox\": [131, 1199, 1165, 1273], \"category\": \"List-item\", \"text\": \"19 maj. Inskription å Gudmundrå kyrka i Hernösands stift (forts. 26 maj).\"}, {\"bbox\": [146, 1271, 1165, 1309], \"category\": \"List-item\", \"text\": \"2 juni. Belöningspenning i sällskapet Pro Patria (forts. 9 och 15 juli).\"}, {\"bbox\": [131, 1307, 1165, 1488], \"category\": \"List-item\", \"text\": \"15 juli. Inskrift å gravvård över överste Jonas Wright. Inskrift å gravvård över kramhandlar Callerstedt (forts. 24 juli). Inskrift å gravvård över vaktmästar Fincke (forts. 12 aug.). Par Bricoles medalj över assessor Lundström. Inskrift å minnessten över segelmakaren Godus' änka (forts. 12 aug.).\"}, {\"bbox\": [131, 1486, 1165, 1667], \"category\": \"List-item\", \"text\": \"25 sept. Akademien får befallning att ingiva förslag till en inskription på en ärestod, som Tyska riket på Hans Maj:ts förslag vill uppresa över ärkehertig Carls lysande segrar (forts. 9 och 14 oktober, 3 och 10 november). Inskription på en gravvård över garvar-åldermannen Carl Djurberg.\"}, {\"bbox\": [146, 1665, 1165, 1739], \"category\": \"List-item\", \"text\": \"9 okt. Stockholms skeppsredares medalj över den engelske parlaments-ledamoten Grey.\"}, {\"bbox\": [131, 1737, 1165, 1811], \"category\": \"List-item\", \"text\": \"14 okt. Kanslersgillets sigill (forts. den 3, 10, 24 nov. samt 19 jan. och 4 maj 1802).\"}, {\"bbox\": [1116, 1843, 1161, 1877], \"category\": \"Page-footer\", \"text\": \"41\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    289,
+    273,
+    1005,
+    316
+   ],
+   "category": "Section-header",
+   "text": "Det akademiska arbetet och tävlingarna"
+  },
+  {
+   "bbox": [
+    129,
+    349,
+    208,
+    378
+   ],
+   "category": "Text",
+   "text": "1800."
+  },
+  {
+   "bbox": [
+    127,
+    385,
+    1165,
+    459
+   ],
+   "category": "List-item",
+   "text": "28 jan. Akademien befalles att avgiva förslag till kröningsmedalj (forts. 1, 11, 18 och 25 febr.)."
+  },
+  {
+   "bbox": [
+    127,
+    458,
+    1123,
+    496
+   ],
+   "category": "List-item",
+   "text": "25 febr. Svenska akademiens medalj över Erik Soop (forts. 4 mars)."
+  },
+  {
+   "bbox": [
+    127,
+    494,
+    1165,
+    533
+   ],
+   "category": "List-item",
+   "text": "22 april. En frimurarloge begär godkännande av en medalj (forts. 29 april)."
+  },
+  {
+   "bbox": [
+    127,
+    531,
+    661,
+    569
+   ],
+   "category": "List-item",
+   "text": "29 april. Inskription på en gravurna."
+  },
+  {
+   "bbox": [
+    146,
+    566,
+    1165,
+    675
+   ],
+   "category": "List-item",
+   "text": "3 juli. Stockholms borgerskaps medalj över konungens och drottningens återkomst till huvudstaden. Rikets ständers medalj över kröningen (forts. 13 aug., 15 okt., 24 febr. 1801)."
+  },
+  {
+   "bbox": [
+    131,
+    673,
+    1165,
+    783
+   ],
+   "category": "List-item",
+   "text": "16 juli. Inskription på en sten med anledning av konungaparets båtfärd på Motala ström. Ändring å borgmästar Flodins gravsten (förut 14 mars 1797). Gravinskrift över fru Spittdorff."
+  },
+  {
+   "bbox": [
+    131,
+    781,
+    1165,
+    855
+   ],
+   "category": "List-item",
+   "text": "13 aug. Minnespenningar över Maclean, Hermelin och Andersson (forts. 17 sept.). Ny tornerspels-jetton."
+  },
+  {
+   "bbox": [
+    131,
+    853,
+    914,
+    891
+   ],
+   "category": "List-item",
+   "text": "17 sept. Inskription på Högby kyrka (forts. 15 okt.)."
+  },
+  {
+   "bbox": [
+    146,
+    889,
+    1165,
+    962
+   ],
+   "category": "List-item",
+   "text": "9 dec. Inskription vid Trollhätte kanal (forts. 13 och 20 jan. samt 10 nov. 1801)."
+  },
+  {
+   "bbox": [
+    131,
+    960,
+    1102,
+    998
+   ],
+   "category": "List-item",
+   "text": "16 dec. Gravvård över överstelöjtnant Sheldon (forts. 2 jan. 1801)."
+  },
+  {
+   "bbox": [
+    131,
+    1018,
+    208,
+    1047
+   ],
+   "category": "Text",
+   "text": "1801."
+  },
+  {
+   "bbox": [
+    131,
+    1055,
+    1165,
+    1093
+   ],
+   "category": "List-item",
+   "text": "17 febr. Svenska akademiens medalj över Claes Fleming (forts. 24 febr.)."
+  },
+  {
+   "bbox": [
+    131,
+    1091,
+    964,
+    1129
+   ],
+   "category": "List-item",
+   "text": "24 mars. Medalj över assessor von Aken (forts. 31 mars)."
+  },
+  {
+   "bbox": [
+    146,
+    1127,
+    1165,
+    1201
+   ],
+   "category": "List-item",
+   "text": "5 maj. Finska Hushållningssällskapets medalj över assessor Ahlman (forts. 12 maj)."
+  },
+  {
+   "bbox": [
+    131,
+    1199,
+    1165,
+    1273
+   ],
+   "category": "List-item",
+   "text": "19 maj. Inskription å Gudmundrå kyrka i Hernösands stift (forts. 26 maj)."
+  },
+  {
+   "bbox": [
+    146,
+    1271,
+    1165,
+    1309
+   ],
+   "category": "List-item",
+   "text": "2 juni. Belöningspenning i sällskapet Pro Patria (forts. 9 och 15 juli)."
+  },
+  {
+   "bbox": [
+    131,
+    1307,
+    1165,
+    1488
+   ],
+   "category": "List-item",
+   "text": "15 juli. Inskrift å gravvård över överste Jonas Wright. Inskrift å gravvård över kramhandlar Callerstedt (forts. 24 juli). Inskrift å gravvård över vaktmästar Fincke (forts. 12 aug.). Par Bricoles medalj över assessor Lundström. Inskrift å minnessten över segelmakaren Godus' änka (forts. 12 aug.)."
+  },
+  {
+   "bbox": [
+    131,
+    1486,
+    1165,
+    1667
+   ],
+   "category": "List-item",
+   "text": "25 sept. Akademien får befallning att ingiva förslag till en inskription på en ärestod, som Tyska riket på Hans Maj:ts förslag vill uppresa över ärkehertig Carls lysande segrar (forts. 9 och 14 oktober, 3 och 10 november). Inskription på en gravvård över garvar-åldermannen Carl Djurberg."
+  },
+  {
+   "bbox": [
+    146,
+    1665,
+    1165,
+    1739
+   ],
+   "category": "List-item",
+   "text": "9 okt. Stockholms skeppsredares medalj över den engelske parlaments-ledamoten Grey."
+  },
+  {
+   "bbox": [
+    131,
+    1737,
+    1165,
+    1811
+   ],
+   "category": "List-item",
+   "text": "14 okt. Kanslersgillets sigill (forts. den 3, 10, 24 nov. samt 19 jan. och 4 maj 1802)."
+  },
+  {
+   "bbox": [
+    1116,
+    1843,
+    1161,
+    1877
+   ],
+   "category": "Page-footer",
+   "text": "41"
+  }
+ ]
+}

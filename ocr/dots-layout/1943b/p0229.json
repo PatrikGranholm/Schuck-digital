@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 229,
+ "seconds": 27.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [768, 269, 1280, 312], \"category\": \"Page-header\", \"text\": \"Hallenbergs tid 1810—1819\"}, {\"bbox\": [507, 337, 1550, 714], \"category\": \"Text\", \"text\": \"hos Hans Majestät Konungen i underdånighet anhålla om tillstånd att af egna under händer hafvande medel få tillägga Secreteraren, som har 300 rdrslön, en förhöjning af 100 dr, amanuensen, som har 100 rdrslön, en förhöjning af 33 dr 16 sk och vaktmästaren, som har 80 rdrslön 32 sk, en förbättring af 26 dr 42 sk 8 runstycken att från nästa års början årligen och quartaliter uppbäras, hvarmedelst akademiens med ringa löner försedde Tjenstemän och Betjente måtte, ehuru senare än andre, komma till åtnjutande af lika rätt med deras wederlikar i andra Rikets värk.»\"}, {\"bbox\": [510, 712, 1555, 1553], \"category\": \"Text\", \"text\": \"Framställningen bifölls av Kungl. Maj:t. 1815 fingo emellertid statens tjänsteinnehavare en ny löneförbättring, som ej heller denna gång kom akademiens tre löntagare till godo, och av egna medel kunde den fattiga akademien ej denna gång skjuta till det belopp, som erfordrades — vid 1816 års början var akademiens besparade kapital blott 6,863 dr banko och några skillingar. Vid sammanträdet den 26 mars 1816, då Sundel skötte Hallenbergs plats, anmälde han, »att som academiens tvänne tjänstemän, Secreteraren med 300 och amanuensen med 100 rdrslårlig lön på Stat samt vaktmästaren med 45 rdrslön äfven på Stat ur Kongl. StatsContoret, både vid 1809 och 1815 års löneregleringar blifvit förbigångne och ej fått till godo njuta någon löneförhöjning, hemställdes till Kongl. Academiens godtfinnande, om icke i anseende till en ständigt tilltagande dyrhet och lönernas otillräcklighet till den tarfligaste utkomst, Kongl. academien skulle finna för godt att på något sätt söka bidraga till afhjelpande af denna olägenhet. Den i sådant afseende upsatte Promemoria emottogs af H. Excellence Statsrådet Hr Grefve Rosenblad, som benäget lofvade att i Stats-Beredningen låta efterfråga, på hvad sätt Rikets Ständer vid sista Riksdag om löneregleringen af Academiens Stat sig yttrat.»\"}, {\"bbox\": [517, 1545, 1557, 1801], \"category\": \"Text\", \"text\": \"Rosenblads svar vid nästa sammanträde, den 2 april, var icke hugnesamt. Han hade hört sig för i Statsberedningen och förmälte, »att Rikets ständer ansedt dessa löner, ehuru på Stat upförde, endast såsom arvoden, och som deras innehavare, vaktmästaren undantagen, derjämte innehade löner på andra ställen, hade Rikets Ständer icke funnit skäl att i likhet med hvad öfrige Embets- och Tjenstemän\"}, {\"bbox\": [525, 1842, 595, 1878], \"category\": \"Page-footer\", \"text\": \"214\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    768,
+    269,
+    1280,
+    312
+   ],
+   "category": "Page-header",
+   "text": "Hallenbergs tid 1810—1819"
+  },
+  {
+   "bbox": [
+    507,
+    337,
+    1550,
+    714
+   ],
+   "category": "Text",
+   "text": "hos Hans Majestät Konungen i underdånighet anhålla om tillstånd att af egna under händer hafvande medel få tillägga Secreteraren, som har 300 rdrslön, en förhöjning af 100 dr, amanuensen, som har 100 rdrslön, en förhöjning af 33 dr 16 sk och vaktmästaren, som har 80 rdrslön 32 sk, en förbättring af 26 dr 42 sk 8 runstycken att från nästa års början årligen och quartaliter uppbäras, hvarmedelst akademiens med ringa löner försedde Tjenstemän och Betjente måtte, ehuru senare än andre, komma till åtnjutande af lika rätt med deras wederlikar i andra Rikets värk.»"
+  },
+  {
+   "bbox": [
+    510,
+    712,
+    1555,
+    1553
+   ],
+   "category": "Text",
+   "text": "Framställningen bifölls av Kungl. Maj:t. 1815 fingo emellertid statens tjänsteinnehavare en ny löneförbättring, som ej heller denna gång kom akademiens tre löntagare till godo, och av egna medel kunde den fattiga akademien ej denna gång skjuta till det belopp, som erfordrades — vid 1816 års början var akademiens besparade kapital blott 6,863 dr banko och några skillingar. Vid sammanträdet den 26 mars 1816, då Sundel skötte Hallenbergs plats, anmälde han, »att som academiens tvänne tjänstemän, Secreteraren med 300 och amanuensen med 100 rdrslårlig lön på Stat samt vaktmästaren med 45 rdrslön äfven på Stat ur Kongl. StatsContoret, både vid 1809 och 1815 års löneregleringar blifvit förbigångne och ej fått till godo njuta någon löneförhöjning, hemställdes till Kongl. Academiens godtfinnande, om icke i anseende till en ständigt tilltagande dyrhet och lönernas otillräcklighet till den tarfligaste utkomst, Kongl. academien skulle finna för godt att på något sätt söka bidraga till afhjelpande af denna olägenhet. Den i sådant afseende upsatte Promemoria emottogs af H. Excellence Statsrådet Hr Grefve Rosenblad, som benäget lofvade att i Stats-Beredningen låta efterfråga, på hvad sätt Rikets Ständer vid sista Riksdag om löneregleringen af Academiens Stat sig yttrat.»"
+  },
+  {
+   "bbox": [
+    517,
+    1545,
+    1557,
+    1801
+   ],
+   "category": "Text",
+   "text": "Rosenblads svar vid nästa sammanträde, den 2 april, var icke hugnesamt. Han hade hört sig för i Statsberedningen och förmälte, »att Rikets ständer ansedt dessa löner, ehuru på Stat upförde, endast såsom arvoden, och som deras innehavare, vaktmästaren undantagen, derjämte innehade löner på andra ställen, hade Rikets Ständer icke funnit skäl att i likhet med hvad öfrige Embets- och Tjenstemän"
+  },
+  {
+   "bbox": [
+    525,
+    1842,
+    595,
+    1878
+   ],
+   "category": "Page-footer",
+   "text": "214"
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 362,
+ "seconds": 29.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [370, 272, 871, 317], \"category\": \"Page-header\", \"text\": \"Fornvård och fornforskning\"}, {\"bbox\": [98, 343, 1141, 463], \"category\": \"Text\", \"text\": \"vård och Hofcanslerens särskilta uppsikt. Att några flera allmänna och provincelagar finnas än dem vi redan känna och äga, derpå kan med skäl tviflas.\"}, {\"bbox\": [98, 467, 1144, 847], \"category\": \"Text\", \"text\": \"2) Inskrifter m. m. Hit räknas runstenar. Dessa i Peringskölds tid högaktade monument hafva i senare tider fallit i sitt värde. Härom se Herr Appelblads af Kongl. akademien år 1781 med stora priset belönta afhandling: I hvad mon Runstenarne upplysa forntidens Historia, införd i Del IV af hennes äldre Handlingar. Om någon Handling finnes skrefven med runor är den bevisligen diktad och understucken. Se Doct. Nordins Monumenta Svio Gothica Vetus-tioris aevi falso meritoque suspecta. Continuat. I Ups. 1774. Om nyare tiders lärer icke vara fråga.\"}, {\"bbox\": [103, 844, 1146, 1013], \"category\": \"Text\", \"text\": \"3) Gamla bildhuggare arbeten m. m. Hit räknas de så kallade ättegrytor. Dessa äro icke annat än fordom brukliga hand-quarnar. Härom se Mag. Bolings år 1775 i Upsala utgifna Triga Aphorismorum de Antiquissima molendi Ratione.\"}, {\"bbox\": [103, 1011, 1146, 1089], \"category\": \"Text\", \"text\": \"4) Ruiner af gamla Tempel m. m. Månne i Sverige finnas andra än dem som redan äro bekanta?\"}, {\"bbox\": [103, 1094, 1149, 1429], \"category\": \"Text\", \"text\": \"5) Mynt, medailler och brakteater. Alla Brakteater äro gamla mynt och insändas så väl de ena som andra af vederbörande Lands-höfdingar, enär sådana fynd träffas. Svenska Medaillier öfverstiga icke K. Gustaf II Adolfs Regering, om jag undantager några guld-smed-smycken. Några obekanta lära svårligen träffas. För att göra upptäkter i den numismatiska vägen är icke nog att vara hvad man kallar antiquarius. Man måste dermed förena insikter i Historien, Konsterna och Vitterheten för att icke blifva bedragen.\"}, {\"bbox\": [141, 1428, 881, 1472], \"category\": \"Text\", \"text\": \"6) Offerredskap, Helgedomar, ättehögar m. m.\"}, {\"bbox\": [141, 1470, 929, 1513], \"category\": \"Text\", \"text\": \"7) Stensättningar, offeraltaren, Tingsställen m. m.\"}, {\"bbox\": [141, 1511, 1035, 1555], \"category\": \"Text\", \"text\": \"8) Ättestupor, Stenkummel, Hedentima quarlefvor m. m.\"}, {\"bbox\": [106, 1553, 1153, 1806], \"category\": \"Text\", \"text\": \"Alla dessa artiklar äro till större delen af så diger antiquarisk beskaffenhet, att de svårligen kunna utredas af andra än Pauliner, Bångar, Rudbeckar, Verelier, Peringsköldar, Scariner, Björnerer, Göranssonar och Bromanner. Desse saknas nu för tiden och skulle uträtta föga, om de nu uppstodo. Loccenier, Schefferer, Benzelier, Wilder, Dalinar, Lagerbringar, Georgier, Berchar, Ihrar, Sotbergar\"}, {\"bbox\": [1080, 1842, 1149, 1879], \"category\": \"Page-footer\", \"text\": \"343\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    370,
+    272,
+    871,
+    317
+   ],
+   "category": "Page-header",
+   "text": "Fornvård och fornforskning"
+  },
+  {
+   "bbox": [
+    98,
+    343,
+    1141,
+    463
+   ],
+   "category": "Text",
+   "text": "vård och Hofcanslerens särskilta uppsikt. Att några flera allmänna och provincelagar finnas än dem vi redan känna och äga, derpå kan med skäl tviflas."
+  },
+  {
+   "bbox": [
+    98,
+    467,
+    1144,
+    847
+   ],
+   "category": "Text",
+   "text": "2) Inskrifter m. m. Hit räknas runstenar. Dessa i Peringskölds tid högaktade monument hafva i senare tider fallit i sitt värde. Härom se Herr Appelblads af Kongl. akademien år 1781 med stora priset belönta afhandling: I hvad mon Runstenarne upplysa forntidens Historia, införd i Del IV af hennes äldre Handlingar. Om någon Handling finnes skrefven med runor är den bevisligen diktad och understucken. Se Doct. Nordins Monumenta Svio Gothica Vetus-tioris aevi falso meritoque suspecta. Continuat. I Ups. 1774. Om nyare tiders lärer icke vara fråga."
+  },
+  {
+   "bbox": [
+    103,
+    844,
+    1146,
+    1013
+   ],
+   "category": "Text",
+   "text": "3) Gamla bildhuggare arbeten m. m. Hit räknas de så kallade ättegrytor. Dessa äro icke annat än fordom brukliga hand-quarnar. Härom se Mag. Bolings år 1775 i Upsala utgifna Triga Aphorismorum de Antiquissima molendi Ratione."
+  },
+  {
+   "bbox": [
+    103,
+    1011,
+    1146,
+    1089
+   ],
+   "category": "Text",
+   "text": "4) Ruiner af gamla Tempel m. m. Månne i Sverige finnas andra än dem som redan äro bekanta?"
+  },
+  {
+   "bbox": [
+    103,
+    1094,
+    1149,
+    1429
+   ],
+   "category": "Text",
+   "text": "5) Mynt, medailler och brakteater. Alla Brakteater äro gamla mynt och insändas så väl de ena som andra af vederbörande Lands-höfdingar, enär sådana fynd träffas. Svenska Medaillier öfverstiga icke K. Gustaf II Adolfs Regering, om jag undantager några guld-smed-smycken. Några obekanta lära svårligen träffas. För att göra upptäkter i den numismatiska vägen är icke nog att vara hvad man kallar antiquarius. Man måste dermed förena insikter i Historien, Konsterna och Vitterheten för att icke blifva bedragen."
+  },
+  {
+   "bbox": [
+    141,
+    1428,
+    881,
+    1472
+   ],
+   "category": "Text",
+   "text": "6) Offerredskap, Helgedomar, ättehögar m. m."
+  },
+  {
+   "bbox": [
+    141,
+    1470,
+    929,
+    1513
+   ],
+   "category": "Text",
+   "text": "7) Stensättningar, offeraltaren, Tingsställen m. m."
+  },
+  {
+   "bbox": [
+    141,
+    1511,
+    1035,
+    1555
+   ],
+   "category": "Text",
+   "text": "8) Ättestupor, Stenkummel, Hedentima quarlefvor m. m."
+  },
+  {
+   "bbox": [
+    106,
+    1553,
+    1153,
+    1806
+   ],
+   "category": "Text",
+   "text": "Alla dessa artiklar äro till större delen af så diger antiquarisk beskaffenhet, att de svårligen kunna utredas af andra än Pauliner, Bångar, Rudbeckar, Verelier, Peringsköldar, Scariner, Björnerer, Göranssonar och Bromanner. Desse saknas nu för tiden och skulle uträtta föga, om de nu uppstodo. Loccenier, Schefferer, Benzelier, Wilder, Dalinar, Lagerbringar, Georgier, Berchar, Ihrar, Sotbergar"
+  },
+  {
+   "bbox": [
+    1080,
+    1842,
+    1149,
+    1879
+   ],
+   "category": "Page-footer",
+   "text": "343"
+  }
+ ]
+}

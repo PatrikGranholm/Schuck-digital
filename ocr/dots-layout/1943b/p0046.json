@@ -1,0 +1,128 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 46,
+ "seconds": 29.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [123, 365, 634, 1010], \"category\": \"Picture\"}, {\"bbox\": [123, 1025, 641, 1061], \"category\": \"Caption\", \"text\": \"GEORG FRANS TIHLEMAN\"}, {\"bbox\": [134, 1070, 634, 1132], \"category\": \"Text\", \"text\": \"Miniatyrmålning av okänd konstnär\\n(Vitterhets Historie och Antikvitets Akademien)\"}, {\"bbox\": [751, 369, 1259, 1010], \"category\": \"Picture\"}, {\"bbox\": [719, 1025, 1291, 1061], \"category\": \"Caption\", \"text\": \"CARL FREDRIC FREDENHEIM\"}, {\"bbox\": [823, 1070, 1189, 1132], \"category\": \"Text\", \"text\": \"Oljemålning av Lorens Pasch d. y.\\n(Nationalmuseum)\"}, {\"bbox\": [123, 1171, 634, 1790], \"category\": \"Picture\"}, {\"bbox\": [168, 1811, 591, 1851], \"category\": \"Caption\", \"text\": \"ERIC SKJÖLDEBRAND\"}, {\"bbox\": [198, 1857, 563, 1919], \"category\": \"Text\", \"text\": \"Oljemålning av Lorens Pasch d. y.\\n(i enskild ägo, foto S. P. A.)\"}, {\"bbox\": [745, 1174, 1257, 1793], \"category\": \"Picture\"}, {\"bbox\": [769, 1811, 1238, 1847], \"category\": \"Caption\", \"text\": \"SCHERING ROSENHANE\"}, {\"bbox\": [755, 1857, 1251, 1919], \"category\": \"Text\", \"text\": \"Oljemålning av Per Krafft d. ä. (?)\\n(Vitterhets Historie och Antikvitets Akademien)\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    123,
+    365,
+    634,
+    1010
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    123,
+    1025,
+    641,
+    1061
+   ],
+   "category": "Caption",
+   "text": "GEORG FRANS TIHLEMAN"
+  },
+  {
+   "bbox": [
+    134,
+    1070,
+    634,
+    1132
+   ],
+   "category": "Text",
+   "text": "Miniatyrmålning av okänd konstnär\n(Vitterhets Historie och Antikvitets Akademien)"
+  },
+  {
+   "bbox": [
+    751,
+    369,
+    1259,
+    1010
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    719,
+    1025,
+    1291,
+    1061
+   ],
+   "category": "Caption",
+   "text": "CARL FREDRIC FREDENHEIM"
+  },
+  {
+   "bbox": [
+    823,
+    1070,
+    1189,
+    1132
+   ],
+   "category": "Text",
+   "text": "Oljemålning av Lorens Pasch d. y.\n(Nationalmuseum)"
+  },
+  {
+   "bbox": [
+    123,
+    1171,
+    634,
+    1790
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    168,
+    1811,
+    591,
+    1851
+   ],
+   "category": "Caption",
+   "text": "ERIC SKJÖLDEBRAND"
+  },
+  {
+   "bbox": [
+    198,
+    1857,
+    563,
+    1919
+   ],
+   "category": "Text",
+   "text": "Oljemålning av Lorens Pasch d. y.\n(i enskild ägo, foto S. P. A.)"
+  },
+  {
+   "bbox": [
+    745,
+    1174,
+    1257,
+    1793
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    769,
+    1811,
+    1238,
+    1847
+   ],
+   "category": "Caption",
+   "text": "SCHERING ROSENHANE"
+  },
+  {
+   "bbox": [
+    755,
+    1857,
+    1251,
+    1919
+   ],
+   "category": "Text",
+   "text": "Oljemålning av Per Krafft d. ä. (?)\n(Vitterhets Historie och Antikvitets Akademien)"
+  }
+ ]
+}

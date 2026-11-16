@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 291,
+ "seconds": 27.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [780, 271, 1293, 315], \"category\": \"Page-header\", \"text\": \"Hallenbergs tid 1810—1819\"}, {\"bbox\": [516, 342, 1558, 1303], \"category\": \"Text\", \"text\": \"skulle akademien enligt § 23 för var och en av de fyra tävlingarna föreslå tre ämnen, bland vilka konungen ägde rätt att utse det, som skulle utsättas för det följande året. Genom praxis hade dock det förfarandet utbildats, att akademien, då intet pris utdelats, kunde hos konungen hemställa, att samma prisämne fick till det följande året stå kvar. I sitt förslag följde Adlerbeth både lag och praxis. Han föreslog tre ämnen i de grupper, för vilka ett nytt ämne enligt hans mening borde utsättas, blott med den formella ändringen, att ämnena fått en mera vidsträckt omfattning, som medgav den tävlande ett fritt val inom ett stort område. Med anledning av detta förslag beslöt akademien nu, den 10 mars, att »hos Konungen, sin Höge Beskyddare, i underdånighet föreslå den ändring, att i stället för en viss utsatt prisfråga för hvardera Täflingsämnet i Historien, Antiquiteterna och Inskrift- samt Sinnebildskonsten hädanefter må Hänne tillåtas att framställa en allmän öfversigt, enligt hvilken de täflande må lemnas ett fritt val af ämnen inom hvarje class. I öfrigt trodde academien sig böra till H. M:ts nådiga afgörande i underdånighet hemställa, om icke Vältalighetsämnet eller det för främmande Språken på sätt hittills varit öfligt finge bibehållas och samma ämne som förlidet år å nyo till täfling framställas. I enlighet härmed skulle underdånigt förslag till Täflings ämnen för innevarande år till justering vid nästa sammankomst på Fransyska Språket upsättas för att Kongl. Majt:s nådiga pröfning underställas.»\"}, {\"bbox\": [516, 1302, 1556, 1468], \"category\": \"Text\", \"text\": \"Detta på franska avfattade förslag finnes kvar i den omtalade cahieren. I margen till de tre förslagen till tävlingsämnen i antikviteteter har Karl Johan vid nr. 1 skrivit »approuvé C. J.» och i följd därav blev tävlingsämnet:\"}, {\"bbox\": [516, 1467, 1556, 1802], \"category\": \"Text\", \"text\": \"»I Antikviteterna, på swenska eller latin: Afhandling i något ämne, hörande till kännedomen af Sverige i fornåldern eller medeltiden, räknad till kon. Gustaf I:s anträde till Regeringen, ware sig om Regerings- Brottmåls- eller Tvistemåls-Lagarne, Kyrkowäsendet och UnderWisningsWerket, Wettenskaperna, Konsterna, Handeln och Sjöfarten, sederna och lefnadssättet, hwarwid äfven i fråga komma Fäderneslandets äldre minnesmärken och deras förklaring efter Författarens eget wal.»\"}, {\"bbox\": [520, 1839, 590, 1877], \"category\": \"Page-footer\", \"text\": \"274\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    780,
+    271,
+    1293,
+    315
+   ],
+   "category": "Page-header",
+   "text": "Hallenbergs tid 1810—1819"
+  },
+  {
+   "bbox": [
+    516,
+    342,
+    1558,
+    1303
+   ],
+   "category": "Text",
+   "text": "skulle akademien enligt § 23 för var och en av de fyra tävlingarna föreslå tre ämnen, bland vilka konungen ägde rätt att utse det, som skulle utsättas för det följande året. Genom praxis hade dock det förfarandet utbildats, att akademien, då intet pris utdelats, kunde hos konungen hemställa, att samma prisämne fick till det följande året stå kvar. I sitt förslag följde Adlerbeth både lag och praxis. Han föreslog tre ämnen i de grupper, för vilka ett nytt ämne enligt hans mening borde utsättas, blott med den formella ändringen, att ämnena fått en mera vidsträckt omfattning, som medgav den tävlande ett fritt val inom ett stort område. Med anledning av detta förslag beslöt akademien nu, den 10 mars, att »hos Konungen, sin Höge Beskyddare, i underdånighet föreslå den ändring, att i stället för en viss utsatt prisfråga för hvardera Täflingsämnet i Historien, Antiquiteterna och Inskrift- samt Sinnebildskonsten hädanefter må Hänne tillåtas att framställa en allmän öfversigt, enligt hvilken de täflande må lemnas ett fritt val af ämnen inom hvarje class. I öfrigt trodde academien sig böra till H. M:ts nådiga afgörande i underdånighet hemställa, om icke Vältalighetsämnet eller det för främmande Språken på sätt hittills varit öfligt finge bibehållas och samma ämne som förlidet år å nyo till täfling framställas. I enlighet härmed skulle underdånigt förslag till Täflings ämnen för innevarande år till justering vid nästa sammankomst på Fransyska Språket upsättas för att Kongl. Majt:s nådiga pröfning underställas.»"
+  },
+  {
+   "bbox": [
+    516,
+    1302,
+    1556,
+    1468
+   ],
+   "category": "Text",
+   "text": "Detta på franska avfattade förslag finnes kvar i den omtalade cahieren. I margen till de tre förslagen till tävlingsämnen i antikviteteter har Karl Johan vid nr. 1 skrivit »approuvé C. J.» och i följd därav blev tävlingsämnet:"
+  },
+  {
+   "bbox": [
+    516,
+    1467,
+    1556,
+    1802
+   ],
+   "category": "Text",
+   "text": "»I Antikviteterna, på swenska eller latin: Afhandling i något ämne, hörande till kännedomen af Sverige i fornåldern eller medeltiden, räknad till kon. Gustaf I:s anträde till Regeringen, ware sig om Regerings- Brottmåls- eller Tvistemåls-Lagarne, Kyrkowäsendet och UnderWisningsWerket, Wettenskaperna, Konsterna, Handeln och Sjöfarten, sederna och lefnadssättet, hwarwid äfven i fråga komma Fäderneslandets äldre minnesmärken och deras förklaring efter Författarens eget wal.»"
+  },
+  {
+   "bbox": [
+    520,
+    1839,
+    590,
+    1877
+   ],
+   "category": "Page-footer",
+   "text": "274"
+  }
+ ]
+}

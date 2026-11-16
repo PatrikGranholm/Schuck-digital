@@ -1,0 +1,172 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 510,
+ "seconds": 83.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [553, 278, 708, 312], \"category\": \"Section-header\", \"text\": \"Innehåll\"}, {\"bbox\": [190, 348, 1003, 563], \"category\": \"Text\", \"text\": \"Strangford 219. Tengström och Calonius 220. Gråberg utländsk korrespondent 220. Hedersledamöter 221. Arbetande ledamöter 223. Biberg vald 223. Rutström vald 224. Tengström och Calonius överflyttas till utländska klassen 224. Blad och Palin väljas 225. Ristell uteslutes 225. Aurivillius, Grandel och Brinkman valda 226. Hultén och Wallmark valda 227. Val efter Calonius och Tengström 228. Jacob Adlerbeth och Thyselius valda 229. Gudmund Adlerbeth död 229.\"}, {\"bbox\": [113, 581, 1150, 624], \"category\": \"List-item\", \"text\": \"Inträdestal, levernesbeskrivningar och avhandlingar 231-261\"}, {\"bbox\": [192, 629, 1003, 753], \"category\": \"Text\", \"text\": \"Inträdestalen 231. A. F. Skjöldebrands 232. Wallmarks 235. Norbergs 238. Thyselius 239. Hulténs 241. Aurivillius 243. Bibergs 244. Blads 244. Levernesbeskrivningar 250. Ledamöternas avhandlingar 256. Utomståendes avhandlingar 258. Akademiens Handlingar 260.\"}, {\"bbox\": [115, 781, 1154, 824], \"category\": \"List-item\", \"text\": \"Medaljer och tävlingar 262-275\"}, {\"bbox\": [192, 826, 1003, 920], \"category\": \"Text\", \"text\": \"Akademien och kansliexamen 262. Medaljgranskningen 262. Tävlingarna 265. I historia 265. I antikviteter 267. På främmande språk och i inskriftskonst 271. Ändring av tävlingarna 271.\"}, {\"bbox\": [115, 947, 1154, 991], \"category\": \"List-item\", \"text\": \"Fynden 276-318\"}, {\"bbox\": [192, 994, 1003, 1148], \"category\": \"Text\", \"text\": \"Inledning 276. 1810 277. 1811 280. 1812 281. 1813 282. 1814 283. 1815 285. Myntkabinettet ställes åter under akademien 286. 1816 290. 1817 291. Giristafyndet 297. 1818 301. Apollo Grannus 305. Motalafyndet 306. Striden mellan Hallenberg och Sjöborg 308. Hallenbergs avsked 313.\"}, {\"bbox\": [115, 1174, 1154, 1216], \"category\": \"List-item\", \"text\": \"Fornvård och fornforskning 319-373\"}, {\"bbox\": [192, 1219, 1003, 1313], \"category\": \"Text\", \"text\": \"Hemse kyrkogård 319. Föreslagen grävning i Qville 325. Klingwalls Visbyritningar 326. Uppsala slott 329. Iduna och fornforskningen 332. Stierneld och akademien 337. Sjöborg får uppsikt över antikviteterna 352.\"}, {\"bbox\": [198, 1379, 1154, 1422], \"category\": \"List-item\", \"text\": \"RUTSTRÖMS TID 1819-1826 375-485\"}, {\"bbox\": [115, 1447, 1154, 1488], \"category\": \"List-item\", \"text\": \"Sekreterare, amanuens, ledamöter och lokal 377-407\"}, {\"bbox\": [192, 1493, 1003, 1676], \"category\": \"Text\", \"text\": \"Kandidater till sekreterarplatsen 377. Sundel 377. Sjöborg 378. Adlerbeth 377. Bergstedt 380. Rutström blir sekreterare 383. Rutströms lön 387. Rutström som sekreterare 388. Liljegren blir amanuens 391. Utländska ledamöter 397. Utländska korrespondenter 398. Kronprinsen förste hedersledamot 400. Den honoraira klassen 401. Den arbetande klassen 402. Akademiens lokal 405. Porträttgalleriet 405.\"}, {\"bbox\": [115, 1694, 1154, 1738], \"category\": \"List-item\", \"text\": \"Levernesbeskrivningar, inträdestal och avhandlingar 408-426\"}, {\"bbox\": [192, 1743, 1003, 1806], \"category\": \"Text\", \"text\": \"Levernesbeskrivningarna 408. Deras uppläsning i akademien 411. Försummade levernesbeskrivningar 412. Skjöldebrands över Adelcrantz och Bibergs\"}, {\"bbox\": [1082, 1832, 1154, 1876], \"category\": \"Page-footer\", \"text\": \"489\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    553,
+    278,
+    708,
+    312
+   ],
+   "category": "Section-header",
+   "text": "Innehåll"
+  },
+  {
+   "bbox": [
+    190,
+    348,
+    1003,
+    563
+   ],
+   "category": "Text",
+   "text": "Strangford 219. Tengström och Calonius 220. Gråberg utländsk korrespondent 220. Hedersledamöter 221. Arbetande ledamöter 223. Biberg vald 223. Rutström vald 224. Tengström och Calonius överflyttas till utländska klassen 224. Blad och Palin väljas 225. Ristell uteslutes 225. Aurivillius, Grandel och Brinkman valda 226. Hultén och Wallmark valda 227. Val efter Calonius och Tengström 228. Jacob Adlerbeth och Thyselius valda 229. Gudmund Adlerbeth död 229."
+  },
+  {
+   "bbox": [
+    113,
+    581,
+    1150,
+    624
+   ],
+   "category": "List-item",
+   "text": "Inträdestal, levernesbeskrivningar och avhandlingar 231-261"
+  },
+  {
+   "bbox": [
+    192,
+    629,
+    1003,
+    753
+   ],
+   "category": "Text",
+   "text": "Inträdestalen 231. A. F. Skjöldebrands 232. Wallmarks 235. Norbergs 238. Thyselius 239. Hulténs 241. Aurivillius 243. Bibergs 244. Blads 244. Levernesbeskrivningar 250. Ledamöternas avhandlingar 256. Utomståendes avhandlingar 258. Akademiens Handlingar 260."
+  },
+  {
+   "bbox": [
+    115,
+    781,
+    1154,
+    824
+   ],
+   "category": "List-item",
+   "text": "Medaljer och tävlingar 262-275"
+  },
+  {
+   "bbox": [
+    192,
+    826,
+    1003,
+    920
+   ],
+   "category": "Text",
+   "text": "Akademien och kansliexamen 262. Medaljgranskningen 262. Tävlingarna 265. I historia 265. I antikviteter 267. På främmande språk och i inskriftskonst 271. Ändring av tävlingarna 271."
+  },
+  {
+   "bbox": [
+    115,
+    947,
+    1154,
+    991
+   ],
+   "category": "List-item",
+   "text": "Fynden 276-318"
+  },
+  {
+   "bbox": [
+    192,
+    994,
+    1003,
+    1148
+   ],
+   "category": "Text",
+   "text": "Inledning 276. 1810 277. 1811 280. 1812 281. 1813 282. 1814 283. 1815 285. Myntkabinettet ställes åter under akademien 286. 1816 290. 1817 291. Giristafyndet 297. 1818 301. Apollo Grannus 305. Motalafyndet 306. Striden mellan Hallenberg och Sjöborg 308. Hallenbergs avsked 313."
+  },
+  {
+   "bbox": [
+    115,
+    1174,
+    1154,
+    1216
+   ],
+   "category": "List-item",
+   "text": "Fornvård och fornforskning 319-373"
+  },
+  {
+   "bbox": [
+    192,
+    1219,
+    1003,
+    1313
+   ],
+   "category": "Text",
+   "text": "Hemse kyrkogård 319. Föreslagen grävning i Qville 325. Klingwalls Visbyritningar 326. Uppsala slott 329. Iduna och fornforskningen 332. Stierneld och akademien 337. Sjöborg får uppsikt över antikviteterna 352."
+  },
+  {
+   "bbox": [
+    198,
+    1379,
+    1154,
+    1422
+   ],
+   "category": "List-item",
+   "text": "RUTSTRÖMS TID 1819-1826 375-485"
+  },
+  {
+   "bbox": [
+    115,
+    1447,
+    1154,
+    1488
+   ],
+   "category": "List-item",
+   "text": "Sekreterare, amanuens, ledamöter och lokal 377-407"
+  },
+  {
+   "bbox": [
+    192,
+    1493,
+    1003,
+    1676
+   ],
+   "category": "Text",
+   "text": "Kandidater till sekreterarplatsen 377. Sundel 377. Sjöborg 378. Adlerbeth 377. Bergstedt 380. Rutström blir sekreterare 383. Rutströms lön 387. Rutström som sekreterare 388. Liljegren blir amanuens 391. Utländska ledamöter 397. Utländska korrespondenter 398. Kronprinsen förste hedersledamot 400. Den honoraira klassen 401. Den arbetande klassen 402. Akademiens lokal 405. Porträttgalleriet 405."
+  },
+  {
+   "bbox": [
+    115,
+    1694,
+    1154,
+    1738
+   ],
+   "category": "List-item",
+   "text": "Levernesbeskrivningar, inträdestal och avhandlingar 408-426"
+  },
+  {
+   "bbox": [
+    192,
+    1743,
+    1003,
+    1806
+   ],
+   "category": "Text",
+   "text": "Levernesbeskrivningarna 408. Deras uppläsning i akademien 411. Försummade levernesbeskrivningar 412. Skjöldebrands över Adelcrantz och Bibergs"
+  },
+  {
+   "bbox": [
+    1082,
+    1832,
+    1154,
+    1876
+   ],
+   "category": "Page-footer",
+   "text": "489"
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 280,
+ "seconds": 26.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [427, 266, 842, 310], \"category\": \"Section-header\", \"text\": \"Medaljer och tävlingar\"}, {\"bbox\": [115, 337, 1152, 507], \"category\": \"Text\", \"text\": \"komma med ett förslag. Vid detta, den 4 december, upplästes hans förslag, som överlämnades till granskning åt Adlerbeth och Rosenhane. Deras yttrande samt två andra förslag föredrogos den 11 december, och därvid fastställdes följande förslag till medalj:\"}, {\"bbox\": [150, 528, 789, 565], \"category\": \"Text\", \"text\": \"»Första sidan: Bröstbilden med omskrift:\"}, {\"bbox\": [432, 582, 835, 667], \"category\": \"Text\", \"text\": \"Carol. Gust. Gyllencreutz\\nLegifer Upl.\"}, {\"bbox\": [152, 701, 1004, 738], \"category\": \"Text\", \"text\": \"Andra sidan: Inom en Ekkrans i räta rader dessa ord:\"}, {\"bbox\": [464, 755, 852, 999], \"category\": \"Text\", \"text\": \"Ob jura civium\\nSapienti Consilio\\nViriliter propugnata\\nAnno MDCXCIII\\nOrd. Regn. Suec. Eque.\\nMDCCCX.»\"}, {\"bbox\": [115, 1046, 1152, 1798], \"category\": \"Text\", \"text\": \"Denna inskrift innehåller emellertid en historiskt oriktig uppgift. Det var nämligen icke vid 1693 års utan vid 1682 års riksdag som Gyllencreutz avgivit sin protest. Tvivelsmål om tidsuppgiftens riktighet synas även kort därefter ha uppstått inom akademien, ty denna remitterade ärendet till en av akademiens kunnigaste historiker, biskop Nordin i Hernösand, vilken den 25 januari 1811 inskickade sitt utlåtande (som ej bevarats och vars innehåll icke refererats). Till ytterligare säkerhet fick amanuensen Sundel, som faktiskt skötte Hallenbergs plats som sekreterare och som var aktuarie i riksarkivet, i uppdrag att där anställa behövliga efterforskningar. Vid sammanträdet den 12 februari anmälde han, »att han på academiens befallning warit hos Justitierådet Marks von Würtenberg för att utaf dess Samlingar erhålla några underrättelser om verkliga förloppet med det af Lagmannen Gyllencreutz författade memorial emot Regs förändringen uti Kon. Carl XI:s tid, hvarjemte undertecknad förmälte sig hafva genomgått det i Riddarhuset befintliga Protokoll för 1682 års Riksdag. Af dessa undersökningar hade ingen vidare upplysning kunnat inhemtas, än att Gyllencreutz' memorial, ehuru\"}, {\"bbox\": [1078, 1828, 1146, 1874], \"category\": \"Page-footer\", \"text\": \"263\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    427,
+    266,
+    842,
+    310
+   ],
+   "category": "Section-header",
+   "text": "Medaljer och tävlingar"
+  },
+  {
+   "bbox": [
+    115,
+    337,
+    1152,
+    507
+   ],
+   "category": "Text",
+   "text": "komma med ett förslag. Vid detta, den 4 december, upplästes hans förslag, som överlämnades till granskning åt Adlerbeth och Rosenhane. Deras yttrande samt två andra förslag föredrogos den 11 december, och därvid fastställdes följande förslag till medalj:"
+  },
+  {
+   "bbox": [
+    150,
+    528,
+    789,
+    565
+   ],
+   "category": "Text",
+   "text": "»Första sidan: Bröstbilden med omskrift:"
+  },
+  {
+   "bbox": [
+    432,
+    582,
+    835,
+    667
+   ],
+   "category": "Text",
+   "text": "Carol. Gust. Gyllencreutz\nLegifer Upl."
+  },
+  {
+   "bbox": [
+    152,
+    701,
+    1004,
+    738
+   ],
+   "category": "Text",
+   "text": "Andra sidan: Inom en Ekkrans i räta rader dessa ord:"
+  },
+  {
+   "bbox": [
+    464,
+    755,
+    852,
+    999
+   ],
+   "category": "Text",
+   "text": "Ob jura civium\nSapienti Consilio\nViriliter propugnata\nAnno MDCXCIII\nOrd. Regn. Suec. Eque.\nMDCCCX.»"
+  },
+  {
+   "bbox": [
+    115,
+    1046,
+    1152,
+    1798
+   ],
+   "category": "Text",
+   "text": "Denna inskrift innehåller emellertid en historiskt oriktig uppgift. Det var nämligen icke vid 1693 års utan vid 1682 års riksdag som Gyllencreutz avgivit sin protest. Tvivelsmål om tidsuppgiftens riktighet synas även kort därefter ha uppstått inom akademien, ty denna remitterade ärendet till en av akademiens kunnigaste historiker, biskop Nordin i Hernösand, vilken den 25 januari 1811 inskickade sitt utlåtande (som ej bevarats och vars innehåll icke refererats). Till ytterligare säkerhet fick amanuensen Sundel, som faktiskt skötte Hallenbergs plats som sekreterare och som var aktuarie i riksarkivet, i uppdrag att där anställa behövliga efterforskningar. Vid sammanträdet den 12 februari anmälde han, »att han på academiens befallning warit hos Justitierådet Marks von Würtenberg för att utaf dess Samlingar erhålla några underrättelser om verkliga förloppet med det af Lagmannen Gyllencreutz författade memorial emot Regs förändringen uti Kon. Carl XI:s tid, hvarjemte undertecknad förmälte sig hafva genomgått det i Riddarhuset befintliga Protokoll för 1682 års Riksdag. Af dessa undersökningar hade ingen vidare upplysning kunnat inhemtas, än att Gyllencreutz' memorial, ehuru"
+  },
+  {
+   "bbox": [
+    1078,
+    1828,
+    1146,
+    1874
+   ],
+   "category": "Page-footer",
+   "text": "263"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 184,
+ "seconds": 26.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [315, 521, 1005, 557], \"category\": \"Section-header\", \"text\": \"LEDAMÖTERNAS EGNA SKRIFTER.\"}, {\"bbox\": [132, 635, 1172, 714], \"category\": \"Text\", \"text\": \"Av de skrifter, vilka av ledamöterna själva skulle författas, vända vi oss först till inträdestalen.\"}, {\"bbox\": [1188, 640, 1282, 697], \"category\": \"Text\", \"text\": \"Inträdestalen\"}, {\"bbox\": [132, 719, 1172, 1055], \"category\": \"Text\", \"text\": \"Under de år, med vilka vi nu sysselsätta oss, hade fem hedersledamöter invalts. Av dem begagnade sig fyra av hedersledamöternas hävdvunna rättighet att helt kort tacka för den heder, som bevisats dem. Dylika innehållslösa inträdestal höllos av Rosenblad (den 3 december 1805), Zibet (den 15 juli 1807), Marks von Würtenberg (den 21 juni 1808) och Edelcrantz (den 18 april 1809, detta enligt protokollet. Handlingarna ha — genom ett tryckfel — den 13 april).\"}, {\"bbox\": [127, 1053, 1170, 1803], \"category\": \"Text\", \"text\": \"Endast biskop Tingstadius tog sitt inträde (den 16 oktober 1805) med ett vetenskapligt föredrag. Men så var han också en gammal professor, som helt kort före invalet blivit biskop och som varit en bland Uppsalauniversitetets mest betydande lärare, en bland dem, som även litterärt gjort en insats. Han var nämligen den förste i Sverige, som i det Gamla Testamentets profeter och psalmdiktare såg — icke författare i dogmatik — utan stora skalder, den förste, som hade en klar uppfattning av Bibelns poesi. I Handlingarne har talet ingen titel, men enligt protokollets riktiga referat av innehållet handlade detta om »Några Betänkligheter, som göra det sannolikt, att Greker och Romare hemtat sina första kunskaper i vitterhet och fria konster från Österländska folkslagen». Hans läroämne såsom professor i Uppsala hade varit österländska språk, och det var därför naturligt, att han ville framhålla de österländska folkens insats i den antika kulturen. Med de hjälpmedel, som då stodo forskningen till buds, gjorde han det med en viss framgång. Ty hans tal får icke bedömas från vår tids vetenskapliga ståndpunkt. De bibliska skrifternas avfattningstid var då ännu icke känd, och t. ex.\"}, {\"bbox\": [1186, 1058, 1306, 1090], \"category\": \"Text\", \"text\": \"Tingstadius\"}, {\"bbox\": [1099, 1833, 1164, 1879], \"category\": \"Page-footer\", \"text\": \"169\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    315,
+    521,
+    1005,
+    557
+   ],
+   "category": "Section-header",
+   "text": "LEDAMÖTERNAS EGNA SKRIFTER."
+  },
+  {
+   "bbox": [
+    132,
+    635,
+    1172,
+    714
+   ],
+   "category": "Text",
+   "text": "Av de skrifter, vilka av ledamöterna själva skulle författas, vända vi oss först till inträdestalen."
+  },
+  {
+   "bbox": [
+    1188,
+    640,
+    1282,
+    697
+   ],
+   "category": "Text",
+   "text": "Inträdestalen"
+  },
+  {
+   "bbox": [
+    132,
+    719,
+    1172,
+    1055
+   ],
+   "category": "Text",
+   "text": "Under de år, med vilka vi nu sysselsätta oss, hade fem hedersledamöter invalts. Av dem begagnade sig fyra av hedersledamöternas hävdvunna rättighet att helt kort tacka för den heder, som bevisats dem. Dylika innehållslösa inträdestal höllos av Rosenblad (den 3 december 1805), Zibet (den 15 juli 1807), Marks von Würtenberg (den 21 juni 1808) och Edelcrantz (den 18 april 1809, detta enligt protokollet. Handlingarna ha — genom ett tryckfel — den 13 april)."
+  },
+  {
+   "bbox": [
+    127,
+    1053,
+    1170,
+    1803
+   ],
+   "category": "Text",
+   "text": "Endast biskop Tingstadius tog sitt inträde (den 16 oktober 1805) med ett vetenskapligt föredrag. Men så var han också en gammal professor, som helt kort före invalet blivit biskop och som varit en bland Uppsalauniversitetets mest betydande lärare, en bland dem, som även litterärt gjort en insats. Han var nämligen den förste i Sverige, som i det Gamla Testamentets profeter och psalmdiktare såg — icke författare i dogmatik — utan stora skalder, den förste, som hade en klar uppfattning av Bibelns poesi. I Handlingarne har talet ingen titel, men enligt protokollets riktiga referat av innehållet handlade detta om »Några Betänkligheter, som göra det sannolikt, att Greker och Romare hemtat sina första kunskaper i vitterhet och fria konster från Österländska folkslagen». Hans läroämne såsom professor i Uppsala hade varit österländska språk, och det var därför naturligt, att han ville framhålla de österländska folkens insats i den antika kulturen. Med de hjälpmedel, som då stodo forskningen till buds, gjorde han det med en viss framgång. Ty hans tal får icke bedömas från vår tids vetenskapliga ståndpunkt. De bibliska skrifternas avfattningstid var då ännu icke känd, och t. ex."
+  },
+  {
+   "bbox": [
+    1186,
+    1058,
+    1306,
+    1090
+   ],
+   "category": "Text",
+   "text": "Tingstadius"
+  },
+  {
+   "bbox": [
+    1099,
+    1833,
+    1164,
+    1879
+   ],
+   "category": "Page-footer",
+   "text": "169"
+  }
+ ]
+}

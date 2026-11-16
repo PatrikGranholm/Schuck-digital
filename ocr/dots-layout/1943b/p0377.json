@@ -1,0 +1,142 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 377,
+ "seconds": 28.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [778, 272, 1296, 316], \"category\": \"Page-header\", \"text\": \"Hallenbergs tid 1810—1819\"}, {\"bbox\": [517, 344, 1558, 514], \"category\": \"Text\", \"text\": \"nödiga förbättringar och tillägg i Författningarne angående Fornlemningarnas vård och allt hvad dermed kan äga gemenskap, samt efterse, att vid kyrko Reparationer inga i kyrkorne eller dervid varande antiquiteter förstöras.\"}, {\"bbox\": [1012, 524, 1066, 558], \"category\": \"Section-header\", \"text\": \"VI.\"}, {\"bbox\": [512, 571, 1558, 990], \"category\": \"Text\", \"text\": \"Eftersöka och samla så väl gamle Handlingar och Historien uplysande Documenter som alla i jorden fundne och annorstädes förvarade antiquiteter och märkvärdigheter, hvilka kunna erhållas, hvarvid honom åligger att Handlingarne till *Cantzli Styrelsen insända* och aflemna de öfriga antiquiteter, intill dess något offenteligt för dylika Samlingar inrättadt Cabinett eller Museum blifver att tillgå, till *Antiquitets Archivet* i Stockholm. Och bör i händelse fråga blir om *inköp* af en eller annan antiquitet, underdånig anmälan derom genom *Cantzli Styrelsen* göras hos Konungen och dess nådiga beslut afvagtas.\"}, {\"bbox\": [1002, 995, 1071, 1029], \"category\": \"Section-header\", \"text\": \"VII.\"}, {\"bbox\": [517, 1042, 1558, 1206], \"category\": \"Text\", \"text\": \"Bese och söka att skaffa Förteckning på innehållet af alla så allmänna som enskilta Historiska Samlingar och Cabinett i Riket, i anseende hvartill honom lemnas *fri tillgång till Kongl. Antiquitets Archivet*, Museum och Bibliotheket i Stockholm.\"}, {\"bbox\": [997, 1238, 1080, 1272], \"category\": \"Section-header\", \"text\": \"VIII.\"}, {\"bbox\": [517, 1285, 1558, 1411], \"category\": \"Text\", \"text\": \"Wara beredd att, när så befalles, vara Konungen och Furstliga personer på resor genom Fäderneslandet följagtig för att upvagta med anvisning och underrättelse om befintelige märkvärdigheter.\"}, {\"bbox\": [1012, 1434, 1066, 1468], \"category\": \"Section-header\", \"text\": \"IX.\"}, {\"bbox\": [517, 1481, 1558, 1684], \"category\": \"Text\", \"text\": \"Jemte nödig brefväxling med de Rikets Embets och Tjenstemän, af hvilka uplysningar begäres, söka underrättelse af Utrikes Lärde i de ämnen, som med Nordiska antiquiteter ega gemenskap och i synnerhet underhålla Litteraire förbindelse så väl med Antiquitets Commissionen i Danmark som med de Norrske Lärde Samfund.\"}, {\"bbox\": [1021, 1715, 1059, 1749], \"category\": \"Section-header\", \"text\": \"X.\"}, {\"bbox\": [552, 1762, 1558, 1804], \"category\": \"Text\", \"text\": \"Inför *Cantzli Styrelsen* årligen visa redo för sina Embets göromål\"}, {\"bbox\": [521, 1835, 591, 1881], \"category\": \"Page-footer\", \"text\": \"358\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    778,
+    272,
+    1296,
+    316
+   ],
+   "category": "Page-header",
+   "text": "Hallenbergs tid 1810—1819"
+  },
+  {
+   "bbox": [
+    517,
+    344,
+    1558,
+    514
+   ],
+   "category": "Text",
+   "text": "nödiga förbättringar och tillägg i Författningarne angående Fornlemningarnas vård och allt hvad dermed kan äga gemenskap, samt efterse, att vid kyrko Reparationer inga i kyrkorne eller dervid varande antiquiteter förstöras."
+  },
+  {
+   "bbox": [
+    1012,
+    524,
+    1066,
+    558
+   ],
+   "category": "Section-header",
+   "text": "VI."
+  },
+  {
+   "bbox": [
+    512,
+    571,
+    1558,
+    990
+   ],
+   "category": "Text",
+   "text": "Eftersöka och samla så väl gamle Handlingar och Historien uplysande Documenter som alla i jorden fundne och annorstädes förvarade antiquiteter och märkvärdigheter, hvilka kunna erhållas, hvarvid honom åligger att Handlingarne till *Cantzli Styrelsen insända* och aflemna de öfriga antiquiteter, intill dess något offenteligt för dylika Samlingar inrättadt Cabinett eller Museum blifver att tillgå, till *Antiquitets Archivet* i Stockholm. Och bör i händelse fråga blir om *inköp* af en eller annan antiquitet, underdånig anmälan derom genom *Cantzli Styrelsen* göras hos Konungen och dess nådiga beslut afvagtas."
+  },
+  {
+   "bbox": [
+    1002,
+    995,
+    1071,
+    1029
+   ],
+   "category": "Section-header",
+   "text": "VII."
+  },
+  {
+   "bbox": [
+    517,
+    1042,
+    1558,
+    1206
+   ],
+   "category": "Text",
+   "text": "Bese och söka att skaffa Förteckning på innehållet af alla så allmänna som enskilta Historiska Samlingar och Cabinett i Riket, i anseende hvartill honom lemnas *fri tillgång till Kongl. Antiquitets Archivet*, Museum och Bibliotheket i Stockholm."
+  },
+  {
+   "bbox": [
+    997,
+    1238,
+    1080,
+    1272
+   ],
+   "category": "Section-header",
+   "text": "VIII."
+  },
+  {
+   "bbox": [
+    517,
+    1285,
+    1558,
+    1411
+   ],
+   "category": "Text",
+   "text": "Wara beredd att, när så befalles, vara Konungen och Furstliga personer på resor genom Fäderneslandet följagtig för att upvagta med anvisning och underrättelse om befintelige märkvärdigheter."
+  },
+  {
+   "bbox": [
+    1012,
+    1434,
+    1066,
+    1468
+   ],
+   "category": "Section-header",
+   "text": "IX."
+  },
+  {
+   "bbox": [
+    517,
+    1481,
+    1558,
+    1684
+   ],
+   "category": "Text",
+   "text": "Jemte nödig brefväxling med de Rikets Embets och Tjenstemän, af hvilka uplysningar begäres, söka underrättelse af Utrikes Lärde i de ämnen, som med Nordiska antiquiteter ega gemenskap och i synnerhet underhålla Litteraire förbindelse så väl med Antiquitets Commissionen i Danmark som med de Norrske Lärde Samfund."
+  },
+  {
+   "bbox": [
+    1021,
+    1715,
+    1059,
+    1749
+   ],
+   "category": "Section-header",
+   "text": "X."
+  },
+  {
+   "bbox": [
+    552,
+    1762,
+    1558,
+    1804
+   ],
+   "category": "Text",
+   "text": "Inför *Cantzli Styrelsen* årligen visa redo för sina Embets göromål"
+  },
+  {
+   "bbox": [
+    521,
+    1835,
+    591,
+    1881
+   ],
+   "category": "Page-footer",
+   "text": "358"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 108,
+ "seconds": 25.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [307, 521, 981, 556], \"category\": \"Section-header\", \"text\": \"FYNDEN OCH KANSLIKOLLEGIET.\"}, {\"bbox\": [123, 635, 1162, 1011], \"category\": \"Text\", \"text\": \"Akademiens verksamhet, sådan den framträtt i de föregående kapitlen, hade varit en fortsättning av den gamla Vitterhetsakademiens. Men akademien var även en arvtagare av det nominellt ännu existerande Antikvitetsarkivet, och av detta arv kvarstodo ännu några rester, som likväl under Tihlemans tid ytterligare förminskades. Akademien hade nu fått en sekreterare, som stod främmande för all fornforskning, och Kanslikollegiets och akademiens antikvariskt mest intresserade ledamot, Jakob von Engeström, stod icke längre kvar i Kanslikollegiet och deltog ej vidare i akademiens arbeten.\"}, {\"bbox\": [123, 1011, 1162, 1803], \"category\": \"Text\", \"text\": \"Den del av antikviteterna, för vilka akademien på Adlerbeths tid mest intresserat sig, hade varit myntfynden, men akademiens rättighet eller skyldighet att befatta sig med dem hade samtidigt med Adlerbeths avgång blivit ganska tvivelaktig. Före Vitterhetsakademiens omorganisation hade Antikvitetsarkivet, såsom vi minnas, stått under Kanslikollegiets styrelse, men genom det Kungl. brevet av den 27 mars 1786 hade styrelsen överflyttats till den nybildade Vitterhets Historie och Antikvitetsakademien. Egendomligt nog hade, såsom vi sett, detta Kungl. brev icke observerats vare sig av Kanslikollegiet eller av akademien, och med få undantag hade alla fyndärenden avgjorts av Kanslikollegiet — visserligen där av kansliråd, som tillika voro ledamöter av Vitterhets Historie och Antikvitetsakademien. Men genom det vid Adlerbeths avgång utfärdade kungabrevet den 7 december 1793 hade en ytterligare och mera betydande förändring skett, i det att den värdefullaste delen av fornsakssamlingen, mynten och medaljerna, avsöndrats från akademien och tilldelats det nybildade Kungl. Museet, vilket 1795 ställdes inunder Överintendentsämbetets styrelse. Sådan var ställningen, då den oduglige Tihleman 1795 blev akademiens sekrete-\"}, {\"bbox\": [1174, 642, 1303, 733], \"category\": \"Text\", \"text\": \"Fyndärendenas behandling\"}, {\"bbox\": [1108, 1842, 1153, 1878], \"category\": \"Page-footer\", \"text\": \"93\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    307,
+    521,
+    981,
+    556
+   ],
+   "category": "Section-header",
+   "text": "FYNDEN OCH KANSLIKOLLEGIET."
+  },
+  {
+   "bbox": [
+    123,
+    635,
+    1162,
+    1011
+   ],
+   "category": "Text",
+   "text": "Akademiens verksamhet, sådan den framträtt i de föregående kapitlen, hade varit en fortsättning av den gamla Vitterhetsakademiens. Men akademien var även en arvtagare av det nominellt ännu existerande Antikvitetsarkivet, och av detta arv kvarstodo ännu några rester, som likväl under Tihlemans tid ytterligare förminskades. Akademien hade nu fått en sekreterare, som stod främmande för all fornforskning, och Kanslikollegiets och akademiens antikvariskt mest intresserade ledamot, Jakob von Engeström, stod icke längre kvar i Kanslikollegiet och deltog ej vidare i akademiens arbeten."
+  },
+  {
+   "bbox": [
+    123,
+    1011,
+    1162,
+    1803
+   ],
+   "category": "Text",
+   "text": "Den del av antikviteterna, för vilka akademien på Adlerbeths tid mest intresserat sig, hade varit myntfynden, men akademiens rättighet eller skyldighet att befatta sig med dem hade samtidigt med Adlerbeths avgång blivit ganska tvivelaktig. Före Vitterhetsakademiens omorganisation hade Antikvitetsarkivet, såsom vi minnas, stått under Kanslikollegiets styrelse, men genom det Kungl. brevet av den 27 mars 1786 hade styrelsen överflyttats till den nybildade Vitterhets Historie och Antikvitetsakademien. Egendomligt nog hade, såsom vi sett, detta Kungl. brev icke observerats vare sig av Kanslikollegiet eller av akademien, och med få undantag hade alla fyndärenden avgjorts av Kanslikollegiet — visserligen där av kansliråd, som tillika voro ledamöter av Vitterhets Historie och Antikvitetsakademien. Men genom det vid Adlerbeths avgång utfärdade kungabrevet den 7 december 1793 hade en ytterligare och mera betydande förändring skett, i det att den värdefullaste delen av fornsakssamlingen, mynten och medaljerna, avsöndrats från akademien och tilldelats det nybildade Kungl. Museet, vilket 1795 ställdes inunder Överintendentsämbetets styrelse. Sådan var ställningen, då den oduglige Tihleman 1795 blev akademiens sekrete-"
+  },
+  {
+   "bbox": [
+    1174,
+    642,
+    1303,
+    733
+   ],
+   "category": "Text",
+   "text": "Fyndärendenas behandling"
+  },
+  {
+   "bbox": [
+    1108,
+    1842,
+    1153,
+    1878
+   ],
+   "category": "Page-footer",
+   "text": "93"
+  }
+ ]
+}

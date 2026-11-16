@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 215,
+ "seconds": 28.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [763, 270, 1288, 314], \"category\": \"Page-header\", \"text\": \"Hallenbergs tid 1803—1810\"}, {\"bbox\": [504, 341, 1546, 630], \"category\": \"Text\", \"text\": \"om de skånska fornminnen, som borde skyddas, t. ex. den märkliga Kiviksgraven. Man har därför anledning att misstänka, att Rosen, som veterligen icke 1803 — då Sjöborg enligt egen uppgift vänt sig till honom — tagit något steg till fornvårdens befrämjande, varit ganska ointresserad för saken och att Sjöborg därför begagnat hans tjänstledighet för att få landskansliet att utfärda den kungörelse, han författat.\"}, {\"bbox\": [504, 633, 1548, 885], \"category\": \"Text\", \"text\": \"Att cirkuläret skulle ha tillkommit därigenom att Sjöborg personligen vänt sig till konungen och intresserat denne för saken, kan ej gärna antagas, ty detta förbjudes redan genom hans samhällsställning och för övrigt även av hans boplats, Lund, utan detta kan endast ha skett genom en mellanhand, en person, som stod konungen nära, och här är Rosenblad nog den, på vilken man snarast kan gissa.\"}, {\"bbox\": [372, 892, 493, 951], \"category\": \"Text\", \"text\": \"Rikssalen i Örebro\"}, {\"bbox\": [504, 883, 1553, 1803], \"category\": \"Text\", \"text\": \"Någon *större* effekt fick 1805 års cirkulär icke. Från de skånska länen avhördes, trots Sjöborgs kungörelse, ingen anmälan och från de uppsvenska endast tre, eller — om man så vill — fyra. Den förste, som med anledning av cirkuläret ingav en framställning om ett fornminnes iståndsättande, var landshövdingen i Örebro, friherre Salomon Löfwenskiöld, som den 18 november 1805 skrev till Kungl. Maj:t: »Till åtlydnad af Eders Kongl. Maj:ts under den 9 april innevarande år mig gifne nådigste befallning får jag i underdånighet vid handen gifva, att uti det mig nådigst anförtrodde Örebro Län ej finnes någon märkvärdig forntidens lemning eller minnesmärke, som förtjenar att, efter hvad Eders Kongl. Maj:t i nåder förordnat, fredas och bevaras, utom en här i staden nära det så kallade Silltorget i garfvaren Westerlings gård belägen gammal träbyggning, hvilken allmänt är känd under namn af Rikssalen. Enligt gammal sägen skall väl det märkvärdiga Riksmötet år 1540 under den Högstsalig Konung Gustaf den I:s Regering blifvit hållet uti denna byggning, som tros deraf alt sedermera hafva burit namn af Rikssalen. Men då sådant icke kan med någre Handlingar bestyrkas, och Historien deremot uplyser, att samma möte blifvit hållet å sjelfva Slottet», så tillät sig landshövdingen att betvivla traditionens trovärdighet. Den beskrivning — fortsätter han — »som en af magistratens ledamöter på min begäran lemnat om byggnadens beskaffenhet och utseende\"}, {\"bbox\": [514, 1841, 583, 1869], \"category\": \"Page-footer\", \"text\": \"200\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    763,
+    270,
+    1288,
+    314
+   ],
+   "category": "Page-header",
+   "text": "Hallenbergs tid 1803—1810"
+  },
+  {
+   "bbox": [
+    504,
+    341,
+    1546,
+    630
+   ],
+   "category": "Text",
+   "text": "om de skånska fornminnen, som borde skyddas, t. ex. den märkliga Kiviksgraven. Man har därför anledning att misstänka, att Rosen, som veterligen icke 1803 — då Sjöborg enligt egen uppgift vänt sig till honom — tagit något steg till fornvårdens befrämjande, varit ganska ointresserad för saken och att Sjöborg därför begagnat hans tjänstledighet för att få landskansliet att utfärda den kungörelse, han författat."
+  },
+  {
+   "bbox": [
+    504,
+    633,
+    1548,
+    885
+   ],
+   "category": "Text",
+   "text": "Att cirkuläret skulle ha tillkommit därigenom att Sjöborg personligen vänt sig till konungen och intresserat denne för saken, kan ej gärna antagas, ty detta förbjudes redan genom hans samhällsställning och för övrigt även av hans boplats, Lund, utan detta kan endast ha skett genom en mellanhand, en person, som stod konungen nära, och här är Rosenblad nog den, på vilken man snarast kan gissa."
+  },
+  {
+   "bbox": [
+    372,
+    892,
+    493,
+    951
+   ],
+   "category": "Text",
+   "text": "Rikssalen i Örebro"
+  },
+  {
+   "bbox": [
+    504,
+    883,
+    1553,
+    1803
+   ],
+   "category": "Text",
+   "text": "Någon *större* effekt fick 1805 års cirkulär icke. Från de skånska länen avhördes, trots Sjöborgs kungörelse, ingen anmälan och från de uppsvenska endast tre, eller — om man så vill — fyra. Den förste, som med anledning av cirkuläret ingav en framställning om ett fornminnes iståndsättande, var landshövdingen i Örebro, friherre Salomon Löfwenskiöld, som den 18 november 1805 skrev till Kungl. Maj:t: »Till åtlydnad af Eders Kongl. Maj:ts under den 9 april innevarande år mig gifne nådigste befallning får jag i underdånighet vid handen gifva, att uti det mig nådigst anförtrodde Örebro Län ej finnes någon märkvärdig forntidens lemning eller minnesmärke, som förtjenar att, efter hvad Eders Kongl. Maj:t i nåder förordnat, fredas och bevaras, utom en här i staden nära det så kallade Silltorget i garfvaren Westerlings gård belägen gammal träbyggning, hvilken allmänt är känd under namn af Rikssalen. Enligt gammal sägen skall väl det märkvärdiga Riksmötet år 1540 under den Högstsalig Konung Gustaf den I:s Regering blifvit hållet uti denna byggning, som tros deraf alt sedermera hafva burit namn af Rikssalen. Men då sådant icke kan med någre Handlingar bestyrkas, och Historien deremot uplyser, att samma möte blifvit hållet å sjelfva Slottet», så tillät sig landshövdingen att betvivla traditionens trovärdighet. Den beskrivning — fortsätter han — »som en af magistratens ledamöter på min begäran lemnat om byggnadens beskaffenhet och utseende"
+  },
+  {
+   "bbox": [
+    514,
+    1841,
+    583,
+    1869
+   ],
+   "category": "Page-footer",
+   "text": "200"
+  }
+ ]
+}

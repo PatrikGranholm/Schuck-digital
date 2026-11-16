@@ -1,0 +1,32 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 224,
+ "seconds": 23.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [235, 863, 1041, 916], \"category\": \"Section-header\", \"text\": \"HALLENBERGS TID 1810–1819\"}, {\"bbox\": [141, 1864, 243, 1887], \"category\": \"Page-footer\", \"text\": \"14—42758.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    235,
+    863,
+    1041,
+    916
+   ],
+   "category": "Section-header",
+   "text": "HALLENBERGS TID 1810–1819"
+  },
+  {
+   "bbox": [
+    141,
+    1864,
+    243,
+    1887
+   ],
+   "category": "Page-footer",
+   "text": "14—42758."
+  }
+ ]
+}

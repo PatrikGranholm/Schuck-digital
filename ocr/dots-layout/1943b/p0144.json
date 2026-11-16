@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 144,
+ "seconds": 25.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [327, 530, 1012, 566], \"category\": \"Section-header\", \"text\": \"SEKRETERARE OCH LEDAMÖTER.\"}, {\"bbox\": [144, 643, 1193, 1229], \"category\": \"Text\", \"text\": \"I den historik, som Hans Hildebrand föredrog vid akademiens 100-årsfest 1886, yttrade han om tiden 1803—1819, då Hallenberg var akademiens sekreterare: »En tid af passivitet inträdde. Denna gick därhän, att man afböjde de förslag till en lifaktigare verksamhet, som framstäldes.» Enligt Hildebrands mening berodde detta till en väsentlig del på sekreteraren: »Genom personliga anlag saknade han förmåga att i akademiens verksamhet ingjuta en lefvande anda.» Denna dom torde nog i bägge fallen vara den riktiga, ehuru denna passivitet börjat redan omedelbart efter Gustav III:s död, och ehuru skulden kanske låg icke blott hos Hallenberg utan även i den trötthet och den brist på initiativ och handlingskraft, som på nästan alla kulturområden i vårt land är utmärkande för tiden 1792 till 1810, i någon mån också på den organisation, som Gustav III givit akademien.\"}, {\"bbox\": [1204, 651, 1306, 708], \"category\": \"Text\", \"text\": \"Passivitets tid\"}, {\"bbox\": [144, 1228, 1189, 1813], \"category\": \"Text\", \"text\": \"Den främsta uppgift, som konungen förelagt denna, var att granska och giva förslag till medaljer och inskriptioner, och en dylik uppgift är ju i vår tids ögon ej vidare imponerande, snarare kanske — då man tänker på de många av akademien författade eller granskade gravinskrifterna — smått löjeväckande. Dylika ärenden fyllde emellertid de flesta av akademiens sammankomster. Den andra huvuduppgiften för akademien var de vittra tävlingarna. Men dessa voro — liksom Svenska akademiens samtida — mycket ofruktbara och framkallade inga mästerverk. Även allmänheten tyckes redan vid 1800-talets början ha förlorat sitt intresse för dem. Såsom en tredje uppgift hade efter Gustav III:s tid tillkommit akademiens skyldighet att examinera alla blivande kanslister, och att akademien här icke inlade någon starkare verksamhetslust, torde vara ursäktligt.\"}, {\"bbox\": [170, 1845, 259, 1867], \"category\": \"Page-footer\", \"text\": \"9—42758.\"}, {\"bbox\": [1115, 1848, 1183, 1885], \"category\": \"Page-footer\", \"text\": \"129\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    327,
+    530,
+    1012,
+    566
+   ],
+   "category": "Section-header",
+   "text": "SEKRETERARE OCH LEDAMÖTER."
+  },
+  {
+   "bbox": [
+    144,
+    643,
+    1193,
+    1229
+   ],
+   "category": "Text",
+   "text": "I den historik, som Hans Hildebrand föredrog vid akademiens 100-årsfest 1886, yttrade han om tiden 1803—1819, då Hallenberg var akademiens sekreterare: »En tid af passivitet inträdde. Denna gick därhän, att man afböjde de förslag till en lifaktigare verksamhet, som framstäldes.» Enligt Hildebrands mening berodde detta till en väsentlig del på sekreteraren: »Genom personliga anlag saknade han förmåga att i akademiens verksamhet ingjuta en lefvande anda.» Denna dom torde nog i bägge fallen vara den riktiga, ehuru denna passivitet börjat redan omedelbart efter Gustav III:s död, och ehuru skulden kanske låg icke blott hos Hallenberg utan även i den trötthet och den brist på initiativ och handlingskraft, som på nästan alla kulturområden i vårt land är utmärkande för tiden 1792 till 1810, i någon mån också på den organisation, som Gustav III givit akademien."
+  },
+  {
+   "bbox": [
+    1204,
+    651,
+    1306,
+    708
+   ],
+   "category": "Text",
+   "text": "Passivitets tid"
+  },
+  {
+   "bbox": [
+    144,
+    1228,
+    1189,
+    1813
+   ],
+   "category": "Text",
+   "text": "Den främsta uppgift, som konungen förelagt denna, var att granska och giva förslag till medaljer och inskriptioner, och en dylik uppgift är ju i vår tids ögon ej vidare imponerande, snarare kanske — då man tänker på de många av akademien författade eller granskade gravinskrifterna — smått löjeväckande. Dylika ärenden fyllde emellertid de flesta av akademiens sammankomster. Den andra huvuduppgiften för akademien var de vittra tävlingarna. Men dessa voro — liksom Svenska akademiens samtida — mycket ofruktbara och framkallade inga mästerverk. Även allmänheten tyckes redan vid 1800-talets början ha förlorat sitt intresse för dem. Såsom en tredje uppgift hade efter Gustav III:s tid tillkommit akademiens skyldighet att examinera alla blivande kanslister, och att akademien här icke inlade någon starkare verksamhetslust, torde vara ursäktligt."
+  },
+  {
+   "bbox": [
+    170,
+    1845,
+    259,
+    1867
+   ],
+   "category": "Page-footer",
+   "text": "9—42758."
+  },
+  {
+   "bbox": [
+    1115,
+    1848,
+    1183,
+    1885
+   ],
+   "category": "Page-footer",
+   "text": "129"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 167,
+ "seconds": 25.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [746, 275, 1271, 319], \"category\": \"Page-header\", \"text\": \"Hallenbergs tid 1803—1810\"}, {\"bbox\": [488, 346, 1532, 801], \"category\": \"Text\", \"text\": \"och Antikvitetsacademien dylik examen undergå; då bemälte grefve till följe häraf förekallades att först aflägga de wanliga prof i skrifvande och öfver uppgifna ämnen författa sina tankar både på latin och Fransyska, anmälte han sig icke hafva gjort de framsteg i latinska språket, att han på det samma kunde något skriftligen författa; han skref derföre endast på fransyska och befanns skrifva detta språk med lätthet och färdighet, ehuru icke till alla delar rätt efter Språkets Grammaticaliska fordringar; wid det derefter anställda muntliga förhör gaf han nöjaktiga svar på de frågor honom föreställdes öfver allmänna Folkrätten och Sedeläran samt saknade icke all kunskap i Swenska historien».\"}, {\"bbox\": [488, 805, 1532, 1549], \"category\": \"Text\", \"text\": \"Efter detta vittnesbörd om hans kunskaper ansåg sig kanslipresidenten icke kunna antaga honom till kanslist. Men Piper vände sig då ånyo till konungen och — enligt protokollet den 26 maj 1807 — med framgång: »Cantsli Presidenten Friherre Ehrenheim anmälte, att i anledning af den med Kongl. Kammar Junkaren Grefve Carl Fredrik Piper den 29 april 1806 anställde Cansli Examen och Academiens derom i underdånighet afgifna berättelse, att bemälte grefve och Kammar Junkare då själf anfört, det han icke gjort de framsteg i latinska språket, att han på det samma kunde något skriftligen författa, hade Hans Majestät Konungen täckts tillåta, att grefven finge genom uttydning af någon latinsk auctor visa, det han i någon mon öfvat sig i samma språk, och på de prof, han derå aflade, i Kongl. Maj:ts Cantzli antagas; och hade detta idag för en af Academiens Ledamöter blifvit gjordt, så att hans mindre kunskaper i detta språk numera icke ansågs böra ligga i wägen för dess ansökning.» Det latinska provet hade således redan på förhand godkänts av konungen, och akademien tillät sig därför icke något opassande omdöme om, hur det utfallit.\"}, {\"bbox\": [498, 1843, 566, 1881], \"category\": \"Page-footer\", \"text\": \"152\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    746,
+    275,
+    1271,
+    319
+   ],
+   "category": "Page-header",
+   "text": "Hallenbergs tid 1803—1810"
+  },
+  {
+   "bbox": [
+    488,
+    346,
+    1532,
+    801
+   ],
+   "category": "Text",
+   "text": "och Antikvitetsacademien dylik examen undergå; då bemälte grefve till följe häraf förekallades att först aflägga de wanliga prof i skrifvande och öfver uppgifna ämnen författa sina tankar både på latin och Fransyska, anmälte han sig icke hafva gjort de framsteg i latinska språket, att han på det samma kunde något skriftligen författa; han skref derföre endast på fransyska och befanns skrifva detta språk med lätthet och färdighet, ehuru icke till alla delar rätt efter Språkets Grammaticaliska fordringar; wid det derefter anställda muntliga förhör gaf han nöjaktiga svar på de frågor honom föreställdes öfver allmänna Folkrätten och Sedeläran samt saknade icke all kunskap i Swenska historien»."
+  },
+  {
+   "bbox": [
+    488,
+    805,
+    1532,
+    1549
+   ],
+   "category": "Text",
+   "text": "Efter detta vittnesbörd om hans kunskaper ansåg sig kanslipresidenten icke kunna antaga honom till kanslist. Men Piper vände sig då ånyo till konungen och — enligt protokollet den 26 maj 1807 — med framgång: »Cantsli Presidenten Friherre Ehrenheim anmälte, att i anledning af den med Kongl. Kammar Junkaren Grefve Carl Fredrik Piper den 29 april 1806 anställde Cansli Examen och Academiens derom i underdånighet afgifna berättelse, att bemälte grefve och Kammar Junkare då själf anfört, det han icke gjort de framsteg i latinska språket, att han på det samma kunde något skriftligen författa, hade Hans Majestät Konungen täckts tillåta, att grefven finge genom uttydning af någon latinsk auctor visa, det han i någon mon öfvat sig i samma språk, och på de prof, han derå aflade, i Kongl. Maj:ts Cantzli antagas; och hade detta idag för en af Academiens Ledamöter blifvit gjordt, så att hans mindre kunskaper i detta språk numera icke ansågs böra ligga i wägen för dess ansökning.» Det latinska provet hade således redan på förhand godkänts av konungen, och akademien tillät sig därför icke något opassande omdöme om, hur det utfallit."
+  },
+  {
+   "bbox": [
+    498,
+    1843,
+    566,
+    1881
+   ],
+   "category": "Page-footer",
+   "text": "152"
+  }
+ ]
+}

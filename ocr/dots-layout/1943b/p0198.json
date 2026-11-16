@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 198,
+ "seconds": 25.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [425, 561, 900, 597], \"category\": \"Section-header\", \"text\": \"FYND OCH FORNVÅRD.\"}, {\"bbox\": [137, 674, 1185, 1511], \"category\": \"Text\", \"text\": \"Genom Kanslikollegiets försvinnande 1801 inträdde den förändringen i akademiens ställning, att fyndärendena, som förut remitterats till kollegiet, nu remitterades till akademien. De anmälda fynden bestodo liksom förut i de flesta fall av mynt, och då Myntkabinettet nu ej längre stod under akademien utan under Överintendentsämbetet, borde — skulle man tycka — remisserna om myntinlösen nu ha gått till Överintendenten. Men så skedde icke, ej heller gingo de till riksantikvarien, utan till akademien, som således i fråga om inköpen fortfarande fungerade som en Myntkabinettet överordnad myndighet. Akademien hade emellertid, såsom vi erinra oss, intet anslag till fyndinlösen, och de erforderliga beloppen utgingo därför från »Kansliets» expensmedel, oftast på Kungl. Majts befallning, ibland på kanslipresidentens, någon gång, då det gällde småsummor, blott på akademiens eller riksantikvariens rekvisition. Den exakta storleken av kansliets expensanslag kan jag ej uppgiva, och att döma av räkenskaperna synes det något varierat under olika år, men hållit sig till omkring 3,500 riksdaler riksgäld om året. Av detta tog likväl akademien endast en ytterst obetydlig del i anspråk, ty fynden under dessa år voro varken många eller — kanske med ett undantag — särskilt dyrbara.\"}, {\"bbox\": [1214, 683, 1298, 741], \"category\": \"Text\", \"text\": \"Fyndens inlösen\"}, {\"bbox\": [139, 1509, 1184, 1803], \"category\": \"Text\", \"text\": \"1803 anmäldes endast ett fynd, som omtalas i protokollet för den 15 november: »Secreteraren uppläste en Remiss från Kongl. Maj:t af den 9 innevarande månad, hvarmedelst Konungen infordrat akademiens utlåtande om ett antal Silfverpenningar, fundna wid en gräfning på den så kallade Puolalabacken i Åbo, af hvilka penningar vice Landshöfdingen Palmfeldt insändt fjorton profstycken, och uppdrog academien åt Secreteraren att författa och af academiens nu\"}, {\"bbox\": [1196, 1519, 1315, 1552], \"category\": \"Text\", \"text\": \"Fynd 1803\"}, {\"bbox\": [1112, 1831, 1177, 1875], \"category\": \"Page-footer\", \"text\": \"183\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    425,
+    561,
+    900,
+    597
+   ],
+   "category": "Section-header",
+   "text": "FYND OCH FORNVÅRD."
+  },
+  {
+   "bbox": [
+    137,
+    674,
+    1185,
+    1511
+   ],
+   "category": "Text",
+   "text": "Genom Kanslikollegiets försvinnande 1801 inträdde den förändringen i akademiens ställning, att fyndärendena, som förut remitterats till kollegiet, nu remitterades till akademien. De anmälda fynden bestodo liksom förut i de flesta fall av mynt, och då Myntkabinettet nu ej längre stod under akademien utan under Överintendentsämbetet, borde — skulle man tycka — remisserna om myntinlösen nu ha gått till Överintendenten. Men så skedde icke, ej heller gingo de till riksantikvarien, utan till akademien, som således i fråga om inköpen fortfarande fungerade som en Myntkabinettet överordnad myndighet. Akademien hade emellertid, såsom vi erinra oss, intet anslag till fyndinlösen, och de erforderliga beloppen utgingo därför från »Kansliets» expensmedel, oftast på Kungl. Majts befallning, ibland på kanslipresidentens, någon gång, då det gällde småsummor, blott på akademiens eller riksantikvariens rekvisition. Den exakta storleken av kansliets expensanslag kan jag ej uppgiva, och att döma av räkenskaperna synes det något varierat under olika år, men hållit sig till omkring 3,500 riksdaler riksgäld om året. Av detta tog likväl akademien endast en ytterst obetydlig del i anspråk, ty fynden under dessa år voro varken många eller — kanske med ett undantag — särskilt dyrbara."
+  },
+  {
+   "bbox": [
+    1214,
+    683,
+    1298,
+    741
+   ],
+   "category": "Text",
+   "text": "Fyndens inlösen"
+  },
+  {
+   "bbox": [
+    139,
+    1509,
+    1184,
+    1803
+   ],
+   "category": "Text",
+   "text": "1803 anmäldes endast ett fynd, som omtalas i protokollet för den 15 november: »Secreteraren uppläste en Remiss från Kongl. Maj:t af den 9 innevarande månad, hvarmedelst Konungen infordrat akademiens utlåtande om ett antal Silfverpenningar, fundna wid en gräfning på den så kallade Puolalabacken i Åbo, af hvilka penningar vice Landshöfdingen Palmfeldt insändt fjorton profstycken, och uppdrog academien åt Secreteraren att författa och af academiens nu"
+  },
+  {
+   "bbox": [
+    1196,
+    1519,
+    1315,
+    1552
+   ],
+   "category": "Text",
+   "text": "Fynd 1803"
+  },
+  {
+   "bbox": [
+    1112,
+    1831,
+    1177,
+    1875
+   ],
+   "category": "Page-footer",
+   "text": "183"
+  }
+ ]
+}

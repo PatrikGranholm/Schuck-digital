@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 63,
+ "seconds": 27.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [757, 278, 1312, 325], \"category\": \"Page-header\", \"text\": \"Flintenbergs och Tihlemans tid\"}, {\"bbox\": [510, 346, 1557, 484], \"category\": \"Text\", \"text\": \"öfver det, som i forntiden sig tilldragit.» Efter avhörande av denna nedgörande kritik fann akademien, att avhandlingen icke förtjänade någon uppmärksamhet, än mindre någon belöning.\"}, {\"bbox\": [422, 495, 481, 525], \"category\": \"Text\", \"text\": \"1795\"}, {\"bbox\": [512, 471, 1559, 1351], \"category\": \"Text\", \"text\": \"Till tävlingen 1795 föreslog akademien tre nya ämnen, av vilka hertigen-regenten valde det första: Undersökning om den så kallade Odens penning, förvarad i det kungl. kabinettet. Den 20 januari förelåg visserligen ingen tävlingsskrift till bedömande, men till nästa sammanträde, den 27 januari, hade en inskickats, och då ingen konkurrent fanns, beslöt akademien att låta den komma under prövning samt utsåg Hallenberg och Adlerbeth till granskare. Vid sammanträdet den 10 februari upplästes skriften för akademien, som hade »det nöjet at hvad hufvudfrågan angick, finna en författare, som upfylt Dess fordringar och swarat emot Dess önskan. Detta nöje var så mycket mera tillfredsställande, som academien flere år saknat alt tillfälle att belöna någon författare, som arbetat i detta mödosamma och af forntidens mörker öfverhöljda ämne. De anmärkningar Herrar Cancellie Rådet [Adlerbeth] och Kongl. Secreteraren Hallenberg häröfver afgåfvo och hvilka derefter upplästes, innehållande sådana rättelser och förbättringar, dem afhandlingen nödvändigt fordrade så wäl i anseende till en mindre vårdad stil som vissa ställen, grundade på någre mindre godkände meningar, ansåg academien vara af den wigt, att de borde meddelas författaren.» Därefter bröt man namnsedeln, då författaren befanns vara medicine doktor Anders Blad.\"}, {\"bbox\": [517, 1345, 1561, 1816], \"category\": \"Text\", \"text\": \"Avhandlingens betydelse låg nog huvudsakligen i Blads skarpa opposition mot de äldre numismatikernas fantastiska attributioner av mynten. Man behöver blott läsa de rader, med vilka Blad inleder den följande undersökningen: »Det välmenta nit, som våra Antiquarier af 1600-talet ville visa för Fosterlandets utmärkt hederliga ålder, frambragte jemte mycken sanning et och annat irrbloss uti snillets verld. Man kunde icke längre tro, at Adam bodt på Kelkestad, Charon med sin färja legat vid Elfkarleby, Vandalerne härstammat ifrån Vendels socken och Alanerne från Åland. Men på denna falska rigtning fölgde snart en ännu sämre, hvarunder man förvände tekningen af en Kyrkogafvel på et mynt til Pipini namn och las\"}, {\"bbox\": [523, 1846, 572, 1891], \"category\": \"Page-footer\", \"text\": \"48\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    757,
+    278,
+    1312,
+    325
+   ],
+   "category": "Page-header",
+   "text": "Flintenbergs och Tihlemans tid"
+  },
+  {
+   "bbox": [
+    510,
+    346,
+    1557,
+    484
+   ],
+   "category": "Text",
+   "text": "öfver det, som i forntiden sig tilldragit.» Efter avhörande av denna nedgörande kritik fann akademien, att avhandlingen icke förtjänade någon uppmärksamhet, än mindre någon belöning."
+  },
+  {
+   "bbox": [
+    422,
+    495,
+    481,
+    525
+   ],
+   "category": "Text",
+   "text": "1795"
+  },
+  {
+   "bbox": [
+    512,
+    471,
+    1559,
+    1351
+   ],
+   "category": "Text",
+   "text": "Till tävlingen 1795 föreslog akademien tre nya ämnen, av vilka hertigen-regenten valde det första: Undersökning om den så kallade Odens penning, förvarad i det kungl. kabinettet. Den 20 januari förelåg visserligen ingen tävlingsskrift till bedömande, men till nästa sammanträde, den 27 januari, hade en inskickats, och då ingen konkurrent fanns, beslöt akademien att låta den komma under prövning samt utsåg Hallenberg och Adlerbeth till granskare. Vid sammanträdet den 10 februari upplästes skriften för akademien, som hade »det nöjet at hvad hufvudfrågan angick, finna en författare, som upfylt Dess fordringar och swarat emot Dess önskan. Detta nöje var så mycket mera tillfredsställande, som academien flere år saknat alt tillfälle att belöna någon författare, som arbetat i detta mödosamma och af forntidens mörker öfverhöljda ämne. De anmärkningar Herrar Cancellie Rådet [Adlerbeth] och Kongl. Secreteraren Hallenberg häröfver afgåfvo och hvilka derefter upplästes, innehållande sådana rättelser och förbättringar, dem afhandlingen nödvändigt fordrade så wäl i anseende till en mindre vårdad stil som vissa ställen, grundade på någre mindre godkände meningar, ansåg academien vara af den wigt, att de borde meddelas författaren.» Därefter bröt man namnsedeln, då författaren befanns vara medicine doktor Anders Blad."
+  },
+  {
+   "bbox": [
+    517,
+    1345,
+    1561,
+    1816
+   ],
+   "category": "Text",
+   "text": "Avhandlingens betydelse låg nog huvudsakligen i Blads skarpa opposition mot de äldre numismatikernas fantastiska attributioner av mynten. Man behöver blott läsa de rader, med vilka Blad inleder den följande undersökningen: »Det välmenta nit, som våra Antiquarier af 1600-talet ville visa för Fosterlandets utmärkt hederliga ålder, frambragte jemte mycken sanning et och annat irrbloss uti snillets verld. Man kunde icke längre tro, at Adam bodt på Kelkestad, Charon med sin färja legat vid Elfkarleby, Vandalerne härstammat ifrån Vendels socken och Alanerne från Åland. Men på denna falska rigtning fölgde snart en ännu sämre, hvarunder man förvände tekningen af en Kyrkogafvel på et mynt til Pipini namn och las"
+  },
+  {
+   "bbox": [
+    523,
+    1846,
+    572,
+    1891
+   ],
+   "category": "Page-footer",
+   "text": "48"
+  }
+ ]
+}

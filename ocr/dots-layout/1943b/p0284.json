@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 284,
+ "seconds": 20.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [435, 272, 852, 315], \"category\": \"Section-header\", \"text\": \"Medaljer och tävlingar\"}, {\"bbox\": [124, 341, 1164, 641], \"category\": \"Text\", \"text\": \"bandet av akademiens Handlingar. Då nu prisfrågan nöjaktigt besvarats, utsattes den 3 april ett nytt ämne till 1811 års tävlan: Sveriges Kammarverk under Konungarne Erik XIV:s, Johan III:s, Sigismunds och Carl IX:s regeringar. Men ehuru detta ämne fick stå kvar under hela denna tid, till och med 1818, lockade det icke en enda tävlande, och tävlingen 1810 blev den enda under denna tid, vid vilken ett pris i historia utdelades.\"}, {\"bbox\": [126, 634, 1166, 1347], \"category\": \"Text\", \"text\": \"Något bättre avlopp tävlingen i antikviteter, så till vida att akademien tre gånger fick bedöma någon ingiven skrift. Resultatet blev dock detsamma: att blott ett pris kunde under hela perioden utdelas. Tävlingsämnet 1810 var ganska orimligt och röjer akademiens efterblivenhet just i antikviteter. Det hade utsatts redan till 1807 års tävlan och lydde: Undersökning om Ivarska och Sigurdska konungätten i Sverige, hade sedan upprepats 1808 och 1809, men under dessa tre år hade endast en skrift inkommit, vilken underkänts. 1810 blev resultatet: ingen tävlingsskrift alls, vilket icke hindrade akademien att låta ämnet stå kvar även till 1811. När resultatet även då blev detsamma, beslöt akademien att till 1812 års tävlan välja ett nytt ämne och ingav då till konungen ett förslag på tre. Det första var någorlunda möjligt: Afhandling om undervisningssättet under Catholska tiden. Men konungen valde det i andra rummet uppförda, vilket var fullt ut lika orimligt som den Ivarska och Sigurdska ätten, nämligen Undersökning om folkmängden i Sverige före digerdöden.\"}, {\"bbox\": [127, 1343, 1167, 1804], \"category\": \"Text\", \"text\": \"Till den 20 januari 1812 inkom verkligen en tävlingsskrift, behandlande det nya ämnet, vilken skrift för granskning överlämnades till Marks von Würtenberg och Rosenhane. Uppläsningen i akademien började den 4 februari, fortsattes och avslutades den 11, då även Rosenhane föredrog sitt yttrande: Ehuru författaren »gifvit prof af en vidsträckt beläsenhet måste man å den andra [sidan] tillstå, att hans afhandling icke på minsta sätt vittnar om urskillning eller sann kritik. Hvad man kallar la Philosophie de l'Histoire är honom fullkomligen obekant. Hans arbete är en rudis indigestaque moles. Han anförer saker, som icke i något afseende hörer till hans ämne. Han förblandar tider och personer. Egentligen anförer han\"}, {\"bbox\": [1176, 637, 1305, 665], \"category\": \"Text\", \"text\": \"Antikviteter\"}, {\"bbox\": [1097, 1831, 1164, 1876], \"category\": \"Page-footer\", \"text\": \"267\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    435,
+    272,
+    852,
+    315
+   ],
+   "category": "Section-header",
+   "text": "Medaljer och tävlingar"
+  },
+  {
+   "bbox": [
+    124,
+    341,
+    1164,
+    641
+   ],
+   "category": "Text",
+   "text": "bandet av akademiens Handlingar. Då nu prisfrågan nöjaktigt besvarats, utsattes den 3 april ett nytt ämne till 1811 års tävlan: Sveriges Kammarverk under Konungarne Erik XIV:s, Johan III:s, Sigismunds och Carl IX:s regeringar. Men ehuru detta ämne fick stå kvar under hela denna tid, till och med 1818, lockade det icke en enda tävlande, och tävlingen 1810 blev den enda under denna tid, vid vilken ett pris i historia utdelades."
+  },
+  {
+   "bbox": [
+    126,
+    634,
+    1166,
+    1347
+   ],
+   "category": "Text",
+   "text": "Något bättre avlopp tävlingen i antikviteter, så till vida att akademien tre gånger fick bedöma någon ingiven skrift. Resultatet blev dock detsamma: att blott ett pris kunde under hela perioden utdelas. Tävlingsämnet 1810 var ganska orimligt och röjer akademiens efterblivenhet just i antikviteter. Det hade utsatts redan till 1807 års tävlan och lydde: Undersökning om Ivarska och Sigurdska konungätten i Sverige, hade sedan upprepats 1808 och 1809, men under dessa tre år hade endast en skrift inkommit, vilken underkänts. 1810 blev resultatet: ingen tävlingsskrift alls, vilket icke hindrade akademien att låta ämnet stå kvar även till 1811. När resultatet även då blev detsamma, beslöt akademien att till 1812 års tävlan välja ett nytt ämne och ingav då till konungen ett förslag på tre. Det första var någorlunda möjligt: Afhandling om undervisningssättet under Catholska tiden. Men konungen valde det i andra rummet uppförda, vilket var fullt ut lika orimligt som den Ivarska och Sigurdska ätten, nämligen Undersökning om folkmängden i Sverige före digerdöden."
+  },
+  {
+   "bbox": [
+    127,
+    1343,
+    1167,
+    1804
+   ],
+   "category": "Text",
+   "text": "Till den 20 januari 1812 inkom verkligen en tävlingsskrift, behandlande det nya ämnet, vilken skrift för granskning överlämnades till Marks von Würtenberg och Rosenhane. Uppläsningen i akademien började den 4 februari, fortsattes och avslutades den 11, då även Rosenhane föredrog sitt yttrande: Ehuru författaren »gifvit prof af en vidsträckt beläsenhet måste man å den andra [sidan] tillstå, att hans afhandling icke på minsta sätt vittnar om urskillning eller sann kritik. Hvad man kallar la Philosophie de l'Histoire är honom fullkomligen obekant. Hans arbete är en rudis indigestaque moles. Han anförer saker, som icke i något afseende hörer till hans ämne. Han förblandar tider och personer. Egentligen anförer han"
+  },
+  {
+   "bbox": [
+    1176,
+    637,
+    1305,
+    665
+   ],
+   "category": "Text",
+   "text": "Antikviteter"
+  },
+  {
+   "bbox": [
+    1097,
+    1831,
+    1164,
+    1876
+   ],
+   "category": "Page-footer",
+   "text": "267"
+  }
+ ]
+}

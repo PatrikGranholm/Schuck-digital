@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 16,
+ "seconds": 26.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [335, 569, 977, 604], \"category\": \"Section-header\", \"text\": \"AMANUENS OCH SEKRETERARE.\"}, {\"bbox\": [138, 682, 1173, 1133], \"category\": \"Text\", \"text\": \"Av de två ämbetsmän, som voro uppförda på Vitterhets Historie och Antikvitetsakademiens stat, sekreteraren och amanuensen, hade den senare, Conrad Broman, kort före Adlerbeths avgång lämnat sin plats i akademien; den 4 juli 1792 hade han nämligen stigit till rikshistoriograf. Det fanns dock redan förut två rikshistoriografer, Schönberg och Hallenberg, men blott *en* till ämbetet hörande lön, och Broman fick därför, till dess att denna blivit ledig, behålla sin gamla lön som akademiens amanuens (100 Rdr.).¹ Det blev således akademien, som fick avlöna den nye rikshistoriografen, liksom den strax därefter fick avlöna det nya Kungl. Museets Garde des médailles.\"}, {\"bbox\": [1188, 692, 1311, 748], \"category\": \"Text\", \"text\": \"Amanuensen\\nBroman\"}, {\"bbox\": [134, 1141, 1170, 1725], \"category\": \"Text\", \"text\": \"Då emellertid amanuenslönen en gång kunde bliva ledig efter Broman, hade platsen som amanuens likväl en viss lockelse, och såsom sökande till denna anmälde sig e. o. kanslisten i Riksarkivet Olof Sundel, 28 år gammal och en ganska duglig arkivman — han steg sedan till riksarkivarie (1822) och blev 1819 ledamot av Vitterhets Historie och Antikvitetsakademien. I akademien föredrogs hans ansökning den 20 november 1792, och av hans bifogade meritlista fann akademien, »att Sundell 1791 blifvit promoverad till Philosophiæ Magister i Upsala och samma år antagen till Extra Cantzlist i Riks Archivet, och som han jemte dessa för honom talande omständigheter tillika ägde sin förmans witsord om insigter och det goda upförande, som giort honom fördelaktigt känd, så biföll acad:n hans ansökning i så måtto, att han i underdånighet föreslås till nämda amanuenssysslan, som dock, till dess Kongl. Secreteraren Broman\"}, {\"bbox\": [1185, 1151, 1309, 1207], \"category\": \"Text\", \"text\": \"Amanuensen\\nSundel\"}, {\"bbox\": [134, 1741, 1166, 1802], \"category\": \"Footnote\", \"text\": \"¹ Rikshistoriograflönen fick han aldrig. Den innehades av Schönberg, som avled 1811, och Broman dog redan 1800.\"}, {\"bbox\": [1144, 1845, 1163, 1880], \"category\": \"Page-footer\", \"text\": \"3\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    335,
+    569,
+    977,
+    604
+   ],
+   "category": "Section-header",
+   "text": "AMANUENS OCH SEKRETERARE."
+  },
+  {
+   "bbox": [
+    138,
+    682,
+    1173,
+    1133
+   ],
+   "category": "Text",
+   "text": "Av de två ämbetsmän, som voro uppförda på Vitterhets Historie och Antikvitetsakademiens stat, sekreteraren och amanuensen, hade den senare, Conrad Broman, kort före Adlerbeths avgång lämnat sin plats i akademien; den 4 juli 1792 hade han nämligen stigit till rikshistoriograf. Det fanns dock redan förut två rikshistoriografer, Schönberg och Hallenberg, men blott *en* till ämbetet hörande lön, och Broman fick därför, till dess att denna blivit ledig, behålla sin gamla lön som akademiens amanuens (100 Rdr.).¹ Det blev således akademien, som fick avlöna den nye rikshistoriografen, liksom den strax därefter fick avlöna det nya Kungl. Museets Garde des médailles."
+  },
+  {
+   "bbox": [
+    1188,
+    692,
+    1311,
+    748
+   ],
+   "category": "Text",
+   "text": "Amanuensen\nBroman"
+  },
+  {
+   "bbox": [
+    134,
+    1141,
+    1170,
+    1725
+   ],
+   "category": "Text",
+   "text": "Då emellertid amanuenslönen en gång kunde bliva ledig efter Broman, hade platsen som amanuens likväl en viss lockelse, och såsom sökande till denna anmälde sig e. o. kanslisten i Riksarkivet Olof Sundel, 28 år gammal och en ganska duglig arkivman — han steg sedan till riksarkivarie (1822) och blev 1819 ledamot av Vitterhets Historie och Antikvitetsakademien. I akademien föredrogs hans ansökning den 20 november 1792, och av hans bifogade meritlista fann akademien, »att Sundell 1791 blifvit promoverad till Philosophiæ Magister i Upsala och samma år antagen till Extra Cantzlist i Riks Archivet, och som han jemte dessa för honom talande omständigheter tillika ägde sin förmans witsord om insigter och det goda upförande, som giort honom fördelaktigt känd, så biföll acad:n hans ansökning i så måtto, att han i underdånighet föreslås till nämda amanuenssysslan, som dock, till dess Kongl. Secreteraren Broman"
+  },
+  {
+   "bbox": [
+    1185,
+    1151,
+    1309,
+    1207
+   ],
+   "category": "Text",
+   "text": "Amanuensen\nSundel"
+  },
+  {
+   "bbox": [
+    134,
+    1741,
+    1166,
+    1802
+   ],
+   "category": "Footnote",
+   "text": "¹ Rikshistoriograflönen fick han aldrig. Den innehades av Schönberg, som avled 1811, och Broman dog redan 1800."
+  },
+  {
+   "bbox": [
+    1144,
+    1845,
+    1163,
+    1880
+   ],
+   "category": "Page-footer",
+   "text": "3"
+  }
+ ]
+}

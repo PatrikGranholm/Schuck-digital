@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 128,
+ "seconds": 24.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [397, 268, 863, 311], \"category\": \"Section-header\", \"text\": \"Fynden och kanslikollegiet\"}, {\"bbox\": [110, 339, 1152, 1218], \"category\": \"Text\", \"text\": \"skrifterna av föregående examensbestämmelser, men som akademien »fann dessa Författningar icke omnämna de kunskaper, som af de sökande böra fordras, ansåg Hon nödigt att hos Konungen anhålla om föreskrift härutinnan. Och anmodades Herr Landshöfdingstein samt Cantzli Rådet Baron Rosenhane att med författande af ett betänkande i detta ämne Academien biträda.» Rosenhanes och Rosensteins utlåtande — om det över huvud avgivits — finnes ej bevarat, och någon kunglig resolution om kunskapsfordringarna tyckes icke ha blivit utfärdad. I varje fall fick akademien börja att examinera, innan någon dylik blivit utfärdad. Redan i juni 1801 anhöllo nämligen två sökande, Krutmeyer och Stiernstolpe, som önskade bliva e. o. kanslister i Krigsexpeditionen, att så fort som möjligt bliva examinerade. Den 16 juni beslöt akademien, att de »skulle tillsägas att Fredag klockan half Elfva f. m. sig i academien infinna till Skrifning på Latin samt Fransyska, och åtog sig Herr Landshöfdingstein tillika med Herr Cantzli Rådet Baron Rosenhane härvid vara tillstädes att upgifva de ämnen, hvaröfver de sökande borde skriva och att med deras förhörande nästa Tisdag den 23 i denna månad academien biträda». Den 23 meddelades, att examen, både den skriftliga och den muntliga, gått lyckligt, vilket för kanslipresidenten skulle anmälas.\"}, {\"bbox\": [114, 1216, 1152, 1425], \"category\": \"Text\", \"text\": \"Nästa examen följde den 22 juli, och sedan dugga de tätt på varandra. Att döma därav att — åtminstone under denna tid — ingen enda examinand blev underkänd, tyckes pröfningen icke ha varit vidare »rigorosum». Men som examensanstalt för kansliet fortfor akademien att fungera ända till 1865.\"}, {\"bbox\": [142, 1827, 228, 1854], \"category\": \"Page-footer\", \"text\": \"8-42758.\"}, {\"bbox\": [1082, 1837, 1146, 1874], \"category\": \"Page-footer\", \"text\": \"113\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    397,
+    268,
+    863,
+    311
+   ],
+   "category": "Section-header",
+   "text": "Fynden och kanslikollegiet"
+  },
+  {
+   "bbox": [
+    110,
+    339,
+    1152,
+    1218
+   ],
+   "category": "Text",
+   "text": "skrifterna av föregående examensbestämmelser, men som akademien »fann dessa Författningar icke omnämna de kunskaper, som af de sökande böra fordras, ansåg Hon nödigt att hos Konungen anhålla om föreskrift härutinnan. Och anmodades Herr Landshöfdingstein samt Cantzli Rådet Baron Rosenhane att med författande af ett betänkande i detta ämne Academien biträda.» Rosenhanes och Rosensteins utlåtande — om det över huvud avgivits — finnes ej bevarat, och någon kunglig resolution om kunskapsfordringarna tyckes icke ha blivit utfärdad. I varje fall fick akademien börja att examinera, innan någon dylik blivit utfärdad. Redan i juni 1801 anhöllo nämligen två sökande, Krutmeyer och Stiernstolpe, som önskade bliva e. o. kanslister i Krigsexpeditionen, att så fort som möjligt bliva examinerade. Den 16 juni beslöt akademien, att de »skulle tillsägas att Fredag klockan half Elfva f. m. sig i academien infinna till Skrifning på Latin samt Fransyska, och åtog sig Herr Landshöfdingstein tillika med Herr Cantzli Rådet Baron Rosenhane härvid vara tillstädes att upgifva de ämnen, hvaröfver de sökande borde skriva och att med deras förhörande nästa Tisdag den 23 i denna månad academien biträda». Den 23 meddelades, att examen, både den skriftliga och den muntliga, gått lyckligt, vilket för kanslipresidenten skulle anmälas."
+  },
+  {
+   "bbox": [
+    114,
+    1216,
+    1152,
+    1425
+   ],
+   "category": "Text",
+   "text": "Nästa examen följde den 22 juli, och sedan dugga de tätt på varandra. Att döma därav att — åtminstone under denna tid — ingen enda examinand blev underkänd, tyckes pröfningen icke ha varit vidare »rigorosum». Men som examensanstalt för kansliet fortfor akademien att fungera ända till 1865."
+  },
+  {
+   "bbox": [
+    142,
+    1827,
+    228,
+    1854
+   ],
+   "category": "Page-footer",
+   "text": "8-42758."
+  },
+  {
+   "bbox": [
+    1082,
+    1837,
+    1146,
+    1874
+   ],
+   "category": "Page-footer",
+   "text": "113"
+  }
+ ]
+}

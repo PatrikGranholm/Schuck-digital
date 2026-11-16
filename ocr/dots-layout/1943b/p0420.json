@@ -1,0 +1,128 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 420,
+ "seconds": 29.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [119, 391, 633, 1051], \"category\": \"Picture\"}, {\"bbox\": [121, 1067, 633, 1105], \"category\": \"Caption\", \"text\": \"CARL BIRGER RUTSTRÖM\"}, {\"bbox\": [127, 1113, 626, 1176], \"category\": \"Text\", \"text\": \"Oljemålning av Per Krafft d. y.\\n(Vitterhets Historie och Antikvitets Akademien)\"}, {\"bbox\": [739, 388, 1259, 1048], \"category\": \"Picture\"}, {\"bbox\": [807, 1067, 1193, 1105], \"category\": \"Caption\", \"text\": \"JAKOB ADLERBETH\"}, {\"bbox\": [837, 1111, 1163, 1172], \"category\": \"Text\", \"text\": \"Oljemålning av okänd konstnär\\n(i enskild ägo, foto S. P. A.)\"}, {\"bbox\": [117, 1216, 631, 1884], \"category\": \"Picture\"}, {\"bbox\": [106, 1903, 651, 1939], \"category\": \"Caption\", \"text\": \"ADOLF LUDVIG STIERNELD\"}, {\"bbox\": [224, 1948, 534, 2011], \"category\": \"Text\", \"text\": \"Pastell av Gustaf Lundberg\\n(i enskild ägo, foto S. P. A.)\"}, {\"bbox\": [743, 1208, 1257, 1884], \"category\": \"Picture\"}, {\"bbox\": [758, 1899, 1248, 1934], \"category\": \"Caption\", \"text\": \"PEHR ADAM WALLMARK\"}, {\"bbox\": [915, 1946, 1093, 1972], \"category\": \"Text\", \"text\": \"Samtida träsnitt.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    119,
+    391,
+    633,
+    1051
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    121,
+    1067,
+    633,
+    1105
+   ],
+   "category": "Caption",
+   "text": "CARL BIRGER RUTSTRÖM"
+  },
+  {
+   "bbox": [
+    127,
+    1113,
+    626,
+    1176
+   ],
+   "category": "Text",
+   "text": "Oljemålning av Per Krafft d. y.\n(Vitterhets Historie och Antikvitets Akademien)"
+  },
+  {
+   "bbox": [
+    739,
+    388,
+    1259,
+    1048
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    807,
+    1067,
+    1193,
+    1105
+   ],
+   "category": "Caption",
+   "text": "JAKOB ADLERBETH"
+  },
+  {
+   "bbox": [
+    837,
+    1111,
+    1163,
+    1172
+   ],
+   "category": "Text",
+   "text": "Oljemålning av okänd konstnär\n(i enskild ägo, foto S. P. A.)"
+  },
+  {
+   "bbox": [
+    117,
+    1216,
+    631,
+    1884
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    106,
+    1903,
+    651,
+    1939
+   ],
+   "category": "Caption",
+   "text": "ADOLF LUDVIG STIERNELD"
+  },
+  {
+   "bbox": [
+    224,
+    1948,
+    534,
+    2011
+   ],
+   "category": "Text",
+   "text": "Pastell av Gustaf Lundberg\n(i enskild ägo, foto S. P. A.)"
+  },
+  {
+   "bbox": [
+    743,
+    1208,
+    1257,
+    1884
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    758,
+    1899,
+    1248,
+    1934
+   ],
+   "category": "Caption",
+   "text": "PEHR ADAM WALLMARK"
+  },
+  {
+   "bbox": [
+    915,
+    1946,
+    1093,
+    1972
+   ],
+   "category": "Text",
+   "text": "Samtida träsnitt."
+  }
+ ]
+}

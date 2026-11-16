@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 178,
+ "seconds": 28.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [560, 280, 787, 323], \"category\": \"Section-header\", \"text\": \"Tävlingarna\"}, {\"bbox\": [141, 351, 1177, 435], \"category\": \"Text\", \"text\": \"Baron Rosenblad, och Författaren befanns wara: Görges, Professor an der Ritter-academie in Lüneburg.»\"}, {\"bbox\": [141, 435, 1177, 518], \"category\": \"Text\", \"text\": \"Görges' avhandling trycktes sedan, på latin, i nionde bandet av Handlingarna.\"}, {\"bbox\": [139, 518, 1179, 893], \"category\": \"Text\", \"text\": \"Till ämne för 1807 antogs: Jemförelse emellan de Latinska Författare af gyllene åldren och Silfveråldren, och denna gång fick akademien mottaga blott en enda tävlingsskrift, naturligtvis på latin. Den upplästes vid ett par sammanträden, men utsattes den 3 mars för en skarp kritik, varefter akademien beslöt, att någon belöning icke kunde komma ifråga. 1808 och 1809 blev utgången ännu sämre, ty under dessa år fick akademien alls icke någon tävlingsskrift på främmande språk att bedöma. Trots de två prisen hade således denna tävling slagit sämre ut än den i historia.\"}, {\"bbox\": [1197, 535, 1281, 595], \"category\": \"Text\", \"text\": \"1807—1809\"}, {\"bbox\": [137, 893, 1177, 1814], \"category\": \"Text\", \"text\": \"Ännu mera nedslående blev resultatet av akademiens tredje tävlan, i antikviteter — delvis dock beroende på de oftast olämpliga ämnena. 1803 var detta: Manufacturernas och Handtverkeriernas ålder, Skråordningar och beskaffenhet under hedniska och katolska tiden. Detta år fick akademien alls icke mottaga någon tävlingsskrift, ej heller 1804, och för 1805 utsattes därför ett nytt ämne: Fullständig förteckning på de Isländska Sagor, som röra Nordiska Historien med uppgift om deras ålder och författare — ett val av ämne, som antyder akademiens egen obekantskap med dess vidd och svårighet. Resultatet blev också detsamma som förut: ingen skrift. Ämnet upprepades därför för 1806 års tävlan, och nu mottog akademien verkligen en skrift, som för granskning överlämnades till Rosenhane och Flintenberg. Vid sammanträdet den 11 mars anförde de, »att ehuru Författaren gjort sig mycken möda att hopsamla underrättelser om dessa sagor och tycktes äga flera rätta och grundade idéer om förenämnda Sagors upphof och wärde, så saknade dock denna skrift nog mycket i method och afhandlingssätt för att uppfylla K. academiens syftemål och den lärda werldens önskan; de medgåfvo, att detta ämne är alltför widsträckt, då en ny detail fordras om hvarje tryckt och otryckt Sagas innehåll och beskaffenhet, att om K. akademien å nyo utsätter till täflings samma ämne, kunde det derför inskränkas till en Critisk förteckning öfver de i Sverige utgifne Isländ-\"}, {\"bbox\": [1191, 910, 1317, 1001], \"category\": \"Text\", \"text\": \"Antikviteter 1803—1809\"}, {\"bbox\": [1106, 1845, 1169, 1889], \"category\": \"Page-footer\", \"text\": \"163\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    560,
+    280,
+    787,
+    323
+   ],
+   "category": "Section-header",
+   "text": "Tävlingarna"
+  },
+  {
+   "bbox": [
+    141,
+    351,
+    1177,
+    435
+   ],
+   "category": "Text",
+   "text": "Baron Rosenblad, och Författaren befanns wara: Görges, Professor an der Ritter-academie in Lüneburg.»"
+  },
+  {
+   "bbox": [
+    141,
+    435,
+    1177,
+    518
+   ],
+   "category": "Text",
+   "text": "Görges' avhandling trycktes sedan, på latin, i nionde bandet av Handlingarna."
+  },
+  {
+   "bbox": [
+    139,
+    518,
+    1179,
+    893
+   ],
+   "category": "Text",
+   "text": "Till ämne för 1807 antogs: Jemförelse emellan de Latinska Författare af gyllene åldren och Silfveråldren, och denna gång fick akademien mottaga blott en enda tävlingsskrift, naturligtvis på latin. Den upplästes vid ett par sammanträden, men utsattes den 3 mars för en skarp kritik, varefter akademien beslöt, att någon belöning icke kunde komma ifråga. 1808 och 1809 blev utgången ännu sämre, ty under dessa år fick akademien alls icke någon tävlingsskrift på främmande språk att bedöma. Trots de två prisen hade således denna tävling slagit sämre ut än den i historia."
+  },
+  {
+   "bbox": [
+    1197,
+    535,
+    1281,
+    595
+   ],
+   "category": "Text",
+   "text": "1807—1809"
+  },
+  {
+   "bbox": [
+    137,
+    893,
+    1177,
+    1814
+   ],
+   "category": "Text",
+   "text": "Ännu mera nedslående blev resultatet av akademiens tredje tävlan, i antikviteter — delvis dock beroende på de oftast olämpliga ämnena. 1803 var detta: Manufacturernas och Handtverkeriernas ålder, Skråordningar och beskaffenhet under hedniska och katolska tiden. Detta år fick akademien alls icke mottaga någon tävlingsskrift, ej heller 1804, och för 1805 utsattes därför ett nytt ämne: Fullständig förteckning på de Isländska Sagor, som röra Nordiska Historien med uppgift om deras ålder och författare — ett val av ämne, som antyder akademiens egen obekantskap med dess vidd och svårighet. Resultatet blev också detsamma som förut: ingen skrift. Ämnet upprepades därför för 1806 års tävlan, och nu mottog akademien verkligen en skrift, som för granskning överlämnades till Rosenhane och Flintenberg. Vid sammanträdet den 11 mars anförde de, »att ehuru Författaren gjort sig mycken möda att hopsamla underrättelser om dessa sagor och tycktes äga flera rätta och grundade idéer om förenämnda Sagors upphof och wärde, så saknade dock denna skrift nog mycket i method och afhandlingssätt för att uppfylla K. academiens syftemål och den lärda werldens önskan; de medgåfvo, att detta ämne är alltför widsträckt, då en ny detail fordras om hvarje tryckt och otryckt Sagas innehåll och beskaffenhet, att om K. akademien å nyo utsätter till täflings samma ämne, kunde det derför inskränkas till en Critisk förteckning öfver de i Sverige utgifne Isländ-"
+  },
+  {
+   "bbox": [
+    1191,
+    910,
+    1317,
+    1001
+   ],
+   "category": "Text",
+   "text": "Antikviteter 1803—1809"
+  },
+  {
+   "bbox": [
+    1106,
+    1845,
+    1169,
+    1889
+   ],
+   "category": "Page-footer",
+   "text": "163"
+  }
+ ]
+}

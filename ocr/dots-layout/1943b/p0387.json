@@ -1,0 +1,172 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 387,
+ "seconds": 23.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [786, 276, 1304, 320], \"category\": \"Section-header\", \"text\": \"## Hallenbergs tid 1810—1819\"}, {\"bbox\": [926, 346, 1157, 379], \"category\": \"Section-header\", \"text\": \"### Willands Härad.\"}, {\"bbox\": [525, 384, 1562, 500], \"category\": \"Text\", \"text\": \"Fjelkinge 2ne *Stengrafvar* norr om Landsvägen till Christianstad.\\nVid Blekingska gränsen Sissebäck norr om Landsvägen till Sölfvitsborg,\\n*Widrik Werlandssons stensatta graf.*\"}, {\"bbox\": [886, 519, 1196, 558], \"category\": \"Section-header\", \"text\": \"### Wästra Göinge Härad.\"}, {\"bbox\": [528, 555, 1564, 712], \"category\": \"Text\", \"text\": \"Mällby Socken. De *reste Jätte Stenarne* vid Sösdala på Wetteryds hed.\\nWästra Häglinge. *Hjeltestenarne 42 stycken, uppreste* nordan ifrån Byen.\\n*Ruinerne* efter klostret och den dertill hörande *underjordiska gång*.\\nÖstra Häglinge, de *reste jättestenarne* på Grytsbjer.\"}, {\"bbox\": [899, 727, 1189, 767], \"category\": \"Section-header\", \"text\": \"### Östra Göinge Härad.\"}, {\"bbox\": [528, 767, 1564, 814], \"category\": \"Text\", \"text\": \"I Broby *en Tings Cirkel*, samt *reste stenar* emellan Broby och Marklunda.\"}, {\"bbox\": [913, 829, 1172, 863], \"category\": \"Section-header\", \"text\": \"### Södra Åsbo Härad.\"}, {\"bbox\": [529, 869, 1459, 950], \"category\": \"Text\", \"text\": \"Ansås Socken. *Starkodders graf* vid Vegeholm och Utwälinge Bro.\\n*Herning Broks graf* nära Herningeby och Spannarp.\"}, {\"bbox\": [950, 967, 1138, 1007], \"category\": \"Section-header\", \"text\": \"### Bjära Härad.\"}, {\"bbox\": [529, 1006, 1285, 1093], \"category\": \"Text\", \"text\": \"Grefvie Socken. De *resta Jättestenar* vid Ängelsbäck.\\nLund den 8de September 1814\"}, {\"bbox\": [940, 1099, 1156, 1138], \"category\": \"Text\", \"text\": \"N. H. Sjöborg\"}, {\"bbox\": [871, 1144, 1220, 1233], \"category\": \"Text\", \"text\": \"Professor i historia och i nåder\\nförordnad att hafva vård och\\ninseend öfver Rikets Antiquiteter.»\"}, {\"bbox\": [530, 1262, 1573, 1687], \"category\": \"Text\", \"text\": \"Dylika fridlysningar påbjöd han sedan nästan i massa. Men med den »berättelse», som han enligt det Kungl. brevet den 11 maj 1814 årligen skulle ingiva till akademien, dröjde det. Först den 16 januari 1816 »Upviste Statsrådet Friherre Adlerbeth Antekningar öfver Antiquiteter, lämnade till honom af Professor Sjöborg, hwar-öfver Friherre Adlerbeth äfwen afgaf det skriftliga utlåtande, som wid detta Protokoll är bifogadt. Själfwa Anteckningarna lofvade Friherre Adlerbeth till Professor Sjöborg återställa.» Berättelsen återlämnades således till Sjöborg och finnes ej i akademiens arkiv. Men Adlerbeths yttrande har bevarats och lyder:\"}, {\"bbox\": [533, 1680, 1574, 1813], \"category\": \"Text\", \"text\": \"»På Herr Professor N. H. Sjöborgs begäran får jag den äran att till akademien aflemna en af honom författad Redogörelse för de undersökningar han till följe af Konungens nådiga Instruction af d.\"}, {\"bbox\": [539, 1842, 608, 1889], \"category\": \"Page-footer\", \"text\": \"368\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    786,
+    276,
+    1304,
+    320
+   ],
+   "category": "Section-header",
+   "text": "## Hallenbergs tid 1810—1819"
+  },
+  {
+   "bbox": [
+    926,
+    346,
+    1157,
+    379
+   ],
+   "category": "Section-header",
+   "text": "### Willands Härad."
+  },
+  {
+   "bbox": [
+    525,
+    384,
+    1562,
+    500
+   ],
+   "category": "Text",
+   "text": "Fjelkinge 2ne *Stengrafvar* norr om Landsvägen till Christianstad.\nVid Blekingska gränsen Sissebäck norr om Landsvägen till Sölfvitsborg,\n*Widrik Werlandssons stensatta graf.*"
+  },
+  {
+   "bbox": [
+    886,
+    519,
+    1196,
+    558
+   ],
+   "category": "Section-header",
+   "text": "### Wästra Göinge Härad."
+  },
+  {
+   "bbox": [
+    528,
+    555,
+    1564,
+    712
+   ],
+   "category": "Text",
+   "text": "Mällby Socken. De *reste Jätte Stenarne* vid Sösdala på Wetteryds hed.\nWästra Häglinge. *Hjeltestenarne 42 stycken, uppreste* nordan ifrån Byen.\n*Ruinerne* efter klostret och den dertill hörande *underjordiska gång*.\nÖstra Häglinge, de *reste jättestenarne* på Grytsbjer."
+  },
+  {
+   "bbox": [
+    899,
+    727,
+    1189,
+    767
+   ],
+   "category": "Section-header",
+   "text": "### Östra Göinge Härad."
+  },
+  {
+   "bbox": [
+    528,
+    767,
+    1564,
+    814
+   ],
+   "category": "Text",
+   "text": "I Broby *en Tings Cirkel*, samt *reste stenar* emellan Broby och Marklunda."
+  },
+  {
+   "bbox": [
+    913,
+    829,
+    1172,
+    863
+   ],
+   "category": "Section-header",
+   "text": "### Södra Åsbo Härad."
+  },
+  {
+   "bbox": [
+    529,
+    869,
+    1459,
+    950
+   ],
+   "category": "Text",
+   "text": "Ansås Socken. *Starkodders graf* vid Vegeholm och Utwälinge Bro.\n*Herning Broks graf* nära Herningeby och Spannarp."
+  },
+  {
+   "bbox": [
+    950,
+    967,
+    1138,
+    1007
+   ],
+   "category": "Section-header",
+   "text": "### Bjära Härad."
+  },
+  {
+   "bbox": [
+    529,
+    1006,
+    1285,
+    1093
+   ],
+   "category": "Text",
+   "text": "Grefvie Socken. De *resta Jättestenar* vid Ängelsbäck.\nLund den 8de September 1814"
+  },
+  {
+   "bbox": [
+    940,
+    1099,
+    1156,
+    1138
+   ],
+   "category": "Text",
+   "text": "N. H. Sjöborg"
+  },
+  {
+   "bbox": [
+    871,
+    1144,
+    1220,
+    1233
+   ],
+   "category": "Text",
+   "text": "Professor i historia och i nåder\nförordnad att hafva vård och\ninseend öfver Rikets Antiquiteter.»"
+  },
+  {
+   "bbox": [
+    530,
+    1262,
+    1573,
+    1687
+   ],
+   "category": "Text",
+   "text": "Dylika fridlysningar påbjöd han sedan nästan i massa. Men med den »berättelse», som han enligt det Kungl. brevet den 11 maj 1814 årligen skulle ingiva till akademien, dröjde det. Först den 16 januari 1816 »Upviste Statsrådet Friherre Adlerbeth Antekningar öfver Antiquiteter, lämnade till honom af Professor Sjöborg, hwar-öfver Friherre Adlerbeth äfwen afgaf det skriftliga utlåtande, som wid detta Protokoll är bifogadt. Själfwa Anteckningarna lofvade Friherre Adlerbeth till Professor Sjöborg återställa.» Berättelsen återlämnades således till Sjöborg och finnes ej i akademiens arkiv. Men Adlerbeths yttrande har bevarats och lyder:"
+  },
+  {
+   "bbox": [
+    533,
+    1680,
+    1574,
+    1813
+   ],
+   "category": "Text",
+   "text": "»På Herr Professor N. H. Sjöborgs begäran får jag den äran att till akademien aflemna en af honom författad Redogörelse för de undersökningar han till följe af Konungens nådiga Instruction af d."
+  },
+  {
+   "bbox": [
+    539,
+    1842,
+    608,
+    1889
+   ],
+   "category": "Page-footer",
+   "text": "368"
+  }
+ ]
+}

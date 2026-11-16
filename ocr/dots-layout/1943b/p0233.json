@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 233,
+ "seconds": 28.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [766, 271, 1278, 315], \"category\": \"Page-header\", \"text\": \"Hallenbergs tid 1810—1819\"}, {\"bbox\": [507, 342, 1545, 429], \"category\": \"Text\", \"text\": \"av vilket formulär — fortsätter protokollet — »Femtio exemplar enligt förut fattat beslut komma att tryckas på Velin Papper».\"}, {\"bbox\": [507, 425, 1547, 678], \"category\": \"Text\", \"text\": \"Denna tryckning drog emellertid om, och först året därpå, den 9 juni 1812, meddelade Rosenhane, att han nu avsänt diplomet. Men om akademien dröjt, så dröjde Catteau-Calleville ännu längre, och först två år efter diplomets avsändande tackade han för invalet (Prot. den 4 november 1814). Efter detta hörde man i akademien icke av honom och 1819 avled han.\"}, {\"bbox\": [368, 688, 503, 746], \"category\": \"Text\", \"text\": \"Montyon och Münter\"}, {\"bbox\": [509, 675, 1554, 1761], \"category\": \"Text\", \"text\": \"Nästa val av utländska ledamöter skedde 1813. Den 14 augusti 1811 hade väl Sundel anmält, att han i en tysk tidning sett, att akademiens utländske ledamot hertiginnan di Giovane redan 1805 avlidit, men något val efter henne företogs icke. Först den 9 februari 1813 kom en dylik fråga upp: »Föreslogs till Utländska Ledamöter Herr Montyon, f. d. Chancellier du Comte d'Artois och Biskopen öfver Seland samt Ordensbiskopen Doctor Münter; på Academiens anmodan åtog sig Hans Excellence Grefve von Engeström att anmäla detta hos Hans Majestät Konungen och anhålla om Hans Majestäts tillstånd till detta val.» Reellt var ju detta ett val, ehuru protokollet blott talar om »tillstånd» till valet, och redan vid nästa sammanträde den 16 februari anmälte Hans Excellence Statsministern, »att Hans Majestät Konungen lemnat sitt nådiga bifall, att academien ibland sina utländska Ledamöter får antaga Cancelleren hos Grefven af Artois Jean Baptiste Robert Auger de Monthion och Biskopen — — — Doctor Fredrik Münter, och skulle wanliga kallelsebref för dem utfärdas». Något ens formellt val förrättades således icke, och Montyon och Münter ansågos tydligen valda redan den 9 februari utan att — såsom statuterna föreskriva — någon förslagslista med minst två namn till konungen inlämnats. Montyons val var av samma karaktär som Catteau-Callevilles och berodde tydligen därpå, att han 1802 hade vunnit akademiens stora pris i vältalighetstävlingen. Münter var däremot en bland Danmarks mera kända vetenskapsmän, som även inom den danska fornforskningens historia intager ett bemärkt rum. Då han tackade för diplomet, lovade han ock att »insända en afhandling att i akademiens handlingar införas».\"}, {\"bbox\": [394, 1772, 493, 1800], \"category\": \"Text\", \"text\": \"Suchtelen\"}, {\"bbox\": [553, 1760, 1554, 1803], \"category\": \"Text\", \"text\": \"Nästa val förrättades expressis verbis av akademien utan något\"}, {\"bbox\": [522, 1835, 592, 1872], \"category\": \"Page-footer\", \"text\": \"218\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    766,
+    271,
+    1278,
+    315
+   ],
+   "category": "Page-header",
+   "text": "Hallenbergs tid 1810—1819"
+  },
+  {
+   "bbox": [
+    507,
+    342,
+    1545,
+    429
+   ],
+   "category": "Text",
+   "text": "av vilket formulär — fortsätter protokollet — »Femtio exemplar enligt förut fattat beslut komma att tryckas på Velin Papper»."
+  },
+  {
+   "bbox": [
+    507,
+    425,
+    1547,
+    678
+   ],
+   "category": "Text",
+   "text": "Denna tryckning drog emellertid om, och först året därpå, den 9 juni 1812, meddelade Rosenhane, att han nu avsänt diplomet. Men om akademien dröjt, så dröjde Catteau-Calleville ännu längre, och först två år efter diplomets avsändande tackade han för invalet (Prot. den 4 november 1814). Efter detta hörde man i akademien icke av honom och 1819 avled han."
+  },
+  {
+   "bbox": [
+    368,
+    688,
+    503,
+    746
+   ],
+   "category": "Text",
+   "text": "Montyon och Münter"
+  },
+  {
+   "bbox": [
+    509,
+    675,
+    1554,
+    1761
+   ],
+   "category": "Text",
+   "text": "Nästa val av utländska ledamöter skedde 1813. Den 14 augusti 1811 hade väl Sundel anmält, att han i en tysk tidning sett, att akademiens utländske ledamot hertiginnan di Giovane redan 1805 avlidit, men något val efter henne företogs icke. Först den 9 februari 1813 kom en dylik fråga upp: »Föreslogs till Utländska Ledamöter Herr Montyon, f. d. Chancellier du Comte d'Artois och Biskopen öfver Seland samt Ordensbiskopen Doctor Münter; på Academiens anmodan åtog sig Hans Excellence Grefve von Engeström att anmäla detta hos Hans Majestät Konungen och anhålla om Hans Majestäts tillstånd till detta val.» Reellt var ju detta ett val, ehuru protokollet blott talar om »tillstånd» till valet, och redan vid nästa sammanträde den 16 februari anmälte Hans Excellence Statsministern, »att Hans Majestät Konungen lemnat sitt nådiga bifall, att academien ibland sina utländska Ledamöter får antaga Cancelleren hos Grefven af Artois Jean Baptiste Robert Auger de Monthion och Biskopen — — — Doctor Fredrik Münter, och skulle wanliga kallelsebref för dem utfärdas». Något ens formellt val förrättades således icke, och Montyon och Münter ansågos tydligen valda redan den 9 februari utan att — såsom statuterna föreskriva — någon förslagslista med minst två namn till konungen inlämnats. Montyons val var av samma karaktär som Catteau-Callevilles och berodde tydligen därpå, att han 1802 hade vunnit akademiens stora pris i vältalighetstävlingen. Münter var däremot en bland Danmarks mera kända vetenskapsmän, som även inom den danska fornforskningens historia intager ett bemärkt rum. Då han tackade för diplomet, lovade han ock att »insända en afhandling att i akademiens handlingar införas»."
+  },
+  {
+   "bbox": [
+    394,
+    1772,
+    493,
+    1800
+   ],
+   "category": "Text",
+   "text": "Suchtelen"
+  },
+  {
+   "bbox": [
+    553,
+    1760,
+    1554,
+    1803
+   ],
+   "category": "Text",
+   "text": "Nästa val förrättades expressis verbis av akademien utan något"
+  },
+  {
+   "bbox": [
+    522,
+    1835,
+    592,
+    1872
+   ],
+   "category": "Page-footer",
+   "text": "218"
+  }
+ ]
+}

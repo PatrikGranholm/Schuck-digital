@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 36,
+ "seconds": 26.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [227, 520, 1021, 557], \"category\": \"Section-header\", \"text\": \"LEDAMÖTER OCH KORRESPONDENTER.\"}, {\"bbox\": [100, 634, 1143, 1172], \"category\": \"Text\", \"text\": \"Från sekreterarne vända vi oss till ledamöterna under Flintenbergs och Tihlemans tid. Dessa voro, som vi minnas, indelade i tre klasser: utländska, honoraira och arbetande. För arbetet i akademien saknade de utländska all betydelse och voro blott till »lustre». Enligt statuterna skulle de vara 16, men redan på Adlerbeths tid hade med förmyndarregeringens medgivande antalet tills vidare nedsatts till 12, då akademien i stället tilläts att ytterligare välja 4 arbetande utöver det i stadgarna angivna antalet (V, sid. 31 ff.). Av de 5 utländska ledamöter, som Gustav III själv insatt i akademien, hade före 1797 två avlidit, och under förmyndarregeringen hade fyra nya tillkommit (1793). Vid ingången av 1797 räknade klassen således sju ledamöter, de fyra under förmyndartiden tillkomna och de tre från Gustav III:s tid kvarlevande.\"}, {\"bbox\": [1165, 641, 1274, 699], \"category\": \"Text\", \"text\": \"Utländska ledamöter\"}, {\"bbox\": [98, 1176, 1141, 1762], \"category\": \"Text\", \"text\": \"Den 21 februari 1797 valdes två nya. Det skulle ha varit intressant att veta, vilka av akademiens ledamöter som väckt förslaget att företaga ett val, ty förslaget väcktes nog med tanken på de två, som man ville välja. Men tyvärr giva protokollen här icke någon upplysning. Den 10 januari 1797 skrives: »Af de uti utländska Klassen varande nio¹ ledigheter önskade Academien att besätta tvänne, och åtog sig Herr Landshöfdingen Rosenstein att sådant hos Konungen muntligen andraga.» Vid sammanträdet den 17 januari meddelade Rosenstein, att konungen därtill givit sitt bifall, vid det den 24 uppsatte man en lista på dem, som av ledamöterna föreslagits, den 31 föredrog Rosenstein förteckningen på dem, på vilka konungen tillät akademien att rösta, och den 21 februari företogs valet, men enligt det avvita bruket i akademien att en ledamot vid ett val till två eller tre lediga rum blott fick begagna en röstsedel. De röstande\"}, {\"bbox\": [133, 1772, 811, 1804], \"category\": \"Footnote\", \"text\": \"¹ Man ansåg således, att klassen skulle bestå av 16 ledamöter.\"}, {\"bbox\": [1091, 1840, 1134, 1877], \"category\": \"Page-footer\", \"text\": \"23\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    227,
+    520,
+    1021,
+    557
+   ],
+   "category": "Section-header",
+   "text": "LEDAMÖTER OCH KORRESPONDENTER."
+  },
+  {
+   "bbox": [
+    100,
+    634,
+    1143,
+    1172
+   ],
+   "category": "Text",
+   "text": "Från sekreterarne vända vi oss till ledamöterna under Flintenbergs och Tihlemans tid. Dessa voro, som vi minnas, indelade i tre klasser: utländska, honoraira och arbetande. För arbetet i akademien saknade de utländska all betydelse och voro blott till »lustre». Enligt statuterna skulle de vara 16, men redan på Adlerbeths tid hade med förmyndarregeringens medgivande antalet tills vidare nedsatts till 12, då akademien i stället tilläts att ytterligare välja 4 arbetande utöver det i stadgarna angivna antalet (V, sid. 31 ff.). Av de 5 utländska ledamöter, som Gustav III själv insatt i akademien, hade före 1797 två avlidit, och under förmyndarregeringen hade fyra nya tillkommit (1793). Vid ingången av 1797 räknade klassen således sju ledamöter, de fyra under förmyndartiden tillkomna och de tre från Gustav III:s tid kvarlevande."
+  },
+  {
+   "bbox": [
+    1165,
+    641,
+    1274,
+    699
+   ],
+   "category": "Text",
+   "text": "Utländska ledamöter"
+  },
+  {
+   "bbox": [
+    98,
+    1176,
+    1141,
+    1762
+   ],
+   "category": "Text",
+   "text": "Den 21 februari 1797 valdes två nya. Det skulle ha varit intressant att veta, vilka av akademiens ledamöter som väckt förslaget att företaga ett val, ty förslaget väcktes nog med tanken på de två, som man ville välja. Men tyvärr giva protokollen här icke någon upplysning. Den 10 januari 1797 skrives: »Af de uti utländska Klassen varande nio¹ ledigheter önskade Academien att besätta tvänne, och åtog sig Herr Landshöfdingen Rosenstein att sådant hos Konungen muntligen andraga.» Vid sammanträdet den 17 januari meddelade Rosenstein, att konungen därtill givit sitt bifall, vid det den 24 uppsatte man en lista på dem, som av ledamöterna föreslagits, den 31 föredrog Rosenstein förteckningen på dem, på vilka konungen tillät akademien att rösta, och den 21 februari företogs valet, men enligt det avvita bruket i akademien att en ledamot vid ett val till två eller tre lediga rum blott fick begagna en röstsedel. De röstande"
+  },
+  {
+   "bbox": [
+    133,
+    1772,
+    811,
+    1804
+   ],
+   "category": "Footnote",
+   "text": "¹ Man ansåg således, att klassen skulle bestå av 16 ledamöter."
+  },
+  {
+   "bbox": [
+    1091,
+    1840,
+    1134,
+    1877
+   ],
+   "category": "Page-footer",
+   "text": "23"
+  }
+ ]
+}

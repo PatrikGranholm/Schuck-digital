@@ -1,0 +1,42 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 156,
+ "seconds": 11.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [426, 283, 893, 318], \"category\": \"Section-header\", \"text\": \"Sekreterare och ledamöter\"}, {\"bbox\": [137, 353, 1181, 773], \"category\": \"Text\", \"text\": \"listorna uppförde Regnér, som erhöll tio röster, under det att hans motkandidater, latinaren professor Lundblad i Lund, revisionssekreteraren Marks von Würtenberg och Chargé d'affaires Palin blott fingo en var. Det sista dödsfallet inom klassen före 1810 inträffade den 4 september 1809, då professor Dahl avled. Den 21 november utsågs Lundaprofessorn Mathias Norberg med 7 röster till hans efterträdare. Lika många hade emellertid även filosofen professor Biberg erhållit, men vid den följande balloteringen med kulor valdes Norberg med åtta röster. Den ledamot, som i den första voteringen röstat på doktor Rutström, hade nämligen gått över till Norbergs parti.\"}, {\"bbox\": [1101, 1854, 1165, 1889], \"category\": \"Page-footer\", \"text\": \"141\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    426,
+    283,
+    893,
+    318
+   ],
+   "category": "Section-header",
+   "text": "Sekreterare och ledamöter"
+  },
+  {
+   "bbox": [
+    137,
+    353,
+    1181,
+    773
+   ],
+   "category": "Text",
+   "text": "listorna uppförde Regnér, som erhöll tio röster, under det att hans motkandidater, latinaren professor Lundblad i Lund, revisionssekreteraren Marks von Würtenberg och Chargé d'affaires Palin blott fingo en var. Det sista dödsfallet inom klassen före 1810 inträffade den 4 september 1809, då professor Dahl avled. Den 21 november utsågs Lundaprofessorn Mathias Norberg med 7 röster till hans efterträdare. Lika många hade emellertid även filosofen professor Biberg erhållit, men vid den följande balloteringen med kulor valdes Norberg med åtta röster. Den ledamot, som i den första voteringen röstat på doktor Rutström, hade nämligen gått över till Norbergs parti."
+  },
+  {
+   "bbox": [
+    1101,
+    1854,
+    1165,
+    1889
+   ],
+   "category": "Page-footer",
+   "text": "141"
+  }
+ ]
+}

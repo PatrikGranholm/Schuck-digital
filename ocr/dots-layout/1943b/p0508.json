@@ -1,0 +1,142 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 508,
+ "seconds": 32.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [477, 582, 765, 629], \"category\": \"Section-header\", \"text\": \"INNEHÅLL.\"}, {\"bbox\": [105, 679, 1137, 724], \"category\": \"List-item\", \"text\": \"FLINTENBERGS OCH TIHLEMANS TID 1794-1802 1-125\"}, {\"bbox\": [105, 748, 1137, 791], \"category\": \"List-item\", \"text\": \"Amanuens och sekreterare 3-22\"}, {\"bbox\": [182, 795, 1027, 917], \"category\": \"Text\", \"text\": \"Amanuensen Broman 3. Amanuensen Sundel 3. Flintenberg blir sekreterare 6. Flintenberg avgår som sekreterare 7. Flintenberg efter avskedet 8. Lindblom ifrågasatt som sekreterare 11. Tihleman blir sekreterare 12. Tihlemans förskingringar 13. Inventeringen efter Tihleman 17.\"}, {\"bbox\": [105, 950, 1137, 993], \"category\": \"List-item\", \"text\": \"Ledamöter och korrespondenter 23-35\"}, {\"bbox\": [182, 997, 1027, 1238], \"category\": \"Text\", \"text\": \"Utländska ledamöter 23. Hedersledamöter 24. Celsius dör, Fredenheim uppflyttas 24. Schröderheim dör, Liliestråle uppflyttas 25. Adelcrantz och Schultz von Ascheraden dö, Wallqvist och Ehrenheim väljas 26. Wallqvist dör, Lindblom väljes 26. Den arbetande klassen 27. Wilde dör 27. Strand dör 28. Fredenheims och Eberhardts rum lediga 28. Eric Skjöldebrand väljes 29. Björnstjerna och Sernsköld dö 29. Älf dör 29. Calonius väljes 30. Ferrner dör, Leopold väljes 30. Korrespondenter 30. Utomståendes beröring med akademien 31.\"}, {\"bbox\": [105, 1271, 1137, 1314], \"category\": \"List-item\", \"text\": \"Det akademiska arbetet och tävlingarna 36-62\"}, {\"bbox\": [182, 1318, 1027, 1471], \"category\": \"Text\", \"text\": \"Ifrågasatta arbeten 36. Elers' Stockholm 36. Karl XI:s historia 36. Medaljer och inskriptioner 37. Tävlingar 42. I historia 1793 och 1794 42. 1795 och 1796 45. 1797-1803 46. I antikviteter 47. 1794 47. 1795 48. 1796-1798 49. 1799-1801 50. 1802 52. I främmande språk 1794 och 1795 53. 1796 55. 1797-1800 57. 1801 och 1802 59. I inskriftskonst 62.\"}, {\"bbox\": [105, 1504, 1137, 1547], \"category\": \"List-item\", \"text\": \"Enskilda ledamöters avhandlingar 63-92\"}, {\"bbox\": [182, 1551, 1027, 1703], \"category\": \"Text\", \"text\": \"Inträdestalen 63. Fants inträdestal 63. Fredenheims 65. Tengströms 67. Eric Skjöldebrands 67. Lindbloms 69. Leopolds 73. Levernesbeskrivningarna 76. Presidietal 81. Vetenskapliga avhandlingar 82. Adlerbeths 83. Engeströms 84. Porthans 86. Fants och Björnstjernas 87. Melanderhjelms och Ferrners 88. Liliestråles 89. Hallenbergs 90. Akademiens Handlingar 90.\"}, {\"bbox\": [105, 1736, 1137, 1779], \"category\": \"List-item\", \"text\": \"Fynden och kanslikollegiet 93-113\"}, {\"bbox\": [182, 1783, 1027, 1816], \"category\": \"Text\", \"text\": \"Fyndärendenas behandling 93. Fynd 1794 94. 1795 96. 1797 99. 1798\"}, {\"bbox\": [1066, 1843, 1137, 1888], \"category\": \"Page-footer\", \"text\": \"487\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    477,
+    582,
+    765,
+    629
+   ],
+   "category": "Section-header",
+   "text": "INNEHÅLL."
+  },
+  {
+   "bbox": [
+    105,
+    679,
+    1137,
+    724
+   ],
+   "category": "List-item",
+   "text": "FLINTENBERGS OCH TIHLEMANS TID 1794-1802 1-125"
+  },
+  {
+   "bbox": [
+    105,
+    748,
+    1137,
+    791
+   ],
+   "category": "List-item",
+   "text": "Amanuens och sekreterare 3-22"
+  },
+  {
+   "bbox": [
+    182,
+    795,
+    1027,
+    917
+   ],
+   "category": "Text",
+   "text": "Amanuensen Broman 3. Amanuensen Sundel 3. Flintenberg blir sekreterare 6. Flintenberg avgår som sekreterare 7. Flintenberg efter avskedet 8. Lindblom ifrågasatt som sekreterare 11. Tihleman blir sekreterare 12. Tihlemans förskingringar 13. Inventeringen efter Tihleman 17."
+  },
+  {
+   "bbox": [
+    105,
+    950,
+    1137,
+    993
+   ],
+   "category": "List-item",
+   "text": "Ledamöter och korrespondenter 23-35"
+  },
+  {
+   "bbox": [
+    182,
+    997,
+    1027,
+    1238
+   ],
+   "category": "Text",
+   "text": "Utländska ledamöter 23. Hedersledamöter 24. Celsius dör, Fredenheim uppflyttas 24. Schröderheim dör, Liliestråle uppflyttas 25. Adelcrantz och Schultz von Ascheraden dö, Wallqvist och Ehrenheim väljas 26. Wallqvist dör, Lindblom väljes 26. Den arbetande klassen 27. Wilde dör 27. Strand dör 28. Fredenheims och Eberhardts rum lediga 28. Eric Skjöldebrand väljes 29. Björnstjerna och Sernsköld dö 29. Älf dör 29. Calonius väljes 30. Ferrner dör, Leopold väljes 30. Korrespondenter 30. Utomståendes beröring med akademien 31."
+  },
+  {
+   "bbox": [
+    105,
+    1271,
+    1137,
+    1314
+   ],
+   "category": "List-item",
+   "text": "Det akademiska arbetet och tävlingarna 36-62"
+  },
+  {
+   "bbox": [
+    182,
+    1318,
+    1027,
+    1471
+   ],
+   "category": "Text",
+   "text": "Ifrågasatta arbeten 36. Elers' Stockholm 36. Karl XI:s historia 36. Medaljer och inskriptioner 37. Tävlingar 42. I historia 1793 och 1794 42. 1795 och 1796 45. 1797-1803 46. I antikviteter 47. 1794 47. 1795 48. 1796-1798 49. 1799-1801 50. 1802 52. I främmande språk 1794 och 1795 53. 1796 55. 1797-1800 57. 1801 och 1802 59. I inskriftskonst 62."
+  },
+  {
+   "bbox": [
+    105,
+    1504,
+    1137,
+    1547
+   ],
+   "category": "List-item",
+   "text": "Enskilda ledamöters avhandlingar 63-92"
+  },
+  {
+   "bbox": [
+    182,
+    1551,
+    1027,
+    1703
+   ],
+   "category": "Text",
+   "text": "Inträdestalen 63. Fants inträdestal 63. Fredenheims 65. Tengströms 67. Eric Skjöldebrands 67. Lindbloms 69. Leopolds 73. Levernesbeskrivningarna 76. Presidietal 81. Vetenskapliga avhandlingar 82. Adlerbeths 83. Engeströms 84. Porthans 86. Fants och Björnstjernas 87. Melanderhjelms och Ferrners 88. Liliestråles 89. Hallenbergs 90. Akademiens Handlingar 90."
+  },
+  {
+   "bbox": [
+    105,
+    1736,
+    1137,
+    1779
+   ],
+   "category": "List-item",
+   "text": "Fynden och kanslikollegiet 93-113"
+  },
+  {
+   "bbox": [
+    182,
+    1783,
+    1027,
+    1816
+   ],
+   "category": "Text",
+   "text": "Fyndärendenas behandling 93. Fynd 1794 94. 1795 96. 1797 99. 1798"
+  },
+  {
+   "bbox": [
+    1066,
+    1843,
+    1137,
+    1888
+   ],
+   "category": "Page-footer",
+   "text": "487"
+  }
+ ]
+}

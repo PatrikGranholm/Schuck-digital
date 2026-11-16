@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 147,
+ "seconds": 27.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [748, 284, 1271, 328], \"category\": \"Page-header\", \"text\": \"Hallenbergs tid 1803—1810\"}, {\"bbox\": [491, 355, 1533, 982], \"category\": \"Text\", \"text\": \"akademien hyste han ej något större intresse, var under halva året frånvarande på Ramsjöholm, och någon vetenskapsman såsom Hallenberg var han dock icke. Och särskilt stort var steget mellan Hallenberg och Tihleman. Denne hade varit okunnig, lat, slarvig och ohederlig — Hallenberg var en ärans man, arbetssam, samvetsgrann och en betydande vetenskapsman. Då han utsågs till sekreterare var han vår då främste historiker, som redan publicerat två högst betydande arbeten: Nya Allmänna Historien ifrån början af sextonde århundradet, som dock avbrutits efter tre delar (utgivna 1782, 1783 och 1785) samt Svea Rikes Historia under Konung Gustaf Adolphs regering, som också avbrutits (efter fem delar, utgivna 1790—1796). Både av Geijer och senast av Ahnlund ha dessa arbeten, vid sidan av Lagerbrings, betecknats såsom »höjdpunkterna» i upplysningstidens svenska historieskrivning. I sin biografi över Hallenberg (Svensk Tidskrift 1923) skriver Ahnlund om hans Gustav Adolfs-historia:\"}, {\"bbox\": [493, 981, 1535, 1558], \"category\": \"Text\", \"text\": \"»Det lär kunna sägas, att intet arbete i svensk historia från den föregående tiden i djupgående forskning överträffar detta Hallenbergs verk, Lagerbrings rikshistoria icke undantagen, varvid dock torde böra erkännas, att Hallenbergs uppgift till sin art varit lättare än Lagerbrings. — Det är i främsta rummet genom sin utomordentligt solida arkivforskning som Hallenbergs arbete har anspråk på ett hedersrum. Redan den sorgfälliga genomgången av riksregistraturet har varit ett jättearbete; det finnes alltjämt icke något historiskt verk, som för Gustav Adolfs tid rikare avspeglar denna betydelsefulla källserie. Märkligt är också den insikt Hallenberg röjer om Kammararkivets vikt för forskningen i vår inre historia; ingen har före Hans Forssell ägt en så skarp blick för denna sak som Jonas Hallenberg. Han har även användt Svea hofrätts och Statskontorets arkiv.»\"}, {\"bbox\": [496, 1562, 1536, 1813], \"category\": \"Text\", \"text\": \"Då han hunnit fram till 1626, avbröt han likväl det stort anlagda verket. Orsaken härtill trodde sig Geijer ha funnit i författarens missmod över den likgiltighet, med vilken samtiden mottog hans arbete. Hallenbergs »sanningsfulla framställning af en del aristokraters förfarande» — skriver Geijer — »tyddes till ett anfall på aristokratien i allmänhet». Även Ahnlund ansluter sig till denna\"}, {\"bbox\": [504, 1852, 571, 1889], \"category\": \"Page-footer\", \"text\": \"132\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    748,
+    284,
+    1271,
+    328
+   ],
+   "category": "Page-header",
+   "text": "Hallenbergs tid 1803—1810"
+  },
+  {
+   "bbox": [
+    491,
+    355,
+    1533,
+    982
+   ],
+   "category": "Text",
+   "text": "akademien hyste han ej något större intresse, var under halva året frånvarande på Ramsjöholm, och någon vetenskapsman såsom Hallenberg var han dock icke. Och särskilt stort var steget mellan Hallenberg och Tihleman. Denne hade varit okunnig, lat, slarvig och ohederlig — Hallenberg var en ärans man, arbetssam, samvetsgrann och en betydande vetenskapsman. Då han utsågs till sekreterare var han vår då främste historiker, som redan publicerat två högst betydande arbeten: Nya Allmänna Historien ifrån början af sextonde århundradet, som dock avbrutits efter tre delar (utgivna 1782, 1783 och 1785) samt Svea Rikes Historia under Konung Gustaf Adolphs regering, som också avbrutits (efter fem delar, utgivna 1790—1796). Både av Geijer och senast av Ahnlund ha dessa arbeten, vid sidan av Lagerbrings, betecknats såsom »höjdpunkterna» i upplysningstidens svenska historieskrivning. I sin biografi över Hallenberg (Svensk Tidskrift 1923) skriver Ahnlund om hans Gustav Adolfs-historia:"
+  },
+  {
+   "bbox": [
+    493,
+    981,
+    1535,
+    1558
+   ],
+   "category": "Text",
+   "text": "»Det lär kunna sägas, att intet arbete i svensk historia från den föregående tiden i djupgående forskning överträffar detta Hallenbergs verk, Lagerbrings rikshistoria icke undantagen, varvid dock torde böra erkännas, att Hallenbergs uppgift till sin art varit lättare än Lagerbrings. — Det är i främsta rummet genom sin utomordentligt solida arkivforskning som Hallenbergs arbete har anspråk på ett hedersrum. Redan den sorgfälliga genomgången av riksregistraturet har varit ett jättearbete; det finnes alltjämt icke något historiskt verk, som för Gustav Adolfs tid rikare avspeglar denna betydelsefulla källserie. Märkligt är också den insikt Hallenberg röjer om Kammararkivets vikt för forskningen i vår inre historia; ingen har före Hans Forssell ägt en så skarp blick för denna sak som Jonas Hallenberg. Han har även användt Svea hofrätts och Statskontorets arkiv.»"
+  },
+  {
+   "bbox": [
+    496,
+    1562,
+    1536,
+    1813
+   ],
+   "category": "Text",
+   "text": "Då han hunnit fram till 1626, avbröt han likväl det stort anlagda verket. Orsaken härtill trodde sig Geijer ha funnit i författarens missmod över den likgiltighet, med vilken samtiden mottog hans arbete. Hallenbergs »sanningsfulla framställning af en del aristokraters förfarande» — skriver Geijer — »tyddes till ett anfall på aristokratien i allmänhet». Även Ahnlund ansluter sig till denna"
+  },
+  {
+   "bbox": [
+    504,
+    1852,
+    571,
+    1889
+   ],
+   "category": "Page-footer",
+   "text": "132"
+  }
+ ]
+}

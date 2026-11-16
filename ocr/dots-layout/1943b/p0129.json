@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 129,
+ "seconds": 25.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [778, 522, 1299, 558], \"category\": \"Section-header\", \"text\": \"AKADEMIENS SAMLINGAR\"}, {\"bbox\": [382, 643, 507, 702], \"category\": \"Text\", \"text\": \"Akademiens lokaler\"}, {\"bbox\": [515, 635, 1557, 1262], \"category\": \"Text\", \"text\": \"Innan vi gå in på frågan om vården av akademiens samlingar under denna tid, torde vara lämpligt att ånyo erinra om några fakta, som redan förut i andra sammanhang berörts — först lokalfrågan. Under Gustav III:s regering hade hans båda akademier haft jämförelsevis goda och för behovet rymliga lokaler. Vitterhets Historie och Antikvitetsakademien hade fått sig anvisad »Rundeln» i Gamla Kungshuset på Riddarholmen, Svenska akademien två stora rum i det nya slottets nordöstra flygel, där förut Kungl. Biblioteket och Antikvitetsarkivet haft sina lokaler. För att bereda Svenska akademien plats blevo nu Antikvitetsarkivets samlingar flyttade till Gamla Kungshuset. Men endast några månader efter Gustav III:s död vidtog den nya regeringen förändringar, som högst väsentligt försämrade lokalförhållandena för de bägge akademierna — säkerligen ej av något missnöje med dem utan endast av de nya maktinnehavarnas fullkomliga likgiltighet för Gustav III:s båda skapelser.\"}, {\"bbox\": [515, 1260, 1555, 1804], \"category\": \"Text\", \"text\": \"Den akademi, som först fick känning av denna likgiltighet, var Vitterhets Historie och Antikvitetsakademien, som redan i november 1792 fick lämna sin lokal i Gamla Kungshuset och för sina sammanträden hänvisades till Svenska akademiens lokal i Slottet. Förvisningen, som blev permanent, var likväl från början blott avsedd att vara tillfällig — så länge Statsutredningen arbetade — och akademiens samlingar fingo därför stanna kvar i Gamla Kungshuset. Viktigare var den förändring, för vilken Svenska akademien råkade ut. Den 30 september 1793 utfärdades nämligen ett kungabrev, vari meddelades, att akademiens rum i Slottet tilldelats det nybildade Kungl. Museet, och att de bägge akademierna därefter skulle sammanträda i Gamla Kungshuset, »så snart Svenska samt Historiæ och antiquitetsacademierne kunna flytta til den rundel i gamla slottet,\"}, {\"bbox\": [521, 1840, 588, 1876], \"category\": \"Page-footer\", \"text\": \"114\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    778,
+    522,
+    1299,
+    558
+   ],
+   "category": "Section-header",
+   "text": "AKADEMIENS SAMLINGAR"
+  },
+  {
+   "bbox": [
+    382,
+    643,
+    507,
+    702
+   ],
+   "category": "Text",
+   "text": "Akademiens lokaler"
+  },
+  {
+   "bbox": [
+    515,
+    635,
+    1557,
+    1262
+   ],
+   "category": "Text",
+   "text": "Innan vi gå in på frågan om vården av akademiens samlingar under denna tid, torde vara lämpligt att ånyo erinra om några fakta, som redan förut i andra sammanhang berörts — först lokalfrågan. Under Gustav III:s regering hade hans båda akademier haft jämförelsevis goda och för behovet rymliga lokaler. Vitterhets Historie och Antikvitetsakademien hade fått sig anvisad »Rundeln» i Gamla Kungshuset på Riddarholmen, Svenska akademien två stora rum i det nya slottets nordöstra flygel, där förut Kungl. Biblioteket och Antikvitetsarkivet haft sina lokaler. För att bereda Svenska akademien plats blevo nu Antikvitetsarkivets samlingar flyttade till Gamla Kungshuset. Men endast några månader efter Gustav III:s död vidtog den nya regeringen förändringar, som högst väsentligt försämrade lokalförhållandena för de bägge akademierna — säkerligen ej av något missnöje med dem utan endast av de nya maktinnehavarnas fullkomliga likgiltighet för Gustav III:s båda skapelser."
+  },
+  {
+   "bbox": [
+    515,
+    1260,
+    1555,
+    1804
+   ],
+   "category": "Text",
+   "text": "Den akademi, som först fick känning av denna likgiltighet, var Vitterhets Historie och Antikvitetsakademien, som redan i november 1792 fick lämna sin lokal i Gamla Kungshuset och för sina sammanträden hänvisades till Svenska akademiens lokal i Slottet. Förvisningen, som blev permanent, var likväl från början blott avsedd att vara tillfällig — så länge Statsutredningen arbetade — och akademiens samlingar fingo därför stanna kvar i Gamla Kungshuset. Viktigare var den förändring, för vilken Svenska akademien råkade ut. Den 30 september 1793 utfärdades nämligen ett kungabrev, vari meddelades, att akademiens rum i Slottet tilldelats det nybildade Kungl. Museet, och att de bägge akademierna därefter skulle sammanträda i Gamla Kungshuset, »så snart Svenska samt Historiæ och antiquitetsacademierne kunna flytta til den rundel i gamla slottet,"
+  },
+  {
+   "bbox": [
+    521,
+    1840,
+    588,
+    1876
+   ],
+   "category": "Page-footer",
+   "text": "114"
+  }
+ ]
+}

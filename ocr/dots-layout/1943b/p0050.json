@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 50,
+ "seconds": 22.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [371, 277, 929, 320], \"category\": \"Section-header\", \"text\": \"Ledamöter och korrespondenter\"}, {\"bbox\": [126, 348, 1169, 433], \"category\": \"Text\", \"text\": \"i Halmstad borde till konungen aflefverera. Förvaras vid Handlingarna.»\"}, {\"bbox\": [128, 432, 1170, 808], \"category\": \"Text\", \"text\": \"Kort därefter, den 19 maj, fick akademien ännu en korrespondent, som dock synes ha varit av Pfeiffs vetenskapliga vederhäftighet, en Herr Hourvitz, som insände en »Inledning till en Ziffer-Bok» och bad om akademiens omdöme om denna. Även nu gav akademien Hallenberg och Rosenhane i uppdrag att »närmare genomse detta arbete». Vid ett följande sammanträde förklarade Hallenberg arbetet »fruktlöst, emedan det icke syntes kunna befrämja det ändamål, som författaren därmed åsyftat». Detta svar skulle Hourvitz meddelas genom Liliestråle.\"}, {\"bbox\": [130, 807, 1170, 1055], \"category\": \"Text\", \"text\": \"Av samma art var förmodligen också en annan av en svensk-amerikan Niclas Collin »utgifven skrift, innefattande en Philologisk undersökning om några gamla ord i åtskilliga språk». Något annat yttrande om denna avgav akademien icke än som framgår av protokollets anteckning: »Förvaras uti Academiens Boksamling» (Prot. 23 febr. 1802).\"}, {\"bbox\": [132, 1056, 1170, 1141], \"category\": \"Text\", \"text\": \"Givande hade denna samverkan mellan akademien och allmänheten således ej varit.\"}, {\"bbox\": [1123, 1848, 1165, 1885], \"category\": \"Page-footer\", \"text\": \"35\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    371,
+    277,
+    929,
+    320
+   ],
+   "category": "Section-header",
+   "text": "Ledamöter och korrespondenter"
+  },
+  {
+   "bbox": [
+    126,
+    348,
+    1169,
+    433
+   ],
+   "category": "Text",
+   "text": "i Halmstad borde till konungen aflefverera. Förvaras vid Handlingarna.»"
+  },
+  {
+   "bbox": [
+    128,
+    432,
+    1170,
+    808
+   ],
+   "category": "Text",
+   "text": "Kort därefter, den 19 maj, fick akademien ännu en korrespondent, som dock synes ha varit av Pfeiffs vetenskapliga vederhäftighet, en Herr Hourvitz, som insände en »Inledning till en Ziffer-Bok» och bad om akademiens omdöme om denna. Även nu gav akademien Hallenberg och Rosenhane i uppdrag att »närmare genomse detta arbete». Vid ett följande sammanträde förklarade Hallenberg arbetet »fruktlöst, emedan det icke syntes kunna befrämja det ändamål, som författaren därmed åsyftat». Detta svar skulle Hourvitz meddelas genom Liliestråle."
+  },
+  {
+   "bbox": [
+    130,
+    807,
+    1170,
+    1055
+   ],
+   "category": "Text",
+   "text": "Av samma art var förmodligen också en annan av en svensk-amerikan Niclas Collin »utgifven skrift, innefattande en Philologisk undersökning om några gamla ord i åtskilliga språk». Något annat yttrande om denna avgav akademien icke än som framgår av protokollets anteckning: »Förvaras uti Academiens Boksamling» (Prot. 23 febr. 1802)."
+  },
+  {
+   "bbox": [
+    132,
+    1056,
+    1170,
+    1141
+   ],
+   "category": "Text",
+   "text": "Givande hade denna samverkan mellan akademien och allmänheten således ej varit."
+  },
+  {
+   "bbox": [
+    1123,
+    1848,
+    1165,
+    1885
+   ],
+   "category": "Page-footer",
+   "text": "35"
+  }
+ ]
+}

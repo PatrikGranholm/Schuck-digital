@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 382,
+ "seconds": 28.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [373, 271, 867, 315], \"category\": \"Page-header\", \"text\": \"Fornvård och fornforskning\"}, {\"bbox\": [101, 342, 1139, 470], \"category\": \"Text\", \"text\": \"Fäderneslandets antiquiteter». Ehuru det säkerligen var med blandade känslor, som de flesta ledamöterna åhörde uppläsandet, var någon kritik av personvalet naturligtvis ej möjlig.\"}, {\"bbox\": [101, 469, 1140, 838], \"category\": \"Text\", \"text\": \"Den 2 juni 1814 mottog akademien ett nytt Kungabrev av den 11 maj i samma ärende: »Uplästes Konungens nådiga Skrifvelse af den 11 sistlidne Maji, att Konungen såsom resekostnad tillagt Professoren i Lund N. H. Sjöborg ett arvode af 200 Rdr med nådigt förständigande till academien att om den berättelse, han efter fulländad resa deröfver aflemna bör, med underdånig anmälan inkomma.» Det nya var här icke lönen, som ej berörde akademiens stat, utan den »berättelse», som Sjöborg varje år skulle till akademien ingiva. Till denna berättelse skola vi sedan återkomma.\"}, {\"bbox\": [101, 843, 1139, 1134], \"category\": \"Text\", \"text\": \"I instruktionens § 1 hade Sjöborg ålagts »att författa en fullständig uppgift på de säkra kännetecken, genom hvilka en fornlemning kan urskiljas» och denna skrift skulle till akademien insändas och prövas. Redan på sommaren 1814 hade Sjöborg fått skriften färdig, men hade ej skickat den till akademien utan till Engeström, som sedan sände den till Adlerbeth, vilken den 3 september svarade Engeström (K. B. Engeströmska saml.):\"}, {\"bbox\": [99, 1135, 1140, 1637], \"category\": \"Text\", \"text\": \"»Eders Excellence har behagat hedra mig med ett bref ifrån Uddevalla af den 16 nästl. aug., som jag förl. måndags hade den äran bekomma jämte Professor Sjöborgs afhandling om kännetecknen på våra fornåldersminnesmärken. I anledning häraf behåller jag samma skrift, hvilken jag skall taga med mig till Stockholm och i Vitterhets Akademiens sammankomst i medlet af oktober månad framlemna. Akademiens ferier fortfara ända till den 1 November, ifrån hvilken dag hon alltframgent sammanträder en gång i veckan. Så vidt möjligt är, skall man väl söka förekomma den ogenhet emot Sjöborg, som till äfventyrs af en eller annan Ledamot kunde vara att befara, ehuru han genom mindre varsamhet i sina framställningar stundom dertill gifver en anledning.»\"}, {\"bbox\": [100, 1636, 1140, 1803], \"category\": \"Text\", \"text\": \"Den sista farhågan var ganska grundad och även med hänsyn till skriften befogad. Sjöborg skulle ge »säkra kännetecken» på en fornlämning, och häri hade han knappast lyckats. »Ättestupor», med vilka han börjar, var en antikvarisk fantasi, i vilken 1600-talets svenska\"}, {\"bbox\": [1065, 1833, 1132, 1878], \"category\": \"Page-footer\", \"text\": \"363\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    373,
+    271,
+    867,
+    315
+   ],
+   "category": "Page-header",
+   "text": "Fornvård och fornforskning"
+  },
+  {
+   "bbox": [
+    101,
+    342,
+    1139,
+    470
+   ],
+   "category": "Text",
+   "text": "Fäderneslandets antiquiteter». Ehuru det säkerligen var med blandade känslor, som de flesta ledamöterna åhörde uppläsandet, var någon kritik av personvalet naturligtvis ej möjlig."
+  },
+  {
+   "bbox": [
+    101,
+    469,
+    1140,
+    838
+   ],
+   "category": "Text",
+   "text": "Den 2 juni 1814 mottog akademien ett nytt Kungabrev av den 11 maj i samma ärende: »Uplästes Konungens nådiga Skrifvelse af den 11 sistlidne Maji, att Konungen såsom resekostnad tillagt Professoren i Lund N. H. Sjöborg ett arvode af 200 Rdr med nådigt förständigande till academien att om den berättelse, han efter fulländad resa deröfver aflemna bör, med underdånig anmälan inkomma.» Det nya var här icke lönen, som ej berörde akademiens stat, utan den »berättelse», som Sjöborg varje år skulle till akademien ingiva. Till denna berättelse skola vi sedan återkomma."
+  },
+  {
+   "bbox": [
+    101,
+    843,
+    1139,
+    1134
+   ],
+   "category": "Text",
+   "text": "I instruktionens § 1 hade Sjöborg ålagts »att författa en fullständig uppgift på de säkra kännetecken, genom hvilka en fornlemning kan urskiljas» och denna skrift skulle till akademien insändas och prövas. Redan på sommaren 1814 hade Sjöborg fått skriften färdig, men hade ej skickat den till akademien utan till Engeström, som sedan sände den till Adlerbeth, vilken den 3 september svarade Engeström (K. B. Engeströmska saml.):"
+  },
+  {
+   "bbox": [
+    99,
+    1135,
+    1140,
+    1637
+   ],
+   "category": "Text",
+   "text": "»Eders Excellence har behagat hedra mig med ett bref ifrån Uddevalla af den 16 nästl. aug., som jag förl. måndags hade den äran bekomma jämte Professor Sjöborgs afhandling om kännetecknen på våra fornåldersminnesmärken. I anledning häraf behåller jag samma skrift, hvilken jag skall taga med mig till Stockholm och i Vitterhets Akademiens sammankomst i medlet af oktober månad framlemna. Akademiens ferier fortfara ända till den 1 November, ifrån hvilken dag hon alltframgent sammanträder en gång i veckan. Så vidt möjligt är, skall man väl söka förekomma den ogenhet emot Sjöborg, som till äfventyrs af en eller annan Ledamot kunde vara att befara, ehuru han genom mindre varsamhet i sina framställningar stundom dertill gifver en anledning.»"
+  },
+  {
+   "bbox": [
+    100,
+    1636,
+    1140,
+    1803
+   ],
+   "category": "Text",
+   "text": "Den sista farhågan var ganska grundad och även med hänsyn till skriften befogad. Sjöborg skulle ge »säkra kännetecken» på en fornlämning, och häri hade han knappast lyckats. »Ättestupor», med vilka han börjar, var en antikvarisk fantasi, i vilken 1600-talets svenska"
+  },
+  {
+   "bbox": [
+    1065,
+    1833,
+    1132,
+    1878
+   ],
+   "category": "Page-footer",
+   "text": "363"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 511,
+ "seconds": 16.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [804, 269, 1244, 312], \"category\": \"Section-header\", \"text\": \"Akademien 1794—1826\"}, {\"bbox\": [583, 337, 1399, 492], \"category\": \"Text\", \"text\": \"över Dahl 414. Ödmanns över Schönberg och Wallmarks över Tham 415. Inträdestalen 416. Hedersledamöternas 416. De arbetande ledamöternas 417. Sundels 417. Ödmanns 418. Franzéns 420. Tegnérs 420. Geijers 421. Ledamöternas avhandlingar 422. Gråbergs 423. Den lärda brevväxlingen 424. Handlingarna 426.\"}, {\"bbox\": [504, 517, 1544, 564], \"category\": \"Text\", \"text\": \"Medalj- och inskriftsärenden. Tävlingar 427-451\"}, {\"bbox\": [583, 566, 1397, 687], \"category\": \"Text\", \"text\": \"Medaljärenden 427. Tävlingarna. I inskriftskonst 428. På främmande språk 429. I historia och antikviteter 431. Lorenzo Hammarsköld 433. Tävlingarna 1820 och 1821 442. 1822 445. 1823 och 1824 446. 1825 447. 1826 448.\"}, {\"bbox\": [504, 720, 1544, 766], \"category\": \"Text\", \"text\": \"Fynd och fornvård 452-485\"}, {\"bbox\": [583, 768, 1397, 891], \"category\": \"Text\", \"text\": \"Fynd 1819 452. 1820 453. Lackalängafyndet 453. Hököpingefyndet 454. Homselyngafyndet 456. 1821 458. 1822 461. 1823 462. 1824 465. 1825 467. Fornvården 472. Ekdahl och grävningarna på Hven 472. Kammarkollegiets arkivalier 474.\"}, {\"bbox\": [501, 1830, 576, 1867], \"category\": \"Page-footer\", \"text\": \"490\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    804,
+    269,
+    1244,
+    312
+   ],
+   "category": "Section-header",
+   "text": "Akademien 1794—1826"
+  },
+  {
+   "bbox": [
+    583,
+    337,
+    1399,
+    492
+   ],
+   "category": "Text",
+   "text": "över Dahl 414. Ödmanns över Schönberg och Wallmarks över Tham 415. Inträdestalen 416. Hedersledamöternas 416. De arbetande ledamöternas 417. Sundels 417. Ödmanns 418. Franzéns 420. Tegnérs 420. Geijers 421. Ledamöternas avhandlingar 422. Gråbergs 423. Den lärda brevväxlingen 424. Handlingarna 426."
+  },
+  {
+   "bbox": [
+    504,
+    517,
+    1544,
+    564
+   ],
+   "category": "Text",
+   "text": "Medalj- och inskriftsärenden. Tävlingar 427-451"
+  },
+  {
+   "bbox": [
+    583,
+    566,
+    1397,
+    687
+   ],
+   "category": "Text",
+   "text": "Medaljärenden 427. Tävlingarna. I inskriftskonst 428. På främmande språk 429. I historia och antikviteter 431. Lorenzo Hammarsköld 433. Tävlingarna 1820 och 1821 442. 1822 445. 1823 och 1824 446. 1825 447. 1826 448."
+  },
+  {
+   "bbox": [
+    504,
+    720,
+    1544,
+    766
+   ],
+   "category": "Text",
+   "text": "Fynd och fornvård 452-485"
+  },
+  {
+   "bbox": [
+    583,
+    768,
+    1397,
+    891
+   ],
+   "category": "Text",
+   "text": "Fynd 1819 452. 1820 453. Lackalängafyndet 453. Hököpingefyndet 454. Homselyngafyndet 456. 1821 458. 1822 461. 1823 462. 1824 465. 1825 467. Fornvården 472. Ekdahl och grävningarna på Hven 472. Kammarkollegiets arkivalier 474."
+  },
+  {
+   "bbox": [
+    501,
+    1830,
+    576,
+    1867
+   ],
+   "category": "Page-footer",
+   "text": "490"
+  }
+ ]
+}

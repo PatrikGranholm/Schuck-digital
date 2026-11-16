@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 472,
+ "seconds": 14.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [236, 272, 969, 317], \"category\": \"Section-header\", \"text\": \"Medalj- och inskriftsärenden. Tävlingar\"}, {\"bbox\": [79, 343, 1124, 1013], \"category\": \"Text\", \"text\": \"lyftning, hvaremot nr 2 var ett arbete af omisskännelig förtjenst, vittnande om en sällsynt grundlighet och ett berömligt nit att uppdaga okända omständigheter rörande Fäderneslandets fornforskning, på hvilken grund granskaren förklarat sig icke obenägen att tillstyrka prisets tilldömmande åt denna Skrift, likväl med den anmärkning, att denna Historiska afhandling i anseende till flere anmärkta ofullkomligheter underginge en viss omarbetning af författaren genom utelemnande af vissa små och onödiga detailler och genom omsorgen att gifva skriften en mera städad form, mera redighet både till anordning och uttryck. Äfven med förtroende till dessa kännares granskning och yttrade omdömen om dessa i fråga varande Historiska Skrifter tillade academien det utsatta Priset, en Guldmedaille om tjugusex ducater, åt denna senare afhandling nr 2 eller Historien om Kongl. Antiquitets Collegium, dock med det villkor som granskarne föreslagit. Vid namnsedelns brytning befanns prisvinnaren även i denna tävling vara Liljegren.\"}, {\"bbox\": [79, 1012, 1123, 1173], \"category\": \"Text\", \"text\": \"Under de åtta tävlingar, för vilka nu redogjorts, hade han således fått icke mindre än fem pris, vilket onekligen var ett rekord. I de följande var han förhindrad att deltaga, ty den 21 februari hade han valts till ledamot av akademien.\"}, {\"bbox\": [1044, 1846, 1114, 1883], \"category\": \"Page-footer\", \"text\": \"451\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    236,
+    272,
+    969,
+    317
+   ],
+   "category": "Section-header",
+   "text": "Medalj- och inskriftsärenden. Tävlingar"
+  },
+  {
+   "bbox": [
+    79,
+    343,
+    1124,
+    1013
+   ],
+   "category": "Text",
+   "text": "lyftning, hvaremot nr 2 var ett arbete af omisskännelig förtjenst, vittnande om en sällsynt grundlighet och ett berömligt nit att uppdaga okända omständigheter rörande Fäderneslandets fornforskning, på hvilken grund granskaren förklarat sig icke obenägen att tillstyrka prisets tilldömmande åt denna Skrift, likväl med den anmärkning, att denna Historiska afhandling i anseende till flere anmärkta ofullkomligheter underginge en viss omarbetning af författaren genom utelemnande af vissa små och onödiga detailler och genom omsorgen att gifva skriften en mera städad form, mera redighet både till anordning och uttryck. Äfven med förtroende till dessa kännares granskning och yttrade omdömen om dessa i fråga varande Historiska Skrifter tillade academien det utsatta Priset, en Guldmedaille om tjugusex ducater, åt denna senare afhandling nr 2 eller Historien om Kongl. Antiquitets Collegium, dock med det villkor som granskarne föreslagit. Vid namnsedelns brytning befanns prisvinnaren även i denna tävling vara Liljegren."
+  },
+  {
+   "bbox": [
+    79,
+    1012,
+    1123,
+    1173
+   ],
+   "category": "Text",
+   "text": "Under de åtta tävlingar, för vilka nu redogjorts, hade han således fått icke mindre än fem pris, vilket onekligen var ett rekord. I de följande var han förhindrad att deltaga, ty den 21 februari hade han valts till ledamot av akademien."
+  },
+  {
+   "bbox": [
+    1044,
+    1846,
+    1114,
+    1883
+   ],
+   "category": "Page-footer",
+   "text": "451"
+  }
+ ]
+}

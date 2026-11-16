@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 62,
+ "seconds": 28.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [285, 275, 995, 322], \"category\": \"Section-header\", \"text\": \"Det akademiska arbetet och tävlingarna\"}, {\"bbox\": [121, 347, 1157, 431], \"category\": \"Text\", \"text\": \"visat sig ganska ringa, ehuru man å den andra sidan måste medgiva,\\natt ämnena ej voro särdeles lockande för en historiker.\"}, {\"bbox\": [116, 435, 1157, 1693], \"category\": \"Text\", \"text\": \"Vetenskaplig karaktär hade även tävlingen i antikviteter, och för allmänheten tyckes den ha varit nästan lika litet lockande som den historiska. Skillnaden dem emellan var också minimal, ty ett antikvariskt ämne kunde likaväl anses som historiskt och ett historiskt som antikvariskt. Till 1794 var det antikvariska tävlingsämnet: Avhandling om de förnämstes och förmögnares levnadssätt i Sverige före konung Albrechts tid¹, och till den utsatta tiden hade endast en avhandling inkommit, över vilken Rosenhane utsågs till granskare. Detta svar — skriver han — »uppfyller aldeles icke Kongl. academiens ändamål. Hvarken finnes härutinnan något spår till granskning eller är det med vederbörlig ordning sammanfattat. Han förblandar esomoftast sago-åldern med den Historiska tiden. Våra gamla sagor tillägger han mer trovärdighet än de förtjena, och då han citerar Johannes Magni och flera andra längesedan förkastade Historici förråder han liten eller alls ingen urskillning. För att rätt kunna besvara denna fråga bör man äga tillräcklig kännedom af Lagar och författningar, seder och bruk. Men att han om dem är i djup okunnighet, sådant synes vid första genomögnandet, och bör det även uppväcka förundran, att han nästan aldrig nyttiat Sturleson eller Rimkrönikan, ärkända goda Historiska källor. Däremot anförer han ofta bevis utur nyare författares skrifter utan att undersöka trovärdigheten af de källor, som af dem blifvit nyttiade, och då han ibland dem mera sällan rådfrågat Lagerbring, utvisar det, att författaren sätter mer värde på osmakliga dikter och falska uppgifter än på ojäfaktiga handlingar och trovärdiga berättelser. Af alt detta sammanlagt lärer Kongl. academien finna, att han icke en gång giort sig förtjent till accessit, ännu mindre till den högsta belöningen. Om skrifter af dylik beskaffenhet som denna blefvo belönte eller uppmuntrade, skulle Kongl. academien återföra oss uti ett nytt mörker och befordra Historiens fall i stället för att bereda dess uppkomst och sprida lius\"}, {\"bbox\": [1170, 451, 1296, 512], \"category\": \"Text\", \"text\": \"Antikviteter\\n1794\"}, {\"bbox\": [118, 1714, 1152, 1806], \"category\": \"Footnote\", \"text\": \"¹ Stiliseringen av tävlingsämnena i det handskrivna protokollet och i de tryckta Handlingarna är ofta olika. I Handlingarna kallas ämnet: Avhandling om de förnämstes levnadssätt i Sverige före konung Albrechts tid.\"}, {\"bbox\": [1102, 1851, 1148, 1886], \"category\": \"Page-footer\", \"text\": \"47\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    285,
+    275,
+    995,
+    322
+   ],
+   "category": "Section-header",
+   "text": "Det akademiska arbetet och tävlingarna"
+  },
+  {
+   "bbox": [
+    121,
+    347,
+    1157,
+    431
+   ],
+   "category": "Text",
+   "text": "visat sig ganska ringa, ehuru man å den andra sidan måste medgiva,\natt ämnena ej voro särdeles lockande för en historiker."
+  },
+  {
+   "bbox": [
+    116,
+    435,
+    1157,
+    1693
+   ],
+   "category": "Text",
+   "text": "Vetenskaplig karaktär hade även tävlingen i antikviteter, och för allmänheten tyckes den ha varit nästan lika litet lockande som den historiska. Skillnaden dem emellan var också minimal, ty ett antikvariskt ämne kunde likaväl anses som historiskt och ett historiskt som antikvariskt. Till 1794 var det antikvariska tävlingsämnet: Avhandling om de förnämstes och förmögnares levnadssätt i Sverige före konung Albrechts tid¹, och till den utsatta tiden hade endast en avhandling inkommit, över vilken Rosenhane utsågs till granskare. Detta svar — skriver han — »uppfyller aldeles icke Kongl. academiens ändamål. Hvarken finnes härutinnan något spår till granskning eller är det med vederbörlig ordning sammanfattat. Han förblandar esomoftast sago-åldern med den Historiska tiden. Våra gamla sagor tillägger han mer trovärdighet än de förtjena, och då han citerar Johannes Magni och flera andra längesedan förkastade Historici förråder han liten eller alls ingen urskillning. För att rätt kunna besvara denna fråga bör man äga tillräcklig kännedom af Lagar och författningar, seder och bruk. Men att han om dem är i djup okunnighet, sådant synes vid första genomögnandet, och bör det även uppväcka förundran, att han nästan aldrig nyttiat Sturleson eller Rimkrönikan, ärkända goda Historiska källor. Däremot anförer han ofta bevis utur nyare författares skrifter utan att undersöka trovärdigheten af de källor, som af dem blifvit nyttiade, och då han ibland dem mera sällan rådfrågat Lagerbring, utvisar det, att författaren sätter mer värde på osmakliga dikter och falska uppgifter än på ojäfaktiga handlingar och trovärdiga berättelser. Af alt detta sammanlagt lärer Kongl. academien finna, att han icke en gång giort sig förtjent till accessit, ännu mindre till den högsta belöningen. Om skrifter af dylik beskaffenhet som denna blefvo belönte eller uppmuntrade, skulle Kongl. academien återföra oss uti ett nytt mörker och befordra Historiens fall i stället för att bereda dess uppkomst och sprida lius"
+  },
+  {
+   "bbox": [
+    1170,
+    451,
+    1296,
+    512
+   ],
+   "category": "Text",
+   "text": "Antikviteter\n1794"
+  },
+  {
+   "bbox": [
+    118,
+    1714,
+    1152,
+    1806
+   ],
+   "category": "Footnote",
+   "text": "¹ Stiliseringen av tävlingsämnena i det handskrivna protokollet och i de tryckta Handlingarna är ofta olika. I Handlingarna kallas ämnet: Avhandling om de förnämstes levnadssätt i Sverige före konung Albrechts tid."
+  },
+  {
+   "bbox": [
+    1102,
+    1851,
+    1148,
+    1886
+   ],
+   "category": "Page-footer",
+   "text": "47"
+  }
+ ]
+}

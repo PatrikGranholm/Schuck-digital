@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 172,
+ "seconds": 27.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [555, 275, 780, 318], \"category\": \"Section-header\", \"text\": \"Tävlingarna\"}, {\"bbox\": [144, 345, 1188, 890], \"category\": \"Text\", \"text\": \"det att Sundel — vad Karlarna beträffar — tog med allt som kunde tagas, brev, reglementen o. d., blev resultatet mycket magert. Till sist kommer han fram till den ende »Kongliga person», som verkligen framträtt med anspråk på att gälla som författare, nämligen Gustav III. Men här nöjer han sig nästan blott med att anföra titlarna på konungens dramer och tillfogar om dem alla: »Dessa Theaterstycken äro af allmänheten med mycket nöje sedde och med begärlighet återsedde. Flere bland dem äro skrifne under den tid, Konungen med vigtiga Ärenden varit sysselsatt, och finnas af dess Hand sådana arbeten, författade med samma penna, hvarmed Han teknat befallningar att gå till strids, skrifne midt ibland Wiborgs och Svensksunds böljor och nästan under braket af fiendtliga stycken.» Ämnet låg tydligen icke för den flitige Sundels begåvning.\"}, {\"bbox\": [142, 888, 1188, 1798], \"category\": \"Text\", \"text\": \"Priset hade tilldömts honom den 20 mars, men redan den 31 januari hade akademien till konungen ingivit förslag till ett nytt prisämne för 1805 — en antydan om, att akademien redan då var bestämd att belöna Sundel. Det nya prisämnet var: Berättelse om Rikets uppbörd och kammarverk under medeltiden. Men till den 20 januari 1805 hade ingen skrift inkommit och ämnet utsattes därför på nytt till 1806, då akademien verkligen fick mottaga en skrift, som lämnades till Rosenhanes och Flintenbergs granskning. Den upplästes i akademien den 4 och 11 februari, då akademien instämde i granskarnas yttrande, »att ehuru den [skriften] ostridigt vittnade om sin författares både goda kunskaper och i synnerhet skicklighet att använda ett tjenligt skrifsätt till sitt ämnes afhandlande, förekommo dock här och där historiska misstag; särdeles saknades öfver alt anförande af de gällande bevis af tillförlitliga handlingar, som vid all historisk bearbetning är oundwikligen nödwändig. Akademien fann sig fördensskull icke i tillstånd att åt Författaren kunna tilldela belöningen, men beslöt att för nästa år utsätta samma ämne samt att i det offentliga tillkännagifvande, som därom i Tidningarna bör införas, de förtjenster academien funnit denna skrift äga, böra med bifall nämnas och att Författaren med någon ytterligare handläggning snart synes kunna gifva sitt arbete en erforderlig grad af fullkomlighet.»\"}, {\"bbox\": [1204, 898, 1291, 961], \"category\": \"Text\", \"text\": \"1805—1807\"}, {\"bbox\": [1114, 1843, 1181, 1881], \"category\": \"Page-footer\", \"text\": \"157\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    555,
+    275,
+    780,
+    318
+   ],
+   "category": "Section-header",
+   "text": "Tävlingarna"
+  },
+  {
+   "bbox": [
+    144,
+    345,
+    1188,
+    890
+   ],
+   "category": "Text",
+   "text": "det att Sundel — vad Karlarna beträffar — tog med allt som kunde tagas, brev, reglementen o. d., blev resultatet mycket magert. Till sist kommer han fram till den ende »Kongliga person», som verkligen framträtt med anspråk på att gälla som författare, nämligen Gustav III. Men här nöjer han sig nästan blott med att anföra titlarna på konungens dramer och tillfogar om dem alla: »Dessa Theaterstycken äro af allmänheten med mycket nöje sedde och med begärlighet återsedde. Flere bland dem äro skrifne under den tid, Konungen med vigtiga Ärenden varit sysselsatt, och finnas af dess Hand sådana arbeten, författade med samma penna, hvarmed Han teknat befallningar att gå till strids, skrifne midt ibland Wiborgs och Svensksunds böljor och nästan under braket af fiendtliga stycken.» Ämnet låg tydligen icke för den flitige Sundels begåvning."
+  },
+  {
+   "bbox": [
+    142,
+    888,
+    1188,
+    1798
+   ],
+   "category": "Text",
+   "text": "Priset hade tilldömts honom den 20 mars, men redan den 31 januari hade akademien till konungen ingivit förslag till ett nytt prisämne för 1805 — en antydan om, att akademien redan då var bestämd att belöna Sundel. Det nya prisämnet var: Berättelse om Rikets uppbörd och kammarverk under medeltiden. Men till den 20 januari 1805 hade ingen skrift inkommit och ämnet utsattes därför på nytt till 1806, då akademien verkligen fick mottaga en skrift, som lämnades till Rosenhanes och Flintenbergs granskning. Den upplästes i akademien den 4 och 11 februari, då akademien instämde i granskarnas yttrande, »att ehuru den [skriften] ostridigt vittnade om sin författares både goda kunskaper och i synnerhet skicklighet att använda ett tjenligt skrifsätt till sitt ämnes afhandlande, förekommo dock här och där historiska misstag; särdeles saknades öfver alt anförande af de gällande bevis af tillförlitliga handlingar, som vid all historisk bearbetning är oundwikligen nödwändig. Akademien fann sig fördensskull icke i tillstånd att åt Författaren kunna tilldela belöningen, men beslöt att för nästa år utsätta samma ämne samt att i det offentliga tillkännagifvande, som därom i Tidningarna bör införas, de förtjenster academien funnit denna skrift äga, böra med bifall nämnas och att Författaren med någon ytterligare handläggning snart synes kunna gifva sitt arbete en erforderlig grad af fullkomlighet.»"
+  },
+  {
+   "bbox": [
+    1204,
+    898,
+    1291,
+    961
+   ],
+   "category": "Text",
+   "text": "1805—1807"
+  },
+  {
+   "bbox": [
+    1114,
+    1843,
+    1181,
+    1881
+   ],
+   "category": "Page-footer",
+   "text": "157"
+  }
+ ]
+}

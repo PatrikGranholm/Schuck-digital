@@ -1,0 +1,42 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 247,
+ "seconds": 11.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [770, 268, 1287, 312], \"category\": \"Section-header\", \"text\": \"Hallenbergs tid 1810—1819\"}, {\"bbox\": [507, 338, 1552, 720], \"category\": \"Text\", \"text\": \"Omsättningen inom klassen under dessa år — från ingången av 1810 till utgången av 1818 — hade varit ganska stor. Av de tjugo, av vilka klassen vid ingången av 1810 bestod, hade icke mindre än 12 lämnat sina rum lediga, och 11 nya hade valts; ett rum, Adlerbeths, var vid början av 1819 ännu vakant. Klassen bestod då efter ålder i akademien av följande ledamöter: Rosenberg, Hallenberg, Flintenberg, Leopold, Bergstedt, Åkerblad, Regnér, Norberg, Biberg, Rutström, Blad, Palin, Aurivillius, Grandel, Brinkman, Hultén, Wallmark, Jacob Adlerbeth och Thyselius.\"}, {\"bbox\": [517, 1841, 587, 1879], \"category\": \"Page-footer\", \"text\": \"230\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    770,
+    268,
+    1287,
+    312
+   ],
+   "category": "Section-header",
+   "text": "Hallenbergs tid 1810—1819"
+  },
+  {
+   "bbox": [
+    507,
+    338,
+    1552,
+    720
+   ],
+   "category": "Text",
+   "text": "Omsättningen inom klassen under dessa år — från ingången av 1810 till utgången av 1818 — hade varit ganska stor. Av de tjugo, av vilka klassen vid ingången av 1810 bestod, hade icke mindre än 12 lämnat sina rum lediga, och 11 nya hade valts; ett rum, Adlerbeths, var vid början av 1819 ännu vakant. Klassen bestod då efter ålder i akademien av följande ledamöter: Rosenberg, Hallenberg, Flintenberg, Leopold, Bergstedt, Åkerblad, Regnér, Norberg, Biberg, Rutström, Blad, Palin, Aurivillius, Grandel, Brinkman, Hultén, Wallmark, Jacob Adlerbeth och Thyselius."
+  },
+  {
+   "bbox": [
+    517,
+    1841,
+    587,
+    1879
+   ],
+   "category": "Page-footer",
+   "text": "230"
+  }
+ ]
+}

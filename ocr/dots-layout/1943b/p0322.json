@@ -1,0 +1,106 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 322,
+ "seconds": 12.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [237, 353, 547, 699], \"category\": \"Picture\"}, {\"bbox\": [237, 713, 547, 1057], \"category\": \"Picture\"}, {\"bbox\": [296, 1072, 484, 1109], \"category\": \"Caption\", \"text\": \"»Giresta-fyndet»\"}, {\"bbox\": [223, 1141, 541, 1487], \"category\": \"Picture\"}, {\"bbox\": [218, 1507, 536, 1854], \"category\": \"Picture\"}, {\"bbox\": [296, 1865, 469, 1902], \"category\": \"Caption\", \"text\": \"»Qville-fyndet»\"}, {\"bbox\": [745, 374, 1198, 1074], \"category\": \"Picture\"}, {\"bbox\": [829, 1089, 1082, 1125], \"category\": \"Caption\", \"text\": \"Apollo-Grannus-vasen\"}, {\"bbox\": [645, 1258, 1242, 1854], \"category\": \"Picture\"}, {\"bbox\": [849, 1871, 1036, 1906], \"category\": \"Caption\", \"text\": \"»Motala-fyndet»\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    237,
+    353,
+    547,
+    699
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    237,
+    713,
+    547,
+    1057
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    296,
+    1072,
+    484,
+    1109
+   ],
+   "category": "Caption",
+   "text": "»Giresta-fyndet»"
+  },
+  {
+   "bbox": [
+    223,
+    1141,
+    541,
+    1487
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    218,
+    1507,
+    536,
+    1854
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    296,
+    1865,
+    469,
+    1902
+   ],
+   "category": "Caption",
+   "text": "»Qville-fyndet»"
+  },
+  {
+   "bbox": [
+    745,
+    374,
+    1198,
+    1074
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    829,
+    1089,
+    1082,
+    1125
+   ],
+   "category": "Caption",
+   "text": "Apollo-Grannus-vasen"
+  },
+  {
+   "bbox": [
+    645,
+    1258,
+    1242,
+    1854
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    849,
+    1871,
+    1036,
+    1906
+   ],
+   "category": "Caption",
+   "text": "»Motala-fyndet»"
+  }
+ ]
+}

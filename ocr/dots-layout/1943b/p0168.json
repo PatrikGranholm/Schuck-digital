@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 168,
+ "seconds": 25.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [522, 526, 829, 561], \"category\": \"Section-header\", \"text\": \"TÄVLINGARNA.\"}, {\"bbox\": [141, 640, 1183, 891], \"category\": \"Text\", \"text\": \"Näst skyldigheten att syssla med medaljer och inskriptioner var akademiens viktigaste uppgift prisutdelningen i de fyra tävlingar, som årligen utsattes. Intresset för dem, som aldrig var stort, mattades under denna tid än ytterligare, och endast få tävlingsskrifter inkommo till den 20 januari. De behandlades dock av akademien med samma noggrannhet som förut.\"}, {\"bbox\": [141, 891, 1182, 975], \"category\": \"Text\", \"text\": \"Vi vända oss nu först till tävlingen i historia, som var den mest vetenskapliga.\"}, {\"bbox\": [141, 974, 1183, 1808], \"category\": \"Text\", \"text\": \"För 1800 års tävling hade såsom ämne bestämts: Historisk och kritisk afhandling om de böcker och skrifter, tryckta och otryckta, som i Sverige blifvit författade af Kongliga personer. Den 20 januari 1800 hade emellertid ingen tävlande anmält sig, och ämnet hade därför — med samma resultat — utsatts även till 1801 och 1802. 1803 stod det fortfarande kvar, men då hade verkligen den 20 januari en skrift med det uppgivna ämnet inkommit, dock med tillkännagivande, att författaren »ej alldeles hunnit fullborda sitt arbete», men att den återstående delen därav med det snaraste skulle inskickas. Till granskare utsågos Rosenhane och Flintenberg, och den 15 mars började man i akademien med skriftens uppläsning: »därefter företogs läsningen af den Svenska Prisskriften om de arbeten, som Svenska Kongliga personer författat, hvilken läsning fortsattes till klockan inemot half åtta, då academiens Ledamöter efter något öfver twänne timmars fortsatt arbete åtskildes. Och på Justitie Cantzleren Hr Liljestråles begäran lämnades nämnde skrift till hans genomläsande till nästa sammankomst, hvilken utsattes till nästkommande onsdag i stället för Tisdag.» Den 23 mars »fortsattes läsningen af den Svenska Prisskriften om de arbeten, som Svenska Kongliga personer författat, med hvilken läsning i twänne timmar\"}, {\"bbox\": [1205, 651, 1309, 771], \"category\": \"Text\", \"text\": \"Tävlingen i historia 1803 och 1804\"}, {\"bbox\": [1106, 1846, 1172, 1883], \"category\": \"Page-footer\", \"text\": \"153\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    522,
+    526,
+    829,
+    561
+   ],
+   "category": "Section-header",
+   "text": "TÄVLINGARNA."
+  },
+  {
+   "bbox": [
+    141,
+    640,
+    1183,
+    891
+   ],
+   "category": "Text",
+   "text": "Näst skyldigheten att syssla med medaljer och inskriptioner var akademiens viktigaste uppgift prisutdelningen i de fyra tävlingar, som årligen utsattes. Intresset för dem, som aldrig var stort, mattades under denna tid än ytterligare, och endast få tävlingsskrifter inkommo till den 20 januari. De behandlades dock av akademien med samma noggrannhet som förut."
+  },
+  {
+   "bbox": [
+    141,
+    891,
+    1182,
+    975
+   ],
+   "category": "Text",
+   "text": "Vi vända oss nu först till tävlingen i historia, som var den mest vetenskapliga."
+  },
+  {
+   "bbox": [
+    141,
+    974,
+    1183,
+    1808
+   ],
+   "category": "Text",
+   "text": "För 1800 års tävling hade såsom ämne bestämts: Historisk och kritisk afhandling om de böcker och skrifter, tryckta och otryckta, som i Sverige blifvit författade af Kongliga personer. Den 20 januari 1800 hade emellertid ingen tävlande anmält sig, och ämnet hade därför — med samma resultat — utsatts även till 1801 och 1802. 1803 stod det fortfarande kvar, men då hade verkligen den 20 januari en skrift med det uppgivna ämnet inkommit, dock med tillkännagivande, att författaren »ej alldeles hunnit fullborda sitt arbete», men att den återstående delen därav med det snaraste skulle inskickas. Till granskare utsågos Rosenhane och Flintenberg, och den 15 mars började man i akademien med skriftens uppläsning: »därefter företogs läsningen af den Svenska Prisskriften om de arbeten, som Svenska Kongliga personer författat, hvilken läsning fortsattes till klockan inemot half åtta, då academiens Ledamöter efter något öfver twänne timmars fortsatt arbete åtskildes. Och på Justitie Cantzleren Hr Liljestråles begäran lämnades nämnde skrift till hans genomläsande till nästa sammankomst, hvilken utsattes till nästkommande onsdag i stället för Tisdag.» Den 23 mars »fortsattes läsningen af den Svenska Prisskriften om de arbeten, som Svenska Kongliga personer författat, med hvilken läsning i twänne timmar"
+  },
+  {
+   "bbox": [
+    1205,
+    651,
+    1309,
+    771
+   ],
+   "category": "Text",
+   "text": "Tävlingen i historia 1803 och 1804"
+  },
+  {
+   "bbox": [
+    1106,
+    1846,
+    1172,
+    1883
+   ],
+   "category": "Page-footer",
+   "text": "153"
+  }
+ ]
+}

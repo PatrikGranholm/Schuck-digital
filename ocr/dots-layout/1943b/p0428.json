@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 428,
+ "seconds": 21.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [248, 255, 1021, 297], \"category\": \"Section-header\", \"text\": \"Sekreterare, amanuens, ledamöter och lokal\"}, {\"bbox\": [112, 325, 1162, 748], \"category\": \"Text\", \"text\": \"voro i behåll och synes kunna återfästas. Secreteraren anmälte vidare, att oagtat snart sagt alla väggarne i antiquitets och MyntCabinettets rum uptagas af andra saker, trodde han dock, att ett provisionellt ställe för dessa taflor kunde genom andra taflors omflyttning utfinnas derstädes och hemställde, om de icke dersammastädes borde förvaras såsom vördade minnen af academiens stiftarinna, dess Förste Beskyddare och dess omskapare, hvilket academien gillade, och hvad Grefve Oxenstiernas portrait angick, ansåg academien det böra fogas till den Samling af namnkunnige mäns portraiter, hvars flyttning till Gripsholm academien i underdånighet föreslagit.»\"}, {\"bbox\": [115, 746, 1163, 1041], \"category\": \"Text\", \"text\": \"Emellertid upptäcktes efter mer än ett år ännu ett porträtt, som vid eldsvådan 1802 också kommit bort. Den 18 augusti 1824 anmälde nämligen sekreteraren, »att det vid sista Inventeringen af academiens tillhörigheter saknade Portraitet af dess framl. Ledamot Canzli Rådet och Riddaren Porthan nu blifvit igenfunnet. Det upvistes och skulle förenas med den öfriga Sviten af Portraiter, som förvaras i MyntCabinettets rum.»\"}, {\"bbox\": [1089, 1823, 1162, 1861], \"category\": \"Page-footer\", \"text\": \"407\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    248,
+    255,
+    1021,
+    297
+   ],
+   "category": "Section-header",
+   "text": "Sekreterare, amanuens, ledamöter och lokal"
+  },
+  {
+   "bbox": [
+    112,
+    325,
+    1162,
+    748
+   ],
+   "category": "Text",
+   "text": "voro i behåll och synes kunna återfästas. Secreteraren anmälte vidare, att oagtat snart sagt alla väggarne i antiquitets och MyntCabinettets rum uptagas af andra saker, trodde han dock, att ett provisionellt ställe för dessa taflor kunde genom andra taflors omflyttning utfinnas derstädes och hemställde, om de icke dersammastädes borde förvaras såsom vördade minnen af academiens stiftarinna, dess Förste Beskyddare och dess omskapare, hvilket academien gillade, och hvad Grefve Oxenstiernas portrait angick, ansåg academien det böra fogas till den Samling af namnkunnige mäns portraiter, hvars flyttning till Gripsholm academien i underdånighet föreslagit.»"
+  },
+  {
+   "bbox": [
+    115,
+    746,
+    1163,
+    1041
+   ],
+   "category": "Text",
+   "text": "Emellertid upptäcktes efter mer än ett år ännu ett porträtt, som vid eldsvådan 1802 också kommit bort. Den 18 augusti 1824 anmälde nämligen sekreteraren, »att det vid sista Inventeringen af academiens tillhörigheter saknade Portraitet af dess framl. Ledamot Canzli Rådet och Riddaren Porthan nu blifvit igenfunnet. Det upvistes och skulle förenas med den öfriga Sviten af Portraiter, som förvaras i MyntCabinettets rum.»"
+  },
+  {
+   "bbox": [
+    1089,
+    1823,
+    1162,
+    1861
+   ],
+   "category": "Page-footer",
+   "text": "407"
+  }
+ ]
+}

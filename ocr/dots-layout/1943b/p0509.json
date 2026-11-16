@@ -1,0 +1,202 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 509,
+ "seconds": 35.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [818, 272, 1254, 314], \"category\": \"Section-header\", \"text\": \"Akademien 1794—1826\"}, {\"bbox\": [593, 342, 1405, 433], \"category\": \"Text\", \"text\": \"100. Årbolfyndet 100. Fynd 1799 103. 1800, Skörtingefyndet 103. 1802, Laihelafyndet 109. Hallenbergs Quatuor Monumenta 110. Fornvården 111. Kansliexamen 111.\"}, {\"bbox\": [516, 469, 1555, 512], \"category\": \"Text\", \"text\": \"Akademiens samlingar 114-125\"}, {\"bbox\": [593, 516, 1405, 580], \"category\": \"Text\", \"text\": \"Akademiens lokaler 114. Eldsvådan 1802 116. Inventeringen efter Tihleman 119.\"}, {\"bbox\": [593, 653, 1555, 696], \"category\": \"Text\", \"text\": \"HALLENBERGS TID 1803—1810 127-208\"}, {\"bbox\": [516, 720, 1555, 761], \"category\": \"Text\", \"text\": \"Sekreterare och ledamöter 129-141\"}, {\"bbox\": [593, 766, 1405, 859], \"category\": \"Text\", \"text\": \"Passivitetens tid 129. Hallenberg som sekreterare 131. Utländska ledamöter 136. Åkerblad 136. Utländska korrespondenter 138. Hedersledamöter 138. Arbetande ledamöter 140.\"}, {\"bbox\": [516, 887, 1555, 929], \"category\": \"Text\", \"text\": \"Medaljakademi och examensanstalt 142-152\"}, {\"bbox\": [593, 934, 1202, 967], \"category\": \"Text\", \"text\": \"Medalj- och inskriftsärenden 142. Kansliexamen 150.\"}, {\"bbox\": [516, 993, 1555, 1036], \"category\": \"Text\", \"text\": \"Tävlingarna 153-168\"}, {\"bbox\": [593, 1041, 1405, 1162], \"category\": \"Text\", \"text\": \"Tävlingarna i historia 1803 och 1804 153. 1805—07 157. 1808 och 1809 159. På främmande språk 1803 och 1804 160. 1805 och 1806 161. 1807 och 1809 163. I antikviteter 1803—1809 163. I inskriftskonst 166. Insända skrifter 167.\"}, {\"bbox\": [516, 1190, 1555, 1233], \"category\": \"Text\", \"text\": \"Ledamöternas egna skrifter 169-182\"}, {\"bbox\": [593, 1238, 1405, 1329], \"category\": \"Text\", \"text\": \"Inträdestalen 169. Tingstadius' 169. Masreliez' 171. Bergstedts 172. Dahls 173. Regnérs 174. Levernesbeskrivningarna 177. Vetenskapliga avhandlingar 180.\"}, {\"bbox\": [516, 1355, 1555, 1398], \"category\": \"Text\", \"text\": \"Fynd och fornvård 183-208\"}, {\"bbox\": [593, 1403, 1405, 1556], \"category\": \"Text\", \"text\": \"Fyndens inlösen 183. Fynd 1803 183. 1804 och 1805 185. Helgeandsholmsfyndet 186. Årstafyndet 191. Örkelljungafyndet och Hållsjöfyndet 192. 1806 och 1807 193. Ydrefyndet 193. Svartlösafyndet 194. 1808 194. 1809 196. Fornvården 196. Cirkuläret 1805 196. Rikssalen i Örebro 200. Utmelandskällaren 202. Johannisborg 203. Hågahögen 204.\"}, {\"bbox\": [593, 1629, 1555, 1672], \"category\": \"Text\", \"text\": \"HALLENBERGS TID 1810—1819 209-373\"}, {\"bbox\": [516, 1696, 1555, 1738], \"category\": \"Text\", \"text\": \"Sekreterare och ledamöter 211-229\"}, {\"bbox\": [593, 1743, 1405, 1806], \"category\": \"Text\", \"text\": \"Sekreterare och ledamöter 211. Sekreterarens lön 212. Utländska ledamöter 215. Catteau-Calleville 216. Montyon och Münter 218. Suchtelen 219.\"}, {\"bbox\": [516, 1833, 589, 1876], \"category\": \"Page-footer\", \"text\": \"488\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    818,
+    272,
+    1254,
+    314
+   ],
+   "category": "Section-header",
+   "text": "Akademien 1794—1826"
+  },
+  {
+   "bbox": [
+    593,
+    342,
+    1405,
+    433
+   ],
+   "category": "Text",
+   "text": "100. Årbolfyndet 100. Fynd 1799 103. 1800, Skörtingefyndet 103. 1802, Laihelafyndet 109. Hallenbergs Quatuor Monumenta 110. Fornvården 111. Kansliexamen 111."
+  },
+  {
+   "bbox": [
+    516,
+    469,
+    1555,
+    512
+   ],
+   "category": "Text",
+   "text": "Akademiens samlingar 114-125"
+  },
+  {
+   "bbox": [
+    593,
+    516,
+    1405,
+    580
+   ],
+   "category": "Text",
+   "text": "Akademiens lokaler 114. Eldsvådan 1802 116. Inventeringen efter Tihleman 119."
+  },
+  {
+   "bbox": [
+    593,
+    653,
+    1555,
+    696
+   ],
+   "category": "Text",
+   "text": "HALLENBERGS TID 1803—1810 127-208"
+  },
+  {
+   "bbox": [
+    516,
+    720,
+    1555,
+    761
+   ],
+   "category": "Text",
+   "text": "Sekreterare och ledamöter 129-141"
+  },
+  {
+   "bbox": [
+    593,
+    766,
+    1405,
+    859
+   ],
+   "category": "Text",
+   "text": "Passivitetens tid 129. Hallenberg som sekreterare 131. Utländska ledamöter 136. Åkerblad 136. Utländska korrespondenter 138. Hedersledamöter 138. Arbetande ledamöter 140."
+  },
+  {
+   "bbox": [
+    516,
+    887,
+    1555,
+    929
+   ],
+   "category": "Text",
+   "text": "Medaljakademi och examensanstalt 142-152"
+  },
+  {
+   "bbox": [
+    593,
+    934,
+    1202,
+    967
+   ],
+   "category": "Text",
+   "text": "Medalj- och inskriftsärenden 142. Kansliexamen 150."
+  },
+  {
+   "bbox": [
+    516,
+    993,
+    1555,
+    1036
+   ],
+   "category": "Text",
+   "text": "Tävlingarna 153-168"
+  },
+  {
+   "bbox": [
+    593,
+    1041,
+    1405,
+    1162
+   ],
+   "category": "Text",
+   "text": "Tävlingarna i historia 1803 och 1804 153. 1805—07 157. 1808 och 1809 159. På främmande språk 1803 och 1804 160. 1805 och 1806 161. 1807 och 1809 163. I antikviteter 1803—1809 163. I inskriftskonst 166. Insända skrifter 167."
+  },
+  {
+   "bbox": [
+    516,
+    1190,
+    1555,
+    1233
+   ],
+   "category": "Text",
+   "text": "Ledamöternas egna skrifter 169-182"
+  },
+  {
+   "bbox": [
+    593,
+    1238,
+    1405,
+    1329
+   ],
+   "category": "Text",
+   "text": "Inträdestalen 169. Tingstadius' 169. Masreliez' 171. Bergstedts 172. Dahls 173. Regnérs 174. Levernesbeskrivningarna 177. Vetenskapliga avhandlingar 180."
+  },
+  {
+   "bbox": [
+    516,
+    1355,
+    1555,
+    1398
+   ],
+   "category": "Text",
+   "text": "Fynd och fornvård 183-208"
+  },
+  {
+   "bbox": [
+    593,
+    1403,
+    1405,
+    1556
+   ],
+   "category": "Text",
+   "text": "Fyndens inlösen 183. Fynd 1803 183. 1804 och 1805 185. Helgeandsholmsfyndet 186. Årstafyndet 191. Örkelljungafyndet och Hållsjöfyndet 192. 1806 och 1807 193. Ydrefyndet 193. Svartlösafyndet 194. 1808 194. 1809 196. Fornvården 196. Cirkuläret 1805 196. Rikssalen i Örebro 200. Utmelandskällaren 202. Johannisborg 203. Hågahögen 204."
+  },
+  {
+   "bbox": [
+    593,
+    1629,
+    1555,
+    1672
+   ],
+   "category": "Text",
+   "text": "HALLENBERGS TID 1810—1819 209-373"
+  },
+  {
+   "bbox": [
+    516,
+    1696,
+    1555,
+    1738
+   ],
+   "category": "Text",
+   "text": "Sekreterare och ledamöter 211-229"
+  },
+  {
+   "bbox": [
+    593,
+    1743,
+    1405,
+    1806
+   ],
+   "category": "Text",
+   "text": "Sekreterare och ledamöter 211. Sekreterarens lön 212. Utländska ledamöter 215. Catteau-Calleville 216. Montyon och Münter 218. Suchtelen 219."
+  },
+  {
+   "bbox": [
+    516,
+    1833,
+    589,
+    1876
+   ],
+   "category": "Page-footer",
+   "text": "488"
+  }
+ ]
+}

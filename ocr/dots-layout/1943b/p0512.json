@@ -1,0 +1,51 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 512,
+ "seconds": 9.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [537, 806, 723, 840], \"category\": \"Text\", \"text\": \"UPPSALA\"}, {\"bbox\": [343, 868, 918, 898], \"category\": \"Text\", \"text\": \"ALMQVIST & WIKSELLS BOKTRYCKERI A.-B.\"}, {\"bbox\": [598, 917, 669, 946], \"category\": \"Text\", \"text\": \"1943\"}, {\"bbox\": [603, 972, 659, 1060], \"category\": \"Picture\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    537,
+    806,
+    723,
+    840
+   ],
+   "category": "Text",
+   "text": "UPPSALA"
+  },
+  {
+   "bbox": [
+    343,
+    868,
+    918,
+    898
+   ],
+   "category": "Text",
+   "text": "ALMQVIST & WIKSELLS BOKTRYCKERI A.-B."
+  },
+  {
+   "bbox": [
+    598,
+    917,
+    669,
+    946
+   ],
+   "category": "Text",
+   "text": "1943"
+  },
+  {
+   "bbox": [
+    603,
+    972,
+    659,
+    1060
+   ],
+   "category": "Picture"
+  }
+ ]
+}

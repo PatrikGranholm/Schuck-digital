@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 473,
+ "seconds": 26.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [833, 485, 1297, 521], \"category\": \"Section-header\", \"text\": \"FYND OCH FORNVÅRD.\"}, {\"bbox\": [410, 598, 1587, 1184], \"category\": \"Text\", \"text\": \"Fynd 1819 Några mera betydande nyförvärv blevo under tiden 1819—1826 icke införlivade med akademiens samlingar. I början av 1819 hade akademiens ledamot, egyptologen Åkerblad, avlidit och efterlämnat en samling orientaliska, mest egyptiska fornsaker, vilka hans syster hembjöd åt akademien. Sedan denna låtit Rutström och Blad granska dem, beslöt akademien att för ett pris av 200 drr av dess egna medel inköpa dem. Men *sedan* demoiselle Åkerblad förklarat sig därmed nöjd och mottagit inköpssumman, meddelade hon, att hon till envoyéen van Suchtelen försålt samlingen, likväl med villkor, att om akademien ville betala lika mycket som Suchtelen, skulle akademien ha förköpsrätten. Akademien, vilken »icke ansåg dessa samlingar mera värda, än hvad Hon [akademien] redan derföre budit, afstod från vidare anspråk derpå» (Prot. 1819, 20 april, 18 aug., 13 okt., 2 nov.). Köpet gick således tillbaka.\"}, {\"bbox\": [546, 1184, 1587, 1641], \"category\": \"Text\", \"text\": \"Den andra juni samma år fick akademien anbud på en annan »antikvitet», för vilken begärdes 30 drr banco, nämligen »en värja med nu brukligt fäste och beslag, men klingan på bägge sidor försedd med Runstafven, incrusterad med guld. Denna klinga skulle efter berättelse för flere år sedan vara funnen i jorden vid Calmar stad och hafva tillhört en Provincial Medicus i Länet vid namn Valbom. Som detta fynd icke ägde något antiquariskt värde, ansåg academien sig icke böra detsamma inlösa.» Likaså vägrade akademien att inlösa ett å Skerikes prästgård i Västmanland funnet Gustav Vasas rundstycke av 1544, då Myntkabinettet redan ägde flera varianter av samma mynt (Prot. 1819, 2 och 23 nov.).\"}, {\"bbox\": [546, 1641, 1587, 1808], \"category\": \"Text\", \"text\": \"Det enda fynd, med vilket samlingen under 1819 ökades, hade till Kungl. Maj:t inskickats av landshövdingen i Älvsborgs län. Enligt protokollet den 7 december bestod det av »Anglosaxiska, Tyska jämte andra äldre dels hela, dels söndrige mynt samt några forntids\"}, {\"bbox\": [550, 1845, 621, 1883], \"category\": \"Page-footer\", \"text\": \"452\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    833,
+    485,
+    1297,
+    521
+   ],
+   "category": "Section-header",
+   "text": "FYND OCH FORNVÅRD."
+  },
+  {
+   "bbox": [
+    410,
+    598,
+    1587,
+    1184
+   ],
+   "category": "Text",
+   "text": "Fynd 1819 Några mera betydande nyförvärv blevo under tiden 1819—1826 icke införlivade med akademiens samlingar. I början av 1819 hade akademiens ledamot, egyptologen Åkerblad, avlidit och efterlämnat en samling orientaliska, mest egyptiska fornsaker, vilka hans syster hembjöd åt akademien. Sedan denna låtit Rutström och Blad granska dem, beslöt akademien att för ett pris av 200 drr av dess egna medel inköpa dem. Men *sedan* demoiselle Åkerblad förklarat sig därmed nöjd och mottagit inköpssumman, meddelade hon, att hon till envoyéen van Suchtelen försålt samlingen, likväl med villkor, att om akademien ville betala lika mycket som Suchtelen, skulle akademien ha förköpsrätten. Akademien, vilken »icke ansåg dessa samlingar mera värda, än hvad Hon [akademien] redan derföre budit, afstod från vidare anspråk derpå» (Prot. 1819, 20 april, 18 aug., 13 okt., 2 nov.). Köpet gick således tillbaka."
+  },
+  {
+   "bbox": [
+    546,
+    1184,
+    1587,
+    1641
+   ],
+   "category": "Text",
+   "text": "Den andra juni samma år fick akademien anbud på en annan »antikvitet», för vilken begärdes 30 drr banco, nämligen »en värja med nu brukligt fäste och beslag, men klingan på bägge sidor försedd med Runstafven, incrusterad med guld. Denna klinga skulle efter berättelse för flere år sedan vara funnen i jorden vid Calmar stad och hafva tillhört en Provincial Medicus i Länet vid namn Valbom. Som detta fynd icke ägde något antiquariskt värde, ansåg academien sig icke böra detsamma inlösa.» Likaså vägrade akademien att inlösa ett å Skerikes prästgård i Västmanland funnet Gustav Vasas rundstycke av 1544, då Myntkabinettet redan ägde flera varianter av samma mynt (Prot. 1819, 2 och 23 nov.)."
+  },
+  {
+   "bbox": [
+    546,
+    1641,
+    1587,
+    1808
+   ],
+   "category": "Text",
+   "text": "Det enda fynd, med vilket samlingen under 1819 ökades, hade till Kungl. Maj:t inskickats av landshövdingen i Älvsborgs län. Enligt protokollet den 7 december bestod det av »Anglosaxiska, Tyska jämte andra äldre dels hela, dels söndrige mynt samt några forntids"
+  },
+  {
+   "bbox": [
+    550,
+    1845,
+    621,
+    1883
+   ],
+   "category": "Page-footer",
+   "text": "452"
+  }
+ ]
+}

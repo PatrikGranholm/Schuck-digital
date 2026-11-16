@@ -1,0 +1,42 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 223,
+ "seconds": 11.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [765, 267, 1295, 311], \"category\": \"Section-header\", \"text\": \"Hallenbergs tid 1803—1810\"}, {\"bbox\": [501, 338, 1554, 633], \"category\": \"Text\", \"text\": \"Särskilt intresserad för fornvården hade akademien således ej visat sig vara. Men endast några år därefter blev denna fråga brännande, och i akademiens historia under åren 1810—1819 intager akademiens ställning till fornvården den mest framträdande platsen. Innan vi komma tillbaka till dessa fornvårdsärenden, torde dock vara lämpligt att liksom förut börja historiken med en redogörelse för ledamotsomsättningen, tävlingarna, fynden m. m.\"}, {\"bbox\": [510, 1830, 581, 1867], \"category\": \"Page-footer\", \"text\": \"208\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    765,
+    267,
+    1295,
+    311
+   ],
+   "category": "Section-header",
+   "text": "Hallenbergs tid 1803—1810"
+  },
+  {
+   "bbox": [
+    501,
+    338,
+    1554,
+    633
+   ],
+   "category": "Text",
+   "text": "Särskilt intresserad för fornvården hade akademien således ej visat sig vara. Men endast några år därefter blev denna fråga brännande, och i akademiens historia under åren 1810—1819 intager akademiens ställning till fornvården den mest framträdande platsen. Innan vi komma tillbaka till dessa fornvårdsärenden, torde dock vara lämpligt att liksom förut börja historiken med en redogörelse för ledamotsomsättningen, tävlingarna, fynden m. m."
+  },
+  {
+   "bbox": [
+    510,
+    1830,
+    581,
+    1867
+   ],
+   "category": "Page-footer",
+   "text": "208"
+  }
+ ]
+}

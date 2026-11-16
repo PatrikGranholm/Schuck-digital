@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 471,
+ "seconds": 34.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [833, 264, 1312, 305], \"category\": \"Page-header\", \"text\": \"Rutströms tid 1819—1826\"}, {\"bbox\": [554, 335, 1592, 712], \"category\": \"Text\", \"text\": \"tävlingsskriften i antikviteterna yttrade Adlerbeth och Sundel, att den röjde »en intim bekantskap med Nordens äldsta skrifter och minnesmärken, den ande och den egna form, som råder i deras framställningar, förtjenster, som väl syntes kunna berättiga författaren till det utsatta priset, i synnerhet med det vilkor, att vissa delar af denna skrift och vissa onödiga bihang utelemnades. Academiens dom uppsköts till en annan gång.» Egendomligt nog yttrade de icke ett ord om den tredje antikvariska skriften, Fornskalldatal, och även av akademien förbigicks den samt blev varken gillad eller ogillad.\"}, {\"bbox\": [554, 711, 1592, 1252], \"category\": \"Text\", \"text\": \"Vid sammanträdet den 21 mars skred akademien till avgörande av det antikvariska priset och beslöt då att tilldela nr. 1 (Det Sinnebildliga i de gamla Skandinavernas Språk och Skrift) det utsatta priset, dock med det av granskarne angivna villkoret. Vid namnsedelns öppnande befanns prisvinnaren vara Liljegren — en upptäckt, som ställer hans föregående uppgift i ett egendomligt ljus: att han »af okänd hand för ungefär en vecka sedan» mottagit denna och de två andra skrifterna. Den uppgiften var således ej med sanningen överensstämmande och avsåg väl, såsom jag förmodat, att hålla akademien i okunnighet om författaren. Även en annan möjlig förklaring är tänkbar: att skrifterna ej voro färdiga till den 20 januari. Men den korta tiden mellan den 20 och 24 januari, då förklaringen avgavs, gör detta antagande mindre sannolikt.\"}, {\"bbox\": [554, 1252, 1592, 1794], \"category\": \"Text\", \"text\": \"Vid sammanträdet den 21 mars avgjordes även det historiska priset: »Af de återstående 2ne Täflingsskrifterna i de Historiska ämnena, den ena om Konung Gustaf I:s Reformation, den andra, Kongl. Antiquitets Collegii Historia, medhanns upläsningen endast af en liten del af den sednare skriften jemte de utsedde Granskarnes, Envoyéen von Brinkmans insända yttrande på egen och dess medgranskares, Professor Geijers, vägnar, hvilken med honom brefvexlat härom så öfver den ena som den andra Skriften, af innehåll, att Skriften om K. Gustaf I:s Reformation är vidlöftig utan att vara sakrik, att det rika ämnet icke blifvit lyckligt nog begagnadt för att igenom nya åsigter, djupsinniga tankar eller lysande målningar ersätta bristen på de egenskaper, hvilka kunde göra anspråk på academiens belöning, att dess innehåll är hvardagligt och vältaligheten torr och utan\"}, {\"bbox\": [554, 1831, 629, 1868], \"category\": \"Page-footer\", \"text\": \"450\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    833,
+    264,
+    1312,
+    305
+   ],
+   "category": "Page-header",
+   "text": "Rutströms tid 1819—1826"
+  },
+  {
+   "bbox": [
+    554,
+    335,
+    1592,
+    712
+   ],
+   "category": "Text",
+   "text": "tävlingsskriften i antikviteterna yttrade Adlerbeth och Sundel, att den röjde »en intim bekantskap med Nordens äldsta skrifter och minnesmärken, den ande och den egna form, som råder i deras framställningar, förtjenster, som väl syntes kunna berättiga författaren till det utsatta priset, i synnerhet med det vilkor, att vissa delar af denna skrift och vissa onödiga bihang utelemnades. Academiens dom uppsköts till en annan gång.» Egendomligt nog yttrade de icke ett ord om den tredje antikvariska skriften, Fornskalldatal, och även av akademien förbigicks den samt blev varken gillad eller ogillad."
+  },
+  {
+   "bbox": [
+    554,
+    711,
+    1592,
+    1252
+   ],
+   "category": "Text",
+   "text": "Vid sammanträdet den 21 mars skred akademien till avgörande av det antikvariska priset och beslöt då att tilldela nr. 1 (Det Sinnebildliga i de gamla Skandinavernas Språk och Skrift) det utsatta priset, dock med det av granskarne angivna villkoret. Vid namnsedelns öppnande befanns prisvinnaren vara Liljegren — en upptäckt, som ställer hans föregående uppgift i ett egendomligt ljus: att han »af okänd hand för ungefär en vecka sedan» mottagit denna och de två andra skrifterna. Den uppgiften var således ej med sanningen överensstämmande och avsåg väl, såsom jag förmodat, att hålla akademien i okunnighet om författaren. Även en annan möjlig förklaring är tänkbar: att skrifterna ej voro färdiga till den 20 januari. Men den korta tiden mellan den 20 och 24 januari, då förklaringen avgavs, gör detta antagande mindre sannolikt."
+  },
+  {
+   "bbox": [
+    554,
+    1252,
+    1592,
+    1794
+   ],
+   "category": "Text",
+   "text": "Vid sammanträdet den 21 mars avgjordes även det historiska priset: »Af de återstående 2ne Täflingsskrifterna i de Historiska ämnena, den ena om Konung Gustaf I:s Reformation, den andra, Kongl. Antiquitets Collegii Historia, medhanns upläsningen endast af en liten del af den sednare skriften jemte de utsedde Granskarnes, Envoyéen von Brinkmans insända yttrande på egen och dess medgranskares, Professor Geijers, vägnar, hvilken med honom brefvexlat härom så öfver den ena som den andra Skriften, af innehåll, att Skriften om K. Gustaf I:s Reformation är vidlöftig utan att vara sakrik, att det rika ämnet icke blifvit lyckligt nog begagnadt för att igenom nya åsigter, djupsinniga tankar eller lysande målningar ersätta bristen på de egenskaper, hvilka kunde göra anspråk på academiens belöning, att dess innehåll är hvardagligt och vältaligheten torr och utan"
+  },
+  {
+   "bbox": [
+    554,
+    1831,
+    629,
+    1868
+   ],
+   "category": "Page-footer",
+   "text": "450"
+  }
+ ]
+}

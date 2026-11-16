@@ -1,0 +1,252 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 54,
+ "seconds": 36.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [287, 274, 1002, 318], \"category\": \"Section-header\", \"text\": \"Det akademiska arbetet och tävlingarna\"}, {\"bbox\": [127, 347, 206, 384], \"category\": \"Text\", \"text\": \"1796.\"}, {\"bbox\": [144, 386, 927, 424], \"category\": \"List-item\", \"text\": \"1 mars. Medalj över assessor Odhelius' avlidna hustru.\"}, {\"bbox\": [144, 424, 959, 461], \"category\": \"List-item\", \"text\": \"8 mars. Inskription på Falsterbo fyrbåk (forts. 15 mars).\"}, {\"bbox\": [144, 459, 1161, 533], \"category\": \"List-item\", \"text\": \"5 april. Kammarkollegii medalj över konungens första besök på Kgl. Myntet (forts. 12 april).\"}, {\"bbox\": [144, 531, 1162, 598], \"category\": \"List-item\", \"text\": \"3 maj. Inskription på Alingsås kyrka. Minnesvård över fabrikör Lendahl.\"}, {\"bbox\": [127, 602, 920, 641], \"category\": \"List-item\", \"text\": \"10 maj. Inskription på ett gravhus i Hällefors socken.\"}, {\"bbox\": [127, 639, 1162, 713], \"category\": \"List-item\", \"text\": \"24 maj. Järnkontorets förslag till medalj över konungens anträde till regeringen (forts. 31 maj).\"}, {\"bbox\": [127, 711, 1162, 821], \"category\": \"List-item\", \"text\": \"17 aug. Inskription på Tjärstads kyrka i Linköpings stift. Inskription på Gellaryds och Rydboholms kyrkor (forts. 14 sept). Inskription på K. Biblioteket (forts. 14 sept., 8 nov.).\"}, {\"bbox\": [127, 819, 1162, 893], \"category\": \"List-item\", \"text\": \"14 sept. Järnbrukssocietetens nya förslag till medalj över konungens anträde till regeringen (se förut 24 maj).\"}, {\"bbox\": [127, 913, 204, 945], \"category\": \"Text\", \"text\": \"1797.\"}, {\"bbox\": [127, 948, 1161, 1023], \"category\": \"List-item\", \"text\": \"10 jan. Morianen Badins förslag till en medalj kritiseras (forts. 11 och 15 april).\"}, {\"bbox\": [127, 1021, 1161, 1088], \"category\": \"List-item\", \"text\": \"31 jan. Medaljören Grandel får tillåtelse att låta prägla en medalj över Gustav III:s död.\"}, {\"bbox\": [141, 1092, 1161, 1201], \"category\": \"List-item\", \"text\": \"7 febr. Vetenskapsakademiens medalj över Wilcke (forts. 14 februari). Målar- och Bildhuggarakademien begär förslag till två medaljer (forts. 21 febr. och 7 mars).\"}, {\"bbox\": [141, 1201, 1065, 1238], \"category\": \"List-item\", \"text\": \"7 mars. Belöningspenning för elever vid Musikaliska akademien.\"}, {\"bbox\": [127, 1236, 1161, 1345], \"category\": \"List-item\", \"text\": \"14 mars. Akademien ålägges att giva förslag till inskrift på Gustav Adolfs staty (forts. 28 mars, 4 och 11 april). Vetenskapsakademiens medalj över Bäck (forts. 21 mars). Medalj över borgmästar Flodin.\"}, {\"bbox\": [127, 1343, 856, 1381], \"category\": \"List-item\", \"text\": \"11 april. Belöningspenning för Fribyggarsällskapet.\"}, {\"bbox\": [141, 1379, 1161, 1453], \"category\": \"List-item\", \"text\": \"2 maj. Inskription under Gustav III:s porträtt i Svartsjö tingstuga (forts. 9 maj, 2 och 13 juni). Belöningspenning i Fackelgillet.\"}, {\"bbox\": [127, 1451, 980, 1489], \"category\": \"List-item\", \"text\": \"23 maj. Medaljören Enhörning får varning (forts. 30 maj).\"}, {\"bbox\": [127, 1487, 775, 1524], \"category\": \"List-item\", \"text\": \"12 juli. Medalj över danska kronprinsessan.\"}, {\"bbox\": [127, 1522, 1161, 1596], \"category\": \"List-item\", \"text\": \"10 aug. Inskription på Vassunda och Naglems kyrka. Inskription på Storklockan i Strängnäs (forts. 3 sept.).\"}, {\"bbox\": [127, 1594, 1161, 1739], \"category\": \"List-item\", \"text\": \"13 sept. Akademien ingriper mot en kyrkinskription, som icke prövats av akademien (forts. 19 sept.). Akademien ålägges att skyndsamt avgiva förslag till inskription på Gustav III:s staty (forts. 19 sept., 28 november).\"}, {\"bbox\": [127, 1737, 1161, 1812], \"category\": \"List-item\", \"text\": \"19 sept. Akademien ålägges att skyndsamt avgiva förslag till medalj över konungens biläger (forts. 26 sept.).\"}, {\"bbox\": [1110, 1842, 1156, 1879], \"category\": \"Page-footer\", \"text\": \"39\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    287,
+    274,
+    1002,
+    318
+   ],
+   "category": "Section-header",
+   "text": "Det akademiska arbetet och tävlingarna"
+  },
+  {
+   "bbox": [
+    127,
+    347,
+    206,
+    384
+   ],
+   "category": "Text",
+   "text": "1796."
+  },
+  {
+   "bbox": [
+    144,
+    386,
+    927,
+    424
+   ],
+   "category": "List-item",
+   "text": "1 mars. Medalj över assessor Odhelius' avlidna hustru."
+  },
+  {
+   "bbox": [
+    144,
+    424,
+    959,
+    461
+   ],
+   "category": "List-item",
+   "text": "8 mars. Inskription på Falsterbo fyrbåk (forts. 15 mars)."
+  },
+  {
+   "bbox": [
+    144,
+    459,
+    1161,
+    533
+   ],
+   "category": "List-item",
+   "text": "5 april. Kammarkollegii medalj över konungens första besök på Kgl. Myntet (forts. 12 april)."
+  },
+  {
+   "bbox": [
+    144,
+    531,
+    1162,
+    598
+   ],
+   "category": "List-item",
+   "text": "3 maj. Inskription på Alingsås kyrka. Minnesvård över fabrikör Lendahl."
+  },
+  {
+   "bbox": [
+    127,
+    602,
+    920,
+    641
+   ],
+   "category": "List-item",
+   "text": "10 maj. Inskription på ett gravhus i Hällefors socken."
+  },
+  {
+   "bbox": [
+    127,
+    639,
+    1162,
+    713
+   ],
+   "category": "List-item",
+   "text": "24 maj. Järnkontorets förslag till medalj över konungens anträde till regeringen (forts. 31 maj)."
+  },
+  {
+   "bbox": [
+    127,
+    711,
+    1162,
+    821
+   ],
+   "category": "List-item",
+   "text": "17 aug. Inskription på Tjärstads kyrka i Linköpings stift. Inskription på Gellaryds och Rydboholms kyrkor (forts. 14 sept). Inskription på K. Biblioteket (forts. 14 sept., 8 nov.)."
+  },
+  {
+   "bbox": [
+    127,
+    819,
+    1162,
+    893
+   ],
+   "category": "List-item",
+   "text": "14 sept. Järnbrukssocietetens nya förslag till medalj över konungens anträde till regeringen (se förut 24 maj)."
+  },
+  {
+   "bbox": [
+    127,
+    913,
+    204,
+    945
+   ],
+   "category": "Text",
+   "text": "1797."
+  },
+  {
+   "bbox": [
+    127,
+    948,
+    1161,
+    1023
+   ],
+   "category": "List-item",
+   "text": "10 jan. Morianen Badins förslag till en medalj kritiseras (forts. 11 och 15 april)."
+  },
+  {
+   "bbox": [
+    127,
+    1021,
+    1161,
+    1088
+   ],
+   "category": "List-item",
+   "text": "31 jan. Medaljören Grandel får tillåtelse att låta prägla en medalj över Gustav III:s död."
+  },
+  {
+   "bbox": [
+    141,
+    1092,
+    1161,
+    1201
+   ],
+   "category": "List-item",
+   "text": "7 febr. Vetenskapsakademiens medalj över Wilcke (forts. 14 februari). Målar- och Bildhuggarakademien begär förslag till två medaljer (forts. 21 febr. och 7 mars)."
+  },
+  {
+   "bbox": [
+    141,
+    1201,
+    1065,
+    1238
+   ],
+   "category": "List-item",
+   "text": "7 mars. Belöningspenning för elever vid Musikaliska akademien."
+  },
+  {
+   "bbox": [
+    127,
+    1236,
+    1161,
+    1345
+   ],
+   "category": "List-item",
+   "text": "14 mars. Akademien ålägges att giva förslag till inskrift på Gustav Adolfs staty (forts. 28 mars, 4 och 11 april). Vetenskapsakademiens medalj över Bäck (forts. 21 mars). Medalj över borgmästar Flodin."
+  },
+  {
+   "bbox": [
+    127,
+    1343,
+    856,
+    1381
+   ],
+   "category": "List-item",
+   "text": "11 april. Belöningspenning för Fribyggarsällskapet."
+  },
+  {
+   "bbox": [
+    141,
+    1379,
+    1161,
+    1453
+   ],
+   "category": "List-item",
+   "text": "2 maj. Inskription under Gustav III:s porträtt i Svartsjö tingstuga (forts. 9 maj, 2 och 13 juni). Belöningspenning i Fackelgillet."
+  },
+  {
+   "bbox": [
+    127,
+    1451,
+    980,
+    1489
+   ],
+   "category": "List-item",
+   "text": "23 maj. Medaljören Enhörning får varning (forts. 30 maj)."
+  },
+  {
+   "bbox": [
+    127,
+    1487,
+    775,
+    1524
+   ],
+   "category": "List-item",
+   "text": "12 juli. Medalj över danska kronprinsessan."
+  },
+  {
+   "bbox": [
+    127,
+    1522,
+    1161,
+    1596
+   ],
+   "category": "List-item",
+   "text": "10 aug. Inskription på Vassunda och Naglems kyrka. Inskription på Storklockan i Strängnäs (forts. 3 sept.)."
+  },
+  {
+   "bbox": [
+    127,
+    1594,
+    1161,
+    1739
+   ],
+   "category": "List-item",
+   "text": "13 sept. Akademien ingriper mot en kyrkinskription, som icke prövats av akademien (forts. 19 sept.). Akademien ålägges att skyndsamt avgiva förslag till inskription på Gustav III:s staty (forts. 19 sept., 28 november)."
+  },
+  {
+   "bbox": [
+    127,
+    1737,
+    1161,
+    1812
+   ],
+   "category": "List-item",
+   "text": "19 sept. Akademien ålägges att skyndsamt avgiva förslag till medalj över konungens biläger (forts. 26 sept.)."
+  },
+  {
+   "bbox": [
+    1110,
+    1842,
+    1156,
+    1879
+   ],
+   "category": "Page-footer",
+   "text": "39"
+  }
+ ]
+}

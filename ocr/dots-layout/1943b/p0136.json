@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 136,
+ "seconds": 26.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [476, 272, 871, 315], \"category\": \"Page-header\", \"text\": \"Akademiens samlingar\"}, {\"bbox\": [155, 342, 1193, 761], \"category\": \"Text\", \"text\": \"om ett rum i Museum till förwarande af de öfrige academiens tillhörigheter, som icke kunde med nog säkerhet, af brist på rum, i Kongl. Wetenskaps academiens hus inrymmas. Så snart samma rum i Museum blifvit ledigt och flyttningen för sig gått, skulle Secreteraren därom göra sin berättelse till academien, då academien kunde utnämna någre af sina Ledamöter att dessa sina tillhörigheter wederbörligen inventera, hvarefter det tillhörde Secreteraren att emottaga nycklarna och för wården vara answarig.» Akademien hade nu således fått ett rum i Slottet — något som den redan året förut kunnat begära.\"}, {\"bbox\": [152, 761, 1192, 1636], \"category\": \"Text\", \"text\": \"Den fråga, som i samband med eldsvådan åter togs upp, var om inventeringen till den nye Secreteraren Hallenberg — en inventering, som nu var desto nödvändigare i följd av upptäckten av Tihlemans slarv och förskingringar. Den 1 mars 1803 anmälde Hallenberg, »att de öfrige academiens Handlingar och tillhörigheter borde honom efter ordentliga förteckningar tillställas, antingen wid en wanlig academiens sammankomst eller ock af twänne academiens dertill förordnade Ledamöter samt amanuensen, som räddat academiens samlingar undan eldswådan i Gamla Kungshuset, där de i academiens rum warit förwarade. Academien fann wäl detta wara alldeles i sin ordning, men som samma Samlingar för det närwarande icke wore i academiens wård, utan hade tills widare blifwit insatta i förwar i Kongl. Wetenskaps academien och kunde icke genomses och bringas i ordning, förrän denna Kongl. academien erhållit något rum till deras förwarande, det jämwäl war bekant, att en del Handlingar efter branden ännu saknades, som torde komma till rätta, samt att wid Bouppteckningen efter Secreteraren Tihleman åtskilligt academien tillhörigt blifwit funnet i hans Sterbhus, så kunde icke någon inventering ske, förrän samma Sterbhus blifwit utredt, alla academiens Samlingar tillhopa bragte och academien erhållit något rum till deras förwarande.»\"}, {\"bbox\": [152, 1636, 1190, 1804], \"category\": \"Text\", \"text\": \"Inventeringen uppsköts således, men frågan togs ånyo upp vid sammanträdet den 10 januari 1804: »Secreteraren anmälte, att academiens Samlingar hade förliden vecka blifvit flyttade från Wetenskaps academiens hus i det rum i Kgl. Museum, som academien\"}, {\"bbox\": [1115, 1843, 1180, 1870], \"category\": \"Page-footer\", \"text\": \"121\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    476,
+    272,
+    871,
+    315
+   ],
+   "category": "Page-header",
+   "text": "Akademiens samlingar"
+  },
+  {
+   "bbox": [
+    155,
+    342,
+    1193,
+    761
+   ],
+   "category": "Text",
+   "text": "om ett rum i Museum till förwarande af de öfrige academiens tillhörigheter, som icke kunde med nog säkerhet, af brist på rum, i Kongl. Wetenskaps academiens hus inrymmas. Så snart samma rum i Museum blifvit ledigt och flyttningen för sig gått, skulle Secreteraren därom göra sin berättelse till academien, då academien kunde utnämna någre af sina Ledamöter att dessa sina tillhörigheter wederbörligen inventera, hvarefter det tillhörde Secreteraren att emottaga nycklarna och för wården vara answarig.» Akademien hade nu således fått ett rum i Slottet — något som den redan året förut kunnat begära."
+  },
+  {
+   "bbox": [
+    152,
+    761,
+    1192,
+    1636
+   ],
+   "category": "Text",
+   "text": "Den fråga, som i samband med eldsvådan åter togs upp, var om inventeringen till den nye Secreteraren Hallenberg — en inventering, som nu var desto nödvändigare i följd av upptäckten av Tihlemans slarv och förskingringar. Den 1 mars 1803 anmälde Hallenberg, »att de öfrige academiens Handlingar och tillhörigheter borde honom efter ordentliga förteckningar tillställas, antingen wid en wanlig academiens sammankomst eller ock af twänne academiens dertill förordnade Ledamöter samt amanuensen, som räddat academiens samlingar undan eldswådan i Gamla Kungshuset, där de i academiens rum warit förwarade. Academien fann wäl detta wara alldeles i sin ordning, men som samma Samlingar för det närwarande icke wore i academiens wård, utan hade tills widare blifwit insatta i förwar i Kongl. Wetenskaps academien och kunde icke genomses och bringas i ordning, förrän denna Kongl. academien erhållit något rum till deras förwarande, det jämwäl war bekant, att en del Handlingar efter branden ännu saknades, som torde komma till rätta, samt att wid Bouppteckningen efter Secreteraren Tihleman åtskilligt academien tillhörigt blifwit funnet i hans Sterbhus, så kunde icke någon inventering ske, förrän samma Sterbhus blifwit utredt, alla academiens Samlingar tillhopa bragte och academien erhållit något rum till deras förwarande.»"
+  },
+  {
+   "bbox": [
+    152,
+    1636,
+    1190,
+    1804
+   ],
+   "category": "Text",
+   "text": "Inventeringen uppsköts således, men frågan togs ånyo upp vid sammanträdet den 10 januari 1804: »Secreteraren anmälte, att academiens Samlingar hade förliden vecka blifvit flyttade från Wetenskaps academiens hus i det rum i Kgl. Museum, som academien"
+  },
+  {
+   "bbox": [
+    1115,
+    1843,
+    1180,
+    1870
+   ],
+   "category": "Page-footer",
+   "text": "121"
+  }
+ ]
+}

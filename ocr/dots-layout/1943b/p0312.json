@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 312,
+ "seconds": 27.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [587, 274, 715, 316], \"category\": \"Section-header\", \"text\": \"Fynden\"}, {\"bbox\": [131, 345, 1168, 429], \"category\": \"Text\", \"text\": \"själv undertecknat kungabrev (den 4 mars), i vilket Statskontoret förständigades att till dess inlösen utbetala — 46 skilling!\"}, {\"bbox\": [126, 429, 1169, 1347], \"category\": \"Text\", \"text\": \"Den 24 mars »aflemnade H. Excellence Stats Ministern Hr Grefve von Engeström till underteknad [Sundel] för att Hr Canzli Rådet Hallenberg tillställas en samling af gamla mynt, utgörande 6 i guld, 21 i silfver och 18 i koppar, hvarvid Hans Excellence förmälte sig vilja till academiens Mynt Samling gifva så många deraf, som i MyntCabinettet saknades. Af de öfrige lemnade Hans Excellence Hr Canzli Rådet Hallenberg frihet att för enskild räkning få välja dem han åstundade, hvarefter resten skulle H. Excellence återställas.» Från Engeströms sida förefaller ju detta erbjudande som en fredsgåva till Hallenberg. Men denna avvisades bestämt av Hallenberg. Protokollet för den 1 april lyder nämligen: »Till Hans Excellence Stats Ministern Herr Grefve von Engeström återlemnade underteknad [Sundel] 45 st. gamla mynt, nemligen 6 i guld, 21 i silfver och 18 i koppar, af hvilka Hans Excellence benäget lofvat skänka till Academiens myntsamling så många, som till äfventyrs deri saknades, jemte tillstånd för academiens secreterare att för egen del bland de öfriga få utvälja dem, han åstundade. I förra afseendet hade Hr Canzli Rådet Hallenberg tillkännagifvit, att han vid anstäld undersökning icke funnit några af dem saknas uti academiens Samling och i det senare anmodat mig att för H. Excell. anmäla sin vördnadsfulla tacksamhet för offerten, den han icke trott sig böra emottaga.»\"}, {\"bbox\": [124, 1347, 1166, 1806], \"category\": \"Text\", \"text\": \"Senare på året, den 4 november, gjorde Hallenberg själv en donation, i vilken man troligen har att se en dold adress till Engeström: »Anmälte acad:s vice President H. Excellence Stats Rådet Hr Grefve Rosenblad, att Hr Canzli Rådet Hallenberg till Konungens Mynt Cabinet förärat en derstädes förut icke befintlig gammal Egyptisk penning af den metallblandning, som i myntstil kallas Potin, å hvars ena sida är Jupiter Ammons hufvud med yfvigt hår och å den andra en örn stående på åskviggar med omskrift [här ej återgiven] samt till akademiens Boksamling aflemnat tvenne dess arbeten, af trycket utgifna, neml. Disquisitio de nominibus in Lingua Sviogothica Lucis et visus cultusque solaris in eadem lingua vestigiis etc. P. Prior\"}, {\"bbox\": [1093, 1842, 1161, 1880], \"category\": \"Page-footer\", \"text\": \"295\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    587,
+    274,
+    715,
+    316
+   ],
+   "category": "Section-header",
+   "text": "Fynden"
+  },
+  {
+   "bbox": [
+    131,
+    345,
+    1168,
+    429
+   ],
+   "category": "Text",
+   "text": "själv undertecknat kungabrev (den 4 mars), i vilket Statskontoret förständigades att till dess inlösen utbetala — 46 skilling!"
+  },
+  {
+   "bbox": [
+    126,
+    429,
+    1169,
+    1347
+   ],
+   "category": "Text",
+   "text": "Den 24 mars »aflemnade H. Excellence Stats Ministern Hr Grefve von Engeström till underteknad [Sundel] för att Hr Canzli Rådet Hallenberg tillställas en samling af gamla mynt, utgörande 6 i guld, 21 i silfver och 18 i koppar, hvarvid Hans Excellence förmälte sig vilja till academiens Mynt Samling gifva så många deraf, som i MyntCabinettet saknades. Af de öfrige lemnade Hans Excellence Hr Canzli Rådet Hallenberg frihet att för enskild räkning få välja dem han åstundade, hvarefter resten skulle H. Excellence återställas.» Från Engeströms sida förefaller ju detta erbjudande som en fredsgåva till Hallenberg. Men denna avvisades bestämt av Hallenberg. Protokollet för den 1 april lyder nämligen: »Till Hans Excellence Stats Ministern Herr Grefve von Engeström återlemnade underteknad [Sundel] 45 st. gamla mynt, nemligen 6 i guld, 21 i silfver och 18 i koppar, af hvilka Hans Excellence benäget lofvat skänka till Academiens myntsamling så många, som till äfventyrs deri saknades, jemte tillstånd för academiens secreterare att för egen del bland de öfriga få utvälja dem, han åstundade. I förra afseendet hade Hr Canzli Rådet Hallenberg tillkännagifvit, att han vid anstäld undersökning icke funnit några af dem saknas uti academiens Samling och i det senare anmodat mig att för H. Excell. anmäla sin vördnadsfulla tacksamhet för offerten, den han icke trott sig böra emottaga.»"
+  },
+  {
+   "bbox": [
+    124,
+    1347,
+    1166,
+    1806
+   ],
+   "category": "Text",
+   "text": "Senare på året, den 4 november, gjorde Hallenberg själv en donation, i vilken man troligen har att se en dold adress till Engeström: »Anmälte acad:s vice President H. Excellence Stats Rådet Hr Grefve Rosenblad, att Hr Canzli Rådet Hallenberg till Konungens Mynt Cabinet förärat en derstädes förut icke befintlig gammal Egyptisk penning af den metallblandning, som i myntstil kallas Potin, å hvars ena sida är Jupiter Ammons hufvud med yfvigt hår och å den andra en örn stående på åskviggar med omskrift [här ej återgiven] samt till akademiens Boksamling aflemnat tvenne dess arbeten, af trycket utgifna, neml. Disquisitio de nominibus in Lingua Sviogothica Lucis et visus cultusque solaris in eadem lingua vestigiis etc. P. Prior"
+  },
+  {
+   "bbox": [
+    1093,
+    1842,
+    1161,
+    1880
+   ],
+   "category": "Page-footer",
+   "text": "295"
+  }
+ ]
+}

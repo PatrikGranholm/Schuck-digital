@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 464,
+ "seconds": 28.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [272, 270, 1012, 314], \"category\": \"Section-header\", \"text\": \"Medalj- och inskriftsärenden. Tävlingar\"}, {\"bbox\": [116, 341, 1162, 424], \"category\": \"Text\", \"text\": \"Nr 1. Försök att genom Språk och Häfder utröna Sviars och Göthers tillstånd m. m.;\"}, {\"bbox\": [116, 424, 1162, 510], \"category\": \"Text\", \"text\": \"Nr 2. Historisk undersökning om en asiatisk Folkvandring till Norden, 1sta afdelningen;\"}, {\"bbox\": [152, 508, 1162, 553], \"category\": \"Text\", \"text\": \"Nr 3. Anmärkningar öfver Runorna och Runminnesmärkena.\"}, {\"bbox\": [116, 551, 1164, 1053], \"category\": \"Text\", \"text\": \"Till granskningsmän över dem utsågos Jacob Adlerbeth, Blad och Sundel, vilka den 5 mars avgåvo sitt gemensamma yttrande. I detta tillstyrkte de, att årets pris i antikviteter skulle givas åt skriften nr 3, om runorna, som de ansågo innehålla en förträfflig utredning av ämnet. Även om nr 2 yttrade de sig mycket välvilligt, ehuru de ansågo skriften, som blott var en början av en tillämnad större avhandling, lida av flera ofullkomligheter. Man hade dock — fortsätta de — »grundade skäl till den önskan, att han [författaren] icke måtte afstå från sin föresats att afhandla asarnes stora intåg i Norden och de förändringar, som inom Skandinavien blefvo följder af deras ankomst». Nr 1 ansågs, ehuru icke utan förtjänster, ej kunna komma ifråga till någon belöning.\"}, {\"bbox\": [116, 1051, 1164, 1804], \"category\": \"Text\", \"text\": \"Inom akademien hade man väl en mera gynnsam uppfattning av tävlingsskriften om asarne, men utan meningsskiljaktighet tilldömde man priset åt nr 3, om runorna: »Hvad nr 2 vidkom, som oaktadt några anmärkta ofullkomligheter fanns äga en omisskännelig förtjenst att med verklig framgång hafva sökt skingra det mörker, som hvilade öfver den märkliga forntids händelsen af asarnes intåg i Norden och på denna grund vara förtjent [af] ett pris, om academien haft 2ne att utdela, önskade academien, att ett sätt måtte gifvas för henne att uttrycka det värde hon satte på detta lyckliga försök antingen genom ett accessits tilldömande åt författaren med lika heder som det högsta priset eller ock genom den förklaring, att priset denna gång icke blifvit honom tilldömdt af orsak, att academien ville spara sig det nöje att en annan gång få belöna med detta pris det fulländade arbetet, och beslöt academien att nästa sammankomst afgöra, hvilket sätt hon borde välja och huruvida ett accessit af prismedaljen i silfver såsom en uppmuntran till arbetets fortsättande kunde Författaren lämpeligen tilläggas, då något accessit icke var i Prisens kungörelse utsatt.» (Prot. 13 mars.)\"}, {\"bbox\": [1091, 1838, 1162, 1875], \"category\": \"Page-footer\", \"text\": \"443\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    272,
+    270,
+    1012,
+    314
+   ],
+   "category": "Section-header",
+   "text": "Medalj- och inskriftsärenden. Tävlingar"
+  },
+  {
+   "bbox": [
+    116,
+    341,
+    1162,
+    424
+   ],
+   "category": "Text",
+   "text": "Nr 1. Försök att genom Språk och Häfder utröna Sviars och Göthers tillstånd m. m.;"
+  },
+  {
+   "bbox": [
+    116,
+    424,
+    1162,
+    510
+   ],
+   "category": "Text",
+   "text": "Nr 2. Historisk undersökning om en asiatisk Folkvandring till Norden, 1sta afdelningen;"
+  },
+  {
+   "bbox": [
+    152,
+    508,
+    1162,
+    553
+   ],
+   "category": "Text",
+   "text": "Nr 3. Anmärkningar öfver Runorna och Runminnesmärkena."
+  },
+  {
+   "bbox": [
+    116,
+    551,
+    1164,
+    1053
+   ],
+   "category": "Text",
+   "text": "Till granskningsmän över dem utsågos Jacob Adlerbeth, Blad och Sundel, vilka den 5 mars avgåvo sitt gemensamma yttrande. I detta tillstyrkte de, att årets pris i antikviteter skulle givas åt skriften nr 3, om runorna, som de ansågo innehålla en förträfflig utredning av ämnet. Även om nr 2 yttrade de sig mycket välvilligt, ehuru de ansågo skriften, som blott var en början av en tillämnad större avhandling, lida av flera ofullkomligheter. Man hade dock — fortsätta de — »grundade skäl till den önskan, att han [författaren] icke måtte afstå från sin föresats att afhandla asarnes stora intåg i Norden och de förändringar, som inom Skandinavien blefvo följder af deras ankomst». Nr 1 ansågs, ehuru icke utan förtjänster, ej kunna komma ifråga till någon belöning."
+  },
+  {
+   "bbox": [
+    116,
+    1051,
+    1164,
+    1804
+   ],
+   "category": "Text",
+   "text": "Inom akademien hade man väl en mera gynnsam uppfattning av tävlingsskriften om asarne, men utan meningsskiljaktighet tilldömde man priset åt nr 3, om runorna: »Hvad nr 2 vidkom, som oaktadt några anmärkta ofullkomligheter fanns äga en omisskännelig förtjenst att med verklig framgång hafva sökt skingra det mörker, som hvilade öfver den märkliga forntids händelsen af asarnes intåg i Norden och på denna grund vara förtjent [af] ett pris, om academien haft 2ne att utdela, önskade academien, att ett sätt måtte gifvas för henne att uttrycka det värde hon satte på detta lyckliga försök antingen genom ett accessits tilldömande åt författaren med lika heder som det högsta priset eller ock genom den förklaring, att priset denna gång icke blifvit honom tilldömdt af orsak, att academien ville spara sig det nöje att en annan gång få belöna med detta pris det fulländade arbetet, och beslöt academien att nästa sammankomst afgöra, hvilket sätt hon borde välja och huruvida ett accessit af prismedaljen i silfver såsom en uppmuntran till arbetets fortsättande kunde Författaren lämpeligen tilläggas, då något accessit icke var i Prisens kungörelse utsatt.» (Prot. 13 mars.)"
+  },
+  {
+   "bbox": [
+    1091,
+    1838,
+    1162,
+    1875
+   ],
+   "category": "Page-footer",
+   "text": "443"
+  }
+ ]
+}

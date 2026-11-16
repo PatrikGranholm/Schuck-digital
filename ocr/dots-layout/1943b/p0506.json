@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 506,
+ "seconds": 15.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [456, 271, 795, 316], \"category\": \"Section-header\", \"text\": \"Fynd och fornvård\"}, {\"bbox\": [96, 340, 1152, 1051], \"category\": \"Text\", \"text\": \"öfverlemna förevarande Berättelse med tillhörande Bilagor samt der-\\njemte hemställa, det Kammar Collegium må erhålla nådig befallning\\natt tillhålla dess archivInspector att för granskningen och genomseen-\\ndet af ifrågavarande Handlingar lämpa sig efter den tid, som Profes-\\nsor Liljegren, hwars tjenstebefattning i Riksarchivet uptager alla för-\\nmiddagar, men som likväl för fullgörandet af Kongl. Maj:ts nådiga\\nbefallning härtill användt eftermiddagarna, kan hafva öfrig från sin\\ntjenstebefattning och detta så mycket hellre, som ärendet eger ett\\nnära samband med Archivi Inspektorens egen tjenst inom Kammar\\nCollegium. Slutligen och som Kongl. CanzliStyrelsen ansåg Pro-\\nfessor Liljegren hafva gjort sig förtjent af någon upmuntran för dess\\noförtrutenhet och drift vid ifrågavarande arbete, trodde Styrelsen\\nsig i underdånighet böra anhålla, att sedan det samma blifvit till\\nända bragdt få hos Kongl. Maj:t föreslå nämnde Professor och de\\nRiksarchivets tjenstemän, som honom biträda, till erhållande af nå-\\ngon gratification, svarandes mot den möda och tid de i detta afseende\\nanvändt.»\"}, {\"bbox\": [105, 1049, 1153, 1179], \"category\": \"Text\", \"text\": \"Olikheten mellan å ena sidan akademiens och å den andra Enge-\\nströms intresse för arkivvården är påfallande, och efter detta blev\\nakademien heller icke besvärad med någon vidare remiss i ärendet.\"}, {\"bbox\": [1080, 1831, 1153, 1876], \"category\": \"Page-footer\", \"text\": \"485\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    456,
+    271,
+    795,
+    316
+   ],
+   "category": "Section-header",
+   "text": "Fynd och fornvård"
+  },
+  {
+   "bbox": [
+    96,
+    340,
+    1152,
+    1051
+   ],
+   "category": "Text",
+   "text": "öfverlemna förevarande Berättelse med tillhörande Bilagor samt der-\njemte hemställa, det Kammar Collegium må erhålla nådig befallning\natt tillhålla dess archivInspector att för granskningen och genomseen-\ndet af ifrågavarande Handlingar lämpa sig efter den tid, som Profes-\nsor Liljegren, hwars tjenstebefattning i Riksarchivet uptager alla för-\nmiddagar, men som likväl för fullgörandet af Kongl. Maj:ts nådiga\nbefallning härtill användt eftermiddagarna, kan hafva öfrig från sin\ntjenstebefattning och detta så mycket hellre, som ärendet eger ett\nnära samband med Archivi Inspektorens egen tjenst inom Kammar\nCollegium. Slutligen och som Kongl. CanzliStyrelsen ansåg Pro-\nfessor Liljegren hafva gjort sig förtjent af någon upmuntran för dess\noförtrutenhet och drift vid ifrågavarande arbete, trodde Styrelsen\nsig i underdånighet böra anhålla, att sedan det samma blifvit till\nända bragdt få hos Kongl. Maj:t föreslå nämnde Professor och de\nRiksarchivets tjenstemän, som honom biträda, till erhållande af nå-\ngon gratification, svarandes mot den möda och tid de i detta afseende\nanvändt.»"
+  },
+  {
+   "bbox": [
+    105,
+    1049,
+    1153,
+    1179
+   ],
+   "category": "Text",
+   "text": "Olikheten mellan å ena sidan akademiens och å den andra Enge-\nströms intresse för arkivvården är påfallande, och efter detta blev\nakademien heller icke besvärad med någon vidare remiss i ärendet."
+  },
+  {
+   "bbox": [
+    1080,
+    1831,
+    1153,
+    1876
+   ],
+   "category": "Page-footer",
+   "text": "485"
+  }
+ ]
+}

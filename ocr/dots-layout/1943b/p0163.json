@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 163,
+ "seconds": 26.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [763, 273, 1282, 317], \"category\": \"Page-header\", \"text\": \"Hallenbergs tid 1803—1810\"}, {\"bbox\": [542, 345, 906, 388], \"category\": \"Text\", \"text\": \"2: sidan denna påskrift:\"}, {\"bbox\": [844, 400, 1198, 726], \"category\": \"Text\", \"text\": \"Socio\\nper quina lustra\\ncelsissimo\\nMDCCCIII\\nMorte ademto\\nVenerabunda et lugens\\nAcad. pict. et sculpt.\\nStockholm.»\"}, {\"bbox\": [502, 762, 1542, 1056], \"category\": \"Text\", \"text\": \"Men ehuru därom ingenting nämnes i protokollet hade beslutet tydligen föregåtts av en lång diskussion under och mellan de tre sammanträdena, den 17, den 24 och den 31 januari. Icke mindre än åtminstone sex olika avfattningar hade diskuterats, och den 28 januari skrev Hallenberg (troligen till Adlerbeth) ett brev, i vilket han kritiserade de olika förslagen. Brevet finns i avskrift i protokollsboken, men där fogat efter protokollet den 12 juni, dit det ej hör:\"}, {\"bbox\": [500, 1055, 1542, 1804], \"category\": \"Text\", \"text\": \"»Jag anhåller, att T. ej anser mig beswärlig, att jag tror mig ännu böra göra några anmärkningar öfver den föreslagna Skådepenningen öfver Härtig Fredrik. Man påstår å Målaracademiens wägnar, att den långa phrasen *praesidium et dulce decus* icke säger det academien har begärt: att han var *dess förste Ledamot*. Jag anmärker för egen del, att de tre adjectiva *orbata, venerabunda et lugens* äro för mycket släpande; de twenne senare woro det redan förut, men då var likwäl det övriga korrtare. Att någon dativus måste finnas på frånsidan, är nödwändigt; det någre Ledamöter anförde, att bilden är dativus, är alldeles orätt, då öfwerskriften öfver bilden är i nominativus. Jag behöwer ej nämna för T, att alla gamla och goda nya skådepenningar utan undantag förlägga detta påstående. Dymedelst att dativus felas, blir här ock en alldeles orätt mening på frånsidan, ty den påskriften, *academia venerabunda et lugens orbata suo praesidio et dulci decore quina lustra* säger tydligen, att academien vördnadsfullt sörjer deröfver, att hon i 25 års tid warit beröfvad sitt stöd och sin behagliga prydnad. Om det bör förtjena något afseende, att *socius* på Swenska brukas stundom i löjlig mening och måste derför\"}, {\"bbox\": [510, 1834, 577, 1877], \"category\": \"Page-footer\", \"text\": \"148\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    763,
+    273,
+    1282,
+    317
+   ],
+   "category": "Page-header",
+   "text": "Hallenbergs tid 1803—1810"
+  },
+  {
+   "bbox": [
+    542,
+    345,
+    906,
+    388
+   ],
+   "category": "Text",
+   "text": "2: sidan denna påskrift:"
+  },
+  {
+   "bbox": [
+    844,
+    400,
+    1198,
+    726
+   ],
+   "category": "Text",
+   "text": "Socio\nper quina lustra\ncelsissimo\nMDCCCIII\nMorte ademto\nVenerabunda et lugens\nAcad. pict. et sculpt.\nStockholm.»"
+  },
+  {
+   "bbox": [
+    502,
+    762,
+    1542,
+    1056
+   ],
+   "category": "Text",
+   "text": "Men ehuru därom ingenting nämnes i protokollet hade beslutet tydligen föregåtts av en lång diskussion under och mellan de tre sammanträdena, den 17, den 24 och den 31 januari. Icke mindre än åtminstone sex olika avfattningar hade diskuterats, och den 28 januari skrev Hallenberg (troligen till Adlerbeth) ett brev, i vilket han kritiserade de olika förslagen. Brevet finns i avskrift i protokollsboken, men där fogat efter protokollet den 12 juni, dit det ej hör:"
+  },
+  {
+   "bbox": [
+    500,
+    1055,
+    1542,
+    1804
+   ],
+   "category": "Text",
+   "text": "»Jag anhåller, att T. ej anser mig beswärlig, att jag tror mig ännu böra göra några anmärkningar öfver den föreslagna Skådepenningen öfver Härtig Fredrik. Man påstår å Målaracademiens wägnar, att den långa phrasen *praesidium et dulce decus* icke säger det academien har begärt: att han var *dess förste Ledamot*. Jag anmärker för egen del, att de tre adjectiva *orbata, venerabunda et lugens* äro för mycket släpande; de twenne senare woro det redan förut, men då var likwäl det övriga korrtare. Att någon dativus måste finnas på frånsidan, är nödwändigt; det någre Ledamöter anförde, att bilden är dativus, är alldeles orätt, då öfwerskriften öfver bilden är i nominativus. Jag behöwer ej nämna för T, att alla gamla och goda nya skådepenningar utan undantag förlägga detta påstående. Dymedelst att dativus felas, blir här ock en alldeles orätt mening på frånsidan, ty den påskriften, *academia venerabunda et lugens orbata suo praesidio et dulci decore quina lustra* säger tydligen, att academien vördnadsfullt sörjer deröfver, att hon i 25 års tid warit beröfvad sitt stöd och sin behagliga prydnad. Om det bör förtjena något afseende, att *socius* på Swenska brukas stundom i löjlig mening och måste derför"
+  },
+  {
+   "bbox": [
+    510,
+    1834,
+    577,
+    1877
+   ],
+   "category": "Page-footer",
+   "text": "148"
+  }
+ ]
+}

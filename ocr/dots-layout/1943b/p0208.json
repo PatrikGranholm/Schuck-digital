@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 208,
+ "seconds": 28.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [477, 263, 815, 306], \"category\": \"Section-header\", \"text\": \"Fynd och fornvård\"}, {\"bbox\": [120, 334, 1164, 921], \"category\": \"Text\", \"text\": \"höfdingen Liljehorn i Wenersborg hade till Hans Majestät Konungen insändt en guldpiece, wägande enligt en Guldsmeds utlåtande 43 Ducater och funnen under innevarande års skörd i en åker af Enkan Kerstin Anders dotter å Frälsehemmanet Hållsjö Bengtgårdens ägor i Wäne härad af Wästergötland, öfver hwilket fynd Hans Majestät [i bref] af den 20 november befallt academien att med dess underdåniga utlåtande inkomma. Denna guldpiece, bestående af en tjock i oval form sammanböjd ring af forntids arbete, tyckes hafwa tjent till någon prydnad vid kläders eller gehängs sammanfästande, och som i academiens samlingar finnas andra dylika, men icke af alldeles enahanda skapnad och beskaffenhet, ansåg academien sig i underdånighet böra tillstyrka äfven dennas inlösande såsom tjenlig att öka och pryda denna dyrbara samling, i hwilket afseende Secreteraren skulle på Kgl. Myntet låta honom undersökas och wärderas.»\"}, {\"bbox\": [120, 919, 1161, 1044], \"category\": \"Text\", \"text\": \"Guldringen vägde 11 3/8 lod, och inlösningssumman steg till 81 Rdr 10 sk 2 1/2 rst. (Prot. den 4 dec. 1805, 4 febr. 1806, Kungl. Brev 8 jan. 1806.)\"}, {\"bbox\": [117, 1043, 1163, 1797], \"category\": \"Text\", \"text\": \"1806 anmäldes intet nytt fynd, men 1807 två. Den 3 november uppläste sekreteraren »ett Kongl. Stats Contorets bref till Hans Majestät Konungen angående ett fynd af Guldmynt och Silfwerpenningar, som Lifgrenadieren Östedt förliden sommar påhittat under arbete i en åkerlapp vid sitt torp Öd lehemmet på Frälsehemmanet Össjö ägor i Asby socken Ydre härad och Linköpings län, öfver hwilket fynd Hans Majestät Konungen befallt Witterhets Historie och Antiquitets Academien sig i underdånighet utlåta. Med detta till Academien i nåder remitterade Bref följde trenne Guldmynt och fem Silfwermynt. Guldmynten voro en Rose-Noble eller som den äfven kallas Rose Rial af K. Edvard IV i Ängland, föreställande Konungen stående i ett skepp och hållande i högra handen ett svärd, i den vänstra en sköld med Ängelska och Franska wapnen samt i skeppets flagga bokstafven E såsom begynnelse-bokstaf antingen af Konungens namn eller snarare af myntningsorten York (Eboracum); påskriften är på första sidan Edward Di [= Dei] gratia Rex Angliæ et Franciæ Dns [Dominus] Iberniæ; på andra sidan Ihs (Jesus) autem transiens per medium illorum ibat. Denna Rose-Noble är myntad\"}, {\"bbox\": [1180, 1049, 1294, 1143], \"category\": \"Text\", \"text\": \"1806 och 1807\\nYdrefyndet\"}, {\"bbox\": [145, 1828, 251, 1852], \"category\": \"Page-footer\", \"text\": \"13-42758.\"}, {\"bbox\": [1088, 1832, 1154, 1869], \"category\": \"Page-footer\", \"text\": \"193\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    477,
+    263,
+    815,
+    306
+   ],
+   "category": "Section-header",
+   "text": "Fynd och fornvård"
+  },
+  {
+   "bbox": [
+    120,
+    334,
+    1164,
+    921
+   ],
+   "category": "Text",
+   "text": "höfdingen Liljehorn i Wenersborg hade till Hans Majestät Konungen insändt en guldpiece, wägande enligt en Guldsmeds utlåtande 43 Ducater och funnen under innevarande års skörd i en åker af Enkan Kerstin Anders dotter å Frälsehemmanet Hållsjö Bengtgårdens ägor i Wäne härad af Wästergötland, öfver hwilket fynd Hans Majestät [i bref] af den 20 november befallt academien att med dess underdåniga utlåtande inkomma. Denna guldpiece, bestående af en tjock i oval form sammanböjd ring af forntids arbete, tyckes hafwa tjent till någon prydnad vid kläders eller gehängs sammanfästande, och som i academiens samlingar finnas andra dylika, men icke af alldeles enahanda skapnad och beskaffenhet, ansåg academien sig i underdånighet böra tillstyrka äfven dennas inlösande såsom tjenlig att öka och pryda denna dyrbara samling, i hwilket afseende Secreteraren skulle på Kgl. Myntet låta honom undersökas och wärderas.»"
+  },
+  {
+   "bbox": [
+    120,
+    919,
+    1161,
+    1044
+   ],
+   "category": "Text",
+   "text": "Guldringen vägde 11 3/8 lod, och inlösningssumman steg till 81 Rdr 10 sk 2 1/2 rst. (Prot. den 4 dec. 1805, 4 febr. 1806, Kungl. Brev 8 jan. 1806.)"
+  },
+  {
+   "bbox": [
+    117,
+    1043,
+    1163,
+    1797
+   ],
+   "category": "Text",
+   "text": "1806 anmäldes intet nytt fynd, men 1807 två. Den 3 november uppläste sekreteraren »ett Kongl. Stats Contorets bref till Hans Majestät Konungen angående ett fynd af Guldmynt och Silfwerpenningar, som Lifgrenadieren Östedt förliden sommar påhittat under arbete i en åkerlapp vid sitt torp Öd lehemmet på Frälsehemmanet Össjö ägor i Asby socken Ydre härad och Linköpings län, öfver hwilket fynd Hans Majestät Konungen befallt Witterhets Historie och Antiquitets Academien sig i underdånighet utlåta. Med detta till Academien i nåder remitterade Bref följde trenne Guldmynt och fem Silfwermynt. Guldmynten voro en Rose-Noble eller som den äfven kallas Rose Rial af K. Edvard IV i Ängland, föreställande Konungen stående i ett skepp och hållande i högra handen ett svärd, i den vänstra en sköld med Ängelska och Franska wapnen samt i skeppets flagga bokstafven E såsom begynnelse-bokstaf antingen af Konungens namn eller snarare af myntningsorten York (Eboracum); påskriften är på första sidan Edward Di [= Dei] gratia Rex Angliæ et Franciæ Dns [Dominus] Iberniæ; på andra sidan Ihs (Jesus) autem transiens per medium illorum ibat. Denna Rose-Noble är myntad"
+  },
+  {
+   "bbox": [
+    1180,
+    1049,
+    1294,
+    1143
+   ],
+   "category": "Text",
+   "text": "1806 och 1807\nYdrefyndet"
+  },
+  {
+   "bbox": [
+    145,
+    1828,
+    251,
+    1852
+   ],
+   "category": "Page-footer",
+   "text": "13-42758."
+  },
+  {
+   "bbox": [
+    1088,
+    1832,
+    1154,
+    1869
+   ],
+   "category": "Page-footer",
+   "text": "193"
+  }
+ ]
+}

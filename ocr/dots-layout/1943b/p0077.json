@@ -1,0 +1,42 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 77,
+ "seconds": 12.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [744, 279, 1297, 322], \"category\": \"Section-header\", \"text\": \"Flintenbergs och Tihlemans tid\"}, {\"bbox\": [354, 349, 1541, 811], \"category\": \"List-item\", \"text\": \"Inskriftskonst\\nÄnnu livligare var deltagandet i inskriptionstävlingen. I denna\\nvoro de tävlande två gånger sex, en gång fem, två gånger fyra och\\nfyra gånger tre. Men blott en gång (1796) hade i denna tävlan\\nett pris kunnat utdelas — då till magister Gunnar Backman i Lund,\\nsom redan förut (1792) erhållit samma utmärkelse. 1796 hade han\\nvunnit den genom förslag på en inskrift över Linnés grav och till fyra\\nmedaljer över Karl XI:s tid. Att närmare redogöra för tävlingarna i\\nden för vår tid ganska intresselösa inskriptionskonsten torde vara\\növerflödigt. Överläggningarna om priset i denna tävlan under åren\\n1794—1802 skilja sig icke från dem för åren 1787—1793, för vilka\\nförut redogjorts.\"}, {\"bbox\": [502, 1838, 549, 1876], \"category\": \"Page-footer\", \"text\": \"62\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    744,
+    279,
+    1297,
+    322
+   ],
+   "category": "Section-header",
+   "text": "Flintenbergs och Tihlemans tid"
+  },
+  {
+   "bbox": [
+    354,
+    349,
+    1541,
+    811
+   ],
+   "category": "List-item",
+   "text": "Inskriftskonst\nÄnnu livligare var deltagandet i inskriptionstävlingen. I denna\nvoro de tävlande två gånger sex, en gång fem, två gånger fyra och\nfyra gånger tre. Men blott en gång (1796) hade i denna tävlan\nett pris kunnat utdelas — då till magister Gunnar Backman i Lund,\nsom redan förut (1792) erhållit samma utmärkelse. 1796 hade han\nvunnit den genom förslag på en inskrift över Linnés grav och till fyra\nmedaljer över Karl XI:s tid. Att närmare redogöra för tävlingarna i\nden för vår tid ganska intresselösa inskriptionskonsten torde vara\növerflödigt. Överläggningarna om priset i denna tävlan under åren\n1794—1802 skilja sig icke från dem för åren 1787—1793, för vilka\nförut redogjorts."
+  },
+  {
+   "bbox": [
+    502,
+    1838,
+    549,
+    1876
+   ],
+   "category": "Page-footer",
+   "text": "62"
+  }
+ ]
+}

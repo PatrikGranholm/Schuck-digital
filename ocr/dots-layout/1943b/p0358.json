@@ -1,0 +1,142 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 358,
+ "seconds": 38.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [388, 277, 888, 323], \"category\": \"Section-header\", \"text\": \"Fornvård och fornforskning\"}, {\"bbox\": [114, 349, 1163, 602], \"category\": \"Text\", \"text\": \"naverna skola göra fostbrödralag och uplifva forntidens bragder med forntidens vänskap i åtankar af deras gemensamma ursprung uti vår fjällbygd. Med välviljan att i min måhn vara nyttig, vågar jag att i djupaste underdånighet underställa Eders Kongl. Majestäts nådiga pröfning, om mig kunde updragas att så vidt det sig göra låter uptäcka och frälsa från vangömme, förstöring och borttkomst:\"}, {\"bbox\": [114, 601, 1163, 768], \"category\": \"Text\", \"text\": \"1) Gammeldags handlingar såsom sagor, krönikor, Konungars och enskildtes bref, acter och handskrifter, allmenne och provincelagar, Påfvebullor och thylikt, skrifter med runor och munkstyl, göthiska, isländska, anglosaxiska och rörande Skandinavien.\"}, {\"bbox\": [114, 767, 1163, 844], \"category\": \"Text\", \"text\": \"2) Inskrifter angående fornåldern, på klockor, runstenar, runstafvar m. m.\"}, {\"bbox\": [114, 850, 1163, 936], \"category\": \"Text\", \"text\": \"3) Gamla bildthuggare-arbeten, sköldemärken, figurer på stenar, så kallade jättegrytor, insignier, sigill och sådant.\"}, {\"bbox\": [114, 935, 1163, 1018], \"category\": \"Text\", \"text\": \"4) Ruiner af gamla tempel, kloster, körkor, städer, slott, äreportar, stridsborgar, vikinganästen.\"}, {\"bbox\": [150, 1017, 716, 1060], \"category\": \"Text\", \"text\": \"5) Mynt, medailler och bracteater.\"}, {\"bbox\": [114, 1059, 1163, 1186], \"category\": \"Text\", \"text\": \"6) Offerredskap, helgedomar, hedentida och catholska kvarlefvor; stridsvapen, ringar, kedjor, smycken, urnor, dryckeshorn och skålar, hushållssaker och allehanda värktyg m. m.\"}, {\"bbox\": [114, 1185, 1163, 1268], \"category\": \"Text\", \"text\": \"7) Ättestupor, stenkummel och stensatta grafställen, ättehögar, offerhögar och altare, offerlundar, offerkällor m. m.\"}, {\"bbox\": [114, 1267, 1163, 1351], \"category\": \"Text\", \"text\": \"8) Tingshögar och tingsställen, minnesmärken efter feltslag och andra betydande händelser.\"}, {\"bbox\": [110, 1350, 1163, 1684], \"category\": \"Text\", \"text\": \"9) Upmärksamt bidraga till bibehållandet samt fölgagtigt söka att hindra förändrandet eller förstörandet af förutnemnde fornålderns och medeltidens minnen, likaså med den sednare tidens handskrifter, goda bygnader, epitaphier, sarcophager och bevaringsvärda grafinnandömen, målningar, prydnader samt ritningar, heraldiska och genealogiska, med det mera, som rörer historien och de fria konsterna, alt i afsikt att förvara det som värdigt tyder tidernas varjehanda kunskaper och seder, intill den närvarande.\"}, {\"bbox\": [108, 1683, 1163, 1812], \"category\": \"Text\", \"text\": \"10) Söka afböya och hindra att handskrifter eller hvad som hälst, hvilket rörer Skandinavien och svenska snillet producerat, men icke bör föryttras till utländingar, äfven som det hvilket genom svenska\"}, {\"bbox\": [1080, 1850, 1151, 1888], \"category\": \"Page-footer\", \"text\": \"339\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    388,
+    277,
+    888,
+    323
+   ],
+   "category": "Section-header",
+   "text": "Fornvård och fornforskning"
+  },
+  {
+   "bbox": [
+    114,
+    349,
+    1163,
+    602
+   ],
+   "category": "Text",
+   "text": "naverna skola göra fostbrödralag och uplifva forntidens bragder med forntidens vänskap i åtankar af deras gemensamma ursprung uti vår fjällbygd. Med välviljan att i min måhn vara nyttig, vågar jag att i djupaste underdånighet underställa Eders Kongl. Majestäts nådiga pröfning, om mig kunde updragas att så vidt det sig göra låter uptäcka och frälsa från vangömme, förstöring och borttkomst:"
+  },
+  {
+   "bbox": [
+    114,
+    601,
+    1163,
+    768
+   ],
+   "category": "Text",
+   "text": "1) Gammeldags handlingar såsom sagor, krönikor, Konungars och enskildtes bref, acter och handskrifter, allmenne och provincelagar, Påfvebullor och thylikt, skrifter med runor och munkstyl, göthiska, isländska, anglosaxiska och rörande Skandinavien."
+  },
+  {
+   "bbox": [
+    114,
+    767,
+    1163,
+    844
+   ],
+   "category": "Text",
+   "text": "2) Inskrifter angående fornåldern, på klockor, runstenar, runstafvar m. m."
+  },
+  {
+   "bbox": [
+    114,
+    850,
+    1163,
+    936
+   ],
+   "category": "Text",
+   "text": "3) Gamla bildthuggare-arbeten, sköldemärken, figurer på stenar, så kallade jättegrytor, insignier, sigill och sådant."
+  },
+  {
+   "bbox": [
+    114,
+    935,
+    1163,
+    1018
+   ],
+   "category": "Text",
+   "text": "4) Ruiner af gamla tempel, kloster, körkor, städer, slott, äreportar, stridsborgar, vikinganästen."
+  },
+  {
+   "bbox": [
+    150,
+    1017,
+    716,
+    1060
+   ],
+   "category": "Text",
+   "text": "5) Mynt, medailler och bracteater."
+  },
+  {
+   "bbox": [
+    114,
+    1059,
+    1163,
+    1186
+   ],
+   "category": "Text",
+   "text": "6) Offerredskap, helgedomar, hedentida och catholska kvarlefvor; stridsvapen, ringar, kedjor, smycken, urnor, dryckeshorn och skålar, hushållssaker och allehanda värktyg m. m."
+  },
+  {
+   "bbox": [
+    114,
+    1185,
+    1163,
+    1268
+   ],
+   "category": "Text",
+   "text": "7) Ättestupor, stenkummel och stensatta grafställen, ättehögar, offerhögar och altare, offerlundar, offerkällor m. m."
+  },
+  {
+   "bbox": [
+    114,
+    1267,
+    1163,
+    1351
+   ],
+   "category": "Text",
+   "text": "8) Tingshögar och tingsställen, minnesmärken efter feltslag och andra betydande händelser."
+  },
+  {
+   "bbox": [
+    110,
+    1350,
+    1163,
+    1684
+   ],
+   "category": "Text",
+   "text": "9) Upmärksamt bidraga till bibehållandet samt fölgagtigt söka att hindra förändrandet eller förstörandet af förutnemnde fornålderns och medeltidens minnen, likaså med den sednare tidens handskrifter, goda bygnader, epitaphier, sarcophager och bevaringsvärda grafinnandömen, målningar, prydnader samt ritningar, heraldiska och genealogiska, med det mera, som rörer historien och de fria konsterna, alt i afsikt att förvara det som värdigt tyder tidernas varjehanda kunskaper och seder, intill den närvarande."
+  },
+  {
+   "bbox": [
+    108,
+    1683,
+    1163,
+    1812
+   ],
+   "category": "Text",
+   "text": "10) Söka afböya och hindra att handskrifter eller hvad som hälst, hvilket rörer Skandinavien och svenska snillet producerat, men icke bör föryttras till utländingar, äfven som det hvilket genom svenska"
+  },
+  {
+   "bbox": [
+    1080,
+    1850,
+    1151,
+    1888
+   ],
+   "category": "Page-footer",
+   "text": "339"
+  }
+ ]
+}

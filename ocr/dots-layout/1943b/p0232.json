@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 232,
+ "seconds": 23.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [415, 275, 876, 311], \"category\": \"Section-header\", \"text\": \"Sekreterare och ledamöter\"}, {\"bbox\": [127, 345, 1167, 889], \"category\": \"Text\", \"text\": \"ny karaktär. Äldst, på Gustav III:s tid, hade ledamotskapet i klassen varit ett slags serafimerorden för utlänningar, sedan, under förmyndartiden, hade det tilldelats vetenskapens excellenser såsom Tychsen och Heyne. Till denna klass hörde icke Catteau-Calleville. Men med ledamots rang kunde han antagas bliva en ganska passande korrespondent, och under sitt senare liv i Paris författade han verkligen flere uppmärksammade arbeten om Sverige; en plan var även uppe, att han mot en årlig ersättning av 2,000 francs skulle till Sverige månatligen leverera uppgifter rörande upptäckter och uppfinningar, litterära och vetenskapliga nyheter, som förekommit i Frankrike, och vice versa i Frankrike bekantgöra, vad som på dessa områden åstadkommits i Sverige. (Härom och om honom i övrigt se G. Jacobson i Biografiskt Lexikon VII.)\"}, {\"bbox\": [127, 895, 1166, 1140], \"category\": \"Text\", \"text\": \"Någon lärd brevväxling med akademien kom Catteau-Calleville dock aldrig att föra, och till en del berodde detta kanske på akademien. Först hade man överläggningar om det diplom, som skulle utfärdas för honom, då ett förslag av Rutström bordlades. Den 2 april blev formuläret emellertid fastställt till följande lydelse för utländske ledamöter i allmänhet:\"}, {\"bbox\": [316, 1170, 978, 1796], \"category\": \"Text\", \"text\": \"Annuente\\nSacra Regia Majestate\\nSueciae\\nRegia Academia Litterarum Humaniorum\\nHistoriarum Et Antiquitatum\\nVirum\\nDoctrina Et Amore Litterarum\\nDominum [namnet]\\nSocium Extraneum\\nSolenni Suffragio Electum\\nIn Communitatem Studiorum\\nLitteris His Patentibus\\nQua par est Observantia\\nInvitat\\nDie [datum] Anno MDCCC [årtal],\"}, {\"bbox\": [1091, 1844, 1161, 1882], \"category\": \"Page-footer\", \"text\": \"217\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    415,
+    275,
+    876,
+    311
+   ],
+   "category": "Section-header",
+   "text": "Sekreterare och ledamöter"
+  },
+  {
+   "bbox": [
+    127,
+    345,
+    1167,
+    889
+   ],
+   "category": "Text",
+   "text": "ny karaktär. Äldst, på Gustav III:s tid, hade ledamotskapet i klassen varit ett slags serafimerorden för utlänningar, sedan, under förmyndartiden, hade det tilldelats vetenskapens excellenser såsom Tychsen och Heyne. Till denna klass hörde icke Catteau-Calleville. Men med ledamots rang kunde han antagas bliva en ganska passande korrespondent, och under sitt senare liv i Paris författade han verkligen flere uppmärksammade arbeten om Sverige; en plan var även uppe, att han mot en årlig ersättning av 2,000 francs skulle till Sverige månatligen leverera uppgifter rörande upptäckter och uppfinningar, litterära och vetenskapliga nyheter, som förekommit i Frankrike, och vice versa i Frankrike bekantgöra, vad som på dessa områden åstadkommits i Sverige. (Härom och om honom i övrigt se G. Jacobson i Biografiskt Lexikon VII.)"
+  },
+  {
+   "bbox": [
+    127,
+    895,
+    1166,
+    1140
+   ],
+   "category": "Text",
+   "text": "Någon lärd brevväxling med akademien kom Catteau-Calleville dock aldrig att föra, och till en del berodde detta kanske på akademien. Först hade man överläggningar om det diplom, som skulle utfärdas för honom, då ett förslag av Rutström bordlades. Den 2 april blev formuläret emellertid fastställt till följande lydelse för utländske ledamöter i allmänhet:"
+  },
+  {
+   "bbox": [
+    316,
+    1170,
+    978,
+    1796
+   ],
+   "category": "Text",
+   "text": "Annuente\nSacra Regia Majestate\nSueciae\nRegia Academia Litterarum Humaniorum\nHistoriarum Et Antiquitatum\nVirum\nDoctrina Et Amore Litterarum\nDominum [namnet]\nSocium Extraneum\nSolenni Suffragio Electum\nIn Communitatem Studiorum\nLitteris His Patentibus\nQua par est Observantia\nInvitat\nDie [datum] Anno MDCCC [årtal],"
+  },
+  {
+   "bbox": [
+    1091,
+    1844,
+    1161,
+    1882
+   ],
+   "category": "Page-footer",
+   "text": "217"
+  }
+ ]
+}

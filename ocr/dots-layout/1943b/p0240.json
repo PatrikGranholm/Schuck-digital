@@ -1,0 +1,88 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 240,
+ "seconds": 12.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [114, 367, 625, 1013], \"category\": \"Picture\"}, {\"bbox\": [121, 1029, 619, 1138], \"category\": \"Caption\", \"text\": \"LARS VON ENGESTRÖM\\nOljemålning av Per Krafft d. ä.\\n(Vitterhets Historie och Antikvitets Akademien)\"}, {\"bbox\": [732, 373, 1257, 1017], \"category\": \"Picture\"}, {\"bbox\": [746, 1032, 1244, 1140], \"category\": \"Caption\", \"text\": \"NILS HENRIK SJÖBORG\\nPastell av P. Lindhberg\\n(Lunds univ. historiska museum, foto S. P. A.)\"}, {\"bbox\": [109, 1172, 619, 1811], \"category\": \"Picture\"}, {\"bbox\": [159, 1828, 568, 1906], \"category\": \"Caption\", \"text\": \"JONAS HALLENBERG\\nLitografi av J. E. Cardon\"}, {\"bbox\": [727, 1177, 1250, 1816], \"category\": \"Picture\"}, {\"bbox\": [764, 1832, 1213, 1939], \"category\": \"Caption\", \"text\": \"MATTHIAS NORBERG\\nGravyr av J. E. Cardon efter målning av\\nPer Krafft d. y.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    114,
+    367,
+    625,
+    1013
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    121,
+    1029,
+    619,
+    1138
+   ],
+   "category": "Caption",
+   "text": "LARS VON ENGESTRÖM\nOljemålning av Per Krafft d. ä.\n(Vitterhets Historie och Antikvitets Akademien)"
+  },
+  {
+   "bbox": [
+    732,
+    373,
+    1257,
+    1017
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    746,
+    1032,
+    1244,
+    1140
+   ],
+   "category": "Caption",
+   "text": "NILS HENRIK SJÖBORG\nPastell av P. Lindhberg\n(Lunds univ. historiska museum, foto S. P. A.)"
+  },
+  {
+   "bbox": [
+    109,
+    1172,
+    619,
+    1811
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    159,
+    1828,
+    568,
+    1906
+   ],
+   "category": "Caption",
+   "text": "JONAS HALLENBERG\nLitografi av J. E. Cardon"
+  },
+  {
+   "bbox": [
+    727,
+    1177,
+    1250,
+    1816
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    764,
+    1832,
+    1213,
+    1939
+   ],
+   "category": "Caption",
+   "text": "MATTHIAS NORBERG\nGravyr av J. E. Cardon efter målning av\nPer Krafft d. y."
+  }
+ ]
+}

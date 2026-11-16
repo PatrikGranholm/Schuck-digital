@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1943b",
+ "index": 35,
+ "seconds": 22.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [755, 273, 1309, 317], \"category\": \"Section-header\", \"text\": \"Flintenbergs och Tihlemans tid\"}, {\"bbox\": [513, 346, 1553, 429], \"category\": \"Text\", \"text\": \"att bringa dem i ordning eller dem till mig inventera, hvadan jag icke emottagit dem under min vård och mitt ansvar.»\"}, {\"bbox\": [513, 429, 1554, 846], \"category\": \"Text\", \"text\": \"Det sista antyder, att även Akademiens egentliga fornsakssamling befann sig i samma oreda som myntkabinettet. Det var tyvärr alldeles sant. Men för detta hade Tihleman en betydligt mindre skuld. Ty samlingen, som visserligen stod under hans vård, hade lyckligtvis under hans tid som sekreterare och antikvarie varit för honom i det närmaste otillgänglig, och den oordning, i vilken den senast råkat, berodde på den av Hallenberg omtalade eldsvådan. I detta kapitel, som handlar om sekreterarens förvaltning, hör därför redogörelsen för fornsakssamlingens öden ej hemma, utan i stället i det följande, om akademiens lokaler.\"}, {\"bbox\": [513, 846, 1554, 1097], \"category\": \"Text\", \"text\": \"Det anförda är emellertid tillräckligt för att visa det fullkomligt oförsvarliga sätt, på vilket Tihleman skött sin plats under de åtta år, då han var akademiens sekreterare. Akademiens lycka var, att han och Fredenheim dogo ungefär samtidigt, så att Fredenheim ej hann tillsätta en ny »destructeur des médailles». Undan denna fara blev Hallenberg akademiens räddare.\"}, {\"bbox\": [519, 1844, 564, 1871], \"category\": \"Page-footer\", \"text\": \"22\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    755,
+    273,
+    1309,
+    317
+   ],
+   "category": "Section-header",
+   "text": "Flintenbergs och Tihlemans tid"
+  },
+  {
+   "bbox": [
+    513,
+    346,
+    1553,
+    429
+   ],
+   "category": "Text",
+   "text": "att bringa dem i ordning eller dem till mig inventera, hvadan jag icke emottagit dem under min vård och mitt ansvar.»"
+  },
+  {
+   "bbox": [
+    513,
+    429,
+    1554,
+    846
+   ],
+   "category": "Text",
+   "text": "Det sista antyder, att även Akademiens egentliga fornsakssamling befann sig i samma oreda som myntkabinettet. Det var tyvärr alldeles sant. Men för detta hade Tihleman en betydligt mindre skuld. Ty samlingen, som visserligen stod under hans vård, hade lyckligtvis under hans tid som sekreterare och antikvarie varit för honom i det närmaste otillgänglig, och den oordning, i vilken den senast råkat, berodde på den av Hallenberg omtalade eldsvådan. I detta kapitel, som handlar om sekreterarens förvaltning, hör därför redogörelsen för fornsakssamlingens öden ej hemma, utan i stället i det följande, om akademiens lokaler."
+  },
+  {
+   "bbox": [
+    513,
+    846,
+    1554,
+    1097
+   ],
+   "category": "Text",
+   "text": "Det anförda är emellertid tillräckligt för att visa det fullkomligt oförsvarliga sätt, på vilket Tihleman skött sin plats under de åtta år, då han var akademiens sekreterare. Akademiens lycka var, att han och Fredenheim dogo ungefär samtidigt, så att Fredenheim ej hann tillsätta en ny »destructeur des médailles». Undan denna fara blev Hallenberg akademiens räddare."
+  },
+  {
+   "bbox": [
+    519,
+    1844,
+    564,
+    1871
+   ],
+   "category": "Page-footer",
+   "text": "22"
+  }
+ ]
+}
