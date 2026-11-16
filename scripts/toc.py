@@ -53,6 +53,9 @@ def parse_toc(vol, images, chapters, parts=()):
     # files those words as margin, so a title may start lowercase after the previous full stop)
     text = re.sub(r"(?:^|(?<=\. ))([^.,»]{3,80}?)\s*[ .…,]{6,}\s*[\diIlo°]{0,4}", ", ", text)
     text = re.sub(r"(?<!\d)(1[5-8]) ?(\d) (\d)(?!\d)", r"\1\2\3", text)   # a year split by the text layer: "17 7 7"
+    # a year run together with its page number (vol. VII: "1797—180346.", "1810277. 1811280."):
+    # pages have at most three digits, so a longer number starting with a year is year + page
+    text = re.sub(r"(?<!\d)(1[5-8]\d\d)(\d{1,3})(?=\s*[,.;]|\s*$)", r"\1 \2", text)
     starts = [c["page"] for c in chapters]
     out = [{"chapter": c["title"], "topics": []} for c in chapters]
     pwords = {w for p in parts for w in re.findall(r"\w+", p["title"].lower())}   # "AVVECKLINGEN." before a chapter
