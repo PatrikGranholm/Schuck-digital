@@ -10,7 +10,10 @@ so the TOC is an independent check of the TEI's <note place="margin" type="summa
   in body    not a sidenote, but the topic text occurs in body text on that page
              (a sidenote OCR merged into the paragraph)
   missing    nowhere on the page
-Text comes from the PDF text layer of the TOC images listed in the structure file.
+Text comes from dots.mocr's reading of the TOC images listed in the structure file, or from the PDF
+text layer for a page dots.mocr could not read (a reply that looped on dot leaders) or with
+--source textlayer. dots.mocr gives clean lines; the text layer runs chapter titles into topics and
+garbles page numbers (vol. VIII: "Expenser4i5-", "Tillägg till staten 4x8").
 """
 import argparse
 import json
@@ -20,14 +23,27 @@ from lxml import etree
 from rapidfuzz import fuzz
 
 from common import REPORT, ROOT
-from regions import dehyphenate, from_textlayer
+from common import OCR
+from regions import dehyphenate, dots_blocks, from_dots, from_textlayer
 
 NS = {"t": "http://www.tei-c.org/ns/1.0"}
+DASH = str.maketrans("–—", "--")          # dots.mocr writes "1797-1800" where the sidenote has "1797—1800"
 FOLD = str.maketrans({"i": "1", "I": "1", "l": "1", "o": "0", "O": "0", "°": "0", ";": "5", ">": "1", "?": "9",
                       "’": "9", "Ö": "6", "s": "5", "S": "5"})
 
 
-def parse_toc(vol, images, chapters, parts=()):
+def toc_page(vol, i, source="auto"):
+    """(source used, page regions) for one TOC image."""
+    if source != "textlayer":
+        f = OCR / "dots-layout" / vol / f"p{i:04d}.json"
+        if f.exists() and json.loads(f.read_text()).get("finish") == "stop" and dots_blocks(vol, i):
+            return "dots", from_dots(vol, i)
+        if source == "dots":
+            raise SystemExit(f"no dots.mocr reading of image {i}")
+    return "textlayer", from_textlayer(vol, i)
+
+
+def parse_toc(vol, images, chapters, parts=(), source="auto"):
     """Topics ("name page, name page, ...") from the TOC text layer, assigned to chapters by page range.
     Lines that are only (part of) a chapter title, dot leaders or a page number are dropped first:
     the text layer splits hanging chapter titles over lines and out of order ('medeltidsskrifter' /
@@ -36,10 +52,26 @@ def parse_toc(vol, images, chapters, parts=()):
     # every word of a chapter or part title; a line of such words with a year or "Innehåll" is a title
     # fragment (vol. V: "INNEHALL. BERCHS TID. Antikvitetsarkivet", "1747—1751")
     vocab = {w for c in list(chapters) + list(parts) for w in re.findall(r"\w+", c["title"].lower())} | {"innehåll", "innehall"}
-    lines = []
+    lines, used = [], []
     for i in images:
-        page = from_textlayer(vol, i)
+        src, page = toc_page(vol, i, source)
+        used.append(src)
         for l in page["body"].split("\n"):
+            if src == "dots":
+                # dots.mocr gives a chapter or part title as a line of its own, ending in its page or page
+                # range ("Amanuens och sekreterare 3-22", "De första månaderna 57"), sometimes split over
+                # two lines ("Levernesbeskrivningar," / "inträdestal och avhandlingar 216"): drop it
+                bare = re.sub(r"\s+\d{1,3}(?:\s*[-–—]\s*\d{1,3})?\.?\s*$", "", l.strip())
+                if set(re.findall(r"\w+", bare.lower())) <= vocab:
+                    continue
+                # a title and its page still at the start of a line of topics: "Statuter och Stat 1 Inledning 1"
+                # (only with the page: "Fornvården före Liljegren 270" is a topic that starts with a title)
+                lw = re.findall(r"\w+", l.lower())
+                for t in sorted((c["title"] for c in list(chapters) + list(parts)), key=len, reverse=True):
+                    tw = re.findall(r"\w+", t.lower())
+                    if lw[:len(tw)] == tw and len(lw) > len(tw) and lw[len(tw)].isdigit() and len(lw[len(tw)]) <= 3:
+                        l = re.sub(rf"^(?:\W*\w+){{{len(tw)}}}[\s.]*\d{{1,3}}(?:\s*[-–—]\s*\d{{1,3}})?\.?\s+", "", l.strip())
+                        break
             l = re.sub(r"^\s*(?:\.\s*){1,2}[\diIlo°O]{0,4}(?=\s|$)", "", l.strip())   # leader remnants: ". .", ".235 Tjänste…"
             core = re.sub(r"[ .…]{4,}\s*[\diIlo°O ]*$", "", l.strip())
             key = re.sub(r"\W", "", core).lower()
@@ -86,7 +118,7 @@ def parse_toc(vol, images, chapters, parts=()):
         if j and w[j][:1].isupper():          # keep the full form too: "Bureus och Kabbala" is a real topic
             tp = {"topic": " ".join(w[j:]).strip(" ,"), "page": n, "full": tp["topic"]}
         out[k]["topics"].append(tp)
-    return out
+    return out, used
 
 
 def tei_notes(vol):
@@ -109,9 +141,11 @@ def tei_notes(vol):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--vol", required=True)
+    ap.add_argument("--source", choices=("auto", "dots", "textlayer"), default="auto",
+                    help="auto: dots.mocr where it read the page, else the text layer")
     a = ap.parse_args()
     st = json.loads((ROOT / "data" / "structure" / f"{a.vol}.json").read_text())
-    toc = parse_toc(a.vol, st["back"]["contents"], st["chapters"], st.get("parts", []))
+    toc, sources = parse_toc(a.vol, st["back"]["contents"], st["chapters"], st.get("parts", []), a.source)
     (ROOT / "data" / "structure" / f"{a.vol}-toc.json").write_text(json.dumps(toc, ensure_ascii=False, indent=1))
     notes, body = tei_notes(a.vol)
     res = {"found": [], "misplaced": [], "in body": [], "missing": []}
@@ -123,7 +157,7 @@ def main():
     def score(topic, note, strict):
         """Fuzzy ratio; a TOC series elides its common part ("Consignationen 1750 321, 1751 324",
         "Tävlingarna 687, I skaldekonst 690"), so a sidenote that ends with the topic counts too."""
-        t, n = topic.lower().strip(" .,:"), note.lower().strip(" .,:")
+        t, n = (x.lower().strip(" .,:").translate(DASH) for x in (topic, note))
         return max(fuzz.ratio(t, n), 85 if strict and len(t) >= 4 and n.endswith(" " + t) else 0)
     # pass 1: a sidenote on the TOC page (±1); pass 2: best ratio anywhere, nearer page breaking ties
     # (topics recur: Verelius 131 and 262; similar ones must not cascade: Resor 1669, Resor 1670, ...)
@@ -151,7 +185,8 @@ def main():
     extra = [n for k, n in enumerate(notes) if k not in used]
     n_topics = sum(len(c["topics"]) for c in toc)
     md = [f"# Sidenotes vs table of contents, vol. {a.vol}", "",
-          f"TOC topics: {n_topics} in {len(toc)} chapters; TEI sidenotes: {len(notes)}.", "",
+          f"TOC topics: {n_topics} in {len(toc)} chapters; TEI sidenotes: {len(notes)}. "
+          f"TOC text: {', '.join(f'image {i} {u}' for i, u in zip(st['back']['contents'], sources))}.", "",
           "| result | count |", "|---|---|"]
     md += [f"| {k} | {len(v)} |" for k, v in res.items()] + [f"| TEI sidenote not in TOC | {len(extra)} |", ""]
     for k in ("misplaced", "in body", "missing"):
