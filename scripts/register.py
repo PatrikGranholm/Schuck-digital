@@ -67,7 +67,7 @@ PREFIX = re.compile(r"(?i)^(?:Wij|Wi|Vi|Hertigh?(?:en)?|Drottning(?:en)?|Konung(
                     r"Prob?sten|Prost|Kyrkoherde(?:n)?|Lect?or(?:n)?|Lektor(?:n)?|Rect?or(?:n)?|Rektor(?:n)?|"
                     r"Amanuens(?:en|is)?|Docens|Docent(?:en)?|Adjunct(?:en)?|Doktor(?:n)?|Apotekar(?:e|en)?|"
                     r"Löjtnant(?:en)?|Lieutenant(?:en)?|Kapten|Capitain(?:en)?|Major(?:en)?|Öfverste(?:n)?|"
-                    r"H[oå]f(?:[Mm]arskalk|[Ii]ntendent|[Jj]unkare|[Pp]redikant|[Kk]apellmästare|[Ss]ekreterare|[Ss]ecreterare)\w*|Kammar[Hh]err(?:e|en)|Translator(?:e|en)?|Borgmästar(?:e|en)?|Biskoppen)\s+")
+                    r"Kammar[Jj]unkar(?:e|en)|Kammar|Junkar(?:e|en)|H[oå]f(?:[Mm]arskalk|[Ii]ntendent|[Jj]unkare|[Pp]redikant|[Kk]apellmästare|[Ss]ekreterare|[Ss]ecreterare)\w*|Kammar[Hh]err(?:e|en)|Translator(?:e|en)?|Borgmästar(?:e|en)?|Biskoppen)\s+")
 REJECT = re.compile(r"^(?:Gud[hzs]?|Guds|Gudhs|Herren|Herr|Hans|EDERS|Eders|Edert|Edre|Edra)$|\b(?:May|Maij?|Maij?:t\w*|Majest\w*|Excellen\w*|Saga|Sogur|Codex|Annales|Chronicon|"
                     r"Cantz\w*|Cammar\w*|Cronones|Colleg\w*|Kansli\w*|ALMQVIST|WIKSELL\w*)\b|&")
 FORENAMES = [  # Latin and Swedish forms of one forename; used only to cluster entries of the same surname
@@ -299,6 +299,48 @@ def context_years(ner, unit_ids):
     return int(statistics.median(ys)) if ys else None
 
 
+ABBREV = re.compile(r"[A-ZÅÄÖ](?:[a-zåäö]{0,3}\.|\.?)")   # "J.", "J", "Joh.", "Chr."
+
+
+def merge_initials(clusters):
+    """Merge clusters of one surname written with initials into the cluster with the forenames in full.
+    Vol. VIII had Liljegren as "J. G. Liljegren", "Joh. G. Liljegren" and "Johan Gustaf Liljegren",
+    three clusters, so a bare "Liljegren" had several candidates. The key is the initials of the
+    forenames ("JG" for all three), taken from a cluster's most complete form ("J. G.", not "J.").
+    An abbreviated cluster joins the one full cluster whose initials start with its own; with no full
+    cluster, abbreviated clusters of one key merge together; with two candidates (two people who share
+    initials: "J. Adlerbeth" = Jacob or Johan) nothing is merged.
+    Returns {target key: normal forms merged into it}: build_persons does not count them when it
+    decides whether an entry is a real competitor for a bare surname (n_full >= 2), so a one-off
+    "Renaud Berch" + "R. Berch" stays a one-off."""
+    def info(group):
+        sigs = []
+        for nf, _ in group:
+            fore = [w for w in nf.split()[:-1] if w not in PARTICLES]
+            sigs.append(("".join(w[0].upper() for w in fore), bool(fore) and all(ABBREV.fullmatch(w) for w in fore)))
+        return max(sigs, key=lambda x: len(x[0]))
+    info_of = {k: info(g) for k, g in clusters.items()}
+    by_surname = defaultdict(list)
+    for k, (sig, abbrev) in info_of.items():
+        if sig:
+            by_surname[k[1]].append(k)
+    moved = defaultdict(set)
+    for surname, ks in by_surname.items():
+        full = [k for k in ks if not info_of[k][1]]
+        for k in sorted((k for k in ks if info_of[k][1]), key=lambda k: -len(info_of[k][0])):
+            if k not in clusters:
+                continue
+            sig = info_of[k][0]
+            cands = [f for f in full if info_of[f][0].startswith(sig)]
+            if not cands:   # no full form: merge into another abbreviated cluster with the same initials
+                cands = [a for a in ks if a != k and a in clusters and info_of[a][1] and info_of[a][0] == sig]
+                cands = cands[:1] if cands else []
+            if len(cands) == 1:
+                moved[cands[0]] |= {nf for nf, _ in clusters[k]}
+                clusters[cands[0]].extend(clusters.pop(k))
+    return moved
+
+
 def build_persons(ner):
     ms = [m for m in ner["mentions"] if m["label"] == "PER"]
     forms = Counter(m["text"] for m in ms)
@@ -332,7 +374,9 @@ def build_persons(ner):
     for nf, mm in full.items():
         w = nf.split()
         clusters[(FORENAME.get(w[0], w[0]), w[-1])].append((nf, mm))
+    moved = merge_initials(clusters)
     entries = {}
+    n_core = {}           # full mentions not merged in from initials: the measure of a real competitor
     by_surname = defaultdict(list)
     for (first, last), group in clusters.items():
         name = max(group, key=lambda g: (len(g[1]), len(g[0])))[0]   # most frequent full form
@@ -340,13 +384,17 @@ def build_persons(ner):
         eid = "pers-" + re.sub(r"\W+", "-", f"{last}-{first}".lower()).strip("-")
         entries[eid] = {"id": eid, "name": name, "surname": last, "forms": dict(Counter(m["text"] for m in mm)),
                         "n_full": len(mm), "n_bare": 0, "units": sorted({m["unit"] for m in mm})}
+        n_core[eid] = sum(len(g) for nf, g in group if nf not in moved.get((first, last), ()))
         by_surname[last].append(eid)
     ambiguous = {}
     for nf, mm in bare.items():
         key = nf.split()[-1]
         owners = by_surname.get(key, [])
         # one-off full forms (OCR, lists) are not real competitors for a bare surname
-        real = [o for o in owners if entries[o]["n_full"] >= 2] or owners
+        # then, if no entry has two such mentions, the full mentions including merged initials
+        # (vol. VIII: "Johan Gustaf Liljegren" once, "Joh. G."/"J. G." five times, against one-offs)
+        real = ([o for o in owners if n_core[o] >= 2] or [o for o in owners if entries[o]["n_full"] >= 2]
+                or owners)
         if len(real) == 1:
             e = entries[real[0]]
             e["n_bare"] += len(mm)
