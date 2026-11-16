@@ -38,7 +38,7 @@ from lxml import etree
 from rapidfuzz import fuzz
 
 from common import GT, LIBRIS, OCR, ROOT, VOLUMES, img_path
-from regions import _textlayer_paragraphs, dehyphenate, dots_blocks, read_gt
+from regions import _textlayer_paragraphs, dehyphenate, dots_blocks, from_textlayer, read_gt
 
 TEI_NS = "http://www.tei-c.org/ns/1.0"
 SCHEMA = Path("/home/patrik/Oxygen XML Editor 28/frameworks/tei/xml/tei/custom/schema/relaxng/tei_all.rng")
@@ -473,8 +473,103 @@ def rescue_margins(vol, idx, blocks):
     return n
 
 
+def _plain(s):
+    return re.sub(r"\s+", " ", re.sub(r"[{}^]", "", s)).strip()
+
+
+def _joined(s):
+    """_plain with line-end hyphens joined, for comparing a block with a topic ("Äldre lag- editioner")."""
+    return re.sub(r"(\w)-\s+(?=[a-zåäö])", r"\1", _plain(s)).lower()
+
+
+def _same_topic(tp, text):
+    """A sidenote text that carries the topic: fuzzy words, but the same years ("Resor 1677 och 1678"
+    is not "Resor 1679 och 1680")."""
+    return fuzz.partial_ratio(tp.lower(), text) >= 85 and set(re.findall(r"\d+", tp)) <= set(re.findall(r"\d+", text))
+
+
+MARGIN_JOIN = re.compile(r"(\w)- (?=[a-zåäö])")    # "Tjänstemän- nen" -> "Tjänstemännen"
+YEARS = re.compile(r"[\d\s–—-]+(?:och [\d\s–—-]+)?")
+
+
+def rescue_toc(vol, idx, topics, blocks):
+    """A second rescue, with the table of contents as the oracle: the TOC lists the sidenotes of each
+    page, so a topic of this page that is not among its margin blocks may have been read into the body.
+    (1) A short body block that holds the topic is a sidenote dots.mocr placed just inside the column
+    ("Historiografernas arbeten", "Fynd 1769"). (2) Inside a longer block, an occurrence of the topic
+    is cut only when the text layer, which keeps margin words out of the body lines, confirms it: the
+    body text around it must match the text layer at least 5 points better without the words
+    ("att resa kring Resor 1672 i Uppland", "Isthmenius Verelius betraktade") than with them
+    ("enligt Adlerbeths tolkning" stays). A bare year ("1788") is cut only at the start of a block,
+    together with a short lead such as "Fynd". -> (number rescued, topics now present as sidenotes)"""
+    have = [_joined(b["text"]) for b in blocks if b["kind"] == "margin"]
+    done = {tp for tp in topics if any(_same_topic(tp, h) for h in have)}
+    tl = None
+    n = 0
+    for tp in topics:
+        if tp in done or len(tp) < 3:
+            continue
+        low = tp.lower()
+        body = [b for b in blocks if b["kind"] == "body" and b["text"].strip()]
+        whole = next((b for b in body if len(_joined(b["text"])) <= len(tp) + 15
+                      and not re.search(r"[.;:!?»]\s", _plain(b["text"]))
+                      and fuzz.partial_ratio(low, _joined(b["text"])) >= 90
+                      and set(re.findall(r"\d+", tp)) <= set(re.findall(r"\d+", b["text"]))), None)
+        if whole:
+            whole["kind"], whole["cat"] = "margin", "toc"
+            whole["text"] = MARGIN_JOIN.sub(r"\1", whole["text"].replace("\n", " "))   # as dots_blocks does
+            done.add(tp)
+            n += 1
+            continue
+        if tl is None:
+            try:
+                tl = _plain(from_textlayer(vol, idx)["body"])
+            except OSError:
+                return n, done
+        best = None
+        for b in body:
+            t = b["text"]
+            spans = {(m.start(), m.end()) for m in re.finditer(re.escape(low), t.lower())}
+            al = fuzz.partial_ratio_alignment(low, t.lower(), score_cutoff=88)
+            if al:
+                spans.add((al.dest_start, al.dest_end))
+            for s0, e0 in spans:
+                ds, de = snap_word(t, s0, e0)
+                if ds is None:
+                    continue
+                lead = t[:ds].strip()
+                if YEARS.fullmatch(tp) and lead and not re.fullmatch(r"\{?\w+(?: \d{4})?\}?", lead):
+                    continue
+                w = _plain(t[max(0, ds - 45):de + 45])
+                wo = _plain(t[max(0, ds - 45):ds] + " " + t[de:de + 45])
+                gain = fuzz.partial_ratio(wo, tl) - fuzz.partial_ratio(w, tl)
+                if gain >= 5 and (best is None or gain > best[0]):
+                    best = (gain, b, ds, de)
+        if not best:
+            continue
+        _, b, ds, de = best
+        t = b["text"]
+        if re.fullmatch(r"\{?\w+(?: \d{4})?\}?\s*", t[:ds]) and len(t[:ds].strip()) <= 15:
+            ds = 0                                   # "Fynd 1779 1779 var ...": the lead belongs to the note
+        if ds > 0 and t[ds - 1] == "{" and t[de:de + 1] == "}":
+            ds, de = ds - 1, de + 1                  # an italic span that is all sidenote
+        left, right = t[:ds].rstrip(), t[de:].lstrip()
+        b["text"] = f"{left} {right}" if left and right else left or right
+        blocks.append({"kind": "margin", "text": MARGIN_JOIN.sub(r"\1", t[ds:de].strip().replace("\n", " ")),
+                       "cat": "toc", "bbox": b.get("bbox"),
+                       "anchor": (b, len(left) + 1 if left and right else len(left))})
+        done.add(tp)
+        n += 1
+    return n, done
+
+
 def place_margin(blocks, margin, tl_lines):
     """Index of the body block and character offset where a sidenote begins."""
+    if margin.get("anchor"):                         # cut out of a body block by rescue_toc: its own position
+        bo, off = margin["anchor"]
+        i = next((i for i, b in enumerate(blocks) if b is bo), None)
+        if i is not None:
+            return i, min(off, len(bo["text"]))
     body = [i for i, b in enumerate(blocks) if b["kind"] == "body" and b.get("bbox")]
     if not body:
         return None, 0
@@ -510,6 +605,13 @@ def place_margin(blocks, margin, tl_lines):
 def build(vol):
     meta = VOLUMES[vol]
     struct = json.loads((ROOT / "data" / "structure" / f"{vol}.json").read_text())
+    # sidenote topics per page from the table of contents (toc.py), the oracle for rescue_toc
+    toc_topics, toc_done = {}, set()
+    toc_file = ROOT / "data" / "structure" / f"{vol}-toc.json"
+    if toc_file.exists():
+        for ch in json.loads(toc_file.read_text()):
+            for tp in ch["topics"]:
+                toc_topics.setdefault(tp["page"], []).append(tp["topic"])
     pm = json.loads((ROOT / "data" / "pagemap" / f"{vol}.json").read_text())
     chapters = struct["chapters"]
     back = struct.get("back", {})
@@ -529,8 +631,8 @@ def build(vol):
     n_links = load_ner(vol)
     qn = [0]
     stats = {"pages": 0, "gt": 0, "dots": 0, "textlayer": 0, "foot": 0, "foot_unanchored": 0, "margin": 0,
-             "quotes": 0, "bibl": 0, "paragraphs": 0, "margin_rescued": 0, "errata": 0, "names": 0,
-             "spelling": 0}
+             "quotes": 0, "bibl": 0, "paragraphs": 0, "margin_rescued": 0, "margin_toc": 0, "errata": 0,
+             "names": 0, "spelling": 0}
     spell = {}              # placeholder -> (dots word, text-layer word, page): old-spelling candidates
     spell_log = []          # applied changes, for report/spelling-<vol>.md
 
@@ -684,10 +786,16 @@ def build(vol):
         stats[resp[1:]] += 1
         if resp == "#dots":
             stats["margin_rescued"] += rescue_margins(vol, idx, blocks)
+            # topics of this page, and of the previous one when not found there (the TOC is off by one)
+            topics = toc_topics.get(page, []) + [t for t in toc_topics.get(page - 1, []) if t not in toc_done] \
+                if isinstance(page, int) else []
+            k, done = rescue_toc(vol, idx, topics, blocks)
+            stats["margin_toc"] += k
+            toc_done = done if isinstance(page, int) else set()
         # an illustration printed in the text (e.g. a runic stone) whose inscriptions OCR reads
         # as many marginal blocks: more than four "sidenotes" on one page -> figure text
         margins = [b for b in blocks if b["kind"] == "margin"]
-        if len(margins) > 4:
+        if len([b for b in margins if b.get("cat") != "toc"]) > 4:
             for b in margins:
                 b["kind"] = "figtext"
             blocks.append({"kind": "figure", "text": "", "bbox": None,
