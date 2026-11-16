@@ -21,7 +21,7 @@
   ]
  },
  "Tessin": {
-  "mentions": 25,
+  "mentions": 28,
   "candidates": [
    "pers-tessin-nicodemus",
    "pers-tessin-carolus"
@@ -34,18 +34,11 @@
    "pers-schantz-transchiöld"
   ]
  },
- "Gyllenborg": {
-  "mentions": 17,
+ "Scheffer": {
+  "mentions": 24,
   "candidates": [
-   "pers-gyllenborg-grefwe",
-   "pers-gyllenborg-carolus"
-  ]
- },
- "Hagelberg": {
-  "mentions": 56,
-  "candidates": [
-   "pers-hagelberg-carolus",
-   "pers-hagelberg-assessor"
+   "pers-scheffer-carolus",
+   "pers-scheffer-h-e"
   ]
  },
  "Silfverstolpe": {
@@ -64,7 +57,7 @@
   ]
  },
  "Wessman": {
-  "mentions": 144,
+  "mentions": 149,
   "candidates": [
    "pers-wessman-nicolaus",
    "pers-wessman-r"
@@ -84,26 +77,18 @@
    "pers-bautil-göransson"
   ]
  },
+ "Rudbeck": {
+  "mentions": 13,
+  "candidates": [
+   "pers-rudbeck-sinrik",
+   "pers-rudbeck-olaus"
+  ]
+ },
  "Giöransson": {
   "mentions": 7,
   "candidates": [
    "pers-giöransson-r",
    "pers-giöransson-johannes"
-  ]
- },
- "von Nolcken": {
-  "mentions": 3,
-  "candidates": [
-   "pers-nolcken-hofcantzleren",
-   "pers-nolcken-håfcantzleren",
-   "pers-nolcken-hofcancelleren"
-  ]
- },
- "Hamilton": {
-  "mentions": 3,
-  "candidates": [
-   "pers-hamilton-håfcantzleren",
-   "pers-hamilton-baron"
   ]
  },
  "Brockman": {
@@ -113,40 +98,24 @@
    "pers-brockman-torvalder"
   ]
  },
- "Carleson": {
-  "mentions": 10,
-  "candidates": [
-   "pers-carleson-hofcantzleren",
-   "pers-carleson-t"
-  ]
- },
  "Ekeblad": {
-  "mentions": 11,
+  "mentions": 13,
   "candidates": [
-   "pers-ekeblad-grefwe",
    "pers-ekeblad-eva",
-   "pers-ekeblad-r",
-   "pers-ekeblad-gref"
+   "pers-ekeblad-r"
   ]
  },
  "Rabbe": {
-  "mentions": 17,
+  "mentions": 18,
   "candidates": [
    "pers-rabbe-c",
    "pers-rabbe-sten"
   ]
  },
- "Wollin": {
+ "Brochman": {
   "mentions": 5,
   "candidates": [
-   "pers-wollin-borgmästar",
-   "pers-wollin-jonas"
-  ]
- },
- "Brochman": {
-  "mentions": 4,
-  "candidates": [
-   "pers-brochman-amanuensis",
+   "pers-brochman-islandus",
    "pers-brochman-thorwalder"
   ]
  },
@@ -158,36 +127,18 @@
   ]
  },
  "Brocman": {
-  "mentions": 70,
+  "mentions": 72,
   "candidates": [
    "pers-brocman-nicolaus",
-   "pers-brocman-amanuensen",
    "pers-brocman-n",
    "pers-brocman-carolus"
   ]
  },
  "Bonde": {
-  "mentions": 76,
+  "mentions": 81,
   "candidates": [
    "pers-bonde-gustavus",
-   "pers-bonde-grefwe",
-   "pers-bonde-grefwe",
    "pers-bonde-carolus"
-  ]
- },
- "Bergius": {
-  "mentions": 46,
-  "candidates": [
-   "pers-bergius-benedictus",
-   "pers-bergius-docens",
-   "pers-bergius-assessor"
-  ]
- },
- "Rådet": {
-  "mentions": 1,
-  "candidates": [
-   "pers-rådet-cancellie",
-   "pers-rådet-riks"
   ]
  },
  "Gjörwell": {
@@ -198,7 +149,7 @@
   ]
  },
  "Wettersten": {
-  "mentions": 14,
+  "mentions": 15,
   "candidates": [
    "pers-wettersten-benedictus",
    "pers-wettersten-nicolaus"
@@ -211,11 +162,18 @@
    "pers-rehn-ol"
   ]
  },
- "Düben": {
+ "Stenbock": {
   "mentions": 3,
   "candidates": [
-   "pers-düben-håfcantzleren",
-   "pers-düben-grefwe"
+   "pers-stenbock-gustavus",
+   "pers-stenbock-magnus"
+  ]
+ },
+ "Düben": {
+  "mentions": 7,
+  "candidates": [
+   "pers-düben-hofcantzlern",
+   "pers-düben-hofcancellern"
   ]
  },
  "Hof": {
@@ -225,32 +183,25 @@
    "pers-hof-götha"
   ]
  },
+ "von Düben": {
+  "mentions": 1,
+  "candidates": [
+   "pers-düben-hofcantzlern",
+   "pers-düben-hofcancellern"
+  ]
+ },
  "Gagnerus": {
-  "mentions": 31,
+  "mentions": 32,
   "candidates": [
    "pers-gagnerus-samuel",
    "pers-gagnerus-s"
   ]
  },
- "von Stenhagen": {
-  "mentions": 4,
-  "candidates": [
-   "pers-stenhagen-canzlie",
-   "pers-stenhagen-cancellie"
-  ]
- },
  "Mozelius": {
-  "mentions": 17,
+  "mentions": 19,
   "candidates": [
    "pers-mozelius-fredrik",
    "pers-mozelius-friedrich"
-  ]
- },
- "Ribbing": {
-  "mentions": 6,
-  "candidates": [
-   "pers-ribbing-lagman",
-   "pers-ribbing-baron"
   ]
  },
  "Stechau": {
@@ -258,6 +209,14 @@
   "candidates": [
    "pers-stechau-johannes",
    "pers-stechau-hellman"
+  ]
+ },
+ "Bunge": {
+  "mentions": 4,
+  "candidates": [
+   "pers-bunge-arnell",
+   "pers-bunge-cancellerens",
+   "pers-bunge-sven"
   ]
  },
  "Törnflycht": {
@@ -288,13 +247,6 @@
    "pers-wessman-r"
   ]
  },
- "Rosenhane": {
-  "mentions": 1,
-  "candidates": [
-   "pers-rosenhane-baron",
-   "pers-rosenhane-schering"
-  ]
- },
  "af Koppar": {
   "mentions": 1,
   "candidates": [
@@ -316,19 +268,6 @@
    "pers-kylander-pehr"
   ]
  },
- "Horn": {
-  "mentions": 4,
-  "candidates": [
-   "pers-horn-christer",
-   "pers-horn-b",
-   "pers-horn-gustavus",
-   "pers-horn-henric",
-   "pers-horn-arwedh",
-   "pers-horn-baron",
-   "pers-horn-benedictus",
-   "pers-horn-arvid"
-  ]
- },
  "Åkerman": {
   "mentions": 8,
   "candidates": [
@@ -337,17 +276,10 @@
   ]
  },
  "Bielke": {
-  "mentions": 6,
+  "mentions": 7,
   "candidates": [
    "pers-bielke-nicolaus",
    "pers-bielke-sten"
-  ]
- },
- "Stenbock": {
-  "mentions": 2,
-  "candidates": [
-   "pers-stenbock-gustavus",
-   "pers-stenbock-magnus"
   ]
  },
  "Gardie": {
@@ -355,13 +287,6 @@
   "candidates": [
    "pers-gardie-magnus",
    "pers-gardie-gustavus"
-  ]
- },
- "Stenhagen": {
-  "mentions": 2,
-  "candidates": [
-   "pers-stenhagen-canzlie",
-   "pers-stenhagen-cancellie"
   ]
  },
  "Ristell": {

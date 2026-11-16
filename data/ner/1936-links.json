@@ -794,8 +794,8 @@
 "page": "4",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-hårleman-baron",
-"cert": "medium",
+"ref": "pers-hårleman-carolus",
+"cert": "high",
 "how": "form"
 },
 {
@@ -1027,13 +1027,9 @@
 "page": "6",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-gyllenborg-grefwe",
-"pers-gyllenborg-carolus"
-],
-"how": "unresolved"
+"ref": "pers-gyllenborg-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00045",
@@ -1442,12 +1438,8 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-hagelberg-carolus",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: chapter majority"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00050",
@@ -1485,12 +1477,8 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-hagelberg-carolus",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: chapter majority"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00050",
@@ -1580,6 +1568,19 @@
 "type": "persName",
 "ref": "pers-berch-carolus",
 "cert": "medium",
+"how": "form"
+},
+{
+"unit": "u00050",
+"sha": "f9edd70fdc51",
+"start": 2751,
+"end": 2778,
+"text": "Cantzli Råden Klinckowström",
+"page": "10",
+"chapter": "1",
+"type": "persName",
+"ref": "pers-klinckowström-råden",
+"cert": "high",
 "how": "form"
 },
 {
@@ -1682,9 +1683,13 @@
 "page": "11",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-scheffer-baron",
-"cert": "high",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-scheffer-carolus",
+"pers-scheffer-h-e"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00054",
@@ -1721,9 +1726,13 @@
 "page": "12",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-scheffer-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-scheffer-carolus",
+"pers-scheffer-h-e"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00055",
@@ -1734,9 +1743,13 @@
 "page": "12",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-scheffer-baron",
-"cert": "high",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-scheffer-carolus",
+"pers-scheffer-h-e"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00055",
@@ -2182,7 +2195,7 @@
 "page": "16",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-höpken-baron",
+"ref": "pers-höpken-gr",
 "cert": "high",
 "how": "form"
 },
@@ -2251,7 +2264,7 @@
 "page": "18",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-höpken-baron",
+"ref": "pers-höpken-gr",
 "cert": "high",
 "how": "form"
 },
@@ -2278,12 +2291,8 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-hagelberg-carolus",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: chapter majority"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00074",
@@ -2294,7 +2303,7 @@
 "page": "18",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-höpken-baron",
+"ref": "pers-höpken-gr",
 "cert": "high",
 "how": "form"
 },
@@ -2308,12 +2317,8 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-hagelberg-carolus",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: chapter majority"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00076",
@@ -2338,12 +2343,8 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-hagelberg-carolus",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: chapter majority"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00076",
@@ -2531,8 +2532,8 @@
 "page": "21",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-höpken-baron",
-"cert": "medium",
+"ref": "pers-höpken-gr",
+"cert": "high",
 "how": "form"
 },
 {
@@ -2760,12 +2761,8 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-hagelberg-carolus",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: chapter majority"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00082",
@@ -2789,8 +2786,8 @@
 "page": "23",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-hårleman-baron",
-"cert": "medium",
+"ref": "pers-hårleman-carolus",
+"cert": "high",
 "how": "form"
 },
 {
@@ -2802,8 +2799,8 @@
 "page": "23",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-hårleman-baron",
-"cert": "medium",
+"ref": "pers-hårleman-carolus",
+"cert": "high",
 "how": "form"
 },
 {
@@ -2816,12 +2813,8 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-hagelberg-carolus",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: chapter majority"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00082",
@@ -2849,8 +2842,8 @@
 "page": "23",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-hårleman-baron",
-"cert": "medium",
+"ref": "pers-hårleman-carolus",
+"cert": "high",
 "how": "form"
 },
 {
@@ -2862,8 +2855,8 @@
 "page": "24",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-hårleman-baron",
-"cert": "medium",
+"ref": "pers-hårleman-carolus",
+"cert": "high",
 "how": "form"
 },
 {
@@ -2889,12 +2882,8 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-hagelberg-carolus",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: chapter majority"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00085",
@@ -3494,12 +3483,8 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-hagelberg-carolus",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: chapter majority"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00094",
@@ -3511,12 +3496,8 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-hagelberg-carolus",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: chapter majority"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00094",
@@ -3614,12 +3595,8 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-hagelberg-carolus",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: chapter majority"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00096",
@@ -3884,7 +3861,7 @@
 "page": "33",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-wrede-baron",
+"ref": "pers-wrede-fabian",
 "cert": "high",
 "how": "form"
 },
@@ -4027,12 +4004,8 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-hagelberg-carolus",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: earlier in chapter"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00106",
@@ -4187,12 +4160,8 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-hagelberg-carolus",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: earlier in chapter"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00108",
@@ -4295,12 +4264,8 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-hagelberg-carolus",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: earlier in chapter"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00108",
@@ -4554,12 +4519,8 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-hagelberg-carolus",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: earlier in chapter"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00112",
@@ -4588,12 +4549,8 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-hagelberg-carolus",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: earlier in chapter"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00112",
@@ -4630,7 +4587,7 @@
 "page": "38",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-pers-grefwe",
+"ref": "pers-pers",
 "cert": "high",
 "how": "form"
 },
@@ -5491,7 +5448,7 @@
 "page": "58",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-ling-translatore",
+"ref": "pers-ling",
 "cert": "high",
 "how": "form"
 },
@@ -5505,12 +5462,8 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-hagelberg-carolus",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: earlier in chapter"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00201",
@@ -5538,8 +5491,8 @@
 "page": "58",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-lundberg-lagman",
-"cert": "high",
+"ref": "pers-lundberg-richardson",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -5682,12 +5635,8 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-hagelberg-carolus",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: earlier in chapter"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00204",
@@ -6097,12 +6046,8 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-hagelberg-carolus",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: earlier in chapter"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00209",
@@ -6347,9 +6292,13 @@
 "page": "62",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-rudbeck-baron",
-"cert": "medium",
-"how": "form"
+"ref": "pers-rudbeck-sinrik",
+"cert": "low",
+"candidates": [
+"pers-rudbeck-sinrik",
+"pers-rudbeck-olaus"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00209",
@@ -6555,9 +6504,13 @@
 "page": "64",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-rudbeck-baron",
-"cert": "medium",
-"how": "form"
+"ref": "pers-rudbeck-sinrik",
+"cert": "low",
+"candidates": [
+"pers-rudbeck-sinrik",
+"pers-rudbeck-olaus"
+],
+"how": "guess: same paragraph"
 },
 {
 "unit": "u00212",
@@ -6646,7 +6599,7 @@
 "page": "64",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-rhyzelius-biskoppen",
+"ref": "pers-rhyzelius",
 "cert": "high",
 "how": "form"
 },
@@ -6659,7 +6612,7 @@
 "page": "64",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-rhyzelius-biskoppen",
+"ref": "pers-rhyzelius",
 "cert": "high",
 "how": "form"
 },
@@ -6711,7 +6664,7 @@
 "page": "64",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-rhyzelius-biskoppen",
+"ref": "pers-rhyzelius",
 "cert": "high",
 "how": "form"
 },
@@ -6828,7 +6781,7 @@
 "page": "65",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-rhyzelius-biskoppen",
+"ref": "pers-rhyzelius",
 "cert": "high",
 "how": "form"
 },
@@ -6906,7 +6859,7 @@
 "page": "66",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-gabr-gref",
+"ref": "pers-gabr-magni",
 "cert": "high",
 "how": "form"
 },
@@ -7088,7 +7041,7 @@
 "page": "69",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-rhyzelius-biskoppen",
+"ref": "pers-rhyzelius",
 "cert": "high",
 "how": "form"
 },
@@ -7101,7 +7054,7 @@
 "page": "69",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-rhyzelius-biskoppen",
+"ref": "pers-rhyzelius",
 "cert": "high",
 "how": "form"
 },
@@ -7140,7 +7093,7 @@
 "page": "69",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-rhyzelius-biskoppen",
+"ref": "pers-rhyzelius",
 "cert": "high",
 "how": "form"
 },
@@ -7192,7 +7145,7 @@
 "page": "69",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-rhyzelius-biskoppen",
+"ref": "pers-rhyzelius",
 "cert": "high",
 "how": "form"
 },
@@ -7218,7 +7171,7 @@
 "page": "69",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-rhyzelius-biskoppen",
+"ref": "pers-rhyzelius",
 "cert": "high",
 "how": "form"
 },
@@ -7257,7 +7210,7 @@
 "page": "69",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-rhyzelius-biskoppen",
+"ref": "pers-rhyzelius",
 "cert": "high",
 "how": "form"
 },
@@ -7500,12 +7453,8 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-hagelberg-carolus",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: earlier in chapter"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00225",
@@ -8025,7 +7974,7 @@
 "page": "76",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-rhyzelius-biskoppen",
+"ref": "pers-rhyzelius",
 "cert": "high",
 "how": "form"
 },
@@ -8202,7 +8151,7 @@
 "page": "79",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-nolcken-hofcantzleren",
+"ref": "pers-nolcken-hofcancelleren",
 "cert": "high",
 "how": "form"
 },
@@ -8215,7 +8164,7 @@
 "page": "79",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-nolcken-håfcantzleren",
+"ref": "pers-nolcken-hofcancelleren",
 "cert": "high",
 "how": "form"
 },
@@ -8228,7 +8177,7 @@
 "page": "79",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-gyllenberg-hofcantzleren",
+"ref": "pers-gyllenberg",
 "cert": "high",
 "how": "form"
 },
@@ -8271,14 +8220,9 @@
 "page": "79",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-nolcken-håfcantzleren",
-"cert": "low",
-"candidates": [
-"pers-nolcken-hofcantzleren",
-"pers-nolcken-håfcantzleren",
-"pers-nolcken-hofcancelleren"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-nolcken-hofcancelleren",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00241",
@@ -8332,7 +8276,7 @@
 "page": "79",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-hofcantzleren-baron",
+"ref": "pers-hofcantzleren",
 "cert": "high",
 "how": "form"
 },
@@ -8440,7 +8384,7 @@
 "page": "80",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-sondell",
+"ref": "pers-sondell-bokhållaren",
 "cert": "high",
 "how": "form"
 },
@@ -8480,12 +8424,8 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-hagelberg-carolus",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: earlier in chapter"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00242",
@@ -8497,12 +8437,8 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-hagelberg-carolus",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: earlier in chapter"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00242",
@@ -8595,7 +8531,7 @@
 "page": "81",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-rådet-cancellie",
+"ref": "pers-rådet-riks",
 "cert": "high",
 "how": "form"
 },
@@ -8608,7 +8544,7 @@
 "page": "81",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-oelreich-cancellie",
+"ref": "pers-oelreich",
 "cert": "high",
 "how": "form"
 },
@@ -8622,12 +8558,8 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-hagelberg-carolus",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: earlier in chapter"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00244",
@@ -8651,9 +8583,13 @@
 "page": "82",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-rudbeck-baron",
-"cert": "medium",
-"how": "form"
+"ref": "pers-rudbeck-sinrik",
+"cert": "low",
+"candidates": [
+"pers-rudbeck-sinrik",
+"pers-rudbeck-olaus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00244",
@@ -8872,7 +8808,7 @@
 "page": "82",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-dan-kong",
+"ref": "pers-dan",
 "cert": "high",
 "how": "form"
 },
@@ -8898,7 +8834,7 @@
 "page": "82",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-dan-kong",
+"ref": "pers-dan",
 "cert": "high",
 "how": "form"
 },
@@ -8937,7 +8873,7 @@
 "page": "82",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-i-kong",
+"ref": "pers-i-gustavus",
 "cert": "high",
 "how": "form"
 },
@@ -9266,7 +9202,7 @@
 "page": "85",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-oelreich-cancellie",
+"ref": "pers-oelreich",
 "cert": "high",
 "how": "form"
 },
@@ -9474,9 +9410,13 @@
 "page": "87",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-rudbeck-baron",
-"cert": "medium",
-"how": "form"
+"ref": "pers-rudbeck-sinrik",
+"cert": "low",
+"candidates": [
+"pers-rudbeck-sinrik",
+"pers-rudbeck-olaus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00259",
@@ -10626,13 +10566,9 @@
 "page": "98",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-hamilton-håfcantzleren",
-"cert": "low",
-"candidates": [
-"pers-hamilton-håfcantzleren",
-"pers-hamilton-baron"
-],
-"how": "guess: chapter majority"
+"ref": "pers-hamilton",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00298",
@@ -10683,13 +10619,8 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-nolcken-hofcancelleren",
-"cert": "low",
-"candidates": [
-"pers-nolcken-hofcantzleren",
-"pers-nolcken-håfcantzleren",
-"pers-nolcken-hofcancelleren"
-],
-"how": "guess: chapter majority"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00301",
@@ -10700,13 +10631,9 @@
 "page": "99",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "unresolved"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00301",
@@ -10941,7 +10868,7 @@
 "page": "100",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-skutenhielm-cancellie",
+"ref": "pers-skutenhielm-råden",
 "cert": "high",
 "how": "form"
 },
@@ -10984,7 +10911,7 @@
 "page": "100",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-skutenhielm-cancellie",
+"ref": "pers-skutenhielm-råden",
 "cert": "high",
 "how": "form"
 },
@@ -10997,13 +10924,9 @@
 "page": "100",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-carleson-hofcantzleren",
-"cert": "low",
-"candidates": [
-"pers-carleson-hofcantzleren",
-"pers-carleson-t"
-],
-"how": "guess: chapter majority"
+"ref": "pers-carleson-t",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00306",
@@ -11014,7 +10937,7 @@
 "page": "100",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-hårleman-baron",
+"ref": "pers-hårleman-carolus",
 "cert": "high",
 "how": "form"
 },
@@ -11027,7 +10950,7 @@
 "page": "100",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-pehr-gref",
+"ref": "pers-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -11040,7 +10963,7 @@
 "page": "101",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-pers-grefwe",
+"ref": "pers-pers",
 "cert": "high",
 "how": "form"
 },
@@ -11066,7 +10989,7 @@
 "page": "101",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-pehr-gref",
+"ref": "pers-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -11079,7 +11002,7 @@
 "page": "101",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-pers-grefwe",
+"ref": "pers-pers",
 "cert": "high",
 "how": "form"
 },
@@ -11144,7 +11067,7 @@
 "page": "101",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-pehr-gref",
+"ref": "pers-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -11183,15 +11106,13 @@
 "page": "102",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-ekeblad-grefwe",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
-"pers-ekeblad-grefwe",
 "pers-ekeblad-eva",
-"pers-ekeblad-r",
-"pers-ekeblad-gref"
+"pers-ekeblad-r"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u00307",
@@ -11215,7 +11136,7 @@
 "page": "102",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-pers-grefwe",
+"ref": "pers-pers",
 "cert": "high",
 "how": "form"
 },
@@ -11353,7 +11274,7 @@
 "page": "102",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-pers-grefwe",
+"ref": "pers-pers",
 "cert": "high",
 "how": "form"
 },
@@ -11508,13 +11429,9 @@
 "page": "104",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "unresolved"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00313",
@@ -11684,13 +11601,9 @@
 "page": "106",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "unresolved"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00321",
@@ -11856,13 +11769,9 @@
 "page": "107",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-wollin-borgmästar",
-"cert": "low",
-"candidates": [
-"pers-wollin-borgmästar",
-"pers-wollin-jonas"
-],
-"how": "guess: chapter majority"
+"ref": "pers-wollin-jonas",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00338",
@@ -11929,13 +11838,9 @@
 "page": "107",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-wollin-borgmästar",
-"cert": "low",
-"candidates": [
-"pers-wollin-borgmästar",
-"pers-wollin-jonas"
-],
-"how": "guess: chapter majority"
+"ref": "pers-wollin-jonas",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00341",
@@ -11998,7 +11903,7 @@
 "page": "108",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-stosches-baron",
+"ref": "pers-stosches",
 "cert": "high",
 "how": "form"
 },
@@ -12089,13 +11994,9 @@
 "page": "108",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "unresolved"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00348",
@@ -12106,13 +12007,9 @@
 "page": "108",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "unresolved"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00348",
@@ -12188,13 +12085,9 @@
 "page": "109",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "unresolved"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00350",
@@ -12239,7 +12132,7 @@
 "page": "109",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-wollin-borgmästar",
+"ref": "pers-wollin-jonas",
 "cert": "high",
 "how": "form"
 },
@@ -12278,13 +12171,9 @@
 "page": "109",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "unresolved"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00357",
@@ -12324,7 +12213,7 @@
 "ref": null,
 "cert": null,
 "candidates": [
-"pers-brochman-amanuensis",
+"pers-brochman-islandus",
 "pers-brochman-thorwalder"
 ],
 "how": "unresolved"
@@ -12818,7 +12707,7 @@
 "ref": null,
 "cert": null,
 "candidates": [
-"pers-brochman-amanuensis",
+"pers-brochman-islandus",
 "pers-brochman-thorwalder"
 ],
 "how": "unresolved"
@@ -12979,7 +12868,7 @@
 "page": "112",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bibl-assessor",
+"ref": "pers-bibl-hagelberg",
 "cert": "high",
 "how": "form"
 },
@@ -13009,7 +12898,7 @@
 "page": "112",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-wollin-borgmästare",
+"ref": "pers-wollin-jonas",
 "cert": "high",
 "how": "form"
 },
@@ -13173,13 +13062,9 @@
 "page": "114",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "unresolved"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00397",
@@ -13259,13 +13144,9 @@
 "page": "115",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "unresolved"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00402",
@@ -13652,8 +13533,8 @@
 "page": "118",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-hårleman-baron",
-"cert": "medium",
+"ref": "pers-hårleman-carolus",
+"cert": "high",
 "how": "form"
 },
 {
@@ -13704,13 +13585,9 @@
 "page": "119",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-hamilton-håfcantzleren",
-"cert": "low",
-"candidates": [
-"pers-hamilton-håfcantzleren",
-"pers-hamilton-baron"
-],
-"how": "guess: chapter majority"
+"ref": "pers-hamilton",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00416",
@@ -13734,13 +13611,9 @@
 "page": "119",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "unresolved"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00416",
@@ -13816,7 +13689,7 @@
 "page": "119",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-renhorn-borgmästar",
+"ref": "pers-renhorn",
 "cert": "high",
 "how": "form"
 },
@@ -13829,7 +13702,7 @@
 "page": "120",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-renhorn-borgmästar",
+"ref": "pers-renhorn",
 "cert": "high",
 "how": "form"
 },
@@ -13894,7 +13767,7 @@
 "page": "123",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-renhorn-borgmästar",
+"ref": "pers-renhorn",
 "cert": "high",
 "how": "form"
 },
@@ -14050,7 +13923,7 @@
 "page": "128",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-renhorn-borgmästar",
+"ref": "pers-renhorn",
 "cert": "high",
 "how": "form"
 },
@@ -14115,7 +13988,7 @@
 "page": "129",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-hammilton-friherre",
+"ref": "pers-hammilton",
 "cert": "high",
 "how": "form"
 },
@@ -14141,7 +14014,7 @@
 "page": "129",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-hammilton-friherre",
+"ref": "pers-hammilton",
 "cert": "high",
 "how": "form"
 },
@@ -14167,13 +14040,9 @@
 "page": "130",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-hamilton-håfcantzleren",
-"cert": "low",
-"candidates": [
-"pers-hamilton-håfcantzleren",
-"pers-hamilton-baron"
-],
-"how": "guess: chapter majority"
+"ref": "pers-hamilton",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00555",
@@ -14185,7 +14054,12 @@
 "chapter": "2",
 "type": "persName",
 "ref": null,
-"cert": null
+"cert": null,
+"candidates": [
+"pers-tessin-nicodemus",
+"pers-tessin-carolus"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00555",
@@ -14196,8 +14070,8 @@
 "page": "130",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-hårleman-baron",
-"cert": "medium",
+"ref": "pers-hårleman-carolus",
+"cert": "high",
 "how": "form"
 },
 {
@@ -14222,8 +14096,8 @@
 "page": "130",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-hårleman-baron",
-"cert": "medium",
+"ref": "pers-hårleman-carolus",
+"cert": "high",
 "how": "form"
 },
 {
@@ -14248,7 +14122,7 @@
 "page": "130",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-renhorn-borgmästar",
+"ref": "pers-renhorn",
 "cert": "high",
 "how": "form"
 },
@@ -14261,13 +14135,9 @@
 "page": "130",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-carleson-hofcantzleren",
-"cert": "low",
-"candidates": [
-"pers-carleson-hofcantzleren",
-"pers-carleson-t"
-],
-"how": "guess: chapter majority"
+"ref": "pers-carleson-t",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00559",
@@ -14629,13 +14499,9 @@
 "page": "137",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "unresolved"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00570",
@@ -14689,7 +14555,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -14747,7 +14612,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: chapter majority"
@@ -14791,7 +14655,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -14835,7 +14698,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -14853,7 +14715,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -14871,7 +14732,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -14902,7 +14762,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -14933,7 +14792,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -14990,7 +14848,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -15008,7 +14865,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -15026,7 +14882,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -15057,7 +14912,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -15098,13 +14952,8 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-bergius-benedictus",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: chapter majority"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00577",
@@ -15327,7 +15176,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -15372,7 +15220,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -15416,7 +15263,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -15447,7 +15293,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -15476,13 +15321,8 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-bergius-benedictus",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: same paragraph"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00588",
@@ -15497,7 +15337,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -15515,7 +15354,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -15529,13 +15367,9 @@
 "page": "145",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "unresolved"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00589",
@@ -15563,7 +15397,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -15578,13 +15411,8 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-bergius-benedictus",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00590",
@@ -15595,13 +15423,9 @@
 "page": "145",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "unresolved"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00591",
@@ -15625,7 +15449,7 @@
 "page": "145",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-langebeck-justitiæ",
+"ref": "pers-langebeck",
 "cert": "high",
 "how": "form"
 },
@@ -15651,7 +15475,7 @@
 "page": "145",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-docens",
+"ref": "pers-bergius-benedictus",
 "cert": "high",
 "how": "form"
 },
@@ -15664,14 +15488,9 @@
 "page": "146",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-docens",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: same paragraph"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00591",
@@ -15695,14 +15514,9 @@
 "page": "146",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-docens",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: same paragraph"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00591",
@@ -15713,13 +15527,9 @@
 "page": "146",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "unresolved"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00591",
@@ -15747,7 +15557,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -15765,7 +15574,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -15779,13 +15587,9 @@
 "page": "146",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-carleson-hofcantzleren",
-"cert": "low",
-"candidates": [
-"pers-carleson-hofcantzleren",
-"pers-carleson-t"
-],
-"how": "guess: chapter majority"
+"ref": "pers-carleson-t",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00592",
@@ -15809,14 +15613,9 @@
 "page": "146",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-docens",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00593",
@@ -15827,14 +15626,9 @@
 "page": "147",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-docens",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00594",
@@ -15845,14 +15639,9 @@
 "page": "147",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-docens",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00594",
@@ -15863,14 +15652,9 @@
 "page": "147",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-docens",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00594",
@@ -15881,8 +15665,13 @@
 "page": "147",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-bonde-gustavus",
+"cert": "low",
+"candidates": [
+"pers-bonde-gustavus",
+"pers-bonde-carolus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00595",
@@ -15932,14 +15721,9 @@
 "page": "147",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-docens",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00595",
@@ -15950,13 +15734,9 @@
 "page": "148",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-carleson-hofcantzleren",
-"cert": "low",
-"candidates": [
-"pers-carleson-hofcantzleren",
-"pers-carleson-t"
-],
-"how": "guess: chapter majority"
+"ref": "pers-carleson-t",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00596",
@@ -15980,14 +15760,9 @@
 "page": "148",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-docens",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00596",
@@ -16002,7 +15777,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -16020,7 +15794,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -16034,14 +15807,9 @@
 "page": "148",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-docens",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00596",
@@ -16056,7 +15824,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -16070,13 +15837,9 @@
 "page": "148",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-carleson-hofcantzleren",
-"cert": "low",
-"candidates": [
-"pers-carleson-hofcantzleren",
-"pers-carleson-t"
-],
-"how": "guess: chapter majority"
+"ref": "pers-carleson-t",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00596",
@@ -16091,7 +15854,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -16105,13 +15867,9 @@
 "page": "148",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-carleson-hofcantzleren",
-"cert": "low",
-"candidates": [
-"pers-carleson-hofcantzleren",
-"pers-carleson-t"
-],
-"how": "guess: chapter majority"
+"ref": "pers-carleson-t",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00596",
@@ -16126,7 +15884,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -16144,7 +15901,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -16158,14 +15914,9 @@
 "page": "149",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-docens",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00599",
@@ -16193,7 +15944,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -16207,14 +15957,9 @@
 "page": "150",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-docens",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00604",
@@ -16229,7 +15974,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -16243,7 +15987,7 @@
 "page": "150",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-langebeck-justitiæ",
+"ref": "pers-langebeck",
 "cert": "high",
 "how": "form"
 },
@@ -16269,7 +16013,7 @@
 "page": "151",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-docens",
+"ref": "pers-bergius-benedictus",
 "cert": "high",
 "how": "form"
 },
@@ -16308,14 +16052,9 @@
 "page": "151",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-docens",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: same paragraph"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00604",
@@ -16352,14 +16091,9 @@
 "page": "151",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-docens",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: same paragraph"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00605",
@@ -16370,14 +16104,9 @@
 "page": "151",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-docens",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00605",
@@ -16401,7 +16130,7 @@
 "page": "152",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-langebeck-justitiæ",
+"ref": "pers-langebeck",
 "cert": "high",
 "how": "form"
 },
@@ -16415,12 +16144,8 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-rådet-riks",
-"cert": "low",
-"candidates": [
-"pers-rådet-cancellie",
-"pers-rådet-riks"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00605",
@@ -16431,14 +16156,9 @@
 "page": "152",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-docens",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00606",
@@ -16462,14 +16182,9 @@
 "page": "152",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-docens",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00607",
@@ -16506,14 +16221,9 @@
 "page": "153",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-docens",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00608",
@@ -16524,14 +16234,9 @@
 "page": "153",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-docens",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00608",
@@ -16568,8 +16273,8 @@
 "page": "153",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-höpken-baron",
-"cert": "medium",
+"ref": "pers-höpken-gr",
+"cert": "high",
 "how": "form"
 },
 {
@@ -16585,7 +16290,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -16677,14 +16381,9 @@
 "page": "153",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-docens",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00609",
@@ -16721,14 +16420,9 @@
 "page": "154",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-docens",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00610",
@@ -16822,13 +16516,8 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-bergius-benedictus",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00611",
@@ -16858,13 +16547,8 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-bergius-benedictus",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00611",
@@ -16905,7 +16589,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -16977,13 +16660,8 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-bergius-benedictus",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00611",
@@ -17026,13 +16704,8 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-bergius-benedictus",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00612",
@@ -17044,13 +16717,8 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-bergius-benedictus",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00612",
@@ -17062,13 +16730,8 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-bergius-benedictus",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00612",
@@ -17083,7 +16746,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -17112,13 +16774,8 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-bergius-benedictus",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00612",
@@ -17129,7 +16786,7 @@
 "page": "155",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-assessor",
+"ref": "pers-bergius-benedictus",
 "cert": "high",
 "how": "form"
 },
@@ -17142,14 +16799,9 @@
 "page": "156",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-assessor",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: same paragraph"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00614",
@@ -17164,7 +16816,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -17182,7 +16833,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -17365,9 +17015,13 @@
 "page": "156",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-rudbeck-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-rudbeck-sinrik",
+"pers-rudbeck-olaus"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00616",
@@ -17395,7 +17049,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -17495,7 +17148,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -17513,7 +17165,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -17656,7 +17307,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -17705,7 +17355,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -17801,7 +17450,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -17892,7 +17540,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -17962,9 +17609,13 @@
 "page": "162",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-wettersten-prosten",
-"cert": "high",
-"how": "form"
+"ref": "pers-wettersten-nicolaus",
+"cert": "low",
+"candidates": [
+"pers-wettersten-benedictus",
+"pers-wettersten-nicolaus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00626",
@@ -18147,7 +17798,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -18165,7 +17815,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -18214,7 +17863,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -18366,13 +18014,9 @@
 "page": "166",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "unresolved"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00638",
@@ -18465,13 +18109,9 @@
 "page": "166",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "unresolved"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00638",
@@ -18850,7 +18490,7 @@
 "page": "169",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-hamilton-håfcantzleren",
+"ref": "pers-hamilton",
 "cert": "high",
 "how": "form"
 },
@@ -18958,7 +18598,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -19132,13 +18771,9 @@
 "page": "174",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "unresolved"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00654",
@@ -19231,7 +18866,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -19599,13 +19233,9 @@
 "page": "180",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "unresolved"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00665",
@@ -19788,13 +19418,9 @@
 "page": "181",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "unresolved"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00668",
@@ -19869,13 +19495,9 @@
 "page": "182",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "unresolved"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00668",
@@ -19886,13 +19508,9 @@
 "page": "182",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "unresolved"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00669",
@@ -19903,13 +19521,9 @@
 "page": "182",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "unresolved"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00669",
@@ -19954,13 +19568,9 @@
 "page": "182",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "unresolved"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00669",
@@ -20073,13 +19683,9 @@
 "page": "183",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-carleson-hofcantzleren",
-"cert": "low",
-"candidates": [
-"pers-carleson-hofcantzleren",
-"pers-carleson-t"
-],
-"how": "guess: chapter majority"
+"ref": "pers-carleson-t",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00670",
@@ -20439,8 +20045,8 @@
 "page": "185",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-prael-amanuensis",
-"cert": "high",
+"ref": "pers-prael-petrus",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -20517,14 +20123,9 @@
 "page": "186",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-assessor",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00676",
@@ -20548,14 +20149,9 @@
 "page": "186",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-assessor",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00676",
@@ -20678,13 +20274,9 @@
 "page": "187",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "unresolved"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00678",
@@ -20708,13 +20300,9 @@
 "page": "187",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "unresolved"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00678",
@@ -20738,13 +20326,9 @@
 "page": "187",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "unresolved"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00678",
@@ -20924,7 +20508,7 @@
 "page": "188",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-carleson-hofcantzleren",
+"ref": "pers-carleson-t",
 "cert": "high",
 "how": "form"
 },
@@ -20976,7 +20560,20 @@
 "page": "188",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-hofcantzleren-baron",
+"ref": "pers-hofcantzleren",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u00683",
+"sha": "2eb37aa6cf94",
+"start": 1396,
+"end": 1415,
+"text": "Herr Cantzlie Rådet",
+"page": "188",
+"chapter": "2",
+"type": "persName",
+"ref": "pers-rådet-riks",
 "cert": "high",
 "how": "form"
 },
@@ -21118,7 +20715,7 @@
 "page": "189",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-hofcantzleren-baron",
+"ref": "pers-hofcantzleren",
 "cert": "high",
 "how": "form"
 },
@@ -21666,14 +21263,9 @@
 "page": "194",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-assessor",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00695",
@@ -21710,9 +21302,13 @@
 "page": "194",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-stenbock-gref",
-"cert": "high",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-stenbock-gustavus",
+"pers-stenbock-magnus"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00695",
@@ -21788,7 +21384,7 @@
 "page": "194",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-assessor",
+"ref": "pers-bergius-benedictus",
 "cert": "high",
 "how": "form"
 },
@@ -21879,14 +21475,9 @@
 "page": "195",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-assessor",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00696",
@@ -21997,7 +21588,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -22015,7 +21605,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -22033,7 +21622,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -22090,7 +21678,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -22177,7 +21764,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -22195,7 +21781,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -22249,14 +21834,9 @@
 "page": "196",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-assessor",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00699",
@@ -22350,14 +21930,9 @@
 "page": "197",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-assessor",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00701",
@@ -22411,7 +21986,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -22442,7 +22016,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -22539,7 +22112,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -22666,7 +22238,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -22715,9 +22286,13 @@
 "page": "200",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bonde-grefwe",
-"cert": "high",
-"how": "form"
+"ref": "pers-bonde-gustavus",
+"cert": "low",
+"candidates": [
+"pers-bonde-gustavus",
+"pers-bonde-carolus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00709",
@@ -22759,11 +22334,10 @@
 "page": "201",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bonde-grefwe",
+"ref": "pers-bonde-gustavus",
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -22885,11 +22459,10 @@
 "page": "203",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bonde-grefwe",
+"ref": "pers-bonde-gustavus",
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -22903,11 +22476,10 @@
 "page": "203",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bonde-grefwe",
+"ref": "pers-bonde-gustavus",
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -22934,11 +22506,10 @@
 "page": "203",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bonde-grefwe",
+"ref": "pers-bonde-gustavus",
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -22978,7 +22549,7 @@
 "page": "204",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bökman-probsten",
+"ref": "pers-bökman",
 "cert": "high",
 "how": "form"
 },
@@ -23033,7 +22604,7 @@
 "ref": null,
 "cert": null,
 "candidates": [
-"pers-brochman-amanuensis",
+"pers-brochman-islandus",
 "pers-brochman-thorwalder"
 ],
 "how": "unresolved"
@@ -23086,9 +22657,14 @@
 "page": "205",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-brocman-amanuensen",
-"cert": "high",
-"how": "form"
+"ref": "pers-brocman-nicolaus",
+"cert": "low",
+"candidates": [
+"pers-brocman-nicolaus",
+"pers-brocman-n",
+"pers-brocman-carolus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00721",
@@ -23099,8 +22675,8 @@
 "page": "205",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-görvell-amanuensen",
-"cert": "medium",
+"ref": "pers-görvell-carolus",
+"cert": "high",
 "how": "form"
 },
 {
@@ -23114,6 +22690,19 @@
 "type": "persName",
 "ref": "pers-berch-carolus",
 "cert": "medium",
+"how": "form"
+},
+{
+"unit": "u00723",
+"sha": "1ff288ad2560",
+"start": 0,
+"end": 25,
+"text": "Herr Cantzli Rådet Arnell",
+"page": "205",
+"chapter": "2",
+"type": "persName",
+"ref": "pers-arnell-c",
+"cert": "high",
 "how": "form"
 },
 {
@@ -23151,9 +22740,26 @@
 "page": "205",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-görvell-amanuensen",
+"ref": "pers-görvell-carolus",
 "cert": "high",
 "how": "form"
+},
+{
+"unit": "u00724",
+"sha": "24001166a9d2",
+"start": 0,
+"end": 23,
+"text": "Herr Cantzlirådet Rabbe",
+"page": "206",
+"chapter": "2",
+"type": "persName",
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-rabbe-c",
+"pers-rabbe-sten"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00725",
@@ -23182,6 +22788,19 @@
 "how": "form"
 },
 {
+"unit": "u00726",
+"sha": "4de5d04a768b",
+"start": 0,
+"end": 29,
+"text": "Herr Cantzli Rådet Rosenadler",
+"page": "206",
+"chapter": "2",
+"type": "persName",
+"ref": "pers-rosenadler",
+"cert": "high",
+"how": "form"
+},
+{
 "unit": "u00728",
 "sha": "aa14457ab120",
 "start": 83,
@@ -23192,6 +22811,19 @@
 "type": "persName",
 "ref": "pers-åkersten",
 "cert": "high",
+"how": "form"
+},
+{
+"unit": "u00729",
+"sha": "b6cbc5f67a97",
+"start": 0,
+"end": 30,
+"text": "Herr Cantzli Rådet Lagerflycht",
+"page": "206",
+"chapter": "2",
+"type": "persName",
+"ref": "pers-lagerflycht-råden",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -23229,11 +22861,10 @@
 "page": "207",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-brocman-amanuensen",
+"ref": "pers-brocman-nicolaus",
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -23261,8 +22892,8 @@
 "page": "207",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-görvell-amanuensen",
-"cert": "medium",
+"ref": "pers-görvell-carolus",
+"cert": "high",
 "how": "form"
 },
 {
@@ -23339,7 +22970,7 @@
 "page": "207",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-görvell-amanuensen",
+"ref": "pers-görvell-carolus",
 "cert": "high",
 "how": "form"
 },
@@ -23381,8 +23012,8 @@
 "ref": null,
 "cert": null,
 "candidates": [
-"pers-düben-håfcantzleren",
-"pers-düben-grefwe"
+"pers-düben-hofcantzlern",
+"pers-düben-hofcancellern"
 ],
 "how": "unresolved"
 },
@@ -23434,8 +23065,8 @@
 "page": "207",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-görvell-amanuensen",
-"cert": "medium",
+"ref": "pers-görvell-carolus",
+"cert": "high",
 "how": "form"
 },
 {
@@ -23447,11 +23078,10 @@
 "page": "207",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-brocman-amanuensen",
+"ref": "pers-brocman-nicolaus",
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -23492,11 +23122,10 @@
 "page": "207",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-brocman-amanuensen",
+"ref": "pers-brocman-nicolaus",
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -23537,13 +23166,9 @@
 "page": "207",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-carleson-hofcantzleren",
-"cert": "low",
-"candidates": [
-"pers-carleson-hofcantzleren",
-"pers-carleson-t"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-carleson-t",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00734",
@@ -23567,9 +23192,13 @@
 "page": "208",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-ekeblad-grefwe",
-"cert": "high",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-ekeblad-eva",
+"pers-ekeblad-r"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00735",
@@ -23593,7 +23222,7 @@
 "page": "208",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-görvell-amanuensen",
+"ref": "pers-görvell-carolus",
 "cert": "high",
 "how": "form"
 },
@@ -23606,9 +23235,14 @@
 "page": "208",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-brocman-amanuensen",
-"cert": "high",
-"how": "form"
+"ref": "pers-brocman-nicolaus",
+"cert": "low",
+"candidates": [
+"pers-brocman-nicolaus",
+"pers-brocman-n",
+"pers-brocman-carolus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00737",
@@ -23645,8 +23279,8 @@
 "page": "208",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-görvell-amanuensen",
-"cert": "medium",
+"ref": "pers-görvell-carolus",
+"cert": "high",
 "how": "form"
 },
 {
@@ -23671,13 +23305,9 @@
 "page": "208",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-carleson-hofcantzleren",
-"cert": "low",
-"candidates": [
-"pers-carleson-hofcantzleren",
-"pers-carleson-t"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-carleson-t",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00738",
@@ -23688,8 +23318,8 @@
 "page": "208",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-görvell-amanuensen",
-"cert": "medium",
+"ref": "pers-görvell-carolus",
+"cert": "high",
 "how": "form"
 },
 {
@@ -23714,11 +23344,10 @@
 "page": "208",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-brocman-amanuensen",
+"ref": "pers-brocman-nicolaus",
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -23952,6 +23581,19 @@
 {
 "unit": "u00742",
 "sha": "09d6a7efa041",
+"start": 1396,
+"end": 1415,
+"text": "herr Cantzlie Rådet",
+"page": "210",
+"chapter": "2",
+"type": "persName",
+"ref": "pers-rådet-riks",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u00742",
+"sha": "09d6a7efa041",
 "start": 1419,
 "end": 1424,
 "text": "Dalin",
@@ -24109,7 +23751,7 @@
 "page": "211",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-oelreich-cancellie",
+"ref": "pers-von-oelreich",
 "cert": "high",
 "how": "form"
 },
@@ -24926,7 +24568,12 @@
 "chapter": "2",
 "type": "persName",
 "ref": null,
-"cert": null
+"cert": null,
+"candidates": [
+"pers-wessman-nicolaus",
+"pers-wessman-r"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00763",
@@ -25252,9 +24899,13 @@
 "page": "219",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-düben-baron",
-"cert": "high",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-düben-hofcantzlern",
+"pers-düben-hofcancellern"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00777",
@@ -25826,6 +25477,19 @@
 {
 "unit": "u00789",
 "sha": "6e1073568461",
+"start": 83,
+"end": 102,
+"text": "herr Cantzlie Rådet",
+"page": "223",
+"chapter": "2",
+"type": "persName",
+"ref": "pers-rådet-riks",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u00789",
+"sha": "6e1073568461",
 "start": 220,
 "end": 239,
 "text": "Thorvalder Brockman",
@@ -25833,6 +25497,19 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-brockman-thorvalder",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u00789",
+"sha": "6e1073568461",
+"start": 543,
+"end": 562,
+"text": "herr Cantzlie Rådet",
+"page": "223",
+"chapter": "2",
+"type": "persName",
+"ref": "pers-rådet-riks",
 "cert": "high",
 "how": "form"
 },
@@ -25918,11 +25595,10 @@
 "page": "223",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bonde-grefwe",
+"ref": "pers-bonde-gustavus",
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -25953,7 +25629,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -25998,11 +25673,10 @@
 "page": "224",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bonde-grefwe",
+"ref": "pers-bonde-gustavus",
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -26072,7 +25746,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -26142,7 +25815,7 @@
 "ref": null,
 "cert": null,
 "candidates": [
-"pers-brochman-amanuensis",
+"pers-brochman-islandus",
 "pers-brochman-thorwalder"
 ],
 "how": "unresolved"
@@ -26272,7 +25945,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -26330,13 +26002,9 @@
 "page": "227",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-stenhagen-canzlie",
-"pers-stenhagen-cancellie"
-],
-"how": "unresolved"
+"ref": "pers-stenhagen-canzlie",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00795",
@@ -26459,9 +26127,13 @@
 "page": "228",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gagnerus-amanuensen",
-"cert": "high",
-"how": "form"
+"ref": "pers-gagnerus-samuel",
+"cert": "low",
+"candidates": [
+"pers-gagnerus-samuel",
+"pers-gagnerus-s"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00795",
@@ -26851,7 +26523,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -26913,14 +26584,9 @@
 "page": "230",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-assessor",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00800",
@@ -26931,14 +26597,9 @@
 "page": "230",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-bergius-assessor",
-"cert": "low",
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00801",
@@ -27298,8 +26959,8 @@
 "page": "233",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-görvell-amanuensen",
-"cert": "medium",
+"ref": "pers-görvell-carolus",
+"cert": "high",
 "how": "form"
 },
 {
@@ -27328,8 +26989,8 @@
 "page": "233",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-görvell-amanuensen",
-"cert": "medium",
+"ref": "pers-görvell-carolus",
+"cert": "high",
 "how": "form"
 },
 {
@@ -27358,8 +27019,8 @@
 "page": "233",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-görvell-amanuensen",
-"cert": "medium",
+"ref": "pers-görvell-carolus",
+"cert": "high",
 "how": "form"
 },
 {
@@ -27543,7 +27204,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -27575,7 +27235,7 @@
 "page": "236",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-dan-kong",
+"ref": "pers-dan",
 "cert": "high",
 "how": "form"
 },
@@ -27722,7 +27382,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -27932,13 +27591,9 @@
 "page": "239",
 "chapter": "3",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-stenhagen-canzlie",
-"pers-stenhagen-cancellie"
-],
-"how": "unresolved"
+"ref": "pers-stenhagen-canzlie",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00832",
@@ -27975,13 +27630,9 @@
 "page": "241",
 "chapter": "3",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-stenhagen-canzlie",
-"pers-stenhagen-cancellie"
-],
-"how": "unresolved"
+"ref": "pers-stenhagen-canzlie",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00838",
@@ -28045,7 +27696,7 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-serenius-jacobus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -28127,7 +27778,7 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-serenius-jacobus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -28166,7 +27817,7 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-serenius-jacobus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -28195,13 +27846,9 @@
 "page": "242",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-ribbing-lagman",
-"cert": "low",
-"candidates": [
-"pers-ribbing-lagman",
-"pers-ribbing-baron"
-],
-"how": "guess: chapter majority"
+"ref": "pers-ribbing-conrad",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00838",
@@ -28212,13 +27859,9 @@
 "page": "242",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-ribbing-lagman",
-"cert": "low",
-"candidates": [
-"pers-ribbing-lagman",
-"pers-ribbing-baron"
-],
-"how": "guess: chapter majority"
+"ref": "pers-ribbing-conrad",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00838",
@@ -28246,13 +27889,9 @@
 "page": "242",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-ribbing-lagman",
-"cert": "low",
-"candidates": [
-"pers-ribbing-lagman",
-"pers-ribbing-baron"
-],
-"how": "guess: chapter majority"
+"ref": "pers-ribbing-conrad",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00838",
@@ -28293,7 +27932,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -28308,13 +27946,9 @@
 "page": "242",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-ribbing-lagman",
-"cert": "low",
-"candidates": [
-"pers-ribbing-lagman",
-"pers-ribbing-baron"
-],
-"how": "guess: chapter majority"
+"ref": "pers-ribbing-conrad",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00838",
@@ -28364,7 +27998,7 @@
 "page": "243",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-ribbing-lagman",
+"ref": "pers-ribbing-conrad",
 "cert": "high",
 "how": "form"
 },
@@ -28407,7 +28041,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -28436,7 +28069,7 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-serenius-jacobus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -28495,7 +28128,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -28605,7 +28237,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -28659,8 +28290,8 @@
 "page": "245",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-prael-assessor",
-"cert": "high",
+"ref": "pers-prael-petrus",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -28719,7 +28350,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -28773,7 +28403,7 @@
 "page": "246",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-pehr-gref",
+"ref": "pers-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -28786,7 +28416,7 @@
 "page": "246",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-pers-grefwe",
+"ref": "pers-pers",
 "cert": "high",
 "how": "form"
 },
@@ -28799,7 +28429,7 @@
 "page": "246",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-pehr-gref",
+"ref": "pers-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -28881,7 +28511,7 @@
 "page": "247",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-adlermarck-baron",
+"ref": "pers-adlermarck",
 "cert": "high",
 "how": "form"
 },
@@ -28894,7 +28524,7 @@
 "page": "247",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-adlermarck-baron",
+"ref": "pers-adlermarck",
 "cert": "high",
 "how": "form"
 },
@@ -29054,7 +28684,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -29099,7 +28728,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -29187,7 +28815,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -29219,7 +28846,7 @@
 "page": "251",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-bar-hofrättsrådet",
+"ref": "pers-bar",
 "cert": "high",
 "how": "form"
 },
@@ -29232,7 +28859,7 @@
 "page": "251",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-adlermarck-baron",
+"ref": "pers-adlermarck",
 "cert": "high",
 "how": "form"
 },
@@ -29245,7 +28872,7 @@
 "page": "252",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-adlermarck-baron",
+"ref": "pers-adlermarck",
 "cert": "high",
 "how": "form"
 },
@@ -29402,7 +29029,7 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-serenius-jacobus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -29414,7 +29041,7 @@
 "page": "255",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-adlermarck-baron",
+"ref": "pers-adlermarck",
 "cert": "high",
 "how": "form"
 },
@@ -29622,9 +29249,13 @@
 "page": "259",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-rudbeck-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-rudbeck-sinrik",
+"pers-rudbeck-olaus"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01159",
@@ -29730,7 +29361,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -29762,7 +29392,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -29807,7 +29436,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -29839,7 +29467,7 @@
 "page": "261",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-brochman-amanuensis",
+"ref": "pers-brochman-islandus",
 "cert": "high",
 "how": "form"
 },
@@ -29908,9 +29536,13 @@
 "page": "262",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-mozelius-assessor",
-"cert": "high",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-mozelius-fredrik",
+"pers-mozelius-friedrich"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01171",
@@ -30049,14 +29681,44 @@
 {
 "unit": "u01176",
 "sha": "9b48aca26c41",
+"start": 78,
+"end": 102,
+"text": "Herr CantzliRådet Berchs",
+"page": "263",
+"chapter": "4",
+"type": "persName",
+"ref": "pers-berch-carolus",
+"cert": "medium",
+"how": "form"
+},
+{
+"unit": "u01176",
+"sha": "9b48aca26c41",
 "start": 201,
 "end": 232,
 "text": "Herr HåfCantzleren Grefwe Düben",
 "page": "263",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-düben-håfcantzleren",
-"cert": "high",
+"ref": "pers-düben-hofcantzlern",
+"cert": "low",
+"candidates": [
+"pers-düben-hofcantzlern",
+"pers-düben-hofcancellern"
+],
+"how": "guess: chapter majority"
+},
+{
+"unit": "u01176",
+"sha": "9b48aca26c41",
+"start": 787,
+"end": 810,
+"text": "Herr CantzliRådet Berch",
+"page": "263",
+"chapter": "4",
+"type": "persName",
+"ref": "pers-berch-carolus",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -30106,7 +29768,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -30164,7 +29825,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -30317,7 +29977,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -30702,6 +30361,24 @@
 {
 "unit": "u01199",
 "sha": "17ace676e088",
+"start": 0,
+"end": 31,
+"text": "Herr Cantzlie Rådet Baron Bunge",
+"page": "269",
+"chapter": "4",
+"type": "persName",
+"ref": "pers-bunge-arnell",
+"cert": "low",
+"candidates": [
+"pers-bunge-arnell",
+"pers-bunge-cancellerens",
+"pers-bunge-sven"
+],
+"how": "guess: earlier in chapter"
+},
+{
+"unit": "u01199",
+"sha": "17ace676e088",
 "start": 260,
 "end": 267,
 "text": "Hellman",
@@ -30767,6 +30444,19 @@
 {
 "unit": "u01201",
 "sha": "83cd9530abbc",
+"start": 7,
+"end": 33,
+"text": "Cantzlie Råden Lagerflycht",
+"page": "269",
+"chapter": "4",
+"type": "persName",
+"ref": "pers-lagerflycht-råden",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u01201",
+"sha": "83cd9530abbc",
 "start": 38,
 "end": 47,
 "text": "Ekestubbe",
@@ -30786,9 +30476,14 @@
 "page": "269",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-bunge-baron",
-"cert": "high",
-"how": "form"
+"ref": "pers-bunge-arnell",
+"cert": "low",
+"candidates": [
+"pers-bunge-arnell",
+"pers-bunge-cancellerens",
+"pers-bunge-sven"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01202",
@@ -30829,7 +30524,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -30846,6 +30540,19 @@
 "type": "persName",
 "ref": "pers-carlschöld",
 "cert": "high",
+"how": "form"
+},
+{
+"unit": "u01203",
+"sha": "615a145bc4a5",
+"start": 284,
+"end": 314,
+"text": "herr Cantzlie Rådet Baron Horn",
+"page": "270",
+"chapter": "4",
+"type": "persName",
+"ref": "pers-horn-benedictus",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -30926,7 +30633,7 @@
 "page": "271",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-friesendorff-baron",
+"ref": "pers-friesendorff",
 "cert": "high",
 "how": "form"
 },
@@ -30939,7 +30646,7 @@
 "page": "271",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-friesendorff-baron",
+"ref": "pers-friesendorff",
 "cert": "high",
 "how": "form"
 },
@@ -30952,9 +30659,13 @@
 "page": "271",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-düben-håfcantzleren",
-"cert": "high",
-"how": "form"
+"ref": "pers-düben-hofcantzlern",
+"cert": "low",
+"candidates": [
+"pers-düben-hofcantzlern",
+"pers-düben-hofcancellern"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u01206",
@@ -31025,7 +30736,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -31079,7 +30789,7 @@
 "page": "273",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-grefwe-hofcantzleren",
+"ref": "pers-grefwe",
 "cert": "high",
 "how": "form"
 },
@@ -31092,7 +30802,7 @@
 "page": "273",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-ehrencrona-baron",
+"ref": "pers-ehrencrona",
 "cert": "high",
 "how": "form"
 },
@@ -31148,7 +30858,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -31222,6 +30931,19 @@
 {
 "unit": "u01217",
 "sha": "e653bf4e26a1",
+"start": 49,
+"end": 75,
+"text": "Cantzlie Råden Lagerflycht",
+"page": "275",
+"chapter": "4",
+"type": "persName",
+"ref": "pers-lagerflycht-råden",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u01217",
+"sha": "e653bf4e26a1",
 "start": 80,
 "end": 86,
 "text": "Arnell",
@@ -31254,8 +30976,8 @@
 "page": "276",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-lagerflycht-ekestubbe",
-"cert": "high",
+"ref": "pers-lagerflycht-råden",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -31358,9 +31080,13 @@
 "page": "277",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-düben-grefwe",
-"cert": "high",
-"how": "form"
+"ref": "pers-düben-hofcantzlern",
+"cert": "low",
+"candidates": [
+"pers-düben-hofcantzlern",
+"pers-düben-hofcancellern"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01224",
@@ -31397,8 +31123,8 @@
 "page": "278",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-berch-rådet",
-"cert": "high",
+"ref": "pers-berch-carolus",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -31540,7 +31266,7 @@
 "page": "279",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-friesendorff-baron",
+"ref": "pers-friesendorff",
 "cert": "high",
 "how": "form"
 },
@@ -31553,11 +31279,11 @@
 "page": "279",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-düben-grefwe",
+"ref": "pers-düben-hofcantzlern",
 "cert": "low",
 "candidates": [
-"pers-düben-håfcantzleren",
-"pers-düben-grefwe"
+"pers-düben-hofcantzlern",
+"pers-düben-hofcancellern"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -31652,9 +31378,13 @@
 "page": "281",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-düben-grefwe",
-"cert": "high",
-"how": "form"
+"ref": "pers-düben-hofcantzlern",
+"cert": "low",
+"candidates": [
+"pers-düben-hofcantzlern",
+"pers-düben-hofcancellern"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01235",
@@ -31834,7 +31564,7 @@
 "page": "283",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-friesendorff-baron",
+"ref": "pers-friesendorff",
 "cert": "high",
 "how": "form"
 },
@@ -31851,7 +31581,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -31881,6 +31610,19 @@
 "type": "persName",
 "ref": "pers-carlschöld",
 "cert": "high",
+"how": "form"
+},
+{
+"unit": "u01245",
+"sha": "8e35509f44df",
+"start": 459,
+"end": 483,
+"text": "herr CantzlieRådet Berch",
+"page": "283",
+"chapter": "4",
+"type": "persName",
+"ref": "pers-berch-carolus",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -32022,7 +31764,7 @@
 "page": "285",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-reuterholm-baron",
+"ref": "pers-reuterholm",
 "cert": "high",
 "how": "form"
 },
@@ -32048,7 +31790,7 @@
 "page": "285",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-friesendorf-baron",
+"ref": "pers-friesendorf",
 "cert": "high",
 "how": "form"
 },
@@ -32139,7 +31881,7 @@
 "page": "286",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-friesendorf-friherre",
+"ref": "pers-von-friesendorf",
 "cert": "high",
 "how": "form"
 },
@@ -32294,7 +32036,7 @@
 "page": "288",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-broockmans-assessor",
+"ref": "pers-broockmans",
 "cert": "high",
 "how": "form"
 },
@@ -32307,7 +32049,7 @@
 "page": "289",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-cancellern-hof",
+"ref": "pers-cancellern",
 "cert": "high",
 "how": "form"
 },
@@ -32346,7 +32088,7 @@
 "page": "290",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-reuterholm-baron",
+"ref": "pers-reuterholm",
 "cert": "high",
 "how": "form"
 },
@@ -32359,7 +32101,7 @@
 "page": "291",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-friesendorff-baron",
+"ref": "pers-friesendorff",
 "cert": "high",
 "how": "form"
 },
@@ -32588,7 +32330,7 @@
 "page": "295",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-hermelin-råd",
+"ref": "pers-hermelin-riks",
 "cert": "high",
 "how": "form"
 },
@@ -32757,9 +32499,14 @@
 "page": "297",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-bunge-baron",
-"cert": "high",
-"how": "form"
+"ref": "pers-bunge-arnell",
+"cert": "low",
+"candidates": [
+"pers-bunge-arnell",
+"pers-bunge-cancellerens",
+"pers-bunge-sven"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01286",
@@ -32939,7 +32686,7 @@
 "page": "299",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-friesendorff-baron",
+"ref": "pers-friesendorff",
 "cert": "high",
 "how": "form"
 },
@@ -33138,7 +32885,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -33221,7 +32967,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -33516,7 +33261,7 @@
 "page": "305",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-pers-grefwe",
+"ref": "pers-pers",
 "cert": "high",
 "how": "form"
 },
@@ -33555,7 +33300,7 @@
 "page": "305",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-pehr-gref",
+"ref": "pers-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -33646,7 +33391,7 @@
 "page": "306",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-pehr-gref",
+"ref": "pers-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -34291,8 +34036,8 @@
 "page": "312",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-lagerflycht-ekestubbe",
-"cert": "high",
+"ref": "pers-lagerflycht-råden",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -34317,8 +34062,8 @@
 "page": "312",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-lagerflycht-ekestubbe",
-"cert": "high",
+"ref": "pers-lagerflycht-råden",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -34343,8 +34088,8 @@
 "page": "312",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-lagerflycht-ekestubbe",
-"cert": "high",
+"ref": "pers-lagerflycht-råden",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -34823,14 +34568,9 @@
 "page": "321",
 "chapter": "5",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-nolcken-hofcantzleren",
-"pers-nolcken-håfcantzleren",
-"pers-nolcken-hofcancelleren"
-],
-"how": "unresolved"
+"ref": "pers-nolcken-hofcancelleren",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01345",
@@ -35071,8 +34811,8 @@
 "page": "323",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-hagelberg-assessor",
-"cert": "high",
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -35150,6 +34890,19 @@
 "chapter": "5",
 "type": "persName",
 "ref": "pers-baron",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u01360",
+"sha": "2505fef0c8db",
+"start": 469,
+"end": 488,
+"text": "Herr Cantzlie Rådet",
+"page": "324",
+"chapter": "5",
+"type": "persName",
+"ref": "pers-rådet-riks",
 "cert": "high",
 "how": "form"
 },
@@ -35266,13 +35019,9 @@
 "page": "325",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-hagelberg-assessor",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u01369",
@@ -35283,7 +35032,7 @@
 "page": "326",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-canzleren-hof",
+"ref": "pers-canzleren",
 "cert": "high",
 "how": "form"
 },
@@ -35303,6 +35052,19 @@
 "pers-hof-götha"
 ],
 "how": "unresolved"
+},
+{
+"unit": "u01373",
+"sha": "0e766600c149",
+"start": 317,
+"end": 345,
+"text": "Cantzleren Grefwe Gyllenborg",
+"page": "326",
+"chapter": "5",
+"type": "persName",
+"ref": "pers-gyllenborg-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01377",
@@ -35326,13 +35088,9 @@
 "page": "327",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-hagelberg-assessor",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u01378",
@@ -35356,14 +35114,9 @@
 "page": "328",
 "chapter": "5",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "unresolved"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01378",
@@ -35439,7 +35192,7 @@
 "page": "328",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-brochman-amanuensis",
+"ref": "pers-brochman-islandi",
 "cert": "high",
 "how": "form"
 },
@@ -35452,8 +35205,9 @@
 "page": "328",
 "chapter": "5",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-bonde-gustavus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01381",
@@ -35612,9 +35366,13 @@
 "page": "329",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-bonde-gref",
-"cert": "high",
-"how": "form"
+"ref": "pers-bonde-gustavus",
+"cert": "low",
+"candidates": [
+"pers-bonde-gustavus",
+"pers-bonde-carolus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01388",
@@ -35642,7 +35400,7 @@
 "page": "329",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-leuhusen-baron",
+"ref": "pers-leuhusen",
 "cert": "high",
 "how": "form"
 },
@@ -35763,7 +35521,7 @@
 "page": "330",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-brochman-amanuensis",
+"ref": "pers-brochman-islandus",
 "cert": "high",
 "how": "form"
 },
@@ -36275,7 +36033,7 @@
 "chapter": "5",
 "type": "persName",
 "ref": "pers-serenius-jacobus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -36589,7 +36347,7 @@
 "page": "336",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-bunge-hof",
+"ref": "pers-bunge-cancellerens",
 "cert": "high",
 "how": "form"
 },
@@ -36940,7 +36698,7 @@
 "page": "340",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-pehr-gref",
+"ref": "pers-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -37061,9 +36819,13 @@
 "page": "342",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-mozelius-lagman",
-"cert": "high",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-mozelius-fredrik",
+"pers-mozelius-friedrich"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01452",
@@ -38199,13 +37961,9 @@
 "page": "349",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-hagelberg-assessor",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u01495",
@@ -38233,10 +37991,9 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
-"how": "guess: chapter majority"
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01495",
@@ -38251,10 +38008,9 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
-"how": "guess: chapter majority"
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01495",
@@ -38265,14 +38021,9 @@
 "page": "349",
 "chapter": "5",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "unresolved"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01495",
@@ -38287,7 +38038,6 @@
 "cert": null,
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -38315,14 +38065,9 @@
 "page": "349",
 "chapter": "5",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "unresolved"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01497",
@@ -39026,7 +38771,6 @@
 "cert": null,
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -40127,7 +39871,7 @@
 "page": "359",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-falkenberg-baron",
+"ref": "pers-falkenberg-melker",
 "cert": "high",
 "how": "form"
 },
@@ -41599,8 +41343,8 @@
 "page": "369",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-hagelberg-assessor",
-"cert": "high",
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -41638,7 +41382,7 @@
 "page": "369",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-bökman-probsten",
+"ref": "pers-bökman",
 "cert": "high",
 "how": "form"
 },
@@ -41746,13 +41490,9 @@
 "page": "369",
 "chapter": "5",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-rosenhane-baron",
-"pers-rosenhane-schering"
-],
-"how": "unresolved"
+"ref": "pers-rosenhane-schering",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01745",
@@ -41867,7 +41607,7 @@
 "page": "369",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-wollin-borgmästar",
+"ref": "pers-wollin-jonas",
 "cert": "high",
 "how": "form"
 },
@@ -42421,8 +42161,8 @@
 "page": "372",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-hagelberg-assessor",
-"cert": "high",
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -43582,9 +43322,14 @@
 "page": "377",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-bunge-baron",
-"cert": "high",
-"how": "form"
+"ref": "pers-bunge-cancellerens",
+"cert": "low",
+"candidates": [
+"pers-bunge-arnell",
+"pers-bunge-cancellerens",
+"pers-bunge-sven"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01900",
@@ -44496,9 +44241,13 @@
 "page": "381",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-rudbeck-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-rudbeck-sinrik",
+"pers-rudbeck-olaus"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01990",
@@ -44665,7 +44414,7 @@
 "page": "382",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-knut-baron",
+"ref": "pers-knut",
 "cert": "high",
 "how": "form"
 },
@@ -45858,13 +45607,9 @@
 "page": "388",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-hagelberg-assessor",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u02085",
@@ -46016,6 +45761,19 @@
 {
 "unit": "u02088",
 "sha": "4d30227a2d67",
+"start": 759,
+"end": 778,
+"text": "Herr Cantzlie Rådet",
+"page": "390",
+"chapter": "5",
+"type": "persName",
+"ref": "pers-rådet-riks",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u02088",
+"sha": "4d30227a2d67",
 "start": 1089,
 "end": 1098,
 "text": "Engeström",
@@ -46024,6 +45782,32 @@
 "type": "persName",
 "ref": "pers-engeström-ferrner",
 "cert": "high",
+"how": "form"
+},
+{
+"unit": "u02088",
+"sha": "4d30227a2d67",
+"start": 1371,
+"end": 1390,
+"text": "Herr Cantzlie Rådet",
+"page": "390",
+"chapter": "5",
+"type": "persName",
+"ref": "pers-rådet-riks",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u02088",
+"sha": "4d30227a2d67",
+"start": 1862,
+"end": 1887,
+"text": "herr Cantzlie Rådet Berch",
+"page": "390",
+"chapter": "5",
+"type": "persName",
+"ref": "pers-berch-carolus",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -46853,13 +46637,9 @@
 "page": "397",
 "chapter": "5",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-gyllenborg-grefwe",
-"pers-gyllenborg-carolus"
-],
-"how": "unresolved"
+"ref": "pers-gyllenborg-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u02117",
@@ -46935,7 +46715,7 @@
 "page": "397",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-wollin-borgmästar",
+"ref": "pers-wollin-jonas",
 "cert": "high",
 "how": "form"
 },
@@ -47160,7 +46940,7 @@
 "page": "398",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-sondell",
+"ref": "pers-sondell-bokhållaren",
 "cert": "high",
 "how": "form"
 },
@@ -47399,6 +47179,71 @@
 "how": "form"
 },
 {
+"unit": "u02226",
+"sha": "ee6d0f6e2008",
+"start": 369,
+"end": 388,
+"text": "herr Cantzlie Rådet",
+"page": "399",
+"chapter": "5",
+"type": "persName",
+"ref": "pers-rådet-riks",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u02226",
+"sha": "ee6d0f6e2008",
+"start": 613,
+"end": 632,
+"text": "herr Cantzlie Rådet",
+"page": "399",
+"chapter": "5",
+"type": "persName",
+"ref": "pers-rådet-riks",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u02226",
+"sha": "ee6d0f6e2008",
+"start": 857,
+"end": 876,
+"text": "herr Cantzlie Rådet",
+"page": "399",
+"chapter": "5",
+"type": "persName",
+"ref": "pers-rådet-riks",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u02226",
+"sha": "ee6d0f6e2008",
+"start": 1052,
+"end": 1071,
+"text": "herr Cantzlie Rådet",
+"page": "399",
+"chapter": "5",
+"type": "persName",
+"ref": "pers-rådet-riks",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u02227",
+"sha": "ae3017688e69",
+"start": 427,
+"end": 446,
+"text": "Herr Cantzlie Rådet",
+"page": "400",
+"chapter": "5",
+"type": "persName",
+"ref": "pers-rådet-riks",
+"cert": "high",
+"how": "form"
+},
+{
 "unit": "u02227",
 "sha": "ae3017688e69",
 "start": 521,
@@ -47421,6 +47266,19 @@
 "chapter": "5",
 "type": "persName",
 "ref": "pers-adelcrantz",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u02227",
+"sha": "ae3017688e69",
+"start": 1048,
+"end": 1082,
+"text": "herr Cantzlie Rådet Benzelstjernas",
+"page": "400",
+"chapter": "5",
+"type": "persName",
+"ref": "pers-benzelstjernas",
 "cert": "high",
 "how": "form"
 },
@@ -47518,6 +47376,19 @@
 {
 "unit": "u02228",
 "sha": "8e4057986afd",
+"start": 804,
+"end": 824,
+"text": "Cantzlie Rådet Berck",
+"page": "401",
+"chapter": "5",
+"type": "persName",
+"ref": "pers-berck-carolus",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u02228",
+"sha": "8e4057986afd",
 "start": 966,
 "end": 975,
 "text": "Köpenhamn",
@@ -47602,7 +47473,7 @@
 "page": "402",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-rådet-cancellie",
+"ref": "pers-rådet-riks",
 "cert": "high",
 "how": "form"
 },
@@ -47706,7 +47577,7 @@
 "page": "402",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-rådet-cancellie",
+"ref": "pers-rådet-riks",
 "cert": "high",
 "how": "form"
 },
@@ -47719,7 +47590,7 @@
 "page": "402",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-rådet-cancellie",
+"ref": "pers-rådet-riks",
 "cert": "high",
 "how": "form"
 },
@@ -47747,6 +47618,32 @@
 "type": "persName",
 "ref": "pers-cancellie-calmar",
 "cert": "medium",
+"how": "form"
+},
+{
+"unit": "u02232",
+"sha": "c1b4f10dc345",
+"start": 2429,
+"end": 2448,
+"text": "herr Cantzlie Rådet",
+"page": "404",
+"chapter": "5",
+"type": "persName",
+"ref": "pers-rådet-riks",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u02232",
+"sha": "c1b4f10dc345",
+"start": 2705,
+"end": 2724,
+"text": "herr Cantzlie Rådet",
+"page": "404",
+"chapter": "5",
+"type": "persName",
+"ref": "pers-rådet-riks",
+"cert": "high",
 "how": "form"
 },
 {
@@ -47811,12 +47708,8 @@
 "chapter": "5",
 "type": "persName",
 "ref": "pers-stenhagen-canzlie",
-"cert": "low",
-"candidates": [
-"pers-stenhagen-canzlie",
-"pers-stenhagen-cancellie"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u02238",
@@ -48704,10 +48597,8 @@
 "ref": null,
 "cert": null,
 "candidates": [
-"pers-ekeblad-grefwe",
 "pers-ekeblad-eva",
-"pers-ekeblad-r",
-"pers-ekeblad-gref"
+"pers-ekeblad-r"
 ],
 "how": "unresolved"
 },
@@ -48723,10 +48614,8 @@
 "ref": null,
 "cert": null,
 "candidates": [
-"pers-ekeblad-grefwe",
 "pers-ekeblad-eva",
-"pers-ekeblad-r",
-"pers-ekeblad-gref"
+"pers-ekeblad-r"
 ],
 "how": "unresolved"
 },
@@ -48798,10 +48687,8 @@
 "ref": null,
 "cert": null,
 "candidates": [
-"pers-ekeblad-grefwe",
 "pers-ekeblad-eva",
-"pers-ekeblad-r",
-"pers-ekeblad-gref"
+"pers-ekeblad-r"
 ],
 "how": "unresolved"
 },
@@ -48983,7 +48870,7 @@
 "page": "414",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-lillienberg-baron",
+"ref": "pers-lillienberg-jean",
 "cert": "high",
 "how": "form"
 },
@@ -49026,7 +48913,7 @@
 "page": "414",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-lillienberg-baron",
+"ref": "pers-lillienberg-jean",
 "cert": "high",
 "how": "form"
 },
@@ -49065,14 +48952,13 @@
 "page": "414",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-bonde-grefwe",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u02265",
@@ -49083,9 +48969,13 @@
 "page": "415",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-bonde-grefwe",
-"cert": "high",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-bonde-gustavus",
+"pers-bonde-carolus"
+],
+"how": "unresolved"
 },
 {
 "unit": "u02266",
@@ -49096,14 +48986,13 @@
 "page": "415",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-bonde-grefwe",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
-"how": "guess: earlier in chapter"
+"how": "unresolved"
 },
 {
 "unit": "u02266",
@@ -49129,6 +49018,19 @@
 "type": "persName",
 "ref": "pers-berch-carolus",
 "cert": "medium",
+"how": "form"
+},
+{
+"unit": "u02267",
+"sha": "9b67b0bb7a7e",
+"start": 342,
+"end": 375,
+"text": "Herr Cantzlie Rådet von Stiernman",
+"page": "416",
+"chapter": "6",
+"type": "persName",
+"ref": "pers-stiernman-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -49218,7 +49120,7 @@
 "page": "420",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-wilskman-lector",
+"ref": "pers-wilskman",
 "cert": "high",
 "how": "form"
 },
@@ -49260,10 +49162,8 @@
 "ref": null,
 "cert": null,
 "candidates": [
-"pers-ekeblad-grefwe",
 "pers-ekeblad-eva",
-"pers-ekeblad-r",
-"pers-ekeblad-gref"
+"pers-ekeblad-r"
 ],
 "how": "unresolved"
 },
@@ -49355,7 +49255,7 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-serenius-jacobus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -49446,7 +49346,7 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-serenius-jacobus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -49498,7 +49398,20 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-serenius-jacobus",
-"cert": "medium",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u02284",
+"sha": "db7d767edd6e",
+"start": 507,
+"end": 526,
+"text": "herr Cantzlie Rådet",
+"page": "421",
+"chapter": "6",
+"type": "persName",
+"ref": "pers-rådet-riks",
+"cert": "high",
 "how": "form"
 },
 {
@@ -49511,7 +49424,7 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-serenius-jacobus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -49563,7 +49476,7 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-serenius-jacobus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -49575,7 +49488,7 @@
 "page": "422",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-serenius-probsten",
+"ref": "pers-serenius-jacobus",
 "cert": "high",
 "how": "form"
 },
@@ -49615,7 +49528,7 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-serenius-jacobus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -49654,7 +49567,7 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-serenius-jacobus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -49667,7 +49580,7 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-serenius-jacobus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -49693,7 +49606,7 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-serenius-jacobus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -49823,7 +49736,7 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-serenius-jacobus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -49848,7 +49761,7 @@
 "page": "423",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-pers-grefwe",
+"ref": "pers-pers",
 "cert": "high",
 "how": "form"
 },
@@ -49874,7 +49787,7 @@
 "page": "423",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-serenius-prosten",
+"ref": "pers-serenius-jacobus",
 "cert": "high",
 "how": "form"
 },
@@ -49914,7 +49827,7 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-serenius-jacobus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -49940,7 +49853,7 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-serenius-jacobus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -49953,7 +49866,7 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-serenius-jacobus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -49992,7 +49905,7 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-serenius-jacobus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -50083,7 +49996,7 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-serenius-jacobus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -50148,7 +50061,7 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-serenius-jacobus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -50225,8 +50138,8 @@
 "page": "426",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-rålamb-baron",
-"cert": "high",
+"ref": "pers-rålamb-clas",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -50291,7 +50204,7 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-serenius-jacobus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -50304,7 +50217,7 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-serenius-jacobus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -50369,7 +50282,7 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-serenius-jacobus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -50382,7 +50295,7 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-serenius-jacobus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -50395,7 +50308,7 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-serenius-jacobus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -52014,7 +51927,7 @@
 "page": "438",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-sundvall-borgmästaren",
+"ref": "pers-sundvall",
 "cert": "high",
 "how": "form"
 },
@@ -52772,7 +52685,7 @@
 "page": "441",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-stenhagen-cancellie",
+"ref": "pers-stenhagen-canzlie",
 "cert": "high",
 "how": "form"
 },
@@ -53104,9 +53017,13 @@
 "page": "443",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-wessman-translator",
-"cert": "high",
-"how": "form"
+"ref": "pers-wessman-nicolaus",
+"cert": "low",
+"candidates": [
+"pers-wessman-nicolaus",
+"pers-wessman-r"
+],
+"how": "guess: same paragraph"
 },
 {
 "unit": "u02332",
@@ -53167,6 +53084,19 @@
 "pers-hof-götha"
 ],
 "how": "guess: chapter majority"
+},
+{
+"unit": "u02333",
+"sha": "b6138b6eb351",
+"start": 390,
+"end": 416,
+"text": "Cantzleren Gref Gyllenborg",
+"page": "443",
+"chapter": "6",
+"type": "persName",
+"ref": "pers-gyllenborg-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u02333",
@@ -53294,7 +53224,7 @@
 "page": "444",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-sondell",
+"ref": "pers-sondell-bokhållaren",
 "cert": "high",
 "how": "form"
 },
@@ -53815,7 +53745,7 @@
 "page": "447",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-langebeck-justitiæ",
+"ref": "pers-langebeck",
 "cert": "high",
 "how": "form"
 },
@@ -54648,8 +54578,13 @@
 "page": "454",
 "chapter": "6",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-wessman-nicolaus",
+"cert": "low",
+"candidates": [
+"pers-wessman-nicolaus",
+"pers-wessman-r"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u02354",
@@ -55330,7 +55265,7 @@
 "page": "458",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-barnekovs-baron",
+"ref": "pers-barnekovs-christianus",
 "cert": "high",
 "how": "form"
 },
@@ -55447,7 +55382,7 @@
 "page": "459",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-langebeck-justitiæ",
+"ref": "pers-langebeck",
 "cert": "high",
 "how": "form"
 },
@@ -55473,7 +55408,7 @@
 "page": "460",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-langebeck-justitiæ",
+"ref": "pers-langebeck",
 "cert": "high",
 "how": "form"
 },
@@ -55681,7 +55616,7 @@
 "page": "461",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-barnekov-baron",
+"ref": "pers-barnekov",
 "cert": "high",
 "how": "form"
 },
@@ -56123,7 +56058,12 @@
 "chapter": "6",
 "type": "persName",
 "ref": null,
-"cert": null
+"cert": null,
+"candidates": [
+"pers-bonde-gustavus",
+"pers-bonde-carolus"
+],
+"how": "unresolved"
 },
 {
 "unit": "u02425",
@@ -56160,9 +56100,13 @@
 "page": "465",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-wessman-assessor",
-"cert": "high",
-"how": "form"
+"ref": "pers-wessman-nicolaus",
+"cert": "low",
+"candidates": [
+"pers-wessman-nicolaus",
+"pers-wessman-r"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u02426",
@@ -56355,8 +56299,13 @@
 "page": "466",
 "chapter": "6",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-wessman-nicolaus",
+"cert": "low",
+"candidates": [
+"pers-wessman-nicolaus",
+"pers-wessman-r"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u02431",
@@ -57335,7 +57284,7 @@
 "page": "471",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-henric-baron",
+"ref": "pers-henric-georgius",
 "cert": "high",
 "how": "form"
 },
@@ -57554,7 +57503,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -58444,7 +58392,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -58619,7 +58566,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -58911,14 +58857,13 @@
 "page": "476",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-bonde-grefwe",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
-"how": "guess: earlier in chapter"
+"how": "unresolved"
 },
 {
 "unit": "u02455",
@@ -58946,7 +58891,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -59069,7 +59013,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -59110,14 +59053,13 @@
 "page": "477",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-bonde-grefwe",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
-"how": "guess: earlier in chapter"
+"how": "unresolved"
 },
 {
 "unit": "u02456",
@@ -59184,7 +59126,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -59229,7 +59170,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -59287,7 +59227,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -59834,14 +59773,13 @@
 "page": "482",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-bonde-grefwe",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
-"how": "guess: earlier in chapter"
+"how": "unresolved"
 },
 {
 "unit": "u02477",
@@ -60038,7 +59976,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -60083,7 +60020,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -60115,7 +60051,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -60251,7 +60186,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -60616,7 +60550,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -60855,19 +60788,9 @@
 "page": "488",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-horn-gustavus",
-"cert": "low",
-"candidates": [
-"pers-horn-christer",
-"pers-horn-b",
-"pers-horn-gustavus",
-"pers-horn-henric",
-"pers-horn-arwedh",
-"pers-horn-baron",
-"pers-horn-benedictus",
-"pers-horn-arvid"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-horn-benedictus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u02492",
@@ -61181,19 +61104,9 @@
 "page": "491",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-horn-gustavus",
-"cert": "low",
-"candidates": [
-"pers-horn-christer",
-"pers-horn-b",
-"pers-horn-gustavus",
-"pers-horn-henric",
-"pers-horn-arwedh",
-"pers-horn-baron",
-"pers-horn-benedictus",
-"pers-horn-arvid"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-horn-benedictus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u02497",
@@ -61559,7 +61472,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -61578,7 +61490,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -61991,8 +61902,8 @@
 "page": "501",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-broocman-assessor",
-"cert": "high",
+"ref": "pers-broocman-nicolaus",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -62199,9 +62110,13 @@
 "page": "502",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-brochman-assessor",
-"cert": "high",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-brochman-islandus",
+"pers-brochman-thorwalder"
+],
+"how": "unresolved"
 },
 {
 "unit": "u02538",
@@ -62446,7 +62361,7 @@
 "page": "505",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-bunge-baron",
+"ref": "pers-bunge-sven",
 "cert": "high",
 "how": "form"
 },
@@ -63077,13 +62992,9 @@
 "page": "509",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-gyllenborg-grefwe",
-"cert": "low",
-"candidates": [
-"pers-gyllenborg-grefwe",
-"pers-gyllenborg-carolus"
-],
-"how": "guess: chapter majority"
+"ref": "pers-gyllenborg-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u02575",
@@ -63094,13 +63005,9 @@
 "page": "509",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-gyllenborg-grefwe",
-"cert": "low",
-"candidates": [
-"pers-gyllenborg-grefwe",
-"pers-gyllenborg-carolus"
-],
-"how": "guess: chapter majority"
+"ref": "pers-gyllenborg-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u02575",
@@ -63137,13 +63044,9 @@
 "page": "509",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-gyllenborg-grefwe",
-"cert": "low",
-"candidates": [
-"pers-gyllenborg-grefwe",
-"pers-gyllenborg-carolus"
-],
-"how": "guess: chapter majority"
+"ref": "pers-gyllenborg-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u02575",
@@ -63249,7 +63152,6 @@
 "cert": null,
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "unresolved"
@@ -63461,10 +63363,8 @@
 "ref": null,
 "cert": null,
 "candidates": [
-"pers-ekeblad-grefwe",
 "pers-ekeblad-eva",
-"pers-ekeblad-r",
-"pers-ekeblad-gref"
+"pers-ekeblad-r"
 ],
 "how": "unresolved"
 },
@@ -63545,10 +63445,8 @@
 "ref": null,
 "cert": null,
 "candidates": [
-"pers-ekeblad-grefwe",
 "pers-ekeblad-eva",
-"pers-ekeblad-r",
-"pers-ekeblad-gref"
+"pers-ekeblad-r"
 ],
 "how": "unresolved"
 },
@@ -63808,7 +63706,7 @@
 "page": "516",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-southers-hof",
+"ref": "pers-southers-graveuren",
 "cert": "high",
 "how": "form"
 },
@@ -63834,7 +63732,7 @@
 "page": "517",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-graveuren-hof",
+"ref": "pers-graveuren",
 "cert": "high",
 "how": "form"
 },
@@ -64122,6 +64020,19 @@
 "type": "persName",
 "ref": "pers-berch-carolus",
 "cert": "medium",
+"how": "form"
+},
+{
+"unit": "u02596",
+"sha": "657be6ab7161",
+"start": 1940,
+"end": 1959,
+"text": "Herr Cantzlie Rådet",
+"page": "519",
+"chapter": "7",
+"type": "persName",
+"ref": "pers-rådet-riks",
+"cert": "high",
 "how": "form"
 },
 {
@@ -64927,7 +64838,7 @@
 "page": "526",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-ribbing-baron",
+"ref": "pers-ribbing-conrad",
 "cert": "high",
 "how": "form"
 },
@@ -65369,8 +65280,8 @@
 "page": "530",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-falkenberg-baron",
-"cert": "medium",
+"ref": "pers-falkenberg-melker",
+"cert": "high",
 "how": "form"
 },
 {
@@ -65641,9 +65552,13 @@
 "page": "533",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-bielke-grefwe",
-"cert": "high",
-"how": "form"
+"ref": "pers-bielke-nicolaus",
+"cert": "low",
+"candidates": [
+"pers-bielke-nicolaus",
+"pers-bielke-sten"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u02639",
@@ -66208,9 +66123,13 @@
 "page": "537",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-rudbeck-baron",
-"cert": "high",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-rudbeck-sinrik",
+"pers-rudbeck-olaus"
+],
+"how": "unresolved"
 },
 {
 "unit": "u02656",
@@ -66221,9 +66140,13 @@
 "page": "537",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-rudbeck-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-rudbeck-sinrik",
+"pers-rudbeck-olaus"
+],
+"how": "unresolved"
 },
 {
 "unit": "u02656",
@@ -66286,7 +66209,7 @@
 "page": "538",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-falkenberg-baron",
+"ref": "pers-falkenberg-melker",
 "cert": "high",
 "how": "form"
 },
@@ -66312,9 +66235,13 @@
 "page": "538",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-rudbeck-baron",
-"cert": "high",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-rudbeck-sinrik",
+"pers-rudbeck-olaus"
+],
+"how": "unresolved"
 },
 {
 "unit": "u02659",
@@ -66455,7 +66382,7 @@
 "page": "539",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-falkenberg-baron",
+"ref": "pers-falkenberg-melker",
 "cert": "high",
 "how": "form"
 },
@@ -66507,13 +66434,9 @@
 "page": "539",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-gyllenborg-grefwe",
-"cert": "low",
-"candidates": [
-"pers-gyllenborg-grefwe",
-"pers-gyllenborg-carolus"
-],
-"how": "guess: chapter majority"
+"ref": "pers-gyllenborg-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u02664",
@@ -66524,7 +66447,20 @@
 "page": "539",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-gyllenborg-grefwe",
+"ref": "pers-gyllenborg-carolus",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u02665",
+"sha": "17a0930450a5",
+"start": 47,
+"end": 65,
+"text": "Herr Cantzli Rådet",
+"page": "539",
+"chapter": "7",
+"type": "persName",
+"ref": "pers-rådet-riks",
 "cert": "high",
 "how": "form"
 },
@@ -66775,12 +66711,8 @@
 "chapter": "7",
 "type": "persName",
 "ref": "pers-hagelberg-carolus",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: chapter majority"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u02679",
@@ -66792,12 +66724,8 @@
 "chapter": "7",
 "type": "persName",
 "ref": "pers-hagelberg-carolus",
-"cert": "low",
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "guess: chapter majority"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u02680",
@@ -67121,12 +67049,8 @@
 "chapter": "7",
 "type": "persName",
 "ref": "pers-wollin-jonas",
-"cert": "low",
-"candidates": [
-"pers-wollin-borgmästar",
-"pers-wollin-jonas"
-],
-"how": "guess: chapter majority"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u02695",
@@ -67493,12 +67417,8 @@
 "chapter": "7",
 "type": "persName",
 "ref": "pers-wollin-jonas",
-"cert": "low",
-"candidates": [
-"pers-wollin-borgmästar",
-"pers-wollin-jonas"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u02698",
@@ -67808,19 +67728,9 @@
 "page": "546",
 "chapter": "7",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-horn-christer",
-"pers-horn-b",
-"pers-horn-gustavus",
-"pers-horn-henric",
-"pers-horn-arwedh",
-"pers-horn-baron",
-"pers-horn-benedictus",
-"pers-horn-arvid"
-],
-"how": "unresolved"
+"ref": "pers-horn-benedictus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u02722",
@@ -68900,7 +68810,7 @@
 "page": "551",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-rådet-cancellie",
+"ref": "pers-rådet-riks",
 "cert": "high",
 "how": "form"
 },
@@ -69081,7 +68991,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -69246,6 +69155,19 @@
 {
 "unit": "u02766",
 "sha": "128f8de0a226",
+"start": 1590,
+"end": 1615,
+"text": "herr Cantzli Rådet Berchs",
+"page": "556",
+"chapter": "8",
+"type": "persName",
+"ref": "pers-berch-carolus",
+"cert": "medium",
+"how": "form"
+},
+{
+"unit": "u02766",
+"sha": "128f8de0a226",
 "start": 2067,
 "end": 2072,
 "text": "Botin",
@@ -69364,7 +69286,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -69491,7 +69412,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -69549,7 +69469,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: chapter majority"
@@ -69567,7 +69486,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: chapter majority"
@@ -69581,14 +69499,9 @@
 "page": "558",
 "chapter": "8",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "unresolved"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u02783",
@@ -69655,7 +69568,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -70246,7 +70158,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: chapter majority"
@@ -70342,7 +70253,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -70387,7 +70297,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: chapter majority"
@@ -70457,7 +70366,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: chapter majority"
@@ -70609,7 +70517,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -70654,7 +70561,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -70673,7 +70579,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -70692,7 +70597,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -70749,7 +70653,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -70793,7 +70696,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -70825,7 +70727,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -70861,7 +70762,6 @@
 "cert": "low",
 "candidates": [
 "pers-brocman-nicolaus",
-"pers-brocman-amanuensen",
 "pers-brocman-n",
 "pers-brocman-carolus"
 ],
@@ -70919,7 +70819,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -70963,7 +70862,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -70977,14 +70875,9 @@
 "page": "567",
 "chapter": "8",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "unresolved"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u02803",
@@ -70995,14 +70888,9 @@
 "page": "567",
 "chapter": "8",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "unresolved"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u02804",
@@ -72232,7 +72120,7 @@
 "page": "573",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-henric-baron",
+"ref": "pers-henric-georgius",
 "cert": "high",
 "how": "form"
 },
@@ -72440,9 +72328,13 @@
 "page": "576",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-rudbeck-baron",
-"cert": "medium",
-"how": "form"
+"ref": "pers-rudbeck-olaus",
+"cert": "low",
+"candidates": [
+"pers-rudbeck-sinrik",
+"pers-rudbeck-olaus"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u02824",
@@ -72544,7 +72436,7 @@
 "page": "576",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-haldans-kong",
+"ref": "pers-haldans-sivar",
 "cert": "high",
 "how": "form"
 },
@@ -73179,7 +73071,7 @@
 "page": "579",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-rudenschiöld-baron",
+"ref": "pers-rudenschiöld",
 "cert": "high",
 "how": "form"
 },
@@ -73473,8 +73365,13 @@
 "page": "581",
 "chapter": "8",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-tessin-nicodemus",
+"cert": "low",
+"candidates": [
+"pers-tessin-nicodemus",
+"pers-tessin-carolus"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u02832",
@@ -73498,7 +73395,7 @@
 "page": "581",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-grefwe-hofcantzleren",
+"ref": "pers-grefwe",
 "cert": "high",
 "how": "form"
 },
@@ -73580,9 +73477,13 @@
 "page": "582",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-tessin-gref",
-"cert": "high",
-"how": "form"
+"ref": "pers-tessin-nicodemus",
+"cert": "low",
+"candidates": [
+"pers-tessin-nicodemus",
+"pers-tessin-carolus"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u02837",
@@ -73649,7 +73550,7 @@
 "page": "583",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-hamilton-baron",
+"ref": "pers-hamilton",
 "cert": "high",
 "how": "form"
 },
@@ -73688,13 +73589,9 @@
 "page": "583",
 "chapter": "8",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-carleson-hofcantzleren",
-"pers-carleson-t"
-],
-"how": "unresolved"
+"ref": "pers-carleson-t",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u02840",
@@ -74306,7 +74203,7 @@
 "page": "587",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-rosenhane-baron",
+"ref": "pers-rosenhane-schering",
 "cert": "high",
 "how": "form"
 },
@@ -74505,7 +74402,7 @@
 "page": "588",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-knut-baron",
+"ref": "pers-knut",
 "cert": "high",
 "how": "form"
 },
@@ -74518,7 +74415,7 @@
 "page": "588",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-lieven-baron",
+"ref": "pers-lieven-bernhard",
 "cert": "high",
 "how": "form"
 },
@@ -74570,7 +74467,7 @@
 "page": "588",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-thegner-baron",
+"ref": "pers-thegner-olaus",
 "cert": "high",
 "how": "form"
 },
@@ -74596,7 +74493,7 @@
 "page": "588",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-strahlenheim-baron",
+"ref": "pers-strahlenheim-henning",
 "cert": "high",
 "how": "form"
 },
@@ -74622,7 +74519,7 @@
 "page": "588",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-henric-baron",
+"ref": "pers-henric-georgius",
 "cert": "high",
 "how": "form"
 },
@@ -74726,7 +74623,7 @@
 "page": "588",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-horn-baron",
+"ref": "pers-horn-benedictus",
 "cert": "high",
 "how": "form"
 },
@@ -74817,8 +74714,8 @@
 "page": "588",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-hårleman-baron",
-"cert": "medium",
+"ref": "pers-hårleman-carolus",
+"cert": "high",
 "how": "form"
 },
 {
@@ -75186,12 +75083,8 @@
 "chapter": "8",
 "type": "persName",
 "ref": "pers-gyllenborg-carolus",
-"cert": "low",
-"candidates": [
-"pers-gyllenborg-grefwe",
-"pers-gyllenborg-carolus"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u03102",
@@ -75271,19 +75164,9 @@
 "page": "589",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-horn-baron",
-"cert": "low",
-"candidates": [
-"pers-horn-christer",
-"pers-horn-b",
-"pers-horn-gustavus",
-"pers-horn-henric",
-"pers-horn-arwedh",
-"pers-horn-baron",
-"pers-horn-benedictus",
-"pers-horn-arvid"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-horn-benedictus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u03107",
@@ -75346,13 +75229,9 @@
 "page": "589",
 "chapter": "8",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-ribbing-lagman",
-"pers-ribbing-baron"
-],
-"how": "unresolved"
+"ref": "pers-ribbing-conrad",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u03109",
@@ -75376,8 +75255,8 @@
 "page": "589",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-hårleman-baron",
-"cert": "medium",
+"ref": "pers-hårleman-carolus",
+"cert": "high",
 "how": "form"
 },
 {
@@ -75402,9 +75281,13 @@
 "page": "589",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-rudbeck-baron",
-"cert": "medium",
-"how": "form"
+"ref": "pers-rudbeck-olaus",
+"cert": "low",
+"candidates": [
+"pers-rudbeck-sinrik",
+"pers-rudbeck-olaus"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u03115",
@@ -76059,13 +75942,9 @@
 "page": "595",
 "chapter": "8",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-stenhagen-canzlie",
-"pers-stenhagen-cancellie"
-],
-"how": "unresolved"
+"ref": "pers-stenhagen-canzlie",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u03130",
@@ -76263,6 +76142,19 @@
 "chapter": "8",
 "type": "placeName",
 "ref": "plac-åbo",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u03133",
+"sha": "823934c49d7f",
+"start": 219,
+"end": 239,
+"text": "Cantzli Rådet Scarin",
+"page": "596",
+"chapter": "8",
+"type": "persName",
+"ref": "pers-scarin-algoth",
 "cert": "high",
 "how": "form"
 },
@@ -76812,13 +76704,9 @@
 "page": "601",
 "chapter": "8",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-stenhagen-canzlie",
-"pers-stenhagen-cancellie"
-],
-"how": "unresolved"
+"ref": "pers-stenhagen-canzlie",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u03142",
@@ -77037,7 +76925,7 @@
 "page": "604",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-hjärne-baron",
+"ref": "pers-hjärne",
 "cert": "high",
 "how": "form"
 },
@@ -77828,6 +77716,19 @@
 {
 "unit": "u03190",
 "sha": "0645d6e53870",
+"start": 555,
+"end": 573,
+"text": "herr Cantzli Rådet",
+"page": "618",
+"chapter": "8",
+"type": "persName",
+"ref": "pers-rådet-riks",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u03190",
+"sha": "0645d6e53870",
 "start": 1023,
 "end": 1036,
 "text": "Benzelstierna",
@@ -78330,6 +78231,32 @@
 {
 "unit": "u03195",
 "sha": "d8f879d53f25",
+"start": 880,
+"end": 898,
+"text": "CantzliRådet Berch",
+"page": "620",
+"chapter": "8",
+"type": "persName",
+"ref": "pers-berch-carolus",
+"cert": "medium",
+"how": "form"
+},
+{
+"unit": "u03195",
+"sha": "d8f879d53f25",
+"start": 1440,
+"end": 1463,
+"text": "herr CantzliRådet Berch",
+"page": "621",
+"chapter": "8",
+"type": "persName",
+"ref": "pers-berch-carolus",
+"cert": "medium",
+"how": "form"
+},
+{
+"unit": "u03195",
+"sha": "d8f879d53f25",
 "start": 2255,
 "end": 2260,
 "text": "Stats",
@@ -78338,6 +78265,32 @@
 "type": "persName",
 "ref": "pers-stats",
 "cert": "high",
+"how": "form"
+},
+{
+"unit": "u03195",
+"sha": "d8f879d53f25",
+"start": 2292,
+"end": 2323,
+"text": "herr CantzliRådet Baron Ribbing",
+"page": "621",
+"chapter": "8",
+"type": "persName",
+"ref": "pers-ribbing-conrad",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u03195",
+"sha": "d8f879d53f25",
+"start": 2357,
+"end": 2380,
+"text": "herr CantzliRådet Berch",
+"page": "621",
+"chapter": "8",
+"type": "persName",
+"ref": "pers-berch-carolus",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -79196,13 +79149,9 @@
 "page": "630",
 "chapter": "9",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-gyllenborg-grefwe",
-"pers-gyllenborg-carolus"
-],
-"how": "unresolved"
+"ref": "pers-gyllenborg-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u03213",
@@ -79226,8 +79175,8 @@
 "page": "630",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-sparre-hofcantzleren",
-"cert": "high",
+"ref": "pers-sparre-fredric",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -80157,7 +80106,7 @@
 "page": "643",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-hofcantzleren-baron",
+"ref": "pers-hofcantzleren",
 "cert": "high",
 "how": "form"
 },
@@ -80822,6 +80771,19 @@
 "type": "persName",
 "ref": "pers-adlerbeth-gudmund",
 "cert": "medium",
+"how": "form"
+},
+{
+"unit": "u03326",
+"sha": "67b6f55fa954",
+"start": 905,
+"end": 929,
+"text": "herr Cantzli Rådet Wilde",
+"page": "649",
+"chapter": "9",
+"type": "persName",
+"ref": "pers-wilde-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -81646,6 +81608,19 @@
 {
 "unit": "u03344",
 "sha": "d99d064954f8",
+"start": 323,
+"end": 355,
+"text": "Herr Cantzli Rådet von Engeström",
+"page": "656",
+"chapter": "9",
+"type": "persName",
+"ref": "pers-engeström-ferrner",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u03344",
+"sha": "d99d064954f8",
 "start": 414,
 "end": 425,
 "text": "Ritare Rehn",
@@ -82315,8 +82290,8 @@
 "page": "659",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-sparre-baron",
-"cert": "high",
+"ref": "pers-sparre-fredric",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -82384,7 +82359,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -83120,6 +83094,19 @@
 {
 "unit": "u03376",
 "sha": "eff0a1f653ed",
+"start": 3119,
+"end": 3151,
+"text": "herr Cantzli Rådet von Engeström",
+"page": "664",
+"chapter": "9",
+"type": "persName",
+"ref": "pers-engeström-ferrner",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u03376",
+"sha": "eff0a1f653ed",
 "start": 3344,
 "end": 3353,
 "text": "Adlerbeth",
@@ -83152,8 +83139,8 @@
 "page": "664",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-falkenberg-baron",
-"cert": "medium",
+"ref": "pers-falkenberg-melker",
+"cert": "high",
 "how": "form"
 },
 {
@@ -83263,13 +83250,26 @@
 {
 "unit": "u03377",
 "sha": "b47efb37c661",
+"start": 462,
+"end": 494,
+"text": "Herr Cantzli Rådet von Engeström",
+"page": "665",
+"chapter": "9",
+"type": "persName",
+"ref": "pers-engeström-ferrner",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u03377",
+"sha": "b47efb37c661",
 "start": 745,
 "end": 751,
 "text": "Grefwe",
 "page": "665",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-grefwe-hofcantzleren",
+"ref": "pers-grefwe",
 "cert": "high",
 "how": "form"
 },
@@ -83620,7 +83620,7 @@
 "page": "666",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-armfelts-baron",
+"ref": "pers-armfelts",
 "cert": "high",
 "how": "form"
 },
@@ -84339,8 +84339,8 @@
 "page": "672",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-hårleman-baron",
-"cert": "medium",
+"ref": "pers-hårleman-carolus",
+"cert": "high",
 "how": "form"
 },
 {
@@ -84404,7 +84404,7 @@
 "page": "673",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-hårleman-baron",
+"ref": "pers-hårleman-carolus",
 "cert": "high",
 "how": "form"
 },
@@ -84417,8 +84417,8 @@
 "page": "673",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-höpken-baron",
-"cert": "medium",
+"ref": "pers-höpken-gr",
+"cert": "high",
 "how": "form"
 },
 {
@@ -84560,13 +84560,9 @@
 "page": "677",
 "chapter": "10",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-gyllenborg-grefwe",
-"pers-gyllenborg-carolus"
-],
-"how": "unresolved"
+"ref": "pers-gyllenborg-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u03414",
@@ -84603,7 +84599,7 @@
 "page": "677",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-manderström-baron",
+"ref": "pers-manderström",
 "cert": "high",
 "how": "form"
 },
@@ -84707,7 +84703,7 @@
 "page": "678",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-horleman-baron",
+"ref": "pers-horleman",
 "cert": "high",
 "how": "form"
 },
@@ -84751,6 +84747,19 @@
 "how": "form"
 },
 {
+"unit": "u03422",
+"sha": "3f4b937ef70f",
+"start": 415,
+"end": 443,
+"text": "Cantzlie Bokhållaren Sondell",
+"page": "679",
+"chapter": "10",
+"type": "persName",
+"ref": "pers-sondell-bokhållaren",
+"cert": "high",
+"how": "form"
+},
+{
 "unit": "u03423",
 "sha": "e0b0640b11a6",
 "start": 188,
@@ -84785,9 +84794,13 @@
 "page": "680",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-scheffer-baron",
-"cert": "medium",
-"how": "form"
+"ref": "pers-scheffer-carolus",
+"cert": "low",
+"candidates": [
+"pers-scheffer-carolus",
+"pers-scheffer-h-e"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u03429",
@@ -84876,8 +84889,8 @@
 "page": "680",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-höpken-baron",
-"cert": "medium",
+"ref": "pers-höpken-gr",
+"cert": "high",
 "how": "form"
 },
 {
@@ -84889,9 +84902,13 @@
 "page": "680",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-ekeblad-gref",
-"cert": "high",
-"how": "form"
+"ref": "pers-ekeblad-r",
+"cert": "low",
+"candidates": [
+"pers-ekeblad-eva",
+"pers-ekeblad-r"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u03439",
@@ -84902,9 +84919,13 @@
 "page": "680",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-scheffer-baron",
-"cert": "high",
-"how": "form"
+"ref": "pers-scheffer-carolus",
+"cert": "low",
+"candidates": [
+"pers-scheffer-carolus",
+"pers-scheffer-h-e"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u03439",
@@ -84915,7 +84936,7 @@
 "page": "680",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-rudenschiöld-baron",
+"ref": "pers-rudenschiöld",
 "cert": "high",
 "how": "form"
 },
@@ -84967,8 +84988,8 @@
 "page": "681",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-höpken-baron",
-"cert": "medium",
+"ref": "pers-höpken-gr",
+"cert": "high",
 "how": "form"
 },
 {
@@ -84980,13 +85001,11 @@
 "page": "681",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-ekeblad-gref",
+"ref": "pers-ekeblad-r",
 "cert": "low",
 "candidates": [
-"pers-ekeblad-grefwe",
 "pers-ekeblad-eva",
-"pers-ekeblad-r",
-"pers-ekeblad-gref"
+"pers-ekeblad-r"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -85025,7 +85044,7 @@
 "page": "681",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-rudenschiöld-baron",
+"ref": "pers-rudenschiöld",
 "cert": "high",
 "how": "form"
 },
@@ -85090,7 +85109,7 @@
 "page": "681",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-höpken-baron",
+"ref": "pers-höpken-gr",
 "cert": "high",
 "how": "form"
 },
@@ -85120,7 +85139,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -85147,8 +85165,8 @@
 "page": "683",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-höpken-baron",
-"cert": "medium",
+"ref": "pers-höpken-gr",
+"cert": "high",
 "how": "form"
 },
 {
@@ -85186,8 +85204,8 @@
 "page": "683",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-höpken-baron",
-"cert": "medium",
+"ref": "pers-höpken-gr",
+"cert": "high",
 "how": "form"
 },
 {
@@ -85359,7 +85377,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -85429,7 +85446,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -85664,13 +85680,11 @@
 "page": "685",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-ekeblad-gref",
+"ref": "pers-ekeblad-r",
 "cert": "low",
 "candidates": [
-"pers-ekeblad-grefwe",
 "pers-ekeblad-eva",
-"pers-ekeblad-r",
-"pers-ekeblad-gref"
+"pers-ekeblad-r"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -85683,9 +85697,13 @@
 "page": "685",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-scheffer-baron",
-"cert": "medium",
-"how": "form"
+"ref": "pers-scheffer-carolus",
+"cert": "low",
+"candidates": [
+"pers-scheffer-carolus",
+"pers-scheffer-h-e"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u03498",
@@ -85696,7 +85714,7 @@
 "page": "685",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-rudenschiöld-baron",
+"ref": "pers-rudenschiöld",
 "cert": "high",
 "how": "form"
 },
@@ -85713,7 +85731,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -85839,7 +85856,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -85853,13 +85869,11 @@
 "page": "685",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-ekeblad-gref",
+"ref": "pers-ekeblad-r",
 "cert": "low",
 "candidates": [
-"pers-ekeblad-grefwe",
 "pers-ekeblad-eva",
-"pers-ekeblad-r",
-"pers-ekeblad-gref"
+"pers-ekeblad-r"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -85937,9 +85951,13 @@
 "page": "686",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-scheffer-baron",
-"cert": "medium",
-"how": "form"
+"ref": "pers-scheffer-carolus",
+"cert": "low",
+"candidates": [
+"pers-scheffer-carolus",
+"pers-scheffer-h-e"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u03501",
@@ -85950,7 +85968,7 @@
 "page": "686",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-rudenschiöld-baron",
+"ref": "pers-rudenschiöld",
 "cert": "high",
 "how": "form"
 },
@@ -86028,9 +86046,13 @@
 "page": "686",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-scheffer-baron",
-"cert": "medium",
-"how": "form"
+"ref": "pers-scheffer-carolus",
+"cert": "low",
+"candidates": [
+"pers-scheffer-carolus",
+"pers-scheffer-h-e"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u03503",
@@ -86041,9 +86063,13 @@
 "page": "686",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-scheffer-baron",
-"cert": "medium",
-"how": "form"
+"ref": "pers-scheffer-carolus",
+"cert": "low",
+"candidates": [
+"pers-scheffer-carolus",
+"pers-scheffer-h-e"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u03503",
@@ -86067,8 +86093,8 @@
 "page": "686",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-höpken-baron",
-"cert": "medium",
+"ref": "pers-höpken-gr",
+"cert": "high",
 "how": "form"
 },
 {
@@ -86080,9 +86106,13 @@
 "page": "686",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-scheffer-baron",
-"cert": "medium",
-"how": "form"
+"ref": "pers-scheffer-carolus",
+"cert": "low",
+"candidates": [
+"pers-scheffer-carolus",
+"pers-scheffer-h-e"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u03504",
@@ -86106,13 +86136,9 @@
 "page": "686",
 "chapter": "10",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-gyllenborg-grefwe",
-"pers-gyllenborg-carolus"
-],
-"how": "unresolved"
+"ref": "pers-gyllenborg-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u03504",
@@ -86149,9 +86175,13 @@
 "page": "686",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-scheffer-baron",
-"cert": "medium",
-"how": "form"
+"ref": "pers-scheffer-carolus",
+"cert": "low",
+"candidates": [
+"pers-scheffer-carolus",
+"pers-scheffer-h-e"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u03504",
@@ -86162,7 +86192,7 @@
 "page": "687",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-manderström-baron",
+"ref": "pers-manderström",
 "cert": "high",
 "how": "form"
 },
@@ -86266,9 +86296,13 @@
 "page": "687",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-scheffer-baron",
-"cert": "medium",
-"how": "form"
+"ref": "pers-scheffer-carolus",
+"cert": "low",
+"candidates": [
+"pers-scheffer-carolus",
+"pers-scheffer-h-e"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u03505",
@@ -86279,13 +86313,11 @@
 "page": "687",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-ekeblad-gref",
+"ref": "pers-ekeblad-r",
 "cert": "low",
 "candidates": [
-"pers-ekeblad-grefwe",
 "pers-ekeblad-eva",
-"pers-ekeblad-r",
-"pers-ekeblad-gref"
+"pers-ekeblad-r"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -86298,7 +86330,7 @@
 "page": "687",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-rudenschiöld-baron",
+"ref": "pers-rudenschiöld",
 "cert": "high",
 "how": "form"
 },
@@ -86315,7 +86347,6 @@
 "cert": "low",
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "guess: earlier in chapter"
@@ -86394,7 +86425,7 @@
 "page": "687",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-manderström-baron",
+"ref": "pers-manderström",
 "cert": "high",
 "how": "form"
 },
@@ -86524,13 +86555,9 @@
 "page": "687",
 "chapter": "10",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-gyllenborg-grefwe",
-"pers-gyllenborg-carolus"
-],
-"how": "unresolved"
+"ref": "pers-gyllenborg-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u03505",
@@ -86541,7 +86568,7 @@
 "page": "687",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-manderström-baron",
+"ref": "pers-manderström",
 "cert": "high",
 "how": "form"
 },
@@ -86606,9 +86633,13 @@
 "page": "687",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-scheffer-baron",
-"cert": "medium",
-"how": "form"
+"ref": "pers-scheffer-carolus",
+"cert": "low",
+"candidates": [
+"pers-scheffer-carolus",
+"pers-scheffer-h-e"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u03515",
@@ -86827,7 +86858,7 @@
 "page": "690",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-manderström-baron",
+"ref": "pers-manderström",
 "cert": "high",
 "how": "form"
 },
@@ -86879,7 +86910,7 @@
 "page": "690",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-rudenschiöld-baron",
+"ref": "pers-rudenschiöld",
 "cert": "high",
 "how": "form"
 },
@@ -86909,13 +86940,9 @@
 "page": "690",
 "chapter": "10",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-gyllenborg-grefwe",
-"pers-gyllenborg-carolus"
-],
-"how": "unresolved"
+"ref": "pers-gyllenborg-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u03531",
@@ -86952,7 +86979,7 @@
 "page": "691",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-rudenschiöld-baron",
+"ref": "pers-rudenschiöld",
 "cert": "high",
 "how": "form"
 },
@@ -87108,7 +87135,7 @@
 "page": "692",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-manderström-baron",
+"ref": "pers-manderström",
 "cert": "high",
 "how": "form"
 },
@@ -87190,7 +87217,7 @@
 "page": "693",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-höpken-gref",
+"ref": "pers-höpken-gr",
 "cert": "high",
 "how": "form"
 },
@@ -87203,7 +87230,7 @@
 "page": "693",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-manderström-baron",
+"ref": "pers-manderström",
 "cert": "high",
 "how": "form"
 },
@@ -87476,7 +87503,7 @@
 "page": "696",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-manderström-baron",
+"ref": "pers-manderström",
 "cert": "high",
 "how": "form"
 },
@@ -87515,13 +87542,9 @@
 "page": "696",
 "chapter": "10",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-gyllenborg-grefwe",
-"pers-gyllenborg-carolus"
-],
-"how": "unresolved"
+"ref": "pers-gyllenborg-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u03545",
@@ -87640,8 +87663,8 @@
 "page": "696",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-höpken-baron",
-"cert": "medium",
+"ref": "pers-höpken-gr",
+"cert": "high",
 "how": "form"
 },
 {
@@ -87653,8 +87676,8 @@
 "page": "696",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-höpken-baron",
-"cert": "medium",
+"ref": "pers-höpken-gr",
+"cert": "high",
 "how": "form"
 },
 {
@@ -87692,9 +87715,13 @@
 "page": "697",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-scheffer-baron",
-"cert": "medium",
-"how": "form"
+"ref": "pers-scheffer-carolus",
+"cert": "low",
+"candidates": [
+"pers-scheffer-carolus",
+"pers-scheffer-h-e"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u03548",
@@ -87705,9 +87732,13 @@
 "page": "697",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-scheffer-baron",
-"cert": "medium",
-"how": "form"
+"ref": "pers-scheffer-carolus",
+"cert": "low",
+"candidates": [
+"pers-scheffer-carolus",
+"pers-scheffer-h-e"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u03548",
@@ -87783,9 +87814,13 @@
 "page": "698",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-scheffer-baron",
-"cert": "medium",
-"how": "form"
+"ref": "pers-scheffer-carolus",
+"cert": "low",
+"candidates": [
+"pers-scheffer-carolus",
+"pers-scheffer-h-e"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u03549",
@@ -87796,8 +87831,8 @@
 "page": "698",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-höpken-baron",
-"cert": "medium",
+"ref": "pers-höpken-gr",
+"cert": "high",
 "how": "form"
 },
 {
@@ -87822,7 +87857,7 @@
 "page": "698",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-rudenschiöld-baron",
+"ref": "pers-rudenschiöld",
 "cert": "high",
 "how": "form"
 },
@@ -87913,13 +87948,9 @@
 "page": "699",
 "chapter": "10",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-gyllenborg-grefwe",
-"pers-gyllenborg-carolus"
-],
-"how": "unresolved"
+"ref": "pers-gyllenborg-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u03551",
@@ -88116,9 +88147,13 @@
 "page": "700",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-scheffer-baron",
-"cert": "medium",
-"how": "form"
+"ref": "pers-scheffer-carolus",
+"cert": "low",
+"candidates": [
+"pers-scheffer-carolus",
+"pers-scheffer-h-e"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u03552",
@@ -88129,8 +88164,8 @@
 "page": "700",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-höpken-baron",
-"cert": "medium",
+"ref": "pers-höpken-gr",
+"cert": "high",
 "how": "form"
 },
 {
@@ -88142,9 +88177,13 @@
 "page": "701",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-scheffer-baron",
-"cert": "medium",
-"how": "form"
+"ref": "pers-scheffer-carolus",
+"cert": "low",
+"candidates": [
+"pers-scheffer-carolus",
+"pers-scheffer-h-e"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u03553",
@@ -88246,9 +88285,13 @@
 "page": "701",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-scheffer-baron",
-"cert": "medium",
-"how": "form"
+"ref": "pers-scheffer-carolus",
+"cert": "low",
+"candidates": [
+"pers-scheffer-carolus",
+"pers-scheffer-h-e"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u03554",
@@ -88259,7 +88302,7 @@
 "page": "701",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-rudenschiöld-baron",
+"ref": "pers-rudenschiöld",
 "cert": "high",
 "how": "form"
 },
@@ -88406,9 +88449,13 @@
 "page": "703",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-rudbeck-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-rudbeck-sinrik",
+"pers-rudbeck-olaus"
+],
+"how": "unresolved"
 },
 {
 "unit": "u03556",
@@ -88497,9 +88544,13 @@
 "page": "704",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-scheffer-baron",
-"cert": "medium",
-"how": "form"
+"ref": "pers-scheffer-carolus",
+"cert": "low",
+"candidates": [
+"pers-scheffer-carolus",
+"pers-scheffer-h-e"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u03561",
@@ -88588,8 +88639,8 @@
 "page": "706",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-höpken-baron",
-"cert": "medium",
+"ref": "pers-höpken-gr",
+"cert": "high",
 "how": "form"
 },
 {
@@ -88627,8 +88678,8 @@
 "page": "707",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-höpken-baron",
-"cert": "medium",
+"ref": "pers-höpken-gr",
+"cert": "high",
 "how": "form"
 },
 {
@@ -88679,9 +88730,13 @@
 "page": "708",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-scheffer-baron",
-"cert": "medium",
-"how": "form"
+"ref": "pers-scheffer-carolus",
+"cert": "low",
+"candidates": [
+"pers-scheffer-carolus",
+"pers-scheffer-h-e"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u03569",
@@ -88705,7 +88760,7 @@
 "page": "708",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-manderström-baron",
+"ref": "pers-manderström",
 "cert": "high",
 "how": "form"
 },
@@ -89160,8 +89215,8 @@
 "page": "713",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-höpken-baron",
-"cert": "medium",
+"ref": "pers-höpken-gr",
+"cert": "high",
 "how": "form"
 },
 {
@@ -89450,9 +89505,13 @@
 "page": "716",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-scheffer-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-scheffer-carolus",
+"pers-scheffer-h-e"
+],
+"how": "unresolved"
 },
 {
 "unit": "u03610",
@@ -89463,7 +89522,7 @@
 "page": "716",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-rudenschiöld-baron",
+"ref": "pers-rudenschiöld",
 "cert": "high",
 "how": "form"
 },
@@ -89554,13 +89613,9 @@
 "page": "716",
 "chapter": "11",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-gyllenborg-grefwe",
-"pers-gyllenborg-carolus"
-],
-"how": "unresolved"
+"ref": "pers-gyllenborg-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u03610",
@@ -89597,7 +89652,7 @@
 "page": "716",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-manderström-baron",
+"ref": "pers-manderström",
 "cert": "high",
 "how": "form"
 },
@@ -89870,9 +89925,13 @@
 "page": "717",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-scheffer-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-scheffer-carolus",
+"pers-scheffer-h-e"
+],
+"how": "unresolved"
 },
 {
 "unit": "u03612",
@@ -89896,13 +89955,9 @@
 "page": "717",
 "chapter": "11",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-gyllenborg-grefwe",
-"pers-gyllenborg-carolus"
-],
-"how": "unresolved"
+"ref": "pers-gyllenborg-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u03612",
@@ -89955,8 +90010,8 @@
 "ref": null,
 "cert": null,
 "candidates": [
-"pers-düben-håfcantzleren",
-"pers-düben-grefwe"
+"pers-düben-hofcantzlern",
+"pers-düben-hofcancellern"
 ],
 "how": "unresolved"
 },
@@ -90008,13 +90063,9 @@
 "page": "717",
 "chapter": "11",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-ribbing-lagman",
-"pers-ribbing-baron"
-],
-"how": "unresolved"
+"ref": "pers-ribbing-conrad",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u03612",
@@ -90077,7 +90128,7 @@
 "page": "717",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-manderström-baron",
+"ref": "pers-manderström",
 "cert": "high",
 "how": "form"
 },
@@ -90211,8 +90262,8 @@
 "page": "717",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-höpken-baron",
-"cert": "medium",
+"ref": "pers-höpken-gr",
+"cert": "high",
 "how": "form"
 },
 {
@@ -90224,9 +90275,13 @@
 "page": "717",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-scheffer-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-scheffer-carolus",
+"pers-scheffer-h-e"
+],
+"how": "unresolved"
 },
 {
 "unit": "u03613",
@@ -90237,13 +90292,9 @@
 "page": "717",
 "chapter": "11",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-gyllenborg-grefwe",
-"pers-gyllenborg-carolus"
-],
-"how": "unresolved"
+"ref": "pers-gyllenborg-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u03613",
@@ -90569,7 +90620,6 @@
 "cert": null,
 "candidates": [
 "pers-bonde-gustavus",
-"pers-bonde-grefwe",
 "pers-bonde-carolus"
 ],
 "how": "unresolved"
@@ -90583,14 +90633,9 @@
 "page": null,
 "chapter": "11",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-bergius-benedictus",
-"pers-bergius-docens",
-"pers-bergius-assessor"
-],
-"how": "unresolved"
+"ref": "pers-bergius-benedictus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u03619",
@@ -90657,13 +90702,9 @@
 "page": null,
 "chapter": "11",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-hagelberg-carolus",
-"pers-hagelberg-assessor"
-],
-"how": "unresolved"
+"ref": "pers-hagelberg-carolus",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u03619",
@@ -91023,13 +91064,9 @@
 "page": null,
 "chapter": "11",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-wollin-borgmästar",
-"pers-wollin-jonas"
-],
-"how": "unresolved"
+"ref": "pers-wollin-jonas",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u03633",

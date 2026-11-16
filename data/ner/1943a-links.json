@@ -519,13 +519,9 @@
 "page": "5",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "unresolved"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00055",
@@ -835,8 +831,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -1327,13 +1322,9 @@
 "page": "17",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "unresolved"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00118",
@@ -2322,8 +2313,8 @@
 "page": "29",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -2413,9 +2404,13 @@
 "page": "29",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-kongl-baron",
-"cert": "high",
-"how": "form"
+"ref": "pers-kongl-johannes",
+"cert": "low",
+"candidates": [
+"pers-kongl-johannes",
+"pers-kongl-eders"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00180",
@@ -3011,7 +3006,7 @@
 "page": "34",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-rosenhane-baron",
+"ref": "pers-rosenhane-schering",
 "cert": "high",
 "how": "form"
 },
@@ -3024,7 +3019,7 @@
 "page": "34",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-rosenhane-baron",
+"ref": "pers-rosenhane-schering",
 "cert": "high",
 "how": "form"
 },
@@ -3050,7 +3045,7 @@
 "page": "34",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-rosenhane-baron",
+"ref": "pers-rosenhane-schering",
 "cert": "high",
 "how": "form"
 },
@@ -3077,6 +3072,32 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-kongl-johannes",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u00198",
+"sha": "51a608e770d0",
+"start": 335,
+"end": 371,
+"text": "Herr Justitiæ Cantzleren Liljestråle",
+"page": "35",
+"chapter": "1",
+"type": "persName",
+"ref": "pers-liljestråle",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u00198",
+"sha": "51a608e770d0",
+"start": 443,
+"end": 467,
+"text": "Herr Cantzli Rådet Wilde",
+"page": "35",
+"chapter": "1",
+"type": "persName",
+"ref": "pers-wilde-andreas",
 "cert": "high",
 "how": "form"
 },
@@ -3271,7 +3292,7 @@
 "page": "35",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-rosenhane-baron",
+"ref": "pers-rosenhane-schering",
 "cert": "high",
 "how": "form"
 },
@@ -3323,13 +3344,9 @@
 "page": "36",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-rosenhane-baron",
-"cert": "low",
-"candidates": [
-"pers-rosenhane-baron",
-"pers-rosenhane-schering"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-rosenhane-schering",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00212",
@@ -3353,7 +3370,7 @@
 "page": "36",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-rosenhane-baron",
+"ref": "pers-rosenhane-schering",
 "cert": "high",
 "how": "form"
 },
@@ -3392,7 +3409,7 @@
 "page": "36",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-rosenhane-baron",
+"ref": "pers-rosenhane-schering",
 "cert": "high",
 "how": "form"
 },
@@ -3703,7 +3720,7 @@
 "page": "39",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-holstein-baron",
+"ref": "pers-holstein-staël",
 "cert": "high",
 "how": "form"
 },
@@ -3901,6 +3918,23 @@
 "ref": "pers-gourdin-rouen",
 "cert": "high",
 "how": "form"
+},
+{
+"unit": "u00222",
+"sha": "3ab00de3fdf3",
+"start": 1976,
+"end": 1994,
+"text": "Herr Cantzli Rådet",
+"page": "40",
+"chapter": "1",
+"type": "persName",
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-rådet-riks",
+"pers-rådet-cancelie"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00222",
@@ -4391,13 +4425,9 @@
 "page": "46",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-holstein-baron",
-"cert": "low",
-"candidates": [
-"pers-holstein-staël",
-"pers-holstein-baron"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-holstein-staël",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00272",
@@ -4564,7 +4594,7 @@
 "page": "49",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-gyllenborg-grefwe",
+"ref": "pers-gyllenborg",
 "cert": "high",
 "how": "form"
 },
@@ -4689,13 +4719,9 @@
 "page": "51",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "unresolved"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00300",
@@ -4775,13 +4801,9 @@
 "page": "51",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "unresolved"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00307",
@@ -4874,13 +4896,9 @@
 "page": "52",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "unresolved"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00308",
@@ -4904,13 +4922,9 @@
 "page": "52",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "unresolved"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00308",
@@ -4934,13 +4948,9 @@
 "page": "52",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "unresolved"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00308",
@@ -5618,7 +5628,7 @@
 "page": "57",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gyllenborg-grefwe",
+"ref": "pers-gyllenborg",
 "cert": "high",
 "how": "form"
 },
@@ -5661,9 +5671,13 @@
 "page": "57",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00332",
@@ -5778,8 +5792,8 @@
 "page": "57",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -5804,8 +5818,8 @@
 "page": "57",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -5843,7 +5857,7 @@
 "page": "57",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gyllenborg-grefwe",
+"ref": "pers-gyllenborg",
 "cert": "high",
 "how": "form"
 },
@@ -5938,9 +5952,13 @@
 "page": "57",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00332",
@@ -6016,7 +6034,7 @@
 "page": "57",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-ramel-friherre",
+"ref": "pers-ramel",
 "cert": "high",
 "how": "form"
 },
@@ -6133,13 +6151,9 @@
 "page": "58",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "unresolved"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00333",
@@ -6150,13 +6164,9 @@
 "page": "58",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "unresolved"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00333",
@@ -6301,8 +6311,8 @@
 "page": "58",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -6327,7 +6337,7 @@
 "page": "58",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gyllenborg-grefwe",
+"ref": "pers-gyllenborg",
 "cert": "high",
 "how": "form"
 },
@@ -6378,9 +6388,13 @@
 "page": "58",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00336",
@@ -6450,6 +6464,23 @@
 {
 "unit": "u00339",
 "sha": "85644f15b847",
+"start": 966,
+"end": 991,
+"text": "Herr CammarRådet af Botin",
+"page": "59",
+"chapter": "2",
+"type": "persName",
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-botin-andreas",
+"pers-botin-nordin"
+],
+"how": "unresolved"
+},
+{
+"unit": "u00339",
+"sha": "85644f15b847",
 "start": 1482,
 "end": 1492,
 "text": "Hans Kongl",
@@ -6482,7 +6513,7 @@
 "page": "60",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-skytte-friherre",
+"ref": "pers-skytte-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -6495,8 +6526,8 @@
 "page": "60",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -6680,7 +6711,7 @@
 "page": "61",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gyllenborg-grefwe",
+"ref": "pers-gyllenborg",
 "cert": "high",
 "how": "form"
 },
@@ -6693,7 +6724,7 @@
 "page": "61",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gyllenborg-grefwe",
+"ref": "pers-gyllenborg",
 "cert": "high",
 "how": "form"
 },
@@ -6758,13 +6789,9 @@
 "page": "62",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-nordin-probsten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: chapter majority"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00346",
@@ -6788,7 +6815,7 @@
 "page": "63",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-nordin-probsten",
+"ref": "pers-nordin-carolus",
 "cert": "high",
 "how": "form"
 },
@@ -6879,7 +6906,7 @@
 "page": "63",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-nordin-probsten",
+"ref": "pers-nordin-carolus",
 "cert": "high",
 "how": "form"
 },
@@ -6892,13 +6919,9 @@
 "page": "63",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-nordin-probsten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: same paragraph"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00348",
@@ -6909,13 +6932,9 @@
 "page": "63",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-nordin-probsten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: same paragraph"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00348",
@@ -6952,13 +6971,9 @@
 "page": "63",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-nordin-probsten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00349",
@@ -6995,8 +7010,8 @@
 "page": "64",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -7021,8 +7036,8 @@
 "page": "64",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-skytte-friherre",
-"cert": "medium",
+"ref": "pers-skytte-johannes",
+"cert": "high",
 "how": "form"
 },
 {
@@ -7090,7 +7105,7 @@
 "page": "65",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-skytte-friherre",
+"ref": "pers-skytte-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -7172,8 +7187,8 @@
 "page": "66",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-skytte-friherre",
-"cert": "medium",
+"ref": "pers-skytte-johannes",
+"cert": "high",
 "how": "form"
 },
 {
@@ -7261,14 +7276,44 @@
 {
 "unit": "u00358",
 "sha": "8cb0e2a669b8",
+"start": 576,
+"end": 598,
+"text": "Cantzleren Liljestråle",
+"page": "66",
+"chapter": "2",
+"type": "persName",
+"ref": "pers-liljestråle",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u00358",
+"sha": "8cb0e2a669b8",
 "start": 862,
 "end": 873,
 "text": "Manderström",
 "page": "66",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "medium",
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
+},
+{
+"unit": "u00359",
+"sha": "48199ee41ced",
+"start": 0,
+"end": 18,
+"text": "Cantzli Rådetstein",
+"page": "67",
+"chapter": "2",
+"type": "persName",
+"ref": "pers-rådetstein",
+"cert": "high",
 "how": "form"
 },
 {
@@ -7280,7 +7325,24 @@
 "page": "68",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-manderström-baron",
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
+},
+{
+"unit": "u00361",
+"sha": "ec0cc2832d33",
+"start": 32,
+"end": 55,
+"text": "Cantzli Rådet Rosenberg",
+"page": "68",
+"chapter": "2",
+"type": "persName",
+"ref": "pers-rosenberg",
 "cert": "high",
 "how": "form"
 },
@@ -7293,7 +7355,7 @@
 "page": "68",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gyllenborg-grefwe",
+"ref": "pers-gyllenborg",
 "cert": "high",
 "how": "form"
 },
@@ -7306,9 +7368,13 @@
 "page": "68",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "high",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00361",
@@ -7726,9 +7792,13 @@
 "page": "71",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00375",
@@ -7739,8 +7809,8 @@
 "page": "71",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -7791,7 +7861,7 @@
 "page": "71",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-ramel-friherre",
+"ref": "pers-ramel",
 "cert": "high",
 "how": "form"
 },
@@ -7817,13 +7887,9 @@
 "page": "71",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-rosenhane-baron",
-"pers-rosenhane-schering"
-],
-"how": "unresolved"
+"ref": "pers-rosenhane-schering",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00375",
@@ -7834,13 +7900,9 @@
 "page": "71",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "unresolved"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00375",
@@ -7963,13 +8025,9 @@
 "page": "71",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-nordin-probsten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00375",
@@ -8313,8 +8371,8 @@
 "page": "73",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -8356,7 +8414,7 @@
 "page": "73",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gyllenborg-grefwe",
+"ref": "pers-gyllenborg",
 "cert": "high",
 "how": "form"
 },
@@ -8382,7 +8440,7 @@
 "page": "73",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-ramel-friherre",
+"ref": "pers-ramel",
 "cert": "high",
 "how": "form"
 },
@@ -8408,9 +8466,13 @@
 "page": "73",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00380",
@@ -8434,8 +8496,8 @@
 "page": "73",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -8490,7 +8552,7 @@
 "page": "73",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-ramel-friherre",
+"ref": "pers-ramel",
 "cert": "high",
 "how": "form"
 },
@@ -8697,8 +8759,8 @@
 "page": "75",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -8870,8 +8932,7 @@
 "cert": "low",
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -8897,13 +8958,9 @@
 "page": "75",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "unresolved"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00385",
@@ -9005,13 +9062,9 @@
 "page": "76",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-nordin-probsten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00388",
@@ -9182,13 +9235,9 @@
 "page": "76",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-nordin-probsten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00388",
@@ -9229,13 +9278,9 @@
 "page": "76",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-nordin-probsten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00388",
@@ -9409,8 +9454,8 @@
 "page": "77",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -9422,8 +9467,8 @@
 "page": "77",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -9435,8 +9480,8 @@
 "page": "77",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -9526,8 +9571,8 @@
 "page": "78",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -9539,8 +9584,8 @@
 "page": "78",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -9656,8 +9701,8 @@
 "page": "78",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -9669,8 +9714,8 @@
 "page": "78",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -9708,9 +9753,13 @@
 "page": "79",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00393",
@@ -9747,9 +9796,13 @@
 "page": "79",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00393",
@@ -10401,9 +10454,13 @@
 "page": "83",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00408",
@@ -10685,8 +10742,7 @@
 "cert": "low",
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "guess: same paragraph"
 },
@@ -10699,13 +10755,9 @@
 "page": "85",
 "chapter": "3",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "unresolved"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00411",
@@ -10716,13 +10768,9 @@
 "page": "85",
 "chapter": "3",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "unresolved"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00411",
@@ -10737,8 +10785,7 @@
 "cert": "low",
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "guess: same paragraph"
 },
@@ -10954,8 +11001,7 @@
 "cert": "low",
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -11093,13 +11139,9 @@
 "page": "86",
 "chapter": "3",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "unresolved"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00416",
@@ -11495,8 +11537,8 @@
 "page": "88",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -11547,8 +11589,8 @@
 "page": "88",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -11586,7 +11628,7 @@
 "page": "89",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-gyllenborg-grefwe",
+"ref": "pers-gyllenborg",
 "cert": "high",
 "how": "form"
 },
@@ -11599,7 +11641,7 @@
 "page": "89",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-gyllenborg-grefwe",
+"ref": "pers-gyllenborg",
 "cert": "high",
 "how": "form"
 },
@@ -11638,7 +11680,7 @@
 "page": "89",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-gyllenborg-grefwe",
+"ref": "pers-gyllenborg",
 "cert": "high",
 "how": "form"
 },
@@ -11694,8 +11736,8 @@
 "page": "89",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -11802,7 +11844,7 @@
 "page": "89",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-bunge-baron",
+"ref": "pers-bunge",
 "cert": "high",
 "how": "form"
 },
@@ -11865,6 +11907,23 @@
 {
 "unit": "u00429",
 "sha": "80a5f60bcee1",
+"start": 331,
+"end": 363,
+"text": "Herr Cantzli Rådet von Engeström",
+"page": "89",
+"chapter": "3",
+"type": "persName",
+"ref": "pers-engeström-jacobus",
+"cert": "low",
+"candidates": [
+"pers-engeström-jacobus",
+"pers-engeström-laurentius"
+],
+"how": "guess: earlier in chapter"
+},
+{
+"unit": "u00429",
+"sha": "80a5f60bcee1",
 "start": 1126,
 "end": 1139,
 "text": "von Rosenberg",
@@ -11884,13 +11943,9 @@
 "page": "90",
 "chapter": "3",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "unresolved"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00429",
@@ -12277,8 +12332,7 @@
 "cert": "low",
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -12304,9 +12358,13 @@
 "page": "92",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00439",
@@ -12343,9 +12401,13 @@
 "page": "92",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00440",
@@ -12382,9 +12444,13 @@
 "page": "92",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00442",
@@ -12438,8 +12504,7 @@
 "cert": null,
 "candidates": [
 "pers-svedelius-andreas",
-"pers-svedelius-and",
-"pers-svedelius-prosten"
+"pers-svedelius-and"
 ],
 "how": "unresolved"
 },
@@ -12658,6 +12723,19 @@
 {
 "unit": "u00444",
 "sha": "6c01cfa99e21",
+"start": 389,
+"end": 417,
+"text": "Herr Cantzli Rådet von Stein",
+"page": "93",
+"chapter": "3",
+"type": "persName",
+"ref": "pers-von-stein",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u00444",
+"sha": "6c01cfa99e21",
 "start": 702,
 "end": 708,
 "text": "Hans M",
@@ -12821,12 +12899,8 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-rosenhane-schering",
-"cert": "low",
-"candidates": [
-"pers-rosenhane-baron",
-"pers-rosenhane-schering"
-],
-"how": "guess: chapter majority"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00449",
@@ -12881,12 +12955,8 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-rosenhane-schering",
-"cert": "low",
-"candidates": [
-"pers-rosenhane-baron",
-"pers-rosenhane-schering"
-],
-"how": "guess: same paragraph"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00450",
@@ -13016,6 +13086,19 @@
 {
 "unit": "u00453",
 "sha": "7347878ad581",
+"start": 208,
+"end": 232,
+"text": "Herr Cantzli Rådet Wilde",
+"page": "94",
+"chapter": "3",
+"type": "persName",
+"ref": "pers-wilde-andreas",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u00453",
+"sha": "7347878ad581",
 "start": 741,
 "end": 749,
 "text": "Thileman",
@@ -13036,6 +13119,19 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-lefverne-lidén",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u00453",
+"sha": "7347878ad581",
+"start": 825,
+"end": 844,
+"text": "Cantzli Rådet Wilde",
+"page": "95",
+"chapter": "3",
+"type": "persName",
+"ref": "pers-wilde-andreas",
 "cert": "high",
 "how": "form"
 },
@@ -13282,6 +13378,23 @@
 "how": "form"
 },
 {
+"unit": "u00456",
+"sha": "ec6f1d062d95",
+"start": 1386,
+"end": 1415,
+"text": "Herr Cantzli Rådet Fredenheim",
+"page": "95",
+"chapter": "3",
+"type": "persName",
+"ref": "pers-fredenheim-r",
+"cert": "low",
+"candidates": [
+"pers-fredenheim-r",
+"pers-fredenheim-carolus"
+],
+"how": "guess: same paragraph"
+},
+{
 "unit": "u00457",
 "sha": "c510e8e738ee",
 "start": 120,
@@ -13441,8 +13554,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -13472,8 +13584,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -13520,7 +13631,7 @@
 "page": "99",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-nordin-probsten",
+"ref": "pers-nordin-carolus",
 "cert": "high",
 "how": "form"
 },
@@ -13580,8 +13691,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -13637,8 +13747,8 @@
 "page": "100",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -13784,13 +13894,9 @@
 "page": "100",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-nordin-probsten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00474",
@@ -13835,13 +13941,9 @@
 "page": "100",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-nordin-probsten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00474",
@@ -14399,6 +14501,32 @@
 "how": "unresolved"
 },
 {
+"unit": "u00495",
+"sha": "6a40fd4a6b5c",
+"start": 1679,
+"end": 1703,
+"text": "Herr Cantzli Rådet Wilde",
+"page": "106",
+"chapter": "4",
+"type": "persName",
+"ref": "pers-wilde-andreas",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u00496",
+"sha": "c77aab1b6ae9",
+"start": 150,
+"end": 184,
+"text": "Herr Cantzli Rådet von Rosensteins",
+"page": "106",
+"chapter": "4",
+"type": "persName",
+"ref": "pers-von-rosensteins",
+"cert": "high",
+"how": "form"
+},
+{
 "unit": "u00498",
 "sha": "47922b41b77a",
 "start": 149,
@@ -14407,13 +14535,9 @@
 "page": "107",
 "chapter": "4",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-rosenhane-baron",
-"pers-rosenhane-schering"
-],
-"how": "unresolved"
+"ref": "pers-rosenhane-schering",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00498",
@@ -14580,7 +14704,7 @@
 "page": "108",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-ramel-friherre",
+"ref": "pers-ramel",
 "cert": "high",
 "how": "form"
 },
@@ -14619,13 +14743,9 @@
 "page": "108",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-nordin-probsten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00508",
@@ -14653,9 +14773,13 @@
 "page": "108",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00508",
@@ -14683,13 +14807,9 @@
 "page": "108",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-nordin-probsten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00508",
@@ -14817,7 +14937,7 @@
 "page": "109",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-francisci-kejsar",
+"ref": "pers-francisci",
 "cert": "high",
 "how": "form"
 },
@@ -14843,9 +14963,13 @@
 "page": "109",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00511",
@@ -14886,9 +15010,13 @@
 "page": "110",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "high",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00517",
@@ -14942,7 +15070,7 @@
 "page": "111",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-ramel-friherre",
+"ref": "pers-ramel",
 "cert": "high",
 "how": "form"
 },
@@ -15106,13 +15234,9 @@
 "page": "112",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-nordin-probsten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00528",
@@ -15153,13 +15277,9 @@
 "page": "112",
 "chapter": "4",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "unresolved"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00529",
@@ -15196,13 +15316,9 @@
 "page": "113",
 "chapter": "4",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "unresolved"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00529",
@@ -15308,13 +15424,9 @@
 "page": "113",
 "chapter": "4",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "unresolved"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00535",
@@ -15325,13 +15437,9 @@
 "page": "113",
 "chapter": "4",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "unresolved"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00535",
@@ -15411,8 +15519,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -15451,13 +15558,9 @@
 "page": "114",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-nordin-probsten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00541",
@@ -15472,8 +15575,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -15486,13 +15588,9 @@
 "page": "114",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-nordin-probsten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00543",
@@ -15507,8 +15605,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -15525,8 +15622,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -15695,13 +15791,9 @@
 "page": "116",
 "chapter": "4",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "unresolved"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00550",
@@ -15712,13 +15804,9 @@
 "page": "116",
 "chapter": "4",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "unresolved"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00551",
@@ -15729,13 +15817,9 @@
 "page": "116",
 "chapter": "4",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "unresolved"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00551",
@@ -15746,13 +15830,9 @@
 "page": "116",
 "chapter": "4",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-rosenhane-baron",
-"pers-rosenhane-schering"
-],
-"how": "unresolved"
+"ref": "pers-rosenhane-schering",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00551",
@@ -15938,9 +16018,13 @@
 "page": "118",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00560",
@@ -16273,8 +16357,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -16287,9 +16370,13 @@
 "page": "119",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00573",
@@ -16300,13 +16387,9 @@
 "page": "119",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-nordin-probsten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00573",
@@ -16321,8 +16404,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -16378,8 +16460,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -16461,8 +16542,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -16488,13 +16568,9 @@
 "page": "121",
 "chapter": "4",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "unresolved"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00579",
@@ -16534,6 +16610,40 @@
 "ref": "pers-wid",
 "cert": "high",
 "how": "form"
+},
+{
+"unit": "u00581",
+"sha": "8db2a638a68e",
+"start": 264,
+"end": 292,
+"text": "Herr Cantzli Rådet Engeström",
+"page": "122",
+"chapter": "4",
+"type": "persName",
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-engeström-jacobus",
+"pers-engeström-laurentius"
+],
+"how": "unresolved"
+},
+{
+"unit": "u00581",
+"sha": "8db2a638a68e",
+"start": 531,
+"end": 549,
+"text": "Herr Cantzli Rådet",
+"page": "122",
+"chapter": "4",
+"type": "persName",
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-rådet-riks",
+"pers-rådet-cancelie"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00582",
@@ -16587,8 +16697,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -16618,8 +16727,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -17108,9 +17216,13 @@
 "page": "129",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00607",
@@ -17394,7 +17506,7 @@
 "page": "131",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-k-baron",
+"ref": "pers-k",
 "cert": "high",
 "how": "form"
 },
@@ -17550,13 +17662,9 @@
 "page": "132",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-rosenhane-baron",
-"cert": "low",
-"candidates": [
-"pers-rosenhane-baron",
-"pers-rosenhane-schering"
-],
-"how": "guess: chapter majority"
+"ref": "pers-rosenhane-schering",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00612",
@@ -17606,7 +17714,7 @@
 "page": "132",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-rosenhane-baron",
+"ref": "pers-rosenhane-schering",
 "cert": "high",
 "how": "form"
 },
@@ -19617,6 +19725,19 @@
 {
 "unit": "u00698",
 "sha": "4a1c5f8789b5",
+"start": 128,
+"end": 152,
+"text": "Cantzlie Rådet Adlerbeth",
+"page": "148",
+"chapter": "5",
+"type": "persName",
+"ref": "pers-adlerbeth-gudmund",
+"cert": "medium",
+"how": "form"
+},
+{
+"unit": "u00698",
+"sha": "4a1c5f8789b5",
 "start": 176,
 "end": 186,
 "text": "Fredenheim",
@@ -20105,7 +20226,7 @@
 "page": "150",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-gyllenborg-grefwe",
+"ref": "pers-gyllenborg",
 "cert": "high",
 "how": "form"
 },
@@ -20447,8 +20568,7 @@
 "cert": "low",
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "guess: chapter majority"
 },
@@ -20478,8 +20598,24 @@
 "cert": "low",
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
+],
+"how": "guess: chapter majority"
+},
+{
+"unit": "u00716",
+"sha": "451314fd54c1",
+"start": 1,
+"end": 33,
+"text": "Herr Cantzli Rådet von Engeström",
+"page": "152",
+"chapter": "5",
+"type": "persName",
+"ref": "pers-engeström-jacobus",
+"cert": "low",
+"candidates": [
+"pers-engeström-jacobus",
+"pers-engeström-laurentius"
 ],
 "how": "guess: chapter majority"
 },
@@ -20495,6 +20631,23 @@
 "ref": "plac-götheborgs-stad",
 "cert": "high",
 "how": "form"
+},
+{
+"unit": "u00716",
+"sha": "451314fd54c1",
+"start": 352,
+"end": 370,
+"text": "Herr Cantzli Rådet",
+"page": "152",
+"chapter": "5",
+"type": "persName",
+"ref": "pers-rådet-riks",
+"cert": "low",
+"candidates": [
+"pers-rådet-riks",
+"pers-rådet-cancelie"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00724",
@@ -20561,7 +20714,7 @@
 "page": "153",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-gyllenborg-grefwe",
+"ref": "pers-gyllenborg",
 "cert": "high",
 "how": "form"
 },
@@ -20604,8 +20757,7 @@
 "cert": "low",
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "guess: chapter majority"
 },
@@ -20652,13 +20804,9 @@
 "page": "154",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-nordin-probsten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: chapter majority"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00733",
@@ -20764,8 +20912,7 @@
 "cert": "low",
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "guess: chapter majority"
 },
@@ -20782,8 +20929,7 @@
 "cert": "low",
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "guess: chapter majority"
 },
@@ -20826,8 +20972,7 @@
 "cert": "low",
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "guess: chapter majority"
 },
@@ -20861,8 +21006,7 @@
 "cert": "low",
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "guess: chapter majority"
 },
@@ -20875,13 +21019,9 @@
 "page": "156",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-nordin-probsten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: chapter majority"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00746",
@@ -21056,8 +21196,7 @@
 "cert": "low",
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "guess: chapter majority"
 },
@@ -21369,6 +21508,19 @@
 "how": "form"
 },
 {
+"unit": "u00774",
+"sha": "bee7a1ab1f8c",
+"start": 35,
+"end": 46,
+"text": "Cantzli Råd",
+"page": "161",
+"chapter": "5",
+"type": "persName",
+"ref": "pers-råd",
+"cert": "high",
+"how": "form"
+},
+{
 "unit": "u00775",
 "sha": "5d6930bcc6dc",
 "start": 109,
@@ -21619,8 +21771,7 @@
 "cert": "low",
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "guess: chapter majority"
 },
@@ -21633,9 +21784,26 @@
 "page": "163",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-nordin-probsten",
+"ref": "pers-nordin-carolus",
 "cert": "high",
 "how": "form"
+},
+{
+"unit": "u00788",
+"sha": "6eff7a15fbbf",
+"start": 69,
+"end": 101,
+"text": "Herr Cantzli Rådet von Engeström",
+"page": "163",
+"chapter": "5",
+"type": "persName",
+"ref": "pers-engeström-jacobus",
+"cert": "low",
+"candidates": [
+"pers-engeström-jacobus",
+"pers-engeström-laurentius"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00788",
@@ -21646,7 +21814,7 @@
 "page": "163",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-nordin-probsten",
+"ref": "pers-nordin-carolus",
 "cert": "high",
 "how": "form"
 },
@@ -21845,8 +22013,7 @@
 "cert": "low",
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "guess: chapter majority"
 },
@@ -21872,7 +22039,7 @@
 "page": "165",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-murberg-rector",
+"ref": "pers-murberg",
 "cert": "high",
 "how": "form"
 },
@@ -21885,7 +22052,7 @@
 "page": "165",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-nordin-probsten",
+"ref": "pers-nordin-carolus",
 "cert": "high",
 "how": "form"
 },
@@ -21898,13 +22065,9 @@
 "page": "165",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-murberg-rector",
-"cert": "low",
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "guess: same paragraph"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00795",
@@ -21915,13 +22078,9 @@
 "page": "165",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-nordin-probsten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: same paragraph"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00795",
@@ -21949,8 +22108,7 @@
 "cert": "low",
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "guess: chapter majority"
 },
@@ -22408,7 +22566,7 @@
 "page": "169",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-murberg-lector",
+"ref": "pers-murberg",
 "cert": "high",
 "how": "form"
 },
@@ -22421,7 +22579,7 @@
 "page": "169",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-nordin-probsten",
+"ref": "pers-nordin-carolus",
 "cert": "high",
 "how": "form"
 },
@@ -22473,7 +22631,7 @@
 "page": "169",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-gyllenborg-grefwe",
+"ref": "pers-gyllenborg",
 "cert": "high",
 "how": "form"
 },
@@ -22624,8 +22782,7 @@
 "cert": "low",
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "guess: chapter majority"
 },
@@ -22651,13 +22808,9 @@
 "page": "170",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-nordin-probsten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00839",
@@ -22815,7 +22968,7 @@
 "page": "171",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-nordin-prosten",
+"ref": "pers-nordin-carolus",
 "cert": "high",
 "how": "form"
 },
@@ -22832,8 +22985,7 @@
 "cert": "low",
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "guess: chapter majority"
 },
@@ -22859,13 +23011,9 @@
 "page": "171",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-nordin-prosten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00845",
@@ -23108,6 +23256,40 @@
 "ref": "plac-rådhuset",
 "cert": "high",
 "how": "form"
+},
+{
+"unit": "u00853",
+"sha": "012f2f51df93",
+"start": 900,
+"end": 932,
+"text": "Herr Cantzli Rådet von Engeström",
+"page": "174",
+"chapter": "5",
+"type": "persName",
+"ref": "pers-engeström-jacobus",
+"cert": "low",
+"candidates": [
+"pers-engeström-jacobus",
+"pers-engeström-laurentius"
+],
+"how": "guess: earlier in chapter"
+},
+{
+"unit": "u00854",
+"sha": "0103fd211e24",
+"start": 61,
+"end": 93,
+"text": "Herr Cantzli Rådet von Engeström",
+"page": "174",
+"chapter": "5",
+"type": "persName",
+"ref": "pers-engeström-jacobus",
+"cert": "low",
+"candidates": [
+"pers-engeström-jacobus",
+"pers-engeström-laurentius"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00854",
@@ -23382,7 +23564,7 @@
 "page": "176",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-murberg-rector",
+"ref": "pers-murberg",
 "cert": "high",
 "how": "form"
 },
@@ -23421,7 +23603,20 @@
 "page": "177",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-gyllenborg-grefwe",
+"ref": "pers-gyllenborg",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u00865",
+"sha": "07e633822104",
+"start": 831,
+"end": 865,
+"text": "Herr Cantzli Rådet von Rosensteins",
+"page": "177",
+"chapter": "5",
+"type": "persName",
+"ref": "pers-von-rosensteins",
 "cert": "high",
 "how": "form"
 },
@@ -23576,8 +23771,7 @@
 "cert": "low",
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -23767,8 +23961,7 @@
 "cert": "low",
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -23924,7 +24117,7 @@
 "page": "181",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-murberg-lector",
+"ref": "pers-murberg",
 "cert": "high",
 "how": "form"
 },
@@ -24067,7 +24260,7 @@
 "page": "183",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-nordin-probsten",
+"ref": "pers-nordin-carolus",
 "cert": "high",
 "how": "form"
 },
@@ -24210,9 +24403,13 @@
 "page": "185",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-armfelt-baron",
-"cert": "high",
-"how": "form"
+"ref": "pers-armfelt-g",
+"cert": "low",
+"candidates": [
+"pers-armfelt-schröderheim",
+"pers-armfelt-g"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00896",
@@ -24236,14 +24433,13 @@
 "page": "185",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-armfelt-baron",
+"ref": "pers-armfelt-g",
 "cert": "low",
 "candidates": [
 "pers-armfelt-schröderheim",
-"pers-armfelt-g",
-"pers-armfelt-baron"
+"pers-armfelt-g"
 ],
-"how": "guess: same paragraph"
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00896",
@@ -24293,12 +24489,11 @@
 "page": "185",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-armfelt-baron",
+"ref": "pers-armfelt-g",
 "cert": "low",
 "candidates": [
 "pers-armfelt-schröderheim",
-"pers-armfelt-g",
-"pers-armfelt-baron"
+"pers-armfelt-g"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -24337,13 +24532,9 @@
 "page": "185",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-nordin-probsten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00900",
@@ -24579,8 +24770,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -24593,9 +24783,13 @@
 "page": "187",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-manderström-håfmarskalken",
-"cert": "high",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00903",
@@ -24606,9 +24800,13 @@
 "page": "187",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "high",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00903",
@@ -24623,8 +24821,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -24667,8 +24864,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -24681,9 +24877,13 @@
 "page": "187",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00903",
@@ -24720,9 +24920,13 @@
 "page": "187",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00903",
@@ -24737,8 +24941,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -24807,8 +25010,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -24821,13 +25023,9 @@
 "page": "187",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-nordin-probsten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00906",
@@ -24911,8 +25109,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -25198,13 +25395,9 @@
 "page": "190",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-nordin-probsten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00915",
@@ -25245,7 +25438,7 @@
 "page": "190",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-murberg-lektor",
+"ref": "pers-murberg",
 "cert": "high",
 "how": "form"
 },
@@ -25271,13 +25464,9 @@
 "page": "190",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-nordin-probsten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00915",
@@ -25301,13 +25490,9 @@
 "page": "190",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-murberg-rector",
-"cert": "low",
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "guess: chapter majority"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00915",
@@ -25507,13 +25692,9 @@
 "page": "191",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-murberg-rector",
-"cert": "low",
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "guess: chapter majority"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00918",
@@ -25645,8 +25826,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -25659,13 +25839,9 @@
 "page": "192",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-nordin-probsten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00921",
@@ -25771,8 +25947,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -25785,7 +25960,7 @@
 "page": "193",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-murberg-rector",
+"ref": "pers-murberg",
 "cert": "high",
 "how": "form"
 },
@@ -25798,8 +25973,8 @@
 "page": "193",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -25828,8 +26003,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -25894,9 +26068,13 @@
 "page": "194",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00927",
@@ -25911,8 +26089,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -26453,9 +26630,13 @@
 "page": "198",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00948",
@@ -26596,9 +26777,13 @@
 "page": "200",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00957",
@@ -27540,6 +27725,32 @@
 "how": "form"
 },
 {
+"unit": "u01005",
+"sha": "acecd154b8c9",
+"start": 605,
+"end": 636,
+"text": "Herr Cantzli Rådet von Dänemark",
+"page": "207",
+"chapter": "6",
+"type": "persName",
+"ref": "pers-von-dänemark",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u01006",
+"sha": "91c92cd1d120",
+"start": 392,
+"end": 416,
+"text": "Herr Cantzli Rådet Wilde",
+"page": "207",
+"chapter": "6",
+"type": "persName",
+"ref": "pers-wilde-andreas",
+"cert": "high",
+"how": "form"
+},
+{
 "unit": "u01006",
 "sha": "91c92cd1d120",
 "start": 418,
@@ -27548,7 +27759,7 @@
 "page": "207",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-nordin-probsten",
+"ref": "pers-nordin-carolus",
 "cert": "high",
 "how": "form"
 },
@@ -27561,7 +27772,7 @@
 "page": "207",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-murberg-rector",
+"ref": "pers-murberg",
 "cert": "high",
 "how": "form"
 },
@@ -27604,7 +27815,7 @@
 "page": "208",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-nordin-probsten",
+"ref": "pers-nordin-carolus",
 "cert": "high",
 "how": "form"
 },
@@ -28015,9 +28226,13 @@
 "page": "211",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01024",
@@ -28028,13 +28243,9 @@
 "page": "211",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-murberg-rector",
-"cert": "low",
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01025",
@@ -28127,8 +28338,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -28145,8 +28355,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -28163,8 +28372,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -28246,8 +28454,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -28793,8 +29000,8 @@
 "page": "216",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -28806,8 +29013,8 @@
 "page": "216",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -28888,8 +29095,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -28915,9 +29121,13 @@
 "page": "217",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "medium",
-"how": "form"
+"ref": "pers-manderström-christopher",
+"cert": "low",
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u01048",
@@ -28932,8 +29142,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -28959,9 +29168,13 @@
 "page": "217",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "medium",
-"how": "form"
+"ref": "pers-manderström-christopher",
+"cert": "low",
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u01048",
@@ -28972,9 +29185,13 @@
 "page": "217",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "medium",
-"how": "form"
+"ref": "pers-manderström-christopher",
+"cert": "low",
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u01048",
@@ -28989,8 +29206,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -29068,9 +29284,13 @@
 "page": "218",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "medium",
-"how": "form"
+"ref": "pers-manderström-christopher",
+"cert": "low",
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u01049",
@@ -29172,8 +29392,8 @@
 "page": "218",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -29280,7 +29500,7 @@
 "page": "219",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-sparre-friherre",
+"ref": "pers-sparre-carolus",
 "cert": "high",
 "how": "form"
 },
@@ -29319,7 +29539,7 @@
 "page": "219",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-höpken-friherre",
+"ref": "pers-höpken-andreas",
 "cert": "high",
 "how": "form"
 },
@@ -29397,7 +29617,7 @@
 "page": "219",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-höpken-friherre",
+"ref": "pers-höpken-andreas",
 "cert": "high",
 "how": "form"
 },
@@ -29475,8 +29695,8 @@
 "page": "219",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -29527,8 +29747,8 @@
 "page": "220",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -30376,8 +30596,8 @@
 "page": "225",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -30406,8 +30626,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -30433,13 +30652,9 @@
 "page": "225",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-murberg-rector",
-"cert": "low",
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "guess: chapter majority"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01072",
@@ -30805,8 +31020,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -30823,8 +31037,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -30837,13 +31050,9 @@
 "page": "228",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-murberg-rector",
-"cert": "low",
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "guess: chapter majority"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01083",
@@ -30854,13 +31063,9 @@
 "page": "228",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-murberg-rector",
-"cert": "low",
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "guess: chapter majority"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01083",
@@ -30910,13 +31115,9 @@
 "page": "228",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-murberg-rector",
-"cert": "low",
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "guess: chapter majority"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01083",
@@ -30927,13 +31128,9 @@
 "page": "228",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-murberg-rector",
-"cert": "low",
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "guess: chapter majority"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01083",
@@ -30957,13 +31154,9 @@
 "page": "228",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-murberg-rector",
-"cert": "low",
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "guess: chapter majority"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01083",
@@ -30974,13 +31167,9 @@
 "page": "228",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-murberg-rector",
-"cert": "low",
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "guess: chapter majority"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01085",
@@ -33258,13 +33447,9 @@
 "page": "245",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-nordin-prosten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: chapter majority"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01129",
@@ -33275,13 +33460,9 @@
 "page": "246",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-nordin-prosten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: chapter majority"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01129",
@@ -33305,13 +33486,9 @@
 "page": "246",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-nordin-prosten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: chapter majority"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01129",
@@ -33322,13 +33499,9 @@
 "page": "246",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-nordin-prosten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: chapter majority"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01129",
@@ -33391,13 +33564,9 @@
 "page": "246",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-nordin-prosten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: chapter majority"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01130",
@@ -33473,13 +33642,9 @@
 "page": "246",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-nordin-prosten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: chapter majority"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01130",
@@ -33516,13 +33681,9 @@
 "page": "247",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-nordin-prosten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: chapter majority"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01131",
@@ -33585,13 +33746,9 @@
 "page": "247",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-nordin-prosten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: chapter majority"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01133",
@@ -33615,13 +33772,9 @@
 "page": "247",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-nordin-prosten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: chapter majority"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01134",
@@ -34452,12 +34605,8 @@
 "chapter": "7",
 "type": "persName",
 "ref": "pers-rosenhane-schering",
-"cert": "low",
-"candidates": [
-"pers-rosenhane-baron",
-"pers-rosenhane-schering"
-],
-"how": "guess: chapter majority"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01153",
@@ -34690,12 +34839,8 @@
 "chapter": "7",
 "type": "persName",
 "ref": "pers-rosenhane-schering",
-"cert": "low",
-"candidates": [
-"pers-rosenhane-baron",
-"pers-rosenhane-schering"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01156",
@@ -34879,13 +35024,9 @@
 "page": "255",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-murberg-rector",
-"cert": "low",
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "guess: chapter majority"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01161",
@@ -34896,13 +35037,9 @@
 "page": "255",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-murberg-rector",
-"cert": "low",
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "guess: chapter majority"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01161",
@@ -34913,13 +35050,9 @@
 "page": "255",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-murberg-rector",
-"cert": "low",
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "guess: chapter majority"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01161",
@@ -34982,7 +35115,7 @@
 "page": "255",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-murberg-rector",
+"ref": "pers-murberg",
 "cert": "high",
 "how": "form"
 },
@@ -35047,7 +35180,7 @@
 "page": "255",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-murberg-lector",
+"ref": "pers-murberg",
 "cert": "high",
 "how": "form"
 },
@@ -35077,8 +35210,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -35095,8 +35227,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -35109,13 +35240,9 @@
 "page": "256",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-murberg-lector",
-"cert": "low",
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01165",
@@ -35130,8 +35257,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -35209,13 +35335,9 @@
 "page": "256",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-murberg-lector",
-"cert": "low",
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01167",
@@ -35230,8 +35352,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -35257,13 +35378,9 @@
 "page": "256",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-murberg-lector",
-"cert": "low",
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01167",
@@ -35473,7 +35590,7 @@
 "page": "257",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-nordin-prosten",
+"ref": "pers-nordin-carolus",
 "cert": "high",
 "how": "form"
 },
@@ -35512,7 +35629,7 @@
 "page": "257",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-nordin-prosten",
+"ref": "pers-nordin-carolus",
 "cert": "high",
 "how": "form"
 },
@@ -35884,7 +36001,7 @@
 "page": "259",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-porthan-prosten",
+"ref": "pers-porthan-nordin",
 "cert": "high",
 "how": "form"
 },
@@ -36129,8 +36246,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -36143,13 +36259,9 @@
 "page": "261",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-murberg-lector",
-"cert": "low",
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01185",
@@ -36225,13 +36337,9 @@
 "page": "261",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-murberg-lector",
-"cert": "low",
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01188",
@@ -36870,8 +36978,8 @@
 "page": "268",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-höpken-friherre",
-"cert": "medium",
+"ref": "pers-höpken-andreas",
+"cert": "high",
 "how": "form"
 },
 {
@@ -37091,6 +37199,19 @@
 "how": "unresolved"
 },
 {
+"unit": "u01210",
+"sha": "36bf918686f7",
+"start": 865,
+"end": 894,
+"text": "Cantzli Råderne von Engeström",
+"page": "270",
+"chapter": "8",
+"type": "persName",
+"ref": "pers-engeström-råderne",
+"cert": "high",
+"how": "form"
+},
+{
 "unit": "u01211",
 "sha": "8fd657a2dc43",
 "start": 121,
@@ -37117,6 +37238,19 @@
 "chapter": "8",
 "type": "persName",
 "ref": "pers-ristell",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u01211",
+"sha": "8fd657a2dc43",
+"start": 1235,
+"end": 1253,
+"text": "Cantzli Rådetstein",
+"page": "271",
+"chapter": "8",
+"type": "persName",
+"ref": "pers-rådetstein",
 "cert": "high",
 "how": "form"
 },
@@ -37324,14 +37458,13 @@
 "page": "273",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01217",
@@ -37437,14 +37570,13 @@
 "page": "274",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01220",
@@ -37455,14 +37587,13 @@
 "page": "274",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01220",
@@ -37473,14 +37604,13 @@
 "page": "274",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01220",
@@ -37517,14 +37647,13 @@
 "page": "275",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01221",
@@ -37695,14 +37824,13 @@
 "page": "277",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01225",
@@ -37739,14 +37867,13 @@
 "page": "277",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01226",
@@ -38017,7 +38144,7 @@
 "page": "279",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-gyllenborg-grefwe",
+"ref": "pers-gyllenborg",
 "cert": "high",
 "how": "form"
 },
@@ -38030,14 +38157,13 @@
 "page": "279",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01231",
@@ -38048,7 +38174,7 @@
 "page": "279",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-gyllenborg-grefwe",
+"ref": "pers-gyllenborg",
 "cert": "high",
 "how": "form"
 },
@@ -38061,14 +38187,13 @@
 "page": "279",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01231",
@@ -38096,14 +38221,13 @@
 "page": "279",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01231",
@@ -38114,14 +38238,13 @@
 "page": "280",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01231",
@@ -38132,14 +38255,13 @@
 "page": "280",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01231",
@@ -38176,14 +38298,13 @@
 "page": "280",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01232",
@@ -38194,14 +38315,13 @@
 "page": "280",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01232",
@@ -38251,14 +38371,13 @@
 "page": "280",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01232",
@@ -38269,14 +38388,13 @@
 "page": "280",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01233",
@@ -38378,14 +38496,13 @@
 "page": "281",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01235",
@@ -38409,7 +38526,7 @@
 "page": "281",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-strömfelt-friherre",
+"ref": "pers-strömfelt",
 "cert": "high",
 "how": "form"
 },
@@ -38474,14 +38591,13 @@
 "page": "283",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01241",
@@ -38492,14 +38608,13 @@
 "page": "283",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01242",
@@ -38523,14 +38638,13 @@
 "page": "284",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01242",
@@ -38567,14 +38681,13 @@
 "page": "284",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01244",
@@ -38585,7 +38698,7 @@
 "page": "284",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-bunge-baron",
+"ref": "pers-bunge",
 "cert": "high",
 "how": "form"
 },
@@ -38624,14 +38737,13 @@
 "page": "284",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01245",
@@ -38655,7 +38767,7 @@
 "page": "284",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-bunge-baron",
+"ref": "pers-bunge",
 "cert": "high",
 "how": "form"
 },
@@ -38733,7 +38845,7 @@
 "page": "284",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-bunge-baron",
+"ref": "pers-bunge",
 "cert": "high",
 "how": "form"
 },
@@ -38889,14 +39001,13 @@
 "page": "285",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01246",
@@ -38907,7 +39018,7 @@
 "page": "285",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-gyllenborg-grefwe",
+"ref": "pers-gyllenborg",
 "cert": "high",
 "how": "form"
 },
@@ -38920,14 +39031,13 @@
 "page": "285",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01249",
@@ -38964,14 +39074,13 @@
 "page": "286",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01249",
@@ -38982,14 +39091,13 @@
 "page": "286",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01249",
@@ -39026,14 +39134,13 @@
 "page": "286",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01250",
@@ -39129,6 +39236,23 @@
 {
 "unit": "u01250",
 "sha": "87e33cafa829",
+"start": 613,
+"end": 645,
+"text": "Herr Cantzli Rådet von Engeström",
+"page": "286",
+"chapter": "9",
+"type": "persName",
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-engeström-jacobus",
+"pers-engeström-laurentius"
+],
+"how": "unresolved"
+},
+{
+"unit": "u01250",
+"sha": "87e33cafa829",
 "start": 714,
 "end": 726,
 "text": "Lars Hultman",
@@ -39148,14 +39272,13 @@
 "page": "286",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01250",
@@ -39231,14 +39354,13 @@
 "page": "286",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: chapter majority"
+"how": "unresolved"
 },
 {
 "unit": "u01250",
@@ -39249,9 +39371,13 @@
 "page": "287",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "high",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-engeström-jacobus",
+"pers-engeström-laurentius"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01250",
@@ -39275,14 +39401,13 @@
 "page": "287",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: same paragraph"
+"how": "unresolved"
 },
 {
 "unit": "u01250",
@@ -39306,14 +39431,13 @@
 "page": "287",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: earlier in chapter"
+"how": "unresolved"
 },
 {
 "unit": "u01251",
@@ -39428,14 +39552,13 @@
 "page": "288",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: earlier in chapter"
+"how": "unresolved"
 },
 {
 "unit": "u01252",
@@ -39446,14 +39569,13 @@
 "page": "288",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: earlier in chapter"
+"how": "unresolved"
 },
 {
 "unit": "u01252",
@@ -39464,14 +39586,13 @@
 "page": "288",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: earlier in chapter"
+"how": "unresolved"
 },
 {
 "unit": "u01252",
@@ -39893,14 +40014,13 @@
 "page": "290",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: earlier in chapter"
+"how": "unresolved"
 },
 {
 "unit": "u01256",
@@ -39924,14 +40044,13 @@
 "page": "290",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: earlier in chapter"
+"how": "unresolved"
 },
 {
 "unit": "u01256",
@@ -39968,14 +40087,13 @@
 "page": "290",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: earlier in chapter"
+"how": "unresolved"
 },
 {
 "unit": "u01257",
@@ -40042,14 +40160,13 @@
 "page": "291",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: earlier in chapter"
+"how": "unresolved"
 },
 {
 "unit": "u01257",
@@ -40245,7 +40362,7 @@
 "page": "292",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-gyllenborg-grefwe",
+"ref": "pers-gyllenborg",
 "cert": "high",
 "how": "form"
 },
@@ -40258,14 +40375,13 @@
 "page": "292",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: earlier in chapter"
+"how": "unresolved"
 },
 {
 "unit": "u01258",
@@ -40329,6 +40445,19 @@
 "chapter": "9",
 "type": "placeName",
 "ref": "plac-finland",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u01258",
+"sha": "d5216c43c65a",
+"start": 1457,
+"end": 1480,
+"text": "Herr Cantzli Rådetstein",
+"page": "292",
+"chapter": "9",
+"type": "persName",
+"ref": "pers-rådetstein",
 "cert": "high",
 "how": "form"
 },
@@ -40427,14 +40556,13 @@
 "page": "293",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: earlier in chapter"
+"how": "unresolved"
 },
 {
 "unit": "u01261",
@@ -40505,7 +40633,7 @@
 "page": "293",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-ramel-friherre",
+"ref": "pers-ramel",
 "cert": "high",
 "how": "form"
 },
@@ -40635,13 +40763,9 @@
 "page": "293",
 "chapter": "9",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "unresolved"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01263",
@@ -40860,14 +40984,13 @@
 "page": "295",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: earlier in chapter"
+"how": "unresolved"
 },
 {
 "unit": "u01265",
@@ -40904,14 +41027,13 @@
 "page": "295",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: earlier in chapter"
+"how": "unresolved"
 },
 {
 "unit": "u01265",
@@ -40935,14 +41057,13 @@
 "page": "295",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: earlier in chapter"
+"how": "unresolved"
 },
 {
 "unit": "u01267",
@@ -41471,9 +41592,13 @@
 "page": "297",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "high",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-engeström-jacobus",
+"pers-engeström-laurentius"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01274",
@@ -41510,13 +41635,9 @@
 "page": "298",
 "chapter": "9",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "unresolved"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01277",
@@ -41568,6 +41689,23 @@
 {
 "unit": "u01277",
 "sha": "7d7f2bf6f2c5",
+"start": 361,
+"end": 393,
+"text": "Herr Cantzli Rådet von Engeström",
+"page": "298",
+"chapter": "9",
+"type": "persName",
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-engeström-jacobus",
+"pers-engeström-laurentius"
+],
+"how": "unresolved"
+},
+{
+"unit": "u01277",
+"sha": "7d7f2bf6f2c5",
 "start": 646,
 "end": 649,
 "text": "Mag",
@@ -41587,13 +41725,9 @@
 "page": "298",
 "chapter": "9",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "unresolved"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01278",
@@ -41604,14 +41738,30 @@
 "page": "298",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: earlier in chapter"
+"how": "unresolved"
+},
+{
+"unit": "u01278",
+"sha": "5a5afd5c122c",
+"start": 64,
+"end": 83,
+"text": "Herr Cantzlie Rådet",
+"page": "298",
+"chapter": "9",
+"type": "persName",
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-rådet-riks",
+"pers-rådet-cancelie"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01280",
@@ -41622,9 +41772,13 @@
 "page": "299",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-svedelius-prosten",
-"cert": "high",
-"how": "form"
+"ref": "pers-svedelius-and",
+"cert": "low",
+"candidates": [
+"pers-svedelius-andreas",
+"pers-svedelius-and"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01280",
@@ -41851,14 +42005,13 @@
 "page": "300",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: earlier in chapter"
+"how": "unresolved"
 },
 {
 "unit": "u01289",
@@ -41898,6 +42051,23 @@
 "ref": "plac-wingarns-kongsgård",
 "cert": "high",
 "how": "form"
+},
+{
+"unit": "u01289",
+"sha": "53a8e8b80a97",
+"start": 659,
+"end": 691,
+"text": "Herr Cantzli Rådet von Engeström",
+"page": "301",
+"chapter": "9",
+"type": "persName",
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-engeström-jacobus",
+"pers-engeström-laurentius"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01290",
@@ -41947,14 +42117,13 @@
 "page": "301",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: earlier in chapter"
+"how": "unresolved"
 },
 {
 "unit": "u01290",
@@ -42281,14 +42450,13 @@
 "page": "303",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: earlier in chapter"
+"how": "unresolved"
 },
 {
 "unit": "u01298",
@@ -42377,14 +42545,13 @@
 "page": "304",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: earlier in chapter"
+"how": "unresolved"
 },
 {
 "unit": "u01298",
@@ -42395,14 +42562,13 @@
 "page": "304",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: earlier in chapter"
+"how": "unresolved"
 },
 {
 "unit": "u01298",
@@ -42491,14 +42657,13 @@
 "page": "305",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: earlier in chapter"
+"how": "unresolved"
 },
 {
 "unit": "u01303",
@@ -42509,14 +42674,13 @@
 "page": "305",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: earlier in chapter"
+"how": "unresolved"
 },
 {
 "unit": "u01303",
@@ -43060,14 +43224,13 @@
 "page": "308",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-engeström-cancellie",
-"cert": "low",
+"ref": null,
+"cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
-"how": "guess: earlier in chapter"
+"how": "unresolved"
 },
 {
 "unit": "u01312",
@@ -43158,6 +43321,19 @@
 "type": "placeName",
 "ref": "plac-södermanland",
 "cert": "high",
+"how": "form"
+},
+{
+"unit": "u01314",
+"sha": "0122412ec46d",
+"start": 402,
+"end": 430,
+"text": "Herr Cantzli Rådet Adlerbeth",
+"page": "309",
+"chapter": "9",
+"type": "persName",
+"ref": "pers-adlerbeth-gudmund",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -43286,8 +43462,8 @@
 "page": "309",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-adlerbeth-cancellie",
-"cert": "high",
+"ref": "pers-adlerbeth-gudmund",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -43299,13 +43475,9 @@
 "page": "310",
 "chapter": "9",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "unresolved"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01318",
@@ -43316,7 +43488,7 @@
 "page": "310",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-bunge-baron",
+"ref": "pers-bunge",
 "cert": "high",
 "how": "form"
 },
@@ -43355,7 +43527,7 @@
 "page": "310",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-dillner-prosten",
+"ref": "pers-dillner",
 "cert": "high",
 "how": "form"
 },
@@ -43577,6 +43749,19 @@
 "chapter": "10",
 "type": "persName",
 "ref": "pers-ericsson-gustavus",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u01331",
+"sha": "0182316d6e4f",
+"start": 520,
+"end": 538,
+"text": "Cantzli Rådetstein",
+"page": "314",
+"chapter": "10",
+"type": "persName",
+"ref": "pers-rådetstein",
 "cert": "high",
 "how": "form"
 },
@@ -44311,6 +44496,19 @@
 {
 "unit": "u01337",
 "sha": "c9811d502abf",
+"start": 245,
+"end": 263,
+"text": "Cantzli Rådetstein",
+"page": "316",
+"chapter": "10",
+"type": "persName",
+"ref": "pers-rådetstein",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u01337",
+"sha": "c9811d502abf",
 "start": 317,
 "end": 329,
 "text": "Hertzenhielm",
@@ -44343,7 +44541,7 @@
 "page": "317",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-beckfries-friherre",
+"ref": "pers-beckfries",
 "cert": "high",
 "how": "form"
 },
@@ -44953,9 +45151,13 @@
 "page": "320",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "high",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01348",
@@ -44970,8 +45172,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -44984,9 +45185,30 @@
 "page": "321",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "high",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
+},
+{
+"unit": "u01348",
+"sha": "04f3231f6938",
+"start": 1107,
+"end": 1134,
+"text": "Cantzli Rådet von Engeström",
+"page": "321",
+"chapter": "10",
+"type": "persName",
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-engeström-jacobus",
+"pers-engeström-laurentius"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01348",
@@ -46083,7 +46305,7 @@
 "page": "327",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-nordin-probsten",
+"ref": "pers-nordin-carolus",
 "cert": "high",
 "how": "form"
 },
@@ -46100,8 +46322,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -46787,6 +47008,23 @@
 {
 "unit": "u01415",
 "sha": "6b8e010c037c",
+"start": 385,
+"end": 417,
+"text": "Herr Cantzli Rådet von Engeström",
+"page": "338",
+"chapter": "10",
+"type": "persName",
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-engeström-jacobus",
+"pers-engeström-laurentius"
+],
+"how": "unresolved"
+},
+{
+"unit": "u01415",
+"sha": "6b8e010c037c",
 "start": 919,
 "end": 931,
 "text": "Schröderheim",
@@ -47042,8 +47280,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -47753,7 +47990,7 @@
 "page": "346",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-hällsjö-doktor",
+"ref": "pers-hällsjö",
 "cert": "high",
 "how": "form"
 },
@@ -48377,7 +48614,7 @@
 "page": "349",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-barnekow-friherre",
+"ref": "pers-barnekow",
 "cert": "high",
 "how": "form"
 },
@@ -48390,7 +48627,7 @@
 "page": "349",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-stenbock-gref",
+"ref": "pers-stenbock",
 "cert": "high",
 "how": "form"
 },
@@ -48468,7 +48705,7 @@
 "page": "350",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-barnekow-friherre",
+"ref": "pers-barnekow",
 "cert": "high",
 "how": "form"
 },
@@ -48511,7 +48748,7 @@
 "page": "350",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-stenbock-gref",
+"ref": "pers-stenbock",
 "cert": "high",
 "how": "form"
 },
@@ -48563,7 +48800,7 @@
 "page": "350",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-barnekow-friherre",
+"ref": "pers-barnekow",
 "cert": "high",
 "how": "form"
 },
@@ -48667,7 +48904,7 @@
 "page": "350",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-barnekow-friherre",
+"ref": "pers-barnekow",
 "cert": "high",
 "how": "form"
 },
@@ -50020,9 +50257,13 @@
 "page": "362",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-rådet-cancellie",
-"cert": "high",
-"how": "form"
+"ref": "pers-rådet-cancelie",
+"cert": "low",
+"candidates": [
+"pers-rådet-riks",
+"pers-rådet-cancelie"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01478",
@@ -50440,8 +50681,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -50471,8 +50711,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -50502,8 +50741,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -50520,8 +50758,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -50746,8 +50983,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -50864,7 +51100,7 @@
 "page": "369",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-lannærus-probsten",
+"ref": "pers-lannærus-andreas",
 "cert": "high",
 "how": "form"
 },
@@ -51351,13 +51587,9 @@
 "page": "373",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-nordin-probsten",
-"cert": "low",
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01519",
@@ -51684,7 +51916,7 @@
 "page": "374",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-nordin-probsten",
+"ref": "pers-nordin-carolus",
 "cert": "high",
 "how": "form"
 },
@@ -51896,8 +52128,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -52001,13 +52232,9 @@
 "page": "377",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: chapter majority"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01533",
@@ -52083,13 +52310,9 @@
 "page": "377",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: chapter majority"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01533",
@@ -52152,13 +52375,9 @@
 "page": "377",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: chapter majority"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01534",
@@ -52195,13 +52414,9 @@
 "page": "377",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: chapter majority"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01534",
@@ -52225,13 +52440,9 @@
 "page": "377",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: chapter majority"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01534",
@@ -52268,13 +52479,9 @@
 "page": "377",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: chapter majority"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01535",
@@ -52337,13 +52544,9 @@
 "page": "378",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: chapter majority"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01537",
@@ -52367,13 +52570,9 @@
 "page": "378",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: chapter majority"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01538",
@@ -52384,13 +52583,9 @@
 "page": "378",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: chapter majority"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01539",
@@ -52401,7 +52596,7 @@
 "page": "379",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
+"ref": "pers-malmström-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -52414,13 +52609,9 @@
 "page": "379",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: same paragraph"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01541",
@@ -52431,13 +52622,9 @@
 "page": "379",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01541",
@@ -52448,13 +52635,9 @@
 "page": "379",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01541",
@@ -52465,13 +52648,9 @@
 "page": "379",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01542",
@@ -52521,13 +52700,9 @@
 "page": "380",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01543",
@@ -52564,13 +52739,9 @@
 "page": "380",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01543",
@@ -52607,13 +52778,9 @@
 "page": "380",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01544",
@@ -52624,13 +52791,9 @@
 "page": "380",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01546",
@@ -52654,13 +52817,9 @@
 "page": "380",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01546",
@@ -52697,13 +52856,9 @@
 "page": "381",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01546",
@@ -52740,13 +52895,9 @@
 "page": "381",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01546",
@@ -52800,8 +52951,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -52827,13 +52977,9 @@
 "page": "381",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01547",
@@ -52844,13 +52990,9 @@
 "page": "381",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01547",
@@ -52865,8 +53007,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -52892,13 +53033,9 @@
 "page": "381",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01547",
@@ -52922,13 +53059,9 @@
 "page": "382",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01547",
@@ -52939,13 +53072,22 @@
 "page": "382",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u01547",
+"sha": "65516094bb04",
+"start": 1490,
+"end": 1517,
+"text": "Herr Cantzli Rådet vonstein",
+"page": "382",
+"chapter": "11",
+"type": "persName",
+"ref": "pers-vonstein",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01547",
@@ -52982,13 +53124,9 @@
 "page": "382",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01548",
@@ -53038,13 +53176,9 @@
 "page": "382",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01548",
@@ -53328,13 +53462,9 @@
 "page": "384",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01554",
@@ -53462,13 +53592,9 @@
 "page": "384",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-malmström-docens",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01555",
@@ -53545,12 +53671,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01563",
@@ -53653,12 +53775,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01569",
@@ -53670,12 +53788,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01569",
@@ -53687,12 +53801,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01570",
@@ -53743,12 +53853,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01570",
@@ -53864,12 +53970,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01573",
@@ -54154,12 +54256,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01575",
@@ -54314,12 +54412,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01575",
@@ -54357,12 +54451,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01575",
@@ -54413,12 +54503,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01575",
@@ -54482,12 +54568,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01576",
@@ -54512,12 +54594,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01576",
@@ -54633,12 +54711,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01577",
@@ -54715,12 +54789,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01577",
@@ -54875,12 +54945,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01579",
@@ -54892,12 +54958,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01580",
@@ -54922,12 +54984,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01582",
@@ -54952,12 +55010,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01582",
@@ -54999,12 +55053,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01582",
@@ -55055,12 +55105,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01583",
@@ -55072,12 +55118,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01583",
@@ -55102,12 +55144,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01584",
@@ -55119,12 +55157,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01584",
@@ -55149,12 +55183,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01585",
@@ -55231,12 +55261,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01585",
@@ -55248,12 +55274,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01585",
@@ -55265,12 +55287,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01586",
@@ -55295,12 +55313,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01586",
@@ -55377,12 +55391,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01586",
@@ -55407,12 +55417,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01588",
@@ -55424,12 +55430,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01588",
@@ -55441,12 +55443,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01588",
@@ -55501,12 +55499,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01589",
@@ -55518,12 +55512,8 @@
 "chapter": "11",
 "type": "persName",
 "ref": "pers-malmström-pehr",
-"cert": "low",
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01590",
@@ -55762,6 +55752,23 @@
 "ref": "pers-adlerbeth-gudmund",
 "cert": "medium",
 "how": "form"
+},
+{
+"unit": "u01594",
+"sha": "e2c69774396f",
+"start": 456,
+"end": 475,
+"text": "Herr Cantzlie Rådet",
+"page": "396",
+"chapter": "12",
+"type": "persName",
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-rådet-riks",
+"pers-rådet-cancelie"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01594",
@@ -56227,13 +56234,9 @@
 "page": "398",
 "chapter": "12",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "unresolved"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01598",
@@ -56543,13 +56546,9 @@
 "page": "401",
 "chapter": "12",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "unresolved"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01601",
@@ -56560,13 +56559,9 @@
 "page": "401",
 "chapter": "12",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "unresolved"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01601",
@@ -56590,13 +56585,9 @@
 "page": "401",
 "chapter": "12",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "unresolved"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01601",
@@ -56702,8 +56693,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -56720,8 +56710,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -56738,8 +56727,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -56821,8 +56809,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -57051,8 +57038,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -57190,8 +57176,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -57234,8 +57219,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -57278,8 +57262,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -57365,8 +57348,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -57409,8 +57391,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -57553,7 +57534,7 @@
 "page": "406",
 "chapter": "12",
 "type": "persName",
-"ref": "pers-rådetstein-cancelli",
+"ref": "pers-cancelli",
 "cert": "high",
 "how": "form"
 },
@@ -57648,8 +57629,7 @@
 "cert": null,
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "unresolved"
 },
@@ -57861,8 +57841,7 @@
 "cert": "low",
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "guess: chapter majority"
 },
@@ -57888,13 +57867,9 @@
 "page": "409",
 "chapter": "13",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "unresolved"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01633",
@@ -57983,7 +57958,7 @@
 "page": "409",
 "chapter": "13",
 "type": "persName",
-"ref": "pers-gyllenborg-grefwe",
+"ref": "pers-gyllenborg",
 "cert": "high",
 "how": "form"
 },
@@ -59430,13 +59405,9 @@
 "page": "419",
 "chapter": "13",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "unresolved"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01663",
@@ -60271,13 +60242,9 @@
 "page": "425",
 "chapter": "13",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "unresolved"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01680",
@@ -60301,13 +60268,9 @@
 "page": "425",
 "chapter": "13",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "unresolved"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01680",
@@ -60434,13 +60397,9 @@
 "page": "425",
 "chapter": "13",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "unresolved"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01681",
@@ -60537,13 +60496,9 @@
 "page": "425",
 "chapter": "13",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "unresolved"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01681",
@@ -60965,8 +60920,7 @@
 "cert": "low",
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "guess: chapter majority"
 },
@@ -61632,9 +61586,13 @@
 "page": null,
 "chapter": "13",
 "type": "persName",
-"ref": "pers-manderström-baron",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-manderström-christopher",
+"pers-manderström-ludvig"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01840",
@@ -61701,13 +61659,9 @@
 "page": null,
 "chapter": "13",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-rosenhane-baron",
-"pers-rosenhane-schering"
-],
-"how": "unresolved"
+"ref": "pers-rosenhane-schering",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01840",
@@ -61869,8 +61823,7 @@
 "cert": "low",
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -61883,13 +61836,9 @@
 "page": null,
 "chapter": "13",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "unresolved"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01849",
@@ -61943,13 +61892,9 @@
 "page": null,
 "chapter": "13",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-nordin-probsten",
-"pers-nordin-prosten"
-],
-"how": "unresolved"
+"ref": "pers-nordin-carolus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01849",
@@ -61999,13 +61944,9 @@
 "page": null,
 "chapter": "13",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-rosenhane-baron",
-"pers-rosenhane-schering"
-],
-"how": "unresolved"
+"ref": "pers-rosenhane-schering",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01849",
@@ -62016,13 +61957,9 @@
 "page": null,
 "chapter": "13",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-murberg-rector",
-"pers-murberg-lector"
-],
-"how": "unresolved"
+"ref": "pers-murberg",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01849",
@@ -62037,8 +61974,7 @@
 "cert": "low",
 "candidates": [
 "pers-engeström-jacobus",
-"pers-engeström-laurentius",
-"pers-engeström-cancellie"
+"pers-engeström-laurentius"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -62241,13 +62177,9 @@
 "page": null,
 "chapter": "13",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "unresolved"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01858",
@@ -62258,13 +62190,9 @@
 "page": null,
 "chapter": "13",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "unresolved"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01858",
@@ -62275,13 +62203,9 @@
 "page": null,
 "chapter": "13",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "unresolved"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01858",
@@ -62292,13 +62216,9 @@
 "page": null,
 "chapter": "13",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-malmström-docens",
-"pers-malmström-pehr"
-],
-"how": "unresolved"
+"ref": "pers-malmström-pehr",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01858",

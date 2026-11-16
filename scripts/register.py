@@ -55,7 +55,19 @@ MANUSCRIPTA = ROOT.parent / "manuscripta" / "id" / "person"
 
 PREFIX = re.compile(r"(?i)^(?:Wij|Wi|Vi|Hertigh?(?:en)?|Drottning(?:en)?|Konung(?:en)?|Kung|Doctor|Doct\.|Dr\.?|D:r|"
                     r"Mag\.|Magister|M\.|Herr|Her|H:r|Hr\.?|Prof\.?|Professor|Biskop(?:en)?|Ärkebiskop(?:en)?|"
-                    r"Mäster|Monsieur|Mons\.|Mr\.?|Fru|[Ss]ahl\.|Sal\.|Kgl\.|Kongl\.|Edel|Wälbördigh?|Welbördigh?|Grefve|Greve|Riks\w+)\s+")
+                    r"Mäster|Monsieur|Mons\.|Mr\.?|Fru|[Ss]ahl\.|Sal\.|Kgl\.|Kongl\.|Edel|Wälbördigh?|Welbördigh?|Grefve|Greve|Riks\w+|"
+                    # titles of rank and office (vol. VII: "Canzli Rådet Hallenberg", "Amanuensen Sundel",
+                    # "Friherre Adlerbeth" made entries of their own beside the name, so a bare surname had
+                    # two candidates). A two-word title ("Canzli Rådet", "Expeditions Secreteraren") is
+                    # removed word by word. Not "C. R." (Cantzli Råd), which is also a pair of initials.
+                    r"Baron(?:en)?|Friherr(?:e|en)|Frih\.|Gref(?:we|ven|wen)?|Grefvinnan|Kong|Kejsar(?:en)?|"
+                    r"Cantzlie?|Cancellie|Canzli|Kansli|Justiti[æa]e?|Expeditions|Hof|"
+                    r"\w*Råd(?:et|h|)|\w*Cantzler(?:en)?|\w*Secreterar(?:e|en)|\w*Sekreterar(?:e|en)|"
+                    r"Assessor(?:n)?|Lagman(?:nen)?|Häradshöfding(?:en)?|Landshöfding(?:en)?|Presidenten|"
+                    r"Prob?sten|Prost|Kyrkoherde(?:n)?|Lect?or(?:n)?|Lektor(?:n)?|Rect?or(?:n)?|Rektor(?:n)?|"
+                    r"Amanuens(?:en|is)?|Docens|Docent(?:en)?|Adjunct(?:en)?|Doktor(?:n)?|Apotekar(?:e|en)?|"
+                    r"Löjtnant(?:en)?|Lieutenant(?:en)?|Kapten|Capitain(?:en)?|Major(?:en)?|Öfverste(?:n)?|"
+                    r"H[oå]f(?:[Mm]arskalk|[Ii]ntendent|[Jj]unkare|[Pp]redikant|[Kk]apellmästare|[Ss]ekreterare|[Ss]ecreterare)\w*|Kammar[Hh]err(?:e|en)|Translator(?:e|en)?|Borgmästar(?:e|en)?|Biskoppen)\s+")
 REJECT = re.compile(r"^(?:Gud[hzs]?|Guds|Gudhs|Herren|Herr|Hans|EDERS|Eders|Edert|Edre|Edra)$|\b(?:May|Maij?|Maij?:t\w*|Majest\w*|Excellen\w*|Saga|Sogur|Codex|Annales|Chronicon|"
                     r"Cantz\w*|Cammar\w*|Cronones|Colleg\w*|Kansli\w*|ALMQVIST|WIKSELL\w*)\b|&")
 FORENAMES = [  # Latin and Swedish forms of one forename; used only to cluster entries of the same surname

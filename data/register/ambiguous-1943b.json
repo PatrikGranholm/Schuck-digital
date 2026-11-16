@@ -1,32 +1,9 @@
 {
- "Flintenberg": {
-  "mentions": 95,
-  "candidates": [
-   "pers-flintenberg-johannes",
-   "pers-flintenberg-expeditions"
-  ]
- },
  "Adlerbeth": {
-  "mentions": 153,
+  "mentions": 181,
   "candidates": [
-   "pers-adlerbeth-friherre",
    "pers-adlerbeth-jacobus",
-   "pers-adlerbeth-gudmund",
-   "pers-adlerbeth-baron"
-  ]
- },
- "Hallenberg": {
-  "mentions": 327,
-  "candidates": [
-   "pers-hallenberg-canzli",
-   "pers-hallenberg-c"
-  ]
- },
- "Sundel": {
-  "mentions": 143,
-  "candidates": [
-   "pers-sundel-olaus",
-   "pers-sundel-amanuensen"
+   "pers-adlerbeth-gudmund"
   ]
  },
  "Rosenberg": {
@@ -34,13 +11,6 @@
   "candidates": [
    "pers-rosenberg-nicolaus",
    "pers-rosenberg-carolus"
-  ]
- },
- "Rosenhane": {
-  "mentions": 51,
-  "candidates": [
-   "pers-rosenhane-baron",
-   "pers-rosenhane-friherre"
   ]
  },
  "Aurivillius": {
@@ -80,13 +50,6 @@
    "pers-celsius-nicolaus"
   ]
  },
- "Ehrenheim": {
-  "mentions": 16,
-  "candidates": [
-   "pers-ehrenheim-baron",
-   "pers-ehrenheim-friherre"
-  ]
- },
  "Sparre": {
   "mentions": 2,
   "candidates": [
@@ -99,25 +62,22 @@
   "candidates": [
    "pers-engeström-laurentius",
    "pers-engeström-jacobus",
-   "pers-engeström-friherre",
    "pers-engeström-gr"
   ]
  },
  "Bergstedt": {
-  "mentions": 41,
+  "mentions": 42,
   "candidates": [
    "pers-bergstedt-e",
    "pers-bergstedt-ericus",
-   "pers-bergstedt-statssecreteraren",
    "pers-bergstedt-ehrenheim"
   ]
  },
  "von Engeström": {
-  "mentions": 26,
+  "mentions": 32,
   "candidates": [
    "pers-engeström-laurentius",
    "pers-engeström-jacobus",
-   "pers-engeström-friherre",
    "pers-engeström-gr"
   ]
  },
@@ -151,14 +111,7 @@
   "candidates": [
    "pers-lindh-johannes",
    "pers-lindh-directeuren",
-   "pers-lindh-lagman"
-  ]
- },
- "von Ehrenheim": {
-  "mentions": 2,
-  "candidates": [
-   "pers-ehrenheim-baron",
-   "pers-ehrenheim-friherre"
+   "pers-lindh-g"
   ]
  },
  "Stein": {
@@ -174,13 +127,6 @@
    "pers-hildebrand-benedictus",
    "pers-hildebrand-johannes",
    "pers-hildebrand-bror"
-  ]
- },
- "af Hallenberg": {
-  "mentions": 1,
-  "candidates": [
-   "pers-hallenberg-canzli",
-   "pers-hallenberg-c"
   ]
  },
  "Geijer": {
@@ -211,28 +157,17 @@
    "pers-münter-frederik"
   ]
  },
- "Stierneld": {
-  "mentions": 45,
-  "candidates": [
-   "pers-stierneld-friherre",
-   "pers-stierneld-baron"
-  ]
- },
  "Brinkman": {
   "mentions": 21,
   "candidates": [
-   "pers-brinkman-kammarherren",
    "pers-brinkman-envoyén",
-   "pers-brinkman-kammarherren",
    "pers-brinkman-envoyéen"
   ]
  },
  "von Brinkman": {
-  "mentions": 4,
+  "mentions": 7,
   "candidates": [
-   "pers-brinkman-kammarherren",
    "pers-brinkman-envoyén",
-   "pers-brinkman-kammarherren",
    "pers-brinkman-envoyéen"
   ]
  },
@@ -241,13 +176,6 @@
   "candidates": [
    "pers-sjöberg-nicolaus",
    "pers-sjöberg-n"
-  ]
- },
- "Gyllencreutz": {
-  "mentions": 7,
-  "candidates": [
-   "pers-gyllencreutz-carolus",
-   "pers-gyllencreutz-lagman"
   ]
  },
  "von Rosenberg": {
@@ -267,10 +195,8 @@
  "Af Herr Baron Adlerbeth": {
   "mentions": 1,
   "candidates": [
-   "pers-adlerbeth-friherre",
    "pers-adlerbeth-jacobus",
-   "pers-adlerbeth-gudmund",
-   "pers-adlerbeth-baron"
+   "pers-adlerbeth-gudmund"
   ]
  }
 }

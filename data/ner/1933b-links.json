@@ -337,8 +337,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -594,8 +593,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -696,8 +694,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -932,8 +929,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -946,7 +942,7 @@
 "page": "6",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-rijkz-grefwe",
+"ref": "pers-rijkz",
 "cert": "high",
 "how": "form"
 },
@@ -1184,8 +1180,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -1202,8 +1197,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -1389,8 +1383,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -1459,8 +1452,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -1685,8 +1677,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -2481,8 +2472,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -2906,8 +2896,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -2937,8 +2926,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -3354,8 +3342,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -3696,8 +3683,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -8138,7 +8124,7 @@
 "page": "43",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-gardie-grefwe",
+"ref": "pers-gardie-jacobus",
 "cert": "high",
 "how": "form"
 },
@@ -8334,6 +8320,19 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-bergenhielm",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u00572",
+"sha": "bea5e01cf0b2",
+"start": 300,
+"end": 312,
+"text": "Cantzlie Råd",
+"page": "43",
+"chapter": "1",
+"type": "persName",
+"ref": "pers-råd",
 "cert": "high",
 "how": "form"
 },
@@ -8749,12 +8748,11 @@
 "page": "45",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -8811,12 +8809,11 @@
 "page": "45",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -10407,8 +10404,8 @@
 "page": "54",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-pering-assessor",
-"cert": "high",
+"ref": "pers-pering-johannes",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -10996,7 +10993,7 @@
 "page": "59",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magni",
 "cert": "high",
 "how": "form"
 },
@@ -11811,14 +11808,13 @@
 "page": "63",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
-"how": "guess: earlier in chapter"
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00632",
@@ -11894,14 +11890,13 @@
 "page": "65",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
-"how": "guess: earlier in chapter"
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00637",
@@ -12046,14 +12041,13 @@
 "page": "64",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
-"how": "guess: earlier in chapter"
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00638",
@@ -12348,14 +12342,13 @@
 "page": "65",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
-"how": "guess: earlier in chapter"
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00641",
@@ -12449,14 +12442,13 @@
 "page": "66",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
-"how": "guess: earlier in chapter"
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00641",
@@ -12480,14 +12472,13 @@
 "page": "66",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
-"how": "guess: earlier in chapter"
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00641",
@@ -12589,7 +12580,7 @@
 "page": "67",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-rijkz-grefwe",
+"ref": "pers-rijkz",
 "cert": "high",
 "how": "form"
 },
@@ -12641,14 +12632,13 @@
 "page": "68",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
-"how": "guess: earlier in chapter"
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00646",
@@ -12690,7 +12680,7 @@
 "page": "68",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-rijkz-grefwe",
+"ref": "pers-rijkz",
 "cert": "high",
 "how": "form"
 },
@@ -12755,14 +12745,13 @@
 "page": "69",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
-"how": "guess: earlier in chapter"
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00647",
@@ -12773,14 +12762,13 @@
 "page": "69",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
-"how": "guess: earlier in chapter"
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00647",
@@ -12980,14 +12968,13 @@
 "page": "70",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
-"how": "guess: earlier in chapter"
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00648",
@@ -13037,14 +13024,13 @@
 "page": "70",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
-"how": "guess: earlier in chapter"
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00649",
@@ -13185,14 +13171,13 @@
 "page": "71",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
-"how": "guess: earlier in chapter"
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00650",
@@ -13996,14 +13981,13 @@
 "page": "73",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
-"how": "guess: earlier in chapter"
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00653",
@@ -14083,14 +14067,13 @@
 "page": "74",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
-"how": "guess: earlier in chapter"
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00655",
@@ -14270,14 +14253,13 @@
 "page": "75",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
-"how": "guess: earlier in chapter"
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00657",
@@ -15097,14 +15079,13 @@
 "page": "78",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
-"how": "guess: earlier in chapter"
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00666",
@@ -15115,14 +15096,13 @@
 "page": "79",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
-"how": "guess: earlier in chapter"
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00666",
@@ -16029,14 +16009,13 @@
 "page": "82",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
-"how": "guess: earlier in chapter"
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00677",
@@ -16433,14 +16412,13 @@
 "page": "84",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
-"how": "guess: earlier in chapter"
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00682",
@@ -16464,14 +16442,13 @@
 "page": "84",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
-"how": "guess: earlier in chapter"
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00683",
@@ -16577,8 +16554,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: same paragraph"
 },
@@ -16743,8 +16719,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: same paragraph"
 },
@@ -16805,8 +16780,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: same paragraph"
 },
@@ -16836,8 +16810,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: same paragraph"
 },
@@ -17198,8 +17171,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -17291,8 +17263,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -17371,8 +17342,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -17505,8 +17475,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -17601,8 +17570,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -17645,8 +17613,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -17714,8 +17681,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -17870,8 +17836,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -17984,8 +17949,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -18045,8 +18009,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -18232,7 +18195,7 @@
 "page": "90",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-rijkz-grefwe",
+"ref": "pers-rijkz",
 "cert": "high",
 "how": "form"
 },
@@ -19112,8 +19075,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -19234,8 +19196,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -19426,8 +19387,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -19483,8 +19443,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -19683,8 +19642,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -19727,8 +19685,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -19745,8 +19702,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -20417,8 +20373,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -20500,8 +20455,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -27337,8 +27291,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -27420,8 +27373,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -27464,8 +27416,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -27672,8 +27623,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -28331,8 +28281,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -28401,8 +28350,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -28523,8 +28471,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -29087,8 +29034,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -30031,8 +29977,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -30257,8 +30202,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -31289,8 +31233,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -31346,8 +31289,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -31403,8 +31345,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -31616,8 +31557,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -31990,8 +31930,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -32086,8 +32025,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -32104,8 +32042,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -32291,8 +32228,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -32374,8 +32310,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -32418,8 +32353,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -32583,8 +32517,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -33017,8 +32950,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -33191,8 +33123,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -34028,8 +33959,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -34332,8 +34262,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -34415,8 +34344,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -34755,8 +34683,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -34812,8 +34739,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -35055,12 +34981,11 @@
 "page": "176",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -35073,12 +34998,11 @@
 "page": "176",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -35182,12 +35106,11 @@
 "page": "176",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -35278,12 +35201,11 @@
 "page": "177",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -35348,12 +35270,11 @@
 "page": "177",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -35548,12 +35469,11 @@
 "page": "179",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -35644,7 +35564,7 @@
 "page": "179",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "high",
 "how": "form"
 },
@@ -35722,7 +35642,7 @@
 "page": "180",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-rijkz-grefwe",
+"ref": "pers-rijkz",
 "cert": "high",
 "how": "form"
 },
@@ -35748,7 +35668,7 @@
 "page": "180",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-rålamb-rijkzrådet",
+"ref": "pers-rålamb-clas",
 "cert": "high",
 "how": "form"
 },
@@ -35930,12 +35850,11 @@
 "page": "181",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -36091,12 +36010,11 @@
 "page": "182",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -36148,12 +36066,11 @@
 "page": "182",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-gardie-gref",
+"ref": "pers-gardie-magnus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -36904,12 +36821,11 @@
 "page": "189",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-gardie-grefwe",
+"ref": "pers-gardie-gustavus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -36922,12 +36838,11 @@
 "page": "189",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-gardie-grefwe",
+"ref": "pers-gardie-gustavus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -36940,7 +36855,7 @@
 "page": "189",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-rijkz-grefwe",
+"ref": "pers-rijkz",
 "cert": "high",
 "how": "form"
 },
@@ -37702,7 +37617,7 @@
 "page": "204",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-gardie-grefwe",
+"ref": "pers-gardie-gustavus",
 "cert": "high",
 "how": "form"
 },
@@ -37910,7 +37825,7 @@
 "page": "207",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-gardie-grefwe",
+"ref": "pers-gardie-gustavus",
 "cert": "high",
 "how": "form"
 },
@@ -37936,7 +37851,7 @@
 "page": "208",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-rijkz-grefwe",
+"ref": "pers-rijkz",
 "cert": "high",
 "how": "form"
 },
@@ -38842,7 +38757,7 @@
 "page": "217",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-rijkz-grefwe",
+"ref": "pers-rijkz",
 "cert": "high",
 "how": "form"
 },
@@ -39414,7 +39329,7 @@
 "page": "219",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-rijkz-grefwe",
+"ref": "pers-rijkz",
 "cert": "high",
 "how": "form"
 },
@@ -39869,12 +39784,11 @@
 "page": "222",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-gardie-grefwe",
+"ref": "pers-gardie-gustavus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -40108,12 +40022,11 @@
 "page": "225",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-gardie-grefwe",
+"ref": "pers-gardie-gustavus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -40308,12 +40221,11 @@
 "page": "226",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-gardie-grefwe",
+"ref": "pers-gardie-gustavus",
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -40439,8 +40351,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -40769,8 +40680,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -40982,8 +40892,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -41294,8 +41203,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -41360,7 +41268,7 @@
 "page": "232",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-rijkz-grefwe",
+"ref": "pers-rijkz",
 "cert": "high",
 "how": "form"
 },
@@ -41386,7 +41294,7 @@
 "page": "232",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-rijkz-grefwe",
+"ref": "pers-rijkz",
 "cert": "high",
 "how": "form"
 },
@@ -41507,8 +41415,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -41547,7 +41454,7 @@
 "page": "233",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-oxenstierna-grefwe",
+"ref": "pers-oxenstierna-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -42141,8 +42048,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -42315,8 +42221,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -42346,8 +42251,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -42416,8 +42320,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -42460,8 +42363,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -42553,8 +42455,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -42597,8 +42498,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -42628,8 +42528,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -42880,8 +42779,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -42963,8 +42861,7 @@
 "cert": null,
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "unresolved"
 },
@@ -44549,8 +44446,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -44593,8 +44489,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -44637,8 +44532,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -44811,8 +44705,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -44842,8 +44735,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -44873,8 +44765,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -44956,8 +44847,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -44987,8 +44877,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -45057,8 +44946,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -46319,8 +46207,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -46933,8 +46820,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -47610,8 +47496,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -48138,8 +48023,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -48455,8 +48339,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -48538,8 +48421,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -48647,8 +48529,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -48899,8 +48780,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -49060,8 +48940,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -49130,8 +49009,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -49564,8 +49442,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -49608,8 +49485,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -49717,8 +49593,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: same paragraph"
 },
@@ -49800,8 +49675,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: same paragraph"
 },
@@ -49831,8 +49705,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: same paragraph"
 },
@@ -49849,8 +49722,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: same paragraph"
 },
@@ -49867,8 +49739,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: same paragraph"
 },
@@ -50446,7 +50317,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -50459,7 +50330,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -50589,7 +50460,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -50602,7 +50473,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -50641,7 +50512,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -50680,7 +50551,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -50888,7 +50759,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -50940,7 +50811,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -51031,7 +50902,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -51057,7 +50928,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -51114,7 +50985,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -51127,7 +50998,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -51140,7 +51011,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -51179,7 +51050,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -51218,7 +51089,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -51270,7 +51141,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -51569,7 +51440,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -51608,7 +51479,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -51699,7 +51570,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -51780,8 +51651,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -51834,7 +51704,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -51860,7 +51730,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -51886,7 +51756,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -52094,7 +51964,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -52328,7 +52198,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -52367,7 +52237,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -52432,7 +52302,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -52458,7 +52328,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -52487,8 +52357,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -52541,7 +52410,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -52583,8 +52452,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -52598,7 +52466,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -52611,7 +52479,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -52640,8 +52508,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -52655,7 +52522,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -52707,7 +52574,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -52720,7 +52587,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -52863,7 +52730,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -52876,7 +52743,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -52915,7 +52782,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -52980,7 +52847,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -53006,7 +52873,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -53019,7 +52886,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -53110,7 +52977,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -53149,7 +53016,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -53201,7 +53068,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -53214,7 +53081,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -53270,7 +53137,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -53283,7 +53150,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -53400,7 +53267,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -53426,7 +53293,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -53451,7 +53318,7 @@
 "page": "310",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-dahlberg-major",
+"ref": "pers-dahlberg-ericus",
 "cert": "high",
 "how": "form"
 },
@@ -53478,7 +53345,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -53712,7 +53579,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -53868,7 +53735,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -53946,7 +53813,7 @@
 "chapter": "9",
 "type": "persName",
 "ref": "pers-dahlberg-ericus",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -54313,8 +54180,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -56901,8 +56767,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -57079,8 +56944,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -58624,8 +58488,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -58720,8 +58583,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: chapter majority"
 },
@@ -60518,8 +60380,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -60770,8 +60631,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -62461,7 +62321,7 @@
 "page": "361",
 "chapter": "10",
 "type": "persName",
-"ref": "pers-rijkz-grefwe",
+"ref": "pers-rijkz",
 "cert": "high",
 "how": "form"
 },
@@ -62647,8 +62507,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -63319,8 +63178,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -63428,8 +63286,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -63524,8 +63381,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -63542,8 +63398,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -63586,8 +63441,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -63617,8 +63471,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -63648,8 +63501,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -63679,8 +63531,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -63775,8 +63626,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -63819,8 +63669,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -63863,8 +63712,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -63894,8 +63742,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -63912,8 +63759,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -63930,8 +63776,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -63948,8 +63793,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -64139,8 +63983,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -64170,8 +64013,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -64335,8 +64177,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -64521,8 +64362,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -64625,8 +64465,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -65183,8 +65022,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -65214,8 +65052,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -65245,8 +65082,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -65393,8 +65229,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -65493,8 +65328,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -65823,8 +65657,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -65854,8 +65687,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -65898,8 +65730,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -66358,8 +66189,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -66506,8 +66336,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -66576,8 +66405,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -66594,8 +66422,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -66716,8 +66543,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -67692,8 +67518,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
@@ -67710,8 +67535,7 @@
 "cert": "low",
 "candidates": [
 "pers-gardie-magnus",
-"pers-gardie-grefwe",
-"pers-gardie-gref"
+"pers-gardie-gustavus"
 ],
 "how": "guess: earlier in chapter"
 },
