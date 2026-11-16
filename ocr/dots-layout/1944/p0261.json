@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 261,
+ "seconds": 27.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [862, 273, 1340, 318], \"category\": \"Section-header\", \"text\": \"Liljegrens tid 1826—1837\"}, {\"bbox\": [798, 345, 1626, 802], \"category\": \"Table\", \"text\": \"<table><tr><td>Råneå</td><td>10</td></tr><tr><td>Luleå</td><td>40</td></tr><tr><td>Piteå</td><td>60</td></tr><tr><td>Skellefteå</td><td>60</td></tr><tr><td>Burträsk</td><td>10</td></tr><tr><td>Löfånger</td><td>30</td></tr><tr><td>Nysätra</td><td>25</td></tr><tr><td>Bygdeå</td><td>30</td></tr><tr><td>Umeå</td><td>75</td></tr><tr><td>Umeå till Stockholm sjöledes</td><td>30</td></tr><tr><td>Summa</td><td>560</td></tr></table>\"}, {\"bbox\": [586, 811, 1078, 854], \"category\": \"Text\", \"text\": \"Stockholm d. 14 januari 1828.\"}, {\"bbox\": [1322, 848, 1554, 939], \"category\": \"Text\", \"text\": \"Ödmjukligen\\nN. J. Ekdahl.»\"}, {\"bbox\": [586, 961, 1628, 1788], \"category\": \"Text\", \"text\": \"Först den 10 juni avreste Ekdahl från Stockholm. Men den resa, som han nu började, avlopp ej lika smärtfritt som den föregående, och så vitt jag kunnat finna, var detta varken akademiens eller Liljegrens fel utan Ekdahls eget. Dels följde han icke den uppgjorda resplanen och dels kom hans ekonomiska oefterrättlighet här ännu starkare fram än under den föregående resan. Och vi skola här erinra oss, att akademien, som formellt blott tillstyrkt hans ansökan, ingenting hade med resans ekonomi att göra; akademiens hela räntebevarade kapital bestod för övrigt vid denna tid av omkring 8,000 rdr banko, och något anslag till resor fanns icke i akademiens stat. I sin så sakrika avhandling om Ekdahls norrländska resor har Gustaf Hallström likväl tyckt sig spåra en »påtaglig motsträvighet hos akademien» mot Ekdahl. »Om» — skriver han — »bakom denna motsträvighet stod en inrepolitisk — i så fall företrädd av Liljegren, som kanske anade och fruktade, att Ekdahls energi beträffande arkivalia skulle kunna konkurrera ut honom i detta hans huvudintresse — eller om det endast var tungroddheten inom den gentemot en dylik snabb- och långresande stipendiat fullständigt ovana akademien, torde vara svårt att avgöra. Man tycker sig nästan se, hur akademien ibland stelnar till, högtidlig och en smula indignerad,\"}, {\"bbox\": [594, 1828, 670, 1864], \"category\": \"Page-footer\", \"text\": \"240\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    862,
+    273,
+    1340,
+    318
+   ],
+   "category": "Section-header",
+   "text": "Liljegrens tid 1826—1837"
+  },
+  {
+   "bbox": [
+    798,
+    345,
+    1626,
+    802
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>Råneå</td><td>10</td></tr><tr><td>Luleå</td><td>40</td></tr><tr><td>Piteå</td><td>60</td></tr><tr><td>Skellefteå</td><td>60</td></tr><tr><td>Burträsk</td><td>10</td></tr><tr><td>Löfånger</td><td>30</td></tr><tr><td>Nysätra</td><td>25</td></tr><tr><td>Bygdeå</td><td>30</td></tr><tr><td>Umeå</td><td>75</td></tr><tr><td>Umeå till Stockholm sjöledes</td><td>30</td></tr><tr><td>Summa</td><td>560</td></tr></table>"
+  },
+  {
+   "bbox": [
+    586,
+    811,
+    1078,
+    854
+   ],
+   "category": "Text",
+   "text": "Stockholm d. 14 januari 1828."
+  },
+  {
+   "bbox": [
+    1322,
+    848,
+    1554,
+    939
+   ],
+   "category": "Text",
+   "text": "Ödmjukligen\nN. J. Ekdahl.»"
+  },
+  {
+   "bbox": [
+    586,
+    961,
+    1628,
+    1788
+   ],
+   "category": "Text",
+   "text": "Först den 10 juni avreste Ekdahl från Stockholm. Men den resa, som han nu började, avlopp ej lika smärtfritt som den föregående, och så vitt jag kunnat finna, var detta varken akademiens eller Liljegrens fel utan Ekdahls eget. Dels följde han icke den uppgjorda resplanen och dels kom hans ekonomiska oefterrättlighet här ännu starkare fram än under den föregående resan. Och vi skola här erinra oss, att akademien, som formellt blott tillstyrkt hans ansökan, ingenting hade med resans ekonomi att göra; akademiens hela räntebevarade kapital bestod för övrigt vid denna tid av omkring 8,000 rdr banko, och något anslag till resor fanns icke i akademiens stat. I sin så sakrika avhandling om Ekdahls norrländska resor har Gustaf Hallström likväl tyckt sig spåra en »påtaglig motsträvighet hos akademien» mot Ekdahl. »Om» — skriver han — »bakom denna motsträvighet stod en inrepolitisk — i så fall företrädd av Liljegren, som kanske anade och fruktade, att Ekdahls energi beträffande arkivalia skulle kunna konkurrera ut honom i detta hans huvudintresse — eller om det endast var tungroddheten inom den gentemot en dylik snabb- och långresande stipendiat fullständigt ovana akademien, torde vara svårt att avgöra. Man tycker sig nästan se, hur akademien ibland stelnar till, högtidlig och en smula indignerad,"
+  },
+  {
+   "bbox": [
+    594,
+    1828,
+    670,
+    1864
+   ],
+   "category": "Page-footer",
+   "text": "240"
+  }
+ ]
+}

@@ -1,0 +1,192 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 111,
+ "seconds": 32.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [825, 290, 1301, 335], \"category\": \"Section-header\", \"text\": \"Liljegrens tid 1826—1837\"}, {\"bbox\": [927, 361, 1193, 397], \"category\": \"Text\", \"text\": \"och dess HusFru\"}, {\"bbox\": [879, 408, 1246, 451], \"category\": \"Text\", \"text\": \"Sofia Eleonora Jennings\"}, {\"bbox\": [828, 455, 1296, 491], \"category\": \"Text\", \"text\": \"Född Friherrinnan Rosenhane\"}, {\"bbox\": [974, 503, 1149, 545], \"category\": \"Text\", \"text\": \"uprättad af\"}, {\"bbox\": [549, 549, 1585, 594], \"category\": \"Text\", \"text\": \"Magr Joh. Henr. Schröder, stip. Rosenhan. Hist. Litt. Docens\"}, {\"bbox\": [724, 597, 1406, 640], \"category\": \"Text\", \"text\": \"Amanuens vid Upsala Academies Bibliothek\"}, {\"bbox\": [1010, 645, 1118, 679], \"category\": \"Text\", \"text\": \"1822.»¹\"}, {\"bbox\": [549, 715, 1585, 841], \"category\": \"Text\", \"text\": \"I följd av Rutströms motstånd måste en ändring göras i donationen, som den 15 september fick laglig form. Först meddelades det ursprungliga gåvobrevet:\"}, {\"bbox\": [549, 839, 1585, 1287], \"category\": \"Text\", \"text\": \"»Wi undertecknade John Jennings och Sophia Eleonora Jennings, född Rosenhane, tillkännagifva medelst detta vårt öppna Gåfvo Bref vårt upsåt at såsom ett prof af vår agtning och tillgifvenhet för Kongl. Witterhets Historie och Antiquitets Academien, hvaraf vår Sal. Svåger och Broder, Framledne Stats Secreteraren och Commendeuren af Kongl. Nordstjerne Orden och Riddaren af Konung Carl XIII:s Orden Friherre Schering Rosenhane i lifstiden warit en werksam Ledamot, åt bemälde Kongl. Academie till ewärdelig ägo öfverlämna en del af hans efterlämnade Bibliothek, som rörer Nordiska Historien, Antiquiteterna och Witterheten så väl som tillhörande Collectanea af Historiska Ströskrifter, Acta Publica, Dis-\"}, {\"bbox\": [583, 1309, 1130, 1342], \"category\": \"Footnote\", \"text\": \"¹ I denna gives även följande innehållsförteckning:\"}, {\"bbox\": [627, 1346, 746, 1376], \"category\": \"Section-header\", \"text\": \"»Conspectus\"}, {\"bbox\": [605, 1376, 986, 1494], \"category\": \"Table\", \"text\": \"<table><tr><td>In folio</td><td>108</td></tr><tr><td>In quarto</td><td>402</td></tr><tr><td>In octavo</td><td>945</td></tr><tr><td>In duodecimo</td><td>65 1520 volumer</td></tr></table>\"}, {\"bbox\": [630, 1499, 855, 1525], \"category\": \"Section-header\", \"text\": \"Collectanea Historica\"}, {\"bbox\": [605, 1528, 1182, 1645], \"category\": \"Table\", \"text\": \"<table><tr><td>In folio</td><td>7</td></tr><tr><td>In quarto</td><td>243</td></tr><tr><td>Kungl. Förordningar och Placater</td><td>50 300 volumer</td></tr><tr><td>Summa summarum</td><td>1820 volumer</td></tr></table>\"}, {\"bbox\": [630, 1652, 893, 1680], \"category\": \"Section-header\", \"text\": \"Chartor, Gravurer m. m.\"}, {\"bbox\": [617, 1681, 1144, 1806], \"category\": \"Table\", \"text\": \"<table><tr><td>Suecia Antiqua et Hodierna</td><td>13 Portefeuiller</td></tr><tr><td>Svenska Batailler</td><td>3 -do-</td></tr><tr><td>Fêtes et Ceremonies</td><td>1 -do-</td></tr><tr><td></td><td>17 Portefeuiller»</td></tr></table>\"}, {\"bbox\": [552, 1842, 598, 1879], \"category\": \"Page-footer\", \"text\": \"92\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    825,
+    290,
+    1301,
+    335
+   ],
+   "category": "Section-header",
+   "text": "Liljegrens tid 1826—1837"
+  },
+  {
+   "bbox": [
+    927,
+    361,
+    1193,
+    397
+   ],
+   "category": "Text",
+   "text": "och dess HusFru"
+  },
+  {
+   "bbox": [
+    879,
+    408,
+    1246,
+    451
+   ],
+   "category": "Text",
+   "text": "Sofia Eleonora Jennings"
+  },
+  {
+   "bbox": [
+    828,
+    455,
+    1296,
+    491
+   ],
+   "category": "Text",
+   "text": "Född Friherrinnan Rosenhane"
+  },
+  {
+   "bbox": [
+    974,
+    503,
+    1149,
+    545
+   ],
+   "category": "Text",
+   "text": "uprättad af"
+  },
+  {
+   "bbox": [
+    549,
+    549,
+    1585,
+    594
+   ],
+   "category": "Text",
+   "text": "Magr Joh. Henr. Schröder, stip. Rosenhan. Hist. Litt. Docens"
+  },
+  {
+   "bbox": [
+    724,
+    597,
+    1406,
+    640
+   ],
+   "category": "Text",
+   "text": "Amanuens vid Upsala Academies Bibliothek"
+  },
+  {
+   "bbox": [
+    1010,
+    645,
+    1118,
+    679
+   ],
+   "category": "Text",
+   "text": "1822.»¹"
+  },
+  {
+   "bbox": [
+    549,
+    715,
+    1585,
+    841
+   ],
+   "category": "Text",
+   "text": "I följd av Rutströms motstånd måste en ändring göras i donationen, som den 15 september fick laglig form. Först meddelades det ursprungliga gåvobrevet:"
+  },
+  {
+   "bbox": [
+    549,
+    839,
+    1585,
+    1287
+   ],
+   "category": "Text",
+   "text": "»Wi undertecknade John Jennings och Sophia Eleonora Jennings, född Rosenhane, tillkännagifva medelst detta vårt öppna Gåfvo Bref vårt upsåt at såsom ett prof af vår agtning och tillgifvenhet för Kongl. Witterhets Historie och Antiquitets Academien, hvaraf vår Sal. Svåger och Broder, Framledne Stats Secreteraren och Commendeuren af Kongl. Nordstjerne Orden och Riddaren af Konung Carl XIII:s Orden Friherre Schering Rosenhane i lifstiden warit en werksam Ledamot, åt bemälde Kongl. Academie till ewärdelig ägo öfverlämna en del af hans efterlämnade Bibliothek, som rörer Nordiska Historien, Antiquiteterna och Witterheten så väl som tillhörande Collectanea af Historiska Ströskrifter, Acta Publica, Dis-"
+  },
+  {
+   "bbox": [
+    583,
+    1309,
+    1130,
+    1342
+   ],
+   "category": "Footnote",
+   "text": "¹ I denna gives även följande innehållsförteckning:"
+  },
+  {
+   "bbox": [
+    627,
+    1346,
+    746,
+    1376
+   ],
+   "category": "Section-header",
+   "text": "»Conspectus"
+  },
+  {
+   "bbox": [
+    605,
+    1376,
+    986,
+    1494
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>In folio</td><td>108</td></tr><tr><td>In quarto</td><td>402</td></tr><tr><td>In octavo</td><td>945</td></tr><tr><td>In duodecimo</td><td>65 1520 volumer</td></tr></table>"
+  },
+  {
+   "bbox": [
+    630,
+    1499,
+    855,
+    1525
+   ],
+   "category": "Section-header",
+   "text": "Collectanea Historica"
+  },
+  {
+   "bbox": [
+    605,
+    1528,
+    1182,
+    1645
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>In folio</td><td>7</td></tr><tr><td>In quarto</td><td>243</td></tr><tr><td>Kungl. Förordningar och Placater</td><td>50 300 volumer</td></tr><tr><td>Summa summarum</td><td>1820 volumer</td></tr></table>"
+  },
+  {
+   "bbox": [
+    630,
+    1652,
+    893,
+    1680
+   ],
+   "category": "Section-header",
+   "text": "Chartor, Gravurer m. m."
+  },
+  {
+   "bbox": [
+    617,
+    1681,
+    1144,
+    1806
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>Suecia Antiqua et Hodierna</td><td>13 Portefeuiller</td></tr><tr><td>Svenska Batailler</td><td>3 -do-</td></tr><tr><td>Fêtes et Ceremonies</td><td>1 -do-</td></tr><tr><td></td><td>17 Portefeuiller»</td></tr></table>"
+  },
+  {
+   "bbox": [
+    552,
+    1842,
+    598,
+    1879
+   ],
+   "category": "Page-footer",
+   "text": "92"
+  }
+ ]
+}

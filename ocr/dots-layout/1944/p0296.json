@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 296,
+ "seconds": 25.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [192, 496, 1157, 1030], \"category\": \"Text\", \"text\": \"Wi CARL JOHAN, med Guds Nåde, Sweriges, Norriges, Göthes och Wendes Konung, Göre weterligt: Att som erfarenheten wid flere tillfällen ådagalagt, att de särskildte, tid efter annan af Konung och Ständer meddeldte föreskrifter och påbud, rörande wården och bewarandet af forntidens Minnesmärken, kommit i glömska och förgåtenhet, hwaraf håndt, att flere sådane, till uplysning för Rikets Historia, wigtige föremål gått förlorade; Alltså hafwe Wi i Nåder funnit angelåget, att med nödige, efter nuwarande tid lämpade förändringar, uplifwa ofwannämnde föreskrifter, samt i sådant afseende i detta åmne i Nåder stadga, som följer:\"}, {\"bbox\": [642, 1046, 713, 1080], \"category\": \"Section-header\", \"text\": \"1. J.\"}, {\"bbox\": [192, 1084, 1153, 1460], \"category\": \"Text\", \"text\": \"Af de på flere ställen i Niket besintlige Ålderdoms-minnesmärken ware all förändring, rubbning eller förstöring, annorlunda än i den uti 2. J. stadgade ordning, förbuden, wid åswentyr för den, som deremot bryter, att, jemte erläggande af det wite, som, efter hwad i 7. J. sågs, särskildt kan wara stadgadt, allt i sitt förra skick återställa. Med sådane Minnesmärken förstås: Ruiner, murar och lemningar efter gamla Slott, Borgar, Kloster, Kyrkor, Capell och andra märkliga byggnader: Wård- eller så kallade Bautastenar och Runstenar, jemte lemningar ester forntidens Domaresåten, Offerställen eller Beografningsplatser; åfwensom Åttehögar, Griftrör, eller ock andre större eller mindre föremål, som till åminnelse af forntidens heliga bruk eller någon märklig historisk bedrift, person eller ort kunna bidraga.\"}, {\"bbox\": [632, 1480, 709, 1515], \"category\": \"Section-header\", \"text\": \"2. J.\"}, {\"bbox\": [192, 1521, 1149, 1655], \"category\": \"Text\", \"text\": \"Åstundar ågare eller innehafware af jord å Landet eller i Stad, för tillämnadt byggnads- eller odlingsföretag eller af andra orsaker, borttaga eller förändra sådant Minnesmärke, som i nästföregående J. nämndt år; tillkännagifwe det å Landet hos närmaste Kronobetjent\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    192,
+    496,
+    1157,
+    1030
+   ],
+   "category": "Text",
+   "text": "Wi CARL JOHAN, med Guds Nåde, Sweriges, Norriges, Göthes och Wendes Konung, Göre weterligt: Att som erfarenheten wid flere tillfällen ådagalagt, att de särskildte, tid efter annan af Konung och Ständer meddeldte föreskrifter och påbud, rörande wården och bewarandet af forntidens Minnesmärken, kommit i glömska och förgåtenhet, hwaraf håndt, att flere sådane, till uplysning för Rikets Historia, wigtige föremål gått förlorade; Alltså hafwe Wi i Nåder funnit angelåget, att med nödige, efter nuwarande tid lämpade förändringar, uplifwa ofwannämnde föreskrifter, samt i sådant afseende i detta åmne i Nåder stadga, som följer:"
+  },
+  {
+   "bbox": [
+    642,
+    1046,
+    713,
+    1080
+   ],
+   "category": "Section-header",
+   "text": "1. J."
+  },
+  {
+   "bbox": [
+    192,
+    1084,
+    1153,
+    1460
+   ],
+   "category": "Text",
+   "text": "Af de på flere ställen i Niket besintlige Ålderdoms-minnesmärken ware all förändring, rubbning eller förstöring, annorlunda än i den uti 2. J. stadgade ordning, förbuden, wid åswentyr för den, som deremot bryter, att, jemte erläggande af det wite, som, efter hwad i 7. J. sågs, särskildt kan wara stadgadt, allt i sitt förra skick återställa. Med sådane Minnesmärken förstås: Ruiner, murar och lemningar efter gamla Slott, Borgar, Kloster, Kyrkor, Capell och andra märkliga byggnader: Wård- eller så kallade Bautastenar och Runstenar, jemte lemningar ester forntidens Domaresåten, Offerställen eller Beografningsplatser; åfwensom Åttehögar, Griftrör, eller ock andre större eller mindre föremål, som till åminnelse af forntidens heliga bruk eller någon märklig historisk bedrift, person eller ort kunna bidraga."
+  },
+  {
+   "bbox": [
+    632,
+    1480,
+    709,
+    1515
+   ],
+   "category": "Section-header",
+   "text": "2. J."
+  },
+  {
+   "bbox": [
+    192,
+    1521,
+    1149,
+    1655
+   ],
+   "category": "Text",
+   "text": "Åstundar ågare eller innehafware af jord å Landet eller i Stad, för tillämnadt byggnads- eller odlingsföretag eller af andra orsaker, borttaga eller förändra sådant Minnesmärke, som i nästföregående J. nämndt år; tillkännagifwe det å Landet hos närmaste Kronobetjent"
+  }
+ ]
+}

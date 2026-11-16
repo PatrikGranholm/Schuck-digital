@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 444,
+ "seconds": 29.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [438, 276, 795, 313], \"category\": \"Page-header\", \"text\": \"Akademiens ekonomi\"}, {\"bbox\": [95, 344, 1131, 634], \"category\": \"Text\", \"text\": \"av jetoner under akademiens sommarsammanträden, 1 juli till 1 november, då blott ett sammanträde i månaden hölls. 200 jetoner å en halv specieriksdaler skulle då utdelas, och på detta anslag kunde ingen besparing göras. Att icke någon brist uppstod, då anslaget 1803 nedsattes från 100 rdr specie till 100 rdr banko, under det att de 200 jetonerna fortfarande voro 1/2 rdr specie, berodde på en förordning, till vilken vi strax skulle komma.\"}, {\"bbox\": [77, 634, 1127, 1795], \"category\": \"Text\", \"text\": \"Det tredje anslaget — också 100 rdr sp. — i Gustav III:s stat var till vad vi kalla »expenser», eller som Gustav III skriver »till Ljus, Papper och öfriga vid Academiens Sammankomster förefallande utgifter». Dessa »öfriga utgifter» voro ganska många. I akademiens räkenskaper sammanfördes de på Liljegrens tid — men blott en del av dem — under rubriken »Diverse». Men dessa då på »Diversekontot» uppförda utgifter voro 1826 154 rdr 21 sk. 4 rst., 1827 128 rdr 11 sk. 9 rst., 1828 98 rdr 19 sk., 1829 158 rdr 41 sk. 7 rst., 1830 85 rdr 24 sk. 3 rst., 1831 234 rdr 42 sk. 3 rst., 1832 72 rdr 20 sk. 3 rst., 1833 95 rdr 39 sk., 1834 80 rdr 2 sk. 4 rst., 1835 312 rdr 46 sk. 8 rst., 1836 43 rdr 22 sk. 8 rst. och 1837 158 rdr 20 sk. Ehuru utgifterna under flera år något understego anslaget, 100 rdr, uppstod likväl ett deficit på detta konto. Och i verkligheten blev detta vida större. Akademien hade nämligen en mängd mycket betydande utgifter, som borde ha förts på detta konto, men som nu fördes särskilt. De ganska dyrbara annonser, som skulle införas i utländska avisor — i Paris, Haag, Petersburg, London, Köpenhamn och Rom — om akademiens tävlingsämnen, hade väl på Liljegrens tid upphört; den sista infördes i en Hamburgertidning 1822 och kostade 30 rdr banko. Men andra utgifter hade tillkommit. Minst betydde den utgift på 100 rdr banko, som akademien numera fick betala boktryckaren för varje ny del av Handlingarne, ty dessa utkommo, såsom vi sett, ytterst sällan — under Liljegrens tid blott två gånger, 1826 och 1830. Mera betydde andra utgifter. 1831, då akademiens samlingar flyttades till »kommendantflygeln», kostade flyttningen 346 1/2 rdr. och det Rosenhaneska bibliotekets flyttning steg till 177 rdr. 30 sk. Den största utgiften, för vilken intet anslag fanns i staten, var likväl fyndens inlösning. Först under Rut-\"}, {\"bbox\": [1141, 648, 1238, 681], \"category\": \"Text\", \"text\": \"Expenser\"}, {\"bbox\": [1035, 1836, 1106, 1873], \"category\": \"Page-footer\", \"text\": \"415\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    438,
+    276,
+    795,
+    313
+   ],
+   "category": "Page-header",
+   "text": "Akademiens ekonomi"
+  },
+  {
+   "bbox": [
+    95,
+    344,
+    1131,
+    634
+   ],
+   "category": "Text",
+   "text": "av jetoner under akademiens sommarsammanträden, 1 juli till 1 november, då blott ett sammanträde i månaden hölls. 200 jetoner å en halv specieriksdaler skulle då utdelas, och på detta anslag kunde ingen besparing göras. Att icke någon brist uppstod, då anslaget 1803 nedsattes från 100 rdr specie till 100 rdr banko, under det att de 200 jetonerna fortfarande voro 1/2 rdr specie, berodde på en förordning, till vilken vi strax skulle komma."
+  },
+  {
+   "bbox": [
+    77,
+    634,
+    1127,
+    1795
+   ],
+   "category": "Text",
+   "text": "Det tredje anslaget — också 100 rdr sp. — i Gustav III:s stat var till vad vi kalla »expenser», eller som Gustav III skriver »till Ljus, Papper och öfriga vid Academiens Sammankomster förefallande utgifter». Dessa »öfriga utgifter» voro ganska många. I akademiens räkenskaper sammanfördes de på Liljegrens tid — men blott en del av dem — under rubriken »Diverse». Men dessa då på »Diversekontot» uppförda utgifter voro 1826 154 rdr 21 sk. 4 rst., 1827 128 rdr 11 sk. 9 rst., 1828 98 rdr 19 sk., 1829 158 rdr 41 sk. 7 rst., 1830 85 rdr 24 sk. 3 rst., 1831 234 rdr 42 sk. 3 rst., 1832 72 rdr 20 sk. 3 rst., 1833 95 rdr 39 sk., 1834 80 rdr 2 sk. 4 rst., 1835 312 rdr 46 sk. 8 rst., 1836 43 rdr 22 sk. 8 rst. och 1837 158 rdr 20 sk. Ehuru utgifterna under flera år något understego anslaget, 100 rdr, uppstod likväl ett deficit på detta konto. Och i verkligheten blev detta vida större. Akademien hade nämligen en mängd mycket betydande utgifter, som borde ha förts på detta konto, men som nu fördes särskilt. De ganska dyrbara annonser, som skulle införas i utländska avisor — i Paris, Haag, Petersburg, London, Köpenhamn och Rom — om akademiens tävlingsämnen, hade väl på Liljegrens tid upphört; den sista infördes i en Hamburgertidning 1822 och kostade 30 rdr banko. Men andra utgifter hade tillkommit. Minst betydde den utgift på 100 rdr banko, som akademien numera fick betala boktryckaren för varje ny del av Handlingarne, ty dessa utkommo, såsom vi sett, ytterst sällan — under Liljegrens tid blott två gånger, 1826 och 1830. Mera betydde andra utgifter. 1831, då akademiens samlingar flyttades till »kommendantflygeln», kostade flyttningen 346 1/2 rdr. och det Rosenhaneska bibliotekets flyttning steg till 177 rdr. 30 sk. Den största utgiften, för vilken intet anslag fanns i staten, var likväl fyndens inlösning. Först under Rut-"
+  },
+  {
+   "bbox": [
+    1141,
+    648,
+    1238,
+    681
+   ],
+   "category": "Text",
+   "text": "Expenser"
+  },
+  {
+   "bbox": [
+    1035,
+    1836,
+    1106,
+    1873
+   ],
+   "category": "Page-footer",
+   "text": "415"
+  }
+ ]
+}

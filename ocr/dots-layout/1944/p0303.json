@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 303,
+ "seconds": 27.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [865, 284, 1340, 329], \"category\": \"Section-header\", \"text\": \"Liljegrens tid 1826—1837\"}, {\"bbox\": [592, 348, 1629, 506], \"category\": \"Text\", \"text\": \"i underdånighet anmäla samt till Eders Kongl. Maj:ts Nådiga om-\\npröfning hemställa, hvad utvägar må i Nåder synas lämpligast att\\nför efterverlden bevara de ännu återstående lemningar af forntida\\nMinnesmärken.»\"}, {\"bbox\": [588, 513, 1629, 1001], \"category\": \"Text\", \"text\": \"Vilken som utformat det kungabrev, som utfärdades till svar på akademiens skrivelse, känner jag icke, men man kan här gissa på Jacob Adlerbeth, till vars expedition ärendet hörde, och utan tvivel gjorde han det i så fall i samråd med Liljegren, ty plakatet innehåller vida mera än ett bifall till akademiens anhållan och kan ej gärna ha formulerats av någon »skrifvare» i expeditionen; det förutsätter nämligen kännedom dels om den föregående fornvårdslagstiftningen i Sverige, dels även om den instruktion, som 1807 utfärdades för den danska oldsagskommissionen (B. Hildebrand sid. 185). Expeditionen tog sig även rundlig tid att utarbeta svaret till akademien, och först den 17 april 1828 utfärdades det nya fornvårdsplakat, som här meddelas i faksimile.\"}, {\"bbox\": [587, 1049, 1626, 1341], \"category\": \"Text\", \"text\": \"Detta plakat är en märkessten i akademiens historia, ty därmed — kan man säga — förvandlades Gustav III:s medaljakademi till en huvudsakligen antikvarisk akademi, till en fortsättning av storhetstidens Antikvitetsarkiv. Fornvården — som icke nämnts i Gustav III:s statuter — ställdes nu bestämt under akademiens och riksantikvariens uppsikt, och som vi skola se, sökte akademien med verkligt nit att främja den i viss mån nya uppgift hon fått.\"}, {\"bbox\": [584, 1337, 1625, 1795], \"category\": \"Text\", \"text\": \"I slutet av plakatet hade Kungl. Maj:t förordnat, att detta skulle vartannat år i april månad uppläsas i kyrkorna. Men vid sammanträdet den 7 december 1830 tyckte sig akademien ha funnit, att »den större allmänheten likaväl, troligen i följd af bristande uppmärksamhet under afhörandet af den Kongl. Förordningen, icke med wederbörlig noggrannhet uppfyllt dess föreskrifter» och hade därför »varit omtänkt på tjenliga utvägar derföre och var öfertygad, att det med ofvan berörde K. Förordning åsyftade ändamål skulle i betydlig mån främjas genom en i de Små almanachorna årligen införd kort erinran om hvad för bevarandet af lemningar från forntiden hufvudsakligen och med egentlig tillämpning till Landtbru-\"}, {\"bbox\": [588, 1827, 659, 1864], \"category\": \"Page-footer\", \"text\": \"274\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    865,
+    284,
+    1340,
+    329
+   ],
+   "category": "Section-header",
+   "text": "Liljegrens tid 1826—1837"
+  },
+  {
+   "bbox": [
+    592,
+    348,
+    1629,
+    506
+   ],
+   "category": "Text",
+   "text": "i underdånighet anmäla samt till Eders Kongl. Maj:ts Nådiga om-\npröfning hemställa, hvad utvägar må i Nåder synas lämpligast att\nför efterverlden bevara de ännu återstående lemningar af forntida\nMinnesmärken.»"
+  },
+  {
+   "bbox": [
+    588,
+    513,
+    1629,
+    1001
+   ],
+   "category": "Text",
+   "text": "Vilken som utformat det kungabrev, som utfärdades till svar på akademiens skrivelse, känner jag icke, men man kan här gissa på Jacob Adlerbeth, till vars expedition ärendet hörde, och utan tvivel gjorde han det i så fall i samråd med Liljegren, ty plakatet innehåller vida mera än ett bifall till akademiens anhållan och kan ej gärna ha formulerats av någon »skrifvare» i expeditionen; det förutsätter nämligen kännedom dels om den föregående fornvårdslagstiftningen i Sverige, dels även om den instruktion, som 1807 utfärdades för den danska oldsagskommissionen (B. Hildebrand sid. 185). Expeditionen tog sig även rundlig tid att utarbeta svaret till akademien, och först den 17 april 1828 utfärdades det nya fornvårdsplakat, som här meddelas i faksimile."
+  },
+  {
+   "bbox": [
+    587,
+    1049,
+    1626,
+    1341
+   ],
+   "category": "Text",
+   "text": "Detta plakat är en märkessten i akademiens historia, ty därmed — kan man säga — förvandlades Gustav III:s medaljakademi till en huvudsakligen antikvarisk akademi, till en fortsättning av storhetstidens Antikvitetsarkiv. Fornvården — som icke nämnts i Gustav III:s statuter — ställdes nu bestämt under akademiens och riksantikvariens uppsikt, och som vi skola se, sökte akademien med verkligt nit att främja den i viss mån nya uppgift hon fått."
+  },
+  {
+   "bbox": [
+    584,
+    1337,
+    1625,
+    1795
+   ],
+   "category": "Text",
+   "text": "I slutet av plakatet hade Kungl. Maj:t förordnat, att detta skulle vartannat år i april månad uppläsas i kyrkorna. Men vid sammanträdet den 7 december 1830 tyckte sig akademien ha funnit, att »den större allmänheten likaväl, troligen i följd af bristande uppmärksamhet under afhörandet af den Kongl. Förordningen, icke med wederbörlig noggrannhet uppfyllt dess föreskrifter» och hade därför »varit omtänkt på tjenliga utvägar derföre och var öfertygad, att det med ofvan berörde K. Förordning åsyftade ändamål skulle i betydlig mån främjas genom en i de Små almanachorna årligen införd kort erinran om hvad för bevarandet af lemningar från forntiden hufvudsakligen och med egentlig tillämpning till Landtbru-"
+  },
+  {
+   "bbox": [
+    588,
+    1827,
+    659,
+    1864
+   ],
+   "category": "Page-footer",
+   "text": "274"
+  }
+ ]
+}

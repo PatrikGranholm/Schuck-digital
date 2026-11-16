@@ -1,0 +1,122 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 173,
+ "seconds": 32.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [821, 282, 1297, 326], \"category\": \"Section-header\", \"text\": \"Liljegrens tid 1826—1837\"}, {\"bbox\": [540, 351, 1584, 563], \"category\": \"Text\", \"text\": \"i ekonomiskt avseende fullständigt och även vad redaktionen beträffade, ty kommittén hade tillsatts av Seton, icke av akademien. Men två dagar före sin död hade Seton upprättat ett testamente, varigenom akademien både med avseende på ekonomien och redaktionen trädde i nära beröring med Diplomatariet. Detta testamente¹ lyder:\"}, {\"bbox\": [977, 579, 1146, 613], \"category\": \"Section-header\", \"text\": \"Testamente.\"}, {\"bbox\": [754, 630, 1371, 669], \"category\": \"Text\", \"text\": \"Detta är min yttersta vilja och testamente:\"}, {\"bbox\": [545, 680, 1586, 1008], \"category\": \"Text\", \"text\": \"I. uppdrager jag åt KrigsHofRättsRådet Clas Levijn att — till följd af den mellan honom och mig redan upprättade, i Herr StadsMäklaren Sasses förvar lemnade öfverenskommelse — icke allenast utföra min och mine rättsinnehafvares talan och den nu i Kongl. Svea HofRätt anhängige Rättegång emellan Doctor Patrik Seton och Herr Justitiæ Rådet C. J. Örbom å ena och mig å den andra sidan samt densamma vidare fullfölja utan ock att upptaga och utföra de Rättegångar, som i afseende på mina rättsinnehafvares och hans egen rätt äga med förberörde mål Sammanhang, hvarefter han bör af inflytande medel uppbära hvad oss emellan öfverenskommet är.\"}, {\"bbox\": [547, 1012, 1587, 1259], \"category\": \"Text\", \"text\": \"II. Af min qvarlåtenskap och de medel, som mig lagligen tillkomma kunna, afsättes tillsammans Tjugo Tusende (20.000) Riksdaler Bancosedlar, hvaraf Tio Tusende (10.000) Rdr till fortsättande af det påbörjade Diplomatarium Suecanum och Tio Tusende (10.000) Rdr till utgifvande af Handlingar i Svenska Historien. Derom föranstaltar till en början den af mig redan utsedda Committée under Kungl. Witterhets Historie och antiquitets Academiens inseende.\"}, {\"bbox\": [548, 1269, 1587, 1382], \"category\": \"Text\", \"text\": \"III. Allt hvad öfrigt blifver aflemnas till Stockholms Stads DrädselCommission till uppförande af en af mig påtänkt brobyggnad mellan Röda Bodarna och Riddarhustorget.²\"}, {\"bbox\": [548, 1387, 1588, 1565], \"category\": \"Text\", \"text\": \"IV. I afseende på verkställigheten af dessa mina förordnanden anhåller jag vördsammast att å Kongl. Witterhets Historie och Antiquitets Academiens vägnar Hans Excellence Herr Riks Marskalken m. m. Grefve Clas Fleming och Herr Förste Expeditions Secreteraren Baron Jacob Adlerbeth såsom varme vänner af Fäderneslandets Historia och att å Drätsel Commis-\"}, {\"bbox\": [584, 1590, 1370, 1622], \"category\": \"Footnote\", \"text\": \"¹ Testamentet är i avskrift bifogat bouppteckningen inför Svea Hovrätt.\"}, {\"bbox\": [549, 1619, 1589, 1801], \"category\": \"Footnote\", \"text\": \"² Detta var ett gammalt önskemål av Seton. Redan den 14 december 1826 hade han skrivit till De la Gardie: »Jag wille förmoda, At Herr Grefve De la Gardie (Eders Excellence) ville gerna gönna, åtminstone icke motsäga en plan till en ny trädbro öfver Nordströmmen för fotpassagerare, i den mäst bequäma linien dragen, ifrån Riddarholmsgränd till hörnet af Rosenbad, snet emot Målareacademien. Jag skulle utbed mig visa upp till Herr Grefven plan och elevation, ritningarna, inbegripandes pligtringen(!) samt borrning i Skjöbotten.»\"}, {\"bbox\": [556, 1837, 628, 1875], \"category\": \"Page-footer\", \"text\": \"154\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    821,
+    282,
+    1297,
+    326
+   ],
+   "category": "Section-header",
+   "text": "Liljegrens tid 1826—1837"
+  },
+  {
+   "bbox": [
+    540,
+    351,
+    1584,
+    563
+   ],
+   "category": "Text",
+   "text": "i ekonomiskt avseende fullständigt och även vad redaktionen beträffade, ty kommittén hade tillsatts av Seton, icke av akademien. Men två dagar före sin död hade Seton upprättat ett testamente, varigenom akademien både med avseende på ekonomien och redaktionen trädde i nära beröring med Diplomatariet. Detta testamente¹ lyder:"
+  },
+  {
+   "bbox": [
+    977,
+    579,
+    1146,
+    613
+   ],
+   "category": "Section-header",
+   "text": "Testamente."
+  },
+  {
+   "bbox": [
+    754,
+    630,
+    1371,
+    669
+   ],
+   "category": "Text",
+   "text": "Detta är min yttersta vilja och testamente:"
+  },
+  {
+   "bbox": [
+    545,
+    680,
+    1586,
+    1008
+   ],
+   "category": "Text",
+   "text": "I. uppdrager jag åt KrigsHofRättsRådet Clas Levijn att — till följd af den mellan honom och mig redan upprättade, i Herr StadsMäklaren Sasses förvar lemnade öfverenskommelse — icke allenast utföra min och mine rättsinnehafvares talan och den nu i Kongl. Svea HofRätt anhängige Rättegång emellan Doctor Patrik Seton och Herr Justitiæ Rådet C. J. Örbom å ena och mig å den andra sidan samt densamma vidare fullfölja utan ock att upptaga och utföra de Rättegångar, som i afseende på mina rättsinnehafvares och hans egen rätt äga med förberörde mål Sammanhang, hvarefter han bör af inflytande medel uppbära hvad oss emellan öfverenskommet är."
+  },
+  {
+   "bbox": [
+    547,
+    1012,
+    1587,
+    1259
+   ],
+   "category": "Text",
+   "text": "II. Af min qvarlåtenskap och de medel, som mig lagligen tillkomma kunna, afsättes tillsammans Tjugo Tusende (20.000) Riksdaler Bancosedlar, hvaraf Tio Tusende (10.000) Rdr till fortsättande af det påbörjade Diplomatarium Suecanum och Tio Tusende (10.000) Rdr till utgifvande af Handlingar i Svenska Historien. Derom föranstaltar till en början den af mig redan utsedda Committée under Kungl. Witterhets Historie och antiquitets Academiens inseende."
+  },
+  {
+   "bbox": [
+    548,
+    1269,
+    1587,
+    1382
+   ],
+   "category": "Text",
+   "text": "III. Allt hvad öfrigt blifver aflemnas till Stockholms Stads DrädselCommission till uppförande af en af mig påtänkt brobyggnad mellan Röda Bodarna och Riddarhustorget.²"
+  },
+  {
+   "bbox": [
+    548,
+    1387,
+    1588,
+    1565
+   ],
+   "category": "Text",
+   "text": "IV. I afseende på verkställigheten af dessa mina förordnanden anhåller jag vördsammast att å Kongl. Witterhets Historie och Antiquitets Academiens vägnar Hans Excellence Herr Riks Marskalken m. m. Grefve Clas Fleming och Herr Förste Expeditions Secreteraren Baron Jacob Adlerbeth såsom varme vänner af Fäderneslandets Historia och att å Drätsel Commis-"
+  },
+  {
+   "bbox": [
+    584,
+    1590,
+    1370,
+    1622
+   ],
+   "category": "Footnote",
+   "text": "¹ Testamentet är i avskrift bifogat bouppteckningen inför Svea Hovrätt."
+  },
+  {
+   "bbox": [
+    549,
+    1619,
+    1589,
+    1801
+   ],
+   "category": "Footnote",
+   "text": "² Detta var ett gammalt önskemål av Seton. Redan den 14 december 1826 hade han skrivit till De la Gardie: »Jag wille förmoda, At Herr Grefve De la Gardie (Eders Excellence) ville gerna gönna, åtminstone icke motsäga en plan till en ny trädbro öfver Nordströmmen för fotpassagerare, i den mäst bequäma linien dragen, ifrån Riddarholmsgränd till hörnet af Rosenbad, snet emot Målareacademien. Jag skulle utbed mig visa upp till Herr Grefven plan och elevation, ritningarna, inbegripandes pligtringen(!) samt borrning i Skjöbotten.»"
+  },
+  {
+   "bbox": [
+    556,
+    1837,
+    628,
+    1875
+   ],
+   "category": "Page-footer",
+   "text": "154"
+  }
+ ]
+}

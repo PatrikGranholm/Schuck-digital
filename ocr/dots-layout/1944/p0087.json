@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 87,
+ "seconds": 18.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [916, 577, 1199, 613], \"category\": \"Section-header\", \"text\": \"NYA UPPSLAG.\"}, {\"bbox\": [405, 703, 546, 763], \"category\": \"Text\", \"text\": \"Inventeringen\\n1826\"}, {\"bbox\": [544, 689, 1577, 1476], \"category\": \"Text\", \"text\": \"Rutström hade avlidit den 13 april 1826, och mellan raderna i de närmast följande protokollen tycker man sig kunna skönja en känsla av lättnad, över att akademien nu blivit av med en sekreterare, som icke allenast ej själv gjorde någon insats, utan som snarare hindrade den mera initiativrike amanuensen att göra några. Fleming, som efter Lars von Engeström blivit den ledande inom akademien och som så väl kände både Rutström och Liljegren, skall en gång efter vad B. E. Hildebrand berättade till Thomsen ha yttrat: »Rutström visste mycket, men gjorde intet. Liljegren vet mindre, men gör allt.» Denna nya verksamhetslust torde ock stå i något samband därmed, att den driftige och praktiskt duglige Tibell den 2 juni 1826 valdes till akademiens president för det kommande halvåret. De viktigaste av de nya uppslag, som nu gjordes — de, som direkt rörde fornforskningen och fornvården — skola sedermera särskilt behandlas. Andra nya livstecken — de många vetenskapliga föredragen vid akademiens sammanträden och anställandet av en ritare och en »andre amanuens» — ha redan förut berörts, och närmast skall här blott redogöras för de uppslag, som avsågo akademiens så att säga interna angelägenheter.\"}, {\"bbox\": [546, 1473, 1575, 1764], \"category\": \"Text\", \"text\": \"Den berättelse, som inventeringsmännen Brinkman, Sundel och Franzén med biträde av Liljegren uppsatt och den 7 november 1826 uppläste, ger ett ganska klart uttryck för det missnöje, man länge hyst mot Rutströms sätt att sköta sin plats som sekreterare. I sitt yttrande framhöllo de¹, som vi redan sett, »de svårigheter, hvilka nödvändigt måste möta så väl inventeringen som begagnandet af dessa Samlingar, så länge man måste nöja sig med mer och mindre fragmentariska för-\"}, {\"bbox\": [582, 1774, 1352, 1807], \"category\": \"Footnote\", \"text\": \"¹ Enligt protokollet. Själva inventeringsyttrandet finnes i arkivet A 25.\"}, {\"bbox\": [550, 1834, 597, 1871], \"category\": \"Page-footer\", \"text\": \"68\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    916,
+    577,
+    1199,
+    613
+   ],
+   "category": "Section-header",
+   "text": "NYA UPPSLAG."
+  },
+  {
+   "bbox": [
+    405,
+    703,
+    546,
+    763
+   ],
+   "category": "Text",
+   "text": "Inventeringen\n1826"
+  },
+  {
+   "bbox": [
+    544,
+    689,
+    1577,
+    1476
+   ],
+   "category": "Text",
+   "text": "Rutström hade avlidit den 13 april 1826, och mellan raderna i de närmast följande protokollen tycker man sig kunna skönja en känsla av lättnad, över att akademien nu blivit av med en sekreterare, som icke allenast ej själv gjorde någon insats, utan som snarare hindrade den mera initiativrike amanuensen att göra några. Fleming, som efter Lars von Engeström blivit den ledande inom akademien och som så väl kände både Rutström och Liljegren, skall en gång efter vad B. E. Hildebrand berättade till Thomsen ha yttrat: »Rutström visste mycket, men gjorde intet. Liljegren vet mindre, men gör allt.» Denna nya verksamhetslust torde ock stå i något samband därmed, att den driftige och praktiskt duglige Tibell den 2 juni 1826 valdes till akademiens president för det kommande halvåret. De viktigaste av de nya uppslag, som nu gjordes — de, som direkt rörde fornforskningen och fornvården — skola sedermera särskilt behandlas. Andra nya livstecken — de många vetenskapliga föredragen vid akademiens sammanträden och anställandet av en ritare och en »andre amanuens» — ha redan förut berörts, och närmast skall här blott redogöras för de uppslag, som avsågo akademiens så att säga interna angelägenheter."
+  },
+  {
+   "bbox": [
+    546,
+    1473,
+    1575,
+    1764
+   ],
+   "category": "Text",
+   "text": "Den berättelse, som inventeringsmännen Brinkman, Sundel och Franzén med biträde av Liljegren uppsatt och den 7 november 1826 uppläste, ger ett ganska klart uttryck för det missnöje, man länge hyst mot Rutströms sätt att sköta sin plats som sekreterare. I sitt yttrande framhöllo de¹, som vi redan sett, »de svårigheter, hvilka nödvändigt måste möta så väl inventeringen som begagnandet af dessa Samlingar, så länge man måste nöja sig med mer och mindre fragmentariska för-"
+  },
+  {
+   "bbox": [
+    582,
+    1774,
+    1352,
+    1807
+   ],
+   "category": "Footnote",
+   "text": "¹ Enligt protokollet. Själva inventeringsyttrandet finnes i arkivet A 25."
+  },
+  {
+   "bbox": [
+    550,
+    1834,
+    597,
+    1871
+   ],
+   "category": "Page-footer",
+   "text": "68"
+  }
+ ]
+}

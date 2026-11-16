@@ -1,0 +1,42 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 195,
+ "seconds": 18.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [882, 272, 1355, 316], \"category\": \"Section-header\", \"text\": \"Liljegrens tid 1826—1837\"}, {\"bbox\": [602, 343, 1635, 552], \"category\": \"Text\", \"text\": \"gång. Hade han insett alla svårigheterna, hade han nog icke vågat försöket. Men man bör här erinra sig den gamla satsen: det bästa är det godas fiende, och hans Diplomatarium betecknar dock en milstolpe i den svenska medeltidsforskningens historia, återupptagandet av Hadorphs och det gamla Antikvitetsarkivets verksamhet.\"}, {\"bbox\": [607, 1818, 678, 1864], \"category\": \"Page-footer\", \"text\": \"176\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    882,
+    272,
+    1355,
+    316
+   ],
+   "category": "Section-header",
+   "text": "Liljegrens tid 1826—1837"
+  },
+  {
+   "bbox": [
+    602,
+    343,
+    1635,
+    552
+   ],
+   "category": "Text",
+   "text": "gång. Hade han insett alla svårigheterna, hade han nog icke vågat försöket. Men man bör här erinra sig den gamla satsen: det bästa är det godas fiende, och hans Diplomatarium betecknar dock en milstolpe i den svenska medeltidsforskningens historia, återupptagandet av Hadorphs och det gamla Antikvitetsarkivets verksamhet."
+  },
+  {
+   "bbox": [
+    607,
+    1818,
+    678,
+    1864
+   ],
+   "category": "Page-footer",
+   "text": "176"
+  }
+ ]
+}

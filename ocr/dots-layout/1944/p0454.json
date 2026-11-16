@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 454,
+ "seconds": 27.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [453, 285, 807, 321], \"category\": \"Page-header\", \"text\": \"Akademiens ekonomi\"}, {\"bbox\": [108, 352, 1142, 730], \"category\": \"Text\", \"text\": \"letts av Svenska akademien, som på Beskows förslag då beslöt att på högtidsdagen den 20 december utdela blott halva antalet av de minnespenningar, som detta år präglats över landshövding Örnsköld. Vitterhets Historie och Antiquitets akademien präglade inga minnespenningar och kunde därför ej följa systerakademiens föredöme. Men där utdelades jetoner, och det nyss anförda beslutet den 16 december var väl också avsett att vara en demonstration. Den 12 januari 1835 fattade Svenska akademien samma beslut, och de båda akademierna kommo här således att stå på samma sida.\"}, {\"bbox\": [93, 724, 1139, 1804], \"category\": \"Text\", \"text\": \"Emellertid hade Beskow, som under det sista halvåret 1835 var Vitterhets Historie och Antikvitetsakademiens president, beslutat att taga de bägge akademiernas sak om hand och begagnade därvid skickligt Karl Johans missnöje med riksdagen. Den 22 november hade han vid en privat audiens framlagt de båda akademiernas ekonomiska bekymmer, och redan dagen därpå kunde han meddela Svenska akademien det lyckliga resultatet av sitt samtal med akademiens höge beskyddare. Nästa dag hade den andra akademien sitt sammanträde, då Beskow såsom president berättade, »att han vid en enskild audiens hos H. Mt Konungen haft nåden framställa den betänkliga belägenhet, hvari akademiens financer sig befinna och hemställde, huruvida icke akademien ansåg det vara en skyldighet att ej längre dröja att i en underdånig skrifvelse inför sin höge Beskyddare härvid göra ytterligare anmälan. Akademien godkände ett uppläst förslag till en sådan skrifvelse, uti hvilken i underdånighet framställes, huruledes akademiens ursprungliga statsanslag blifvit förminskadt genom myntets förvandling från silfver till Bankosedlar, huruledes den i sednare åren tilltagande mängd af fynd, som blifvit för de publika samlingarne inlösta och hvartill inga medel vid den ursprungliga anordningen af statsanslaget blifvit anvista, akademien, oaktadt alla för henne möjliga besparingar i utgifterne, icke kunnat undgå skuldsättning, hvilken år 1833 uppgått till 331 Rdr 38 sk 4 rst och 1834 till 326 Rdr 25 sk 8 rst Banco, huru vidare häraf blifver en följd, att akademien icke är i stånd att utan ytterligare skuldsättning utdela de i hennes stadgar föreskrifna prismedaljer, hvilkas värde sammanräknadt uppgår till 79 ducater eller 491 Rdr\"}, {\"bbox\": [1051, 1842, 1124, 1879], \"category\": \"Page-footer\", \"text\": \"425\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    453,
+    285,
+    807,
+    321
+   ],
+   "category": "Page-header",
+   "text": "Akademiens ekonomi"
+  },
+  {
+   "bbox": [
+    108,
+    352,
+    1142,
+    730
+   ],
+   "category": "Text",
+   "text": "letts av Svenska akademien, som på Beskows förslag då beslöt att på högtidsdagen den 20 december utdela blott halva antalet av de minnespenningar, som detta år präglats över landshövding Örnsköld. Vitterhets Historie och Antiquitets akademien präglade inga minnespenningar och kunde därför ej följa systerakademiens föredöme. Men där utdelades jetoner, och det nyss anförda beslutet den 16 december var väl också avsett att vara en demonstration. Den 12 januari 1835 fattade Svenska akademien samma beslut, och de båda akademierna kommo här således att stå på samma sida."
+  },
+  {
+   "bbox": [
+    93,
+    724,
+    1139,
+    1804
+   ],
+   "category": "Text",
+   "text": "Emellertid hade Beskow, som under det sista halvåret 1835 var Vitterhets Historie och Antikvitetsakademiens president, beslutat att taga de bägge akademiernas sak om hand och begagnade därvid skickligt Karl Johans missnöje med riksdagen. Den 22 november hade han vid en privat audiens framlagt de båda akademiernas ekonomiska bekymmer, och redan dagen därpå kunde han meddela Svenska akademien det lyckliga resultatet av sitt samtal med akademiens höge beskyddare. Nästa dag hade den andra akademien sitt sammanträde, då Beskow såsom president berättade, »att han vid en enskild audiens hos H. Mt Konungen haft nåden framställa den betänkliga belägenhet, hvari akademiens financer sig befinna och hemställde, huruvida icke akademien ansåg det vara en skyldighet att ej längre dröja att i en underdånig skrifvelse inför sin höge Beskyddare härvid göra ytterligare anmälan. Akademien godkände ett uppläst förslag till en sådan skrifvelse, uti hvilken i underdånighet framställes, huruledes akademiens ursprungliga statsanslag blifvit förminskadt genom myntets förvandling från silfver till Bankosedlar, huruledes den i sednare åren tilltagande mängd af fynd, som blifvit för de publika samlingarne inlösta och hvartill inga medel vid den ursprungliga anordningen af statsanslaget blifvit anvista, akademien, oaktadt alla för henne möjliga besparingar i utgifterne, icke kunnat undgå skuldsättning, hvilken år 1833 uppgått till 331 Rdr 38 sk 4 rst och 1834 till 326 Rdr 25 sk 8 rst Banco, huru vidare häraf blifver en följd, att akademien icke är i stånd att utan ytterligare skuldsättning utdela de i hennes stadgar föreskrifna prismedaljer, hvilkas värde sammanräknadt uppgår till 79 ducater eller 491 Rdr"
+  },
+  {
+   "bbox": [
+    1051,
+    1842,
+    1124,
+    1879
+   ],
+   "category": "Page-footer",
+   "text": "425"
+  }
+ ]
+}

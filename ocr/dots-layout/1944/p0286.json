@@ -1,0 +1,41 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 286,
+ "seconds": 9.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [63, 341, 1234, 1831], \"category\": \"Picture\"}, {\"bbox\": [91, 1875, 1195, 1921], \"category\": \"Caption\", \"text\": \"»UTSIGT ÅT CHORET UTI S:T NICOLAI KYRKA I WISBY»\"}, {\"bbox\": [483, 1923, 796, 1958], \"category\": \"Text\", \"text\": \"Akvarell av Lars Cedergren\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    63,
+    341,
+    1234,
+    1831
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    91,
+    1875,
+    1195,
+    1921
+   ],
+   "category": "Caption",
+   "text": "»UTSIGT ÅT CHORET UTI S:T NICOLAI KYRKA I WISBY»"
+  },
+  {
+   "bbox": [
+    483,
+    1923,
+    796,
+    1958
+   ],
+   "category": "Text",
+   "text": "Akvarell av Lars Cedergren"
+  }
+ ]
+}

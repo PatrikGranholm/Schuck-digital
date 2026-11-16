@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 485,
+ "seconds": 25.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [920, 595, 1191, 629], \"category\": \"Section-header\", \"text\": \"AVSLUTNING.\"}, {\"bbox\": [412, 722, 518, 780], \"category\": \"Text\", \"text\": \"Liljegrens\\ndöd\"}, {\"bbox\": [535, 713, 1569, 1655], \"category\": \"Text\", \"text\": \"De föregående kapitlen i denna del torde ha visat, att akademien under ingen föregående sekreterares tid varit så verksam som under Liljegrens. Efter sin långa slummer hade akademien åter börjat få liv och utvecklat sig i den riktning, till vilken det gamla Antikvitetsarkivet gav förebilden. Till en väsentlig del var detta sekreterarens förtjänst. Både som vetenskapsman och såsom sekreterare hade han väl sina brister. Men om dem och om honom såsom person gäller i hög grad den gamla romerska satsen: ut desint vires tamen est laudanda voluntas. Och en god vilja kan ingen förneka honom. Som vetenskapsman var han väl Hallenberg underlägsen, men i intresse för akademien nådde ingen av hans företrädare upp honom, ej heller i arbetsintensitet. Det var också detta forcerade arbete, som till sist bröt hans både kroppsliga och andliga hälsa. Sedan 1835 var han icke blott riksantikvarie utan också riksarkivarie och hade satt i gång ett sådant jätteföretag som Svenskt Diplomatarium; kort före sin bortgång hade han till akademiens granskning överlämnat det andra bandets senare avdelning. Det sista protokoll, som han några veckor senare förde, var av den 30 maj 1837, och det nästa, den 2 juni, börjar med denna anteckning: »I anseende till Secreterarens inträffade sjukdomsförfall anmodades undertecknad [Hildebrand], Kongl. Academiens andre amanuens, att föredraga dagens ärenden och att deröver föra anteckningen.» Liljegren hade då redan slutat sitt liv.\"}, {\"bbox\": [535, 1665, 1564, 1791], \"category\": \"Text\", \"text\": \"I sitt av mig så ofta citerade arbete »C. J. Thomsen och hans lärda förbindelser med Sverige» har Bengt Hildebrand efter sin farfaders brev till Thomsen och Rääf givit en känslig och förstående skildring\"}, {\"bbox\": [535, 1820, 609, 1868], \"category\": \"Page-footer\", \"text\": \"456\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    920,
+    595,
+    1191,
+    629
+   ],
+   "category": "Section-header",
+   "text": "AVSLUTNING."
+  },
+  {
+   "bbox": [
+    412,
+    722,
+    518,
+    780
+   ],
+   "category": "Text",
+   "text": "Liljegrens\ndöd"
+  },
+  {
+   "bbox": [
+    535,
+    713,
+    1569,
+    1655
+   ],
+   "category": "Text",
+   "text": "De föregående kapitlen i denna del torde ha visat, att akademien under ingen föregående sekreterares tid varit så verksam som under Liljegrens. Efter sin långa slummer hade akademien åter börjat få liv och utvecklat sig i den riktning, till vilken det gamla Antikvitetsarkivet gav förebilden. Till en väsentlig del var detta sekreterarens förtjänst. Både som vetenskapsman och såsom sekreterare hade han väl sina brister. Men om dem och om honom såsom person gäller i hög grad den gamla romerska satsen: ut desint vires tamen est laudanda voluntas. Och en god vilja kan ingen förneka honom. Som vetenskapsman var han väl Hallenberg underlägsen, men i intresse för akademien nådde ingen av hans företrädare upp honom, ej heller i arbetsintensitet. Det var också detta forcerade arbete, som till sist bröt hans både kroppsliga och andliga hälsa. Sedan 1835 var han icke blott riksantikvarie utan också riksarkivarie och hade satt i gång ett sådant jätteföretag som Svenskt Diplomatarium; kort före sin bortgång hade han till akademiens granskning överlämnat det andra bandets senare avdelning. Det sista protokoll, som han några veckor senare förde, var av den 30 maj 1837, och det nästa, den 2 juni, börjar med denna anteckning: »I anseende till Secreterarens inträffade sjukdomsförfall anmodades undertecknad [Hildebrand], Kongl. Academiens andre amanuens, att föredraga dagens ärenden och att deröver föra anteckningen.» Liljegren hade då redan slutat sitt liv."
+  },
+  {
+   "bbox": [
+    535,
+    1665,
+    1564,
+    1791
+   ],
+   "category": "Text",
+   "text": "I sitt av mig så ofta citerade arbete »C. J. Thomsen och hans lärda förbindelser med Sverige» har Bengt Hildebrand efter sin farfaders brev till Thomsen och Rääf givit en känslig och förstående skildring"
+  },
+  {
+   "bbox": [
+    535,
+    1820,
+    609,
+    1868
+   ],
+   "category": "Page-footer",
+   "text": "456"
+  }
+ ]
+}

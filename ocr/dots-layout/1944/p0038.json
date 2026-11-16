@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 38,
+ "seconds": 27.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [485, 285, 841, 327], \"category\": \"Section-header\", \"text\": \"De nya ledamöterna\"}, {\"bbox\": [138, 355, 1175, 439], \"category\": \"Text\", \"text\": \"tonde bandet av Handlingarna, i vilket det också inflöt, först 1839\\nblev färdigt.\"}, {\"bbox\": [135, 443, 1178, 1024], \"category\": \"Text\", \"text\": \"Några veckor innan detta minnestal hölls, hade Fleming fått en efterträdare i Hans Järta, som den 2 maj 1832 enhälligt valdes till hedersledamot. Men liksom Järta dröjt oskäligt länge med att taga sitt inträde i Svenska Akademien, dröjde han även med att taga inträde i Vitterhets Historie och Antikvitetsakademien — ända till den 11 oktober 1836, då herr Landshövdingen — för att anföra protokollets ord — »uppläste början af en afhandling om Svenska kyrkans yttre skick och förhållande till Staten efter reformationen och intill slutet af 16:de århundradet, hvilken i anseende till dess vidd kommer att vid en följande sammankomst fortsättas. Sedan Talet blifvit af Secreteraren besvaradt, anmodades Herr Landshöfdingen intaga plats vid academiens bord.» Vid nästa sammanträde föredrog Järta fortsättningen och slutet av sin lärda avhandling, som sedan trycktes i sextonde bandet av Handlingarna (1841).\"}, {\"bbox\": [135, 1027, 1178, 1771], \"category\": \"Text\", \"text\": \"Den, som närmast efter Fleming lämnade ett rum ledigt i hedersledamöternas klass, var general af Tibell, vilken under den jämförelsevis korta tid han tillhört akademien visat sig såsom en av dess initiativrikaste ledamöter. Vid sammanträdet den 13 mars 1832 meddelades, att han den 8 i samma månad avlidit. Om minnesteckning och val av efterträdare blev då icke tal, och med valet dröjde man ända till den 5 februari 1834. Detta val ansågs tydligen viktigt, ty till sammanträdet hade fjorton ledamöter personligen infunnit sig, varjämte fem insänt röstsedlar. Valet utföll så, att riksmarskalken greve Brahe erhöll 17 av de avgivna 19 rösterna eller — om man så vill — 18, ty en voterande hade — tydligen i ren distraktion — på sin sedel skrivit »Hans Excellenz grefve Rosenblad», som redan var hedersledamot och som personligen deltog i valet, således ett namn, som icke stod på den av konungen godkända vallistan, och här ansåg man sig vara skyldig att för första gången tillämpa § 30 i statuterna: »Skulle det så hända, att det fants någon sedel med andras namn än de, som stå på föresagde lista och om hvilka omröstas, blifver den ogill ansedd, och räknas den rösten till den, som fått de mästa rösterne.» Den 15\"}, {\"bbox\": [1126, 1839, 1168, 1866], \"category\": \"Page-footer\", \"text\": \"21\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    485,
+    285,
+    841,
+    327
+   ],
+   "category": "Section-header",
+   "text": "De nya ledamöterna"
+  },
+  {
+   "bbox": [
+    138,
+    355,
+    1175,
+    439
+   ],
+   "category": "Text",
+   "text": "tonde bandet av Handlingarna, i vilket det också inflöt, först 1839\nblev färdigt."
+  },
+  {
+   "bbox": [
+    135,
+    443,
+    1178,
+    1024
+   ],
+   "category": "Text",
+   "text": "Några veckor innan detta minnestal hölls, hade Fleming fått en efterträdare i Hans Järta, som den 2 maj 1832 enhälligt valdes till hedersledamot. Men liksom Järta dröjt oskäligt länge med att taga sitt inträde i Svenska Akademien, dröjde han även med att taga inträde i Vitterhets Historie och Antikvitetsakademien — ända till den 11 oktober 1836, då herr Landshövdingen — för att anföra protokollets ord — »uppläste början af en afhandling om Svenska kyrkans yttre skick och förhållande till Staten efter reformationen och intill slutet af 16:de århundradet, hvilken i anseende till dess vidd kommer att vid en följande sammankomst fortsättas. Sedan Talet blifvit af Secreteraren besvaradt, anmodades Herr Landshöfdingen intaga plats vid academiens bord.» Vid nästa sammanträde föredrog Järta fortsättningen och slutet av sin lärda avhandling, som sedan trycktes i sextonde bandet av Handlingarna (1841)."
+  },
+  {
+   "bbox": [
+    135,
+    1027,
+    1178,
+    1771
+   ],
+   "category": "Text",
+   "text": "Den, som närmast efter Fleming lämnade ett rum ledigt i hedersledamöternas klass, var general af Tibell, vilken under den jämförelsevis korta tid han tillhört akademien visat sig såsom en av dess initiativrikaste ledamöter. Vid sammanträdet den 13 mars 1832 meddelades, att han den 8 i samma månad avlidit. Om minnesteckning och val av efterträdare blev då icke tal, och med valet dröjde man ända till den 5 februari 1834. Detta val ansågs tydligen viktigt, ty till sammanträdet hade fjorton ledamöter personligen infunnit sig, varjämte fem insänt röstsedlar. Valet utföll så, att riksmarskalken greve Brahe erhöll 17 av de avgivna 19 rösterna eller — om man så vill — 18, ty en voterande hade — tydligen i ren distraktion — på sin sedel skrivit »Hans Excellenz grefve Rosenblad», som redan var hedersledamot och som personligen deltog i valet, således ett namn, som icke stod på den av konungen godkända vallistan, och här ansåg man sig vara skyldig att för första gången tillämpa § 30 i statuterna: »Skulle det så hända, att det fants någon sedel med andras namn än de, som stå på föresagde lista och om hvilka omröstas, blifver den ogill ansedd, och räknas den rösten till den, som fått de mästa rösterne.» Den 15"
+  },
+  {
+   "bbox": [
+    1126,
+    1839,
+    1168,
+    1866
+   ],
+   "category": "Page-footer",
+   "text": "21"
+  }
+ ]
+}

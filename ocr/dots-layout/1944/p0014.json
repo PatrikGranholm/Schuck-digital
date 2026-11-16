@@ -1,0 +1,41 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 14,
+ "seconds": 9.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [327, 535, 1041, 1521], \"category\": \"Picture\"}, {\"bbox\": [415, 1561, 955, 1602], \"category\": \"Caption\", \"text\": \"JOHAN GUSTAF LILJEGREN\"}, {\"bbox\": [429, 1611, 944, 1679], \"category\": \"Text\", \"text\": \"Oljemålning av okänd konstnär\\n(Vitterhets Historie och Antikvitets Akademien)\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    327,
+    535,
+    1041,
+    1521
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    415,
+    1561,
+    955,
+    1602
+   ],
+   "category": "Caption",
+   "text": "JOHAN GUSTAF LILJEGREN"
+  },
+  {
+   "bbox": [
+    429,
+    1611,
+    944,
+    1679
+   ],
+   "category": "Text",
+   "text": "Oljemålning av okänd konstnär\n(Vitterhets Historie och Antikvitets Akademien)"
+  }
+ ]
+}

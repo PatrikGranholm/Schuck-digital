@@ -1,0 +1,192 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 98,
+ "seconds": 37.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [527, 283, 754, 327], \"category\": \"Section-header\", \"text\": \"Nya uppslag\"}, {\"bbox\": [292, 353, 1154, 429], \"category\": \"List-item\", \"text\": \"B. med aftunnad ägg åt ena ändan, tvärhuggna på den andra.\"}, {\"bbox\": [347, 435, 781, 514], \"category\": \"List-item\", \"text\": \"a) blott huggna (ej slipade)\\n[Tre uppräknas och beskrivas]\"}, {\"bbox\": [342, 524, 1155, 644], \"category\": \"List-item\", \"text\": \"b) slipade på de breda sidorna, men blott huggna på de smalare\\n[Två uppräknas och beskrivas]\"}, {\"bbox\": [346, 654, 1155, 775], \"category\": \"List-item\", \"text\": \"c) Slipade överallt, antingen fyrkantiga eller med afrundade kanter.\\n[Fjorton angivas och beskrivas]\"}, {\"bbox\": [231, 790, 403, 834], \"category\": \"Section-header\", \"text\": \"II. Mejslar\"}, {\"bbox\": [345, 844, 768, 922], \"category\": \"List-item\", \"text\": \"a) Smalmejslar.\\n[Två uppräknas och beskrivas]\"}, {\"bbox\": [345, 932, 1153, 1099], \"category\": \"List-item\", \"text\": \"b) Hol mejslar.\\nFyrkantiga eller med afrundade kanter på ena bredare sidan urskölpt i äggen.\\n[Sju uppräknas och beskrivas]\"}, {\"bbox\": [215, 1115, 367, 1150], \"category\": \"Section-header\", \"text\": \"III. Yxor\"}, {\"bbox\": [389, 1157, 745, 1193], \"category\": \"Text\", \"text\": \"[27 uppräknas och beskrivas]\"}, {\"bbox\": [220, 1216, 612, 1251], \"category\": \"Section-header\", \"text\": \"IV. Yxhammare — — —\"}, {\"bbox\": [345, 1268, 1149, 1347], \"category\": \"List-item\", \"text\": \"a) med särskild tut som en fortsättning af skafthålet.\\n[Sju uppräknas och beskrivas]\"}, {\"bbox\": [343, 1356, 859, 1435], \"category\": \"List-item\", \"text\": \"b) utan någon tut vid skafthålet.\\n[Sju uppräknas och beskrivas]\"}, {\"bbox\": [346, 1445, 981, 1523], \"category\": \"List-item\", \"text\": \"c) Fragmenter eller ofullbordade stycken.\\n[Åtta uppräknas och beskrivas]\"}, {\"bbox\": [233, 1539, 544, 1575], \"category\": \"Section-header\", \"text\": \"V. Knifvar — — —\"}, {\"bbox\": [343, 1592, 1041, 1671], \"category\": \"List-item\", \"text\": \"a) med tunnt, småningom afsmalnande skaft.\\n[Två beskrivas]\"}, {\"bbox\": [340, 1675, 1150, 1795], \"category\": \"List-item\", \"text\": \"b) med tydligt platt skaft, blott 2<sup>ne</sup> kanter, fortlöpande i samma linea med äggen.\\n[Sju beskrivas]\"}, {\"bbox\": [1097, 1833, 1146, 1871], \"category\": \"Page-footer\", \"text\": \"79\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    527,
+    283,
+    754,
+    327
+   ],
+   "category": "Section-header",
+   "text": "Nya uppslag"
+  },
+  {
+   "bbox": [
+    292,
+    353,
+    1154,
+    429
+   ],
+   "category": "List-item",
+   "text": "B. med aftunnad ägg åt ena ändan, tvärhuggna på den andra."
+  },
+  {
+   "bbox": [
+    347,
+    435,
+    781,
+    514
+   ],
+   "category": "List-item",
+   "text": "a) blott huggna (ej slipade)\n[Tre uppräknas och beskrivas]"
+  },
+  {
+   "bbox": [
+    342,
+    524,
+    1155,
+    644
+   ],
+   "category": "List-item",
+   "text": "b) slipade på de breda sidorna, men blott huggna på de smalare\n[Två uppräknas och beskrivas]"
+  },
+  {
+   "bbox": [
+    346,
+    654,
+    1155,
+    775
+   ],
+   "category": "List-item",
+   "text": "c) Slipade överallt, antingen fyrkantiga eller med afrundade kanter.\n[Fjorton angivas och beskrivas]"
+  },
+  {
+   "bbox": [
+    231,
+    790,
+    403,
+    834
+   ],
+   "category": "Section-header",
+   "text": "II. Mejslar"
+  },
+  {
+   "bbox": [
+    345,
+    844,
+    768,
+    922
+   ],
+   "category": "List-item",
+   "text": "a) Smalmejslar.\n[Två uppräknas och beskrivas]"
+  },
+  {
+   "bbox": [
+    345,
+    932,
+    1153,
+    1099
+   ],
+   "category": "List-item",
+   "text": "b) Hol mejslar.\nFyrkantiga eller med afrundade kanter på ena bredare sidan urskölpt i äggen.\n[Sju uppräknas och beskrivas]"
+  },
+  {
+   "bbox": [
+    215,
+    1115,
+    367,
+    1150
+   ],
+   "category": "Section-header",
+   "text": "III. Yxor"
+  },
+  {
+   "bbox": [
+    389,
+    1157,
+    745,
+    1193
+   ],
+   "category": "Text",
+   "text": "[27 uppräknas och beskrivas]"
+  },
+  {
+   "bbox": [
+    220,
+    1216,
+    612,
+    1251
+   ],
+   "category": "Section-header",
+   "text": "IV. Yxhammare — — —"
+  },
+  {
+   "bbox": [
+    345,
+    1268,
+    1149,
+    1347
+   ],
+   "category": "List-item",
+   "text": "a) med särskild tut som en fortsättning af skafthålet.\n[Sju uppräknas och beskrivas]"
+  },
+  {
+   "bbox": [
+    343,
+    1356,
+    859,
+    1435
+   ],
+   "category": "List-item",
+   "text": "b) utan någon tut vid skafthålet.\n[Sju uppräknas och beskrivas]"
+  },
+  {
+   "bbox": [
+    346,
+    1445,
+    981,
+    1523
+   ],
+   "category": "List-item",
+   "text": "c) Fragmenter eller ofullbordade stycken.\n[Åtta uppräknas och beskrivas]"
+  },
+  {
+   "bbox": [
+    233,
+    1539,
+    544,
+    1575
+   ],
+   "category": "Section-header",
+   "text": "V. Knifvar — — —"
+  },
+  {
+   "bbox": [
+    343,
+    1592,
+    1041,
+    1671
+   ],
+   "category": "List-item",
+   "text": "a) med tunnt, småningom afsmalnande skaft.\n[Två beskrivas]"
+  },
+  {
+   "bbox": [
+    340,
+    1675,
+    1150,
+    1795
+   ],
+   "category": "List-item",
+   "text": "b) med tydligt platt skaft, blott 2<sup>ne</sup> kanter, fortlöpande i samma linea med äggen.\n[Sju beskrivas]"
+  },
+  {
+   "bbox": [
+    1097,
+    1833,
+    1146,
+    1871
+   ],
+   "category": "Page-footer",
+   "text": "79"
+  }
+ ]
+}

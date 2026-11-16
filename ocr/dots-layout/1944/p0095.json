@@ -1,0 +1,142 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 95,
+ "seconds": 29.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [816, 282, 1289, 326], \"category\": \"Section-header\", \"text\": \"Liljegrens tid 1826—1837\"}, {\"bbox\": [537, 350, 1573, 562], \"category\": \"Text\", \"text\": \"Christiania universitet, en i Lunds Domkyrka träffad samling af Danska mynt, enligt Kongl. Maj:ts Nådiga befallning tillhörig Lunds academie. Af K. Mynt Cabinettets dupletter hafwa bliwit utvalda mynt af motsvarande numismatiskt värde för att lemnas i utbyte mot dem K. Mynt Cabinettet behöft.\"}, {\"bbox\": [537, 557, 1573, 769], \"category\": \"Text\", \"text\": \"För att lätta eftersökningen af hvarje serskild sorts mynt hafwa de i paketer och askar inslagna myntfynd, som från äldre tider ända till 1832 års slut till K. Mynt Cabinettet inkommit, blifvit genomsedda. Antalet af dessa paketer var 159 och hafva i dem förekommande mynten blifvit sorterade i följande 6 afdelningar:\"}, {\"bbox\": [578, 779, 754, 821], \"category\": \"Text\", \"text\": \"1) Svenska.\"}, {\"bbox\": [578, 821, 848, 862], \"category\": \"Text\", \"text\": \"2) Äldre Danska.\"}, {\"bbox\": [578, 860, 1283, 905], \"category\": \"Text\", \"text\": \"3) Medeltidens mynt från det öfriga Europa.\"}, {\"bbox\": [578, 905, 749, 945], \"category\": \"Text\", \"text\": \"4) Kufiska.\"}, {\"bbox\": [578, 944, 968, 987], \"category\": \"Text\", \"text\": \"5) Nya Österländska och\"}, {\"bbox\": [543, 981, 1570, 1062], \"category\": \"Text\", \"text\": \"6) andra främmande Nationers mynt, yngre än 1400-talet, hvilka alla icke äro undersökta.\"}, {\"bbox\": [541, 1094, 1575, 1468], \"category\": \"Text\", \"text\": \"Af Svenska mynten hafva endast de under Calmare Unionen slagna blifvit uttagna och granskade samt ordnade efter arter och varieteter för att vara mera tillgängliga vid inlösen och vid utbyten af dupletter. Vidden af detta arbete kan bäst skönjas af ett exempel; af t. ex. 135 deribland förekommande Sten Sture den äldres Westerås örtugar träffades 55 betydligare varieteter, hvilka af Brenner framställas under blott en enda figur och af Berch under ett enda nummer. Dessa mynt äro efter sina arter och varieteter inslagna i paketer och försedda med påskrifter.\"}, {\"bbox\": [543, 1464, 1575, 1716], \"category\": \"Text\", \"text\": \"Öfver arbetets jemna fortgång hafwa enligt Nådiga föreskrifter berättelser blifvit inför Kongl. Witterhets Historie och Antiquitets Academien till hennes fullkomliga tillfredsställelse månatligen afgifne. De warda till närmare upplysning härjemte underdånigst bifogade, men torde såsom innehållande för samlingen nödiga upplysningar vid densamma få förvaras.»\"}, {\"bbox\": [545, 1710, 1573, 1798], \"category\": \"Text\", \"text\": \"För myntsamlingens ordnande hade således under Liljegrens tid ett högst betydande arbete blivit gjort.\"}, {\"bbox\": [548, 1827, 595, 1873], \"category\": \"Page-footer\", \"text\": \"76\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    816,
+    282,
+    1289,
+    326
+   ],
+   "category": "Section-header",
+   "text": "Liljegrens tid 1826—1837"
+  },
+  {
+   "bbox": [
+    537,
+    350,
+    1573,
+    562
+   ],
+   "category": "Text",
+   "text": "Christiania universitet, en i Lunds Domkyrka träffad samling af Danska mynt, enligt Kongl. Maj:ts Nådiga befallning tillhörig Lunds academie. Af K. Mynt Cabinettets dupletter hafwa bliwit utvalda mynt af motsvarande numismatiskt värde för att lemnas i utbyte mot dem K. Mynt Cabinettet behöft."
+  },
+  {
+   "bbox": [
+    537,
+    557,
+    1573,
+    769
+   ],
+   "category": "Text",
+   "text": "För att lätta eftersökningen af hvarje serskild sorts mynt hafwa de i paketer och askar inslagna myntfynd, som från äldre tider ända till 1832 års slut till K. Mynt Cabinettet inkommit, blifvit genomsedda. Antalet af dessa paketer var 159 och hafva i dem förekommande mynten blifvit sorterade i följande 6 afdelningar:"
+  },
+  {
+   "bbox": [
+    578,
+    779,
+    754,
+    821
+   ],
+   "category": "Text",
+   "text": "1) Svenska."
+  },
+  {
+   "bbox": [
+    578,
+    821,
+    848,
+    862
+   ],
+   "category": "Text",
+   "text": "2) Äldre Danska."
+  },
+  {
+   "bbox": [
+    578,
+    860,
+    1283,
+    905
+   ],
+   "category": "Text",
+   "text": "3) Medeltidens mynt från det öfriga Europa."
+  },
+  {
+   "bbox": [
+    578,
+    905,
+    749,
+    945
+   ],
+   "category": "Text",
+   "text": "4) Kufiska."
+  },
+  {
+   "bbox": [
+    578,
+    944,
+    968,
+    987
+   ],
+   "category": "Text",
+   "text": "5) Nya Österländska och"
+  },
+  {
+   "bbox": [
+    543,
+    981,
+    1570,
+    1062
+   ],
+   "category": "Text",
+   "text": "6) andra främmande Nationers mynt, yngre än 1400-talet, hvilka alla icke äro undersökta."
+  },
+  {
+   "bbox": [
+    541,
+    1094,
+    1575,
+    1468
+   ],
+   "category": "Text",
+   "text": "Af Svenska mynten hafva endast de under Calmare Unionen slagna blifvit uttagna och granskade samt ordnade efter arter och varieteter för att vara mera tillgängliga vid inlösen och vid utbyten af dupletter. Vidden af detta arbete kan bäst skönjas af ett exempel; af t. ex. 135 deribland förekommande Sten Sture den äldres Westerås örtugar träffades 55 betydligare varieteter, hvilka af Brenner framställas under blott en enda figur och af Berch under ett enda nummer. Dessa mynt äro efter sina arter och varieteter inslagna i paketer och försedda med påskrifter."
+  },
+  {
+   "bbox": [
+    543,
+    1464,
+    1575,
+    1716
+   ],
+   "category": "Text",
+   "text": "Öfver arbetets jemna fortgång hafwa enligt Nådiga föreskrifter berättelser blifvit inför Kongl. Witterhets Historie och Antiquitets Academien till hennes fullkomliga tillfredsställelse månatligen afgifne. De warda till närmare upplysning härjemte underdånigst bifogade, men torde såsom innehållande för samlingen nödiga upplysningar vid densamma få förvaras.»"
+  },
+  {
+   "bbox": [
+    545,
+    1710,
+    1573,
+    1798
+   ],
+   "category": "Text",
+   "text": "För myntsamlingens ordnande hade således under Liljegrens tid ett högst betydande arbete blivit gjort."
+  },
+  {
+   "bbox": [
+    548,
+    1827,
+    595,
+    1873
+   ],
+   "category": "Page-footer",
+   "text": "76"
+  }
+ ]
+}

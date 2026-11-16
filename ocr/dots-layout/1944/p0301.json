@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 301,
+ "seconds": 20.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [543, 492, 1506, 633], \"category\": \"Text\", \"text\": \"nad hwartannat år i Rikets Kyrkor uplåsas. Det alle, som weberbör, hafve sig börsammeligen att efterrätta. Till yttermera wiso hafve Vi detta med Egen Hand underskrifwit och med Wårt Kongl. Sigill bekräfta låtit. Stockholms Slott den 17 April 1828.\"}, {\"bbox\": [694, 660, 1357, 748], \"category\": \"Text\", \"text\": \"CARL JOHAN.\"}, {\"bbox\": [916, 773, 1129, 848], \"category\": \"Text\", \"text\": \"(L. S.)\"}, {\"bbox\": [998, 1526, 1454, 1574], \"category\": \"Text\", \"text\": \"M. G. Danckwardt.\"}, {\"bbox\": [619, 1637, 754, 1674], \"category\": \"Text\", \"text\": \"(N:0 13.)\"}, {\"bbox\": [621, 1891, 1434, 1970], \"category\": \"Text\", \"text\": \"Kongl. Maj:ts Nådiga Förordning angående forntida Minnesmärkens fredande och bewarande . . . den 17 april 1828\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    543,
+    492,
+    1506,
+    633
+   ],
+   "category": "Text",
+   "text": "nad hwartannat år i Rikets Kyrkor uplåsas. Det alle, som weberbör, hafve sig börsammeligen att efterrätta. Till yttermera wiso hafve Vi detta med Egen Hand underskrifwit och med Wårt Kongl. Sigill bekräfta låtit. Stockholms Slott den 17 April 1828."
+  },
+  {
+   "bbox": [
+    694,
+    660,
+    1357,
+    748
+   ],
+   "category": "Text",
+   "text": "CARL JOHAN."
+  },
+  {
+   "bbox": [
+    916,
+    773,
+    1129,
+    848
+   ],
+   "category": "Text",
+   "text": "(L. S.)"
+  },
+  {
+   "bbox": [
+    998,
+    1526,
+    1454,
+    1574
+   ],
+   "category": "Text",
+   "text": "M. G. Danckwardt."
+  },
+  {
+   "bbox": [
+    619,
+    1637,
+    754,
+    1674
+   ],
+   "category": "Text",
+   "text": "(N:0 13.)"
+  },
+  {
+   "bbox": [
+    621,
+    1891,
+    1434,
+    1970
+   ],
+   "category": "Text",
+   "text": "Kongl. Maj:ts Nådiga Förordning angående forntida Minnesmärkens fredande och bewarande . . . den 17 april 1828"
+  }
+ ]
+}

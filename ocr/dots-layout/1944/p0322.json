@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 322,
+ "seconds": 29.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [506, 285, 712, 319], \"category\": \"Section-header\", \"text\": \"Fornvården\"}, {\"bbox\": [96, 355, 1127, 473], \"category\": \"Text\", \"text\": \"farenhet av Klingvalls lämplighet till ombud ej varit sådan, att något dylikt uppdrag kunde lämnas till honom. Något ombud för Gotland blev heller icke utnämnt.\"}, {\"bbox\": [96, 479, 1127, 1016], \"category\": \"Text\", \"text\": \"Utom med dessa ordinarie ombud stod Liljegren i en antikvarisk brevväxling med en massa andra personer i landsorten. Särskilt belysande för denna korrespondens äro breven från Johan Fredrik Bahr — då en ung student på 23 år, men sedan en ansedd kemist. 1828 hade han någon anställning hos greve Gustaf Trolle-Bonde på Säfstaholm, och på uppmaning av Liljegren genomgick han då för Diplomatariet det rika arkivet på slottet. På Liljegrens begäran gav han även en beskrivning på en antikvarisk grävning, som han kommit att åse. Beskrivningen är ganska utförlig och visar också, på vilket obesvärat sätt vem som helst, innan ännu plakatet hunnit träda i kraft, for fram med våra fornminnen. Av brevväxlingen ser man ock, hur Liljegren hade uppmärksamheten spänd på allt, som rörde fornvård och fornfynd.\"}, {\"bbox\": [1136, 483, 1259, 517], \"category\": \"Text\", \"text\": \"J. F. Bahr\"}, {\"bbox\": [96, 1016, 1127, 1346], \"category\": \"Text\", \"text\": \"Liljegren tyckes också själv, då han under akademiens »feriemånader» hade någon ledighet från tjänsten i Stockholm, ha använt denna »ledighet» till inspektionsresor i landsorten. Dylika hade icke företagits sedan Hadorphs och Peringskiölds tid, men även här tog Liljegren upp traditionen från storhetstidens Antikvitetsarkiv. Ehuru yttranden i flere brev tyda på dylika sommarresor, har jag likväl blott funnit en någorlunda utförlig redogörelse för en av dem, nämligen i ett brev till Adlerbeth, skrivet i Linköping den 13 juli 1831:\"}, {\"bbox\": [1142, 1022, 1257, 1107], \"category\": \"Text\", \"text\": \"Liljegrens\\ninspektions-\\nresor\"}, {\"bbox\": [96, 1346, 1127, 1799], \"category\": \"Text\", \"text\": \"»Jag känner mig skyldig att uppbära förebråelser för min uraktlåtenhet, då jag icke förr skrifvit; men hela tiden har [jag] varit upptagen af nästan blott resor, och då jag derunder, genom åtskilliga sidofarter förskaffat något för vettenskapen, så vågar jag hoppas öfverseende. — Resan gick strax från Linköping åt Motala och Alfvastra, hvarest ruinerna befunnos värdigt uppstädade, men Herr Capitaine Ahnström var icke hemma. På Wisingsö gjordes en fart att bese antiquiteterna i sällskap med Hr Prosten Ekman, en vördnadsvärd Kyrkolärare, hvilken beder om sin vördnadsanmälan. I Jönköping träffades Allvin, med hvilken jag mycket samspråkade rörande hvarjehanda om Finhedens beskrifning och fick se hans samlingar. Hos Assessoren\"}, {\"bbox\": [1052, 1836, 1122, 1874], \"category\": \"Page-footer\", \"text\": \"293\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    506,
+    285,
+    712,
+    319
+   ],
+   "category": "Section-header",
+   "text": "Fornvården"
+  },
+  {
+   "bbox": [
+    96,
+    355,
+    1127,
+    473
+   ],
+   "category": "Text",
+   "text": "farenhet av Klingvalls lämplighet till ombud ej varit sådan, att något dylikt uppdrag kunde lämnas till honom. Något ombud för Gotland blev heller icke utnämnt."
+  },
+  {
+   "bbox": [
+    96,
+    479,
+    1127,
+    1016
+   ],
+   "category": "Text",
+   "text": "Utom med dessa ordinarie ombud stod Liljegren i en antikvarisk brevväxling med en massa andra personer i landsorten. Särskilt belysande för denna korrespondens äro breven från Johan Fredrik Bahr — då en ung student på 23 år, men sedan en ansedd kemist. 1828 hade han någon anställning hos greve Gustaf Trolle-Bonde på Säfstaholm, och på uppmaning av Liljegren genomgick han då för Diplomatariet det rika arkivet på slottet. På Liljegrens begäran gav han även en beskrivning på en antikvarisk grävning, som han kommit att åse. Beskrivningen är ganska utförlig och visar också, på vilket obesvärat sätt vem som helst, innan ännu plakatet hunnit träda i kraft, for fram med våra fornminnen. Av brevväxlingen ser man ock, hur Liljegren hade uppmärksamheten spänd på allt, som rörde fornvård och fornfynd."
+  },
+  {
+   "bbox": [
+    1136,
+    483,
+    1259,
+    517
+   ],
+   "category": "Text",
+   "text": "J. F. Bahr"
+  },
+  {
+   "bbox": [
+    96,
+    1016,
+    1127,
+    1346
+   ],
+   "category": "Text",
+   "text": "Liljegren tyckes också själv, då han under akademiens »feriemånader» hade någon ledighet från tjänsten i Stockholm, ha använt denna »ledighet» till inspektionsresor i landsorten. Dylika hade icke företagits sedan Hadorphs och Peringskiölds tid, men även här tog Liljegren upp traditionen från storhetstidens Antikvitetsarkiv. Ehuru yttranden i flere brev tyda på dylika sommarresor, har jag likväl blott funnit en någorlunda utförlig redogörelse för en av dem, nämligen i ett brev till Adlerbeth, skrivet i Linköping den 13 juli 1831:"
+  },
+  {
+   "bbox": [
+    1142,
+    1022,
+    1257,
+    1107
+   ],
+   "category": "Text",
+   "text": "Liljegrens\ninspektions-\nresor"
+  },
+  {
+   "bbox": [
+    96,
+    1346,
+    1127,
+    1799
+   ],
+   "category": "Text",
+   "text": "»Jag känner mig skyldig att uppbära förebråelser för min uraktlåtenhet, då jag icke förr skrifvit; men hela tiden har [jag] varit upptagen af nästan blott resor, och då jag derunder, genom åtskilliga sidofarter förskaffat något för vettenskapen, så vågar jag hoppas öfverseende. — Resan gick strax från Linköping åt Motala och Alfvastra, hvarest ruinerna befunnos värdigt uppstädade, men Herr Capitaine Ahnström var icke hemma. På Wisingsö gjordes en fart att bese antiquiteterna i sällskap med Hr Prosten Ekman, en vördnadsvärd Kyrkolärare, hvilken beder om sin vördnadsanmälan. I Jönköping träffades Allvin, med hvilken jag mycket samspråkade rörande hvarjehanda om Finhedens beskrifning och fick se hans samlingar. Hos Assessoren"
+  },
+  {
+   "bbox": [
+    1052,
+    1836,
+    1122,
+    1874
+   ],
+   "category": "Page-footer",
+   "text": "293"
+  }
+ ]
+}

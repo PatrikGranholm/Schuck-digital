@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 212,
+ "seconds": 36.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [445, 286, 736, 328], \"category\": \"Section-header\", \"text\": \"Korrespondenter\"}, {\"bbox\": [74, 356, 1107, 522], \"category\": \"Text\", \"text\": \"stiftelse till Rutströms död dock endast fem: Pastoret, Gourdin, Gråberg, Lautard och Chaumettes des Fossés. Men deras korrespondentskap betraktades också blott såsom en ordensdekoration, ehuru såsom en orden av lägre rang.\"}, {\"bbox\": [74, 522, 1111, 1429], \"category\": \"Text\", \"text\": \"Däremot hade man redan under de första dagarna av Liljegrens sekreterartid, t. o. m. något förut, fått till gagnet, om än icke till namnet, flera verkliga korrespondenter — alla danskar, vilka, mera klarsynta än svenskarna, insett fördelarna av ett nordiskt samarbete inom fornforskningen. Den 2 juni 1826 avlämnades av Hallenberg en stor samling danska böcker, vilka han fått från sekreteraren i det danska oldskriftselskabet Rafn jämte ett brev av innehåll, att dessa böcker skickats till akademien för att sätta denna i tillfälle att lära känna det danska sällskapets organisation och arbetsmetod. Den 13 juni kom en ny gåva från Danmark, från akademiens ledamot Nyerup, nämligen ett exemplar av hans skrift om en sällsynt svensk paleotyp. Den 18 oktober följde ytterligare en bokgåva från Rafn och den 21 november ett brev från föreståndaren för det danska myntkabinettet professor Ramus till Liljegren, vilket handlade »om ett ömsesidigt meddelande af hvad underrättelser den ena ifrån den andras Samlingar kunde behöfva»; bilagd var en numismatisk avhandling. Och den 28 november »upplästes ett till tillförordnade Secreteraren [Liljegren] ifrån Secreteraren vid K. Danska Antiquitets Commissionen Herr Canzli Rådet Thomsen ankommit bref, innehållande underrättelser om flerfaldiga i Danmark nyligen gjorda fynd». Den 5 december lämnade Liljegren ett referat av några av Rafn utgivna skrifter.\"}, {\"bbox\": [76, 1429, 1113, 1803], \"category\": \"Text\", \"text\": \"Vid nästa sammanträde, den 12 december, då akademien skulle företaga val av två utländska ledamöter, hade på »listan» upptagits två danskar, Thomsen och Finnur Magnusson, av vilka vid voteringen den förste erhöll två röster, den senare en. De hade således icke erhållit den behövliga majoriteten. Men därefter fortsätter protokollet: »Med fästad uppmärksamhet på den långvariga och jemna brefvexling, Herr Canzli Rådet Thomsen i Köpenhamn fört rörande Nordiska antiquiteterna såväl med academiens Secreterare som andra Svenska Fornforskare såväl som på de upplysningar af [=genom]\"}, {\"bbox\": [79, 1832, 223, 1856], \"category\": \"Page-footer\", \"text\": \"13-43843 VIII\"}, {\"bbox\": [1040, 1839, 1108, 1877], \"category\": \"Page-footer\", \"text\": \"193\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    445,
+    286,
+    736,
+    328
+   ],
+   "category": "Section-header",
+   "text": "Korrespondenter"
+  },
+  {
+   "bbox": [
+    74,
+    356,
+    1107,
+    522
+   ],
+   "category": "Text",
+   "text": "stiftelse till Rutströms död dock endast fem: Pastoret, Gourdin, Gråberg, Lautard och Chaumettes des Fossés. Men deras korrespondentskap betraktades också blott såsom en ordensdekoration, ehuru såsom en orden av lägre rang."
+  },
+  {
+   "bbox": [
+    74,
+    522,
+    1111,
+    1429
+   ],
+   "category": "Text",
+   "text": "Däremot hade man redan under de första dagarna av Liljegrens sekreterartid, t. o. m. något förut, fått till gagnet, om än icke till namnet, flera verkliga korrespondenter — alla danskar, vilka, mera klarsynta än svenskarna, insett fördelarna av ett nordiskt samarbete inom fornforskningen. Den 2 juni 1826 avlämnades av Hallenberg en stor samling danska böcker, vilka han fått från sekreteraren i det danska oldskriftselskabet Rafn jämte ett brev av innehåll, att dessa böcker skickats till akademien för att sätta denna i tillfälle att lära känna det danska sällskapets organisation och arbetsmetod. Den 13 juni kom en ny gåva från Danmark, från akademiens ledamot Nyerup, nämligen ett exemplar av hans skrift om en sällsynt svensk paleotyp. Den 18 oktober följde ytterligare en bokgåva från Rafn och den 21 november ett brev från föreståndaren för det danska myntkabinettet professor Ramus till Liljegren, vilket handlade »om ett ömsesidigt meddelande af hvad underrättelser den ena ifrån den andras Samlingar kunde behöfva»; bilagd var en numismatisk avhandling. Och den 28 november »upplästes ett till tillförordnade Secreteraren [Liljegren] ifrån Secreteraren vid K. Danska Antiquitets Commissionen Herr Canzli Rådet Thomsen ankommit bref, innehållande underrättelser om flerfaldiga i Danmark nyligen gjorda fynd». Den 5 december lämnade Liljegren ett referat av några av Rafn utgivna skrifter."
+  },
+  {
+   "bbox": [
+    76,
+    1429,
+    1113,
+    1803
+   ],
+   "category": "Text",
+   "text": "Vid nästa sammanträde, den 12 december, då akademien skulle företaga val av två utländska ledamöter, hade på »listan» upptagits två danskar, Thomsen och Finnur Magnusson, av vilka vid voteringen den förste erhöll två röster, den senare en. De hade således icke erhållit den behövliga majoriteten. Men därefter fortsätter protokollet: »Med fästad uppmärksamhet på den långvariga och jemna brefvexling, Herr Canzli Rådet Thomsen i Köpenhamn fört rörande Nordiska antiquiteterna såväl med academiens Secreterare som andra Svenska Fornforskare såväl som på de upplysningar af [=genom]"
+  },
+  {
+   "bbox": [
+    79,
+    1832,
+    223,
+    1856
+   ],
+   "category": "Page-footer",
+   "text": "13-43843 VIII"
+  },
+  {
+   "bbox": [
+    1040,
+    1839,
+    1108,
+    1877
+   ],
+   "category": "Page-footer",
+   "text": "193"
+  }
+ ]
+}

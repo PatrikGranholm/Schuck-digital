@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 108,
+ "seconds": 27.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [518, 286, 744, 330], \"category\": \"Section-header\", \"text\": \"Nya uppslag\"}, {\"bbox\": [112, 356, 1145, 482], \"category\": \"Text\", \"text\": \"genom inköp. Men vid Rutströms död var den fortfarande ganska obetydlig. Med katalogiseringen av denna tyckes Liljegren genast ha gripit sig an.\"}, {\"bbox\": [112, 481, 1146, 979], \"category\": \"Text\", \"text\": \"I akademiens arkiv finnes en fascikel med titel: »Kataloger öfver Biblioteket och Archivet», och i denna ligger en katalog, på vilken med B. E. Hildebrands stil står skrivet: »Conceptkatalog, skrifven af Liljegren, förmodligen uppsatt efter böckernas uppställning på Bokhyllorne och de senaste acquisitionerna för inventeringen 1826.» Den förefaller blott vara början till en katalog, ehuru den upptager omkring 150 volymer. I samma fascikel ligger även en färdigskriven katalog, efter vad det förefaller likaledes härrörande från Liljegrens tid. Den upptager 37 folianter, 105 kvarter och 268 oktaver. I samma fascikel har ytterligare bevarats en prydligt renskriven förteckning på alla nyförvärven under varje år, börjande med 1827 och sedermera fortsatt även efter Liljegrens död, ända till och med 1859.\"}, {\"bbox\": [110, 976, 1145, 1793], \"category\": \"Text\", \"text\": \"Den 28 november 1826 fick den tillförordnade sekreteraren ett med bibliotekets vård sammanhängande uppdrag. Denna dag mottog nämligen akademien från Vetenskapsakademien en avhandling av en professor Rudolfi, och därvid hemställde Ehrenheim, »om icke Academien skulle vilja draga försorg att, i likhet med hvad i K. VetenskapsAcademien sker, en reception af hvarje till Academiens Samlingar lemnad bok gjordes för academien, hvilket academien enhälligt biföll». Vid sammanträdet den 13 februari föredrog Liljegren ett dylikt referat av Rudolfis avhandling. Men förmodligen ansågs överflödigt att i protokollen intaga dylika referat, som därför väl i korthet gjordes extra protocollum och endast undantagsvis där nämnas, såsom den 12 maj 1835: »Secreteraren meddelade förteckning på 87 större och mindre verk och afhandlingar öfver särskildta antiquariska ämnen, af hvilka en del för Kongl. Academien uppvisades, dem han på de under början af årets inträffade Bokauctioner inköpt och nu till Academien öfverlemnade för att ingå i dess af Statens medel till Academien förut inlösta samling. Ordföranden tolkade Academiens förbindliga erkänsla för detta nya prof af det varma nit, hvarmed Secreteraren omfattar Academiens bästa.»\"}, {\"bbox\": [1091, 1832, 1140, 1878], \"category\": \"Page-footer\", \"text\": \"89\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    518,
+    286,
+    744,
+    330
+   ],
+   "category": "Section-header",
+   "text": "Nya uppslag"
+  },
+  {
+   "bbox": [
+    112,
+    356,
+    1145,
+    482
+   ],
+   "category": "Text",
+   "text": "genom inköp. Men vid Rutströms död var den fortfarande ganska obetydlig. Med katalogiseringen av denna tyckes Liljegren genast ha gripit sig an."
+  },
+  {
+   "bbox": [
+    112,
+    481,
+    1146,
+    979
+   ],
+   "category": "Text",
+   "text": "I akademiens arkiv finnes en fascikel med titel: »Kataloger öfver Biblioteket och Archivet», och i denna ligger en katalog, på vilken med B. E. Hildebrands stil står skrivet: »Conceptkatalog, skrifven af Liljegren, förmodligen uppsatt efter böckernas uppställning på Bokhyllorne och de senaste acquisitionerna för inventeringen 1826.» Den förefaller blott vara början till en katalog, ehuru den upptager omkring 150 volymer. I samma fascikel ligger även en färdigskriven katalog, efter vad det förefaller likaledes härrörande från Liljegrens tid. Den upptager 37 folianter, 105 kvarter och 268 oktaver. I samma fascikel har ytterligare bevarats en prydligt renskriven förteckning på alla nyförvärven under varje år, börjande med 1827 och sedermera fortsatt även efter Liljegrens död, ända till och med 1859."
+  },
+  {
+   "bbox": [
+    110,
+    976,
+    1145,
+    1793
+   ],
+   "category": "Text",
+   "text": "Den 28 november 1826 fick den tillförordnade sekreteraren ett med bibliotekets vård sammanhängande uppdrag. Denna dag mottog nämligen akademien från Vetenskapsakademien en avhandling av en professor Rudolfi, och därvid hemställde Ehrenheim, »om icke Academien skulle vilja draga försorg att, i likhet med hvad i K. VetenskapsAcademien sker, en reception af hvarje till Academiens Samlingar lemnad bok gjordes för academien, hvilket academien enhälligt biföll». Vid sammanträdet den 13 februari föredrog Liljegren ett dylikt referat av Rudolfis avhandling. Men förmodligen ansågs överflödigt att i protokollen intaga dylika referat, som därför väl i korthet gjordes extra protocollum och endast undantagsvis där nämnas, såsom den 12 maj 1835: »Secreteraren meddelade förteckning på 87 större och mindre verk och afhandlingar öfver särskildta antiquariska ämnen, af hvilka en del för Kongl. Academien uppvisades, dem han på de under början af årets inträffade Bokauctioner inköpt och nu till Academien öfverlemnade för att ingå i dess af Statens medel till Academien förut inlösta samling. Ordföranden tolkade Academiens förbindliga erkänsla för detta nya prof af det varma nit, hvarmed Secreteraren omfattar Academiens bästa.»"
+  },
+  {
+   "bbox": [
+    1091,
+    1832,
+    1140,
+    1878
+   ],
+   "category": "Page-footer",
+   "text": "89"
+  }
+ ]
+}

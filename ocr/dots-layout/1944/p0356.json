@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 356,
+ "seconds": 27.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [505, 284, 711, 319], \"category\": \"Section-header\", \"text\": \"Fornvården\"}, {\"bbox\": [91, 354, 1129, 1512], \"category\": \"Text\", \"text\": \"Den 28 februari 1832 upplästes i akademien ett kungl. brev, innehållande, att Vetenskapsakademien ingifvit »ett uppå hennes anmodan af Eder utarbetadt förslag till förändring i almanackan af flere dagars namn, hwilka såsom numera obrukliga skulle komma at utbytas emot andra, som i stället blifvit upgifna, och hvarvid hufvudsakligen följande omständigheter blifvit afsedda: 1) at vissa namn hafva den historiska helgd, at de icke borde rubbas från de dagar de af ålder tillhört samt at vissa så kallade bemärkelse dagar, hwilkas namn såsom sådana ej sällan i tal eller skrift begagnas, borde förblifva oförändrade, 2) at fyratiosex i almanackan förut icke införda namn, som I ansett nu för tiden brukliga, må uptagas i stället för andra obruklige och insättas på dertill utmärkta dagar och 3) at några namn med latinska ändelser måtte omsättas (!) i likhet med hvad nu brukas, hwilket förslag Wetenskapsacademien anhållit at vid tryckningen af 1833 almanack och framgent få begagna. Detta hafve Wi uti nådigst öfverwägande tagit och funnit ingen rubbning böra göras i de dagars namn, hwilka särdeles för almogen äro af någon märkvärdighet eller betydelse, och då vid granskningen af Edert nu gjorde förslag anledning förekommit at, oaktadt den varsamhet I derutinnan iagttagit, en noggrannare undersökning i denna del dock vore behöflig, så hafve Wi för närvarande och hwad beträffar 1833 års almanack icke ansett lämpligt bifalla någon annan ändring i dagarnes benämning, än att namnet Catharina återställes för den 25 November, och hwad framtiden widkommer upskjuta Wi Wår Nådiga åtgärd i detta hänseende, intill dess I hunnit från landsorterne inhämta och till Oss underdånigst ingifva tillförlitliga och fullständiga underrättelser om de dagars namn, wid hwilka allmogen i et eller annat afseende fäster någon serskild upmärksamhet.»\"}, {\"bbox\": [91, 1510, 1128, 1800], \"category\": \"Text\", \"text\": \"Det var således ett icke ringa arbete, som härmed ålades akademien eller rättare dess sekreterare. Till underdånig åtlydnad av det kungl. brevet »beslöt academien att anmoda Konungens Befallningshafvande och Rikets Consistorier att ifrån hvarje ort infordra en behörigen styrkt upgift på sådana dagars namn, och att dessa upgifter inom den 1sta nästkommande september till academien insända». Det artade sig således nästan till en allmän folkomröstning, och den\"}, {\"bbox\": [1052, 1835, 1125, 1874], \"category\": \"Page-footer\", \"text\": \"327\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    505,
+    284,
+    711,
+    319
+   ],
+   "category": "Section-header",
+   "text": "Fornvården"
+  },
+  {
+   "bbox": [
+    91,
+    354,
+    1129,
+    1512
+   ],
+   "category": "Text",
+   "text": "Den 28 februari 1832 upplästes i akademien ett kungl. brev, innehållande, att Vetenskapsakademien ingifvit »ett uppå hennes anmodan af Eder utarbetadt förslag till förändring i almanackan af flere dagars namn, hwilka såsom numera obrukliga skulle komma at utbytas emot andra, som i stället blifvit upgifna, och hvarvid hufvudsakligen följande omständigheter blifvit afsedda: 1) at vissa namn hafva den historiska helgd, at de icke borde rubbas från de dagar de af ålder tillhört samt at vissa så kallade bemärkelse dagar, hwilkas namn såsom sådana ej sällan i tal eller skrift begagnas, borde förblifva oförändrade, 2) at fyratiosex i almanackan förut icke införda namn, som I ansett nu för tiden brukliga, må uptagas i stället för andra obruklige och insättas på dertill utmärkta dagar och 3) at några namn med latinska ändelser måtte omsättas (!) i likhet med hvad nu brukas, hwilket förslag Wetenskapsacademien anhållit at vid tryckningen af 1833 almanack och framgent få begagna. Detta hafve Wi uti nådigst öfverwägande tagit och funnit ingen rubbning böra göras i de dagars namn, hwilka särdeles för almogen äro af någon märkvärdighet eller betydelse, och då vid granskningen af Edert nu gjorde förslag anledning förekommit at, oaktadt den varsamhet I derutinnan iagttagit, en noggrannare undersökning i denna del dock vore behöflig, så hafve Wi för närvarande och hwad beträffar 1833 års almanack icke ansett lämpligt bifalla någon annan ändring i dagarnes benämning, än att namnet Catharina återställes för den 25 November, och hwad framtiden widkommer upskjuta Wi Wår Nådiga åtgärd i detta hänseende, intill dess I hunnit från landsorterne inhämta och till Oss underdånigst ingifva tillförlitliga och fullständiga underrättelser om de dagars namn, wid hwilka allmogen i et eller annat afseende fäster någon serskild upmärksamhet.»"
+  },
+  {
+   "bbox": [
+    91,
+    1510,
+    1128,
+    1800
+   ],
+   "category": "Text",
+   "text": "Det var således ett icke ringa arbete, som härmed ålades akademien eller rättare dess sekreterare. Till underdånig åtlydnad av det kungl. brevet »beslöt academien att anmoda Konungens Befallningshafvande och Rikets Consistorier att ifrån hvarje ort infordra en behörigen styrkt upgift på sådana dagars namn, och att dessa upgifter inom den 1sta nästkommande september till academien insända». Det artade sig således nästan till en allmän folkomröstning, och den"
+  },
+  {
+   "bbox": [
+    1052,
+    1835,
+    1125,
+    1874
+   ],
+   "category": "Page-footer",
+   "text": "327"
+  }
+ ]
+}

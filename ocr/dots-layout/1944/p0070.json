@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 70,
+ "seconds": 27.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [298, 281, 1005, 324], \"category\": \"Section-header\", \"text\": \"Levernesbeskrivningar, inträdestal m.m.\"}, {\"bbox\": [133, 351, 1172, 800], \"category\": \"Text\", \"text\": \"Särskilt viktigt var enligt hans mening ett studium av de rapporter, som de utländska i Stockholm varande diplomaterna avsänt till sina hov. I det syftet begärde han av regeringen ett statsanslag till en utländsk studieresa och fick de behövliga medlen dels genom ett statsanslag, dels genom en privat insamling — de senare med det villkor, att han även skulle spana efter det gamla försvunna riksregistraturet samt de handlingar, som man förmodade, att biskop Brask fört med sig vid sin flykt från Sverige. Resan anträddes den 28 april 1834 och drog om till den 4 maj 1835. Samma år, den 13 oktober, höll han sitt inträdestal, i vilket han redogjorde för resans resultat.\"}, {\"bbox\": [131, 805, 1172, 1758], \"category\": \"Text\", \"text\": \"Han hade besökt massor av arkiv i olika städer, och redan denna massa i förhållande till resetiden antyder, att studierna i dem icke kunnat vara mera djupgående. För medeltiden och det gamla riksregistraturet intresserade han sig nog jämförelsevis litet, men av hänsyn till det privata resebidraget tog han — efter själv gjord undersökning — intyg från vederbörande arkivchef, att inga spår av detta registratur funnos i dennes arkiv. Mest om hjärtat lågo för honom naturligtvis de handlingar från 1600-talets senare hälft, som han skulle behandla i de ännu oskrivna delarna av Berättelser ur Svenska historien, och här särskilt de danska relationerna, som upptaga det ojämförligt största utrymmet i de fyra banden av de av Fryxell utgivna Handlingar rörande Sveriges Historia (1836—1843). Det skulle likväl taga för stort utrymme att här redogöra för de olika fynd, som han gjort i de tyska, belgiska, holländska och danska arkiv, som han besökt, och i detta sammanhang torde det vara nog att anföra hans allmänna uttalande om nödvändigheten för en svensk historiker att bygga sin framställning även på källor, förvarade i utländska arkiv. Han skriver (I s. 28): »Redan i flere år och af flera anledningar hade resanden¹ hyst den öfertygelsen, att ingen rikare och tillförlitligare källa kan finnas för ett lands historia än de ämbetsbref och relationer, som främmande magters ministrar från detsamma till sina respective hof hemskickat. Man behöfver blott besinna, att dessa sändebud haft just det ämbetsåliggande att skaffa och\"}, {\"bbox\": [167, 1768, 1020, 1800], \"category\": \"Footnote\", \"text\": \"¹ I sin reseberättelse använder Fryxell ej ordet »jag» utan i stället »resanden».\"}, {\"bbox\": [1118, 1835, 1161, 1873], \"category\": \"Page-footer\", \"text\": \"51\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    298,
+    281,
+    1005,
+    324
+   ],
+   "category": "Section-header",
+   "text": "Levernesbeskrivningar, inträdestal m.m."
+  },
+  {
+   "bbox": [
+    133,
+    351,
+    1172,
+    800
+   ],
+   "category": "Text",
+   "text": "Särskilt viktigt var enligt hans mening ett studium av de rapporter, som de utländska i Stockholm varande diplomaterna avsänt till sina hov. I det syftet begärde han av regeringen ett statsanslag till en utländsk studieresa och fick de behövliga medlen dels genom ett statsanslag, dels genom en privat insamling — de senare med det villkor, att han även skulle spana efter det gamla försvunna riksregistraturet samt de handlingar, som man förmodade, att biskop Brask fört med sig vid sin flykt från Sverige. Resan anträddes den 28 april 1834 och drog om till den 4 maj 1835. Samma år, den 13 oktober, höll han sitt inträdestal, i vilket han redogjorde för resans resultat."
+  },
+  {
+   "bbox": [
+    131,
+    805,
+    1172,
+    1758
+   ],
+   "category": "Text",
+   "text": "Han hade besökt massor av arkiv i olika städer, och redan denna massa i förhållande till resetiden antyder, att studierna i dem icke kunnat vara mera djupgående. För medeltiden och det gamla riksregistraturet intresserade han sig nog jämförelsevis litet, men av hänsyn till det privata resebidraget tog han — efter själv gjord undersökning — intyg från vederbörande arkivchef, att inga spår av detta registratur funnos i dennes arkiv. Mest om hjärtat lågo för honom naturligtvis de handlingar från 1600-talets senare hälft, som han skulle behandla i de ännu oskrivna delarna av Berättelser ur Svenska historien, och här särskilt de danska relationerna, som upptaga det ojämförligt största utrymmet i de fyra banden av de av Fryxell utgivna Handlingar rörande Sveriges Historia (1836—1843). Det skulle likväl taga för stort utrymme att här redogöra för de olika fynd, som han gjort i de tyska, belgiska, holländska och danska arkiv, som han besökt, och i detta sammanhang torde det vara nog att anföra hans allmänna uttalande om nödvändigheten för en svensk historiker att bygga sin framställning även på källor, förvarade i utländska arkiv. Han skriver (I s. 28): »Redan i flere år och af flera anledningar hade resanden¹ hyst den öfertygelsen, att ingen rikare och tillförlitligare källa kan finnas för ett lands historia än de ämbetsbref och relationer, som främmande magters ministrar från detsamma till sina respective hof hemskickat. Man behöfver blott besinna, att dessa sändebud haft just det ämbetsåliggande att skaffa och"
+  },
+  {
+   "bbox": [
+    167,
+    1768,
+    1020,
+    1800
+   ],
+   "category": "Footnote",
+   "text": "¹ I sin reseberättelse använder Fryxell ej ordet »jag» utan i stället »resanden»."
+  },
+  {
+   "bbox": [
+    1118,
+    1835,
+    1161,
+    1873
+   ],
+   "category": "Page-footer",
+   "text": "51"
+  }
+ ]
+}

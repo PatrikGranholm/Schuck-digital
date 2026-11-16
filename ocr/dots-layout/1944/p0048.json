@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 48,
+ "seconds": 28.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [278, 281, 982, 324], \"category\": \"Section-header\", \"text\": \"Levernesbeskrivningar, inträdestal m. m.\"}, {\"bbox\": [112, 351, 1285, 765], \"category\": \"Text\", \"text\": \"Egendomligt nog inleddes levernesbeskrivningarnas rad under Över Strand denna tid med en minnesteckning över en ledamot, som redan 1795 slutat sina dagar: den föga märklige Strand. Talet hölls den 6 maj 1828 av Sundel och var väl en pietetsgärd åt den man, som varit en av hans företrädare såsom riksarkivets chef. Det är en torr biografi i den gamla stilen, egentligen passande för ett biografiskt lexikon och ur den synpunkten mycket sakrik. Något försök till en karaktäristik gör han icke, och med hänsyn både till egen förmåga och till Strands personlighet var detta nog ganska klokt. Biografien trycktes sedermera i Handlingarna XIII.\"}, {\"bbox\": [110, 765, 1288, 1096], \"category\": \"Text\", \"text\": \"Den nästa levernesbeskrivningen, över Biberg, var författad av Schröder, som självmant anmält sig att tala över sin företrädare — väl för att få en likhet med bruket inom Svenska akademien. Den upplästes den 17 juni 1829, den tredje, över Fleming, var författad av Geijer och upplästes den 29 maj 1831, och den fjärde, av Beskow över Skjöldebrand, föredrogs väl redan den 12 januari 1836, men intogs först i det 16 år senare tryckta tjugonde bandet av akademiens Handlingar (1852).\"}, {\"bbox\": [110, 1095, 1142, 1631], \"category\": \"Text\", \"text\": \"Både Schröders och Geijers tal äro hållna i den mera torra stil, som blivit den vanliga inom Vitterhets Historie och Antikvitetsakademien. Så börjar Schröders tal: »Nils Fredric Biberg föddes i Hernösand d. 20 januari 1776. Fadren var Græcæ Linguæ Lectoren vid Kongl. Gymnasium derstädes Doct. Isaac Biberg, Modren Catharina Unæus af gammal Norrländsk Prestslägt.» På samma sätt börjar Geijer sitt tal: »Claes Fleming, Friherre till Liebelitz, föddes den 24 april 1771 på Lydinge gård i Upland, ett gammalt arfvegods i hans slägt. Föräldrarne voro Hofmarskalken Friherre Johan Casimir Fleming och Grefvinnan Florentina Henrietta Hamilton, dotter till En af Rikets Herrar, Fältmarskalken m. m. Herr Grefve Gustaf David Hamilton och dess husfru Jacobina Henrietta Hildebrand» — således också som i ett biografiskt lexikon.\"}, {\"bbox\": [110, 1631, 1140, 1797], \"category\": \"Text\", \"text\": \"Efter den nyss citerade början redogör Schröder samvetsgrant för Bibergs studiebana, hans befordringar och dylikt, men — vilket väl borde ha varit huvudsaken i en biografi över en filosof — gör icke något försök att angiva Bibergs ställning till de samtida rörelserna\"}, {\"bbox\": [1087, 1836, 1134, 1873], \"category\": \"Page-footer\", \"text\": \"31\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    278,
+    281,
+    982,
+    324
+   ],
+   "category": "Section-header",
+   "text": "Levernesbeskrivningar, inträdestal m. m."
+  },
+  {
+   "bbox": [
+    112,
+    351,
+    1285,
+    765
+   ],
+   "category": "Text",
+   "text": "Egendomligt nog inleddes levernesbeskrivningarnas rad under Över Strand denna tid med en minnesteckning över en ledamot, som redan 1795 slutat sina dagar: den föga märklige Strand. Talet hölls den 6 maj 1828 av Sundel och var väl en pietetsgärd åt den man, som varit en av hans företrädare såsom riksarkivets chef. Det är en torr biografi i den gamla stilen, egentligen passande för ett biografiskt lexikon och ur den synpunkten mycket sakrik. Något försök till en karaktäristik gör han icke, och med hänsyn både till egen förmåga och till Strands personlighet var detta nog ganska klokt. Biografien trycktes sedermera i Handlingarna XIII."
+  },
+  {
+   "bbox": [
+    110,
+    765,
+    1288,
+    1096
+   ],
+   "category": "Text",
+   "text": "Den nästa levernesbeskrivningen, över Biberg, var författad av Schröder, som självmant anmält sig att tala över sin företrädare — väl för att få en likhet med bruket inom Svenska akademien. Den upplästes den 17 juni 1829, den tredje, över Fleming, var författad av Geijer och upplästes den 29 maj 1831, och den fjärde, av Beskow över Skjöldebrand, föredrogs väl redan den 12 januari 1836, men intogs först i det 16 år senare tryckta tjugonde bandet av akademiens Handlingar (1852)."
+  },
+  {
+   "bbox": [
+    110,
+    1095,
+    1142,
+    1631
+   ],
+   "category": "Text",
+   "text": "Både Schröders och Geijers tal äro hållna i den mera torra stil, som blivit den vanliga inom Vitterhets Historie och Antikvitetsakademien. Så börjar Schröders tal: »Nils Fredric Biberg föddes i Hernösand d. 20 januari 1776. Fadren var Græcæ Linguæ Lectoren vid Kongl. Gymnasium derstädes Doct. Isaac Biberg, Modren Catharina Unæus af gammal Norrländsk Prestslägt.» På samma sätt börjar Geijer sitt tal: »Claes Fleming, Friherre till Liebelitz, föddes den 24 april 1771 på Lydinge gård i Upland, ett gammalt arfvegods i hans slägt. Föräldrarne voro Hofmarskalken Friherre Johan Casimir Fleming och Grefvinnan Florentina Henrietta Hamilton, dotter till En af Rikets Herrar, Fältmarskalken m. m. Herr Grefve Gustaf David Hamilton och dess husfru Jacobina Henrietta Hildebrand» — således också som i ett biografiskt lexikon."
+  },
+  {
+   "bbox": [
+    110,
+    1631,
+    1140,
+    1797
+   ],
+   "category": "Text",
+   "text": "Efter den nyss citerade början redogör Schröder samvetsgrant för Bibergs studiebana, hans befordringar och dylikt, men — vilket väl borde ha varit huvudsaken i en biografi över en filosof — gör icke något försök att angiva Bibergs ställning till de samtida rörelserna"
+  },
+  {
+   "bbox": [
+    1087,
+    1836,
+    1134,
+    1873
+   ],
+   "category": "Page-footer",
+   "text": "31"
+  }
+ ]
+}

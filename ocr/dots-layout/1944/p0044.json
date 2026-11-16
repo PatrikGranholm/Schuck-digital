@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 44,
+ "seconds": 27.2,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [478, 282, 825, 324], \"category\": \"Section-header\", \"text\": \"De nya ledamöterna\"}, {\"bbox\": [128, 351, 1165, 1343], \"category\": \"Text\", \"text\": \"demien en av sina för akademiens verksamhet mest intresserade ledamöter, doktor Anders Blad, som avled den 14 september, och en av sina mest betydande vetenskapsmän, akademiens forne sekreterare Hallenberg, som slutade sitt liv den 3 oktober. Särskilt efter den senare hade en minnesteckning varit på sin plats, men någon dylik ifrågasattes varken för honom eller för Blad. Till Blads efterträdare blev den lärde historikern Strinnholm den 11 november enhälligt vald, och till Hallenbergs — den 25 november — Sveriges då utan gensägelse populäraste historiker, Anders Fryxell. Båda dröjde med att taga inträde i akademien. Först kom Fryxell, som höll sitt tal den 13 oktober 1835: »Sedan ordföranden tillkännagifvit, att Akademiens under sistledit år invalda Ledamot Herr Professor And. Fryxell infunnit sig för att taga sitt inträde, anmodades Secreteraren att införa bemälde Herr Professor, hvilken derefter i ett Tal framställde resultaterna af dess under förflutna och början af innevarande år genom åtskilliga delar af Europa företagna forskningsresa, hvars ändamål varit dels att samla materialier till fortsättningen af Herr Professorns utgifna Berättelser ur Svenska Historien, dels att bese de ställen, som genom Svenska vapnen vunnit en större märkvärdighet för vår historia, dels äfven att söka uppspana de historiska dokumenter, hvilka förmodas af Biskop Trolle eller Hans Brask hafva blifvit från Sverige bortförda. Talet besvarades med en hälsning af Sekreteraren, hvarefter Herr Professorn anvisades plats bland akademiens öfriga Ledamöter.»\"}, {\"bbox\": [128, 1343, 1163, 1797], \"category\": \"Text\", \"text\": \"Strinnholm dröjde ännu längre, ända till den 5 december 1837; då han »uppläste sitt inträdes Tal, innehållande *En blick öfver framstegen af det historiska studium sedan början af Vetenskapernas återupplifvande i Europa*». Varken Fryxells eller Strinnholms tal intogs i Handlingarna. Redan vid nästa sammanträde, den 20 oktober, efter inträdestalets uppläsning biföll akademien »Professor Fryxells anhållan, att honom måtte tillåtas särskildt trycka den beskrifning Herr Professorn i dess inträdestal lemnat om de undersökningar af handskriftssamlingar rörande fäderneslandets historia, Herr Professorn under sin utländska resa anställt, hvilken beskrifning kunde intagas såsom inledning till den samling af historiska dokumenter, Herr Profes-\"}, {\"bbox\": [1110, 1837, 1157, 1874], \"category\": \"Page-footer\", \"text\": \"27\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    478,
+    282,
+    825,
+    324
+   ],
+   "category": "Section-header",
+   "text": "De nya ledamöterna"
+  },
+  {
+   "bbox": [
+    128,
+    351,
+    1165,
+    1343
+   ],
+   "category": "Text",
+   "text": "demien en av sina för akademiens verksamhet mest intresserade ledamöter, doktor Anders Blad, som avled den 14 september, och en av sina mest betydande vetenskapsmän, akademiens forne sekreterare Hallenberg, som slutade sitt liv den 3 oktober. Särskilt efter den senare hade en minnesteckning varit på sin plats, men någon dylik ifrågasattes varken för honom eller för Blad. Till Blads efterträdare blev den lärde historikern Strinnholm den 11 november enhälligt vald, och till Hallenbergs — den 25 november — Sveriges då utan gensägelse populäraste historiker, Anders Fryxell. Båda dröjde med att taga inträde i akademien. Först kom Fryxell, som höll sitt tal den 13 oktober 1835: »Sedan ordföranden tillkännagifvit, att Akademiens under sistledit år invalda Ledamot Herr Professor And. Fryxell infunnit sig för att taga sitt inträde, anmodades Secreteraren att införa bemälde Herr Professor, hvilken derefter i ett Tal framställde resultaterna af dess under förflutna och början af innevarande år genom åtskilliga delar af Europa företagna forskningsresa, hvars ändamål varit dels att samla materialier till fortsättningen af Herr Professorns utgifna Berättelser ur Svenska Historien, dels att bese de ställen, som genom Svenska vapnen vunnit en större märkvärdighet för vår historia, dels äfven att söka uppspana de historiska dokumenter, hvilka förmodas af Biskop Trolle eller Hans Brask hafva blifvit från Sverige bortförda. Talet besvarades med en hälsning af Sekreteraren, hvarefter Herr Professorn anvisades plats bland akademiens öfriga Ledamöter.»"
+  },
+  {
+   "bbox": [
+    128,
+    1343,
+    1163,
+    1797
+   ],
+   "category": "Text",
+   "text": "Strinnholm dröjde ännu längre, ända till den 5 december 1837; då han »uppläste sitt inträdes Tal, innehållande *En blick öfver framstegen af det historiska studium sedan början af Vetenskapernas återupplifvande i Europa*». Varken Fryxells eller Strinnholms tal intogs i Handlingarna. Redan vid nästa sammanträde, den 20 oktober, efter inträdestalets uppläsning biföll akademien »Professor Fryxells anhållan, att honom måtte tillåtas särskildt trycka den beskrifning Herr Professorn i dess inträdestal lemnat om de undersökningar af handskriftssamlingar rörande fäderneslandets historia, Herr Professorn under sin utländska resa anställt, hvilken beskrifning kunde intagas såsom inledning till den samling af historiska dokumenter, Herr Profes-"
+  },
+  {
+   "bbox": [
+    1110,
+    1837,
+    1157,
+    1874
+   ],
+   "category": "Page-footer",
+   "text": "27"
+  }
+ ]
+}

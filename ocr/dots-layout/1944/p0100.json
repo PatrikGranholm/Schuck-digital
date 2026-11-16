@@ -1,0 +1,342 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 100,
+ "seconds": 42.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [518, 279, 745, 323], \"category\": \"Section-header\", \"text\": \"Nya uppslag\"}, {\"bbox\": [227, 350, 389, 384], \"category\": \"Section-header\", \"text\": \"X. Trissor\"}, {\"bbox\": [381, 392, 572, 427], \"category\": \"Text\", \"text\": \"[Två beskrivas]\"}, {\"bbox\": [212, 438, 929, 481], \"category\": \"Section-header\", \"text\": \"XI. Stenkulor af gneis, troligen kanonkulor (!)\"}, {\"bbox\": [381, 481, 685, 516], \"category\": \"Text\", \"text\": \"[Fyra hela och en halv]\"}, {\"bbox\": [143, 545, 706, 582], \"category\": \"Text\", \"text\": \"(Det följande har ingen gemensam överskrift)\"}, {\"bbox\": [385, 593, 633, 627], \"category\": \"Text\", \"text\": \"Svärd af bronze:\"}, {\"bbox\": [337, 640, 650, 682], \"category\": \"Text\", \"text\": \"a) Med grepptunga.\"}, {\"bbox\": [381, 682, 561, 717], \"category\": \"Text\", \"text\": \"[Sju beskrivas]\"}, {\"bbox\": [333, 723, 636, 765], \"category\": \"Text\", \"text\": \"b) Med greppspets.\"}, {\"bbox\": [381, 765, 572, 800], \"category\": \"Text\", \"text\": \"[Två beskrivas]\"}, {\"bbox\": [381, 812, 664, 846], \"category\": \"Text\", \"text\": \"Dolkar af Bronze:\"}, {\"bbox\": [337, 859, 650, 901], \"category\": \"Text\", \"text\": \"a) Med grepptunga.\"}, {\"bbox\": [381, 901, 576, 936], \"category\": \"Text\", \"text\": \"[Fem beskrivas]\"}, {\"bbox\": [333, 942, 660, 984], \"category\": \"Text\", \"text\": \"b) Med grepp Spets.\"}, {\"bbox\": [381, 984, 572, 1018], \"category\": \"Text\", \"text\": \"[Två beskrivas]\"}, {\"bbox\": [381, 1024, 1012, 1065], \"category\": \"Text\", \"text\": \"Fragmenter af Bronze Svärd eller Dolkar\"}, {\"bbox\": [381, 1065, 561, 1100], \"category\": \"Text\", \"text\": \"[Sju beskrivas]\"}, {\"bbox\": [381, 1106, 594, 1148], \"category\": \"Text\", \"text\": \"Svärd af järn.\"}, {\"bbox\": [281, 1159, 517, 1201], \"category\": \"Section-header\", \"text\": \"A. Tve-äggade\"}, {\"bbox\": [337, 1207, 635, 1248], \"category\": \"Text\", \"text\": \"a) med klumpfäste.\"}, {\"bbox\": [381, 1248, 572, 1283], \"category\": \"Text\", \"text\": \"[Elva beskrivas]\"}, {\"bbox\": [333, 1288, 1136, 1372], \"category\": \"Text\", \"text\": \"b) Med aflång rund knapp och finare mera utdragen\\nparerstång\"}, {\"bbox\": [381, 1372, 569, 1407], \"category\": \"Text\", \"text\": \"[Två beskrivas]\"}, {\"bbox\": [285, 1418, 868, 1460], \"category\": \"Section-header\", \"text\": \"B. Svärd med ägg blott på ena sidan\"}, {\"bbox\": [381, 1460, 569, 1495], \"category\": \"Text\", \"text\": \"[Två beskrivas]\"}, {\"bbox\": [381, 1501, 1022, 1584], \"category\": \"Text\", \"text\": \"Slagsvärd\\naf järn med lång tveäggad klinga — — —\"}, {\"bbox\": [381, 1584, 569, 1619], \"category\": \"Text\", \"text\": \"[Två beskrivas]\"}, {\"bbox\": [381, 1625, 740, 1660], \"category\": \"Text\", \"text\": \"Svärd från sednare tid.\"}, {\"bbox\": [381, 1666, 559, 1701], \"category\": \"Text\", \"text\": \"[Sju beskrivas]\"}, {\"bbox\": [381, 1707, 1120, 1791], \"category\": \"Text\", \"text\": \"Sköldbucklor\\naf järn till formen koniska eller kullriga — — —\"}, {\"bbox\": [105, 1818, 236, 1844], \"category\": \"Page-footer\", \"text\": \"6-43843 VIII\"}, {\"bbox\": [1090, 1821, 1133, 1856], \"category\": \"Page-footer\", \"text\": \"81\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    518,
+    279,
+    745,
+    323
+   ],
+   "category": "Section-header",
+   "text": "Nya uppslag"
+  },
+  {
+   "bbox": [
+    227,
+    350,
+    389,
+    384
+   ],
+   "category": "Section-header",
+   "text": "X. Trissor"
+  },
+  {
+   "bbox": [
+    381,
+    392,
+    572,
+    427
+   ],
+   "category": "Text",
+   "text": "[Två beskrivas]"
+  },
+  {
+   "bbox": [
+    212,
+    438,
+    929,
+    481
+   ],
+   "category": "Section-header",
+   "text": "XI. Stenkulor af gneis, troligen kanonkulor (!)"
+  },
+  {
+   "bbox": [
+    381,
+    481,
+    685,
+    516
+   ],
+   "category": "Text",
+   "text": "[Fyra hela och en halv]"
+  },
+  {
+   "bbox": [
+    143,
+    545,
+    706,
+    582
+   ],
+   "category": "Text",
+   "text": "(Det följande har ingen gemensam överskrift)"
+  },
+  {
+   "bbox": [
+    385,
+    593,
+    633,
+    627
+   ],
+   "category": "Text",
+   "text": "Svärd af bronze:"
+  },
+  {
+   "bbox": [
+    337,
+    640,
+    650,
+    682
+   ],
+   "category": "Text",
+   "text": "a) Med grepptunga."
+  },
+  {
+   "bbox": [
+    381,
+    682,
+    561,
+    717
+   ],
+   "category": "Text",
+   "text": "[Sju beskrivas]"
+  },
+  {
+   "bbox": [
+    333,
+    723,
+    636,
+    765
+   ],
+   "category": "Text",
+   "text": "b) Med greppspets."
+  },
+  {
+   "bbox": [
+    381,
+    765,
+    572,
+    800
+   ],
+   "category": "Text",
+   "text": "[Två beskrivas]"
+  },
+  {
+   "bbox": [
+    381,
+    812,
+    664,
+    846
+   ],
+   "category": "Text",
+   "text": "Dolkar af Bronze:"
+  },
+  {
+   "bbox": [
+    337,
+    859,
+    650,
+    901
+   ],
+   "category": "Text",
+   "text": "a) Med grepptunga."
+  },
+  {
+   "bbox": [
+    381,
+    901,
+    576,
+    936
+   ],
+   "category": "Text",
+   "text": "[Fem beskrivas]"
+  },
+  {
+   "bbox": [
+    333,
+    942,
+    660,
+    984
+   ],
+   "category": "Text",
+   "text": "b) Med grepp Spets."
+  },
+  {
+   "bbox": [
+    381,
+    984,
+    572,
+    1018
+   ],
+   "category": "Text",
+   "text": "[Två beskrivas]"
+  },
+  {
+   "bbox": [
+    381,
+    1024,
+    1012,
+    1065
+   ],
+   "category": "Text",
+   "text": "Fragmenter af Bronze Svärd eller Dolkar"
+  },
+  {
+   "bbox": [
+    381,
+    1065,
+    561,
+    1100
+   ],
+   "category": "Text",
+   "text": "[Sju beskrivas]"
+  },
+  {
+   "bbox": [
+    381,
+    1106,
+    594,
+    1148
+   ],
+   "category": "Text",
+   "text": "Svärd af järn."
+  },
+  {
+   "bbox": [
+    281,
+    1159,
+    517,
+    1201
+   ],
+   "category": "Section-header",
+   "text": "A. Tve-äggade"
+  },
+  {
+   "bbox": [
+    337,
+    1207,
+    635,
+    1248
+   ],
+   "category": "Text",
+   "text": "a) med klumpfäste."
+  },
+  {
+   "bbox": [
+    381,
+    1248,
+    572,
+    1283
+   ],
+   "category": "Text",
+   "text": "[Elva beskrivas]"
+  },
+  {
+   "bbox": [
+    333,
+    1288,
+    1136,
+    1372
+   ],
+   "category": "Text",
+   "text": "b) Med aflång rund knapp och finare mera utdragen\nparerstång"
+  },
+  {
+   "bbox": [
+    381,
+    1372,
+    569,
+    1407
+   ],
+   "category": "Text",
+   "text": "[Två beskrivas]"
+  },
+  {
+   "bbox": [
+    285,
+    1418,
+    868,
+    1460
+   ],
+   "category": "Section-header",
+   "text": "B. Svärd med ägg blott på ena sidan"
+  },
+  {
+   "bbox": [
+    381,
+    1460,
+    569,
+    1495
+   ],
+   "category": "Text",
+   "text": "[Två beskrivas]"
+  },
+  {
+   "bbox": [
+    381,
+    1501,
+    1022,
+    1584
+   ],
+   "category": "Text",
+   "text": "Slagsvärd\naf järn med lång tveäggad klinga — — —"
+  },
+  {
+   "bbox": [
+    381,
+    1584,
+    569,
+    1619
+   ],
+   "category": "Text",
+   "text": "[Två beskrivas]"
+  },
+  {
+   "bbox": [
+    381,
+    1625,
+    740,
+    1660
+   ],
+   "category": "Text",
+   "text": "Svärd från sednare tid."
+  },
+  {
+   "bbox": [
+    381,
+    1666,
+    559,
+    1701
+   ],
+   "category": "Text",
+   "text": "[Sju beskrivas]"
+  },
+  {
+   "bbox": [
+    381,
+    1707,
+    1120,
+    1791
+   ],
+   "category": "Text",
+   "text": "Sköldbucklor\naf järn till formen koniska eller kullriga — — —"
+  },
+  {
+   "bbox": [
+    105,
+    1818,
+    236,
+    1844
+   ],
+   "category": "Page-footer",
+   "text": "6-43843 VIII"
+  },
+  {
+   "bbox": [
+    1090,
+    1821,
+    1133,
+    1856
+   ],
+   "category": "Page-footer",
+   "text": "81"
+  }
+ ]
+}

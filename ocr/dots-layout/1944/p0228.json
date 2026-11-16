@@ -1,0 +1,108 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 228,
+ "seconds": 29.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [125, 361, 593, 995], \"category\": \"Picture\"}, {\"bbox\": [113, 1032, 607, 1069], \"category\": \"Caption\", \"text\": \"LEONARD FREDRIK RÄÄF\"}, {\"bbox\": [717, 363, 1205, 1001], \"category\": \"Picture\"}, {\"bbox\": [646, 1036, 1271, 1073], \"category\": \"Caption\", \"text\": \"ANDERS MAGNUS STRINNHOLM\"}, {\"bbox\": [119, 1163, 590, 1802], \"category\": \"Picture\"}, {\"bbox\": [171, 1838, 529, 1873], \"category\": \"Caption\", \"text\": \"ANDERS FRYXELL\"}, {\"bbox\": [175, 1881, 525, 1946], \"category\": \"Text\", \"text\": \"Oljemålning av J. G. Sandberg\\n(Värmlands Nation, Uppsala)\"}, {\"bbox\": [710, 1167, 1202, 1807], \"category\": \"Picture\"}, {\"bbox\": [744, 1842, 1167, 1881], \"category\": \"Caption\", \"text\": \"NILS JOHAN EKDAHL\"}, {\"bbox\": [766, 1885, 1139, 1948], \"category\": \"Text\", \"text\": \"Oljemålning av J. P. Södermark\\n(Adolf Fredriks kyrka, Stockholm)\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    125,
+    361,
+    593,
+    995
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    113,
+    1032,
+    607,
+    1069
+   ],
+   "category": "Caption",
+   "text": "LEONARD FREDRIK RÄÄF"
+  },
+  {
+   "bbox": [
+    717,
+    363,
+    1205,
+    1001
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    646,
+    1036,
+    1271,
+    1073
+   ],
+   "category": "Caption",
+   "text": "ANDERS MAGNUS STRINNHOLM"
+  },
+  {
+   "bbox": [
+    119,
+    1163,
+    590,
+    1802
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    171,
+    1838,
+    529,
+    1873
+   ],
+   "category": "Caption",
+   "text": "ANDERS FRYXELL"
+  },
+  {
+   "bbox": [
+    175,
+    1881,
+    525,
+    1946
+   ],
+   "category": "Text",
+   "text": "Oljemålning av J. G. Sandberg\n(Värmlands Nation, Uppsala)"
+  },
+  {
+   "bbox": [
+    710,
+    1167,
+    1202,
+    1807
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    744,
+    1842,
+    1167,
+    1881
+   ],
+   "category": "Caption",
+   "text": "NILS JOHAN EKDAHL"
+  },
+  {
+   "bbox": [
+    766,
+    1885,
+    1139,
+    1948
+   ],
+   "category": "Text",
+   "text": "Oljemålning av J. P. Södermark\n(Adolf Fredriks kyrka, Stockholm)"
+  }
+ ]
+}

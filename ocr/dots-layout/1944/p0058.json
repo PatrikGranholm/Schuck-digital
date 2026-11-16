@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 58,
+ "seconds": 28.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [293, 277, 1001, 321], \"category\": \"Section-header\", \"text\": \"Levernesbeskrivningar, inträdestal m. m.\"}, {\"bbox\": [126, 347, 1162, 640], \"category\": \"Text\", \"text\": \"valtning. Vilje vi göra oss reda för den åsigt af Staten, som låg till grund för dessa små republikanska samhällen, så kunne vi sätta dess hufvudcharakter deruti, att Staten här betraktades hufvudsakligen ur en ethisk synpunkt eller såsom en ethisk förbindelse mellan dess medlemmar. — Sjelfva dessa staters inskränkta omfång bidrog dertill. Det lilla samfundet liknade en utvidgad familj, hvars medlemmar till en stor del kunde personligen känna hvarandra.»\"}, {\"bbox\": [126, 638, 1162, 1135], \"category\": \"Text\", \"text\": \"Längre fram i talet återkommer han till betydelsen av dessa till areal och folkmängd inskränkta samhällen. De grekiska staterna »utgjordes blott af en enda stad med ett litet dertill hörande område. Grekerna voro så vande vid detta förhållande, att begreppen *stat* och *stad* hos dem sammanföllo till ett enda, hvarföre ock deras språk utmärker båda med ett gemensamt namn, 'polis' (liksom Romarnes med 'civitas'). De kunde aldrig tänka sig en fullt organiserad stat med en fri författning, en egentlig 'politeia' annorlunda, än såsom en sådan stad med omgifvande gebit, och de större riken, hvilka de med tiden lärde känna, af hvilka det Persiska var det förnämsta, utgjorde alltid för dem blott anomalier eller afvikelser från begreppet om en sådan politeia.»\"}, {\"bbox\": [126, 1133, 1162, 1508], \"category\": \"Text\", \"text\": \"Det enskilda livet kom härigenom i ett oupplösligt samband med det offentliga, och denna uppfattning möter oss även hos de grekiska filosoferna, starkast hos Plato. »Huru helt och hållet han betraktade den borgerliga samhällsföreningen ur en ethisk synpunkt, röjer sig redan derigenom, att han ej gjorde någon egentlig och bestämd skillnad mellan Ethik och Statslära utan i ett och samma verk framställde bådas gemensamma grundidéer och således behandlade Statsläran blott såsom en utvidgad, ett helt folk omfattande Ethik.» Även hos Aristoteles kommer samma uppfattning, ehuru mindre skarpt, fram.\"}, {\"bbox\": [126, 1506, 1162, 1796], \"category\": \"Text\", \"text\": \"Men om grekerna än livligt kände statsidéens etiska innebörd, uppfattade de icke med lika klarhet ett annat väsentligt moment i denna, nämligen den juridiska. Den individuella, självständiga personlighetens rätt framstod hos dem aldrig med full klarhet. Detta visas redan genom den hos dem liksom hos andra forntidens folk gällande träldomen, framgår även av ostracismen, genom vilken en medborgare blott på misstankar om farlighet kunde uteslutas ur statens gemen-\"}, {\"bbox\": [1105, 1834, 1153, 1870], \"category\": \"Page-footer\", \"text\": \"41\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    293,
+    277,
+    1001,
+    321
+   ],
+   "category": "Section-header",
+   "text": "Levernesbeskrivningar, inträdestal m. m."
+  },
+  {
+   "bbox": [
+    126,
+    347,
+    1162,
+    640
+   ],
+   "category": "Text",
+   "text": "valtning. Vilje vi göra oss reda för den åsigt af Staten, som låg till grund för dessa små republikanska samhällen, så kunne vi sätta dess hufvudcharakter deruti, att Staten här betraktades hufvudsakligen ur en ethisk synpunkt eller såsom en ethisk förbindelse mellan dess medlemmar. — Sjelfva dessa staters inskränkta omfång bidrog dertill. Det lilla samfundet liknade en utvidgad familj, hvars medlemmar till en stor del kunde personligen känna hvarandra.»"
+  },
+  {
+   "bbox": [
+    126,
+    638,
+    1162,
+    1135
+   ],
+   "category": "Text",
+   "text": "Längre fram i talet återkommer han till betydelsen av dessa till areal och folkmängd inskränkta samhällen. De grekiska staterna »utgjordes blott af en enda stad med ett litet dertill hörande område. Grekerna voro så vande vid detta förhållande, att begreppen *stat* och *stad* hos dem sammanföllo till ett enda, hvarföre ock deras språk utmärker båda med ett gemensamt namn, 'polis' (liksom Romarnes med 'civitas'). De kunde aldrig tänka sig en fullt organiserad stat med en fri författning, en egentlig 'politeia' annorlunda, än såsom en sådan stad med omgifvande gebit, och de större riken, hvilka de med tiden lärde känna, af hvilka det Persiska var det förnämsta, utgjorde alltid för dem blott anomalier eller afvikelser från begreppet om en sådan politeia.»"
+  },
+  {
+   "bbox": [
+    126,
+    1133,
+    1162,
+    1508
+   ],
+   "category": "Text",
+   "text": "Det enskilda livet kom härigenom i ett oupplösligt samband med det offentliga, och denna uppfattning möter oss även hos de grekiska filosoferna, starkast hos Plato. »Huru helt och hållet han betraktade den borgerliga samhällsföreningen ur en ethisk synpunkt, röjer sig redan derigenom, att han ej gjorde någon egentlig och bestämd skillnad mellan Ethik och Statslära utan i ett och samma verk framställde bådas gemensamma grundidéer och således behandlade Statsläran blott såsom en utvidgad, ett helt folk omfattande Ethik.» Även hos Aristoteles kommer samma uppfattning, ehuru mindre skarpt, fram."
+  },
+  {
+   "bbox": [
+    126,
+    1506,
+    1162,
+    1796
+   ],
+   "category": "Text",
+   "text": "Men om grekerna än livligt kände statsidéens etiska innebörd, uppfattade de icke med lika klarhet ett annat väsentligt moment i denna, nämligen den juridiska. Den individuella, självständiga personlighetens rätt framstod hos dem aldrig med full klarhet. Detta visas redan genom den hos dem liksom hos andra forntidens folk gällande träldomen, framgår även av ostracismen, genom vilken en medborgare blott på misstankar om farlighet kunde uteslutas ur statens gemen-"
+  },
+  {
+   "bbox": [
+    1105,
+    1834,
+    1153,
+    1870
+   ],
+   "category": "Page-footer",
+   "text": "41"
+  }
+ ]
+}

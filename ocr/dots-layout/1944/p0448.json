@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 448,
+ "seconds": 31.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [458, 276, 812, 313], \"category\": \"Page-header\", \"text\": \"Akademiens ekonomi\"}, {\"bbox\": [113, 346, 1146, 680], \"category\": \"Text\", \"text\": \"upptagen i specie, och kungabreven till akademien intaga således ingen särställning, ty enligt den kungl. förordningen den 4 november 1802 skulle alla tidigare anslag i specie hädanefter utgå i bankosedlar. Anslaget 838 rdr, som i kungabreven upptagas såsom riksdaler specie, står därför fullt korrekt i akademiens räkenskaper såsom riksdaler banko, och tydligt är också, att lönerna (445 rdr, som icke stå i akademiens räkenskaper) utgått icke i specie utan i banko. Av det följande skall detta bliva ännu mera tydligt.\"}, {\"bbox\": [108, 676, 1143, 1211], \"category\": \"Text\", \"text\": \"Vid riksdagen 1823 framlades en kunglig proposition om förhöjning av sekreterarens lön. Denna bifölls av riksdagen, som i särskild skrivelse (nr 213) meddelades Kungl. Maj:t: »I anledning af E. K. Maj:ts uti Dess Nådiga Proposition om Statswerkets tillstånd och behof framställdta förslag, att Secreteraren vid Kongl. Witterhets Historie och Antiquitets Akademien måtte erhålla förhöjning å dess Lön, hafva Riksens ständer inhemtat, att — — — Och hafva Riksens Ständer med afseende å hvad sålunda förekommit, velat bifalla, att ifrågavarande lön må i enlighet med de för 1815 års lönetillökning fastställde grunder förhöjas till 480 Rdr med derunder beräknade 53 Tunnor Spannemål och till sådant belopp å Witterhets Historie och Antiquitets Akademiens Stat hädanefter upptagen varda.»\"}, {\"bbox\": [1150, 688, 1286, 750], \"category\": \"Text\", \"text\": \"Sekreterarens\\nlön höjes\"}, {\"bbox\": [107, 1211, 1137, 1339], \"category\": \"Text\", \"text\": \"Men här möter oss en gåta. Enligt riksdagsbeslutet skulle den nya sekreterarlönen från och med 1824 års början förhöjas till 480 riksdaler jämte spannmålsersättning för 53 tunnor.¹\"}, {\"bbox\": [104, 1335, 1137, 1592], \"category\": \"Text\", \"text\": \"Men enligt Statskontorets memorialbok utgick lönen 1824 under årets två första kvartal med det gamla beloppet — 75 rdr i varje kvartal — och först under de två sista kvartalen med ett högre belopp. Vidare — och detta är viktigare — utgick lönen under de två sista kvartalen av 1824 samt under de följande åren både under Rutströms och Liljegrens tid icke med 480 rdr om året utan med 559\"}, {\"bbox\": [102, 1611, 1135, 1793], \"category\": \"Footnote\", \"text\": \"¹ 1824 finnes ingen dylik ersättning upptagen i den till akademien sända staten, och 1825 och 1826 göres i staten detta meddelande: »För Spannemålen under Lönerna äger någon Tillökning utöfver det fastställda Minimipriset ej rum, enär Riksmarkegången för året ej uppgår till 6 Rdr Tunnan.» För 1827 uppgick däremot sekreterarens »tillökning» av spannmål till 179 rdr 47 sk., sjönk 1828 till 19 rdr 42 sk. och var 1829 ingen alls, då tunnans minimipris icke uppgick till 6 rdr, höjdes åter 1830 till 30 rdr 44 sk. o. s. v.\"}, {\"bbox\": [1055, 1835, 1129, 1872], \"category\": \"Page-footer\", \"text\": \"419\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    458,
+    276,
+    812,
+    313
+   ],
+   "category": "Page-header",
+   "text": "Akademiens ekonomi"
+  },
+  {
+   "bbox": [
+    113,
+    346,
+    1146,
+    680
+   ],
+   "category": "Text",
+   "text": "upptagen i specie, och kungabreven till akademien intaga således ingen särställning, ty enligt den kungl. förordningen den 4 november 1802 skulle alla tidigare anslag i specie hädanefter utgå i bankosedlar. Anslaget 838 rdr, som i kungabreven upptagas såsom riksdaler specie, står därför fullt korrekt i akademiens räkenskaper såsom riksdaler banko, och tydligt är också, att lönerna (445 rdr, som icke stå i akademiens räkenskaper) utgått icke i specie utan i banko. Av det följande skall detta bliva ännu mera tydligt."
+  },
+  {
+   "bbox": [
+    108,
+    676,
+    1143,
+    1211
+   ],
+   "category": "Text",
+   "text": "Vid riksdagen 1823 framlades en kunglig proposition om förhöjning av sekreterarens lön. Denna bifölls av riksdagen, som i särskild skrivelse (nr 213) meddelades Kungl. Maj:t: »I anledning af E. K. Maj:ts uti Dess Nådiga Proposition om Statswerkets tillstånd och behof framställdta förslag, att Secreteraren vid Kongl. Witterhets Historie och Antiquitets Akademien måtte erhålla förhöjning å dess Lön, hafva Riksens ständer inhemtat, att — — — Och hafva Riksens Ständer med afseende å hvad sålunda förekommit, velat bifalla, att ifrågavarande lön må i enlighet med de för 1815 års lönetillökning fastställde grunder förhöjas till 480 Rdr med derunder beräknade 53 Tunnor Spannemål och till sådant belopp å Witterhets Historie och Antiquitets Akademiens Stat hädanefter upptagen varda.»"
+  },
+  {
+   "bbox": [
+    1150,
+    688,
+    1286,
+    750
+   ],
+   "category": "Text",
+   "text": "Sekreterarens\nlön höjes"
+  },
+  {
+   "bbox": [
+    107,
+    1211,
+    1137,
+    1339
+   ],
+   "category": "Text",
+   "text": "Men här möter oss en gåta. Enligt riksdagsbeslutet skulle den nya sekreterarlönen från och med 1824 års början förhöjas till 480 riksdaler jämte spannmålsersättning för 53 tunnor.¹"
+  },
+  {
+   "bbox": [
+    104,
+    1335,
+    1137,
+    1592
+   ],
+   "category": "Text",
+   "text": "Men enligt Statskontorets memorialbok utgick lönen 1824 under årets två första kvartal med det gamla beloppet — 75 rdr i varje kvartal — och först under de två sista kvartalen med ett högre belopp. Vidare — och detta är viktigare — utgick lönen under de två sista kvartalen av 1824 samt under de följande åren både under Rutströms och Liljegrens tid icke med 480 rdr om året utan med 559"
+  },
+  {
+   "bbox": [
+    102,
+    1611,
+    1135,
+    1793
+   ],
+   "category": "Footnote",
+   "text": "¹ 1824 finnes ingen dylik ersättning upptagen i den till akademien sända staten, och 1825 och 1826 göres i staten detta meddelande: »För Spannemålen under Lönerna äger någon Tillökning utöfver det fastställda Minimipriset ej rum, enär Riksmarkegången för året ej uppgår till 6 Rdr Tunnan.» För 1827 uppgick däremot sekreterarens »tillökning» av spannmål till 179 rdr 47 sk., sjönk 1828 till 19 rdr 42 sk. och var 1829 ingen alls, då tunnans minimipris icke uppgick till 6 rdr, höjdes åter 1830 till 30 rdr 44 sk. o. s. v."
+  },
+  {
+   "bbox": [
+    1055,
+    1835,
+    1129,
+    1872
+   ],
+   "category": "Page-footer",
+   "text": "419"
+  }
+ ]
+}

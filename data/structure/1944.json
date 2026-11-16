@@ -1,0 +1,35 @@
+{
+  "vol": "1944",
+  "part": "VIII",
+  "title": "Kgl. Vitterhets historie och antikvitets akademien. Dess förhistoria och historia",
+  "volume_title": "Akademien 1826–1837",
+  "note": "Chapters from the table of contents (images 491-492, pp. 462-463, checked against the scan: the text layer runs chapter titles into the topics and drops some words) and the chapter headings on the pages. Images 1-4: digitisation notice (Göteborgs universitetsbibliotek), binding and front endpapers; 5-7, 9, 11, 15, 17: blank leaves; 8: the original printed wrapper (Stockholm 1944), bound in; 10: half-title; 12: title page; 13: title-page verso (Humanistiska fonden); 14: frontispiece, portrait of Johan Gustaf Liljegren; 16: part title Liljegrens tid 1826-1837 (p. 1). Unpaginated plates, each with a blank verso: 32/33 (between pp. 16 and 17, portraits), 66/67 (48/49, portraits), 228/229 (208/209, portraits), 286/287 (264/265, the choir of S:t Nicolai in Visby, drawing by Liljegren). 296-301 (between pp. 272 and 273): facsimile of the 1828 royal ordinance on the protection of ancient monuments, signed Carl Johan. 493: colophon (Uppsala 1944), no errata list; 494, 496-498: blank leaves; 495: the printed back wrapper (Almqvist & Wiksells boktryckeri); 499-501: back endpapers and binding.",
+  "parts": [
+    {"title": "Liljegrens tid 1826–1837", "chapter": 3, "leaves": [16, 17]}
+  ],
+  "chapters": [
+    {"title": "Sekreterare, amanuens och ritare", "page": 3},
+    {"title": "De nya ledamöterna", "page": 15},
+    {"title": "Levernesbeskrivningar, inträdestal och övriga avhandlingar", "page": 30},
+    {"title": "Nya uppslag", "page": 68},
+    {"title": "Seton och Diplomatariet", "page": 110},
+    {"title": "Korrespondenter", "page": 177},
+    {"title": "Fornvården", "page": 270},
+    {"title": "Fynd", "page": 329},
+    {"title": "Akademiens ekonomi", "page": 413},
+    {"title": "Examina, medaljer och tävlingar", "page": 434},
+    {"title": "Avslutning", "page": 456}
+  ],
+  "front": {
+    "binding": [1, 2, 3, 4, 8],
+    "halftitle": [10],
+    "titlepage": [12],
+    "frontispiece": [14]
+  },
+  "back": {
+    "contents": [491, 492],
+    "colophon_errata": [493],
+    "binding": [495, 499, 500, 501]
+  },
+  "errata": []
+}

@@ -1,0 +1,32 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 7,
+ "seconds": 9.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [343, 534, 1673, 885], \"category\": \"Text\", \"text\": \"ПИТРОВ ОС ОВИКАТИЕВ\\nКОЛ. АЛЕКСЕЕВ\"}, {\"bbox\": [175, 112, 205, 151], \"category\": \"Page-footer\", \"text\": \"C\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    343,
+    534,
+    1673,
+    885
+   ],
+   "category": "Text",
+   "text": "ПИТРОВ ОС ОВИКАТИЕВ\nКОЛ. АЛЕКСЕЕВ"
+  },
+  {
+   "bbox": [
+    175,
+    112,
+    205,
+    151
+   ],
+   "category": "Page-footer",
+   "text": "C"
+  }
+ ]
+}

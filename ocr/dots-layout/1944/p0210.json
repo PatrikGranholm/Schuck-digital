@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 210,
+ "seconds": 27.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [447, 282, 738, 323], \"category\": \"Section-header\", \"text\": \"Korrespondenter\"}, {\"bbox\": [75, 353, 1110, 724], \"category\": \"Text\", \"text\": \"monuments si curieux et pour votre histoire nationale et pour la science en général. Vous rendriez un veritable service en étudiant la marche de cette ecriture et en publiant des dessins parfaitement exacts de tous les Hallristningar qui existent encore en Suède ou en Norwege; c'est un noble travail à poursuivre et qui tournerait nécessairement et à Votre gloire et à l'illustration de Votre patrie. — — — Les signes que Vous me faites connaître me présentent des analogies frappantes avec certains caractères Egyptiens et je serais curieux d'en connaître un plus grand nombre.»\"}, {\"bbox\": [72, 724, 1107, 1674], \"category\": \"Text\", \"text\": \"Man behöver nästan blott undantaga detta brev, om man påstår, att akademiens »lärda brevväxling» med Frankrike, Tyskland och England inskränkte sig till ett utbyte av några ömsesidiga artighetsbetygelser. Men med Danmark var det ett annat förhållande, och det var från detta land, som akademien nu mottog de viktigaste uppslagen. Liljegren hade över ett halvår (från november 1819 till juli 1820) studerat i Köpenhamn och hade därunder lärt känna de flesta av de män, som inom det forskningsområde, som även var akademiens, då voro de ledande. Det blev också de från Danmark lånade uppslagen, som under hans sekreterartid togos upp av akademien. På Münters initiativ hade redan 1807 tillsatts en kunglig kommission »til Oldsagers opbevaring» — ett slags dansk motsvarighet till det gamla Antiquitetsarkivet i Sverige — och för denna kommission hade utfärdats en instruktion, enligt vilken kommissionen skulle undersöka 1) vilka fasta fornlämningar, som förtjänade skydd, och vilka, som jordägaren kunde förfara med enligt gottfinnande; 2) vad som kunde göras för bevarande av forntida och medeltida minnen i kyrkorna; 3) hur allmogen bäst skulle kunna undervisas om värdet av fornfynd; 4) hur med minsta möjliga omkostnad för Staten ett statsmuseum skulle kunna anläggas för rikets fornsaker, samt 5) hur ett sådant museum bäst skulle kunna användas till allmän nytta (citerat efter B. Hildebrand sid. 185). Som vi skola se — och delvis redan sett — upptogos alla dessa punkter av Liljegrens akademi.\"}, {\"bbox\": [72, 1672, 1103, 1797], \"category\": \"Text\", \"text\": \"Förbindelserna med Danmark voro visserligen äldre än Liljegrens sekreterartid, men de hade då ännu icke haft någon betydelse för akademien. Vid Rutströms död på våren 1826 hade akademien\"}, {\"bbox\": [1127, 733, 1238, 819], \"category\": \"Text\", \"text\": \"Förbindelserna med Danmark\"}, {\"bbox\": [1032, 1835, 1096, 1872], \"category\": \"Page-footer\", \"text\": \"191\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    447,
+    282,
+    738,
+    323
+   ],
+   "category": "Section-header",
+   "text": "Korrespondenter"
+  },
+  {
+   "bbox": [
+    75,
+    353,
+    1110,
+    724
+   ],
+   "category": "Text",
+   "text": "monuments si curieux et pour votre histoire nationale et pour la science en général. Vous rendriez un veritable service en étudiant la marche de cette ecriture et en publiant des dessins parfaitement exacts de tous les Hallristningar qui existent encore en Suède ou en Norwege; c'est un noble travail à poursuivre et qui tournerait nécessairement et à Votre gloire et à l'illustration de Votre patrie. — — — Les signes que Vous me faites connaître me présentent des analogies frappantes avec certains caractères Egyptiens et je serais curieux d'en connaître un plus grand nombre.»"
+  },
+  {
+   "bbox": [
+    72,
+    724,
+    1107,
+    1674
+   ],
+   "category": "Text",
+   "text": "Man behöver nästan blott undantaga detta brev, om man påstår, att akademiens »lärda brevväxling» med Frankrike, Tyskland och England inskränkte sig till ett utbyte av några ömsesidiga artighetsbetygelser. Men med Danmark var det ett annat förhållande, och det var från detta land, som akademien nu mottog de viktigaste uppslagen. Liljegren hade över ett halvår (från november 1819 till juli 1820) studerat i Köpenhamn och hade därunder lärt känna de flesta av de män, som inom det forskningsområde, som även var akademiens, då voro de ledande. Det blev också de från Danmark lånade uppslagen, som under hans sekreterartid togos upp av akademien. På Münters initiativ hade redan 1807 tillsatts en kunglig kommission »til Oldsagers opbevaring» — ett slags dansk motsvarighet till det gamla Antiquitetsarkivet i Sverige — och för denna kommission hade utfärdats en instruktion, enligt vilken kommissionen skulle undersöka 1) vilka fasta fornlämningar, som förtjänade skydd, och vilka, som jordägaren kunde förfara med enligt gottfinnande; 2) vad som kunde göras för bevarande av forntida och medeltida minnen i kyrkorna; 3) hur allmogen bäst skulle kunna undervisas om värdet av fornfynd; 4) hur med minsta möjliga omkostnad för Staten ett statsmuseum skulle kunna anläggas för rikets fornsaker, samt 5) hur ett sådant museum bäst skulle kunna användas till allmän nytta (citerat efter B. Hildebrand sid. 185). Som vi skola se — och delvis redan sett — upptogos alla dessa punkter av Liljegrens akademi."
+  },
+  {
+   "bbox": [
+    72,
+    1672,
+    1103,
+    1797
+   ],
+   "category": "Text",
+   "text": "Förbindelserna med Danmark voro visserligen äldre än Liljegrens sekreterartid, men de hade då ännu icke haft någon betydelse för akademien. Vid Rutströms död på våren 1826 hade akademien"
+  },
+  {
+   "bbox": [
+    1127,
+    733,
+    1238,
+    819
+   ],
+   "category": "Text",
+   "text": "Förbindelserna med Danmark"
+  },
+  {
+   "bbox": [
+    1032,
+    1835,
+    1096,
+    1872
+   ],
+   "category": "Page-footer",
+   "text": "191"
+  }
+ ]
+}

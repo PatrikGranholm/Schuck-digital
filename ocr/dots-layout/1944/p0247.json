@@ -1,0 +1,172 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 247,
+ "seconds": 30.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [848, 299, 1327, 345], \"category\": \"Page-header\", \"text\": \"Liljegrens tid 1826—1837\"}, {\"bbox\": [570, 370, 1603, 450], \"category\": \"Text\", \"text\": \"innehåll: »Sammandrag af dagboken öfver mitt vistande på Gottland 1826.\"}, {\"bbox\": [570, 453, 1603, 539], \"category\": \"Text\", \"text\": \"Anteckningar öfver de forntida märkvärdigheter jag råkat på min gottländska resa.\"}, {\"bbox\": [606, 536, 1603, 579], \"category\": \"Text\", \"text\": \"Serskilta observationer, som jag gjort under min resa på Gottland.\"}, {\"bbox\": [606, 579, 987, 621], \"category\": \"Text\", \"text\": \"Om guldfyndet i Lindö.\"}, {\"bbox\": [606, 621, 1031, 662], \"category\": \"Text\", \"text\": \"Om kyrkorna på Gottland.\"}, {\"bbox\": [606, 662, 1016, 703], \"category\": \"Text\", \"text\": \"Om gildessigillen i Visby.\"}, {\"bbox\": [606, 703, 1257, 744], \"category\": \"Text\", \"text\": \"Om Gottlands fördelning och bebyggande.\"}, {\"bbox\": [606, 744, 1074, 785], \"category\": \"Text\", \"text\": \"Om gottländingarnas konstflit.\"}, {\"bbox\": [606, 785, 1549, 826], \"category\": \"Text\", \"text\": \"Om gottländingarnas språk och huru de bemöta främlingar.\"}, {\"bbox\": [570, 826, 1603, 903], \"category\": \"Text\", \"text\": \"Om gottländingarnas vördnad för Gud och deraf härflytande moraliska värde.\"}, {\"bbox\": [606, 908, 1318, 950], \"category\": \"Text\", \"text\": \"Om gottländingarnas medborgerliga tänkesätt.\"}, {\"bbox\": [606, 950, 1074, 991], \"category\": \"Text\", \"text\": \"Om gottländska kamplekarna.\"}, {\"bbox\": [606, 991, 950, 1032], \"category\": \"Text\", \"text\": \"Om Gottlands nöjen.»\"}, {\"bbox\": [570, 1032, 1603, 1816], \"category\": \"Text\", \"text\": \"Som man av det anförda finner, hade Ekdahl gjort ett mycket gynnsamt intryck på akademien och på Liljegren, och den senare tyckes ganska snart efter Ekdahls återkomst till Stockholm ha anställt honom som sin medarbetare — visserligen på ett, efter vad det förefaller, dittills för Ekdahl ännu främmande område. På Gottland tyckes Ekdahl icke ha gjort några spaningar efter medeltida permebrev och omtalar dylika blott på ett enda ställe i sin reseberättelse. I Visbykonsistoriets arkiv hade han kommit att se »de gamle permebrefwen, hvilka angå donationer till kyrkorna, Högkyrkorna och private emellan, samt biskopsbref och kyrkolagar som äfven kungabref m. m. Af sådana har archivet 20 à 30, som äro mer eller mindre skadade af mal och mögel. Denna är en skatt, som jag fruktar snart skall gå förlorad, om ej akademien söker erhålla och vårda dem. Och jag tror Consistorium ej obenäget att lemna dem, om det erhåller trogna copior af dem.» Nu blev, i följd av bekantskapen med Liljegren, sysslandet med permebreven Ekdahls närmaste uppgift. Såsom vi förut sett anställde Liljegren honom i det »kansli», som han nu, tack vare Setons ekonomiska bistånd, tillsatt för redaktionen av Diplomatariet.\"}, {\"bbox\": [577, 1844, 651, 1882], \"category\": \"Page-footer\", \"text\": \"226\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    848,
+    299,
+    1327,
+    345
+   ],
+   "category": "Page-header",
+   "text": "Liljegrens tid 1826—1837"
+  },
+  {
+   "bbox": [
+    570,
+    370,
+    1603,
+    450
+   ],
+   "category": "Text",
+   "text": "innehåll: »Sammandrag af dagboken öfver mitt vistande på Gottland 1826."
+  },
+  {
+   "bbox": [
+    570,
+    453,
+    1603,
+    539
+   ],
+   "category": "Text",
+   "text": "Anteckningar öfver de forntida märkvärdigheter jag råkat på min gottländska resa."
+  },
+  {
+   "bbox": [
+    606,
+    536,
+    1603,
+    579
+   ],
+   "category": "Text",
+   "text": "Serskilta observationer, som jag gjort under min resa på Gottland."
+  },
+  {
+   "bbox": [
+    606,
+    579,
+    987,
+    621
+   ],
+   "category": "Text",
+   "text": "Om guldfyndet i Lindö."
+  },
+  {
+   "bbox": [
+    606,
+    621,
+    1031,
+    662
+   ],
+   "category": "Text",
+   "text": "Om kyrkorna på Gottland."
+  },
+  {
+   "bbox": [
+    606,
+    662,
+    1016,
+    703
+   ],
+   "category": "Text",
+   "text": "Om gildessigillen i Visby."
+  },
+  {
+   "bbox": [
+    606,
+    703,
+    1257,
+    744
+   ],
+   "category": "Text",
+   "text": "Om Gottlands fördelning och bebyggande."
+  },
+  {
+   "bbox": [
+    606,
+    744,
+    1074,
+    785
+   ],
+   "category": "Text",
+   "text": "Om gottländingarnas konstflit."
+  },
+  {
+   "bbox": [
+    606,
+    785,
+    1549,
+    826
+   ],
+   "category": "Text",
+   "text": "Om gottländingarnas språk och huru de bemöta främlingar."
+  },
+  {
+   "bbox": [
+    570,
+    826,
+    1603,
+    903
+   ],
+   "category": "Text",
+   "text": "Om gottländingarnas vördnad för Gud och deraf härflytande moraliska värde."
+  },
+  {
+   "bbox": [
+    606,
+    908,
+    1318,
+    950
+   ],
+   "category": "Text",
+   "text": "Om gottländingarnas medborgerliga tänkesätt."
+  },
+  {
+   "bbox": [
+    606,
+    950,
+    1074,
+    991
+   ],
+   "category": "Text",
+   "text": "Om gottländska kamplekarna."
+  },
+  {
+   "bbox": [
+    606,
+    991,
+    950,
+    1032
+   ],
+   "category": "Text",
+   "text": "Om Gottlands nöjen.»"
+  },
+  {
+   "bbox": [
+    570,
+    1032,
+    1603,
+    1816
+   ],
+   "category": "Text",
+   "text": "Som man av det anförda finner, hade Ekdahl gjort ett mycket gynnsamt intryck på akademien och på Liljegren, och den senare tyckes ganska snart efter Ekdahls återkomst till Stockholm ha anställt honom som sin medarbetare — visserligen på ett, efter vad det förefaller, dittills för Ekdahl ännu främmande område. På Gottland tyckes Ekdahl icke ha gjort några spaningar efter medeltida permebrev och omtalar dylika blott på ett enda ställe i sin reseberättelse. I Visbykonsistoriets arkiv hade han kommit att se »de gamle permebrefwen, hvilka angå donationer till kyrkorna, Högkyrkorna och private emellan, samt biskopsbref och kyrkolagar som äfven kungabref m. m. Af sådana har archivet 20 à 30, som äro mer eller mindre skadade af mal och mögel. Denna är en skatt, som jag fruktar snart skall gå förlorad, om ej akademien söker erhålla och vårda dem. Och jag tror Consistorium ej obenäget att lemna dem, om det erhåller trogna copior af dem.» Nu blev, i följd av bekantskapen med Liljegren, sysslandet med permebreven Ekdahls närmaste uppgift. Såsom vi förut sett anställde Liljegren honom i det »kansli», som han nu, tack vare Setons ekonomiska bistånd, tillsatt för redaktionen av Diplomatariet."
+  },
+  {
+   "bbox": [
+    577,
+    1844,
+    651,
+    1882
+   ],
+   "category": "Page-footer",
+   "text": "226"
+  }
+ ]
+}

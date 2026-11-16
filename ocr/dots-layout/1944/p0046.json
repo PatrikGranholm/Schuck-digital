@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 46,
+ "seconds": 21.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [475, 284, 823, 326], \"category\": \"Section-header\", \"text\": \"De nya ledamöterna\"}, {\"bbox\": [129, 355, 1163, 479], \"category\": \"Text\", \"text\": \"nader kom att tillhöra akademien, kunde med fog betraktas som en passande tacksamhetsgärd för den största donation, som akademien dittills fått mottaga.\"}, {\"bbox\": [127, 479, 1163, 1017], \"category\": \"Text\", \"text\": \"Av mera blandad karaktär voro de elva nyvalen till den arbetande klassen. Sedan Fryxell och Strinnholm invalts i denna, räknade akademien bland sina arbetande ledamöter vårt lands tre då främste historiker, ty Geijer tillhörde redan förut akademien. Det kanske viktigaste förvärvet gjorde akademien dock nog, då den valde Leonard Rääf, ty med alla sina egenheter passade han kanske mer än någon annan såsom ledamot i en antikvarisk-historisk akademi. Även den fint bildade Grubbe och den trots sina löjligheter kunnige och intresserade Schröder tillförde akademien en förstärkning. Betydligt svagare var väl Lindfors, men även hans inval kunde försvaras. Avgjort misslyckade voro blott valen av de tre, Tannström, Wallman och Westin, som aldrig togo inträde, och av Sjöbring och Lundvall, som gärna kunde ha underlåtit detta.\"}, {\"bbox\": [1111, 1837, 1158, 1875], \"category\": \"Page-footer\", \"text\": \"29\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    475,
+    284,
+    823,
+    326
+   ],
+   "category": "Section-header",
+   "text": "De nya ledamöterna"
+  },
+  {
+   "bbox": [
+    129,
+    355,
+    1163,
+    479
+   ],
+   "category": "Text",
+   "text": "nader kom att tillhöra akademien, kunde med fog betraktas som en passande tacksamhetsgärd för den största donation, som akademien dittills fått mottaga."
+  },
+  {
+   "bbox": [
+    127,
+    479,
+    1163,
+    1017
+   ],
+   "category": "Text",
+   "text": "Av mera blandad karaktär voro de elva nyvalen till den arbetande klassen. Sedan Fryxell och Strinnholm invalts i denna, räknade akademien bland sina arbetande ledamöter vårt lands tre då främste historiker, ty Geijer tillhörde redan förut akademien. Det kanske viktigaste förvärvet gjorde akademien dock nog, då den valde Leonard Rääf, ty med alla sina egenheter passade han kanske mer än någon annan såsom ledamot i en antikvarisk-historisk akademi. Även den fint bildade Grubbe och den trots sina löjligheter kunnige och intresserade Schröder tillförde akademien en förstärkning. Betydligt svagare var väl Lindfors, men även hans inval kunde försvaras. Avgjort misslyckade voro blott valen av de tre, Tannström, Wallman och Westin, som aldrig togo inträde, och av Sjöbring och Lundvall, som gärna kunde ha underlåtit detta."
+  },
+  {
+   "bbox": [
+    1111,
+    1837,
+    1158,
+    1875
+   ],
+   "category": "Page-footer",
+   "text": "29"
+  }
+ ]
+}

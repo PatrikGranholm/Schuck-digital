@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 477,
+ "seconds": 28.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [832, 272, 1306, 316], \"category\": \"Page-header\", \"text\": \"Liljegrens tid 1826—1837\"}, {\"bbox\": [421, 350, 542, 412], \"category\": \"Text\", \"text\": \"Reuterdahl\\nprisvinnare\"}, {\"bbox\": [556, 342, 1599, 1291], \"category\": \"Text\", \"text\": \"Även 1833 var ett lyckligt tävlingsår. Visserligen mottog akademien även då blott en enda skrift, men också denna en för sin tid mycket god undersökning, som står över alla, som insänts till akademien före Liljegrens tid. Avhandlingens titel var Öfversigt af den behandling, som det hedniska Sveriges historia erhållit före medlet af 17:de århundradet. För vår uppfattning synes en dylik undersökning böra betraktas som historisk, men akademien räknade den såsom antikvarisk, tydligen därför att den rörde den förkristna tiden. Till granskare utsågos dock de båda historikerna Geijer och Schröder, vilka den 19 mars avgåvo sitt yttrande till akademien.¹ Enligt detta hade granskarna funnit avhandlingen »röja den kännedom om ämnet, att den synes förtjena Kongl. Academiens pris med wilkor att författaren renar sitt språk från onödiga utländska former och germanismer, hvilket lätt torde ske. Hvarjemte också tillkännagafs, det äfven Förste Expeditions Secreteraren, Herr Friherre Adlerbeth jemte Academiens Secreterare haft tillfälle att närmare granska dess innehåll. Herr Friherren Adlerbeth ansåg sig genom uppläsande af ett stycke i början, en del midt uti afhandlingen och slutet kunna gifwa Academien en fullkomlig åsigt af författarens ämne, behandlingssätt och wärdet af skriften för att Academien såmedelst kunde deröfver döma.» Med anledning härav beslöt akademien att tilldela författaren det »antiquariska priset, en guldmedaille af 15 ducater». Författaren var akademiadjunkten doktor Reuterdahl.\"}, {\"bbox\": [556, 1291, 1599, 1663], \"category\": \"Text\", \"text\": \"Reuterdahl betraktades ju av samtiden som en mindre lyckad stilist och talare, och den onöjaktiga språkbehandlingen var ock den enda anmärkning, som granskarna riktade mot hans skrift. Utan tvivel hade samtidens uppfattning fog för sig, ehuru å den andra sidan Reuterdahls brister i detta avseende väl mycket framhållits. Stilgrodor saknas visserligen icke i hans arbeten, men i det hela är hans framställning klar och redig. Vad denna avhandling — som möjligen före tryckningen underkastats en revision — beträffar, synas inga svårare anmärkningar kunna göras.\"}, {\"bbox\": [595, 1661, 1597, 1705], \"category\": \"Text\", \"text\": \"Den uppgift, som i detta fall skulle lösas, låg för en man med\"}, {\"bbox\": [559, 1726, 1597, 1789], \"category\": \"Footnote\", \"text\": \"¹ I protokollsboken har denna paragraf (§ 87) orätt infogats, dels i protokollet den 19 mars, dels i protokollet den 12 mars. Själva granskningsutlåtandet har ej bevarats.\"}, {\"bbox\": [559, 1816, 636, 1861], \"category\": \"Page-footer\", \"text\": \"448\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    832,
+    272,
+    1306,
+    316
+   ],
+   "category": "Page-header",
+   "text": "Liljegrens tid 1826—1837"
+  },
+  {
+   "bbox": [
+    421,
+    350,
+    542,
+    412
+   ],
+   "category": "Text",
+   "text": "Reuterdahl\nprisvinnare"
+  },
+  {
+   "bbox": [
+    556,
+    342,
+    1599,
+    1291
+   ],
+   "category": "Text",
+   "text": "Även 1833 var ett lyckligt tävlingsår. Visserligen mottog akademien även då blott en enda skrift, men också denna en för sin tid mycket god undersökning, som står över alla, som insänts till akademien före Liljegrens tid. Avhandlingens titel var Öfversigt af den behandling, som det hedniska Sveriges historia erhållit före medlet af 17:de århundradet. För vår uppfattning synes en dylik undersökning böra betraktas som historisk, men akademien räknade den såsom antikvarisk, tydligen därför att den rörde den förkristna tiden. Till granskare utsågos dock de båda historikerna Geijer och Schröder, vilka den 19 mars avgåvo sitt yttrande till akademien.¹ Enligt detta hade granskarna funnit avhandlingen »röja den kännedom om ämnet, att den synes förtjena Kongl. Academiens pris med wilkor att författaren renar sitt språk från onödiga utländska former och germanismer, hvilket lätt torde ske. Hvarjemte också tillkännagafs, det äfven Förste Expeditions Secreteraren, Herr Friherre Adlerbeth jemte Academiens Secreterare haft tillfälle att närmare granska dess innehåll. Herr Friherren Adlerbeth ansåg sig genom uppläsande af ett stycke i början, en del midt uti afhandlingen och slutet kunna gifwa Academien en fullkomlig åsigt af författarens ämne, behandlingssätt och wärdet af skriften för att Academien såmedelst kunde deröfver döma.» Med anledning härav beslöt akademien att tilldela författaren det »antiquariska priset, en guldmedaille af 15 ducater». Författaren var akademiadjunkten doktor Reuterdahl."
+  },
+  {
+   "bbox": [
+    556,
+    1291,
+    1599,
+    1663
+   ],
+   "category": "Text",
+   "text": "Reuterdahl betraktades ju av samtiden som en mindre lyckad stilist och talare, och den onöjaktiga språkbehandlingen var ock den enda anmärkning, som granskarna riktade mot hans skrift. Utan tvivel hade samtidens uppfattning fog för sig, ehuru å den andra sidan Reuterdahls brister i detta avseende väl mycket framhållits. Stilgrodor saknas visserligen icke i hans arbeten, men i det hela är hans framställning klar och redig. Vad denna avhandling — som möjligen före tryckningen underkastats en revision — beträffar, synas inga svårare anmärkningar kunna göras."
+  },
+  {
+   "bbox": [
+    595,
+    1661,
+    1597,
+    1705
+   ],
+   "category": "Text",
+   "text": "Den uppgift, som i detta fall skulle lösas, låg för en man med"
+  },
+  {
+   "bbox": [
+    559,
+    1726,
+    1597,
+    1789
+   ],
+   "category": "Footnote",
+   "text": "¹ I protokollsboken har denna paragraf (§ 87) orätt infogats, dels i protokollet den 19 mars, dels i protokollet den 12 mars. Själva granskningsutlåtandet har ej bevarats."
+  },
+  {
+   "bbox": [
+    559,
+    1816,
+    636,
+    1861
+   ],
+   "category": "Page-footer",
+   "text": "448"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 200,
+ "seconds": 27.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [463, 281, 752, 322], \"category\": \"Section-header\", \"text\": \"Korrespondenter\"}, {\"bbox\": [92, 351, 1126, 1508], \"category\": \"Text\", \"text\": \"Alldeles samtidigt och oberoende av den påstötning man strax därefter fick från det franska sällskapet, hade man den 12 december 1826 valt två korrespondenter – de första, vilka redan gjort och sedan allt framgent kommo att göra verkligt skäl för namnet: danskarna Thomsen och Rafn. Och några veckor senare tog Liljegren upp tanken på en ytterligare utvidgad samverkan mellan akademien och utländska antikvariska och historiska samfund. Uppslaget härtill hade han fått från den 1826 började inventeringen efter Rutström. Vid denna hade han – jag upprepar här, vad jag redan i ett annat sammanhang anfört – iakttagit, att akademiens arkiv saknade så gott som alla brev från »främmande lärde» och samfund och hemställde »till academiens omtanka att utse sättet, hvarpå det åsyftade ändamålet skulle bäst kunna vinnas, nämnande dervid förslagsvis en närmare beröring med de många nu för tiden i samma väg varande Lärda samfund eller deras Sekreterare, hvarigenom underrättelser ömsesidigt kunde meddelas. Academien, som tog detta i närmare öfvervägande, fann ett lifligare meddelande mellan de många i academiens ämnen i nästan alla bildade länder upprättade Samfund vara för Forskningen af serdeles vigt såsom ett medel att få del så väl af deras arbetens föremål och behandling, ej sällan tjenande till ömsesidig hjelpreda, efterdöme eller ädel täflan som ock af den derigenom vunna upplysning; och ansåg academien följakteligen lämpligast att med Secreterarne i utländska Samfund isynnerhet underhålla en flitig brefväxling, till hvars begynnande academien i anledning häraf beslöt att kalla Secreteraren i hvarje utländskt märkeligare Historiskt-Antiquariskt Samfund till academiens Correspondent med serskildt anhållan om ett sådant ömsesidigt meddelande af hvad i vettenskapen märkligt sig företer.» (Prot. 16 jan. 1827.)\"}, {\"bbox\": [94, 1506, 1127, 1797], \"category\": \"Text\", \"text\": \"Den 6 februari kom ärendet åter före: »I anledning af Academiens beslut af den 16 Januarii angående utvägar till en lifligare utrikes Correspondance hade Academiens Extra Ordinarie Amanuens, Vice Bibliothekarien Schröder uppsatt och inlemnat en förteckning på de i detta afseende märkligaste af honom kända Samfund och Lärde, och såsom Academien fann sig af deras brefväxling kunna vänta många vigtiga underrättelser rörande häfdeforskningen på åtskilliga\"}, {\"bbox\": [1053, 1825, 1120, 1860], \"category\": \"Page-footer\", \"text\": \"181\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    463,
+    281,
+    752,
+    322
+   ],
+   "category": "Section-header",
+   "text": "Korrespondenter"
+  },
+  {
+   "bbox": [
+    92,
+    351,
+    1126,
+    1508
+   ],
+   "category": "Text",
+   "text": "Alldeles samtidigt och oberoende av den påstötning man strax därefter fick från det franska sällskapet, hade man den 12 december 1826 valt två korrespondenter – de första, vilka redan gjort och sedan allt framgent kommo att göra verkligt skäl för namnet: danskarna Thomsen och Rafn. Och några veckor senare tog Liljegren upp tanken på en ytterligare utvidgad samverkan mellan akademien och utländska antikvariska och historiska samfund. Uppslaget härtill hade han fått från den 1826 började inventeringen efter Rutström. Vid denna hade han – jag upprepar här, vad jag redan i ett annat sammanhang anfört – iakttagit, att akademiens arkiv saknade så gott som alla brev från »främmande lärde» och samfund och hemställde »till academiens omtanka att utse sättet, hvarpå det åsyftade ändamålet skulle bäst kunna vinnas, nämnande dervid förslagsvis en närmare beröring med de många nu för tiden i samma väg varande Lärda samfund eller deras Sekreterare, hvarigenom underrättelser ömsesidigt kunde meddelas. Academien, som tog detta i närmare öfvervägande, fann ett lifligare meddelande mellan de många i academiens ämnen i nästan alla bildade länder upprättade Samfund vara för Forskningen af serdeles vigt såsom ett medel att få del så väl af deras arbetens föremål och behandling, ej sällan tjenande till ömsesidig hjelpreda, efterdöme eller ädel täflan som ock af den derigenom vunna upplysning; och ansåg academien följakteligen lämpligast att med Secreterarne i utländska Samfund isynnerhet underhålla en flitig brefväxling, till hvars begynnande academien i anledning häraf beslöt att kalla Secreteraren i hvarje utländskt märkeligare Historiskt-Antiquariskt Samfund till academiens Correspondent med serskildt anhållan om ett sådant ömsesidigt meddelande af hvad i vettenskapen märkligt sig företer.» (Prot. 16 jan. 1827.)"
+  },
+  {
+   "bbox": [
+    94,
+    1506,
+    1127,
+    1797
+   ],
+   "category": "Text",
+   "text": "Den 6 februari kom ärendet åter före: »I anledning af Academiens beslut af den 16 Januarii angående utvägar till en lifligare utrikes Correspondance hade Academiens Extra Ordinarie Amanuens, Vice Bibliothekarien Schröder uppsatt och inlemnat en förteckning på de i detta afseende märkligaste af honom kända Samfund och Lärde, och såsom Academien fann sig af deras brefväxling kunna vänta många vigtiga underrättelser rörande häfdeforskningen på åtskilliga"
+  },
+  {
+   "bbox": [
+    1053,
+    1825,
+    1120,
+    1860
+   ],
+   "category": "Page-footer",
+   "text": "181"
+  }
+ ]
+}

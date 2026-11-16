@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 49,
+ "seconds": 28.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [837, 279, 1307, 323], \"category\": \"Section-header\", \"text\": \"Liljegrens tid 1826—1837\"}, {\"bbox\": [555, 349, 1592, 1582], \"category\": \"Text\", \"text\": \"inom den efterkantska filosofien, söker väl att ge en idealiserad bild av den utmärkte läraren, men lyckas icke skänka läsaren ett verkligt levande porträtt av den i vardagslivet ganska originelle filosofen, som vi bättre känna genom samtidas mera realistiska anteckningar om honom. Geijers uppgift var svårare. Biberg hade dock gjort en insats, och det kunde Fleming knappast sägas ha gjort, varken inom vetenskapen, inom litteraturen eller inom statslivet, och de olika etapperna inom hans levnadsbana, från »uppvaktande cavailler» hos hertiginnan av Södermanland till riksmarskalk, serafimerriddare och statsråd, för vilka Geijer redogör, intressera oss numera ganska litet. Å den andra sidan hade Fleming icke som så många andra höga herrar varit någon obetydlighet. Genom sin personlighet, sin verkliga nobless utan all högdragenhet, sin redbarhet och sina vittra och lärda intressen hade han varit en riddare »sans peur et sans reproche» och som sådan ett tacksamt föremål för en människoskildrare. Denna personlighet kommer väl fram i Geijers tal, men icke med den levande åskådlighet, som man kunnat vänta av en Geijer. Minnestecknaren kände sig, som det förefaller, bunden av den biografiska data-karaktär, som dylika levernesbeskrivningar fått inom akademien, och det var Geijers minnestal över Fleming, som Strindberg sedan i Nya Riket parodierade, då han på Svenska akademiens högtidsdag låter en ledamot i denna uppläsa det minnestal över Fleming, för vilket en skolpojke vunnit akademiens pris i vältalighet. Parodien — som ju bör överdriva de svaga och angripbara punkterna i originalet — är såsom parodi ganska träffande med det undantaget, att tal av denna karaktär aldrig, varken på Gustav III:s tid eller senare, skulle ha prisbelönts i *Svenska akademien*. De dåliga talen voro i denna akademi dåliga i motsatt riktning, och Strindbergs parodi drabbar därför mera minnestalen i Vitterhets Historie och Antikvitetsakademien, sådana dessa oftast voro för en hundra år tillbaka.\"}, {\"bbox\": [414, 1591, 554, 1659], \"category\": \"Text\", \"text\": \"Över\\nSkjöldebrand\"}, {\"bbox\": [555, 1586, 1590, 1789], \"category\": \"Text\", \"text\": \"I Svenska akademien hade man för övrigt redan vid denna tid börjat övergiva de gustavianska äreminnenas stil, deras förkonstlade omskrivningar och deras rädsla för nakna fakta, och en representant för denna nya vältalighet var Beskow, som 1834 — samma år han blivit Svenska akademiens sekreterare — invalts i Vitterhets Historie och\"}, {\"bbox\": [560, 1832, 606, 1869], \"category\": \"Page-footer\", \"text\": \"32\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    837,
+    279,
+    1307,
+    323
+   ],
+   "category": "Section-header",
+   "text": "Liljegrens tid 1826—1837"
+  },
+  {
+   "bbox": [
+    555,
+    349,
+    1592,
+    1582
+   ],
+   "category": "Text",
+   "text": "inom den efterkantska filosofien, söker väl att ge en idealiserad bild av den utmärkte läraren, men lyckas icke skänka läsaren ett verkligt levande porträtt av den i vardagslivet ganska originelle filosofen, som vi bättre känna genom samtidas mera realistiska anteckningar om honom. Geijers uppgift var svårare. Biberg hade dock gjort en insats, och det kunde Fleming knappast sägas ha gjort, varken inom vetenskapen, inom litteraturen eller inom statslivet, och de olika etapperna inom hans levnadsbana, från »uppvaktande cavailler» hos hertiginnan av Södermanland till riksmarskalk, serafimerriddare och statsråd, för vilka Geijer redogör, intressera oss numera ganska litet. Å den andra sidan hade Fleming icke som så många andra höga herrar varit någon obetydlighet. Genom sin personlighet, sin verkliga nobless utan all högdragenhet, sin redbarhet och sina vittra och lärda intressen hade han varit en riddare »sans peur et sans reproche» och som sådan ett tacksamt föremål för en människoskildrare. Denna personlighet kommer väl fram i Geijers tal, men icke med den levande åskådlighet, som man kunnat vänta av en Geijer. Minnestecknaren kände sig, som det förefaller, bunden av den biografiska data-karaktär, som dylika levernesbeskrivningar fått inom akademien, och det var Geijers minnestal över Fleming, som Strindberg sedan i Nya Riket parodierade, då han på Svenska akademiens högtidsdag låter en ledamot i denna uppläsa det minnestal över Fleming, för vilket en skolpojke vunnit akademiens pris i vältalighet. Parodien — som ju bör överdriva de svaga och angripbara punkterna i originalet — är såsom parodi ganska träffande med det undantaget, att tal av denna karaktär aldrig, varken på Gustav III:s tid eller senare, skulle ha prisbelönts i *Svenska akademien*. De dåliga talen voro i denna akademi dåliga i motsatt riktning, och Strindbergs parodi drabbar därför mera minnestalen i Vitterhets Historie och Antikvitetsakademien, sådana dessa oftast voro för en hundra år tillbaka."
+  },
+  {
+   "bbox": [
+    414,
+    1591,
+    554,
+    1659
+   ],
+   "category": "Text",
+   "text": "Över\nSkjöldebrand"
+  },
+  {
+   "bbox": [
+    555,
+    1586,
+    1590,
+    1789
+   ],
+   "category": "Text",
+   "text": "I Svenska akademien hade man för övrigt redan vid denna tid börjat övergiva de gustavianska äreminnenas stil, deras förkonstlade omskrivningar och deras rädsla för nakna fakta, och en representant för denna nya vältalighet var Beskow, som 1834 — samma år han blivit Svenska akademiens sekreterare — invalts i Vitterhets Historie och"
+  },
+  {
+   "bbox": [
+    560,
+    1832,
+    606,
+    1869
+   ],
+   "category": "Page-footer",
+   "text": "32"
+  }
+ ]
+}

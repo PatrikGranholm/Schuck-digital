@@ -1,0 +1,22 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 9,
+ "seconds": 8.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [315, 515, 1665, 885], \"category\": \"Text\", \"text\": \"KOR IN TRINITY\\nETERNITY IN ONE\\nVARIETY IN ALL.\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    315,
+    515,
+    1665,
+    885
+   ],
+   "category": "Text",
+   "text": "KOR IN TRINITY\nETERNITY IN ONE\nVARIETY IN ALL."
+  }
+ ]
+}

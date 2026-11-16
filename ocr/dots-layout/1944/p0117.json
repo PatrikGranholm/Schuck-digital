@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 117,
+ "seconds": 28.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [841, 276, 1315, 320], \"category\": \"Page-header\", \"text\": \"Liljegrens tid 1826—1837\"}, {\"bbox\": [559, 347, 1600, 1133], \"category\": \"Text\", \"text\": \"teristiskt för det ringa intresse, man hyste för akademiens i egentlig mening eget arkiv: »Alla antiquitets archivets manuscripter och handlingar, afskrifter efter de till Kongl. Bibliotheket tillförene aflemnade original Permebref, så af Örnhielm och Peringskiöld som af nyare samlade, jemte samma archivi Boksamling och andra Documenter äfven som alla Witterhets Academien tillhörige Protocoller, Manuscripter och Handlingar samt de återstående Exemplar af senare delarne af dess tryckta Handlingar.» I detta inventarium nämnas väl — blott i största allmänhet, utan all specifikation — de medeltida arkivalierna samt den gamla Vitterhetsakademiens protokoll, manuskript och handlingar, men icke den nya ombildade akademiens. Även denna hade dock ett ganska betydande arkiv: protokoll, tävlingsskrifter, kungabrev, skrivelser från landshövdingeämbeten, kanslikollegium, korrespondenter m. m., men icke ens nu kom någon katalog över detta arkiv på tal inom akademien. Vad inventeringsmännen här avsågo, är, som sagt, ej rätt klart. Men inom akademien tyckes man blott ha tänkt på ett ordnande av de medeltida arkivalierna, och frågan om dem kom redan från början att tagas i samband med ett annat företag: utgivandet av Svenskt Diplomatarium.\"}, {\"bbox\": [559, 1132, 1598, 1668], \"category\": \"Text\", \"text\": \"Vid den delning, som 1781 gjordes av antikvitetsarkivets böcker och handskrifter, borde, såsom vi nu tycka, alla de medeltida perme- och pappersbreven ha tillfallit Riksarkivet. Men så skedde icke, ty Riksarkivet ansågs då endast vara ett arkiv för handlingar efter 1520. I stället gingo dessa medeltidsbrev till Kungl. Biblioteket, ehuru — inkonsekvent nog — Örnhielms, Peringskiölds, Berchs och Brocmans så viktiga avskriftssamlingar fingo stanna kvar i Antikvitetsarkivet och därifrån övergingo till Vitterhets Historie och Antikvitetsakademien. Inom denna ökades sedermera detta arkiv genom de avskrifter, som först Broman och sedan Liljegren gjorde av de i Kungl. Biblioteket förvarade breven. Det var för dessa äldre arkivalier, ej för akademiens eget efter 1786 tillkomna arkiv, som man inom akademien intresserade sig.\"}, {\"bbox\": [561, 1667, 1596, 1792], \"category\": \"Text\", \"text\": \"I akademien togs frågan om dem upp redan den 18 april 1826 — samma dag som Rutströms död där anmäldes: »Hemställde Herr Presidenten af Tibell, om icke den i academiens vård varande dyr-\"}, {\"bbox\": [561, 1820, 611, 1865], \"category\": \"Page-footer\", \"text\": \"98\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    841,
+    276,
+    1315,
+    320
+   ],
+   "category": "Page-header",
+   "text": "Liljegrens tid 1826—1837"
+  },
+  {
+   "bbox": [
+    559,
+    347,
+    1600,
+    1133
+   ],
+   "category": "Text",
+   "text": "teristiskt för det ringa intresse, man hyste för akademiens i egentlig mening eget arkiv: »Alla antiquitets archivets manuscripter och handlingar, afskrifter efter de till Kongl. Bibliotheket tillförene aflemnade original Permebref, så af Örnhielm och Peringskiöld som af nyare samlade, jemte samma archivi Boksamling och andra Documenter äfven som alla Witterhets Academien tillhörige Protocoller, Manuscripter och Handlingar samt de återstående Exemplar af senare delarne af dess tryckta Handlingar.» I detta inventarium nämnas väl — blott i största allmänhet, utan all specifikation — de medeltida arkivalierna samt den gamla Vitterhetsakademiens protokoll, manuskript och handlingar, men icke den nya ombildade akademiens. Även denna hade dock ett ganska betydande arkiv: protokoll, tävlingsskrifter, kungabrev, skrivelser från landshövdingeämbeten, kanslikollegium, korrespondenter m. m., men icke ens nu kom någon katalog över detta arkiv på tal inom akademien. Vad inventeringsmännen här avsågo, är, som sagt, ej rätt klart. Men inom akademien tyckes man blott ha tänkt på ett ordnande av de medeltida arkivalierna, och frågan om dem kom redan från början att tagas i samband med ett annat företag: utgivandet av Svenskt Diplomatarium."
+  },
+  {
+   "bbox": [
+    559,
+    1132,
+    1598,
+    1668
+   ],
+   "category": "Text",
+   "text": "Vid den delning, som 1781 gjordes av antikvitetsarkivets böcker och handskrifter, borde, såsom vi nu tycka, alla de medeltida perme- och pappersbreven ha tillfallit Riksarkivet. Men så skedde icke, ty Riksarkivet ansågs då endast vara ett arkiv för handlingar efter 1520. I stället gingo dessa medeltidsbrev till Kungl. Biblioteket, ehuru — inkonsekvent nog — Örnhielms, Peringskiölds, Berchs och Brocmans så viktiga avskriftssamlingar fingo stanna kvar i Antikvitetsarkivet och därifrån övergingo till Vitterhets Historie och Antikvitetsakademien. Inom denna ökades sedermera detta arkiv genom de avskrifter, som först Broman och sedan Liljegren gjorde av de i Kungl. Biblioteket förvarade breven. Det var för dessa äldre arkivalier, ej för akademiens eget efter 1786 tillkomna arkiv, som man inom akademien intresserade sig."
+  },
+  {
+   "bbox": [
+    561,
+    1667,
+    1596,
+    1792
+   ],
+   "category": "Text",
+   "text": "I akademien togs frågan om dem upp redan den 18 april 1826 — samma dag som Rutströms död där anmäldes: »Hemställde Herr Presidenten af Tibell, om icke den i academiens vård varande dyr-"
+  },
+  {
+   "bbox": [
+    561,
+    1820,
+    611,
+    1865
+   ],
+   "category": "Page-footer",
+   "text": "98"
+  }
+ ]
+}

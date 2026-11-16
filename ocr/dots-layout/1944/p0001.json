@@ -1,0 +1,90 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 1,
+ "seconds": 57.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [1567, 0, 1652, 2322], \"category\": \"Page-header\", \"text\": \"1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29\"}, {\"bbox\": [766, 237, 892, 367], \"category\": \"Picture\"}, {\"bbox\": [239, 413, 1367, 564], \"category\": \"Text\", \"text\": \"Det här verket är upphovrättskyddat enligt Lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk. Det har digitaliserats med stöd av Kap. 1, 16 § första stycket p 1, för forskningsändamål, och får inte spridas vidare till allmänheten utan upphovsrättsinehavarens medgivande.\"}, {\"bbox\": [239, 597, 1414, 747], \"category\": \"Text\", \"text\": \"Alla tryckta texter är OCR-tolkade till maskinläsbar text. Det betyder att du kan söka och kopiera texten från dokumentet. Vissa äldre dokument med dåligt tryck kan vara svåra att OCR-tolka korrekt vilket medför att den OCR-tolkade texten kan innehålla fel och därför bör man visuellt jämföra med verkets bilder för att avgöra vad som är riktigt.\"}, {\"bbox\": [239, 821, 1411, 965], \"category\": \"Text\", \"text\": \"This work is protected by Swedish Copyright Law (Lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk). It has been digitized with support of Kap. 1, 16 § första stycket p 1, for scientific purpose, and may no be dissiminated to the public without consent of the copyright holder.\"}, {\"bbox\": [239, 1006, 1418, 1159], \"category\": \"Text\", \"text\": \"All printed texts have been OCR-processed and converted to machine readable text. This means that you can search and copy text from the document. Some early printed books are hard to OCR-process correctly and the text may contain errors, so one should always visually compare it with the images to determine what is correct.\"}, {\"bbox\": [771, 2075, 894, 2202], \"category\": \"Picture\"}, {\"bbox\": [573, 2213, 1091, 2256], \"category\": \"Text\", \"text\": \"GÖTEBORGS UNIVERSITET\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    1567,
+    0,
+    1652,
+    2322
+   ],
+   "category": "Page-header",
+   "text": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29"
+  },
+  {
+   "bbox": [
+    766,
+    237,
+    892,
+    367
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    239,
+    413,
+    1367,
+    564
+   ],
+   "category": "Text",
+   "text": "Det här verket är upphovrättskyddat enligt Lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk. Det har digitaliserats med stöd av Kap. 1, 16 § första stycket p 1, för forskningsändamål, och får inte spridas vidare till allmänheten utan upphovsrättsinehavarens medgivande."
+  },
+  {
+   "bbox": [
+    239,
+    597,
+    1414,
+    747
+   ],
+   "category": "Text",
+   "text": "Alla tryckta texter är OCR-tolkade till maskinläsbar text. Det betyder att du kan söka och kopiera texten från dokumentet. Vissa äldre dokument med dåligt tryck kan vara svåra att OCR-tolka korrekt vilket medför att den OCR-tolkade texten kan innehålla fel och därför bör man visuellt jämföra med verkets bilder för att avgöra vad som är riktigt."
+  },
+  {
+   "bbox": [
+    239,
+    821,
+    1411,
+    965
+   ],
+   "category": "Text",
+   "text": "This work is protected by Swedish Copyright Law (Lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk). It has been digitized with support of Kap. 1, 16 § första stycket p 1, for scientific purpose, and may no be dissiminated to the public without consent of the copyright holder."
+  },
+  {
+   "bbox": [
+    239,
+    1006,
+    1418,
+    1159
+   ],
+   "category": "Text",
+   "text": "All printed texts have been OCR-processed and converted to machine readable text. This means that you can search and copy text from the document. Some early printed books are hard to OCR-process correctly and the text may contain errors, so one should always visually compare it with the images to determine what is correct."
+  },
+  {
+   "bbox": [
+    771,
+    2075,
+    894,
+    2202
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    573,
+    2213,
+    1091,
+    2256
+   ],
+   "category": "Text",
+   "text": "GÖTEBORGS UNIVERSITET"
+  }
+ ]
+}

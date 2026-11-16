@@ -1,0 +1,88 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 32,
+ "seconds": 12.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [137, 364, 627, 995], \"category\": \"Picture\"}, {\"bbox\": [161, 1022, 597, 1129], \"category\": \"Caption\", \"text\": \"MATHIAS ROSENBLAD\\nOljemålning av F. Westin\\n(i enskild ägo, S. P. A.)\"}, {\"bbox\": [731, 364, 1269, 995], \"category\": \"Picture\"}, {\"bbox\": [763, 1022, 1237, 1131], \"category\": \"Caption\", \"text\": \"JÖNS JACOB BERZELIUS\\nOljemålning av J. G. Sandberg\\n(Linköpings Läroverk)\"}, {\"bbox\": [139, 1161, 627, 1797], \"category\": \"Picture\"}, {\"bbox\": [111, 1831, 644, 1939], \"category\": \"Caption\", \"text\": \"BERNHARD VON BESKOW\\nOljemålning av okänd konstnär\\n(K. Vitterhets Historie och Antikvitets Akademien)\"}, {\"bbox\": [731, 1165, 1267, 1801], \"category\": \"Picture\"}, {\"bbox\": [824, 1831, 1166, 1939], \"category\": \"Caption\", \"text\": \"HANS JÄRTA\\nOljemålning av J. G. Sandberg\\n(i enskild ägo)\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    137,
+    364,
+    627,
+    995
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    161,
+    1022,
+    597,
+    1129
+   ],
+   "category": "Caption",
+   "text": "MATHIAS ROSENBLAD\nOljemålning av F. Westin\n(i enskild ägo, S. P. A.)"
+  },
+  {
+   "bbox": [
+    731,
+    364,
+    1269,
+    995
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    763,
+    1022,
+    1237,
+    1131
+   ],
+   "category": "Caption",
+   "text": "JÖNS JACOB BERZELIUS\nOljemålning av J. G. Sandberg\n(Linköpings Läroverk)"
+  },
+  {
+   "bbox": [
+    139,
+    1161,
+    627,
+    1797
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    111,
+    1831,
+    644,
+    1939
+   ],
+   "category": "Caption",
+   "text": "BERNHARD VON BESKOW\nOljemålning av okänd konstnär\n(K. Vitterhets Historie och Antikvitets Akademien)"
+  },
+  {
+   "bbox": [
+    731,
+    1165,
+    1267,
+    1801
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    824,
+    1831,
+    1166,
+    1939
+   ],
+   "category": "Caption",
+   "text": "HANS JÄRTA\nOljemålning av J. G. Sandberg\n(i enskild ägo)"
+  }
+ ]
+}

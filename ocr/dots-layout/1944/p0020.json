@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 20,
+ "seconds": 28.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [372, 285, 955, 323], \"category\": \"Section-header\", \"text\": \"Sekreterare, amanuens och ritare\"}, {\"bbox\": [144, 355, 1187, 811], \"category\": \"Text\", \"text\": \"en man i sina bästa år, född 1791, hade varit akademisk lärare i Lund, fått professors titel, utgivit flere arbeten just i de vetenskapsgrenar, som tillhörde akademiens verksamhet, hade vunnit icke mindre än fem av akademiens pris, var som amanuens sedan 1822, såsom ledamot sedan februari 1826 fästad vid akademien och hade under dessa år utvecklat en enastående flit, förenad med ett levande intresse för akademiens uppgifter. Han borde, tyckes det, ha varit självskriven till Rutströms efterträdare. Likväl dröjde utnämningen över ett år, och detta dröjsmål bör tydligen ha haft någon orsak. Denna angives icke, varken i protokollen eller i något av mig observerat brev. Men en gissning om anledningen är nästan mer än sannolik.\"}, {\"bbox\": [141, 811, 1186, 1802], \"category\": \"Text\", \"text\": \"Det fanns nämligen ett prejudikat, vilket, såsom man synes ha fruktat, kunnat dragas fram, först i akademien och sedan i statsrådet. Nyss förut hade Sundel, då han utnämnts till chef för riksarkivet, tvingats att avgå som amanuens i akademien. Två dylika platser — ansåg Lars von Engeström då — borde icke kunna förenas. Nu hade Liljegren 1823 blivit aktuarie i riksarkivet och borde enligt samma princip ej kunna därjämte bli riksantikvarie. Det gällde således att eliminera detta prejudikat — först att vinna tid. Det inledande steget togs redan samtidigt med det att Rutströms död den 18 april tillkännagavs i akademien. Denna beslöt då, såsom vi sett, att »dröja» med »valet» både av ny arbetande ledamot och av sekreterare. Det sista är en tydlig felskrivning, ty sekreteraren valdes ej av akademien utan utnämndes, utan något förslag, av Kungl. Maj:t. Och med val av arbetande ledamot dröjde man alls icke; Rutström hade avlidit den 13 april, den 2 maj ingav man en vallista till konungen, och själva valet förrättades den 9 maj, således inom lagstadgad tid. I statsrådet, där akademiens ledamöter Rosenblad, Mörner, Skjöldebrand och Wetterstedt sutto, gjorde man sig ingen brådska med att utnämna någon efterträdare till Rutström och gav måhända en anvisning, huru svårigheten och prejudikatet kunde hävas. Den 27 juni »anmälte akademiens ordförande, Herr Presidenten af Tibell, att han enligt det updrag academien vid sista sammankomsten [varken i detta protokoll eller något föregående hade detta ärende upptagits] honom gifvit, hos Hans Maj:t Konungen i underdånighet framburit academiens underdåniga\"}, {\"bbox\": [1157, 1839, 1180, 1875], \"category\": \"Page-footer\", \"text\": \"5\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    372,
+    285,
+    955,
+    323
+   ],
+   "category": "Section-header",
+   "text": "Sekreterare, amanuens och ritare"
+  },
+  {
+   "bbox": [
+    144,
+    355,
+    1187,
+    811
+   ],
+   "category": "Text",
+   "text": "en man i sina bästa år, född 1791, hade varit akademisk lärare i Lund, fått professors titel, utgivit flere arbeten just i de vetenskapsgrenar, som tillhörde akademiens verksamhet, hade vunnit icke mindre än fem av akademiens pris, var som amanuens sedan 1822, såsom ledamot sedan februari 1826 fästad vid akademien och hade under dessa år utvecklat en enastående flit, förenad med ett levande intresse för akademiens uppgifter. Han borde, tyckes det, ha varit självskriven till Rutströms efterträdare. Likväl dröjde utnämningen över ett år, och detta dröjsmål bör tydligen ha haft någon orsak. Denna angives icke, varken i protokollen eller i något av mig observerat brev. Men en gissning om anledningen är nästan mer än sannolik."
+  },
+  {
+   "bbox": [
+    141,
+    811,
+    1186,
+    1802
+   ],
+   "category": "Text",
+   "text": "Det fanns nämligen ett prejudikat, vilket, såsom man synes ha fruktat, kunnat dragas fram, först i akademien och sedan i statsrådet. Nyss förut hade Sundel, då han utnämnts till chef för riksarkivet, tvingats att avgå som amanuens i akademien. Två dylika platser — ansåg Lars von Engeström då — borde icke kunna förenas. Nu hade Liljegren 1823 blivit aktuarie i riksarkivet och borde enligt samma princip ej kunna därjämte bli riksantikvarie. Det gällde således att eliminera detta prejudikat — först att vinna tid. Det inledande steget togs redan samtidigt med det att Rutströms död den 18 april tillkännagavs i akademien. Denna beslöt då, såsom vi sett, att »dröja» med »valet» både av ny arbetande ledamot och av sekreterare. Det sista är en tydlig felskrivning, ty sekreteraren valdes ej av akademien utan utnämndes, utan något förslag, av Kungl. Maj:t. Och med val av arbetande ledamot dröjde man alls icke; Rutström hade avlidit den 13 april, den 2 maj ingav man en vallista till konungen, och själva valet förrättades den 9 maj, således inom lagstadgad tid. I statsrådet, där akademiens ledamöter Rosenblad, Mörner, Skjöldebrand och Wetterstedt sutto, gjorde man sig ingen brådska med att utnämna någon efterträdare till Rutström och gav måhända en anvisning, huru svårigheten och prejudikatet kunde hävas. Den 27 juni »anmälte akademiens ordförande, Herr Presidenten af Tibell, att han enligt det updrag academien vid sista sammankomsten [varken i detta protokoll eller något föregående hade detta ärende upptagits] honom gifvit, hos Hans Maj:t Konungen i underdånighet framburit academiens underdåniga"
+  },
+  {
+   "bbox": [
+    1157,
+    1839,
+    1180,
+    1875
+   ],
+   "category": "Page-footer",
+   "text": "5"
+  }
+ ]
+}

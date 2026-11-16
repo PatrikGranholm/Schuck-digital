@@ -1,0 +1,92 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 299,
+ "seconds": 28.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [547, 488, 1512, 662], \"category\": \"Text\", \"text\": \"förordnadt år, i detta afseende för sig gå, eller icke besörjer, att det wid en sådan Inventering felande anskaffas eller ersättes, ware på lika sätt för hwad wid Kyrkan finnas bör answarig. I öfrigt skall wid skeende Prest- och Biskops-visitationer förhållandet i dese delar efterses, samt derwid wid befunne brister och felaktigheter till rättelse anmälas.\"}, {\"bbox\": [1004, 677, 1081, 713], \"category\": \"Section-header\", \"text\": \"4. J-\"}, {\"bbox\": [556, 716, 1516, 889], \"category\": \"Text\", \"text\": \"Embets- och Tjenstemån, som under deras wård hafwa Wåre och Kronans Documenter och Handlingar eller andre samlingar, anbefallas strångeligen, att dem noga i ordning hålla och förwara, så att intet deraf förkommer. Den häruti felaktige straffes, såsom för tjenstefel stadgadt år, och uprätte all skada.\"}, {\"bbox\": [558, 902, 1519, 1076], \"category\": \"Text\", \"text\": \"Hwar som af publike Documenter och Handlingar i Wåre och Rikets Collegier något borttager, förskingrar eller föryttrar, eller ock dem sig tillhandlar och sådant på wederbörligt ställe icke angifwer, straffes på sätt Påbudet den 27 April 1695, uplifwadt genom Wårt Nådiga Bref af den 3 Maji 1782, innehåller.\"}, {\"bbox\": [998, 1092, 1079, 1130], \"category\": \"Section-header\", \"text\": \"5. J-\"}, {\"bbox\": [560, 1130, 1523, 1425], \"category\": \"Text\", \"text\": \"I åndamål, att gamla ånnu okända Skrifter och Handlingar, deraf Rikets Häfder kunna uplysas, warda updagade, haswe Wi funnit godt tillåta, att de enskildte personer, som dylike Skrifter och Handlingar åga och afstå wilja, måga sådant hos Wår Witterhets-, Historie- och Antiquitets-Academie angifwa, då, i händelse Wi, på Academiens underdåniga anmälan, wilje dem inlösa, skälig wedergållning efter deras wärde derför kommer att meddelas. Skulle ågaren icke wilja dem aflåta, förvänte Wi, att han, det oaktadt, af desamma, för deras affskrifwande, lemnar Academien del.\"}, {\"bbox\": [1012, 1422, 1087, 1458], \"category\": \"Section-header\", \"text\": \"6. J-\"}, {\"bbox\": [562, 1463, 1524, 1669], \"category\": \"Text\", \"text\": \"En hwar, som finner gammalt mynt, eller äldre arbeten i guld, silfwer, koppar, metall, sten och trå, eller andre konststycken, det ware sig i jorden eller wattnet, ware, jemlikt 48. Cap. 2. J. Mißgernings-Balken, och Wårt Nådiga Bref den 20 Augusti 1755, skyldig Oß och Kronan det fynd hembjuda, samt i sådant afseende antingen sjelf eller genom Krono-Betjent, med upgift om stället, der fyndet blifwit anträffadt och\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    547,
+    488,
+    1512,
+    662
+   ],
+   "category": "Text",
+   "text": "förordnadt år, i detta afseende för sig gå, eller icke besörjer, att det wid en sådan Inventering felande anskaffas eller ersättes, ware på lika sätt för hwad wid Kyrkan finnas bör answarig. I öfrigt skall wid skeende Prest- och Biskops-visitationer förhållandet i dese delar efterses, samt derwid wid befunne brister och felaktigheter till rättelse anmälas."
+  },
+  {
+   "bbox": [
+    1004,
+    677,
+    1081,
+    713
+   ],
+   "category": "Section-header",
+   "text": "4. J-"
+  },
+  {
+   "bbox": [
+    556,
+    716,
+    1516,
+    889
+   ],
+   "category": "Text",
+   "text": "Embets- och Tjenstemån, som under deras wård hafwa Wåre och Kronans Documenter och Handlingar eller andre samlingar, anbefallas strångeligen, att dem noga i ordning hålla och förwara, så att intet deraf förkommer. Den häruti felaktige straffes, såsom för tjenstefel stadgadt år, och uprätte all skada."
+  },
+  {
+   "bbox": [
+    558,
+    902,
+    1519,
+    1076
+   ],
+   "category": "Text",
+   "text": "Hwar som af publike Documenter och Handlingar i Wåre och Rikets Collegier något borttager, förskingrar eller föryttrar, eller ock dem sig tillhandlar och sådant på wederbörligt ställe icke angifwer, straffes på sätt Påbudet den 27 April 1695, uplifwadt genom Wårt Nådiga Bref af den 3 Maji 1782, innehåller."
+  },
+  {
+   "bbox": [
+    998,
+    1092,
+    1079,
+    1130
+   ],
+   "category": "Section-header",
+   "text": "5. J-"
+  },
+  {
+   "bbox": [
+    560,
+    1130,
+    1523,
+    1425
+   ],
+   "category": "Text",
+   "text": "I åndamål, att gamla ånnu okända Skrifter och Handlingar, deraf Rikets Häfder kunna uplysas, warda updagade, haswe Wi funnit godt tillåta, att de enskildte personer, som dylike Skrifter och Handlingar åga och afstå wilja, måga sådant hos Wår Witterhets-, Historie- och Antiquitets-Academie angifwa, då, i händelse Wi, på Academiens underdåniga anmälan, wilje dem inlösa, skälig wedergållning efter deras wärde derför kommer att meddelas. Skulle ågaren icke wilja dem aflåta, förvänte Wi, att han, det oaktadt, af desamma, för deras affskrifwande, lemnar Academien del."
+  },
+  {
+   "bbox": [
+    1012,
+    1422,
+    1087,
+    1458
+   ],
+   "category": "Section-header",
+   "text": "6. J-"
+  },
+  {
+   "bbox": [
+    562,
+    1463,
+    1524,
+    1669
+   ],
+   "category": "Text",
+   "text": "En hwar, som finner gammalt mynt, eller äldre arbeten i guld, silfwer, koppar, metall, sten och trå, eller andre konststycken, det ware sig i jorden eller wattnet, ware, jemlikt 48. Cap. 2. J. Mißgernings-Balken, och Wårt Nådiga Bref den 20 Augusti 1755, skyldig Oß och Kronan det fynd hembjuda, samt i sådant afseende antingen sjelf eller genom Krono-Betjent, med upgift om stället, der fyndet blifwit anträffadt och"
+  }
+ ]
+}

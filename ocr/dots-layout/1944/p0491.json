@@ -1,0 +1,142 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 491,
+ "seconds": 25.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [907, 533, 1195, 581], \"category\": \"Section-header\", \"text\": \"INNEHÅLL.\"}, {\"bbox\": [609, 644, 1154, 687], \"category\": \"Section-header\", \"text\": \"LILJEGRENS TID 1826—1837.\"}, {\"bbox\": [536, 692, 1568, 731], \"category\": \"Text\", \"text\": \"Sekreterare, Amanuens och Ritare 3—14\"}, {\"bbox\": [613, 737, 1493, 828], \"category\": \"Text\", \"text\": \"Inventeringen efter Rutström 3. Liljegren blir sekreterare 4. Schröder söker bli amanuens 6. Wieselgren söker bli amanuens 7. Silfversparre blir amanuens 8. B. E. Hildebrand fästes vid akademien 8. Ritare anställes 13.\"}, {\"bbox\": [538, 882, 1565, 922], \"category\": \"Text\", \"text\": \"De Nya Ledamöterna 15—29\"}, {\"bbox\": [615, 927, 1493, 986], \"category\": \"Text\", \"text\": \"Utländsk hedersledamot 15. Utländska ledamöter 16. Svenska hedersledamöter 17. Arbetande ledamöter 22.\"}, {\"bbox\": [540, 1038, 1567, 1080], \"category\": \"Text\", \"text\": \"Levernesbeskrivningar, Inträdestal och övriga avhandlingar 30—67\"}, {\"bbox\": [615, 1082, 1495, 1295], \"category\": \"Text\", \"text\": \"Levernesbeskrivningar 30. Över Strand 31. Över Biberg och Fleming 31. Över Skjöldebrand 32. Inträdestalen 35. Lundvalls 36. Beskows 37. Grubbes 38. Schröders 44. Faxes 46. Lindfors' 47. Järtas 48. Rääfs 48. Fryxells 49. Avhandlingar 52. Liljegrens 52. Rääfs föredrag 60. Adlerbeths föredrag 61. Geijers föredrag 61. Schröders föredrag 62. Fryxells föredrag 63. Berzelius' föredrag 63. Brinkmans föredrag 65. Wallmarks föredrag 65. Lindfors' föredrag 66. Tibells föredrag 67. Karl XI:s syn 67.\"}, {\"bbox\": [541, 1345, 1570, 1388], \"category\": \"Text\", \"text\": \"Nya uppslag 68—109\"}, {\"bbox\": [617, 1390, 1497, 1542], \"category\": \"Text\", \"text\": \"Inventeringen 1826 68. Arbetet på en myntkatalog 69. Fornsakssamlingens ordnande 77. Samlingarnas lokal och tillgänglighet 82. Akademiens bibliotek 88. Rosenhanes bibliotek 90. Handskriftssamlingen 97. Samling av akademiens beslut 100. Utlåning av mynt och fornsaker 100. Akademiens brevväxling 101. Årsberättelser 103. Ändring av ferierna 104. Minnestal 104. Handlingarna 106.\"}, {\"bbox\": [541, 1591, 1567, 1635], \"category\": \"Text\", \"text\": \"Seton och Diplomatariet 110—176\"}, {\"bbox\": [617, 1637, 1497, 1790], \"category\": \"Text\", \"text\": \"Setons biografi 110. Setons första beröring med akademien 120. Liljegrens plan på ett Diplomatarium 124. Setons arbete för Diplomatariet 128. Brevväxlingen om Diplomatariet 134. Redaktionskommittén 143. Konflikten mellan Rääf och Liljegren 148. Setons testamente 153. Liljegren och Setons konkurs 157. Diplomatariet räddas av Liljegren 161.\"}, {\"bbox\": [541, 1818, 615, 1862], \"category\": \"Page-footer\", \"text\": \"462\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    907,
+    533,
+    1195,
+    581
+   ],
+   "category": "Section-header",
+   "text": "INNEHÅLL."
+  },
+  {
+   "bbox": [
+    609,
+    644,
+    1154,
+    687
+   ],
+   "category": "Section-header",
+   "text": "LILJEGRENS TID 1826—1837."
+  },
+  {
+   "bbox": [
+    536,
+    692,
+    1568,
+    731
+   ],
+   "category": "Text",
+   "text": "Sekreterare, Amanuens och Ritare 3—14"
+  },
+  {
+   "bbox": [
+    613,
+    737,
+    1493,
+    828
+   ],
+   "category": "Text",
+   "text": "Inventeringen efter Rutström 3. Liljegren blir sekreterare 4. Schröder söker bli amanuens 6. Wieselgren söker bli amanuens 7. Silfversparre blir amanuens 8. B. E. Hildebrand fästes vid akademien 8. Ritare anställes 13."
+  },
+  {
+   "bbox": [
+    538,
+    882,
+    1565,
+    922
+   ],
+   "category": "Text",
+   "text": "De Nya Ledamöterna 15—29"
+  },
+  {
+   "bbox": [
+    615,
+    927,
+    1493,
+    986
+   ],
+   "category": "Text",
+   "text": "Utländsk hedersledamot 15. Utländska ledamöter 16. Svenska hedersledamöter 17. Arbetande ledamöter 22."
+  },
+  {
+   "bbox": [
+    540,
+    1038,
+    1567,
+    1080
+   ],
+   "category": "Text",
+   "text": "Levernesbeskrivningar, Inträdestal och övriga avhandlingar 30—67"
+  },
+  {
+   "bbox": [
+    615,
+    1082,
+    1495,
+    1295
+   ],
+   "category": "Text",
+   "text": "Levernesbeskrivningar 30. Över Strand 31. Över Biberg och Fleming 31. Över Skjöldebrand 32. Inträdestalen 35. Lundvalls 36. Beskows 37. Grubbes 38. Schröders 44. Faxes 46. Lindfors' 47. Järtas 48. Rääfs 48. Fryxells 49. Avhandlingar 52. Liljegrens 52. Rääfs föredrag 60. Adlerbeths föredrag 61. Geijers föredrag 61. Schröders föredrag 62. Fryxells föredrag 63. Berzelius' föredrag 63. Brinkmans föredrag 65. Wallmarks föredrag 65. Lindfors' föredrag 66. Tibells föredrag 67. Karl XI:s syn 67."
+  },
+  {
+   "bbox": [
+    541,
+    1345,
+    1570,
+    1388
+   ],
+   "category": "Text",
+   "text": "Nya uppslag 68—109"
+  },
+  {
+   "bbox": [
+    617,
+    1390,
+    1497,
+    1542
+   ],
+   "category": "Text",
+   "text": "Inventeringen 1826 68. Arbetet på en myntkatalog 69. Fornsakssamlingens ordnande 77. Samlingarnas lokal och tillgänglighet 82. Akademiens bibliotek 88. Rosenhanes bibliotek 90. Handskriftssamlingen 97. Samling av akademiens beslut 100. Utlåning av mynt och fornsaker 100. Akademiens brevväxling 101. Årsberättelser 103. Ändring av ferierna 104. Minnestal 104. Handlingarna 106."
+  },
+  {
+   "bbox": [
+    541,
+    1591,
+    1567,
+    1635
+   ],
+   "category": "Text",
+   "text": "Seton och Diplomatariet 110—176"
+  },
+  {
+   "bbox": [
+    617,
+    1637,
+    1497,
+    1790
+   ],
+   "category": "Text",
+   "text": "Setons biografi 110. Setons första beröring med akademien 120. Liljegrens plan på ett Diplomatarium 124. Setons arbete för Diplomatariet 128. Brevväxlingen om Diplomatariet 134. Redaktionskommittén 143. Konflikten mellan Rääf och Liljegren 148. Setons testamente 153. Liljegren och Setons konkurs 157. Diplomatariet räddas av Liljegren 161."
+  },
+  {
+   "bbox": [
+    541,
+    1818,
+    615,
+    1862
+   ],
+   "category": "Page-footer",
+   "text": "462"
+  }
+ ]
+}

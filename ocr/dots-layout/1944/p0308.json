@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 308,
+ "seconds": 27.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [488, 285, 695, 320], \"category\": \"Section-header\", \"text\": \"Fornvården\"}, {\"bbox\": [84, 354, 1125, 1142], \"category\": \"Text\", \"text\": \"ett år, innan de delegerade begagnade sig av detta tillstånd, ty först den 17 juni 1828 »Anmältes, det Academiens vice President Hans Excellence Riks Marskalken Herr Grefve Fleming tillika med Öfverkammarherren Friherre Stierneld, Herr Envoyéen von Brinkman, Herr Ordens Biskopen Dr. Wallin och Academiens Secreterare denna dag haft tillfälle att bese de uti Kongl. Räntekammaren jemte regalierna förvarade dyrbarheter. Vid närmare granskning har ibland dessa en del eller hvad i en serskild förtekning är upptaget, befunnits vara stycken, hvilka dels såsom prydnader, smånipper, husgerådssaker eller curiositeter enskildt tillhört Kongl., Furstl. eller andra märkvärdiga personer, dels åter sådane, som förvara minnet af någon i fäderneslandets häfder märklig händelse eller inrättning, hvilka i denna egenskap kunna hvarken räknas ibland Rikets juveler eller Dess Regalier, utan hafva blifvit förvarade endast för personens eller curiositetens skull och följaktligen endast för sin Historiska märkvärdighet. Dessa, trångt inlagde i små chatull samt insatte i ett hvalf, hafva blott genom detta sitt förvaringssätt i vissa stycken betydligen lidit och oaktadt all deras skickelige Vårdares använda omsorg skola derstädes med tiden allt mer och mer taga skada.\"}, {\"bbox\": [80, 1138, 1122, 1803], \"category\": \"Text\", \"text\": \"Vid betraktande af allt detta trodde Academien nu hög tid att på deras framtida bevarande vara omtänkt och hennes skyldighet att å behofvet af ett mera passande förvaringsställe för dessa Historiska qvarlefvor fästa Kongl. Maj:ts Nådiga uppmärksamhet samt enär, äfven uti de inskränkta rum Academien för det närvarande innehafver för sina samlingar, till deras uppställande finnes nödig plats, ansåg academien sig böra sådant i underdånighet anmäla med hemställan, huruvida Kongl. Maj:t i nåder kunde finna lämpligt och afsigtsenligt, att den delen af de i Kongl. Räntekammaren förvarade Samlingar, som utgör sådana Historiska märkvärdigheter, skulle kunna jemte Kongl. MyntCabinettet och de andra Rikets likartade eller åtminstone närslägtade Historiska och antiquariska minnesmärken i Kongl. antiquitets archivet i Riks antiquariens vård under academiens inseende ställas, då de för Historiska forskningen och Häfdetekningen tillika vore användbara, hvarom academien beslöt, att underdånig hemställan i enlighet härmed skulle uppsättas.»\"}, {\"bbox\": [1040, 1840, 1114, 1878], \"category\": \"Page-footer\", \"text\": \"279\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    488,
+    285,
+    695,
+    320
+   ],
+   "category": "Section-header",
+   "text": "Fornvården"
+  },
+  {
+   "bbox": [
+    84,
+    354,
+    1125,
+    1142
+   ],
+   "category": "Text",
+   "text": "ett år, innan de delegerade begagnade sig av detta tillstånd, ty först den 17 juni 1828 »Anmältes, det Academiens vice President Hans Excellence Riks Marskalken Herr Grefve Fleming tillika med Öfverkammarherren Friherre Stierneld, Herr Envoyéen von Brinkman, Herr Ordens Biskopen Dr. Wallin och Academiens Secreterare denna dag haft tillfälle att bese de uti Kongl. Räntekammaren jemte regalierna förvarade dyrbarheter. Vid närmare granskning har ibland dessa en del eller hvad i en serskild förtekning är upptaget, befunnits vara stycken, hvilka dels såsom prydnader, smånipper, husgerådssaker eller curiositeter enskildt tillhört Kongl., Furstl. eller andra märkvärdiga personer, dels åter sådane, som förvara minnet af någon i fäderneslandets häfder märklig händelse eller inrättning, hvilka i denna egenskap kunna hvarken räknas ibland Rikets juveler eller Dess Regalier, utan hafva blifvit förvarade endast för personens eller curiositetens skull och följaktligen endast för sin Historiska märkvärdighet. Dessa, trångt inlagde i små chatull samt insatte i ett hvalf, hafva blott genom detta sitt förvaringssätt i vissa stycken betydligen lidit och oaktadt all deras skickelige Vårdares använda omsorg skola derstädes med tiden allt mer och mer taga skada."
+  },
+  {
+   "bbox": [
+    80,
+    1138,
+    1122,
+    1803
+   ],
+   "category": "Text",
+   "text": "Vid betraktande af allt detta trodde Academien nu hög tid att på deras framtida bevarande vara omtänkt och hennes skyldighet att å behofvet af ett mera passande förvaringsställe för dessa Historiska qvarlefvor fästa Kongl. Maj:ts Nådiga uppmärksamhet samt enär, äfven uti de inskränkta rum Academien för det närvarande innehafver för sina samlingar, till deras uppställande finnes nödig plats, ansåg academien sig böra sådant i underdånighet anmäla med hemställan, huruvida Kongl. Maj:t i nåder kunde finna lämpligt och afsigtsenligt, att den delen af de i Kongl. Räntekammaren förvarade Samlingar, som utgör sådana Historiska märkvärdigheter, skulle kunna jemte Kongl. MyntCabinettet och de andra Rikets likartade eller åtminstone närslägtade Historiska och antiquariska minnesmärken i Kongl. antiquitets archivet i Riks antiquariens vård under academiens inseende ställas, då de för Historiska forskningen och Häfdetekningen tillika vore användbara, hvarom academien beslöt, att underdånig hemställan i enlighet härmed skulle uppsättas.»"
+  },
+  {
+   "bbox": [
+    1040,
+    1840,
+    1114,
+    1878
+   ],
+   "category": "Page-footer",
+   "text": "279"
+  }
+ ]
+}

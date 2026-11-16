@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 456,
+ "seconds": 28.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [437, 287, 793, 324], \"category\": \"Page-header\", \"text\": \"Akademiens ekonomi\"}, {\"bbox\": [90, 356, 1129, 894], \"category\": \"Text\", \"text\": \"måga. En ny del av Handlingarna kostade akademien blott 100\\nrdr banko och om — som statuterna föreskrevo — en ny del skulle\\nutgivas vart tredje år, hade härtill per år blott behövts 33 rdr 16 sk.\\nMed någorlunda god vilja borde svårigheten att uppbringa denna\\nsumma ej ha varit oöverkomlig. Det hade varit nog, om man vid\\nde fyra sommarsammanträdena nöjt sig med att utdela icke 50 je-\\ntoner till de närvarande utan såsom under arbetsmånaderna blott\\n25. På ett år skulle man då ha sparat in 100 jetoner, d. v. s. 50 rdr\\nspecie, på de tre åren 150 rdr specie eller ungefär fyra gånger\\ntryckningskostnaden för en ny del. Uppoffringen hade icke varit\\nstor, ty i regeln utdelades vid dessa sommarsammanträden 5 à 6\\njetoner till varje närvarande, och hälften hade ju kunnat vara till-\\nräcklig.\"}, {\"bbox\": [90, 894, 1125, 1059], \"category\": \"Text\", \"text\": \"Beskows svagaste argument var hans påstående, att akademien icke\\nav brist på medel kunnat utdela några tävlingspris. Såsom alla visste\\nvar det verkliga skälet omöjligheten att utdela några pris, då inga täv-\\nlande anmält sig.\"}, {\"bbox\": [90, 1058, 1125, 1183], \"category\": \"Text\", \"text\": \"Beskows anförande slog emellertid an på akademien, som genast\\ngodkände det förslag till skrivelse, som han nu uppläste och som\\nhade följande lydelse:\"}, {\"bbox\": [82, 1183, 1125, 1806], \"category\": \"Text\", \"text\": \"»Det anslag, som sedan Witterhets Historie och Antiquitets akade-\\nmiens återupplifvande warit denna akademi i nåder tillagdt, har ut-\\ngjorts af en andel uti Elfkarleby (skall vara Torneå) laxfiske till 438\\nrdr Specie samt af de s. k. Ensaksböterna 400 Rdr samma mynt,\\ntillsammans 838 Rdr Specie, hvilken anslagssumma uppfördes å stat\\når 1793, då skillnaden mellan Specie och Bankosedlar ännu var högst\\nobetydlig. Någon minskning i akademiens inkomster förspordes väl\\nunder de följande åren genom ett mindre gynnande agio emellan\\nsilfver och papper, men så länge akademien fick tillgodonjuta den\\nhenne förunnade rättighet att såsom ersättning för det fallande mynt-\\nvärdet ifrån Banken utbekomma en summa af 500 Rdr Silfver emot\\nenahanda belopp i papper, var bristen i det ursprungligen bestämda\\nanslaget mindre kännbar, och akademien sökte medelst möjliga be-\\nsparingar och indragningar lämpa sina utgifter i mån af de minskade\\ntillgångarna. Erfarenheten har likväl under de sista åren ådagalagt,\"}, {\"bbox\": [1038, 1844, 1114, 1882], \"category\": \"Page-footer\", \"text\": \"427\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    437,
+    287,
+    793,
+    324
+   ],
+   "category": "Page-header",
+   "text": "Akademiens ekonomi"
+  },
+  {
+   "bbox": [
+    90,
+    356,
+    1129,
+    894
+   ],
+   "category": "Text",
+   "text": "måga. En ny del av Handlingarna kostade akademien blott 100\nrdr banko och om — som statuterna föreskrevo — en ny del skulle\nutgivas vart tredje år, hade härtill per år blott behövts 33 rdr 16 sk.\nMed någorlunda god vilja borde svårigheten att uppbringa denna\nsumma ej ha varit oöverkomlig. Det hade varit nog, om man vid\nde fyra sommarsammanträdena nöjt sig med att utdela icke 50 je-\ntoner till de närvarande utan såsom under arbetsmånaderna blott\n25. På ett år skulle man då ha sparat in 100 jetoner, d. v. s. 50 rdr\nspecie, på de tre åren 150 rdr specie eller ungefär fyra gånger\ntryckningskostnaden för en ny del. Uppoffringen hade icke varit\nstor, ty i regeln utdelades vid dessa sommarsammanträden 5 à 6\njetoner till varje närvarande, och hälften hade ju kunnat vara till-\nräcklig."
+  },
+  {
+   "bbox": [
+    90,
+    894,
+    1125,
+    1059
+   ],
+   "category": "Text",
+   "text": "Beskows svagaste argument var hans påstående, att akademien icke\nav brist på medel kunnat utdela några tävlingspris. Såsom alla visste\nvar det verkliga skälet omöjligheten att utdela några pris, då inga täv-\nlande anmält sig."
+  },
+  {
+   "bbox": [
+    90,
+    1058,
+    1125,
+    1183
+   ],
+   "category": "Text",
+   "text": "Beskows anförande slog emellertid an på akademien, som genast\ngodkände det förslag till skrivelse, som han nu uppläste och som\nhade följande lydelse:"
+  },
+  {
+   "bbox": [
+    82,
+    1183,
+    1125,
+    1806
+   ],
+   "category": "Text",
+   "text": "»Det anslag, som sedan Witterhets Historie och Antiquitets akade-\nmiens återupplifvande warit denna akademi i nåder tillagdt, har ut-\ngjorts af en andel uti Elfkarleby (skall vara Torneå) laxfiske till 438\nrdr Specie samt af de s. k. Ensaksböterna 400 Rdr samma mynt,\ntillsammans 838 Rdr Specie, hvilken anslagssumma uppfördes å stat\når 1793, då skillnaden mellan Specie och Bankosedlar ännu var högst\nobetydlig. Någon minskning i akademiens inkomster förspordes väl\nunder de följande åren genom ett mindre gynnande agio emellan\nsilfver och papper, men så länge akademien fick tillgodonjuta den\nhenne förunnade rättighet att såsom ersättning för det fallande mynt-\nvärdet ifrån Banken utbekomma en summa af 500 Rdr Silfver emot\nenahanda belopp i papper, var bristen i det ursprungligen bestämda\nanslaget mindre kännbar, och akademien sökte medelst möjliga be-\nsparingar och indragningar lämpa sina utgifter i mån af de minskade\ntillgångarna. Erfarenheten har likväl under de sista åren ådagalagt,"
+  },
+  {
+   "bbox": [
+    1038,
+    1844,
+    1114,
+    1882
+   ],
+   "category": "Page-footer",
+   "text": "427"
+  }
+ ]
+}

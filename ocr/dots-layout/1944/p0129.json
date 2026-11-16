@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 129,
+ "seconds": 27.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [1064, 572, 1090, 597], \"category\": \"Section-header\", \"text\": \"I.\"}, {\"bbox\": [782, 640, 1375, 674], \"category\": \"Section-header\", \"text\": \"SETON OCH DIPLOMATARIET.\"}, {\"bbox\": [429, 752, 546, 816], \"category\": \"Text\", \"text\": \"Setons bio-grafi\"}, {\"bbox\": [559, 745, 1599, 1447], \"category\": \"Text\", \"text\": \"Innan vi nu vända oss till Liljegrens främsta insats, Svenskt Diplomatarium, måste vi först i huvuddragen ha tagit kännedom om en underbar och dyster levnadssaga, som på det närmaste är förbunden med Liljegrens egen. Alexander Seton¹ tillhörde en till Sverige inflyttad skotsk familj. Den förste av denna släkt, Georg Seton, kom under frihetstiden till Stockholm, där han såsom köpman förvärvade en då för tiden ansenlig förmögenhet. Han var barnlös och adopterade 1785 sin systerson, Alexander Baron, som då antog namnet Alexander Baron Seton, och samma år blevo både morbrodern och systersonen nobiliserade till svenska adelsmän. Den 5 november 1785 överlät Gustav III till Georg Seton den av konungen innehavda »arrenderättigheten» till egendomen Ekolsund »icke allenast under de ännu återstående arrendeåren utan ock än vidare på 100 år derifrån räknade emot en aftald och faststäld Kjöpeskilling Etthundrade tjugutusende Riksdaler specie». I samma kungabrev bestämdes även, att Ekolsund efter Georg Setons död, som inträffade den 4 mars 1786, skulle övergå till Alexander Baron Seton.\"}, {\"bbox\": [559, 1447, 1597, 1613], \"category\": \"Text\", \"text\": \"Den nye herren till Ekolsund hade fyra söner, av vilka den äldste avlidit före den nyss behandlade transaktionen, en annan kort efteråt. De två kvarlevande, som vi sedan skola möta, voro Patrik Baron Seton, född 1765, död 1837, och Alexander Seton, född 1768 och död\"}, {\"bbox\": [559, 1623, 1597, 1804], \"category\": \"Footnote\", \"text\": \"¹ För flera av de följande uppgifterna om Seton står jag i tacksamhetsskuld till fröken Dagmar Selling, som låtit mig i manuskript genomläsa en av henne författad avhandling, Alexander Seton som fornforskare, som förmodligen kommer att, redan före detta arbetes utgivning i tryck, föreligga i akademiens Handlingar. Här ha även begagnats de tryckta rättegångshandlingarna, vilkas mycket långa titel börjar: »Handlingar i Rättegången mellan wälborne Herr Alex. Seton å ena sidan och — — —», här citerade »Rättegångshandlingar».\"}, {\"bbox\": [567, 1840, 636, 1867], \"category\": \"Page-footer\", \"text\": \"110\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    1064,
+    572,
+    1090,
+    597
+   ],
+   "category": "Section-header",
+   "text": "I."
+  },
+  {
+   "bbox": [
+    782,
+    640,
+    1375,
+    674
+   ],
+   "category": "Section-header",
+   "text": "SETON OCH DIPLOMATARIET."
+  },
+  {
+   "bbox": [
+    429,
+    752,
+    546,
+    816
+   ],
+   "category": "Text",
+   "text": "Setons bio-grafi"
+  },
+  {
+   "bbox": [
+    559,
+    745,
+    1599,
+    1447
+   ],
+   "category": "Text",
+   "text": "Innan vi nu vända oss till Liljegrens främsta insats, Svenskt Diplomatarium, måste vi först i huvuddragen ha tagit kännedom om en underbar och dyster levnadssaga, som på det närmaste är förbunden med Liljegrens egen. Alexander Seton¹ tillhörde en till Sverige inflyttad skotsk familj. Den förste av denna släkt, Georg Seton, kom under frihetstiden till Stockholm, där han såsom köpman förvärvade en då för tiden ansenlig förmögenhet. Han var barnlös och adopterade 1785 sin systerson, Alexander Baron, som då antog namnet Alexander Baron Seton, och samma år blevo både morbrodern och systersonen nobiliserade till svenska adelsmän. Den 5 november 1785 överlät Gustav III till Georg Seton den av konungen innehavda »arrenderättigheten» till egendomen Ekolsund »icke allenast under de ännu återstående arrendeåren utan ock än vidare på 100 år derifrån räknade emot en aftald och faststäld Kjöpeskilling Etthundrade tjugutusende Riksdaler specie». I samma kungabrev bestämdes även, att Ekolsund efter Georg Setons död, som inträffade den 4 mars 1786, skulle övergå till Alexander Baron Seton."
+  },
+  {
+   "bbox": [
+    559,
+    1447,
+    1597,
+    1613
+   ],
+   "category": "Text",
+   "text": "Den nye herren till Ekolsund hade fyra söner, av vilka den äldste avlidit före den nyss behandlade transaktionen, en annan kort efteråt. De två kvarlevande, som vi sedan skola möta, voro Patrik Baron Seton, född 1765, död 1837, och Alexander Seton, född 1768 och död"
+  },
+  {
+   "bbox": [
+    559,
+    1623,
+    1597,
+    1804
+   ],
+   "category": "Footnote",
+   "text": "¹ För flera av de följande uppgifterna om Seton står jag i tacksamhetsskuld till fröken Dagmar Selling, som låtit mig i manuskript genomläsa en av henne författad avhandling, Alexander Seton som fornforskare, som förmodligen kommer att, redan före detta arbetes utgivning i tryck, föreligga i akademiens Handlingar. Här ha även begagnats de tryckta rättegångshandlingarna, vilkas mycket långa titel börjar: »Handlingar i Rättegången mellan wälborne Herr Alex. Seton å ena sidan och — — —», här citerade »Rättegångshandlingar»."
+  },
+  {
+   "bbox": [
+    567,
+    1840,
+    636,
+    1867
+   ],
+   "category": "Page-footer",
+   "text": "110"
+  }
+ ]
+}

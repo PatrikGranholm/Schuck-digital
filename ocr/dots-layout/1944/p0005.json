@@ -1,0 +1,32 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 5,
+ "seconds": 9.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [173, 94, 300, 136], \"category\": \"Page-header\", \"text\": \"Coll. Cat.\"}, {\"bbox\": [154, 2299, 351, 2315], \"category\": \"Page-footer\", \"text\": \"G. HEDBERG. STOCKHOLM\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    173,
+    94,
+    300,
+    136
+   ],
+   "category": "Page-header",
+   "text": "Coll. Cat."
+  },
+  {
+   "bbox": [
+    154,
+    2299,
+    351,
+    2315
+   ],
+   "category": "Page-footer",
+   "text": "G. HEDBERG. STOCKHOLM"
+  }
+ ]
+}

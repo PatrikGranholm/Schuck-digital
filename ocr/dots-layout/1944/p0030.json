@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 30,
+ "seconds": 25.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [406, 570, 887, 605], \"category\": \"Section-header\", \"text\": \"DE NYA LEDAMÖTERNA\"}, {\"bbox\": [127, 681, 1165, 1550], \"category\": \"Text\", \"text\": \"Här vända vi oss först till den utländska klassen, vilken under denna tid erhöll en överbyggnad, som dock endast blev temporär. Den 15 maj 1834 hade på »Stora theatern» i Stockholm uppförts Beskows skådespel Ryno med musik av Brendler och en »musikälskare». Såsom Beskow upplyser i brev till Atterbom (den 27 mars 1835) var denne »musikälskare» ingen mindre än kronprins Oscar. I samma brev berättar Beskow, att Ryno nu skulle uppföras på hovteatern i Dresden, och med all sannolikhet står den anmälan, som Beskow några dagar förut, den 17 mars, gjort i Vitterhets Historie och Antikvitetsakademien i något samband med hans underhandlingar med de sachsiska myndigheterna. I akademien anmälde han nämligen, »att han af H. K. H. Prins Johan af Sachsen fått i uppdrag att å H. K. Höghets vägnar till Akademien öfverlemna H. K. Höghets öfversättning af Dantes berömda mästerverk La divina Comedia. I anledning häraf beslöt Akademien att kalla den höge författaren och gifvaren till utrikes Heders Ledamot, så mycket hellre som Akademien såväl genom bemälte skrifvelse som äfven mundtligen af H. Exc. Riksmarskalken Hr Grefve Brahe erhållit underrättelse, att Akademiens Höge Beskyddare, H. Maj:t Konungen, som i nåder täckts taga kännedom af detta ämne, nådigast behagat förklara sitt höga gillande af en dylik åtgärd från Akademiens sida.»\"}, {\"bbox\": [127, 1549, 1165, 1798], \"category\": \"Text\", \"text\": \"Prins Johann, som sedan (1854) efterträdde sin broder såsom Sachsens konung, var utan tvivel en prydnad för varje akademi, som han tillhörde, och hans under pseudonymen Philalethes utgivna Danteöversättning räknas allmänt som ett litterärt mästerverk. Men möjligen kan man betvivla, att han, då han skickade sin Dantetolkning till Svenska akademiens nye sekreterare von Beskow, tänkte sig, att\"}, {\"bbox\": [1181, 689, 1299, 775], \"category\": \"Text\", \"text\": \"Utländsk hedersledamot\"}, {\"bbox\": [1114, 1835, 1159, 1872], \"category\": \"Page-footer\", \"text\": \"15\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    406,
+    570,
+    887,
+    605
+   ],
+   "category": "Section-header",
+   "text": "DE NYA LEDAMÖTERNA"
+  },
+  {
+   "bbox": [
+    127,
+    681,
+    1165,
+    1550
+   ],
+   "category": "Text",
+   "text": "Här vända vi oss först till den utländska klassen, vilken under denna tid erhöll en överbyggnad, som dock endast blev temporär. Den 15 maj 1834 hade på »Stora theatern» i Stockholm uppförts Beskows skådespel Ryno med musik av Brendler och en »musikälskare». Såsom Beskow upplyser i brev till Atterbom (den 27 mars 1835) var denne »musikälskare» ingen mindre än kronprins Oscar. I samma brev berättar Beskow, att Ryno nu skulle uppföras på hovteatern i Dresden, och med all sannolikhet står den anmälan, som Beskow några dagar förut, den 17 mars, gjort i Vitterhets Historie och Antikvitetsakademien i något samband med hans underhandlingar med de sachsiska myndigheterna. I akademien anmälde han nämligen, »att han af H. K. H. Prins Johan af Sachsen fått i uppdrag att å H. K. Höghets vägnar till Akademien öfverlemna H. K. Höghets öfversättning af Dantes berömda mästerverk La divina Comedia. I anledning häraf beslöt Akademien att kalla den höge författaren och gifvaren till utrikes Heders Ledamot, så mycket hellre som Akademien såväl genom bemälte skrifvelse som äfven mundtligen af H. Exc. Riksmarskalken Hr Grefve Brahe erhållit underrättelse, att Akademiens Höge Beskyddare, H. Maj:t Konungen, som i nåder täckts taga kännedom af detta ämne, nådigast behagat förklara sitt höga gillande af en dylik åtgärd från Akademiens sida.»"
+  },
+  {
+   "bbox": [
+    127,
+    1549,
+    1165,
+    1798
+   ],
+   "category": "Text",
+   "text": "Prins Johann, som sedan (1854) efterträdde sin broder såsom Sachsens konung, var utan tvivel en prydnad för varje akademi, som han tillhörde, och hans under pseudonymen Philalethes utgivna Danteöversättning räknas allmänt som ett litterärt mästerverk. Men möjligen kan man betvivla, att han, då han skickade sin Dantetolkning till Svenska akademiens nye sekreterare von Beskow, tänkte sig, att"
+  },
+  {
+   "bbox": [
+    1181,
+    689,
+    1299,
+    775
+   ],
+   "category": "Text",
+   "text": "Utländsk hedersledamot"
+  },
+  {
+   "bbox": [
+    1114,
+    1835,
+    1159,
+    1872
+   ],
+   "category": "Page-footer",
+   "text": "15"
+  }
+ ]
+}

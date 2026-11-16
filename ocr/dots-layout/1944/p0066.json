@@ -1,0 +1,88 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 66,
+ "seconds": 28.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [125, 351, 642, 1023], \"category\": \"Picture\"}, {\"bbox\": [113, 1049, 650, 1157], \"category\": \"Caption\", \"text\": \"GUSTAF WILHELM AF TIBELL\\nGouache av Isachson\\n(K. Södermanlands regemente, S. P. A.)\"}, {\"bbox\": [738, 351, 1255, 1023], \"category\": \"Picture\"}, {\"bbox\": [750, 1051, 1244, 1157], \"category\": \"Caption\", \"text\": \"JOHAN HENRIK SCHRÖDER\\nGouache av P. J. R. Lachainés\\n(i enskild ägo, S. P. A.)\"}, {\"bbox\": [122, 1187, 637, 1825], \"category\": \"Picture\"}, {\"bbox\": [202, 1860, 552, 1967], \"category\": \"Caption\", \"text\": \"SAMUEL GRUBBE\\nOljemålning av J. G. Sandberg\\n(Göteborgs Nation, Uppsala)\"}, {\"bbox\": [744, 1191, 1255, 1828], \"category\": \"Picture\"}, {\"bbox\": [781, 1860, 1206, 1967], \"category\": \"Caption\", \"text\": \"ERIK GUSTAF GEIJER\\nOljemålning av J. G. Sandberg\\n(Värmlands Nation, Uppsala)\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    125,
+    351,
+    642,
+    1023
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    113,
+    1049,
+    650,
+    1157
+   ],
+   "category": "Caption",
+   "text": "GUSTAF WILHELM AF TIBELL\nGouache av Isachson\n(K. Södermanlands regemente, S. P. A.)"
+  },
+  {
+   "bbox": [
+    738,
+    351,
+    1255,
+    1023
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    750,
+    1051,
+    1244,
+    1157
+   ],
+   "category": "Caption",
+   "text": "JOHAN HENRIK SCHRÖDER\nGouache av P. J. R. Lachainés\n(i enskild ägo, S. P. A.)"
+  },
+  {
+   "bbox": [
+    122,
+    1187,
+    637,
+    1825
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    202,
+    1860,
+    552,
+    1967
+   ],
+   "category": "Caption",
+   "text": "SAMUEL GRUBBE\nOljemålning av J. G. Sandberg\n(Göteborgs Nation, Uppsala)"
+  },
+  {
+   "bbox": [
+    744,
+    1191,
+    1255,
+    1828
+   ],
+   "category": "Picture"
+  },
+  {
+   "bbox": [
+    781,
+    1860,
+    1206,
+    1967
+   ],
+   "category": "Caption",
+   "text": "ERIK GUSTAF GEIJER\nOljemålning av J. G. Sandberg\n(Värmlands Nation, Uppsala)"
+  }
+ ]
+}

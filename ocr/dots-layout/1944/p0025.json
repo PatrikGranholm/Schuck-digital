@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 25,
+ "seconds": 30.7,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [812, 273, 1283, 317], \"category\": \"Section-header\", \"text\": \"Liljegrens tid 1826—1837\"}, {\"bbox\": [528, 343, 1567, 559], \"category\": \"Text\", \"text\": \"kunnat sträcka sin åtgärd till en mindre del af samlingen, nemligen Cufiska mynten, utan att våga företaga de större afdelningarne, såsom Grekiska, Romerska eller de Nyare Myntsamlingarne, ej heller de tid efter annan tillkomne fynden, för att icke, i händelse af sjukdom eller dödlig bortgång, hafva rubbat styckenas fordna läge, utan att hafva hunnit gifva dem en ny riktig ordning med dertill hörande förteckning.\"}, {\"bbox\": [526, 556, 1566, 1514], \"category\": \"Text\", \"text\": \"Enär till denna för Samlingarne högst nödiga åtgärd, som jemte serskild forskning och kännedom fordrar en egen öfning, allt egenskaper, hvilka högst få förvärfva sig, så är det ock sällan, som Garde des Médailles dervid kan erhålla någon skicklig medhjelpare. Ett önskadt tillfälle att vinna ett sådant biträde af en man, som med sakkännedom förenar öfning, nit och drift, samt åt denna sysselsättning enkom kan egna sin tid, har yppat sig. Numismatices Docenten vid K. Univ. i Lund Mag. B. E. Hildebrand, hvilken så väl under ordnandet af Myntsamlingen vid bete K. Acads Historiska Museum som ock vid granskningen af flere andra samlingar förvärfvat en sällsynt skicklighet och öfning i detta grannlaga göromål, hvilka med serdeles håg och flit förenade egenskaper Danska Myntkännare gifvit ett utmärkt hedrande vitsord, och hvilka äfven jag haft tillfälle erfara, är beredvillig att — utan annat anspråk än något understöd för att kunna uppehålla sig i hufvudstaden — vid ett sådant K. MyntCabinettets ordnande oafbrutet lägga hand. Då genom en sådan medarbetare hela Samlingens ordnande och förtecknande på några få år skulle kunna åstadkommas, och det understöd, hvarmed han ansett sig vara belåten, endast uppgår till 400 Rdr Bco om året, vågar jag detta förhållande i djupaste underdånighet annäma med lika underdånig hemställan om icke, då han förbinder sig att i samverkan med Garde des Médailles under K. Witterh. Academiens inseende oafbrutet sysselsätta sig med K. MyntCabinettets ordnande och förtecknande samt månadtligen inför bete K. Academie redovisar fortgången deraf, E. K. Majt skulle täckas genom ett sådant årligt understöd i Nåder sätta honom, Mag. Docens B. E. Hildebrand, i tillfälle att ifrån och med nästa år på tre års tid härmed taga befattning, under hvilken tid jag hoppas att det hufvudsakligaste af K. MyntCabinettet skall kunna i vederbörlig vetenskaplig ordning ställas.\"}, {\"bbox\": [563, 1511, 1560, 1590], \"category\": \"Text\", \"text\": \"Med djupast undersåtlig vördnad, trohet och nit, framhärdar etc. etc.\\nStockholm d 4 oct. 1832.\"}, {\"bbox\": [528, 1623, 1560, 1790], \"category\": \"Text\", \"text\": \"För yttrandes avgivande remitterades denna framställning till akademien, som behandlade den vid sammanträdet den 9 oktober. Vid ärendets föredragning avlägsnade sig Liljegren, som ansåg sig jävig. Med all sannolikhet hade han dock förut rådgjort med de inflytelse-\"}, {\"bbox\": [533, 1828, 580, 1855], \"category\": \"Page-footer\", \"text\": \"10\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    812,
+    273,
+    1283,
+    317
+   ],
+   "category": "Section-header",
+   "text": "Liljegrens tid 1826—1837"
+  },
+  {
+   "bbox": [
+    528,
+    343,
+    1567,
+    559
+   ],
+   "category": "Text",
+   "text": "kunnat sträcka sin åtgärd till en mindre del af samlingen, nemligen Cufiska mynten, utan att våga företaga de större afdelningarne, såsom Grekiska, Romerska eller de Nyare Myntsamlingarne, ej heller de tid efter annan tillkomne fynden, för att icke, i händelse af sjukdom eller dödlig bortgång, hafva rubbat styckenas fordna läge, utan att hafva hunnit gifva dem en ny riktig ordning med dertill hörande förteckning."
+  },
+  {
+   "bbox": [
+    526,
+    556,
+    1566,
+    1514
+   ],
+   "category": "Text",
+   "text": "Enär till denna för Samlingarne högst nödiga åtgärd, som jemte serskild forskning och kännedom fordrar en egen öfning, allt egenskaper, hvilka högst få förvärfva sig, så är det ock sällan, som Garde des Médailles dervid kan erhålla någon skicklig medhjelpare. Ett önskadt tillfälle att vinna ett sådant biträde af en man, som med sakkännedom förenar öfning, nit och drift, samt åt denna sysselsättning enkom kan egna sin tid, har yppat sig. Numismatices Docenten vid K. Univ. i Lund Mag. B. E. Hildebrand, hvilken så väl under ordnandet af Myntsamlingen vid bete K. Acads Historiska Museum som ock vid granskningen af flere andra samlingar förvärfvat en sällsynt skicklighet och öfning i detta grannlaga göromål, hvilka med serdeles håg och flit förenade egenskaper Danska Myntkännare gifvit ett utmärkt hedrande vitsord, och hvilka äfven jag haft tillfälle erfara, är beredvillig att — utan annat anspråk än något understöd för att kunna uppehålla sig i hufvudstaden — vid ett sådant K. MyntCabinettets ordnande oafbrutet lägga hand. Då genom en sådan medarbetare hela Samlingens ordnande och förtecknande på några få år skulle kunna åstadkommas, och det understöd, hvarmed han ansett sig vara belåten, endast uppgår till 400 Rdr Bco om året, vågar jag detta förhållande i djupaste underdånighet annäma med lika underdånig hemställan om icke, då han förbinder sig att i samverkan med Garde des Médailles under K. Witterh. Academiens inseende oafbrutet sysselsätta sig med K. MyntCabinettets ordnande och förtecknande samt månadtligen inför bete K. Academie redovisar fortgången deraf, E. K. Majt skulle täckas genom ett sådant årligt understöd i Nåder sätta honom, Mag. Docens B. E. Hildebrand, i tillfälle att ifrån och med nästa år på tre års tid härmed taga befattning, under hvilken tid jag hoppas att det hufvudsakligaste af K. MyntCabinettet skall kunna i vederbörlig vetenskaplig ordning ställas."
+  },
+  {
+   "bbox": [
+    563,
+    1511,
+    1560,
+    1590
+   ],
+   "category": "Text",
+   "text": "Med djupast undersåtlig vördnad, trohet och nit, framhärdar etc. etc.\nStockholm d 4 oct. 1832."
+  },
+  {
+   "bbox": [
+    528,
+    1623,
+    1560,
+    1790
+   ],
+   "category": "Text",
+   "text": "För yttrandes avgivande remitterades denna framställning till akademien, som behandlade den vid sammanträdet den 9 oktober. Vid ärendets föredragning avlägsnade sig Liljegren, som ansåg sig jävig. Med all sannolikhet hade han dock förut rådgjort med de inflytelse-"
+  },
+  {
+   "bbox": [
+    533,
+    1828,
+    580,
+    1855
+   ],
+   "category": "Page-footer",
+   "text": "10"
+  }
+ ]
+}

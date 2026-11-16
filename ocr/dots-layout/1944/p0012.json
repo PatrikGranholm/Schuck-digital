@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 12,
+ "seconds": 27.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [143, 375, 1251, 667], \"category\": \"Title\", \"text\": \"KGL. VITTERHETS\\nHISTORIE OCH ANTIKVITETS\\nAKADEMIEN\"}, {\"bbox\": [315, 744, 1078, 897], \"category\": \"Title\", \"text\": \"Dess\\nFörhistoria och Historia\"}, {\"bbox\": [462, 954, 929, 1093], \"category\": \"Text\", \"text\": \"På akademiens uppdrag\\nförfattade\\nav\"}, {\"bbox\": [465, 1132, 926, 1187], \"category\": \"Text\", \"text\": \"HENRIK SCHÜCK\"}, {\"bbox\": [553, 1274, 836, 1447], \"category\": \"Text\", \"text\": \"VIII\\nAKADEMIEN\\n1826–1837\"}, {\"bbox\": [452, 1778, 937, 1831], \"category\": \"Text\", \"text\": \"Stockholm 1944\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    143,
+    375,
+    1251,
+    667
+   ],
+   "category": "Title",
+   "text": "KGL. VITTERHETS\nHISTORIE OCH ANTIKVITETS\nAKADEMIEN"
+  },
+  {
+   "bbox": [
+    315,
+    744,
+    1078,
+    897
+   ],
+   "category": "Title",
+   "text": "Dess\nFörhistoria och Historia"
+  },
+  {
+   "bbox": [
+    462,
+    954,
+    929,
+    1093
+   ],
+   "category": "Text",
+   "text": "På akademiens uppdrag\nförfattade\nav"
+  },
+  {
+   "bbox": [
+    465,
+    1132,
+    926,
+    1187
+   ],
+   "category": "Text",
+   "text": "HENRIK SCHÜCK"
+  },
+  {
+   "bbox": [
+    553,
+    1274,
+    836,
+    1447
+   ],
+   "category": "Text",
+   "text": "VIII\nAKADEMIEN\n1826–1837"
+  },
+  {
+   "bbox": [
+    452,
+    1778,
+    937,
+    1831
+   ],
+   "category": "Text",
+   "text": "Stockholm 1944"
+  }
+ ]
+}

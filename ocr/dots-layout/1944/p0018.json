@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 18,
+ "seconds": 25.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [266, 604, 1085, 643], \"category\": \"Section-header\", \"text\": \"SEKRETERARE, AMANUENS OCH RITARE.\"}, {\"bbox\": [154, 722, 1192, 1177], \"category\": \"Text\", \"text\": \"Det sista sammanträde i akademien, i vilket Rutström deltog, var den 11 april 1826. Men det memorialprotokoll, han därvid fört, hann han aldrig renskriva, ty två dagar senare träffades han av ett slaganfall, som ändade hans liv. Vid sammanträdet den 18 april tillkännagavs dödsfallet av akademiens vice president Blad. Akademiens ledamöter — skrives i protokollet — »som lifligt kände den förlust academien gemensamt med litteraturen härigenom lidit, trodde sig behöfva någon tids rådrum, utan att derför dröja öfver den bestämda tiden, för val af en arbetande Ledamot såväl som af Sekreterare. Imedlertid trädde undertecknad [Liljegren], academiens amanuens, enligt stadgarna till Protokollet.»\"}, {\"bbox\": [1218, 731, 1334, 817], \"category\": \"Text\", \"text\": \"Inventeringen efter Rutström\"}, {\"bbox\": [152, 1177, 1190, 1376], \"category\": \"Text\", \"text\": \"För att vara minnesord över en avliden sekreterare voro dessa ju icke överdrivet erkännsamma, och litteraturens förlust genom den fullkomligt sterile Rutströms bortgång hade kanske icke bort anföras. Någon minnestecknare över den avlidne utsåg akademien heller icke.\"}, {\"bbox\": [150, 1382, 1190, 1797], \"category\": \"Text\", \"text\": \"Vid ett följande sammanträde tillsattes såsom vanligt inventeringsmän över den avgångne sekreterarens förvaltning, vilkas berättelse den 7 november föredrogs av Brinkman, och i denna antydes på ett diskret sätt, att Rutström just ingenting uträttat för att bringa samingarna i ordning. Dessa befunno sig »hufvudsakligen i samma skick, som de tillförne aflemnats till framl. Medicinalrådet Rutström». Men som — fortsätter protokollets referat — »bemälte Herrar [inventeringsmännen] derjemte ansett sig ej till alla delar svara emot det dem lemnade förtroende, om de ej begagnade detta tillfälle att fästa Academiens uppmärksamhet på de svårigheter, hvilka nödvändigt\"}, {\"bbox\": [1159, 1835, 1182, 1870], \"category\": \"Page-footer\", \"text\": \"3\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    266,
+    604,
+    1085,
+    643
+   ],
+   "category": "Section-header",
+   "text": "SEKRETERARE, AMANUENS OCH RITARE."
+  },
+  {
+   "bbox": [
+    154,
+    722,
+    1192,
+    1177
+   ],
+   "category": "Text",
+   "text": "Det sista sammanträde i akademien, i vilket Rutström deltog, var den 11 april 1826. Men det memorialprotokoll, han därvid fört, hann han aldrig renskriva, ty två dagar senare träffades han av ett slaganfall, som ändade hans liv. Vid sammanträdet den 18 april tillkännagavs dödsfallet av akademiens vice president Blad. Akademiens ledamöter — skrives i protokollet — »som lifligt kände den förlust academien gemensamt med litteraturen härigenom lidit, trodde sig behöfva någon tids rådrum, utan att derför dröja öfver den bestämda tiden, för val af en arbetande Ledamot såväl som af Sekreterare. Imedlertid trädde undertecknad [Liljegren], academiens amanuens, enligt stadgarna till Protokollet.»"
+  },
+  {
+   "bbox": [
+    1218,
+    731,
+    1334,
+    817
+   ],
+   "category": "Text",
+   "text": "Inventeringen efter Rutström"
+  },
+  {
+   "bbox": [
+    152,
+    1177,
+    1190,
+    1376
+   ],
+   "category": "Text",
+   "text": "För att vara minnesord över en avliden sekreterare voro dessa ju icke överdrivet erkännsamma, och litteraturens förlust genom den fullkomligt sterile Rutströms bortgång hade kanske icke bort anföras. Någon minnestecknare över den avlidne utsåg akademien heller icke."
+  },
+  {
+   "bbox": [
+    150,
+    1382,
+    1190,
+    1797
+   ],
+   "category": "Text",
+   "text": "Vid ett följande sammanträde tillsattes såsom vanligt inventeringsmän över den avgångne sekreterarens förvaltning, vilkas berättelse den 7 november föredrogs av Brinkman, och i denna antydes på ett diskret sätt, att Rutström just ingenting uträttat för att bringa samingarna i ordning. Dessa befunno sig »hufvudsakligen i samma skick, som de tillförne aflemnats till framl. Medicinalrådet Rutström». Men som — fortsätter protokollets referat — »bemälte Herrar [inventeringsmännen] derjemte ansett sig ej till alla delar svara emot det dem lemnade förtroende, om de ej begagnade detta tillfälle att fästa Academiens uppmärksamhet på de svårigheter, hvilka nödvändigt"
+  },
+  {
+   "bbox": [
+    1159,
+    1835,
+    1182,
+    1870
+   ],
+   "category": "Page-footer",
+   "text": "3"
+  }
+ ]
+}

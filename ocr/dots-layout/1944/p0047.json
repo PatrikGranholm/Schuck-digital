@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 47,
+ "seconds": 25.4,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [578, 542, 1531, 627], \"category\": \"Section-header\", \"text\": \"LEVERNESBESKRIVNINGAR, INTRÄDESTAL OCH ÖVRIGA AVHANDLINGAR.\"}, {\"bbox\": [403, 692, 526, 755], \"category\": \"Text\", \"text\": \"Levernesbeskrivningar\"}, {\"bbox\": [535, 685, 1572, 1175], \"category\": \"Text\", \"text\": \"De arbetsuppgifter, som enligt Gustav III:s statuter ålågo akademiens alla ledamöter, voro i främsta rummet de förut omtalade medaljhistorierna samt vidare granskningen av tävlingsskrifter samt förslag till inskrifter på minnespenningar, offentliga byggnader o. d. Medaljhistorierna hade nu för länge sedan begravts i glömska, och även inskriftsförslagen och tävlingsskrifterna, till vilka vi sedan skola komma, hade både hos allmänheten och hos akademien förlorat betydligt i intresse. Men andra arbetsuppgifter, från vilka de honoraira ledamöterna likväl voro fritagna, stodo kvar: levernesbeskrivningar över avlidna ledamöter, inträdestal och de avhandlingar, som varje arbetande ledamot enligt § 4 årligen skulle inlämna till akademien.\"}, {\"bbox\": [535, 1179, 1572, 1800], \"category\": \"Text\", \"text\": \"Vad först levernesbeskrivningarna beträffar, var det Gustav III:s mening, att dylika skulle skrivas över *varje* ledamot av akademien, således även över de utländska, och den första levernesbeskrivning, som på Konungens befallning författades i den omorganiserade akademien, var över en fransman: d'Alembert. Men denna blev också den enda dylika under akademiens återstående tid. Under 1826—1837 avledo icke mindre än tio utländska ledamöter — bland dem så betydande män som Suchtelen, Rask och Champollion — men deras bortgång blev icke ens omnämnd i akademien. Av de honoraira avledo tolv, men av dem fingo endast två några minnestal i akademien, nämligen Fleming och Skjöldebrand. Av ledamöterna i den arbetande klassen avledo också tolv. Men av dessa tolv fick blott en enda, Biberg, ett minnestal. Av 34 under dessa år avlidne ledamöter kommo således endast tre i åtnjutande av den heder, som låg i ett minnestal.\"}, {\"bbox\": [541, 1836, 590, 1875], \"category\": \"Page-footer\", \"text\": \"30\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    578,
+    542,
+    1531,
+    627
+   ],
+   "category": "Section-header",
+   "text": "LEVERNESBESKRIVNINGAR, INTRÄDESTAL OCH ÖVRIGA AVHANDLINGAR."
+  },
+  {
+   "bbox": [
+    403,
+    692,
+    526,
+    755
+   ],
+   "category": "Text",
+   "text": "Levernesbeskrivningar"
+  },
+  {
+   "bbox": [
+    535,
+    685,
+    1572,
+    1175
+   ],
+   "category": "Text",
+   "text": "De arbetsuppgifter, som enligt Gustav III:s statuter ålågo akademiens alla ledamöter, voro i främsta rummet de förut omtalade medaljhistorierna samt vidare granskningen av tävlingsskrifter samt förslag till inskrifter på minnespenningar, offentliga byggnader o. d. Medaljhistorierna hade nu för länge sedan begravts i glömska, och även inskriftsförslagen och tävlingsskrifterna, till vilka vi sedan skola komma, hade både hos allmänheten och hos akademien förlorat betydligt i intresse. Men andra arbetsuppgifter, från vilka de honoraira ledamöterna likväl voro fritagna, stodo kvar: levernesbeskrivningar över avlidna ledamöter, inträdestal och de avhandlingar, som varje arbetande ledamot enligt § 4 årligen skulle inlämna till akademien."
+  },
+  {
+   "bbox": [
+    535,
+    1179,
+    1572,
+    1800
+   ],
+   "category": "Text",
+   "text": "Vad först levernesbeskrivningarna beträffar, var det Gustav III:s mening, att dylika skulle skrivas över *varje* ledamot av akademien, således även över de utländska, och den första levernesbeskrivning, som på Konungens befallning författades i den omorganiserade akademien, var över en fransman: d'Alembert. Men denna blev också den enda dylika under akademiens återstående tid. Under 1826—1837 avledo icke mindre än tio utländska ledamöter — bland dem så betydande män som Suchtelen, Rask och Champollion — men deras bortgång blev icke ens omnämnd i akademien. Av de honoraira avledo tolv, men av dem fingo endast två några minnestal i akademien, nämligen Fleming och Skjöldebrand. Av ledamöterna i den arbetande klassen avledo också tolv. Men av dessa tolv fick blott en enda, Biberg, ett minnestal. Av 34 under dessa år avlidne ledamöter kommo således endast tre i åtnjutande av den heder, som låg i ett minnestal."
+  },
+  {
+   "bbox": [
+    541,
+    1836,
+    590,
+    1875
+   ],
+   "category": "Page-footer",
+   "text": "30"
+  }
+ ]
+}

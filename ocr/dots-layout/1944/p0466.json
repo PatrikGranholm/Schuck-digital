@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 466,
+ "seconds": 28.5,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [316, 282, 922, 326], \"category\": \"Section-header\", \"text\": \"## Examina, Medaljer och Tävlingar\"}, {\"bbox\": [97, 353, 1136, 636], \"category\": \"Text\", \"text\": \"de andra och är även ur andra synpunkter av ett visst intresse. I juli 1836 anmälde sig tre unga män till undergående av kansliexamen: magister Munck af Rosensköld samt studenterna Ekström och Nisser. Till examinatorer utsågos Wallmark och Liljegren. Mot Munck af Rosenskölds kunskaper hade de intet att invända, men desto mer mot de två andras och med anledning därav avläto de följande skrivelse till akademien:¹\"}, {\"bbox\": [167, 665, 1133, 708], \"category\": \"Text\", \"text\": \"»Till Kongl. Witterhets Historie och Antiquitets Akademien.\"}, {\"bbox\": [97, 712, 1136, 1168], \"category\": \"Text\", \"text\": \"Vid den skrifning för inträde i Kongl. Maj:ts Kansli, som under inseende af oss undertecknade af Studerandena Nisser och Ekström i går för sig gått, hafva vi med ledsnad funnit nämnde Studerandes både Latinska och Fransyska Scripta icke i anseende till många i dem förekommande fel emot de allmännaste gramatikaliska reglor kunna af oss godkännas, och då Kongl. Akademiens nästa ordinarie sammankomst icke inträffar förr än den 17 nästk. augusti, hafva vi trott oss böra låta dessa Scripta cirkulera emellan Kongl Akademiens Herrar Ledamöter, hemställande derjemte, att, ifall Kongl. Akademien skulle gilla vårt omdöme, Studerandena Ekström och Nisser måtte tillåtas att framdeles få förnya skrifningen.\"}, {\"bbox\": [94, 1167, 1134, 1746], \"category\": \"Text\", \"text\": \"Då vi nu af en längre erfarenhet funnit, att i allmänhet en större okunnighet i det Franska språket är hos dem, hvilka anmäla sig till inträde i Konungens Kansli, rådande än som ens kan utmärkas genom ett ægre admittitur, och det skulle vara obehagligt att endast för sådan okunnighet nödgas improbera ett i öfrigt skickligt ämne, hvarföre Kgl. Akademien dock slutligen skall blottställas, om vederbörande finna sig admitterade, hur litet de ock vinlagt sig om framsteg i Franska språket, så hemställa vi till Kongl. Akademien, huruvida icke Kongl. Akademien skulle finna lämpligt att hos H. K. Höghet Kansleren anhålla, det de, som vid Upsala Universitetet taga Kansliexamen, måtte af K. Akademiens Språkmästare på stat examineras i Franska språket och med hans betyg förses, hvarigenom så länge vid detta Universitet icke såsom vid Lunds någon Professor i Lefvande språken examinerar en garanti dock kan beredas i Sta-\"}, {\"bbox\": [130, 1767, 1075, 1801], \"category\": \"Footnote\", \"text\": \"¹ Skrivelsen är i protokollsboken felaktigt bilagd protokollet för den 12 januari 1836.\"}, {\"bbox\": [1055, 1838, 1128, 1875], \"category\": \"Page-footer\", \"text\": \"437\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    316,
+    282,
+    922,
+    326
+   ],
+   "category": "Section-header",
+   "text": "## Examina, Medaljer och Tävlingar"
+  },
+  {
+   "bbox": [
+    97,
+    353,
+    1136,
+    636
+   ],
+   "category": "Text",
+   "text": "de andra och är även ur andra synpunkter av ett visst intresse. I juli 1836 anmälde sig tre unga män till undergående av kansliexamen: magister Munck af Rosensköld samt studenterna Ekström och Nisser. Till examinatorer utsågos Wallmark och Liljegren. Mot Munck af Rosenskölds kunskaper hade de intet att invända, men desto mer mot de två andras och med anledning därav avläto de följande skrivelse till akademien:¹"
+  },
+  {
+   "bbox": [
+    167,
+    665,
+    1133,
+    708
+   ],
+   "category": "Text",
+   "text": "»Till Kongl. Witterhets Historie och Antiquitets Akademien."
+  },
+  {
+   "bbox": [
+    97,
+    712,
+    1136,
+    1168
+   ],
+   "category": "Text",
+   "text": "Vid den skrifning för inträde i Kongl. Maj:ts Kansli, som under inseende af oss undertecknade af Studerandena Nisser och Ekström i går för sig gått, hafva vi med ledsnad funnit nämnde Studerandes både Latinska och Fransyska Scripta icke i anseende till många i dem förekommande fel emot de allmännaste gramatikaliska reglor kunna af oss godkännas, och då Kongl. Akademiens nästa ordinarie sammankomst icke inträffar förr än den 17 nästk. augusti, hafva vi trott oss böra låta dessa Scripta cirkulera emellan Kongl Akademiens Herrar Ledamöter, hemställande derjemte, att, ifall Kongl. Akademien skulle gilla vårt omdöme, Studerandena Ekström och Nisser måtte tillåtas att framdeles få förnya skrifningen."
+  },
+  {
+   "bbox": [
+    94,
+    1167,
+    1134,
+    1746
+   ],
+   "category": "Text",
+   "text": "Då vi nu af en längre erfarenhet funnit, att i allmänhet en större okunnighet i det Franska språket är hos dem, hvilka anmäla sig till inträde i Konungens Kansli, rådande än som ens kan utmärkas genom ett ægre admittitur, och det skulle vara obehagligt att endast för sådan okunnighet nödgas improbera ett i öfrigt skickligt ämne, hvarföre Kgl. Akademien dock slutligen skall blottställas, om vederbörande finna sig admitterade, hur litet de ock vinlagt sig om framsteg i Franska språket, så hemställa vi till Kongl. Akademien, huruvida icke Kongl. Akademien skulle finna lämpligt att hos H. K. Höghet Kansleren anhålla, det de, som vid Upsala Universitetet taga Kansliexamen, måtte af K. Akademiens Språkmästare på stat examineras i Franska språket och med hans betyg förses, hvarigenom så länge vid detta Universitet icke såsom vid Lunds någon Professor i Lefvande språken examinerar en garanti dock kan beredas i Sta-"
+  },
+  {
+   "bbox": [
+    130,
+    1767,
+    1075,
+    1801
+   ],
+   "category": "Footnote",
+   "text": "¹ Skrivelsen är i protokollsboken felaktigt bilagd protokollet för den 12 januari 1836."
+  },
+  {
+   "bbox": [
+    1055,
+    1838,
+    1128,
+    1875
+   ],
+   "category": "Page-footer",
+   "text": "437"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 114,
+ "seconds": 27.3,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [513, 282, 738, 325], \"category\": \"Section-header\", \"text\": \"Nya uppslag\"}, {\"bbox\": [105, 351, 1142, 1345], \"category\": \"Text\", \"text\": \"1822 af Herr Hof Marskalken och Riddaren J. Jennings och dess fru, född Friherrinna Rosenhane, testamenterade, hvilket Secreteraren ansett sig vara skyldig att på förhand nämna till upplysning, i händelse fråga blefve om denna dyrbara Samlings aflemnande, medan Gifvarne ännu lefva». Sedan gick det raskt att ordna saken. Den 24 april »Anmälte Öfverkammarherren Herr Frih. Stierneld, det Hofmarskalken Jennings och dess Fru Friherrina född Rosenhane tillkännagifvit för Herr Baronen deras benägenhet att medan de lefde och redan nu i sommar öfverlemna till Academien en del af den Friherrliga Rosenhaneska Boksamlingen, hvilken de redan år 1822 till Academien testamenterat, och skulle således Acta Historica till öfver 300 band och annat för Academiens forskningar mera behöfligt deraf nu, sedan underrättelse erhållits, att utrymme för deras upplställning funnes, vara färdigt till aflemnande, hvarvid dock önskades, att Academiens Secreterare så väl för detta urval som för inpackningen och emottagandet tillika med v. Bibliothekarien Schröder, som deröfver uppsatt förteckningen, vore närvarande på Torp i slutet af Julii och början af Augusti. Academien, som med nöje emottog underrättelsen om detta förnyade prof af Herr Hofmarskalkens och Fru Friherrinnans välvilja för Academien och nit för vettenskaperne, anmodade Herr Friherre Stierneld att å Academiens vägnar anmäla dess tacksamhet och sin tillförordnade Secreterare att på besagde tid, då Academiens ferier gerna kunde medgifva honom någon ledighet, med bemälte emottagande gå i befattning.»\"}, {\"bbox\": [105, 1344, 1142, 1798], \"category\": \"Text\", \"text\": \"Den 15 augusti »Anmälte Secreteraren, det han företagit den anbefalda Resan till Torp för att utur den af Hofmarskalken och Commendeuren Jennings och dess fru född friherrinnan Rosenhane till academien testamenterade delen af Friherrliga Rosenhaneska Bibliotheket utvälja, hvad var academien för det närvarande mest behöfligt och academien med sin inskränkta lokal kunde inrymma, hvilken del Gifvarne voro färdige att straxt till academien aflemna, tillkännagifvande, det bemälte Gifvare, upplyste derom, att uti academiens Samlingars rum kunde beredas tillräcklig och passande plats för hela den testamenterade Boksamlingen, behagat straxt aflemna hela det enligt testamentet af den (datum ej utskrivet) academien tillkommande\"}, {\"bbox\": [1086, 1834, 1136, 1872], \"category\": \"Page-footer\", \"text\": \"95\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    513,
+    282,
+    738,
+    325
+   ],
+   "category": "Section-header",
+   "text": "Nya uppslag"
+  },
+  {
+   "bbox": [
+    105,
+    351,
+    1142,
+    1345
+   ],
+   "category": "Text",
+   "text": "1822 af Herr Hof Marskalken och Riddaren J. Jennings och dess fru, född Friherrinna Rosenhane, testamenterade, hvilket Secreteraren ansett sig vara skyldig att på förhand nämna till upplysning, i händelse fråga blefve om denna dyrbara Samlings aflemnande, medan Gifvarne ännu lefva». Sedan gick det raskt att ordna saken. Den 24 april »Anmälte Öfverkammarherren Herr Frih. Stierneld, det Hofmarskalken Jennings och dess Fru Friherrina född Rosenhane tillkännagifvit för Herr Baronen deras benägenhet att medan de lefde och redan nu i sommar öfverlemna till Academien en del af den Friherrliga Rosenhaneska Boksamlingen, hvilken de redan år 1822 till Academien testamenterat, och skulle således Acta Historica till öfver 300 band och annat för Academiens forskningar mera behöfligt deraf nu, sedan underrättelse erhållits, att utrymme för deras upplställning funnes, vara färdigt till aflemnande, hvarvid dock önskades, att Academiens Secreterare så väl för detta urval som för inpackningen och emottagandet tillika med v. Bibliothekarien Schröder, som deröfver uppsatt förteckningen, vore närvarande på Torp i slutet af Julii och början af Augusti. Academien, som med nöje emottog underrättelsen om detta förnyade prof af Herr Hofmarskalkens och Fru Friherrinnans välvilja för Academien och nit för vettenskaperne, anmodade Herr Friherre Stierneld att å Academiens vägnar anmäla dess tacksamhet och sin tillförordnade Secreterare att på besagde tid, då Academiens ferier gerna kunde medgifva honom någon ledighet, med bemälte emottagande gå i befattning.»"
+  },
+  {
+   "bbox": [
+    105,
+    1344,
+    1142,
+    1798
+   ],
+   "category": "Text",
+   "text": "Den 15 augusti »Anmälte Secreteraren, det han företagit den anbefalda Resan till Torp för att utur den af Hofmarskalken och Commendeuren Jennings och dess fru född friherrinnan Rosenhane till academien testamenterade delen af Friherrliga Rosenhaneska Bibliotheket utvälja, hvad var academien för det närvarande mest behöfligt och academien med sin inskränkta lokal kunde inrymma, hvilken del Gifvarne voro färdige att straxt till academien aflemna, tillkännagifvande, det bemälte Gifvare, upplyste derom, att uti academiens Samlingars rum kunde beredas tillräcklig och passande plats för hela den testamenterade Boksamlingen, behagat straxt aflemna hela det enligt testamentet af den (datum ej utskrivet) academien tillkommande"
+  },
+  {
+   "bbox": [
+    1086,
+    1834,
+    1136,
+    1872
+   ],
+   "category": "Page-footer",
+   "text": "95"
+  }
+ ]
+}

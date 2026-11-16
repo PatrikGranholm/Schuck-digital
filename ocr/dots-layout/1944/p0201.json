@@ -1,0 +1,272 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 201,
+ "seconds": 34.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [854, 277, 1327, 322], \"category\": \"Section-header\", \"text\": \"Liljegrens tid 1826—1837\"}, {\"bbox\": [580, 349, 1610, 435], \"category\": \"Text\", \"text\": \"orter och upplysningar från åtskilliga samlingar, beslöt Academien att kalla dessa vettenskapsidkare till sina Correspondenter, nemligen:\"}, {\"bbox\": [615, 442, 1610, 526], \"category\": \"Text\", \"text\": \"Professor Finn Magnusson, Secr. i Isländska Litteratur Sällskapet i Köpenhamn,\"}, {\"bbox\": [615, 526, 1610, 611], \"category\": \"Text\", \"text\": \"Professor Kolderup-Rosenvinge, Secr. i Skandinaviska Litteratursällskapet och i Videnskabs Samfundet i Köpenhamn\"}, {\"bbox\": [615, 608, 986, 648], \"category\": \"Text\", \"text\": \"Professor Grim i Cassel,\"}, {\"bbox\": [615, 649, 861, 684], \"category\": \"Text\", \"text\": \"Professor Gräter\"}, {\"bbox\": [615, 690, 975, 726], \"category\": \"Text\", \"text\": \"Professor Kruse i Halle\"}, {\"bbox\": [615, 732, 900, 773], \"category\": \"Text\", \"text\": \"Professor Büsching\"}, {\"bbox\": [615, 773, 994, 815], \"category\": \"Text\", \"text\": \"Professor von der Hagen\"}, {\"bbox\": [615, 815, 1046, 850], \"category\": \"Text\", \"text\": \"Baron von Hammer i Wien\"}, {\"bbox\": [615, 856, 1551, 899], \"category\": \"Text\", \"text\": \"Secreteraren i Antiquariska Societeten i Frankfurt am Mayn\"}, {\"bbox\": [615, 898, 1516, 940], \"category\": \"Text\", \"text\": \"Secreteraren i Academie des Inscriptions et Belles Lettres,\"}, {\"bbox\": [615, 939, 1489, 981], \"category\": \"Text\", \"text\": \"Herr Abel Remusat, Secr. i la Société Asiatique i Paris\"}, {\"bbox\": [615, 981, 1445, 1022], \"category\": \"Text\", \"text\": \"Secreterarne i Antiquariska Societeterna i Normandie,\"}, {\"bbox\": [615, 1022, 1391, 1064], \"category\": \"Text\", \"text\": \"JustitieRådet och K. Bibl. Werlauf i Köpenhamn,\"}, {\"bbox\": [615, 1064, 1548, 1106], \"category\": \"Text\", \"text\": \"Secreterarne i Historisk Antiquariska Samfunden i England,\"}, {\"bbox\": [615, 1105, 1480, 1144], \"category\": \"Text\", \"text\": \"Secreteraren i Academia Reale della Historia i Madrid,\"}, {\"bbox\": [615, 1145, 1023, 1186], \"category\": \"Text\", \"text\": \"Herr Castiglione i Milano,\"}, {\"bbox\": [615, 1186, 1003, 1225], \"category\": \"Text\", \"text\": \"Herr Morellet i Dresden,\"}, {\"bbox\": [615, 1226, 941, 1261], \"category\": \"Text\", \"text\": \"Herr Mionnet i Paris\"}, {\"bbox\": [615, 1267, 1171, 1310], \"category\": \"Text\", \"text\": \"Professor Ramus i Köpenhamn samt\"}, {\"bbox\": [615, 1310, 1410, 1352], \"category\": \"Text\", \"text\": \"Vårdaren af Antiquitets Samlingarne i Petersburg.»\"}, {\"bbox\": [576, 1373, 1603, 1541], \"category\": \"Text\", \"text\": \"Sedermera, den 12 juni, skaffade Stierneld genom sin son, som var svensk minister i London, in en lista på engelska lärda samfund, med vilka akademien kunde träda i beröring. Den föredrogs vid sammanträdet den 12 juni 1827 och togs då till protokollet:\"}, {\"bbox\": [576, 1544, 1603, 1627], \"category\": \"Text\", \"text\": \"»Society of Antiquaries i London sysselsätter sig endast med Engelska Antiquiteter. Secreterare Herr Ellis.\"}, {\"bbox\": [576, 1627, 1603, 1787], \"category\": \"Text\", \"text\": \"Royal Asiatic Society i London: Ostindiens och Asiens fornlemningar, Språk m. m. Secreterare Herr Doctor Habington. Trenne dylika Samfund i Calcutta, Madras och Bombay äro underlydande och skicka sina berättelser till detta.\"}, {\"bbox\": [580, 1822, 647, 1858], \"category\": \"Page-footer\", \"text\": \"182\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    854,
+    277,
+    1327,
+    322
+   ],
+   "category": "Section-header",
+   "text": "Liljegrens tid 1826—1837"
+  },
+  {
+   "bbox": [
+    580,
+    349,
+    1610,
+    435
+   ],
+   "category": "Text",
+   "text": "orter och upplysningar från åtskilliga samlingar, beslöt Academien att kalla dessa vettenskapsidkare till sina Correspondenter, nemligen:"
+  },
+  {
+   "bbox": [
+    615,
+    442,
+    1610,
+    526
+   ],
+   "category": "Text",
+   "text": "Professor Finn Magnusson, Secr. i Isländska Litteratur Sällskapet i Köpenhamn,"
+  },
+  {
+   "bbox": [
+    615,
+    526,
+    1610,
+    611
+   ],
+   "category": "Text",
+   "text": "Professor Kolderup-Rosenvinge, Secr. i Skandinaviska Litteratursällskapet och i Videnskabs Samfundet i Köpenhamn"
+  },
+  {
+   "bbox": [
+    615,
+    608,
+    986,
+    648
+   ],
+   "category": "Text",
+   "text": "Professor Grim i Cassel,"
+  },
+  {
+   "bbox": [
+    615,
+    649,
+    861,
+    684
+   ],
+   "category": "Text",
+   "text": "Professor Gräter"
+  },
+  {
+   "bbox": [
+    615,
+    690,
+    975,
+    726
+   ],
+   "category": "Text",
+   "text": "Professor Kruse i Halle"
+  },
+  {
+   "bbox": [
+    615,
+    732,
+    900,
+    773
+   ],
+   "category": "Text",
+   "text": "Professor Büsching"
+  },
+  {
+   "bbox": [
+    615,
+    773,
+    994,
+    815
+   ],
+   "category": "Text",
+   "text": "Professor von der Hagen"
+  },
+  {
+   "bbox": [
+    615,
+    815,
+    1046,
+    850
+   ],
+   "category": "Text",
+   "text": "Baron von Hammer i Wien"
+  },
+  {
+   "bbox": [
+    615,
+    856,
+    1551,
+    899
+   ],
+   "category": "Text",
+   "text": "Secreteraren i Antiquariska Societeten i Frankfurt am Mayn"
+  },
+  {
+   "bbox": [
+    615,
+    898,
+    1516,
+    940
+   ],
+   "category": "Text",
+   "text": "Secreteraren i Academie des Inscriptions et Belles Lettres,"
+  },
+  {
+   "bbox": [
+    615,
+    939,
+    1489,
+    981
+   ],
+   "category": "Text",
+   "text": "Herr Abel Remusat, Secr. i la Société Asiatique i Paris"
+  },
+  {
+   "bbox": [
+    615,
+    981,
+    1445,
+    1022
+   ],
+   "category": "Text",
+   "text": "Secreterarne i Antiquariska Societeterna i Normandie,"
+  },
+  {
+   "bbox": [
+    615,
+    1022,
+    1391,
+    1064
+   ],
+   "category": "Text",
+   "text": "JustitieRådet och K. Bibl. Werlauf i Köpenhamn,"
+  },
+  {
+   "bbox": [
+    615,
+    1064,
+    1548,
+    1106
+   ],
+   "category": "Text",
+   "text": "Secreterarne i Historisk Antiquariska Samfunden i England,"
+  },
+  {
+   "bbox": [
+    615,
+    1105,
+    1480,
+    1144
+   ],
+   "category": "Text",
+   "text": "Secreteraren i Academia Reale della Historia i Madrid,"
+  },
+  {
+   "bbox": [
+    615,
+    1145,
+    1023,
+    1186
+   ],
+   "category": "Text",
+   "text": "Herr Castiglione i Milano,"
+  },
+  {
+   "bbox": [
+    615,
+    1186,
+    1003,
+    1225
+   ],
+   "category": "Text",
+   "text": "Herr Morellet i Dresden,"
+  },
+  {
+   "bbox": [
+    615,
+    1226,
+    941,
+    1261
+   ],
+   "category": "Text",
+   "text": "Herr Mionnet i Paris"
+  },
+  {
+   "bbox": [
+    615,
+    1267,
+    1171,
+    1310
+   ],
+   "category": "Text",
+   "text": "Professor Ramus i Köpenhamn samt"
+  },
+  {
+   "bbox": [
+    615,
+    1310,
+    1410,
+    1352
+   ],
+   "category": "Text",
+   "text": "Vårdaren af Antiquitets Samlingarne i Petersburg.»"
+  },
+  {
+   "bbox": [
+    576,
+    1373,
+    1603,
+    1541
+   ],
+   "category": "Text",
+   "text": "Sedermera, den 12 juni, skaffade Stierneld genom sin son, som var svensk minister i London, in en lista på engelska lärda samfund, med vilka akademien kunde träda i beröring. Den föredrogs vid sammanträdet den 12 juni 1827 och togs då till protokollet:"
+  },
+  {
+   "bbox": [
+    576,
+    1544,
+    1603,
+    1627
+   ],
+   "category": "Text",
+   "text": "»Society of Antiquaries i London sysselsätter sig endast med Engelska Antiquiteter. Secreterare Herr Ellis."
+  },
+  {
+   "bbox": [
+    576,
+    1627,
+    1603,
+    1787
+   ],
+   "category": "Text",
+   "text": "Royal Asiatic Society i London: Ostindiens och Asiens fornlemningar, Språk m. m. Secreterare Herr Doctor Habington. Trenne dylika Samfund i Calcutta, Madras och Bombay äro underlydande och skicka sina berättelser till detta."
+  },
+  {
+   "bbox": [
+    580,
+    1822,
+    647,
+    1858
+   ],
+   "category": "Page-footer",
+   "text": "182"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 358,
+ "seconds": 26.6,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [551, 528, 672, 564], \"category\": \"Section-header\", \"text\": \"FYND.\"}, {\"bbox\": [80, 633, 1126, 1339], \"category\": \"Text\", \"text\": \"Vända vi oss nu från fornvården till de under Liljegrens sekreterartid anmälda och inlösta eller skänkta fynden, kunna vi både hos allmänheten och hos akademien iakttaga ett ökat intresse för dessa i Gustav III:s statuter icke ens omnämnda fynd, vilkas tillvaratagande nu börjar bliva ett bland de huvudsakliga föremålen för akademiens verksamhet. Flera fynd än förut anmälas för akademien, vilken icke längre, såsom vid Årbolsfyndet, förnämt avvisar dem, flere privata samlare av antikviteter möta oss i akademiens protokoll, såsom doktor Ekman i Kalmar och apotekar Söderström i Karlskrona, utomstående amatörer såsom Seton och Ekdahl företaga arkeologiska grävningar och skänka de gjorda fynden till statsamlingen, och även landshövdingarna ha blivit mera nitiska än förut att anmäla de inom deras län påträffade fynden. Detta ökade antikvariska intresse hos allmänheten, som — om än svagare — kan iakttagas redan vid början av Liljegrens sekreterartid, stegras högst väsentligt genom utfärdandet av 1828 års plakat och ännu mera genom den lilla i 1832 års almanacka införda uppsatsen.\"}, {\"bbox\": [74, 1336, 1119, 1742], \"category\": \"Text\", \"text\": \"Det första dylika ärendet under denna tid föredrogs i akademien samma dag, som Rutströms död där tillkännagavs, den 18 april 1826. Då inlämnades nämligen till akademien två askar, innehållande fornsaker, skänkta av Seton till den under akademiens vård stående samlingen, en urna av glas, en annan av lera, ett åttiotal pärlor, en metallring, ett spjut, en fibula, för vilka gåvor akademien beslöt att skriftligen betyga sin tacksamhet. Den 23 maj följde en annan gåva, denna gång av Blad, som till akademien överlämnade en i Ösmo socken i Södermanland funnen s. k. timsten, enligt hans mening från mitten av 1600-talet.\"}, {\"bbox\": [1131, 1346, 1251, 1378], \"category\": \"Text\", \"text\": \"Fynd 1826\"}, {\"bbox\": [109, 1747, 1115, 1795], \"category\": \"Text\", \"text\": \"Den 30 maj anmäldes det första egentliga fyndet: en guldring,\"}, {\"bbox\": [1039, 1832, 1111, 1870], \"category\": \"Page-footer\", \"text\": \"329\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    551,
+    528,
+    672,
+    564
+   ],
+   "category": "Section-header",
+   "text": "FYND."
+  },
+  {
+   "bbox": [
+    80,
+    633,
+    1126,
+    1339
+   ],
+   "category": "Text",
+   "text": "Vända vi oss nu från fornvården till de under Liljegrens sekreterartid anmälda och inlösta eller skänkta fynden, kunna vi både hos allmänheten och hos akademien iakttaga ett ökat intresse för dessa i Gustav III:s statuter icke ens omnämnda fynd, vilkas tillvaratagande nu börjar bliva ett bland de huvudsakliga föremålen för akademiens verksamhet. Flera fynd än förut anmälas för akademien, vilken icke längre, såsom vid Årbolsfyndet, förnämt avvisar dem, flere privata samlare av antikviteter möta oss i akademiens protokoll, såsom doktor Ekman i Kalmar och apotekar Söderström i Karlskrona, utomstående amatörer såsom Seton och Ekdahl företaga arkeologiska grävningar och skänka de gjorda fynden till statsamlingen, och även landshövdingarna ha blivit mera nitiska än förut att anmäla de inom deras län påträffade fynden. Detta ökade antikvariska intresse hos allmänheten, som — om än svagare — kan iakttagas redan vid början av Liljegrens sekreterartid, stegras högst väsentligt genom utfärdandet av 1828 års plakat och ännu mera genom den lilla i 1832 års almanacka införda uppsatsen."
+  },
+  {
+   "bbox": [
+    74,
+    1336,
+    1119,
+    1742
+   ],
+   "category": "Text",
+   "text": "Det första dylika ärendet under denna tid föredrogs i akademien samma dag, som Rutströms död där tillkännagavs, den 18 april 1826. Då inlämnades nämligen till akademien två askar, innehållande fornsaker, skänkta av Seton till den under akademiens vård stående samlingen, en urna av glas, en annan av lera, ett åttiotal pärlor, en metallring, ett spjut, en fibula, för vilka gåvor akademien beslöt att skriftligen betyga sin tacksamhet. Den 23 maj följde en annan gåva, denna gång av Blad, som till akademien överlämnade en i Ösmo socken i Södermanland funnen s. k. timsten, enligt hans mening från mitten av 1600-talet."
+  },
+  {
+   "bbox": [
+    1131,
+    1346,
+    1251,
+    1378
+   ],
+   "category": "Text",
+   "text": "Fynd 1826"
+  },
+  {
+   "bbox": [
+    109,
+    1747,
+    1115,
+    1795
+   ],
+   "category": "Text",
+   "text": "Den 30 maj anmäldes det första egentliga fyndet: en guldring,"
+  },
+  {
+   "bbox": [
+    1039,
+    1832,
+    1111,
+    1870
+   ],
+   "category": "Page-footer",
+   "text": "329"
+  }
+ ]
+}

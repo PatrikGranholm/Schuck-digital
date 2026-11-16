@@ -1,0 +1,62 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 333,
+ "seconds": 27.9,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [865, 291, 1340, 336], \"category\": \"Page-header\", \"text\": \"Liljegrens tid 1826—1837\"}, {\"bbox\": [957, 380, 1248, 415], \"category\": \"Section-header\", \"text\": \"»KUNGÖRELSE.\"}, {\"bbox\": [584, 438, 1627, 1349], \"category\": \"Text\", \"text\": \"Sedan Herr Riks-Antiquarien med stöd af Kongl. Maj:ts nådiga Förordning af den 17 April 1828 § 7 begärt, att de härstädes befintlige Ruiner af forntidens Kyrkor och andra Byggnader, hvilka, efter hwad till Herr Riks-Antiquariens kunskap kommit, blifwa begagnade för ändamål, som icke äro förenliga med den helgd dessa wördnadsbjudande Fornlemningar tillkommer och som för deras bibehållande äro wådlige, skola genom utfäst wite skyddas mot all slags åwerkan, så warder härmedelst i grund af ofwan åberopade Lagrum, wid wite af (25) Tiugufem Rdr Banco, angifwarens ensak, förbjudet att de här i Staden befintliga Ålderdoms-minnesmärken, bestående af ännu qwarstående Ruiner af äldre Kyrkor samt den omkring Staden gående Mur på något sätt åwerka eller wanpryda, ware sig medelst lösbrytande eller borttagande af stenar, huggande eller annat arbetes förrättande inom Ruinerne, hwarigenom de redan förut bristfälliga hwalfwens och murarnes nedstörtande kan påskyndas, uppförande af osnygga och opassande byggnader eller orenlighets utkastande inom Ruinerna, med mera, hwarigenom desse Ålderdomsmärkens bibehållande i städat skick förhindras, åliggande det Stadens Betjente att öfwer efterlefnaden häraf noga hand hålla, och bör denna Kungörelse jemte Kongl. Maj:ts ofwan åberopade nådiga förordning i April månad hvartannat år i Länets Kyrkor uppläsas. Wisby Landscancellie den 16 juli 1834.»\"}, {\"bbox\": [581, 1351, 1621, 1809], \"category\": \"Text\", \"text\": \"I akademien slutbehandlades ärendet den 16 juli 1834. I detta svar ansåg sig akademien även »böra i dess underdåniga utlåtande lemna svar på de Handlingar rörande samma fråga, som i Nådig Remiss af den 12 April 1826 blifvit Akademien tillställda, men ända hittills varit hos Akademien förvarade i afvaktan på de upplysningar, som genom Akademiens skrifvelse af den 9 Maj 1826 blifvit från Konungens Befallningshafvande infordrade och i dess svar af den 13 mars 1827 utlofvade, men ända till den 31 sistförflutne Dec. uteblifvit. Efter uppläsningen af dessa Handlingar äfvensom af ett af Professorn, Bibliotekarien Schröder i Upsala häröfver meddeladt utlåtande och sedan Riksantiquarien anmält, att Landshöfdinge-\"}, {\"bbox\": [584, 1842, 656, 1879], \"category\": \"Page-footer\", \"text\": \"304\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    865,
+    291,
+    1340,
+    336
+   ],
+   "category": "Page-header",
+   "text": "Liljegrens tid 1826—1837"
+  },
+  {
+   "bbox": [
+    957,
+    380,
+    1248,
+    415
+   ],
+   "category": "Section-header",
+   "text": "»KUNGÖRELSE."
+  },
+  {
+   "bbox": [
+    584,
+    438,
+    1627,
+    1349
+   ],
+   "category": "Text",
+   "text": "Sedan Herr Riks-Antiquarien med stöd af Kongl. Maj:ts nådiga Förordning af den 17 April 1828 § 7 begärt, att de härstädes befintlige Ruiner af forntidens Kyrkor och andra Byggnader, hvilka, efter hwad till Herr Riks-Antiquariens kunskap kommit, blifwa begagnade för ändamål, som icke äro förenliga med den helgd dessa wördnadsbjudande Fornlemningar tillkommer och som för deras bibehållande äro wådlige, skola genom utfäst wite skyddas mot all slags åwerkan, så warder härmedelst i grund af ofwan åberopade Lagrum, wid wite af (25) Tiugufem Rdr Banco, angifwarens ensak, förbjudet att de här i Staden befintliga Ålderdoms-minnesmärken, bestående af ännu qwarstående Ruiner af äldre Kyrkor samt den omkring Staden gående Mur på något sätt åwerka eller wanpryda, ware sig medelst lösbrytande eller borttagande af stenar, huggande eller annat arbetes förrättande inom Ruinerne, hwarigenom de redan förut bristfälliga hwalfwens och murarnes nedstörtande kan påskyndas, uppförande af osnygga och opassande byggnader eller orenlighets utkastande inom Ruinerna, med mera, hwarigenom desse Ålderdomsmärkens bibehållande i städat skick förhindras, åliggande det Stadens Betjente att öfwer efterlefnaden häraf noga hand hålla, och bör denna Kungörelse jemte Kongl. Maj:ts ofwan åberopade nådiga förordning i April månad hvartannat år i Länets Kyrkor uppläsas. Wisby Landscancellie den 16 juli 1834.»"
+  },
+  {
+   "bbox": [
+    581,
+    1351,
+    1621,
+    1809
+   ],
+   "category": "Text",
+   "text": "I akademien slutbehandlades ärendet den 16 juli 1834. I detta svar ansåg sig akademien även »böra i dess underdåniga utlåtande lemna svar på de Handlingar rörande samma fråga, som i Nådig Remiss af den 12 April 1826 blifvit Akademien tillställda, men ända hittills varit hos Akademien förvarade i afvaktan på de upplysningar, som genom Akademiens skrifvelse af den 9 Maj 1826 blifvit från Konungens Befallningshafvande infordrade och i dess svar af den 13 mars 1827 utlofvade, men ända till den 31 sistförflutne Dec. uteblifvit. Efter uppläsningen af dessa Handlingar äfvensom af ett af Professorn, Bibliotekarien Schröder i Upsala häröfver meddeladt utlåtande och sedan Riksantiquarien anmält, att Landshöfdinge-"
+  },
+  {
+   "bbox": [
+    584,
+    1842,
+    656,
+    1879
+   ],
+   "category": "Page-footer",
+   "text": "304"
+  }
+ ]
+}

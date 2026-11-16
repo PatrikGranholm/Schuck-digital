@@ -1,0 +1,82 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 462,
+ "seconds": 28.0,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [433, 271, 784, 305], \"category\": \"Page-header\", \"text\": \"Akademiens ekonomi\"}, {\"bbox\": [93, 340, 1128, 465], \"category\": \"Text\", \"text\": \"arvtagare, men som icke funnos i Gustav III:s då ännu gällande stat. Det var huvudsakligen ur denna synpunkt, som akademien begärde ökade anslag.\"}, {\"bbox\": [93, 465, 1128, 631], \"category\": \"Text\", \"text\": \"1839 års stat slutade enligt Kungabrevet på 1,542 rd r 28 sk. 4 rst. banko jämte en tillökning i spannmål, 138 rd r 1 sk. Akademien begärde nu en kraftig ökning — till 6,433 rd 16 sk. banko, fördelade på följande poster:\"}, {\"bbox\": [127, 640, 1128, 980], \"category\": \"Table\", \"text\": \"<table><tr><td>Till samlingarnas förökande</td><td>1,000 rd r banko</td></tr><tr><td>Inköp av böcker</td><td>500</td></tr><tr><td>Tryckning av Handlingarna och förteckning på samlingarna</td><td>333,16</td></tr><tr><td>Priser och jetoner</td><td>1,500</td></tr><tr><td>Reseunderstöd och andra litterära företag</td><td>600</td></tr><tr><td>Löner</td><td>2,500</td></tr><tr><td></td><td>6,433,16</td></tr></table>\"}, {\"bbox\": [93, 1000, 1132, 1614], \"category\": \"Text\", \"text\": \"Till dessa krav ställde sig riksdagen mycket välvillig. På de begärda lönerna prutades blott 300 rd r och på reseunderstödet 33 rd 16 sk. De övriga posterna godkändes med ett undantag. Det kungabrev, vari Kungl. Maj:t underrättade akademien om utgången i riksdagen, slutar nämligen: »hvaremot det af Eder uppgifne behof af 1,500 Rdr till prisbelöningar och jetoner» icke av riksdagen godkänts. Riksens Ständer ha nämligen »ansett så beskaffade kostnader icke blifva föremål för Statsanslag, utan der de äro erforderliga, böra bestridas af Edre egna medel». Denna stat står således i en stark motsats till Gustav III:s, som egentligen blott tillgodosett behovet av prismedaljer och jetoner, men icke upptog några anslag till forskningar, publikationer och inlösen av fynd. Den nya staten strök däremot prismedaljer och jetoner, men upptog anslag till tryckning, antikvariska resor och inlösen av fynd. I staten hade således »medalj-akademien» efterträtts av en Antikvitetsakademi.\"}, {\"bbox\": [93, 1811, 241, 1839], \"category\": \"Page-footer\", \"text\": \"28-43843 VIII\"}, {\"bbox\": [1057, 1824, 1128, 1860], \"category\": \"Page-footer\", \"text\": \"433\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    433,
+    271,
+    784,
+    305
+   ],
+   "category": "Page-header",
+   "text": "Akademiens ekonomi"
+  },
+  {
+   "bbox": [
+    93,
+    340,
+    1128,
+    465
+   ],
+   "category": "Text",
+   "text": "arvtagare, men som icke funnos i Gustav III:s då ännu gällande stat. Det var huvudsakligen ur denna synpunkt, som akademien begärde ökade anslag."
+  },
+  {
+   "bbox": [
+    93,
+    465,
+    1128,
+    631
+   ],
+   "category": "Text",
+   "text": "1839 års stat slutade enligt Kungabrevet på 1,542 rd r 28 sk. 4 rst. banko jämte en tillökning i spannmål, 138 rd r 1 sk. Akademien begärde nu en kraftig ökning — till 6,433 rd 16 sk. banko, fördelade på följande poster:"
+  },
+  {
+   "bbox": [
+    127,
+    640,
+    1128,
+    980
+   ],
+   "category": "Table",
+   "text": "<table><tr><td>Till samlingarnas förökande</td><td>1,000 rd r banko</td></tr><tr><td>Inköp av böcker</td><td>500</td></tr><tr><td>Tryckning av Handlingarna och förteckning på samlingarna</td><td>333,16</td></tr><tr><td>Priser och jetoner</td><td>1,500</td></tr><tr><td>Reseunderstöd och andra litterära företag</td><td>600</td></tr><tr><td>Löner</td><td>2,500</td></tr><tr><td></td><td>6,433,16</td></tr></table>"
+  },
+  {
+   "bbox": [
+    93,
+    1000,
+    1132,
+    1614
+   ],
+   "category": "Text",
+   "text": "Till dessa krav ställde sig riksdagen mycket välvillig. På de begärda lönerna prutades blott 300 rd r och på reseunderstödet 33 rd 16 sk. De övriga posterna godkändes med ett undantag. Det kungabrev, vari Kungl. Maj:t underrättade akademien om utgången i riksdagen, slutar nämligen: »hvaremot det af Eder uppgifne behof af 1,500 Rdr till prisbelöningar och jetoner» icke av riksdagen godkänts. Riksens Ständer ha nämligen »ansett så beskaffade kostnader icke blifva föremål för Statsanslag, utan der de äro erforderliga, böra bestridas af Edre egna medel». Denna stat står således i en stark motsats till Gustav III:s, som egentligen blott tillgodosett behovet av prismedaljer och jetoner, men icke upptog några anslag till forskningar, publikationer och inlösen av fynd. Den nya staten strök däremot prismedaljer och jetoner, men upptog anslag till tryckning, antikvariska resor och inlösen av fynd. I staten hade således »medalj-akademien» efterträtts av en Antikvitetsakademi."
+  },
+  {
+   "bbox": [
+    93,
+    1811,
+    241,
+    1839
+   ],
+   "category": "Page-footer",
+   "text": "28-43843 VIII"
+  },
+  {
+   "bbox": [
+    1057,
+    1824,
+    1128,
+    1860
+   ],
+   "category": "Page-footer",
+   "text": "433"
+  }
+ ]
+}

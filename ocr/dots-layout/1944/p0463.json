@@ -1,0 +1,72 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 463,
+ "seconds": 27.1,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [702, 548, 1489, 593], \"category\": \"Section-header\", \"text\": \"EXAMINA, MEDALJER OCH TÄVLINGAR.\"}, {\"bbox\": [444, 666, 563, 724], \"category\": \"Section-header\", \"text\": \"Kansliexamen\"}, {\"bbox\": [575, 661, 1615, 822], \"category\": \"Text\", \"text\": \"Det återstår nu blott att behandla de »relikter», som ännu funnos kvar från Gustav III:s och »passivitetstidens» akademi. Dessa voro egentligen tre: tävlingarna, medaljer och inskrifter samt kansliexamen. Vi vända oss först till den sista.\"}, {\"bbox\": [569, 825, 1611, 1654], \"category\": \"Text\", \"text\": \"Äldst hade någon universitetsexamen icke fordrats för dem, som sökte anställning vid rättegångsverken eller i kansliet. Den sökande företedde endast ett allmänt hållet »testimonium academicum», som icke innehöll något om hans kunskaper. Då detta betyg alls icke gav någon garanti för den sökandes duglighet, hade 1750 en särskild examen inrättats som kompetens för anställning vid rättegångsverken och en annan för dem, som ville söka inträde i kansliet. Men den nya kansliexamen led emellertid av åtskilliga brister, av vilka ur 1700-talets synpunkt den betänkligaste var, att den inför universitet avlagda kansliexamen icke innehöll något om sökandens kunskaper i franska, den tidens viktigaste kulturspråk. Universiteten hade väl »språkmästare» i franska, men dessa hade icke någon examinationsrätt, och några professurer i moderna språk funnos ännu icke; de kommo till först ett gott stycke in på 1800-talet, i Uppsala först 1858.¹ Dessa brister i universitetens kansliexamen gjorde emellertid, att kanslikollegium, utom denna akademiska examen, fordrade en ny prövning inför kollegiet, vilken förrättades av ett kansliråd. Emellertid hade, såsom vi förut sett (VII, sid. 150), kanslikollegiet 1801 blivit upplöst, och då hade denna examinationsskyldighet överflyttats på Vitterhets Historie och Antikvitets akademien. Examen var dels skriftlig\"}, {\"bbox\": [568, 1660, 1605, 1784], \"category\": \"Footnote\", \"text\": \"¹ I Lund fanns visserligen sedan 1813 en professur i franska, tyska och engelska. Men dess förste innehavare, Jonas Steckzén, som utsetts av professurens donator — dennes systerson — var en f. d. sjökapten, som av sina kolleger ansågs såsom ganska inkompetent. I Lund fanns därjämte en fransk språkmästare, A. J. Vroland.\"}, {\"bbox\": [571, 1817, 643, 1853], \"category\": \"Page-footer\", \"text\": \"434\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    702,
+    548,
+    1489,
+    593
+   ],
+   "category": "Section-header",
+   "text": "EXAMINA, MEDALJER OCH TÄVLINGAR."
+  },
+  {
+   "bbox": [
+    444,
+    666,
+    563,
+    724
+   ],
+   "category": "Section-header",
+   "text": "Kansliexamen"
+  },
+  {
+   "bbox": [
+    575,
+    661,
+    1615,
+    822
+   ],
+   "category": "Text",
+   "text": "Det återstår nu blott att behandla de »relikter», som ännu funnos kvar från Gustav III:s och »passivitetstidens» akademi. Dessa voro egentligen tre: tävlingarna, medaljer och inskrifter samt kansliexamen. Vi vända oss först till den sista."
+  },
+  {
+   "bbox": [
+    569,
+    825,
+    1611,
+    1654
+   ],
+   "category": "Text",
+   "text": "Äldst hade någon universitetsexamen icke fordrats för dem, som sökte anställning vid rättegångsverken eller i kansliet. Den sökande företedde endast ett allmänt hållet »testimonium academicum», som icke innehöll något om hans kunskaper. Då detta betyg alls icke gav någon garanti för den sökandes duglighet, hade 1750 en särskild examen inrättats som kompetens för anställning vid rättegångsverken och en annan för dem, som ville söka inträde i kansliet. Men den nya kansliexamen led emellertid av åtskilliga brister, av vilka ur 1700-talets synpunkt den betänkligaste var, att den inför universitet avlagda kansliexamen icke innehöll något om sökandens kunskaper i franska, den tidens viktigaste kulturspråk. Universiteten hade väl »språkmästare» i franska, men dessa hade icke någon examinationsrätt, och några professurer i moderna språk funnos ännu icke; de kommo till först ett gott stycke in på 1800-talet, i Uppsala först 1858.¹ Dessa brister i universitetens kansliexamen gjorde emellertid, att kanslikollegium, utom denna akademiska examen, fordrade en ny prövning inför kollegiet, vilken förrättades av ett kansliråd. Emellertid hade, såsom vi förut sett (VII, sid. 150), kanslikollegiet 1801 blivit upplöst, och då hade denna examinationsskyldighet överflyttats på Vitterhets Historie och Antikvitets akademien. Examen var dels skriftlig"
+  },
+  {
+   "bbox": [
+    568,
+    1660,
+    1605,
+    1784
+   ],
+   "category": "Footnote",
+   "text": "¹ I Lund fanns visserligen sedan 1813 en professur i franska, tyska och engelska. Men dess förste innehavare, Jonas Steckzén, som utsetts av professurens donator — dennes systerson — var en f. d. sjökapten, som av sina kolleger ansågs såsom ganska inkompetent. I Lund fanns därjämte en fransk språkmästare, A. J. Vroland."
+  },
+  {
+   "bbox": [
+    571,
+    1817,
+    643,
+    1853
+   ],
+   "category": "Page-footer",
+   "text": "434"
+  }
+ ]
+}

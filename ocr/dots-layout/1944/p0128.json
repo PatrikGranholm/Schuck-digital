@@ -1,0 +1,52 @@
+{
+ "model": "rednote-hilab/dots.mocr",
+ "mode": "dots-layout",
+ "vol": "1944",
+ "index": 128,
+ "seconds": 12.8,
+ "finish": "stop",
+ "retried": false,
+ "raw": "[{\"bbox\": [505, 283, 731, 325], \"category\": \"Section-header\", \"text\": \"Nya uppslag\"}, {\"bbox\": [101, 352, 1139, 644], \"category\": \"Text\", \"text\": \"och denna gång var det icke boktryckarens fel, ty ännu den 13 juli\\n1836 hade akademien icke gjort upp något kontrakt med Nordström\\n(se prot. för denna dag) och hade ej lämnat honom något manuskript.\\nI stället avslöt man, som sagt, den 21 december ett nytt med den\\nNorstedtska firman, och den av denna tryckta delen kom 1838 ut,\\nsåledes efter Liljegrens död. Med redigeringen kan han knappt ha\\nhaft något att göra.\"}, {\"bbox\": [101, 642, 1138, 802], \"category\": \"Text\", \"text\": \"Om anledningen till Liljegrens bristande intresse för Handlingarna känner man intet. Men förmodligen var det Diplomatariet, som upptog nästan hela hans tid, och vi skola erinra oss, att han under dessa år var både riksantikvarie och riksarkivarie.\"}, {\"bbox\": [1062, 1836, 1132, 1874], \"category\": \"Page-footer\", \"text\": \"109\"}]",
+ "blocks": [
+  {
+   "bbox": [
+    505,
+    283,
+    731,
+    325
+   ],
+   "category": "Section-header",
+   "text": "Nya uppslag"
+  },
+  {
+   "bbox": [
+    101,
+    352,
+    1139,
+    644
+   ],
+   "category": "Text",
+   "text": "och denna gång var det icke boktryckarens fel, ty ännu den 13 juli\n1836 hade akademien icke gjort upp något kontrakt med Nordström\n(se prot. för denna dag) och hade ej lämnat honom något manuskript.\nI stället avslöt man, som sagt, den 21 december ett nytt med den\nNorstedtska firman, och den av denna tryckta delen kom 1838 ut,\nsåledes efter Liljegrens död. Med redigeringen kan han knappt ha\nhaft något att göra."
+  },
+  {
+   "bbox": [
+    101,
+    642,
+    1138,
+    802
+   ],
+   "category": "Text",
+   "text": "Om anledningen till Liljegrens bristande intresse för Handlingarna känner man intet. Men förmodligen var det Diplomatariet, som upptog nästan hela hans tid, och vi skola erinra oss, att han under dessa år var både riksantikvarie och riksarkivarie."
+  },
+  {
+   "bbox": [
+    1062,
+    1836,
+    1132,
+    1874
+   ],
+   "category": "Page-footer",
+   "text": "109"
+  }
+ ]
+}
