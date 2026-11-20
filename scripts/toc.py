@@ -2,6 +2,8 @@
 
   python scripts/toc.py --vol 1932     -> data/structure/<vol>-toc.json, report/sidenotes-<vol>.md
 
+Each topic matched to a sidenote gets "note": its index among the TEI's margin notes in document order.
+
 The TOC lists each chapter followed by its marginal topics with page numbers
 ("Fornminnenas förstöring 1, Den börjande göticismen 5, ..."). These are the sidenotes,
 so the TOC is an independent check of the TEI's <note place="margin" type="summary">:
@@ -97,6 +99,8 @@ def parse_toc(vol, images, chapters, parts=(), source="auto"):
     for t in re.finditer(r"([^,]+?)\s+((?![oOsS°;>?’Ö]\s*(?:[,.>?’»;]|$))[\diIloOsS°;>?’Ö]{1,3}(?: ?\d)?)"
                          r"\s*(?=[,.>?’»;]|$)", text):
         name, raw = t.group(1).strip(" .,»>’"), t.group(2).replace(" ", "")
+        name = re.sub(r"s’(?=[a-zåäö])", "s’ ", name)      # text layer: "Bureus’ställning" (vol. I)
+        name = name.lstrip("?; ")                          # a comma read as "?": "lexikograf 79? Bureus’ …"
         num = raw.translate(FOLD)
         if not (num.isdigit() and name):
             continue
@@ -146,7 +150,6 @@ def main():
     a = ap.parse_args()
     st = json.loads((ROOT / "data" / "structure" / f"{a.vol}.json").read_text())
     toc, sources = parse_toc(a.vol, st["back"]["contents"], st["chapters"], st.get("parts", []), a.source)
-    (ROOT / "data" / "structure" / f"{a.vol}-toc.json").write_text(json.dumps(toc, ensure_ascii=False, indent=1))
     notes, body = tei_notes(a.vol)
     res = {"found": [], "misplaced": [], "in body": [], "missing": []}
     used = set()
@@ -182,6 +185,9 @@ def main():
             res["in body"].append((tp, None))
         else:
             res["missing"].append((tp, None))
+    for ti, k in match.items():          # the reader links a topic to its sidenote (build_site.py: xml:id sn<k>)
+        topics[ti]["note"] = k
+    (ROOT / "data" / "structure" / f"{a.vol}-toc.json").write_text(json.dumps(toc, ensure_ascii=False, indent=1))
     extra = [n for k, n in enumerate(notes) if k not in used]
     n_topics = sum(len(c["topics"]) for c in toc)
     md = [f"# Sidenotes vs table of contents, vol. {a.vol}", "",

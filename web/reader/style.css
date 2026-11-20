@@ -55,6 +55,32 @@ body.nofacs .facs, body.nofacs .divider { display: none; }
 .osd { flex: 1; background: #3b3832; }
 .pgsource { padding: 5px 10px; border-top: 1px solid var(--line); }
 
+/* TOC panel: chapters and their marginal topics, the current one highlighted (onScroll) */
+.tocpanel { display: none; width: 280px; flex: none; overflow-y: auto; background: var(--paper); border-right: 1px solid var(--line);
+  padding: 8px 0 40px; font: 13px/1.35 var(--sans); }
+body.tocopen .tocpanel { display: block; }
+body.tocopen #toc { display: none; }
+#tocbtn[aria-pressed="true"] { background: var(--accent-soft); color: var(--accent); border-color: var(--accent); }
+.tocpanel ol { list-style: none; margin: 0; padding: 0; }
+.tocpanel .chrow { display: flex; align-items: baseline; margin-top: 4px; }
+.tocpanel .tg { flex: none; width: 22px; padding: 0; border: 0; background: none; color: var(--muted); font-size: 11px; text-align: center; }
+button.tg::before { content: "▸"; display: inline-block; transition: transform .15s; }
+.tocpanel a { flex: 1; display: flex; gap: 8px; align-items: baseline; padding: 3px 12px 3px 6px; color: var(--ink);
+  text-decoration: none; border-left: 3px solid transparent; }
+.tocpanel a:hover { background: var(--accent-soft); }
+.tocpanel a .pg { margin-left: auto; color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; }
+.tocpanel a.ch { font-weight: 600; }
+.tocpanel .topics a { padding-left: 28px; }
+.tocpanel a.nonote { color: var(--muted); font-style: italic; }
+.tocpanel a.current { border-left-color: var(--accent); background: var(--accent-soft); color: var(--accent); }
+.tocpanel .chapter.current > .chrow a.ch { color: var(--accent); }
+/* only the current chapter's topics are open, unless toggled */
+.chapter > .topics { display: none; }
+.chapter.current > .topics, .chapter[data-fold="open"] > .topics { display: block; }
+.chapter[data-fold="closed"] > .topics { display: none; }
+.chapter.current > .chrow button.tg::before, .chapter[data-fold="open"] > .chrow button.tg::before { transform: rotate(90deg); }
+.chapter[data-fold="closed"] > .chrow button.tg::before { transform: none; }
+
 /* the text */
 .text { max-width: 46rem; margin: 0 auto; padding: 28px 230px 80px 40px; font: 18px/1.62 var(--serif); position: relative; }
 .text p { margin: 0 0 .2em; text-indent: 1.4em; hyphens: auto; text-align: justify; }
@@ -117,6 +143,8 @@ figure button { margin-top: 6px; }
 .pbdemo { font: 12px var(--sans); color: var(--muted); border: 1px solid var(--line); border-radius: 4px; padding: 0 4px; }
 
 @media (max-width: 1100px) {
+  body.tocopen .tocpanel, #tocbtn { display: none; }
+  body.tocopen #toc { display: inline-block; }
   .text { padding: 20px 24px 60px; }
   .sidenote { float: none; display: block; width: auto; margin: .3em 0; padding-left: .8em; border-left: 2px solid var(--line); }
 }

@@ -11,6 +11,7 @@
 <header class="top">
   <a class="brand" href="#" title="Om utgåvan">Schück digital</a>
   <select id="volsel" aria-label="Del"></select>
+  <button id="tocbtn" class="ghost" aria-pressed="false" title="Visa/dölj innehållsförteckningen med marginalrubriker">Innehåll</button>
   <select id="toc" aria-label="Innehåll"><option value="">Innehåll…</option></select>
   <nav class="tabs" role="tablist">
     <button data-view="read" class="on" role="tab">Läs</button>
@@ -30,6 +31,7 @@
 
 <main id="main">
   <section id="view-read" class="view on">
+    <nav id="tocpanel" class="tocpanel" aria-label="Innehåll"></nav>
     <div class="reader">
       <article id="text" class="text" aria-live="polite"><p class="loading">Laddar…</p></article>
     </div>
@@ -98,6 +100,7 @@
     <p>Texten är framställd med OCR (dots.mocr) och har ännu inte korrekturlästs, utom på de sidor som markerats som <span class="badge gt">granskad</span>. Sidor markerade <span class="badge textlayer">PDF-text</span> bygger på den äldre textversionen i PDF-filen, där OCR-modellen misslyckades. Stavningen i citerade källor återges som i trycket.</p>
     <ul>
       <li>Marginalrubriker visas i marginalen, fotnoter som upphöjda siffror (klicka).</li>
+      <li><b>Innehåll</b> visar tryckets innehållsförteckning bredvid texten: kapitlen med sina marginalrubriker, där det avsnitt man läser är markerat. Rubriker i kursiv saknas i den OCR-lästa texten och leder till sidan.</li>
       <li>Sökningen kan begränsas till citat eller till texten utanför citaten. Citat (»…») och källhänvisningar (K. B., R. A., U. U. B. …) är uppmärkta och listas under <b>Citat</b> och <b>Källor</b>.</li>
       <li>Rättelser ur trycket (Rättelser) är införda; den tryckta läsarten visas när man pekar på ordet.</li>
       <li>I citaten har OCR-modellen ibland moderniserat stavningen (<i>vårt</i> för <i>wårt</i>). Där PDF-textlagret och en andra OCR-motor (Kraken) båda har den gamla formen och skillnaden bara gäller w/v, j/i eller dubbla bokstäver, återges den gamla formen. Sådana ord är prickat understrukna; OCR-modellens läsart visas när man pekar på ordet.</li>

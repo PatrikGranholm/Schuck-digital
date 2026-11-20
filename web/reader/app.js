@@ -126,7 +126,12 @@ function render(node, parent, ctx) {
       break;
     }
     case "note": {
-      if (a("place") === "margin") { e = h("span", "sidenote"); renderKids(node, e, ctx); break; }
+      if (a("place") === "margin") {
+        e = h("span", "sidenote");
+        if (a("xml:id")) e.id = a("xml:id");   // sn<k>, the target of a topic in the TOC panel
+        renderKids(node, e, ctx);
+        break;
+      }
       const body = h("div"), k = V.notes.length;
       V.notes.push({ n: a("n"), body, page: ctx.page, low: a("cert") === "low" });
       ctx.note = k;
@@ -215,6 +220,7 @@ async function openVol(vol) {
   for (const c of V.meta.chapters) add(`${c.n}. ${c.title}${c.page ? ` (s. ${c.page})` : ""}`, `${vol}/ch${c.n}`);
   if (V.root.querySelector("#contents")) add("Innehållsförteckning", `${vol}/contents`);
   if (V.root.querySelector("#corrigenda")) add("Rättelser", `${vol}/corrigenda`);
+  buildTocPanel(V);
   S.qRendered = S.sRendered = false;
   const ep = $("epublink");
   ep.hidden = !V.meta.epub;
@@ -231,8 +237,9 @@ function goTo(target, flash = true) {
   else el = document.getElementById(target);
   if (!el) return;
   setView("read");
-  // pages, chapters and front/back sections open at their start; a paragraph or quotation is centred
-  const big = el.classList.contains("pb") || ["SECTION", "DIV", "H2"].includes(el.tagName);
+  // pages, chapters, front/back sections and sidenotes (a topic in the TOC panel) open at their start,
+  // which also makes the scrollspy in onScroll pick them; a paragraph or quotation is centred
+  const big = el.classList.contains("pb") || el.classList.contains("sidenote") || ["SECTION", "DIV", "H2"].includes(el.tagName);
   el.scrollIntoView({ block: big ? "start" : "center" });
   if (el.classList.contains("pb")) showPage(+el.dataset.i);
   const fl = el.tagName === "SECTION" ? el.querySelector("h2") || null : el.classList.contains("pb") ? null : el;
@@ -240,20 +247,92 @@ function goTo(target, flash = true) {
   if (el.classList.contains("fnref")) setTimeout(() => el.click(), 300);   // a mention in a footnote: open the note
 }
 
-// current page = last page marker above the top of the reading pane
+// the printed table of contents beside the text: chapters with their marginal topics, each linked to
+// its sidenote (sn<k>, matched by scripts/toc.py) or, where OCR lost the sidenote, to its page.
+// V.spy holds the targets in document order for the scrollspy in onScroll.
+function buildTocPanel(V) {
+  const vol = V.meta.vol, nav = $("tocpanel"), spy = [];
+  nav.innerHTML = "";
+  S.spyCur = null;
+  const link = (label, target, page, cls) => {
+    const a = h("a", cls, label);
+    a.href = `#${vol}/${target}`;
+    if (page) a.appendChild(h("span", "pg", page));
+    a.onclick = (e) => { if (location.hash === a.hash) { e.preventDefault(); goTo(target); } };   // same hash: no hashchange
+    return a;
+  };
+  const ol = h("ol");
+  const row = (label, target, page, el, topics) => {
+    const item = h("li", "chapter"), r = h("div", "chrow"), a = link(label, target, page, "ch");
+    if (topics && topics.length) {
+      const sub = h("ol", "topics"), tg = h("button", "tg");
+      tg.title = "Visa/dölj marginalrubriker";
+      tg.onclick = () => { item.dataset.fold = getComputedStyle(sub).display === "none" ? "open" : "closed"; };
+      r.append(tg, a);
+      item.appendChild(r);
+      for (const t of topics) {
+        const has = t.note !== undefined;
+        const ta = link(t.topic, has ? `sn${t.note}` : `s${t.page}`, String(t.page), has ? "" : "nonote");
+        if (!has) ta.title = "Marginalrubriken saknas i texten (OCR); länken går till sidan";
+        const ti = h("li");
+        ti.appendChild(ta);
+        sub.appendChild(ti);
+        const tel = has ? V.root.querySelector(`#sn${t.note}`) : (V.pages.find((p) => p.n === String(t.page)) || {}).el;
+        if (tel) spy.push({ el: tel, link: ta, item });
+      }
+      item.appendChild(sub);
+    } else {
+      r.append(h("span", "tg"), a);
+      item.appendChild(r);
+    }
+    if (el) spy.push({ el, link: a, item });
+    ol.appendChild(item);
+  };
+  if (V.root.querySelector(".titlepage")) row("Titelblad", "top", "", V.root);
+  for (const c of V.meta.chapters) row(`${c.n}. ${c.title}`, `ch${c.n}`, c.page, V.root.querySelector(`#ch${c.n}`), c.topics);
+  for (const [label, id] of [["Innehållsförteckning", "contents"], ["Rättelser", "corrigenda"]]) {
+    const el = V.root.querySelector(`#${id}`);
+    if (el) row(label, id, "", el);
+  }
+  nav.appendChild(ol);
+  // document order (a chapter precedes its sidenotes; topics sharing a page keep the TOC's order)
+  spy.sort((x, y) => (x.el === y.el ? 0 : x.el.compareDocumentPosition(y.el) & Node.DOCUMENT_POSITION_FOLLOWING ? -1 : 1));
+  V.spy = spy;
+}
+
+// highlight the TOC entry the reader is in, open its chapter and keep it in view in the panel
+function spyTo(cur) {
+  if (S.spyCur === cur) return;
+  if (S.spyCur) { S.spyCur.link.classList.remove("current"); S.spyCur.item.classList.remove("current"); }
+  S.spyCur = cur;
+  if (!cur) return;
+  cur.link.classList.add("current");
+  cur.item.classList.add("current");
+  const nav = $("tocpanel");
+  if (!nav.offsetParent) return;
+  const r = cur.link.getBoundingClientRect(), nr = nav.getBoundingClientRect();
+  if (r.top < nr.top + 24 || r.bottom > nr.bottom - 24) nav.scrollTop += r.top - nr.top - nr.height / 3;
+}
+
+// current page = last page marker above the top of the reading pane; the same for the TOC entry
 let scrollTimer;
 function onScroll() {
   clearTimeout(scrollTimer);
   scrollTimer = setTimeout(() => {
     const V = S.cur;
-    if (!V || !V.pages.length || !$("follow").checked) return;
+    if (!V || !$("view-read").classList.contains("on")) return;   // hidden: every element is at top 0
     const top = document.querySelector(".reader").getBoundingClientRect().top + 90;
-    let lo = 0, hi = V.pages.length - 1, best = 0;
-    while (lo <= hi) {
-      const mid = (lo + hi) >> 1;
-      if (V.pages[mid].el.getBoundingClientRect().top <= top) { best = mid; lo = mid + 1; } else hi = mid - 1;
-    }
-    showPage(best);
+    const last = (arr) => {
+      let lo = 0, hi = arr.length - 1, best = -1;
+      while (lo <= hi) {
+        const mid = (lo + hi) >> 1;
+        if (arr[mid].el.getBoundingClientRect().top <= top) { best = mid; lo = mid + 1; } else hi = mid - 1;
+      }
+      return best;
+    };
+    if (V.pages.length && $("follow").checked) showPage(Math.max(0, last(V.pages)));
+    const spy = V.spy || [];
+    spyTo(spy[Math.max(0, last(spy))]);
   }, 80);
 }
 
@@ -327,6 +406,7 @@ function setView(v) {
   if (v === "about") renderAbout();
   if (v === "persons") renderEntries("persons");
   if (v === "places") renderEntries("places");
+  if (v === "read") onScroll();
 }
 
 function li(where, html, target) {
@@ -598,6 +678,18 @@ function initUI() {
     if (!document.body.classList.contains("nofacs")) { S.osdUrl = null; showPage(Math.max(0, S.page)); }
   };
   if (store.get("nofacs") === "1" || innerWidth < 760) document.body.classList.add("nofacs");
+  // TOC panel: open by default where text, sidenote margin and facsimile still fit beside it
+  const tocOpen = (on) => {
+    document.body.classList.toggle("tocopen", on);
+    $("tocbtn").setAttribute("aria-pressed", on);
+  };
+  tocOpen(store.get("tocpanel") ? store.get("tocpanel") === "1" : innerWidth >= 1400);
+  $("tocbtn").onclick = () => {
+    const on = !document.body.classList.contains("tocopen");
+    tocOpen(on);
+    store.set("tocpanel", on ? "1" : "0");
+    if (on) { S.spyCur = null; for (const x of document.querySelectorAll("#tocpanel .current")) x.classList.remove("current"); onScroll(); }
+  };
   const theme = store.get("theme");
   if (theme) document.documentElement.dataset.theme = theme;
   $("themebtn").onclick = () => {

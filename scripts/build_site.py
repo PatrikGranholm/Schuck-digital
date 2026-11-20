@@ -10,7 +10,9 @@ For every volume with a tei/schuck-<vol>.xml:
                                must stay under GitHub Pages' 1 GB site limit)
 plus site/data/volumes.json, site/epub/schuck-<vol>.epub (scripts/to_epub.py, rebuilt when
 the TEI is newer) and the app files from web/reader/. Images are only rebuilt
-when missing. The site is published from its own branch (gh-pages), so the images never
+when missing. In the site TEI the margin notes get xml:id sn<k> (document order); volumes.json
+lists each chapter's printed TOC topics from data/structure/<vol>-toc.json (scripts/toc.py),
+with "note": k where the topic was matched to sidenote k. The site is published from its own branch (gh-pages), so the images never
 enter the main branch.
 """
 import argparse
@@ -55,6 +57,9 @@ def build_volume(vol, out):
         g.set("url", f"img/{vol}/{dst.name}")
         g.set("width", f"{w}px")
         g.set("height", f"{h}px")
+    # sidenotes get ids in document order, as toc.py numbers them, so the reader's TOC can link to them
+    for k, n in enumerate(x for x in t.iter(f"{TEI}note") if x.get("place") == "margin"):
+        n.set(XML_ID, f"sn{k}")
     (out / "data").mkdir(parents=True, exist_ok=True)
     t.write(str(out / "data" / f"schuck-{vol}.xml"), encoding="UTF-8", xml_declaration=True)
     struct = json.loads((ROOT / "data" / "structure" / f"{vol}.json").read_text())
@@ -68,6 +73,13 @@ def build_volume(vol, out):
             k = int(d.get("n")) - 1
             chapters.append({"n": d.get("n"), "title": titles[k] if k < len(titles) else title,
                              "page": pb.get("n") if pb is not None else None})
+    tocf = ROOT / "data" / "structure" / f"{vol}-toc.json"     # scripts/toc.py: the printed TOC's topics
+    if tocf.exists():
+        toc = json.loads(tocf.read_text())
+        if len(toc) != len(chapters):
+            raise SystemExit(f"{vol}: {len(toc)} chapters in {tocf.name}, {len(chapters)} in the TEI")
+        for c, tc in zip(chapters, toc):
+            c["topics"] = [{k: tp[k] for k in ("topic", "page", "note") if k in tp} for tp in tc["topics"]]
     resp = [pb.get("resp") for pb in t.iter(f"{TEI}pb")]
     return {"vol": vol, "part": VOLUMES[vol]["part"], "year": VOLUMES[vol]["year"],
             "file": f"data/schuck-{vol}.xml", "chapters": chapters, "pages": len(used),
