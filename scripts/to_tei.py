@@ -40,6 +40,7 @@ from rapidfuzz import fuzz
 
 from common import GT, LIBRIS, OCR, ROOT, VOLUMES, img_path
 from manuscripta import shelf_key
+from riksarkivet import KANSLI, ra_key
 from regions import _textlayer_paragraphs, dehyphenate, dots_blocks, from_textlayer, read_gt
 
 TEI_NS = "http://www.tei-c.org/ns/1.0"
@@ -152,11 +153,18 @@ def bibl_spans(plain, footnote=False):
         if rm:
             out.append((a, a + rm.end(), "orgName"))
         holder = holder_of(rm.group(0)) if rm else None
+        # Kanslikollegium's incoming letters ("R. A. Kanslikoll. Inkomna skrivelser sign. E IV. 9", also
+        # without "R. A."): a volume of the fonds SE/RA/1411 (scripts/riksarkivet.py)
+        kansli = KANSLI.search(txt) and holder is None and (not rm or rm.group(0).startswith(("R", "Riks")))
         for sm in SHELF.finditer(txt):
             shelf = sm.group(0).rstrip(" .")
-            ms = MANUSCRIPTA.get((holder, shelf_key(shelf))) if holder else None
-            # a digitised manuscript on manuscripta.se: record (@corresp) and IIIF manifest (@facs)
-            attrs = {"corresp": ms["url"], "facs": ms["manifest"]} if ms and ms["manifest"] else {}
+            attrs = {}
+            if holder and (ms := MANUSCRIPTA.get((holder, shelf_key(shelf)))) and ms["manifest"]:
+                # a digitised manuscript on manuscripta.se: record (@corresp) and IIIF manifest (@facs)
+                attrs = {"corresp": ms["url"], "facs": ms["manifest"]}
+            elif kansli and (ra := RIKSARKIVET.get(ra_key(shelf))) and ra["id"]:
+                # the volume's catalogue page at Riksarkivet; its IIIF manifest where it is digitised
+                attrs = {"corresp": ra["url"]} | ({"facs": ra["manifest"]} if ra["manifest"] else {})
             out.append((a + sm.start(), a + sm.start() + len(shelf), "idno", attrs))
     return out
 
@@ -173,6 +181,12 @@ _mf = ROOT / "data" / "sources" / "manuscripta.tsv"
 if _mf.exists():
     with _mf.open() as fh:
         MANUSCRIPTA = {(r["holder"], r["key"]): r for r in csv.DictReader(fh, delimiter="\t")}
+# scripts/riksarkivet.py: Kanslikollegium volume key ("E IV 9") -> record and manifest
+RIKSARKIVET = {}
+_rf = ROOT / "data" / "sources" / "riksarkivet.tsv"
+if _rf.exists():
+    with _rf.open() as fh:
+        RIKSARKIVET = {r["key"]: r for r in csv.DictReader(fh, delimiter="\t")}
 
 
 OPEN = {"italic": '<hi rend="italic">', "spaced": '<hi rend="spaced">', "bibl": '<bibl type="source">',
@@ -702,7 +716,7 @@ def build(vol):
     n_links = load_ner(vol)
     qn = [0]
     stats = {"pages": 0, "gt": 0, "dots": 0, "textlayer": 0, "foot": 0, "foot_unanchored": 0, "margin": 0,
-             "quotes": 0, "bibl": 0, "paragraphs": 0, "margin_rescued": 0, "margin_toc": 0, "margin_inserted": 0, "manuscripta": 0, "errata": 0,
+             "quotes": 0, "bibl": 0, "paragraphs": 0, "margin_rescued": 0, "margin_toc": 0, "margin_inserted": 0, "manuscripta": 0, "riksarkivet": 0, "errata": 0,
              "names": 0, "spelling": 0}
     spell = {}              # placeholder -> (dots word, text-layer word, page): old-spelling candidates
     spell_log = []          # applied changes, for report/spelling-<vol>.md
@@ -742,7 +756,8 @@ def build(vol):
         stats["quotes"] += len(qspans)
         bs = bibl_spans(plain)
         stats["bibl"] += sum(1 for s in bs if s[2] == "bibl")
-        stats["manuscripta"] += sum(1 for s in bs if s[2] == "idno" and len(s) > 3 and s[3])
+        stats["manuscripta"] += sum(1 for s in bs if s[2] == "idno" and len(s) > 3 and "manuscripta" in s[3].get("corresp", ""))
+        stats["riksarkivet"] += sum(1 for s in bs if s[2] == "idno" and len(s) > 3 and "riksarkivet" in s[3].get("corresp", ""))
         names = ner_spans(plain)
         stats["names"] += len(names)
         # old-spelling markers: apply inside quotations only, where no other bound falls inside the word

@@ -157,17 +157,19 @@ function render(node, parent, ctx) {
       e.id = `src${V.sources.length}`;
       renderKids(node, e, ctx);
       const org = node.getElementsByTagNameNS(TEI, "orgName")[0];
-      const ms = [...node.getElementsByTagNameNS(TEI, "idno")].map((x) => x.getAttribute("corresp")).filter(Boolean);
+      const ms = [...node.getElementsByTagNameNS(TEI, "idno")].filter((x) => x.getAttribute("corresp"))
+        .map((x) => ({ url: x.getAttribute("corresp"), facs: !!x.getAttribute("facs") }));
       V.sources.push({ id: e.id, org: org ? norm(org.textContent) : "", text: norm(plain(node)), page: ctx.page, chapter: ctx.chapter, ms });
       e.title = "Källhänvisning";
       break;
     }
     case "idno": {
-      // a shelfmark digitised on manuscripta.se (scripts/manuscripta.py): @corresp = the record, @facs = IIIF manifest
+      // a shelfmark linked to manuscripta.se (scripts/manuscripta.py) or a Riksarkivet volume (scripts/riksarkivet.py):
+      // @corresp = the catalogue record, @facs = IIIF manifest where digitised
       if (a("corresp")) {
         e = h("a", "shelfmark ms");
         e.href = a("corresp"); e.target = "_blank"; e.rel = "noopener";
-        e.title = "Digitaliserad på manuscripta.se";
+        e.title = extTitle(a("corresp"), !!a("facs"));
         e.onclick = (ev) => ev.stopPropagation();
       } else e = h("span", "shelfmark");
       renderKids(node, e, ctx);
@@ -466,9 +468,10 @@ function renderSources() {
     const ol = h("ol", "items");
     for (const s of items) {
       const item = li(where(s), esc(s.text), `${V.meta.vol}/${s.id}`);
-      for (const url of s.ms) {              // digitised on manuscripta.se
-        const m = h("a", "mslink", "manuscripta.se");
-        m.href = url; m.target = "_blank"; m.rel = "noopener";
+      for (const x of s.ms) {                // manuscripta.se or Riksarkivet
+        const m = h("a", "mslink", extLabel(x.url));
+        m.href = x.url; m.target = "_blank"; m.rel = "noopener";
+        m.title = extTitle(x.url, x.facs);
         m.onclick = (ev) => ev.stopPropagation();
         item.lastChild.append(" ", m);
       }
@@ -548,6 +551,11 @@ function renderAbout() {
 function lifespan(e) {
   return e.birth || e.death ? `(${e.birth ? +e.birth : "?"}–${e.death ? +e.death : "?"})` : "";
 }
+// links from a shelfmark: label and tooltip by host; facs = digitised (a IIIF manifest)
+const extLabel = (url) => (url.includes("riksarkivet") ? "Riksarkivet" : "manuscripta.se");
+const extTitle = (url, facs) => (url.includes("riksarkivet")
+  ? (facs ? "Volymen i Riksarkivet, digitaliserad" : "Volymen i Riksarkivets arkivkatalog (ej digitaliserad)")
+  : "Digitaliserad på manuscripta.se");
 const ID_LABEL = { wikidata: "Wikidata", SBL: "SBL", VIAF: "VIAF", Libris: "Libris", manuscripta: "manuscripta.se" };
 function idLinks(e) {
   const box = h("div", "links");
