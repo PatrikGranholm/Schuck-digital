@@ -115,10 +115,6 @@
     "topic": "Lidéns donation",
     "page": 54,
     "note": 21
-   },
-   {
-    "topic": "Kungörelsen den",
-    "page": 10
    }
   ]
  },
@@ -369,7 +365,8 @@
    },
    {
     "topic": "1792 och 1793",
-    "page": 124
+    "page": 124,
+    "note": 69
    }
   ]
  },
@@ -378,7 +375,8 @@
   "topics": [
    {
     "topic": "Den förgustavianska tidens medaljhistoria",
-    "page": 126
+    "page": 126,
+    "note": 70
    },
    {
     "topic": "Gustav III:s egen medaljhistoria",
@@ -457,7 +455,8 @@
    },
    {
     "topic": "Inträdestalen. Adlerbeths inträdestal",
-    "page": 221
+    "page": 221,
+    "note": 86
    },
    {
     "topic": "Ristells inträdestal",
@@ -571,7 +570,8 @@
    },
    {
     "topic": "Övriga avhandlingar",
-    "page": 259
+    "page": 259,
+    "note": 111
    }
   ]
  },
@@ -612,6 +612,7 @@
    {
     "topic": "Styrafyndet",
     "page": 276,
+    "full": "Fynd 1786 Styrafyndet",
     "note": 117
    },
    {
@@ -632,6 +633,7 @@
    {
     "topic": "Pelkenäfyndet",
     "page": 289,
+    "full": "Fynd 1787 Pelkenäfyndet",
     "note": 121
    },
    {
@@ -656,7 +658,9 @@
    },
    {
     "topic": "Utmelandsfyndet",
-    "page": 296
+    "page": 296,
+    "full": "Fynd 1788 Utmelandsfyndet",
+    "note": 126
    },
    {
     "topic": "Fynd 1789",
@@ -683,6 +687,12 @@
     "note": 130
    },
    {
+    "topic": "Fynd 1791",
+    "page": 305,
+    "nopage": true,
+    "note": 131
+   },
+   {
     "topic": "Skåfyndet",
     "page": 305,
     "note": 131
@@ -694,7 +704,8 @@
    },
    {
     "topic": "Fynd 1792 och 1793",
-    "page": 308
+    "page": 308,
+    "note": 133
    },
    {
     "topic": "Nordins grävningar",
@@ -722,7 +733,7 @@
     "note": 138
    },
    {
-    "topic": "Maj 1787",
+    "topic": "Kungörelsen den 10 Maj 1787",
     "page": 324,
     "note": 139
    },
@@ -891,22 +902,6 @@
  {
   "chapter": "Adlerbeths sista sekreterarår",
   "topics": [
-   {
-    "topic": "Fynd",
-    "page": 1786
-   },
-   {
-    "topic": "Fynd",
-    "page": 1787
-   },
-   {
-    "topic": "Fynd",
-    "page": 1788
-   },
-   {
-    "topic": "Fynd",
-    "page": 1791
-   },
    {
     "topic": "Akademien och förmyndarregeringen",
     "page": 409,

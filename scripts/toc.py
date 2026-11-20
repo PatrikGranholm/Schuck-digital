@@ -95,6 +95,8 @@ def parse_toc(vol, images, chapters, parts=(), source="auto"):
     pwords = {w for p in parts for w in re.findall(r"\w+", p["title"].lower())}   # "AVVECKLINGEN." before a chapter
     words = [set(re.findall(r"\w+", c["title"].lower())) | pwords for c in chapters]
     found = []
+    head = None              # a series heading with a year and no page: "Fynd 1786. Styrafyndet 276" (vol. VI)
+    month = r"(?:Jan|Febr|Mars|Apr|Maj|Juni|Juli|Aug|Sept|Okt|Nov|Dec)\w*\.?\s+1\d{3}"
     # a lone letter other than I/l is not a page number ("Miracuia S. Erici 245": S is not page 5)
     for t in re.finditer(r"([^,]+?)\s+((?![oOsS°;>?’Ö]\s*(?:[,.>?’»;]|$))[\diIloOsS°;>?’Ö]{1,3}(?: ?\d)?)"
                          r"\s*(?=[,.>?’»;]|$)", text):
@@ -104,13 +106,26 @@ def parse_toc(vol, images, chapters, parts=(), source="auto"):
         num = raw.translate(FOLD)
         if not (num.isdigit() and name):
             continue
+        if len(num) == 4 and 1500 <= int(num) < 1900:      # a year, not a page
+            if text[t.end():t.end() + 1] == ".":           # the heading of what follows: "Fynd 1786. Styrafyndet 276"
+                head = f"{name} {num}"
+            elif found:                                    # a topic whose page OCR lost: "Riksdagen 1668, Rannsakningarna …"
+                found.append((f"{name} {num}", found[-1][1], None, True))
+            continue
         m = re.search(r"\s(\d{1,2})$", name)               # "Birkenius 1 51": a page number split by OCR
         if m and int(m.group(1) + num) > (found[-1][1] if found else 0):
             name, num = name[:m.start()], m.group(1) + num
-        for part in re.split(r"(?<=\s\d{3})\s|(?<=\s\d{2})\s(?=[A-ZÅÄÖ])", name):  # missing comma
+        # a missing comma ("… 120 Passet 1599 …"), but not a date ("Kungörelsen den 10 Maj 1787 324")
+        parts = re.split(rf"(?<=\s\d{{3}})\s|(?<=\s\d{{2}})\s(?=[A-ZÅÄÖ])(?!{month})", name)
+        for i, part in enumerate(parts):
             m = re.match(r"(.+)\s(\d{2,3})$", part)
-            found.append((m.group(1), int(m.group(2))) if m else (part, int(num)))
-    for name, n in found:
+            if i == len(parts) - 1:
+                # the page is num; a number before it is a misread year ("Norrlandsresan 227 229" for 1827, vol. VIII)
+                found.append((m.group(1) if m else part, int(num), head, False))
+            else:
+                found.append((m.group(1), int(m.group(2)), head, False) if m else (part, int(num), head, False))
+            head = None
+    for name, n, head, nopage in found:
         k = max((j for j, s0 in enumerate(starts) if s0 <= n), default=0)
         # a chapter-title fragment before the first topic ("Urkundsutgivning Recesserna och landslagen"):
         # strip title words only when a capitalised topic follows ("Bureus' ungdom" keeps its name)
@@ -121,6 +136,10 @@ def parse_toc(vol, images, chapters, parts=(), source="auto"):
         tp = {"topic": name.strip(" ,"), "page": n}
         if j and w[j][:1].isupper():          # keep the full form too: "Bureus och Kabbala" is a real topic
             tp = {"topic": " ".join(w[j:]).strip(" ,"), "page": n, "full": tp["topic"]}
+        if head:                              # matched also as "Fynd 1786 Styrafyndet"
+            tp["full"] = f"{head} {tp['topic']}"
+        if nopage:                            # page of the topic before; main() takes its sidenote's page
+            tp["nopage"] = True
         out[k]["topics"].append(tp)
     return out, used
 
@@ -157,11 +176,46 @@ def main():
     topics = [tp for ch in toc for tp in ch["topics"]]
     match = {}
 
+    def norm(x):
+        x = re.sub(r"\s+", " ", x.lower().strip(" .,:»").translate(DASH))
+        return re.sub(r"([a-zåäöæ])- ?([a-zåäöæ])", r"\1\2", x)      # "Örkeljunga-fyndet", "förgusta-vianska"
+
     def score(topic, note, strict):
-        """Fuzzy ratio; a TOC series elides its common part ("Consignationen 1750 321, 1751 324",
-        "Tävlingarna 687, I skaldekonst 690"), so a sidenote that ends with the topic counts too."""
-        t, n = (x.lower().strip(" .,:").translate(DASH) for x in (topic, note))
-        return max(fuzz.ratio(t, n), 85 if strict and len(t) >= 4 and n.endswith(" " + t) else 0)
+        """Fuzzy ratio. On the TOC page (strict) also:
+        - a TOC series elides its common part, at the start ("Consignationen 1750 321, 1751 324",
+          "Tävlingarna 687, I skaldekonst 690") or at the end ("Inträdestalen. Fredenheims 65, Tengströms 67"
+          for the sidenote "Fredenheims inträdestal"), so a sidenote that ends or starts with the topic counts;
+        - the TOC puts a heading in front of a sidenote ("Tävlingarna 1820 och 1821" for "1820 och 1821");
+        - OCR cut a sidenote short ("Setons arbete för" for "Setons arbete för Diplomatariet")."""
+        t, n = norm(topic), norm(note)
+        r = fuzz.ratio(t, n)
+        if strict and len(t) >= 4 and (n.endswith(" " + t) or n.startswith(t + " ")):
+            r = max(r, 85)
+        if strict and ((len(n) >= 4 and (t.endswith(" " + n) or t.startswith(n + " "))) or (len(n) >= 8 and t.startswith(n))):
+            r = max(r, 82)
+        return r
+    def pairs(minr, strict):
+        """One TOC topic printed as two sidenotes on the same page ("Eldsvådan" + "1802", "1804" + "1805"
+        for "1804 och 1805", "Örkeljunga-fyndet" + "Hållsjö-fyndet"); the topic links to the first."""
+        for ti, tp in enumerate(topics):
+            if ti in match:
+                continue
+            # only where no single sidenote will do ("Fynd" + "De Ribbing-ska guldring-arna" is not a pair)
+            if any(score(tp["topic"], n["text"], False) >= 80 for k, n in enumerate(notes) if near(tp, k)):
+                continue
+            best = None
+            for k in range(len(notes) - 1):
+                if k in used or k + 1 in used or not near(tp, k) or notes[k]["page"] != notes[k + 1]["page"]:
+                    continue
+                n1, n2 = notes[k]["text"], notes[k + 1]["text"]
+                r = max(score(tp["topic"], f"{n1}{sep}{n2}", strict) for sep in (" ", " och "))
+                if r >= minr and (best is None or r > best[0]):
+                    best = (r, k)
+            if best:
+                match[ti] = best[1]
+                used.update((best[1], best[1] + 1))
+    # pass 0: near-exact pairs, before a single note can claim half of one ("Hållsjö-fyndet")
+    pairs(90, False)
     # pass 1: a sidenote on the TOC page (±1); pass 2: best ratio anywhere, nearer page breaking ties
     # (topics recur: Verelius 131 and 262; similar ones must not cascade: Resor 1669, Resor 1670, ...)
     for strict in (True, False):
@@ -176,6 +230,15 @@ def main():
                 r, k = max(cands, key=lambda c: (c[0], -abs((notes[c[1]]["page"] or 10**6) - tp["page"])))
                 match[ti] = k
                 used.add(k)
+    # pass 3: looser pairs ("Grandel vald" + "Brinkman vald" for "Grandel och Brinkman valda")
+    pairs(85, True)
+    # pass 4: two TOC topics printed as one sidenote ("1806 och 1807 Ydrefyndet", "1820 Lackalängafyndet"):
+    # a topic next to a matched one shares its sidenote when the sidenote holds it word for word
+    for ti, tp in enumerate(topics):
+        for tj in (ti - 1, ti + 1):
+            if ti not in match and tj in match and near(tp, match[tj]) and \
+                    re.search(rf"(?:^|\s){re.escape(norm(tp['topic']))}(?:\s|$)", norm(notes[match[tj]]["text"])):
+                match[ti] = match[tj]
     for ti, tp in enumerate(topics):
         if ti in match:
             n = notes[match[ti]]
@@ -187,6 +250,8 @@ def main():
             res["missing"].append((tp, None))
     for ti, k in match.items():          # the reader links a topic to its sidenote (build_site.py: xml:id sn<k>)
         topics[ti]["note"] = k
+        if topics[ti].get("nopage") and notes[k]["page"]:
+            topics[ti]["page"] = notes[k]["page"]
     (ROOT / "data" / "structure" / f"{a.vol}-toc.json").write_text(json.dumps(toc, ensure_ascii=False, indent=1))
     extra = [n for k, n in enumerate(notes) if k not in used]
     n_topics = sum(len(c["topics"]) for c in toc)
