@@ -563,6 +563,52 @@ def rescue_toc(vol, idx, topics, blocks):
     return n, done
 
 
+def rescue_inserted(vol, idx, topics, done, blocks, vocab):
+    """A third rescue, for sidenotes dots.mocr dropped altogether (neither a margin block nor in the
+    body): where the text layer has margin words on this page that match a TOC topic not yet present,
+    a sidenote is inserted with the TOC's wording (the text layer's spelling is poor: "Arkivet i
+    Stockkoim", "Svenska tortratt") at the position of those words, marked resp="#toc". A group matches
+    as a whole, as a lead + the topic where the TOC elides a series' common word ("Fynd 1755" for
+    "1755"; the lead words must occur in the TOC), or with the topic at its start (two sidenotes the
+    text layer ran together). Years must agree. -> number inserted (topics added to done)"""
+    try:
+        groups = _textlayer_paragraphs(vol, idx)["margin"]
+    except OSError:
+        return 0
+    have = [_joined(b["text"]) for b in blocks if b["kind"] == "margin"]
+    n = 0
+    for g in groups:
+        text = dehyphenate([l[4] for l in g])
+        gl = re.sub(r"(\w)-\s+(?=[a-zåäö])", r"\1", re.sub(r"\s+", " ", text)).lower().strip(" .,")
+        if len(gl) < 3 or any(fuzz.ratio(gl, h) >= 75 for h in have):
+            continue
+        for tp in topics:
+            if tp in done or len(tp) < 3:
+                continue
+            t = tp.lower()
+            digits = set(re.findall(r"\d+", tp))
+            if not digits <= set(re.findall(r"\d+", gl)):
+                continue
+            note, lines = None, g
+            if fuzz.ratio(t, gl) >= 80:
+                note = tp
+            elif gl.endswith(t) and 0 < len(gl) - len(t):
+                lead = text.strip(" .,")[:len(text.strip(" .,")) - len(t)].strip()
+                if 1 <= len(lead.split()) <= 2 and all(w.lower() in vocab for w in lead.split()):
+                    note = f"{lead} {tp}"
+            elif fuzz.ratio(t, gl[:len(t)]) >= 88 and gl[len(t):len(t) + 1] in ("", " ", "."):
+                note = tp
+                lines = g[:max(1, round(len(g) * len(t) / len(gl)))]
+            if note:
+                bbox = [min(l[1] for l in lines), min(l[0] for l in lines),
+                        max(l[1] + l[3] for l in lines), max(l[0] + l[2] for l in lines)]
+                blocks.append({"kind": "margin", "text": note, "cat": "toc", "bbox": bbox, "resp": "#toc"})
+                done.add(tp)
+                n += 1
+                break
+    return n
+
+
 def place_margin(blocks, margin, tl_lines):
     """Index of the body block and character offset where a sidenote begins."""
     if margin.get("anchor"):                         # cut out of a body block by rescue_toc: its own position
@@ -612,6 +658,8 @@ def build(vol):
         for ch in json.loads(toc_file.read_text()):
             for tp in ch["topics"]:
                 toc_topics.setdefault(tp["page"], []).append(tp["topic"])
+    # words of the TOC topics: the lead a series elides ("Fynd" in "Fynd 1754 270, 1755 275")
+    toc_vocab = {w.lower() for v in toc_topics.values() for tp in v for w in tp.split()}
     pm = json.loads((ROOT / "data" / "pagemap" / f"{vol}.json").read_text())
     chapters = struct["chapters"]
     back = struct.get("back", {})
@@ -631,7 +679,7 @@ def build(vol):
     n_links = load_ner(vol)
     qn = [0]
     stats = {"pages": 0, "gt": 0, "dots": 0, "textlayer": 0, "foot": 0, "foot_unanchored": 0, "margin": 0,
-             "quotes": 0, "bibl": 0, "paragraphs": 0, "margin_rescued": 0, "margin_toc": 0, "errata": 0,
+             "quotes": 0, "bibl": 0, "paragraphs": 0, "margin_rescued": 0, "margin_toc": 0, "margin_inserted": 0, "errata": 0,
              "names": 0, "spelling": 0}
     spell = {}              # placeholder -> (dots word, text-layer word, page): old-spelling candidates
     spell_log = []          # applied changes, for report/spelling-<vol>.md
@@ -791,6 +839,7 @@ def build(vol):
                 if isinstance(page, int) else []
             k, done = rescue_toc(vol, idx, topics, blocks)
             stats["margin_toc"] += k
+            stats["margin_inserted"] += rescue_inserted(vol, idx, topics, done, blocks, toc_vocab)
             toc_done = done if isinstance(page, int) else set()
         # an illustration printed in the text (e.g. a runic stone) whose inscriptions OCR reads
         # as many marginal blocks: more than four "sidenotes" on one page -> figure text
@@ -834,8 +883,9 @@ def build(vol):
             if b["kind"] == "margin":
                 bi, off = place_margin(blocks, b, tl)
                 if bi is not None:
+                    mresp = f' resp="{b["resp"]}"' if b.get("resp") else ""     # rescue_inserted: "#toc"
                     inserts.setdefault(bi, []).append((off, ph.add(
-                        f'<note place="margin" type="summary">{inline(b["text"], ph.xml)}</note>')))
+                        f'<note place="margin" type="summary"{mresp}>{inline(b["text"], ph.xml)}</note>')))
                     stats["margin"] += 1
         pb = page_points(idx, page, resp, blocks)
 
@@ -991,6 +1041,7 @@ def build(vol):
 <respStmt xml:id="dots"><resp>OCR, layout analysis</resp><name>dots.mocr (rednote-hilab), via vLLM</name></respStmt>
 <respStmt xml:id="errata"><resp>Correction from the printed errata list (Rättelser)</resp><name>Henrik Schück</name></respStmt>
 <respStmt xml:id="textlayer"><resp>OCR</resp><name>Text layer of the source PDF</name></respStmt>
+<respStmt xml:id="toc"><resp>Sidenote the OCR dropped: wording from the printed table of contents, position from the text layer's margin words</resp><name>scripts/to_tei.py</name></respStmt>
 <respStmt xml:id="spelling"><resp>Old-spelling rule: inside quotations, the text layer's reading where dots.mocr differs from it only by w/v, j/i or a doubled letter (dots.mocr's reading kept as rdg)</resp><name>scripts/to_tei.py</name></respStmt>
 </titleStmt>
 <publicationStmt><authority>Schück digital (working draft generated by scripts/to_tei.py; not for citation)</authority>
