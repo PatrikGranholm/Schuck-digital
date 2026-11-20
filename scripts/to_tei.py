@@ -27,6 +27,7 @@ Encoding:
   - {italic} -> <hi rend="italic">, <spaced> -> <hi rend="spaced">; tables -> <table>.
 """
 import argparse
+import csv
 import json
 import re
 import statistics
@@ -38,6 +39,7 @@ from lxml import etree
 from rapidfuzz import fuzz
 
 from common import GT, LIBRIS, OCR, ROOT, VOLUMES, img_path
+from manuscripta import shelf_key
 from regions import _textlayer_paragraphs, dehyphenate, dots_blocks, from_textlayer, read_gt
 
 TEI_NS = "http://www.tei-c.org/ns/1.0"
@@ -52,8 +54,8 @@ REPO = (r"K\. ?B\.|R\. ?A\.|U\. ?U\. ?B\.|U\. ?B\.|Ups\. ?univ\.?[- ]?bibl\.|Rik
 SERIES = (r"[Kk]anslikoll(?:\.|egiets)|Kansli-koll\.|(?:Riks)?[Rr]egistraturet|Kanslersämbetets|Civilexpeditionens"
           r"|Sekreta utskottets|Mindre sekreta|Utskottshandl\.|Prot\.(?= (?:den |d\. |i |\d))"
           r"|[Aa]kad(?:emiens|s\.|:s) (?:arkiv|protokoll)|Kungl\. brev\b|Palmsk(?:iöld|\.)(?= (?:vol|sign))|Gahm(?=,? sign)")
-# after "(" or "; ", or at the start of a footnote (footnote=True)
-BIBL = re.compile(rf"(?:(?<=[(;] )|(?<=\())(?:{REPO}|{SERIES})[^();]{{0,160}}")
+# after "(" or "; " (also "(i K. B. sign. A 53)", vol. I), or at the start of a footnote (footnote=True)
+BIBL = re.compile(rf"(?:(?<=[(;] )|(?<=\()|(?<=\(i ))(?:{REPO}|{SERIES})[^();]{{0,160}}")
 BIBL_NOTE = re.compile(rf"^(?:{REPO}|{SERIES})[^();]{{0,160}}")
 SHELF = re.compile(r"sign\.? ?[A-ZÅÄÖ][^,;)]*|vol\. ?\d+[^,;)]*")
 
@@ -149,9 +151,28 @@ def bibl_spans(plain, footnote=False):
         rm = re.match(REPO, txt)
         if rm:
             out.append((a, a + rm.end(), "orgName"))
+        holder = holder_of(rm.group(0)) if rm else None
         for sm in SHELF.finditer(txt):
-            out.append((a + sm.start(), a + sm.start() + len(sm.group(0).rstrip(" .")), "idno"))
+            shelf = sm.group(0).rstrip(" .")
+            ms = MANUSCRIPTA.get((holder, shelf_key(shelf))) if holder else None
+            # a digitised manuscript on manuscripta.se: record (@corresp) and IIIF manifest (@facs)
+            attrs = {"corresp": ms["url"], "facs": ms["manifest"]} if ms and ms["manifest"] else {}
+            out.append((a + sm.start(), a + sm.start() + len(shelf), "idno", attrs))
     return out
+
+
+def holder_of(org):
+    """'K. B.' -> KB, 'U. B.' / 'U. U. B.' / 'Ups. univ.-bibl.' -> UUB (the holders manuscripta.se covers)."""
+    o = org.replace(" ", "")
+    return "KB" if o.startswith(("K.B.", "Kungl.bibl")) else "UUB" if o.startswith(("U.B.", "U.U.B.", "Ups.")) else None
+
+
+# scripts/manuscripta.py: (holder, shelf key) -> record and manifest
+MANUSCRIPTA = {}
+_mf = ROOT / "data" / "sources" / "manuscripta.tsv"
+if _mf.exists():
+    with _mf.open() as fh:
+        MANUSCRIPTA = {(r["holder"], r["key"]): r for r in csv.DictReader(fh, delimiter="\t")}
 
 
 OPEN = {"italic": '<hi rend="italic">', "spaced": '<hi rend="spaced">', "bibl": '<bibl type="source">',
@@ -237,6 +258,8 @@ def open_tag(s, continued=False):
     if s[2] in ("persName", "placeName"):
         attrs = s[3] if len(s) > 3 and isinstance(s[3], dict) else {}
         return f"<{s[2]}" + "".join(f' {k}="{escape(v)}"' for k, v in attrs.items()) + ">"
+    if s[2] == "idno" and len(s) > 3 and s[3]:          # a shelfmark linked to manuscripta.se
+        return '<idno type="shelfmark"' + "".join(f' {k}="{escape(v)}"' for k, v in s[3].items()) + ">"
     if s[2] == "quote":
         attrs = s[3] if len(s) > 3 and isinstance(s[3], dict) else {}
         if continued:
@@ -679,7 +702,7 @@ def build(vol):
     n_links = load_ner(vol)
     qn = [0]
     stats = {"pages": 0, "gt": 0, "dots": 0, "textlayer": 0, "foot": 0, "foot_unanchored": 0, "margin": 0,
-             "quotes": 0, "bibl": 0, "paragraphs": 0, "margin_rescued": 0, "margin_toc": 0, "margin_inserted": 0, "errata": 0,
+             "quotes": 0, "bibl": 0, "paragraphs": 0, "margin_rescued": 0, "margin_toc": 0, "margin_inserted": 0, "manuscripta": 0, "errata": 0,
              "names": 0, "spelling": 0}
     spell = {}              # placeholder -> (dots word, text-layer word, page): old-spelling candidates
     spell_log = []          # applied changes, for report/spelling-<vol>.md
@@ -719,6 +742,7 @@ def build(vol):
         stats["quotes"] += len(qspans)
         bs = bibl_spans(plain)
         stats["bibl"] += sum(1 for s in bs if s[2] == "bibl")
+        stats["manuscripta"] += sum(1 for s in bs if s[2] == "idno" and len(s) > 3 and s[3])
         names = ner_spans(plain)
         stats["names"] += len(names)
         # old-spelling markers: apply inside quotations only, where no other bound falls inside the word

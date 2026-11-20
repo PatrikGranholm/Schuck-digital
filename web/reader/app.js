@@ -157,11 +157,22 @@ function render(node, parent, ctx) {
       e.id = `src${V.sources.length}`;
       renderKids(node, e, ctx);
       const org = node.getElementsByTagNameNS(TEI, "orgName")[0];
-      V.sources.push({ id: e.id, org: org ? norm(org.textContent) : "", text: norm(plain(node)), page: ctx.page, chapter: ctx.chapter });
+      const ms = [...node.getElementsByTagNameNS(TEI, "idno")].map((x) => x.getAttribute("corresp")).filter(Boolean);
+      V.sources.push({ id: e.id, org: org ? norm(org.textContent) : "", text: norm(plain(node)), page: ctx.page, chapter: ctx.chapter, ms });
       e.title = "Källhänvisning";
       break;
     }
-    case "idno": e = h("span", "shelfmark"); renderKids(node, e, ctx); break;
+    case "idno": {
+      // a shelfmark digitised on manuscripta.se (scripts/manuscripta.py): @corresp = the record, @facs = IIIF manifest
+      if (a("corresp")) {
+        e = h("a", "shelfmark ms");
+        e.href = a("corresp"); e.target = "_blank"; e.rel = "noopener";
+        e.title = "Digitaliserad på manuscripta.se";
+        e.onclick = (ev) => ev.stopPropagation();
+      } else e = h("span", "shelfmark");
+      renderKids(node, e, ctx);
+      break;
+    }
     case "persName": case "placeName": {
       const ref = (a("ref") || "").split("#").pop();
       e = h("span", `name ${node.localName === "persName" ? "per" : "plc"}${a("cert") === "low" ? " low" : ""}`);
@@ -453,7 +464,16 @@ function renderSources() {
     sum.appendChild(h("span", "muted", `(${items.length})`));
     d.appendChild(sum);
     const ol = h("ol", "items");
-    for (const s of items) ol.appendChild(li(where(s), esc(s.text), `${V.meta.vol}/${s.id}`));
+    for (const s of items) {
+      const item = li(where(s), esc(s.text), `${V.meta.vol}/${s.id}`);
+      for (const url of s.ms) {              // digitised on manuscripta.se
+        const m = h("a", "mslink", "manuscripta.se");
+        m.href = url; m.target = "_blank"; m.rel = "noopener";
+        m.onclick = (ev) => ev.stopPropagation();
+        item.lastChild.append(" ", m);
+      }
+      ol.appendChild(item);
+    }
     d.appendChild(ol);
     box.appendChild(d);
   }

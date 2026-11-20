@@ -148,6 +148,8 @@ class Book:
         elif tag == "lb":
             out.append(h("br"))
             return
+        elif tag == "idno" and c.get("corresp"):      # digitised on manuscripta.se
+            e = h("a", {"href": c.get("corresp")})
         elif tag in ("choice", "corr", "orgName", "idno", "persName", "placeName", "titlePart"):
             self.inline(c, out, ctx)
             return

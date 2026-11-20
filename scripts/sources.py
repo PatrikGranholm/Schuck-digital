@@ -133,7 +133,8 @@ def main():
                 series = re.split(r"\s(?:sign\.|vol\.|fol\.|den|\d)", part[m.start(holder):], maxsplit=1)[0].strip(" .,:")
                 shelf = "; ".join(x.group(0).rstrip(" .") for x in SHELF.finditer(part))
                 page = offs[bisect.bisect_right(starts, key[1]) - 1][1]
-                is_tagged = any(ta <= key[1] < tb for ta, tb in tagged)
+                # overlap, not containment: "i K. B. sign. A 53" is tagged from "K. B." on
+                is_tagged = any(ta < key[1] + len(part) and key[1] < tb for ta, tb in tagged)
                 rows.append({"vol": vol, "part": VOLUMES[vol]["part"], "page": page, "where": kind, "holder": holder,
                              "series": series, "shelfmark": shelf, "tagged": "yes" if is_tagged else "no",
                              "citation": re.sub(r"\s+", " ", part)[:300]})
