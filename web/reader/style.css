@@ -108,6 +108,7 @@ button.tg::before { content: "▸"; display: inline-block; transition: transform
 .source .shelfmark { color: var(--source); }
 a.shelfmark.ms { text-decoration: underline; text-decoration-style: solid; cursor: pointer; }
 a.shelfmark.ms::after { content: " ↗"; font-size: .75em; }
+a.srclink { text-decoration: none; }
 a.mslink { font: 12px var(--sans); margin-left: 4px; white-space: nowrap; }
 .choice { border-bottom: 1.5px solid var(--gt); cursor: help; }
 .app { text-decoration: underline dotted var(--muted); text-underline-offset: 3px; cursor: help; }

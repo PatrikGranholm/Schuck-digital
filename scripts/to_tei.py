@@ -40,7 +40,7 @@ from rapidfuzz import fuzz
 
 from common import GT, LIBRIS, OCR, ROOT, VOLUMES, img_path
 from manuscripta import shelf_key
-from riksarkivet import KANSLI, ra_key
+from riksarkivet import KANSLI, dlg_key, ra_key
 from regions import _textlayer_paragraphs, dehyphenate, dots_blocks, from_textlayer, read_gt
 
 TEI_NS = "http://www.tei-c.org/ns/1.0"
@@ -148,7 +148,9 @@ def bibl_spans(plain, footnote=False):
         a, b = m.start(), m.end()
         txt = m.group(0).rstrip(" .")
         b = a + len(txt)
-        out.append((a, b, "bibl"))
+        # a De la Gardie collection volume named by the citation (no shelfmark): the link goes on the <bibl>
+        dlg = RIKSARKIVET.get(("delagardie", dlg_key(txt))) if "De la Gardie" in txt else None
+        out.append((a, b, "bibl", {"corresp": dlg["url"]} if dlg and dlg["id"] else {}))
         rm = re.match(REPO, txt)
         if rm:
             out.append((a, a + rm.end(), "orgName"))
@@ -162,7 +164,7 @@ def bibl_spans(plain, footnote=False):
             if holder and (ms := MANUSCRIPTA.get((holder, shelf_key(shelf)))) and ms["manifest"]:
                 # a digitised manuscript on manuscripta.se: record (@corresp) and IIIF manifest (@facs)
                 attrs = {"corresp": ms["url"], "facs": ms["manifest"]}
-            elif kansli and (ra := RIKSARKIVET.get(ra_key(shelf))) and ra["id"]:
+            elif kansli and (ra := RIKSARKIVET.get(("kanslikollegium", ra_key(shelf)))) and ra["id"]:
                 # the volume's catalogue page at Riksarkivet; its IIIF manifest where it is digitised
                 attrs = {"corresp": ra["url"]} | ({"facs": ra["manifest"]} if ra["manifest"] else {})
             out.append((a + sm.start(), a + sm.start() + len(shelf), "idno", attrs))
@@ -181,12 +183,13 @@ _mf = ROOT / "data" / "sources" / "manuscripta.tsv"
 if _mf.exists():
     with _mf.open() as fh:
         MANUSCRIPTA = {(r["holder"], r["key"]): r for r in csv.DictReader(fh, delimiter="\t")}
-# scripts/riksarkivet.py: Kanslikollegium volume key ("E IV 9") -> record and manifest
+# scripts/riksarkivet.py: (archive, key) -> record and manifest; ("kanslikollegium", "E IV 9"),
+# ("delagardie", "antikvitetskollegium" or a letter writer)
 RIKSARKIVET = {}
 _rf = ROOT / "data" / "sources" / "riksarkivet.tsv"
 if _rf.exists():
     with _rf.open() as fh:
-        RIKSARKIVET = {r["key"]: r for r in csv.DictReader(fh, delimiter="\t")}
+        RIKSARKIVET = {(r["archive"], r["key"]): r for r in csv.DictReader(fh, delimiter="\t")}
 
 
 OPEN = {"italic": '<hi rend="italic">', "spaced": '<hi rend="spaced">', "bibl": '<bibl type="source">',
@@ -272,6 +275,8 @@ def open_tag(s, continued=False):
     if s[2] in ("persName", "placeName"):
         attrs = s[3] if len(s) > 3 and isinstance(s[3], dict) else {}
         return f"<{s[2]}" + "".join(f' {k}="{escape(v)}"' for k, v in attrs.items()) + ">"
+    if s[2] == "bibl" and len(s) > 3 and s[3]:          # a citation linked to a Riksarkivet volume (De la Gardie)
+        return '<bibl type="source"' + "".join(f' {k}="{escape(v)}"' for k, v in s[3].items()) + ">"
     if s[2] == "idno" and len(s) > 3 and s[3]:          # a shelfmark linked to manuscripta.se
         return '<idno type="shelfmark"' + "".join(f' {k}="{escape(v)}"' for k, v in s[3].items()) + ">"
     if s[2] == "quote":
@@ -757,7 +762,7 @@ def build(vol):
         bs = bibl_spans(plain)
         stats["bibl"] += sum(1 for s in bs if s[2] == "bibl")
         stats["manuscripta"] += sum(1 for s in bs if s[2] == "idno" and len(s) > 3 and "manuscripta" in s[3].get("corresp", ""))
-        stats["riksarkivet"] += sum(1 for s in bs if s[2] == "idno" and len(s) > 3 and "riksarkivet" in s[3].get("corresp", ""))
+        stats["riksarkivet"] += sum(1 for s in bs if s[2] in ("idno", "bibl") and len(s) > 3 and "riksarkivet" in s[3].get("corresp", ""))
         names = ner_spans(plain)
         stats["names"] += len(names)
         # old-spelling markers: apply inside quotations only, where no other bound falls inside the word

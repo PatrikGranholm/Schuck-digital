@@ -157,8 +157,15 @@ function render(node, parent, ctx) {
       e.id = `src${V.sources.length}`;
       renderKids(node, e, ctx);
       const org = node.getElementsByTagNameNS(TEI, "orgName")[0];
-      const ms = [...node.getElementsByTagNameNS(TEI, "idno")].filter((x) => x.getAttribute("corresp"))
+      const ms = [node, ...node.getElementsByTagNameNS(TEI, "idno")].filter((x) => x.getAttribute("corresp"))
         .map((x) => ({ url: x.getAttribute("corresp"), facs: !!x.getAttribute("facs") }));
+      if (a("corresp")) {                    // a cited volume without shelfmark (De la Gardie collection): link after it
+        const l = h("a", "shelfmark ms srclink");
+        l.href = a("corresp"); l.target = "_blank"; l.rel = "noopener";
+        l.title = extTitle(a("corresp"), !!a("facs"));
+        l.onclick = (ev) => ev.stopPropagation();
+        e.appendChild(l);
+      }
       V.sources.push({ id: e.id, org: org ? norm(org.textContent) : "", text: norm(plain(node)), page: ctx.page, chapter: ctx.chapter, ms });
       e.title = "Källhänvisning";
       break;

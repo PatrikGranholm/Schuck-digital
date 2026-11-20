@@ -1,4 +1,4 @@
-"""Riksarkivet volumes cited by Schück in the Kanslikollegium archive, with their catalogue record and,
+"""Riksarkivet volumes cited by Schück in the Kanslikollegium archive and the De la Gardie collection, with their catalogue record and,
 where digitised, IIIF manifest.
 
   python scripts/riksarkivet.py      -> data/sources/riksarkivet.tsv
@@ -17,6 +17,14 @@ lookup(); responses cached in cache/riksarkivet/, about 1 request per second, ge
 User-Agent). Volumes that are not in today's catalogue (vol. V "E XIII. 21": the series has 16
 volumes) are listed with an empty id.
 
+De la Gardie collection (De la Gardieska samlingen, SE/RA/720222; not digitised): Schück's "R. A.
+Skrivelser till De la Gardie. Ser. C 1" is series C I, letters to M. G. De la Gardie in volumes
+ordered by writer, and "Antikvitetskollegiets skrivelser till De la Gardie" is the Antikvitetskollegium
+part of series C IX (vol. E 1626, letters 1668-1677). dlg_key() names the volume where the citation
+says which it is: the Antikvitetskollegium, or a writer in DLG_WRITERS (the volume holding that
+writer, from the fonds' EAD). About 40 "Ser. C 1" citations name no writer and are not linked.
+These citations carry no "sign." shelfmark, so to_tei.py puts the link on the <bibl>.
+
 Columns: archive, key, referenceCode, id, url (sok.riksarkivet.se record page), manifest (IIIF,
 empty when not digitised), date, note, citations.
 """
@@ -33,8 +41,23 @@ from common import ROOT
 API = "https://data.riksarkivet.se/api/records"
 UA = "schuck-digital-sources/0.1 (research script; Python urllib)"
 CACHE = ROOT / "cache" / "riksarkivet"
-FONDS = {"kanslikollegium": "SE/RA/1411"}
+FONDS = {"kanslikollegium": "SE/RA/1411", "delagardie": "SE/RA/720222"}
 KANSLI = re.compile(r"[Kk]ansli-?koll|[Kk]anslikollegi")
+# De la Gardie collection: key -> (reference code below the fonds, search query that finds it)
+DLG_VOLUMES = {"antikvitetskollegium": ("01/C/IX/E 1626", "Antiqvitetskollegium 1668-1670"),
+               "Hadorph": ("01/C/I/E 1425", "Haak - Hadorph"),
+               "Axehiälm": ("01/C/I/E 1338", "Aspegren - Axehielm")}
+DLG_AK = re.compile(r"Antikvitetskoll(?:egi(?:et|ets))?\.?\s+(?:skrivelser\s+)?till\s+(?:M\.\s?G\.\s+)?De la Gardie")
+DLG_WRITERS = re.compile(r"(?:[Ss]krivelser till (?:M\.\s?[GJ]\.\s+)?De la Gardie|De la Gardies brevsamling)\b.*?"
+                         r"\b(Hadorph|Axehi[äe]lm)")
+
+
+def dlg_key(citation):
+    """The De la Gardie collection volume a citation names: 'antikvitetskollegium', a writer, or None."""
+    if DLG_AK.search(citation):
+        return "antikvitetskollegium"
+    m = DLG_WRITERS.search(citation)
+    return m.group(1).replace("Axehielm", "Axehiälm") if m else None
 
 
 def ra_key(shelf):
@@ -71,15 +94,23 @@ def main():
                 for sm in r["shelfmark"].split("; "):
                     if k := ra_key(sm):
                         cites[k] += 1
+    dlg = Counter(k for r in csv.DictReader((ROOT / "data" / "sources" / "citations.tsv").open(), delimiter="\t")
+                  if (k := dlg_key(r["citation"])))
     rows = []
+
+    def row(archive, key, ref, x, n):
+        links = (x or {}).get("_links", {})
+        md = (x or {}).get("metadata", {})
+        rows.append([archive, key, ref, (x or {}).get("id", ""), links.get("html", ""),
+                     (links.get("image") or [""])[0], md.get("date", ""), re.sub(r"\s+", " ", md.get("note", ""))[:200], n])
     for key, n in sorted(cites.items()):
         series, vol = re.match(r"(E [IVX]+) (.+)", key).groups()
         ref = f"{FONDS['kanslikollegium']}/E/{series}/{vol}"
-        x = lookup(ref, f"Kanslikollegium {series} {vol}")
-        links = (x or {}).get("_links", {})
-        md = (x or {}).get("metadata", {})
-        rows.append(["kanslikollegium", key, ref, (x or {}).get("id", ""), links.get("html", ""),
-                     (links.get("image") or [""])[0], md.get("date", ""), re.sub(r"\s+", " ", md.get("note", ""))[:200], n])
+        row("kanslikollegium", key, ref, lookup(ref, f"Kanslikollegium {series} {vol}"), n)
+    for key, n in sorted(dlg.items()):
+        sub, query = DLG_VOLUMES[key]
+        ref = f"{FONDS['delagardie']}/{sub}"
+        row("delagardie", key, ref, lookup(ref, query), n)
     out = ROOT / "data" / "sources" / "riksarkivet.tsv"
     with out.open("w", newline="") as fh:
         w = csv.writer(fh, delimiter="\t", lineterminator="\n")
