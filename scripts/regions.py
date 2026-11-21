@@ -163,8 +163,13 @@ def dots_blocks(vol, index, mode="dots-layout"):
     if not blocks:
         return None
     texts = [b for b in blocks if b.get("category") in ("Text", "List-item") and b.get("bbox")]
-    left = statistics.median(b["bbox"][0] for b in texts) if texts else 0
-    right = statistics.median(b["bbox"][2] for b in texts) if texts else 10**6
+    # the text column's edges, from blocks at least half as wide as the widest: on a page with few
+    # paragraphs the sidenotes would otherwise pull the median into the margin (vol. VII p. 27: two
+    # paragraphs, two sidenotes -> right edge 1220, and the sidenote at x 1173 counted as body)
+    widest = max((b["bbox"][2] - b["bbox"][0] for b in texts), default=0)
+    wide = [b for b in texts if b["bbox"][2] - b["bbox"][0] >= widest / 2]
+    left = statistics.median(b["bbox"][0] for b in wide) if wide else 0
+    right = statistics.median(b["bbox"][2] for b in wide) if wide else 10**6
     top_text = min((b["bbox"][1] for b in texts), default=10**6)
     out = []
     for i, b in enumerate(blocks):

@@ -59,6 +59,8 @@ def parse_toc(vol, images, chapters, parts=(), source="auto"):
         src, page = toc_page(vol, i, source)
         used.append(src)
         for l in page["body"].split("\n"):
+            if re.match(r"\s*R[ÄA]TTELSER", l):      # the errata, printed after the TOC (vol. II image 497)
+                break
             if src == "dots":
                 # dots.mocr gives a chapter or part title as a line of its own, ending in its page or page
                 # range ("Amanuens och sekreterare 3-22", "De första månaderna 57"), sometimes split over
@@ -189,6 +191,15 @@ def main():
         - OCR cut a sidenote short ("Setons arbete för" for "Setons arbete för Diplomatariet")."""
         t, n = norm(topic), norm(note)
         r = fuzz.ratio(t, n)
+        # "1807 och 1809" in the TOC for the sidenote "1807—1809" (vol. VII p. 163)
+        span = lambda x: re.sub(r"(\d{4}) (?:och|-) (\d{4})|(\d{4})-(\d{4})", lambda m: "-".join(g for g in m.groups() if g), x)
+        if strict and re.search(r"\d{4}", t) and span(t) == span(n):
+            r = max(r, 90)
+        # a pronoun for the sidenote's head noun: "Deras uppläsning i akademien" for "Levernesbeskrivningarnas
+        # uppläsning i akademien" (vol. VII p. 411)
+        m = re.match(r"(?:deras|dess|hans|hennes) (.{10,})$", t)
+        if strict and m and n.endswith(" " + m.group(1)):
+            r = max(r, 85)
         if strict and len(t) >= 4 and (n.endswith(" " + t) or n.startswith(t + " ")):
             r = max(r, 85)
         if strict and ((len(n) >= 4 and (t.endswith(" " + n) or t.startswith(n + " "))) or (len(n) >= 8 and t.startswith(n))):
@@ -205,15 +216,26 @@ def main():
                 continue
             best = None
             for k in range(len(notes) - 1):
-                if k in used or k + 1 in used or not near(tp, k) or notes[k]["page"] != notes[k + 1]["page"]:
-                    continue
-                n1, n2 = notes[k]["text"], notes[k + 1]["text"]
-                r = max(score(tp["topic"], f"{n1}{sep}{n2}", strict) for sep in (" ", " och "))
-                if r >= minr and (best is None or r > best[0]):
-                    best = (r, k)
+                for j in (k + 1, k + 2):
+                    if j >= len(notes) or k in used or j in used or not near(tp, k) or notes[k]["page"] != notes[j]["page"]:
+                        continue
+                    n1, n2 = notes[k]["text"], notes[j]["text"]
+                    r = max(score(tp["topic"], f"{n1}{sep}{n2}", strict) for sep in (" ", " och ")) if j == k + 1 else 0
+                    # the same verb on both, plural in the TOC: "Blad vald" + "Palin vald" for "Blad och Palin
+                    # väljas" (vol. VII p. 225, with "Ristell uteslutes" between them)
+                    # a span of years the TOC runs together: "1797-1803" for "1797–1799" + "1800–1803" (vol. VII p. 46)
+                    ys = re.fullmatch(r"(\d{4}) ?- ?(\d{4})", norm(tp["topic"]))
+                    if strict and ys and j == k + 1 and norm(n1).startswith(ys.group(1)) and norm(n2).endswith(ys.group(2)) \
+                            and re.fullmatch(r"[\d -]+", norm(n1) + norm(n2)):
+                        r = max(r, 90)
+                    w1, w2, wt = norm(n1).split(), norm(n2).split(), norm(tp["topic"]).split()
+                    if strict and len(w1) > 1 and len(w2) > 1 and w1[-1] == w2[-1] and len(wt) >= 3:
+                        r = max(r, fuzz.ratio(" ".join(w1[:-1] + ["och"] + w2[:-1]), " ".join(wt[:-1])))
+                    if r >= minr and (best is None or r > best[0]):
+                        best = (r, k, j)
             if best:
                 match[ti] = best[1]
-                used.update((best[1], best[1] + 1))
+                used.update(best[1:])
     # pass 0: near-exact pairs, before a single note can claim half of one ("Hållsjö-fyndet")
     pairs(90, False)
     # pass 1: a sidenote on the TOC page (±1); pass 2: best ratio anywhere, nearer page breaking ties
@@ -234,10 +256,17 @@ def main():
     pairs(85, True)
     # pass 4: two TOC topics printed as one sidenote ("1806 och 1807 Ydrefyndet", "1820 Lackalängafyndet"):
     # a topic next to a matched one shares its sidenote when the sidenote holds it word for word
+    def holds(note, topic):
+        """The sidenote holds the topic: word for word, or one of its sentences ("Fornvården. Ekdahl och
+        grävningarna på Hven") starts like it ("De arbetandes. Sundels" for "De arbetande ledamöternas"),
+        also without the TOC's series word ("I antikviteter" in "Antikviteter 1794")."""
+        n, t = norm(note), re.sub(r"^i ", "", norm(topic))
+        if re.search(rf"(?:^|[\s.]){re.escape(t)}(?:[\s.]|$)", n):
+            return True
+        return any(len(p) >= 8 and fuzz.ratio(p, t[:len(p)]) >= 88 for p in re.split(r"\.\s+", n))
     for ti, tp in enumerate(topics):
         for tj in (ti - 1, ti + 1):
-            if ti not in match and tj in match and near(tp, match[tj]) and \
-                    re.search(rf"(?:^|\s){re.escape(norm(tp['topic']))}(?:\s|$)", norm(notes[match[tj]]["text"])):
+            if ti not in match and tj in match and near(tp, match[tj]) and holds(notes[match[tj]]["text"], tp["topic"]):
                 match[ti] = match[tj]
     for ti, tp in enumerate(topics):
         if ti in match:

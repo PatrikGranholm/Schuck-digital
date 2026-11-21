@@ -404,16 +404,32 @@ def page_source(vol, idx):
     except FileNotFoundError:
         pass
     if g.exists():
-        return "#gt", gt_blocks(read_gt(g), dots or [])
+        try:
+            tlm = [(dehyphenate([l[4] for l in grp]),
+                    [min(w[1][0] for l in grp for w in l[5]), min(w[1][1] for l in grp for w in l[5]),
+                     max(w[1][2] for l in grp for w in l[5]), max(w[1][3] for l in grp for w in l[5])])
+                   for grp in _textlayer_paragraphs(vol, idx)["margin"]]
+        except OSError:
+            tlm = []
+        return "#gt", gt_blocks(read_gt(g), dots or [], tlm)
     if dots is not None:
         return "#dots", dots
     return "#textlayer", textlayer_blocks(vol, idx)
 
 
-def gt_blocks(page, dots):
-    """Verified region text -> blocks; headings and sidenote positions borrowed from dots."""
+def gt_blocks(page, dots, tl_margins=()):
+    """Verified region text -> blocks; headings and sidenote positions borrowed from dots, or for a sidenote
+    dots.mocr did not read as one, from the text layer's margin words (tl_margins: [(text, bbox)])."""
     headings = [b["text"] for b in dots if b["kind"] == "heading"]
     margins = [b for b in dots if b["kind"] == "margin"]
+
+    def margin_bbox(line, i):
+        cands = [(fuzz.ratio(line.lower(), _joined(b["text"])), b["bbox"]) for b in margins] + \
+                [(fuzz.ratio(line.lower(), _joined(t)), bb) for t, bb in tl_margins]
+        best = max(cands, default=(0, None))
+        if best[0] >= 70:
+            return best[1]
+        return margins[i]["bbox"] if i < len(margins) else None
     out = []
     for kind in ("head", "pageno"):
         if page[kind]:
@@ -423,7 +439,7 @@ def gt_blocks(page, dots):
             k = "heading" if any(fuzz.ratio(line, h) > 85 for h in headings) else "body"
             out.append({"kind": k, "text": line, "bbox": None})
     for i, line in enumerate(l for l in page["margin"].split("\n") if l.strip()):
-        out.append({"kind": "margin", "text": line, "bbox": margins[i]["bbox"] if i < len(margins) else None})
+        out.append({"kind": "margin", "text": line, "bbox": margin_bbox(line, i)})
     if page["foot"]:
         out.append({"kind": "foot", "text": page["foot"], "bbox": None})
     if page["other"]:
@@ -505,6 +521,24 @@ def snap_word(t, ds, de):
     return (ds, de) if t[ds:de].strip() else (None, None)
 
 
+OLDSTYLE = str.maketrans("iIlLjJoO°", "111177000")
+
+
+def oldstyle_years(text):
+    """The text layer's reading of oldstyle figures in a sidenote: "Fynd ijjo" -> "Fynd 1770", "IJJ7" -> 1777,
+    "i 797 — i 799" -> "1797–1799". Only whole four-character tokens that come out as a year 1500-1949."""
+    text = re.sub(r"(?<!\w)[iIlJ] ?(\d{3})(?!\d)", r"1\1", text)     # "J793" (vol. VI p. 115)
+
+    def year(m):
+        tok = m.group(0)
+        y = tok.translate(OLDSTYLE)
+        # a token of letters only must look like 1 + 7/digit + 7/digit + digit ("ijjo", "IJJ7"), not a word ("Ilio")
+        shaped = not tok.isalpha() or re.fullmatch(r"[iIl][jJ\d][jJ\d][\doO°jJ]", tok)
+        return y if y.isdigit() and 1500 <= int(y) < 1950 and shaped else tok
+    text = re.sub(r"(?<!\w)[\diIljJoO°]{4}(?!\w)", year, text)
+    return re.sub(r"\s*[—–-]\s*(?=\d)", "–", text) if re.search(r"\d{4}\s*[—–-]", text) else text
+
+
 def rescue_margins(vol, idx, blocks):
     """dots.mocr sometimes reads a sidenote into the adjacent paragraph. The text layer separates
     margin words by column, so a text-layer sidenote without a dots counterpart is searched for
@@ -515,9 +549,16 @@ def rescue_margins(vol, idx, blocks):
         return 0
     have = [b["text"] for b in blocks if b["kind"] == "margin"]
     n = 0
+    tl_body = None
     for g in groups:
         text = dehyphenate([l[4] for l in g])
+        # the text layer reads an oldstyle 1 as "i" and spaces dashes: "i 797 — i 799" for "1797–1799" (vol. VII p. 46)
+        text = oldstyle_years(text)
         if len(text) < 4 or any(fuzz.ratio(text.lower(), h.lower()) >= 75 for h in have):
+            continue
+        # prices set flush right in a quoted account ("Dr 1.8.", "42.14.»", vol. IV pp. 586-587) are not
+        # sidenotes: a sidenote has a word in it (years are handled below)
+        if not re.search(r"[^\W\d_]{3}", text) and not YEARS.fullmatch(text):
             continue
         best = None
         for b in blocks:
@@ -531,7 +572,47 @@ def rescue_margins(vol, idx, blocks):
             score = al.score + (10 if al.dest_end - al.dest_start >= 0.8 * len(b["text"].strip()) else 0)
             if best is None or score > best[2]:
                 best = (b, al, score)
+        ws = [w[1] for l in g for w in l[5]]
+        box = [min(x[0] for x in ws), min(x[1] for x in ws), max(x[2] for x in ws), max(x[3] for x in ws)]
+        # a bare year ("1792") may be a sidenote merged into the text ("nytt prisämne 1789—1792 för följande
+        # års", vol. VI p. 101) or the text's own year beside a sidenote dots.mocr dropped ("utsattes därför på
+        # nytt till 1792", p. 112; "för 1792. 1792 I laga tid", p. 124, has both). The text layer, which keeps
+        # margin words out of the body, decides as in rescue_toc: an occurrence is cut only when the text
+        # around it matches the text layer's body at least 5 points better without it; with none, the
+        # sidenote is inserted from the text layer.
+        year = YEARS.fullmatch(text) and re.search(r"\d{4}", text) \
+            and all(1500 <= int(y) < 1950 for y in re.findall(r"\d+", text))
+        if year:
+            if tl_body is None:
+                tl_body = _plain(from_textlayer(vol, idx)["body"])
+            pat = r"(?<!\d)" + r"\s*[—–-]\s*".join(re.findall(r"\d{4}", text)) + r"(?!\d)"
+            best = None
+            for b in blocks:
+                if b["kind"] != "body":
+                    continue
+                t = b["text"]
+                for m in re.finditer(pat, t):
+                    w = _plain(t[max(0, m.start() - 45):m.end() + 45])
+                    wo = _plain(t[max(0, m.start() - 45):m.start()] + " " + t[m.end():m.end() + 45])
+                    gain = fuzz.partial_ratio(wo, tl_body) - fuzz.partial_ratio(w, tl_body)
+                    # at the start of a block any gain will do: "1792 I laga tid" (+2, the text layer "för 1792.
+                    # I laga tid"); real text there scores 0 or less ("1804 var ett för kansliets kassa")
+                    need = 0.5 if not t[:m.start()].strip(" {") else 5
+                    if gain >= need and (best is None or gain > best[2]):
+                        best = (b, m, gain)
+            if best:
+                b, m, _ = best
+                t = b["text"]
+                b["text"] = re.sub(r"\s{2,}", " ", t[:m.start()] + " " + t[m.end():]).strip()
+                blocks.append({"kind": "margin", "text": m.group(0), "cat": "rescued", "bbox": box})
+            else:
+                blocks.append({"kind": "margin", "text": text.strip(), "cat": "rescued", "bbox": box, "resp": "#textlayer"})
+            n += 1
+            continue
         if not best:
+            if year:
+                blocks.append({"kind": "margin", "text": text.strip(), "cat": "rescued", "bbox": box, "resp": "#textlayer"})
+                n += 1
             continue
         b, al, _ = best
         t = b["text"]
@@ -540,9 +621,7 @@ def rescue_margins(vol, idx, blocks):
             continue
         cut = t[ds:de]
         b["text"] = re.sub(r"\s{2,}", " ", t[:ds] + " " + t[de:]).strip()
-        ws = [w[1] for l in g for w in l[5]]
-        blocks.append({"kind": "margin", "text": cut.strip(), "cat": "rescued",
-                       "bbox": [min(x[0] for x in ws), min(x[1] for x in ws), max(x[2] for x in ws), max(x[3] for x in ws)]})
+        blocks.append({"kind": "margin", "text": cut.strip(), "cat": "rescued", "bbox": box})
         n += 1
     return n
 
@@ -612,7 +691,10 @@ def rescue_toc(vol, idx, topics, blocks):
                 if ds is None:
                     continue
                 lead = t[:ds].strip()
-                if YEARS.fullmatch(tp) and lead and not re.fullmatch(r"\{?\w+(?: \d{4})?\}?", lead):
+                # a bare year: at the start of a block, after at most a short lead, or at its very end
+                # ("förslag till nya prisämnen för 1793 års tävlan: 1793", vol. VI p. 105)
+                if YEARS.fullmatch(tp) and lead and not re.fullmatch(r"\{?\w+(?: \d{4})?\}?", lead) \
+                        and t[de:].strip():
                     continue
                 w = _plain(t[max(0, ds - 45):de + 45])
                 wo = _plain(t[max(0, ds - 45):ds] + " " + t[de:de + 45])
@@ -620,6 +702,30 @@ def rescue_toc(vol, idx, topics, blocks):
                 if gain >= 5 and (best is None or gain > best[0]):
                     best = (gain, b, ds, de)
         if not best:
+            # dots.mocr took the sidenote's first line into the paragraph beside it and dropped the rest:
+            # "Riksarkivets »1590» — har Buræus antecknat" for "Riksarkivets / första tid" (vol. I p. 116).
+            # The words are cut when the text layer, which has no sidenote there, agrees; the sidenote gets
+            # the TOC's wording.
+            tw = tp.split()
+            for k in range(len(tw) - 1, 0, -1):
+                lead = " ".join(tw[:k])
+                if len(lead) < 6:
+                    break
+                for b in body:
+                    t = b["text"]
+                    m = re.match(r"\{?" + re.escape(lead) + r"\}?\s+", t)
+                    if not m:
+                        continue
+                    gain = fuzz.partial_ratio(_plain(t[m.end():m.end() + 60]), tl) - fuzz.partial_ratio(_plain(t[:m.end() + 60]), tl)
+                    if gain >= 5:
+                        b["text"] = t[m.end():]
+                        blocks.append({"kind": "margin", "text": tp, "cat": "toc", "bbox": b.get("bbox"),
+                                       "resp": "#toc", "anchor": (b, 0)})
+                        done.add(tp)
+                        n += 1
+                        break
+                if tp in done:
+                    break
             continue
         _, b, ds, de = best
         t = b["text"]
@@ -652,9 +758,11 @@ def rescue_inserted(vol, idx, topics, done, blocks, vocab):
     have = [_joined(b["text"]) for b in blocks if b["kind"] == "margin"]
     n = 0
     for g in groups:
-        text = dehyphenate([l[4] for l in g])
+        text = oldstyle_years(dehyphenate([l[4] for l in g]))          # "Fynd ijjo" -> "Fynd 1770" (vol. V p. 527)
         gl = re.sub(r"(\w)-\s+(?=[a-zåäö])", r"\1", re.sub(r"\s+", " ", text)).lower().strip(" .,")
-        if len(gl) < 3 or any(fuzz.ratio(gl, h) >= 75 for h in have):
+        # already there; a sidenote of a series differs only in its year ("Fynd 1776", "Fynd 1777": vol. V p. 539)
+        if len(gl) < 3 or any(fuzz.ratio(gl, h) >= 75 and set(re.findall(r"\d+", gl)) == set(re.findall(r"\d+", h))
+                              for h in have):
             continue
         for tp in topics:
             if tp in done or len(tp) < 3:
@@ -673,6 +781,15 @@ def rescue_inserted(vol, idx, topics, done, blocks, vocab):
             elif fuzz.ratio(t, gl[:len(t)]) >= 88 and gl[len(t):len(t) + 1] in ("", " ", "."):
                 note = tp
                 lines = g[:max(1, round(len(g) * len(t) / len(gl)))]
+            elif len(gl) >= 6 and fuzz.ratio(gl, t[:len(gl)]) >= 80 and t[len(gl):len(gl) + 1] in (" ", "s"):
+                # the text layer kept only the start: "Utomståendes" of "Utomståendes avhandlingar" (its second
+                # line ran into the body), or the TOC adds a genitive -s to a name in a series ("Inträdestalen.
+                # Dahls 173. Regnérs 174" for the sidenote "Regnér"): print the name as the sidenote has it
+                note = tp[:-1] if t[len(gl):] == "s" else tp
+            elif len(gl) >= 12 and gl.split()[0] == t.split()[0] and \
+                    fuzz.partial_ratio(re.sub(r"\W+$", "", gl), t) >= 85:
+                # the text layer garbles the rest: "Det Gustavigravk°-" for "Det Gustavianska gravkoret" (vol. VIII p. 313)
+                note = tp
             if note:
                 bbox = [min(l[1] for l in lines), min(l[0] for l in lines),
                         max(l[1] + l[3] for l in lines), max(l[0] + l[2] for l in lines)]
@@ -692,17 +809,37 @@ def place_margin(blocks, margin, tl_lines):
             return i, min(off, len(bo["text"]))
     body = [i for i, b in enumerate(blocks) if b["kind"] == "body" and b.get("bbox")]
     if not body:
-        return None, 0
+        # ground truth: paragraphs without boxes. The text-layer line beside the sidenote; its first words
+        # are looked for in the paragraphs (vol. I p. 217 "Verelius' biografi", p. 159 "Rhezelius")
+        paras = [i for i, b in enumerate(blocks) if b["kind"] == "body"]
+        if not paras:
+            return None, 0
+        if margin.get("bbox") and tl_lines:
+            y = margin["bbox"][1]
+            line = min(tl_lines, key=lambda l: abs(l[0] - y))
+            words = [re.sub(r"[­-]$", "", w[0]) for w in line[5][:3]] if abs(line[0] - y) < 40 else []
+            for k in (3, 2, 1):
+                if len(words) < k or (k == 1 and len(words[0]) < 5):
+                    continue
+                pat = r"(?<![\w])" + r"\W*\s*".join(re.escape(re.sub(r"\W+$", "", w)) for w in words[:k])
+                hits = [(i, m.start()) for i in paras for m in re.finditer(pat, blocks[i]["text"])]
+                if len(hits) == 1:
+                    return hits[0]
+        return paras[0], 0
     y = margin["bbox"][1] if margin.get("bbox") else None
     if y is None:
         return body[0], 0
-    target = next((i for i in body if blocks[i]["bbox"][1] - 10 <= y <= blocks[i]["bbox"][3]), None)
-    if target is None:
-        target = next((i for i in body if blocks[i]["bbox"][1] > y), body[-1])
+    # the text-layer line nearest to the sidenote's top; its first words are looked for in the block
+    line = min(tl_lines, key=lambda l: abs(l[0] - y), default=None)
+    hits = [i for i in body if blocks[i]["bbox"][1] - 10 <= y <= blocks[i]["bbox"][3]]
+    if len(hits) > 1 and line is not None and line[5]:
+        # y on the boundary of two blocks (vol. VII p. 174: "Regnér" at the top of the last line, which is
+        # also the bottom of the block before): the block that holds the line's first word
+        w0 = re.sub(r"[­-]$", "", line[5][0][0])
+        hits = [i for i in hits if w0 in blocks[i]["text"]] or hits
+    target = hits[0] if hits else next((i for i in body if blocks[i]["bbox"][1] > y), body[-1])
     b = blocks[target]
     text = b["text"]
-    # the text-layer line nearest to the sidenote's top; find its first words in the block
-    line = min(tl_lines, key=lambda l: abs(l[0] - y), default=None)
     frac = max(0.0, min(1.0, (y - b["bbox"][1]) / max(1, b["bbox"][3] - b["bbox"][1])))
     guess = int(frac * len(text))
     if line is not None and abs(line[0] - y) < 40 and line[5]:
