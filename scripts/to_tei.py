@@ -150,7 +150,14 @@ def bibl_spans(plain, footnote=False):
         b = a + len(txt)
         # a De la Gardie collection volume named by the citation (no shelfmark): the link goes on the <bibl>
         dlg = RIKSARKIVET.get(("delagardie", dlg_key(txt))) if "De la Gardie" in txt else None
-        out.append((a, b, "bibl", {"corresp": dlg["url"]} if dlg and dlg["id"] else {}))
+        if dlg and dlg["id"]:
+            attrs = {"corresp": dlg["url"]}
+        elif acad := academy_volume(txt):
+            # the academy's minute book or royal letters for the cited year, digitised on manuscripta.se
+            attrs = {"corresp": acad["url"], "facs": acad["manifest"]}
+        else:
+            attrs = {}
+        out.append((a, b, "bibl", attrs))
         rm = re.match(REPO, txt)
         if rm:
             out.append((a, a + rm.end(), "orgName"))
@@ -171,6 +178,30 @@ def bibl_spans(plain, footnote=False):
     return out
 
 
+# The academy's own minutes ("Prot. 15 dec. 1835", "Akademiens protokoll den 2 januari 1789", "akad. prot.")
+# and royal letters to it ("Kungl. brev den 18 mars 1817"), cited without a holder. Only in vols VI-VIII,
+# where "Prot." is the academy's minute book; in vols III-V it is Kanslikollegium's or the Council's.
+# Today in Riksantikvarieämbetet's archive, Ämbetsarkiv 2 (scripts/manuscripta.py, holder RAA).
+ACADEMY_VOLS = {"1943a", "1943b", "1944"}
+ACADEMY_CITE = re.compile(r"(?:Prot\.|[Aa]kad(?:emiens|\.|:s|s\.) prot(?:okoll|\.)|(Kungl\. ?[Bb]r(?:ev|\.)))"
+                          r"[^;]*?\b(1[78]\d\d)\b")
+CURRENT = {"vol": None}
+
+
+def academy_volume(txt):
+    """The manuscripta.se record of the minute book (A 1 a) or royal letters (E 1) volume covering the first
+    year a citation gives, when the citation opens with one of them; None otherwise."""
+    m = ACADEMY_CITE.match(txt) if CURRENT["vol"] in ACADEMY_VOLS else None
+    if not m:
+        return None
+    series, year = ("E 1/" if m.group(1) else "A 1 a/"), int(m.group(2))
+    for r in ACADEMY:
+        lo, _, hi = r["date"].partition("-")
+        if r["key"].startswith(series) and r["manifest"] and lo and int(lo) <= year <= int(hi or lo):
+            return r
+    return None
+
+
 def holder_of(org):
     """'K. B.' -> KB, 'U. B.' / 'U. U. B.' / 'Ups. univ.-bibl.' -> UUB (the holders manuscripta.se covers)."""
     o = org.replace(" ", "")
@@ -183,6 +214,7 @@ _mf = ROOT / "data" / "sources" / "manuscripta.tsv"
 if _mf.exists():
     with _mf.open() as fh:
         MANUSCRIPTA = {(r["holder"], r["key"]): r for r in csv.DictReader(fh, delimiter="\t")}
+ACADEMY = [r for (h, _), r in MANUSCRIPTA.items() if h == "RAA"]
 # scripts/riksarkivet.py: (archive, key) -> record and manifest; ("kanslikollegium", "E IV 9"),
 # ("delagardie", "antikvitetskollegium" or a letter writer)
 RIKSARKIVET = {}
@@ -691,6 +723,7 @@ def place_margin(blocks, margin, tl_lines):
 # ---------------------------------------------------------------- build
 
 def build(vol):
+    CURRENT["vol"] = vol
     meta = VOLUMES[vol]
     struct = json.loads((ROOT / "data" / "structure" / f"{vol}.json").read_text())
     # sidenote topics per page from the table of contents (toc.py), the oracle for rescue_toc
@@ -721,7 +754,7 @@ def build(vol):
     n_links = load_ner(vol)
     qn = [0]
     stats = {"pages": 0, "gt": 0, "dots": 0, "textlayer": 0, "foot": 0, "foot_unanchored": 0, "margin": 0,
-             "quotes": 0, "bibl": 0, "paragraphs": 0, "margin_rescued": 0, "margin_toc": 0, "margin_inserted": 0, "manuscripta": 0, "riksarkivet": 0, "errata": 0,
+             "quotes": 0, "bibl": 0, "paragraphs": 0, "margin_rescued": 0, "margin_toc": 0, "margin_inserted": 0, "manuscripta": 0, "riksarkivet": 0, "academy": 0, "errata": 0,
              "names": 0, "spelling": 0}
     spell = {}              # placeholder -> (dots word, text-layer word, page): old-spelling candidates
     spell_log = []          # applied changes, for report/spelling-<vol>.md
@@ -762,6 +795,7 @@ def build(vol):
         bs = bibl_spans(plain)
         stats["bibl"] += sum(1 for s in bs if s[2] == "bibl")
         stats["manuscripta"] += sum(1 for s in bs if s[2] == "idno" and len(s) > 3 and "manuscripta" in s[3].get("corresp", ""))
+        stats["academy"] += sum(1 for s in bs if s[2] == "bibl" and len(s) > 3 and "manuscripta" in s[3].get("corresp", ""))
         stats["riksarkivet"] += sum(1 for s in bs if s[2] in ("idno", "bibl") and len(s) > 3 and "riksarkivet" in s[3].get("corresp", ""))
         names = ner_spans(plain)
         stats["names"] += len(names)

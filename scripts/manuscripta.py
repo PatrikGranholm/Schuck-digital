@@ -7,7 +7,13 @@ Source: the production dump in the manuscripta repository (data/msDescs/**/*.xml
 per manuscript; data/iiif/<id>/manifest.json where it is digitised). The index is kept in this
 repository so that to_tei.py does not depend on the other checkout.
 
-Columns: holder (KB, UUB), key (shelf_key below), shelfmark as manuscripta writes it, id, record URL,
+Also the academy's own minute books and royal letters, now in Riksantikvarieämbetet's archive (ATA,
+Ämbetsarkiv 2, A 1 a/1-10 "Kungliga Vitterhetsakademiens protokoll" 1773-1838 and E 1/1-2 "Kungliga brev"
+1786-1835; digitised by the RiViH project), as holder RAA with key "A 1 a/3" and the years from the
+record's title in the date column ("1800-1805"). to_tei.py links Schück's "Prot. <date>" and "Kungl. brev
+<date>" in vols VI-VIII to the volume whose years cover the cited one.
+
+Columns: holder (KB, UUB, RAA), key (shelf_key below), shelfmark as manuscripta writes it, id, record URL,
 IIIF manifest URL (empty when not digitised), images, date.
 
 shelf_key normalises both spellings to one form: Schück writes "F h. 28", "F. a 13", "D G 8",
@@ -23,7 +29,8 @@ from lxml import etree
 
 ROOT = Path(__file__).resolve().parent.parent
 NS = {"t": "http://www.tei-c.org/ns/1.0"}
-HOLDERS = {"Kungliga biblioteket": "KB", "National Library of Sweden": "KB",
+RAA_SERIES = re.compile(r"Ämbetsarkiv 2, ((?:A 1 a|E 1)/\d+)$")   # the academy's minutes and royal letters
+HOLDERS = {"Riksantikvarieämbetet": "RAA", "Kungliga biblioteket": "KB", "National Library of Sweden": "KB",
            "Uppsala universitet": "UUB", "Uppsala University": "UUB"}
 
 
@@ -53,7 +60,11 @@ def main():
             continue
         holder = HOLDERS.get((mi.findtext("t:institution", namespaces=NS) or "").strip())
         sm = (mi.findtext("t:idno[@type='shelfmark']", namespaces=NS) or "").strip()
-        key = shelf_key(sm) if holder else None
+        if holder == "RAA":
+            m = RAA_SERIES.match(sm)
+            key = m.group(1) if m else None
+        else:
+            key = shelf_key(sm) if holder else None
         if not key:
             continue
         mid = f.stem
@@ -67,6 +78,10 @@ def main():
             images = sum(len(s.get("canvases", [])) for s in m.get("sequences", [])) or len(m.get("items", []))
         d = t.find(".//t:msDesc//t:origDate", NS)
         date = re.sub(r"\s+", " ", " ".join(d.itertext())).strip() if d is not None else ""
+        if holder == "RAA":             # "Kungliga Vitterhetsakademiens protokoll 1800-1805" -> "1800-1805"
+            head = " ".join(t.find(".//t:msDesc/t:head", NS).itertext())
+            y = re.findall(r"1[6-9]\d\d", head)
+            date = f"{y[0]}-{y[-1]}" if y else date
         if (holder, key) in rows:       # several units under one shelfmark: keep the digitised one
             if rows[(holder, key)][5] or not manifest:
                 continue

@@ -145,6 +145,12 @@ class Book:
             e = h("span", {"class": "quote"})
         elif tag == "bibl":
             e = h("span", {"class": "source"})
+            if c.get("corresp"):                       # a cited volume without shelfmark: a link after it
+                self.inline(c, e, ctx)
+                out.append(e)
+                append_text(out, " ")
+                out.append(h("a", {"href": c.get("corresp")}, "↗"))
+                return
         elif tag == "lb":
             out.append(h("br"))
             return
