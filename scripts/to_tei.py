@@ -408,7 +408,7 @@ def page_source(vol, idx):
             tlm = [(dehyphenate([l[4] for l in grp]),
                     [min(w[1][0] for l in grp for w in l[5]), min(w[1][1] for l in grp for w in l[5]),
                      max(w[1][2] for l in grp for w in l[5]), max(w[1][3] for l in grp for w in l[5])])
-                   for grp in _textlayer_paragraphs(vol, idx)["margin"]]
+                   for grp in tl_margin_groups(vol, idx)]
         except OSError:
             tlm = []
         return "#gt", gt_blocks(read_gt(g), dots or [], tlm)
@@ -521,6 +521,25 @@ def snap_word(t, ds, de):
     return (ds, de) if t[ds:de].strip() else (None, None)
 
 
+def tl_margin_groups(vol, idx):
+    """The text layer's margin line groups that are set smaller than the body, as sidenotes are (lines 0.69-0.80
+    of the body's height: "Regner" 22/28, "Rhezelius" 22/30). The text layer also files the end of a line that
+    runs past the column as margin: full-size words of a quoted inventory ("oinbundne».", "utskurit.",
+    vol. II p. 321), which are not sidenotes. Oldstyle figures make a year's box taller (0.89-0.94: "i792",
+    "Consignât™- nen 1673"), so a group with a year may be up to 0.97 of the body's height."""
+    regs = _textlayer_paragraphs(vol, idx)
+    body = [l[2] for g in regs["body"] for l in g]
+    if not body:
+        return regs["margin"]
+    h = statistics.median(body)
+
+    def small(g):
+        ratio = statistics.median(l[2] for l in g) / h
+        year = re.search(r"(?<!\d)1[5-9]\d\d(?!\d)", oldstyle_years(" ".join(l[4] for l in g)))
+        return ratio < (0.97 if year else 0.88)
+    return [g for g in regs["margin"] if small(g)]
+
+
 OLDSTYLE = str.maketrans("iIlLjJoO°", "111177000")
 
 
@@ -544,7 +563,7 @@ def rescue_margins(vol, idx, blocks):
     margin words by column, so a text-layer sidenote without a dots counterpart is searched for
     in the body blocks, cut out and turned into a margin block. Returns the number rescued."""
     try:
-        groups = _textlayer_paragraphs(vol, idx)["margin"]
+        groups = tl_margin_groups(vol, idx)
     except OSError:
         return 0
     have = [b["text"] for b in blocks if b["kind"] == "margin"]
@@ -752,7 +771,7 @@ def rescue_inserted(vol, idx, topics, done, blocks, vocab):
     "1755"; the lead words must occur in the TOC), or with the topic at its start (two sidenotes the
     text layer ran together). Years must agree. -> number inserted (topics added to done)"""
     try:
-        groups = _textlayer_paragraphs(vol, idx)["margin"]
+        groups = tl_margin_groups(vol, idx)
     except OSError:
         return 0
     have = [_joined(b["text"]) for b in blocks if b["kind"] == "margin"]
