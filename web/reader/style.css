@@ -101,6 +101,12 @@ button.tg::before { content: "▸"; display: inline-block; transition: transform
 .pb.nobreak { margin: 0 1px; }
 .sidenote { float: right; clear: right; width: 170px; margin-right: -205px; font: italic 13.5px/1.35 var(--serif); color: var(--muted);
   text-indent: 0; text-align: left; padding-top: .25em; }
+.sidenote.addition { font-style: normal; font-size: 12.5px; }
+.sidenote.year { font-style: normal; color: var(--ink); }
+.add { font-size: .84em; }
+.label { font-variant-numeric: oldstyle-nums; color: var(--muted); margin-right: .35em; }
+.label.year { color: var(--ink); }
+.pb.edit::after { content: " ✎"; color: var(--gt); }
 .fnref { font: 600 11px/1 var(--sans); color: var(--accent); vertical-align: super; cursor: pointer; padding: 1px 3px; border: 0; background: none; text-indent: 0; }
 .fnref.low { color: var(--warn); }
 .quote { background: var(--quote); border-radius: 3px; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
@@ -151,6 +157,7 @@ figure button { margin-top: 6px; }
   body.tocopen #toc { display: inline-block; }
   .text { padding: 20px 24px 60px; }
   .sidenote { float: none; display: block; width: auto; margin: .3em 0; padding-left: .8em; border-left: 2px solid var(--line); }
+  .sidenote.year { float: right; width: auto; margin: 0 0 0 .6em; padding: 0; border: 0; font-size: .85em; }
 }
 @media (max-width: 760px) {
   #view-read { flex-direction: column; }

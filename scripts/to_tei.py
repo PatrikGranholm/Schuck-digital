@@ -32,6 +32,7 @@ import json
 import re
 import statistics
 import subprocess
+import sys
 from pathlib import Path
 from xml.sax.saxutils import escape
 
@@ -97,14 +98,26 @@ def parse_markup(s):
             spans.append((stack.pop("{"), len(plain), "italic"))
         elif c == ">" and "<" in stack:
             spans.append((stack.pop("<"), len(plain), "spaced"))
+        elif c in EDIT_OPEN:              # hand-encoded passages (data/edit): additions, item labels
+            stack[c] = len(plain)
+        elif c in EDIT_CLOSE and EDIT_CLOSE[c][0] in stack:
+            o, tag = EDIT_CLOSE[c]
+            spans.append((stack.pop(o), len(plain), tag))
         elif is_ph(c):
             points.append((len(plain), c))
         else:
             plain.append(c)
         i += 1
     for c, start in stack.items():  # unbalanced: close at end
-        spans.append((start, len(plain), "italic" if c == "{" else "spaced"))
+        spans.append((start, len(plain), "italic" if c == "{" else "spaced" if c == "<" else EDIT_OPEN[c]))
     return "".join(plain), spans, points
+
+
+# data/edit markup: ⟦small type in the text column⟧, ⦃small type in the margin⦄ (later additions),
+# ⸢item number⸣ and ⸤year beside it⸥ (written by load_edit from an entry's fields)
+EDIT_OPEN = {"⟦": "add", "⦃": "addm", "⸢": "label", "⸤": "labelyear"}
+EDIT_TAGS = {"add", "addm", "label", "labelyear"}
+EDIT_CLOSE = {"⟧": ("⟦", "add"), "⦄": ("⦃", "addm"), "⸣": ("⸢", "label"), "⸥": ("⸤", "labelyear")}
 
 
 def quote_spans(plain, open_at_start):
@@ -225,10 +238,14 @@ if _rf.exists():
 
 
 OPEN = {"italic": '<hi rend="italic">', "spaced": '<hi rend="spaced">', "bibl": '<bibl type="source">',
-        "orgName": "<orgName>", "idno": '<idno type="shelfmark">'}
+        "orgName": "<orgName>", "idno": '<idno type="shelfmark">',
+        "add": '<add place="inline">', "addm": '<add place="margin">', "label": "<label>",
+        "labelyear": '<label type="year" place="margin">'}
 CLOSE = {"italic": "</hi>", "spaced": "</hi>", "bibl": "</bibl>", "orgName": "</orgName>", "idno": "</idno>",
-         "quote": "</quote>", "persName": "</persName>", "placeName": "</placeName>"}
-RANK = {"quote": 0, "bibl": 1, "orgName": 2, "idno": 2, "persName": 2.5, "placeName": 2.5, "italic": 3, "spaced": 3}
+         "quote": "</quote>", "persName": "</persName>", "placeName": "</placeName>",
+         "add": "</add>", "addm": "</add>", "label": "</label>", "labelyear": "</label>"}
+RANK = {"quote": 0, "label": 0.5, "labelyear": 0.5, "add": 0.5, "addm": 0.5, "bibl": 1, "orgName": 2, "idno": 2,
+        "persName": 2.5, "placeName": 2.5, "italic": 3, "spaced": 3}
 
 # named entities from scripts/link.py: plain-text hash of a text unit -> [(start, end, type, attrs)]
 NER = {}
@@ -394,6 +411,49 @@ def inline(text, ph, extra_spans=(), footnote=False):
 
 
 # ---------------------------------------------------------------- pages
+
+def load_edit(vol):
+    """Hand-encoded passages, data/edit/<vol>-*.txt (format in data/edit/README.md) -> {image index: page},
+    page = {"page": printed number, "head": running head, "items": [(kind, payload)], "foot": {n: text}};
+    kind: "+" (continues the paragraph from the previous page), "p", "h", "e" (an inventory entry, its
+    number and year wrapped in ⸢…⸣ ⸤…⸥) or "table" (payload: rows)."""
+    pages = {}
+    for f in sorted((ROOT / "data" / "edit").glob(f"{vol}-*.txt")):
+        cur, table_open = None, False
+        for ln in f.read_text(encoding="utf-8").splitlines():
+            if not ln.strip() or ln.startswith("#"):
+                table_open = False
+                continue
+            if ln.startswith("=== "):
+                _, i, n = ln.split(maxsplit=2)
+                cur = pages[int(i)] = {"page": int(n) if n.isdigit() else n, "head": "", "items": [], "foot": {}}
+                table_open = False
+                continue
+            key, _, rest = ln.partition(" ")
+            rest = rest.strip()
+            if key == "head":
+                cur["head"] = rest
+            elif key == "foot":
+                n, _, t = rest.partition(" ")
+                cur["foot"][n] = t
+            elif key == "t":
+                row = [c.strip() for c in rest.split("|")]
+                if table_open:
+                    cur["items"][-1][1].append(row)
+                else:
+                    cur["items"].append(("table", [row]))
+                table_open = True
+                continue
+            elif key == "e":
+                num, year, text = (x.strip() for x in rest.split("|", 2))
+                cur["items"].append(("e", (f"⸢{num}⸣ " if num else "") + (f"⸤{year}⸥ " if year else "") + text))
+            elif key in ("p", "h", "+"):
+                cur["items"].append((key, rest))
+            else:
+                raise ValueError(f"{f.name}: unknown line {ln[:60]!r}")
+            table_open = False
+    return pages
+
 
 def page_source(vol, idx):
     """-> (resp, blocks). Blocks as in regions.dots_blocks (kind, text, bbox)."""
@@ -907,11 +967,12 @@ def build(vol):
     last_idx = max((r["index"] for r in pm if r["how"] in ("read", "filled") and r["index"] not in back_idx),
                    default=len(pm))
     ph = Points()
+    edit = load_edit(vol)
     n_links = load_ner(vol)
     qn = [0]
     stats = {"pages": 0, "gt": 0, "dots": 0, "textlayer": 0, "foot": 0, "foot_unanchored": 0, "margin": 0,
              "quotes": 0, "bibl": 0, "paragraphs": 0, "margin_rescued": 0, "margin_toc": 0, "margin_inserted": 0, "manuscripta": 0, "riksarkivet": 0, "academy": 0, "errata": 0,
-             "names": 0, "spelling": 0}
+             "names": 0, "spelling": 0, "edit": 0}
     spell = {}              # placeholder -> (dots word, text-layer word, page): old-spelling candidates
     spell_log = []          # applied changes, for report/spelling-<vol>.md
 
@@ -954,6 +1015,10 @@ def build(vol):
         stats["academy"] += sum(1 for s in bs if s[2] == "bibl" and len(s) > 3 and "manuscripta" in s[3].get("corresp", ""))
         stats["riksarkivet"] += sum(1 for s in bs if s[2] in ("idno", "bibl") and len(s) > 3 and "riksarkivet" in s[3].get("corresp", ""))
         names = ner_spans(plain)
+        # a name never runs across the edge of a hand-encoded addition or label ("Kannenberg K." from an
+        # entry into the margin note beside it, vol. V p. 385)
+        edges = [(s[0], s[1]) for s in spans if s[2] in EDIT_TAGS]
+        names = [n for n in names if not any(n[0] < x < n[1] for e in edges for x in e)]
         stats["names"] += len(names)
         # old-spelling markers: apply inside quotations only, where no other bound falls inside the word
         marks = [(p, c) for p, c in points if c in spell]
@@ -1061,6 +1126,57 @@ def build(vol):
             else:
                 cur_div.append(ph.xml[pts])
             stats["pages"] += 1
+            continue
+
+        if idx in edit:     # a hand-encoded passage (data/edit): its items replace the OCR blocks
+            ep = edit[idx]
+            stats["pages"] += 1
+            stats["edit"] += 1
+            used = set()
+
+            def fill(t, ep=ep, used=used):
+                t = t.replace(" // ", " " + ph.add("<lb/>")).replace("//", ph.add("<lb/>"))
+                t = re.sub(r"⦗(.*?)⦘", lambda m: ph.add(
+                    f'<note place="margin" type="summary">{inline(m.group(1), ph.xml)}</note>'), t)
+
+                def foot(m):
+                    n = m.group(1)
+                    if n not in ep["foot"]:
+                        return m.group(0)
+                    used.add(n)
+                    return ph.add(f'<note place="foot" n="{n}">{inline(ep["foot"][n], ph.xml, footnote=True)}</note>')
+                return re.sub(r"\^(\d{1,2})", foot, t)
+            pb = page_points(idx, page, "#edit", ([{"kind": "head", "text": ep["head"]}] if ep["head"] else [])
+                             + [{"kind": "pageno", "text": str(page)}])
+            for kind, x in ep["items"]:
+                if kind == "+" and para is not None and pb:
+                    prev = "".join(para).rstrip()
+                    para = [prev]
+                    if prev.endswith("-") and first_char(x).islower():
+                        para[0] = prev[:-1]
+                        para.append(ph.add(pb.replace("<pb ", '<pb break="no" ', 1)))
+                    else:
+                        para.append(ph.add(pb))
+                        para.append(" ")
+                    para.append(fill(x))
+                    pb = None
+                    continue
+                flush_para()
+                if pb:
+                    cur_div.append(pb)
+                    pb = None
+                if kind == "table":
+                    cur_div.append("<table>" + "".join("<row>" + "".join(f"<cell>{inline(c, ph.xml)}</cell>" for c in row)
+                                                       + "</row>" for row in x) + "</table>")
+                elif kind == "h":
+                    cur_div.append(f'<ab type="heading">{inline(fill(x), ph.xml)}</ab>')
+                else:
+                    para = [fill(x)]
+            if pb:
+                flush_para()
+                cur_div.append(pb)
+            for n in set(ep["foot"]) - used:
+                print(f"  {vol} p{idx:04d}: footnote {n} has no anchor", file=sys.stderr)
             continue
 
         resp, blocks = page_source(vol, idx)
@@ -1263,6 +1379,12 @@ def build(vol):
         n = f' n="{r["page"]}"' if r["page"] else ""
         surfaces.append(f'<surface xml:id="f{vol}-{r["index"]:04d}"{n} ulx="0" uly="0" lrx="{w}" lry="{h}">'
                         f'<graphic url="../data/img/{vol}/{p.name}" width="{w}px" height="{h}px"/></surface>')
+    edit_resp = ('<respStmt xml:id="edit"><resp>Hand-encoded passage (data/edit): OCR text corrected against the page '
+                 'image, with the structure of a quoted document (entries, item numbers, later additions in small type '
+                 'as add) encoded by hand</resp><name>Schück digital</name></respStmt>\n') if edit else ""
+    edit_decl = (" Some quoted documents are encoded by hand (#edit): entries carry their item number and year as "
+                 "label, and the additions Schück prints in smaller type are add (place=\"margin\" where printed in "
+                 "the margin).") if edit else ""
     xml = f"""<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="{TEI_NS}" xml:lang="sv">
@@ -1275,7 +1397,7 @@ def build(vol):
 <respStmt xml:id="dots"><resp>OCR, layout analysis</resp><name>dots.mocr (rednote-hilab), via vLLM</name></respStmt>
 <respStmt xml:id="errata"><resp>Correction from the printed errata list (Rättelser)</resp><name>Henrik Schück</name></respStmt>
 <respStmt xml:id="textlayer"><resp>OCR</resp><name>Text layer of the source PDF</name></respStmt>
-<respStmt xml:id="toc"><resp>Sidenote the OCR dropped: wording from the printed table of contents, position from the text layer's margin words</resp><name>scripts/to_tei.py</name></respStmt>
+{edit_resp}<respStmt xml:id="toc"><resp>Sidenote the OCR dropped: wording from the printed table of contents, position from the text layer's margin words</resp><name>scripts/to_tei.py</name></respStmt>
 <respStmt xml:id="spelling"><resp>Old-spelling rule: inside quotations, the text layer's reading where dots.mocr differs from it only by w/v, j/i or a doubled letter (dots.mocr's reading kept as rdg)</resp><name>scripts/to_tei.py</name></respStmt>
 </titleStmt>
 <publicationStmt><authority>Schück digital (working draft generated by scripts/to_tei.py; not for citation)</authority>
@@ -1283,7 +1405,7 @@ def build(vol):
 <sourceDesc><bibl><author>Henrik Schück</author>, <title>{escape(struct["title"])}</title> <biblScope unit="volume">{meta["part"]}</biblScope>. <pubPlace>Stockholm</pubPlace> <date when="{meta["year"]}">{meta["year"]}</date>. <ref target="{LIBRIS}">Libris</ref></bibl></sourceDesc>
 </fileDesc>
 <encodingDesc>
-<editorialDecl><p>Text from verified ground truth where available (pb/@resp="#gt"), otherwise from dots.mocr OCR (#dots) or the PDF text layer (#textlayer). Uncorrected OCR. Spelling, including that of quoted sources, is kept as printed. Where dots.mocr modernised the spelling of a quotation (w/v, j/i, doubled letters) and the text layer has the old form, the old form is given in app/lem (resp="#spelling") with dots.mocr's reading in rdg. End-of-line hyphenation is removed; words broken across pages carry pb/@break="no". Footnotes and marginal summaries are placed at their anchors; placements marked cert="low" are guesses. Person and place names (persName, placeName) come from named-entity recognition (KB-BERT); @ref points to tei/register.xml, and @cert gives the certainty of the identification (low = an unreviewed guess).</p></editorialDecl>
+<editorialDecl><p>Text from verified ground truth where available (pb/@resp="#gt"), otherwise from dots.mocr OCR (#dots) or the PDF text layer (#textlayer). Uncorrected OCR.{edit_decl} Spelling, including that of quoted sources, is kept as printed. Where dots.mocr modernised the spelling of a quotation (w/v, j/i, doubled letters) and the text layer has the old form, the old form is given in app/lem (resp="#spelling") with dots.mocr's reading in rdg. End-of-line hyphenation is removed; words broken across pages carry pb/@break="no". Footnotes and marginal summaries are placed at their anchors; placements marked cert="low" are guesses. Person and place names (persName, placeName) come from named-entity recognition (KB-BERT); @ref points to tei/register.xml, and @cert gives the certainty of the identification (low = an unreviewed guess).</p></editorialDecl>
 </encodingDesc>
 </teiHeader>
 <facsimile>

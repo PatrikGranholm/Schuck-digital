@@ -48,6 +48,11 @@ p.first, p.noindent { text-indent: 0; }
 p.sidenote { font-style: italic; font-size: .85em; text-indent: 0; margin: .9em 0 .2em; color: #555; }
 p.quoted { margin: .4em 1.6em; text-indent: 0; font-size: .95em; }
 .spaced { letter-spacing: .12em; }
+.add { font-size: .85em; }
+.add.margin { font-size: .8em; font-style: italic; color: #555; }
+
+.label { margin-right: .3em; }
+.label.year { float: right; margin: 0 0 0 .6em; font-size: .85em; }
 a.noteref { font-size: .7em; vertical-align: super; line-height: 0; text-decoration: none; }
 aside.footnote { font-size: .85em; margin: .4em 0; }
 aside.footnote p { text-indent: 0; }
@@ -154,6 +159,11 @@ class Book:
         elif tag == "lb":
             out.append(h("br"))
             return
+        elif tag == "label":
+            e = h("span", {"class": "label year" if c.get("type") == "year" else "label"})
+        elif tag == "add":        # a later addition to a quoted document, printed smaller (in the margin)
+            e = h("span", {"class": "add margin" if c.get("place") == "margin" else "add",
+                           "title": "Senare tillägg"})
         elif tag == "idno" and c.get("corresp"):      # digitised on manuscripta.se
             e = h("a", {"href": c.get("corresp")})
         elif tag in ("choice", "corr", "orgName", "idno", "persName", "placeName", "titlePart"):

@@ -113,7 +113,7 @@ function render(node, parent, ctx) {
       ctx.page = n;
       e = h("span", `pb ${resp}${a("break") === "no" ? " nobreak" : ""}`, n ? `s. ${n}` : "bild");
       e.dataset.i = V.pages.length;
-      e.title = { gt: "Granskad text", dots: "OCR (dots.mocr), ej korrekturläst", textlayer: "PDF-textlager, ej korrekturläst" }[resp] || "";
+      e.title = { gt: "Granskad text", dots: "OCR (dots.mocr), ej korrekturläst", textlayer: "PDF-textlager, ej korrekturläst", edit: "Handkodad: OCR rättad mot faksimilet, poster och tillägg uppmärkta" }[resp] || "";
       V.pages.push({ facs, n, resp, el: e });
       break;
     }
@@ -217,6 +217,17 @@ function render(node, parent, ctx) {
     case "row": e = h("tr"); renderKids(node, e, ctx); break;
     case "cell": e = h("td"); renderKids(node, e, ctx); break;
     case "lb": e = h("br"); break;
+    case "label": {   // an inventory entry's number; the year beside it stands in the outer margin
+      e = h("span", a("place") === "margin" ? "sidenote year" : a("type") === "year" ? "label year" : "label");
+      renderKids(node, e, ctx);
+      break;
+    }
+    case "add": {   // a later addition to a quoted document, printed in smaller type (vol. V, Berch's inventory)
+      e = h("span", a("place") === "margin" ? "sidenote addition" : "add");
+      e.title = "Senare tillägg (mindre stil i trycket)";
+      renderKids(node, e, ctx);
+      break;
+    }
     default: renderKids(node, parent, ctx); return;
   }
   parent.appendChild(e);
@@ -368,7 +379,8 @@ function showPage(i) {
   $("pglabel").textContent = `${p.n ? "s. " + p.n : "opaginerad"} · bild ${img}`;
   $("pgsource").textContent = { gt: "Texten på denna sida är granskad mot faksimilet.",
     dots: "Texten på denna sida är okorrigerad OCR.",
-    textlayer: "Texten på denna sida kommer från PDF-filens textlager (okorrigerad)." }[p.resp] || "";
+    textlayer: "Texten på denna sida kommer från PDF-filens textlager (okorrigerad).",
+    edit: "Texten på denna sida är rättad mot faksimilet och handkodad: poster, nummer och senare tillägg (mindre stil) är uppmärkta." }[p.resp] || "";
   if (!surf || document.body.classList.contains("nofacs")) return;
   if (!S.osd && window.OpenSeadragon) {
     S.osd = OpenSeadragon({
