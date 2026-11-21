@@ -17,6 +17,7 @@ One line per element. Blank lines end a table; lines starting with `#` are comme
 | `t CELL \| CELL` | table row; consecutive rows form one table |
 | `e NUM \| YEAR \| TEXT` | an entry of a quoted inventory: item number as printed (`[N. 6.]`, `[392.]`, may be empty), the year printed beside it in normal type (`[1709.]`, `[(1703)]`, may be empty), and its text |
 | `foot N TEXT` | footnote N; its anchor is `^N` in the text |
+| `q+` / `q-` | a quoted document starts / stops: every paragraph, heading and table cell between them is a `<quote>`, the parts chained with `@next`/`@prev` like any quotation that runs over several paragraphs. Schück's own interjections go outside (`q-`, `p …`, `q+`) |
 
 Inline markup (besides `{italic}`, `<letterspaced>` and `^1` as in gt/CONVENTIONS.md):
 

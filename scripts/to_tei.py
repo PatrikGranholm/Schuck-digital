@@ -416,7 +416,8 @@ def load_edit(vol):
     """Hand-encoded passages, data/edit/<vol>-*.txt (format in data/edit/README.md) -> {image index: page},
     page = {"page": printed number, "head": running head, "items": [(kind, payload)], "foot": {n: text}};
     kind: "+" (continues the paragraph from the previous page), "p", "h", "e" (an inventory entry, its
-    number and year wrapped in ⸢…⸣ ⸤…⸥) or "table" (payload: rows)."""
+    number and year wrapped in ⸢…⸣ ⸤…⸥), "table" (payload: rows) or "q" (payload: True where a quoted
+    document starts, False where it stops)."""
     pages = {}
     for f in sorted((ROOT / "data" / "edit").glob(f"{vol}-*.txt")):
         cur, table_open = None, False
@@ -449,6 +450,8 @@ def load_edit(vol):
                 cur["items"].append(("e", (f"⸢{num}⸣ " if num else "") + (f"⸤{year}⸥ " if year else "") + text))
             elif key in ("p", "h", "+"):
                 cur["items"].append((key, rest))
+            elif key in ("q+", "q-"):         # a quoted document starts / stops
+                cur["items"].append(("q", key == "q+"))
             else:
                 raise ValueError(f"{f.name}: unknown line {ln[:60]!r}")
             table_open = False
@@ -983,12 +986,15 @@ def build(vol):
     last_quote = [None]     # xml:id of the last quote part (for @next/@prev)
     quote_links = {}        # id -> next id
 
+    para_el = ["p"]         # element of the current paragraph: "p", or 'ab type="heading"' (data/edit headings)
+
     def flush_para():
         nonlocal para
         if para is None:
             return
         text = "".join(para).strip()
         para = None
+        el, para_el[0] = para_el[0], "p"
         if not text:
             return
         plain, spans, points = parse_markup(text)
@@ -1038,7 +1044,7 @@ def build(vol):
             spell_log.append((page_n, dw, tw, plain[max(0, p - 50):p] + "[" + dw + "]" + plain[e:e + 50]))
         stats["spelling"] += len(repl)
         xml = serialize(plain, spans + qspans + bs + names, points, ph.xml, repl)
-        cur_div.append(f"<p>{xml}</p>")
+        cur_div.append(f"<{el}>{xml}</{el.split()[0]}>")
         stats["paragraphs"] += 1
 
     def page_points(idx, page, resp, blocks):
@@ -1148,7 +1154,23 @@ def build(vol):
                 return re.sub(r"\^(\d{1,2})", foot, t)
             pb = page_points(idx, page, "#edit", ([{"kind": "head", "text": ep["head"]}] if ep["head"] else [])
                              + [{"kind": "pageno", "text": str(page)}])
+            def quoted(xml):
+                """A table cell inside a quoted document: one more part of its quotation chain."""
+                if not quote_open[0]:
+                    return xml
+                qn[0] += 1
+                qid = f"q-{vol}-{qn[0]:05d}"
+                prev = f' prev="#{last_quote[0]}"' if last_quote[0] else ""
+                if last_quote[0]:
+                    quote_links[last_quote[0]] = qid
+                last_quote[0] = qid
+                stats["quotes"] += 1
+                return f'<quote xml:id="{qid}"{prev}>{xml}</quote>'
             for kind, x in ep["items"]:
+                if kind == "q":
+                    flush_para()
+                    quote_open[0], last_quote[0] = x, None
+                    continue
                 if kind == "+" and para is not None and pb:
                     prev = "".join(para).rstrip()
                     para = [prev]
@@ -1166,10 +1188,11 @@ def build(vol):
                     cur_div.append(pb)
                     pb = None
                 if kind == "table":
-                    cur_div.append("<table>" + "".join("<row>" + "".join(f"<cell>{inline(c, ph.xml)}</cell>" for c in row)
-                                                       + "</row>" for row in x) + "</table>")
-                elif kind == "h":
-                    cur_div.append(f'<ab type="heading">{inline(fill(x), ph.xml)}</ab>')
+                    cur_div.append("<table>" + "".join("<row>" + "".join(
+                        f"<cell>{quoted(inline(c, ph.xml))}</cell>" for c in row) + "</row>" for row in x) + "</table>")
+                elif kind == "h":         # through flush_para, so that a heading inside a quoted document is quoted
+                    para, para_el[0] = [fill(x)], 'ab type="heading"'
+                    flush_para()
                 else:
                     para = [fill(x)]
             if pb:
