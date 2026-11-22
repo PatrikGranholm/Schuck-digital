@@ -223,8 +223,8 @@
   "name": "Abraham",
   "surname": "Abraham",
   "forms": {
-   "Abrahams": 2,
-   "Abraham": 2
+   "Abraham": 2,
+   "Abrahams": 2
   },
   "n_full": 0,
   "n_bare": 4,
@@ -268,17 +268,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Abrahams": 2
-    },
-    "n_full": 0,
-    "n_bare": 2,
-    "units": [
-     "u00056",
-     "u00073"
-    ]
-   },
    "1933b": {
     "forms": {
      "Abraham": 1
@@ -297,6 +286,17 @@
     "n_bare": 1,
     "units": [
      "u00261"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Abrahams": 2
+    },
+    "n_full": 0,
+    "n_bare": 2,
+    "units": [
+     "u00056",
+     "u00073"
     ]
    }
   }
@@ -540,9 +540,9 @@
   "name": "Adam",
   "surname": "Adam",
   "forms": {
+   "Adami": 2,
    "Adam": 15,
-   "Adams": 5,
-   "Adami": 2
+   "Adams": 5
   },
   "n_full": 0,
   "n_bare": 22,
@@ -552,20 +552,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Adam": 4,
-     "Adams": 4
-    },
-    "n_full": 0,
-    "n_bare": 8,
-    "units": [
-     "u00044",
-     "u00073",
-     "u00075",
-     "u00325"
-    ]
-   },
    "1933b": {
     "forms": {
      "Adami": 2,
@@ -613,6 +599,20 @@
     "n_bare": 1,
     "units": [
      "u01458"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Adam": 4,
+     "Adams": 4
+    },
+    "n_full": 0,
+    "n_bare": 8,
+    "units": [
+     "u00044",
+     "u00073",
+     "u00075",
+     "u00325"
     ]
    }
   }
@@ -2178,8 +2178,8 @@
   "name": "Gustav Adolf",
   "surname": "Adolf",
   "forms": {
-   "Gustav Adolfs": 30,
    "Gustav Adolf": 34,
+   "Gustav Adolfs": 30,
    "Gustaf Adolf": 7,
    "Konung Gustaf Adolfs": 2,
    "Gustaf Adolfs": 5,
@@ -2221,36 +2221,6 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Gustav Adolfs": 12,
-     "Gustav Adolf": 13,
-     "Gustaf Adolf": 1
-    },
-    "n_full": 26,
-    "n_bare": 0,
-    "units": [
-     "u00077",
-     "u00089",
-     "u00092",
-     "u00123",
-     "u00124",
-     "u00125",
-     "u00245",
-     "u00251",
-     "u00308",
-     "u00313",
-     "u00372",
-     "u00434",
-     "u00435",
-     "u00471",
-     "u00486",
-     "u00492",
-     "u00580",
-     "u00672",
-     "u00856"
-    ]
-   },
    "1933a": {
     "forms": {
      "Gustav Adolf": 5,
@@ -2381,6 +2351,36 @@
      "u00123",
      "u00396"
     ]
+   },
+   "1932": {
+    "forms": {
+     "Gustav Adolfs": 12,
+     "Gustav Adolf": 13,
+     "Gustaf Adolf": 1
+    },
+    "n_full": 26,
+    "n_bare": 0,
+    "units": [
+     "u00077",
+     "u00089",
+     "u00092",
+     "u00123",
+     "u00124",
+     "u00125",
+     "u00245",
+     "u00251",
+     "u00308",
+     "u00313",
+     "u00372",
+     "u00434",
+     "u00435",
+     "u00471",
+     "u00486",
+     "u00492",
+     "u00580",
+     "u00672",
+     "u00856"
+    ]
    }
   }
  },
@@ -2389,26 +2389,16 @@
   "name": "Johan och Gustav Adolf",
   "surname": "Adolf",
   "forms": {
-   "Johan och Gustav Adolf": 1,
-   "Johannes Vidikindi Gustav Adolfs": 1
+   "Johannes Vidikindi Gustav Adolfs": 1,
+   "Johan och Gustav Adolf": 1
   },
   "n_full": 2,
   "n_bare": 0,
-  "context_year": 1653,
+  "context_year": 1888,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Johan och Gustav Adolf": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00147"
-    ]
-   },
    "1933b": {
     "forms": {
      "Johannes Vidikindi Gustav Adolfs": 1
@@ -2417,6 +2407,16 @@
     "n_bare": 0,
     "units": [
      "u01155"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Johan och Gustav Adolf": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00147"
     ]
    }
   }
@@ -2631,16 +2631,6 @@
   ],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Gustaff Adolph": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00093"
-    ]
-   },
    "1933a": {
     "forms": {
      "Gustaff Adolph": 2
@@ -2650,6 +2640,16 @@
     "units": [
      "u00429",
      "u02304"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Gustaff Adolph": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00093"
     ]
    }
   },
@@ -2661,8 +2661,8 @@
   "surname": "Adolph",
   "forms": {
    "Wij Gustaf Adolph": 2,
-   "Gustaf Adolph": 14,
    "Gustavi Adolphi": 1,
+   "Gustaf Adolph": 14,
    "Gustaf Adolphs": 17,
    "Konung Gustafs Adolphs": 1,
    "Konung Gustaf Adolphs": 4,
@@ -2745,18 +2745,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Wij Gustaf Adolph": 1,
-     "Gustaf Adolph": 1
-    },
-    "n_full": 2,
-    "n_bare": 0,
-    "units": [
-     "u00399",
-     "u00449"
-    ]
-   },
    "1933a": {
     "forms": {
      "Wij Gustaf Adolph": 1,
@@ -2863,6 +2851,18 @@
      "u00718",
      "u00720",
      "u01498"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Wij Gustaf Adolph": 1,
+     "Gustaf Adolph": 1
+    },
+    "n_full": 2,
+    "n_bare": 0,
+    "units": [
+     "u00399",
+     "u00449"
     ]
    }
   }
@@ -3085,17 +3085,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Gustavi Adolphi": 2
-    },
-    "n_full": 2,
-    "n_bare": 0,
-    "units": [
-     "u00120",
-     "u00401"
-    ]
-   },
    "1935": {
     "forms": {
      "Gustavi Adolphi": 2,
@@ -3108,6 +3097,17 @@
      "u00228",
      "u00230",
      "u00538"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Gustavi Adolphi": 2
+    },
+    "n_full": 2,
+    "n_bare": 0,
+    "units": [
+     "u00120",
+     "u00401"
     ]
    }
   }
@@ -3288,19 +3288,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Gustavus Adolphus": 10
-    },
-    "n_full": 10,
-    "n_bare": 0,
-    "units": [
-     "u00119",
-     "u00400",
-     "u00450",
-     "u00469"
-    ]
-   },
    "1933a": {
     "forms": {
      "Gustavus Adolphus": 2
@@ -3320,6 +3307,19 @@
     "n_bare": 0,
     "units": [
      "u00997"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Gustavus Adolphus": 10
+    },
+    "n_full": 10,
+    "n_bare": 0,
+    "units": [
+     "u00119",
+     "u00400",
+     "u00450",
+     "u00469"
     ]
    }
   }
@@ -4829,16 +4829,6 @@
   ],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Ahnlund": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00380"
-    ]
-   },
    "1943b": {
     "forms": {
      "Ahnlund": 3
@@ -4848,6 +4838,16 @@
     "units": [
      "u00501",
      "u00503"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Ahnlund": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00380"
     ]
    }
   },
@@ -5795,8 +5795,8 @@
   "name": "Alexander",
   "surname": "Alexander",
   "forms": {
-   "Alexander": 8,
    "Konung Alexander": 2,
+   "Alexander": 8,
    "Alexanders": 1
   },
   "n_full": 0,
@@ -5819,18 +5819,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Alexander": 2,
-     "Konung Alexander": 1
-    },
-    "n_full": 0,
-    "n_bare": 3,
-    "units": [
-     "u00048",
-     "u00305"
-    ]
-   },
    "1933a": {
     "forms": {
      "Konung Alexander": 1
@@ -5884,6 +5872,18 @@
      "u00511",
      "u00516"
     ]
+   },
+   "1932": {
+    "forms": {
+     "Alexander": 2,
+     "Konung Alexander": 1
+    },
+    "n_full": 0,
+    "n_bare": 3,
+    "units": [
+     "u00048",
+     "u00305"
+    ]
    }
   }
  },
@@ -5913,16 +5913,6 @@
   ],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Alexandri": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00305"
-    ]
-   },
    "1933a": {
     "forms": {
      "Alexandri": 2
@@ -5942,6 +5932,16 @@
     "n_bare": 2,
     "units": [
      "u01104"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Alexandri": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00305"
     ]
    }
   },
@@ -6454,9 +6454,9 @@
   "name": "Oscar Almgren",
   "surname": "Almgren",
   "forms": {
-   "Oscar Almgren": 1,
+   "Oscar Almgrens": 1,
    "Almgren": 4,
-   "Oscar Almgrens": 1
+   "Oscar Almgren": 1
   },
   "n_full": 2,
   "n_bare": 4,
@@ -6489,6 +6489,18 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
+   "1943b": {
+    "forms": {
+     "Oscar Almgrens": 1,
+     "Almgren": 2
+    },
+    "n_full": 1,
+    "n_bare": 2,
+    "units": [
+     "u00747",
+     "u01054"
+    ]
+   },
    "1932": {
     "forms": {
      "Oscar Almgren": 1,
@@ -6500,18 +6512,6 @@
      "u00380",
      "u00393",
      "u00394"
-    ]
-   },
-   "1943b": {
-    "forms": {
-     "Oscar Almgrens": 1,
-     "Almgren": 2
-    },
-    "n_full": 1,
-    "n_bare": 2,
-    "units": [
-     "u00747",
-     "u01054"
     ]
    }
   }
@@ -9025,16 +9025,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Annerstedt": 2
-    },
-    "n_full": 0,
-    "n_bare": 2,
-    "units": [
-     "u00492"
-    ]
-   },
    "1933a": {
     "forms": {
      "Annerstedt": 4
@@ -9098,6 +9088,16 @@
     "n_bare": 1,
     "units": [
      "u00133"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Annerstedt": 2
+    },
+    "n_full": 0,
+    "n_bare": 2,
+    "units": [
+     "u00492"
     ]
    }
   }
@@ -9907,16 +9907,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Apollo": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00735"
-    ]
-   },
    "1933b": {
     "forms": {
      "Apollo": 1
@@ -9956,6 +9946,16 @@
     "units": [
      "u01051",
      "u01056"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Apollo": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00735"
     ]
    }
   },
@@ -10887,16 +10887,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Aristoteles": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00308"
-    ]
-   },
    "1943a": {
     "forms": {
      "Aristoteles": 3,
@@ -10919,6 +10909,16 @@
     "units": [
      "u00139",
      "u00148"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Aristoteles": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00308"
     ]
    }
   },
@@ -11676,8 +11676,8 @@
   "name": "Arrhenius",
   "surname": "Arrhenius",
   "forms": {
-   "Arrhenius": 3,
-   "Herr Arrhenius": 1
+   "Herr Arrhenius": 1,
+   "Arrhenius": 3
   },
   "n_full": 0,
   "n_bare": 4,
@@ -11687,6 +11687,16 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
+   "1936": {
+    "forms": {
+     "Herr Arrhenius": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u02470"
+    ]
+   },
    "1932": {
     "forms": {
      "Arrhenius": 3
@@ -11697,16 +11707,6 @@
      "u00666",
      "u00667",
      "u00668"
-    ]
-   },
-   "1936": {
-    "forms": {
-     "Herr Arrhenius": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u02470"
     ]
    }
   }
@@ -12345,7 +12345,8 @@
    "Martino Aschaneo": 1,
    "Martinus Laurentii Aschaneus": 1,
    "Her Mårten Aschaneum": 1,
-   "Aschaneus": 74
+   "Aschaneus": 73,
+   "Aschaneus’": 1
   },
   "n_full": 7,
   "n_bare": 74,
@@ -12355,13 +12356,24 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
+   "1936": {
+    "forms": {
+     "Martinus Aschaneus": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u01424"
+    ]
+   },
    "1932": {
     "forms": {
      "Martinus Aschaneus": 3,
      "Martino Aschaneo": 1,
      "Martinus Laurentii Aschaneus": 1,
      "Her Mårten Aschaneum": 1,
-     "Aschaneus": 74
+     "Aschaneus": 73,
+     "Aschaneus’": 1
     },
     "n_full": 6,
     "n_bare": 74,
@@ -12406,16 +12418,6 @@
      "u00561",
      "u00564",
      "u00860"
-    ]
-   },
-   "1936": {
-    "forms": {
-     "Martinus Aschaneus": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u01424"
     ]
    }
   }
@@ -14116,21 +14118,11 @@
   },
   "n_full": 0,
   "n_bare": 2,
-  "context_year": null,
+  "context_year": 1622,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Augustinus": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00308"
-    ]
-   },
    "1943a": {
     "forms": {
      "Augustinus": 1
@@ -14139,6 +14131,16 @@
     "n_bare": 1,
     "units": [
      "u01095"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Augustinus": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00308"
     ]
    }
   }
@@ -14398,16 +14400,6 @@
   ],
   "wikidata": "Q1527696",
   "vols": {
-   "1932": {
-    "forms": {
-     "Aurivillius": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00288"
-    ]
-   },
    "1933b": {
     "forms": {
      "Aurivillius": 1
@@ -14439,6 +14431,16 @@
      "u00088",
      "u00093",
      "u00100"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Aurivillius": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00288"
     ]
    }
   },
@@ -14816,12 +14818,12 @@
   "name": "Jahan Henrichsson Axehiälm",
   "surname": "Axehiälm",
   "forms": {
-   "Jahan Henrichsson Axehiälm": 1,
-   "Johan Axehiälm": 2,
-   "Axehiälms": 10,
-   "Axehiälm": 34,
    "Hr Jahan Axehiälm": 1,
-   "Johannes Axehiälm": 1
+   "Johan Axehiälm": 2,
+   "Axehiälm": 34,
+   "Axehiälms": 10,
+   "Johannes Axehiälm": 1,
+   "Jahan Henrichsson Axehiälm": 1
   },
   "n_full": 5,
   "n_bare": 44,
@@ -14831,30 +14833,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Jahan Henrichsson Axehiälm": 1,
-     "Johan Axehiälm": 1,
-     "Axehiälms": 2,
-     "Axehiälm": 11
-    },
-    "n_full": 2,
-    "n_bare": 13,
-    "units": [
-     "u00304",
-     "u00314",
-     "u00472",
-     "u00494",
-     "u00495",
-     "u00496",
-     "u00526",
-     "u00534",
-     "u00541",
-     "u00568",
-     "u00579",
-     "u00830"
-    ]
-   },
    "1933a": {
     "forms": {
      "Hr Jahan Axehiälm": 1,
@@ -14903,6 +14881,30 @@
      "u00629",
      "u00696"
     ]
+   },
+   "1932": {
+    "forms": {
+     "Jahan Henrichsson Axehiälm": 1,
+     "Johan Axehiälm": 1,
+     "Axehiälms": 2,
+     "Axehiälm": 11
+    },
+    "n_full": 2,
+    "n_bare": 13,
+    "units": [
+     "u00304",
+     "u00314",
+     "u00472",
+     "u00494",
+     "u00495",
+     "u00496",
+     "u00526",
+     "u00534",
+     "u00541",
+     "u00568",
+     "u00579",
+     "u00830"
+    ]
    }
   }
  },
@@ -14911,8 +14913,8 @@
   "name": "Axel",
   "surname": "Axel",
   "forms": {
-   "Axel": 5,
-   "Gref Axel": 1
+   "Gref Axel": 1,
+   "Axel": 5
   },
   "n_full": 0,
   "n_bare": 6,
@@ -14922,18 +14924,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Axel": 3
-    },
-    "n_full": 0,
-    "n_bare": 3,
-    "units": [
-     "u00286",
-     "u00370",
-     "u00666"
-    ]
-   },
    "1935": {
     "forms": {
      "Gref Axel": 1
@@ -14953,6 +14943,18 @@
     "units": [
      "u01730",
      "u03069"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Axel": 3
+    },
+    "n_full": 0,
+    "n_bare": 3,
+    "units": [
+     "u00286",
+     "u00370",
+     "u00666"
     ]
    }
   }
@@ -15159,16 +15161,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Babel": 2
-    },
-    "n_full": 0,
-    "n_bare": 2,
-    "units": [
-     "u00325"
-    ]
-   },
    "1933b": {
     "forms": {
      "Babel": 2
@@ -15178,6 +15170,16 @@
     "units": [
      "u00761",
      "u00762"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Babel": 2
+    },
+    "n_full": 0,
+    "n_bare": 2,
+    "units": [
+     "u00325"
     ]
    }
   }
@@ -16625,16 +16627,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Barlaam": 2
-    },
-    "n_full": 0,
-    "n_bare": 2,
-    "units": [
-     "u00312"
-    ]
-   },
    "1933a": {
     "forms": {
      "Barlaam": 2
@@ -16658,6 +16650,16 @@
      "u00619",
      "u00627",
      "u00629"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Barlaam": 2
+    },
+    "n_full": 0,
+    "n_bare": 2,
+    "units": [
+     "u00312"
     ]
    }
   }
@@ -17606,21 +17608,11 @@
   },
   "n_full": 2,
   "n_bare": 0,
-  "context_year": 1590,
+  "context_year": 1569,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Goropius Becanus": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00324"
-    ]
-   },
    "1933b": {
     "forms": {
      "Goropius Becanus": 1
@@ -17629,6 +17621,16 @@
     "n_bare": 0,
     "units": [
      "u00762"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Goropius Becanus": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00324"
     ]
    }
   }
@@ -18060,18 +18062,6 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Petrus Benedicti": 1,
-     "Benedicti": 1
-    },
-    "n_full": 1,
-    "n_bare": 1,
-    "units": [
-     "u00503",
-     "u00753"
-    ]
-   },
    "1943b": {
     "forms": {
      "Petrus Benedicti": 3
@@ -18082,6 +18072,18 @@
      "u01063",
      "u01065",
      "u01071"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Petrus Benedicti": 1,
+     "Benedicti": 1
+    },
+    "n_full": 1,
+    "n_bare": 1,
+    "units": [
+     "u00503",
+     "u00753"
     ]
    }
   }
@@ -18764,17 +18766,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Erik Benzelius": 2
-    },
-    "n_full": 2,
-    "n_bare": 0,
-    "units": [
-     "u00244",
-     "u00305"
-    ]
-   },
    "1933a": {
     "forms": {
      "Erik Benzelius": 1,
@@ -18816,6 +18807,17 @@
     "units": [
      "u00038",
      "u02041"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Erik Benzelius": 2
+    },
+    "n_full": 2,
+    "n_bare": 0,
+    "units": [
+     "u00244",
+     "u00305"
     ]
    }
   },
@@ -20295,18 +20297,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Severin Bergh": 1,
-     "Bergh": 1
-    },
-    "n_full": 1,
-    "n_bare": 1,
-    "units": [
-     "u00365",
-     "u00802"
-    ]
-   },
    "1933a": {
     "forms": {
      "Severin Bergh": 1
@@ -20343,6 +20333,18 @@
      "u01201",
      "u01410",
      "u01416"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Severin Bergh": 1,
+     "Bergh": 1
+    },
+    "n_full": 1,
+    "n_bare": 1,
+    "units": [
+     "u00365",
+     "u00802"
     ]
    }
   }
@@ -24103,17 +24105,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Birgittas": 2
-    },
-    "n_full": 0,
-    "n_bare": 2,
-    "units": [
-     "u00046",
-     "u00304"
-    ]
-   },
    "1933a": {
     "forms": {
      "Birgittas": 3
@@ -24162,6 +24153,17 @@
     "n_bare": 1,
     "units": [
      "u01533"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Birgittas": 2
+    },
+    "n_full": 0,
+    "n_bare": 2,
+    "units": [
+     "u00046",
+     "u00304"
     ]
    }
   }
@@ -26177,21 +26179,11 @@
   },
   "n_full": 0,
   "n_bare": 2,
-  "context_year": 1672,
+  "context_year": 1652,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Boeclerus": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00601"
-    ]
-   },
    "1933b": {
     "forms": {
      "Boeclerus": 1
@@ -26200,6 +26192,16 @@
     "n_bare": 1,
     "units": [
      "u00025"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Boeclerus": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00601"
     ]
    }
   }
@@ -26309,6 +26311,16 @@
   ],
   "wikidata": "Q93226613",
   "vols": {
+   "1933b": {
+    "forms": {
+     "Gunnar Bolin": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u01251"
+    ]
+   },
    "1932": {
     "forms": {
      "Gunnar Bolin": 1,
@@ -26319,16 +26331,6 @@
     "units": [
      "u00132",
      "u00406"
-    ]
-   },
-   "1933b": {
-    "forms": {
-     "Gunnar Bolin": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u01251"
     ]
    }
   },
@@ -26616,16 +26618,6 @@
   ],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Carl Bonde": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00510"
-    ]
-   },
    "1936": {
     "forms": {
      "Carl Bonde": 3
@@ -26650,6 +26642,16 @@
      "u00460",
      "u01301",
      "u01307"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Carl Bonde": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00510"
     ]
    }
   },
@@ -28046,8 +28048,8 @@
   "name": "Abraham Brahe",
   "surname": "Brahe",
   "forms": {
-   "Abraham Brahes": 2,
-   "Abraham Brahe": 3
+   "Abraham Brahe": 3,
+   "Abraham Brahes": 2
   },
   "n_full": 5,
   "n_bare": 0,
@@ -28092,20 +28094,6 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Abraham Brahes": 2,
-     "Abraham Brahe": 1
-    },
-    "n_full": 3,
-    "n_bare": 0,
-    "n_ambiguous": 5,
-    "units": [
-     "u00092",
-     "u00094",
-     "u00117"
-    ]
-   },
    "1935": {
     "forms": {
      "Abraham Brahe": 1
@@ -28124,6 +28112,20 @@
     "n_bare": 0,
     "units": [
      "u01681"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Abraham Brahes": 2,
+     "Abraham Brahe": 1
+    },
+    "n_full": 3,
+    "n_bare": 0,
+    "n_ambiguous": 5,
+    "units": [
+     "u00092",
+     "u00094",
+     "u00117"
     ]
    }
   }
@@ -28377,21 +28379,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Per Brahe": 5
-    },
-    "n_full": 5,
-    "n_bare": 0,
-    "n_ambiguous": 5,
-    "units": [
-     "u00031",
-     "u00575",
-     "u00610",
-     "u00612",
-     "u00730"
-    ]
-   },
    "1933a": {
     "forms": {
      "Per Brahe": 2,
@@ -28426,6 +28413,21 @@
     "n_bare": 0,
     "units": [
      "u03162"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Per Brahe": 5
+    },
+    "n_full": 5,
+    "n_bare": 0,
+    "n_ambiguous": 5,
+    "units": [
+     "u00031",
+     "u00575",
+     "u00610",
+     "u00612",
+     "u00730"
     ]
    }
   }
@@ -28724,8 +28726,8 @@
   "name": "Hans Brask",
   "surname": "Brask",
   "forms": {
-   "Hans Brask": 2,
    "Biskop Hans Brask": 1,
+   "Hans Brask": 2,
    "Brask": 1,
    "biskop Brask": 1
   },
@@ -28748,16 +28750,6 @@
   ],
   "wikidata": "Q4992645",
   "vols": {
-   "1932": {
-    "forms": {
-     "Hans Brask": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00085"
-    ]
-   },
    "1936": {
     "forms": {
      "Biskop Hans Brask": 1
@@ -28780,6 +28772,16 @@
      "u00102",
      "u00103",
      "u00182"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Hans Brask": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00085"
     ]
    }
   },
@@ -29406,9 +29408,9 @@
   "name": "Adam af Bremen",
   "surname": "Bremen",
   "forms": {
-   "Adam af Bremen": 3,
    "Adam av Bremen": 2,
-   "Bremen": 1
+   "Bremen": 1,
+   "Adam af Bremen": 3
   },
   "n_full": 5,
   "n_bare": 1,
@@ -29418,18 +29420,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Adam af Bremen": 3
-    },
-    "n_full": 3,
-    "n_bare": 0,
-    "units": [
-     "u00348",
-     "u00350",
-     "u00734"
-    ]
-   },
    "1933b": {
     "forms": {
      "Adam av Bremen": 1,
@@ -29450,6 +29440,18 @@
     "n_bare": 0,
     "units": [
      "u00279"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Adam af Bremen": 3
+    },
+    "n_full": 3,
+    "n_bare": 0,
+    "units": [
+     "u00348",
+     "u00350",
+     "u00734"
     ]
    }
   }
@@ -29748,17 +29750,6 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Elias Brenner": 2
-    },
-    "n_full": 2,
-    "n_bare": 0,
-    "units": [
-     "u00304",
-     "u00352"
-    ]
-   },
    "1933a": {
     "forms": {
      "Elias Brenner": 12,
@@ -29849,6 +29840,17 @@
      "u02795",
      "u02803",
      "u03143"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Elias Brenner": 2
+    },
+    "n_full": 2,
+    "n_bare": 0,
+    "units": [
+     "u00304",
+     "u00352"
     ]
    }
   }
@@ -29990,16 +29992,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Henrik Brenner": 2
-    },
-    "n_full": 2,
-    "n_bare": 0,
-    "units": [
-     "u00352"
-    ]
-   },
    "1935": {
     "forms": {
      "Henrik Brenner": 2,
@@ -30057,6 +30049,16 @@
      "u02024",
      "u02037",
      "u02115"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Henrik Brenner": 2
+    },
+    "n_full": 2,
+    "n_bare": 0,
+    "units": [
+     "u00352"
     ]
    }
   }
@@ -33945,6 +33947,16 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
+   "1933a": {
+    "forms": {
+     "Johan Bure": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u01598"
+    ]
+   },
    "1932": {
     "forms": {
      "Johan Bure": 5,
@@ -33961,16 +33973,6 @@
      "u00567",
      "u00769"
     ]
-   },
-   "1933a": {
-    "forms": {
-     "Johan Bure": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u01598"
-    ]
    }
   }
  },
@@ -33979,10 +33981,10 @@
   "name": "Laurentius Bure",
   "surname": "Bure",
   "forms": {
-   "Laurentius Bure": 3,
    "Lars Bures": 5,
    "Lars Bure": 4,
-   "af Johan Bure": 1
+   "af Johan Bure": 1,
+   "Laurentius Bure": 3
   },
   "n_full": 12,
   "n_bare": 1,
@@ -33993,23 +33995,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Laurentius Bure": 3,
-     "Lars Bures": 1,
-     "Lars Bure": 2
-    },
-    "n_full": 6,
-    "n_bare": 0,
-    "n_ambiguous": 2,
-    "units": [
-     "u00503",
-     "u00536",
-     "u00730",
-     "u00760",
-     "u00761"
-    ]
-   },
    "1933a": {
     "forms": {
      "Lars Bures": 4,
@@ -34026,6 +34011,23 @@
      "u01679",
      "u01684",
      "u01728"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Laurentius Bure": 3,
+     "Lars Bures": 1,
+     "Lars Bure": 2
+    },
+    "n_full": 6,
+    "n_bare": 0,
+    "n_ambiguous": 2,
+    "units": [
+     "u00503",
+     "u00536",
+     "u00730",
+     "u00760",
+     "u00761"
     ]
    }
   }
@@ -34212,17 +34214,18 @@
   "name": "Johannes Bureus",
   "surname": "Bureus",
   "forms": {
-   "Johannes Thomæ Agrivillensis Bureus": 1,
-   "Johannes Bureus": 42,
-   "Johannes Buree": 1,
-   "Johan Bureus": 7,
-   "Johannes Thomæ Bureus": 4,
    "Johan Bureo": 1,
-   "Johannes Jacobi Bureus": 1
+   "Johan Bureus": 7,
+   "Johannes Bureus": 41,
+   "Johannes Jacobi Bureus": 1,
+   "Johannes Thomæ Agrivillensis Bureus": 1,
+   "Johannes Buree": 1,
+   "Johannes Bureus’": 1,
+   "Johannes Thomæ Bureus": 4
   },
   "n_full": 57,
   "n_bare": 0,
-  "n_ambiguous": 351,
+  "n_ambiguous": 350,
   "context_year": 1640,
   "candidates": [
    {
@@ -34252,43 +34255,6 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Johannes Thomæ Agrivillensis Bureus": 1,
-     "Johannes Bureus": 16,
-     "Johannes Buree": 1,
-     "Johan Bureus": 2,
-     "Johannes Thomæ Bureus": 4
-    },
-    "n_full": 24,
-    "n_bare": 0,
-    "n_ambiguous": 297,
-    "units": [
-     "u00134",
-     "u00196",
-     "u00254",
-     "u00255",
-     "u00292",
-     "u00304",
-     "u00367",
-     "u00378",
-     "u00416",
-     "u00421",
-     "u00503",
-     "u00537",
-     "u00540",
-     "u00563",
-     "u00568",
-     "u00671",
-     "u00755",
-     "u00756",
-     "u00764",
-     "u00765",
-     "u00769",
-     "u00844",
-     "u00860"
-    ]
-   },
    "1933a": {
     "forms": {
      "Johan Bureo": 1,
@@ -34350,6 +34316,44 @@
     "units": [
      "u00928"
     ]
+   },
+   "1932": {
+    "forms": {
+     "Johannes Thomæ Agrivillensis Bureus": 1,
+     "Johannes Bureus": 15,
+     "Johannes Buree": 1,
+     "Johannes Bureus’": 1,
+     "Johan Bureus": 2,
+     "Johannes Thomæ Bureus": 4
+    },
+    "n_full": 24,
+    "n_bare": 0,
+    "n_ambiguous": 296,
+    "units": [
+     "u00134",
+     "u00196",
+     "u00254",
+     "u00255",
+     "u00292",
+     "u00304",
+     "u00367",
+     "u00378",
+     "u00416",
+     "u00421",
+     "u00503",
+     "u00537",
+     "u00540",
+     "u00563",
+     "u00568",
+     "u00671",
+     "u00755",
+     "u00756",
+     "u00764",
+     "u00765",
+     "u00769",
+     "u00844",
+     "u00860"
+    ]
    }
   }
  },
@@ -34362,7 +34366,7 @@
   },
   "n_full": 3,
   "n_bare": 0,
-  "n_ambiguous": 297,
+  "n_ambiguous": 296,
   "context_year": 1608,
   "candidates": [],
   "wikidata": null,
@@ -34375,7 +34379,7 @@
     },
     "n_full": 3,
     "n_bare": 0,
-    "n_ambiguous": 297,
+    "n_ambiguous": 296,
     "units": [
      "u00292",
      "u00393"
@@ -34389,12 +34393,12 @@
   "surname": "Bureus",
   "forms": {
    "Laurentius Bureus": 66,
-   "Laurentius Jacobi Bureus": 4,
-   "Laurentius Bureus’": 1
+   "Laurentius Bureus’": 1,
+   "Laurentius Jacobi Bureus": 4
   },
   "n_full": 71,
   "n_bare": 0,
-  "n_ambiguous": 351,
+  "n_ambiguous": 350,
   "context_year": 1658,
   "candidates": [
    {
@@ -34413,43 +34417,6 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Laurentius Bureus": 33,
-     "Laurentius Jacobi Bureus": 4
-    },
-    "n_full": 37,
-    "n_bare": 0,
-    "n_ambiguous": 297,
-    "units": [
-     "u00235",
-     "u00448",
-     "u00492",
-     "u00494",
-     "u00501",
-     "u00502",
-     "u00503",
-     "u00537",
-     "u00542",
-     "u00570",
-     "u00580",
-     "u00602",
-     "u00664",
-     "u00678",
-     "u00726",
-     "u00750",
-     "u00752",
-     "u00754",
-     "u00755",
-     "u00765",
-     "u00769",
-     "u00772",
-     "u00827",
-     "u00833",
-     "u00853",
-     "u00869"
-    ]
-   },
    "1933a": {
     "forms": {
      "Laurentius Bureus": 18
@@ -34510,6 +34477,43 @@
     "n_ambiguous": 4,
     "units": [
      "u00928"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Laurentius Bureus": 33,
+     "Laurentius Jacobi Bureus": 4
+    },
+    "n_full": 37,
+    "n_bare": 0,
+    "n_ambiguous": 296,
+    "units": [
+     "u00235",
+     "u00448",
+     "u00492",
+     "u00494",
+     "u00501",
+     "u00502",
+     "u00503",
+     "u00537",
+     "u00542",
+     "u00570",
+     "u00580",
+     "u00602",
+     "u00664",
+     "u00678",
+     "u00726",
+     "u00750",
+     "u00752",
+     "u00754",
+     "u00755",
+     "u00765",
+     "u00769",
+     "u00772",
+     "u00827",
+     "u00833",
+     "u00853",
+     "u00869"
     ]
    }
   }
@@ -34824,26 +34828,16 @@
   "name": "Johannes Thomæ Buræus",
   "surname": "Buræus",
   "forms": {
-   "Johannes Thomæ Buræus": 1,
-   "Johannes Buræus": 2
+   "Johannes Buræus": 2,
+   "Johannes Thomæ Buræus": 1
   },
   "n_full": 3,
   "n_bare": 0,
-  "context_year": 1682,
+  "context_year": 1646,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Johannes Thomæ Buræus": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00378"
-    ]
-   },
    "1933a": {
     "forms": {
      "Johannes Buræus": 1
@@ -34862,6 +34856,16 @@
     "n_bare": 0,
     "units": [
      "u00612"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Johannes Thomæ Buræus": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00378"
     ]
    }
   }
@@ -35093,21 +35097,11 @@
   },
   "n_full": 0,
   "n_bare": 2,
-  "context_year": null,
+  "context_year": 1585,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Bygdén": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00133"
-    ]
-   },
    "1935": {
     "forms": {
      "Bygdén": 1
@@ -35116,6 +35110,16 @@
     "n_bare": 1,
     "units": [
      "u00926"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Bygdén": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00133"
     ]
    }
   }
@@ -37773,13 +37777,13 @@
   "name": "Carl",
   "surname": "Carl",
   "forms": {
-   "Hertig Carl": 2,
    "Carl": 60,
-   "Hertigh Carl": 1,
-   "Wij Carl": 12,
    "Carls": 6,
    "Hertig Carls": 1,
-   "Konung Carl": 1
+   "Wij Carl": 12,
+   "Hertig Carl": 2,
+   "Konung Carl": 1,
+   "Hertigh Carl": 1
   },
   "n_full": 0,
   "n_bare": 83,
@@ -37845,34 +37849,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Hertig Carl": 1,
-     "Carl": 9,
-     "Hertigh Carl": 1,
-     "Wij Carl": 5
-    },
-    "n_full": 0,
-    "n_bare": 16,
-    "units": [
-     "u00086",
-     "u00088",
-     "u00304",
-     "u00367",
-     "u00368",
-     "u00375",
-     "u00538",
-     "u00677",
-     "u00814",
-     "u00818",
-     "u00822",
-     "u00828",
-     "u00834",
-     "u00838",
-     "u00846",
-     "u00847"
-    ]
-   },
    "1933a": {
     "forms": {
      "Carl": 25,
@@ -37994,6 +37970,34 @@
     "n_bare": 1,
     "units": [
      "u00835"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Hertig Carl": 1,
+     "Carl": 9,
+     "Hertigh Carl": 1,
+     "Wij Carl": 5
+    },
+    "n_full": 0,
+    "n_bare": 16,
+    "units": [
+     "u00086",
+     "u00088",
+     "u00304",
+     "u00367",
+     "u00368",
+     "u00375",
+     "u00538",
+     "u00677",
+     "u00814",
+     "u00818",
+     "u00822",
+     "u00828",
+     "u00834",
+     "u00838",
+     "u00846",
+     "u00847"
     ]
    }
   }
@@ -39139,18 +39143,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Carolus": 5
-    },
-    "n_full": 0,
-    "n_bare": 5,
-    "units": [
-     "u00608",
-     "u00839",
-     "u00850"
-    ]
-   },
    "1933a": {
     "forms": {
      "Carolus": 18
@@ -39184,6 +39176,18 @@
     "n_bare": 1,
     "units": [
      "u00743"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Carolus": 5
+    },
+    "n_full": 0,
+    "n_bare": 5,
+    "units": [
+     "u00608",
+     "u00839",
+     "u00850"
     ]
    }
   }
@@ -42011,16 +42015,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Christen": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00677"
-    ]
-   },
    "1935": {
     "forms": {
      "Christen": 1
@@ -42049,6 +42043,16 @@
     "n_bare": 1,
     "units": [
      "u01591"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Christen": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00677"
     ]
    }
   }
@@ -42754,10 +42758,10 @@
   "surname": "Christina",
   "forms": {
    "Christina": 25,
-   "Wij Christina": 3,
    "Drottning Christina": 2,
    "Christinas": 1,
-   "Drottning Christinas": 1
+   "Drottning Christinas": 1,
+   "Wij Christina": 3
   },
   "n_full": 0,
   "n_bare": 32,
@@ -42790,27 +42794,6 @@
   "status": "auto",
   "manuscripta": "https://www.manuscripta.se/person/100086",
   "vols": {
-   "1932": {
-    "forms": {
-     "Christina": 8,
-     "Wij Christina": 3
-    },
-    "n_full": 0,
-    "n_bare": 11,
-    "units": [
-     "u00487",
-     "u00497",
-     "u00499",
-     "u00511",
-     "u00512",
-     "u00524",
-     "u00526",
-     "u00529",
-     "u00564",
-     "u00568",
-     "u00754"
-    ]
-   },
    "1933a": {
     "forms": {
      "Christina": 6
@@ -42868,6 +42851,27 @@
     "units": [
      "u00331",
      "u01149"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Christina": 8,
+     "Wij Christina": 3
+    },
+    "n_full": 0,
+    "n_bare": 11,
+    "units": [
+     "u00487",
+     "u00497",
+     "u00499",
+     "u00511",
+     "u00512",
+     "u00524",
+     "u00526",
+     "u00529",
+     "u00564",
+     "u00568",
+     "u00754"
     ]
    }
   }
@@ -43027,6 +43031,16 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
+   "1933b": {
+    "forms": {
+     "Christne": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00448"
+    ]
+   },
    "1932": {
     "forms": {
      "Christne": 2
@@ -43036,16 +43050,6 @@
     "units": [
      "u00807",
      "u00814"
-    ]
-   },
-   "1933b": {
-    "forms": {
-     "Christne": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00448"
     ]
    }
   }
@@ -44572,21 +44576,11 @@
   },
   "n_full": 0,
   "n_bare": 3,
-  "context_year": 1668,
+  "context_year": 1666,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Clöster": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00814"
-    ]
-   },
    "1933b": {
     "forms": {
      "Clöster": 1
@@ -44605,6 +44599,16 @@
     "n_bare": 1,
     "units": [
      "u00544"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Clöster": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00814"
     ]
    }
   }
@@ -45136,6 +45140,16 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
+   "1944": {
+    "forms": {
+     "Collijn": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00472"
+    ]
+   },
    "1932": {
     "forms": {
      "Collijn": 3
@@ -45146,16 +45160,6 @@
      "u00158",
      "u00163",
      "u00422"
-    ]
-   },
-   "1944": {
-    "forms": {
-     "Collijn": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00472"
     ]
    }
   }
@@ -49065,12 +49069,12 @@
   "name": "Nils Hufvedson Dal",
   "surname": "Dal",
   "forms": {
-   "Nils Hufvedson Dal": 1,
-   "Dal": 24,
    "Nils Hufwedzson Dal": 4,
    "Nils Hufwudzson Dal": 1,
    "Nils Hufwedsson Dal": 2,
-   "Dals": 7
+   "Dal": 24,
+   "Dals": 7,
+   "Nils Hufvedson Dal": 1
   },
   "n_full": 8,
   "n_bare": 31,
@@ -49092,20 +49096,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Nils Hufvedson Dal": 1,
-     "Dal": 4
-    },
-    "n_full": 1,
-    "n_bare": 4,
-    "units": [
-     "u00609",
-     "u00610",
-     "u00611",
-     "u00628"
-    ]
-   },
    "1935": {
     "forms": {
      "Nils Hufwedzson Dal": 4,
@@ -49135,6 +49125,20 @@
      "u00977",
      "u01132",
      "u02116"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Nils Hufvedson Dal": 1,
+     "Dal": 4
+    },
+    "n_full": 1,
+    "n_bare": 4,
+    "units": [
+     "u00609",
+     "u00610",
+     "u00611",
+     "u00628"
     ]
    }
   }
@@ -49363,8 +49367,8 @@
   "name": "Dalin",
   "surname": "Dalin",
   "forms": {
-   "Dalin": 13,
-   "Dalins": 2
+   "Dalins": 2,
+   "Dalin": 13
   },
   "n_full": 0,
   "n_bare": 15,
@@ -49385,16 +49389,6 @@
   ],
   "wikidata": "Q1373367",
   "vols": {
-   "1932": {
-    "forms": {
-     "Dalin": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00736"
-    ]
-   },
    "1935": {
     "forms": {
      "Dalins": 2,
@@ -49423,6 +49417,16 @@
      "u00338",
      "u00836",
      "u00866"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Dalin": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00736"
     ]
    }
   },
@@ -52175,16 +52179,6 @@
   ],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Dionysius": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00050"
-    ]
-   },
    "1933b": {
     "forms": {
      "Dionysius": 2
@@ -52194,6 +52188,16 @@
     "units": [
      "u00911",
      "u01356"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Dionysius": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00050"
     ]
    }
   },
@@ -52226,17 +52230,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Disa": 2
-    },
-    "n_full": 0,
-    "n_bare": 2,
-    "units": [
-     "u00756",
-     "u00757"
-    ]
-   },
    "1933b": {
     "forms": {
      "Disa": 1
@@ -52255,6 +52248,17 @@
     "n_bare": 1,
     "units": [
      "u00209"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Disa": 2
+    },
+    "n_full": 0,
+    "n_bare": 2,
+    "units": [
+     "u00756",
+     "u00757"
     ]
    }
   }
@@ -53384,6 +53388,16 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
+   "1933a": {
+    "forms": {
+     "Magnus Dureel": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u02071"
+    ]
+   },
    "1932": {
     "forms": {
      "Magnus Dureel": 1,
@@ -53393,16 +53407,6 @@
     "n_bare": 1,
     "units": [
      "u00600"
-    ]
-   },
-   "1933a": {
-    "forms": {
-     "Magnus Dureel": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u02071"
     ]
    }
   }
@@ -54452,18 +54456,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Edda": 3
-    },
-    "n_full": 0,
-    "n_bare": 3,
-    "units": [
-     "u00591",
-     "u00635",
-     "u00761"
-    ]
-   },
    "1933a": {
     "forms": {
      "Edda": 8
@@ -54488,6 +54480,18 @@
     "n_bare": 1,
     "units": [
      "u01096"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Edda": 3
+    },
+    "n_full": 0,
+    "n_bare": 3,
+    "units": [
+     "u00591",
+     "u00635",
+     "u00761"
     ]
    }
   }
@@ -55050,19 +55054,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Edher": 6
-    },
-    "n_full": 0,
-    "n_bare": 6,
-    "units": [
-     "u00424",
-     "u00501",
-     "u00524",
-     "u00568"
-    ]
-   },
    "1933a": {
     "forms": {
      "Edher": 10,
@@ -55090,6 +55081,19 @@
     "units": [
      "u00939",
      "u01421"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Edher": 6
+    },
+    "n_full": 0,
+    "n_bare": 6,
+    "units": [
+     "u00424",
+     "u00501",
+     "u00524",
+     "u00568"
     ]
    }
   }
@@ -55607,16 +55611,6 @@
   ],
   "wikidata": "Q131150275",
   "vols": {
-   "1932": {
-    "forms": {
-     "Jón Eggertsson": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00654"
-    ]
-   },
    "1933a": {
     "forms": {
      "Jón Eggertsson": 3,
@@ -55660,6 +55654,16 @@
      "u00056",
      "u00626",
      "u00749"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Jón Eggertsson": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00654"
     ]
    }
   },
@@ -62343,12 +62347,12 @@
   "name": "Erik",
   "surname": "Erik",
   "forms": {
-   "Eriks": 12,
    "Erik": 11,
+   "Eriks": 12,
+   "Kong Erik": 1,
    "hertig Erik": 2,
    "Her Erik": 1,
-   "herr Erik": 1,
-   "Kong Erik": 1
+   "herr Erik": 1
   },
   "n_full": 0,
   "n_bare": 28,
@@ -62370,29 +62374,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Eriks": 6,
-     "Erik": 5,
-     "hertig Erik": 1,
-     "Her Erik": 1,
-     "herr Erik": 1
-    },
-    "n_full": 0,
-    "n_bare": 14,
-    "units": [
-     "u00053",
-     "u00073",
-     "u00081",
-     "u00086",
-     "u00134",
-     "u00156",
-     "u00343",
-     "u00353",
-     "u00357",
-     "u00809"
-    ]
-   },
    "1933b": {
     "forms": {
      "Erik": 4,
@@ -62436,6 +62417,29 @@
     "n_bare": 1,
     "units": [
      "u01268"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Eriks": 6,
+     "Erik": 5,
+     "hertig Erik": 1,
+     "Her Erik": 1,
+     "herr Erik": 1
+    },
+    "n_full": 0,
+    "n_bare": 14,
+    "units": [
+     "u00053",
+     "u00073",
+     "u00081",
+     "u00086",
+     "u00134",
+     "u00156",
+     "u00343",
+     "u00353",
+     "u00357",
+     "u00809"
     ]
    }
   }
@@ -62944,16 +62948,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Magnus Erikssons": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00066"
-    ]
-   },
    "1933a": {
     "forms": {
      "Magnus Erikssons": 2
@@ -62994,6 +62988,16 @@
     "n_bare": 0,
     "units": [
      "u02734"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Magnus Erikssons": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00066"
     ]
    }
   },
@@ -67466,16 +67470,6 @@
   ],
   "wikidata": "Q741666",
   "vols": {
-   "1932": {
-    "forms": {
-     "Clas Fleming": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00510"
-    ]
-   },
    "1933a": {
     "forms": {
      "Clas Fleming": 2
@@ -67497,6 +67491,16 @@
     "n_ambiguous": 30,
     "units": [
      "u00639"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Clas Fleming": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00510"
     ]
    }
   },
@@ -71633,6 +71637,16 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
+   "1935": {
+    "forms": {
+     "Otto von Friesen": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00780"
+    ]
+   },
    "1932": {
     "forms": {
      "Otto von Friesen": 1,
@@ -71643,16 +71657,6 @@
     "units": [
      "u00152",
      "u00604"
-    ]
-   },
-   "1935": {
-    "forms": {
-     "Otto von Friesen": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00780"
     ]
    }
   }
@@ -73984,24 +73988,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Gahm": 7,
-     "Gahms": 2
-    },
-    "n_full": 0,
-    "n_bare": 9,
-    "units": [
-     "u00396",
-     "u00412",
-     "u00419",
-     "u00492",
-     "u00500",
-     "u00526",
-     "u00800",
-     "u00805"
-    ]
-   },
    "1933a": {
     "forms": {
      "Gahm": 3,
@@ -74055,6 +74041,24 @@
      "u02295",
      "u02402",
      "u02505"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Gahm": 7,
+     "Gahms": 2
+    },
+    "n_full": 0,
+    "n_bare": 9,
+    "units": [
+     "u00396",
+     "u00412",
+     "u00419",
+     "u00492",
+     "u00500",
+     "u00526",
+     "u00800",
+     "u00805"
     ]
    }
   }
@@ -74702,17 +74706,17 @@
   "name": "Magnus Gabriel De la Gardie",
   "surname": "Gardie",
   "forms": {
-   "Magnus Gabriel de la Gardie": 3,
    "Magnus Gabriel De la Gardie": 29,
-   "De la Gardie": 180,
-   "De la Gardies": 39,
-   "la Gardie": 4,
    "Magnus Gabriel De la Gardies": 3,
    "Grefwe Magnus Gabriel De la Gardie": 1,
+   "De la Gardie": 180,
+   "De la Gardies": 39,
    "Gardie": 12,
    "Gardies": 2,
+   "la Gardie": 4,
    "Gref Magnus Gabriel De la Gardie": 1,
    "Magno De la Gardie": 1,
+   "Magnus Gabriel de la Gardie": 3,
    "Magnus dela Gardie": 1
   },
   "n_full": 39,
@@ -74723,54 +74727,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Magnus Gabriel de la Gardie": 1,
-     "Magnus Gabriel De la Gardie": 4,
-     "De la Gardie": 39,
-     "De la Gardies": 10,
-     "la Gardie": 2
-    },
-    "n_full": 5,
-    "n_bare": 51,
-    "bare_probable": 51,
-    "units": [
-     "u00255",
-     "u00492",
-     "u00580",
-     "u00582",
-     "u00597",
-     "u00600",
-     "u00601",
-     "u00602",
-     "u00604",
-     "u00617",
-     "u00619",
-     "u00625",
-     "u00628",
-     "u00629",
-     "u00634",
-     "u00664",
-     "u00673",
-     "u00675",
-     "u00678",
-     "u00679",
-     "u00681",
-     "u00745",
-     "u00750",
-     "u00755",
-     "u00761",
-     "u00763",
-     "u00772",
-     "u00776",
-     "u00778",
-     "u00800",
-     "u00827",
-     "u00830",
-     "u00837",
-     "u00846"
-    ]
-   },
    "1933a": {
     "forms": {
      "Magnus Gabriel De la Gardie": 16,
@@ -74979,6 +74935,54 @@
     "n_ambiguous": 7,
     "units": [
      "u01040"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Magnus Gabriel de la Gardie": 1,
+     "Magnus Gabriel De la Gardie": 4,
+     "De la Gardie": 39,
+     "De la Gardies": 10,
+     "la Gardie": 2
+    },
+    "n_full": 5,
+    "n_bare": 51,
+    "bare_probable": 51,
+    "units": [
+     "u00255",
+     "u00492",
+     "u00580",
+     "u00582",
+     "u00597",
+     "u00600",
+     "u00601",
+     "u00602",
+     "u00604",
+     "u00617",
+     "u00619",
+     "u00625",
+     "u00628",
+     "u00629",
+     "u00634",
+     "u00664",
+     "u00673",
+     "u00675",
+     "u00678",
+     "u00679",
+     "u00681",
+     "u00745",
+     "u00750",
+     "u00755",
+     "u00761",
+     "u00763",
+     "u00772",
+     "u00776",
+     "u00778",
+     "u00800",
+     "u00827",
+     "u00830",
+     "u00837",
+     "u00846"
     ]
    }
   },
@@ -75210,6 +75214,16 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
+   "1943b": {
+    "forms": {
+     "Gautreks": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u01268"
+    ]
+   },
    "1932": {
     "forms": {
      "Gautreks": 3
@@ -75220,16 +75234,6 @@
      "u00639",
      "u00726",
      "u00737"
-    ]
-   },
-   "1943b": {
-    "forms": {
-     "Gautreks": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u01268"
     ]
    }
   }
@@ -77240,26 +77244,16 @@
   "name": "Jacobus Gislonis",
   "surname": "Gislonis",
   "forms": {
-   "Jacobus Gislonis": 1,
-   "Jacobi Gislonis": 1
+   "Jacobi Gislonis": 1,
+   "Jacobus Gislonis": 1
   },
   "n_full": 2,
   "n_bare": 0,
-  "context_year": null,
+  "context_year": 1600,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Jacobus Gislonis": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00088"
-    ]
-   },
    "1933b": {
     "forms": {
      "Jacobi Gislonis": 1
@@ -77268,6 +77262,16 @@
     "n_bare": 0,
     "units": [
      "u00532"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Jacobus Gislonis": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00088"
     ]
    }
   }
@@ -77697,21 +77701,11 @@
   },
   "n_full": 0,
   "n_bare": 2,
-  "context_year": 1768,
+  "context_year": 1630,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Gjörwells": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00419"
-    ]
-   },
    "1935": {
     "forms": {
      "Gjörwells": 1
@@ -77720,6 +77714,16 @@
     "n_bare": 1,
     "units": [
      "u00173"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Gjörwells": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00419"
     ]
    }
   }
@@ -79476,18 +79480,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Anders Grape": 1,
-     "Grape": 1
-    },
-    "n_full": 1,
-    "n_bare": 1,
-    "units": [
-     "u00152",
-     "u00604"
-    ]
-   },
    "1933b": {
     "forms": {
      "Anders Grape": 2,
@@ -79504,6 +79496,18 @@
      "u00731",
      "u01159",
      "u01160"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Anders Grape": 1,
+     "Grape": 1
+    },
+    "n_full": 1,
+    "n_bare": 1,
+    "units": [
+     "u00152",
+     "u00604"
     ]
    }
   }
@@ -80193,17 +80197,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Gretla": 2
-    },
-    "n_full": 0,
-    "n_bare": 2,
-    "units": [
-     "u00734",
-     "u00740"
-    ]
-   },
    "1933a": {
     "forms": {
      "Gretla": 1
@@ -80222,6 +80215,17 @@
     "n_bare": 1,
     "units": [
      "u00695"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Gretla": 2
+    },
+    "n_full": 0,
+    "n_bare": 2,
+    "units": [
+     "u00734",
+     "u00740"
     ]
    }
   }
@@ -80267,17 +80271,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Grettis": 2
-    },
-    "n_full": 0,
-    "n_bare": 2,
-    "units": [
-     "u00591",
-     "u00602"
-    ]
-   },
    "1933b": {
     "forms": {
      "Grettis": 4
@@ -80289,6 +80282,17 @@
      "u00694",
      "u00695",
      "u01469"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Grettis": 2
+    },
+    "n_full": 0,
+    "n_bare": 2,
+    "units": [
+     "u00591",
+     "u00602"
     ]
    }
   }
@@ -81727,16 +81731,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Gudar": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00119"
-    ]
-   },
    "1943a": {
     "forms": {
      "Gudar": 1
@@ -81755,6 +81749,16 @@
     "n_bare": 1,
     "units": [
      "u00836"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Gudar": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00119"
     ]
    }
   }
@@ -82716,16 +82720,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Gull": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00031"
-    ]
-   },
    "1933a": {
     "forms": {
      "Gull": 2
@@ -82793,6 +82787,16 @@
     "units": [
      "u00133",
      "u00298"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Gull": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00031"
     ]
    }
   },
@@ -83323,16 +83327,16 @@
   "name": "Carl Gustaf",
   "surname": "Gustaf",
   "forms": {
-   "Karl Gustaf": 1,
-   "Carl Gustaf": 6,
    "Carl Gustafs": 3,
+   "Carl Gustaf": 6,
    "Gustafs": 12,
    "Gustaf": 26,
    "Carls Gustafs": 1,
    "Konung Gustaf": 1,
    "Konung Gustafs": 1,
    "Karl Gustafs": 4,
-   "Wi Gustaf": 1
+   "Wi Gustaf": 1,
+   "Karl Gustaf": 1
   },
   "n_full": 15,
   "n_bare": 41,
@@ -83409,19 +83413,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Karl Gustaf": 1,
-     "Carl Gustaf": 2
-    },
-    "n_full": 3,
-    "n_bare": 0,
-    "units": [
-     "u00606",
-     "u00761",
-     "u00827"
-    ]
-   },
    "1933a": {
     "forms": {
      "Carl Gustafs": 1,
@@ -83524,6 +83515,19 @@
      "u01352",
      "u01398",
      "u01662"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Karl Gustaf": 1,
+     "Carl Gustaf": 2
+    },
+    "n_full": 3,
+    "n_bare": 0,
+    "units": [
+     "u00606",
+     "u00761",
+     "u00827"
     ]
    }
   }
@@ -83838,11 +83842,11 @@
   "name": "Karl Gustav",
   "surname": "Gustav",
   "forms": {
+   "Karl Gustavs": 8,
+   "Gustavi": 3,
    "Karl Gustav": 2,
    "Gustav": 4,
-   "Gustavs": 1,
-   "Karl Gustavs": 8,
-   "Gustavi": 3
+   "Gustavs": 1
   },
   "n_full": 10,
   "n_bare": 8,
@@ -83908,21 +83912,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Karl Gustav": 1,
-     "Gustav": 2,
-     "Gustavs": 1
-    },
-    "n_full": 1,
-    "n_bare": 3,
-    "units": [
-     "u00028",
-     "u00343",
-     "u00606",
-     "u00853"
-    ]
-   },
    "1933a": {
     "forms": {
      "Karl Gustavs": 2
@@ -83966,6 +83955,21 @@
      "u00602",
      "u00710",
      "u01641"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Karl Gustav": 1,
+     "Gustav": 2,
+     "Gustavs": 1
+    },
+    "n_full": 1,
+    "n_bare": 3,
+    "units": [
+     "u00028",
+     "u00343",
+     "u00606",
+     "u00853"
     ]
    }
   }
@@ -84604,16 +84608,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Gyldenstolpe": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00730"
-    ]
-   },
    "1935": {
     "forms": {
      "Gyldenstolpe": 13,
@@ -84647,6 +84641,16 @@
      "u00788",
      "u00881",
      "u01460"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Gyldenstolpe": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00730"
     ]
    }
   },
@@ -85256,16 +85260,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Gyllengrip": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00304"
-    ]
-   },
    "1935": {
     "forms": {
      "Gyllengrip": 3
@@ -85276,6 +85270,16 @@
      "u01911",
      "u01920",
      "u01922"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Gyllengrip": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00304"
     ]
    }
   },
@@ -86082,40 +86086,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Gödel": 25,
-     "Gödels": 3
-    },
-    "n_full": 0,
-    "n_bare": 28,
-    "units": [
-     "u00293",
-     "u00301",
-     "u00304",
-     "u00312",
-     "u00313",
-     "u00401",
-     "u00415",
-     "u00421",
-     "u00570",
-     "u00599",
-     "u00602",
-     "u00606",
-     "u00638",
-     "u00647",
-     "u00648",
-     "u00649",
-     "u00654",
-     "u00655",
-     "u00659",
-     "u00662",
-     "u00670",
-     "u00761",
-     "u00827",
-     "u00842"
-    ]
-   },
    "1933a": {
     "forms": {
      "Gödel": 15,
@@ -86183,6 +86153,40 @@
     "units": [
      "u00388",
      "u00395"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Gödel": 25,
+     "Gödels": 3
+    },
+    "n_full": 0,
+    "n_bare": 28,
+    "units": [
+     "u00293",
+     "u00301",
+     "u00304",
+     "u00312",
+     "u00313",
+     "u00401",
+     "u00415",
+     "u00421",
+     "u00570",
+     "u00599",
+     "u00602",
+     "u00606",
+     "u00638",
+     "u00647",
+     "u00648",
+     "u00649",
+     "u00654",
+     "u00655",
+     "u00659",
+     "u00662",
+     "u00670",
+     "u00761",
+     "u00827",
+     "u00842"
     ]
    }
   }
@@ -86854,21 +86858,11 @@
   },
   "n_full": 0,
   "n_bare": 2,
-  "context_year": 1827,
+  "context_year": null,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Göt": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00229"
-    ]
-   },
    "1944": {
     "forms": {
      "Göt": 1
@@ -86877,6 +86871,16 @@
     "n_bare": 1,
     "units": [
      "u00892"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Göt": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00229"
     ]
    }
   }
@@ -87063,21 +87067,11 @@
   },
   "n_full": 0,
   "n_bare": 2,
-  "context_year": null,
+  "context_year": 1530,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Göthe": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00056"
-    ]
-   },
    "1943a": {
     "forms": {
      "Göthe": 1
@@ -87086,6 +87080,16 @@
     "n_bare": 1,
     "units": [
      "u01095"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Göthe": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00056"
     ]
    }
   }
@@ -87247,21 +87251,11 @@
   },
   "n_full": 0,
   "n_bare": 3,
-  "context_year": 1753,
+  "context_year": null,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Göthes": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00093"
-    ]
-   },
    "1933b": {
     "forms": {
      "Göthes": 1
@@ -87280,6 +87274,16 @@
     "n_bare": 1,
     "units": [
      "u00271"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Göthes": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00093"
     ]
    }
   }
@@ -88295,10 +88299,10 @@
   "surname": "Hadorph",
   "forms": {
    "Johan Hadorph": 21,
-   "Hadorphs": 177,
-   "Hadorph": 500,
-   "Monsieur Hadorphi": 2,
    "Johan Hadorphs": 3,
+   "Hadorph": 500,
+   "Hadorphs": 177,
+   "Monsieur Hadorphi": 2,
    "Hadorph Sparfwenfeldt": 1,
    "Johan Johanson Hadorph": 3,
    "Hadorphi": 1
@@ -88334,44 +88338,6 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Johan Hadorph": 2,
-     "Hadorphs": 8,
-     "Hadorph": 34,
-     "Monsieur Hadorphi": 1
-    },
-    "n_full": 2,
-    "n_bare": 43,
-    "units": [
-     "u00061",
-     "u00353",
-     "u00492",
-     "u00659",
-     "u00678",
-     "u00679",
-     "u00681",
-     "u00730",
-     "u00740",
-     "u00760",
-     "u00773",
-     "u00775",
-     "u00799",
-     "u00800",
-     "u00805",
-     "u00825",
-     "u00827",
-     "u00830",
-     "u00842",
-     "u00843",
-     "u00844",
-     "u00845",
-     "u00846",
-     "u00848",
-     "u00851",
-     "u00869"
-    ]
-   },
    "1933a": {
     "forms": {
      "Johan Hadorph": 7,
@@ -88775,6 +88741,44 @@
     "units": [
      "u00018",
      "u00023"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Johan Hadorph": 2,
+     "Hadorphs": 8,
+     "Hadorph": 34,
+     "Monsieur Hadorphi": 1
+    },
+    "n_full": 2,
+    "n_bare": 43,
+    "units": [
+     "u00061",
+     "u00353",
+     "u00492",
+     "u00659",
+     "u00678",
+     "u00679",
+     "u00681",
+     "u00730",
+     "u00740",
+     "u00760",
+     "u00773",
+     "u00775",
+     "u00799",
+     "u00800",
+     "u00805",
+     "u00825",
+     "u00827",
+     "u00830",
+     "u00842",
+     "u00843",
+     "u00844",
+     "u00845",
+     "u00846",
+     "u00848",
+     "u00851",
+     "u00869"
     ]
    }
   },
@@ -91510,21 +91514,11 @@
   },
   "n_full": 2,
   "n_bare": 0,
-  "context_year": null,
+  "context_year": 1634,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Jonæ Haquini": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00556"
-    ]
-   },
    "1933a": {
     "forms": {
      "Jonæ Haquini": 1
@@ -91533,6 +91527,16 @@
     "n_bare": 0,
     "units": [
      "u01722"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Jonæ Haquini": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00556"
     ]
    }
   }
@@ -93459,19 +93463,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Olof den heliges": 4
-    },
-    "n_full": 4,
-    "n_bare": 0,
-    "units": [
-     "u00602",
-     "u00726",
-     "u00734",
-     "u00761"
-    ]
-   },
    "1933b": {
     "forms": {
      "Olof den heliges": 2
@@ -93503,6 +93494,19 @@
     "n_bare": 0,
     "units": [
      "u01143"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Olof den heliges": 4
+    },
+    "n_full": 4,
+    "n_bare": 0,
+    "units": [
+     "u00602",
+     "u00726",
+     "u00734",
+     "u00761"
     ]
    }
   }
@@ -95884,16 +95888,6 @@
   ],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Herre": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00424"
-    ]
-   },
    "1933b": {
     "forms": {
      "Herre": 3
@@ -95938,6 +95932,16 @@
      "u00321",
      "u00555",
      "u00869"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Herre": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00424"
     ]
    }
   },
@@ -96210,16 +96214,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Hert": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00375"
-    ]
-   },
    "1933a": {
     "forms": {
      "Hert": 2
@@ -96229,6 +96223,16 @@
     "units": [
      "u02241",
      "u02242"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Hert": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00375"
     ]
    }
   },
@@ -97647,9 +97651,9 @@
   "surname": "Hildebrand",
   "forms": {
    "Hans Hildebrand": 7,
+   "Hans Hildebrands": 1,
    "Hildebrand": 13,
-   "Hildebrands": 4,
-   "Hans Hildebrands": 1
+   "Hildebrands": 4
   },
   "n_full": 8,
   "n_bare": 17,
@@ -97704,30 +97708,6 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Hans Hildebrand": 1,
-     "Hildebrand": 13,
-     "Hildebrands": 4
-    },
-    "n_full": 1,
-    "n_bare": 17,
-    "units": [
-     "u00130",
-     "u00132",
-     "u00142",
-     "u00144",
-     "u00145",
-     "u00153",
-     "u00155",
-     "u00196",
-     "u00198",
-     "u00243",
-     "u00257",
-     "u00372",
-     "u00421"
-    ]
-   },
    "1933b": {
     "forms": {
      "Hans Hildebrand": 1
@@ -97771,6 +97751,30 @@
     "units": [
      "u00164",
      "u00492"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Hans Hildebrand": 1,
+     "Hildebrand": 13,
+     "Hildebrands": 4
+    },
+    "n_full": 1,
+    "n_bare": 17,
+    "units": [
+     "u00130",
+     "u00132",
+     "u00142",
+     "u00144",
+     "u00145",
+     "u00153",
+     "u00155",
+     "u00196",
+     "u00198",
+     "u00243",
+     "u00257",
+     "u00372",
+     "u00421"
     ]
    }
   },
@@ -97870,16 +97874,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Hilfeling": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00552"
-    ]
-   },
    "1936": {
     "forms": {
      "Hilfeling": 1
@@ -97911,6 +97905,16 @@
      "u00195",
      "u00812",
      "u00839"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Hilfeling": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00552"
     ]
    }
   },
@@ -101300,18 +101304,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Hrólfs": 3
-    },
-    "n_full": 0,
-    "n_bare": 3,
-    "units": [
-     "u00639",
-     "u00726",
-     "u00737"
-    ]
-   },
    "1933a": {
     "forms": {
      "Hrólfs": 1
@@ -101330,6 +101322,18 @@
     "n_bare": 1,
     "units": [
      "u02067"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Hrólfs": 3
+    },
+    "n_full": 0,
+    "n_bare": 3,
+    "units": [
+     "u00639",
+     "u00726",
+     "u00737"
     ]
    }
   }
@@ -102415,8 +102419,8 @@
   "name": "Jonas Håkansson",
   "surname": "Håkansson",
   "forms": {
-   "Jonas Håkansson": 3,
-   "Jonas Håkanssons": 1
+   "Jonas Håkanssons": 1,
+   "Jonas Håkansson": 3
   },
   "n_full": 4,
   "n_bare": 0,
@@ -102437,16 +102441,6 @@
   ],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Jonas Håkansson": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00548"
-    ]
-   },
    "1933a": {
     "forms": {
      "Jonas Håkanssons": 1,
@@ -102458,6 +102452,16 @@
      "u01678",
      "u01930",
      "u02009"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Jonas Håkansson": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00548"
     ]
    }
   },
@@ -104660,9 +104664,9 @@
   "name": "Christian den II",
   "surname": "II",
   "forms": {
+   "Christian II": 3,
    "Kristian II": 2,
-   "Christian den II": 1,
-   "Christian II": 3
+   "Christian den II": 1
   },
   "n_full": 6,
   "n_bare": 0,
@@ -104672,17 +104676,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Kristian II": 1,
-     "Christian den II": 1
-    },
-    "n_full": 2,
-    "n_bare": 0,
-    "units": [
-     "u00604"
-    ]
-   },
    "1933a": {
     "forms": {
      "Christian II": 1
@@ -104703,6 +104696,17 @@
     "units": [
      "u00224",
      "u00997"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Kristian II": 1,
+     "Christian den II": 1
+    },
+    "n_full": 2,
+    "n_bare": 0,
+    "units": [
+     "u00604"
     ]
    }
   }
@@ -104838,16 +104842,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Kristiern II": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00366"
-    ]
-   },
    "1933a": {
     "forms": {
      "Kristiern II": 1
@@ -104876,6 +104870,16 @@
     "n_bare": 0,
     "units": [
      "u00179"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Kristiern II": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00366"
     ]
    }
   },
@@ -105536,8 +105540,8 @@
   "name": "Johan III",
   "surname": "III",
   "forms": {
-   "Johan III": 14,
    "Johan den III": 1,
+   "Johan III": 14,
    "Johan IIIs": 1,
    "Konung Johan III": 2
   },
@@ -105549,19 +105553,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Johan III": 4
-    },
-    "n_full": 4,
-    "n_bare": 0,
-    "units": [
-     "u00029",
-     "u00085",
-     "u00134",
-     "u00406"
-    ]
-   },
    "1935": {
     "forms": {
      "Johan den III": 1
@@ -105618,6 +105609,19 @@
     "units": [
      "u01131",
      "u01132"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Johan III": 4
+    },
+    "n_full": 4,
+    "n_bare": 0,
+    "units": [
+     "u00029",
+     "u00085",
+     "u00134",
+     "u00406"
     ]
    }
   },
@@ -105870,19 +105874,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Johan III:s": 4
-    },
-    "n_full": 4,
-    "n_bare": 0,
-    "units": [
-     "u00087",
-     "u00088",
-     "u00359",
-     "u00856"
-    ]
-   },
    "1933b": {
     "forms": {
      "Johan III:s": 1
@@ -105928,6 +105919,19 @@
      "u01229",
      "u01242",
      "u01506"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Johan III:s": 4
+    },
+    "n_full": 4,
+    "n_bare": 0,
+    "units": [
+     "u00087",
+     "u00088",
+     "u00359",
+     "u00856"
     ]
    }
   }
@@ -106051,17 +106055,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Inge": 3
-    },
-    "n_full": 0,
-    "n_bare": 3,
-    "units": [
-     "u00041",
-     "u00071"
-    ]
-   },
    "1933a": {
     "forms": {
      "Inge": 2
@@ -106090,6 +106083,17 @@
     "n_bare": 2,
     "units": [
      "u01529"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Inge": 3
+    },
+    "n_full": 0,
+    "n_bare": 3,
+    "units": [
+     "u00041",
+     "u00071"
     ]
    }
   }
@@ -106422,16 +106426,6 @@
   ],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Ingo": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00071"
-    ]
-   },
    "1943b": {
     "forms": {
      "Ingo": 2
@@ -106440,6 +106434,16 @@
     "n_bare": 2,
     "units": [
      "u00875"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Ingo": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00071"
     ]
    }
   },
@@ -107091,9 +107095,9 @@
   "name": "Jonas Islandus",
   "surname": "Islandus",
   "forms": {
-   "Jonas Jonæ Rugmannus Islandus": 1,
    "Jonas Islandus": 5,
-   "Jonas Rugman Islandus": 1
+   "Jonas Rugman Islandus": 1,
+   "Jonas Jonæ Rugmannus Islandus": 1
   },
   "n_full": 7,
   "n_bare": 0,
@@ -107103,20 +107107,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Jonas Jonæ Rugmannus Islandus": 1,
-     "Jonas Islandus": 3
-    },
-    "n_full": 4,
-    "n_bare": 0,
-    "units": [
-     "u00611",
-     "u00622",
-     "u00624",
-     "u00660"
-    ]
-   },
    "1933a": {
     "forms": {
      "Jonas Islandus": 2
@@ -107135,6 +107125,20 @@
     "n_full": 1,
     "n_bare": 0,
     "units": [
+     "u00660"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Jonas Jonæ Rugmannus Islandus": 1,
+     "Jonas Islandus": 3
+    },
+    "n_full": 4,
+    "n_bare": 0,
+    "units": [
+     "u00611",
+     "u00622",
+     "u00624",
      "u00660"
     ]
    }
@@ -107584,9 +107588,9 @@
   "name": "Karl IX",
   "surname": "IX",
   "forms": {
-   "Karl IX": 14,
    "Carl IX": 8,
    "konung Carl IX": 1,
+   "Karl IX": 14,
    "Konung Carl IX": 2,
    "Carl den IX": 1
   },
@@ -107621,23 +107625,6 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Karl IX": 11
-    },
-    "n_full": 11,
-    "n_bare": 0,
-    "units": [
-     "u00085",
-     "u00088",
-     "u00186",
-     "u00242",
-     "u00317",
-     "u00332",
-     "u00372",
-     "u00492"
-    ]
-   },
    "1933a": {
     "forms": {
      "Carl IX": 2,
@@ -107693,6 +107680,23 @@
      "u00172",
      "u01292"
     ]
+   },
+   "1932": {
+    "forms": {
+     "Karl IX": 11
+    },
+    "n_full": 11,
+    "n_bare": 0,
+    "units": [
+     "u00085",
+     "u00088",
+     "u00186",
+     "u00242",
+     "u00317",
+     "u00332",
+     "u00372",
+     "u00492"
+    ]
    }
   }
  },
@@ -107740,20 +107744,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Karl IX:s": 5
-    },
-    "n_full": 5,
-    "n_bare": 0,
-    "units": [
-     "u00087",
-     "u00090",
-     "u00292",
-     "u00355",
-     "u00856"
-    ]
-   },
    "1933a": {
     "forms": {
      "Karl IX:s": 1
@@ -107835,6 +107825,20 @@
      "u01183",
      "u01242",
      "u01263"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Karl IX:s": 5
+    },
+    "n_full": 5,
+    "n_bare": 0,
+    "units": [
+     "u00087",
+     "u00090",
+     "u00292",
+     "u00355",
+     "u00856"
     ]
    }
   }
@@ -109218,21 +109222,11 @@
   },
   "n_full": 0,
   "n_bare": 4,
-  "context_year": 1741,
+  "context_year": 1606,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Japhets": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00090"
-    ]
-   },
    "1933b": {
     "forms": {
      "Japhets": 1
@@ -109261,6 +109255,16 @@
     "n_bare": 1,
     "units": [
      "u00209"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Japhets": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00090"
     ]
    }
   }
@@ -111118,16 +111122,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Johanne": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00501"
-    ]
-   },
    "1933a": {
     "forms": {
      "Johanne": 1
@@ -111150,6 +111144,16 @@
      "u01057",
      "u01121"
     ]
+   },
+   "1932": {
+    "forms": {
+     "Johanne": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00501"
+    ]
    }
   },
   "manuscripta": null
@@ -111159,8 +111163,8 @@
   "name": "Johannes",
   "surname": "Johannes",
   "forms": {
-   "Johannes": 17,
    "Johannis": 12,
+   "Johannes": 17,
    "JOHANNES": 2
   },
   "n_full": 0,
@@ -111205,32 +111209,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Johannes": 9,
-     "Johannis": 8
-    },
-    "n_full": 0,
-    "n_bare": 17,
-    "units": [
-     "u00051",
-     "u00053",
-     "u00079",
-     "u00236",
-     "u00255",
-     "u00343",
-     "u00357",
-     "u00378",
-     "u00501",
-     "u00537",
-     "u00570",
-     "u00730",
-     "u00755",
-     "u00768",
-     "u00774",
-     "u00828"
-    ]
-   },
    "1933a": {
     "forms": {
      "Johannis": 3,
@@ -111272,6 +111250,32 @@
     "units": [
      "u01244",
      "u01259"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Johannes": 9,
+     "Johannis": 8
+    },
+    "n_full": 0,
+    "n_bare": 17,
+    "units": [
+     "u00051",
+     "u00053",
+     "u00079",
+     "u00236",
+     "u00255",
+     "u00343",
+     "u00357",
+     "u00378",
+     "u00501",
+     "u00537",
+     "u00570",
+     "u00730",
+     "u00755",
+     "u00768",
+     "u00774",
+     "u00828"
     ]
    }
   }
@@ -111385,6 +111389,16 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
+   "1933a": {
+    "forms": {
+     "Johanni": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00106"
+    ]
+   },
    "1932": {
     "forms": {
      "Johanni": 3
@@ -111395,16 +111409,6 @@
      "u00375",
      "u00378",
      "u00830"
-    ]
-   },
-   "1933a": {
-    "forms": {
-     "Johanni": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00106"
     ]
    }
   }
@@ -112215,17 +112219,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Jonas": 2
-    },
-    "n_full": 0,
-    "n_bare": 2,
-    "units": [
-     "u00293",
-     "u00623"
-    ]
-   },
    "1933b": {
     "forms": {
      "Jonas": 3
@@ -112246,6 +112239,17 @@
     "n_bare": 1,
     "units": [
      "u00155"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Jonas": 2
+    },
+    "n_full": 0,
+    "n_bare": 2,
+    "units": [
+     "u00293",
+     "u00623"
     ]
    }
   }
@@ -113141,25 +113145,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Jordanes": 11
-    },
-    "n_full": 0,
-    "n_bare": 11,
-    "units": [
-     "u00036",
-     "u00038",
-     "u00039",
-     "u00042",
-     "u00044",
-     "u00048",
-     "u00055",
-     "u00065",
-     "u00073",
-     "u00116"
-    ]
-   },
    "1933b": {
     "forms": {
      "Jordanes": 2
@@ -113199,6 +113184,25 @@
     "n_bare": 2,
     "units": [
      "u01458"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Jordanes": 11
+    },
+    "n_full": 0,
+    "n_bare": 11,
+    "units": [
+     "u00036",
+     "u00038",
+     "u00039",
+     "u00042",
+     "u00044",
+     "u00048",
+     "u00055",
+     "u00065",
+     "u00073",
+     "u00116"
     ]
    }
   }
@@ -113710,21 +113714,11 @@
   },
   "n_full": 0,
   "n_bare": 2,
-  "context_year": null,
+  "context_year": 1601,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Judit": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00407"
-    ]
-   },
    "1936": {
     "forms": {
      "Judit": 1
@@ -113733,6 +113727,16 @@
     "n_bare": 1,
     "units": [
      "u01476"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Judit": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00407"
     ]
    }
   }
@@ -114388,18 +114392,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Franciscus Junius": 1,
-     "Junius": 1
-    },
-    "n_full": 1,
-    "n_bare": 1,
-    "units": [
-     "u00604",
-     "u00733"
-    ]
-   },
    "1933b": {
     "forms": {
      "Franciscus Junius": 2,
@@ -114410,6 +114402,18 @@
     "units": [
      "u00681",
      "u00682"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Franciscus Junius": 1,
+     "Junius": 1
+    },
+    "n_full": 1,
+    "n_bare": 1,
+    "units": [
+     "u00604",
+     "u00733"
     ]
    }
   }
@@ -115041,6 +115045,16 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
+   "1933a": {
+    "forms": {
+     "Arngrímur Jónsson": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00316"
+    ]
+   },
    "1932": {
     "forms": {
      "Arngrímur Jónsson": 4
@@ -115052,16 +115066,6 @@
      "u00591",
      "u00595",
      "u00862"
-    ]
-   },
-   "1933a": {
-    "forms": {
-     "Arngrímur Jónsson": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00316"
     ]
    }
   }
@@ -117045,6 +117049,16 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
+   "1933a": {
+    "forms": {
+     "Karlamagnus": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u01459"
+    ]
+   },
    "1932": {
     "forms": {
      "Karlamagnus": 2
@@ -117054,16 +117068,6 @@
     "units": [
      "u00305",
      "u00312"
-    ]
-   },
-   "1933a": {
-    "forms": {
-     "Karlamagnus": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u01459"
     ]
    }
   }
@@ -118458,16 +118462,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Kgl": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00019"
-    ]
-   },
    "1933a": {
     "forms": {
      "Kgl": 1
@@ -118487,6 +118481,16 @@
     "units": [
      "u00490",
      "u00922"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Kgl": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00019"
     ]
    }
   },
@@ -119256,21 +119260,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Klemming": 4,
-     "Klemmings": 1
-    },
-    "n_full": 0,
-    "n_bare": 5,
-    "units": [
-     "u00129",
-     "u00189",
-     "u00257",
-     "u00290",
-     "u00599"
-    ]
-   },
    "1933a": {
     "forms": {
      "Klemming": 3
@@ -119300,6 +119289,21 @@
     "n_bare": 1,
     "units": [
      "u01001"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Klemming": 4,
+     "Klemmings": 1
+    },
+    "n_full": 0,
+    "n_bare": 5,
+    "units": [
+     "u00129",
+     "u00189",
+     "u00257",
+     "u00290",
+     "u00599"
     ]
    }
   }
@@ -120638,8 +120642,8 @@
   "name": "Karl Knutssons",
   "surname": "Knutssons",
   "forms": {
-   "Karl Knutssons": 8,
    "Karls Knutssons": 1,
+   "Karl Knutssons": 8,
    "Konung Carl Knutssons": 3,
    "Carl Knutssons": 1
   },
@@ -120650,16 +120654,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Karl Knutssons": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00366"
-    ]
-   },
    "1933a": {
     "forms": {
      "Karls Knutssons": 1
@@ -120706,6 +120700,16 @@
     "units": [
      "u00107",
      "u02242"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Karl Knutssons": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00366"
     ]
    }
   },
@@ -121422,17 +121426,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Hans Kongl": 4
-    },
-    "n_full": 4,
-    "n_bare": 0,
-    "units": [
-     "u00819",
-     "u00823"
-    ]
-   },
    "1933a": {
     "forms": {
      "Hans Kongl": 5
@@ -121531,6 +121524,17 @@
     "units": [
      "u01033",
      "u01376"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Hans Kongl": 4
+    },
+    "n_full": 4,
+    "n_bare": 0,
+    "units": [
+     "u00819",
+     "u00823"
     ]
    }
   },
@@ -122370,6 +122374,16 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
+   "1933b": {
+    "forms": {
+     "Kringla": 2
+    },
+    "n_full": 0,
+    "n_bare": 2,
+    "units": [
+     "u00690"
+    ]
+   },
    "1932": {
     "forms": {
      "Kringla": 3,
@@ -122381,16 +122395,6 @@
      "u00339",
      "u00340",
      "u00585"
-    ]
-   },
-   "1933b": {
-    "forms": {
-     "Kringla": 2
-    },
-    "n_full": 0,
-    "n_bare": 2,
-    "units": [
-     "u00690"
     ]
    }
   }
@@ -122503,8 +122507,8 @@
   "surname": "Kristina",
   "forms": {
    "Kristina": 14,
-   "Drottning Kristina": 1,
-   "Kristinas": 6
+   "Kristinas": 6,
+   "Drottning Kristina": 1
   },
   "n_full": 0,
   "n_bare": 21,
@@ -122537,24 +122541,6 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Kristina": 5,
-     "Drottning Kristina": 1,
-     "Kristinas": 5
-    },
-    "n_full": 0,
-    "n_bare": 11,
-    "units": [
-     "u00308",
-     "u00600",
-     "u00601",
-     "u00604",
-     "u00667",
-     "u00669",
-     "u00755"
-    ]
-   },
    "1933a": {
     "forms": {
      "Kristina": 1
@@ -122599,6 +122585,24 @@
     "units": [
      "u00602",
      "u00895"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Kristina": 5,
+     "Drottning Kristina": 1,
+     "Kristinas": 5
+    },
+    "n_full": 0,
+    "n_bare": 11,
+    "units": [
+     "u00308",
+     "u00600",
+     "u00601",
+     "u00604",
+     "u00667",
+     "u00669",
+     "u00755"
     ]
    }
   }
@@ -122736,19 +122740,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Kristoffers": 4
-    },
-    "n_full": 0,
-    "n_bare": 4,
-    "units": [
-     "u00046",
-     "u00055",
-     "u00292",
-     "u00548"
-    ]
-   },
    "1933a": {
     "forms": {
      "Kristoffers": 2
@@ -122768,6 +122759,19 @@
     "n_bare": 1,
     "units": [
      "u02734"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Kristoffers": 4
+    },
+    "n_full": 0,
+    "n_bare": 4,
+    "units": [
+     "u00046",
+     "u00055",
+     "u00292",
+     "u00548"
     ]
    }
   }
@@ -124739,17 +124743,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Magni Ladulåses": 2
-    },
-    "n_full": 2,
-    "n_bare": 0,
-    "units": [
-     "u00807",
-     "u00809"
-    ]
-   },
    "1933a": {
     "forms": {
      "Magni Ladulåses": 1
@@ -124774,6 +124767,17 @@
      "u01076",
      "u01099",
      "u01104"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Magni Ladulåses": 2
+    },
+    "n_full": 2,
+    "n_bare": 0,
+    "units": [
+     "u00807",
+     "u00809"
     ]
    }
   }
@@ -126271,16 +126275,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Landz": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00556"
-    ]
-   },
    "1933a": {
     "forms": {
      "Landz": 2
@@ -126290,6 +126284,16 @@
     "units": [
      "u00147",
      "u00423"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Landz": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00556"
     ]
    }
   },
@@ -127553,16 +127557,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Latijn": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00184"
-    ]
-   },
    "1933b": {
     "forms": {
      "Latijn": 1
@@ -127571,6 +127565,16 @@
     "n_bare": 1,
     "units": [
      "u00640"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Latijn": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00184"
     ]
    }
   }
@@ -128867,16 +128871,6 @@
   ],
   "wikidata": "Q5606129",
   "vols": {
-   "1932": {
-    "forms": {
-     "Sven Leijonmarck": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00417"
-    ]
-   },
    "1933a": {
     "forms": {
      "Sven Leijonmarck": 1,
@@ -128910,6 +128904,16 @@
      "u00560",
      "u00583",
      "u00626"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Sven Leijonmarck": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00417"
     ]
    }
   },
@@ -130722,21 +130726,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Liljegren": 10,
-     "Liljegrens": 1
-    },
-    "n_full": 0,
-    "n_bare": 11,
-    "units": [
-     "u00144",
-     "u00145",
-     "u00146",
-     "u00186",
-     "u00421"
-    ]
-   },
    "1935": {
     "forms": {
      "Liljegren": 1
@@ -130756,6 +130745,21 @@
     "units": [
      "u03278",
      "u03346"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Liljegren": 10,
+     "Liljegrens": 1
+    },
+    "n_full": 0,
+    "n_bare": 11,
+    "units": [
+     "u00144",
+     "u00145",
+     "u00146",
+     "u00186",
+     "u00421"
     ]
    }
   }
@@ -133478,21 +133482,11 @@
   },
   "n_full": 0,
   "n_bare": 2,
-  "context_year": 1752,
+  "context_year": 1700,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Linnés": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00471"
-    ]
-   },
    "1935": {
     "forms": {
      "Linnés": 1
@@ -133501,6 +133495,16 @@
     "n_bare": 1,
     "units": [
      "u02032"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Linnés": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00471"
     ]
    }
   }
@@ -134443,21 +134447,11 @@
   },
   "n_full": 3,
   "n_bare": 0,
-  "context_year": null,
+  "context_year": 1300,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Ragnar Lodbrok": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00071"
-    ]
-   },
    "1943a": {
     "forms": {
      "Ragnar Lodbrok": 1
@@ -134477,6 +134471,16 @@
     "units": [
      "u01159"
     ]
+   },
+   "1932": {
+    "forms": {
+     "Ragnar Lodbrok": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00071"
+    ]
    }
   }
  },
@@ -134494,16 +134498,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Ragnar Lodbroks": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00742"
-    ]
-   },
    "1933a": {
     "forms": {
      "Ragnar Lodbroks": 1
@@ -134544,6 +134538,16 @@
     "n_bare": 0,
     "units": [
      "u00592"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Ragnar Lodbroks": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00742"
     ]
    }
   },
@@ -135214,21 +135218,11 @@
   },
   "n_full": 0,
   "n_bare": 3,
-  "context_year": 1698,
+  "context_year": 1589,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Lucas": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00164"
-    ]
-   },
    "1933b": {
     "forms": {
      "Lucas": 1
@@ -135247,6 +135241,16 @@
     "n_bare": 1,
     "units": [
      "u00760"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Lucas": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00164"
     ]
    }
   }
@@ -135475,6 +135479,16 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
+   "1933a": {
+    "forms": {
+     "Rasmus Ludvigsson": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u01465"
+    ]
+   },
    "1932": {
     "forms": {
      "Rasmus Ludvigsson": 2
@@ -135484,16 +135498,6 @@
     "units": [
      "u00366",
      "u00367"
-    ]
-   },
-   "1933a": {
-    "forms": {
-     "Rasmus Ludvigsson": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u01465"
     ]
    }
   }
@@ -135513,18 +135517,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Rasmus Ludvigssons": 4
-    },
-    "n_full": 4,
-    "n_bare": 0,
-    "units": [
-     "u00366",
-     "u00367",
-     "u00368"
-    ]
-   },
    "1933a": {
     "forms": {
      "Rasmus Ludvigssons": 4
@@ -135536,6 +135528,18 @@
      "u01444",
      "u01455",
      "u01457"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Rasmus Ludvigssons": 4
+    },
+    "n_full": 4,
+    "n_bare": 0,
+    "units": [
+     "u00366",
+     "u00367",
+     "u00368"
     ]
    }
   }
@@ -137537,18 +137541,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Löhn": 3
-    },
-    "n_full": 0,
-    "n_bare": 3,
-    "units": [
-     "u00537",
-     "u00677",
-     "u00834"
-    ]
-   },
    "1933b": {
     "forms": {
      "Löhn": 2
@@ -137591,6 +137583,18 @@
     "n_bare": 1,
     "units": [
      "u02295"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Löhn": 3
+    },
+    "n_full": 0,
+    "n_bare": 3,
+    "units": [
+     "u00537",
+     "u00677",
+     "u00834"
     ]
    }
   }
@@ -138469,12 +138473,12 @@
   "name": "Johannes Magni",
   "surname": "Magni",
   "forms": {
-   "Johannes Magnis": 47,
-   "Johannes Magni": 83,
-   "Johannis Magni": 3,
-   "Johannis Magnis": 1,
    "Johan Magni": 1,
-   "Konung Magni": 1
+   "Johannes Magni": 83,
+   "Johannes Magnis": 47,
+   "Johannis Magni": 3,
+   "Konung Magni": 1,
+   "Johannis Magnis": 1
   },
   "n_full": 135,
   "n_bare": 1,
@@ -138485,6 +138489,55 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
+   "1933a": {
+    "forms": {
+     "Johan Magni": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u02352"
+    ]
+   },
+   "1933b": {
+    "forms": {
+     "Johannes Magni": 12,
+     "Johannes Magnis": 5
+    },
+    "n_full": 17,
+    "n_bare": 0,
+    "n_ambiguous": 1,
+    "units": [
+     "u00145",
+     "u01094",
+     "u01145",
+     "u01157",
+     "u01187",
+     "u01189",
+     "u01195",
+     "u01233",
+     "u01315",
+     "u01321",
+     "u01331",
+     "u01356",
+     "u01362"
+    ]
+   },
+   "1943b": {
+    "forms": {
+     "Johannes Magni": 1,
+     "Johannes Magnis": 1,
+     "Johannis Magni": 2,
+     "Konung Magni": 1
+    },
+    "n_full": 4,
+    "n_bare": 1,
+    "units": [
+     "u00266",
+     "u00875",
+     "u01613"
+    ]
+   },
    "1932": {
     "forms": {
      "Johannes Magnis": 41,
@@ -138539,55 +138592,6 @@
      "u00726",
      "u00727",
      "u00856"
-    ]
-   },
-   "1933a": {
-    "forms": {
-     "Johan Magni": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u02352"
-    ]
-   },
-   "1933b": {
-    "forms": {
-     "Johannes Magni": 12,
-     "Johannes Magnis": 5
-    },
-    "n_full": 17,
-    "n_bare": 0,
-    "n_ambiguous": 1,
-    "units": [
-     "u00145",
-     "u01094",
-     "u01145",
-     "u01157",
-     "u01187",
-     "u01189",
-     "u01195",
-     "u01233",
-     "u01315",
-     "u01321",
-     "u01331",
-     "u01356",
-     "u01362"
-    ]
-   },
-   "1943b": {
-    "forms": {
-     "Johannes Magni": 1,
-     "Johannes Magnis": 1,
-     "Johannis Magni": 2,
-     "Konung Magni": 1
-    },
-    "n_full": 4,
-    "n_bare": 1,
-    "units": [
-     "u00266",
-     "u00875",
-     "u01613"
     ]
    }
   }
@@ -138649,11 +138653,11 @@
   "name": "Olaus Magni",
   "surname": "Magni",
   "forms": {
-   "Olaus Magni": 7,
-   "Olaus Magnis": 2,
-   "Olavus Magni": 1,
    "Olai Magni": 2,
-   "Magni": 3
+   "Magni": 3,
+   "Olaus Magnis": 2,
+   "Olaus Magni": 7,
+   "Olavus Magni": 1
   },
   "n_full": 12,
   "n_bare": 3,
@@ -138720,24 +138724,6 @@
   "status": "auto",
   "manuscripta": "https://www.manuscripta.se/person/100476",
   "vols": {
-   "1932": {
-    "forms": {
-     "Olaus Magni": 7,
-     "Olaus Magnis": 1,
-     "Olavus Magni": 1
-    },
-    "n_full": 9,
-    "n_bare": 0,
-    "n_ambiguous": 5,
-    "units": [
-     "u00026",
-     "u00081",
-     "u00178",
-     "u00255",
-     "u00343",
-     "u00346"
-    ]
-   },
    "1933a": {
     "forms": {
      "Olai Magni": 2,
@@ -138762,6 +138748,24 @@
     "n_bare": 0,
     "units": [
      "u01228"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Olaus Magni": 7,
+     "Olaus Magnis": 1,
+     "Olavus Magni": 1
+    },
+    "n_full": 9,
+    "n_bare": 0,
+    "n_ambiguous": 5,
+    "units": [
+     "u00026",
+     "u00081",
+     "u00178",
+     "u00255",
+     "u00343",
+     "u00346"
     ]
    }
   }
@@ -139061,10 +139065,10 @@
   "name": "Johanne Magnus",
   "surname": "Magnus",
   "forms": {
-   "Johannes Magnus": 5,
    "Johanne Magno": 3,
-   "Magnus": 1,
-   "Konung Magnus": 1
+   "Johannes Magnus": 5,
+   "Konung Magnus": 1,
+   "Magnus": 1
   },
   "n_full": 8,
   "n_bare": 2,
@@ -139074,22 +139078,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Johannes Magnus": 1,
-     "Johanne Magno": 2,
-     "Magnus": 1
-    },
-    "n_full": 3,
-    "n_bare": 1,
-    "bare_probable": 1,
-    "units": [
-     "u00055",
-     "u00670",
-     "u00695",
-     "u00748"
-    ]
-   },
    "1933a": {
     "forms": {
      "Johanne Magno": 1
@@ -139132,6 +139120,22 @@
      "u01127",
      "u01614"
     ]
+   },
+   "1932": {
+    "forms": {
+     "Johannes Magnus": 1,
+     "Johanne Magno": 2,
+     "Magnus": 1
+    },
+    "n_full": 3,
+    "n_bare": 1,
+    "bare_probable": 1,
+    "units": [
+     "u00055",
+     "u00670",
+     "u00695",
+     "u00748"
+    ]
    }
   }
  },
@@ -139166,8 +139170,8 @@
   "name": "Olaus Magnus",
   "surname": "Magnus",
   "forms": {
-   "Olao Magno": 5,
    "Olaus Magnus": 5,
+   "Olao Magno": 5,
    "Gref Magnus": 1,
    "Magnus": 2
   },
@@ -139201,16 +139205,6 @@
   ],
   "wikidata": "Q315804",
   "vols": {
-   "1932": {
-    "forms": {
-     "Olao Magno": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00680"
-    ]
-   },
    "1933a": {
     "forms": {
      "Olaus Magnus": 5,
@@ -139243,6 +139237,16 @@
     "units": [
      "u00597",
      "u01252"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Olao Magno": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00680"
     ]
    }
   },
@@ -139696,8 +139700,8 @@
   "name": "Magog",
   "surname": "Magog",
   "forms": {
-   "Magogs": 2,
-   "Magog": 6
+   "Magog": 6,
+   "Magogs": 2
   },
   "n_full": 0,
   "n_bare": 8,
@@ -139719,20 +139723,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Magogs": 2,
-     "Magog": 3
-    },
-    "n_full": 0,
-    "n_bare": 5,
-    "units": [
-     "u00073",
-     "u00075",
-     "u00090",
-     "u00357"
-    ]
-   },
    "1935": {
     "forms": {
      "Magog": 1
@@ -139751,6 +139741,20 @@
     "n_bare": 2,
     "units": [
      "u00336"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Magogs": 2,
+     "Magog": 3
+    },
+    "n_full": 0,
+    "n_bare": 5,
+    "units": [
+     "u00073",
+     "u00075",
+     "u00090",
+     "u00357"
     ]
    }
   }
@@ -141044,21 +141048,11 @@
   },
   "n_full": 0,
   "n_bare": 3,
-  "context_year": 1787,
+  "context_year": 1528,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Margaretha": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00028"
-    ]
-   },
    "1935": {
     "forms": {
      "Margaretha": 1
@@ -141077,6 +141071,16 @@
     "n_bare": 1,
     "units": [
      "u01444"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Margaretha": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00028"
     ]
    }
   }
@@ -142068,9 +142072,9 @@
   "name": "Johannes Martini",
   "surname": "Martini",
   "forms": {
-   "Johannes Martini": 2,
    "Johannis Buræi Dito Jonæ Haquini Dito Martini": 1,
-   "Martini": 1
+   "Martini": 1,
+   "Johannes Martini": 2
   },
   "n_full": 3,
   "n_bare": 1,
@@ -142125,17 +142129,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Johannes Martini": 2
-    },
-    "n_full": 2,
-    "n_bare": 0,
-    "units": [
-     "u00336",
-     "u00357"
-    ]
-   },
    "1933a": {
     "forms": {
      "Johannis Buræi Dito Jonæ Haquini Dito Martini": 1,
@@ -142146,6 +142139,17 @@
     "units": [
      "u01814",
      "u01815"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Johannes Martini": 2
+    },
+    "n_full": 2,
+    "n_bare": 0,
+    "units": [
+     "u00336",
+     "u00357"
     ]
    }
   }
@@ -144205,13 +144209,14 @@
   "name": "Johannes Messenius",
   "surname": "Messenius",
   "forms": {
-   "JOHANNES MESSENIUS": 1,
-   "Messenius": 114,
-   "Bureus Messenius": 1,
    "Johannes Messenius": 3,
    "Johan Messenius": 3,
+   "Messenius": 113,
    "Johanne Messenio": 1,
-   "Johan Messenio": 2
+   "Johan Messenio": 2,
+   "JOHANNES MESSENIUS": 1,
+   "Bureus Messenius": 1,
+   "Messenius’": 1
   },
   "n_full": 10,
   "n_bare": 115,
@@ -144233,56 +144238,6 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "JOHANNES MESSENIUS": 1,
-     "Messenius": 77,
-     "Bureus Messenius": 1
-    },
-    "n_full": 1,
-    "n_bare": 78,
-    "units": [
-     "u00125",
-     "u00128",
-     "u00156",
-     "u00305",
-     "u00308",
-     "u00309",
-     "u00317",
-     "u00324",
-     "u00328",
-     "u00329",
-     "u00330",
-     "u00331",
-     "u00332",
-     "u00333",
-     "u00334",
-     "u00336",
-     "u00339",
-     "u00340",
-     "u00343",
-     "u00345",
-     "u00346",
-     "u00349",
-     "u00350",
-     "u00352",
-     "u00353",
-     "u00354",
-     "u00355",
-     "u00357",
-     "u00359",
-     "u00360",
-     "u00361",
-     "u00362",
-     "u00368",
-     "u00407",
-     "u00585",
-     "u00600",
-     "u00670",
-     "u00857",
-     "u00858"
-    ]
-   },
    "1933a": {
     "forms": {
      "Johannes Messenius": 1,
@@ -144344,6 +144299,57 @@
     "n_bare": 0,
     "units": [
      "u00849"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "JOHANNES MESSENIUS": 1,
+     "Messenius": 76,
+     "Bureus Messenius": 1,
+     "Messenius’": 1
+    },
+    "n_full": 1,
+    "n_bare": 78,
+    "units": [
+     "u00125",
+     "u00128",
+     "u00156",
+     "u00305",
+     "u00308",
+     "u00309",
+     "u00317",
+     "u00324",
+     "u00328",
+     "u00329",
+     "u00330",
+     "u00331",
+     "u00332",
+     "u00333",
+     "u00334",
+     "u00336",
+     "u00339",
+     "u00340",
+     "u00343",
+     "u00345",
+     "u00346",
+     "u00349",
+     "u00350",
+     "u00352",
+     "u00353",
+     "u00354",
+     "u00355",
+     "u00357",
+     "u00359",
+     "u00360",
+     "u00361",
+     "u00362",
+     "u00368",
+     "u00407",
+     "u00585",
+     "u00600",
+     "u00670",
+     "u00857",
+     "u00858"
     ]
    }
   }
@@ -145985,6 +145991,16 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
+   "1935": {
+    "forms": {
+     "Jens Mortensen": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u02017"
+    ]
+   },
    "1932": {
     "forms": {
      "Jens Mortensen": 3
@@ -145995,16 +146011,6 @@
      "u00318",
      "u00336",
      "u00585"
-    ]
-   },
-   "1935": {
-    "forms": {
-     "Jens Mortensen": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u02017"
     ]
    }
   }
@@ -146077,19 +146083,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Moses": 5
-    },
-    "n_full": 0,
-    "n_bare": 5,
-    "units": [
-     "u00075",
-     "u00137",
-     "u00325",
-     "u00735"
-    ]
-   },
    "1933b": {
     "forms": {
      "Moses": 1
@@ -146119,6 +146112,19 @@
     "n_bare": 1,
     "units": [
      "u00631"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Moses": 5
+    },
+    "n_full": 0,
+    "n_bare": 5,
+    "units": [
+     "u00075",
+     "u00137",
+     "u00325",
+     "u00735"
     ]
    }
   }
@@ -147426,9 +147432,9 @@
   "name": "Peder Månsson",
   "surname": "Månsson",
   "forms": {
+   "Per Månsson": 2,
    "Peder Månssons": 2,
-   "Peder Månsson": 2,
-   "Per Månsson": 2
+   "Peder Månsson": 2
   },
   "n_full": 6,
   "n_bare": 0,
@@ -147505,6 +147511,17 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
+   "1944": {
+    "forms": {
+     "Per Månsson": 2
+    },
+    "n_full": 2,
+    "n_bare": 0,
+    "units": [
+     "u01276",
+     "u01284"
+    ]
+   },
    "1932": {
     "forms": {
      "Peder Månssons": 2,
@@ -147516,17 +147533,6 @@
      "u00304",
      "u00305",
      "u00367"
-    ]
-   },
-   "1944": {
-    "forms": {
-     "Per Månsson": 2
-    },
-    "n_full": 2,
-    "n_bare": 0,
-    "units": [
-     "u01276",
-     "u01284"
     ]
    }
   }
@@ -148356,21 +148362,11 @@
   },
   "n_full": 0,
   "n_bare": 2,
-  "context_year": 1650,
+  "context_year": 1658,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Nam": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00492"
-    ]
-   },
    "1933b": {
     "forms": {
      "Nam": 1
@@ -148379,6 +148375,16 @@
     "n_bare": 1,
     "units": [
      "u01331"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Nam": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00492"
     ]
    }
   }
@@ -150044,18 +150050,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Nils": 3
-    },
-    "n_full": 0,
-    "n_bare": 3,
-    "units": [
-     "u00304",
-     "u00305",
-     "u00666"
-    ]
-   },
    "1936": {
     "forms": {
      "Nils": 1
@@ -150086,6 +150080,18 @@
      "u00579",
      "u00580",
      "u01260"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Nils": 3
+    },
+    "n_full": 0,
+    "n_bare": 3,
+    "units": [
+     "u00304",
+     "u00305",
+     "u00666"
     ]
    }
   }
@@ -150246,9 +150252,9 @@
   "name": "Hans Nilsson",
   "surname": "Nilsson",
   "forms": {
-   "Hans Nilsson": 3,
    "Jöns Nilsson": 1,
-   "Johannes Nilsson": 1
+   "Johannes Nilsson": 1,
+   "Hans Nilsson": 3
   },
   "n_full": 5,
   "n_bare": 0,
@@ -150292,18 +150298,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Hans Nilsson": 3
-    },
-    "n_full": 3,
-    "n_bare": 0,
-    "units": [
-     "u00292",
-     "u00304",
-     "u00313"
-    ]
-   },
    "1943a": {
     "forms": {
      "Jöns Nilsson": 1
@@ -150322,6 +150316,18 @@
     "n_bare": 0,
     "units": [
      "u01205"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Hans Nilsson": 3
+    },
+    "n_full": 3,
+    "n_bare": 0,
+    "units": [
+     "u00292",
+     "u00304",
+     "u00313"
     ]
    }
   }
@@ -150975,17 +150981,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Noak": 2
-    },
-    "n_full": 0,
-    "n_bare": 2,
-    "units": [
-     "u00073",
-     "u00077"
-    ]
-   },
    "1933b": {
     "forms": {
      "Noak": 1
@@ -151005,6 +151000,17 @@
     "units": [
      "u00212"
     ]
+   },
+   "1932": {
+    "forms": {
+     "Noak": 2
+    },
+    "n_full": 0,
+    "n_bare": 2,
+    "units": [
+     "u00073",
+     "u00077"
+    ]
    }
   }
  },
@@ -151023,6 +151029,17 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
+   "1935": {
+    "forms": {
+     "Noaks": 2
+    },
+    "n_full": 0,
+    "n_bare": 2,
+    "units": [
+     "u00781",
+     "u01016"
+    ]
+   },
    "1932": {
     "forms": {
      "Noaks": 5
@@ -151034,17 +151051,6 @@
      "u00357",
      "u00735",
      "u00736"
-    ]
-   },
-   "1935": {
-    "forms": {
-     "Noaks": 2
-    },
-    "n_full": 0,
-    "n_bare": 2,
-    "units": [
-     "u00781",
-     "u01016"
     ]
    }
   }
@@ -152170,6 +152176,19 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
+   "1933b": {
+    "forms": {
+     "Johan Nordström": 1,
+     "Nordström": 2
+    },
+    "n_full": 1,
+    "n_bare": 2,
+    "units": [
+     "u00758",
+     "u00816",
+     "u01323"
+    ]
+   },
    "1932": {
     "forms": {
      "Johan Nordström": 3,
@@ -152182,19 +152201,6 @@
      "u00077",
      "u00137",
      "u00324"
-    ]
-   },
-   "1933b": {
-    "forms": {
-     "Johan Nordström": 1,
-     "Nordström": 2
-    },
-    "n_full": 1,
-    "n_bare": 2,
-    "units": [
-     "u00758",
-     "u00816",
-     "u01323"
     ]
    }
   }
@@ -152339,16 +152345,6 @@
   ],
   "wikidata": "Q2653181",
   "vols": {
-   "1932": {
-    "forms": {
-     "Adolf Noreen": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00311"
-    ]
-   },
    "1933a": {
     "forms": {
      "Adolf Noreen": 1
@@ -152369,6 +152365,16 @@
      "u00585",
      "u00635",
      "u00755"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Adolf Noreen": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00311"
     ]
    }
   },
@@ -152529,21 +152535,11 @@
   },
   "n_full": 0,
   "n_bare": 2,
-  "context_year": 1632,
+  "context_year": 1777,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Norige": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00730"
-    ]
-   },
    "1935": {
     "forms": {
      "Norige": 1
@@ -152552,6 +152548,16 @@
     "n_bare": 1,
     "units": [
      "u00629"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Norige": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00730"
     ]
    }
   }
@@ -155317,31 +155323,6 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Ericus Olai": 18,
-     "Ericus Olais": 1
-    },
-    "n_full": 19,
-    "n_bare": 0,
-    "units": [
-     "u00047",
-     "u00048",
-     "u00050",
-     "u00051",
-     "u00053",
-     "u00055",
-     "u00065",
-     "u00073",
-     "u00308",
-     "u00309",
-     "u00312",
-     "u00350",
-     "u00358",
-     "u00359",
-     "u00856"
-    ]
-   },
    "1933a": {
     "forms": {
      "Ericus Olai": 1,
@@ -155377,6 +155358,31 @@
      "u01334",
      "u01342",
      "u01347"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Ericus Olai": 18,
+     "Ericus Olais": 1
+    },
+    "n_full": 19,
+    "n_bare": 0,
+    "units": [
+     "u00047",
+     "u00048",
+     "u00050",
+     "u00051",
+     "u00053",
+     "u00055",
+     "u00065",
+     "u00073",
+     "u00308",
+     "u00309",
+     "u00312",
+     "u00350",
+     "u00358",
+     "u00359",
+     "u00856"
     ]
    }
   }
@@ -155516,9 +155522,9 @@
   "name": "Olaus",
   "surname": "Olaus",
   "forms": {
-   "Olao": 3,
+   "Olaum": 2,
    "Olaus": 6,
-   "Olaum": 2
+   "Olao": 3
   },
   "n_full": 0,
   "n_bare": 11,
@@ -155595,19 +155601,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Olao": 2,
-     "Olaus": 1
-    },
-    "n_full": 0,
-    "n_bare": 3,
-    "units": [
-     "u00254",
-     "u00503",
-     "u00608"
-    ]
-   },
    "1933a": {
     "forms": {
      "Olaum": 2
@@ -155652,6 +155645,19 @@
     "units": [
      "u01047"
     ]
+   },
+   "1932": {
+    "forms": {
+     "Olao": 2,
+     "Olaus": 1
+    },
+    "n_full": 0,
+    "n_bare": 3,
+    "units": [
+     "u00254",
+     "u00503",
+     "u00608"
+    ]
    }
   }
  },
@@ -155664,21 +155670,11 @@
   },
   "n_full": 0,
   "n_bare": 3,
-  "context_year": null,
+  "context_year": 1377,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Olavi": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00312"
-    ]
-   },
    "1933b": {
     "forms": {
      "Olavi": 1
@@ -155697,6 +155693,16 @@
     "n_bare": 1,
     "units": [
      "u00617"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Olavi": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00312"
     ]
    }
   }
@@ -155946,6 +155952,19 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
+   "1933b": {
+    "forms": {
+     "Olavus": 4
+    },
+    "n_full": 0,
+    "n_bare": 4,
+    "units": [
+     "u01129",
+     "u01130",
+     "u01152",
+     "u01477"
+    ]
+   },
    "1932": {
     "forms": {
      "Olavus": 4,
@@ -155958,19 +155977,6 @@
      "u00147",
      "u00251",
      "u00358"
-    ]
-   },
-   "1933b": {
-    "forms": {
-     "Olavus": 4
-    },
-    "n_full": 0,
-    "n_bare": 4,
-    "units": [
-     "u01129",
-     "u01130",
-     "u01152",
-     "u01477"
     ]
    }
   }
@@ -156230,20 +156236,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Olof": 1,
-     "Her Olof": 1,
-     "Olofs": 1
-    },
-    "n_full": 0,
-    "n_bare": 3,
-    "units": [
-     "u00065",
-     "u00305",
-     "u00317"
-    ]
-   },
    "1936": {
     "forms": {
      "Olof": 3
@@ -156275,6 +156267,20 @@
     "units": [
      "u01266",
      "u01305"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Olof": 1,
+     "Her Olof": 1,
+     "Olofs": 1
+    },
+    "n_full": 0,
+    "n_bare": 3,
+    "units": [
+     "u00065",
+     "u00305",
+     "u00317"
     ]
    }
   }
@@ -158814,21 +158820,11 @@
   },
   "n_full": 0,
   "n_bare": 3,
-  "context_year": 1600,
+  "context_year": 1662,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Otfrid": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00734"
-    ]
-   },
    "1933b": {
     "forms": {
      "Otfrid": 1
@@ -158847,6 +158843,16 @@
     "n_bare": 1,
     "units": [
      "u00773"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Otfrid": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00734"
     ]
    }
   }
@@ -159153,8 +159159,8 @@
   "surname": "Oxenstierna",
   "forms": {
    "Axel Oxenstierna": 13,
-   "Oxenstierna": 21,
    "Axel Oxenstiernas": 1,
+   "Oxenstierna": 21,
    "Grefve Axel Oxenstierna": 1,
    "Grefve Oxenstierna": 1
   },
@@ -159200,24 +159206,6 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Axel Oxenstierna": 5,
-     "Oxenstierna": 5
-    },
-    "n_full": 5,
-    "n_bare": 5,
-    "bare_probable": 5,
-    "units": [
-     "u00251",
-     "u00501",
-     "u00518",
-     "u00525",
-     "u00668",
-     "u00669",
-     "u00672"
-    ]
-   },
    "1933b": {
     "forms": {
      "Axel Oxenstierna": 2
@@ -159273,6 +159261,24 @@
      "u00968",
      "u01226",
      "u01642"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Axel Oxenstierna": 5,
+     "Oxenstierna": 5
+    },
+    "n_full": 5,
+    "n_bare": 5,
+    "bare_probable": 5,
+    "units": [
+     "u00251",
+     "u00501",
+     "u00518",
+     "u00525",
+     "u00668",
+     "u00669",
+     "u00672"
     ]
    }
   },
@@ -159496,21 +159502,11 @@
   },
   "n_full": 2,
   "n_bare": 0,
-  "context_year": 1663,
+  "context_year": null,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Gabriel Oxenstierna": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00411"
-    ]
-   },
    "1933b": {
     "forms": {
      "Gabriel Oxenstierna": 1
@@ -159519,6 +159515,16 @@
     "n_bare": 0,
     "units": [
      "u00448"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Gabriel Oxenstierna": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00411"
     ]
    }
   }
@@ -160372,6 +160378,16 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
+   "1933b": {
+    "forms": {
+     "Palmskiöld": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00745"
+    ]
+   },
    "1932": {
     "forms": {
      "Palmskiöld": 3,
@@ -160383,16 +160399,6 @@
      "u00526",
      "u00765",
      "u00769"
-    ]
-   },
-   "1933b": {
-    "forms": {
-     "Palmskiöld": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00745"
     ]
    }
   }
@@ -162638,21 +162644,11 @@
   },
   "n_full": 0,
   "n_bare": 4,
-  "context_year": 1826,
+  "context_year": 1643,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Peringskiöld": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00314"
-    ]
-   },
    "1943a": {
     "forms": {
      "Peringskiöld": 1
@@ -162681,6 +162677,16 @@
     "n_bare": 1,
     "units": [
      "u00475"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Peringskiöld": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00314"
     ]
    }
   }
@@ -163311,21 +163317,11 @@
   },
   "n_full": 0,
   "n_bare": 4,
-  "context_year": 1699,
+  "context_year": 1635,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Persohn": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00511"
-    ]
-   },
    "1933a": {
     "forms": {
      "Persohn": 1
@@ -163354,6 +163350,16 @@
     "n_bare": 1,
     "units": [
      "u00105"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Persohn": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00511"
     ]
    }
   }
@@ -164903,22 +164909,6 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Laurentius Petri": 8
-    },
-    "n_full": 8,
-    "n_bare": 0,
-    "n_ambiguous": 2,
-    "units": [
-     "u00082",
-     "u00083",
-     "u00147",
-     "u00358",
-     "u00769",
-     "u00856"
-    ]
-   },
    "1933b": {
     "forms": {
      "Laurentius Petri": 2,
@@ -164943,6 +164933,22 @@
     "units": [
      "u00331"
     ]
+   },
+   "1932": {
+    "forms": {
+     "Laurentius Petri": 8
+    },
+    "n_full": 8,
+    "n_bare": 0,
+    "n_ambiguous": 2,
+    "units": [
+     "u00082",
+     "u00083",
+     "u00147",
+     "u00358",
+     "u00769",
+     "u00856"
+    ]
    }
   }
  },
@@ -164951,14 +164957,14 @@
   "name": "Olavus Petri",
   "surname": "Petri",
   "forms": {
-   "Olavus Petri": 33,
-   "Olavus Petris": 11,
-   "Olavo Petri": 1,
    "Olai Petri": 6,
    "Petris": 1,
    "Olao Petri": 1,
    "Olaus Petri": 4,
-   "Petri": 2
+   "Olavus Petri": 33,
+   "Petri": 2,
+   "Olavus Petris": 11,
+   "Olavo Petri": 1
   },
   "n_full": 56,
   "n_bare": 3,
@@ -164981,41 +164987,6 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Olavus Petri": 29,
-     "Olavus Petris": 11,
-     "Olavo Petri": 1
-    },
-    "n_full": 41,
-    "n_bare": 0,
-    "n_ambiguous": 2,
-    "units": [
-     "u00054",
-     "u00056",
-     "u00057",
-     "u00058",
-     "u00059",
-     "u00061",
-     "u00062",
-     "u00075",
-     "u00077",
-     "u00083",
-     "u00125",
-     "u00141",
-     "u00243",
-     "u00312",
-     "u00324",
-     "u00357",
-     "u00359",
-     "u00360",
-     "u00362",
-     "u00736",
-     "u00737",
-     "u00757",
-     "u00856"
-    ]
-   },
    "1933a": {
     "forms": {
      "Olai Petri": 1,
@@ -165074,6 +165045,41 @@
     "n_bare": 0,
     "units": [
      "u00172"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Olavus Petri": 29,
+     "Olavus Petris": 11,
+     "Olavo Petri": 1
+    },
+    "n_full": 41,
+    "n_bare": 0,
+    "n_ambiguous": 2,
+    "units": [
+     "u00054",
+     "u00056",
+     "u00057",
+     "u00058",
+     "u00059",
+     "u00061",
+     "u00062",
+     "u00075",
+     "u00077",
+     "u00083",
+     "u00125",
+     "u00141",
+     "u00243",
+     "u00312",
+     "u00324",
+     "u00357",
+     "u00359",
+     "u00360",
+     "u00362",
+     "u00736",
+     "u00737",
+     "u00757",
+     "u00856"
     ]
    }
   }
@@ -166670,21 +166676,11 @@
   },
   "n_full": 0,
   "n_bare": 2,
-  "context_year": 1698,
+  "context_year": null,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Platone": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00325"
-    ]
-   },
    "1935": {
     "forms": {
      "Platone": 1
@@ -166693,6 +166689,16 @@
     "n_bare": 1,
     "units": [
      "u00853"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Platone": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00325"
     ]
    }
   }
@@ -166770,21 +166776,11 @@
   },
   "n_full": 0,
   "n_bare": 2,
-  "context_year": null,
+  "context_year": 1631,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Platz": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00478"
-    ]
-   },
    "1936": {
     "forms": {
      "Platz": 1
@@ -166793,6 +166789,16 @@
     "n_bare": 1,
     "units": [
      "u02577"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Platz": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00478"
     ]
    }
   }
@@ -170859,6 +170865,16 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
+   "1933b": {
+    "forms": {
+     "Nicolaus Ragvaldi": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u01321"
+    ]
+   },
    "1932": {
     "forms": {
      "Nicolaus Ragvaldi": 14,
@@ -170878,16 +170894,6 @@
      "u00085",
      "u00088",
      "u00856"
-    ]
-   },
-   "1933b": {
-    "forms": {
-     "Nicolaus Ragvaldi": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u01321"
     ]
    }
   }
@@ -171656,16 +171662,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Rasmus": 3
-    },
-    "n_full": 0,
-    "n_bare": 3,
-    "units": [
-     "u00367"
-    ]
-   },
    "1933a": {
     "forms": {
      "Rasmus": 1
@@ -171674,6 +171670,16 @@
     "n_bare": 1,
     "units": [
      "u01465"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Rasmus": 3
+    },
+    "n_full": 0,
+    "n_bare": 3,
+    "units": [
+     "u00367"
     ]
    }
   }
@@ -172055,20 +172061,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Reenhielm": 4,
-     "Reenhielms": 2
-    },
-    "n_full": 0,
-    "n_bare": 6,
-    "units": [
-     "u00644",
-     "u00651",
-     "u00659",
-     "u00727"
-    ]
-   },
    "1933a": {
     "forms": {
      "Reenhielm": 9,
@@ -172092,6 +172084,20 @@
     "n_bare": 1,
     "units": [
      "u02758"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Reenhielm": 4,
+     "Reenhielms": 2
+    },
+    "n_full": 0,
+    "n_bare": 6,
+    "units": [
+     "u00644",
+     "u00651",
+     "u00659",
+     "u00727"
     ]
    }
   }
@@ -173425,9 +173431,9 @@
   "name": "Peder Resenius",
   "surname": "Resenius",
   "forms": {
-   "Peder Resenius": 1,
+   "Petrus Resenius": 1,
    "Resenius": 4,
-   "Petrus Resenius": 1
+   "Peder Resenius": 1
   },
   "n_full": 2,
   "n_bare": 4,
@@ -173437,17 +173443,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Peder Resenius": 1,
-     "Resenius": 1
-    },
-    "n_full": 1,
-    "n_bare": 1,
-    "units": [
-     "u00595"
-    ]
-   },
    "1933b": {
     "forms": {
      "Petrus Resenius": 1,
@@ -173460,6 +173455,17 @@
      "u00687",
      "u00826",
      "u01361"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Peder Resenius": 1,
+     "Resenius": 1
+    },
+    "n_full": 1,
+    "n_bare": 1,
+    "units": [
+     "u00595"
     ]
    }
   }
@@ -173582,16 +173588,6 @@
   ],
   "wikidata": "Q1348997",
   "vols": {
-   "1932": {
-    "forms": {
-     "Reuterdahl": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00053"
-    ]
-   },
    "1933b": {
     "forms": {
      "Reuterdahl": 1
@@ -173623,6 +173619,16 @@
      "u01459",
      "u01460",
      "u01512"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Reuterdahl": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00053"
     ]
    }
   },
@@ -173920,7 +173926,8 @@
   "forms": {
    "Johannes Haquini Rhezelius": 2,
    "Joan Håkansson Rhezelium": 1,
-   "Rhezelius": 59
+   "Rhezelius": 58,
+   "Rhezelius’": 1
   },
   "n_full": 3,
   "n_bare": 59,
@@ -173946,7 +173953,8 @@
     "forms": {
      "Johannes Haquini Rhezelius": 2,
      "Joan Håkansson Rhezelium": 1,
-     "Rhezelius": 59
+     "Rhezelius": 58,
+     "Rhezelius’": 1
     },
     "n_full": 3,
     "n_bare": 59,
@@ -174058,16 +174066,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Rhyzelius": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00672"
-    ]
-   },
    "1936": {
     "forms": {
      "Rhyzelius": 8,
@@ -174093,6 +174091,16 @@
     "n_bare": 1,
     "units": [
      "u01127"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Rhyzelius": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00672"
     ]
    }
   },
@@ -175546,16 +175554,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Rijksens": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00604"
-    ]
-   },
    "1933a": {
     "forms": {
      "Rijksens": 2
@@ -175585,6 +175583,16 @@
     "n_bare": 1,
     "units": [
      "u02711"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Rijksens": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00604"
     ]
    }
   },
@@ -175731,16 +175739,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Rijkzens": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00446"
-    ]
-   },
    "1933b": {
     "forms": {
      "Rijkzens": 1
@@ -175749,6 +175747,16 @@
     "n_bare": 1,
     "units": [
      "u01421"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Rijkzens": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00446"
     ]
    }
   }
@@ -176170,21 +176178,11 @@
   },
   "n_full": 0,
   "n_bare": 2,
-  "context_year": null,
+  "context_year": 1648,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Rikz": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00570"
-    ]
-   },
    "1935": {
     "forms": {
      "Rikz": 1
@@ -176193,6 +176191,16 @@
     "n_bare": 1,
     "units": [
      "u01408"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Rikz": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00570"
     ]
    }
   }
@@ -176264,17 +176272,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Rimbertus": 2
-    },
-    "n_full": 0,
-    "n_bare": 2,
-    "units": [
-     "u00348",
-     "u00357"
-    ]
-   },
    "1933b": {
     "forms": {
      "Rimbertus": 3
@@ -176305,6 +176302,17 @@
     "n_bare": 1,
     "units": [
      "u01458"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Rimbertus": 2
+    },
+    "n_full": 0,
+    "n_bare": 2,
+    "units": [
+     "u00348",
+     "u00357"
     ]
    }
   }
@@ -176344,21 +176352,11 @@
   },
   "n_full": 0,
   "n_bare": 2,
-  "context_year": 1774,
+  "context_year": 1666,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Ring": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00748"
-    ]
-   },
    "1936": {
     "forms": {
      "Ring": 1
@@ -176367,6 +176365,16 @@
     "n_bare": 1,
     "units": [
      "u01877"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Ring": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00748"
     ]
    }
   }
@@ -176947,9 +176955,9 @@
   "name": "Rolf",
   "surname": "Rolf",
   "forms": {
+   "Rolfs": 2,
    "Rolfi": 1,
-   "Rolf": 2,
-   "Rolfs": 2
+   "Rolf": 2
   },
   "n_full": 0,
   "n_bare": 5,
@@ -176959,6 +176967,16 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
+   "1935": {
+    "forms": {
+     "Rolfs": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00191"
+    ]
+   },
    "1932": {
     "forms": {
      "Rolfi": 1,
@@ -176971,16 +176989,6 @@
      "u00730",
      "u00737",
      "u00742"
-    ]
-   },
-   "1935": {
-    "forms": {
-     "Rolfs": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00191"
     ]
    }
   }
@@ -177188,21 +177196,11 @@
   },
   "n_full": 2,
   "n_bare": 0,
-  "context_year": 1395,
+  "context_year": 1622,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Egidius Romanus": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00308"
-    ]
-   },
    "1933b": {
     "forms": {
      "Egidius Romanus": 1
@@ -177211,6 +177209,16 @@
     "n_bare": 0,
     "units": [
      "u01138"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Egidius Romanus": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00308"
     ]
    }
   }
@@ -179415,11 +179423,11 @@
   "name": "Olaus Rudbeck",
   "surname": "Rudbeck",
   "forms": {
-   "Olof Rudbeck": 16,
    "Olaus Rudbeck": 12,
+   "hr Olaus Rudbeck": 1,
+   "Olof Rudbeck": 16,
    "Rudbeck": 326,
    "Rudbecks": 75,
-   "hr Olaus Rudbeck": 1,
    "Herr Professor Rudbeck": 1,
    "Olao Rudbeck": 2,
    "Olof Rudbecks": 4,
@@ -179457,44 +179465,6 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Olof Rudbeck": 1,
-     "Olaus Rudbeck": 3,
-     "Rudbeck": 27,
-     "Rudbecks": 9
-    },
-    "n_full": 4,
-    "n_bare": 36,
-    "units": [
-     "u00061",
-     "u00077",
-     "u00189",
-     "u00322",
-     "u00324",
-     "u00362",
-     "u00604",
-     "u00608",
-     "u00611",
-     "u00617",
-     "u00619",
-     "u00620",
-     "u00623",
-     "u00628",
-     "u00629",
-     "u00630",
-     "u00631",
-     "u00634",
-     "u00664",
-     "u00673",
-     "u00675",
-     "u00682",
-     "u00740",
-     "u00830",
-     "u00837",
-     "u00858"
-    ]
-   },
    "1933a": {
     "forms": {
      "Olaus Rudbeck": 2,
@@ -179762,6 +179732,44 @@
     "units": [
      "u01082",
      "u01113"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Olof Rudbeck": 1,
+     "Olaus Rudbeck": 3,
+     "Rudbeck": 27,
+     "Rudbecks": 9
+    },
+    "n_full": 4,
+    "n_bare": 36,
+    "units": [
+     "u00061",
+     "u00077",
+     "u00189",
+     "u00322",
+     "u00324",
+     "u00362",
+     "u00604",
+     "u00608",
+     "u00611",
+     "u00617",
+     "u00619",
+     "u00620",
+     "u00623",
+     "u00628",
+     "u00629",
+     "u00630",
+     "u00631",
+     "u00634",
+     "u00664",
+     "u00673",
+     "u00675",
+     "u00682",
+     "u00740",
+     "u00830",
+     "u00837",
+     "u00858"
     ]
    }
   },
@@ -180597,10 +180605,10 @@
   "surname": "Rugman",
   "forms": {
    "Jonas Rugman": 17,
-   "Jonas Rugmans": 1,
-   "Jonas Jonæ Rugman": 2,
+   "Rugman": 89,
    "Rugmans": 24,
-   "Rugman": 89
+   "Jonas Rugmans": 1,
+   "Jonas Jonæ Rugman": 2
   },
   "n_full": 20,
   "n_bare": 113,
@@ -180622,64 +180630,6 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Jonas Rugman": 7,
-     "Jonas Rugmans": 1,
-     "Jonas Jonæ Rugman": 2,
-     "Rugmans": 17,
-     "Rugman": 44
-    },
-    "n_full": 10,
-    "n_bare": 61,
-    "units": [
-     "u00607",
-     "u00608",
-     "u00609",
-     "u00610",
-     "u00611",
-     "u00612",
-     "u00613",
-     "u00617",
-     "u00619",
-     "u00620",
-     "u00621",
-     "u00622",
-     "u00623",
-     "u00626",
-     "u00627",
-     "u00628",
-     "u00629",
-     "u00630",
-     "u00631",
-     "u00634",
-     "u00637",
-     "u00640",
-     "u00641",
-     "u00646",
-     "u00648",
-     "u00649",
-     "u00650",
-     "u00651",
-     "u00652",
-     "u00653",
-     "u00654",
-     "u00658",
-     "u00659",
-     "u00662",
-     "u00682",
-     "u00726",
-     "u00730",
-     "u00731",
-     "u00737",
-     "u00745",
-     "u00748",
-     "u00761",
-     "u00853",
-     "u00865",
-     "u00877"
-    ]
-   },
    "1933a": {
     "forms": {
      "Jonas Rugman": 6,
@@ -180741,6 +180691,64 @@
      "u00814",
      "u01069",
      "u01104"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Jonas Rugman": 7,
+     "Jonas Rugmans": 1,
+     "Jonas Jonæ Rugman": 2,
+     "Rugmans": 17,
+     "Rugman": 44
+    },
+    "n_full": 10,
+    "n_bare": 61,
+    "units": [
+     "u00607",
+     "u00608",
+     "u00609",
+     "u00610",
+     "u00611",
+     "u00612",
+     "u00613",
+     "u00617",
+     "u00619",
+     "u00620",
+     "u00621",
+     "u00622",
+     "u00623",
+     "u00626",
+     "u00627",
+     "u00628",
+     "u00629",
+     "u00630",
+     "u00631",
+     "u00634",
+     "u00637",
+     "u00640",
+     "u00641",
+     "u00646",
+     "u00648",
+     "u00649",
+     "u00650",
+     "u00651",
+     "u00652",
+     "u00653",
+     "u00654",
+     "u00658",
+     "u00659",
+     "u00662",
+     "u00682",
+     "u00726",
+     "u00730",
+     "u00731",
+     "u00737",
+     "u00745",
+     "u00748",
+     "u00761",
+     "u00853",
+     "u00865",
+     "u00877"
     ]
    }
   }
@@ -181162,21 +181170,11 @@
   },
   "n_full": 0,
   "n_bare": 2,
-  "context_year": 1698,
+  "context_year": null,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Runar": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00286"
-    ]
-   },
    "1935": {
     "forms": {
      "Runar": 1
@@ -181185,6 +181183,16 @@
     "n_bare": 1,
     "units": [
      "u00762"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Runar": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00286"
     ]
    }
   }
@@ -181263,18 +181271,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Rune": 3
-    },
-    "n_full": 0,
-    "n_bare": 3,
-    "units": [
-     "u00428",
-     "u00539",
-     "u00784"
-    ]
-   },
    "1933b": {
     "forms": {
      "Rune": 1
@@ -181294,6 +181290,18 @@
     "units": [
      "u00722",
      "u00801"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Rune": 3
+    },
+    "n_full": 0,
+    "n_bare": 3,
+    "units": [
+     "u00428",
+     "u00539",
+     "u00784"
     ]
    }
   }
@@ -181411,13 +181419,13 @@
   "name": "Erik Larsson Runell",
   "surname": "Runell",
   "forms": {
-   "Erik Larsson Runell": 1,
    "Erik Runell": 4,
-   "Runell": 10,
    "Erich Larsson Runell": 2,
+   "Runell": 10,
    "Her Erik Runell": 1,
    "Erich Runell": 1,
-   "Erich Larson Runell": 1
+   "Erich Larson Runell": 1,
+   "Erik Larsson Runell": 1
   },
   "n_full": 10,
   "n_bare": 10,
@@ -181439,21 +181447,6 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Erik Larsson Runell": 1,
-     "Erik Runell": 1,
-     "Runell": 2
-    },
-    "n_full": 2,
-    "n_bare": 2,
-    "units": [
-     "u00526",
-     "u00765",
-     "u00829",
-     "u00830"
-    ]
-   },
    "1933a": {
     "forms": {
      "Erik Runell": 2,
@@ -181495,6 +181488,21 @@
     "n_bare": 0,
     "units": [
      "u00542"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Erik Larsson Runell": 1,
+     "Erik Runell": 1,
+     "Runell": 2
+    },
+    "n_full": 2,
+    "n_bare": 2,
+    "units": [
+     "u00526",
+     "u00765",
+     "u00829",
+     "u00830"
     ]
    }
   }
@@ -181875,16 +181883,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Runstens": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00549"
-    ]
-   },
    "1933a": {
     "forms": {
      "Runstens": 3
@@ -181905,6 +181903,16 @@
     "n_bare": 1,
     "units": [
      "u00255"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Runstens": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00549"
     ]
    }
   },
@@ -183391,16 +183399,6 @@
   ],
   "wikidata": "Q5125016",
   "vols": {
-   "1932": {
-    "forms": {
-     "Claes Rålamb": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00086"
-    ]
-   },
    "1933b": {
     "forms": {
      "Claes Rålamb": 2
@@ -183410,6 +183408,16 @@
     "units": [
      "u00555",
      "u01126"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Claes Rålamb": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00086"
     ]
    }
   },
@@ -184873,16 +184881,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Sahl": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00776"
-    ]
-   },
    "1933a": {
     "forms": {
      "Sahl": 26
@@ -184941,6 +184939,16 @@
     "n_bare": 1,
     "units": [
      "u00553"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Sahl": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00776"
     ]
    }
   },
@@ -185741,16 +185749,6 @@
   ],
   "wikidata": "Q6090225",
   "vols": {
-   "1932": {
-    "forms": {
-     "Lars Salvius": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00420"
-    ]
-   },
    "1936": {
     "forms": {
      "Lars Salvius": 2,
@@ -185766,6 +185764,16 @@
      "u02050",
      "u02057",
      "u02911"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Lars Salvius": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00420"
     ]
    }
   },
@@ -186610,24 +186618,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Saxo": 7,
-     "Saxos": 1
-    },
-    "n_full": 0,
-    "n_bare": 8,
-    "units": [
-     "u00065",
-     "u00073",
-     "u00358",
-     "u00488",
-     "u00589",
-     "u00672",
-     "u00734",
-     "u00748"
-    ]
-   },
    "1936": {
     "forms": {
      "Saxo": 2,
@@ -186659,6 +186649,24 @@
     "n_bare": 1,
     "units": [
      "u01458"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Saxo": 7,
+     "Saxos": 1
+    },
+    "n_full": 0,
+    "n_bare": 8,
+    "units": [
+     "u00065",
+     "u00073",
+     "u00358",
+     "u00488",
+     "u00589",
+     "u00672",
+     "u00734",
+     "u00748"
     ]
    }
   }
@@ -187678,23 +187686,6 @@
   "status": "auto",
   "manuscripta": "https://www.manuscripta.se/person/100266",
   "vols": {
-   "1932": {
-    "forms": {
-     "Schefferus": 9
-    },
-    "n_full": 0,
-    "n_bare": 9,
-    "units": [
-     "u00061",
-     "u00492",
-     "u00600",
-     "u00601",
-     "u00602",
-     "u00604",
-     "u00734",
-     "u00742"
-    ]
-   },
    "1935": {
     "forms": {
      "Schefferus": 10
@@ -187729,6 +187720,23 @@
     "n_bare": 1,
     "units": [
      "u00133"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Schefferus": 9
+    },
+    "n_full": 0,
+    "n_bare": 9,
+    "units": [
+     "u00061",
+     "u00492",
+     "u00600",
+     "u00601",
+     "u00602",
+     "u00604",
+     "u00734",
+     "u00742"
     ]
    }
   }
@@ -188437,19 +188445,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Schlyter": 2,
-     "Schlyters": 1
-    },
-    "n_full": 0,
-    "n_bare": 3,
-    "units": [
-     "u00042",
-     "u00292",
-     "u00760"
-    ]
-   },
    "1933b": {
     "forms": {
      "Schlyter": 10
@@ -188483,6 +188478,19 @@
     "units": [
      "u00627",
      "u01097"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Schlyter": 2,
+     "Schlyters": 1
+    },
+    "n_full": 0,
+    "n_bare": 3,
+    "units": [
+     "u00042",
+     "u00292",
+     "u00760"
     ]
    }
   }
@@ -188753,10 +188761,10 @@
   "name": "Erik Schroderus",
   "surname": "Schroderus",
   "forms": {
-   "Erik Schroderus": 1,
-   "Schroderus": 2,
    "Ericus Schroderus": 2,
-   "Erich Schrodero": 1
+   "Erich Schrodero": 1,
+   "Schroderus": 2,
+   "Erik Schroderus": 1
   },
   "n_full": 4,
   "n_bare": 2,
@@ -188766,18 +188774,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Erik Schroderus": 1,
-     "Schroderus": 1
-    },
-    "n_full": 1,
-    "n_bare": 1,
-    "units": [
-     "u00123",
-     "u00381"
-    ]
-   },
    "1933a": {
     "forms": {
      "Ericus Schroderus": 1,
@@ -188800,6 +188796,18 @@
     "n_bare": 0,
     "units": [
      "u00755"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Erik Schroderus": 1,
+     "Schroderus": 1
+    },
+    "n_full": 1,
+    "n_bare": 1,
+    "units": [
+     "u00123",
+     "u00381"
     ]
    }
   }
@@ -189298,21 +189306,11 @@
   },
   "n_full": 0,
   "n_bare": 2,
-  "context_year": 1792,
+  "context_year": 1640,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Schultz": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00501"
-    ]
-   },
    "1943a": {
     "forms": {
      "Schultz": 1
@@ -189321,6 +189319,16 @@
     "n_bare": 1,
     "units": [
      "u01190"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Schultz": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00501"
     ]
    }
   }
@@ -189874,17 +189882,6 @@
   "status": "auto",
   "manuscripta": "https://www.manuscripta.se/person/100196",
   "vols": {
-   "1932": {
-    "forms": {
-     "HENRIK SCHÜCK": 4
-    },
-    "n_full": 4,
-    "n_bare": 0,
-    "units": [
-     "u00006",
-     "u00022"
-    ]
-   },
    "1933a": {
     "forms": {
      "HENRIK SCHÜCK": 1
@@ -189959,6 +189956,17 @@
     "units": [
      "u00002",
      "u00018"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "HENRIK SCHÜCK": 4
+    },
+    "n_full": 4,
+    "n_bare": 0,
+    "units": [
+     "u00006",
+     "u00022"
     ]
    }
   }
@@ -190201,8 +190209,8 @@
   "name": "Messenius' Scondia",
   "surname": "Scondia",
   "forms": {
-   "Messenius' Scondia": 1,
-   "Messenii Scondia": 2
+   "Messenii Scondia": 2,
+   "Messenius' Scondia": 1
   },
   "n_full": 3,
   "n_bare": 0,
@@ -190213,17 +190221,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Messenius' Scondia": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "n_ambiguous": 5,
-    "units": [
-     "u00670"
-    ]
-   },
    "1933a": {
     "forms": {
      "Messenii Scondia": 2
@@ -190233,6 +190230,17 @@
     "units": [
      "u01808",
      "u01836"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Messenius' Scondia": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "n_ambiguous": 5,
+    "units": [
+     "u00670"
     ]
    }
   }
@@ -191847,21 +191855,11 @@
   },
   "n_full": 0,
   "n_bare": 2,
-  "context_year": 1633,
+  "context_year": null,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Sibylla": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00325"
-    ]
-   },
    "1933b": {
     "forms": {
      "Sibylla": 1
@@ -191870,6 +191868,16 @@
     "n_bare": 1,
     "units": [
      "u00808"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Sibylla": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00325"
     ]
    }
   }
@@ -192543,18 +192551,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Sigismunds": 4
-    },
-    "n_full": 0,
-    "n_bare": 4,
-    "units": [
-     "u00088",
-     "u00332",
-     "u00353"
-    ]
-   },
    "1933a": {
     "forms": {
      "Sigismunds": 1
@@ -192596,6 +192592,18 @@
     "n_bare": 1,
     "units": [
      "u01242"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Sigismunds": 4
+    },
+    "n_full": 0,
+    "n_bare": 4,
+    "units": [
+     "u00088",
+     "u00332",
+     "u00353"
     ]
    }
   }
@@ -195506,6 +195514,16 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
+   "1933a": {
+    "forms": {
+     "Bengt Skytte": 2
+    },
+    "n_full": 2,
+    "n_bare": 0,
+    "units": [
+     "u02431"
+    ]
+   },
    "1932": {
     "forms": {
      "Bengt Skytte": 1,
@@ -195516,16 +195534,6 @@
     "n_ambiguous": 11,
     "units": [
      "u00503"
-    ]
-   },
-   "1933a": {
-    "forms": {
-     "Bengt Skytte": 2
-    },
-    "n_full": 2,
-    "n_bare": 0,
-    "units": [
-     "u02431"
     ]
    }
   }
@@ -195572,18 +195580,6 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Johan Skytte": 2
-    },
-    "n_full": 2,
-    "n_bare": 0,
-    "n_ambiguous": 11,
-    "units": [
-     "u00090",
-     "u00308"
-    ]
-   },
    "1933a": {
     "forms": {
      "Johan Skytte": 1
@@ -195608,6 +195604,18 @@
      "u00354",
      "u00357",
      "u00384"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Johan Skytte": 2
+    },
+    "n_full": 2,
+    "n_bare": 0,
+    "n_ambiguous": 11,
+    "units": [
+     "u00090",
+     "u00308"
     ]
    }
   }
@@ -195927,19 +195935,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Olof Skötkonung": 4
-    },
-    "n_full": 4,
-    "n_bare": 0,
-    "units": [
-     "u00065",
-     "u00066",
-     "u00071",
-     "u00073"
-    ]
-   },
    "1943a": {
     "forms": {
      "Olof Skötkonung": 1
@@ -195969,6 +195964,19 @@
     "units": [
      "u00160",
      "u01264"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Olof Skötkonung": 4
+    },
+    "n_full": 4,
+    "n_bare": 0,
+    "units": [
+     "u00065",
+     "u00066",
+     "u00071",
+     "u00073"
     ]
    }
   }
@@ -196200,21 +196208,11 @@
   },
   "n_full": 2,
   "n_bare": 0,
-  "context_year": 1827,
+  "context_year": 1461,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Edmund Slemme": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00549"
-    ]
-   },
    "1944": {
     "forms": {
      "Edmund Slemme": 1
@@ -196223,6 +196221,16 @@
     "n_bare": 0,
     "units": [
      "u00825"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Edmund Slemme": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00549"
     ]
    }
   }
@@ -196712,16 +196720,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Orm Snorrason": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00378"
-    ]
-   },
    "1933a": {
     "forms": {
      "Orm Snorrason": 2
@@ -196731,6 +196729,16 @@
     "units": [
      "u01675",
      "u01678"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Orm Snorrason": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00378"
     ]
    }
   },
@@ -196751,23 +196759,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Orm Snorrasons": 8
-    },
-    "n_full": 8,
-    "n_bare": 0,
-    "units": [
-     "u00312",
-     "u00313",
-     "u00319",
-     "u00726",
-     "u00732",
-     "u00734",
-     "u00756",
-     "u00763"
-    ]
-   },
    "1933a": {
     "forms": {
      "Orm Snorrasons": 4
@@ -196792,6 +196783,23 @@
      "u00635",
      "u01469"
     ]
+   },
+   "1932": {
+    "forms": {
+     "Orm Snorrasons": 8
+    },
+    "n_full": 8,
+    "n_bare": 0,
+    "units": [
+     "u00312",
+     "u00313",
+     "u00319",
+     "u00726",
+     "u00732",
+     "u00734",
+     "u00756",
+     "u00763"
+    ]
    }
   }
  },
@@ -196804,21 +196812,11 @@
   },
   "n_full": 2,
   "n_bare": 0,
-  "context_year": 1686,
+  "context_year": 1897,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Ormr Snorrasons": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00311"
-    ]
-   },
    "1933b": {
     "forms": {
      "Ormr Snorrasons": 1
@@ -196827,6 +196825,16 @@
     "n_bare": 0,
     "units": [
      "u00635"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Ormr Snorrasons": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00311"
     ]
    }
   }
@@ -196862,8 +196870,8 @@
   "name": "Snorre",
   "surname": "Snorre",
   "forms": {
-   "Snorres": 6,
-   "Snorre": 5
+   "Snorre": 5,
+   "Snorres": 6
   },
   "n_full": 0,
   "n_bare": 11,
@@ -196873,23 +196881,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Snorres": 5,
-     "Snorre": 4
-    },
-    "n_full": 0,
-    "n_bare": 9,
-    "units": [
-     "u00585",
-     "u00595",
-     "u00672",
-     "u00735",
-     "u00736",
-     "u00740",
-     "u00744"
-    ]
-   },
    "1933a": {
     "forms": {
      "Snorre": 1
@@ -196908,6 +196899,23 @@
     "n_bare": 1,
     "units": [
      "u00752"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Snorres": 5,
+     "Snorre": 4
+    },
+    "n_full": 0,
+    "n_bare": 9,
+    "units": [
+     "u00585",
+     "u00595",
+     "u00672",
+     "u00735",
+     "u00736",
+     "u00740",
+     "u00744"
     ]
    }
   }
@@ -197950,16 +197958,6 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Gustaf Soop": 2
-    },
-    "n_full": 2,
-    "n_bare": 0,
-    "units": [
-     "u00604"
-    ]
-   },
    "1933a": {
     "forms": {
      "Gustaf Soop": 1
@@ -197968,6 +197966,16 @@
     "n_bare": 0,
     "units": [
      "u02332"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Gustaf Soop": 2
+    },
+    "n_full": 2,
+    "n_bare": 0,
+    "units": [
+     "u00604"
     ]
    }
   }
@@ -199365,21 +199373,11 @@
   },
   "n_full": 0,
   "n_bare": 2,
-  "context_year": 1698,
+  "context_year": null,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Spegel": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00080"
-    ]
-   },
    "1935": {
     "forms": {
      "Spegel": 1
@@ -199388,6 +199386,16 @@
     "n_bare": 1,
     "units": [
      "u00647"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Spegel": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00080"
     ]
    }
   }
@@ -199848,16 +199856,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Olaus Verelius St": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00715"
-    ]
-   },
    "1933b": {
     "forms": {
      "Olaus Verelius St": 1
@@ -199866,6 +199864,16 @@
     "n_bare": 0,
     "units": [
      "u00089"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Olaus Verelius St": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00715"
     ]
    }
   }
@@ -202636,26 +202644,6 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Stephanius": 15
-    },
-    "n_full": 0,
-    "n_bare": 15,
-    "units": [
-     "u00591",
-     "u00598",
-     "u00600",
-     "u00601",
-     "u00606",
-     "u00609",
-     "u00673",
-     "u00734",
-     "u00745",
-     "u00853",
-     "u00865"
-    ]
-   },
    "1933a": {
     "forms": {
      "Stephanius": 2
@@ -202677,6 +202665,26 @@
      "u00583",
      "u00638",
      "u00963"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Stephanius": 15
+    },
+    "n_full": 0,
+    "n_bare": 15,
+    "units": [
+     "u00591",
+     "u00598",
+     "u00600",
+     "u00601",
+     "u00606",
+     "u00609",
+     "u00673",
+     "u00734",
+     "u00745",
+     "u00853",
+     "u00865"
     ]
    }
   }
@@ -203422,16 +203430,16 @@
   "name": "Jören Stiernhielm",
   "surname": "Stiernhielm",
   "forms": {
-   "Georg Stiernhielm": 9,
-   "Edel Wälbördigh Jören Stiernhielm": 1,
-   "Jören Stiernhielm": 1,
-   "Jöran Stiernhielms": 1,
    "Jöran Stiernhielm": 2,
+   "Georg Stiernhielm": 9,
+   "Hr Georg Stiernhielm": 1,
    "Stiernhielm": 105,
    "Stiernhielms": 14,
-   "Hr Georg Stiernhielm": 1,
    "Hr Stiernhielm": 1,
-   "Hr. Stiernhielm": 1
+   "Hr. Stiernhielm": 1,
+   "Edel Wälbördigh Jören Stiernhielm": 1,
+   "Jören Stiernhielm": 1,
+   "Jöran Stiernhielms": 1
   },
   "n_full": 15,
   "n_bare": 121,
@@ -203441,53 +203449,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Georg Stiernhielm": 1,
-     "Edel Wälbördigh Jören Stiernhielm": 1,
-     "Jören Stiernhielm": 1,
-     "Jöran Stiernhielms": 1,
-     "Jöran Stiernhielm": 1,
-     "Stiernhielm": 47,
-     "Stiernhielms": 6
-    },
-    "n_full": 5,
-    "n_bare": 53,
-    "units": [
-     "u00077",
-     "u00137",
-     "u00156",
-     "u00286",
-     "u00304",
-     "u00309",
-     "u00313",
-     "u00315",
-     "u00317",
-     "u00322",
-     "u00324",
-     "u00410",
-     "u00494",
-     "u00503",
-     "u00526",
-     "u00537",
-     "u00541",
-     "u00565",
-     "u00568",
-     "u00570",
-     "u00575",
-     "u00604",
-     "u00668",
-     "u00672",
-     "u00726",
-     "u00735",
-     "u00750",
-     "u00755",
-     "u00756",
-     "u00761",
-     "u00762",
-     "u00858"
-    ]
-   },
    "1933a": {
     "forms": {
      "Jöran Stiernhielm": 1,
@@ -203578,6 +203539,53 @@
     "units": [
      "u00377",
      "u00920"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Georg Stiernhielm": 1,
+     "Edel Wälbördigh Jören Stiernhielm": 1,
+     "Jören Stiernhielm": 1,
+     "Jöran Stiernhielms": 1,
+     "Jöran Stiernhielm": 1,
+     "Stiernhielm": 47,
+     "Stiernhielms": 6
+    },
+    "n_full": 5,
+    "n_bare": 53,
+    "units": [
+     "u00077",
+     "u00137",
+     "u00156",
+     "u00286",
+     "u00304",
+     "u00309",
+     "u00313",
+     "u00315",
+     "u00317",
+     "u00322",
+     "u00324",
+     "u00410",
+     "u00494",
+     "u00503",
+     "u00526",
+     "u00537",
+     "u00541",
+     "u00565",
+     "u00568",
+     "u00570",
+     "u00575",
+     "u00604",
+     "u00668",
+     "u00672",
+     "u00726",
+     "u00735",
+     "u00750",
+     "u00755",
+     "u00756",
+     "u00761",
+     "u00762",
+     "u00858"
     ]
    }
   },
@@ -204003,21 +204011,11 @@
   },
   "n_full": 0,
   "n_bare": 2,
-  "context_year": null,
+  "context_year": 1720,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Stiernmans": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00086"
-    ]
-   },
    "1933b": {
     "forms": {
      "Stiernmans": 1
@@ -204026,6 +204024,16 @@
     "n_bare": 1,
     "units": [
      "u01246"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Stiernmans": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00086"
     ]
    }
   }
@@ -204610,8 +204618,8 @@
   "name": "Gustav Storm",
   "surname": "Storm",
   "forms": {
-   "Gustav Storm": 2,
    "Gustav Storms": 1,
+   "Gustav Storm": 2,
    "Storm": 1
   },
   "n_full": 3,
@@ -204644,16 +204652,6 @@
   ],
   "wikidata": "Q962296",
   "vols": {
-   "1932": {
-    "forms": {
-     "Gustav Storm": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00584"
-    ]
-   },
    "1933b": {
     "forms": {
      "Gustav Storms": 1,
@@ -204665,6 +204663,16 @@
     "units": [
      "u00637",
      "u00691"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Gustav Storm": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00584"
     ]
    }
   },
@@ -205996,8 +206004,8 @@
   "name": "Sten Stures",
   "surname": "Stures",
   "forms": {
-   "Sten Stures": 5,
-   "Her Sten Stures": 1
+   "Her Sten Stures": 1,
+   "Sten Stures": 5
   },
   "n_full": 6,
   "n_bare": 0,
@@ -206006,16 +206014,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Sten Stures": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00549"
-    ]
-   },
    "1933a": {
     "forms": {
      "Her Sten Stures": 1,
@@ -206038,6 +206036,16 @@
     "units": [
      "u00896",
      "u01159"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Sten Stures": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00549"
     ]
    }
   },
@@ -206526,16 +206534,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Snorre Sturluson": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00318"
-    ]
-   },
    "1933b": {
     "forms": {
      "Snorre Sturluson": 3,
@@ -206551,6 +206549,16 @@
      "u00833",
      "u01315",
      "u01362"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Snorre Sturluson": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00318"
     ]
    }
   },
@@ -208286,6 +208294,16 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
+   "1936": {
+    "forms": {
+     "Svecia": 2
+    },
+    "n_full": 0,
+    "n_bare": 2,
+    "units": [
+     "u01491"
+    ]
+   },
    "1932": {
     "forms": {
      "Svecia": 2
@@ -208295,16 +208313,6 @@
     "units": [
      "u00321",
      "u00360"
-    ]
-   },
-   "1936": {
-    "forms": {
-     "Svecia": 2
-    },
-    "n_full": 0,
-    "n_bare": 2,
-    "units": [
-     "u01491"
     ]
    }
   }
@@ -208636,18 +208644,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Svegder": 3
-    },
-    "n_full": 0,
-    "n_bare": 3,
-    "units": [
-     "u00071",
-     "u00076",
-     "u00357"
-    ]
-   },
    "1943b": {
     "forms": {
      "Svegder": 4
@@ -208658,6 +208654,18 @@
      "u00279",
      "u00871",
      "u00872"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Svegder": 3
+    },
+    "n_full": 0,
+    "n_bare": 3,
+    "units": [
+     "u00071",
+     "u00076",
+     "u00357"
     ]
    }
   }
@@ -208729,17 +208737,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Sven": 3
-    },
-    "n_full": 0,
-    "n_bare": 3,
-    "units": [
-     "u00325",
-     "u00357"
-    ]
-   },
    "1943a": {
     "forms": {
      "Sven": 6
@@ -208752,6 +208749,17 @@
      "u01361",
      "u01366",
      "u01367"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Sven": 3
+    },
+    "n_full": 0,
+    "n_bare": 3,
+    "units": [
+     "u00325",
+     "u00357"
     ]
    }
   }
@@ -209164,16 +209172,6 @@
   ],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Sverker": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00071"
-    ]
-   },
    "1933b": {
     "forms": {
      "Sverker": 2
@@ -209192,6 +209190,16 @@
     "n_bare": 1,
     "units": [
      "u00416"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Sverker": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00071"
     ]
    }
   },
@@ -209706,16 +209714,6 @@
   ],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Swartling": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00494"
-    ]
-   },
    "1933b": {
     "forms": {
      "Swartling": 3
@@ -209726,6 +209724,16 @@
      "u00808",
      "u00814",
      "u00816"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Swartling": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00494"
     ]
    }
   },
@@ -210324,17 +210332,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Sweriges": 2
-    },
-    "n_full": 0,
-    "n_bare": 2,
-    "units": [
-     "u00086",
-     "u00093"
-    ]
-   },
    "1933b": {
     "forms": {
      "Sweriges": 1
@@ -210353,6 +210350,17 @@
     "n_bare": 1,
     "units": [
      "u02816"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Sweriges": 2
+    },
+    "n_full": 0,
+    "n_bare": 2,
+    "units": [
+     "u00086",
+     "u00093"
     ]
    }
   }
@@ -211185,16 +211193,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Tacitus": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00734"
-    ]
-   },
    "1933b": {
     "forms": {
      "Tacitus": 1
@@ -211233,6 +211231,16 @@
     "n_bare": 2,
     "units": [
      "u01458"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Tacitus": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00734"
     ]
    }
   },
@@ -211545,21 +211553,11 @@
   },
   "n_full": 0,
   "n_bare": 2,
-  "context_year": null,
+  "context_year": 1611,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Tegel": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00368"
-    ]
-   },
    "1935": {
     "forms": {
      "Tegel": 1
@@ -211568,6 +211566,16 @@
     "n_bare": 1,
     "units": [
      "u00169"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Tegel": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00368"
     ]
    }
   }
@@ -212271,6 +212279,16 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
+   "1935": {
+    "forms": {
+     "Teodorik": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00773"
+    ]
+   },
    "1932": {
     "forms": {
      "Teodorik": 2
@@ -212280,16 +212298,6 @@
     "units": [
      "u00036",
      "u00041"
-    ]
-   },
-   "1935": {
-    "forms": {
-     "Teodorik": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00773"
     ]
    }
   }
@@ -213135,21 +213143,11 @@
   },
   "n_full": 0,
   "n_bare": 2,
-  "context_year": 1600,
+  "context_year": 1554,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Theodoricus": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00052"
-    ]
-   },
    "1935": {
     "forms": {
      "Theodoricus": 1
@@ -213158,6 +213156,16 @@
     "n_bare": 1,
     "units": [
      "u00773"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Theodoricus": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00052"
     ]
    }
   }
@@ -213792,17 +213800,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Thomas": 2
-    },
-    "n_full": 0,
-    "n_bare": 2,
-    "units": [
-     "u00644",
-     "u00659"
-    ]
-   },
    "1933a": {
     "forms": {
      "Thomas": 2
@@ -213812,6 +213809,17 @@
     "units": [
      "u01851",
      "u02047"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Thomas": 2
+    },
+    "n_full": 0,
+    "n_bare": 2,
+    "units": [
+     "u00644",
+     "u00659"
     ]
    }
   }
@@ -213983,26 +213991,16 @@
   "name": "Johannes Thomæ",
   "surname": "Thomæ",
   "forms": {
-   "Johannes Thomæ": 1,
-   "Johanne Thomæ": 1
+   "Johanne Thomæ": 1,
+   "Johannes Thomæ": 1
   },
   "n_full": 2,
   "n_bare": 0,
-  "context_year": 1721,
+  "context_year": 1647,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Johannes Thomæ": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00498"
-    ]
-   },
    "1935": {
     "forms": {
      "Johanne Thomæ": 1
@@ -214011,6 +214009,16 @@
     "n_bare": 0,
     "units": [
      "u01016"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Johannes Thomæ": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00498"
     ]
    }
   }
@@ -214032,17 +214040,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Thor": 2
-    },
-    "n_full": 0,
-    "n_bare": 2,
-    "units": [
-     "u00075",
-     "u00761"
-    ]
-   },
    "1935": {
     "forms": {
      "Thor": 3
@@ -214080,6 +214077,17 @@
     "n_bare": 1,
     "units": [
      "u00158"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Thor": 2
+    },
+    "n_full": 0,
+    "n_bare": 2,
+    "units": [
+     "u00075",
+     "u00761"
     ]
    }
   }
@@ -214214,16 +214222,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Thore": 2
-    },
-    "n_full": 0,
-    "n_bare": 2,
-    "units": [
-     "u00059"
-    ]
-   },
    "1935": {
     "forms": {
      "Thore": 3
@@ -214242,6 +214240,16 @@
     "n_bare": 1,
     "units": [
      "u00279"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Thore": 2
+    },
+    "n_full": 0,
+    "n_bare": 2,
+    "units": [
+     "u00059"
     ]
    }
   }
@@ -214591,16 +214599,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Thott": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00286"
-    ]
-   },
    "1936": {
     "forms": {
      "Thott": 3
@@ -214620,6 +214618,16 @@
     "n_bare": 1,
     "units": [
      "u01319"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Thott": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00286"
     ]
    }
   },
@@ -215751,21 +215759,11 @@
   },
   "n_full": 0,
   "n_bare": 2,
-  "context_year": 1731,
+  "context_year": null,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Tings": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00757"
-    ]
-   },
    "1935": {
     "forms": {
      "Tings": 1
@@ -215774,6 +215772,16 @@
     "n_bare": 1,
     "units": [
      "u01486"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Tings": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00757"
     ]
    }
   }
@@ -216297,8 +216305,8 @@
   "name": "Tor",
   "surname": "Tor",
   "forms": {
-   "Tor": 6,
-   "Tors": 1
+   "Tors": 1,
+   "Tor": 6
   },
   "n_full": 0,
   "n_bare": 7,
@@ -216308,17 +216316,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Tor": 4
-    },
-    "n_full": 0,
-    "n_bare": 4,
-    "units": [
-     "u00059",
-     "u00735"
-    ]
-   },
    "1933a": {
     "forms": {
      "Tors": 1,
@@ -216329,6 +216326,17 @@
     "units": [
      "u02049",
      "u02298"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Tor": 4
+    },
+    "n_full": 0,
+    "n_bare": 4,
+    "units": [
+     "u00059",
+     "u00735"
     ]
    }
   }
@@ -218126,18 +218134,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Olof Tryggvasons": 4
-    },
-    "n_full": 4,
-    "n_bare": 0,
-    "units": [
-     "u00610",
-     "u00622",
-     "u00635"
-    ]
-   },
    "1933a": {
     "forms": {
      "Olof Tryggvasons": 1
@@ -218170,6 +218166,18 @@
     "units": [
      "u00080",
      "u00231"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Olof Tryggvasons": 4
+    },
+    "n_full": 4,
+    "n_bare": 0,
+    "units": [
+     "u00610",
+     "u00622",
+     "u00635"
     ]
    }
   }
@@ -218345,16 +218353,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Olof Trätelgia": 2
-    },
-    "n_full": 2,
-    "n_bare": 0,
-    "units": [
-     "u00071"
-    ]
-   },
    "1935": {
     "forms": {
      "Olof Trätelgia": 2
@@ -218364,6 +218362,16 @@
     "units": [
      "u00860",
      "u01914"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Olof Trätelgia": 2
+    },
+    "n_full": 2,
+    "n_bare": 0,
+    "units": [
+     "u00071"
     ]
    }
   }
@@ -219940,16 +219948,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Ubbe": 2
-    },
-    "n_full": 0,
-    "n_bare": 2,
-    "units": [
-     "u00357"
-    ]
-   },
    "1933b": {
     "forms": {
      "Ubbe": 1
@@ -219958,6 +219956,16 @@
     "n_bare": 1,
     "units": [
      "u01331"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Ubbe": 2
+    },
+    "n_full": 0,
+    "n_bare": 2,
+    "units": [
+     "u00357"
     ]
    }
   }
@@ -220289,21 +220297,11 @@
   },
   "n_full": 2,
   "n_bare": 0,
-  "context_year": 1664,
+  "context_year": 1679,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Corfitz Ulfeld": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00606"
-    ]
-   },
    "1933a": {
     "forms": {
      "Corfitz Ulfeld": 1
@@ -220312,6 +220310,16 @@
     "n_bare": 0,
     "units": [
      "u01445"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Corfitz Ulfeld": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00606"
     ]
    }
   }
@@ -220445,21 +220453,6 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Ulfilas": 6
-    },
-    "n_full": 0,
-    "n_bare": 6,
-    "units": [
-     "u00164",
-     "u00602",
-     "u00604",
-     "u00684",
-     "u00726",
-     "u00734"
-    ]
-   },
    "1933a": {
     "forms": {
      "Ulfilas": 2
@@ -220492,6 +220485,21 @@
      "u01357",
      "u01469"
     ]
+   },
+   "1932": {
+    "forms": {
+     "Ulfilas": 6
+    },
+    "n_full": 0,
+    "n_bare": 6,
+    "units": [
+     "u00164",
+     "u00602",
+     "u00604",
+     "u00684",
+     "u00726",
+     "u00734"
+    ]
    }
   }
  },
@@ -220510,6 +220518,16 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
+   "1936": {
+    "forms": {
+     "Ulfs": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u01498"
+    ]
+   },
    "1932": {
     "forms": {
      "Ulfs": 2
@@ -220519,16 +220537,6 @@
     "units": [
      "u00267",
      "u00278"
-    ]
-   },
-   "1936": {
-    "forms": {
-     "Ulfs": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u01498"
     ]
    }
   }
@@ -222188,22 +222196,6 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Gustav Vasa": 7
-    },
-    "n_full": 7,
-    "n_bare": 0,
-    "units": [
-     "u00029",
-     "u00030",
-     "u00062",
-     "u00078",
-     "u00083",
-     "u00085",
-     "u00856"
-    ]
-   },
    "1933a": {
     "forms": {
      "Gustav Vasa": 3,
@@ -222304,6 +222296,22 @@
      "u01130",
      "u01452"
     ]
+   },
+   "1932": {
+    "forms": {
+     "Gustav Vasa": 7
+    },
+    "n_full": 7,
+    "n_bare": 0,
+    "units": [
+     "u00029",
+     "u00030",
+     "u00062",
+     "u00078",
+     "u00083",
+     "u00085",
+     "u00856"
+    ]
    }
   }
  },
@@ -222348,22 +222356,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Gustav Vasas": 7
-    },
-    "n_full": 7,
-    "n_bare": 0,
-    "units": [
-     "u00027",
-     "u00031",
-     "u00056",
-     "u00062",
-     "u00081",
-     "u00085",
-     "u00368"
-    ]
-   },
    "1933b": {
     "forms": {
      "Gustav Vasas": 4
@@ -222416,6 +222408,22 @@
      "u01022",
      "u01130",
      "u01435"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Gustav Vasas": 7
+    },
+    "n_full": 7,
+    "n_bare": 0,
+    "units": [
+     "u00027",
+     "u00031",
+     "u00056",
+     "u00062",
+     "u00081",
+     "u00085",
+     "u00368"
     ]
    }
   }
@@ -222991,14 +222999,14 @@
   "name": "Olaus Verelius",
   "surname": "Verelius",
   "forms": {
+   "OLAUS VERELIUS": 1,
    "Olaus Verelius": 30,
    "Olao Verelio": 3,
-   "Olaum Verelius": 1,
-   "Verelius": 376,
-   "Verelium": 1,
-   "OLAUS VERELIUS": 1,
    "Olai Verelii": 1,
-   "Verelii": 2
+   "Verelius": 376,
+   "Verelii": 2,
+   "Olaum Verelius": 1,
+   "Verelium": 1
   },
   "n_full": 36,
   "n_bare": 379,
@@ -223020,104 +223028,6 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Olaus Verelius": 22,
-     "Olao Verelio": 2,
-     "Olaum Verelius": 1,
-     "Verelius": 136,
-     "Verelium": 1
-    },
-    "n_full": 25,
-    "n_bare": 137,
-    "bare_probable": 137,
-    "units": [
-     "u00492",
-     "u00580",
-     "u00602",
-     "u00604",
-     "u00610",
-     "u00611",
-     "u00617",
-     "u00619",
-     "u00620",
-     "u00623",
-     "u00624",
-     "u00625",
-     "u00626",
-     "u00629",
-     "u00649",
-     "u00659",
-     "u00662",
-     "u00664",
-     "u00665",
-     "u00666",
-     "u00667",
-     "u00668",
-     "u00669",
-     "u00670",
-     "u00671",
-     "u00672",
-     "u00673",
-     "u00674",
-     "u00675",
-     "u00676",
-     "u00677",
-     "u00678",
-     "u00679",
-     "u00681",
-     "u00682",
-     "u00683",
-     "u00684",
-     "u00685",
-     "u00689",
-     "u00691",
-     "u00697",
-     "u00699",
-     "u00703",
-     "u00705",
-     "u00707",
-     "u00709",
-     "u00711",
-     "u00713",
-     "u00717",
-     "u00719",
-     "u00723",
-     "u00726",
-     "u00727",
-     "u00730",
-     "u00731",
-     "u00732",
-     "u00734",
-     "u00735",
-     "u00736",
-     "u00737",
-     "u00740",
-     "u00742",
-     "u00745",
-     "u00748",
-     "u00750",
-     "u00756",
-     "u00761",
-     "u00770",
-     "u00772",
-     "u00776",
-     "u00777",
-     "u00778",
-     "u00830",
-     "u00832",
-     "u00833",
-     "u00834",
-     "u00837",
-     "u00842",
-     "u00845",
-     "u00848",
-     "u00851",
-     "u00853",
-     "u00867",
-     "u00869"
-    ]
-   },
    "1933a": {
     "forms": {
      "OLAUS VERELIUS": 1
@@ -223257,6 +223167,104 @@
      "u01469",
      "u01479"
     ]
+   },
+   "1932": {
+    "forms": {
+     "Olaus Verelius": 22,
+     "Olao Verelio": 2,
+     "Olaum Verelius": 1,
+     "Verelius": 136,
+     "Verelium": 1
+    },
+    "n_full": 25,
+    "n_bare": 137,
+    "bare_probable": 137,
+    "units": [
+     "u00492",
+     "u00580",
+     "u00602",
+     "u00604",
+     "u00610",
+     "u00611",
+     "u00617",
+     "u00619",
+     "u00620",
+     "u00623",
+     "u00624",
+     "u00625",
+     "u00626",
+     "u00629",
+     "u00649",
+     "u00659",
+     "u00662",
+     "u00664",
+     "u00665",
+     "u00666",
+     "u00667",
+     "u00668",
+     "u00669",
+     "u00670",
+     "u00671",
+     "u00672",
+     "u00673",
+     "u00674",
+     "u00675",
+     "u00676",
+     "u00677",
+     "u00678",
+     "u00679",
+     "u00681",
+     "u00682",
+     "u00683",
+     "u00684",
+     "u00685",
+     "u00689",
+     "u00691",
+     "u00697",
+     "u00699",
+     "u00703",
+     "u00705",
+     "u00707",
+     "u00709",
+     "u00711",
+     "u00713",
+     "u00717",
+     "u00719",
+     "u00723",
+     "u00726",
+     "u00727",
+     "u00730",
+     "u00731",
+     "u00732",
+     "u00734",
+     "u00735",
+     "u00736",
+     "u00737",
+     "u00740",
+     "u00742",
+     "u00745",
+     "u00748",
+     "u00750",
+     "u00756",
+     "u00761",
+     "u00770",
+     "u00772",
+     "u00776",
+     "u00777",
+     "u00778",
+     "u00830",
+     "u00832",
+     "u00833",
+     "u00834",
+     "u00837",
+     "u00842",
+     "u00845",
+     "u00848",
+     "u00851",
+     "u00853",
+     "u00867",
+     "u00869"
+    ]
    }
   },
   "n_ambiguous": 178
@@ -223296,16 +223304,6 @@
   ],
   "wikidata": "Q445867",
   "vols": {
-   "1932": {
-    "forms": {
-     "Samuel Verelius": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00503"
-    ]
-   },
    "1933a": {
     "forms": {
      "Samuel Verelius": 2,
@@ -223410,6 +223408,16 @@
      "u02311",
      "u02333",
      "u02440"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Samuel Verelius": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00503"
     ]
    }
   },
@@ -223817,21 +223825,11 @@
   },
   "n_full": 0,
   "n_bare": 3,
-  "context_year": 1802,
+  "context_year": 1631,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Vida": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00412"
-    ]
-   },
    "1933b": {
     "forms": {
      "Vida": 1
@@ -223850,6 +223848,16 @@
     "n_bare": 1,
     "units": [
      "u01054"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Vida": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00412"
     ]
    }
   }
@@ -224019,21 +224027,11 @@
   },
   "n_full": 0,
   "n_bare": 3,
-  "context_year": 1697,
+  "context_year": 1400,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Viger": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00026"
-    ]
-   },
    "1933b": {
     "forms": {
      "Viger": 1
@@ -224052,6 +224050,16 @@
     "n_bare": 1,
     "units": [
      "u00764"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Viger": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00026"
     ]
    }
   }
@@ -224775,6 +224783,16 @@
   "status": "review",
   "manuscripta": null,
   "vols": {
+   "1933b": {
+    "forms": {
+     "Sigismundus Vogel": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00916"
+    ]
+   },
    "1932": {
     "forms": {
      "Sigismundus Vogel": 1,
@@ -224786,16 +224804,6 @@
     "units": [
      "u00196",
      "u00765"
-    ]
-   },
-   "1933b": {
-    "forms": {
-     "Sigismundus Vogel": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00916"
     ]
    }
   }
@@ -230418,17 +230426,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Olaus Werelius": 1,
-     "Werelius": 1
-    },
-    "n_full": 1,
-    "n_bare": 1,
-    "units": [
-     "u00838"
-    ]
-   },
    "1933a": {
     "forms": {
      "Olaus Werelius": 1,
@@ -230439,6 +230436,17 @@
     "units": [
      "u01081",
      "u02311"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Olaus Werelius": 1,
+     "Werelius": 1
+    },
+    "n_full": 1,
+    "n_bare": 1,
+    "units": [
+     "u00838"
     ]
    }
   }
@@ -230604,8 +230612,8 @@
   "name": "Werlauff",
   "surname": "Werlauff",
   "forms": {
-   "Werlauffs": 2,
-   "Werlauff": 8
+   "Werlauff": 8,
+   "Werlauffs": 2
   },
   "n_full": 0,
   "n_bare": 10,
@@ -230627,20 +230635,6 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Werlauffs": 1,
-     "Werlauff": 4
-    },
-    "n_full": 0,
-    "n_bare": 5,
-    "units": [
-     "u00247",
-     "u00383",
-     "u00392",
-     "u00584"
-    ]
-   },
    "1944": {
     "forms": {
      "Werlauff": 4,
@@ -230654,6 +230648,20 @@
      "u00220",
      "u00771",
      "u00799"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Werlauffs": 1,
+     "Werlauff": 4
+    },
+    "n_full": 0,
+    "n_bare": 5,
+    "units": [
+     "u00247",
+     "u00383",
+     "u00392",
+     "u00584"
     ]
    }
   }
@@ -231702,10 +231710,10 @@
   "surname": "Westhius",
   "forms": {
    "Petrus Olai Westhius": 1,
-   "Westhius": 8
+   "Westhius": 9
   },
   "n_full": 1,
-  "n_bare": 8,
+  "n_bare": 9,
   "context_year": 1644,
   "candidates": [],
   "wikidata": null,
@@ -231715,17 +231723,18 @@
    "1932": {
     "forms": {
      "Petrus Olai Westhius": 1,
-     "Westhius": 8
+     "Westhius": 9
     },
     "n_full": 1,
-    "n_bare": 8,
+    "n_bare": 9,
     "units": [
      "u00516",
      "u00518",
      "u00521",
      "u00526",
      "u00541",
-     "u00830"
+     "u00830",
+     "u00860"
     ]
    }
   }
@@ -232931,6 +232940,16 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
+   "1933b": {
+    "forms": {
+     "Harald Wieselgren": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00814"
+    ]
+   },
    "1932": {
     "forms": {
      "Harald Wieselgren": 3,
@@ -232944,16 +232963,6 @@
      "u00599",
      "u00601",
      "u00604"
-    ]
-   },
-   "1933b": {
-    "forms": {
-     "Harald Wieselgren": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00814"
     ]
    }
   }
@@ -233227,18 +233236,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Wij": 4
-    },
-    "n_full": 0,
-    "n_bare": 4,
-    "units": [
-     "u00755",
-     "u00814",
-     "u00838"
-    ]
-   },
    "1933a": {
     "forms": {
      "Wij": 9
@@ -233271,6 +233268,18 @@
      "u00922",
      "u01011",
      "u01265"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Wij": 4
+    },
+    "n_full": 0,
+    "n_bare": 4,
+    "units": [
+     "u00755",
+     "u00814",
+     "u00838"
     ]
    }
   }
@@ -234236,16 +234245,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Wille": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00808"
-    ]
-   },
    "1933a": {
     "forms": {
      "Wille": 1
@@ -234254,6 +234253,16 @@
     "n_bare": 1,
     "units": [
      "u00433"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Wille": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00808"
     ]
    }
   }
@@ -235367,10 +235376,10 @@
   "surname": "Wormius",
   "forms": {
    "Olaus Wormius": 3,
-   "Olai Wormii": 2,
    "Wormius": 67,
    "Doctor Olaus Wormius": 1,
-   "Wormio": 1
+   "Wormio": 1,
+   "Olai Wormii": 2
   },
   "n_full": 6,
   "n_bare": 68,
@@ -235392,6 +235401,35 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
+   "1933b": {
+    "forms": {
+     "Olaus Wormius": 1,
+     "Wormius": 4
+    },
+    "n_full": 1,
+    "n_bare": 4,
+    "units": [
+     "u00739",
+     "u00826",
+     "u00948"
+    ]
+   },
+   "1935": {
+    "forms": {
+     "Doctor Olaus Wormius": 1,
+     "Wormius": 3,
+     "Wormio": 1
+    },
+    "n_full": 1,
+    "n_bare": 4,
+    "units": [
+     "u00825",
+     "u00828",
+     "u00829",
+     "u00831",
+     "u00841"
+    ]
+   },
    "1932": {
     "forms": {
      "Olaus Wormius": 2,
@@ -235424,35 +235462,6 @@
      "u00610",
      "u00672",
      "u00754"
-    ]
-   },
-   "1933b": {
-    "forms": {
-     "Olaus Wormius": 1,
-     "Wormius": 4
-    },
-    "n_full": 1,
-    "n_bare": 4,
-    "units": [
-     "u00739",
-     "u00826",
-     "u00948"
-    ]
-   },
-   "1935": {
-    "forms": {
-     "Doctor Olaus Wormius": 1,
-     "Wormius": 3,
-     "Wormio": 1
-    },
-    "n_full": 1,
-    "n_bare": 4,
-    "units": [
-     "u00825",
-     "u00828",
-     "u00829",
-     "u00831",
-     "u00841"
     ]
    }
   }
@@ -236705,16 +236714,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Wår": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00838"
-    ]
-   },
    "1936": {
     "forms": {
      "Wår": 1
@@ -236744,6 +236743,16 @@
     "n_bare": 1,
     "units": [
      "u01160"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Wår": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00838"
     ]
    }
   },
@@ -237072,16 +237081,6 @@
   ],
   "wikidata": "Q52935",
   "vols": {
-   "1932": {
-    "forms": {
-     "Karl XI": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00848"
-    ]
-   },
    "1933a": {
     "forms": {
      "Karl XI": 27
@@ -237226,6 +237225,16 @@
      "u01190",
      "u01288"
     ]
+   },
+   "1932": {
+    "forms": {
+     "Karl XI": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00848"
+    ]
    }
   },
   "manuscripta": "https://www.manuscripta.se/person/100082"
@@ -237272,16 +237281,6 @@
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Karl XI:s": 1
-    },
-    "n_full": 1,
-    "n_bare": 0,
-    "units": [
-     "u00418"
-    ]
-   },
    "1933a": {
     "forms": {
      "Karl XI:s": 7
@@ -237385,6 +237384,16 @@
      "u01261",
      "u01274",
      "u01497"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Karl XI:s": 1
+    },
+    "n_full": 1,
+    "n_bare": 0,
+    "units": [
+     "u00418"
     ]
    }
   },
@@ -237833,17 +237842,6 @@
   "status": "auto",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Erik XIV": 3
-    },
-    "n_full": 3,
-    "n_bare": 0,
-    "units": [
-     "u00085",
-     "u00086"
-    ]
-   },
    "1935": {
     "forms": {
      "Erik XIV": 2,
@@ -237901,6 +237899,17 @@
     "n_bare": 0,
     "units": [
      "u01233"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Erik XIV": 3
+    },
+    "n_full": 3,
+    "n_bare": 0,
+    "units": [
+     "u00085",
+     "u00086"
     ]
    }
   }
@@ -238001,17 +238010,6 @@
   "status": "none",
   "manuscripta": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Erik XIV:s": 2
-    },
-    "n_full": 2,
-    "n_bare": 0,
-    "units": [
-     "u00084",
-     "u00856"
-    ]
-   },
    "1933a": {
     "forms": {
      "Erik XIV:s": 1
@@ -238076,6 +238074,17 @@
     "units": [
      "u01229",
      "u01265"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Erik XIV:s": 2
+    },
+    "n_full": 2,
+    "n_bare": 0,
+    "units": [
+     "u00084",
+     "u00856"
     ]
    }
   }
@@ -240781,21 +240790,11 @@
   },
   "n_full": 0,
   "n_bare": 2,
-  "context_year": 1672,
+  "context_year": 1634,
   "status": "skipped",
   "candidates": [],
   "wikidata": null,
   "vols": {
-   "1932": {
-    "forms": {
-     "Ölandz": 1
-    },
-    "n_full": 0,
-    "n_bare": 1,
-    "units": [
-     "u00550"
-    ]
-   },
    "1933b": {
     "forms": {
      "Ölandz": 1
@@ -240804,6 +240803,16 @@
     "n_bare": 1,
     "units": [
      "u00867"
+    ]
+   },
+   "1932": {
+    "forms": {
+     "Ölandz": 1
+    },
+    "n_full": 0,
+    "n_bare": 1,
+    "units": [
+     "u00550"
     ]
    }
   }

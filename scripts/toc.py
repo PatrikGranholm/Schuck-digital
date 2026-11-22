@@ -12,7 +12,8 @@ so the TOC is an independent check of the TEI's <note place="margin" type="summa
   in body    not a sidenote, but the topic text occurs in body text on that page
              (a sidenote OCR merged into the paragraph)
   missing    nowhere on the page
-Text comes from dots.mocr's reading of the TOC images listed in the structure file, or from the PDF
+Text comes from a hand-encoded page in data/edit where there is one (vol. I image 314), else from
+dots.mocr's reading of the TOC images listed in the structure file, or from the PDF
 text layer for a page dots.mocr could not read (a reply that looped on dot leaders) or with
 --source textlayer. dots.mocr gives clean lines; the text layer runs chapter titles into topics and
 garbles page numbers (vol. VIII: "Expenser4i5-", "Tillägg till staten 4x8").
@@ -36,6 +37,11 @@ FOLD = str.maketrans({"i": "1", "I": "1", "l": "1", "o": "0", "O": "0", "°": "0
 
 def toc_page(vol, i, source="auto"):
     """(source used, page regions) for one TOC image."""
+    if source == "auto":
+        from to_tei import load_edit
+        ep = load_edit(vol).get(i)
+        if ep:   # hand-encoded (data/edit): one line per TOC entry, as clean as dots.mocr's
+            return "edit", {"body": "\n".join(x for k, x in ep["items"] if k in ("p", "h"))}
     if source != "textlayer":
         f = OCR / "dots-layout" / vol / f"p{i:04d}.json"
         if f.exists() and json.loads(f.read_text()).get("finish") == "stop" and dots_blocks(vol, i):
@@ -61,7 +67,7 @@ def parse_toc(vol, images, chapters, parts=(), source="auto"):
         for l in page["body"].split("\n"):
             if re.match(r"\s*R[ÄA]TTELSER", l):      # the errata, printed after the TOC (vol. II image 497)
                 break
-            if src == "dots":
+            if src in ("dots", "edit"):
                 # dots.mocr gives a chapter or part title as a line of its own, ending in its page or page
                 # range ("Amanuens och sekreterare 3-22", "De första månaderna 57"), sometimes split over
                 # two lines ("Levernesbeskrivningar," / "inträdestal och avhandlingar 216"): drop it
@@ -102,7 +108,9 @@ def parse_toc(vol, images, chapters, parts=(), source="auto"):
     # a lone letter other than I/l is not a page number ("Miracuia S. Erici 245": S is not page 5)
     for t in re.finditer(r"([^,]+?)\s+((?![oOsS°;>?’Ö]\s*(?:[,.>?’»;]|$))[\diIloOsS°;>?’Ö]{1,3}(?: ?\d)?)"
                          r"\s*(?=[,.>?’»;]|$)", text):
-        name, raw = t.group(1).strip(" .,»>’"), t.group(2).replace(" ", "")
+        name, raw = t.group(1).strip(" .,>’"), t.group(2).replace(" ", "")
+        while name.count("»") % 2:                         # a stray guillemet, not a quotation: »extra patriam» stays
+            name = name[1:] if name.startswith("»") else name[:-1] if name.endswith("»") else name.replace("»", "", 1)
         name = re.sub(r"s’(?=[a-zåäö])", "s’ ", name)      # text layer: "Bureus’ställning" (vol. I)
         name = name.lstrip("?; ")                          # a comma read as "?": "lexikograf 79? Bureus’ …"
         num = raw.translate(FOLD)
