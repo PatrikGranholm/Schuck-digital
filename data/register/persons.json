@@ -81399,7 +81399,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": null,
-  "status": "auto",
+  "status": "checked",
   "candidates": [
    {
     "qid": "Q5716814",
@@ -81444,9 +81444,21 @@
     "viaf": null,
     "sbl": null,
     "libris": null
+   },
+   {
+    "qid": "Q320977",
+    "label": "Knut Eriksson",
+    "desc": "kung av Sverige från 1167 till 1195 eller 1196",
+    "birth": 1150,
+    "death": 1196,
+    "score": null,
+    "viaf": "308301529",
+    "sbl": "11661",
+    "libris": "373646",
+    "manual": true
    }
   ],
-  "wikidata": "Q5716814",
+  "wikidata": "Q320977",
   "vols": {
    "1943b": {
     "forms": {
@@ -81477,7 +81489,8 @@
     "years": {}
    }
   },
-  "manuscripta": null
+  "manuscripta": null,
+  "reviewed": "2026-11-22T15:03:55"
  },
  {
   "id": "pers-eriksson-elias",
@@ -164722,6 +164735,20 @@
   "manuscripta": null
  },
  {
+  "id": "pers-lars-olsson-i-allmänninge",
+  "name": "Lars Olsson i Allmänninge",
+  "forms": {},
+  "candidates": [],
+  "wikidata": null,
+  "status": "checked",
+  "manual": true,
+  "vols": {},
+  "reviewed": "2026-11-22T15:05:04",
+  "surname": "Allmänninge",
+  "n_full": 0,
+  "n_bare": 0
+ },
+ {
   "id": "pers-larsarfve-olaus",
   "name": "Olof Olofsson Larsarfve",
   "surname": "Larsarfve",
@@ -193036,7 +193063,7 @@
  },
  {
   "id": "pers-nescher",
-  "name": "Nescher",
+  "name": "Daniel Georg Nescher",
   "surname": "Nescher",
   "forms": {
    "Nescher": 2
@@ -193044,7 +193071,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1696,
-  "status": "auto",
+  "status": "checked",
   "candidates": [
    {
     "qid": "Q217715",
@@ -193056,9 +193083,21 @@
     "viaf": "39615291",
     "sbl": null,
     "libris": null
+   },
+   {
+    "qid": "Q16649975",
+    "label": "Daniel Georg Nescher",
+    "desc": "svensk konstsamlare",
+    "birth": 1753,
+    "death": 1827,
+    "score": null,
+    "viaf": null,
+    "sbl": "8849",
+    "libris": null,
+    "manual": true
    }
   ],
-  "wikidata": "Q217715",
+  "wikidata": "Q16649975",
   "vols": {
    "1933a": {
     "forms": {
@@ -193093,7 +193132,8 @@
     }
    }
   },
-  "manuscripta": null
+  "manuscripta": null,
+  "reviewed": "2026-11-22T15:04:23"
  },
  {
   "id": "pers-nesselius",
@@ -204544,7 +204584,7 @@
  },
  {
   "id": "pers-olsson-laurentius",
-  "name": "Lars Olsson",
+  "name": "Lars Olsson i Gröndal",
   "surname": "Olsson",
   "forms": {
    "Lars Olsson": 2
@@ -204552,7 +204592,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1807,
-  "status": "auto",
+  "status": "checked",
   "candidates": [
    {
     "qid": "Q6027364",
@@ -204599,7 +204639,7 @@
     "libris": null
    }
   ],
-  "wikidata": "Q6027364",
+  "wikidata": null,
   "vols": {
    "1936": {
     "forms": {
@@ -204634,7 +204674,8 @@
     }
    }
   },
-  "manuscripta": null
+  "manuscripta": null,
+  "reviewed": "2026-11-22T15:04:50"
  },
  {
   "id": "pers-olsson-michael",
@@ -246646,7 +246687,7 @@
     "libris": "206289"
    }
   ],
-  "status": "auto",
+  "status": "checked",
   "wikidata": "Q1926407",
   "vols": {
    "1932": {
@@ -246775,7 +246816,8 @@
     "years": {}
    }
   },
-  "manuscripta": "https://www.manuscripta.se/person/100196"
+  "manuscripta": "https://www.manuscripta.se/person/100196",
+  "reviewed": "2026-11-22T15:03:40"
  },
  {
   "id": "pers-schürer",
