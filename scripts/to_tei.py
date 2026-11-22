@@ -415,7 +415,7 @@ def inline(text, ph, extra_spans=(), footnote=False):
 def load_edit(vol):
     """Hand-encoded passages, data/edit/<vol>-*.txt (format in data/edit/README.md) -> {image index: page},
     page = {"page": printed number, "head": running head, "items": [(kind, payload)], "foot": {n: text}};
-    kind: "+" (continues the paragraph from the previous page), "p", "h", "e" (an inventory entry, its
+    kind: "+" (continues the paragraph from the previous page), "p", "h", "fig" (payload: caption), "e" (an inventory entry, its
     number and year wrapped in ⸢…⸣ ⸤…⸥), "table" (payload: rows) or "q" (payload: True where a quoted
     document starts, False where it stops)."""
     pages = {}
@@ -427,13 +427,20 @@ def load_edit(vol):
                 continue
             if ln.startswith("=== "):
                 _, i, n = ln.split(maxsplit=2)
-                cur = pages[int(i)] = {"page": int(n) if n.isdigit() else n, "head": "", "items": [], "foot": {}}
+                printed = not (n.startswith("[") or n == "-")   # [48]: page not numbered in print; -: a plate
+                n = n.strip("[]")
+                cur = pages[int(i)] = {"page": int(n) if n.isdigit() else (None if n == "-" else n),
+                                       "printed": printed, "head": "", "sig": "", "items": [], "foot": {}}
                 table_open = False
                 continue
             key, _, rest = ln.partition(" ")
             rest = rest.strip()
             if key == "head":
                 cur["head"] = rest
+            elif key == "sig":
+                cur["sig"] = rest
+            elif key == "fig":                # a picture; its printed caption (may be empty)
+                cur["items"].append(("fig", rest))
             elif key == "foot":
                 n, _, t = rest.partition(" ")
                 cur["foot"][n] = t
@@ -975,7 +982,7 @@ def build(vol):
     qn = [0]
     stats = {"pages": 0, "gt": 0, "dots": 0, "textlayer": 0, "foot": 0, "foot_unanchored": 0, "margin": 0,
              "quotes": 0, "bibl": 0, "paragraphs": 0, "margin_rescued": 0, "margin_toc": 0, "margin_inserted": 0, "manuscripta": 0, "riksarkivet": 0, "academy": 0, "errata": 0,
-             "names": 0, "spelling": 0, "edit": 0}
+             "names": 0, "spelling": 0, "edit": 0, "captions": 0}
     spell = {}              # placeholder -> (dots word, text-layer word, page): old-spelling candidates
     spell_log = []          # applied changes, for report/spelling-<vol>.md
 
@@ -1112,6 +1119,9 @@ def build(vol):
             target = back_divs[kind] if kind else None
             if target is None:   # covers / blank leaves after the back matter: image only
                 continue
+            if idx in edit:   # hand-encoded (a TOC page dots.mocr could not read): one ab per line
+                resp, blocks = "#edit", [{"kind": "body", "text": x} for k, x in edit[idx]["items"] if k in ("p", "h")]
+                stats["edit"] += 1
             target.append(page_points(idx, page, resp, []))
             for b in blocks:
                 if b["kind"] in ("body", "heading", "margin", "foot", "caption", "other", "head") and b["text"]:
@@ -1121,10 +1131,13 @@ def build(vol):
         if how == "plate" or (how not in ("read", "filled") and idx > first_idx):
             resp, blocks = page_source(vol, idx)
             texts = [b["text"] for b in blocks if b["kind"] not in ("figure", "table", "pageno") and b["text"].strip()]
+            if idx in edit:   # hand-encoded: the caption only, the plate's own lettering not transcribed
+                resp, texts = "#edit", [x for k, x in edit[idx]["items"] if k == "fig" and x]
+                stats["edit"] += 1
             if sum(map(len, texts)) < 300:   # caption, e.g. "JOHANNES BUREUS / Efter porträtt på Gripsholm"
                 inner = f"<head>{inline(' / '.join(texts), ph.xml)}</head>" if texts else ""
-            else:                            # engraved text reproduced on the plate (uncorrected OCR)
-                inner = "".join(f'<ab type="plateText">{inline(t, ph.xml)}</ab>' for t in texts)
+            else:                            # lettering on the plate itself (an old print's title, a facsimile): not transcribed
+                inner = ""
             pts = ph.add(f'<pb facs="#f{vol}-{idx:04d}" resp="{resp}"/>'
                          f'<figure type="plate" facs="#f{vol}-{idx:04d}">{inner}</figure>')
             if para is not None:
@@ -1153,7 +1166,8 @@ def build(vol):
                     return ph.add(f'<note place="foot" n="{n}">{inline(ep["foot"][n], ph.xml, footnote=True)}</note>')
                 return re.sub(r"\^(\d{1,2})", foot, t)
             pb = page_points(idx, page, "#edit", ([{"kind": "head", "text": ep["head"]}] if ep["head"] else [])
-                             + [{"kind": "pageno", "text": str(page)}])
+                             + ([{"kind": "pageno", "text": str(page)}] if ep["printed"] else [])
+                             + ([{"kind": "signature", "text": ep["sig"]}] if ep["sig"] else []))
             def quoted(xml):
                 """A table cell inside a quoted document: one more part of its quotation chain."""
                 if not quote_open[0]:
@@ -1170,6 +1184,15 @@ def build(vol):
                 if kind == "q":
                     flush_para()
                     quote_open[0], last_quote[0] = x, None
+                    continue
+                if kind == "fig":         # a picture in the text: stays inside a paragraph that runs past it
+                    head = f"<head>{inline(x, ph.xml)}</head>" if x else ""
+                    fig = (pb or "") + f'<figure facs="#f{vol}-{idx:04d}">{head}</figure>'
+                    pb = None
+                    if para is not None:
+                        para.append(ph.add(fig))
+                    else:
+                        cur_div.append(fig)
                     continue
                 if kind == "+" and para is not None and pb:
                     prev = "".join(para).rstrip()
@@ -1215,13 +1238,27 @@ def build(vol):
             stats["margin_inserted"] += rescue_inserted(vol, idx, topics, done, blocks, toc_vocab)
             toc_done = done if isinstance(page, int) else set()
         # an illustration printed in the text (e.g. a runic stone) whose inscriptions OCR reads
-        # as many marginal blocks: more than four "sidenotes" on one page -> figure text
+        # as many marginal blocks: more than four "sidenotes" on one page -> a figure, its text dropped
         margins = [b for b in blocks if b["kind"] == "margin"]
         if len([b for b in margins if b.get("cat") != "toc"]) > 4:
             for b in margins:
                 b["kind"] = "figtext"
             blocks.append({"kind": "figure", "text": "", "bbox": None,
                            "figtext": [b["text"] for b in margins]})
+        # a figure's caption: the Caption block, or text dots.mocr called a page footer, just below the picture;
+        # one caption under several pictures (the two halves of a plate) makes them one figure
+        figs = [b for b in blocks if b["kind"] == "figure" and b.get("bbox")]
+        for c in [b for b in blocks if b["kind"] == "caption" or (b["kind"] == "other" and b.get("cat") == "Page-footer")]:
+            cb = c["bbox"]
+            under = [f for f in figs if -10 <= cb[1] - f["bbox"][3] <= 120 and f["bbox"][0] < cb[2] and cb[0] < f["bbox"][2]]
+            if not under and c["kind"] == "caption" and figs:
+                under = [min(figs, key=lambda f: abs(cb[1] - f["bbox"][3]))]
+            if under:
+                under[0]["caption"] = (under[0].get("caption", "") + " " + c["text"]).strip()
+                for f in under[1:]:
+                    f["kind"] = "figpart"
+                c["kind"] = "figcaption"
+                stats["captions"] += 1
         for e in struct.get("errata", []):   # the printed errata list: <choice><sic/><corr/></choice>
             if e["page"] != page:
                 continue
@@ -1318,8 +1355,10 @@ def build(vol):
                 cur_div.append(f"<table>{rows}</table>")
                 continue
             if b["kind"] == "figure":
-                inner = "".join(f'<ab type="figText">{inline(t, ph.xml)}</ab>' for t in b.get("figtext", []))
+                inner = f"<head>{inline(b['caption'], ph.xml)}</head>" if b.get("caption") else ""   # lettering in the picture: not transcribed
                 fig = f'<figure facs="#f{vol}-{idx:04d}">{inner}</figure>' if inner else f'<figure facs="#f{vol}-{idx:04d}"/>'
+                if pb and all(blocks[j]["kind"] == "figure" for j in body_blocks[k:]):
+                    fig, pb = pb + fig, None   # a page of pictures: its page break before them, in the paragraph
                 if para is not None:
                     para.append(ph.add(fig))
                 else:
@@ -1402,12 +1441,18 @@ def build(vol):
         n = f' n="{r["page"]}"' if r["page"] else ""
         surfaces.append(f'<surface xml:id="f{vol}-{r["index"]:04d}"{n} ulx="0" uly="0" lrx="{w}" lry="{h}">'
                         f'<graphic url="../data/img/{vol}/{p.name}" width="{w}px" height="{h}px"/></surface>')
-    edit_resp = ('<respStmt xml:id="edit"><resp>Hand-encoded passage (data/edit): OCR text corrected against the page '
-                 'image, with the structure of a quoted document (entries, item numbers, later additions in small type '
-                 'as add) encoded by hand</resp><name>Schück digital</name></respStmt>\n') if edit else ""
-    edit_decl = (" Some quoted documents are encoded by hand (#edit): entries carry their item number and year as "
+    quoted_doc = any(k == "e" for ep in edit.values() for k, _ in ep["items"])
+    unread = any(not any(k == "e" for k, _ in ep["items"]) and not any(k == "q" for k, _ in ep["items"])
+                 for ep in edit.values())    # hand-encoded because OCR failed (figures, a TOC page)
+    edit_resp = ('<respStmt xml:id="edit"><resp>Hand-encoded page (data/edit): text corrected against the page '
+                 'image and its structure encoded by hand' + (' (in a quoted document: entries, item numbers, later '
+                 'additions in small type as add)' if quoted_doc else '') + '</resp><name>Schück digital</name>'
+                 '</respStmt>\n') if edit else ""
+    edit_decl = (" Pages OCR could not read are encoded by hand (#edit); pictures and plates are not transcribed, "
+                 "only their printed captions." if unread else "") + (
+                 " Some quoted documents are encoded by hand (#edit): entries carry their item number and year as "
                  "label, and the additions Schück prints in smaller type are add (place=\"margin\" where printed in "
-                 "the margin).") if edit else ""
+                 "the margin)." if quoted_doc else "")
     xml = f"""<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="{TEI_NS}" xml:lang="sv">

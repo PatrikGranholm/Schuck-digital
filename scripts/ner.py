@@ -67,7 +67,12 @@ def extract_units(tei_path):
             n = new_unit("footnote" if el.get("place") == "foot" else "sidenote", el)
             fill(el, n)
             return
-        start = sum(map(len, u["buf"])) if u is not None else 0
+        if tag == "figure":   # a picture inside a paragraph: its caption and text are units of their own
+            for c in el:
+                if c.tag.replace(T, "") in UNIT_TAGS:
+                    fill(c, new_unit(c.tag.replace(T, ""), c))
+            return
+        start =sum(map(len, u["buf"])) if u is not None else 0
         if el.text and u is not None:
             u["buf"].append(el.text)
         for c in el:
