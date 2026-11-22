@@ -487,7 +487,7 @@ async function renderQuotes() {
 }
 
 const REPOS = [[/^(R\. ?A\.|Riksarkiv)/, "Riksarkivet (R. A.)"], [/^(K\. ?B\.|Kungl\. ?bibl)/, "Kungl. biblioteket (K. B.)"],
-  [/^(U\. ?U\. ?B\.|Ups)/, "Uppsala universitetsbibliotek (U. U. B.)"], [/^V\. ?H\. ?A\. ?A\./, "V. H. A. A."]];
+  [/^(U\. ?U\. ?B\.|U\. ?B\.|Ups)/, "Uppsala universitetsbibliotek (U. B.)"], [/^V\. ?H\. ?A\. ?A\./, "V. H. A. A."]];
 async function renderSources() {
   S.sRendered = true;
   const vs = await listVols("sallvols", "scount", "s");
