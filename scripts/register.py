@@ -293,9 +293,16 @@ def manuscripta_by_viaf():
 
 # ---------------------------------------------------------------- build
 
-def context_years(ner, unit_ids):
+def year_counts(ner, unit_ids):
+    """Years (1300-1899) in the text units an entry is mentioned in -> {"1653": 2, ...} (JSON keys)."""
     texts = {u["id"]: u["text"] for u in ner["units"]}
-    ys = [int(y) for uid in unit_ids for y in re.findall(r"\b(1[3-8]\d\d)\b", texts.get(uid, ""))]
+    return dict(sorted(Counter(y for uid in unit_ids for y in re.findall(r"\b(1[3-8]\d\d)\b", texts.get(uid, ""))).items()))
+
+
+def median_year(slices):
+    """The entry's year in context: the median over the year counts of all its volumes, so that it does
+    not depend on which volume register.py ran for last."""
+    ys = sorted(int(y) for c in slices for y, k in c.items() for _ in range(k))
     return int(statistics.median(ys)) if ys else None
 
 
@@ -442,7 +449,7 @@ def build_places(ner):
     return entries, moved
 
 
-PER_VOL = ("forms", "n_full", "n_bare", "n_ambiguous", "bare_probable", "n", "units")
+PER_VOL = ("forms", "n_full", "n_bare", "n_ambiguous", "bare_probable", "n", "units", "years")
 LEGACY_VOL = "1932"     # entries written before the register had per-volume slices came from vol. I
 
 
@@ -451,7 +458,9 @@ def merge_existing(path, new, vol):
 
     Each entry keeps per-volume slices in e["vols"][vol] (forms, counts, units: unit ids are
     per volume). This run replaces only its own volume's slice; other volumes' entries stay.
-    Top-level forms and counts are the sums over volumes. The Wikidata decision of an existing
+    Top-level forms and counts are the sums over volumes, and a person's context_year is the median
+    of all volumes' year counts (slice "years"), so the result does not depend on run order; slices
+    are kept sorted by volume. The Wikidata decision of an existing
     entry is kept, except that one never looked up ("skipped") takes this run's lookup, and a
     reviewed one (checked / rejected / merged, set in scripts/ner_review.py) is never touched."""
     old = {e["id"]: e for e in json.loads(path.read_text())} if path.exists() else {}
@@ -468,10 +477,10 @@ def merge_existing(path, new, vol):
             e["vols"] = dict(o["vols"])
             e["vols"].pop(vol, None)
             if n is not None and o.get("status") == "skipped":
-                e.update({k: n[k] for k in ("candidates", "wikidata", "status", "manuscripta", "context_year")
-                          if k in n})
+                e.update({k: n[k] for k in ("candidates", "wikidata", "status", "manuscripta") if k in n})
         if n is not None:
             e["vols"][vol] = {k: n[k] for k in PER_VOL if k in n}
+        e["vols"] = dict(sorted(e["vols"].items()))       # stable order, whichever volume ran last
         if not e.get("vols") and e.get("status") not in ("checked", "rejected", "merged"):
             continue
         sl = e["vols"].values()
@@ -479,7 +488,10 @@ def merge_existing(path, new, vol):
         for k in ("n_full", "n_bare", "n_ambiguous", "n"):
             if any(k in v for v in sl):
                 e[k] = sum(v.get(k, 0) for v in sl)
+        if any("years" in v for v in sl):    # persons; places have no year in context
+            e["context_year"] = median_year(v.get("years", {}) for v in sl)
         e.pop("units", None)
+        e.pop("years", None)
         e.pop("bare_probable", None)
         out[eid] = e
     return out
@@ -498,10 +510,14 @@ def main():
     places, moved = build_places(ner)
     viaf = manuscripta_by_viaf()
     todo = sorted(persons.values(), key=lambda e: -(e["n_full"] + e["n_bare"] + e.get("n_ambiguous", 0)))
+    reg = ROOT / "data" / "register" / "persons.json"
+    known = {x["id"]: x for x in json.loads(reg.read_text())} if reg.exists() else {}
     looked = 0
     for e in todo:
         total = e["n_full"] + e["n_bare"] + e.get("n_ambiguous", 0)
-        e["context_year"] = context_years(ner, e["units"])
+        e["years"] = year_counts(ner, e["units"])
+        others = [v.get("years", {}) for vol, v in known.get(e["id"], {}).get("vols", {}).items() if vol != a.vol]
+        e["context_year"] = median_year(others + [e["years"]])   # the lookup uses all volumes' years
         if total < a.min_mentions:
             e["status"], e["candidates"], e["wikidata"] = "skipped", [], None
             continue
