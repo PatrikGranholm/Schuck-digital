@@ -31,7 +31,8 @@ Wikidata (cache/wikidata/, about 1 request per second, generic User-Agent)
     - fit between the lifespan and the years printed near the mentions
   Places: label/alias match, Nordic country, coordinates, countries.
   status: "auto" when the best candidate is clearly ahead (score threshold and margin),
-  otherwise "review". Entries with very few mentions are not looked up ("skipped").
+  otherwise "review". Entries with very few mentions in all volumes together are not looked up
+  ("skipped"); offline, nor are those whose Wikidata replies are not cached.
 manuscripta: VIAF id of the chosen candidate (Wikidata P214), matched against
   ../manuscripta/id/person/*.xml.
 Entries that were already reviewed in data/register/*.json (status "checked" or
@@ -41,6 +42,7 @@ import argparse
 import json
 import re
 import statistics
+import sys
 import time
 import urllib.parse
 import urllib.request
@@ -127,6 +129,7 @@ def wd(params):
     if f.exists():
         return json.loads(f.read_text())
     if OFFLINE:
+        MISSES[0] += 1            # no cached reply: the lookup is incomplete, not empty
         return {}
     url = API + "?" + urllib.parse.urlencode(params | {"format": "json"})
     for attempt in range(4):
@@ -299,6 +302,13 @@ def year_counts(ner, unit_ids):
     return dict(sorted(Counter(y for uid in unit_ids for y in re.findall(r"\b(1[3-8]\d\d)\b", texts.get(uid, ""))).items()))
 
 
+def best_name(slices):
+    """The entry's name: its most frequent normalised form over all volumes (slice "names"), then the
+    longest, then alphabetical, so that it does not depend on run order."""
+    c = sum((Counter(x) for x in slices), Counter())
+    return max(c.items(), key=lambda kv: (kv[1], len(kv[0]), kv[0]))[0] if c else None
+
+
 def median_year(slices):
     """The entry's year in context: the median over the year counts of all its volumes, so that it does
     not depend on which volume register.py ran for last."""
@@ -390,6 +400,7 @@ def build_persons(ner):
         mm = [m for _, g in group for m in g]
         eid = "pers-" + re.sub(r"\W+", "-", f"{last}-{first}".lower()).strip("-")
         entries[eid] = {"id": eid, "name": name, "surname": last, "forms": dict(Counter(m["text"] for m in mm)),
+                        "names": {nf: len(g) for nf, g in group},
                         "n_full": len(mm), "n_bare": 0, "units": sorted({m["unit"] for m in mm})}
         n_core[eid] = sum(len(g) for nf, g in group if nf not in moved.get((first, last), ()))
         by_surname[last].append(eid)
@@ -420,6 +431,7 @@ def build_persons(ner):
                 e["units"] = sorted(set(e["units"]) | {m["unit"] for m in mm})
             else:
                 entries[eid] = {"id": eid, "name": nf, "surname": key, "forms": dict(Counter(m["text"] for m in mm)),
+                                "names": {nf: len(mm)},
                                 "n_full": 0, "n_bare": len(mm), "units": sorted({m["unit"] for m in mm})}
     for nf, a in ambiguous.items():           # ambiguous mentions count as possible for each candidate
         for eid in a["candidates"]:
@@ -449,7 +461,8 @@ def build_places(ner):
     return entries, moved
 
 
-PER_VOL = ("forms", "n_full", "n_bare", "n_ambiguous", "bare_probable", "n", "units", "years")
+MACHINE = ("skipped", "none", "review", "auto")    # statuses register.py sets; ner_review.py's are never touched
+PER_VOL = ("forms", "names", "n_full", "n_bare", "n_ambiguous", "bare_probable", "n", "units", "years")
 LEGACY_VOL = "1932"     # entries written before the register had per-volume slices came from vol. I
 
 
@@ -458,10 +471,11 @@ def merge_existing(path, new, vol):
 
     Each entry keeps per-volume slices in e["vols"][vol] (forms, counts, units: unit ids are
     per volume). This run replaces only its own volume's slice; other volumes' entries stay.
-    Top-level forms and counts are the sums over volumes, and a person's context_year is the median
-    of all volumes' year counts (slice "years"), so the result does not depend on run order; slices
+    Top-level forms and counts are the sums over volumes; a person's name is the most frequent form
+    over all volumes (slice "names"; a reviewed name stays) and context_year the median of all volumes'
+    year counts (slice "years"), so the result does not depend on run order; slices
     are kept sorted by volume. The Wikidata decision of an existing
-    entry is kept, except that one never looked up ("skipped") takes this run's lookup, and a
+    entry is replaced by this run's lookup (unless this run could not look it up offline), and a
     reviewed one (checked / rejected / merged, set in scripts/ner_review.py) is never touched."""
     old = {e["id"]: e for e in json.loads(path.read_text())} if path.exists() else {}
     for e in old.values():
@@ -476,7 +490,9 @@ def merge_existing(path, new, vol):
             e = dict(o)
             e["vols"] = dict(o["vols"])
             e["vols"].pop(vol, None)
-            if n is not None and o.get("status") == "skipped":
+            # a machine decision takes this run's lookup (made with all volumes' counts and years), so the
+            # result does not depend on run order; a fresh "skipped" (offline, not cached) does not undo one
+            if n is not None and o.get("status") in MACHINE and (n.get("status") != "skipped" or o.get("status") == "skipped"):
                 e.update({k: n[k] for k in ("candidates", "wikidata", "status", "manuscripta") if k in n})
         if n is not None:
             e["vols"][vol] = {k: n[k] for k in PER_VOL if k in n}
@@ -490,8 +506,11 @@ def merge_existing(path, new, vol):
                 e[k] = sum(v.get(k, 0) for v in sl)
         if any("years" in v for v in sl):    # persons; places have no year in context
             e["context_year"] = median_year(v.get("years", {}) for v in sl)
+        if e.get("status") in MACHINE and any("names" in v for v in sl):   # a reviewed name stays
+            e["name"] = best_name(v.get("names", {}) for v in sl)
         e.pop("units", None)
         e.pop("years", None)
+        e.pop("names", None)
         e.pop("bare_probable", None)
         out[eid] = e
     return out
@@ -510,30 +529,46 @@ def main():
     places, moved = build_places(ner)
     viaf = manuscripta_by_viaf()
     todo = sorted(persons.values(), key=lambda e: -(e["n_full"] + e["n_bare"] + e.get("n_ambiguous", 0)))
-    reg = ROOT / "data" / "register" / "persons.json"
-    known = {x["id"]: x for x in json.loads(reg.read_text())} if reg.exists() else {}
-    looked = 0
-    for e in todo:
-        total = e["n_full"] + e["n_bare"] + e.get("n_ambiguous", 0)
-        e["years"] = year_counts(ner, e["units"])
-        others = [v.get("years", {}) for vol, v in known.get(e["id"], {}).get("vols", {}).items() if vol != a.vol]
-        e["context_year"] = median_year(others + [e["years"]])   # the lookup uses all volumes' years
+    def known(name):   # the register as it stands: the other volumes' slices of each entry
+        f = ROOT / "data" / "register" / f"{name}.json"
+        reg = json.loads(f.read_text()) if f.exists() else []
+        return {x["id"]: {v: s for v, s in x.get("vols", {}).items() if v != a.vol} for x in reg}
+    pmentions = lambda x: x.get("n_full", 0) + x.get("n_bare", 0) + x.get("n_ambiguous", 0)
+    kp, kl = known("persons"), known("places")
+    looked, pending = 0, 0
+
+    def lookup(e, total, candidates):
+        """Wikidata decision for an entry with `total` mentions in all volumes; offline, a query with no
+        cached reply leaves it skipped (for an online run) instead of deciding "none" on no data."""
+        nonlocal pending
         if total < a.min_mentions:
             e["status"], e["candidates"], e["wikidata"] = "skipped", [], None
-            continue
-        e["candidates"] = person_candidates(e)
+            return False
+        before = MISSES[0]
+        e["candidates"] = candidates(e)
+        if MISSES[0] > before:
+            e["status"], e["candidates"], e["wikidata"] = "skipped", [], None
+            pending += 1
+            return False
         e["wikidata"], e["status"] = decide(e["candidates"], threshold=6, margin=2)
+        return True
+    for e in todo:
+        others = kp.get(e["id"], {}).values()
+        total = pmentions(e) + sum(map(pmentions, others))       # mentions in all volumes
+        e["name"] = best_name([v.get("names", {}) for v in others] + [e["names"]])   # looked up under this name
+        e["years"] = year_counts(ner, e["units"])
+        e["context_year"] = median_year([v.get("years", {}) for v in others] + [e["years"]])   # all volumes' years
+        if not lookup(e, total, person_candidates):
+            continue
         chosen = next((c for c in e["candidates"] if c["qid"] == e["wikidata"]), None)
         e["manuscripta"] = viaf.get(chosen["viaf"]) if chosen and chosen.get("viaf") else None
         looked += 1
         if looked % 25 == 0:
             print(f"  persons looked up: {looked}", flush=True)
     for e in sorted(places.values(), key=lambda e: -e["n"]):
-        if e["n"] < a.min_mentions:
-            e["status"], e["candidates"], e["wikidata"] = "skipped", [], None
-            continue
-        e["candidates"] = place_candidates(e)
-        e["wikidata"], e["status"] = decide(e["candidates"], threshold=6, margin=2)
+        lookup(e, e["n"] + sum(v.get("n", 0) for v in kl.get(e["id"], {}).values()), place_candidates)
+    if pending:
+        print(f"  {pending} entries skipped: Wikidata replies not cached (run without --offline)", file=sys.stderr)
     d = ROOT / "data" / "register"
     d.mkdir(parents=True, exist_ok=True)
     persons = merge_existing(d / "persons.json", persons, a.vol)
@@ -586,5 +621,6 @@ def report(vol, persons, places, ambiguous, rejected, moved):
 
 
 OFFLINE = False
+MISSES = [0]       # offline queries with no cached reply
 if __name__ == "__main__":
     main()

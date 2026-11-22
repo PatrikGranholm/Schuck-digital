@@ -1916,8 +1916,21 @@
    "Augsburg": 3
   },
   "n": 3,
-  "status": "none",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q2749",
+    "label": "Augsburg",
+    "desc": "stad i Tyskland",
+    "score": 4
+   },
+   {
+    "qid": "Q10414",
+    "label": "Landkreis Augsburg",
+    "desc": "district in Swabia, Bavaria, Germany",
+    "score": 3
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1935": {
@@ -3379,9 +3392,16 @@
    "Bjurums kyrka": 2
   },
   "n": 2,
-  "candidates": [],
-  "wikidata": null,
-  "status": "none",
+  "candidates": [
+   {
+    "qid": "Q10430425",
+    "label": "Bjurums kyrka",
+    "desc": "kyrkobyggnad i Svenska kyrkan i Bjurum, Sverige",
+    "score": 6
+   }
+  ],
+  "wikidata": "Q10430425",
+  "status": "auto",
   "vols": {
    "1943b": {
     "forms": {
@@ -4468,9 +4488,16 @@
    "Borganäs": 2
   },
   "n": 2,
-  "candidates": [],
-  "wikidata": null,
-  "status": "none",
+  "candidates": [
+   {
+    "qid": "Q10433123",
+    "label": "Borganäs",
+    "desc": "borg i Dalarna (Borlänge 1:2)",
+    "score": 6
+   }
+  ],
+  "wikidata": "Q10433123",
+  "status": "auto",
   "vols": {
    "1943a": {
     "forms": {
@@ -4490,9 +4517,16 @@
    "Borgby": 7
   },
   "n": 7,
-  "candidates": [],
-  "wikidata": null,
-  "status": "none",
+  "candidates": [
+   {
+    "qid": "Q17607094",
+    "label": "Borgby",
+    "desc": "tätort i Sibbo kommun, Finland",
+    "score": 6
+   }
+  ],
+  "wikidata": "Q17607094",
+  "status": "auto",
   "vols": {
    "1932": {
     "forms": {
@@ -6458,8 +6492,27 @@
    "Calmar": 2
   },
   "n": 3,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q1933872",
+    "label": "Calmar",
+    "desc": "ort i Iowa, USA",
+    "score": 4
+   },
+   {
+    "qid": "Q2593164",
+    "label": "Calmar",
+    "desc": "ort i Alberta, Kanada",
+    "score": 4
+   },
+   {
+    "qid": "Q61207568",
+    "label": "Calmar",
+    "desc": "Meteorological Service of Canada's station for Calmar (MSC ID: 3011120), Alberta, Canada",
+    "score": 4
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933a": {
@@ -10367,9 +10420,22 @@
    "Estland": 12
   },
   "n": 12,
-  "candidates": [],
+  "candidates": [
+   {
+    "qid": "Q191",
+    "label": "Estland",
+    "desc": "republik i Nordeuropa",
+    "score": 6
+   },
+   {
+    "qid": "Q24504601",
+    "label": "Estland",
+    "desc": "ö i Raseborg, Finland",
+    "score": 6
+   }
+  ],
   "wikidata": null,
-  "status": "none",
+  "status": "review",
   "vols": {
    "1932": {
     "forms": {
@@ -15132,9 +15198,28 @@
    "Grönland": 3
   },
   "n": 3,
-  "candidates": [],
+  "candidates": [
+   {
+    "qid": "Q223",
+    "label": "Grönland",
+    "desc": "autonomt land inom Konungariket Danmark",
+    "score": 6
+   },
+   {
+    "qid": "Q4148644",
+    "label": "Grönland",
+    "desc": "ö belägen mellan Norra ishavet och Nordatlanten",
+    "score": 6
+   },
+   {
+    "qid": "Q882024",
+    "label": "Grönland",
+    "desc": "udde",
+    "score": 4
+   }
+  ],
   "wikidata": null,
-  "status": "none",
+  "status": "review",
   "vols": {
    "1932": {
     "forms": {
@@ -18035,9 +18120,34 @@
    "Hedemora": 3
   },
   "n": 3,
-  "candidates": [],
+  "candidates": [
+   {
+    "qid": "Q1001183",
+    "label": "Hedemora",
+    "desc": "tätort i Hedemora kommun, Sverige",
+    "score": 6
+   },
+   {
+    "qid": "Q32250368",
+    "label": "Hedemora",
+    "desc": "",
+    "score": 6
+   },
+   {
+    "qid": "Q507684",
+    "label": "Hedemora kommun",
+    "desc": "kommun i Dalarnas län, Sverige",
+    "score": 5
+   },
+   {
+    "qid": "Q21743109",
+    "label": "Hedemora distrikt",
+    "desc": "distrikt i Hedemora kommun",
+    "score": 5
+   }
+  ],
   "wikidata": null,
-  "status": "none",
+  "status": "review",
   "vols": {
    "1932": {
     "forms": {
@@ -18180,9 +18290,16 @@
    "Helgeandsholmen": 11
   },
   "n": 11,
-  "candidates": [],
-  "wikidata": null,
-  "status": "none",
+  "candidates": [
+   {
+    "qid": "Q916039",
+    "label": "Helgeandsholmen",
+    "desc": "ö i centrala Stockholm",
+    "score": 6
+   }
+  ],
+  "wikidata": "Q916039",
+  "status": "auto",
   "vols": {
    "1935": {
     "forms": {
@@ -18638,9 +18755,16 @@
    "Hemse kyrkogård": 8
   },
   "n": 11,
-  "candidates": [],
-  "wikidata": null,
-  "status": "none",
+  "candidates": [
+   {
+    "qid": "Q115301816",
+    "label": "Hemse kyrkogård",
+    "desc": "begravningplats i Gotlands kommun",
+    "score": 6
+   }
+  ],
+  "wikidata": "Q115301816",
+  "status": "auto",
   "vols": {
    "1936": {
     "forms": {
@@ -19521,8 +19645,33 @@
    "Holstein": 2
   },
   "n": 2,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q111224",
+    "label": "Holstein",
+    "desc": "region of Schleswig-Holstein, Germany",
+    "score": 4
+   },
+   {
+    "qid": "Q994828",
+    "label": "Holstein",
+    "desc": "city in Iowa, USA",
+    "score": 4
+   },
+   {
+    "qid": "Q69020",
+    "label": "Hölstein",
+    "desc": "kommun i kantonen Basel-Landschaft, Schweiz",
+    "score": 3
+   },
+   {
+    "qid": "Q925146",
+    "label": "Holštejn",
+    "desc": "municipality in the Czech Republic",
+    "score": 3
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1932": {
@@ -22628,9 +22777,22 @@
    "Junosuando": 3
   },
   "n": 3,
-  "candidates": [],
+  "candidates": [
+   {
+    "qid": "Q2464406",
+    "label": "Junosuando",
+    "desc": "tätort i Pajala kommun, Sverige",
+    "score": 6
+   },
+   {
+    "qid": "Q21721295",
+    "label": "Junosuando distrikt",
+    "desc": "distrikt i Pajala kommun",
+    "score": 5
+   }
+  ],
   "wikidata": null,
-  "status": "none",
+  "status": "review",
   "vols": {
    "1944": {
     "forms": {
@@ -23462,9 +23624,16 @@
    "Kalmar län": 10
   },
   "n": 10,
-  "status": "none",
-  "candidates": [],
-  "wikidata": null,
+  "status": "auto",
+  "candidates": [
+   {
+    "qid": "Q103707",
+    "label": "Kalmar län",
+    "desc": "län i Sverige",
+    "score": 6
+   }
+  ],
+  "wikidata": "Q103707",
   "vols": {
    "1933a": {
     "forms": {
@@ -23726,8 +23895,33 @@
    "Karlstad": 3
   },
   "n": 3,
-  "status": "none",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q25457",
+    "label": "Karlstad",
+    "desc": "tätort i Karlstads kommun, Sverige",
+    "score": 6
+   },
+   {
+    "qid": "Q498453",
+    "label": "Karlstads kommun",
+    "desc": "kommun i Värmlands län, Sverige",
+    "score": 5
+   },
+   {
+    "qid": "Q734482",
+    "label": "Karlstads flygplats",
+    "desc": "internationell flygplats i Karlstads kommun, Sverige",
+    "score": 5
+   },
+   {
+    "qid": "Q1924672",
+    "label": "Karlstad",
+    "desc": "stad i Minnesota, USA",
+    "score": 4
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933a": {
@@ -23811,9 +24005,16 @@
    "Kaspiska havet": 2
   },
   "n": 2,
-  "candidates": [],
+  "candidates": [
+   {
+    "qid": "Q5484",
+    "label": "Kaspiska havet",
+    "desc": "insjö mellan Asien och Europa",
+    "score": 4
+   }
+  ],
   "wikidata": null,
-  "status": "none",
+  "status": "review",
   "vols": {
    "1943a": {
     "forms": {
@@ -24010,9 +24211,16 @@
    "Kimsta": 3
   },
   "n": 3,
-  "candidates": [],
-  "wikidata": null,
-  "status": "none",
+  "candidates": [
+   {
+    "qid": "Q18291222",
+    "label": "Kimsta",
+    "desc": "settlement in Sigtuna Municipality, Sweden",
+    "score": 6
+   }
+  ],
+  "wikidata": "Q18291222",
+  "status": "auto",
   "vols": {
    "1943b": {
     "forms": {
@@ -24190,9 +24398,16 @@
    "Kivik": 3
   },
   "n": 3,
-  "candidates": [],
-  "wikidata": null,
-  "status": "none",
+  "candidates": [
+   {
+    "qid": "Q1743988",
+    "label": "Kivik",
+    "desc": "tätort i Simrishamns kommun, Sverige",
+    "score": 6
+   }
+  ],
+  "wikidata": "Q1743988",
+  "status": "auto",
   "vols": {
    "1936": {
     "forms": {
@@ -26403,9 +26618,22 @@
    "Kägleholm": 3
   },
   "n": 3,
-  "candidates": [],
+  "candidates": [
+   {
+    "qid": "Q10551587",
+    "label": "Kägleholm",
+    "desc": "slottsruin i Örebro kommun",
+    "score": 6
+   },
+   {
+    "qid": "Q97278357",
+    "label": "Kägleholm",
+    "desc": "inland island in Sweden",
+    "score": 6
+   }
+  ],
   "wikidata": null,
-  "status": "none",
+  "status": "review",
   "vols": {
    "1933a": {
     "forms": {
@@ -33174,9 +33402,22 @@
    "Neapel": 2
   },
   "n": 2,
-  "candidates": [],
+  "candidates": [
+   {
+    "qid": "Q2634",
+    "label": "Neapel",
+    "desc": "stad och kommun i Italien",
+    "score": 4
+   },
+   {
+    "qid": "Q15123",
+    "label": "Neapel",
+    "desc": "former province in Italy",
+    "score": 4
+   }
+  ],
   "wikidata": null,
-  "status": "none",
+  "status": "review",
   "vols": {
    "1943a": {
     "forms": {
@@ -33486,9 +33727,28 @@
    "Nora socken": 3
   },
   "n": 3,
-  "candidates": [],
+  "candidates": [
+   {
+    "qid": "Q10601915",
+    "label": "Nora socken",
+    "desc": "socken i Ångermanland",
+    "score": 6
+   },
+   {
+    "qid": "Q10601913",
+    "label": "Nora socken",
+    "desc": "socken i Uppland",
+    "score": 6
+   },
+   {
+    "qid": "Q10601916",
+    "label": "Nora socken",
+    "desc": "socken i Västmanland",
+    "score": 6
+   }
+  ],
   "wikidata": null,
-  "status": "none",
+  "status": "review",
   "vols": {
    "1944": {
     "forms": {
@@ -34657,9 +34917,16 @@
    "Norrbottens län": 2
   },
   "n": 2,
-  "candidates": [],
-  "wikidata": null,
-  "status": "none",
+  "candidates": [
+   {
+    "qid": "Q103686",
+    "label": "Norrbottens län",
+    "desc": "län i Sverige",
+    "score": 6
+   }
+  ],
+  "wikidata": "Q103686",
+  "status": "auto",
   "vols": {
    "1944": {
     "forms": {
@@ -35931,9 +36198,16 @@
    "Närkes": 1
   },
   "n": 10,
-  "candidates": [],
-  "wikidata": null,
-  "status": "none",
+  "candidates": [
+   {
+    "qid": "Q216687",
+    "label": "Närke",
+    "desc": "landskap i Sverige",
+    "score": 6
+   }
+  ],
+  "wikidata": "Q216687",
+  "status": "auto",
   "vols": {
    "1932": {
     "forms": {
@@ -37048,8 +37322,39 @@
    "Padova": 7
   },
   "n": 7,
-  "status": "none",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q16226",
+    "label": "Padova",
+    "desc": "province of Veneto, Italy",
+    "score": 4
+   },
+   {
+    "qid": "Q18438530",
+    "label": "Padova",
+    "desc": "human settlement in Italy",
+    "score": 4
+   },
+   {
+    "qid": "Q33705528",
+    "label": "Padova",
+    "desc": "",
+    "score": 4
+   },
+   {
+    "qid": "Q19404594",
+    "label": "Padova",
+    "desc": "street in Krimpen aan den IJssel, the Netherlands",
+    "score": 4
+   },
+   {
+    "qid": "Q617",
+    "label": "Padua",
+    "desc": "kommun i Italien",
+    "score": 3
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1932": {
@@ -38935,9 +39240,16 @@
    "Rankhyttan": 2
   },
   "n": 2,
-  "candidates": [],
-  "wikidata": null,
-  "status": "none",
+  "candidates": [
+   {
+    "qid": "Q10649622",
+    "label": "Rankhyttan",
+    "desc": "herrgård i Falu kommun",
+    "score": 6
+   }
+  ],
+  "wikidata": "Q10649622",
+  "status": "auto",
   "vols": {
    "1933a": {
     "forms": {
@@ -39933,9 +40245,46 @@
    "Roms": 13
   },
   "n": 63,
-  "candidates": [],
+  "candidates": [
+   {
+    "qid": "Q1747689",
+    "label": "romerska riket",
+    "desc": "kulturell och politisk enhet som utgick från Rom 753 f.Kr.–476 e.Kr.",
+    "score": 5
+   },
+   {
+    "qid": "Q220",
+    "label": "Rom",
+    "desc": "Italiens huvudstad",
+    "score": 4
+   },
+   {
+    "qid": "Q15119",
+    "label": "Rom",
+    "desc": "tidigare provins i Lazioregionen, Italien",
+    "score": 4
+   },
+   {
+    "qid": "Q3940419",
+    "label": "Rom",
+    "desc": "kommun",
+    "score": 4
+   },
+   {
+    "qid": "Q953741",
+    "label": "Rom",
+    "desc": "fransk kommun i departementet Deux-Sèvres",
+    "score": 4
+   },
+   {
+    "qid": "Q652748",
+    "label": "Rom",
+    "desc": "municipality in Germany",
+    "score": 4
+   }
+  ],
   "wikidata": null,
-  "status": "none",
+  "status": "review",
   "vols": {
    "1932": {
     "forms": {
@@ -40325,9 +40674,16 @@
    "Roslagen": 10
   },
   "n": 10,
-  "status": "none",
-  "candidates": [],
-  "wikidata": null,
+  "status": "auto",
+  "candidates": [
+   {
+    "qid": "Q1515626",
+    "label": "Roslagen",
+    "desc": "informell historisk beteckning på Upplands kustsocknar och skärgård",
+    "score": 6
+   }
+  ],
+  "wikidata": "Q1515626",
   "vols": {
    "1933a": {
     "forms": {
@@ -40876,9 +41232,16 @@
    "Ryssland": 33
   },
   "n": 33,
-  "candidates": [],
-  "wikidata": null,
-  "status": "none",
+  "candidates": [
+   {
+    "qid": "Q159",
+    "label": "Ryssland",
+    "desc": "förbundsrepublik i Östeuropa och Nordasien",
+    "score": 6
+   }
+  ],
+  "wikidata": "Q159",
+  "status": "auto",
   "vols": {
    "1932": {
     "forms": {
@@ -43598,8 +43961,45 @@
    "Skeppsholmen": 5
   },
   "n": 5,
-  "status": "none",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q849086",
+    "label": "Skeppsholmen",
+    "desc": "ö i Saltsjön, i centrala Stockholm",
+    "score": 6
+   },
+   {
+    "qid": "Q10670072",
+    "label": "Skeppsholmen",
+    "desc": "stadsdel på Norrmalm i Stockholm",
+    "score": 6
+   },
+   {
+    "qid": "Q24516257",
+    "label": "Skeppsholmen",
+    "desc": "ö i Sibbo, Finland",
+    "score": 6
+   },
+   {
+    "qid": "Q10670067",
+    "label": "Skeppsholmen",
+    "desc": "ö i Nynäshamns kommun",
+    "score": 6
+   },
+   {
+    "qid": "Q10670069",
+    "label": "Skeppsholmen",
+    "desc": "privat lantbruksskola i Liareds socken, Västergötland",
+    "score": 6
+   },
+   {
+    "qid": "Q136550787",
+    "label": "Skeppsholmen",
+    "desc": "tidigare ö i Motala ström",
+    "score": 6
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933a": {
@@ -44305,9 +44705,16 @@
    "Skåne": 178
   },
   "n": 181,
-  "candidates": [],
-  "wikidata": null,
-  "status": "none",
+  "candidates": [
+   {
+    "qid": "Q180756",
+    "label": "Skåne",
+    "desc": "landskap i Sverige",
+    "score": 6
+   }
+  ],
+  "wikidata": "Q180756",
+  "status": "auto",
   "vols": {
    "1932": {
     "forms": {
@@ -46763,9 +47170,46 @@
    "STOCKHOLM": 12
   },
   "n": 831,
-  "candidates": [],
+  "candidates": [
+   {
+    "qid": "Q1754",
+    "label": "Stockholm",
+    "desc": "Sveriges huvudstad",
+    "score": 6
+   },
+   {
+    "qid": "Q94385",
+    "label": "Stockholm",
+    "desc": "kommungränsöverskridande tätort i Stockholms län, Sverige",
+    "score": 6
+   },
+   {
+    "qid": "Q3447382",
+    "label": "Stockholm",
+    "desc": "ort i Maine, USA",
+    "score": 4
+   },
+   {
+    "qid": "Q1787199",
+    "label": "Stockholm",
+    "desc": "ort i South Dakota, USA",
+    "score": 4
+   },
+   {
+    "qid": "Q976601",
+    "label": "Stockholm",
+    "desc": "bykommun (village) i Wisconsin, USA",
+    "score": 4
+   },
+   {
+    "qid": "Q2839702",
+    "label": "Stockholm",
+    "desc": "stad i New York, USA",
+    "score": 4
+   }
+  ],
   "wikidata": null,
-  "status": "none",
+  "status": "review",
   "vols": {
    "1932": {
     "forms": {
@@ -49352,9 +49796,16 @@
    "Sundbyholm": 2
   },
   "n": 2,
-  "candidates": [],
-  "wikidata": null,
-  "status": "none",
+  "candidates": [
+   {
+    "qid": "Q2665008",
+    "label": "Sundbyholm",
+    "desc": "tätort i Eskilstuna kommun, Sverige",
+    "score": 6
+   }
+  ],
+  "wikidata": "Q2665008",
+  "status": "auto",
   "vols": {
    "1933a": {
     "forms": {
@@ -50774,9 +51225,16 @@
    "Svärdsjö kyrka": 3
   },
   "n": 3,
-  "candidates": [],
-  "wikidata": null,
-  "status": "none",
+  "candidates": [
+   {
+    "qid": "Q10686391",
+    "label": "Svärdsjö kyrka",
+    "desc": "kyrkobyggnad i Falu kommun",
+    "score": 6
+   }
+  ],
+  "wikidata": "Q10686391",
+  "status": "auto",
   "vols": {
    "1943a": {
     "forms": {
@@ -54437,9 +54895,22 @@
    "Trolle-Ljungby": 3
   },
   "n": 3,
-  "candidates": [],
+  "candidates": [
+   {
+    "qid": "Q2970856",
+    "label": "Trolle Ljungby slott",
+    "desc": "slott och före detta fideikommiss i Kristianstads kommun",
+    "score": 5
+   },
+   {
+    "qid": "Q21560425",
+    "label": "Trolle-Ljungby distrikt",
+    "desc": "distrikt i Kristianstads kommun",
+    "score": 5
+   }
+  ],
   "wikidata": null,
-  "status": "none",
+  "status": "review",
   "vols": {
    "1932": {
     "forms": {
@@ -57000,9 +57471,16 @@
    "Uppsala län": 6
   },
   "n": 6,
-  "status": "none",
-  "candidates": [],
-  "wikidata": null,
+  "status": "auto",
+  "candidates": [
+   {
+    "qid": "Q104926",
+    "label": "Uppsala län",
+    "desc": "län i Sverige",
+    "score": 6
+   }
+  ],
+  "wikidata": "Q104926",
   "vols": {
    "1936": {
     "forms": {
@@ -57858,9 +58336,22 @@
    "Uranienborg": 5
   },
   "n": 5,
-  "candidates": [],
+  "candidates": [
+   {
+    "qid": "Q2018069",
+    "label": "Uranienborg",
+    "desc": "område i Oslo, Norge",
+    "score": 6
+   },
+   {
+    "qid": "Q79220",
+    "label": "Uraniborg",
+    "desc": "slott/herresäte på ön Ven i Skåne",
+    "score": 5
+   }
+  ],
   "wikidata": null,
-  "status": "none",
+  "status": "review",
   "vols": {
    "1943b": {
     "forms": {
@@ -59515,9 +60006,28 @@
    "Vimmerby": 2
   },
   "n": 2,
-  "candidates": [],
+  "candidates": [
+   {
+    "qid": "Q634231",
+    "label": "Vimmerby",
+    "desc": "tätort i Vimmerby kommun, Sverige",
+    "score": 6
+   },
+   {
+    "qid": "Q505057",
+    "label": "Vimmerby kommun",
+    "desc": "kommun i Kalmar län, Sverige",
+    "score": 5
+   },
+   {
+    "qid": "Q21566493",
+    "label": "Vimmerby distrikt",
+    "desc": "distrikt i Vimmerby kommun",
+    "score": 5
+   }
+  ],
   "wikidata": null,
-  "status": "none",
+  "status": "review",
   "vols": {
    "1944": {
     "forms": {
@@ -59559,9 +60069,34 @@
    "Visby": 43
   },
   "n": 43,
-  "candidates": [],
+  "candidates": [
+   {
+    "qid": "Q54757",
+    "label": "Visby",
+    "desc": "tätort på Gotland, centralort i Region Gotland",
+    "score": 6
+   },
+   {
+    "qid": "Q2457304",
+    "label": "Visby",
+    "desc": "tätort i Tønders kommun, Danmark",
+    "score": 6
+   },
+   {
+    "qid": "Q10716061",
+    "label": "Visby stad",
+    "desc": "tidigare kommun i Gotlands län",
+    "score": 5
+   },
+   {
+    "qid": "Q1433208",
+    "label": "Visby flygplats",
+    "desc": "regional och militär flygplats norr om Visby, Gotland, Sverige",
+    "score": 5
+   }
+  ],
   "wikidata": null,
-  "status": "none",
+  "status": "review",
   "vols": {
    "1933b": {
     "forms": {
@@ -60323,9 +60858,16 @@
    "Värälä": 3
   },
   "n": 3,
-  "candidates": [],
-  "wikidata": null,
-  "status": "none",
+  "candidates": [
+   {
+    "qid": "Q18663001",
+    "label": "Värälä",
+    "desc": "by i Finland",
+    "score": 6
+   }
+  ],
+  "wikidata": "Q18663001",
+  "status": "auto",
   "vols": {
    "1943a": {
     "forms": {
@@ -60638,9 +61180,46 @@
    "Västerås": 21
   },
   "n": 21,
-  "candidates": [],
+  "candidates": [
+   {
+    "qid": "Q25412",
+    "label": "Västerås",
+    "desc": "tätort i Västerås kommun, Sverige",
+    "score": 6
+   },
+   {
+    "qid": "Q112972295",
+    "label": "Västerås",
+    "desc": "by i Bjurholms socken i Bjurholms kommun",
+    "score": 6
+   },
+   {
+    "qid": "Q29857807",
+    "label": "Västerås",
+    "desc": "gravfält i Värmland (Visnum 19:201)",
+    "score": 6
+   },
+   {
+    "qid": "Q29857803",
+    "label": "Västerås",
+    "desc": "gravfält i Värmland (Visnum 19:101)",
+    "score": 6
+   },
+   {
+    "qid": "Q34550",
+    "label": "Västerås kommun",
+    "desc": "kommun i Västmanlands län, Sverige",
+    "score": 5
+   },
+   {
+    "qid": "Q41070669",
+    "label": "Västerås fyr",
+    "desc": "en fyr i Mälaren i Västerås kommun",
+    "score": 5
+   }
+  ],
   "wikidata": null,
-  "status": "none",
+  "status": "review",
   "vols": {
    "1932": {
     "forms": {
@@ -63795,8 +64374,27 @@
    "Ystad": 4
   },
   "n": 4,
-  "status": "none",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q28287",
+    "label": "Ystad",
+    "desc": "tätort i Ystads kommun, Sverige",
+    "score": 6
+   },
+   {
+    "qid": "Q505102",
+    "label": "Ystads kommun",
+    "desc": "kommun i Skåne län",
+    "score": 5
+   },
+   {
+    "qid": "Q21560629",
+    "label": "Ystads distrikt",
+    "desc": "distrikt i Ystads kommun",
+    "score": 5
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1935": {
@@ -64475,9 +65073,46 @@
    "Ådalen": 2
   },
   "n": 2,
-  "candidates": [],
+  "candidates": [
+   {
+    "qid": "Q1104924",
+    "label": "Ådalen",
+    "desc": "dal i Sverige",
+    "score": 6
+   },
+   {
+    "qid": "Q10726195",
+    "label": "Ådalen",
+    "desc": "bebyggelse i Enköpings kommun",
+    "score": 6
+   },
+   {
+    "qid": "Q35469416",
+    "label": "Ådalen",
+    "desc": "",
+    "score": 6
+   },
+   {
+    "qid": "Q35469087",
+    "label": "Ådalen",
+    "desc": "",
+    "score": 6
+   },
+   {
+    "qid": "Q35469574",
+    "label": "Ådalen",
+    "desc": "",
+    "score": 6
+   },
+   {
+    "qid": "Q35469484",
+    "label": "Ådalen",
+    "desc": "",
+    "score": 6
+   }
+  ],
   "wikidata": null,
-  "status": "none",
+  "status": "review",
   "vols": {
    "1944": {
     "forms": {
@@ -65963,9 +66598,16 @@
    "Örebro Län": 2
   },
   "n": 6,
-  "status": "none",
-  "candidates": [],
-  "wikidata": null,
+  "status": "auto",
+  "candidates": [
+   {
+    "qid": "Q104257",
+    "label": "Örebro län",
+    "desc": "län i Sverige",
+    "score": 6
+   }
+  ],
+  "wikidata": "Q104257",
   "vols": {
    "1943a": {
     "forms": {
@@ -66389,9 +67031,22 @@
    "Österbotten": 6
   },
   "n": 6,
-  "candidates": [],
+  "candidates": [
+   {
+    "qid": "Q5702",
+    "label": "Österbotten",
+    "desc": "landskap i Finland",
+    "score": 6
+   },
+   {
+    "qid": "Q643535",
+    "label": "Österbotten",
+    "desc": "historiskt landskap i Finland",
+    "score": 6
+   }
+  ],
   "wikidata": null,
-  "status": "none",
+  "status": "review",
   "vols": {
    "1933a": {
     "forms": {
