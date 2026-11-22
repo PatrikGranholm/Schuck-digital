@@ -2,7 +2,7 @@
 // Schück digital: static reader for the TEI volumes in data/ (built by scripts/build_site.py).
 const TEI = "http://www.tei-c.org/ns/1.0";
 const $ = (id) => document.getElementById(id);
-const S = { vols: [], cache: {}, cur: null, osd: null, page: -1, view: "read", reg: { persons: [], places: [] }, entry: {} };
+const S = { vols: [], cache: {}, tokens: {}, cur: null, osd: null, page: -1, view: "read", reg: { persons: [], places: [] }, entry: {} };
 
 // ---------------------------------------------------------------- helpers
 function h(tag, cls, text) {
@@ -453,30 +453,54 @@ function li(where, html, target) {
 const esc = (s) => s.replace(/[&<>]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" })[c]);
 const where = (x) => `${x.page ? "s. " + x.page : ""}${x.chapter ? " · " + x.chapter : ""}`;
 
-function renderQuotes() {
+// the volumes a list covers: the one being read, or (checkbox "alla delar") every volume, loaded as needed.
+// Returns null when a newer render started while loading (typing in the filter), so the stale one stops.
+async function listVols(allBox, countEl, key) {
+  const token = (S.tokens[key] = (S.tokens[key] || 0) + 1);
+  if (!$(allBox).checked) return [S.cur];
+  const out = [];
+  for (const m of S.vols) {
+    if (!S.cache[m.vol]) $(countEl).textContent = `Laddar ${partLabel(m)} …`;
+    out.push(await loadVol(m.vol));
+    if (S.tokens[key] !== token) return null;
+  }
+  return out;
+}
+const scopeLabel = (vs) => (vs.length > 1 ? "alla delar" : partLabel(vs[0].meta));
+const whereIn = (vs, V, x) => (vs.length > 1 ? `${partLabel(V.meta)} · ` : "") + where(x);
+
+const QUOTE_MAX = 1000;
+async function renderQuotes() {
   S.qRendered = true;
-  const f = $("qfilter").value.toLowerCase(), V = S.cur, list = $("qlist");
+  const vs = await listVols("qallvols", "qcount", "q");
+  if (!vs) return;
+  const f = $("qfilter").value.toLowerCase(), list = $("qlist");
   list.innerHTML = "";
-  const hits = V.quotes.filter((q) => !f || q.text.toLowerCase().includes(f));
-  $("qcount").textContent = `${hits.length} av ${V.quotes.length} citat i ${partLabel(V.meta)}`;
-  for (const q of hits.slice(0, 1000)) {
+  const all = vs.flatMap((V) => V.quotes.map((q) => [V, q]));
+  const hits = all.filter(([, q]) => !f || q.text.toLowerCase().includes(f));
+  $("qcount").textContent = `${hits.length} av ${all.length} citat i ${scopeLabel(vs)}` +
+    (hits.length > QUOTE_MAX ? ` (de ${QUOTE_MAX} första visas; filtrera för att se fler)` : "");
+  for (const [V, q] of hits.slice(0, QUOTE_MAX)) {
     const t = q.text.length > 320 ? q.text.slice(0, 320) + " …" : q.text;
-    list.appendChild(li(where(q), esc(t), `${V.meta.vol}/${q.id}`));
+    list.appendChild(li(whereIn(vs, V, q), esc(t), `${V.meta.vol}/${q.id}`));
   }
 }
 
 const REPOS = [[/^(R\. ?A\.|Riksarkiv)/, "Riksarkivet (R. A.)"], [/^(K\. ?B\.|Kungl\. ?bibl)/, "Kungl. biblioteket (K. B.)"],
-  [/^(U\. ?U\. ?B\.|Ups)/, "Uppsala universitetsbibliotek (U. U. B.)"]];
-function renderSources() {
+  [/^(U\. ?U\. ?B\.|Ups)/, "Uppsala universitetsbibliotek (U. U. B.)"], [/^V\. ?H\. ?A\. ?A\./, "V. H. A. A."]];
+async function renderSources() {
   S.sRendered = true;
-  const f = $("sfilter").value.toLowerCase(), V = S.cur, box = $("slist");
+  const vs = await listVols("sallvols", "scount", "s");
+  if (!vs) return;
+  const f = $("sfilter").value.toLowerCase(), box = $("slist");
   box.innerHTML = "";
-  const hits = V.sources.filter((s) => !f || s.text.toLowerCase().includes(f));
-  $("scount").textContent = `${hits.length} av ${V.sources.length} källhänvisningar i ${partLabel(V.meta)}`;
+  const all = vs.flatMap((V) => V.sources.map((s) => [V, s]));
+  const hits = all.filter(([, s]) => !f || s.text.toLowerCase().includes(f));
+  $("scount").textContent = `${hits.length} av ${all.length} källhänvisningar i ${scopeLabel(vs)}`;
   const groups = {};
-  for (const s of hits) {
+  for (const [V, s] of hits) {
     const g = (REPOS.find(([re]) => re.test(s.org)) || [null, s.org || "Övriga"])[1];
-    (groups[g] = groups[g] || []).push(s);
+    (groups[g] = groups[g] || []).push([V, s]);
   }
   for (const [g, items] of Object.entries(groups).sort((a, b) => b[1].length - a[1].length)) {
     const d = h("details");
@@ -485,8 +509,8 @@ function renderSources() {
     sum.appendChild(h("span", "muted", `(${items.length})`));
     d.appendChild(sum);
     const ol = h("ol", "items");
-    for (const s of items) {
-      const item = li(where(s), esc(s.text), `${V.meta.vol}/${s.id}`);
+    for (const [V, s] of items) {
+      const item = li(whereIn(vs, V, s), esc(s.text), `${V.meta.vol}/${s.id}`);
       for (const x of s.ms) {                // manuscripta.se or Riksarkivet
         const m = h("a", "mslink", extLabel(x.url));
         m.href = x.url; m.target = "_blank"; m.rel = "noopener";
@@ -701,6 +725,10 @@ function initUI() {
   for (const b of document.querySelectorAll(".tabs button")) b.onclick = () => setView(b.dataset.view);
   $("qfilter").oninput = () => renderQuotes();
   $("sfilter").oninput = () => renderSources();
+  for (const [box, fn] of [["qallvols", renderQuotes], ["sallvols", renderSources]]) {   // remembered per viewer
+    $(box).checked = store.get(box) === "1";
+    $(box).onchange = () => { store.set(box, $(box).checked ? "1" : "0"); fn(); };
+  }
   $("searchform").onsubmit = runSearch;
   $("qscope").onchange = () => { if ($("q").value.trim()) runSearch(); };
   $("pfilter").oninput = () => renderEntries("persons");
