@@ -597,7 +597,7 @@
   "n_bare": 0,
   "context_year": 1768,
   "candidates": [],
-  "status": "skipped",
+  "status": "none",
   "wikidata": null,
   "vols": {
    "1936": {
@@ -635,7 +635,8 @@
      "1807": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-ad-petrus",
@@ -3316,8 +3317,75 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1667,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q87958",
+    "label": "Adolf",
+    "desc": "Titular Prince of Nassau-Dillenburg and Count of Nassau-Schaumburg",
+    "birth": 1629,
+    "death": 1676,
+    "score": 3,
+    "viaf": "81099636",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q365544",
+    "label": "Adolph Tidemand",
+    "desc": "norsk målare",
+    "birth": 1814,
+    "death": 1876,
+    "score": 3,
+    "viaf": "4986647",
+    "sbl": null,
+    "libris": "232438"
+   },
+   {
+    "qid": "Q87944",
+    "label": "Adolf",
+    "desc": "Duke Of Julich-Berg",
+    "birth": 1370,
+    "death": 1437,
+    "score": 1,
+    "viaf": "220470265",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q68592",
+    "label": "Adolf",
+    "desc": "Duke Of Bavaria",
+    "birth": 1434,
+    "death": 1441,
+    "score": 1,
+    "viaf": "120797479",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q674322",
+    "label": "Josef Adolf",
+    "desc": "tjeckoslovakisk vinteridrottare",
+    "birth": 1898,
+    "death": 1951,
+    "score": 0,
+    "viaf": "232364047",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q60718",
+    "label": "Adolf Engler",
+    "desc": "tysk botaniker",
+    "birth": 1844,
+    "death": 1930,
+    "score": 0,
+    "viaf": "73914023",
+    "sbl": null,
+    "libris": "185189"
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1932": {
@@ -3353,7 +3421,8 @@
      "1667": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-adolf-k",
@@ -3366,8 +3435,75 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1676,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q87958",
+    "label": "Adolf",
+    "desc": "Titular Prince of Nassau-Dillenburg and Count of Nassau-Schaumburg",
+    "birth": 1629,
+    "death": 1676,
+    "score": 3,
+    "viaf": "81099636",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q365544",
+    "label": "Adolph Tidemand",
+    "desc": "norsk målare",
+    "birth": 1814,
+    "death": 1876,
+    "score": 3,
+    "viaf": "4986647",
+    "sbl": null,
+    "libris": "232438"
+   },
+   {
+    "qid": "Q87944",
+    "label": "Adolf",
+    "desc": "Duke Of Julich-Berg",
+    "birth": 1370,
+    "death": 1437,
+    "score": 1,
+    "viaf": "220470265",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q68592",
+    "label": "Adolf",
+    "desc": "Duke Of Bavaria",
+    "birth": 1434,
+    "death": 1441,
+    "score": 1,
+    "viaf": "120797479",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q674322",
+    "label": "Josef Adolf",
+    "desc": "tjeckoslovakisk vinteridrottare",
+    "birth": 1898,
+    "death": 1951,
+    "score": 0,
+    "viaf": "232364047",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q60718",
+    "label": "Adolf Engler",
+    "desc": "tysk botaniker",
+    "birth": 1844,
+    "death": 1930,
+    "score": 0,
+    "viaf": "73914023",
+    "sbl": null,
+    "libris": "185189"
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933b": {
@@ -3413,7 +3549,8 @@
      "1822": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-adolf-kronprinsgustaf",
@@ -5300,7 +5437,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1819,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -5337,7 +5474,8 @@
      "1839": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-af-tibell",
@@ -6799,9 +6937,21 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1787,
-  "status": "skipped",
-  "candidates": [],
-  "wikidata": null,
+  "status": "auto",
+  "candidates": [
+   {
+    "qid": "Q261929",
+    "label": "Sofia Albertina av Sverige",
+    "desc": "svensk prinsessa",
+    "birth": 1753,
+    "death": 1829,
+    "score": 9,
+    "viaf": "57705292",
+    "sbl": "6155",
+    "libris": "231205"
+   }
+  ],
+  "wikidata": "Q261929",
   "vols": {
    "1936": {
     "forms": {
@@ -6839,7 +6989,8 @@
      "1792": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-albertinas-sofia",
@@ -6962,8 +7113,53 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1697,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q115607064",
+    "label": "Albrecht",
+    "desc": "",
+    "birth": 1511,
+    "death": 1542,
+    "score": 3,
+    "viaf": "12157701551844220951",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q66057",
+    "label": "Conrad Albrecht",
+    "desc": "tysk sjömilitär",
+    "birth": 1880,
+    "death": 1969,
+    "score": 2,
+    "viaf": "308694677",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q153746",
+    "label": "Albrecht Altdorfer",
+    "desc": "tysk konstnär, kopparstickare och arkitekt",
+    "birth": 1480,
+    "death": 1538,
+    "score": 1,
+    "viaf": "100221829",
+    "sbl": null,
+    "libris": "258853"
+   },
+   {
+    "qid": "Q57514",
+    "label": "Albertus Günther",
+    "desc": "engelsk-tysk zoolog (1830–1914)",
+    "birth": 1830,
+    "death": 1914,
+    "score": 0,
+    "viaf": "5048452",
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933b": {
@@ -6997,7 +7193,8 @@
      "1711": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-albrechts",
@@ -8646,7 +8843,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1690,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -8680,7 +8877,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-alvin-j",
@@ -9495,8 +9693,20 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1773,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q165544",
+    "label": "Władysław Anders",
+    "desc": "Polish general, politician and national hero (1892–1970)",
+    "birth": 1892,
+    "death": 1970,
+    "score": 2,
+    "viaf": "69726720",
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933b": {
@@ -9529,7 +9739,8 @@
      "1773": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-anders-enkan",
@@ -10146,8 +10357,75 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1784,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q5593840",
+    "label": "Johannes Andersson i Mjöbäck",
+    "desc": "svensk skulptör",
+    "birth": 1780,
+    "death": 1860,
+    "score": 7,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q5554956",
+    "label": "Johan Andersson i Raklösen",
+    "desc": "svensk politiker",
+    "birth": 1866,
+    "death": 1924,
+    "score": 6,
+    "viaf": "66443041",
+    "sbl": null,
+    "libris": "226312"
+   },
+   {
+    "qid": "Q5554984",
+    "label": "Johannes Andersson i Lysvik",
+    "desc": "svensk politiker (1834–1917)",
+    "birth": 1834,
+    "death": 1917,
+    "score": 6,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q5554975",
+    "label": "Johannes Andersson i Grude",
+    "desc": "svensk politiker",
+    "birth": 1823,
+    "death": 1902,
+    "score": 6,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q5554980",
+    "label": "Johannes Andersson i Knarrevik",
+    "desc": "svensk politiker",
+    "birth": 1821,
+    "death": 1898,
+    "score": 6,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q5554987",
+    "label": "Johannes Andersson i Ryssby",
+    "desc": "svensk politiker",
+    "birth": 1823,
+    "death": 1897,
+    "score": 6,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1936": {
@@ -10182,7 +10460,8 @@
      "1833": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-andersson-jonas",
@@ -10731,8 +11010,31 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1673,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q3615456",
+    "label": "Andrea",
+    "desc": "Italian bishop and saint",
+    "birth": null,
+    "death": 900,
+    "score": 4,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q5571",
+    "label": "Andrea del Sarto",
+    "desc": "italiensk målare under renässansen",
+    "birth": 1487,
+    "death": 1530,
+    "score": 3,
+    "viaf": "59101593",
+    "sbl": null,
+    "libris": "89772"
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933a": {
@@ -10770,7 +11072,8 @@
      "1664": 2
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-andreæ-christina",
@@ -10849,8 +11152,20 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1659,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q62754",
+    "label": "Jacob Andreæ",
+    "desc": "tysk professor",
+    "birth": 1528,
+    "death": 1590,
+    "score": 2,
+    "viaf": "68907359",
+    "sbl": null,
+    "libris": "257426"
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933a": {
@@ -10890,7 +11205,8 @@
      "1691": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-andreæ-laurentius",
@@ -11434,7 +11750,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -11466,7 +11782,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-annerstedt",
@@ -12935,8 +13252,20 @@
   "n_full": 1,
   "n_bare": 1,
   "context_year": 1763,
-  "status": "none",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q141528201",
+    "label": "Carl Appelbom",
+    "desc": "Geni 6000000031500858833",
+    "birth": null,
+    "death": null,
+    "score": 4,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1936": {
@@ -17049,7 +17378,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -17081,7 +17410,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-assessor",
@@ -17294,7 +17624,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1452,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -17335,7 +17665,8 @@
      "1792": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-atland",
@@ -17444,7 +17775,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1695,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -17478,7 +17809,8 @@
      "1695": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-atle",
@@ -17585,9 +17917,21 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1834,
-  "status": "skipped",
-  "candidates": [],
-  "wikidata": null,
+  "status": "auto",
+  "candidates": [
+   {
+    "qid": "Q444538",
+    "label": "Per Daniel Amadeus Atterbom",
+    "desc": "svensk poet och författare",
+    "birth": 1790,
+    "death": 1855,
+    "score": 8,
+    "viaf": "46819248",
+    "sbl": "18908",
+    "libris": "215288"
+   }
+  ],
+  "wikidata": "Q444538",
   "vols": {
    "1943b": {
     "forms": {
@@ -17620,7 +17964,8 @@
      "1835": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-atterdags-valdemar",
@@ -18111,8 +18456,53 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1697,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q89286",
+    "label": "August",
+    "desc": "Duke of Schleswig-Holstein-Sonderburg-Beck",
+    "birth": 1652,
+    "death": 1689,
+    "score": 5,
+    "viaf": "115144782951665966844",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q88549",
+    "label": "August",
+    "desc": "German prince",
+    "birth": 1655,
+    "death": 1715,
+    "score": 5,
+    "viaf": "69363263",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q65353",
+    "label": "August",
+    "desc": "Count Palatine of Neuburg",
+    "birth": 1582,
+    "death": 1632,
+    "score": 3,
+    "viaf": "39759522",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q39931",
+    "label": "Auguste Renoir",
+    "desc": "fransk målare",
+    "birth": 1841,
+    "death": 1919,
+    "score": 0,
+    "viaf": "29643005",
+    "sbl": null,
+    "libris": "287491"
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933b": {
@@ -18152,7 +18542,8 @@
      "1700": 4
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-augusta-messis",
@@ -18194,8 +18585,31 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1622,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q3629573",
+    "label": "Augustinus",
+    "desc": "Italian painter",
+    "birth": null,
+    "death": null,
+    "score": 3,
+    "viaf": "100152742892827731007",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q66624106",
+    "label": "Augustinus",
+    "desc": "unknown UK author whose two early science fiction novels – Two Brothers: A Story of the Twentieth Century (1898) and Paul Rees: A Story of the Coming Reformation (1899) – are designed as religious propaganda",
+    "birth": null,
+    "death": null,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1932": {
@@ -18235,7 +18649,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-augustus",
@@ -19519,9 +19934,21 @@
   "n_full": 1,
   "n_bare": 1,
   "context_year": 1675,
-  "candidates": [],
-  "status": "skipped",
-  "wikidata": null,
+  "candidates": [
+   {
+    "qid": "Q1341544",
+    "label": "Johannes Baazius den äldre",
+    "desc": "svensk teolog",
+    "birth": 1581,
+    "death": 1649,
+    "score": 6,
+    "viaf": "40324321",
+    "sbl": "18956",
+    "libris": "233605"
+   }
+  ],
+  "status": "auto",
+  "wikidata": "Q1341544",
   "vols": {
    "1933b": {
     "forms": {
@@ -19541,7 +19968,8 @@
      "1675": 2
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-babel",
@@ -20964,8 +21392,20 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1731,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q4115189",
+    "label": "Wikipedia:Wikidata/Sandlåda för Wikidata",
+    "desc": "Här kan du testa att redigera",
+    "birth": 1850,
+    "death": 1840,
+    "score": 2,
+    "viaf": "159486382",
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1935": {
@@ -20999,7 +21439,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-barbara",
@@ -21683,8 +22124,31 @@
   "n_full": 2,
   "n_bare": 2,
   "context_year": 1746,
-  "candidates": [],
-  "status": "skipped",
+  "candidates": [
+   {
+    "qid": "Q5566043",
+    "label": "Ragnar Barnekow",
+    "desc": "svensk politiker",
+    "birth": 1877,
+    "death": 1958,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q5566039",
+    "label": "Fredrik Barnekow",
+    "desc": "svensk friherre, godsägare och riksdagsman",
+    "birth": 1839,
+    "death": 1912,
+    "score": 3,
+    "viaf": "217163335703803270006",
+    "sbl": "19077",
+    "libris": null
+   }
+  ],
+  "status": "review",
   "wikidata": null,
   "vols": {
    "1935": {
@@ -21708,7 +22172,8 @@
      "1746": 2
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-barnekow-lands",
@@ -22737,8 +23202,20 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1569,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q1862248",
+    "label": "Johannes Goropius Becanus",
+    "desc": "Dutch physician and linguist (1519-1572)",
+    "birth": 1519,
+    "death": 1572,
+    "score": 3,
+    "viaf": "77483746",
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1932": {
@@ -22774,7 +23251,8 @@
      "1612": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-beck",
@@ -23132,8 +23610,53 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1712,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q99572",
+    "label": "Wilhelm Bender",
+    "desc": "German theologian (1845–1901)",
+    "birth": 1845,
+    "death": 1901,
+    "score": 3,
+    "viaf": "311367226",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q102280700",
+    "label": "Bender",
+    "desc": "photographer",
+    "birth": null,
+    "death": null,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q104248629",
+    "label": "Bender",
+    "desc": "Holocaust victim (born 1890)",
+    "birth": 1890,
+    "death": 1940,
+    "score": 2,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q765632",
+    "label": "Augusta Bender",
+    "desc": "German teacher, women's rights activist, and regional writer (1846–1924)",
+    "birth": 1846,
+    "death": 1924,
+    "score": 1,
+    "viaf": "3213614",
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1935": {
@@ -23171,7 +23694,8 @@
      "1825": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-benedicta",
@@ -23456,8 +23980,31 @@
   "n_full": 3,
   "n_bare": 0,
   "context_year": 1709,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q5570050",
+    "label": "Per Bengtson",
+    "desc": "svensk politiker",
+    "birth": 1867,
+    "death": 1948,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q42366873",
+    "label": "Annika Bengtson",
+    "desc": "botanist",
+    "birth": null,
+    "death": null,
+    "score": 1,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933a": {
@@ -23505,7 +24052,8 @@
      "1734": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-bengtsson-benedictus",
@@ -25831,7 +26379,7 @@
   "n_bare": 1,
   "context_year": 1644,
   "candidates": [],
-  "status": "skipped",
+  "status": "none",
   "wikidata": null,
   "vols": {
    "1933b": {
@@ -25855,7 +26403,8 @@
      "1676": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-bergenskiöld-ericus",
@@ -27823,7 +28372,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1797,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -27866,7 +28415,8 @@
      "1802": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-bernstorff",
@@ -28206,9 +28756,21 @@
   "n_bare": 41,
   "n_ambiguous": 40,
   "context_year": 1833,
-  "candidates": [],
-  "status": "skipped",
-  "wikidata": null,
+  "candidates": [
+   {
+    "qid": "Q151911",
+    "label": "Jöns Jacob Berzelius",
+    "desc": "svensk kemist",
+    "birth": 1779,
+    "death": 1848,
+    "score": 9,
+    "viaf": "41868753",
+    "sbl": "18122",
+    "libris": "178154"
+   }
+  ],
+  "status": "auto",
+  "wikidata": "Q151911",
   "vols": {
    "1944": {
     "forms": {
@@ -28275,7 +28837,8 @@
      "1839": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-berättelse-tuderi",
@@ -28606,7 +29169,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1795,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -28640,7 +29203,8 @@
      "1795": 2
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-bevers",
@@ -28852,7 +29416,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1689,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -28890,7 +29454,8 @@
      "1706": 2
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-biberg",
@@ -32658,9 +33223,32 @@
   "n_full": 1,
   "n_bare": 2,
   "context_year": 1733,
-  "candidates": [],
-  "status": "skipped",
-  "wikidata": null,
+  "candidates": [
+   {
+    "qid": "Q5578306",
+    "label": "Erik Julius Björner",
+    "desc": "svensk ämbetsman och fornforskare",
+    "birth": 1696,
+    "death": 1750,
+    "score": 9,
+    "viaf": "7727027",
+    "sbl": "18253",
+    "libris": "245097"
+   },
+   {
+    "qid": "Q5796009",
+    "label": "Björner Hedlund",
+    "desc": "svensk arkitekt",
+    "birth": 1882,
+    "death": 1956,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
+  "status": "auto",
+  "wikidata": "Q5578306",
   "vols": {
    "1935": {
     "forms": {
@@ -32680,7 +33268,8 @@
      "1733": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-björners",
@@ -33680,7 +34269,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1659,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -33718,7 +34307,8 @@
      "1680": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-boethius",
@@ -34763,7 +35353,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1744,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -34799,7 +35389,8 @@
      "1744": 2
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-bonoschiöld",
@@ -35167,7 +35758,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1760,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -35203,7 +35794,8 @@
      "1806": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-borgen",
@@ -35320,7 +35912,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -35352,7 +35944,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-borgmästaren",
@@ -35523,9 +36116,32 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1585,
-  "status": "none",
-  "candidates": [],
-  "wikidata": null,
+  "status": "auto",
+  "candidates": [
+   {
+    "qid": "Q782556",
+    "label": "Nicolaus Olai Bothniensis",
+    "desc": "Sveriges ärkebiskop 1599–1600",
+    "birth": 1550,
+    "death": 1600,
+    "score": 9,
+    "viaf": "63987871",
+    "sbl": "8881",
+    "libris": "282641"
+   },
+   {
+    "qid": "Q1406584",
+    "label": "Andreas Laurentii Björnram",
+    "desc": "Sveriges ärkebiskop 1583–1591",
+    "birth": 1520,
+    "death": 1593,
+    "score": 6,
+    "viaf": "17169254195892701839",
+    "sbl": "18328",
+    "libris": null
+   }
+  ],
+  "wikidata": "Q782556",
   "vols": {
    "1932": {
     "forms": {
@@ -35774,7 +36390,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1754,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -35817,7 +36433,8 @@
      "1820": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-botvidi-johannes",
@@ -36001,8 +36618,31 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1791,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q509792",
+    "label": "Axel Boëthius",
+    "desc": "svensk arkeolog (1889–1969)",
+    "birth": 1889,
+    "death": 1969,
+    "score": 3,
+    "viaf": "71445052",
+    "sbl": null,
+    "libris": "241616"
+   },
+   {
+    "qid": "Q5580519",
+    "label": "Simon Boëthius",
+    "desc": "svensk professor skytteanus, historiker och politiker.",
+    "birth": 1850,
+    "death": 1924,
+    "score": 3,
+    "viaf": "54510192",
+    "sbl": "17854",
+    "libris": "238894"
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1943a": {
@@ -36041,7 +36681,8 @@
      "1805": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-braad",
@@ -37077,7 +37718,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1611,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -37122,7 +37763,8 @@
      "1763": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-bratt",
@@ -37899,7 +38541,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1715,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -37936,7 +38578,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-brendler",
@@ -38184,8 +38827,64 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1695,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q125878",
+    "label": "Henrik Brenner",
+    "desc": "svensk bibliotekarie",
+    "birth": 1669,
+    "death": 1732,
+    "score": 6,
+    "viaf": "250569250",
+    "sbl": "16941",
+    "libris": null
+   },
+   {
+    "qid": "Q125874",
+    "label": "Isak Brenner",
+    "desc": "finländsk kyrkoherde i Storkyro socken, och prost i södra Österbottens län",
+    "birth": 1603,
+    "death": 1670,
+    "score": 5,
+    "viaf": "305393096",
+    "sbl": "16942",
+    "libris": "367590"
+   },
+   {
+    "qid": "Q4096302",
+    "label": "Magnus Brenner",
+    "desc": "finländsk botaniker och mykolog (1843–1930)",
+    "birth": 1843,
+    "death": 1930,
+    "score": 2,
+    "viaf": "306309205",
+    "sbl": null,
+    "libris": "370300"
+   },
+   {
+    "qid": "Q126247",
+    "label": "Widar Brenner",
+    "desc": "finländsk botanist",
+    "birth": 1887,
+    "death": 1932,
+    "score": 2,
+    "viaf": "274684941",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q7614656",
+    "label": "Steven E. Brenner",
+    "desc": "American biologist",
+    "birth": null,
+    "death": null,
+    "score": 1,
+    "viaf": "277758172",
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1935": {
@@ -38218,7 +38917,8 @@
      "1695": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-brenner-elia",
@@ -38948,8 +39648,20 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1379,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q4523132",
+    "label": "Brigitta Scherzenfeldt",
+    "desc": "svensk lärare",
+    "birth": 1684,
+    "death": 1736,
+    "score": 3,
+    "viaf": "86243716",
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1935": {
@@ -38986,7 +39698,8 @@
      "1576": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-bring-sven",
@@ -45013,7 +45726,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1612,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -45050,7 +45763,8 @@
      "1822": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-buræus-johannes",
@@ -45063,7 +45777,7 @@
   "n_full": 3,
   "n_bare": 0,
   "context_year": 1651,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -45131,7 +45845,8 @@
      "1715": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-buræus-johanni",
@@ -45409,7 +46124,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1585,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -45445,7 +46160,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-byggde-carolus",
@@ -45727,7 +46443,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1733,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -45761,7 +46477,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-bäcks",
@@ -48684,7 +49401,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1719,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -48719,7 +49436,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-carcey-carolus",
@@ -48821,7 +49539,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1690,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -48855,7 +49573,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-carl",
@@ -49783,7 +50502,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1828,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -49818,7 +50537,8 @@
      "1829": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-carlskiöld",
@@ -50329,7 +51049,7 @@
   "n_full": 0,
   "n_bare": 3,
   "context_year": 1648,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -50382,7 +51102,8 @@
      "1748": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-caroliner",
@@ -50690,8 +51411,20 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1752,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q9191",
+    "label": "René Descartes",
+    "desc": "fransk filosof, matematiker och vetenskapsman",
+    "birth": 1596,
+    "death": 1650,
+    "score": 3,
+    "viaf": "41838958",
+    "sbl": "16475",
+    "libris": "183696"
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1943a": {
@@ -50725,7 +51458,8 @@
      "1805": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-casimirs-johannes",
@@ -51158,7 +51892,7 @@
   "n_full": 0,
   "n_bare": 4,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -51218,7 +51952,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-cat-stone",
@@ -54104,8 +54839,20 @@
   "n_full": 0,
   "n_bare": 4,
   "context_year": 1735,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q381458",
+    "label": "Christen Købke",
+    "desc": "dansk målare",
+    "birth": 1810,
+    "death": 1848,
+    "score": 3,
+    "viaf": "20483722",
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1932": {
@@ -54167,7 +54914,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-christenssons-pehr",
@@ -54859,8 +55607,53 @@
   "n_full": 0,
   "n_bare": 3,
   "context_year": 1631,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q108572750",
+    "label": "Christiern",
+    "desc": "bishop of the roman-catholic church",
+    "birth": null,
+    "death": 1313,
+    "score": 4,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q98130231",
+    "label": "Christiern",
+    "desc": "bishop of the Roman Catholic Church",
+    "birth": null,
+    "death": 1075,
+    "score": 4,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q219010",
+    "label": "Christiern Pedersen",
+    "desc": "dansk författare",
+    "birth": 1480,
+    "death": 1554,
+    "score": 4,
+    "viaf": "37265876",
+    "sbl": null,
+    "libris": "283842"
+   },
+   {
+    "qid": "Q108585533",
+    "label": "Christiern Christiernin",
+    "desc": "svensk kyrkoherde i Fellingsbro församling, Sverige",
+    "birth": 1675,
+    "death": 1743,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933a": {
@@ -54909,7 +55702,8 @@
      "1573": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-christierni",
@@ -54953,7 +55747,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1799,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -54991,7 +55785,8 @@
      "1830": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-christierns",
@@ -55423,8 +56218,20 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q82739763",
+    "label": "Christna Chap",
+    "desc": "researcher",
+    "birth": null,
+    "death": null,
+    "score": 1,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933b": {
@@ -55455,7 +56262,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-christne",
@@ -55789,7 +56597,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1452,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -55833,7 +56641,8 @@
      "1828": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-christophers",
@@ -55845,7 +56654,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1743,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -55886,7 +56695,8 @@
      "1746": 2
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-christophers-kongh",
@@ -56307,8 +57117,20 @@
   "n_full": 0,
   "n_bare": 3,
   "context_year": 1804,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q99971262",
+    "label": "Cicero",
+    "desc": "",
+    "birth": null,
+    "death": null,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1936": {
@@ -56360,7 +57182,8 @@
      "1837": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-ciceros-marci",
@@ -56626,8 +57449,42 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1689,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q77338",
+    "label": "Matthias Claudius",
+    "desc": "tysk författare",
+    "birth": 1740,
+    "death": 1815,
+    "score": 3,
+    "viaf": "73933830",
+    "sbl": null,
+    "libris": "181832"
+   },
+   {
+    "qid": "Q2409884",
+    "label": "Claudius",
+    "desc": "Mayor of the Palace of Burgundy from 607 to 610",
+    "birth": null,
+    "death": 610,
+    "score": 3,
+    "viaf": "314893699",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q108533567",
+    "label": "Marius J. G. Thomassen",
+    "desc": "Dutch illustrator (1889-1971)",
+    "birth": 1889,
+    "death": 1971,
+    "score": 2,
+    "viaf": "284896374",
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933a": {
@@ -56660,7 +57517,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-clausens",
@@ -56793,8 +57651,75 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1813,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q57235",
+    "label": "Clemens Brentano",
+    "desc": "tysk poet och författare",
+    "birth": 1778,
+    "death": 1842,
+    "score": 4,
+    "viaf": "73863902",
+    "sbl": null,
+    "libris": "179129"
+   },
+   {
+    "qid": "Q133121",
+    "label": "Clemens XIII",
+    "desc": "Katolska kyrkans 248:e påve 1758–1769",
+    "birth": 1693,
+    "death": 1769,
+    "score": 3,
+    "viaf": "27106709",
+    "sbl": null,
+    "libris": "294241"
+   },
+   {
+    "qid": "Q6130106",
+    "label": "James Brackenridge Clemens",
+    "desc": "American lepidopterist (1825-1867)",
+    "birth": 1825,
+    "death": 1867,
+    "score": 2,
+    "viaf": "104458895",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q83159",
+    "label": "Clemens VII",
+    "desc": "Katolska kyrkans 219:e påve 1523–1534",
+    "birth": 1478,
+    "death": 1534,
+    "score": 1,
+    "viaf": "90633828",
+    "sbl": null,
+    "libris": "182836"
+   },
+   {
+    "qid": "Q170395",
+    "label": "Clemens VIII",
+    "desc": "Katolska kyrkans 231:e påve 1592–1605",
+    "birth": 1536,
+    "death": 1605,
+    "score": 1,
+    "viaf": "100212973",
+    "sbl": null,
+    "libris": "209118"
+   },
+   {
+    "qid": "Q133108",
+    "label": "Clemens XII",
+    "desc": "Katolska kyrkans 246:e påve 1730–1740",
+    "birth": 1652,
+    "death": 1740,
+    "score": 1,
+    "viaf": "71552477",
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1943b": {
@@ -56831,7 +57756,8 @@
      "1846": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-clerck-johannes",
@@ -60132,7 +61058,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1749,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -60168,7 +61094,8 @@
      "1751": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-crono-sweriges",
@@ -60439,7 +61366,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1752,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -60477,7 +61404,8 @@
      "1801": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-crucifixo",
@@ -60624,7 +61552,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1760,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -60659,7 +61587,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-crönika-eiusdem",
@@ -61539,8 +62468,20 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1786,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q153232",
+    "label": "Jean Le Rond d'Alembert",
+    "desc": "fransk matematiker och philosophe",
+    "birth": 1717,
+    "death": 1783,
+    "score": 5,
+    "viaf": "46756283",
+    "sbl": null,
+    "libris": "205308"
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1936": {
@@ -61574,7 +62515,8 @@
      "1787": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-d-anastasy-jean",
@@ -63465,8 +64407,20 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1785,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q124332508",
+    "label": "Daler",
+    "desc": "American Quake player",
+    "birth": null,
+    "death": null,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1936": {
@@ -63500,7 +64454,8 @@
      "1836": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-dalers-fredrik",
@@ -64377,7 +65332,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1679,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -64412,7 +65367,8 @@
      "1679": 2
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-danici",
@@ -66203,7 +67159,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1400,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -66239,7 +67195,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-deo-potenti",
@@ -66797,7 +67754,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1785,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -66834,7 +67791,8 @@
      "1832": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-dillner-e",
@@ -67436,7 +68394,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -67468,7 +68426,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-doctorens",
@@ -67513,7 +68472,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1823,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -67553,7 +68512,8 @@
      "1834": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-documenter-rudas",
@@ -67968,8 +68928,20 @@
   "n_full": 0,
   "n_bare": 3,
   "context_year": 1738,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q36517",
+    "label": "Francis Drake",
+    "desc": "engelsk upptäcktsresande, sjömilitär och kapare",
+    "birth": 1540,
+    "death": 1596,
+    "score": 3,
+    "viaf": "100250627",
+    "sbl": null,
+    "libris": "184021"
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1935": {
@@ -68016,7 +68988,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-dromund-thorsten",
@@ -69849,8 +70822,20 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1790,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q67442515",
+    "label": "Christian Eckhoff",
+    "desc": "forskare",
+    "birth": null,
+    "death": null,
+    "score": 1,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1936": {
@@ -69885,7 +70870,8 @@
      "1767": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-edda",
@@ -72879,8 +73865,64 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1764,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q66355",
+    "label": "Johann Gottfried Eichhorn",
+    "desc": "tysk professor",
+    "birth": 1752,
+    "death": 1827,
+    "score": 4,
+    "viaf": "806539",
+    "sbl": null,
+    "libris": "285489"
+   },
+   {
+    "qid": "Q139572575",
+    "label": "Eichhorn",
+    "desc": "1350 -",
+    "birth": null,
+    "death": null,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q21511581",
+    "label": "Eugen Eichhorn",
+    "desc": "botanist (1878-1963)",
+    "birth": 1878,
+    "death": 1963,
+    "score": 2,
+    "viaf": "309658836",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q564888",
+    "label": "Karl Friedrich Eichhorn",
+    "desc": "tysk professor",
+    "birth": 1781,
+    "death": 1854,
+    "score": 1,
+    "viaf": "5017502",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q61023",
+    "label": "Hermann von Eichhorn",
+    "desc": "tysk militär",
+    "birth": 1848,
+    "death": 1918,
+    "score": 0,
+    "viaf": "45082068",
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1936": {
@@ -72916,7 +73958,8 @@
      "1755": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-eichorn",
@@ -75277,7 +76320,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1747,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -75312,7 +76355,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-elers",
@@ -77255,7 +78299,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1688,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -77292,7 +78336,8 @@
      "1711": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-engelberti",
@@ -78116,7 +79161,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1753,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -78150,7 +79195,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-enkia-örnhielm",
@@ -79204,7 +80250,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -79236,7 +80282,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-erichzson-petrus",
@@ -80352,9 +81399,54 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": null,
-  "status": "skipped",
-  "candidates": [],
-  "wikidata": null,
+  "status": "auto",
+  "candidates": [
+   {
+    "qid": "Q5716814",
+    "label": "Knut Eriksson",
+    "desc": "svensk politiker",
+    "birth": 1502,
+    "death": 1535,
+    "score": 7,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q6423886",
+    "label": "Knut Eriksson Helland",
+    "desc": "Norwegian fiddle maker",
+    "birth": 1851,
+    "death": 1880,
+    "score": 5,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q75385280",
+    "label": "Knut Eriksson",
+    "desc": "Peerage person ID=105489",
+    "birth": null,
+    "death": null,
+    "score": 4,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q28356967",
+    "label": "Knut Eriksson",
+    "desc": "",
+    "birth": 1868,
+    "death": 1942,
+    "score": 4,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
+  "wikidata": "Q5716814",
   "vols": {
    "1943b": {
     "forms": {
@@ -80384,7 +81476,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-eriksson-elias",
@@ -80485,8 +81578,75 @@
   "n_full": 3,
   "n_bare": 0,
   "context_year": 1592,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q6188819",
+    "label": "Gustav Stenbock",
+    "desc": "svensk friherre och ämbetsman",
+    "birth": 1575,
+    "death": 1629,
+    "score": 7,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q5716447",
+    "label": "Gustaf Eriksson",
+    "desc": "svensk politiker",
+    "birth": 1876,
+    "death": 1961,
+    "score": 6,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q5716440",
+    "label": "Gustaf Eriksson",
+    "desc": "svensk läkare och publicist",
+    "birth": 1789,
+    "death": 1865,
+    "score": 6,
+    "viaf": "68149294086780520661",
+    "sbl": "15430",
+    "libris": "333519"
+   },
+   {
+    "qid": "Q133283879",
+    "label": "Gustaf Örnevinge",
+    "desc": "svensk hovmästare",
+    "birth": 1598,
+    "death": 1666,
+    "score": 6,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q84931452",
+    "label": "Gustaf Eriksson",
+    "desc": "svensk präst",
+    "birth": 1863,
+    "death": 1958,
+    "score": 6,
+    "viaf": "31972489",
+    "sbl": null,
+    "libris": "230573"
+   },
+   {
+    "qid": "Q116759092",
+    "label": "Gustaf Eriksson",
+    "desc": "svensk jurist",
+    "birth": 1895,
+    "death": 1976,
+    "score": 6,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1935": {
@@ -80538,7 +81698,8 @@
      "1832": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-eriksson-magnus",
@@ -82037,7 +83198,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1673,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -82071,7 +83232,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-estridsson-sven",
@@ -82113,7 +83275,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -82145,7 +83307,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-estuna",
@@ -82222,7 +83385,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -82254,7 +83417,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-ethelreds",
@@ -83041,7 +84205,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1829,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -83075,7 +84239,8 @@
      "1829": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-expeditions",
@@ -85416,7 +86581,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1778,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -85451,7 +86616,8 @@
      "1783": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-fersen-axel",
@@ -87237,7 +88403,7 @@
   "n_bare": 36,
   "context_year": 1789,
   "candidates": [],
-  "status": "skipped",
+  "status": "none",
   "wikidata": null,
   "vols": {
    "1943a": {
@@ -87298,7 +88464,8 @@
      "1820": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-flodin",
@@ -87575,7 +88742,7 @@
   "n_bare": 7,
   "context_year": 1767,
   "candidates": [],
-  "status": "skipped",
+  "status": "none",
   "wikidata": null,
   "vols": {
    "1943b": {
@@ -87610,7 +88777,8 @@
      "1816": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-fogg",
@@ -87748,7 +88916,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1687,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -87782,7 +88950,8 @@
      "1687": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-folke",
@@ -87794,7 +88963,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1664,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -87836,7 +89005,8 @@
      "1749": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-folkernius-laurentius",
@@ -89014,8 +90184,20 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1669,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q1442507",
+    "label": "Frans Francken (1581-1642)",
+    "desc": "flamländsk konstnär",
+    "birth": 1581,
+    "death": 1642,
+    "score": 5,
+    "viaf": "95434431",
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933b": {
@@ -89058,7 +90240,8 @@
      "1791": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-franc-sven",
@@ -90328,8 +91511,42 @@
   "n_full": 0,
   "n_bare": 3,
   "context_year": 1791,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q124151",
+    "label": "Adolf Frey",
+    "desc": "Swiss writer (1855-1920)",
+    "birth": 1855,
+    "death": 1920,
+    "score": 3,
+    "viaf": "19766062",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q821518",
+    "label": "Julius Frey",
+    "desc": "swimmer (1881–1960)",
+    "birth": 1881,
+    "death": 1960,
+    "score": 2,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q5818904",
+    "label": "Eduard Frey",
+    "desc": "schweizisk botaniker (1888–1974)",
+    "birth": 1888,
+    "death": 1974,
+    "score": 2,
+    "viaf": "102549803",
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933b": {
@@ -90376,7 +91593,8 @@
      "1791": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-freya",
@@ -91353,8 +92571,20 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": null,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q47117500",
+    "label": "G. Friedrichs",
+    "desc": "botanist",
+    "birth": null,
+    "death": null,
+    "score": 1,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1943a": {
@@ -91373,7 +92603,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-fries-th",
@@ -92370,7 +93601,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1748,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -92404,7 +93635,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-frode-are",
@@ -96717,7 +97949,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1833,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -96755,7 +97987,8 @@
      "1838": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-genealogiska-eric",
@@ -98608,7 +99841,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1600,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -98646,7 +99879,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-gistrén-jonas",
@@ -99181,7 +100415,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1665,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -99219,7 +100453,8 @@
      "1768": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-gjös",
@@ -99388,7 +100623,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1672,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -99432,7 +100667,8 @@
      "1708": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-godz-clöster",
@@ -102240,7 +103476,7 @@
   "n_full": 0,
   "n_bare": 3,
   "context_year": 1737,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -102288,7 +103524,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-grefwens",
@@ -103114,7 +104351,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1677,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -103150,7 +104387,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-gripenhielm-edmund",
@@ -104464,7 +105702,7 @@
   "n_full": 0,
   "n_bare": 3,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -104510,7 +105748,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-gudarnas",
@@ -104555,7 +105794,7 @@
   "n_full": 0,
   "n_bare": 3,
   "context_year": 1709,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -104603,7 +105842,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-gude-daniel",
@@ -104723,7 +105963,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1674,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -104757,7 +105997,8 @@
      "1674": 2
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-guden-hårde",
@@ -104799,7 +106040,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -104831,7 +106072,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-guder",
@@ -104964,7 +106206,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -104996,7 +106238,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-gudinnan",
@@ -109663,8 +110906,75 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1678,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q5779466",
+    "label": "Jöran Gyllenstierna",
+    "desc": "svensk greve, riksråd och ämbetsman",
+    "birth": 1632,
+    "death": 1686,
+    "score": 9,
+    "viaf": "231894388",
+    "sbl": "13407",
+    "libris": null
+   },
+   {
+    "qid": "Q5779461",
+    "label": "Göran Gyllenstierna",
+    "desc": "svensk friherre, amiral och landshövding",
+    "birth": 1601,
+    "death": 1646,
+    "score": 9,
+    "viaf": "451160848411908210008",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q5779472",
+    "label": "Göran Gyllenstierna",
+    "desc": "svensk militär",
+    "birth": 1576,
+    "death": 1618,
+    "score": 9,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q56300908",
+    "label": "Göran Gyllenstierna",
+    "desc": "svensk militär, död 1736",
+    "birth": 1662,
+    "death": 1736,
+    "score": 9,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q5779454",
+    "label": "Göran Gyllenstierna",
+    "desc": "svensk greve och riksmarskalk",
+    "birth": 1724,
+    "death": 1799,
+    "score": 6,
+    "viaf": "34439578",
+    "sbl": null,
+    "libris": "284081"
+   },
+   {
+    "qid": "Q5779412",
+    "label": "Göran Gyllenstierna af Lundholm",
+    "desc": "svensk friherre och generalmajor",
+    "birth": 1876,
+    "death": 1968,
+    "score": 4,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933a": {
@@ -109708,7 +111018,8 @@
      "1680": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-gyllenstierna-giöran",
@@ -111346,7 +112657,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1827,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -111381,7 +112692,8 @@
      "1828": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-göta",
@@ -111393,7 +112705,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1687,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -111427,7 +112739,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-götala",
@@ -111469,7 +112782,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1779,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -111505,7 +112818,8 @@
      "1811": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-götha",
@@ -111627,7 +112941,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1530,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -111661,7 +112975,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-götheborg",
@@ -111673,7 +112988,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1833,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -111707,7 +113022,8 @@
      "1833": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-götheborgs",
@@ -111749,7 +113065,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -111781,7 +113097,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-göthers",
@@ -111861,7 +113178,7 @@
   "n_full": 0,
   "n_bare": 3,
   "context_year": 1724,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -111911,7 +113228,8 @@
      "1753": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-göthlin-e",
@@ -112065,7 +113383,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1811,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -112101,7 +113419,8 @@
      "1822": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-güldenstierna-georgius",
@@ -112456,7 +113775,7 @@
   "n_full": 3,
   "n_bare": 0,
   "context_year": 1690,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -112482,7 +113801,8 @@
      "1722": 2
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-haddorfi-johannes",
@@ -113054,7 +114374,7 @@
   "n_bare": 4,
   "context_year": 1739,
   "candidates": [],
-  "status": "skipped",
+  "status": "none",
   "wikidata": null,
   "vols": {
    "1943a": {
@@ -113083,7 +114403,8 @@
      "1786": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-hadorph-johannes",
@@ -115347,9 +116668,21 @@
   "n_full": 5,
   "n_bare": 0,
   "context_year": 1816,
-  "status": "none",
-  "candidates": [],
-  "wikidata": null,
+  "status": "auto",
+  "candidates": [
+   {
+    "qid": "Q5784592",
+    "label": "Jonas Hallenberg",
+    "desc": "svensk hävdatecknare, sveriges sista rikshistoriograf, riksantikvarie",
+    "birth": 1748,
+    "death": 1834,
+    "score": 9,
+    "viaf": "5269331",
+    "sbl": "12419",
+    "libris": "248478"
+   }
+  ],
+  "wikidata": "Q5784592",
   "vols": {
    "1943b": {
     "forms": {
@@ -117376,7 +118709,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1634,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -117410,7 +118743,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-harald",
@@ -118561,8 +119895,31 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": null,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q2756080",
+    "label": "Tor Hedberg",
+    "desc": "svensk författare",
+    "birth": 1862,
+    "death": 1931,
+    "score": 4,
+    "viaf": "78365667",
+    "sbl": "12695",
+    "libris": "216621"
+   },
+   {
+    "qid": "Q1445442",
+    "label": "Frans Hedberg",
+    "desc": "svensk författare och teaterman",
+    "birth": 1828,
+    "death": 1908,
+    "score": 4,
+    "viaf": "42861077",
+    "sbl": "12687",
+    "libris": "189862"
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1943a": {
@@ -118593,7 +119950,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-hedenborg",
@@ -118786,7 +120144,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1762,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -118820,7 +120178,8 @@
      "1762": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-hedw",
@@ -119253,7 +120612,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1799,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -119293,7 +120652,8 @@
      "1805": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-heldenbuch",
@@ -119509,8 +120869,31 @@
   "n_full": 0,
   "n_bare": 3,
   "context_year": 1819,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q113587163",
+    "label": "Helge",
+    "desc": "bishop of the roman-catholic church",
+    "birth": null,
+    "death": null,
+    "score": 4,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q141576313",
+    "label": "Helge",
+    "desc": "Geni 6000000008815900949",
+    "birth": null,
+    "death": null,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933a": {
@@ -119565,7 +120948,8 @@
      "1826": 2
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-helgonius-petrus",
@@ -119810,7 +121194,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1702,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -119849,7 +121233,8 @@
      "1839": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-heliges-ericus",
@@ -122349,8 +123734,20 @@
   "n_full": 1,
   "n_bare": 4,
   "context_year": 1755,
-  "candidates": [],
-  "status": "skipped",
+  "candidates": [
+   {
+    "qid": "Q5802433",
+    "label": "Albert Hermansson",
+    "desc": "svensk politiker",
+    "birth": 1885,
+    "death": 1975,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
+  "status": "review",
   "wikidata": null,
   "vols": {
    "1936": {
@@ -122380,7 +123777,8 @@
      "1783": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-hermelin",
@@ -123751,7 +125149,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1693,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -123785,7 +125183,8 @@
      "1693": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-hesslén",
@@ -124243,7 +125642,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -124275,7 +125674,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-hieden",
@@ -126436,7 +127836,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1828,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -126475,7 +127875,8 @@
      "1834": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-hiärne-urban",
@@ -126547,7 +127948,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1695,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -126585,7 +127986,8 @@
      "1800": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-hjelmare",
@@ -127349,7 +128751,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1746,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -127383,7 +128785,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-hoffwenius",
@@ -127753,8 +129156,31 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1752,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q373467",
+    "label": "Tore Holm",
+    "desc": "svensk båtkonstruktör och seglare",
+    "birth": 1896,
+    "death": 1977,
+    "score": 5,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q7781460",
+    "label": "Herman Theodor Holm",
+    "desc": "botaniker",
+    "birth": 1854,
+    "death": 1932,
+    "score": 2,
+    "viaf": "120984781",
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933a": {
@@ -127787,7 +129213,8 @@
      "1752": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-holm-johannes",
@@ -127963,8 +129390,31 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1783,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q6054738",
+    "label": "Otto Rudolf Holmberg",
+    "desc": "svensk botaniker",
+    "birth": 1874,
+    "death": 1930,
+    "score": 5,
+    "viaf": "286375302",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q761934",
+    "label": "August Johann Holmberg",
+    "desc": "German sculptor and painter (1851-1911)",
+    "birth": 1851,
+    "death": 1911,
+    "score": 2,
+    "viaf": "62313895",
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1936": {
@@ -127999,7 +129449,8 @@
      "1794": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-holmboe",
@@ -130418,7 +131869,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -130450,7 +131901,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-hwasser",
@@ -130908,7 +132360,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1715,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -130944,7 +132396,8 @@
      "1700": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-håfcantzleren",
@@ -131023,7 +132476,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1388,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -131062,7 +132515,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-håkansson-joen",
@@ -132656,9 +134110,54 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1452,
-  "status": "skipped",
-  "candidates": [],
-  "wikidata": null,
+  "status": "auto",
+  "candidates": [
+   {
+    "qid": "Q153940",
+    "label": "Kristian I",
+    "desc": "kung av Sverige 1457–1464, kung av Danmark 1448–1481 och kung av Norge 1450–1481",
+    "birth": 1426,
+    "death": 1481,
+    "score": 9,
+    "viaf": "281571976",
+    "sbl": "11767",
+    "libris": "194159"
+   },
+   {
+    "qid": "Q154460",
+    "label": "Kristian II",
+    "desc": "kung av Sverige 1520–1521, kung av Danmark och Norge 1513–1523",
+    "birth": 1481,
+    "death": 1559,
+    "score": 4,
+    "viaf": "42642695",
+    "sbl": "11768",
+    "libris": "194160"
+   },
+   {
+    "qid": "Q154998",
+    "label": "Kristian III av Danmark",
+    "desc": "Kung av Danmark och Norge 1534-1559",
+    "birth": 1503,
+    "death": 1559,
+    "score": 4,
+    "viaf": "69094615",
+    "sbl": null,
+    "libris": "356843"
+   },
+   {
+    "qid": "Q657550",
+    "label": "Kristian I av Birkenfeld-Bischweiler",
+    "desc": "hertig av Pfalz-Birkenfeld-Bischweiler 1600-1654",
+    "birth": 1598,
+    "death": 1654,
+    "score": 3,
+    "viaf": "32820827",
+    "sbl": null,
+    "libris": null
+   }
+  ],
+  "wikidata": "Q153940",
   "vols": {
    "1943a": {
     "forms": {
@@ -132700,7 +134199,8 @@
      "1828": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-i-fredric",
@@ -133606,7 +135106,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -133638,7 +135138,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-idman",
@@ -139822,8 +141323,20 @@
   "n_full": 0,
   "n_bare": 3,
   "context_year": 1683,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q43977",
+    "label": "Jan Hus",
+    "desc": "tjeckisk författare",
+    "birth": 1369,
+    "death": 1415,
+    "score": 2,
+    "viaf": "165278112",
+    "sbl": null,
+    "libris": "62244"
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933a": {
@@ -139876,7 +141389,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-janse",
@@ -139889,8 +141403,20 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q21338564",
+    "label": "Antonius Johannes Theodorus Janse",
+    "desc": "nederländsk entomolog",
+    "birth": 1877,
+    "death": 1970,
+    "score": 3,
+    "viaf": "237301054",
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1936": {
@@ -139921,7 +141447,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-janson-johannes",
@@ -140386,7 +141913,7 @@
   "n_full": 0,
   "n_bare": 4,
   "context_year": 1712,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -140464,7 +141991,8 @@
      "1746": 2
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-jaren",
@@ -140508,7 +142036,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1747,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -140543,7 +142071,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-jarl-byrger",
@@ -140801,7 +142330,7 @@
   "n_full": 3,
   "n_bare": 0,
   "context_year": 1790,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -140853,7 +142382,8 @@
      "1809": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-jarlsberg-wedel",
@@ -141572,7 +143102,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1650,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -141611,7 +143141,8 @@
      "1807": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-jetton",
@@ -145415,7 +146946,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1650,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -145450,7 +146981,8 @@
      "1700": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-jorge-cnute",
@@ -145579,8 +147111,42 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q16655984",
+    "label": "Josaphat",
+    "desc": "human",
+    "birth": null,
+    "death": null,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q3650615",
+    "label": "",
+    "desc": "Saint of the Eastern Orthodox Church and legendary Indian prince",
+    "birth": null,
+    "death": null,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q1652035",
+    "label": "Josaphat Araldi",
+    "desc": "Italian painter",
+    "birth": null,
+    "death": null,
+    "score": 1,
+    "viaf": "61391830",
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933a": {
@@ -145611,7 +147177,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-josephat",
@@ -145927,8 +147494,31 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1601,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q26454627",
+    "label": "Judit",
+    "desc": "biblisk person",
+    "birth": null,
+    "death": null,
+    "score": 3,
+    "viaf": "59876107",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q3187975",
+    "label": "Judit",
+    "desc": "one of the two Hittite wives of Esau in the Book of Genesis",
+    "birth": null,
+    "death": null,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1932": {
@@ -145964,7 +147554,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-judiths",
@@ -146196,8 +147787,20 @@
   "n_full": 0,
   "n_bare": 3,
   "context_year": 1766,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q1712501",
+    "label": "Julius Bernhard von Rohr",
+    "desc": "(1688-1742) German theological writer",
+    "birth": 1688,
+    "death": 1742,
+    "score": 4,
+    "viaf": "8169263",
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1936": {
@@ -146244,7 +147847,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-julij",
@@ -146915,7 +148519,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -146947,7 +148551,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-juris-rålambz",
@@ -147684,8 +149289,53 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": null,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q2744392",
+    "label": "Finnur Jónsson",
+    "desc": "isländsk filolog",
+    "birth": 1858,
+    "death": 1934,
+    "score": 7,
+    "viaf": "66541845",
+    "sbl": null,
+    "libris": "186897"
+   },
+   {
+    "qid": "Q471912",
+    "label": "Finnur Jónsson",
+    "desc": "isländsk evangelisk-luthersk biskop",
+    "birth": 1704,
+    "death": 1789,
+    "score": 7,
+    "viaf": "9916148574293724430007",
+    "sbl": null,
+    "libris": "214522"
+   },
+   {
+    "qid": "Q55374888",
+    "label": "Finnur Jónsson",
+    "desc": "Icelandic politician",
+    "birth": 1894,
+    "death": 1951,
+    "score": 7,
+    "viaf": "308741100",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q97697347",
+    "label": "Finnur Jónsson",
+    "desc": "",
+    "birth": 1892,
+    "death": 1993,
+    "score": 4,
+    "viaf": "306063498",
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933b": {
@@ -147716,7 +149366,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-jónsson-magnus",
@@ -148055,8 +149706,75 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1821,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q100304872",
+    "label": "Jöns Jönsson Byström",
+    "desc": "svensk spelman",
+    "birth": 1790,
+    "death": 1854,
+    "score": 7,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q5895957",
+    "label": "Jöns Jönsson",
+    "desc": "svensk politiker",
+    "birth": 1867,
+    "death": 1941,
+    "score": 6,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q141443371",
+    "label": "Jöns Jönsson",
+    "desc": "",
+    "birth": 1739,
+    "death": null,
+    "score": 6,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q141456380",
+    "label": "Jöns Jönsson",
+    "desc": "",
+    "birth": null,
+    "death": null,
+    "score": 4,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q62081669",
+    "label": "Jöns Jönsson Serner",
+    "desc": "svensk ingenjör",
+    "birth": 1876,
+    "death": null,
+    "score": 4,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q107980519",
+    "label": "Jöns Löfmark",
+    "desc": "svensk pianobyggare och pianofabrikör i Malmö",
+    "birth": 1870,
+    "death": 1960,
+    "score": 4,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1943b": {
@@ -148092,7 +149810,8 @@
      "1829": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-jönsson-nicolaus",
@@ -149485,9 +151204,21 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1668,
-  "status": "skipped",
-  "candidates": [],
-  "wikidata": null,
+  "status": "auto",
+  "candidates": [
+   {
+    "qid": "Q18747126",
+    "label": "Johann Kankel",
+    "desc": "svensk boktryckare",
+    "birth": 1614,
+    "death": 1687,
+    "score": 9,
+    "viaf": "2302557",
+    "sbl": "12345",
+    "libris": "246791"
+   }
+  ],
+  "wikidata": "Q18747126",
   "vols": {
    "1933b": {
     "forms": {
@@ -149510,7 +151241,8 @@
      "1670": 2
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-kannenberg",
@@ -150720,7 +152452,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1712,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -150746,7 +152478,8 @@
     }
    }
   },
-  "n_ambiguous": 55
+  "n_ambiguous": 55,
+  "manuscripta": null
  },
  {
   "id": "pers-keeder",
@@ -152351,7 +154084,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1690,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -152385,7 +154118,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-kjellberg-carolus",
@@ -154993,7 +156727,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1686,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -155027,7 +156761,8 @@
      "1686": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-kohl-caspar",
@@ -155209,7 +156944,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1670,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -155243,7 +156978,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-kon-nestved",
@@ -156824,7 +158560,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -156856,7 +158592,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-kristi",
@@ -159751,7 +161488,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1753,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -159788,7 +161525,8 @@
      "1755": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-ladulås-magnus",
@@ -163457,7 +165195,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -163489,7 +165227,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-lauenburg",
@@ -164110,8 +165849,20 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1693,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q137869426",
+    "label": "Rina",
+    "desc": "Russian pornographic actress",
+    "birth": null,
+    "death": null,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933a": {
@@ -164147,7 +165898,8 @@
      "1693": 4
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-leer-vrna",
@@ -164964,7 +166716,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1693,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -165002,7 +166754,8 @@
      "1775": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-leijonmarck-sven",
@@ -165319,8 +167072,20 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1674,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q41980112",
+    "label": "Mary Torrans Lathrap",
+    "desc": "American poet, preacher, suffragist, social reformer (1838-1895)",
+    "birth": 1838,
+    "death": 1895,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933a": {
@@ -165355,7 +167120,8 @@
      "1670": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-lendahl",
@@ -165915,56 +167681,12 @@
     "libris": "292885"
    },
    {
-    "qid": "Q350301",
-    "label": "Adam Lewenhaupt",
-    "desc": "svensk greve, hovman och riksheraldiker",
-    "birth": 1861,
-    "death": 1944,
+    "qid": "Q37013874",
+    "label": "Adam Ludvig Lewenhaupt",
+    "desc": "",
+    "birth": 1748,
+    "death": 1808,
     "score": 4,
-    "viaf": "264713092",
-    "sbl": "11267",
-    "libris": "312795"
-   },
-   {
-    "qid": "Q2698612",
-    "label": "Gustaf Lewenhaupt",
-    "desc": "svensk greve, militär, hovman och ryttare",
-    "birth": 1879,
-    "death": 1962,
-    "score": 3,
-    "viaf": null,
-    "sbl": null,
-    "libris": null
-   },
-   {
-    "qid": "Q1814305",
-    "label": "Carl Gustaf Lewenhaupt",
-    "desc": "svensk ryttare",
-    "birth": 1884,
-    "death": 1935,
-    "score": 3,
-    "viaf": null,
-    "sbl": null,
-    "libris": null
-   },
-   {
-    "qid": "Q5949042",
-    "label": "Claes Magnus Lewenhaupt",
-    "desc": "svensk politiker",
-    "birth": 1816,
-    "death": 1882,
-    "score": 3,
-    "viaf": "49206496",
-    "sbl": null,
-    "libris": "268632"
-   },
-   {
-    "qid": "Q5948996",
-    "label": "Casimir Lewenhaupt",
-    "desc": "svensk greve, kammarherre och riksdagsman",
-    "birth": 1827,
-    "death": 1905,
-    "score": 3,
     "viaf": null,
     "sbl": null,
     "libris": null
@@ -166083,7 +167805,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -166115,7 +167837,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-leyonstedt",
@@ -166338,7 +168061,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1673,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -166379,7 +168102,8 @@
      "1680": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-lidiins-olaus",
@@ -169367,7 +171091,7 @@
   "n_bare": 2,
   "context_year": 1675,
   "candidates": [],
-  "status": "skipped",
+  "status": "none",
   "wikidata": null,
   "vols": {
    "1933a": {
@@ -169393,7 +171117,8 @@
      "1682": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-lindelius-johannes",
@@ -169713,7 +171438,7 @@
   "n_bare": 1,
   "context_year": 1805,
   "candidates": [],
-  "status": "skipped",
+  "status": "none",
   "wikidata": null,
   "vols": {
    "1943b": {
@@ -169738,7 +171463,8 @@
      "1860": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-lindgrens",
@@ -169937,7 +171663,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1724,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -169975,7 +171701,8 @@
      "1730": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-lindholm-handelsman",
@@ -170886,7 +172613,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1726,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -170924,7 +172651,8 @@
      "1754": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-liodsgrein",
@@ -171580,7 +173308,7 @@
   "n_bare": 0,
   "context_year": 1638,
   "candidates": [],
-  "status": "skipped",
+  "status": "none",
   "wikidata": null,
   "vols": {
    "1933b": {
@@ -171607,7 +173335,8 @@
      "1672": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-loccenij-joh",
@@ -171619,7 +173348,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -171651,7 +173380,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-loccenius",
@@ -172077,8 +173807,20 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1700,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q9353",
+    "label": "John Locke",
+    "desc": "engelsk filosof och politisk tänkare",
+    "birth": 1632,
+    "death": 1704,
+    "score": 3,
+    "viaf": "34459614",
+    "sbl": null,
+    "libris": "239481"
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1943a": {
@@ -172111,7 +173853,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-lod",
@@ -172189,7 +173932,7 @@
   "n_full": 3,
   "n_bare": 0,
   "context_year": 1300,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -172237,7 +173980,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-lodbroks-ragnar",
@@ -172551,7 +174295,7 @@
   "n_bare": 11,
   "context_year": 1763,
   "candidates": [],
-  "status": "skipped",
+  "status": "none",
   "wikidata": null,
   "vols": {
    "1936": {
@@ -172589,7 +174333,8 @@
      "1770": 2
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-loenboms",
@@ -172941,7 +174686,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1769,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -172979,7 +174724,8 @@
      "1740": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-lotten",
@@ -173212,8 +174958,31 @@
   "n_full": 0,
   "n_bare": 3,
   "context_year": 1694,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q320980",
+    "label": "Lucas van Leyden",
+    "desc": "Dutch artist, painter (1494-1533)",
+    "birth": 1494,
+    "death": 1533,
+    "score": 3,
+    "viaf": "95809141",
+    "sbl": null,
+    "libris": "194211"
+   },
+   {
+    "qid": "Q723993",
+    "label": "Robert Lucas",
+    "desc": "amerikansk politiker",
+    "birth": 1781,
+    "death": 1853,
+    "score": 2,
+    "viaf": "49108191",
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1932": {
@@ -173270,7 +175039,8 @@
      "1701": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-lucilii",
@@ -177192,7 +178962,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1795,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -177231,7 +179001,8 @@
      "1805": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-magister",
@@ -177244,7 +179015,7 @@
   "n_full": 0,
   "n_bare": 3,
   "context_year": 1815,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -177295,7 +179066,8 @@
      "1832": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-magistre",
@@ -178341,8 +180113,31 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1668,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q5713806",
+    "label": "Carl Envallsson",
+    "desc": "svensk notarie och dramatisk författare",
+    "birth": 1756,
+    "death": 1806,
+    "score": 4,
+    "viaf": "272996747",
+    "sbl": "15314",
+    "libris": "213301"
+   },
+   {
+    "qid": "Q104829",
+    "label": "Carolus Magnus Hutschenreuther",
+    "desc": "German porcelain entrepreneur (1794–1845)",
+    "birth": 1794,
+    "death": 1845,
+    "score": 1,
+    "viaf": "6142603",
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933a": {
@@ -178377,7 +180172,8 @@
      "1793": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-magnus-hindric",
@@ -180001,7 +181797,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1690,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -180035,7 +181831,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-malmberg",
@@ -180895,8 +182692,75 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1788,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q4965568",
+    "label": "Margareta",
+    "desc": "same och kristen",
+    "birth": 1369,
+    "death": 1414,
+    "score": 5,
+    "viaf": null,
+    "sbl": "9098",
+    "libris": null
+   },
+   {
+    "qid": "Q125453972",
+    "label": "Margareta",
+    "desc": "svensk medeltidskvinna",
+    "birth": null,
+    "death": null,
+    "score": 4,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q101247856",
+    "label": "Margareta",
+    "desc": "Genealogics person ID=I00492909",
+    "birth": null,
+    "death": null,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q110366988",
+    "label": "Margareta",
+    "desc": "",
+    "birth": null,
+    "death": null,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q110154464",
+    "label": "Margareta",
+    "desc": "",
+    "birth": null,
+    "death": null,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q110366957",
+    "label": "Margareta",
+    "desc": "",
+    "birth": null,
+    "death": null,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933b": {
@@ -180939,7 +182803,8 @@
      "1793": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-margaretas",
@@ -180984,8 +182849,75 @@
   "n_full": 0,
   "n_bare": 3,
   "context_year": 1739,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q125453972",
+    "label": "Margareta",
+    "desc": "svensk medeltidskvinna",
+    "birth": null,
+    "death": null,
+    "score": 4,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q110370025",
+    "label": "Margaretha",
+    "desc": "",
+    "birth": null,
+    "death": null,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q116047525",
+    "label": "Margaretha",
+    "desc": "",
+    "birth": null,
+    "death": null,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q110152480",
+    "label": "Margaretha",
+    "desc": "- Bef 1323",
+    "birth": null,
+    "death": null,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q110409822",
+    "label": "Margaretha",
+    "desc": "",
+    "birth": null,
+    "death": null,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q110621160",
+    "label": "Margaretha",
+    "desc": "- Abt 1664",
+    "birth": null,
+    "death": null,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1932": {
@@ -181037,7 +182969,8 @@
      "1787": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-margarethæ",
@@ -181592,7 +183525,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1658,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -181628,7 +183561,8 @@
      "1564": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-markall",
@@ -182882,9 +184816,21 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1672,
-  "status": "skipped",
-  "candidates": [],
-  "wikidata": null,
+  "status": "auto",
+  "candidates": [
+   {
+    "qid": "Q5979754",
+    "label": "Johannes Gothus",
+    "desc": "svensk teolog och under en tid biskop i Strängnäs stift",
+    "birth": 1592,
+    "death": 1670,
+    "score": 9,
+    "viaf": "78819155",
+    "sbl": "12107",
+    "libris": "208100"
+   }
+  ],
+  "wikidata": "Q5979754",
   "vols": {
    "1933a": {
     "forms": {
@@ -182912,7 +184858,8 @@
      "1681": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-matthsson-matths",
@@ -185548,9 +187495,76 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1772,
-  "status": "skipped",
-  "candidates": [],
-  "wikidata": null,
+  "status": "auto",
+  "candidates": [
+   {
+    "qid": "Q68133",
+    "label": "Johann David Michaelis",
+    "desc": "tysk orientalist, teolog och filosof",
+    "birth": 1717,
+    "death": 1791,
+    "score": 6,
+    "viaf": "40220",
+    "sbl": null,
+    "libris": "288696"
+   },
+   {
+    "qid": "Q62926",
+    "label": "Leonor Michaelis",
+    "desc": "tysk professor",
+    "birth": 1875,
+    "death": 1949,
+    "score": 3,
+    "viaf": "13088142",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q102287189",
+    "label": "Michaelis",
+    "desc": "gerente",
+    "birth": null,
+    "death": null,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q60115",
+    "label": "Georg Michaelis",
+    "desc": "tysk politiker",
+    "birth": 1857,
+    "death": 1936,
+    "score": 2,
+    "viaf": "112418335",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q122451",
+    "label": "Otto Michaelis",
+    "desc": "German journalist (1826-1890)",
+    "birth": 1826,
+    "death": 1890,
+    "score": 2,
+    "viaf": "69697301",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q7175872",
+    "label": "Peter Michaelis",
+    "desc": "German botanist 1900-1975",
+    "birth": 1900,
+    "death": 1975,
+    "score": 2,
+    "viaf": "3498878",
+    "sbl": null,
+    "libris": null
+   }
+  ],
+  "wikidata": "Q68133",
   "vols": {
    "1936": {
     "forms": {
@@ -185588,7 +187602,8 @@
      "1786": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-michelson-carolus",
@@ -186965,8 +188980,20 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q327758",
+    "label": "Prins Eugen av Sverige",
+    "desc": "prins av Sverige och Norge",
+    "birth": 1865,
+    "death": 1947,
+    "score": 3,
+    "viaf": "12350440",
+    "sbl": "15534",
+    "libris": "185863"
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933a": {
@@ -186997,7 +189024,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-montelius",
@@ -188576,9 +190604,21 @@
   "n_full": 1,
   "n_bare": 46,
   "context_year": 1788,
-  "candidates": [],
-  "status": "skipped",
-  "wikidata": null,
+  "candidates": [
+   {
+    "qid": "Q5997574",
+    "label": "Johan Murberg",
+    "desc": "svensk pedagog och författare",
+    "birth": 1734,
+    "death": 1805,
+    "score": 9,
+    "viaf": "15175544",
+    "sbl": "8572",
+    "libris": "266264"
+   }
+  ],
+  "status": "auto",
+  "wikidata": "Q5997574",
   "vols": {
    "1943a": {
     "forms": {
@@ -188643,7 +190683,8 @@
      "1793": 2
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-murrer-franciscus",
@@ -190279,7 +192320,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1658,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -190331,7 +192372,8 @@
      "1668": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-narssius-johannes",
@@ -190500,7 +192542,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1742,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -190545,7 +192587,8 @@
      "1758": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-neikter",
@@ -191001,9 +193044,21 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1696,
-  "status": "skipped",
-  "candidates": [],
-  "wikidata": null,
+  "status": "auto",
+  "candidates": [
+   {
+    "qid": "Q217715",
+    "label": "Caspar Netscher",
+    "desc": "nederländsk målare",
+    "birth": 1639,
+    "death": 1684,
+    "score": 7,
+    "viaf": "39615291",
+    "sbl": null,
+    "libris": null
+   }
+  ],
+  "wikidata": "Q217715",
   "vols": {
    "1933a": {
     "forms": {
@@ -191037,7 +193092,8 @@
      "1723": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-nesselius",
@@ -191149,7 +193205,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1536,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -191186,7 +193242,8 @@
      "1800": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-netherwood",
@@ -192569,8 +194626,75 @@
   "n_full": 3,
   "n_bare": 0,
   "context_year": null,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q6009585",
+    "label": "Anders Nilsson",
+    "desc": "svensk politiker",
+    "birth": 1832,
+    "death": 1905,
+    "score": 7,
+    "viaf": "6611151002121430280008",
+    "sbl": null,
+    "libris": "405772"
+   },
+   {
+    "qid": "Q6009634",
+    "label": "Anders Nilsson",
+    "desc": "Swedish hymnwriter",
+    "birth": 1849,
+    "death": 1912,
+    "score": 7,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q6009646",
+    "label": "Anders Nilsson i Rinkaby",
+    "desc": "svensk politiker",
+    "birth": 1825,
+    "death": 1905,
+    "score": 7,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q29479166",
+    "label": "Anders Nilsson",
+    "desc": "svensk konstnär och konsthantverkare",
+    "birth": 1859,
+    "death": 1936,
+    "score": 7,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q40387651",
+    "label": "Anders Nilsson",
+    "desc": "svensk kommunalpolitiker och tidningsredaktör",
+    "birth": 1899,
+    "death": 1985,
+    "score": 7,
+    "viaf": "73835032",
+    "sbl": "8934",
+    "libris": "274820"
+   },
+   {
+    "qid": "Q491199",
+    "label": "Anders Nilsson",
+    "desc": "Swedish politician (1844-1936)",
+    "birth": 1844,
+    "death": 1936,
+    "score": 7,
+    "viaf": "54129085",
+    "sbl": null,
+    "libris": "272286"
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1936": {
@@ -192615,7 +194739,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-nilsson-daniel",
@@ -192844,8 +194969,64 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1694,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q6010760",
+    "label": "Jonas Nilsson",
+    "desc": "svensk politiker",
+    "birth": 1842,
+    "death": 1923,
+    "score": 6,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q6010769",
+    "label": "Jonas Petter Nilsson",
+    "desc": "svensk politiker",
+    "birth": 1829,
+    "death": 1902,
+    "score": 6,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q102426300",
+    "label": "Jonas Nilsson",
+    "desc": "Ph.D. Uppsala Universitet 2000",
+    "birth": null,
+    "death": null,
+    "score": 4,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q41267717",
+    "label": "Jonas Nilsson",
+    "desc": "forskare",
+    "birth": null,
+    "death": null,
+    "score": 4,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q90243397",
+    "label": "Jonas A Nilsson",
+    "desc": "researcher (ORCID 0000-0003-0346-6837)",
+    "birth": null,
+    "death": null,
+    "score": 4,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1935": {
@@ -192882,7 +195063,8 @@
      "1723": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-nilsson-laurentius",
@@ -192927,43 +195109,76 @@
   "n_full": 4,
   "n_bare": 0,
   "context_year": 1792,
-  "status": "auto",
+  "status": "review",
   "candidates": [
    {
-    "qid": "Q42309037",
-    "label": "Nils Gustaf Nilsson",
-    "desc": "svensk mariningenjör och skeppsmätningsöverkontrollör",
-    "birth": 1872,
-    "death": 1944,
+    "qid": "Q6008802",
+    "label": "Nils Nilsson",
+    "desc": "svensk hovmästare, häradshövding och riksrådsdomare (Natt och Dag; 1554–1613)",
+    "birth": 1554,
+    "death": 1613,
+    "score": 7,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q6011317",
+    "label": "Nils Nilsson",
+    "desc": "svensk hemmansägare och riksdagsman",
+    "birth": 1837,
+    "death": 1902,
     "score": 6,
-    "viaf": "36895409",
-    "sbl": "8968",
-    "libris": "235073"
+    "viaf": null,
+    "sbl": null,
+    "libris": null
    },
    {
-    "qid": "Q269812",
-    "label": "Kristina Nilsson",
-    "desc": "svensk skådespelare och sångare",
-    "birth": 1843,
-    "death": 1921,
-    "score": 3,
-    "viaf": "35223286",
-    "sbl": "8940",
-    "libris": "206413"
+    "qid": "Q6011338",
+    "label": "Nils Nilsson",
+    "desc": "var borgarståndets talman och borgmästare i Stockholm",
+    "birth": 1600,
+    "death": 1664,
+    "score": 6,
+    "viaf": null,
+    "sbl": "8913",
+    "libris": null
    },
    {
-    "qid": "Q1341398",
-    "label": "Otto Nilsson",
-    "desc": "svensk kulstötare, diskuskastare och spjutkastare",
-    "birth": 1879,
-    "death": 1960,
-    "score": 3,
+    "qid": "Q6011309",
+    "label": "Nils Nilsson",
+    "desc": "svensk hemmansägare och riksdagsman (lmp)",
+    "birth": 1815,
+    "death": 1895,
+    "score": 6,
+    "viaf": "2355151002103930280004",
+    "sbl": null,
+    "libris": "405560"
+   },
+   {
+    "qid": "Q40349086",
+    "label": "Nils E Nilsson",
+    "desc": "svensk affärsman",
+    "birth": 1877,
+    "death": 1959,
+    "score": 6,
+    "viaf": null,
+    "sbl": "8966",
+    "libris": null
+   },
+   {
+    "qid": "Q6011398",
+    "label": "Nils Nilsson i Asarum",
+    "desc": "svensk politiker",
+    "birth": 1840,
+    "death": 1910,
+    "score": 6,
     "viaf": null,
     "sbl": null,
     "libris": null
    }
   ],
-  "wikidata": "Q42309037",
+  "wikidata": null,
   "vols": {
    "1936": {
     "forms": {
@@ -193421,7 +195636,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1698,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -193458,7 +195673,8 @@
      "1700": 2
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-nisser-ekström",
@@ -195249,7 +197465,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1640,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -195284,7 +197500,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-noreen",
@@ -195624,7 +197841,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1648,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -195662,7 +197879,8 @@
      "1633": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-norjes-ramii",
@@ -197611,8 +199829,20 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q256448",
+    "label": "Henri Julien",
+    "desc": "Canadian cartoonist (1852-1908)",
+    "birth": 1852,
+    "death": 1908,
+    "score": 3,
+    "viaf": "62876301",
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933a": {
@@ -197643,7 +199873,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-october",
@@ -202321,9 +204552,54 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1807,
-  "status": "skipped",
-  "candidates": [],
-  "wikidata": null,
+  "status": "auto",
+  "candidates": [
+   {
+    "qid": "Q6027364",
+    "label": "Lars Olsson i Groröd",
+    "desc": "svensk lantbrukare och politiker",
+    "birth": 1759,
+    "death": 1832,
+    "score": 9,
+    "viaf": null,
+    "sbl": "7787",
+    "libris": null
+   },
+   {
+    "qid": "Q6027369",
+    "label": "Lars Olsson i Vallsta",
+    "desc": "svensk politiker",
+    "birth": 1869,
+    "death": 1945,
+    "score": 6,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q117294002",
+    "label": "Lars Olsson",
+    "desc": "svensk lantbrukare",
+    "birth": 1867,
+    "death": 1955,
+    "score": 6,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q30106482",
+    "label": "Lars Olsson",
+    "desc": "svensk skulptör verksam under 1600-talet",
+    "birth": null,
+    "death": null,
+    "score": 5,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
+  "wikidata": "Q6027364",
   "vols": {
    "1936": {
     "forms": {
@@ -202357,7 +204633,8 @@
      "1836": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-olsson-michael",
@@ -203589,8 +205866,42 @@
   "n_full": 0,
   "n_bare": 3,
   "context_year": 1651,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q84373",
+    "label": "Otfrid Foerster",
+    "desc": "tysk professor",
+    "birth": 1873,
+    "death": 1941,
+    "score": 1,
+    "viaf": "45059294",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q4310020",
+    "label": "Otfried Mylius",
+    "desc": "tysk författare",
+    "birth": 1819,
+    "death": 1889,
+    "score": 1,
+    "viaf": "24359278",
+    "sbl": null,
+    "libris": "298943"
+   },
+   {
+    "qid": "Q88061",
+    "label": "Otfrid von Hanstein",
+    "desc": "German writer (1869-1959)",
+    "birth": 1869,
+    "death": 1959,
+    "score": 1,
+    "viaf": "69320362",
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1932": {
@@ -203656,7 +205967,8 @@
      "1699": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-ott",
@@ -203793,8 +206105,64 @@
   "n_full": 0,
   "n_bare": 3,
   "context_year": 1828,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q77650",
+    "label": "Christoph Friedrich Otto",
+    "desc": "tysk trädgårdsmästare och botaniker (1783–1856)",
+    "birth": 1783,
+    "death": 1856,
+    "score": 5,
+    "viaf": "311402143",
+    "sbl": null,
+    "libris": "255299"
+   },
+   {
+    "qid": "Q71507",
+    "label": "Louise Otto",
+    "desc": "19th-century German feminist, poet, and writer, editor",
+    "birth": 1819,
+    "death": 1895,
+    "score": 4,
+    "viaf": "18014534",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q97026",
+    "label": "Otto",
+    "desc": "Count of Lippe-Brake",
+    "birth": 1589,
+    "death": 1657,
+    "score": 3,
+    "viaf": "207903853",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q95635",
+    "label": "Otto",
+    "desc": "Lord of Lippe-Lemgo",
+    "birth": 1301,
+    "death": 1360,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q75782",
+    "label": "Nicolaus Otto",
+    "desc": "tysk ingenjör",
+    "birth": 1832,
+    "death": 1891,
+    "score": 2,
+    "viaf": "18014523",
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933a": {
@@ -203841,7 +206209,8 @@
      "1828": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-otto-kejsarena",
@@ -204508,8 +206877,75 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1663,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q3509294",
+    "label": "Gabriel Oxenstierna",
+    "desc": "svensk riksråd, greve och generalguvernör i Finland 1631–1633",
+    "birth": 1586,
+    "death": 1656,
+    "score": 9,
+    "viaf": "212855906",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q6031735",
+    "label": "Gabriel Oxenstierna",
+    "desc": "svensk greve, riksråd och riksmarskalk",
+    "birth": 1619,
+    "death": 1673,
+    "score": 9,
+    "viaf": "203897475",
+    "sbl": null,
+    "libris": "227054"
+   },
+   {
+    "qid": "Q6031741",
+    "label": "Gabriel Oxenstierna",
+    "desc": "svensk friherre, rikskammarråd och lantmarskalk.",
+    "birth": 1618,
+    "death": 1647,
+    "score": 9,
+    "viaf": "51665718",
+    "sbl": null,
+    "libris": "227054"
+   },
+   {
+    "qid": "Q109829983",
+    "label": "Gabriel Oxenstierna af Croneborg",
+    "desc": "Greve (1647-1700)",
+    "birth": 1647,
+    "death": 1700,
+    "score": 8,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q6031761",
+    "label": "Gabriel Oxenstierna",
+    "desc": "svensk greve och diplomat",
+    "birth": 1642,
+    "death": 1707,
+    "score": 7,
+    "viaf": "5359612",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q109829984",
+    "label": "Gabriel Oxenstierna",
+    "desc": "svensk militär och kammarherre",
+    "birth": 1656,
+    "death": 1719,
+    "score": 7,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1932": {
@@ -204542,7 +206978,8 @@
      "1663": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-oxenstierna-johannes",
@@ -205584,7 +208021,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1534,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -205622,7 +208059,8 @@
      "1668": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-palmschiöldz",
@@ -206344,8 +208782,31 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1796,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q372652",
+    "label": "Claude Emmanuel Joseph Pierre, marquis de Pastoret",
+    "desc": "fransk politiker",
+    "birth": 1755,
+    "death": 1840,
+    "score": 5,
+    "viaf": "34566988",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q109653594",
+    "label": "Francisco Ferrer Rodríguez",
+    "desc": "Spanish bullfighter",
+    "birth": 1884,
+    "death": 1927,
+    "score": 2,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1943a": {
@@ -206380,7 +208841,8 @@
      "1805": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-pateen",
@@ -209654,7 +212116,7 @@
   "n_full": 0,
   "n_bare": 4,
   "context_year": 1697,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -209728,7 +212190,8 @@
      "1713": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-person-abram",
@@ -210837,8 +213300,75 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1774,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q6043805",
+    "label": "Sven Persson i Norrköping",
+    "desc": "svensk journalist och politiker",
+    "birth": 1873,
+    "death": 1919,
+    "score": 6,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q30106523",
+    "label": "Sven Persson",
+    "desc": "svensk musiker och konstnär",
+    "birth": 1899,
+    "death": 1993,
+    "score": 6,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q141529172",
+    "label": "Sven Persson",
+    "desc": "1655 Yttervik 5 - 1748 Yttervik 5",
+    "birth": 1655,
+    "death": 1748,
+    "score": 6,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q70265575",
+    "label": "Sven Persson",
+    "desc": "brittisk politiker",
+    "birth": null,
+    "death": null,
+    "score": 4,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q141533917",
+    "label": "Sven Persson",
+    "desc": "1635 - circa 1699",
+    "birth": 1635,
+    "death": 1699,
+    "score": 4,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q141583241",
+    "label": "Sven Persson",
+    "desc": "born Tvärtorp, Risinge, Östergötlnd, Sverige",
+    "birth": null,
+    "death": null,
+    "score": 4,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1943a": {
@@ -210872,7 +213402,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-perszon-andreas",
@@ -211855,8 +214386,42 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q140424357",
+    "label": "Petrus",
+    "desc": "kyrkoherde i Skeppsås församling",
+    "birth": null,
+    "death": 1550,
+    "score": 5,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q30106518",
+    "label": "Petrus",
+    "desc": "svensk kyrkomålare verksam på 1400-talet",
+    "birth": null,
+    "death": null,
+    "score": 4,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q14912766",
+    "label": "Petrus",
+    "desc": "German abbot",
+    "birth": 1400,
+    "death": null,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1943a": {
@@ -211887,7 +214452,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-petter",
@@ -213429,7 +215995,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -213461,7 +216027,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-plancher",
@@ -213600,7 +216167,7 @@
   "n_full": 0,
   "n_bare": 5,
   "context_year": 1684,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -213692,7 +216259,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-platon",
@@ -213775,7 +216343,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1698,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -213817,7 +216385,8 @@
      "1725": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-platonis",
@@ -213829,7 +216398,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1679,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -213870,7 +216439,8 @@
      "1719": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-platos",
@@ -213916,7 +216486,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1631,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -213950,7 +216520,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-plena",
@@ -214531,7 +217102,7 @@
   "n_full": 4,
   "n_bare": 0,
   "context_year": 1672,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -214607,7 +217178,8 @@
      "1828": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-pommerns-eric",
@@ -216134,7 +218706,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1755,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -216173,7 +218745,8 @@
      "1778": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-printzenschöld-adolf",
@@ -216665,7 +219238,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1816,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -216702,7 +219275,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-prolegomena-vigfússon",
@@ -216784,8 +219358,20 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1833,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q16406713",
+    "label": "Prosten Jakob Jalajas",
+    "desc": "November 19, 1869 Vana- Suislepa, Tarvastu parish - December 31 1957 Göteborg)",
+    "birth": 1869,
+    "death": 1957,
+    "score": 2,
+    "viaf": "3625149544587700490009",
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1943a": {
@@ -216818,7 +219404,8 @@
      "1833": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-proto",
@@ -218136,8 +220723,20 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1690,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q2070238",
+    "label": "Percy Quensel",
+    "desc": "svensk geolog och mineralog",
+    "birth": 1881,
+    "death": 1966,
+    "score": 3,
+    "viaf": "8136200",
+    "sbl": "7455",
+    "libris": "277840"
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933a": {
@@ -218173,7 +220772,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-quensell",
@@ -218914,7 +221514,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1608,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -218953,7 +221553,8 @@
      "1666": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-ragvaldi-nicolaus",
@@ -219228,7 +221829,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1685,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -219265,7 +221866,8 @@
      "1827": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-ramborgz",
@@ -222704,8 +225306,20 @@
   "n_full": 1,
   "n_bare": 1,
   "context_year": null,
-  "candidates": [],
-  "status": "skipped",
+  "candidates": [
+   {
+    "qid": "Q357495",
+    "label": "Gustaf Adolf Reuterholm",
+    "desc": "svensk friherre och statsman",
+    "birth": 1756,
+    "death": 1813,
+    "score": 4,
+    "viaf": "15149106231068491851",
+    "sbl": "6608",
+    "libris": "223269"
+   }
+  ],
+  "status": "review",
   "wikidata": null,
   "vols": {
    "1936": {
@@ -222724,7 +225338,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-reuterholms",
@@ -224273,8 +226888,20 @@
   "n_full": 0,
   "n_bare": 3,
   "context_year": 1700,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q26702",
+    "label": "Armand-Jean du Plessis Richelieu",
+    "desc": "fransk politiker, kardinal och diplomat",
+    "birth": 1585,
+    "death": 1642,
+    "score": 5,
+    "viaf": "12314392",
+    "sbl": null,
+    "libris": "210777"
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933a": {
@@ -224323,7 +226950,8 @@
      "1800": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-richsens",
@@ -224558,7 +227186,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1810,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -224596,7 +227224,8 @@
      "1811": 2
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-riddare-wasa",
@@ -225443,7 +228072,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -225475,7 +228104,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-rijm",
@@ -225810,7 +228440,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1724,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -225845,7 +228475,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-riks",
@@ -226012,7 +228643,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1648,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -226048,7 +228679,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-rim",
@@ -226239,8 +228871,20 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1720,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q1038586",
+    "label": "Ring",
+    "desc": "sveakung omnämnd av Adam av Bremen",
+    "birth": null,
+    "death": 999,
+    "score": 4,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1932": {
@@ -226275,7 +228919,8 @@
      "1774": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-ring-gull",
@@ -226638,7 +229283,7 @@
   "n_ambiguous": 1,
   "context_year": null,
   "candidates": [],
-  "status": "skipped",
+  "status": "none",
   "wikidata": null,
   "vols": {
    "1936": {
@@ -226656,7 +229301,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-ristell-bibliothekarien",
@@ -227440,8 +230086,53 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1618,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q2876265",
+    "label": "Romanus",
+    "desc": "Bishop of Rochester",
+    "birth": null,
+    "death": 627,
+    "score": 2,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q170500",
+    "label": "Romanus",
+    "desc": "Påve i romersk-katolska kyrkan",
+    "birth": null,
+    "death": 897,
+    "score": 1,
+    "viaf": "32352691",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q112386728",
+    "label": "Romanus",
+    "desc": "died 460 AD",
+    "birth": null,
+    "death": 460,
+    "score": 1,
+    "viaf": "84104687",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q3264994",
+    "label": "Luca Penni",
+    "desc": "Italian painter (1500-1556)",
+    "birth": 1500,
+    "death": 1556,
+    "score": 1,
+    "viaf": "96538618",
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1932": {
@@ -227484,7 +230175,8 @@
      "1398": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-romare",
@@ -228606,9 +231298,21 @@
   "n_full": 1,
   "n_bare": 39,
   "context_year": 1833,
-  "status": "skipped",
-  "candidates": [],
-  "wikidata": null,
+  "status": "auto",
+  "candidates": [
+   {
+    "qid": "Q4569362",
+    "label": "Mathias Rosenblad",
+    "desc": "svensk greve, en av rikets herrar, ämbetsman, politiker och justitiestatsminister",
+    "birth": 1758,
+    "death": 1847,
+    "score": 9,
+    "viaf": "72881026",
+    "sbl": "6911",
+    "libris": "292049"
+   }
+  ],
+  "wikidata": "Q4569362",
   "vols": {
    "1944": {
     "forms": {
@@ -228683,7 +231387,8 @@
      "1855": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-rosendalius-gustavus",
@@ -229882,7 +232587,7 @@
   "n_bare": 1,
   "context_year": 1750,
   "candidates": [],
-  "status": "skipped",
+  "status": "none",
   "wikidata": null,
   "vols": {
    "1936": {
@@ -229903,7 +232608,8 @@
      "1750": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-rougman",
@@ -229991,8 +232697,53 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1736,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q6527",
+    "label": "Jean-Jacques Rousseau",
+    "desc": "schweizisk-fransk författare, upplysningsfilosof och autodidakt kompositör",
+    "birth": 1712,
+    "death": 1778,
+    "score": 4,
+    "viaf": "100184045",
+    "sbl": null,
+    "libris": "206561"
+   },
+   {
+    "qid": "Q310025",
+    "label": "Théodore Rousseau",
+    "desc": "fransk målare",
+    "birth": 1812,
+    "death": 1867,
+    "score": 2,
+    "viaf": "17258812",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q321484",
+    "label": "Philippe Rousseau",
+    "desc": "fransk målare",
+    "birth": 1816,
+    "death": 1887,
+    "score": 2,
+    "viaf": "3228050",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q156386",
+    "label": "Henri Rousseau",
+    "desc": "fransk målare",
+    "birth": 1844,
+    "death": 1910,
+    "score": 0,
+    "viaf": "14776193",
+    "sbl": null,
+    "libris": "244374"
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1936": {
@@ -230027,7 +232778,8 @@
      "1700": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-roxendorff",
@@ -230224,8 +232976,31 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1677,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q350198",
+    "label": "Olof Rudbeck den äldre",
+    "desc": "svensk naturforskare och historiker",
+    "birth": 1630,
+    "death": 1702,
+    "score": 6,
+    "viaf": "17261560",
+    "sbl": "6987",
+    "libris": "88310"
+   },
+   {
+    "qid": "Q740096",
+    "label": "Olof Rudbeck den yngre",
+    "desc": "svensk naturhistoriker och språkforskare",
+    "birth": 1660,
+    "death": 1740,
+    "score": 6,
+    "viaf": "27155634",
+    "sbl": "6985",
+    "libris": "198088"
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933b": {
@@ -230259,7 +233034,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-rudbeck-olaus",
@@ -231806,7 +234582,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1677,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -231829,7 +234605,8 @@
      "1677": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-rugman-jona",
@@ -231841,7 +234618,7 @@
   "n_full": 3,
   "n_bare": 0,
   "context_year": 1668,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -231903,7 +234680,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-rugman-jonam",
@@ -232687,8 +235465,20 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1698,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q4411468",
+    "label": "Runar Schildt",
+    "desc": "finlandssvensk författare, dramatiker och översättare",
+    "birth": 1888,
+    "death": 1925,
+    "score": 3,
+    "viaf": "61646540",
+    "sbl": null,
+    "libris": "223704"
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1932": {
@@ -232721,7 +235511,8 @@
      "1698": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-rundberg-enke",
@@ -233734,8 +236525,20 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1731,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q213812",
+    "label": "Babe Ruth",
+    "desc": "amerikansk basebollspelare (1895–1948)",
+    "birth": 1895,
+    "death": 1948,
+    "score": 2,
+    "viaf": "25892145",
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1935": {
@@ -233769,7 +236572,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-ruths",
@@ -235028,7 +237832,7 @@
   "n_full": 0,
   "n_bare": 3,
   "context_year": 1676,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -235083,7 +237887,8 @@
      "1804": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-råd-canzlie",
@@ -236133,7 +238938,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1823,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -236171,7 +238976,8 @@
      "1833": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-rönnov",
@@ -236871,7 +239677,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1737,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -236906,7 +239712,8 @@
      "1749": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-sagan-ynglinga",
@@ -242181,8 +244988,20 @@
   "n_full": 1,
   "n_bare": 2,
   "context_year": 1692,
-  "candidates": [],
-  "status": "skipped",
+  "candidates": [
+   {
+    "qid": "Q370598",
+    "label": "Albert G. Schmedeman",
+    "desc": "amerikansk diplomat och politiker",
+    "birth": 1864,
+    "death": 1946,
+    "score": 0,
+    "viaf": "2418156434629512120009",
+    "sbl": null,
+    "libris": null
+   }
+  ],
+  "status": "review",
   "wikidata": null,
   "vols": {
    "1935": {
@@ -242206,7 +245025,8 @@
      "1693": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-schmedeman-johannes",
@@ -243281,7 +246101,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -243313,7 +246133,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-schweden-gustavus",
@@ -243812,9 +246633,21 @@
   "n_full": 15,
   "n_bare": 2,
   "context_year": 1673,
-  "candidates": [],
-  "status": "skipped",
-  "wikidata": null,
+  "candidates": [
+   {
+    "qid": "Q1926407",
+    "label": "Henrik Schück",
+    "desc": "svensk författare",
+    "birth": 1855,
+    "death": 1947,
+    "score": 6,
+    "viaf": "61559922",
+    "sbl": "6418",
+    "libris": "206289"
+   }
+  ],
+  "status": "auto",
+  "wikidata": "Q1926407",
   "vols": {
    "1932": {
     "forms": {
@@ -243941,7 +246774,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": "https://www.manuscripta.se/person/100196"
  },
  {
   "id": "pers-schürer",
@@ -244959,7 +247793,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1799,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -244993,7 +247827,8 @@
      "1799": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-segovia",
@@ -246281,7 +249116,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1633,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -246318,7 +249153,8 @@
      "1639": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-siculj-diodori",
@@ -246867,7 +249703,7 @@
   "n_full": 0,
   "n_bare": 3,
   "context_year": 1739,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -246917,7 +249753,8 @@
      "1786": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-sigiller",
@@ -248880,7 +251717,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1825,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -248926,7 +251763,8 @@
      "1836": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-simonson-jovan",
@@ -251271,7 +254109,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1787,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -251309,7 +254147,8 @@
      "1790": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-skyttehielm",
@@ -252049,7 +254888,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1644,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -252085,7 +254924,8 @@
      "1827": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-slemmes-amunder",
@@ -252875,7 +255715,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1690,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -252914,7 +255754,8 @@
      "1697": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-snorrasons-rudbeck",
@@ -253316,7 +256157,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1734,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -253354,7 +256195,8 @@
      "1763": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-snæulf",
@@ -254162,7 +257004,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1749,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -254197,7 +257039,8 @@
      "1750": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-sondell-bokhållaren",
@@ -254477,8 +257320,20 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1670,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q135529991",
+    "label": "Soot",
+    "desc": "Founder of soyjak.party",
+    "birth": null,
+    "death": null,
+    "score": 1,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933a": {
@@ -254515,7 +257370,8 @@
      "1670": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-soph-anna",
@@ -256915,7 +259771,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -256947,7 +259803,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-sta",
@@ -257660,7 +260517,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1834,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -257695,7 +260552,8 @@
      "1835": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-stamgårds",
@@ -259486,9 +262344,54 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1720,
-  "status": "skipped",
-  "candidates": [],
-  "wikidata": null,
+  "status": "auto",
+  "candidates": [
+   {
+    "qid": "Q6188829",
+    "label": "Johan Gabriel Stenbock",
+    "desc": "en svensk greve, riksråd, riksmarskalk och konstsamlare",
+    "birth": 1640,
+    "death": 1705,
+    "score": 9,
+    "viaf": "23061789",
+    "sbl": "20071",
+    "libris": "262575"
+   },
+   {
+    "qid": "Q449530",
+    "label": "Magnus Stenbock",
+    "desc": "svensk greve och officer",
+    "birth": 1663,
+    "death": 1717,
+    "score": 6,
+    "viaf": "77088866",
+    "sbl": "20072",
+    "libris": "211319"
+   },
+   {
+    "qid": "Q968941",
+    "label": "Gustaf Otto Stenbock",
+    "desc": "svensk greve, militär och ämbetsman",
+    "birth": 1614,
+    "death": 1685,
+    "score": 6,
+    "viaf": "37822131",
+    "sbl": "20070",
+    "libris": "211519"
+   },
+   {
+    "qid": "Q256139",
+    "label": "Katarina Stenbock",
+    "desc": "Sveriges drottning 1552–1560, gemål till kung Gustav Vasa",
+    "birth": 1535,
+    "death": 1621,
+    "score": 4,
+    "viaf": "44275802",
+    "sbl": "12405",
+    "libris": "234248"
+   }
+  ],
+  "wikidata": "Q6188829",
   "vols": {
    "1936": {
     "forms": {
@@ -259511,7 +262414,8 @@
     }
    }
   },
-  "n_ambiguous": 2
+  "n_ambiguous": 2,
+  "manuscripta": null
  },
  {
   "id": "pers-stenbock-katarina",
@@ -262324,7 +265228,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1720,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -262361,7 +265265,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-stiernskiöld",
@@ -263454,8 +266359,20 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1786,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q327853",
+    "label": "C.V.A. Strandberg",
+    "desc": "svensk författare, journalist och översättare",
+    "birth": 1818,
+    "death": 1877,
+    "score": 5,
+    "viaf": "15617158",
+    "sbl": "20337",
+    "libris": "94449"
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1943a": {
@@ -263488,7 +266405,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-strands",
@@ -263789,8 +266707,42 @@
   "n_full": 1,
   "n_bare": 4,
   "context_year": 1836,
-  "candidates": [],
-  "status": "skipped",
+  "candidates": [
+   {
+    "qid": "Q4444020",
+    "label": "Anders Magnus Strinnholm",
+    "desc": "svensk historiker, boktryckare och översättare",
+    "birth": 1786,
+    "death": 1862,
+    "score": 9,
+    "viaf": "76292465",
+    "sbl": "34549",
+    "libris": "238508"
+   },
+   {
+    "qid": "Q126597469",
+    "label": "Anders Magnus Strinnholm",
+    "desc": "svensk lantmätare",
+    "birth": 1755,
+    "death": 1830,
+    "score": 9,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q94887408",
+    "label": "Anders Magnus Strinnholm",
+    "desc": "",
+    "birth": 1768,
+    "death": 1862,
+    "score": 6,
+    "viaf": "59433732",
+    "sbl": null,
+    "libris": null
+   }
+  ],
+  "status": "review",
   "wikidata": null,
   "vols": {
    "1944": {
@@ -263819,7 +266771,8 @@
      "1843": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-strokirch-michaël",
@@ -263955,7 +266908,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1827,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -263989,7 +266942,8 @@
      "1827": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-ström-ericus",
@@ -265202,7 +268156,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1666,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -265238,7 +268192,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-sturlesons-snorre",
@@ -265913,7 +268868,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -265945,7 +268900,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-stöfwel-bryniels",
@@ -267054,7 +270010,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1822,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -267088,7 +270044,8 @@
      "1822": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-sundwall",
@@ -267485,7 +270442,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1694,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -267522,7 +270479,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-svarts-petrus",
@@ -267963,7 +270921,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -267995,7 +270953,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-svedberg-spegel",
@@ -269446,7 +272405,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1693,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -269480,7 +272439,8 @@
      "1693": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-swartling",
@@ -269646,7 +272606,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -269678,7 +272638,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-swearikes",
@@ -269720,9 +272681,21 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1719,
-  "status": "skipped",
-  "candidates": [],
-  "wikidata": null,
+  "status": "auto",
+  "candidates": [
+   {
+    "qid": "Q185832",
+    "label": "Emanuel Swedenborg",
+    "desc": "svensk vetenskapsman, filosof, bibeltolkare, kristen mystiker och teolog",
+    "birth": 1688,
+    "death": 1772,
+    "score": 6,
+    "viaf": "106965706",
+    "sbl": "34840",
+    "libris": "199196"
+   }
+  ],
+  "wikidata": "Q185832",
   "vols": {
    "1935": {
     "forms": {
@@ -269756,7 +272729,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-swedenborgs",
@@ -270232,7 +273206,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1800,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -270276,7 +273250,8 @@
      "1825": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-swerige-eric",
@@ -271988,8 +274963,31 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q366765",
+    "label": "Esaias Tegnér",
+    "desc": "svensk präst, poet och biskop i Växjö stift",
+    "birth": 1782,
+    "death": 1846,
+    "score": 6,
+    "viaf": "69040407",
+    "sbl": null,
+    "libris": "203434"
+   },
+   {
+    "qid": "Q462879",
+    "label": "Alice Tegnér",
+    "desc": "svensk tonsättare, musiklärare och organist",
+    "birth": 1864,
+    "death": 1943,
+    "score": 6,
+    "viaf": "71481066",
+    "sbl": null,
+    "libris": "96252"
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933a": {
@@ -272020,7 +275018,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-tegners",
@@ -273502,7 +276501,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1647,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -273541,7 +276540,8 @@
      "1648": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-tham-pehr",
@@ -274085,9 +277085,76 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1577,
-  "status": "skipped",
-  "candidates": [],
-  "wikidata": null,
+  "status": "auto",
+  "candidates": [
+   {
+    "qid": "Q1661043",
+    "label": "Theodoricus Petri Rutha",
+    "desc": "finlandssvensk kompositör, författare och kunglig sekreterare",
+    "birth": 1560,
+    "death": 1617,
+    "score": 6,
+    "viaf": "32420402",
+    "sbl": null,
+    "libris": "262568"
+   },
+   {
+    "qid": "Q97764009",
+    "label": "Theodoricus",
+    "desc": "14th and 15th century bishop",
+    "birth": null,
+    "death": null,
+    "score": 4,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q2418762",
+    "label": "Theodoricus Block",
+    "desc": "tysk professor",
+    "birth": 1460,
+    "death": 1524,
+    "score": 4,
+    "viaf": "296815199",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q446631",
+    "label": "Mistr Theodorik",
+    "desc": "Bohemian painter (c. 1328–1381)",
+    "birth": null,
+    "death": null,
+    "score": 3,
+    "viaf": "2347296",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q2418767",
+    "label": "Theodoricus Smedecken",
+    "desc": "German religious servant",
+    "birth": 1480,
+    "death": 1556,
+    "score": 3,
+    "viaf": "303002990",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q25598464",
+    "label": "Thierry of Chartres",
+    "desc": "évêque de Chartres (1028-1048), en France",
+    "birth": null,
+    "death": null,
+    "score": 1,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
+  "wikidata": "Q1661043",
   "vols": {
    "1932": {
     "forms": {
@@ -274123,7 +277190,8 @@
      "1699": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-theodorik",
@@ -274197,7 +277265,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1600,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -274240,7 +277308,8 @@
      "1600": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-theologus",
@@ -275204,8 +278273,20 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1720,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q633094",
+    "label": "Johannes Bureus",
+    "desc": "svensk fornforskare, språkman, mystiker, poet och vetenskapsman",
+    "birth": 1568,
+    "death": 1652,
+    "score": 5,
+    "viaf": "37863456",
+    "sbl": "17156",
+    "libris": "179694"
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1932": {
@@ -275249,7 +278330,8 @@
      "1731": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-thor",
@@ -275668,8 +278750,42 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1700,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q545604",
+    "label": "Thomas Thorild",
+    "desc": "svensk författare, poet och filosof",
+    "birth": 1759,
+    "death": 1808,
+    "score": 5,
+    "viaf": "36974119",
+    "sbl": null,
+    "libris": "199935"
+   },
+   {
+    "qid": "Q380863",
+    "label": "Thorild Olsson",
+    "desc": "svensk friidrottare",
+    "birth": 1886,
+    "death": 1934,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q6247752",
+    "label": "Thorild Wulff",
+    "desc": "botanist, etnograf och polarforskare",
+    "birth": 1877,
+    "death": 1917,
+    "score": 2,
+    "viaf": "24988198",
+    "sbl": null,
+    "libris": "250439"
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1943a": {
@@ -275702,7 +278818,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-thorils-christna",
@@ -276525,7 +279642,7 @@
   "n_full": 0,
   "n_bare": 3,
   "context_year": 1671,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -276575,7 +279692,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-tible",
@@ -277484,7 +280602,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1731,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -277519,7 +280637,8 @@
      "1732": 2
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-tingstadius",
@@ -279908,8 +283027,20 @@
   "n_full": 0,
   "n_bare": 3,
   "context_year": 1767,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q21610965",
+    "label": "Adolf Magnus Troilius",
+    "desc": "botanist (1838-1909)",
+    "birth": 1838,
+    "death": 1909,
+    "score": 2,
+    "viaf": "9829922",
+    "sbl": null,
+    "libris": "289996"
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1935": {
@@ -279962,7 +283093,8 @@
      "1793": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-troja",
@@ -280218,7 +283350,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1698,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -280257,7 +283389,8 @@
      "1700": 4
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-trygg",
@@ -281512,9 +284645,21 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1695,
-  "status": "skipped",
-  "candidates": [],
-  "wikidata": null,
+  "status": "auto",
+  "candidates": [
+   {
+    "qid": "Q57658910",
+    "label": "Nils Tungel",
+    "desc": "hovkansler",
+    "birth": 1592,
+    "death": 1665,
+    "score": 9,
+    "viaf": "225436164",
+    "sbl": null,
+    "libris": null
+   }
+  ],
+  "wikidata": "Q57658910",
   "vols": {
    "1933a": {
     "forms": {
@@ -281558,7 +284703,8 @@
      "1820": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-tungelfelt-nicolaus",
@@ -283271,8 +286417,20 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1689,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q108445826",
+    "label": "Ulf",
+    "desc": "bishop of Skara",
+    "birth": null,
+    "death": 1267,
+    "score": 4,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933a": {
@@ -283310,7 +286468,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-ulfeld-corfitz",
@@ -283322,7 +286481,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1665,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -283365,7 +286524,8 @@
      "1668": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-ulfelds",
@@ -285271,8 +288431,42 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1672,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q15982814",
+    "label": "Alexander Leonard Kullgren",
+    "desc": "stadsfogde i Göteborg och sångförfattare",
+    "birth": 1845,
+    "death": 1903,
+    "score": 5,
+    "viaf": "24583786",
+    "sbl": null,
+    "libris": "283251"
+   },
+   {
+    "qid": "Q108445850",
+    "label": "Valdemar",
+    "desc": "bishop of the Roman Catholic Church",
+    "birth": null,
+    "death": null,
+    "score": 4,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q109779981",
+    "label": "Valdemar",
+    "desc": "person identified in the Museu da Pessoa collection",
+    "birth": null,
+    "death": null,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933a": {
@@ -285315,7 +288509,8 @@
      "1799": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-valdemars",
@@ -286788,7 +289983,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -286820,7 +290015,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-vere",
@@ -288027,7 +291223,7 @@
   "n_full": 0,
   "n_bare": 3,
   "context_year": 1635,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -288088,7 +291284,8 @@
      "1831": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-vidalin-arngrímur",
@@ -288313,8 +291510,31 @@
   "n_full": 0,
   "n_bare": 3,
   "context_year": 1700,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q7928872",
+    "label": "Viger",
+    "desc": "English cricketer",
+    "birth": null,
+    "death": null,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q3263289",
+    "label": "Louis Vigée",
+    "desc": "French portraitist (1715-1767)",
+    "birth": 1715,
+    "death": 1767,
+    "score": 2,
+    "viaf": "5200212",
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1932": {
@@ -288370,7 +291590,8 @@
      "1706": 2
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-vigfússon-jon",
@@ -288572,9 +291793,32 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1452,
-  "status": "skipped",
-  "candidates": [],
-  "wikidata": null,
+  "status": "auto",
+  "candidates": [
+   {
+    "qid": "Q310433",
+    "label": "Karl Knutsson",
+    "desc": "kung av Sverige (och en kortare period Norge)",
+    "birth": 1409,
+    "death": 1470,
+    "score": 7,
+    "viaf": "37976215",
+    "sbl": "12366",
+    "libris": "172590"
+   },
+   {
+    "qid": "Q134452",
+    "label": "Karl VIII av Frankrike",
+    "desc": "fransk kung",
+    "birth": 1470,
+    "death": 1498,
+    "score": 1,
+    "viaf": "34569564",
+    "sbl": null,
+    "libris": "208842"
+   }
+  ],
+  "wikidata": "Q310433",
   "vols": {
    "1943a": {
     "forms": {
@@ -288616,7 +291860,8 @@
      "1828": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-viii-s-carolus",
@@ -289001,8 +292246,75 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q2027614",
+    "label": "Vigilius Erichsen",
+    "desc": "Danish painter (1722-1782)",
+    "birth": 1722,
+    "death": 1782,
+    "score": 4,
+    "viaf": "95776378",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q563366",
+    "label": "Virgil Solis",
+    "desc": "German printmaker (1514-1562)",
+    "birth": 1514,
+    "death": 1562,
+    "score": 1,
+    "viaf": "17337630",
+    "sbl": null,
+    "libris": "209938"
+   },
+   {
+    "qid": "Q99532199",
+    "label": "Virgilius Christian Joseph Leuthner",
+    "desc": "",
+    "birth": 1678,
+    "death": 1748,
+    "score": 1,
+    "viaf": "8965159613672841030007",
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q99530766",
+    "label": "Virgilius Faber",
+    "desc": "",
+    "birth": 1654,
+    "death": 1704,
+    "score": 1,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q99532172",
+    "label": "Virgilius Johannes Abraham Leopoldinger",
+    "desc": "",
+    "birth": 1723,
+    "death": 1798,
+    "score": 1,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q99530981",
+    "label": "Virgilius Gleissenberger",
+    "desc": "",
+    "birth": 1688,
+    "death": 1737,
+    "score": 1,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1943a": {
@@ -289033,7 +292345,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-visconti",
@@ -290141,7 +293454,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -290173,7 +293486,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-von-ihm",
@@ -293276,8 +296590,42 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1700,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q902797",
+    "label": "Johan Gottschalk Wallerius",
+    "desc": "svensk kemist",
+    "birth": 1709,
+    "death": 1785,
+    "score": 5,
+    "viaf": "35237439",
+    "sbl": null,
+    "libris": "206607"
+   },
+   {
+    "qid": "Q6230894",
+    "label": "Adolf Wallerius",
+    "desc": "svensk politiker",
+    "birth": 1874,
+    "death": 1937,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q41618749",
+    "label": "Nicolaus Wallerius",
+    "desc": "author (18th century)",
+    "birth": 1701,
+    "death": 1800,
+    "score": 0,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1933b": {
@@ -293314,7 +296662,8 @@
      "1747": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-wallerius-johannes",
@@ -294040,8 +297389,31 @@
   "n_full": 1,
   "n_bare": 29,
   "context_year": 1819,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q6231427",
+    "label": "Nils Petter Wallmark",
+    "desc": "svensk politiker",
+    "birth": 1830,
+    "death": 1910,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q6231420",
+    "label": "Nils Wallmark",
+    "desc": "svensk politiker",
+    "birth": 1835,
+    "death": 1914,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1943b": {
@@ -294094,7 +297466,8 @@
      "1824": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-wallqvist",
@@ -294951,7 +298324,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1823,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -294988,7 +298361,8 @@
      "1834": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-wasa-gustavus",
@@ -298248,7 +301622,7 @@
   "n_full": 2,
   "n_bare": 0,
   "context_year": 1683,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -298293,7 +301667,8 @@
      "1695": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-westius-petrus",
@@ -298927,9 +302302,21 @@
   "n_full": 1,
   "n_bare": 3,
   "context_year": 1655,
-  "candidates": [],
-  "status": "skipped",
-  "wikidata": null,
+  "candidates": [
+   {
+    "qid": "Q1389332",
+    "label": "Michael Gyldenstolpe",
+    "desc": "svensk-finländsk professor i politik och historia och professor i juridik och hovrättsassessor",
+    "birth": 1609,
+    "death": 1670,
+    "score": 7,
+    "viaf": "7766791",
+    "sbl": "13338",
+    "libris": "58313"
+   }
+  ],
+  "status": "auto",
+  "wikidata": "Q1389332",
   "vols": {
    "1933b": {
     "forms": {
@@ -298952,7 +302339,8 @@
      "1661": 2
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-wibiörnssons-jacobus",
@@ -301399,7 +304787,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1781,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -301436,7 +304824,8 @@
      "1789": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-wille",
@@ -301448,8 +304837,20 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": null,
-  "status": "skipped",
-  "candidates": [],
+  "status": "review",
+  "candidates": [
+   {
+    "qid": "Q509724",
+    "label": "Johann Georg Wille",
+    "desc": "(1715 - 1808) German engraver (1715–1808)",
+    "birth": 1715,
+    "death": 1808,
+    "score": 3,
+    "viaf": "24773049",
+    "sbl": null,
+    "libris": "208519"
+   }
+  ],
   "wikidata": null,
   "vols": {
    "1932": {
@@ -301480,7 +304881,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-willers",
@@ -304780,7 +308182,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1685,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -304818,7 +308220,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-wærelius",
@@ -307154,7 +310557,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1739,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -307190,7 +310593,8 @@
      "1734": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-zach",
@@ -308155,7 +311559,7 @@
   "n_full": 0,
   "n_bare": 4,
   "context_year": 1679,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -308222,7 +311626,8 @@
     ],
     "years": {}
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-åkerberg-anna",
@@ -310096,7 +313501,7 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1671,
-  "status": "skipped",
+  "status": "none",
   "candidates": [],
   "wikidata": null,
   "vols": {
@@ -310135,7 +313540,8 @@
      "1678": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-ölme",
@@ -310445,7 +313851,7 @@
   "n_bare": 62,
   "context_year": 1684,
   "candidates": [],
-  "status": "skipped",
+  "status": "none",
   "wikidata": null,
   "vols": {
    "1933b": {
@@ -310533,7 +313939,8 @@
      "1885": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-örnhielm-claudius",
@@ -311499,9 +314906,32 @@
   "n_full": 0,
   "n_bare": 2,
   "context_year": 1819,
-  "status": "skipped",
-  "candidates": [],
-  "wikidata": null,
+  "status": "auto",
+  "candidates": [
+   {
+    "qid": "Q6258229",
+    "label": "Per Östman",
+    "desc": "svensk politiker",
+    "birth": 1805,
+    "death": 1875,
+    "score": 6,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   },
+   {
+    "qid": "Q21522469",
+    "label": "Magnus Ösman,",
+    "desc": "Swedish botanist (1852-1927)",
+    "birth": 1852,
+    "death": 1927,
+    "score": 3,
+    "viaf": null,
+    "sbl": null,
+    "libris": null
+   }
+  ],
+  "wikidata": "Q6258229",
   "vols": {
    "1935": {
     "forms": {
@@ -311538,7 +314968,8 @@
      "1826": 1
     }
    }
-  }
+  },
+  "manuscripta": null
  },
  {
   "id": "pers-östre",
