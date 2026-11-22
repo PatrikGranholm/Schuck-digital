@@ -57,6 +57,11 @@ Open tasks, roughly in priority order. Background and measurements are in [PLAN.
 - [ ] Stage 6, persons and places, with manual review instead of an LLM. Plan in [docs/ner-plan.md](docs/ner-plan.md).
   - [x] ~~Review screens.~~ Done 2026-11-15: `scripts/ner_review.py`, served by `gt_server.py` at http://localhost:8765/ner/. Register (Wikidata choice, no match, reject, rename, merge, Wikidata re-search, manual QID, split by moving mentions) and mention queue (rule guesses grouped by candidates and chapter, scan crops, paragraph view for adding missed names). Decisions go to `data/register/*.json` and `data/ner/<vol>-decisions.json`; `link.py` applies them, including merges and added mentions.
   - [ ] Do the review: vol. I has 79 persons and 47 places to review, 56 + 33 auto matches to confirm, 331 rule guesses (cert low) and 194 surname-by-dominance links (cert medium). Then `link.py`, `to_tei.py`, `build_site.py`.
+  - [ ] **Wikidata lookup gaps** in `register.py` `person_candidates`, found 2026-11-22 while reviewing four auto matches (Knut Eriksson, Nescher, Lars Olsson, Schück; 3 of 4 were wrong):
+    - **Medieval people are discarded.** Candidates born before 1300 are dropped, so King Knut Eriksson (Q320977, the first search hit) lost to a politician (1502–1535). Allow earlier births when the text gives a year before 1300; `context_year` also ignores years before 1300, so the entry had none.
+    - **Bare surnames miss full labels.** `wbsearchentities` matches label prefixes, so "Nescher" found the painter Caspar Netscher, never Daniel Georg Nescher (Q16649975). For bare-surname entries, also run a full-text search (`list=search` with `haswbstatement:P31=Q5`).
+    - Rerun online, then recheck the 83 bare-surname `auto` matches (doubtful: Ekeblad → Eva Ekeblad, Christian → "Christian", Harald → "Harald") and the 23 `auto` matches with no context year. 359 bare-surname entries are in `review`.
+    - Entries can also merge different people of the same name. "Lars Olsson" held finders from 1779 and the 1830s; check `auto`/`review` entries whose mentions are decades apart.
   - [ ] Gazetteer pass (plan step 1, detector B) for names KB-BERT misses in old-spelling quotations; until then they can be added by hand in the paragraph view.
 
 ## Sources and IIIF (deferred phase, started 2026-11-16)

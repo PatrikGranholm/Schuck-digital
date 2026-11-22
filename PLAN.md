@@ -471,3 +471,7 @@ Build a digital edition of Henrik Schück's 8-volume history (public domain), fr
 ### 2026-11-22 — Published on GitHub Pages
 - Public repository https://github.com/PatrikGranholm/Schuck-digital; `main` pushed with README, PLAN, TODO, `gt/CONVENTIONS.md` and a new `LICENSE` (code MIT, edition data CC0 1.0, source text and images public domain). `docs/` and `report/` stay untracked. History checked first: no secrets, largest blob 4.9 MB.
 - `scripts/deploy_pages.sh` pushed `site/` (555 MB, 4,076 files) to `gh-pages`; GitHub enabled Pages on that branch by itself. Live at https://patrikgranholm.github.io/Schuck-digital/, which the user has checked.
+
+### 2026-11-22 — Four auto matches reviewed
+- Henrik Schück confirmed. Knut Eriksson: the politician Q5716814 → the king Q320977. Nescher: Caspar Netscher → Daniel Georg Nescher, Q16649975 (identified by the user), renamed. Lars Olsson (→ Lars Olsson i Groröd) split into Lars Olsson i Gröndal (vol. V) and Lars Olsson i Allmänninge (vol. VIII, new manual entry, `1944-decisions.json`), both with no QID. Applied with `ner_review.py`'s functions; `link.py` and `to_tei.py` were rerun for the six volumes (all valid; only vol. VIII's TEI and `register.xml` changed), and the site was redeployed.
+- Cause, not fixed (TODO): `person_candidates` drops births before 1300, and `wbsearchentities` matches label prefixes, so a bare surname cannot find a full label. 83 bare-surname `auto` entries need rechecking.
