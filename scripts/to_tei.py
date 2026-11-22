@@ -262,7 +262,10 @@ def load_ner(vol):
             attrs["ref"] = f"register.xml#{l['ref']}"
         if l.get("cert"):
             attrs["cert"] = l["cert"]
-        NER.setdefault(l["sha"], []).append((l["start"], l["end"], l["type"], attrs, l["text"]))
+        hits = NER.setdefault(l["sha"], [])
+        # units with the same text (a signature, a repeated heading) share a hash: one element per span
+        if not any(h[0] == l["start"] and h[1] == l["end"] and h[2] == l["type"] for h in hits):
+            hits.append((l["start"], l["end"], l["type"], attrs, l["text"]))
     return sum(map(len, NER.values()))
 
 

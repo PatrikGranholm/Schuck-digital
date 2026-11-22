@@ -8,20 +8,7 @@
 "page": null,
 "chapter": null,
 "type": "persName",
-"ref": "pers-schück-henrik",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00006",
-"sha": "a030d43880e9",
-"start": 0,
-"end": 13,
-"text": "HENRIK SCHÜCK",
-"page": null,
-"chapter": null,
-"type": "persName",
-"ref": "pers-schück-henrik",
+"ref": "pers-schück-henricus",
 "cert": "high",
 "how": "form"
 },
@@ -86,20 +73,7 @@
 "page": null,
 "chapter": null,
 "type": "persName",
-"ref": "pers-schück-henrik",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00022",
-"sha": "a030d43880e9",
-"start": 0,
-"end": 13,
-"text": "HENRIK SCHÜCK",
-"page": null,
-"chapter": null,
-"type": "persName",
-"ref": "pers-schück-henrik",
+"ref": "pers-schück-henricus",
 "cert": "high",
 "how": "form"
 },
@@ -7639,7 +7613,7 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -7678,7 +7652,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -7691,7 +7665,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -7809,8 +7783,9 @@
 "page": null,
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-bureus-johannes",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00131",
@@ -7906,7 +7881,7 @@
 "pers-bureus-laurentius",
 "pers-bureus-jonas"
 ],
-"how": "guess: chapter majority"
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00133",
@@ -9907,7 +9882,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -11765,12 +11740,12 @@
 "unit": "u00196",
 "sha": "8f14c85cd18a",
 "start": 3305,
-"end": 3308,
-"text": "Joh",
+"end": 3312,
+"text": "Joh. Th",
 "page": "61",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-joh-arnold",
+"ref": "pers-th-joh",
 "cert": "high",
 "how": "form"
 },
@@ -15937,25 +15912,12 @@
 "unit": "u00304",
 "sha": "7b95f197fce3",
 "start": 1910,
-"end": 1913,
-"text": "Joh",
-"page": "83",
-"chapter": "2",
-"type": "persName",
-"ref": "pers-joh-arnold",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00304",
-"sha": "7b95f197fce3",
-"start": 1915,
 "end": 1918,
-"text": "Lut",
+"text": "Joh. Lut",
 "page": "83",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-lut",
+"ref": "pers-lut-joh",
 "cert": "high",
 "how": "form"
 },
@@ -16567,19 +16529,20 @@
 "page": "85",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-messenius-johannes",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00305",
 "sha": "b14550779af1",
 "start": 729,
-"end": 732,
-"text": "Joh",
+"end": 739,
+"text": "Joh. Buræo",
 "page": "85",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-joh-arnold",
+"ref": "pers-buræus-joh",
 "cert": "high",
 "how": "form"
 },
@@ -16629,7 +16592,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -16798,7 +16761,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -17027,7 +16990,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -17123,7 +17086,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -17180,7 +17143,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -17200,12 +17163,12 @@
 "unit": "u00309",
 "sha": "b01b950dd37d",
 "start": 1159,
-"end": 1162,
-"text": "Joh",
+"end": 1169,
+"text": "Joh. Bureo",
 "page": "89",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-joh-arnold",
+"ref": "pers-bureus-joh",
 "cert": "high",
 "how": "form"
 },
@@ -17213,12 +17176,12 @@
 "unit": "u00309",
 "sha": "b01b950dd37d",
 "start": 1321,
-"end": 1324,
-"text": "Joh",
+"end": 1331,
+"text": "Joh. Burei",
 "page": "89",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-joh-arnold",
+"ref": "pers-bure-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -18326,7 +18289,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -19205,7 +19168,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -19461,7 +19424,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -19500,7 +19463,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -19512,8 +19475,9 @@
 "page": "98",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-messenius-johannes",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00331",
@@ -19543,7 +19507,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -19574,7 +19538,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -19691,7 +19655,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -19735,7 +19699,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -19813,7 +19777,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -19912,7 +19876,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -19925,7 +19889,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -19995,7 +19959,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -20026,7 +19990,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -20052,7 +20016,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -20065,7 +20029,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -20122,7 +20086,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -20135,7 +20099,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -20309,7 +20273,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -20322,7 +20286,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -20548,7 +20512,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -20613,7 +20577,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -20639,7 +20603,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -20730,7 +20694,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -20769,7 +20733,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -20873,7 +20837,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -20977,7 +20941,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -20990,7 +20954,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -21003,7 +20967,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -21016,7 +20980,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -21055,7 +21019,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -21094,7 +21058,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -21241,7 +21205,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -21267,7 +21231,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -21280,7 +21244,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -21293,7 +21257,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -21427,7 +21391,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -21479,7 +21443,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -21505,7 +21469,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -21518,7 +21482,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -21531,7 +21495,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -21775,7 +21739,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -21788,7 +21752,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -21931,7 +21895,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -21974,7 +21938,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -22052,7 +22016,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -22143,7 +22107,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -22169,7 +22133,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -22481,7 +22445,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -22758,7 +22722,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -22827,7 +22791,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -22853,7 +22817,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -22905,7 +22869,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -22957,7 +22921,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -22983,7 +22947,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -23100,7 +23064,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -23178,7 +23142,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -23191,7 +23155,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -23256,7 +23220,7 @@
 "chapter": "2",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -23664,7 +23628,7 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -23690,7 +23654,7 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -23716,7 +23680,7 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -25262,32 +25226,6 @@
 "how": "form"
 },
 {
-"unit": "u00400",
-"sha": "3011c104fdc5",
-"start": 0,
-"end": 17,
-"text": "Gustavus Adolphus",
-"page": "128",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-adolphus-gustavus",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00400",
-"sha": "3011c104fdc5",
-"start": 0,
-"end": 17,
-"text": "Gustavus Adolphus",
-"page": "128",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-adolphus-gustavus",
-"cert": "high",
-"how": "form"
-},
-{
 "unit": "u00401",
 "sha": "f4ab03e698f8",
 "start": 173,
@@ -25731,7 +25669,7 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -26988,32 +26926,6 @@
 "how": "form"
 },
 {
-"unit": "u00450",
-"sha": "3011c104fdc5",
-"start": 0,
-"end": 17,
-"text": "Gustavus Adolphus",
-"page": "140",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-adolphus-gustavus",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00450",
-"sha": "3011c104fdc5",
-"start": 0,
-"end": 17,
-"text": "Gustavus Adolphus",
-"page": "140",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-adolphus-gustavus",
-"cert": "high",
-"how": "form"
-},
-{
 "unit": "u00453",
 "sha": "604113db327b",
 "start": 159,
@@ -27023,32 +26935,6 @@
 "chapter": "3",
 "type": "placeName",
 "ref": "plac-stockholm",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00469",
-"sha": "3011c104fdc5",
-"start": 0,
-"end": 17,
-"text": "Gustavus Adolphus",
-"page": "143",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-adolphus-gustavus",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00469",
-"sha": "3011c104fdc5",
-"start": 0,
-"end": 17,
-"text": "Gustavus Adolphus",
-"page": "143",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-adolphus-gustavus",
 "cert": "high",
 "how": "form"
 },
@@ -34016,7 +33902,7 @@
 "chapter": "4",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -35651,7 +35537,7 @@
 "chapter": "5",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -36822,19 +36708,6 @@
 "type": "persName",
 "ref": "pers-schefferus",
 "cert": "high",
-"how": "form"
-},
-{
-"unit": "u00605",
-"sha": "b361258a2d18",
-"start": 0,
-"end": 18,
-"text": "Seefelds bibliotek",
-"page": "198",
-"chapter": "5",
-"type": "placeName",
-"ref": null,
-"cert": null,
 "how": "form"
 },
 {
@@ -42204,25 +42077,12 @@
 "unit": "u00670",
 "sha": "15a6bd1ba033",
 "start": 424,
-"end": 434,
-"text": "Arnold Joh",
-"page": "220",
-"chapter": "6",
-"type": "persName",
-"ref": "pers-joh-arnold",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00670",
-"sha": "15a6bd1ba033",
-"start": 436,
 "end": 445,
-"text": "Messenius",
+"text": "Arnold Joh. Messenius",
 "page": "220",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-messenius-johannes",
+"ref": "pers-messenius-arnold",
 "cert": "high",
 "how": "form"
 },
@@ -45723,12 +45583,12 @@
 "unit": "u00744",
 "sha": "51572e6e802a",
 "start": 417,
-"end": 420,
-"text": "Joh",
+"end": 427,
+"text": "Joh. Magno",
 "page": "239",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-joh-arnold",
+"ref": "pers-magnus-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -45944,26 +45804,13 @@
 "unit": "u00748",
 "sha": "46dc5f7430c5",
 "start": 2110,
-"end": 2113,
-"text": "Joh",
-"page": "240",
-"chapter": "6",
-"type": "persName",
-"ref": "pers-joh-arnold",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00748",
-"sha": "46dc5f7430c5",
-"start": 2115,
 "end": 2121,
-"text": "Magnus",
+"text": "Joh. Magnus",
 "page": "240",
 "chapter": "6",
 "type": "persName",
 "ref": "pers-magnus-johannes",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -46995,25 +46842,12 @@
 "unit": "u00760",
 "sha": "49eac78f3bc5",
 "start": 142,
-"end": 145,
-"text": "Joh",
-"page": "246",
-"chapter": "7",
-"type": "persName",
-"ref": "pers-joh-arnold",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00760",
-"sha": "49eac78f3bc5",
-"start": 147,
 "end": 157,
-"text": "Hadorphius",
+"text": "Joh. Hadorphius",
 "page": "246",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-hadorphius",
+"ref": "pers-hadorphius-joh",
 "cert": "high",
 "how": "form"
 },
@@ -48738,19 +48572,6 @@
 "how": "form"
 },
 {
-"unit": "u00815",
-"sha": "697e7baff3de",
-"start": 0,
-"end": 16,
-"text": "Hedewig Eleonora",
-"page": "267",
-"chapter": "7",
-"type": "persName",
-"ref": "pers-eleonora-hedewig",
-"cert": "high",
-"how": "form"
-},
-{
 "unit": "u00818",
 "sha": "918e94a31f95",
 "start": 0,
@@ -48786,32 +48607,6 @@
 "chapter": "7",
 "type": "placeName",
 "ref": "plac-stockholm",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00819",
-"sha": "4455d7305f8e",
-"start": 15,
-"end": 25,
-"text": "Hans Kongl",
-"page": "267",
-"chapter": "7",
-"type": "persName",
-"ref": "pers-kongl-johannes",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00819",
-"sha": "4455d7305f8e",
-"start": 44,
-"end": 50,
-"text": "Elskel",
-"page": "267",
-"chapter": "7",
-"type": "persName",
-"ref": "pers-elskel",
 "cert": "high",
 "how": "form"
 },
@@ -48929,45 +48724,6 @@
 "chapter": "7",
 "type": "persName",
 "ref": "pers-elskel",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00823",
-"sha": "4455d7305f8e",
-"start": 15,
-"end": 25,
-"text": "Hans Kongl",
-"page": "269",
-"chapter": "7",
-"type": "persName",
-"ref": "pers-kongl-johannes",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00823",
-"sha": "4455d7305f8e",
-"start": 44,
-"end": 50,
-"text": "Elskel",
-"page": "269",
-"chapter": "7",
-"type": "persName",
-"ref": "pers-elskel",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00824",
-"sha": "697e7baff3de",
-"start": 0,
-"end": 16,
-"text": "Hedewig Eleonora",
-"page": "269",
-"chapter": "7",
-"type": "persName",
-"ref": "pers-eleonora-hedewig",
 "cert": "high",
 "how": "form"
 },
@@ -49998,19 +49754,6 @@
 "how": "form"
 },
 {
-"unit": "u00839",
-"sha": "d3cdcd69cbc5",
-"start": 0,
-"end": 7,
-"text": "Carolus",
-"page": "275",
-"chapter": "7",
-"type": "persName",
-"ref": "pers-carolus",
-"cert": "high",
-"how": "form"
-},
-{
 "unit": "u00840",
 "sha": "39e7f2639db8",
 "start": 625,
@@ -50541,19 +50284,6 @@
 "how": "form"
 },
 {
-"unit": "u00850",
-"sha": "d3cdcd69cbc5",
-"start": 0,
-"end": 7,
-"text": "Carolus",
-"page": "280",
-"chapter": "7",
-"type": "persName",
-"ref": "pers-carolus",
-"cert": "high",
-"how": "form"
-},
-{
 "unit": "u00851",
 "sha": "79ac95bdc08b",
 "start": 0,
@@ -50901,7 +50631,7 @@
 "chapter": "7",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -50940,7 +50670,7 @@
 "chapter": "7",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -50953,7 +50683,7 @@
 "chapter": "7",
 "type": "persName",
 "ref": "pers-messenius-johannes",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {

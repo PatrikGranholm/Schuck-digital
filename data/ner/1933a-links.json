@@ -8,7 +8,7 @@
 "page": null,
 "chapter": null,
 "type": "persName",
-"ref": "pers-schück-henrik",
+"ref": "pers-schück-henricus",
 "cert": "high",
 "how": "form"
 },
@@ -60,8 +60,9 @@
 "page": "1",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-verelius-olaus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00017",
@@ -111,9 +112,13 @@
 "page": "1",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: same paragraph"
 },
 {
 "unit": "u00017",
@@ -306,9 +311,13 @@
 "page": "3",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
+"ref": "pers-celsius-magnus",
+"cert": "low",
+"candidates": [
+"pers-celsius-magnus",
+"pers-celsius-johannes"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00020",
@@ -371,12 +380,12 @@
 "unit": "u00023",
 "sha": "95424eb7ed27",
 "start": 1546,
-"end": 1549,
-"text": "Joh",
+"end": 1561,
+"text": "Joh. Hadorphius",
 "page": "4",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-joh-schefferus",
+"ref": "pers-hadorphius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -438,9 +447,13 @@
 "page": "5",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00027",
@@ -464,8 +477,9 @@
 "page": "5",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-celsius-magnus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00027",
@@ -476,9 +490,13 @@
 "page": "5",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00027",
@@ -502,8 +520,9 @@
 "page": "6",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-celsius-magnus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00028",
@@ -631,9 +650,13 @@
 "page": "6",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00029",
@@ -644,9 +667,13 @@
 "page": "6",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
+"ref": "pers-celsius-magnus",
+"cert": "low",
+"candidates": [
+"pers-celsius-magnus",
+"pers-celsius-johannes"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00029",
@@ -1164,8 +1191,9 @@
 "page": "14",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-verelius-olaus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00051",
@@ -1189,8 +1217,9 @@
 "page": "14",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-celsius-magnus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00052",
@@ -1344,8 +1373,9 @@
 "page": "16",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-verelius-olaus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00065",
@@ -1356,8 +1386,9 @@
 "page": "16",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-celsius-magnus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00067",
@@ -1381,7 +1412,7 @@
 "page": null,
 "chapter": "1",
 "type": "persName",
-"ref": "pers-stiernhielm-georg",
+"ref": "pers-stiernhielm-georgius",
 "cert": "high",
 "how": "form"
 },
@@ -1407,7 +1438,7 @@
 "page": null,
 "chapter": "1",
 "type": "persName",
-"ref": "pers-hadorph-johan",
+"ref": "pers-hadorph-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -1472,9 +1503,13 @@
 "page": "19",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00085",
@@ -1485,8 +1520,9 @@
 "page": "19",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-celsius-magnus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00091",
@@ -2108,9 +2144,13 @@
 "page": "27",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00122",
@@ -2173,9 +2213,13 @@
 "page": "28",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00127",
@@ -2186,9 +2230,13 @@
 "page": "29",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
+"ref": "pers-celsius-magnus",
+"cert": "low",
+"candidates": [
+"pers-celsius-magnus",
+"pers-celsius-johannes"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00127",
@@ -2277,9 +2325,13 @@
 "page": "30",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00129",
@@ -2303,9 +2355,13 @@
 "page": "30",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
+"ref": "pers-celsius-magnus",
+"cert": "low",
+"candidates": [
+"pers-celsius-magnus",
+"pers-celsius-johannes"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00130",
@@ -2511,8 +2567,9 @@
 "page": null,
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-loccenius-johannes",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00134",
@@ -2627,9 +2684,13 @@
 "page": "32",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00136",
@@ -2679,9 +2740,13 @@
 "page": "32",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
+"ref": "pers-celsius-magnus",
+"cert": "low",
+"candidates": [
+"pers-celsius-magnus",
+"pers-celsius-johannes"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00136",
@@ -2874,9 +2939,13 @@
 "page": "35",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
+"ref": "pers-celsius-magnus",
+"cert": "low",
+"candidates": [
+"pers-celsius-magnus",
+"pers-celsius-johannes"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00142",
@@ -2887,9 +2956,13 @@
 "page": "35",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00142",
@@ -3069,9 +3142,13 @@
 "page": "36",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00143",
@@ -3134,9 +3211,13 @@
 "page": "36",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00143",
@@ -3329,8 +3410,9 @@
 "page": "38",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-verelius-olaus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00152",
@@ -3354,8 +3436,9 @@
 "page": "38",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-celsius-magnus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00154",
@@ -3514,9 +3597,13 @@
 "page": "40",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00159",
@@ -3605,9 +3692,13 @@
 "page": "40",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00161",
@@ -3834,26 +3925,13 @@
 "unit": "u00180",
 "sha": "0461a2acba06",
 "start": 33,
-"end": 36,
-"text": "Joh",
-"page": "44",
-"chapter": "1",
-"type": "persName",
-"ref": "pers-joh-schefferus",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00180",
-"sha": "0461a2acba06",
-"start": 38,
 "end": 43,
-"text": "Magni",
+"text": "Joh. Magni",
 "page": "44",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-magni-olaus",
-"cert": "medium",
+"ref": "pers-magni-johannes",
+"cert": "high",
 "how": "form"
 },
 {
@@ -3995,9 +4073,13 @@
 "page": "45",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00195",
@@ -4073,8 +4155,9 @@
 "page": "46",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-celsius-magnus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00195",
@@ -4098,9 +4181,13 @@
 "page": "46",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00195",
@@ -4111,9 +4198,13 @@
 "page": "46",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00197",
@@ -4292,7 +4383,7 @@
 "page": null,
 "chapter": "1",
 "type": "persName",
-"ref": "pers-schefferus-joh",
+"ref": "pers-schefferus-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -4388,19 +4479,6 @@
 "how": "form"
 },
 {
-"unit": "u00207",
-"sha": "4ee5b3ee2a91",
-"start": 0,
-"end": 18,
-"text": "Johannes Loccenius",
-"page": "49",
-"chapter": "1",
-"type": "persName",
-"ref": "pers-loccenius-johannes",
-"cert": "high",
-"how": "form"
-},
-{
 "unit": "u00208",
 "sha": "0ab63cf8ac10",
 "start": 0,
@@ -4461,8 +4539,9 @@
 "page": "49",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-celsius-magnus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00213",
@@ -4486,9 +4565,13 @@
 "page": "49",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00214",
@@ -4581,9 +4664,13 @@
 "page": "50",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00216",
@@ -4607,9 +4694,13 @@
 "page": "51",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00218",
@@ -4659,9 +4750,13 @@
 "page": "51",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00218",
@@ -4698,9 +4793,13 @@
 "page": "51",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00219",
@@ -4711,9 +4810,13 @@
 "page": "51",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00219",
@@ -4737,9 +4840,13 @@
 "page": "51",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00219",
@@ -4750,9 +4857,13 @@
 "page": "51",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00219",
@@ -4763,9 +4874,13 @@
 "page": "51",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00219",
@@ -4802,9 +4917,13 @@
 "page": "51",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00220",
@@ -4828,9 +4947,13 @@
 "page": "51",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00220",
@@ -4841,9 +4964,13 @@
 "page": "51",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00220",
@@ -4854,9 +4981,13 @@
 "page": "51",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00220",
@@ -4867,9 +4998,13 @@
 "page": "51",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00220",
@@ -4893,9 +5028,13 @@
 "page": "51",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00220",
@@ -4945,9 +5084,13 @@
 "page": "52",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
+"ref": "pers-celsius-magnus",
+"cert": "low",
+"candidates": [
+"pers-celsius-magnus",
+"pers-celsius-johannes"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00220",
@@ -4971,9 +5114,13 @@
 "page": "52",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00220",
@@ -5040,9 +5187,13 @@
 "page": "52",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
+"ref": "pers-celsius-magnus",
+"cert": "low",
+"candidates": [
+"pers-celsius-magnus",
+"pers-celsius-johannes"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00223",
@@ -5066,9 +5217,13 @@
 "page": "52",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00223",
@@ -5079,9 +5234,13 @@
 "page": "52",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00223",
@@ -5092,9 +5251,13 @@
 "page": "52",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00224",
@@ -5157,9 +5320,13 @@
 "page": "53",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00226",
@@ -5170,9 +5337,13 @@
 "page": "54",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00226",
@@ -5235,9 +5406,13 @@
 "page": "58",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00236",
@@ -5248,9 +5423,13 @@
 "page": "58",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00236",
@@ -5261,9 +5440,13 @@
 "page": "59",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00236",
@@ -5352,9 +5535,13 @@
 "page": "61",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00243",
@@ -5404,9 +5591,13 @@
 "page": "63",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00247",
@@ -5417,9 +5608,13 @@
 "page": "63",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00247",
@@ -5443,9 +5638,13 @@
 "page": "63",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00247",
@@ -5495,9 +5694,13 @@
 "page": "63",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00247",
@@ -5534,9 +5737,13 @@
 "page": "63",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00249",
@@ -5560,9 +5767,13 @@
 "page": "64",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00250",
@@ -5599,9 +5810,13 @@
 "page": "64",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00251",
@@ -5651,9 +5866,13 @@
 "page": "64",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00252",
@@ -5885,8 +6104,9 @@
 "page": "66",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-celsius-magnus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00257",
@@ -6014,9 +6234,13 @@
 "page": "66",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00259",
@@ -6053,9 +6277,13 @@
 "page": "66",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00259",
@@ -6079,9 +6307,13 @@
 "page": "66",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
+"ref": "pers-celsius-magnus",
+"cert": "low",
+"candidates": [
+"pers-celsius-magnus",
+"pers-celsius-johannes"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00259",
@@ -6144,9 +6376,13 @@
 "page": "67",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00259",
@@ -6157,9 +6393,13 @@
 "page": "67",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00259",
@@ -6196,9 +6436,13 @@
 "page": "67",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
+"ref": "pers-celsius-magnus",
+"cert": "low",
+"candidates": [
+"pers-celsius-magnus",
+"pers-celsius-johannes"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00259",
@@ -6626,32 +6870,6 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-brunnij",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00269",
-"sha": "78b6b3ebbe37",
-"start": 0,
-"end": 27,
-"text": "Magnus Gabriel De la Gardie",
-"page": "73",
-"chapter": "1",
-"type": "persName",
-"ref": "pers-gardie-magnus",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00269",
-"sha": "78b6b3ebbe37",
-"start": 0,
-"end": 27,
-"text": "Magnus Gabriel De la Gardie",
-"page": "73",
-"chapter": "1",
-"type": "persName",
-"ref": "pers-gardie-magnus",
 "cert": "high",
 "how": "form"
 },
@@ -7858,9 +8076,13 @@
 "page": "83",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00289",
@@ -7884,9 +8106,13 @@
 "page": "84",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00291",
@@ -8356,9 +8582,13 @@
 "page": "87",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00297",
@@ -8395,8 +8625,9 @@
 "page": "87",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-verelius-olaus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00297",
@@ -9092,9 +9323,13 @@
 "page": "91",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00311",
@@ -9486,9 +9721,13 @@
 "page": "93",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00314",
@@ -10019,9 +10258,13 @@
 "page": "95",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00320",
@@ -10071,9 +10314,13 @@
 "page": "95",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00320",
@@ -10123,9 +10370,13 @@
 "page": "95",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00321",
@@ -10149,9 +10400,13 @@
 "page": "95",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00321",
@@ -10578,9 +10833,13 @@
 "page": "98",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00328",
@@ -10617,9 +10876,13 @@
 "page": "98",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00328",
@@ -10966,13 +11229,13 @@
 {
 "unit": "u00341",
 "sha": "37bc7f8ec5ad",
-"start": 4,
+"start": 0,
 "end": 14,
-"text": "Ehrensteen",
+"text": "Ed. Ehrensteen",
 "page": "102",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-ehrensteen",
+"ref": "pers-ehrensteen-ed",
 "cert": "high",
 "how": "form"
 },
@@ -11288,9 +11551,13 @@
 "page": "106",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00348",
@@ -11405,8 +11672,9 @@
 "page": "107",
 "chapter": "3",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-verelius-olaus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00380",
@@ -11417,8 +11685,9 @@
 "page": "107",
 "chapter": "3",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-celsius-magnus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00396",
@@ -11447,19 +11716,6 @@
 "how": "form"
 },
 {
-"unit": "u00404",
-"sha": "e5ccc0a4ee3b",
-"start": 3,
-"end": 10,
-"text": "Famulus",
-"page": "107",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-famulus",
-"cert": "high",
-"how": "form"
-},
-{
 "unit": "u00421",
 "sha": "770d86c14405",
 "start": 0,
@@ -11469,32 +11725,6 @@
 "chapter": "3",
 "type": "placeName",
 "ref": "plac-stockholm",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00422",
-"sha": "78b6b3ebbe37",
-"start": 0,
-"end": 27,
-"text": "Magnus Gabriel De la Gardie",
-"page": "108",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-gardie-magnus",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00422",
-"sha": "78b6b3ebbe37",
-"start": 0,
-"end": 27,
-"text": "Magnus Gabriel De la Gardie",
-"page": "108",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-gardie-magnus",
 "cert": "high",
 "how": "form"
 },
@@ -11728,9 +11958,13 @@
 "page": "110",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00425",
@@ -11793,9 +12027,13 @@
 "page": "110",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00425",
@@ -11923,9 +12161,13 @@
 "page": "113",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00454",
@@ -11975,8 +12217,9 @@
 "page": "114",
 "chapter": "3",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-verelius-olaus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00490",
@@ -11987,8 +12230,9 @@
 "page": "114",
 "chapter": "3",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-celsius-magnus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00492",
@@ -12103,9 +12347,13 @@
 "page": "117",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
+"ref": "pers-celsius-magnus",
+"cert": "low",
+"candidates": [
+"pers-celsius-magnus",
+"pers-celsius-johannes"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00528",
@@ -12116,9 +12364,13 @@
 "page": "117",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00528",
@@ -12189,12 +12441,12 @@
 "unit": "u00533",
 "sha": "c0ce14a190c6",
 "start": 3,
-"end": 6,
-"text": "Joh",
+"end": 16,
+"text": "Joh. Gyllenst",
 "page": "118",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-joh-schefferus",
+"ref": "pers-gyllenst-joh",
 "cert": "high",
 "how": "form"
 },
@@ -12267,12 +12519,12 @@
 "unit": "u00543",
 "sha": "202c41a0acbe",
 "start": 4,
-"end": 18,
-"text": "Schefferus Joh",
+"end": 30,
+"text": "Schefferus Joh. Hadorphius",
 "page": "120",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-joh-schefferus",
+"ref": "pers-hadorphius-schefferus",
 "cert": "high",
 "how": "form"
 },
@@ -12433,9 +12685,13 @@
 "page": "122",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00576",
@@ -12460,8 +12716,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-celsius-magnus",
+"pers-celsius-johannes"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00592",
@@ -12563,9 +12823,13 @@
 "page": "123",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00624",
@@ -12616,8 +12880,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-celsius-magnus",
+"pers-celsius-johannes"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00624",
@@ -12667,9 +12935,13 @@
 "page": "124",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00625",
@@ -12693,9 +12965,13 @@
 "page": "124",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00625",
@@ -12706,9 +12982,13 @@
 "page": "124",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00625",
@@ -12823,9 +13103,13 @@
 "page": "125",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00628",
@@ -12850,8 +13134,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-celsius-magnus",
+"pers-celsius-johannes"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00628",
@@ -13106,32 +13394,6 @@
 "how": "form"
 },
 {
-"unit": "u00645",
-"sha": "1c4470e04b42",
-"start": 4,
-"end": 13,
-"text": "Arrhenius",
-"page": "126",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-arrhenius-claudius",
-"cert": "medium",
-"how": "form"
-},
-{
-"unit": "u00645",
-"sha": "1c4470e04b42",
-"start": 4,
-"end": 13,
-"text": "Arrhenius",
-"page": "126",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-arrhenius-claudius",
-"cert": "medium",
-"how": "form"
-},
-{
 "unit": "u00648",
 "sha": "e9ba2c137346",
 "start": 0,
@@ -13140,9 +13402,13 @@
 "page": "126",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00651",
@@ -13154,34 +13420,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
-},
-{
-"unit": "u00651",
-"sha": "116f092fb626",
-"start": 4,
-"end": 11,
-"text": "Celsius",
-"page": "126",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
-},
-{
-"unit": "u00651",
-"sha": "116f092fb626",
-"start": 4,
-"end": 11,
-"text": "Celsius",
-"page": "126",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-celsius-magnus",
+"pers-celsius-johannes"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00656",
@@ -13310,8 +13554,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-celsius-magnus",
+"pers-celsius-johannes"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00727",
@@ -13322,9 +13570,13 @@
 "page": "127",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00727",
@@ -13361,9 +13613,13 @@
 "page": "128",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00728",
@@ -13465,9 +13721,13 @@
 "page": "129",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00728",
@@ -13479,8 +13739,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-celsius-magnus",
+"pers-celsius-johannes"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00728",
@@ -13600,19 +13864,6 @@
 "how": "form"
 },
 {
-"unit": "u00734",
-"sha": "7e25a8e376ae",
-"start": 4,
-"end": 12,
-"text": "Axehielm",
-"page": "130",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-axehielm-johannes",
-"cert": "medium",
-"how": "form"
-},
-{
 "unit": "u00736",
 "sha": "0b9bbd602e32",
 "start": 6,
@@ -13639,45 +13890,6 @@
 "how": "form"
 },
 {
-"unit": "u00738",
-"sha": "1ce24dd51cc7",
-"start": 4,
-"end": 14,
-"text": "Schefferus",
-"page": "130",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-schefferus-johannes",
-"cert": "medium",
-"how": "form"
-},
-{
-"unit": "u00740",
-"sha": "1c4470e04b42",
-"start": 4,
-"end": 13,
-"text": "Arrhenius",
-"page": "130",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-arrhenius-claudius",
-"cert": "medium",
-"how": "form"
-},
-{
-"unit": "u00740",
-"sha": "1c4470e04b42",
-"start": 4,
-"end": 13,
-"text": "Arrhenius",
-"page": "130",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-arrhenius-claudius",
-"cert": "medium",
-"how": "form"
-},
-{
 "unit": "u00740",
 "sha": "1c4470e04b42",
 "start": 4,
@@ -13700,34 +13912,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
-},
-{
-"unit": "u00742",
-"sha": "116f092fb626",
-"start": 4,
-"end": 11,
-"text": "Celsius",
-"page": "130",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
-},
-{
-"unit": "u00742",
-"sha": "116f092fb626",
-"start": 4,
-"end": 11,
-"text": "Celsius",
-"page": "130",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-celsius-magnus",
+"pers-celsius-johannes"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00746",
@@ -13821,32 +14011,6 @@
 "how": "form"
 },
 {
-"unit": "u00777",
-"sha": "78b6b3ebbe37",
-"start": 0,
-"end": 27,
-"text": "Magnus Gabriel De la Gardie",
-"page": "130",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-gardie-magnus",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00777",
-"sha": "78b6b3ebbe37",
-"start": 0,
-"end": 27,
-"text": "Magnus Gabriel De la Gardie",
-"page": "130",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-gardie-magnus",
-"cert": "high",
-"how": "form"
-},
-{
 "unit": "u00778",
 "sha": "6e94926df95d",
 "start": 173,
@@ -13868,9 +14032,13 @@
 "page": "130",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00778",
@@ -14037,9 +14205,13 @@
 "page": "133",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00779",
@@ -14298,8 +14470,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-celsius-magnus",
+"pers-celsius-johannes"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00809",
@@ -14337,19 +14513,6 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-carlberg",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00836",
-"sha": "262df8269b58",
-"start": 0,
-"end": 27,
-"text": "Magnus Gabriel De la Gardie",
-"page": "135",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-gardie-magnus",
 "cert": "high",
 "how": "form"
 },
@@ -14440,8 +14603,9 @@
 "page": "136",
 "chapter": "3",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-celsius-magnus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00851",
@@ -14618,9 +14782,13 @@
 "page": "137",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00885",
@@ -14683,9 +14851,13 @@
 "page": "136",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00886",
@@ -14696,9 +14868,13 @@
 "page": "136",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00886",
@@ -14761,9 +14937,13 @@
 "page": "137",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00886",
@@ -14917,9 +15097,13 @@
 "page": "141",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00898",
@@ -14943,9 +15127,13 @@
 "page": "141",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00899",
@@ -14983,32 +15171,6 @@
 "chapter": "3",
 "type": "placeName",
 "ref": "plac-stockholm",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00902",
-"sha": "304ad2125e81",
-"start": 0,
-"end": 16,
-"text": "Johan Hadorphius",
-"page": "142",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-hadorphius-johannes",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00902",
-"sha": "304ad2125e81",
-"start": 0,
-"end": 16,
-"text": "Johan Hadorphius",
-"page": "142",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-hadorphius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -15164,7 +15326,7 @@
 "page": "144",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-lindehielm",
+"ref": "pers-lindehielm-cammer",
 "cert": "high",
 "how": "form"
 },
@@ -15190,7 +15352,7 @@
 "page": "144",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-lindehielm",
+"ref": "pers-lindehielm-cammer",
 "cert": "high",
 "how": "form"
 },
@@ -15987,13 +16149,13 @@
 "page": "151",
 "chapter": "3",
 "type": "persName",
-"ref": null,
-"cert": null,
+"ref": "pers-gyllenstierna-johannes",
+"cert": "low",
 "candidates": [
 "pers-gyllenstierna-giöran",
 "pers-gyllenstierna-johannes"
 ],
-"how": "unresolved"
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00922",
@@ -16169,19 +16331,6 @@
 "how": "form"
 },
 {
-"unit": "u00943",
-"sha": "3c7046efa5d5",
-"start": 0,
-"end": 11,
-"text": "Sten Bielke",
-"page": "152",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-bielke-sten",
-"cert": "high",
-"how": "form"
-},
-{
 "unit": "u00945",
 "sha": "c354b88d2194",
 "start": 50,
@@ -16220,13 +16369,13 @@
 "page": "152",
 "chapter": "3",
 "type": "persName",
-"ref": null,
-"cert": null,
+"ref": "pers-gyllenstierna-johannes",
+"cert": "low",
 "candidates": [
 "pers-gyllenstierna-giöran",
 "pers-gyllenstierna-johannes"
 ],
-"how": "unresolved"
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00945",
@@ -16839,31 +16988,14 @@
 "unit": "u00985",
 "sha": "a454843d5b5c",
 "start": 142,
-"end": 145,
-"text": "Joh",
+"end": 160,
+"text": "Joh. Gyllenstierna",
 "page": "167",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-joh-schefferus",
+"ref": "pers-gyllenstierna-johannes",
 "cert": "high",
 "how": "form"
-},
-{
-"unit": "u00985",
-"sha": "a454843d5b5c",
-"start": 147,
-"end": 160,
-"text": "Gyllenstierna",
-"page": "167",
-"chapter": "3",
-"type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-gyllenstierna-giöran",
-"pers-gyllenstierna-johannes"
-],
-"how": "unresolved"
 },
 {
 "unit": "u00985",
@@ -17069,19 +17201,20 @@
 "page": "170",
 "chapter": "3",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-celsius-magnus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00998",
 "sha": "a23ebc8c20ff",
 "start": 0,
-"end": 3,
-"text": "Joh",
+"end": 15,
+"text": "Joh. Schefferus",
 "page": "170",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-joh-schefferus",
+"ref": "pers-schefferus-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -17089,25 +17222,12 @@
 "unit": "u00999",
 "sha": "676a33b89f69",
 "start": 0,
-"end": 3,
-"text": "Joh",
+"end": 15,
+"text": "Joh. Hadorphius",
 "page": "170",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-joh-schefferus",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00999",
-"sha": "676a33b89f69",
-"start": 0,
-"end": 3,
-"text": "Joh",
-"page": "170",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-joh-schefferus",
+"ref": "pers-hadorphius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -17532,32 +17652,6 @@
 "how": "form"
 },
 {
-"unit": "u01018",
-"sha": "7e25a8e376ae",
-"start": 4,
-"end": 12,
-"text": "Axehielm",
-"page": "180",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-axehielm-johannes",
-"cert": "medium",
-"how": "form"
-},
-{
-"unit": "u01020",
-"sha": "1ce24dd51cc7",
-"start": 4,
-"end": 14,
-"text": "Schefferus",
-"page": "180",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-schefferus-johannes",
-"cert": "medium",
-"how": "form"
-},
-{
 "unit": "u01020",
 "sha": "1ce24dd51cc7",
 "start": 4,
@@ -17579,35 +17673,13 @@
 "page": "180",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
-},
-{
-"unit": "u01024",
-"sha": "1c4470e04b42",
-"start": 4,
-"end": 13,
-"text": "Arrhenius",
-"page": "180",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-arrhenius-claudius",
-"cert": "medium",
-"how": "form"
-},
-{
-"unit": "u01024",
-"sha": "1c4470e04b42",
-"start": 4,
-"end": 13,
-"text": "Arrhenius",
-"page": "180",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-arrhenius-claudius",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01024",
@@ -17631,35 +17703,13 @@
 "page": "180",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
-},
-{
-"unit": "u01026",
-"sha": "116f092fb626",
-"start": 4,
-"end": 11,
-"text": "Celsius",
-"page": "180",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
-},
-{
-"unit": "u01026",
-"sha": "116f092fb626",
-"start": 4,
-"end": 11,
-"text": "Celsius",
-"page": "180",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
+"ref": "pers-celsius-magnus",
+"cert": "low",
+"candidates": [
+"pers-celsius-magnus",
+"pers-celsius-johannes"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01032",
@@ -17748,22 +17798,13 @@
 "page": "181",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
-},
-{
-"unit": "u01072",
-"sha": "262df8269b58",
-"start": 0,
-"end": 27,
-"text": "Magnus Gabriel De la Gardie",
-"page": "181",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-gardie-magnus",
-"cert": "high",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01072",
@@ -17787,9 +17828,13 @@
 "page": "182",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01073",
@@ -17865,9 +17910,13 @@
 "page": "182",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01074",
@@ -17891,9 +17940,13 @@
 "page": "182",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01074",
@@ -17917,8 +17970,9 @@
 "page": "183",
 "chapter": "3",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-verelius-olaus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01078",
@@ -17942,9 +17996,13 @@
 "page": "183",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01080",
@@ -17981,9 +18039,13 @@
 "page": "184",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
+"ref": "pers-celsius-magnus",
+"cert": "low",
+"candidates": [
+"pers-celsius-magnus",
+"pers-celsius-johannes"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01080",
@@ -17994,9 +18056,13 @@
 "page": "184",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01080",
@@ -18020,9 +18086,13 @@
 "page": "184",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01080",
@@ -18219,8 +18289,9 @@
 "page": "186",
 "chapter": "3",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-verelius-olaus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01085",
@@ -18244,9 +18315,13 @@
 "page": "186",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01085",
@@ -18353,9 +18428,13 @@
 "page": "186",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01085",
@@ -18366,9 +18445,13 @@
 "page": "186",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01085",
@@ -18418,9 +18501,13 @@
 "page": "186",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
+"ref": "pers-celsius-magnus",
+"cert": "low",
+"candidates": [
+"pers-celsius-magnus",
+"pers-celsius-johannes"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01085",
@@ -18431,9 +18518,13 @@
 "page": "186",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01085",
@@ -18470,9 +18561,13 @@
 "page": "186",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
+"ref": "pers-celsius-magnus",
+"cert": "low",
+"candidates": [
+"pers-celsius-magnus",
+"pers-celsius-johannes"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01085",
@@ -18535,9 +18630,13 @@
 "page": "187",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01085",
@@ -18548,9 +18647,13 @@
 "page": "187",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01085",
@@ -18600,9 +18703,13 @@
 "page": "187",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01089",
@@ -18670,9 +18777,13 @@
 "page": "187",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01100",
@@ -18735,9 +18846,13 @@
 "page": "188",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01100",
@@ -18774,9 +18889,13 @@
 "page": "188",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01100",
@@ -18787,9 +18906,13 @@
 "page": "188",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01100",
@@ -18883,9 +19006,13 @@
 "page": "190",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01102",
@@ -18896,9 +19023,13 @@
 "page": "190",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01102",
@@ -18922,9 +19053,13 @@
 "page": "190",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01102",
@@ -18961,9 +19096,13 @@
 "page": "191",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01102",
@@ -18974,9 +19113,13 @@
 "page": "191",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01104",
@@ -18987,9 +19130,13 @@
 "page": "191",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01104",
@@ -19645,9 +19792,13 @@
 "page": "200",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": "pers-verelius-olaus",
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01113",
@@ -19676,19 +19827,6 @@
 "chapter": "3",
 "type": "placeName",
 "ref": "plac-stockholm",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01118",
-"sha": "3c7046efa5d5",
-"start": 0,
-"end": 11,
-"text": "Sten Bielke",
-"page": "201",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-bielke-sten",
 "cert": "high",
 "how": "form"
 },
@@ -19995,25 +20133,12 @@
 "unit": "u01124",
 "sha": "e7fc4062a861",
 "start": 3938,
-"end": 3946,
-"text": "Cammer R",
-"page": "206",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-r-cammer",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01124",
-"sha": "e7fc4062a861",
-"start": 3948,
 "end": 3958,
-"text": "Lindehielm",
+"text": "Cammer R. Lindehielm",
 "page": "206",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-lindehielm",
+"ref": "pers-lindehielm-cammer",
 "cert": "high",
 "how": "form"
 },
@@ -20964,12 +21089,12 @@
 "unit": "u01199",
 "sha": "9ecfc4223340",
 "start": 2556,
-"end": 2559,
-"text": "Joh",
+"end": 2566,
+"text": "Joh. Buræo",
 "page": "216",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-joh-schefferus",
+"ref": "pers-buræo-joh",
 "cert": "high",
 "how": "form"
 },
@@ -21003,12 +21128,12 @@
 "unit": "u01199",
 "sha": "9ecfc4223340",
 "start": 2754,
-"end": 2757,
-"text": "Joh",
+"end": 2764,
+"text": "Joh. Magni",
 "page": "216",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-joh-schefferus",
+"ref": "pers-magni-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -21212,19 +21337,6 @@
 "how": "form"
 },
 {
-"unit": "u01241",
-"sha": "e5ccc0a4ee3b",
-"start": 3,
-"end": 10,
-"text": "Famulus",
-"page": "220",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-famulus",
-"cert": "high",
-"how": "form"
-},
-{
 "unit": "u01246",
 "sha": "62bf7875a238",
 "start": 0,
@@ -21234,45 +21346,6 @@
 "chapter": "3",
 "type": "placeName",
 "ref": "plac-stockholm",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01247",
-"sha": "9176ad395f7b",
-"start": 0,
-"end": 7,
-"text": "Carolus",
-"page": "220",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-carolus",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01247",
-"sha": "9176ad395f7b",
-"start": 0,
-"end": 7,
-"text": "Carolus",
-"page": "220",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-carolus",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01247",
-"sha": "9176ad395f7b",
-"start": 0,
-"end": 7,
-"text": "Carolus",
-"page": "220",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-carolus",
 "cert": "high",
 "how": "form"
 },
@@ -24304,45 +24377,6 @@
 "how": "form"
 },
 {
-"unit": "u01439",
-"sha": "9176ad395f7b",
-"start": 0,
-"end": 7,
-"text": "Carolus",
-"page": "263",
-"chapter": "4",
-"type": "persName",
-"ref": "pers-carolus",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01439",
-"sha": "9176ad395f7b",
-"start": 0,
-"end": 7,
-"text": "Carolus",
-"page": "263",
-"chapter": "4",
-"type": "persName",
-"ref": "pers-carolus",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01439",
-"sha": "9176ad395f7b",
-"start": 0,
-"end": 7,
-"text": "Carolus",
-"page": "263",
-"chapter": "4",
-"type": "persName",
-"ref": "pers-carolus",
-"cert": "high",
-"how": "form"
-},
-{
 "unit": "u01443",
 "sha": "5a26de0d0a3c",
 "start": 78,
@@ -24678,9 +24712,13 @@
 "page": "266",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01445",
@@ -24903,9 +24941,13 @@
 "page": "267",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01447",
@@ -25143,32 +25185,6 @@
 "chapter": "5",
 "type": "placeName",
 "ref": "plac-uppsala",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01453",
-"sha": "304ad2125e81",
-"start": 0,
-"end": 16,
-"text": "Johan Hadorphius",
-"page": "269",
-"chapter": "5",
-"type": "persName",
-"ref": "pers-hadorphius-johannes",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01453",
-"sha": "304ad2125e81",
-"start": 0,
-"end": 16,
-"text": "Johan Hadorphius",
-"page": "269",
-"chapter": "5",
-"type": "persName",
-"ref": "pers-hadorphius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -26936,12 +26952,12 @@
 "unit": "u01651",
 "sha": "a7e0a968f9d7",
 "start": 163,
-"end": 166,
-"text": "Joh",
+"end": 172,
+"text": "Joh. Bure",
 "page": "279",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-joh-schefferus",
+"ref": "pers-bure-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -27261,9 +27277,13 @@
 "page": "281",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01675",
@@ -27300,9 +27320,13 @@
 "page": "281",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01675",
@@ -27339,9 +27363,13 @@
 "page": "281",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01675",
@@ -27552,9 +27580,13 @@
 "page": "283",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01678",
@@ -27777,9 +27809,13 @@
 "page": "284",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01683",
@@ -27803,9 +27839,13 @@
 "page": "285",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01684",
@@ -28454,19 +28494,6 @@
 "chapter": "5",
 "type": "placeName",
 "ref": "plac-upsala",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01768",
-"sha": "4ee5b3ee2a91",
-"start": 0,
-"end": 18,
-"text": "Johannes Loccenius",
-"page": "290",
-"chapter": "5",
-"type": "persName",
-"ref": "pers-loccenius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -29250,7 +29277,7 @@
 "page": "294",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-joh-schefferus",
+"ref": "pers-joh",
 "cert": "high",
 "how": "form"
 },
@@ -29926,9 +29953,13 @@
 "page": "297",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01829",
@@ -30069,9 +30100,13 @@
 "page": "300",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01832",
@@ -30095,9 +30130,13 @@
 "page": "300",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01832",
@@ -30147,9 +30186,13 @@
 "page": "300",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01832",
@@ -30242,9 +30285,13 @@
 "page": "300",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01832",
@@ -30385,9 +30432,13 @@
 "page": "301",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01832",
@@ -30411,9 +30462,13 @@
 "page": "301",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01832",
@@ -30437,9 +30492,13 @@
 "page": "301",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01832",
@@ -30702,32 +30761,6 @@
 "how": "form"
 },
 {
-"unit": "u01846",
-"sha": "304ad2125e81",
-"start": 0,
-"end": 16,
-"text": "Johan Hadorphius",
-"page": "301",
-"chapter": "5",
-"type": "persName",
-"ref": "pers-hadorphius-johannes",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01846",
-"sha": "304ad2125e81",
-"start": 0,
-"end": 16,
-"text": "Johan Hadorphius",
-"page": "301",
-"chapter": "5",
-"type": "persName",
-"ref": "pers-hadorphius-johannes",
-"cert": "high",
-"how": "form"
-},
-{
 "unit": "u01848",
 "sha": "f7bc166bda03",
 "start": 22,
@@ -30762,9 +30795,13 @@
 "page": "302",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01848",
@@ -30814,9 +30851,13 @@
 "page": "302",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01848",
@@ -31139,9 +31180,13 @@
 "page": "303",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01848",
@@ -31152,9 +31197,13 @@
 "page": "303",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01848",
@@ -31165,9 +31214,13 @@
 "page": "303",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01848",
@@ -31178,9 +31231,13 @@
 "page": "303",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01848",
@@ -31204,9 +31261,13 @@
 "page": "303",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01848",
@@ -31282,9 +31343,13 @@
 "page": "304",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01849",
@@ -31347,9 +31412,13 @@
 "page": "304",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01849",
@@ -31412,9 +31481,13 @@
 "page": "304",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01849",
@@ -31438,9 +31511,13 @@
 "page": "304",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01849",
@@ -31477,9 +31554,13 @@
 "page": "304",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01849",
@@ -31490,9 +31571,13 @@
 "page": "304",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01849",
@@ -31503,9 +31588,13 @@
 "page": "305",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01849",
@@ -31542,9 +31631,13 @@
 "page": "305",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01849",
@@ -31555,9 +31648,13 @@
 "page": "305",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01849",
@@ -31568,9 +31665,13 @@
 "page": "305",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01850",
@@ -31594,9 +31695,13 @@
 "page": "305",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01850",
@@ -31607,9 +31712,13 @@
 "page": "305",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01850",
@@ -31711,9 +31820,13 @@
 "page": "305",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01851",
@@ -31750,9 +31863,13 @@
 "page": "306",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01851",
@@ -31958,9 +32075,13 @@
 "page": "306",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01851",
@@ -31984,9 +32105,13 @@
 "page": "306",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01851",
@@ -31997,9 +32122,13 @@
 "page": "306",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01851",
@@ -32036,9 +32165,13 @@
 "page": "306",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01851",
@@ -32114,9 +32247,13 @@
 "page": "307",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01852",
@@ -32184,32 +32321,6 @@
 "how": "form"
 },
 {
-"unit": "u01853",
-"sha": "357010b53053",
-"start": 0,
-"end": 7,
-"text": "Torfæus",
-"page": "307",
-"chapter": "5",
-"type": "persName",
-"ref": "pers-torfæus",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01855",
-"sha": "7c6516d3dac3",
-"start": 0,
-"end": 7,
-"text": "Rudbeck",
-"page": "307",
-"chapter": "5",
-"type": "persName",
-"ref": "pers-rudbeck-olaus",
-"cert": "high",
-"how": "form"
-},
-{
 "unit": "u01855",
 "sha": "7c6516d3dac3",
 "start": 0,
@@ -32271,32 +32382,6 @@
 "chapter": "5",
 "type": "persName",
 "ref": "pers-torfæus",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01859",
-"sha": "357010b53053",
-"start": 0,
-"end": 7,
-"text": "Torfæus",
-"page": "308",
-"chapter": "5",
-"type": "persName",
-"ref": "pers-torfæus",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01861",
-"sha": "7c6516d3dac3",
-"start": 0,
-"end": 7,
-"text": "Rudbeck",
-"page": "308",
-"chapter": "5",
-"type": "persName",
-"ref": "pers-rudbeck-olaus",
 "cert": "high",
 "how": "form"
 },
@@ -32590,25 +32675,12 @@
 "unit": "u01884",
 "sha": "4156b3bd6f02",
 "start": 5,
-"end": 29,
-"text": "Augmundur Akraspillurs H",
+"end": 36,
+"text": "Augmundur Akraspillurs H.Auno H",
 "page": "308",
 "chapter": "5",
 "type": "persName",
 "ref": "pers-h-augmundur",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01884",
-"sha": "4156b3bd6f02",
-"start": 30,
-"end": 36,
-"text": "Auno H",
-"page": "308",
-"chapter": "5",
-"type": "persName",
-"ref": "pers-h-auno",
 "cert": "high",
 "how": "form"
 },
@@ -32621,9 +32693,13 @@
 "page": "308",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01888",
@@ -32712,9 +32788,13 @@
 "page": "308",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01889",
@@ -32751,9 +32831,13 @@
 "page": "308",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01889",
@@ -32764,9 +32848,13 @@
 "page": "309",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01889",
@@ -32816,9 +32904,13 @@
 "page": "310",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01890",
@@ -32855,9 +32947,13 @@
 "page": "310",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01891",
@@ -32868,9 +32964,13 @@
 "page": "310",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01891",
@@ -32907,9 +33007,13 @@
 "page": "310",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01891",
@@ -32985,9 +33089,13 @@
 "page": "311",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01891",
@@ -33024,9 +33132,13 @@
 "page": "311",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01891",
@@ -33089,9 +33201,13 @@
 "page": "312",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01892",
@@ -33297,9 +33413,13 @@
 "page": "312",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01895",
@@ -33530,7 +33650,7 @@
 "page": "313",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-joh-schefferus",
+"ref": "pers-joh",
 "cert": "high",
 "how": "form"
 },
@@ -33590,12 +33710,12 @@
 "unit": "u01922",
 "sha": "859f4b25a0a6",
 "start": 27,
-"end": 30,
-"text": "Joh",
+"end": 37,
+"text": "Joh. Buræj",
 "page": "313",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-joh-schefferus",
+"ref": "pers-buræj-joh",
 "cert": "high",
 "how": "form"
 },
@@ -33829,9 +33949,13 @@
 "page": "315",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-celsius-johannes",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-celsius-magnus",
+"pers-celsius-johannes"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01950",
@@ -35314,7 +35438,7 @@
 "page": "323",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-joh-schefferus",
+"ref": "pers-joh",
 "cert": "high",
 "how": "form"
 },
@@ -38810,8 +38934,12 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u02098",
@@ -40174,8 +40302,12 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u02166",
@@ -40200,8 +40332,12 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u02168",
@@ -40226,45 +40362,6 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-wij",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u02169",
-"sha": "9176ad395f7b",
-"start": 0,
-"end": 7,
-"text": "Carolus",
-"page": "361",
-"chapter": "6",
-"type": "persName",
-"ref": "pers-carolus",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u02169",
-"sha": "9176ad395f7b",
-"start": 0,
-"end": 7,
-"text": "Carolus",
-"page": "361",
-"chapter": "6",
-"type": "persName",
-"ref": "pers-carolus",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u02169",
-"sha": "9176ad395f7b",
-"start": 0,
-"end": 7,
-"text": "Carolus",
-"page": "361",
-"chapter": "6",
-"type": "persName",
-"ref": "pers-carolus",
 "cert": "high",
 "how": "form"
 },
@@ -40561,45 +40658,6 @@
 "pers-anno-johannes"
 ],
 "how": "guess: chapter majority"
-},
-{
-"unit": "u02189",
-"sha": "9176ad395f7b",
-"start": 0,
-"end": 7,
-"text": "Carolus",
-"page": "365",
-"chapter": "6",
-"type": "persName",
-"ref": "pers-carolus",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u02189",
-"sha": "9176ad395f7b",
-"start": 0,
-"end": 7,
-"text": "Carolus",
-"page": "365",
-"chapter": "6",
-"type": "persName",
-"ref": "pers-carolus",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u02189",
-"sha": "9176ad395f7b",
-"start": 0,
-"end": 7,
-"text": "Carolus",
-"page": "365",
-"chapter": "6",
-"type": "persName",
-"ref": "pers-carolus",
-"cert": "high",
-"how": "form"
 },
 {
 "unit": "u02189",
@@ -40930,12 +40988,12 @@
 "unit": "u02202",
 "sha": "67386d039cd2",
 "start": 167,
-"end": 170,
-"text": "Joh",
+"end": 179,
+"text": "Joh. Hadorph",
 "page": "370",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-joh-schefferus",
+"ref": "pers-hadorph-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -41374,8 +41432,12 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u02213",
@@ -41569,8 +41631,12 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u02217",
@@ -43062,12 +43128,12 @@
 "unit": "u02229",
 "sha": "ea0f2b18bae5",
 "start": 4136,
-"end": 4139,
-"text": "Joh",
+"end": 4146,
+"text": "Joh. Burei",
 "page": "384",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-joh-schefferus",
+"ref": "pers-bure-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -45280,25 +45346,12 @@
 "unit": "u02275",
 "sha": "676a33b89f69",
 "start": 0,
-"end": 3,
-"text": "Joh",
+"end": 15,
+"text": "Joh. Hadorphius",
 "page": "393",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-joh-schefferus",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u02275",
-"sha": "676a33b89f69",
-"start": 0,
-"end": 3,
-"text": "Joh",
-"page": "393",
-"chapter": "6",
-"type": "persName",
-"ref": "pers-joh-schefferus",
+"ref": "pers-hadorphius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -45572,8 +45625,12 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u02280",
@@ -45585,8 +45642,12 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u02280",
@@ -45611,8 +45672,12 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u02281",
@@ -46281,12 +46346,12 @@
 "unit": "u02281",
 "sha": "b5a25ebaf763",
 "start": 5638,
-"end": 5648,
-"text": "Doctor Joh",
+"end": 5657,
+"text": "Doctor Joh. Matthiæ",
 "page": "397",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-joh-schefferus",
+"ref": "pers-matthiæ-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -46775,8 +46840,9 @@
 "page": "400",
 "chapter": "6",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-celsius-magnus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u02284",
@@ -48403,26 +48469,13 @@
 "unit": "u02298",
 "sha": "dc89556d3477",
 "start": 3994,
-"end": 3997,
-"text": "Joh",
-"page": "408",
-"chapter": "6",
-"type": "persName",
-"ref": "pers-joh-schefferus",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u02298",
-"sha": "dc89556d3477",
-"start": 3999,
 "end": 4005,
-"text": "Magnus",
+"text": "Joh. Magnus",
 "page": "408",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-magnus-olaus",
-"cert": "medium",
+"ref": "pers-magnus-johannes",
+"cert": "high",
 "how": "form"
 },
 {
@@ -49505,8 +49558,12 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u02311",
@@ -51209,12 +51266,12 @@
 "unit": "u02330",
 "sha": "a49958002f29",
 "start": 1184,
-"end": 1187,
-"text": "Joh",
+"end": 1198,
+"text": "Joh. Hadorphii",
 "page": "427",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-joh-schefferus",
+"ref": "pers-hadorphius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -51617,8 +51674,9 @@
 "page": "430",
 "chapter": "6",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-verelius-olaus",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u02333",
@@ -55881,8 +55939,12 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-verelius-samuel",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-verelius-olaus",
+"pers-verelius-samuel"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u02440",

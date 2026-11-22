@@ -140,10 +140,11 @@
   ]
  },
  "Stenbock": {
-  "mentions": 3,
+  "mentions": 2,
   "candidates": [
    "pers-stenbock-gustavus",
-   "pers-stenbock-magnus"
+   "pers-stenbock-magnus",
+   "pers-stenbock-johannes"
   ]
  },
  "Düben": {
@@ -194,13 +195,6 @@
   "candidates": [
    "pers-törnflycht-grefwinnan",
    "pers-törnflycht-olaus"
-  ]
- },
- "Adlerbeth": {
-  "mentions": 63,
-  "candidates": [
-   "pers-adlerbeth-gudmund",
-   "pers-adlerbeth-g"
   ]
  },
  "De la Gardie": {
@@ -257,6 +251,14 @@
   "candidates": [
    "pers-gardie-magnus",
    "pers-gardie-gustavus"
+  ]
+ },
+ "Ristell": {
+  "mentions": 1,
+  "candidates": [
+   "pers-ristell-a",
+   "pers-ristell-adolf",
+   "pers-ristell-adolph"
   ]
  }
 }

@@ -34,20 +34,7 @@
 "page": null,
 "chapter": null,
 "type": "persName",
-"ref": "pers-schück-henrik",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00002",
-"sha": "a030d43880e9",
-"start": 0,
-"end": 13,
-"text": "HENRIK SCHÜCK",
-"page": null,
-"chapter": null,
-"type": "persName",
-"ref": "pers-schück-henrik",
+"ref": "pers-schück-henricus",
 "cert": "high",
 "how": "form"
 },
@@ -86,20 +73,7 @@
 "page": null,
 "chapter": null,
 "type": "persName",
-"ref": "pers-schück-henrik",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00020",
-"sha": "a030d43880e9",
-"start": 0,
-"end": 13,
-"text": "HENRIK SCHÜCK",
-"page": null,
-"chapter": null,
-"type": "persName",
-"ref": "pers-schück-henrik",
+"ref": "pers-schück-henricus",
 "cert": "high",
 "how": "form"
 },
@@ -1141,13 +1115,9 @@
 "page": "8",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "unresolved"
+"ref": "pers-aurivillius-pehr",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00042",
@@ -2526,19 +2496,6 @@
 "pers-hallenberg-c"
 ],
 "how": "unresolved"
-},
-{
-"unit": "u00067",
-"sha": "3df18c805d97",
-"start": 20,
-"end": 28,
-"text": "Tihleman",
-"page": "17",
-"chapter": "1",
-"type": "persName",
-"ref": "pers-tihleman-georgius",
-"cert": "high",
-"how": "form"
 },
 {
 "unit": "u00067",
@@ -5427,13 +5384,9 @@
 "page": "30",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "unresolved"
+"ref": "pers-aurivillius-pehr",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00114",
@@ -5548,13 +5501,9 @@
 "page": "30",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "unresolved"
+"ref": "pers-aurivillius-pehr",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00116",
@@ -9205,7 +9154,7 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-blad-andreas",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -20549,19 +20498,6 @@
 "how": "form"
 },
 {
-"unit": "u00463",
-"sha": "3df18c805d97",
-"start": 20,
-"end": 28,
-"text": "Tihleman",
-"page": "119",
-"chapter": "6",
-"type": "persName",
-"ref": "pers-tihleman-georgius",
-"cert": "high",
-"how": "form"
-},
-{
 "unit": "u00464",
 "sha": "5ba0fb674d0a",
 "start": 420,
@@ -21447,7 +21383,7 @@
 "chapter": "6",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -21828,23 +21764,6 @@
 "ref": "pers-berchs",
 "cert": "high",
 "how": "form"
-},
-{
-"unit": "u00500",
-"sha": "b61e283ec885",
-"start": 0,
-"end": 10,
-"text": "Hallenberg",
-"page": "131",
-"chapter": "7",
-"type": "persName",
-"ref": "pers-hallenberg-jonas",
-"cert": "low",
-"candidates": [
-"pers-hallenberg-jonas",
-"pers-hallenberg-c"
-],
-"how": "guess: chapter majority"
 },
 {
 "unit": "u00500",
@@ -24151,13 +24070,9 @@
 "page": "140",
 "chapter": "7",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "unresolved"
+"ref": "pers-aurivillius-pehr",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00526",
@@ -24194,13 +24109,9 @@
 "page": "140",
 "chapter": "7",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "unresolved"
+"ref": "pers-aurivillius-pehr",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00526",
@@ -24224,13 +24135,9 @@
 "page": "140",
 "chapter": "7",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "unresolved"
+"ref": "pers-aurivillius-pehr",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00526",
@@ -24254,13 +24161,9 @@
 "page": "140",
 "chapter": "7",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "unresolved"
+"ref": "pers-aurivillius-pehr",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00526",
@@ -24284,13 +24187,9 @@
 "page": "140",
 "chapter": "7",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "unresolved"
+"ref": "pers-aurivillius-pehr",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00526",
@@ -24502,7 +24401,7 @@
 "chapter": "7",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -24681,21 +24580,8 @@
 "unit": "u00543",
 "sha": "1f95361cf9ab",
 "start": 122,
-"end": 126,
-"text": "Marg",
-"page": "144",
-"chapter": "8",
-"type": "persName",
-"ref": "pers-marg",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00543",
-"sha": "1f95361cf9ab",
-"start": 128,
 "end": 136,
-"text": "Stenbock",
+"text": "Marg. Stenbock",
 "page": "144",
 "chapter": "8",
 "type": "persName",
@@ -24707,12 +24593,12 @@
 "unit": "u00543",
 "sha": "1f95361cf9ab",
 "start": 204,
-"end": 209,
-"text": "Eva C",
+"end": 215,
+"text": "Eva C. Fock",
 "page": "144",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-c-eva",
+"ref": "pers-fock-eva",
 "cert": "high",
 "how": "form"
 },
@@ -24824,25 +24710,12 @@
 "unit": "u00547",
 "sha": "cdc0f9ae336b",
 "start": 142,
-"end": 147,
-"text": "Eva C",
-"page": "145",
-"chapter": "8",
-"type": "persName",
-"ref": "pers-c-eva",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00547",
-"sha": "cdc0f9ae336b",
-"start": 149,
 "end": 153,
-"text": "Fock",
+"text": "Eva C. Fock",
 "page": "145",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-fock",
+"ref": "pers-fock-eva",
 "cert": "high",
 "how": "form"
 },
@@ -25117,25 +24990,12 @@
 "unit": "u00570",
 "sha": "6d4f951b9b05",
 "start": 42,
-"end": 62,
-"text": "Fredricus Adolphus R",
-"page": "147",
-"chapter": "8",
-"type": "persName",
-"ref": "pers-r-fredricus",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00570",
-"sha": "6d4f951b9b05",
-"start": 64,
 "end": 68,
-"text": "Suec",
+"text": "Fredricus Adolphus R. Suec",
 "page": "147",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-suec",
+"ref": "pers-suec-fredricus",
 "cert": "high",
 "how": "form"
 },
@@ -25410,12 +25270,12 @@
 "unit": "u00581",
 "sha": "263a91a4e627",
 "start": 97,
-"end": 100,
-"text": "Joh",
+"end": 104,
+"text": "Joh. Ad",
 "page": "151",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-joh",
+"ref": "pers-ad-joh",
 "cert": "high",
 "how": "form"
 },
@@ -27414,24 +27274,6 @@
 "ref": "pers-ehrensvärd",
 "cert": "high",
 "how": "form"
-},
-{
-"unit": "u00636",
-"sha": "043d88928fdd",
-"start": 0,
-"end": 9,
-"text": "Bergstedt",
-"page": "172",
-"chapter": "10",
-"type": "persName",
-"ref": "pers-bergstedt-ericus",
-"cert": "low",
-"candidates": [
-"pers-bergstedt-e",
-"pers-bergstedt-ericus",
-"pers-bergstedt-ehrenheim"
-],
-"how": "guess: chapter majority"
 },
 {
 "unit": "u00636",
@@ -31562,25 +31404,12 @@
 "unit": "u00727",
 "sha": "afdd8b61e712",
 "start": 60,
-"end": 70,
-"text": "Cronsioe B",
-"page": "199",
-"chapter": "11",
-"type": "persName",
-"ref": "pers-b-cronsioe",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00727",
-"sha": "afdd8b61e712",
-"start": 72,
 "end": 82,
-"text": "Centerwall",
+"text": "Cronsioe B. Centerwall",
 "page": "199",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-centerwall",
+"ref": "pers-centerwall-cronsioe",
 "cert": "high",
 "how": "form"
 },
@@ -32953,23 +32782,6 @@
 "how": "unresolved"
 },
 {
-"unit": "u00753",
-"sha": "b61e283ec885",
-"start": 0,
-"end": 10,
-"text": "Hallenberg",
-"page": "211",
-"chapter": "12",
-"type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-hallenberg-jonas",
-"pers-hallenberg-c"
-],
-"how": "unresolved"
-},
-{
 "unit": "u00754",
 "sha": "a87554eaf8fd",
 "start": 47,
@@ -33324,7 +33136,7 @@
 "chapter": "12",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -33938,7 +33750,7 @@
 "chapter": "12",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -34392,12 +34204,12 @@
 "unit": "u00781",
 "sha": "bdca056452d8",
 "start": 225,
-"end": 231,
-"text": "Christ",
+"end": 238,
+"text": "Christ. Gottl",
 "page": "220",
 "chapter": "12",
 "type": "persName",
-"ref": "pers-christ",
+"ref": "pers-gottl-christ",
 "cert": "high",
 "how": "form"
 },
@@ -35989,7 +35801,7 @@
 "chapter": "12",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -36265,13 +36077,9 @@
 "page": "225",
 "chapter": "12",
 "type": "persName",
-"ref": "pers-aurivillius-petrus",
-"cert": "low",
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "guess: chapter majority"
+"ref": "pers-aurivillius-pehr",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00803",
@@ -36283,7 +36091,7 @@
 "chapter": "12",
 "type": "persName",
 "ref": "pers-blad-andreas",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -36447,13 +36255,9 @@
 "page": "226",
 "chapter": "12",
 "type": "persName",
-"ref": "pers-aurivillius-petrus",
-"cert": "low",
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "guess: chapter majority"
+"ref": "pers-aurivillius-pehr",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00809",
@@ -36529,13 +36333,9 @@
 "page": "226",
 "chapter": "12",
 "type": "persName",
-"ref": "pers-aurivillius-petrus",
-"cert": "low",
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "guess: same paragraph"
+"ref": "pers-aurivillius-pehr",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00810",
@@ -37020,7 +36820,7 @@
 "page": "227",
 "chapter": "12",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -37077,7 +36877,7 @@
 "page": "227",
 "chapter": "12",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -37090,7 +36890,7 @@
 "page": "227",
 "chapter": "12",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -37142,7 +36942,7 @@
 "page": "227",
 "chapter": "12",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -37877,7 +37677,7 @@
 "chapter": "12",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -37890,7 +37690,7 @@
 "chapter": "12",
 "type": "persName",
 "ref": "pers-blad-andreas",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -37915,13 +37715,9 @@
 "page": "230",
 "chapter": "12",
 "type": "persName",
-"ref": "pers-aurivillius-petrus",
-"cert": "low",
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-aurivillius-pehr",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00827",
@@ -37975,7 +37771,7 @@
 "page": "230",
 "chapter": "12",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -38031,7 +37827,7 @@
 "page": "231",
 "chapter": "13",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -38045,12 +37841,8 @@
 "chapter": "13",
 "type": "persName",
 "ref": "pers-aurivillius-pehr",
-"cert": "low",
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "guess: chapter majority"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00830",
@@ -38088,7 +37880,7 @@
 "chapter": "13",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -38226,12 +38018,8 @@
 "chapter": "13",
 "type": "persName",
 "ref": "pers-aurivillius-pehr",
-"cert": "low",
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "guess: chapter majority"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00830",
@@ -38243,7 +38031,7 @@
 "chapter": "13",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -38308,12 +38096,8 @@
 "chapter": "13",
 "type": "persName",
 "ref": "pers-aurivillius-pehr",
-"cert": "low",
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "guess: chapter majority"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00832",
@@ -38364,7 +38148,7 @@
 "chapter": "13",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -38757,7 +38541,7 @@
 "page": "235",
 "chapter": "13",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -38788,7 +38572,7 @@
 "page": "235",
 "chapter": "13",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -38801,7 +38585,7 @@
 "page": "235",
 "chapter": "13",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -38827,7 +38611,7 @@
 "page": "236",
 "chapter": "13",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -39092,7 +38876,7 @@
 "chapter": "13",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -39105,12 +38889,8 @@
 "chapter": "13",
 "type": "persName",
 "ref": "pers-aurivillius-pehr",
-"cert": "low",
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "guess: chapter majority"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00847",
@@ -39148,7 +38928,7 @@
 "chapter": "13",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -39681,12 +39461,8 @@
 "chapter": "13",
 "type": "persName",
 "ref": "pers-aurivillius-pehr",
-"cert": "low",
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "guess: chapter majority"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00854",
@@ -39867,12 +39643,8 @@
 "chapter": "13",
 "type": "persName",
 "ref": "pers-aurivillius-pehr",
-"cert": "low",
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "guess: chapter majority"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00858",
@@ -39910,12 +39682,8 @@
 "chapter": "13",
 "type": "persName",
 "ref": "pers-aurivillius-pehr",
-"cert": "low",
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "guess: same paragraph"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00859",
@@ -39940,12 +39708,8 @@
 "chapter": "13",
 "type": "persName",
 "ref": "pers-aurivillius-pehr",
-"cert": "low",
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00859",
@@ -39983,12 +39747,8 @@
 "chapter": "13",
 "type": "persName",
 "ref": "pers-aurivillius-pehr",
-"cert": "low",
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00860",
@@ -40039,12 +39799,8 @@
 "chapter": "13",
 "type": "persName",
 "ref": "pers-aurivillius-pehr",
-"cert": "low",
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00862",
@@ -40173,7 +39929,7 @@
 "chapter": "13",
 "type": "persName",
 "ref": "pers-blad-andreas",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -40270,13 +40026,13 @@
 {
 "unit": "u00866",
 "sha": "14cd9636305b",
-"start": 555,
+"start": 547,
 "end": 563,
-"text": "Lindgren",
+"text": "Herr A. Lindgren",
 "page": "245",
 "chapter": "13",
 "type": "persName",
-"ref": "pers-lindgren",
+"ref": "pers-lindgren-a",
 "cert": "high",
 "how": "form"
 },
@@ -40419,7 +40175,7 @@
 "page": "246",
 "chapter": "13",
 "type": "persName",
-"ref": "pers-lindgren",
+"ref": "pers-lindgren-a",
 "cert": "high",
 "how": "form"
 },
@@ -40550,7 +40306,7 @@
 "chapter": "13",
 "type": "persName",
 "ref": "pers-blad-andreas",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -41212,7 +40968,7 @@
 "chapter": "13",
 "type": "persName",
 "ref": "pers-blad-andreas",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -42523,7 +42279,7 @@
 "chapter": "13",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -42536,7 +42292,7 @@
 "chapter": "13",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -42605,12 +42361,8 @@
 "chapter": "13",
 "type": "persName",
 "ref": "pers-aurivillius-pehr",
-"cert": "low",
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00894",
@@ -42974,12 +42726,8 @@
 "chapter": "13",
 "type": "persName",
 "ref": "pers-aurivillius-pehr",
-"cert": "low",
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "guess: earlier in chapter"
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u00900",
@@ -43688,7 +43436,7 @@
 "chapter": "14",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -43725,12 +43473,12 @@
 "unit": "u00915",
 "sha": "1bc8af41d9eb",
 "start": 0,
-"end": 5,
-"text": "Carol",
+"end": 11,
+"text": "Carol. Gust",
 "page": "263",
 "chapter": "14",
 "type": "persName",
-"ref": "pers-carol",
+"ref": "pers-gust-carol",
 "cert": "high",
 "how": "form"
 },
@@ -44021,7 +43769,7 @@
 "chapter": "14",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -44363,7 +44111,7 @@
 "chapter": "14",
 "type": "persName",
 "ref": "pers-blad-andreas",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -46599,7 +46347,7 @@
 "chapter": "15",
 "type": "persName",
 "ref": "pers-blad-andreas",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -49325,7 +49073,7 @@
 "chapter": "15",
 "type": "persName",
 "ref": "pers-blad-andreas",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -49441,7 +49189,7 @@
 "chapter": "15",
 "type": "persName",
 "ref": "pers-blad-andreas",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -49454,7 +49202,7 @@
 "chapter": "15",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -49614,7 +49362,7 @@
 "chapter": "15",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -49627,7 +49375,7 @@
 "chapter": "15",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -49666,7 +49414,7 @@
 "chapter": "15",
 "type": "persName",
 "ref": "pers-blad-andreas",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -49678,7 +49426,7 @@
 "page": "299",
 "chapter": "15",
 "type": "persName",
-"ref": "pers-blad-professoren",
+"ref": "pers-blad-andreas",
 "cert": "high",
 "how": "form"
 },
@@ -49735,7 +49483,7 @@
 "chapter": "15",
 "type": "persName",
 "ref": "pers-blad-andreas",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -49748,7 +49496,7 @@
 "chapter": "15",
 "type": "persName",
 "ref": "pers-blad-andreas",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -49873,7 +49621,7 @@
 "chapter": "15",
 "type": "persName",
 "ref": "pers-blad-andreas",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -50490,25 +50238,12 @@
 "unit": "u01049",
 "sha": "b06410a48ba0",
 "start": 169,
-"end": 180,
-"text": "Capitaine P",
-"page": "303",
-"chapter": "15",
-"type": "persName",
-"ref": "pers-p-capitaine",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01049",
-"sha": "b06410a48ba0",
-"start": 182,
 "end": 187,
-"text": "Bernh",
+"text": "Capitaine P. Bernh",
 "page": "303",
 "chapter": "15",
 "type": "persName",
-"ref": "pers-bernh",
+"ref": "pers-bernh-capitaine",
 "cert": "high",
 "how": "form"
 },
@@ -52404,7 +52139,7 @@
 "chapter": "15",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -53203,7 +52938,7 @@
 "chapter": "15",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -53216,7 +52951,7 @@
 "chapter": "15",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -53259,7 +52994,7 @@
 "chapter": "15",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -53272,7 +53007,7 @@
 "chapter": "15",
 "type": "persName",
 "ref": "pers-blad-andreas",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -53285,7 +53020,7 @@
 "chapter": "15",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -53298,7 +53033,7 @@
 "chapter": "15",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -53311,7 +53046,7 @@
 "chapter": "15",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -53324,7 +53059,7 @@
 "chapter": "15",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -53439,31 +53174,14 @@
 "unit": "u01084",
 "sha": "b006ea390b59",
 "start": 1491,
-"end": 1498,
-"text": "Hr C. R",
-"page": "317",
-"chapter": "15",
-"type": "persName",
-"ref": "pers-r-c",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01084",
-"sha": "b006ea390b59",
-"start": 1500,
 "end": 1511,
-"text": "Hallenbergs",
+"text": "Hr C. R. Hallenbergs",
 "page": "317",
 "chapter": "15",
 "type": "persName",
 "ref": "pers-hallenberg-c",
-"cert": "low",
-"candidates": [
-"pers-hallenberg-jonas",
-"pers-hallenberg-c"
-],
-"how": "guess: same paragraph"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01084",
@@ -53689,7 +53407,7 @@
 "chapter": "16",
 "type": "persName",
 "ref": "pers-blad-andreas",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -53728,7 +53446,7 @@
 "chapter": "16",
 "type": "persName",
 "ref": "pers-blad-andreas",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -53832,6 +53550,19 @@
 "chapter": "16",
 "type": "persName",
 "ref": "pers-åkerman",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u01095",
+"sha": "9e698715b968",
+"start": 242,
+"end": 252,
+"text": "Gud. Ingen",
+"page": "320",
+"chapter": "16",
+"type": "persName",
+"ref": "pers-ingen-gud",
 "cert": "high",
 "how": "form"
 },
@@ -54076,7 +53807,7 @@
 "chapter": "16",
 "type": "persName",
 "ref": "pers-blad-andreas",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -54089,7 +53820,7 @@
 "chapter": "16",
 "type": "persName",
 "ref": "pers-blad-andreas",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -54967,7 +54698,7 @@
 "page": "329",
 "chapter": "16",
 "type": "persName",
-"ref": "pers-fock",
+"ref": "pers-fock-eva",
 "cert": "high",
 "how": "form"
 },
@@ -55019,13 +54750,9 @@
 "page": "329",
 "chapter": "16",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "unresolved"
+"ref": "pers-aurivillius-pehr",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u01122",
@@ -55400,31 +55127,14 @@
 "unit": "u01130",
 "sha": "95f942d05c66",
 "start": 17,
-"end": 25,
-"text": "Pehr Fab",
+"end": 38,
+"text": "Pehr Fab. Aurivillius",
 "page": "331",
 "chapter": "16",
 "type": "persName",
-"ref": "pers-fab-pehr",
+"ref": "pers-aurivillius-pehr",
 "cert": "high",
 "how": "form"
-},
-{
-"unit": "u01130",
-"sha": "95f942d05c66",
-"start": 27,
-"end": 38,
-"text": "Aurivillius",
-"page": "331",
-"chapter": "16",
-"type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "unresolved"
 },
 {
 "unit": "u01131",
@@ -55478,7 +55188,7 @@
 "page": "331",
 "chapter": "16",
 "type": "persName",
-"ref": "pers-fock",
+"ref": "pers-fock-eva",
 "cert": "high",
 "how": "form"
 },
@@ -55504,7 +55214,7 @@
 "page": "331",
 "chapter": "16",
 "type": "persName",
-"ref": "pers-fock",
+"ref": "pers-fock-eva",
 "cert": "high",
 "how": "form"
 },
@@ -55517,7 +55227,7 @@
 "page": "331",
 "chapter": "16",
 "type": "persName",
-"ref": "pers-fock",
+"ref": "pers-fock-eva",
 "cert": "high",
 "how": "form"
 },
@@ -55543,7 +55253,7 @@
 "page": "331",
 "chapter": "16",
 "type": "persName",
-"ref": "pers-fock",
+"ref": "pers-fock-eva",
 "cert": "high",
 "how": "form"
 },
@@ -55582,7 +55292,7 @@
 "page": "331",
 "chapter": "16",
 "type": "persName",
-"ref": "pers-fock",
+"ref": "pers-fock-eva",
 "cert": "high",
 "how": "form"
 },
@@ -55621,13 +55331,9 @@
 "page": "332",
 "chapter": "16",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "unresolved"
+"ref": "pers-aurivillius-pehr",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u01136",
@@ -55651,7 +55357,7 @@
 "page": "332",
 "chapter": "16",
 "type": "persName",
-"ref": "pers-fock",
+"ref": "pers-fock-eva",
 "cert": "high",
 "how": "form"
 },
@@ -56327,8 +56033,9 @@
 "page": "337",
 "chapter": "16",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-stierneld-adolf",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01147",
@@ -56617,19 +56324,6 @@
 "chapter": "16",
 "type": "placeName",
 "ref": "plac-skandinavien",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01165",
-"sha": "2ec40817af70",
-"start": 0,
-"end": 9,
-"text": "Stierneld",
-"page": "340",
-"chapter": "16",
-"type": "persName",
-"ref": "pers-stierneld-adolf",
 "cert": "high",
 "how": "form"
 },
@@ -57985,19 +57679,6 @@
 "chapter": "16",
 "type": "placeName",
 "ref": "plac-stockholm",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01198",
-"sha": "2ec40817af70",
-"start": 0,
-"end": 9,
-"text": "Stierneld",
-"page": "351",
-"chapter": "16",
-"type": "persName",
-"ref": "pers-stierneld-adolf",
 "cert": "high",
 "how": "form"
 },
@@ -60556,19 +60237,6 @@
 "how": "form"
 },
 {
-"unit": "u01317",
-"sha": "8f5e4b0585c8",
-"start": 0,
-"end": 13,
-"text": "N. H. Sjöborg",
-"page": "368",
-"chapter": "16",
-"type": "persName",
-"ref": "pers-sjöborg-nicolaus",
-"cert": "high",
-"how": "form"
-},
-{
 "unit": "u01319",
 "sha": "cdc7d766b321",
 "start": 225,
@@ -60649,21 +60317,8 @@
 "unit": "u01320",
 "sha": "5756c7d5a027",
 "start": 19,
-"end": 23,
-"text": "N. H",
-"page": "368",
-"chapter": "16",
-"type": "persName",
-"ref": "pers-h-n",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01320",
-"sha": "5756c7d5a027",
-"start": 25,
 "end": 33,
-"text": "Sjöborgs",
+"text": "N. H. Sjöborgs",
 "page": "368",
 "chapter": "16",
 "type": "persName",
@@ -60971,19 +60626,6 @@
 "how": "form"
 },
 {
-"unit": "u01326",
-"sha": "8f5e4b0585c8",
-"start": 0,
-"end": 13,
-"text": "N. H. Sjöborg",
-"page": "371",
-"chapter": "16",
-"type": "persName",
-"ref": "pers-sjöborg-nicolaus",
-"cert": "high",
-"how": "form"
-},
-{
 "unit": "u01329",
 "sha": "b3ec7f6c9442",
 "start": 32,
@@ -61110,28 +60752,15 @@
 "chapter": "16",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
 "unit": "u01331",
 "sha": "4dc4d03c8349",
 "start": 185,
-"end": 189,
-"text": "N. H",
-"page": "371",
-"chapter": "16",
-"type": "persName",
-"ref": "pers-h-n",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01331",
-"sha": "4dc4d03c8349",
-"start": 191,
 "end": 199,
-"text": "Sjöborgs",
+"text": "N. H. Sjöborgs",
 "page": "371",
 "chapter": "16",
 "type": "persName",
@@ -61508,7 +61137,7 @@
 "chapter": "16",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -62337,7 +61966,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -62418,24 +62047,6 @@
 "pers-engeström-gr"
 ],
 "how": "guess: earlier in chapter"
-},
-{
-"unit": "u01371",
-"sha": "043d88928fdd",
-"start": 0,
-"end": 9,
-"text": "Bergstedt",
-"page": "380",
-"chapter": "17",
-"type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-bergstedt-e",
-"pers-bergstedt-ericus",
-"pers-bergstedt-ehrenheim"
-],
-"how": "unresolved"
 },
 {
 "unit": "u01371",
@@ -63189,7 +62800,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -63219,7 +62830,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -63302,7 +62913,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -63328,7 +62939,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -63341,7 +62952,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -63380,7 +62991,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -63393,7 +63004,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -63576,7 +63187,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -63703,7 +63314,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -63733,7 +63344,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -63763,7 +63374,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -63908,7 +63519,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -63999,7 +63610,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -64012,7 +63623,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -64077,7 +63688,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -64103,7 +63714,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -64134,7 +63745,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -64178,7 +63789,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -64191,7 +63802,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -64334,7 +63945,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -64373,7 +63984,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -64438,7 +64049,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -64464,7 +64075,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -64559,7 +64170,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -64615,7 +64226,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -64658,7 +64269,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -65832,7 +65443,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -65958,7 +65569,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -66413,7 +66024,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -66542,7 +66153,7 @@
 "page": null,
 "chapter": "17",
 "type": "persName",
-"ref": "pers-rutström-carl",
+"ref": "pers-rutström-carolus",
 "cert": "high",
 "how": "form"
 },
@@ -66568,7 +66179,7 @@
 "page": null,
 "chapter": "17",
 "type": "persName",
-"ref": "pers-adlerbeth-jakob",
+"ref": "pers-adlerbeth-jacobus",
 "cert": "high",
 "how": "form"
 },
@@ -67202,7 +66813,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -67332,7 +66943,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -67345,7 +66956,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-blad-andreas",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -67370,13 +66981,9 @@
 "page": "402",
 "chapter": "17",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "unresolved"
+"ref": "pers-aurivillius-pehr",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u01442",
@@ -67430,7 +67037,7 @@
 "page": "402",
 "chapter": "17",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -67599,7 +67206,7 @@
 "page": "403",
 "chapter": "17",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -67625,7 +67232,7 @@
 "page": "403",
 "chapter": "17",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -67638,7 +67245,7 @@
 "page": "403",
 "chapter": "17",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -67916,7 +67523,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -67955,7 +67562,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -67968,7 +67575,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-blad-andreas",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -67981,7 +67588,7 @@
 "chapter": "17",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -68105,25 +67712,12 @@
 "unit": "u01452",
 "sha": "9ea6d14d550e",
 "start": 1118,
-"end": 1121,
-"text": "Joh",
-"page": "405",
-"chapter": "17",
-"type": "persName",
-"ref": "pers-joh",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01452",
-"sha": "9ea6d14d550e",
-"start": 1123,
 "end": 1132,
-"text": "Messenius",
+"text": "Joh. Messenius",
 "page": "405",
 "chapter": "17",
 "type": "persName",
-"ref": "pers-messenius",
+"ref": "pers-messenius-joh",
 "cert": "high",
 "how": "form"
 },
@@ -68144,25 +67738,12 @@
 "unit": "u01452",
 "sha": "9ea6d14d550e",
 "start": 1153,
-"end": 1156,
-"text": "Joh",
-"page": "405",
-"chapter": "17",
-"type": "persName",
-"ref": "pers-joh",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01452",
-"sha": "9ea6d14d550e",
-"start": 1158,
 "end": 1169,
-"text": "Peringsköld",
+"text": "Joh. Peringsköld",
 "page": "405",
 "chapter": "17",
 "type": "persName",
-"ref": "pers-peringsköld",
+"ref": "pers-peringsköld-joh",
 "cert": "high",
 "how": "form"
 },
@@ -68170,12 +67751,12 @@
 "unit": "u01452",
 "sha": "9ea6d14d550e",
 "start": 1203,
-"end": 1206,
-"text": "Joh",
+"end": 1214,
+"text": "Joh. Buræus",
 "page": "405",
 "chapter": "17",
 "type": "persName",
-"ref": "pers-joh",
+"ref": "pers-buræus-joh",
 "cert": "high",
 "how": "form"
 },
@@ -68483,7 +68064,7 @@
 "chapter": "18",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -68578,7 +68159,7 @@
 "chapter": "18",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -69023,7 +68604,7 @@
 "page": "410",
 "chapter": "18",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -69227,7 +68808,7 @@
 "page": "411",
 "chapter": "18",
 "type": "persName",
-"ref": "pers-neikter",
+"ref": "pers-aurivillius-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -69588,7 +69169,7 @@
 "page": "412",
 "chapter": "18",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -69938,7 +69519,7 @@
 "chapter": "18",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -70085,7 +69666,7 @@
 "page": "414",
 "chapter": "18",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -70368,7 +69949,7 @@
 "page": "415",
 "chapter": "18",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -70394,7 +69975,7 @@
 "page": "415",
 "chapter": "18",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -70433,7 +70014,7 @@
 "page": "415",
 "chapter": "18",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -70511,7 +70092,7 @@
 "page": "416",
 "chapter": "18",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -70832,7 +70413,7 @@
 "chapter": "18",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -70891,7 +70472,7 @@
 "page": "417",
 "chapter": "18",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -71078,7 +70659,7 @@
 "chapter": "18",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -71684,7 +71265,7 @@
 "chapter": "18",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -71896,7 +71477,7 @@
 "chapter": "18",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -72407,7 +71988,7 @@
 "chapter": "18",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -72433,7 +72014,7 @@
 "chapter": "19",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -72485,7 +72066,7 @@
 "chapter": "19",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -72554,7 +72135,7 @@
 "chapter": "19",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -72675,7 +72256,7 @@
 "page": "430",
 "chapter": "19",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -73705,7 +73286,7 @@
 "chapter": "19",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -73718,7 +73299,7 @@
 "chapter": "19",
 "type": "persName",
 "ref": "pers-blad-andreas",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -74036,7 +73617,7 @@
 "page": "440",
 "chapter": "19",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -74326,7 +73907,7 @@
 "chapter": "19",
 "type": "persName",
 "ref": "pers-blad-andreas",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -74860,7 +74441,7 @@
 "page": "447",
 "chapter": "19",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -74960,7 +74541,7 @@
 "chapter": "19",
 "type": "persName",
 "ref": "pers-blad-andreas",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -75305,7 +74886,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -75318,7 +74899,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-blad-andreas",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -75500,7 +75081,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -75513,7 +75094,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-blad-andreas",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -75526,7 +75107,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -75617,7 +75198,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -75630,7 +75211,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -75745,25 +75326,12 @@
 "unit": "u01598",
 "sha": "45add7a79297",
 "start": 454,
-"end": 460,
-"text": "Carl F",
-"page": "454",
-"chapter": "20",
-"type": "persName",
-"ref": "pers-f-carolus",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01598",
-"sha": "45add7a79297",
-"start": 462,
 "end": 466,
-"text": "Lund",
+"text": "Carl F. Lund",
 "page": "454",
 "chapter": "20",
 "type": "persName",
-"ref": "pers-lund",
+"ref": "pers-lund-carolus",
 "cert": "high",
 "how": "form"
 },
@@ -75790,7 +75358,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -75881,7 +75449,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -75894,7 +75462,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -75907,7 +75475,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -76011,7 +75579,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -76024,7 +75592,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -76037,7 +75605,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -76288,7 +75856,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -76383,7 +75951,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -76448,7 +76016,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -76733,7 +76301,7 @@
 "page": "463",
 "chapter": "20",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -76747,7 +76315,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -76760,7 +76328,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -77132,7 +76700,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -77340,7 +76908,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -77695,7 +77263,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -77721,7 +77289,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -78125,7 +77693,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -78164,7 +77732,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -78177,7 +77745,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -78684,7 +78252,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -79386,7 +78954,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -79695,8 +79263,8 @@
 "page": null,
 "chapter": "20",
 "type": "persName",
-"ref": "pers-flintenbergs",
-"cert": "high",
+"ref": "pers-flintenberg-johannes",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -79708,7 +79276,7 @@
 "page": null,
 "chapter": "20",
 "type": "persName",
-"ref": "pers-tihlemans",
+"ref": "pers-tihleman-georgius",
 "cert": "high",
 "how": "form"
 },
@@ -80266,9 +79834,13 @@
 "page": null,
 "chapter": "20",
 "type": "persName",
-"ref": "pers-hallenbergs",
-"cert": "high",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-hallenberg-jonas",
+"pers-hallenberg-c"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01693",
@@ -80418,9 +79990,13 @@
 "page": null,
 "chapter": "20",
 "type": "persName",
-"ref": "pers-hallenbergs",
-"cert": "high",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-hallenberg-jonas",
+"pers-hallenberg-c"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01704",
@@ -80536,7 +80112,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -80600,13 +80176,9 @@
 "page": null,
 "chapter": "20",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "unresolved"
+"ref": "pers-aurivillius-pehr",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u01706",
@@ -80660,7 +80232,7 @@
 "page": null,
 "chapter": "20",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -80756,7 +80328,7 @@
 "page": null,
 "chapter": "20",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -80808,13 +80380,9 @@
 "page": null,
 "chapter": "20",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-aurivillius-petrus",
-"pers-aurivillius-pehr"
-],
-"how": "unresolved"
+"ref": "pers-aurivillius-pehr",
+"cert": "medium",
+"how": "form"
 },
 {
 "unit": "u01712",
@@ -80963,8 +80531,8 @@
 "page": null,
 "chapter": "20",
 "type": "persName",
-"ref": "pers-rutströms",
-"cert": "high",
+"ref": "pers-rutström-medicinal",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -81038,7 +80606,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -81051,7 +80619,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -81064,7 +80632,7 @@
 "chapter": "20",
 "type": "persName",
 "ref": "pers-rutström-medicinal",
-"cert": "high",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -81172,7 +80740,7 @@
 "page": null,
 "chapter": "20",
 "type": "persName",
-"ref": "pers-wallmark",
+"ref": "pers-wallmark-pehr",
 "cert": "high",
 "how": "form"
 },
@@ -81277,6 +80845,19 @@
 "chapter": "20",
 "type": "placeName",
 "ref": "plac-uppsala",
+"cert": "high",
+"how": "form"
+},
+{
+"unit": "u01727",
+"sha": "8ca85940e17d",
+"start": 0,
+"end": 8,
+"text": "ALMQVIST",
+"page": null,
+"chapter": "20",
+"type": "persName",
+"ref": "pers-almqvist",
 "cert": "high",
 "how": "form"
 }

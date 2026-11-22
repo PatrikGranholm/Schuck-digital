@@ -8,7 +8,7 @@
 "page": null,
 "chapter": null,
 "type": "persName",
-"ref": "pers-schück-henrik",
+"ref": "pers-schück-henricus",
 "cert": "high",
 "how": "form"
 },
@@ -546,7 +546,7 @@
 "page": "5",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-peringskiöld-johan",
+"ref": "pers-peringskiöld-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -783,9 +783,13 @@
 "page": "6",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u00025",
@@ -809,8 +813,9 @@
 "page": "6",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-brenner-elias",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00025",
@@ -834,9 +839,13 @@
 "page": "6",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: same paragraph"
 },
 {
 "unit": "u00025",
@@ -864,9 +873,13 @@
 "page": "6",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: same paragraph"
 },
 {
 "unit": "u00025",
@@ -890,8 +903,9 @@
 "page": "7",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-brenner-elias",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00025",
@@ -919,9 +933,13 @@
 "page": "7",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: same paragraph"
 },
 {
 "unit": "u00025",
@@ -958,8 +976,9 @@
 "page": "7",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-brenner-elias",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00025",
@@ -970,8 +989,9 @@
 "page": "7",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-brenner-elias",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00026",
@@ -982,9 +1002,13 @@
 "page": "7",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00027",
@@ -995,9 +1019,13 @@
 "page": "7",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00027",
@@ -1111,12 +1139,12 @@
 "unit": "u00027",
 "sha": "7e9ca54ce27c",
 "start": 1446,
-"end": 1451,
-"text": "Nicol",
+"end": 1458,
+"text": "Nicol. Keder",
 "page": "8",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-nicol",
+"ref": "pers-keder-nicol",
 "cert": "high",
 "how": "form"
 },
@@ -1124,31 +1152,14 @@
 "unit": "u00027",
 "sha": "7e9ca54ce27c",
 "start": 1463,
-"end": 1467,
-"text": "Fred",
+"end": 1481,
+"text": "Fred. Peringskiöld",
 "page": "8",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-fred",
+"ref": "pers-peringskiöld-fred",
 "cert": "high",
 "how": "form"
-},
-{
-"unit": "u00027",
-"sha": "7e9ca54ce27c",
-"start": 1469,
-"end": 1481,
-"text": "Peringskiöld",
-"page": "8",
-"chapter": "1",
-"type": "persName",
-"ref": "pers-peringskiöld-johannes",
-"cert": "low",
-"candidates": [
-"pers-peringskiöld-johannes",
-"pers-peringskiöld-j"
-],
-"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00029",
@@ -1176,8 +1187,9 @@
 "page": "8",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-brenner-elias",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00029",
@@ -1244,9 +1256,13 @@
 "page": "8",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: same paragraph"
 },
 {
 "unit": "u00029",
@@ -1482,9 +1498,13 @@
 "page": "10",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00032",
@@ -1534,8 +1554,9 @@
 "page": "10",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-brenner-elias",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00032",
@@ -1572,8 +1593,9 @@
 "page": "10",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-brenner-elias",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00032",
@@ -1925,6 +1947,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: same paragraph"
@@ -2020,6 +2043,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: same paragraph"
@@ -2033,7 +2057,7 @@
 "page": null,
 "chapter": "1",
 "type": "persName",
-"ref": "pers-keder-nils",
+"ref": "pers-keder-nicolaus",
 "cert": "high",
 "how": "form"
 },
@@ -2102,9 +2126,13 @@
 "page": "12",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00036",
@@ -2115,10 +2143,11 @@
 "page": "12",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-keder-niclas",
+"ref": "pers-keder-nicolaus",
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"
@@ -2162,9 +2191,13 @@
 "page": "12",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00036",
@@ -6746,9 +6779,13 @@
 "page": "40",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00103",
@@ -7887,8 +7924,9 @@
 "page": "49",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-brenner-elias",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00135",
@@ -8578,9 +8616,13 @@
 "page": "53",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00158",
@@ -8595,6 +8637,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"
@@ -9889,9 +9932,13 @@
 "page": "60",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00184",
@@ -10377,14 +10424,14 @@
 {
 "unit": "u00210",
 "sha": "7549736c0875",
-"start": 51,
+"start": 47,
 "end": 58,
-"text": "Brenner",
+"text": "El. Brenner",
 "page": "63",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
+"ref": "pers-brenner-el",
+"cert": "high",
 "how": "form"
 },
 {
@@ -10635,45 +10682,6 @@
 "how": "form"
 },
 {
-"unit": "u00224",
-"sha": "b10ca6e649db",
-"start": 0,
-"end": 18,
-"text": "Johan Peringskiöld",
-"page": "65",
-"chapter": "1",
-"type": "persName",
-"ref": "pers-peringskiöld-johannes",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00224",
-"sha": "b10ca6e649db",
-"start": 0,
-"end": 18,
-"text": "Johan Peringskiöld",
-"page": "65",
-"chapter": "1",
-"type": "persName",
-"ref": "pers-peringskiöld-johannes",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00224",
-"sha": "b10ca6e649db",
-"start": 0,
-"end": 18,
-"text": "Johan Peringskiöld",
-"page": "65",
-"chapter": "1",
-"type": "persName",
-"ref": "pers-peringskiöld-johannes",
-"cert": "high",
-"how": "form"
-},
-{
 "unit": "u00227",
 "sha": "e6bebaaf444e",
 "start": 29,
@@ -10760,9 +10768,13 @@
 "page": "66",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00230",
@@ -11059,8 +11071,9 @@
 "page": "67",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-brenner-elias",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00245",
@@ -11189,45 +11202,6 @@
 "chapter": "1",
 "type": "placeName",
 "ref": "plac-stockholm",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00265",
-"sha": "b10ca6e649db",
-"start": 0,
-"end": 18,
-"text": "Johan Peringskiöld",
-"page": "67",
-"chapter": "1",
-"type": "persName",
-"ref": "pers-peringskiöld-johannes",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00265",
-"sha": "b10ca6e649db",
-"start": 0,
-"end": 18,
-"text": "Johan Peringskiöld",
-"page": "67",
-"chapter": "1",
-"type": "persName",
-"ref": "pers-peringskiöld-johannes",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00265",
-"sha": "b10ca6e649db",
-"start": 0,
-"end": 18,
-"text": "Johan Peringskiöld",
-"page": "67",
-"chapter": "1",
-"type": "persName",
-"ref": "pers-peringskiöld-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -12433,18 +12407,14 @@
 "unit": "u00468",
 "sha": "ee42fe9923a5",
 "start": 19,
-"end": 22,
-"text": "Joh",
+"end": 32,
+"text": "Joh. Loccenij",
 "page": "82",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-joh-georgius",
-"cert": "low",
-"candidates": [
-"pers-joh-georgius",
-"pers-joh-archivo"
-],
-"how": "guess: chapter majority"
+"ref": "pers-loccenij-joh",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00498",
@@ -12476,12 +12446,12 @@
 "unit": "u00529",
 "sha": "e56cba5c86cf",
 "start": 0,
-"end": 21,
-"text": "Jöran Bergenhielm Joh",
+"end": 33,
+"text": "Jöran Bergenhielm Joh. Schmedeman",
 "page": "82",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-joh-georgius",
+"ref": "pers-schmedeman-georgius",
 "cert": "high",
 "how": "form"
 },
@@ -12822,45 +12792,6 @@
 "chapter": "1",
 "type": "placeName",
 "ref": "plac-stockh",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00534",
-"sha": "b10ca6e649db",
-"start": 0,
-"end": 18,
-"text": "Johan Peringskiöld",
-"page": "86",
-"chapter": "1",
-"type": "persName",
-"ref": "pers-peringskiöld-johannes",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00534",
-"sha": "b10ca6e649db",
-"start": 0,
-"end": 18,
-"text": "Johan Peringskiöld",
-"page": "86",
-"chapter": "1",
-"type": "persName",
-"ref": "pers-peringskiöld-johannes",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00534",
-"sha": "b10ca6e649db",
-"start": 0,
-"end": 18,
-"text": "Johan Peringskiöld",
-"page": "86",
-"chapter": "1",
-"type": "persName",
-"ref": "pers-peringskiöld-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -14379,7 +14310,7 @@
 "page": "100",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-schmedeman",
+"ref": "pers-schmedeman-georgius",
 "cert": "high",
 "how": "form"
 },
@@ -14804,7 +14735,7 @@
 "page": "104",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-schmedeman",
+"ref": "pers-schmedeman-georgius",
 "cert": "high",
 "how": "form"
 },
@@ -15948,9 +15879,13 @@
 "page": "112",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00644",
@@ -15965,6 +15900,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"
@@ -16328,9 +16264,13 @@
 "page": "114",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00647",
@@ -17217,6 +17157,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"
@@ -17679,9 +17620,13 @@
 "page": "120",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00669",
@@ -17784,32 +17729,6 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-basilii-keiser",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00673",
-"sha": "6f1128394b30",
-"start": 0,
-"end": 23,
-"text": "Gustaf Wilhelm Coijet H",
-"page": "121",
-"chapter": "1",
-"type": "persName",
-"ref": "pers-h-gustavus",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00673",
-"sha": "6f1128394b30",
-"start": 28,
-"end": 37,
-"text": "Standaert",
-"page": "121",
-"chapter": "1",
-"type": "persName",
-"ref": "pers-standaert-f",
 "cert": "high",
 "how": "form"
 },
@@ -17979,32 +17898,6 @@
 "chapter": "1",
 "type": "persName",
 "ref": "pers-copier",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00685",
-"sha": "6f1128394b30",
-"start": 0,
-"end": 23,
-"text": "Gustaf Wilhelm Coijet H",
-"page": "121",
-"chapter": "1",
-"type": "persName",
-"ref": "pers-h-gustavus",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00685",
-"sha": "6f1128394b30",
-"start": 28,
-"end": 37,
-"text": "Standaert",
-"page": "121",
-"chapter": "1",
-"type": "persName",
-"ref": "pers-standaert-f",
 "cert": "high",
 "how": "form"
 },
@@ -18464,45 +18357,6 @@
 "chapter": "1",
 "type": "placeName",
 "ref": "plac-stockholm",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00713",
-"sha": "b10ca6e649db",
-"start": 0,
-"end": 18,
-"text": "Johan Peringskiöld",
-"page": "125",
-"chapter": "1",
-"type": "persName",
-"ref": "pers-peringskiöld-johannes",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00713",
-"sha": "b10ca6e649db",
-"start": 0,
-"end": 18,
-"text": "Johan Peringskiöld",
-"page": "125",
-"chapter": "1",
-"type": "persName",
-"ref": "pers-peringskiöld-johannes",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00713",
-"sha": "b10ca6e649db",
-"start": 0,
-"end": 18,
-"text": "Johan Peringskiöld",
-"page": "125",
-"chapter": "1",
-"type": "persName",
-"ref": "pers-peringskiöld-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -21750,6 +21604,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"
@@ -22871,35 +22726,14 @@
 "unit": "u00781",
 "sha": "5cd2fb3ff0f9",
 "start": 238,
-"end": 241,
-"text": "Joh",
-"page": "149",
-"chapter": "1",
-"type": "persName",
-"ref": "pers-joh-georgius",
-"cert": "low",
-"candidates": [
-"pers-joh-georgius",
-"pers-joh-archivo"
-],
-"how": "guess: earlier in chapter"
-},
-{
-"unit": "u00781",
-"sha": "5cd2fb3ff0f9",
-"start": 243,
 "end": 255,
-"text": "Peringskiöld",
+"text": "Joh. Peringskiöld",
 "page": "149",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-peringskiöld-johannes",
-"cert": "low",
-"candidates": [
-"pers-peringskiöld-johannes",
-"pers-peringskiöld-j"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-peringskiöld-joh",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00781",
@@ -22923,13 +22757,9 @@
 "page": "149",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-joh-georgius",
-"cert": "low",
-"candidates": [
-"pers-joh-georgius",
-"pers-joh-archivo"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-joh",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00781",
@@ -29618,9 +29448,13 @@
 "page": null,
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00852",
@@ -29631,9 +29465,13 @@
 "page": null,
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00853",
@@ -30075,9 +29913,13 @@
 "page": "195",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00855",
@@ -30092,6 +29934,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"
@@ -30131,9 +29974,13 @@
 "page": "195",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00855",
@@ -30209,9 +30056,13 @@
 "page": "195",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00855",
@@ -30248,9 +30099,13 @@
 "page": "195",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00855",
@@ -30339,9 +30194,13 @@
 "page": "197",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00858",
@@ -30365,8 +30224,9 @@
 "page": "197",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-brenner-elias",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00858",
@@ -30416,9 +30276,13 @@
 "page": "196",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00860",
@@ -30433,6 +30297,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"
@@ -30446,8 +30311,9 @@
 "page": "197",
 "chapter": "1",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-brenner-elias",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00860",
@@ -30458,9 +30324,13 @@
 "page": "197",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: same paragraph"
 },
 {
 "unit": "u00860",
@@ -30471,9 +30341,13 @@
 "page": "197",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: same paragraph"
 },
 {
 "unit": "u00860",
@@ -30497,9 +30371,13 @@
 "page": "197",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: same paragraph"
 },
 {
 "unit": "u00860",
@@ -30510,9 +30388,13 @@
 "page": "197",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: same paragraph"
 },
 {
 "unit": "u00860",
@@ -30527,6 +30409,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: same paragraph"
@@ -30592,9 +30475,13 @@
 "page": "197",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: same paragraph"
 },
 {
 "unit": "u00860",
@@ -30683,9 +30570,13 @@
 "page": "198",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: same paragraph"
 },
 {
 "unit": "u00860",
@@ -30709,9 +30600,13 @@
 "page": "198",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: same paragraph"
 },
 {
 "unit": "u00860",
@@ -30839,7 +30734,7 @@
 "page": "199",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-schück",
+"ref": "pers-schück-henricus",
 "cert": "high",
 "how": "form"
 },
@@ -30852,9 +30747,13 @@
 "page": "198",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00864",
@@ -30969,9 +30868,13 @@
 "page": "199",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00867",
@@ -31125,9 +31028,13 @@
 "page": "200",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00868",
@@ -31181,6 +31088,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"
@@ -31194,9 +31102,13 @@
 "page": "200",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00872",
@@ -31224,6 +31136,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: chapter majority"
@@ -31301,6 +31214,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: same paragraph"
@@ -31439,6 +31353,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: same paragraph"
@@ -31616,6 +31531,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"
@@ -31684,6 +31600,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"
@@ -32808,7 +32725,7 @@
 "page": null,
 "chapter": "2",
 "type": "persName",
-"ref": "pers-björner-erik",
+"ref": "pers-björner-ericus",
 "cert": "high",
 "how": "form"
 },
@@ -33320,6 +33237,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"
@@ -33508,6 +33426,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"
@@ -34102,6 +34021,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"
@@ -34243,53 +34163,6 @@
 "ref": "pers-keder-nicolas",
 "cert": "high",
 "how": "form"
-},
-{
-"unit": "u00923",
-"sha": "e4ac1e42bc4b",
-"start": 0,
-"end": 13,
-"text": "Nicolas Keder",
-"page": "223",
-"chapter": "2",
-"type": "persName",
-"ref": "pers-keder-nicolas",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00924",
-"sha": "b0d1610ad67d",
-"start": 9,
-"end": 16,
-"text": "Schantz",
-"page": "223",
-"chapter": "2",
-"type": "persName",
-"ref": "pers-schantz-keder",
-"cert": "low",
-"candidates": [
-"pers-schantz-carolus",
-"pers-schantz-keder"
-],
-"how": "guess: earlier in chapter"
-},
-{
-"unit": "u00924",
-"sha": "b0d1610ad67d",
-"start": 9,
-"end": 16,
-"text": "Schantz",
-"page": "223",
-"chapter": "2",
-"type": "persName",
-"ref": "pers-schantz-keder",
-"cert": "low",
-"candidates": [
-"pers-schantz-carolus",
-"pers-schantz-keder"
-],
-"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00924",
@@ -34614,9 +34487,13 @@
 "page": "224",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00928",
@@ -34700,6 +34577,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"
@@ -34734,6 +34612,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"
@@ -34747,9 +34626,13 @@
 "page": "224",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00930",
@@ -35481,7 +35364,7 @@
 "page": null,
 "chapter": "2",
 "type": "persName",
-"ref": "pers-schantz-carl",
+"ref": "pers-schantz-carolus",
 "cert": "high",
 "how": "form"
 },
@@ -35520,13 +35403,13 @@
 "page": null,
 "chapter": "2",
 "type": "persName",
-"ref": "pers-schantz-keder",
+"ref": "pers-schantz-carolus",
 "cert": "low",
 "candidates": [
 "pers-schantz-carolus",
 "pers-schantz-keder"
 ],
-"how": "guess: earlier in chapter"
+"how": "guess: same paragraph"
 },
 {
 "unit": "u00949",
@@ -35762,7 +35645,7 @@
 "page": "232",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-schantz-keder",
+"ref": "pers-schantz-carolus",
 "cert": "low",
 "candidates": [
 "pers-schantz-carolus",
@@ -35796,7 +35679,7 @@
 "page": "233",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-schantz-keder",
+"ref": "pers-schantz-carolus",
 "cert": "low",
 "candidates": [
 "pers-schantz-carolus",
@@ -35943,7 +35826,7 @@
 "page": "233",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-schantz-keder",
+"ref": "pers-schantz-carolus",
 "cert": "low",
 "candidates": [
 "pers-schantz-carolus",
@@ -35973,7 +35856,7 @@
 "page": "233",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-schantz-keder",
+"ref": "pers-schantz-carolus",
 "cert": "low",
 "candidates": [
 "pers-schantz-carolus",
@@ -36011,18 +35894,14 @@
 "unit": "u00966",
 "sha": "41e802396eee",
 "start": 118,
-"end": 121,
-"text": "Joh",
+"end": 127,
+"text": "Joh. Wilh",
 "page": "233",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-joh-archivo",
-"cert": "low",
-"candidates": [
-"pers-joh-georgius",
-"pers-joh-archivo"
-],
-"how": "guess: chapter majority"
+"ref": "pers-wilh-joh",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00967",
@@ -36124,41 +36003,7 @@
 "page": "236",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-schantz-keder",
-"cert": "low",
-"candidates": [
-"pers-schantz-carolus",
-"pers-schantz-keder"
-],
-"how": "guess: earlier in chapter"
-},
-{
-"unit": "u00974",
-"sha": "b0d1610ad67d",
-"start": 9,
-"end": 16,
-"text": "Schantz",
-"page": "236",
-"chapter": "2",
-"type": "persName",
-"ref": "pers-schantz-keder",
-"cert": "low",
-"candidates": [
-"pers-schantz-carolus",
-"pers-schantz-keder"
-],
-"how": "guess: earlier in chapter"
-},
-{
-"unit": "u00974",
-"sha": "b0d1610ad67d",
-"start": 9,
-"end": 16,
-"text": "Schantz",
-"page": "236",
-"chapter": "2",
-"type": "persName",
-"ref": "pers-schantz-keder",
+"ref": "pers-schantz-carolus",
 "cert": "low",
 "candidates": [
 "pers-schantz-carolus",
@@ -36192,7 +36037,7 @@
 "page": "236",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-schantz-keder",
+"ref": "pers-schantz-carolus",
 "cert": "low",
 "candidates": [
 "pers-schantz-carolus",
@@ -36222,7 +36067,7 @@
 "page": "236",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-schantz-keder",
+"ref": "pers-schantz-carolus",
 "cert": "low",
 "candidates": [
 "pers-schantz-carolus",
@@ -36402,9 +36247,13 @@
 "page": "238",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00977",
@@ -36458,6 +36307,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"
@@ -36501,7 +36351,7 @@
 "page": "238",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-schantz-keder",
+"ref": "pers-schantz-carolus",
 "cert": "low",
 "candidates": [
 "pers-schantz-carolus",
@@ -36513,12 +36363,12 @@
 "unit": "u00978",
 "sha": "8ab026ec123a",
 "start": 524,
-"end": 536,
-"text": "Johan Friedr",
+"end": 551,
+"text": "Johan Friedr. Peringskiölds",
 "page": "238",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-friedr-johannes",
+"ref": "pers-peringskiöld-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -36686,6 +36536,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"
@@ -36699,7 +36550,7 @@
 "page": "240",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-schantz-keder",
+"ref": "pers-schantz-carolus",
 "cert": "low",
 "candidates": [
 "pers-schantz-carolus",
@@ -36742,7 +36593,7 @@
 "page": "241",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-schantz-keder",
+"ref": "pers-schantz-carolus",
 "cert": "low",
 "candidates": [
 "pers-schantz-carolus",
@@ -36841,6 +36692,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"
@@ -36880,9 +36732,13 @@
 "page": "242",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "unresolved"
 },
 {
 "unit": "u00986",
@@ -37027,6 +36883,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"
@@ -37044,6 +36901,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"
@@ -37199,26 +37057,13 @@
 "unit": "u00994",
 "sha": "da2a19691f51",
 "start": 15,
-"end": 36,
-"text": "Cancellie Archivo Joh",
-"page": "246",
-"chapter": "2",
-"type": "persName",
-"ref": "pers-joh-archivo",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00994",
-"sha": "da2a19691f51",
-"start": 38,
 "end": 43,
-"text": "Helin",
+"text": "Cancellie Archivo Joh. Helin",
 "page": "246",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-helin-johannes",
-"cert": "medium",
+"ref": "pers-helin-archivo",
+"cert": "high",
 "how": "form"
 },
 {
@@ -37234,6 +37079,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"
@@ -37342,6 +37188,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"
@@ -37476,6 +37323,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"
@@ -37671,13 +37519,14 @@
 "page": "249",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-keder-niclas",
+"ref": "pers-keder-nicolaus",
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
-"how": "guess: earlier in chapter"
+"how": "guess: same paragraph"
 },
 {
 "unit": "u01011",
@@ -37701,13 +37550,14 @@
 "page": "249",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-keder-niclas",
+"ref": "pers-keder-nicolaus",
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
-"how": "guess: earlier in chapter"
+"how": "guess: same paragraph"
 },
 {
 "unit": "u01012",
@@ -37731,10 +37581,11 @@
 "page": "249",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-keder-niclas",
+"ref": "pers-keder-nicolaus",
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"
@@ -37748,8 +37599,8 @@
 "page": "250",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-helins",
-"cert": "high",
+"ref": "pers-helin-johannes",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -38369,6 +38220,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: chapter majority"
@@ -38820,32 +38672,14 @@
 "unit": "u01046",
 "sha": "b03b8d34810e",
 "start": 41,
-"end": 44,
-"text": "And",
-"page": "261",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-and",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01046",
-"sha": "b03b8d34810e",
-"start": 46,
 "end": 53,
-"text": "Celsius",
+"text": "And. Celsius",
 "page": "261",
 "chapter": "3",
 "type": "persName",
 "ref": "pers-celsius-andreas",
-"cert": "low",
-"candidates": [
-"pers-celsius-olaus",
-"pers-celsius-andreas",
-"pers-celsius-magnus"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01048",
@@ -38864,32 +38698,14 @@
 "unit": "u01048",
 "sha": "104ccc7b887a",
 "start": 2106,
-"end": 2109,
-"text": "And",
-"page": "262",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-and",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01048",
-"sha": "104ccc7b887a",
-"start": 2111,
 "end": 2118,
-"text": "Celsius",
+"text": "And. Celsius",
 "page": "262",
 "chapter": "3",
 "type": "persName",
 "ref": "pers-celsius-andreas",
-"cert": "low",
-"candidates": [
-"pers-celsius-olaus",
-"pers-celsius-andreas",
-"pers-celsius-magnus"
-],
-"how": "guess: same paragraph"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01048",
@@ -39416,6 +39232,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: chapter majority"
@@ -39663,6 +39480,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: chapter majority"
@@ -40512,6 +40330,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: chapter majority"
@@ -43690,6 +43509,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: chapter majority"
@@ -44719,6 +44539,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: chapter majority"
@@ -44827,6 +44648,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: chapter majority"
@@ -46044,6 +45866,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: chapter majority"
@@ -46087,6 +45910,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: chapter majority"
@@ -46467,6 +46291,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: chapter majority"
@@ -46519,7 +46344,7 @@
 "page": "316",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-hildebrand-e",
+"ref": "pers-hildebrand-bror",
 "cert": "high",
 "how": "form"
 },
@@ -46658,8 +46483,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u01172",
@@ -46779,8 +46608,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u01182",
@@ -46795,6 +46628,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: chapter majority"
@@ -48964,6 +48798,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: chapter majority"
@@ -50602,8 +50437,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u01243",
@@ -50665,29 +50504,12 @@
 "unit": "u01246",
 "sha": "84a71e560973",
 "start": 0,
-"end": 3,
-"text": "Joh",
-"page": "352",
-"chapter": "3",
-"type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-joh-georgius",
-"pers-joh-archivo"
-],
-"how": "unresolved"
-},
-{
-"unit": "u01246",
-"sha": "84a71e560973",
-"start": 5,
 "end": 17,
-"text": "Helin Secret",
+"text": "Joh. Helin Secret",
 "page": "352",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-secret-helin",
+"ref": "pers-secret-joh",
 "cert": "high",
 "how": "form"
 },
@@ -54554,8 +54376,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u01329",
@@ -54570,6 +54396,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: chapter majority"
@@ -58167,26 +57994,13 @@
 "unit": "u01405",
 "sha": "341f212cb0a2",
 "start": 288,
-"end": 291,
-"text": "Nic",
-"page": "434",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-nic",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01405",
-"sha": "341f212cb0a2",
-"start": 293,
 "end": 300,
-"text": "Wessman",
+"text": "Nic. Wessman",
 "page": "434",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-wessman-nicolaus",
-"cert": "medium",
+"ref": "pers-wessman-nic",
+"cert": "high",
 "how": "form"
 },
 {
@@ -63834,8 +63648,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u01510",
@@ -64081,8 +63899,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u01514",
@@ -64691,12 +64513,12 @@
 "unit": "u01638",
 "sha": "5e8c8dfc8db3",
 "start": 87,
-"end": 93,
-"text": "Christ",
+"end": 103,
+"text": "Christ. Barnekow",
 "page": "491",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-christ",
+"ref": "pers-barnekow-christ",
 "cert": "high",
 "how": "form"
 },
@@ -64769,12 +64591,12 @@
 "unit": "u01638",
 "sha": "5e8c8dfc8db3",
 "start": 850,
-"end": 856,
-"text": "Carl G",
+"end": 868,
+"text": "Carl G. Rebouschis",
 "page": "491",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-g-carolus",
+"ref": "pers-rebouschis-carolus",
 "cert": "high",
 "how": "form"
 },
@@ -64782,25 +64604,12 @@
 "unit": "u01640",
 "sha": "6f4e9c475677",
 "start": 0,
-"end": 6,
-"text": "Christ",
-"page": "491",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-christ",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01640",
-"sha": "6f4e9c475677",
-"start": 8,
 "end": 16,
-"text": "Barnekow",
+"text": "Christ. Barnekow",
 "page": "491",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-barnekow-lands",
+"ref": "pers-barnekow-christ",
 "cert": "high",
 "how": "form"
 },
@@ -64878,8 +64687,8 @@
 "page": "492",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-barnekow-lands",
-"cert": "high",
+"ref": "pers-barnekow-christ",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -64969,8 +64778,8 @@
 "page": "493",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-barnekow-lands",
-"cert": "high",
+"ref": "pers-barnekow-christ",
+"cert": "medium",
 "how": "form"
 },
 {
@@ -65250,25 +65059,8 @@
 "unit": "u01651",
 "sha": "e63aa0bd5d83",
 "start": 1592,
-"end": 1595,
-"text": "Joh",
-"page": "496",
-"chapter": "3",
-"type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-joh-georgius",
-"pers-joh-archivo"
-],
-"how": "unresolved"
-},
-{
-"unit": "u01651",
-"sha": "e63aa0bd5d83",
-"start": 1597,
 "end": 1604,
-"text": "Bergman",
+"text": "Joh. Bergman",
 "page": "496",
 "chapter": "3",
 "type": "persName",
@@ -65364,8 +65156,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u01655",
@@ -65416,8 +65212,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: chapter majority"
 },
 {
 "unit": "u01655",
@@ -65432,6 +65232,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: chapter majority"
@@ -65718,8 +65519,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01660",
@@ -66202,6 +66007,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: chapter majority"
@@ -66345,19 +66151,6 @@
 "how": "form"
 },
 {
-"unit": "u01679",
-"sha": "9562a1b055a7",
-"start": 3,
-"end": 8,
-"text": "Helin",
-"page": "509",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-helin-johannes",
-"cert": "medium",
-"how": "form"
-},
-{
 "unit": "u01680",
 "sha": "7cce1ad35b6e",
 "start": 3,
@@ -66370,6 +66163,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: chapter majority"
@@ -66395,25 +66189,12 @@
 "unit": "u01682",
 "sha": "76b2aa544cc4",
 "start": 35,
-"end": 39,
-"text": "Petr",
-"page": "509",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-petr",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01682",
-"sha": "76b2aa544cc4",
-"start": 41,
 "end": 48,
-"text": "Ekerman",
+"text": "Petr. Ekerman",
 "page": "509",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-ekerman",
+"ref": "pers-ekerman-petr",
 "cert": "high",
 "how": "form"
 },
@@ -67760,6 +67541,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: chapter majority"
@@ -67794,6 +67576,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: chapter majority"
@@ -67890,8 +67673,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01743",
@@ -67916,8 +67703,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01743",
@@ -67985,19 +67776,6 @@
 "how": "form"
 },
 {
-"unit": "u01747",
-"sha": "9562a1b055a7",
-"start": 3,
-"end": 8,
-"text": "Helin",
-"page": "530",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-helin-johannes",
-"cert": "medium",
-"how": "form"
-},
-{
 "unit": "u01748",
 "sha": "e4ac1e42bc4b",
 "start": 0,
@@ -68009,53 +67787,6 @@
 "ref": "pers-keder-nicolas",
 "cert": "high",
 "how": "form"
-},
-{
-"unit": "u01748",
-"sha": "e4ac1e42bc4b",
-"start": 0,
-"end": 13,
-"text": "Nicolas Keder",
-"page": "530",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-keder-nicolas",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01749",
-"sha": "b0d1610ad67d",
-"start": 9,
-"end": 16,
-"text": "Schantz",
-"page": "530",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-schantz-keder",
-"cert": "low",
-"candidates": [
-"pers-schantz-carolus",
-"pers-schantz-keder"
-],
-"how": "guess: earlier in chapter"
-},
-{
-"unit": "u01749",
-"sha": "b0d1610ad67d",
-"start": 9,
-"end": 16,
-"text": "Schantz",
-"page": "530",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-schantz-keder",
-"cert": "low",
-"candidates": [
-"pers-schantz-carolus",
-"pers-schantz-keder"
-],
-"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01749",
@@ -68149,8 +67880,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01750",
@@ -68188,8 +67923,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01751",
@@ -68292,8 +68031,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01752",
@@ -68370,8 +68113,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01753",
@@ -68383,8 +68130,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01753",
@@ -68422,8 +68173,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01753",
@@ -68438,6 +68193,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"
@@ -69525,8 +69281,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01861",
@@ -69850,8 +69610,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01870",
@@ -70315,8 +70079,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01880",
@@ -71280,8 +71048,12 @@
 "chapter": "3",
 "type": "persName",
 "ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01904",
@@ -71335,8 +71107,9 @@
 "page": "568",
 "chapter": "3",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-brenner-elias",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01904",
@@ -71716,25 +71489,12 @@
 "unit": "u01910",
 "sha": "b5bde8b42db6",
 "start": 569,
-"end": 589,
-"text": "von Schantzes Enka M",
-"page": "574",
-"chapter": "3",
-"type": "persName",
-"ref": "pers-m-johannes",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01910",
-"sha": "b5bde8b42db6",
-"start": 591,
 "end": 607,
-"text": "Aurora Brenner K",
+"text": "von Schantzes Enka M. Aurora Brenner K",
 "page": "574",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-k-aurora",
+"ref": "pers-k-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -73518,12 +73278,12 @@
 "unit": "u02011",
 "sha": "e19211dde9c1",
 "start": 7,
-"end": 11,
-"text": "Laur",
+"end": 20,
+"text": "Laur. Böckers",
 "page": "587",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-laur",
+"ref": "pers-böckers-laur",
 "cert": "high",
 "how": "form"
 },
@@ -73818,6 +73578,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"
@@ -73831,9 +73592,13 @@
 "page": "588",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u02024",
@@ -74093,30 +73858,13 @@
 "unit": "u02027",
 "sha": "0a1dde5fcd43",
 "start": 1059,
-"end": 1062,
-"text": "Joh",
-"page": "589",
-"chapter": "3",
-"type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-joh-georgius",
-"pers-joh-archivo"
-],
-"how": "unresolved"
-},
-{
-"unit": "u02027",
-"sha": "0a1dde5fcd43",
-"start": 1064,
 "end": 1069,
-"text": "Helin",
+"text": "Joh. Helin",
 "page": "589",
 "chapter": "3",
 "type": "persName",
 "ref": "pers-helin-johannes",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -74837,9 +74585,13 @@
 "page": "593",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u02038",
@@ -75898,7 +75650,7 @@
 "page": "597",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-björner",
+"ref": "pers-björner-ericus",
 "cert": "high",
 "how": "form"
 },
@@ -75924,7 +75676,7 @@
 "page": "597",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-björner",
+"ref": "pers-björner-ericus",
 "cert": "high",
 "how": "form"
 },
@@ -77408,30 +77160,13 @@
 "unit": "u02080",
 "sha": "84d408b3a515",
 "start": 3162,
-"end": 3165,
-"text": "Joh",
-"page": "606",
-"chapter": "3",
-"type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-joh-georgius",
-"pers-joh-archivo"
-],
-"how": "unresolved"
-},
-{
-"unit": "u02080",
-"sha": "84d408b3a515",
-"start": 3167,
 "end": 3172,
-"text": "Helin",
+"text": "Joh. Helin",
 "page": "606",
 "chapter": "3",
 "type": "persName",
 "ref": "pers-helin-johannes",
-"cert": "medium",
+"cert": "high",
 "how": "form"
 },
 {
@@ -78410,6 +78145,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"
@@ -79705,9 +79441,13 @@
 "page": "619",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u02115",
@@ -79718,9 +79458,13 @@
 "page": "619",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-brenner-henricus",
-"cert": "medium",
-"how": "form"
+"ref": "pers-brenner-elias",
+"cert": "low",
+"candidates": [
+"pers-brenner-elias",
+"pers-brenner-henricus"
+],
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u02115",
@@ -79735,6 +79479,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"
@@ -80066,6 +79811,7 @@
 "cert": "low",
 "candidates": [
 "pers-keder-niclas",
+"pers-keder-nicolaus",
 "pers-keder-nicolas"
 ],
 "how": "guess: earlier in chapter"

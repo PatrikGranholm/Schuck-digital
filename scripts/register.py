@@ -56,7 +56,7 @@ API = "https://www.wikidata.org/w/api.php"
 MANUSCRIPTA = ROOT.parent / "manuscripta" / "id" / "person"
 
 PREFIX = re.compile(r"(?i)^(?:Wij|Wi|Vi|Hertigh?(?:en)?|Drottning(?:en)?|Konung(?:en)?|Kung|Doctor|Doct\.|Dr\.?|D:r|"
-                    r"Mag\.|Magister|M\.|Herr|Her|H:r|Hr\.?|Prof\.?|Professor|Biskop(?:en)?|Ärkebiskop(?:en)?|"
+                    r"Mag\.|Magister|M\.|Herr|Her|H:r|Hr\.?|Prof\.?|Professor(?:n|en)?|Biskop(?:en)?|Ärkebiskop(?:en)?|"
                     r"Mäster|Monsieur|Mons\.|Mr\.?|Fru|[Ss]ahl\.|Sal\.|Kgl\.|Kongl\.|Edel|Wälbördigh?|Welbördigh?|Grefve|Greve|Riks\w+|"
                     # titles of rank and office (vol. VII: "Canzli Rådet Hallenberg", "Amanuensen Sundel",
                     # "Friherre Adlerbeth" made entries of their own beside the name, so a bare surname had
@@ -73,7 +73,7 @@ PREFIX = re.compile(r"(?i)^(?:Wij|Wi|Vi|Hertigh?(?:en)?|Drottning(?:en)?|Konung(
 REJECT = re.compile(r"^(?:Gud[hzs]?|Guds|Gudhs|Herren|Herr|Hans|EDERS|Eders|Edert|Edre|Edra)$|\b(?:May|Maij?|Maij?:t\w*|Majest\w*|Excellen\w*|Saga|Sogur|Codex|Annales|Chronicon|"
                     r"Cantz\w*|Cammar\w*|Cronones|Colleg\w*|Kansli\w*|ALMQVIST|WIKSELL\w*)\b|&")
 FORENAMES = [  # Latin and Swedish forms of one forename; used only to cluster entries of the same surname
-    "Johannes Johan Joan Johannis Johanne Jahan Jöns Hans", "Laurentius Lars Lorentz Laurentio", "Olaus Olof Olavus Olaf Olao Olaum Olai",
+    "Johannes Johan Joan Joannes Johann Johannis Johanne Jahan Jöns Hans", "Laurentius Lars Lorentz Laurentio", "Olaus Olof Olavus Olaf Olao Olaum Olai",
     "Martinus Mårten Martin", "Petrus Per Peder Peter Petro", "Nicolaus Nils Niels Nicolai", "Georgius Georg Jöran Jören Göran Jörgen",
     "Ericus Erik Erich Erici", "Andreas Anders Andreæ", "Benedictus Bengt Bencht", "Magnus Måns", "Jacobus Jakob Jacob Jacobi",
     "Haquinus Håkan Haquin", "Sigismundus Sigismund", "Christianus Christian Christiern Kristian", "Gustavus Gustav Gustaf",
@@ -116,7 +116,10 @@ def normal_form(text, vocab):
     prev = None
     while prev != s:
         prev, s = s, PREFIX.sub("", s)
-    words = [fold_word(w, vocab) for w in s.split()]
+    # a name printed in capitals (title page, plate caption: "JOHAN GUSTAF LILJEGREN") in ordinary case,
+    # so it clusters with the same name in the text; roman numerals stay
+    words = [w.title() if len(w) > 1 and w.isupper() and not re.fullmatch(r"[IVXLC]+", w) else w for w in s.split()]
+    words = [fold_word(w, vocab) for w in words]
     return " ".join(words)
 
 
@@ -303,10 +306,12 @@ def year_counts(ner, unit_ids):
 
 
 def best_name(slices):
-    """The entry's name: its most frequent normalised form over all volumes (slice "names"), then the
-    longest, then alphabetical, so that it does not depend on run order."""
+    """The entry's name: a form with the forenames written out ("Johannes Schefferus", not "Joh. Schefferus"),
+    the most frequent over all volumes (slice "names"), then the longest, then alphabetical, so that it
+    does not depend on run order."""
     c = sum((Counter(x) for x in slices), Counter())
-    return max(c.items(), key=lambda kv: (kv[1], len(kv[0]), kv[0]))[0] if c else None
+    full = lambda n: not any(ABBREV.fullmatch(w) for w in n.split()[:-1])
+    return max(c.items(), key=lambda kv: (full(kv[0]), kv[1], len(kv[0]), kv[0]))[0] if c else None
 
 
 def median_year(slices):
@@ -316,7 +321,7 @@ def median_year(slices):
     return int(statistics.median(ys)) if ys else None
 
 
-ABBREV = re.compile(r"[A-ZÅÄÖ](?:[a-zåäö]{0,3}\.|\.?)")   # "J.", "J", "Joh.", "Chr."
+ABBREV = re.compile(r"[A-ZÅÄÖ](?:[a-zåäö]{0,5}[.:]|\.?)")   # "J.", "J", "Joh.", "Chr.", "Claud.", "Reinh:"
 
 
 def merge_initials(clusters):
@@ -324,7 +329,8 @@ def merge_initials(clusters):
     Vol. VIII had Liljegren as "J. G. Liljegren", "Joh. G. Liljegren" and "Johan Gustaf Liljegren",
     three clusters, so a bare "Liljegren" had several candidates. The key is the initials of the
     forenames ("JG" for all three), taken from a cluster's most complete form ("J. G.", not "J.").
-    An abbreviated cluster joins the one full cluster whose initials start with its own; with no full
+    An abbreviated cluster joins the one full cluster whose initials start with its own, or failing that
+    contain them in order ("G." in "JG": a man cited by his second forename); with no full
     cluster, abbreviated clusters of one key merge together; with two candidates (two people who share
     initials: "J. Adlerbeth" = Jacob or Johan) nothing is merged.
     Returns {target key: normal forms merged into it}: build_persons does not count them when it
@@ -349,6 +355,8 @@ def merge_initials(clusters):
                 continue
             sig = info_of[k][0]
             cands = [f for f in full if info_of[f][0].startswith(sig)]
+            if not cands:   # cited by a later forename: "G. Liljegren" for Johan Gustaf, "J. Ekdahl" for Nils Johan
+                cands = [f for f in full if re.search(".*".join(map(re.escape, sig)), info_of[f][0])]
             if not cands:   # no full form: merge into another abbreviated cluster with the same initials
                 cands = [a for a in ks if a != k and a in clusters and info_of[a][1] and info_of[a][0] == sig]
                 cands = cands[:1] if cands else []

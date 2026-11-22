@@ -13,8 +13,15 @@
    "pers-westenhielm-carolus"
   ]
  },
+ "Brenner": {
+  "mentions": 64,
+  "candidates": [
+   "pers-brenner-elias",
+   "pers-brenner-henricus"
+  ]
+ },
  "Peringskiöld": {
-  "mentions": 409,
+  "mentions": 407,
   "candidates": [
    "pers-peringskiöld-johannes",
    "pers-peringskiöld-j"
@@ -28,7 +35,7 @@
   ]
  },
  "Schantz": {
-  "mentions": 22,
+  "mentions": 16,
   "candidates": [
    "pers-schantz-carolus",
    "pers-schantz-keder"
@@ -45,6 +52,7 @@
   "mentions": 55,
   "candidates": [
    "pers-keder-niclas",
+   "pers-keder-nicolaus",
    "pers-keder-nicolas"
   ]
  },
@@ -89,13 +97,6 @@
   "candidates": [
    "pers-gardie-magnus",
    "pers-gardie-axel"
-  ]
- },
- "Joh": {
-  "mentions": 8,
-  "candidates": [
-   "pers-joh-georgius",
-   "pers-joh-archivo"
   ]
  },
  "De la Gardie Edda": {
@@ -144,7 +145,7 @@
   ]
  },
  "Celsius": {
-  "mentions": 81,
+  "mentions": 79,
   "candidates": [
    "pers-celsius-olaus",
    "pers-celsius-andreas",
@@ -178,6 +179,13 @@
   "candidates": [
    "pers-hertzberg-jonas",
    "pers-hertzberg-ländsman"
+  ]
+ },
+ "von Brenner": {
+  "mentions": 1,
+  "candidates": [
+   "pers-brenner-elias",
+   "pers-brenner-henricus"
   ]
  },
  "Törnhielm": {

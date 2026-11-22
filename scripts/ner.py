@@ -140,7 +140,7 @@ def chunks(text, size=1000):
 
 def run_model(units, cache_path, batch_size=32):
     cache = json.loads(cache_path.read_text()) if cache_path.exists() else {}
-    todo = [u for u in units if u["sha"] not in cache]
+    todo = list({u["sha"]: u for u in units if u["sha"] not in cache}.values())   # identical texts run once
     if todo:
         import torch
         from transformers import pipeline
@@ -168,7 +168,11 @@ def mentions(units, cache):
     out, dropped = [], Counter()
     for u in units:
         t = u["text"]
+        seen = set()
         for label, a, b, score in cache.get(u["sha"], []):
+            if (label, a, b) in seen:     # caches written before run_model ran identical texts once
+                continue
+            seen.add((label, a, b))
             if label not in ("PER", "LOC", "ORG"):
                 continue
             # extend to whole words and trim punctuation the model sometimes includes
@@ -201,6 +205,73 @@ def mentions(units, cache):
                         "score": score, "page": page, "chapter": u["chapter"],
                         "in_quote": inside(a, b, u["quotes"])})
     return out, dropped
+
+
+# a person mention the model ended at an abbreviated forename's full stop ("Carl Reinh." | "Berch")
+TITLES = {"K", "Kon", "Hert", "Hr", "Herr", "Dr", "Doct", "Prof", "Mag", "Magr", "Magist", "Kongl", "Kgl", "Excell", "Excel",
+          "Exc", "Coll", "Sahl", "Grefl", "Gr", "Gref", "Grefv", "Frih", "Bar", "Sr", "Mons", "Mr", "Fru", "Fr", "Jungfr",
+          "Biskop", "Ass", "Secr", "Secret", "Kansl", "Cantz", "Cantzl", "Canc", "Presid", "Landsh", "Bibl", "Transl",
+          "Reg", "Riks", "Pr", "Ep", "Tom", "Ups", "Holm", "Borg", "Sal", "St", "S"}
+STOP = {"Den", "Det", "De", "Han", "Hon", "Hans", "Men", "Då", "Till", "Om", "I", "Av", "Af", "Efter", "Ej", "Nu",
+        "Detta", "Denna", "Dessa", "Även", "Sedan", "Under", "Med", "På", "Vid", "Se", "Jfr", "Cfr", "Enligt"}
+NEXT_WORD = re.compile(r"[.:]\s?([A-ZÅÄÖ][\w’'-]+)")    # "Reinh. Berch", "Reinh: Berch"
+
+
+def join_abbreviated(units, ms):
+    """Run a person mention on past an abbreviated forename to the surname after it: "Carl Reinh." +
+    "Berch" -> "Carl Reinh. Berch", "J. G" + "Sparfwenfeldt" -> "J. G. Sparfwenfeldt". The last word
+    must be an abbreviation, not a title ("Hr.", "Mag.", "K." = Konung) and not a full name at a sentence's
+    end ("Rudbeck. Resultatet", "Carl Bonde. Conradt Falkenberg"): printed with a stop nearly always in
+    the volume, and a proper prefix of a forename (two
+    letters if the model tagged the next word as a person, else three), or an initial after another part
+    of the name ("J. G"; alone it is often a title: "P. Verelius" = Professor, "M." = Magister). A mention the joined one now covers is dropped. Returns the number joined."""
+    from register import FORENAME
+    inner = Counter(w for m in ms if m["label"] == "PER" for w in m["text"].split()[:-1]
+                    if len(w) > 3 and w[0].isupper() and w[1:].islower())
+    fore = set(FORENAME) | {w for w, n in inner.items() if n >= 2}
+    text = {u["id"]: u["text"] for u in units}
+    corpus = "\n".join(text.values())
+    abbr_cache = {}
+
+    def abbreviation(w):
+        """Printed with a full stop or colon at least 4 times in 5 in this volume ("Joh.", "Reinh:"),
+        unlike a surname or forename that ends a sentence now and then ("Dalin.", "Carl.")."""
+        if w not in abbr_cache:
+            alln = len(re.findall(rf"(?<![\w]){re.escape(w)}(?![\w])", corpus))
+            stop = len(re.findall(rf"(?<![\w]){re.escape(w)}[.:]", corpus))
+            abbr_cache[w] = alln > 0 and stop >= 0.8 * alln
+        return abbr_cache[w]
+    by_unit = defaultdict(list)
+    for m in ms:
+        by_unit[m["unit"]].append(m)
+    joined, gone = 0, set()
+    for uid, mm in by_unit.items():
+        t = text[uid]
+        for m in mm:
+            if m["label"] != "PER" or id(m) in gone:
+                continue
+            nx = NEXT_WORD.match(t, m["end"])
+            words = m["text"].split()
+            last = words[-1].rstrip(".")
+            if not nx or nx.group(1) in STOP or re.fullmatch(r"[IVXL]+", nx.group(1)) or last in TITLES \
+                    or not last.isalpha() or len(last) > 6 \
+                    or not abbreviation(last):
+                continue
+            tagged = next((o for o in mm if o is not m and o["label"] == "PER" and o["start"] == nx.start(1)), None)
+            prefix = len(last) >= (2 if tagged else 3) and any(f.startswith(last) and f != last for f in fore)
+            initial = len(last) == 1 and last.isupper() and len(words) > 1   # alone, often a title: "P. Verelius" = Professor
+            if not (prefix or initial):
+                continue
+            end = tagged["end"] if tagged else nx.end(1)
+            while t[end - 1] in "’'-":       # a genitive apostrophe or a hyphen is not part of the name
+                end -= 1
+            m["text"], m["end"] = t[m["start"]:end], end
+            for o in mm:
+                if o is not m and m["start"] <= o["start"] and o["end"] <= m["end"]:
+                    gone.add(id(o))
+            joined += 1
+    ms[:] = [m for m in ms if id(m) not in gone]
+    return joined
 
 
 # ---------------------------------------------------------------- report
@@ -254,6 +325,8 @@ def main():
     d.mkdir(parents=True, exist_ok=True)
     cache = run_model(units, d / f"{a.vol}-raw.json")
     ms, dropped = mentions(units, cache)
+    joined = join_abbreviated(units, ms)
+    print(f"{a.vol}: {joined} person mentions run on past an abbreviated forename", file=sys.stderr)
     (d / f"{a.vol}.json").write_text(json.dumps(
         {"vol": a.vol, "model": MODEL, "min_score": MIN_SCORE,
          "units": [{k: u[k] for k in ("id", "kind", "page", "facs", "chapter", "sha", "text", "quotes")} for u in units],

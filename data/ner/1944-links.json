@@ -60,20 +60,7 @@
 "page": null,
 "chapter": null,
 "type": "persName",
-"ref": "pers-schück-henrik",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00002",
-"sha": "a030d43880e9",
-"start": 0,
-"end": 13,
-"text": "HENRIK SCHÜCK",
-"page": null,
-"chapter": null,
-"type": "persName",
-"ref": "pers-schück-henrik",
+"ref": "pers-schück-henricus",
 "cert": "high",
 "how": "form"
 },
@@ -99,20 +86,7 @@
 "page": null,
 "chapter": null,
 "type": "persName",
-"ref": "pers-schück-henrik",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00018",
-"sha": "a030d43880e9",
-"start": 0,
-"end": 13,
-"text": "HENRIK SCHÜCK",
-"page": null,
-"chapter": null,
-"type": "persName",
-"ref": "pers-schück-henrik",
+"ref": "pers-schück-henricus",
 "cert": "high",
 "how": "form"
 },
@@ -138,7 +112,7 @@
 "page": null,
 "chapter": null,
 "type": "persName",
-"ref": "pers-liljegren-johan",
+"ref": "pers-liljegren-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -533,7 +507,7 @@
 "page": "5",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -1783,7 +1757,7 @@
 "page": "11",
 "chapter": "1",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -3014,7 +2988,7 @@
 "page": null,
 "chapter": "2",
 "type": "persName",
-"ref": "pers-berzelius-jöns",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -3040,8 +3014,9 @@
 "page": null,
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-beskow-bernhard",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00070",
@@ -3052,7 +3027,7 @@
 "page": null,
 "chapter": "2",
 "type": "persName",
-"ref": "pers-järta-hans",
+"ref": "pers-järta-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -3091,7 +3066,7 @@
 "page": "17",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -3104,7 +3079,7 @@
 "page": "17",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -3130,7 +3105,7 @@
 "page": "17",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -3416,7 +3391,7 @@
 "page": "17",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -3590,7 +3565,7 @@
 "page": "17",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -3655,13 +3630,9 @@
 "page": "17",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-franzén-professoren",
-"cert": "low",
-"candidates": [
-"pers-franzén-professoren",
-"pers-franzén-brinkman"
-],
-"how": "guess: chapter majority"
+"ref": "pers-franzén-brinkman",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00075",
@@ -3672,13 +3643,9 @@
 "page": "18",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-franzén-professoren",
-"cert": "low",
-"candidates": [
-"pers-franzén-professoren",
-"pers-franzén-brinkman"
-],
-"how": "guess: chapter majority"
+"ref": "pers-franzén-brinkman",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00075",
@@ -3875,7 +3842,7 @@
 "page": "19",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -3901,7 +3868,7 @@
 "page": "19",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -3927,7 +3894,7 @@
 "page": "19",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -4332,7 +4299,7 @@
 "page": "22",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -4384,7 +4351,7 @@
 "page": "22",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -4691,13 +4658,9 @@
 "page": "22",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-franzén-professoren",
-"cert": "low",
-"candidates": [
-"pers-franzén-professoren",
-"pers-franzén-brinkman"
-],
-"how": "guess: chapter majority"
+"ref": "pers-franzén-brinkman",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00088",
@@ -5349,7 +5312,7 @@
 "page": "24",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-franzén-professoren",
+"ref": "pers-franzén-brinkman",
 "cert": "high",
 "how": "form"
 },
@@ -5401,13 +5364,9 @@
 "page": "25",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-franzén-professoren",
-"cert": "low",
-"candidates": [
-"pers-franzén-professoren",
-"pers-franzén-brinkman"
-],
-"how": "guess: earlier in chapter"
+"ref": "pers-franzén-brinkman",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00097",
@@ -5821,7 +5780,7 @@
 "page": "27",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-strinnholm",
+"ref": "pers-strinnholm-andreas",
 "cert": "high",
 "how": "form"
 },
@@ -5881,21 +5840,8 @@
 "unit": "u00102",
 "sha": "1a41ffdfbba2",
 "start": 915,
-"end": 918,
-"text": "And",
-"page": "27",
-"chapter": "2",
-"type": "persName",
-"ref": "pers-and",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00102",
-"sha": "1a41ffdfbba2",
-"start": 920,
 "end": 927,
-"text": "Fryxell",
+"text": "And. Fryxell",
 "page": "27",
 "chapter": "2",
 "type": "persName",
@@ -6042,7 +5988,7 @@
 "page": "28",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-strinnholm",
+"ref": "pers-strinnholm-andreas",
 "cert": "high",
 "how": "form"
 },
@@ -6146,7 +6092,7 @@
 "page": "28",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -6198,7 +6144,7 @@
 "page": "28",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -6332,7 +6278,7 @@
 "page": "29",
 "chapter": "2",
 "type": "persName",
-"ref": "pers-strinnholm",
+"ref": "pers-strinnholm-andreas",
 "cert": "high",
 "how": "form"
 },
@@ -6358,8 +6304,9 @@
 "page": "29",
 "chapter": "2",
 "type": "persName",
-"ref": null,
-"cert": null
+"ref": "pers-rääf-leonard",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00106",
@@ -7777,7 +7724,7 @@
 "page": "36",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-strinnholm",
+"ref": "pers-strinnholm-andreas",
 "cert": "high",
 "how": "form"
 },
@@ -11458,7 +11405,7 @@
 "page": "56",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-joh-magr",
+"ref": "pers-joh",
 "cert": "high",
 "how": "form"
 },
@@ -11784,7 +11731,7 @@
 "page": "58",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -11797,7 +11744,7 @@
 "page": "58",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -11927,7 +11874,7 @@
 "page": "59",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -12642,7 +12589,7 @@
 "page": "63",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -12694,7 +12641,7 @@
 "page": "63",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -12707,7 +12654,7 @@
 "page": "63",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -12733,7 +12680,7 @@
 "page": "63",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -12746,7 +12693,7 @@
 "page": "63",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -12785,7 +12732,7 @@
 "page": "64",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -12798,7 +12745,7 @@
 "page": "63",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -12850,7 +12797,7 @@
 "page": "64",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -12889,7 +12836,7 @@
 "page": "64",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -12928,7 +12875,7 @@
 "page": "64",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -12967,7 +12914,7 @@
 "page": "64",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -12980,7 +12927,7 @@
 "page": "64",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -13032,7 +12979,7 @@
 "page": "65",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -13123,7 +13070,7 @@
 "page": "65",
 "chapter": "3",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -15742,7 +15689,7 @@
 "page": "84",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -15902,7 +15849,7 @@
 "page": "85",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -16785,12 +16732,12 @@
 "unit": "u00419",
 "sha": "e6f209cde005",
 "start": 0,
-"end": 8,
-"text": "Magr Joh",
+"end": 14,
+"text": "Magr Joh. Henr",
 "page": "92",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-joh-magr",
+"ref": "pers-henr-magr",
 "cert": "high",
 "how": "form"
 },
@@ -17093,7 +17040,7 @@
 "page": "94",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -17588,31 +17535,14 @@
 "unit": "u00473",
 "sha": "8db1e8e1e8ef",
 "start": 84,
-"end": 88,
-"text": "S. E",
+"end": 98,
+"text": "S. E. Jennings",
 "page": "97",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-e-s",
+"ref": "pers-jennings-s",
 "cert": "high",
 "how": "form"
-},
-{
-"unit": "u00473",
-"sha": "8db1e8e1e8ef",
-"start": 90,
-"end": 98,
-"text": "Jennings",
-"page": "97",
-"chapter": "4",
-"type": "persName",
-"ref": "pers-jennings-john",
-"cert": "low",
-"candidates": [
-"pers-jennings-john",
-"pers-jennings-sophia"
-],
-"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00473",
@@ -18409,7 +18339,7 @@
 "page": "107",
 "chapter": "4",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -18662,12 +18592,8 @@
 "chapter": "4",
 "type": "persName",
 "ref": "pers-franzén-brinkman",
-"cert": "low",
-"candidates": [
-"pers-franzén-professoren",
-"pers-franzén-brinkman"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00502",
@@ -18771,12 +18697,12 @@
 "unit": "u00508",
 "sha": "ca7b91e9e6f0",
 "start": 447,
-"end": 456,
-"text": "Herr Alex",
+"end": 463,
+"text": "Herr Alex. Seton",
 "page": "110",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-alex",
+"ref": "pers-seton-alexander",
 "cert": "high",
 "how": "form"
 },
@@ -20019,12 +19945,12 @@
 "unit": "u00518",
 "sha": "347541c3cf20",
 "start": 172,
-"end": 181,
-"text": "Herr Alex",
+"end": 188,
+"text": "Herr Alex. Seton",
 "page": "117",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-alex",
+"ref": "pers-seton-alexander",
 "cert": "high",
 "how": "form"
 },
@@ -20065,34 +19991,14 @@
 "unit": "u00518",
 "sha": "347541c3cf20",
 "start": 348,
-"end": 357,
-"text": "Herr Alex",
-"page": "117",
-"chapter": "5",
-"type": "persName",
-"ref": "pers-alex",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00518",
-"sha": "347541c3cf20",
-"start": 359,
 "end": 364,
-"text": "Seton",
+"text": "Herr Alex. Seton",
 "page": "117",
 "chapter": "5",
 "type": "persName",
 "ref": "pers-seton-alexander",
-"cert": "low",
-"candidates": [
-"pers-seton-alexander",
-"pers-seton-georgius",
-"pers-seton-patrik",
-"pers-seton-broder",
-"pers-seton-patric"
-],
-"how": "guess: same paragraph"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00518",
@@ -20111,34 +20017,14 @@
 "unit": "u00518",
 "sha": "347541c3cf20",
 "start": 500,
-"end": 509,
-"text": "Herr Alex",
-"page": "117",
-"chapter": "5",
-"type": "persName",
-"ref": "pers-alex",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00518",
-"sha": "347541c3cf20",
-"start": 511,
 "end": 516,
-"text": "Seton",
+"text": "Herr Alex. Seton",
 "page": "117",
 "chapter": "5",
 "type": "persName",
 "ref": "pers-seton-alexander",
-"cert": "low",
-"candidates": [
-"pers-seton-alexander",
-"pers-seton-georgius",
-"pers-seton-patrik",
-"pers-seton-broder",
-"pers-seton-patric"
-],
-"how": "guess: same paragraph"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00518",
@@ -20164,12 +20050,12 @@
 "unit": "u00518",
 "sha": "347541c3cf20",
 "start": 1346,
-"end": 1355,
-"text": "Herr Alex",
+"end": 1362,
+"text": "Herr Alex. Seton",
 "page": "117",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-alex",
+"ref": "pers-seton-alexander",
 "cert": "high",
 "how": "form"
 },
@@ -20195,7 +20081,7 @@
 "page": "117",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -20863,34 +20749,14 @@
 "unit": "u00528",
 "sha": "a321444678b7",
 "start": 112,
-"end": 116,
-"text": "Alex",
-"page": "120",
-"chapter": "5",
-"type": "persName",
-"ref": "pers-alex",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00528",
-"sha": "a321444678b7",
-"start": 118,
 "end": 123,
-"text": "Seton",
+"text": "Alex. Seton",
 "page": "120",
 "chapter": "5",
 "type": "persName",
 "ref": "pers-seton-alexander",
-"cert": "low",
-"candidates": [
-"pers-seton-alexander",
-"pers-seton-georgius",
-"pers-seton-patrik",
-"pers-seton-broder",
-"pers-seton-patric"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00529",
@@ -21105,34 +20971,14 @@
 "unit": "u00531",
 "sha": "24eef3e9f2f6",
 "start": 527,
-"end": 536,
-"text": "Herr Alex",
-"page": "121",
-"chapter": "5",
-"type": "persName",
-"ref": "pers-alex",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00531",
-"sha": "24eef3e9f2f6",
-"start": 538,
 "end": 543,
-"text": "Seton",
+"text": "Herr Alex. Seton",
 "page": "121",
 "chapter": "5",
 "type": "persName",
 "ref": "pers-seton-alexander",
-"cert": "low",
-"candidates": [
-"pers-seton-alexander",
-"pers-seton-georgius",
-"pers-seton-patrik",
-"pers-seton-broder",
-"pers-seton-patric"
-],
-"how": "guess: same paragraph"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00531",
@@ -21473,34 +21319,14 @@
 "unit": "u00532",
 "sha": "4405b82601c9",
 "start": 550,
-"end": 557,
-"text": "Hr Alex",
-"page": "122",
-"chapter": "5",
-"type": "persName",
-"ref": "pers-alex",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00532",
-"sha": "4405b82601c9",
-"start": 559,
 "end": 564,
-"text": "Seton",
+"text": "Hr Alex. Seton",
 "page": "122",
 "chapter": "5",
 "type": "persName",
 "ref": "pers-seton-alexander",
-"cert": "low",
-"candidates": [
-"pers-seton-alexander",
-"pers-seton-georgius",
-"pers-seton-patrik",
-"pers-seton-broder",
-"pers-seton-patric"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00532",
@@ -21559,7 +21385,7 @@
 "pers-seton-broder",
 "pers-seton-patric"
 ],
-"how": "guess: earlier in chapter"
+"how": "guess: same paragraph"
 },
 {
 "unit": "u00532",
@@ -21591,67 +21417,27 @@
 "unit": "u00532",
 "sha": "4405b82601c9",
 "start": 1382,
-"end": 1386,
-"text": "Alex",
-"page": "122",
-"chapter": "5",
-"type": "persName",
-"ref": "pers-alex",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00532",
-"sha": "4405b82601c9",
-"start": 1388,
 "end": 1393,
-"text": "Seton",
+"text": "Alex. Seton",
 "page": "122",
 "chapter": "5",
 "type": "persName",
 "ref": "pers-seton-alexander",
-"cert": "low",
-"candidates": [
-"pers-seton-alexander",
-"pers-seton-georgius",
-"pers-seton-patrik",
-"pers-seton-broder",
-"pers-seton-patric"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00532",
 "sha": "4405b82601c9",
 "start": 2277,
-"end": 2284,
-"text": "Hr Alex",
-"page": "123",
-"chapter": "5",
-"type": "persName",
-"ref": "pers-alex",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00532",
-"sha": "4405b82601c9",
-"start": 2286,
 "end": 2292,
-"text": "Setons",
+"text": "Hr Alex. Setons",
 "page": "123",
 "chapter": "5",
 "type": "persName",
 "ref": "pers-seton-alexander",
-"cert": "low",
-"candidates": [
-"pers-seton-alexander",
-"pers-seton-georgius",
-"pers-seton-patrik",
-"pers-seton-broder",
-"pers-seton-patric"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00532",
@@ -21671,7 +21457,7 @@
 "pers-seton-broder",
 "pers-seton-patric"
 ],
-"how": "guess: earlier in chapter"
+"how": "guess: same paragraph"
 },
 {
 "unit": "u00533",
@@ -21769,34 +21555,14 @@
 "unit": "u00533",
 "sha": "cf0201e17ead",
 "start": 617,
-"end": 624,
-"text": "Hr Alex",
-"page": "123",
-"chapter": "5",
-"type": "persName",
-"ref": "pers-alex",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00533",
-"sha": "cf0201e17ead",
-"start": 626,
 "end": 631,
-"text": "Seton",
+"text": "Hr Alex. Seton",
 "page": "123",
 "chapter": "5",
 "type": "persName",
 "ref": "pers-seton-alexander",
-"cert": "low",
-"candidates": [
-"pers-seton-alexander",
-"pers-seton-georgius",
-"pers-seton-patrik",
-"pers-seton-broder",
-"pers-seton-patric"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00533",
@@ -21842,7 +21608,7 @@
 "pers-seton-broder",
 "pers-seton-patric"
 ],
-"how": "guess: earlier in chapter"
+"how": "guess: same paragraph"
 },
 {
 "unit": "u00533",
@@ -21862,7 +21628,7 @@
 "pers-seton-broder",
 "pers-seton-patric"
 ],
-"how": "guess: earlier in chapter"
+"how": "guess: same paragraph"
 },
 {
 "unit": "u00533",
@@ -21895,7 +21661,7 @@
 "pers-seton-broder",
 "pers-seton-patric"
 ],
-"how": "guess: earlier in chapter"
+"how": "guess: same paragraph"
 },
 {
 "unit": "u00533",
@@ -24231,7 +23997,7 @@
 "page": "134",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -24343,34 +24109,14 @@
 "unit": "u00575",
 "sha": "d053637b057e",
 "start": 3512,
-"end": 3519,
-"text": "hr Alex",
-"page": "135",
-"chapter": "5",
-"type": "persName",
-"ref": "pers-alex",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00575",
-"sha": "d053637b057e",
-"start": 3521,
 "end": 3526,
-"text": "Seton",
+"text": "hr Alex. Seton",
 "page": "135",
 "chapter": "5",
 "type": "persName",
 "ref": "pers-seton-alexander",
-"cert": "low",
-"candidates": [
-"pers-seton-alexander",
-"pers-seton-georgius",
-"pers-seton-patrik",
-"pers-seton-broder",
-"pers-seton-patric"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00576",
@@ -24467,34 +24213,14 @@
 "unit": "u00577",
 "sha": "d87845d33167",
 "start": 205,
-"end": 212,
-"text": "Hr Alex",
-"page": "136",
-"chapter": "5",
-"type": "persName",
-"ref": "pers-alex",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00577",
-"sha": "d87845d33167",
-"start": 214,
 "end": 219,
-"text": "Seton",
+"text": "Hr Alex. Seton",
 "page": "136",
 "chapter": "5",
 "type": "persName",
 "ref": "pers-seton-alexander",
-"cert": "low",
-"candidates": [
-"pers-seton-alexander",
-"pers-seton-georgius",
-"pers-seton-patrik",
-"pers-seton-broder",
-"pers-seton-patric"
-],
-"how": "guess: earlier in chapter"
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u00578",
@@ -24572,12 +24298,12 @@
 "unit": "u00578",
 "sha": "21835aec2a20",
 "start": 477,
-"end": 481,
-"text": "Alex",
+"end": 488,
+"text": "Alex. Seton",
 "page": "136",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-alex",
+"ref": "pers-seton-alexander",
 "cert": "high",
 "how": "form"
 },
@@ -27414,34 +27140,14 @@
 "unit": "u00640",
 "sha": "d6ef2c99cbf1",
 "start": 0,
-"end": 4,
-"text": "Alex",
+"end": 11,
+"text": "Alex. Seton",
 "page": "155",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-alex",
+"ref": "pers-seton-alexander",
 "cert": "high",
 "how": "form"
-},
-{
-"unit": "u00640",
-"sha": "d6ef2c99cbf1",
-"start": 6,
-"end": 11,
-"text": "Seton",
-"page": "155",
-"chapter": "5",
-"type": "persName",
-"ref": "pers-seton-patrik",
-"cert": "low",
-"candidates": [
-"pers-seton-alexander",
-"pers-seton-georgius",
-"pers-seton-patrik",
-"pers-seton-broder",
-"pers-seton-patric"
-],
-"how": "guess: earlier in chapter"
 },
 {
 "unit": "u00641",
@@ -27653,45 +27359,12 @@
 "unit": "u00645",
 "sha": "cc727b9d09de",
 "start": 0,
-"end": 4,
-"text": "Alex",
-"page": "156",
-"chapter": "5",
-"type": "persName",
-"ref": "pers-alex",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00645",
-"sha": "cc727b9d09de",
-"start": 6,
 "end": 11,
-"text": "Seton",
+"text": "Alex. Seton",
 "page": "156",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-seton-patrik",
-"cert": "low",
-"candidates": [
-"pers-seton-alexander",
-"pers-seton-georgius",
-"pers-seton-patrik",
-"pers-seton-broder",
-"pers-seton-patric"
-],
-"how": "guess: earlier in chapter"
-},
-{
-"unit": "u00646",
-"sha": "7dddc91ad161",
-"start": 0,
-"end": 11,
-"text": "Clas Livijn",
-"page": "156",
-"chapter": "5",
-"type": "persName",
-"ref": "pers-livijn-clas",
+"ref": "pers-seton-alexander",
 "cert": "high",
 "how": "form"
 },
@@ -27973,19 +27646,6 @@
 "chapter": "5",
 "type": "persName",
 "ref": "pers-adlerbeth-jacobus",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u00661",
-"sha": "7dddc91ad161",
-"start": 0,
-"end": 11,
-"text": "Clas Livijn",
-"page": "157",
-"chapter": "5",
-"type": "persName",
-"ref": "pers-livijn-clas",
 "cert": "high",
 "how": "form"
 },
@@ -28639,7 +28299,7 @@
 "page": "160",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -28721,7 +28381,7 @@
 "page": "161",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -29252,7 +28912,7 @@
 "page": "166",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -29327,7 +28987,7 @@
 "page": "167",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -29916,7 +29576,7 @@
 "page": "174",
 "chapter": "5",
 "type": "persName",
-"ref": "pers-joh-magr",
+"ref": "pers-joh",
 "cert": "high",
 "how": "form"
 },
@@ -31359,7 +31019,7 @@
 "page": "185",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -32022,7 +31682,7 @@
 "page": "187",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -32061,7 +31721,7 @@
 "page": "188",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -32131,7 +31791,7 @@
 "page": "188",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -36711,7 +36371,7 @@
 "page": null,
 "chapter": "6",
 "type": "persName",
-"ref": "pers-strinnholm-anders",
+"ref": "pers-strinnholm-andreas",
 "cert": "high",
 "how": "form"
 },
@@ -36724,7 +36384,7 @@
 "page": null,
 "chapter": "6",
 "type": "persName",
-"ref": "pers-fryxell-anders",
+"ref": "pers-fryxell-andreas",
 "cert": "high",
 "how": "form"
 },
@@ -36763,7 +36423,7 @@
 "page": null,
 "chapter": "6",
 "type": "persName",
-"ref": "pers-ekdahl-nils",
+"ref": "pers-ekdahl-nicolaus",
 "cert": "high",
 "how": "form"
 },
@@ -37677,7 +37337,7 @@
 "page": "214",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -45681,7 +45341,7 @@
 "page": "263",
 "chapter": "6",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -47287,7 +46947,7 @@
 "page": "273",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -47423,9 +47083,13 @@
 "page": "275",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-kongl-johannes",
-"cert": "high",
-"how": "form"
+"ref": null,
+"cert": null,
+"candidates": [
+"pers-kongl-eders",
+"pers-kongl-johannes"
+],
+"how": "unresolved"
 },
 {
 "unit": "u01033",
@@ -47654,7 +47318,7 @@
 "page": "278",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -48594,25 +48258,12 @@
 "unit": "u01054",
 "sha": "17ee23a98b73",
 "start": 912,
-"end": 915,
-"text": "Joh",
-"page": "285",
-"chapter": "7",
-"type": "persName",
-"ref": "pers-joh-magr",
-"cert": "high",
-"how": "form"
-},
-{
-"unit": "u01054",
-"sha": "17ee23a98b73",
-"start": 917,
 "end": 920,
-"text": "Edv",
+"text": "Joh. Edv",
 "page": "285",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-edv",
+"ref": "pers-edv-joh",
 "cert": "high",
 "how": "form"
 },
@@ -52529,7 +52180,7 @@
 "page": "302",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -53179,7 +52830,7 @@
 "page": "309",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -53309,7 +52960,7 @@
 "page": "309",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -53738,7 +53389,7 @@
 "page": "313",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -54914,7 +54565,7 @@
 "page": "321",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -54927,7 +54578,7 @@
 "page": "321",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -54979,13 +54630,9 @@
 "page": "321",
 "chapter": "7",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-franzén-professoren",
-"pers-franzén-brinkman"
-],
-"how": "unresolved"
+"ref": "pers-franzén-brinkman",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01150",
@@ -55256,7 +54903,7 @@
 "page": "323",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -55269,7 +54916,7 @@
 "page": "323",
 "chapter": "7",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -55806,8 +55453,8 @@
 "page": "329",
 "chapter": "8",
 "type": "persName",
-"ref": null,
-"cert": null,
+"ref": "pers-seton-alexander",
+"cert": "low",
 "candidates": [
 "pers-seton-alexander",
 "pers-seton-georgius",
@@ -55815,7 +55462,7 @@
 "pers-seton-broder",
 "pers-seton-patric"
 ],
-"how": "unresolved"
+"how": "guess: chapter majority"
 },
 {
 "unit": "u01163",
@@ -56125,7 +55772,7 @@
 "page": "331",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -56172,34 +55819,14 @@
 "unit": "u01169",
 "sha": "297ca6a3988b",
 "start": 809,
-"end": 818,
-"text": "Herr Alex",
+"end": 825,
+"text": "Herr Alex. Seton",
 "page": "332",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-alex",
+"ref": "pers-seton-alexander",
 "cert": "high",
 "how": "form"
-},
-{
-"unit": "u01169",
-"sha": "297ca6a3988b",
-"start": 820,
-"end": 825,
-"text": "Seton",
-"page": "332",
-"chapter": "8",
-"type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-seton-alexander",
-"pers-seton-georgius",
-"pers-seton-patrik",
-"pers-seton-broder",
-"pers-seton-patric"
-],
-"how": "unresolved"
 },
 {
 "unit": "u01170",
@@ -56322,34 +55949,14 @@
 "unit": "u01173",
 "sha": "edafafd081c9",
 "start": 1110,
-"end": 1119,
-"text": "Herr Alex",
+"end": 1126,
+"text": "Herr Alex. Seton",
 "page": "333",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-alex",
+"ref": "pers-seton-alexander",
 "cert": "high",
 "how": "form"
-},
-{
-"unit": "u01173",
-"sha": "edafafd081c9",
-"start": 1121,
-"end": 1126,
-"text": "Seton",
-"page": "333",
-"chapter": "8",
-"type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-seton-alexander",
-"pers-seton-georgius",
-"pers-seton-patrik",
-"pers-seton-broder",
-"pers-seton-patric"
-],
-"how": "unresolved"
 },
 {
 "unit": "u01173",
@@ -57075,8 +56682,8 @@
 "page": "337",
 "chapter": "8",
 "type": "persName",
-"ref": null,
-"cert": null,
+"ref": "pers-seton-alexander",
+"cert": "low",
 "candidates": [
 "pers-seton-alexander",
 "pers-seton-georgius",
@@ -57084,7 +56691,7 @@
 "pers-seton-broder",
 "pers-seton-patric"
 ],
-"how": "unresolved"
+"how": "guess: earlier in chapter"
 },
 {
 "unit": "u01178",
@@ -60302,7 +59909,7 @@
 "page": "359",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -61274,7 +60881,7 @@
 "page": "364",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -61391,7 +60998,7 @@
 "page": "365",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -61404,7 +61011,7 @@
 "page": "365",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -61417,7 +61024,7 @@
 "page": "365",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -61443,7 +61050,7 @@
 "page": "365",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -61456,7 +61063,7 @@
 "page": "365",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -62513,7 +62120,7 @@
 "page": "372",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -62669,7 +62276,7 @@
 "page": "373",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -62868,7 +62475,7 @@
 "page": "374",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -63076,7 +62683,7 @@
 "page": "375",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -63973,7 +63580,7 @@
 "page": "380",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -65559,7 +65166,7 @@
 "page": "387",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -66638,7 +66245,7 @@
 "page": "393",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -66962,12 +66569,12 @@
 "unit": "u01290",
 "sha": "015d099f34ea",
 "start": 479,
-"end": 485,
-"text": "Dr And",
+"end": 491,
+"text": "Dr And. Blad",
 "page": "395",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-and",
+"ref": "pers-blad-andreas",
 "cert": "high",
 "how": "form"
 },
@@ -69879,12 +69486,12 @@
 "unit": "u01322",
 "sha": "6bc6b9cf6ab7",
 "start": 1782,
-"end": 1786,
-"text": "K. H",
+"end": 1799,
+"text": "K. H. Kronprinsen",
 "page": "411",
 "chapter": "8",
 "type": "persName",
-"ref": "pers-h-k",
+"ref": "pers-kronprinsen-k",
 "cert": "high",
 "how": "form"
 },
@@ -70759,7 +70366,7 @@
 "page": "430",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -70811,7 +70418,7 @@
 "page": "430",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -70889,7 +70496,7 @@
 "page": "431",
 "chapter": "9",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -72087,13 +71694,9 @@
 "page": "442",
 "chapter": "10",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-franzén-professoren",
-"pers-franzén-brinkman"
-],
-"how": "unresolved"
+"ref": "pers-franzén-brinkman",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01438",
@@ -72117,13 +71720,9 @@
 "page": "442",
 "chapter": "10",
 "type": "persName",
-"ref": null,
-"cert": null,
-"candidates": [
-"pers-franzén-professoren",
-"pers-franzén-brinkman"
-],
-"how": "unresolved"
+"ref": "pers-franzén-brinkman",
+"cert": "high",
+"how": "form"
 },
 {
 "unit": "u01439",
@@ -74641,7 +74240,7 @@
 "page": "458",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -74667,7 +74266,7 @@
 "page": "458",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
@@ -74729,7 +74328,7 @@
 "page": "458",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -75270,7 +74869,7 @@
 "page": "460",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-rosenblad",
+"ref": "pers-rosenblad-mathias",
 "cert": "high",
 "how": "form"
 },
@@ -75771,7 +75370,7 @@
 "page": "462",
 "chapter": "11",
 "type": "persName",
-"ref": "pers-berzelius-professorn",
+"ref": "pers-berzelius-johannes",
 "cert": "high",
 "how": "form"
 },
