@@ -69,4 +69,4 @@ Open tasks, roughly in priority order. Background and measurements are in [PLAN.
 - [ ] Concordance of Schück's old V. H. A. A. shelfmarks (`Antikvitetskoll. Handl. V–XI`, `sign. Aa 11`, `Ab 3`, `Högre tjänstemän`; about 160 citations, mostly vol. II) to Ämbetsarkiv 1's series. RAÄ's archive inventory or RiViH may have one; ask ata@raa.se. Also: 13 year-less `Prot.` citations (year from context).
 
 ## Publication
-- [ ] Create the GitHub repository, make the first commit, run `scripts/deploy_pages.sh`, and switch on Pages. Not before the user says so.
+- [x] ~~Create the GitHub repository, make the first commit, run `scripts/deploy_pages.sh`, and switch on Pages.~~ Done 2026-11-22: https://github.com/PatrikGranholm/Schuck-digital, live at https://patrikgranholm.github.io/Schuck-digital/. Code MIT, data CC0 1.0 (`LICENSE`).

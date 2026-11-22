@@ -467,3 +467,7 @@ Build a digital edition of Henrik Schück's 8-volume history (public domain), fr
 - Persons: skipped 4459 → 4166; auto 477 → 500, review 673 → 763, none 1150 → 1330. Places: skipped 1702 → 1563; auto 117 → 142, review 240 → 305, none 175 → 224. No existing QID changed. The remaining skipped entries are under the min-mentions threshold.
 - Links unchanged (41,714; 3,213 low, 1,418 unresolved). The TEI validates for all volumes and the site is rebuilt.
 - New auto matches to check: Nescher → Caspar Netscher, Knut Eriksson (no context year) → Q5716814, Lars Olsson (1807) → Lars Olsson i Groröd, Henrik Schück (1673) → the author.
+
+### 2026-11-22 — Published on GitHub Pages
+- Public repository https://github.com/PatrikGranholm/Schuck-digital; `main` pushed with README, PLAN, TODO, `gt/CONVENTIONS.md` and a new `LICENSE` (code MIT, edition data CC0 1.0, source text and images public domain). `docs/` and `report/` stay untracked. History checked first: no secrets, largest blob 4.9 MB.
+- `scripts/deploy_pages.sh` pushed `site/` (555 MB, 4,076 files) to `gh-pages`; GitHub enabled Pages on that branch by itself. Live at https://patrikgranholm.github.io/Schuck-digital/, which the user has checked.
