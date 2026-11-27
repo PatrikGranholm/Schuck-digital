@@ -40,7 +40,7 @@ from lxml import etree
 from rapidfuzz import fuzz
 
 from common import GT, LIBRIS, OCR, ROOT, VOLUMES, img_path
-from manuscripta import shelf_key
+from manuscripta import isl_key, shelf_key
 from riksarkivet import KANSLI, dlg_key, ra_key
 from regions import _textlayer_paragraphs, dehyphenate, dots_blocks, from_textlayer, read_gt
 
@@ -60,6 +60,9 @@ SERIES = (r"[Kk]anslikoll(?:\.|egiets)|Kansli-koll\.|(?:Riks)?[Rr]egistraturet|K
 BIBL = re.compile(rf"(?:(?<=[(;] )|(?<=\()|(?<=\(i ))(?:{REPO}|{SERIES})[^();]{{0,160}}")
 BIBL_NOTE = re.compile(rf"^(?:{REPO}|{SERIES})[^();]{{0,160}}")
 SHELF = re.compile(r"sign\.? ?[A-ZÅÄÖ][^,;)]*|vol\. ?\d+[^,;)]*")
+# a shelfmark right after K. B. / U. B. without "sign.": "K. B. F. a. 10, 2", "U. B. N 73", "K. B. Fm 2 a"
+# (series letters + number, a part ", 2" only at the end of the citation)
+BARE_SHELF = re.compile(r" ([A-ZÅÄÖ](?:[a-z]|\. ?[a-z])?\.? ?\d+(?:, ?\d+(?=\W*$))?(?: [a-z]\b)?)(?=[ ,.]|$)")
 
 # point placeholders (zero-width elements inside paragraph strings): plane-16 private use
 PH0 = 0x100000
@@ -68,6 +71,7 @@ PH0 = 0x100000
 class Points:
     def __init__(self):
         self.xml = {}
+        self.errata = {}    # opening marker of a printed erratum -> (closing marker, the misprint)
 
     def add(self, xml):
         ch = chr(PH0 + len(self.xml))
@@ -178,16 +182,46 @@ def bibl_spans(plain, footnote=False):
         # Kanslikollegium's incoming letters ("R. A. Kanslikoll. Inkomna skrivelser sign. E IV. 9", also
         # without "R. A."): a volume of the fonds SE/RA/1411 (scripts/riksarkivet.py)
         kansli = KANSLI.search(txt) and holder is None and (not rm or rm.group(0).startswith(("R", "Riks")))
-        for sm in SHELF.finditer(txt):
-            shelf = sm.group(0).rstrip(" .")
+        # (start, shelfmark text, key in data/sources/manuscripta.tsv)
+        shelves = [(sm.start(), s := sm.group(0).rstrip(" ."), shelf_key(s)) for sm in SHELF.finditer(txt)]
+        if holder == "KB":
+            shelves += isl_shelves(txt)
+        if not shelves and holder and (bm := BARE_SHELF.match(txt, rm.end())):
+            shelves = [(bm.start(1), s := bm.group(1).rstrip(" ."), shelf_key(s))]
+        # the holder named last before the shelfmark ("K. B. papp. fol. 28 … samt U. B. sign. R 705")
+        orgs = [(m.start(), holder_of(m.group(0))) for m in re.finditer(REPO, txt)]
+        for start, shelf, key in sorted(shelves):
+            h = next((o for s, o in reversed(orgs) if s < start), holder)
             attrs = {}
-            if holder and (ms := MANUSCRIPTA.get((holder, shelf_key(shelf)))) and ms["manifest"]:
+            if corr := CORRECTIONS.get((CURRENT["vol"], shelf)):   # a misprint: link the corrected shelfmark
+                key = isl_key(corr) or shelf_key(corr)
+                attrs["_corr"] = corr
+            if h and (ms := MANUSCRIPTA.get((h, key))) and ms["manifest"]:
                 # a digitised manuscript on manuscripta.se: record (@corresp) and IIIF manifest (@facs)
-                attrs = {"corresp": ms["url"], "facs": ms["manifest"]}
+                attrs |= {"corresp": ms["url"], "facs": ms["manifest"]}
             elif kansli and (ra := RIKSARKIVET.get(("kanslikollegium", ra_key(shelf)))) and ra["id"]:
                 # the volume's catalogue page at Riksarkivet; its IIIF manifest where it is digitised
-                attrs = {"corresp": ra["url"]} | ({"facs": ra["manifest"]} if ra["manifest"] else {})
-            out.append((a + sm.start(), a + sm.start() + len(shelf), "idno", attrs))
+                attrs |= {"corresp": ra["url"]} | ({"facs": ra["manifest"]} if ra["manifest"] else {})
+            out.append((a + start, a + start + len(shelf), "idno", attrs))
+    return out
+
+
+# KB's Icelandic collection, cited "K. B. Papp. fol. nr 24", "Papp. 4:0 40, a", "papp. fol. 28 och papp. kvart
+# 53", "Papp. fol. 58, 46 och 47": manuscripta's "Isl. papp. fol. 24" (scripts/manuscripta.py, isl_key)
+ISL_SHELF = re.compile(r"\b([Pp]app|[Pp]erg)\. ?(fol\.|4:[o0]|4:to|kvart|8:[o0]|8:vo) ?(?:n:r |nr\.? )?(\d+(?:, ?[a-z]\b)?)")
+ISL_MORE = re.compile(r"(?:,| och| samt) (\d+)\b(?![:.]?\d)")
+
+
+def isl_shelves(txt):
+    """(start, text, key) for each Icelandic shelfmark in a K. B. citation; a following bare number
+    ("58, 46 och 47") is another volume of the same series and size."""
+    out = []
+    for m in ISL_SHELF.finditer(txt):
+        out.append((m.start(), m.group(0), isl_key(m.group(0))))
+        end = m.end()
+        while mm := ISL_MORE.match(txt, end):
+            out.append((mm.start(1), mm.group(1), isl_key(f"{m.group(1)}. {m.group(2)} {mm.group(1)}")))
+            end = mm.end()
     return out
 
 
@@ -228,6 +262,13 @@ if _mf.exists():
     with _mf.open() as fh:
         MANUSCRIPTA = {(r["holder"], r["key"]): r for r in csv.DictReader(fh, delimiter="\t")}
 ACADEMY = [r for (h, _), r in MANUSCRIPTA.items() if h == "RAA"]
+# misprinted shelfmarks: (vol, shelfmark as printed) -> corrected shelfmark, linked in its place and encoded
+# as choice/sic/corr (resp="#editor"); the note column says how the correction was established
+CORRECTIONS = {}
+_cf = ROOT / "data" / "sources" / "corrections.tsv"
+if _cf.exists():
+    with _cf.open() as fh:
+        CORRECTIONS = {(r["vol"], r["printed"]): r["corrected"] for r in csv.DictReader(fh, delimiter="\t")}
 # scripts/riksarkivet.py: (archive, key) -> record and manifest; ("kanslikollegium", "E IV 9"),
 # ("delagardie", "antikvitetskollegium" or a letter writer)
 RIKSARKIVET = {}
@@ -243,8 +284,8 @@ OPEN = {"italic": '<hi rend="italic">', "spaced": '<hi rend="spaced">', "bibl": 
         "labelyear": '<label type="year" place="margin">'}
 CLOSE = {"italic": "</hi>", "spaced": "</hi>", "bibl": "</bibl>", "orgName": "</orgName>", "idno": "</idno>",
          "quote": "</quote>", "persName": "</persName>", "placeName": "</placeName>",
-         "add": "</add>", "addm": "</add>", "label": "</label>", "labelyear": "</label>"}
-RANK = {"quote": 0, "label": 0.5, "labelyear": 0.5, "add": 0.5, "addm": 0.5, "bibl": 1, "orgName": 2, "idno": 2,
+         "add": "</add>", "addm": "</add>", "label": "</label>", "labelyear": "</label>", "errata": "</corr></choice>"}
+RANK = {"quote": 0, "errata": 0.2, "label": 0.5, "labelyear": 0.5, "add": 0.5, "addm": 0.5, "bibl": 1, "orgName": 2, "idno": 2,
         "persName": 2.5, "placeName": 2.5, "italic": 3, "spaced": 3}
 
 # named entities from scripts/link.py: plain-text hash of a text unit -> [(start, end, type, attrs)]
@@ -331,6 +372,8 @@ def open_tag(s, continued=False):
         return '<bibl type="source"' + "".join(f' {k}="{escape(v)}"' for k, v in s[3].items()) + ">"
     if s[2] == "idno" and len(s) > 3 and s[3]:          # a shelfmark linked to manuscripta.se
         return '<idno type="shelfmark"' + "".join(f' {k}="{escape(v)}"' for k, v in s[3].items()) + ">"
+    if s[2] == "errata":                                # a printed erratum (Rättelser): misprint, then the correction
+        return f'<choice><sic>{escape(s[3]["sic"] if not continued else "")}</sic><corr resp="#errata" source="#corrigenda">'
     if s[2] == "quote":
         attrs = s[3] if len(s) > 3 and isinstance(s[3], dict) else {}
         if continued:
@@ -408,9 +451,30 @@ def spelling_candidates(vol, idx, texts):
     return out
 
 
+def corrected_shelves(spans):
+    """Split off the shelfmarks corrected from data/sources/corrections.tsv: (other spans, repl for serialize).
+    <idno> may not contain <choice>, so the choice wraps two idnos: the printed one and the corrected, linked one."""
+    keep, repl = [], []
+    for s in spans:
+        if s[2] == "idno" and len(s) > 3 and "_corr" in s[3]:
+            attrs = {k: v for k, v in s[3].items() if k != "_corr"}
+            repl.append((s[0], s[1], s[3]["_corr"], attrs))
+        else:
+            keep.append(s)
+    return keep, repl
+
+
+def choice_xml(plain, a, b, corr, attrs):
+    linked = "".join(f' {k}="{escape(v)}"' for k, v in attrs.items())
+    return (f'<choice><sic><idno type="shelfmark">{escape(plain[a:b])}</idno></sic><corr resp="#editor">'
+            f'<idno type="shelfmark"{linked}>{escape(corr)}</idno></corr></choice>')
+
+
 def inline(text, ph, extra_spans=(), footnote=False):
     plain, spans, points = parse_markup(text)
-    return serialize(plain, spans + list(extra_spans) + bibl_spans(plain, footnote) + ner_spans(plain), points, ph)
+    bs, corr = corrected_shelves(bibl_spans(plain, footnote))
+    repl = [(a, b, choice_xml(plain, a, b, c, at)) for a, b, c, at in corr]
+    return serialize(plain, spans + list(extra_spans) + bs + ner_spans(plain), points, ph, repl)
 
 
 # ---------------------------------------------------------------- pages
@@ -985,7 +1049,7 @@ def build(vol):
     qn = [0]
     stats = {"pages": 0, "gt": 0, "dots": 0, "textlayer": 0, "foot": 0, "foot_unanchored": 0, "margin": 0,
              "quotes": 0, "bibl": 0, "paragraphs": 0, "margin_rescued": 0, "margin_toc": 0, "margin_inserted": 0, "manuscripta": 0, "riksarkivet": 0, "academy": 0, "errata": 0,
-             "names": 0, "spelling": 0, "edit": 0, "captions": 0}
+             "names": 0, "spelling": 0, "edit": 0, "captions": 0, "corrected": 0}
     spell = {}              # placeholder -> (dots word, text-layer word, page): old-spelling candidates
     spell_log = []          # applied changes, for report/spelling-<vol>.md
 
@@ -1008,6 +1072,12 @@ def build(vol):
         if not text:
             return
         plain, spans, points = parse_markup(text)
+        for o, (c, sic) in ph.errata.items():
+            po = next((p for p, ch in points if ch == o), None)
+            pc = next((p for p, ch in points if ch == c), None)
+            if po is not None and pc is not None:
+                spans.append((po, pc, "errata", {"sic": sic}))
+                points = [(p, ch) for p, ch in points if ch not in (o, c)]
         qs, still = quote_spans(plain, quote_open[0])
         qspans = []
         for a, b, _, cont in qs:
@@ -1033,7 +1103,7 @@ def build(vol):
         names = ner_spans(plain)
         # a name never runs across the edge of a hand-encoded addition or label ("Kannenberg K." from an
         # entry into the margin note beside it, vol. V p. 385)
-        edges = [(s[0], s[1]) for s in spans if s[2] in EDIT_TAGS]
+        edges = [(s[0], s[1]) for s in spans if s[2] in EDIT_TAGS or s[2] == "errata"]
         names = [n for n in names if not any(n[0] < x < n[1] for e in edges for x in e)]
         stats["names"] += len(names)
         # old-spelling markers: apply inside quotations only, where no other bound falls inside the word
@@ -1053,6 +1123,14 @@ def build(vol):
                                f'<rdg wit="#dots">{escape(dw)}</rdg></app>'))
             spell_log.append((page_n, dw, tw, plain[max(0, p - 50):p] + "[" + dw + "]" + plain[e:e + 50]))
         stats["spelling"] += len(repl)
+        bs, corr = corrected_shelves(bs)
+        for a, b, c, at in corr:
+            if not any(a < x < b for x in inner - {a, b}):
+                repl.append((a, b, choice_xml(plain, a, b, c, at)))
+                stats["corrected"] += 1
+            else:                       # another element inside the shelfmark: keep it as printed, unlinked
+                bs.append((a, b, "idno", {}))
+        names = [n for n in names if not any(a < n[0] < b or a < n[1] < b for a, b, _ in repl)]
         xml = serialize(plain, spans + qspans + bs + names, points, ph.xml, repl)
         cur_div.append(f"<{el}>{xml}</{el.split()[0]}>")
         stats["paragraphs"] += 1
@@ -1267,9 +1345,11 @@ def build(vol):
                 continue
             for b in blocks:
                 if b["kind"] == "body" and e["sic"] in b["text"]:
-                    b["text"] = b["text"].replace(e["sic"], ph.add(
-                        f'<choice><sic>{escape(e["sic"])}</sic><corr resp="#errata" source="#corrigenda">'
-                        f'{escape(e["corr"])}</corr></choice>'), 1)
+                    # the corrected reading stays in the text between two markers (an "errata" span after
+                    # parse_markup), so the paragraph's plain text is what ner.py reads (it skips <sic>)
+                    o, c = ph.add(""), ph.add("")
+                    ph.errata[o] = (c, e["sic"])
+                    b["text"] = b["text"].replace(e["sic"], o + e["corr"] + c, 1)
                     stats["errata"] += 1
                     break
         # chapter start?
@@ -1467,6 +1547,7 @@ def build(vol):
 <respStmt xml:id="gt"><resp>Transcription checked against the page image</resp><name>Schück digital</name></respStmt>
 <respStmt xml:id="dots"><resp>OCR, layout analysis</resp><name>dots.mocr (rednote-hilab), via vLLM</name></respStmt>
 <respStmt xml:id="errata"><resp>Correction from the printed errata list (Rättelser)</resp><name>Henrik Schück</name></respStmt>
+<respStmt xml:id="editor"><resp>Correction of a misprinted shelfmark, checked against the manuscript catalogue (data/sources/corrections.tsv)</resp><name>Schück digital</name></respStmt>
 <respStmt xml:id="textlayer"><resp>OCR</resp><name>Text layer of the source PDF</name></respStmt>
 {edit_resp}<respStmt xml:id="toc"><resp>Sidenote the OCR dropped: wording from the printed table of contents, position from the text layer's margin words</resp><name>scripts/to_tei.py</name></respStmt>
 <respStmt xml:id="spelling"><resp>Old-spelling rule: inside quotations, the text layer's reading where dots.mocr differs from it only by w/v, j/i or a doubled letter (dots.mocr's reading kept as rdg)</resp><name>scripts/to_tei.py</name></respStmt>
@@ -1476,7 +1557,7 @@ def build(vol):
 <sourceDesc><bibl><author>Henrik Schück</author>, <title>{escape(struct["title"])}</title> <biblScope unit="volume">{meta["part"]}</biblScope>. <pubPlace>Stockholm</pubPlace> <date when="{meta["year"]}">{meta["year"]}</date>. <ref target="{LIBRIS}">Libris</ref></bibl></sourceDesc>
 </fileDesc>
 <encodingDesc>
-<editorialDecl><p>Text from verified ground truth where available (pb/@resp="#gt"), otherwise from dots.mocr OCR (#dots) or the PDF text layer (#textlayer). Uncorrected OCR.{edit_decl} Spelling, including that of quoted sources, is kept as printed. Where dots.mocr modernised the spelling of a quotation (w/v, j/i, doubled letters) and the text layer has the old form, the old form is given in app/lem (resp="#spelling") with dots.mocr's reading in rdg. End-of-line hyphenation is removed; words broken across pages carry pb/@break="no". Footnotes and marginal summaries are placed at their anchors; placements marked cert="low" are guesses. Person and place names (persName, placeName) come from named-entity recognition (KB-BERT); @ref points to tei/register.xml, and @cert gives the certainty of the identification (low = an unreviewed guess).</p></editorialDecl>
+<editorialDecl><p>Text from verified ground truth where available (pb/@resp="#gt"), otherwise from dots.mocr OCR (#dots) or the PDF text layer (#textlayer). Uncorrected OCR.{edit_decl} Spelling, including that of quoted sources, is kept as printed. A misprinted shelfmark is given as choice/sic/corr (resp="#editor"), and only the corrected one is linked. Where dots.mocr modernised the spelling of a quotation (w/v, j/i, doubled letters) and the text layer has the old form, the old form is given in app/lem (resp="#spelling") with dots.mocr's reading in rdg. End-of-line hyphenation is removed; words broken across pages carry pb/@break="no". Footnotes and marginal summaries are placed at their anchors; placements marked cert="low" are guesses. Person and place names (persName, placeName) come from named-entity recognition (KB-BERT); @ref points to tei/register.xml, and @cert gives the certainty of the identification (low = an unreviewed guess).</p></editorialDecl>
 </encodingDesc>
 </teiHeader>
 <facsimile>

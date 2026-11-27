@@ -16,6 +16,8 @@ record's title in the date column ("1800-1805"). to_tei.py links Schück's "Prot
 Columns: holder (KB, UUB, RAA), key (shelf_key below), shelfmark as manuscripta writes it, id, record URL,
 IIIF manifest URL (empty when not digitised), images, date.
 
+KB's Icelandic collection ("Isl. papp. fol. 49", Schück's "K. B. Papp. fol. nr 49") has its own key, isl_key.
+
 shelf_key normalises both spellings to one form: Schück writes "F h. 28", "F. a 13", "D G 8",
 manuscripta "Fh 28", "Fa 13", "DG 8" -> "FH 28", "FA 13", "DG 8".
 """
@@ -35,13 +37,32 @@ HOLDERS = {"Riksantikvarieämbetet": "RAA", "Kungliga biblioteket": "KB", "Natio
 
 
 def shelf_key(s):
-    """'sign. F h. 28' / 'Fh 28' -> 'FH 28'; None when it is not series letters + number."""
+    """'sign. F h. 28' / 'Fh 28' -> 'FH 28'; a part of a volume, 'Fa 10:2' / 'F. a. 10, 2' -> 'FA 10:2';
+    None when it is not series letters + number."""
     s = re.sub(r"^(?:sign|vol)\.?\s*", "", s.strip(), flags=re.I)
+    s = re.sub(r"(\d)\s*,\s*(\d+)\s*$", r"\1:\2", s)       # Schück's "10, 2" is manuscripta's "10:2"
     s = re.sub(r"\s+", " ", re.sub(r"[.,]", " ", s)).strip().upper()
-    m = re.match(r"([A-ZÅÄÖ]{1,2})(?: ([A-Z]))? ?(\d+)(?: ?([A-Z]))?(?=\s|$)", s)
+    m = re.match(r"([A-ZÅÄÖ]{1,2})(?: ([A-Z]))? ?(\d+)(:\d+)?(?: ?([A-Z]))?(?=\s|$)", s)
     if not m:
         return None
-    return f"{m.group(1)}{m.group(2) or ''} {m.group(3)}{m.group(4) or ''}"
+    return f"{m.group(1)}{m.group(2) or ''} {m.group(3)}{m.group(4) or ''}{m.group(5) or ''}"
+
+
+ISL = re.compile(r"(?:Isl\.\s*)?(papp|perg)\.\s*(fol|4:[o0]|4:to|kvart|8:[o0]|8:vo|oktav)\.?\s*(?:n:r|nr\.?)?\s*"
+                 r"(\d+)(?:,?\s*([a-z])\b)?(?:\s+([IVX]+[a-z]?)\b)?", re.I)
+
+
+def isl_key(s):
+    """KB's Icelandic collection: manuscripta 'Isl. papp. fol. 49', 'Isl. papp. 4:o 40b', 'Isl. perg. 8:o 10 IV';
+    Schück 'Papp. fol. nr 24', 'Papp. 4:0 40, a', 'papp. kvart 53', 'Papp. 8:vo nr 11'
+    -> 'ISL PAPP FOL 49', 'ISL PAPP 4 40A', 'ISL PERG 8 10 IV'; None when it is not one."""
+    m = ISL.match(s.strip())
+    if not m:
+        return None
+    size = m.group(2).lower()
+    size = "FOL" if size == "fol" else "4" if size.startswith(("4", "kv")) else "8"
+    part = f" {m.group(5).upper()}" if m.group(5) else ""
+    return f"ISL {m.group(1).upper()} {size} {m.group(3)}{(m.group(4) or '').upper()}{part}"
 
 
 def main():
@@ -63,6 +84,8 @@ def main():
         if holder == "RAA":
             m = RAA_SERIES.match(sm)
             key = m.group(1) if m else None
+        elif holder == "KB" and sm.startswith("Isl."):
+            key = isl_key(sm)
         else:
             key = shelf_key(sm) if holder else None
         if not key:
