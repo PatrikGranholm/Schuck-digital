@@ -80,5 +80,5 @@ Open tasks, roughly in priority order. Background and measurements are in [PLAN.
 
 ## Publication
 - [x] ~~Create the GitHub repository, make the first commit, run `scripts/deploy_pages.sh`, and switch on Pages.~~ Done 2026-11-22: https://github.com/PatrikGranholm/Schuck-digital, live at https://patrikgranholm.github.io/Schuck-digital/. Code MIT, data CC0 1.0 (`LICENSE`).
-- [ ] Redeploy the site (`scripts/deploy_pages.sh`): the 2026-11-27 work (manuscripta links, Rättelser, vol. II errata) is built locally but not live.
+- [x] ~~Redeploy the site with the 2026-11-27 work (manuscripta links, Rättelser, vol. II errata).~~ Done 2026-11-27: `gh-pages` build `878fa00` from `main` `e280b3e`, pushed by the user; checked live.
 - [ ] Run `to_tei.py --validate` on the machine with Oxygen: the TEI from 2026-11-27 (`<choice>` around `<idno>`, the `errata` span) is well-formed but was not validated against tei_all.
