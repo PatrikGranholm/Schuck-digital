@@ -76,7 +76,8 @@ function render(node, parent, ctx) {
       const t = a("type");
       e = h("section", t === "chapter" ? "chapter" : t || "div");
       if (t === "chapter") e.id = `ch${a("n")}`;
-      if (t === "corrigenda") e.id = "corrigenda";
+      // div type="corrigenda" is the colophon page; the "Rättelser" target is the printed RÄTTELSER heading
+      // (below the colophon in vol. I, below the table of contents in vol. II, absent in vols III-VIII)
       if (t === "contents") e.id = "contents";
       renderKids(node, e, ctx);
       break;
@@ -96,7 +97,11 @@ function render(node, parent, ctx) {
     case "p": case "ab": {
       const t = a("type");
       if (t === "heading") e = h("h3");
-      else if (t === "figText" || t === "plateText") e = h("div", "figtext");
+      else if (node.localName === "ab" && !ctx.errata && norm(node.textContent) === "RÄTTELSER") {
+        e = h("h3");
+        e.id = "corrigenda";
+        ctx.errata = true;
+      } else if (t === "figText" || t === "plateText") e = h("div", "figtext");
       else e = h("p", node.localName === "ab" ? "ab" : "");
       if (node.localName === "p") {
         e.id = `p${ctx.p++}`;
@@ -270,9 +275,14 @@ function goTo(target, flash = true) {
   setView("read");
   // pages, chapters, front/back sections and sidenotes (a topic in the TOC panel) open at their start,
   // which also makes the scrollspy in onScroll pick them; a paragraph or quotation is centred
-  const big = el.classList.contains("pb") || el.classList.contains("sidenote") || ["SECTION", "DIV", "H2"].includes(el.tagName);
+  const big = el.classList.contains("pb") || el.classList.contains("sidenote") || ["SECTION", "DIV", "H2", "H3"].includes(el.tagName);
   el.scrollIntoView({ block: big ? "start" : "center" });
   if (el.classList.contains("pb")) showPage(+el.dataset.i);
+  else if (big && $("follow").checked) {   // a section or heading: the page it opens with, else the last before it
+    const first = el.firstElementChild;
+    showPage(first && first.classList.contains("pb") ? +first.dataset.i
+      : Math.max(0, V.pages.findLastIndex((p) => p.el.compareDocumentPosition(el) & Node.DOCUMENT_POSITION_FOLLOWING)));
+  }
   const fl = el.tagName === "SECTION" ? el.querySelector("h2") || null : el.classList.contains("pb") ? null : el;
   if (flash && fl) { fl.classList.remove("flash"); void fl.offsetWidth; fl.classList.add("flash"); }
   if (el.classList.contains("fnref")) setTimeout(() => el.click(), 300);   // a mention in a footnote: open the note

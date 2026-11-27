@@ -83,6 +83,7 @@ button.tg::before { content: "▸"; display: inline-block; transition: transform
 
 /* the text */
 .text { max-width: 46rem; margin: 0 auto; padding: 28px 230px 80px 40px; font: 18px/1.62 var(--serif); position: relative; }
+.text .volume { padding-bottom: 70vh; }   /* room to scroll the last page (colophon, Rättelser) to the top */
 .text p { margin: 0 0 .2em; text-indent: 1.4em; hyphens: auto; text-align: justify; }
 .text h2 { font: 600 1.35em var(--serif); text-align: center; letter-spacing: .06em; margin: 2.4em 0 1.2em; }
 .text h3 { font: italic 1.05em var(--serif); text-align: center; margin: 1.2em 0 .6em; }
