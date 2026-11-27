@@ -62,6 +62,8 @@ Open tasks, roughly in priority order. Background and measurements are in [PLAN.
     - **Bare surnames miss full labels.** `wbsearchentities` matches label prefixes, so "Nescher" found the painter Caspar Netscher, never Daniel Georg Nescher (Q16649975). For bare-surname entries, also run a full-text search (`list=search` with `haswbstatement:P31=Q5`).
     - Rerun online, then recheck the 83 bare-surname `auto` matches (doubtful: Ekeblad → Eva Ekeblad, Christian → "Christian", Harald → "Harald") and the 23 `auto` matches with no context year. 359 bare-surname entries are in `review`.
     - Entries can also merge different people of the same name. "Lars Olsson" held finders from 1779 and the 1830s; check `auto`/`review` entries whose mentions are decades apart.
+  - [ ] **Rerun KB-BERT for vol. II's 9 units changed on 2026-11-27** (the paragraphs with the p. 328 and p. 458 errata and the 7 lines of image 497): their NER output was copied from the old units because the model is not cached on this machine. Delete those keys from `data/ner/1933a-raw.json`, then `ner.py`, `register.py --offline`, `link.py`, `to_tei.py` for vol. II.
+  - [ ] `register.py` now finds a manuscripta person id for one more entry (seen 2026-11-27, reverted as out of scope); check it at the next register run.
   - [ ] Gazetteer pass (plan step 1, detector B) for names KB-BERT misses in old-spelling quotations; until then they can be added by hand in the paragraph view.
 
 ## Sources and IIIF (deferred phase, started 2026-11-16)
@@ -70,8 +72,13 @@ Open tasks, roughly in priority order. Background and measurements are in [PLAN.
 - [x] ~~Riksarkivet: Kanslikollegium volumes and De la Gardie letters.~~ Done 2026-11-20: `scripts/riksarkivet.py`; 18 of 19 Kanslikollegium volumes found (`E XIII. 21` is not in today's catalogue), 6 digitised (E IV 8, 9, 10 a, 10 b, 13, 14; 169 of 196 citations); 207 shelfmarks linked. De la Gardie letters: C I (by writer) and C IX `E 1626` in `SE/RA/720222`, not digitised; 28 citations linked.
 - [ ] Remaining link gaps: `sign. F e. 14 och M 11` is one `<idno>` (linked to Fe 14 only); about 40 "Ser. C 1" citations that name no writer; `De la Gardies koncept` (A I 1, 88 vols); `Riksregistraturet` and `Kanslikoll. prot.` (no volume cited).
 - [x] ~~manuscripta.se: match `K. B.`/`U. B.` shelfmarks.~~ Done 2026-11-20: `scripts/manuscripta.py` → `data/sources/manuscripta.tsv`; 35 citations, 27 manuscripts linked, context checked. Most of Schück's KB/UUB shelfmarks (`U 89`, `M 11`, UUB `U 111`–`U 126`, `X 211`, Palmskiöld) are not on manuscripta.se.
+  - 2026-11-27: bare shelfmarks after K. B./U. B. (`F. a. 10, 2`), part shelfmarks (`Fa 10:2`) and KB's Icelandic collection (`K. B. Papp./Perg.` = `Isl. papp./perg.`, lists split) linked; 76 links in vols I–V. Misprinted shelfmarks go in `data/sources/corrections.tsv` (vol. IV `Papp. fol. n:r 99` → 90).
 - [x] ~~Where the academy's archive is.~~ Done 2026-11-21: Riksantikvarieämbetet (ATA), Ämbetsarkiv 1 (Antikvitetskollegium) and 2 (academy from 1786), digitised by RiViH on manuscripta.se. Minutes and royal letters in vols VI–VIII linked (83 citations).
+- [ ] Icelandic shelfmarks outside a K. B. citation are not linked: bare mentions in the running text ("i Kungl. biblioteket finnes … (Papp. fol. 13)", "F. a. 5, 6 och 10, 2", footnotes on F. a. 10, 1). Records split into parts (`Isl. perg. 8:o 10 IV`) match only when Schück names the part.
+- [ ] Other misprinted shelfmarks: a citation whose manuscripta record does not fit Schück's sentence goes in `data/sources/corrections.tsv` once the right volume is found.
 - [ ] Concordance of Schück's old V. H. A. A. shelfmarks (`Antikvitetskoll. Handl. V–XI`, `sign. Aa 11`, `Ab 3`, `Högre tjänstemän`; about 160 citations, mostly vol. II) to Ämbetsarkiv 1's series. RAÄ's archive inventory or RiViH may have one; ask ata@raa.se. Also: 13 year-less `Prot.` citations (year from context).
 
 ## Publication
 - [x] ~~Create the GitHub repository, make the first commit, run `scripts/deploy_pages.sh`, and switch on Pages.~~ Done 2026-11-22: https://github.com/PatrikGranholm/Schuck-digital, live at https://patrikgranholm.github.io/Schuck-digital/. Code MIT, data CC0 1.0 (`LICENSE`).
+- [ ] Redeploy the site (`scripts/deploy_pages.sh`): the 2026-11-27 work (manuscripta links, Rättelser, vol. II errata) is built locally but not live.
+- [ ] Run `to_tei.py --validate` on the machine with Oxygen: the TEI from 2026-11-27 (`<choice>` around `<idno>`, the `errata` span) is well-formed but was not validated against tei_all.

@@ -41,3 +41,6 @@ End-of-line hyphenation is removed; spelling is kept as printed.
 - `1936-inventory.txt`: vol. V pp. 364–385, Berch's inventory of the antiquities
   ("Upteckning på de uti Kongl. Antiqv. Archivo förwarade gamla Minnesmärcken"). Schück p. 364:
   "Tillägg, nedskrivna efter Berchs tid, äro här tryckta med mindre stil."
+- `1933a-contents.txt`: vol. II, image 497 (p. 466), the last page of the table of contents and the
+  errata list (Rättelser). dots.mocr had split the chapter title "Rannsakningarna, de antikvariska
+  resorna och fornvården" and scrambled the errata table.
